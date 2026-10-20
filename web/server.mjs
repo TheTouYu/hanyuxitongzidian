@@ -491,6 +491,7 @@ async function levelOf(ch, direct) {
       level: '一级字根',
       text: `一级字根：「${ch}」是第 ${bu.no} 部「${ch}部」的部首字，属卷${juanCn(bu.juanNo)}「${bu.juanName}」（p${bu.p}）。部即字根；全书 609 部中第223部原缺、第554部部首字未能转录，其余 608 部即一级字根。`,
       cites: [bu.claim],
+      chainChars: [ch],
     };
   }
   if (!direct || !direct.length) return null;
@@ -501,6 +502,7 @@ async function levelOf(ch, direct) {
       level: '一级字根',
       text: `一级字根：「${ch}」是「${variant}」的异体或隶变写法，同属第 ${bv.no} 部「${variant}部」（卷${juanCn(bv.juanNo)}「${bv.juanName}」），按部首字看待。`,
       cites: direct.filter((c) => String(c.title || '').startsWith(`${variant}部`)).map((c) => c.id),
+      chainChars: [variant],
     };
   }
   let r1 = await findRoot(ch, direct);
@@ -540,6 +542,7 @@ async function levelOf(ch, direct) {
       level: '一级字根',
       text: `一级字根：「${ch}」是「${root}」的异体或隶变写法，同属${where}，按部首字看待。`,
       cites,
+      chainChars: [root],
     };
   }
   if (depth === 1) {
@@ -548,12 +551,14 @@ async function levelOf(ch, direct) {
         level: '二级字根',
         text: `二级字根：「${ch}」从${where}的「${root}」得声构形（${chain}）；它在部内还能滋生新字，故为二级字根。`,
         cites,
+        chainChars: [root],
       };
     }
     return {
       level: '谐声字',
       text: `谐声字：「${ch}」从${where}的「${root}」得义得声（${chain}）；自身不再滋生新字，属该部末端谐声字。`,
       cites,
+      chainChars: [root],
     };
   }
   if (spawn) {
@@ -561,12 +566,14 @@ async function levelOf(ch, direct) {
       level: '三级字根',
       text: `三级字根：「${ch}」不在部目上，声符链为${chain}，源头是${where}；它在二级字根之下还能滋生新字，故为三级字根。`,
       cites,
+      chainChars: [root, via],
     };
   }
   return {
     level: '谐声字',
     text: `谐声字：「${ch}」的声符链为${chain}，源头是${where}；自身不再滋生新字，属部内三级以下的谐声字。`,
     cites,
+    chainChars: [root, via],
   };
 }
 
@@ -724,10 +731,24 @@ async function handleCard(emit, res, question, ch, ip) {
   }
   if (!sections) sections = [];
 
-  // 分级放最前：先定性，再看字形与字义
+  // 分级放最前：先定性，再看字形与字义；判出的字根只要有字形图，就一并附上
+  let rootGlyphs = [];
   try {
     const lv = await levelOf(ch, direct);
-    if (lv) sections.unshift({ key: 'fenji', label: '分级', text: lv.text, cites: lv.cites.filter(Boolean) });
+    if (lv) {
+      sections.unshift({ key: 'fenji', label: '分级', text: lv.text, cites: lv.cites.filter(Boolean) });
+      if (MODE !== 'none') {
+        const own = new Set(glyph ? glyph.files : []);
+        for (const rc of lv.chainChars || []) {
+          if (!rc || rc === ch) continue;
+          const gi = glyphInfo(rc);
+          // 异体隶变（如「以」之于「㠯」）有时共用同批图，别重复展示
+          if (gi && gi.files.length && !gi.files.every((f) => own.has(f))) {
+            rootGlyphs.push({ char: rc, doc: gi.doc, files: gi.files });
+          }
+        }
+      }
+    }
   } catch (e) {
     log('判级失败:', e.message);
   }
@@ -743,6 +764,7 @@ async function handleCard(emit, res, question, ch, ip) {
         ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: glyph.photos || [], from: glyphFrom }
         : null,
       root: rootInfo ? rootInfo.root : null,
+      roots: rootGlyphs,
       sections,
       claims: direct.length + rootClaims.length,
     },

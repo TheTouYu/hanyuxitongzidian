@@ -339,8 +339,19 @@ function renderCard(card) {
     } else {
       html += `<div class="card-note" style="margin:-8px 0 12px">${src}${tail ? '，' + tail : ''}。</div>`;
     }
+  } else if (card.roots && card.roots.length) {
+    html += `<div class="card-note" style="margin:0 0 6px">原稿里「${esc(card.char)}」没有独立的字形行，下面给的是它声符字根的古文字字形。</div>`;
   } else {
     html += '<div class="glyphs"><span class="empty">这个字的字形图还没收进字库。</span></div>';
+  }
+
+  if (card.roots && card.roots.length) {
+    for (const r of card.roots) {
+      html += `<div class="card-note" style="margin:6px 0 4px">字根「${esc(r.char)}」的古文字字形（取自《系统汉语》原稿${esc(r.doc ? ' ' + r.doc : '')}，图下小字是原书标注的出处与分期）：</div>`;
+      html += '<div class="glyphs">' + r.files.map((u, i) =>
+        `<figure><img src="${esc(u)}" alt="字根${esc(r.char)}字形${i + 1}" loading="lazy">` +
+        `<figcaption>${i === 0 ? esc(r.char) : '·'}</figcaption></figure>`).join('') + '</div>';
+    }
   }
 
   for (const s of card.sections || []) {
