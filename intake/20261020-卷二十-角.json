@@ -1,0 +1,1036 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷二十 角 78 条（音源字「角」象牛羊角形、音源吹角声，第102部角部至第108部夭部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j20-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "卷二十音源字「角」：甲骨文象牛羊的角形，音源为吹角声",
+      "statement": "本卷音源字为「角」，甲骨文象牛羊的角形。其音源为吹角声。",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/20a-jiao.md",
+      "topic_title": "卷二十·角",
+      "topic_summary": "卷二十「角」（第102–108部，p319–p329）：102 角部（p320）、103 爻部（p321）、104 𡭴部（p325）、105 交部（p326）、106 黹部（p329）、107 皛部（p329）、108 夭部（p329）。音源字「角」甲骨文象牛羊角形，音源为吹角声；本卷所辑除读音与角直接相关外，表义亦取角长头上高翘（夭）、斗角相交（爻、交）之态，并跨「雀」「𡉉」两音系。",
+      "topic_keywords": [
+        "角",
+        "爻",
+        "交",
+        "夭",
+        "黹",
+        "皛",
+        "走",
+        "觥",
+        "獬豸",
+        "号角"
+      ]
+    },
+    {
+      "id": "j20-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角是动物的真皮特化组织：既为攻防武器，又用以吸引异性",
+      "statement": "角是一些动物的一种真皮特化组织，一般呈锥形且坚韧有力，既是动物赖以攻防的武器，又能起到美化自己以吸引异性的作用。汉字中如「牛、羊」等，突出的即是牛羊有角的样子；而「善、義」则体现了这些动物（食草动物）温良的习性和美丽的仪态。",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角是金属以前最理想的器具：中空可镂为盛器，「觥」即兕角酒杯",
+      "statement": "在金属没被发现和利用以前，坚韧的动物角堪称当时最理想的器具。最直接的用途是利用其中空的特点镂空作为盛器——「觥」就是用兕角做成的酒杯；以至于后来即便使用玉石、青铜等材料，所做出的器形仍呈「角」状。其它用途如角弓、角梳、角柶、角枕、角带、角尺、角剑、号角等不一而足，形成自古以来独特的角文化。",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角象征勇敢与力量：总角、武将盔上角状枪尖、蚩尤、角制号角",
+      "statement": "角象征着勇敢、力量：大家熟知的「总角」就是未成年儿童的髮型；武将的头盔上面也耸立着角状的枪尖；上古的蚩尤就是一位头上长角、能「怒觸不周山」的战神。用角制成的号声音响亮，应是最早用于战场上发布命令、提振士气，同时也是「角」的读音所自来。",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角象征睿智与神通：獬豸、灋字从廌、法冠、角制珓与针砭、独角兽授文字",
+      "statement": "角象征着睿智、神通：传说中的「獬豸」是一种独角兽，具备识别犯罪、明断是非的神奇本领，因此「法」字本写作「灋」，所从「廌」指的就是獬豸；古代执法者所戴的帽子叫法冠，又称柱后、惠文，其形状就像獬豸角。巫师用牛肩胛骨、龟壳占卜只是一次性，而用角做成的「珓」却可以反复使用；此外人们还将角作为治病的针砭器具。神话传说中还有一个马身的独角兽，是它把文字传授给了伏羲，才有了后来的仓颉造字。",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "本卷所辑除读音与「角」直接相关外，表义亦取角的特性：高翘如「夭」、斗角相交如「爻」「交」",
+      "statement": "角作为汉字的表义元素颇为丰富。但本卷所辑录的除了读音跟「角」直接相关的外，在表义上主要也是与角的特性相关：如角长在头上、高高翘起的样子，如「夭」；角是动物攻防的武器、斗角时相交的情态，如「爻、交」。均以其为「角」的借音字。",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角跨音系之一：尖硬状如鸟喙，义音同「雀」",
+      "statement": "因角的尖硬且状如鸟喙，义音同「雀」。《闻一多·新义》：「獸角與鳥啄，其形其質，並極相似，又同為自衛之器，故古者角之一名，獸角與鳥啄共之。」",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角跨音系之二：状如竹、硬而中空尖顶，义音同「𡉉」",
+      "statement": "角状如竹、硬而中空、尖顶，故义音同「𡉉」：古角、𡉉可通。《说文》：「𥔳，確或从㱿。」",
+      "boundary": "源自《系统汉语》卷二十「角」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角本义：象牛羊鹿等动物的角形",
+      "statement": "「角」本义象牛羊鹿等动物的角形（jiǎo，《说文》「獸角也。象形，角與刀、魚相似。凡角之屬皆从角。古嶽切」）。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角的转义一：类似角的器官或部位——触角、额角、总角、头髻",
+      "statement": "由动物的角引申指类似角的器官或部位（《释名》「角者，生于額角也」，如「觸角、額角」）；《玉篇》「男女未及冠、笄，為總角」，《字汇》「頭髻也」。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角的转义二：形状像角的东西——豆角、菱角、墙角、角落",
+      "statement": "比喻指形状像角的东西，如「豆角、菱角、墙角、角落」（《广雅》「豆角謂之莢」，《广韵》「芒」，《康熙字典》「隅也」）。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角的转义三：角斗、竞争与角色、人物",
+      "statement": "角本是动物防守或进攻的武器，故引申指角斗、竞争（jué，《玉篇》「角力也」，《广韵》「競也。觸也」）；或由此引申指戏剧或书中的角色、人物。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角的转义四：酒器、茶具、号角、角弓与雉鸣",
+      "statement": "角可以作为器具，故引申指酒器、茶具或号角、角弓等（《字汇》「大角，軍器。羌胡吹之，以驚中國之馬」「酒器」；《康熙字典》「角弓，以角飾弓也」）；或作象声字，gǔ，《字汇补》「角角，雉之鳴聲」。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角的音源：号角声",
+      "statement": "「角」是音源字，源自号角声。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角字族一：角质的硬——确、桷、崅、埆、𣨍",
+      "statement": "确（què，《说文》「礊石也」，或从㱿作確）为坚硬的石头、多石而贫瘠（《集韵》引《尔雅》「山多大石也」），juě 为角逐竞争；桷（jué，《说文》「榱也。椽方曰桷」）为方形屋椽（《释名》「桷，確堅而直也」），又为屋角斜柱、悬蚕箔的柱子；崅（què）同磽确（瘠薄）；埆（què）为墝埆（不平、瘠薄），jué 为狱讼、校正判定；𣨍（gǔ）为𣨍殐（死也、僵貌、临死畏怯貌）。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角字族二：形似角——蔛、槲、䇶、𢏧、𦎈、𩭛",
+      "statement": "蔛（hú）为石蔛（药草），又蔛菜（生水旁、叶似泽泻而小、花青白色、可蒸啖）；槲（hú）为槲樕（木名，即柞栎，其实如角、可以食用）；䇶（jué）为竹榱（安在房屋檩上用以覆盖茅草的竹条），wò 为竹名；𢏧（xuān）为弓曲貌（《正字通》以为弲字之讹）；𦎈（xiè）为独角兽（獬之或体）；𩭛（jiǎo）为髮髻。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角字族三：角的内空——斛、䈸、𨛥",
+      "statement": "斛（hú，《说文》「十斗也」）为能装十斗的容器（《正字通》「今制五斗曰斛，十斗曰石」，或作㪶，通作觳）；䈸（hú）为石䈸（草名）、箱䈸（盛米器）；𨛥（pú）为城。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "角字族四：角斗——𥆌、捔、𧣡、觕、𧢶、𨓨",
+      "statement": "𥆌（jué）为目动（或从谷）；捔（jué）为掎捔（捉住兽角搏斗）、搀捔（组织），zhuó 为刺、擉（刺取鳖蜃）；𧣡（gǔ）为𧣡𡖯（多也）；觕（cū）为牛角直貌，又同粗（大也、疏也、物不精也，通作麤），chù 为抵人，chéng 为兽角长曰䚘；𧢶（chù）为触；𨓨（yǒng）为走。",
+      "boundary": "源自《系统汉语》第102部「角部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻本义：从乂的二叠或三叠，象交叉的算筹、表示反复交叉",
+      "statement": "「爻」本义从「乂」的二叠或三叠。「乂」象交叉的算筹形；二叠或三叠表示极致，象意反复交叉（yáo，《说文》「交也。象《易》六爻頭交形。凡爻之屬皆从爻。胡茅切」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻的转义：蓍草反复演算引申指仿效，算筹交叉引申指斑驳错杂混淆",
+      "statement": "由用蓍草反复演算引申指仿效（xiào，《集韵》「效，《說文》：『象也。』……亦作爻、殽」）；由算筹的交叉之状引申指斑驳、错杂、混淆（xiáo，《正字通》「又與淆、殽通」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻的音源：借音字，因有交错义而义音同「角」",
+      "statement": "「爻」是借音字，因有交错义而义音同「角」：《尔雅·释山》「多大石，礐」，《释文》「礐，又作埆」「礐，字或作确」。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻字族一之一：交错混杂斑驳——殽、𤉧、𢼫、䡈、肴、倄、駁",
+      "statement": "殽（xiáo，《说文》「相雜錯也」）为混杂杂乱，xiào 同效，yáo 同肴（肉、菜肴）；𤉧（jiǎo，《说文》「交灼木也」）为架着木头燃烧（𢼫 为交炊木）；䡈（jué，《说文》「車輢上曲銅也」）为车厢两旁輢板上弯曲的铜钩，jiào 同較；肴（yáo，《说文》「啖也」）为可吃的熟肉（《广韵》「凡非穀而食曰肴」），xiáo 通殽；倄（yáo，《说文》「剌也。一曰痛聲」）wèi 为痛而叫；駁（bó，《说文》「馬色不純」）为毛色交错，又辩驳（《正韵》「今俗以庬雜為駁」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻字族一之二：竹索箫小、囊、㮁桃、㸚纹——笅、𩎔、㮁、㸚",
+      "statement": "笅（jiǎo）同筊（《说文》「竹索也」），一曰箫之小者谓之筊；𩎔（jiāo）为囊；㮁（yáo）为㮁桃（即栀子）；㸚（lǐ，《说文》「二爻也」）为交织的纹路、稀疏明朗的样子（《广韵》「㸚尒，布明白」），lì 为止、系。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻字族一之三：崤山、淆、黄茅、绿衣、石不平、快、言不恭、刈——崤、淆、𦺔、䋂、䂚、㤊、誵、𠛄",
+      "statement": "崤（xiáo、yáo）为晋要塞、山名（在弘农，通作殽）；淆（xiáo）为浑浊、混淆、乱杂；𦺔（xiáo）为黄茅（根可治渴），又为芰根；䋂（yáo）为绿色、嫁者衣，又为黄色、苍黄色；䂚（yáo）为石名、石不平；㤊（xiào）为快（《方言》）；誵（xiáo）为言不恭谨；𠛄（yì）为古文刈字（割）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻字族一之四：桷、姣、窔、耽、沽、发、胫、鲛、鵁——𣏠、𤕢、𥤹、𨈠、𨟿、𩑛、𩨟、𩵲、𩾾",
+      "statement": "𣏠（xiáo）为桷、搁架蚕箔的立柱；𤕢（xiáo）同姣（《说文》「好也」），jiào 为淫；𥤹（yào）同窔（《说文》「䆞窔，深也」，一曰室中东 南隅谓之窔，又冥也），yǎo 为户枢声；𨈠（dān）同耽（沉迷）；𨟿（xiáo）为沽（卖酒）；𩑛（fǎ）为髮（《说文》「根也」）；𩨟（qiāo）同骹（《说文》「脛也」），通作校；𩵲（bó）为鲛即沙鱼；𩾾（xiāo）为鵁（水鸟，即赤头鹭，嘴长脚高）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻字族二之一：仿效与教——𡥈、敎、酵",
+      "statement": "𡥈（jiào，《说文》「放也」）为仿效（《正字通》以为同孝，误）；敎（jiào，《说文》「上所施下所效也」）为政教、教化、教令，jiāo 为传授；𨡆（jiào）为酒酵、酒滓（《正字通》「以酒母起麫曰發酵」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "爻字族二之二：神断独角之𡦴、觉——𡦴、覐",
+      "statement": "𡦴（xiào，《说文》「解廌屬」）为传说中的独角兽，可以凭角触而断案，疑指古人碰到疑难纠纷时利用独角仙的相斗、以输赢来断曲直，古称之为「神断」；覐（jué）为觉的古字（《说文》「寤也」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯本义：甲骨文从𦥑从爻从宀，指学校即教学场所，为「黌」之初文",
+      "statement": "「𦥯」甲骨文本从𦥑从爻从宀，楷化为「𦥯」。「爻」指交叉的算筹；从「𦥑」象意双手摆弄算筹、表示仿效计算蓍占；「宀」指房屋帐舍。本义当指学校即教学的场所，是「黌（hóng）」的初文（《集韵》「學舍」）；或省「宀」、或省「𦥑」、或省「爻」作「乂」，意思相同。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯的转义：学宫环水引申指水激荡，辟雍半圆引申指圆鼓大物，又引申指教学与觉悟、嘈杂",
+      "statement": "古代的学校相对封闭，《礼记·王制》「天子命之敎，然後爲學。小學在公宮南之左，大學在郊，天子曰辟雍，諸侯曰頖宮」：天子所设的国家学宫四面环水故称「雍」（壅塞之意），诸侯所设的地方学宫称作「頖（泮）」（《说文》「諸侯鄕射之宮，西南爲水，東北爲牆」，半水之意），故引申指水激荡（分化「澩」，xué）；天子学宫建筑式样称作「辟」即「璧」（象圆形玉璧），诸侯学宫则为半圆形，由此引申指圆形或半圆形的大物（分化「嶨」，xué）；学宫是传授知识的场所，故引申指教、学（分化「學」xué）或觉悟明白（分化「覺」jué）；学宫内人声噪杂，故引申指乱、大声（分化「𠿟」wò）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯字族一之一：学、治角、佛、觉、目明——學、觷、𦤲、覺、䁷",
+      "statement": "學（xué，《说文》「斆，覺悟也」）为受教、觉悟、效、识，huá 为鹘鸠（似鹊），jiào 为斆（教）；觷（xué，《说文》「治角也」）为加工兽角使成器具，hù 为角声；𦤲（fó）与佛同；覺（jué，《说文》「寤也」）为睡醒、发觉、触碰、明白、醒悟、告知启发，jiào 为睡觉；䁷（jué）为目明，wù 为瞋目。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯字族一之二：山鹊知来事与鹊巢四层——鷽",
+      "statement": "鷽（xué，《说文》「雗鷽，山鵲，知來事鳥也」）即喜鹊——喜鹊喜晴而鸣，故古人以其知晴雨、报客来；同时喜鹊也善于筑巢，其巢看似粗糙、内部结构却较复杂，可分四层：最外层由杨树、柳树等较粗的树枝交错而成、十分牢固；第二层是垂柳的柔软枝条盘旋绕成半球形的筐、置于巢穴下部；第三层用河泥涂在筐内塑成一个「碗」；第四层也是最里层，是用芦花、棉絮、绒羽等材料混合压成的「褥子」；窝的顶部有盖而且很厚，能防雨雪，侧面开一个刚好容它进出的小洞。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯字族二之一：大声、急告、水石声、马行、搅乱——𠿟、嚳、礐、䮸、攪",
+      "statement": "𠿟（wò，《玉篇》「誇聲也」）为夸大声；嚳（kù，《说文》「急告之甚也」）；礐（què，《说文》「石聲」）为水击石声，xué 为治角，hú 为玉名、石名；䮸（wò，《说文》「馬行徐而疾也」）；攪（jiǎo，《说文》「亂也」）为搅乱（《诗》「祇攪我心」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯字族二之二：小羊、兽名、地名、澩、木、搅水声——𦏗、𥝊、𣱓、澩、𦦗、灚",
+      "statement": "𦏗（hú）为小羊；𥝊（fèi）为兽名；𣱓（xiào）为地名（《说文》阙）；澩（xué，《说文》「夏有水，冬無水，曰澩」）为夏有水冬无水的山泽山溪（《广韵》「涸泉」），xiào 为动水声；𦦗（jiāng）为木（疑即桨）；灚（jiǎo）为搅水声。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯字族三：学舍黌、山多大石嶨、瓦器㽇、鲎——黌、嶨、㽇、鱟",
+      "statement": "黌（hóng）为学舍（通作横）；嶨（xué，《说文》「山多大石也」）为山多大盘石（亦作礐）；㽇（hú）为瓦器、坯；鱟（hòu）为鲎（形如惠文冠、青黑色、十二足、长五六尺、似蟹、雌常负雄，子如麻子、南人为酱）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𦥯字族四：疑为形近「興」之讹——𤓟、壆、䑁、𥀣、燢",
+      "statement": "𤓟（cuàn）与爨同（灶也）；壆（xué）为土坚，jué 为器物裂缝，bó 为方言「垅」；䑁（wù，《说文》「膏肥皃」）为膏膜；𥀣（xué）为干，qiào 为方言黏物不熨帖；燢（xué）为燥。此组疑为形近「興」之讹。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希本义：从巾爻声，用布缝制衣服，与「黹」同源；或指稀疏之布（絺，细葛）",
+      "statement": "「希」本义从巾爻声。「巾」即布；「爻」指交叉——既可表示交叉的线路，则象意用布缝制衣服，跟「黹（zhǐ）」本同源（《集韵》「黹，《說文》：『箴縷所紩衣。』或作絺、希」）；也可表示交叉的经纬线，则象意纱线比较稀疏的布（chī，《玉篇》「絺，細葛也」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希的转义：稀疏引申指稀少稀散，透光引申指看望施行，粗糙引申指摩擦留止",
+      "statement": "由缝制的衣服或葛布之状引申指稀疏、稀少、稀散（xī，《玉篇》「散也」，《尔雅》「罕也」，稀《说文》「疏也」）；由稀疏而能透光引申指看、望（《广韵》「望也」）或施行（《广韵》「施也」）；布稀疏则粗糙，引申指摩擦、留止（《玉篇》「摩也」，《广韵》「止也」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希字族一之一：细葛布、酒器、稀、郗、隙、勺——絺、瓻、稀、郗、𠜗、琋、桸",
+      "statement": "絺（chī，《说文》「細葛也」）为细葛布（zhǐ 同黹）；瓻（chī）为酒器（大者一石、小者五斗，古之借书盛酒瓶）；稀（xī，《说文》「疏也」）为稀疏、少；郗（xī）为周邑（今河南沁阳）、骨节间；𠜗（xī）与郄同（同隙、缝隙）；琋（xī）为人名；桸（xī）为木名（汁可食）、勺。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希字族一之二：叹息抽泣、笑、浠水、语气、去涕、豨——欷、唏、浠、䛥、𪖥、豨",
+      "statement": "欷（xī，《说文》「歔也」）为叹息、抽泣（哭声一下一下抽噎而非连绵号哭）；唏（xī，《说文》「笑也。一曰哀痛不泣曰唏」）为笑、痛声、啼，xiè 为鼾声；浠（xī）为水名（源出湖北英山霍山西麓，至浠水县兰溪镇入长江）；䛥（xì）为语气，xī 为语声、语嗔声，xīn 为大言；𪖥（xǐ）为去涕、卧息；豨（xī，《说文》「豕走豨豨」）为猪边跑边嬉戏的样子。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希字族一之三：走貌、兽名、雉、毒虫、马走、念、头动、醋——𧻶、𧳐、鵗、䖷、䮎、悕、𩒽、𨡂",
+      "statement": "𧻶（xī）为走貌；𧳐（huī）为兽名，xī 为俗豨字；鵗（xī）为北方名雉；䖷（xī）为虫名（《博物志》药物有大毒，一曰鸩羽，如雀、黑头赤喙，雄曰䖷、雌曰𧎸）；䮎（xì）为马走貌；悕（xī）为念、愿、悲；𩒽（xī）为𩒽𩑕（头动貌）；𨡂（xī）同醯（醋）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希字族二之一：拂晓干燥、讼面相是、望、火色、新肉凸出——晞、俙、𢓬、睎、烯、㛓、脪",
+      "statement": "晞（xī，《说文》「乾也」）为拂晓（《玉篇》「明不明之際也」）、干燥、暴晒（或作烯）；俙（xī，《说文》「訟面相是」）为诉讼时当面对质（《集韵》「依俙，猶言髣髴」）；𢓬（xiē）为讼（《正字通》以为俙字之讹）；睎（xī，《说文》「望也」）为望、视、观、慕；烯（xī）为火色、亦晞字（今指有机化学的一类化合物）；㛓（xī）为女字；脪（xìn，《说文》「創肉反出也」）为伤口愈合时新肉略微凸出，chī 为牛马子肠。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希字族二之二：装饰、遮盖食物之布、彰、兔葵——䤭、餙、𠍫、莃",
+      "statement": "䤭（shì）为糚（装饰）、推；餙（shì）即饰（明焦竑《俗书刊误》「飾，俗作籂」，指遮盖食物或洗碗擦桌的粗布）；𠍫（yí）为彰；莃（xī，《说文》「兎葵也」）为似葵而小、叶状如藜、有毛、汋啖之滑。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "希字族三：形近「布、夆」之讹——𢬾、𩭉",
+      "statement": "𢬾（xī）为持、俗音铺（《正字通》以为抪字之讹）；𩭉（péng）为头发蓬松（《正字通》「髼字之譌」）。",
+      "boundary": "源自《系统汉语》第103部「爻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𡭴本义：从日在两小之间，日光透过的小孔，「隙」之初文",
+      "statement": "「𡴴」本义从日在两小之间，表示日光才能透过的小孔，是「隙（xì）」的初文（《广韵》「壁孔也」；段注「壁隙之光，一線而已，故从二小」）。",
+      "boundary": "源自《系统汉语》第104部「𡭴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𡭴的辩证：日、白相近，故《说文》「際見之白也，从白，上下小見」析形不确",
+      "statement": "因「日、白」相近，故《说文》「際見之白也。从白，上下小見。起戟切」析形不确。",
+      "boundary": "源自《系统汉语》第104部「𡭴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𡭴的音源：借音字，义音同「爻」",
+      "statement": "「𡴴」是借音字，义音同「爻」：《史记·曹相国世家》「有卻」，「卻」在《汉书·曹参传》作「隙」；「卻」本从「𧮫」，而「𧮫」本「爻」声。",
+      "boundary": "源自《系统汉语》第104部「𡭴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "𡭴字族：缝隙、蜉蝣、虩（恐惧与蝇虎）——隙、𧎾、虩",
+      "statement": "隙（xì，《说文》「壁際孔也」）为墙壁交会之处的孔穴、裂、怨、闻（《篇海》「窗也」）；𧎾（lüè，《说文》「螶𧎾也。一曰蜉遊。朝生莫死者」）为蜉蝣（体形细长柔软、生命短暂）；虩（xì，《说文》引《易》「履虎尾虩虩」）为恐惧貌，或指蝇虎（跳蜘蛛，不结网、色灰白、藏身墙缝、善捕蝇），sè 为虎受惊的样子。",
+      "boundary": "源自《系统汉语》第104部「𡭴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交本义：甲骨文从它从乂，象两蛇相交指交配，或象蛇缠物为「絞」之初文",
+      "statement": "「交」初期的甲骨文本从它从乂，象意两蛇相交，指交配（jiāo，《广雅》「合也」）；或象意蛇的缠物，是「絞（jiǎo）」的初文（《说文》「縊也」，《广韵》「縛也」）。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交的转义：蛇相交引申指交错、结合、共同、更迭与衣领交错、乖谬",
+      "statement": "由蛇的相交引申指交错、结合、共同、更迭（《玉篇》「共也、更也、道也。或作詨」）；或指衣领的交错（《广韵》「領也」）；或引申指乖谬（《广韵》「戾也」）。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交的辩证：它下部写拢后形同「大」，故《说文》「交脛也，从大，象交形」析形不确",
+      "statement": "由于「它」的下部写拢以后形同「大」字，故《说文》「交脛也。从大，象交形……古爻切」析形不确。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交的音源：借音字，因有交叉义而义音同「爻」",
+      "statement": "「交」是借音字，因有交叉义而义音同「爻」：《尔雅·释乐》「小者謂之筊」，《释文》「筊，本亦作笅」；《诗·卫风·淇奥》「依重較兮」，「較」《说文系传》引作「䡈」；《周礼·大行人》「歸脤以交諸侯之福」，「交」《大戴礼记·朝事》作「敎」；《礼记·礼运》「殽以降命」，「殽」《孔子家语·礼运》作「郊」。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交字族一之一：绞、烄、䢒、校——絞、烄、䢒、校",
+      "statement": "絞（jiǎo，《说文》「縊也」）为勒杀、吊死（《释名》「絞，交也，交結之也」）、绕、缚，xiáo 为苍黄色，jiào 为缯黑黄色；烄（jiǎo，《说文》「交木然也」）为架起木头燃烧，yào 为煎；䢒（jiāo，《说文》「會也」）为往来交会（《正字通》「俗交字」）；校（jiào，《说文》「木囚也」）为桎梏、交木为之用以驯养野兽故有改正调校义，又为较量、报、交，xiào 为校（将帅号令之所在）、官、教学之宫，xiáo 为枋（柄），qiāo 为几足，jiǎo 为疾。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交字族一之二：佼、駮、效、洨、咬、狡、蛟、郊——佼、駮、效、洨、齩、狡、蛟、郊",
+      "statement": "佼（jiāo，《说文》「交也」）为交往，jiǎo 为超出一般（《广韵》「庸人之敏」）、好、健，xiáo 为仿效；駮（bó，《说文》「獸，如馬，倨牙，食虎豹」）为传说中的兽名，又驳马（梓榆，皮青白驳荦、遥视似驳马），又论列是非；效（xiào，《说文》「象也」）为模仿师法、效力效验、功；洨（xiáo）为洨河（源出获鹿井陉接壤的五峰山，赵州桥横跨其上，夏秋可行船）；齩（yǎo，《说文》「齧骨也」）为咬骨头（牙齿交错之意）；狡（jiǎo，《说文》「少狗也」）为少壮狗、匈奴地所产大狗，又狡猾疾健；蛟（jiāo，《说文》「龍之屬也」）为蛟（《埤雅》「其狀似蛇而四足，細頸，頸有白嬰……眉交，故謂之蛟」）；郊（jiāo，《说文》「距國百里為郊」）为城市周围的地区、祭名（冬至祀天南郊、夏至祀地北郊）。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交字族一之三：恔、皎、挍、礮、胶、铰、较——恔、皎、挍、礮、胶、鉸、較",
+      "statement": "恔（xiáo、jiǎo，《说文》「憭也」）为聪明、狡猾，xiào 为畅快；皎（jiǎo，《说文》「月之白也」）为月光皎洁（光影重迭交错之意）；挍（jiào）为度、报、角、比、考，jiāo 为乱；礮（pào）为抛石机（霹雳砲、火炮）；胶（xiáo）为䐨、声、胫骨、足跗，jiāo 与交同（日月之交道，今为膠的简化）；鉸（jiǎo）为剪刀（交刃刀）、钉铰、以金饰器；較（jué，《说文》「車輢上曲銅鉤也」）为车厢两旁车栏上的横木（士大夫以上乘车较上饰曲铜钩），jiào 为比较、大较，xiào 同校（学校）。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交字族一之四：山坳、接物、很戾、腹痛、邪视、龟缩、头凹、皮坚——𡋟、𢯴、𢲷、𤶀、𥅟、𥇟、𪛀、頝、㿰、䂭",
+      "statement": "𡋟（gào）为𡋟哩（有通路的山坳冈脊）；𢯴（jiǎo）为接物、戾；𢲷（ǎo）为很戾；𤶀（jiǎo）同㽱（《说文》「腹中急也」）即腹中绞痛；𥅟（jiǎo）为邪视；𥇟（jiǎo）为执拗倔强人的目光；𪛀（xiào）为龟缩头；頝（qiāo）为頝薄（不媚）、头凹不媚；㿰（áo）为皮坚，bì 为皮干声；䂭（qiāo）为䂭磝（城名，今济州）。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交字族二：鵁、䍊、骹、筊、弓角相接、珓、米饼、小袴、饺、姣、茭、小瓜",
+      "statement": "鵁（jiāo，《说文》「𪁉𪂴也」）即池鹭（似凫、脚高、觜丹、顶有红毛如冠），xiāo 为鱼鵁；䍊（jiāo）为吹器、乐器（以土为之、双相黏）；骹（qiāo，《说文》「脛也」）为小腿，jiāo 为膝骨，xiāo 为响箭；筊（jiǎo，《说文》「竹索也」）为竹索、箫之小者，xiào 为笋；䕧（xiào）为草根、竹笋，jiǎo 为藕根、弓臂两端与弓梢相接处（内侧用短角、外侧用长角、上下相交接以增强弓的张力）；珓（jiào）为杯珓（巫师用以占吉凶的器具，多用两蚌壳或像蚌壳的竹木片做成，掷地看俯仰以占吉凶）；𥹜（jiāo）为米饼、粉饵；䘨（jiǎo）为小套裤（服以取鱼者）；𩊔（jiào）为囊、鲛鱼皮；餃（jiào）为饴，jiǎo 为饺子（《正字通》「屑米麫和飴為之」）；姣（jiāo，《说文》「好也」）为相貌美，xiáo 为淫乱；茭（jiāo，《说文》「乾芻」）为干草料、马芹、茭白、草索，xiào 为藕根；㼎（bó，《说文》「小瓜也」）为小瓜（其状如角）、马㼎儿。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交字族三：虎声、大嗥、大声、窔、犬吠、指节鸣、疾风——虠、詨、㘐、㝔、𤟞、𩐟、𩗒",
+      "statement": "虠（jiāo）为虎声，háo 为俗号字；詨（xiào）为大嗥、呼、唤、夸语；㘐（pào）为大呼、大声；㝔（yào、yǎo）为隐暗处、室之东南隅（俗作穾），又户枢声；𤟞（xiào）为犬吠；𩐟（bó，《说文》「手足指節鳴也」）；𩗒（bó）为疾风。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "交字族四：形近「炎」之讹——𪏁、夜",
+      "statement": "𪏁（chán）为赤黄色（𪏋、𪏂的异体）；𠙇（yè）为古夜字，此组系形近「炎」之讹。",
+      "boundary": "源自《系统汉语》第105部「交部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "黹本义：甲骨文象两巾之间有连线缀之形，指缝纫（针缕所紩）",
+      "statement": "「黹」甲骨文象两巾之间有连线缀之形，表示缝纫之意（zhǐ，《广韵》「針縷所紩」）。",
+      "boundary": "源自《系统汉语》第106部「黹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "黹的辩证：上面「巾」小篆写如「丵」，故《说文》「从㡀，丵省」析形不确",
+      "statement": "由于上面的「巾」小篆写如「丵」，故《说文》「箴縷所紩衣。从㡀，丵省……陟幾切」（臣铉等曰「丵，眾多也，言箴縷之工不一也」）析形不确。",
+      "boundary": "源自《系统汉语》第106部「黹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "黹的音源：缝纫拉线声，由缝线交错之状而义音同「希」",
+      "statement": "「黹」是音源字，源自缝纫时拉线时所发出的声音。由缝线的交错之状而义音同「希」：《周礼·司服》「祭社稷五祀，則希冕」郑玄注「希，讀為絺，或作黹，字之誤也」；《书·益稷》「黼黻絺繡」孔颖达疏引郑玄云「絺，讀為黹」。",
+      "boundary": "源自《系统汉语》第106部「黹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "黹字族：缝衣、钻、木枝、财物相当——𧝉、𨬚、𣚠、𧸅",
+      "statement": "𧝉（zhǐ，《说文》「紩衣也」）为缝衣服、蔽膝名；𨬚（zhǐ）为钻（《正字通》「俗黹字，紩衣曰黹」）；𣚠（zhǐ）为木枝；𧸅（zhǐ）为当、财物相当。",
+      "boundary": "源自《系统汉语》第106部「黹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "皛本义：从白的三叠，象意特别白或许多白色物",
+      "statement": "「皛」本义从白的三叠。「白」指白色；三叠表示极致，象意特别白，或指许多白色物（xiào、jiǎo，《广雅》「白也」，洁白）。",
+      "boundary": "源自《系统汉语》第107部「皛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "皛的转义：洁白引申指明亮明显，由「白」衍生「拍」引申指反复拍打",
+      "statement": "由洁白引申指明亮、明显（《说文》「顯也。从三白。讀若皎。烏皎切」，《广韵》「明也」）；由于「白」或衍生作「拍」，故或引申指反复拍打（pāi，《广韵》「打，出《蜀都賦》」）。",
+      "boundary": "源自《系统汉语》第107部「皛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "皛的音源：借音字，因其色洁白而义音同「皎」",
+      "statement": "「皛」是借音字，因其色洁白而义音同「皎」。",
+      "boundary": "源自《系统汉语》第107部「皛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "皛字族：藠、㵿、皨（星）——藠、㵿、皨",
+      "statement": "藠（jiào）为草名（《正字通》「俗呼薤曰藠子，以薤根白如藠也」）；㵿（xiào）为流貌、水渺㵿貌、水深白貌；皨（xīng）为古文星字（𤾪同星）。",
+      "boundary": "源自《系统汉语》第107部「皛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭本义：象人手舞足蹈的样子",
+      "statement": "「夭」本义象人手舞足蹈的样子（yāo，《说文》「屈也。从大，象形。凡夭之屬皆从夭。於兆切」）。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭的转义：幼儿学步引申指幼小稚嫩，又指姿态轻盈娇媚、不正派、高兴、草木披靡与夭折灾祸",
+      "statement": "此种样子或如幼儿学步之状，故引申指幼小、稚嫩（yāo，《集韵》「少長曰夭」，《广韵》「未壯也」）；或如蹑手蹑脚，引申指姿态轻盈娇媚（读作 wāi，白居易「錢塘蘇小小，人道最夭斜」）；或如偷偷摸摸，指不正派的样子（如「妖精」「妖怪」）；或引申指高兴的样子（《集韵》「夭夭，和舒皃」）；或比喻指草木枝叶披靡状——要么长势茂盛（《书·禹贡》「厥草惟夭」），要么折断貌、表示夭折殇亡（《释名》「少壯而死曰夭」），此意或引申指灾祸。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭的音源：借音字，因有折意而义音同「交」",
+      "statement": "「夭」是借音字，因有折意而义音同「交」：《集韵》「姣，亦作妖」，《广韵》「窔，亦作㝔。俗作穾」。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭字族一：扭折——妖、魑魅、祅、殀、拗、訞",
+      "statement": "妖（yāo，《说文》「巧也。一曰女子笑皃」）为艳丽妩媚、怪异孽变，jiǎo 同姣；魑（chī）为魑魅（老物精怪）；祅（yāo，《说文》「地反物為䄏也」）为地上物体反常（通作妖）；殀（yāo）为短折而死、灾害、摧残；拗（ǎo）为折、折断，ào 为违逆，niù 为固执倔强，yù 为抑；訞（yāo）为巧言貌、灾、语䄏祥。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭字族二：幽深——飫、沃、鋈、宎、岆、嶴、袄、㕭、懊、𢁱",
+      "statement": "飫（yù，《说文》「燕食也」）为安逸无事地宴饮、家宴、食多、饱；沃（wò，《说文》「漑灌也」）为浇灌、渍、低、柔、润泽；鋈（wù，《说文》「白金也」）为镀（以铁为质、以他金灌沃其外，如门环灌锡）；宎（yǎo、yào）为室东南隅、隐暗、户枢声、风入孔穴声，yāo 为窟；岆（yǎo）为山名；嶴（ào）为浙闽沿海称山间平地（多用于地名）；袄（ǎo）为有衬里的上衣；㕭（āo）为淫声、㕭咋（犬多声），ào 为叹词；㤇（ǎo）同懊（懊恼）；𢁱（ǎo）为巾、箭靶。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭字族三：细长——枖、扷、镺、騕、𩷯、𩜸、𪎤",
+      "statement": "枖（yāo，《说文》「木少盛皃」）为树木少而壮的样子（《诗》「桃之枖枖」），又艸少长、木华叶茂；扷（ào）为量；镺（ǎo）为长、猝（镺𨱵）；騕（yǎo）同騕褭（良马）；𩷯（wò）为鱼名（似蒲鱼、长三尺）；𩜸（yāo）为饧（糖）；𪎤（wò）为纑未练（未经练制的麻缕）。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭字族四：幼小——仸、鴁、𪁾、矨、䴠、芺",
+      "statement": "仸（yǎo）为仸侨（不伸）、尪弱貌，fó 同佛；鴁（yāo）为鴁鵂（鸟名，三首六目六翼六足）；𪁾（ǎo，《说文》「鳥也」）为鷿鵜（水鸟，腿靠后不便陆行）；矨（yǐng）为短小貌；䴠（yǎo）为幼麋；芺（ǎo，《说文》「艸也。味苦，江南食以下氣」）为败酱草。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "夭字族五：形近「火」之讹——𧡅、𣭹",
+      "statement": "𧡅（lián）为察（覝的讹字）；𣭹（hāo）为搅（《正字通》以为讹字），此组系形近「火」之讹。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "走本义：从止夭声，象奔跑时屈肢前后摆动的样子",
+      "statement": "「走」本义从止夭声。「止」指行走；「夭」指屈肢而前后摆动状，象意奔跑时的样子（zǒu，《说文》「趨也。从夭止。夭止者屈也……子苟切」，《释名》「徐行曰步，疾行曰趨，疾趨曰走」）。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "走的转义：奔跑引申指事物移动、经过、变化、泄漏，又指仆人、离开与死亡",
+      "statement": "由人的奔跑引申指事物的移动、经过、变化、泄漏等（如「走向」「走私」「走賬」「走樣」「走氣」）；或引申指听凭指使的仆人（《玉篇》「僕也」）；或引申指离开（「走了」「出走」），此意或引申指死亡（《玉篇》「去也」）。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "走的辩证：楷书本应作「𧺆」，混同「走」；「走」本从土不从夭，指徒步行走（徒）",
+      "statement": "楷书本应为「𧺆」，混同「走」。「走」本从「土」作，不从「夭」，指徒步行走，即「徒」意。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j20-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-20-jiao",
+      "title": "走字族：喝斥、陡峭、昏暗、短、徒——唗、陡、𥆥、𦛣、𢈩",
+      "statement": "唗（dōu）为叹词（表示喝斥或唾弃）；陡（dǒu）为山势陡峭（犹如要奔走之状）、突然，通作斗；𥆥（xié）为昏暗貌；𦛣（yán）为短貌；𢈩（tú）同徒（仅、但），系形近「徒」之讹。",
+      "boundary": "源自《系统汉语》第108部「夭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
