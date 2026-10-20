@@ -1,0 +1,2244 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷三 矢 168 条（16.矢部、17.尸部、18.朿部、19.齊部、20.次部、21.𠂔部、22.意部、23.ㄗ部、24.射部、25.睪部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j3a-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：卷三的音源字是「矢」，象箭形，音源为射箭的破空声",
+      "statement": "《系统汉语》认为，卷三的音源字是「矢」，象箭形，其音源自射箭时的破空声。",
+      "boundary": "属作者音源体系主张，非文字学界共识；「矢」的甲骨文字形释为箭，学界无异议，音源则有异说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/03a-shi.md",
+      "topic_title": "卷三·矢部",
+      "topic_summary": "《系统汉语》第三卷的卷首主张（箭的形制、八矢、射礼与射日神话），以及矢、知、智、疾、医、至、到、臺、彘诸字的字形分析、转义与字族义项。",
+      "topic_keywords": [
+        "矢",
+        "箭",
+        "音源字",
+        "字族",
+        "射",
+        "至",
+        "知",
+        "疾"
+      ]
+    },
+    {
+      "id": "j3a-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：「至」本「矢」声，矢亦可视为借音字，借「鸡」为声",
+      "statement": "《系统汉语》认为，「至」本「矢」声，因此「矢」也可视作借音字，借「鸡」为声；指野鸡的「雉」即以「矢」为声。书中并引《集韵》「祗，《说文》：『敬也。』古作𣱊、祬」「𣢑，《说文》：『𣢑𣢑，戏笑貌。』或作咥、㰝」及《广韵》「鸱，一名鸢也。鵄，亦同」为证。",
+      "boundary": "「矢」与「鸡」的借音关系属作者体系主张；野鸡的「雉」从「矢」得声为字书可考的事实。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：矢是人类使用最早的武器，最初只是一根削尖的木棍",
+      "statement": "《系统汉语》认为，矢是人类使用最早、为时最长的武器：最初就是一根木棍，将前端削尖，近可以戳，远可以投。中国记载的第一首诗歌讲的就是用箭矢射猎——「断竹，续竹，飞土，逐肉」，载于《吴越春秋》，相传是上古炎黄时期的民歌。",
+      "boundary": "诗歌出处可考；「最早、为时最长的武器」是作者的概括，不构成考古学上的年代判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：中国迄今最早的矢，是山西朔县歭峪出土的燧石镞",
+      "statement": "《系统汉语》引考古发现：中国迄今最早的真正意义上的矢，是 1963 年在山西朔县歭峪文化遗址出土的、用薄燧石制成的石镞，加工细致、镞尖锋利，箭杆已不存，经放射性碳素测定约制造于 28945 年前。",
+      "boundary": "只转述书中引用的这一项考古材料，不代表中国箭矢起源的最终结论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：箭的四个部分——镞、杆、栝、羽",
+      "statement": "《系统汉语》按箭的形制拆解：前端三角形部分为「镞」，或称「镝」，最初由石片、骨或贝壳打制，铜铁出现后改用铜铁；主体为箭杆，古称「梃干、笴」，竹制者称「箭」、木制者称「矢」；尾端凹槽称「栝、衔口」，用于驾弦而射；中间一横代表箭羽，其作用在于使箭在飞行中保持稳定。",
+      "boundary": "形制名称为文献可考的古代称名，不涉及现代射箭器材。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：箭羽多寡有严格规定，《考工记》以投水沉浮测其比例",
+      "statement": "《系统汉语》指出，箭羽多寡古人规定严格：羽多会减慢飞行速度、缩短射程，羽少则飞行时箭身不平衡、影响准确度，故须有恰当比例。《考工记》论述一种检测方法——将箭杆投入水中，按沉浮部分的长短求出装尾羽的比例；用羽则以翢翎最好，鹰羽、鸱枭次之，最差是雁鹅羽，遇风易斜窜。",
+      "boundary": "《考工记》的检测方法与用羽品第为文献记载；作者对其原理的解释属说明性质。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：《周礼·夏官》分箭为「八矢」，按用途分兵矢、田猎、弋射、习射",
+      "statement": "《系统汉语》引《周礼·夏官》：箭按箭镞形式分为枉矢、絜矢、杀矢、鏃矢、磳矢、茀矢、恒矢、痹矢八种；枉矢、杀矢、磳矢、恒矢为弓所用，絜矢、鏃矢、茀矢、痹矢为弩所用；枉矢、絜矢供战斗（又称兵矢），杀矢、鏃矢供田猎，磳矢、茀矢供弋射飞鸟，恒矢、痹矢供习射。",
+      "boundary": "八矢之名与分类出自《周礼》记载；各矢形制的具体对应尚有异说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：弓矢被列为兵器之首，「射」为六艺之一",
+      "statement": "《系统汉语》引恩格斯《家庭、私有制和国家的起源》：「弓矢对于蒙昧时期，正如铁剑对于野蛮时期和枪炮对于文明时期那样，乃是决定性的武器。」并指出古代弓箭被列为兵器之首，贵族、将门之子从小教习射箭；「射」是公卿大夫必须通晓的六艺之一，国君会盟宴会视为礼仪，民间亦以之为礼节——哪家生了男孩就在门口挂一张弓，东北满族人家门上挂弓或箭即此古俗的遗续。",
+      "boundary": "恩格斯语与六艺之说出处可考；生男悬弓与满族遗俗的关联是作者的民俗推断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：因拉弓射箭不便而衍生「投壶之礼」",
+      "statement": "《系统汉语》认为，因拉弓射箭不方便，而衍生了「投壶之礼」：拿箭远距离投入壶中，投中者胜，多见于春秋时。《左传·昭公十二年》载晋侯、齐侯投壶燕饮，晋侯先投，中行穆子致祝词「有酒如淮，有肉如坻，寡君中此，为诸侯师」，一投而中；齐侯投时举矢祝「有酒如渑，有肉如陵，寡人中此，与君代兴」，也投进了壶中。",
+      "boundary": "《左传》记载可考；「因射箭不便而衍生」是作者的推因之说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：「羿射九日」神话的流布与曾侯乙墓漆箱射日图",
+      "statement": "《系统汉语》述「羿射九日」：相传帝尧时天上同时出现十个太阳，土地干裂、草木枯焦，英雄羿拉开强弓，一连九箭无一虚发，只留下一个最小的太阳朝起暮落。此传说影响很广，北方萨满教信仰的蒙古族、赫哲族、鄂温克族也有类似古老传说；并曾长期成为上层社会绘画主题，如湖北随州擂鼓墩曾侯乙墓出土漆木衣箱盖上用红漆绘出的大羿射日图。",
+      "boundary": "神话流传与漆箱图版为可考事实；各民族的相似传说是作者的比较举例，未作系统比对。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：作者把「射日」读作生殖崇拜——射日即射而得儿",
+      "statement": "《系统汉语》主张，射日传说不止表现射猎，还体现古代的生殖崇拜：「日」即儿，射日即射而得儿。书中举岩画为证——阿尔泰山哈巴河县唐巴尔塔斯的《群婚图》，画幅下方一对交媾男女，左下方一位弯弓射箭的射手箭头直指男女交媾之所；贺兰山大西峰沟的交媾图，交媾者身后站立举弓搭箭的射手正瞄准男性背部；新疆阿勒泰哈巴河县加拉阿什岩画中弓箭被刻意夸张，延伸而直接触到交媾中的性器。作者认为，从巫术文化观察，这是把弓箭具有的生殖神力传递给交媾者的夸张表现。",
+      "boundary": "岩画题材为可考的实物材料；「射日即射而得儿」「生殖神力传递」是对岩画的作者解读，非文字学界或考古学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：「侄」从「至」，「至」本作矢，取箭矢所及之义",
+      "statement": "《系统汉语》由此解释「侄」为什么从「至」：「至」本写作箭矢之形，即箭矢所及，表达的是直系亲族的意思；其它如「叔、姨、弟」则从「弋」，弋也是箭的一种（用于射鸟），表达的也是类似的含意。",
+      "boundary": "「侄」从「至」、「叔姨弟」从「弋」为字形可考；以「箭矢所及」解释亲族之称属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：作者推测「射十留一」体现逢十进一的十进位计数法",
+      "statement": "《系统汉语》推测，后羿射日射十而留一，可能还体现了逢十进一的十进位计数法被发明。",
+      "boundary": "属作者的联想性推测，书中亦以「可能」出之，不能作为十进位起源的证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：矢的读音有三个来源——撞击音 jiɑn/zi、破空声 she/sou、中的声 du/pu/zhu",
+      "statement": "《系统汉语》认为，箭作为汉语的音义元素，其声音的来源比较复杂：有箭与箭相碰撞时发出的声音，大致象 jiɑn、zi；有射箭时的破空声，大致象 she、sou；还有中的时发出的声音，大致象 du、pu、zhu。此外箭的材料不同，发出的声音也略有差异：石镞、骨镞相碰声要浊些、钝重些，金属箭镞则清脆些。也可能是借音——指野鸡的「雉」即从矢，说明矢跟鸡关系紧密：鸡飞不远，故如矢之射距，反过来自然也可以鸡名矢。",
+      "boundary": "属作者以声母拟态解释音源的体系主张；「雉从矢」为字形可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "卷首：凡指尖锐物质的字根「朿、齐、次、𠂔」均音义通",
+      "statement": "《系统汉语》认为，矢最重要的特点是尖锐，因此凡指尖锐物质的字根，如「朿、齐、次、𠂔」均音义通；只有「尸」是取射箭时的蹲踞之状而借音。",
+      "boundary": "属作者对字根音义关系的体系主张，用于解释同卷诸部的编排理据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢：「矢」是箭的完整象形，包含镞、杆、羽、栝",
+      "statement": "《系统汉语》认为，「矢」字本象箭的完整之形，包括箭鏃、箭杆、箭羽、箭栝。《玉篇》：「箭也。古者牟夷作矢。」",
+      "boundary": "《玉篇》训释可考；「完整象形」是作者对字形与实物对应关系的解读。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢：箭杆很直，故引申指正直、端正",
+      "statement": "《系统汉语》认为，「矢」由箭杆很直引申指正直、端正。《广韵》：「正也。直也。」",
+      "boundary": "《广韵》义训可考；由「箭杆直」到「正直」的引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢：借助弓弦能飞行一定距离，故引申指施行、陈列",
+      "statement": "《系统汉语》认为，「矢」借助弓弦的弹射作用能作一定距离的飞行，故引申指施行、陈列义。《尔雅》：「弛也。」「陈也。」",
+      "boundary": "《尔雅》义训可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢：箭头没入被射物、或远飞不见，故引申指藏",
+      "statement": "《系统汉语》认为，箭射中目标时箭头会没入被射物中，或远飞而不见，故「矢」引申指藏。《广雅》：「藏也。」",
+      "boundary": "《广雅》义训可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢：古人折箭盟誓，故引申指发誓",
+      "statement": "《系统汉语》认为，古人有折箭盟誓的习俗，故「矢」或引申指发誓。《尔雅》：「誓也。」",
+      "boundary": "《尔雅》义训与折箭盟誓之俗可考；二者的因果关系是作者的推断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢：辨证——《说文》以「入」为箭栝，故析形不确",
+      "statement": "《系统汉语》辨证：《说文》析「矢」为「弓弩矢也。从入，象鏑、栝、羽之形。古者夷牟初作矢。凡矢之属皆从矢。式视切」，其中「入」指的本是箭栝，是箭的一部分，故判其析形不确。",
+      "boundary": "《说文》原文可考；「入即箭栝」是作者的辨证意见，《说文》「从入」之义另有异说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢：音源于箭射出时的破空声",
+      "statement": "《系统汉语》认为，「矢」是音源字，源自箭射出时产生的破空声。",
+      "boundary": "属作者音源体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢族：指箭镞之状——鉃（鏃）为箭头，薙之辛夷花苞如箭镞",
+      "statement": "《系统汉语》把指箭镞之状的字归为一族：「鉃（鏃）」为箭头，《玉篇》「箭头」，zú，《集韵》「鏃，《说文》：『利也。』一曰矢末」；「㞺」为古文「族」字；「薙」除艸，《说文》「除艸也……从艸雉声」，又为辛夷别名，其花苞如箭镞。",
+      "boundary": "字书训释可考；同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢族：指箭杆的细而直——䉜为幼竹，笶为俗「矢」字，䛈即折箭为誓",
+      "statement": "《系统汉语》把指箭杆细而直的字归为一族：「䉜」为幼竹，《集韵》「直利切，音雉。幼竹」；「笶」《玉篇》「俗矢字」；「䛈」《广韵》「志也」，《正字通》「与誓通」，指古人的折箭为誓。",
+      "boundary": "字书训释可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢族：指射箭的过程——「雉」为野鸡，尾羽如箭且不能远飞",
+      "statement": "《系统汉语》释「雉」为野鸡：《说文》「有十四种……从隹矢声」，尾羽如箭；同时不能远飞，大约一射之距，故从「矢」。《玉篇》「又城高一丈三尺为雉。又陈也、理也」，即古代计算城墙面积的单位。",
+      "boundary": "《说文》「雉」字条十四种名目及「从隹矢声」可考；「尾羽如箭、不能远飞故从矢」是作者的取象解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢族：「䀢」本指射箭的靶子，本义当指瞄准",
+      "statement": "《系统汉语》释「䀢」（瞬瞚眴）：《广韵》「书之切，音诗。䀢，的也，见《声类》」，即射箭的靶子；《类篇》「视也」；《正字通》「同瞬，通作瞚、眴，以目指使人也」。作者认为其本义当指瞄准，故有以眼睛示意之义。",
+      "boundary": "字书训释可考；「本义当指瞄准」是作者的判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢族：象意字「聅」为军法以矢贯耳，「𥎪」取词之所之如矢",
+      "statement": "《系统汉语》列「矢」部象意字：「聅」，《说文》「军法以矢贯耳也。从耳从矢。《司马法》曰：『小罪聅，中罪刖，大罪刭』」；「𥎪（矤矧訠）」，《集韵》引《说文》「况也，词也，从矢取词之所之如矢也」。",
+      "boundary": "《说文》条文可考；列为一族是作者的编排。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢族：「𢇻」为古文「知」字，本指练习射箭时报靶的人",
+      "statement": "《系统汉语》释「𢇻」：《海篇》「古文知字」，指练习射箭时负责报靶的。此条是「知」从「矢」的取象依据。",
+      "boundary": "《海篇》训释可考；「报告靶」是作者据字形与射礼所作的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "矢族：屎通矢，《集韵》「𦳊，《说文》：糞也……通作矢」",
+      "statement": "《系统汉语》引《集韵》：「𦳊，《说文》：『糞也。从艸，胃省。』或作𡱁、𡲖、屎、𡲔。通作矢。」并引《广雅》「陈也」，即陈设、陈列。这是「矢」与「屎」相通的字书依据。",
+      "boundary": "只证明「矢」「屎」二字在字书中可通，不主张「矢」的本义与屎相关。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "知：本义是报靶——看靶的人高声报告中靶情况",
+      "statement": "《系统汉语》认为，「知」的甲骨文从吁（或省「于」）矢声：「吁」，《集韵》「叹也，惊也」，《方言》「然也」，指大声地叫唤、应答；「矢」指射箭。合而象意报靶，即练习射箭时负责看靶的人高声地报告中靶的情况。",
+      "boundary": "属作者据字形与射礼所作的解释，非文字学界共识；「知」从口从矢的构形无异议。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "知：报靶人需察看中靶情况，故引申指知识、智慧",
+      "statement": "《系统汉语》认为，报靶人需察看中靶的情况，故「知」引申指知识、智慧。zhī，《玉篇》「识也」；zhì，《集韵》「𣉻，《说文》：『识词也。』一曰知也，或作智、知」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "知：报靶人要大声报告以让人知道，引申指知会、明白，或病愈",
+      "statement": "《系统汉语》认为，报靶人要将情况大声报告以让人知道，故「知」引申指知会、明白。zhī，《说文》「词也。从口从矢。陟离切」；《正字通》「觉也，喻也」。或引申指病愈，《广雅》「瘉也」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "知：由报靶人的作用引申指掌管、主持",
+      "statement": "《系统汉语》认为，由报靶人所起的作用，「知」引申指掌管、主持。《字汇》引《增韵》「主也。今之知府、知县，义取主宰也」；或引申指欲念，《广韵》「欲也」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "知：报告要与实际相符，引申指匹配、契合",
+      "statement": "《系统汉语》认为，报告的情况要与实际相符合，故「知」引申指匹配、契合。《尔雅》：「匹也。」",
+      "boundary": "《尔雅》义训可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "知族：反复往来的报靶义——痴、踟、𩳦、䵹、𦝔、䓡",
+      "statement": "《系统汉语》把「知」部指报靶往来、反复的字归为一族：「痴（癡）」为踟躕、不达；「踟」《玉篇》「踟躕，行不进也」；「𩳦（魑）」即使人迷路的鬼魅；「䵹」为蜘蛛；「𦝔（胝）」谓皮厚，因反复摩擦而起茧；「䓡」为知母（药草），根有须成深毛状。",
+      "boundary": "字书训释可考；同族归类与「往复」取象属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "智：本义当指小孩子会用语言表达自己的意愿",
+      "statement": "《系统汉语》认为，与「知」比较，商代甲骨文「于」作「子」，若非误写，则「智」当指小孩子会用语言表达自己的意愿，这似乎更切合「智」的本义；周代晚期才混作「于」。",
+      "boundary": "属作者假设性判断，书中以「若非误写」「似乎」出之；《说文》另训为「识词也」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "智：字书训为「识词」「无所不知」「心有所知」",
+      "statement": "《系统汉语》引字书释「智」：zhì，《说文》「识词也。从白从亏从知。知义切」；《释名》「智，知也。无所不知也」；《正字通》「心有所知也」。",
+      "boundary": "字书训释可考，仅列义训，不涉及作者对构形的判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "智族：看靶、报靶义——䚐为目赤遥视，𤁰为土得水沮，䠦为蹋顿",
+      "statement": "《系统汉语》把「智」部表示远看、往来的字归为一族：「䚐」，《说文》「目赤也。从见，𥏼省声」，即眼睛红赤，《类篇》「遥视貌」；「𤁰」，《说文》「土得水沮也」，即水土相和成泥；「䠦（躓胝）」，《篇海》「蹋也，顿也，跲也」。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "疾：本义是箭伤——从矢在「大」的腋下",
+      "statement": "《系统汉语》认为，「疾」的甲骨文从矢在「大」的腋下形：「大」指人，「矢」指箭，象意为箭所伤；「大」或作「蔡」（指割伤），西周分化则演变为「疒」（指躺在床上）。或从矢声，「蔡」本指割，才象意箭矢伤人，故指刺痛、伤痛；从「矢」则指因受箭矢所伤而躺在床上，指外伤。",
+      "boundary": "「疾」从矢、从人的构形为学界所论；「箭伤为本义」是作者的解释路线，《说文》训「病也」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "疾：由箭伤之苦引申指病痛、疾苦、祸害、伤残",
+      "statement": "《系统汉语》认为，「疾」由箭矢所伤造成的痛苦，引申指病痛、疾苦、祸害、伤残。jí，《说文》「病也。从疒矢声。秦悉切」；又由疾患比喻指缺点、毛病。",
+      "boundary": "《说文》训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "疾：疾患为人所不喜，引申指憎恶、痛恨、嫉妒、担忧",
+      "statement": "《系统汉语》认为，疾患是人所不喜欢的，故「疾」引申指憎恶、痛恨、嫉妒、担忧。《字汇》「恶也」；《篇海类编》「妒也」；《玉篇》「患也」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "疾：由外伤的危险、剧痛引申指急速、强狠、尽力、宏大",
+      "statement": "《系统汉语》认为，「疾」由外伤的危险、剧痛，引申指急速、强狠、尽力、宏大义。《尔雅》「壮也」，《广韵》「急也」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "疾族：指箭矢、尖刺之物——嫉、蒺、螏、𨪏",
+      "statement": "《系统汉语》把「疾」部指箭矢、尖刺之物的字归为一族：「嫉（愱𡜍）」，《说文》「妎也。从人疾声。一曰毒也」；「蒺」，《本草》「蒺，疾也。其刺伤人甚疾而利也」，蒺藜有刺如箭；「螏」为蝍蛆，即蜈蚣虫；「𨪏」为铁挝，明茅元仪《武备志》记「双飞挝」以长绳系之击人。",
+      "boundary": "《说文》《本草》条文可考；同族归类与取象属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "疾族：指矢伤，表示急速、剧烈——𧪠为语急，𧽑为走遽",
+      "statement": "《系统汉语》把「疾」部指矢伤而表示急速、剧烈的字归为一族：「𠹋」《集韵》「噈𠹋，声也」；「𧪠（愱）」《广韵》「语急」；「𧽑（𨕾）」《集韵》「走遽也」。",
+      "boundary": "字书训释可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "医：本义是盛弓弩矢的器具——从矢在「匚」中",
+      "statement": "《系统汉语》认为，「医」（𠣗）从矢在「匚」中：「匚」指筐、匣，从「矢」象意盛弓弩矢的器具。yì，《说文》「盛弓弩矢器也。从匸从矢。《国语》曰：『兵不解医。』于计切」。",
+      "boundary": "《说文》条文可考；「医」与「醫」的关系另说，此处只就《系统汉语》所释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "医：矢虽尖利而藏于匣中，引申指收束锋芒、柔顺、掩盖",
+      "statement": "《系统汉语》认为，「矢」虽尖利而藏于匣中，故「医」引申指收束锋芒，表示柔顺、掩盖之意：此义分化如「悘」，《集韵》「恭也、静也」；或引申指掩盖、隐藏，此义分化如「翳」，《广韵》「隐也，蔽也」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "医族：柔顺羸弱义——嫛为初生婴儿，嫕为婉嫕顺从",
+      "statement": "《系统汉语》把「医」部指柔顺、羸弱的字归为一族：「嫛」，《说文》「婗也。从女殹声」，即初生的婴儿，用襁褓包裹严实之意，《释名》「人始生曰嫛婗」；「嫕」，《集韵》「婉嫕，顺从也」；「㿄」，《说文》「剧声也」，指病重呻吟声，《集韵》「羸也」。",
+      "boundary": "《说文》《释名》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "医族：「殹」西周金文从殳、矢在匚中，本义同「医」",
+      "statement": "《系统汉语》认为，「殹」《说文》训「击中声也」。西周金文本从殳、矢在匚中形：「殳、矢」都是兵器，从「匚」象意将兵器收束进套子里，本义同「医」。《方言》「幕也」，郭璞注「谓蒙幕也」。",
+      "boundary": "《说文》训释可考；「本义同医」是作者的判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "医族：「醫」为治病的人，从殹因中医多用针砭，从酉借酒消毒麻醉",
+      "statement": "《系统汉语》释「醫」：《说文》「治病工也。殹，恶姿也；医之性然。得酒而使，从酉。王育说。一曰殹，病声。酒所以治病也。《周礼》有医酒。古者巫彭初作医」。作者认为，古代中医治疗手段多用针砭，故从「殹」；从「酉」，是借助于酒进行消毒、麻醉、制药。《广雅》「巫也」。",
+      "boundary": "《说文》条文可考；「针砭故从殹、酒用于消毒麻醉」是作者的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "医族：「翳」为华盖，即今之雉尾扇，舞者持以自隐翳",
+      "statement": "《系统汉语》释「翳」：《说文》「华盖也。从羽殹声」；《急就篇注》「翳，谓凡鸟羽之可隐翳者也。舞者所持羽翿，以自隐翳，因名为翳。一曰华盖，今之雉尾扇，是其遗象」；《扬子·方言》「翳，掩也」。",
+      "boundary": "字书与注文可考，只据此释「翳」的名物与用法。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "医族：「鷖」为鸥（信鳧），知风起辄飞至岸，渡海者以为候",
+      "statement": "《系统汉语》释「鷖」：《说文》「鳧属。从鸟殹声。《诗》曰：『鳧鷖在梁』」；《正字通·鸟部》「鸥也。苍黑色，群飞鸣，随潮往来，曰信鳧，知风起，辄飞至岸，渡海者以为候」。",
+      "boundary": "字书训释可考；鸟名所指与今名对应可能有出入。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至：本义是箭矢所射到的地方——从一从矢的象事字",
+      "statement": "《系统汉语》认为，「至」从一从矢，是象事字：「一」指目标物或地面；从「矢」，象事指箭矢所射到的地方。",
+      "boundary": "属作者据字形所作的解释；《说文》另释为「鸟飞从高下至地」，作者判其不确。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至：由箭的射及目标，引申指抵达、终点、极点、穷尽",
+      "statement": "《系统汉语》认为，「至」由箭的射及目标，引申指抵达、来到、终点、极点、穷尽。zhì，《玉篇》「极也、通也、善也、达也、大也、到也」；又由箭的飞至，引申指轻率，dié，《集韵》「单至，轻发貌」。",
+      "boundary": "《玉篇》义训可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至：辨证——《说文》误「矢」为鸟飞，故析形不确",
+      "statement": "《系统汉语》辨证：《说文》「鸟飞从高下至地也。从一，一犹地也。象形。不，上去；而至，下来也。凡至之属皆从至」，误「矢」为鸟飞，故判其析形不确。",
+      "boundary": "《说文》原文可考；判其误是作者的辨证意见。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至：音源字，源自矢射中物声，故亦可谓本「矢」声",
+      "statement": "《系统汉语》认为，「至」是音源字，源自矢射中物声；因此也可谓本「矢」声。",
+      "boundary": "属作者音源体系主张；「至」古音与「矢」的关系另有异说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至族：指抵达、来到——致、郅、耋、室",
+      "statement": "《系统汉语》把「至」部指抵达、来到的字归为一族：「致」，《说文》「送诣也」，即送去、送到；「郅」，《说文》「北地郁郅县」，或指高台，《扬子·方言》「鲁、卫谓登曰郅」；「耋」，《说文》「年八十曰耊。从老省，从至」，即寿终之期；「室」，《说文》「实也。从宀从至。至，所止也」，即行所止处。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至族：指碍止、堵塞——庢、窒、桎、𩋡、絰",
+      "statement": "《系统汉语》把「至」部指碍止、堵塞、闭塞的字归为一族：「庢」，《说文》「碍止也」；「窒」，《说文》「塞也」；「桎」，《说文》「足械也」，即束缚脚的刑具；「𩋡」，《集韵》「刀削谓之𩋡，通作室」，即刀剑鞘；「絰」，《说文》「丧首戴也」，即服丧期间头上戴的葛麻布带，一般为死者直系后代所戴。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至族：指尖利——銍为获禾短镰，蛭为蚂蟥，荎为刺榆",
+      "statement": "《系统汉语》把「至」部指尖利的字归为一族：「銍」，《说文》「获禾短镰也」，《小尔雅》「禾穗谓之颖，截颖谓之銍」；「蛭」，《说文》「蟣也」，即蚂蟥，体状如管，前后有吸盘，能吸食人畜之血；「㨖」，《说文》「刺也」；「荎」，《说文》「荎藸，艸也」，《诗·唐风》毛传「枢，荎也，今之刺榆」；「鵄（鸱）」，《广韵》「鸱，一名鸢也。鵄，亦同」。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "至族：「姪」为兄之女，「侄」古训坚固、依也",
+      "statement": "《系统汉语》辨「姪」「侄」两字：「姪」，《说文》「兄之女也。从女至声」，指兄弟姐妹之子女，《释名》「姑谓兄弟之女曰姪。姪，迭也，更迭进御也」；「侄」，《集韵》「坚固也，依也」「痴貌，一曰侄仡，不前也」，今同「姪」。",
+      "boundary": "字书训释可考；今「侄」为「姪」的通行写法，「侄」的古训另有所承。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "到：本义是人的到达终点，周代金文即「侄」字",
+      "statement": "《系统汉语》认为，「到」的周代金文本从人从至，即「侄」字，象意人的到达终点。zhì，《正字通》「侄仡，不前也。俗误以侄为姪字」；dào，《玉篇》「至也」。",
+      "boundary": "金文字形为可考材料；「本义是到达终点」是作者的判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "到：既到则不再前行，引申指周到、颠倒，并分化出「倒」",
+      "statement": "《系统汉语》认为，既然已经到达目的地，自然不再前行，故「到」引申指周到（完备）、颠倒（返转），此义分化作「倒」，《集韵》「颠倒也」；或引申指摔倒而不能行，《新附》「仆也」。",
+      "boundary": "字书训释可考；引申分化之说属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "到：辨证——因「人、刀」形近，小篆讹从「刀」，《说文》析形不确",
+      "statement": "《系统汉语》辨证：因「人、刀」形近，小篆讹混从「刀」，故《说文》「至也。从至，刀声。都悼切」析形不确。",
+      "boundary": "《说文》原文可考；判其讹混是作者的辨证意见。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "到：本「至」声，因有仆倒义而义音同「捣」",
+      "statement": "《系统汉语》认为，「到」本「至」声；因有仆倒义，而义音同「捣」——《集韵》「𢶈，《说文》：『手推也。一曰筑也。』或作擣、㨶、捯」。",
+      "boundary": "属作者音源体系主张；所引《集韵》条文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "到族：多指颠倒、仆倒——倒、菿、捯、箌",
+      "statement": "《系统汉语》把「到」部字族归为多指颠倒、仆倒：「倒」《新附》「仆也」、「菿」《说文》「艸木倒」、「捯」《集韵》引《说文》「手推也，一曰筑也」、「箌（罩）」为捕鱼的竹笼（《集韵》「罩，捕鱼器，或作箌」）。",
+      "boundary": "字书训释可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "臺：本义是特别高的高台——商代甲骨文从高至声",
+      "statement": "《系统汉语》认为，「臺」的商代甲骨文本从高至声：「高」指高台；从「至」，象意高到极点，表示特别高。tái，《说文》「观，四方而高者。从至从之，从高省。与室屋同意」。",
+      "boundary": "《说文》训释可考；「从高至声」是作者对甲金文的释读。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "臺：引申指高而平之物，古亦谓陵墓曰台",
+      "statement": "《系统汉语》认为，「臺」引申指象台观一样高而平的东西，如「柜台」「灶台」；《字汇补》「古谓陵墓曰台」；《尔雅》「夫须」，孔颖达疏「旧说夫须，莎草也，可为蓑笠」，作者认为实即戴斗笠的样子如台。",
+      "boundary": "字书训释可考；「夫须如戴斗笠」是作者的取象解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "臺：高台用于观远或作建筑基础，引申指等待、支撑、同等",
+      "statement": "《系统汉语》认为，高台一般用于观远或作建筑基础，故「臺」或引申指等待（《广雅》「待也」）；或引申指支撑、底座（《方言》「支也」，《释名》「持也，筑土坚高能自胜持也」）；或引申指同等（《广雅》「辈也」）。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "臺：本「至」声，因有高挺之意而义音同「台」，今简作「台」",
+      "statement": "《系统汉语》认为，「臺」本「至」声；因有高挺之意，而义音同「台」——《字汇补》「𩦽，与駘同」；今也将「臺」简化作「台」。",
+      "boundary": "属作者音源体系主张；「臺」今简化为「台」为现行规范，非作者主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "臺族：指台形之高平物——薹、籉、檯、擡",
+      "statement": "《系统汉语》把「臺」部指台形、表示高平之物的字归为一族：「薹」为芸薹（油菜）或薹草（即夫须，可制蓑衣、斗笠），亦指蒜、韭、油菜长出的花莛；「籉」为斗笠，戴在头上如高台；「檯」今指桌子、几案；「擡」《广韵》「举也」。",
+      "boundary": "字书训释可考；同族归类与「如高台」的取象属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "臺族：指台状而僵挺木然——嬯为迟钝，懛同「呆」",
+      "statement": "《系统汉语》把「臺」部指台状、表示僵挺、木然之貌的字归为一族：「嬯」，《说文》「迟鈍也」，《玉篇》「钝劣也」；「懛」，《广韵》「懛剴，失志貌」，同「呆」，即痴呆、笨拙；「儓」，《广韵》「儓儗，痴貌」。",
+      "boundary": "字书训释可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "彘：本义是箭射野猪——野猪性猛，须用矢远射",
+      "statement": "《系统汉语》认为，「彘」的商代甲骨文象矢射豕之形，象意箭射野猪。野猪性猛，有着尖利的长牙，尤其是受伤的野猪会冲着对方疯狂冲刺，十分危险；而其皮硬气长，往往难以一招致命，因此近距离攻击十分危险，需要用矢远射。",
+      "boundary": "属作者据字形所作的解释；《说文》训「豕也」，未言射猎。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "彘：家猪由野猪驯化，且「矢」通「屎」，故彘从豕矢声",
+      "statement": "《系统汉语》认为，家猪本由野猪驯化而来，故「彘」也引申指家猪；且猪喜卧粪堆中，「矢」本通「屎」，则「彘」本从豕矢声。《说文》：「豕也。后蹏废谓之彘。从彑，矢声；从二匕，彘足与鹿足同。」",
+      "boundary": "《说文》条文可考；「从豕矢声、取猪卧粪堆」是作者的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3a-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi",
+      "title": "彘族：指野猪贯矢之状——𩻼应指河豚，璏为剑鼻玉",
+      "statement": "《系统汉语》把「彘」部的字归为一族，取野猪贯矢之状：「𩻼」《集韵》「鱼名」，作者认为应指河豚——河豚肥而皮表有刺，故如贯矢之猪状；「璏」《说文》「剑鼻玉也」，即剑匣旁穿系皮带的有孔玉石，佩剑如贯矢之状。",
+      "boundary": "字书训释可考；「河豚如贯矢之猪」「佩剑如贯矢」是作者的取象解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸：本义是祭祀时代死者受祭的人，蹲踞不动",
+      "statement": "《系统汉语》认为，「尸」象人屈膝蹲踞的样子，指古代的祭祀仪式中用死者的后代代替已经死去的人接受祭拜，故蹲着不动。",
+      "boundary": "「尸」为祭祀代受祭者是古礼可考的制度；「象蹲踞之形」是作者对字形的判断，《说文》另释为「象卧之形」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/03b-shi-shu.md",
+      "topic_title": "卷三·尸部与朿部",
+      "topic_summary": "尸、尺、朿、策、責五字的字形分析、转义、辨证、音源与字族义项，以及尸祭之礼、以身为度与木刺取象。",
+      "topic_keywords": [
+        "尸",
+        "尸祭",
+        "尺骨",
+        "朿",
+        "策",
+        "責",
+        "木刺"
+      ]
+    },
+    {
+      "id": "j3b-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸：何休注详列尸祭之制——天子以卿为尸，诸侯以大夫为尸",
+      "statement": "《系统汉语》引《公羊传·宣公八年》汉何休注：「祭必有尸者，节神也。礼，天子以卿为尸，诸侯以大夫为尸，卿大夫以下以孙为尸。夏立尸，殷坐尸，周旅酬六尸。」又引唐李华《卜论》：「夫祭有尸，自虞夏商周不变。战国荡古法，祭无尸。」",
+      "boundary": "注文与《卜论》原文可考；只证尸祭之制，不据此反推字形。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸：人蹲着不便行走，故引申指陈列、摆设",
+      "statement": "《系统汉语》认为，人蹲着时不便行走，故「尸」的义指陈列、摆设，只能被搬动之意。shī，《广韵》「陈也」。",
+      "boundary": "《广韵》义训可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸：代替祭祀对象享受供奉，引申指神主、主持、执掌",
+      "statement": "《系统汉语》认为，尸代替祭祀的对象享受供奉，故引申指神主、主持、执掌。《玉篇》「主也」；或比喻指坐享禄位、不干实事，如「尸位素餐」。",
+      "boundary": "《玉篇》义训可考；「尸位素餐」为成语用法，其比喻形成过程属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸：由坐着不动引申指死者的尸体，又引申指舒展",
+      "statement": "《系统汉语》认为，由尸的坐着不动，引申指死者的尸体。《左传·隐公元年》：「赠死不及尸。」杜预注：「尸，未葬之通称。」又由尸体之状，引申指舒展，《释名》「舒也」。",
+      "boundary": "《左传》及杜预注、〈释名〉可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸：辨证——《说文》「象卧之形」不确，尸祭时并非卧着",
+      "statement": "《系统汉语》辨证：《说文》「陈也。象卧之形。凡尸之属皆从尸。式脂切」；根据何休所注，尸祭时并不是卧着的，故析形不确。",
+      "boundary": "《说文》原文可考；判其不确是作者的辨证意见，依据是礼书所述尸祭姿态。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸：借音字——蹲踞之状如拉弓射箭，故义音同「矢」，屎本尸声",
+      "statement": "《系统汉语》认为，「尸」是借音字：蹲踞之状如拉弓射箭，故义音同「矢」。《庄子·人间世》「以筐盛矢」，《释文》「矢，或作屎」；《史记·廉颇蔺相如列传》「顷之三遗矢矣」，司马贞索隐「矢，一作屎」。屎本尸声。",
+      "boundary": "所引《庄子》《史记》及其注文可考；「蹲踞如拉弓」是作者的取象解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸族：鳲鸠即布谷（大杜鹃），产卵他巢由他鸟代孵，故从「尸」",
+      "statement": "《系统汉语》释「鳲（𨾋䲩）」：《尔雅·释鸟》「鳲鸠，鴶鵴」；《集韵》「鳲鸠，鸟名，布谷也」。作者认为，布谷即大杜鹃，将卵产在别的鸟巢里，由别的鸟代为孵化、哺育，故从「尸」（取代为受事之意）。",
+      "boundary": "鸟名为字书可考；大杜鹃托卵寄生是博物事实；「从尸取代受之义」是作者的取象解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸族：「屎」甲骨文象人拉屎之状，「𦳊」本指粪池",
+      "statement": "《系统汉语》释「屎（𦳊𣢂）」：《广韵》「𦳊，《说文》曰：『糞也。』本亦作矢，俗作屎」，即大便。作者认为，甲骨文本象人拉屎之状，跟「尿」相应；「𦳊」本指粪池。",
+      "boundary": "《广韵》引《说文》可考；「甲骨文象人拉屎之状」是作者的释读。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尸族：杘为络丝车摇把（原地转动如尸），㕞、刷为拂拭清扫",
+      "statement": "《系统汉语》把「尸」部指尸的享祭之状、表示被动接受或只有手动嘴动的字归为一族：「杘（𣒺柅）」，《说文》「籆柄也」，即络丝车的摇把，原地转动如尸之意；「㕞」，《说文》「拭也。从又持巾在尸下」，拂拭、清扫；「刷」，《说文》「刮也」，古代的理发用具；「唰」，《玉篇》「鸟治毛衣也」，即鸟用喙梳理羽毛。",
+      "boundary": "《说文》条文可考；同族归类与「原地转动如尸」的取象属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尺：本义指膝盖以下到脚踝的一截「尺骨」，反映以身为度",
+      "statement": "《系统汉语》认为，「尺」在战国时期的籀文从「尸」的足部有标记形，象事指膝盖以下到脚踝这一截「尺骨」；这段长度跟手腕纹至肘纹之间的长度一般等同，故这段骨头一般叫「尺骨」。这反映了先民用人的身体来作度量。台湾故宫博物院藏商代骨尺，其长度相当于现在的 16.93 厘米，划分十寸；标志符后逐渐讹变成「乙」形。",
+      "boundary": "商代骨尺实物与「以身为度」的度量史可考；「籀文从尸足加标记指尺骨」是作者的释读。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尺：由小腿长度引申指量尺度，或指工尺谱符号",
+      "statement": "《系统汉语》认为，「尺」由小腿的长度引申指量尺度。chǐ，《广韵》「尺寸也，十寸为尺」；长度不同发出的声音有别，故或引申指工尺谱符号之一，表示音阶上的一级，读作 chě。",
+      "boundary": "《广韵》义训与工尺谱用法可考；由「小腿」到「量尺度」的引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尺：辨证——《说文》「从尸从乙」，从字理看并非「尺」字",
+      "statement": "《系统汉语》辨证：《说文》「十寸也。人手却十分动脉为寸口。十寸为尺，尺所以指尺规榘事也。从尸从乙。乙，所识也。周制，寸、尺、咫、寻、常、仞诸度量，皆以人之体为法」；作者认为，虽然十寸是谓尺，但从「尺」的字理角度来说，它不是「尺」字，故析形不确。",
+      "boundary": "《说文》原文可考；「从字理看不是尺字」是作者的辨证，表述较曲折，录以存其说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "尺族：蚇蠖爬行一屈一伸如量尺，呎为英尺旧称",
+      "statement": "《系统汉语》把「尺」部指尺量义的字归为一族：「蚇」，《唐韵》「蚇蠖，虫名」，即尺蠖蛾的幼虫，爬行动时身体一屈一伸地前进，如量尺；「呎」为「英尺」的旧称，英美制长度单位，一呎为十二英寸，约合中国市尺九寸一分四厘；「伬」为古代工尺谱一记音符号，相当于简谱「2」的高音。",
+      "boundary": "字书训释与旧称可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "朿：本义是箭头的尖刺——在「矢」上加「一」的象事字",
+      "statement": "《系统汉语》认为，「朿」最初是象事字，在「矢」上加「一」，表示为箭头部分；箭头部分十分尖利，故借指木刺。后「一」演化成箭头状，象尖刺形；「矢」则或演化作「木」形；「一」或演化作表示集束性的符号，表示有许多数不清的小刺。cì，《说文》「木芒也。象形。凡朿之属皆从朿。读若刺」。",
+      "boundary": "《说文》训释可考；「在矢上加一指箭头」是作者对构形的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "朿：音本从「矢」，因木刺成串如脊椎而义音同「脊」",
+      "statement": "《系统汉语》认为，「朿」的音本从「矢」；因木刺成串如脊椎，故义音同「脊」。《说文》「㾊，古文膌」；《诗·小雅·正月》「不敢不蹐」，「蹐」《说文》「𧻕」字条引作「𧻕」；「有伦有脊」的「脊」，《春秋繁露·深察名号》引作「𨒪」。",
+      "boundary": "所引异文可考；「木刺成串如脊椎故音脊」是作者的音源解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "朿族：指刺形与穿刺——茦为草芒刺，㾊为瘦，刺为直伤",
+      "statement": "《系统汉语》把「朿」部字归为两族：指刺形、尖细之物的有「茦（莿）」，《说文》「莿也。从艸朿声」，即草的芒刺；「㾊」，《说文》「古文膌」，《集韵》「膌，瘦也」；指刺利、表示穿刺的有「刺」，《说文》「君杀大夫曰刺。刺，直伤也。从刀从朿，朿亦声」，即用东西穿刺；「𧻕」，《说文》「侧行也」，踮起脚尖行走；「𧧒」，《说文》「数谏也」。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "朿族：「刺」又指名刺、针刺，取笔刺简牍之意",
+      "statement": "《系统汉语》释「刺」的多义：《广韵》「穿也」「针刺也，以针黹物曰刺」；《韵会》「棘芒也」；《释名》「书姓名于奏白曰刺」，又「书称刺书，以笔刺纸、简之上也；又曰写，倒写此文也」，即名刺；《正字通》「侦伺」；《尔雅》「杀也」；qì，「刺促」，忙迫、劳苦不宁。",
+      "boundary": "字书训释可考；「以笔刺简牍」为《释名》原文，非作者新说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "策：本义是细的竹条、竹片——从竹朿声",
+      "statement": "《系统汉语》认为，「策」从竹朿声：竹一般无刺，「朿」当指细的竹条，即竹片；战国时期的中山王壶即从「𣂔」，《集韵》「析，古作𣂔」；或指竹枝、竹梢。不过的确有种节上长刺的竹子，只生长于岭南，具体见「箣」。cè，《方言》「木细谓之杪，燕之北鄙，朝鲜洌水之闲谓之策」。",
+      "boundary": "《方言》训释可考；「朿指竹片」是作者的选择，书中亦举「析」古字为证。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "策：竹片用途广泛，引申出马鞭、谋略、书简、拐杖诸义",
+      "statement": "《系统汉语》认为，竹片或竹枝用途广泛：可作鞭笞，故引申指马鞭，《说文》「马箠也」，由此引申指鞭打、驱使、督促；可作算筹（《广韵》「筹也」），由此引申指谋略、策划（《广韵》「谋也」）；可作书简（《正字通》「与筴、册通」）；可编器具（《集韵》「小箕曰策」）；大的还可作拐杖（《康典》「金策，锡杖也」）；或引申指刺（《方言》「凡草木刺人，北燕、朝鲜之闲谓之策」）。",
+      "boundary": "字书训释可考；由「竹片」统摄诸义的引申框架属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "策：本「朿」声，因有简册意而义音同「册」",
+      "statement": "《系统汉语》认为，「策」本「朿」声；因有简册意，而义音同「册」——《集韵》「册，与策通」。",
+      "boundary": "属作者音源体系主张；《集韵》条文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "策族：箣竹节上有刺，邕州旧以为城，蛮蜑来侵竟不能入",
+      "statement": "《系统汉语》引晋戴凯之《竹谱》：「箣竹，即节上有刺，南人呼竹为箣。邕州旧以为城，蛮蜑来侵，竟不能入，即箣竹也。」即大簕竹。同族另有「鏼」为铁枪、「憡」为痛、「𢿸」为击、「㩍」为扶杖。",
+      "boundary": "《竹谱》原文可考；「箣竹成城御侵」为书中转引的古代记载。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "責：本义是以尖物刺贝——挑贝肉、扎贝成串、负债、小贝四解",
+      "statement": "《系统汉语》认为，「責」从贝朿声：「贝」指贝壳或钱贝；从「朿」，或象意用尖利之物将贝壳里面的肉挑出来，即「拺（chuò）」之义（《集韵》「擉，刺取鳖蜃也，或作簎、拺、捔」）；或指用朿将贝壳扎穿，以便串连起来作为钱币或作装饰，表示积累（此义分化如「积」）；或指钱贝如刺，象意因钱而受累，表示负债之意（zhài，《字汇》「负财也」）；或指贝的尖利如刺，象意小的贝壳（此义分化如「鰿」，《尔雅·释鱼》「贝小者鰿」）。",
+      "boundary": "字书训释可考；四种取象并列为作者的解释，孰为本义书中未定一说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "責：由用刺扎贝引申指索求、责备，由负债引申指责任",
+      "statement": "《系统汉语》认为，「責」由用刺扎贝壳，引申指索求。zé，《说文》「求也。从贝，朿声」；或引申指责备、处罚，《字汇》「诮也，责望」；由负债，引申指责任，《字汇》「责任」。",
+      "boundary": "《说文》《字汇》训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3b-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-shi-shu",
+      "title": "責族：磧为沙石浅滩，賾为深奥，積本义当指禾穗如串贝",
+      "statement": "《系统汉语》把「責」部指穿刺、表示责备发怒，与指穿成串、表示积聚堆叠的字归为两族：前者如「嘖」《说文》「大呼也」、「謮」《集韵》「怒也，让也」、「㥽」《博雅》「责也」；后者如「幘」《说文》「发有巾曰幘」、「簀」《说文》「床栈也」即床上的竹编铺板、「磧」《说文》「水陼有石者」即沙石积成的浅滩、「賾」《小尔雅》「深也」即深奥、「積」《说文》「聚也」，作者认为本义当指禾穗，状如穿起的贝。",
+      "boundary": "《说文》等条文可考；「積本义指禾穗」是作者的判断，同族归类亦属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：本义是蒺藜——三个刺球果实相叠，为「薺」的初文",
+      "statement": "《系统汉语》认为，「齊」从「蒺藜果实」之形的三叠：该形象蒺藜的刺球果实，三叠则象意蒺藜果之多。「齊」是「薺（cí）」的初文。《说文》：「薺，蒺棃也。从艸齊声。《诗》曰：『墙有薺。』」",
+      "boundary": "《说文》「薺」字条可考；「齊为薺之初文、象蒺藜刺球三叠」是作者的释读，《说文》另释为「禾麦吐穗上平」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/03c-qi-ci-zi.md",
+      "topic_title": "卷三·齊次𠂔诸部",
+      "topic_summary": "齊、次、㳄、𠂔四字的字形分析、转义、辨证、音源与字族义项，以及对「齐、次、刺」取象的辨析。",
+      "topic_keywords": [
+        "齊",
+        "蒺藜",
+        "次",
+        "㳄",
+        "涎",
+        "𠂔",
+        "秭",
+        "木刺"
+      ]
+    },
+    {
+      "id": "j3c-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：蒺藜茎贴地、叶对生，引申指平齐、调剂、修剪",
+      "statement": "《系统汉语》认为，蒺藜茎平贴地面而生，且叶对生，故「齊」引申指平齐、调剂义。qí，《广韵》「整也，中也，好也，等也」，《集韵》「和也」；或引申指修剪，jiǎn，《集韵》「前，《说文》：『齐断也。』或作齐，俗作剪，非是」。",
+      "boundary": "字书训释可考；由蒺藜贴地、叶对生到「平齐」的引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：蒺藜刺扎人而多生路旁，引申指谨慎虔敬与界限限制",
+      "statement": "《系统汉语》认为，蒺藜刺扎人，且好生路旁，故「齊」引申指小心、谨慎、虔诚（zhāi，《广韵》「庄也」，《集韵》「斋，《说文》：『戒洁也。』隶作齐」，「齐齐，恭悫貌」）；又因蒺藜常被作为墙垣的防护栽种，引申指界限、限制（jì，《列子·杨朱》「百年，寿之大齐」，张湛注「齐，限也」）。",
+      "boundary": "《广韵》《列子》及张湛注可考；两条引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：辨证——禾麦颗粒椭圆、穗为长条，非菱形刺状，故《说文》所析不确",
+      "statement": "《系统汉语》辨证：《说文》「禾麦吐穗上平也。象形。凡亝之属皆从亝」，徐锴注「生而齐者莫若禾麦」。作者认为「禾麦」应非其本义：禾麦之实虽有芒如刺，但颗粒椭圆，不为菱形，而其穗更是长条，故所析不确。",
+      "boundary": "《说文》原文与徐锴注可考；驳「禾麦」而主「蒺藜」是作者的辨证。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：借音字——蒺藜果有刺，故义音同「朿」",
+      "statement": "《系统汉语》认为，「齊」是借音字：因蒺藜果有刺，故义音同「朿」。《诗·小雅·大田》「此有不敛穧」，孔颖达疏「定本集注穧作积」；积本朿声。",
+      "boundary": "属作者音源体系主张；孔疏异文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：薺为蒺藜，薺菜俗称地菜，如蒺藜般贴地而生",
+      "statement": "《系统汉语》释「薺」：《说文》「蒺棃也。从艸齊声。《诗》曰：『墙有薺。』」；jì，《玉篇》「甘菜也」，即薺菜，俗称「地菜」，如蒺藜般贴地而生，嫩时可食；qí，《字汇》「荸，俗呼荸薺，即鳧茈」。",
+      "boundary": "《说文》《玉篇》训释可考；「贴地而生」为作者用以串连字族取象的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：臍居人体正中，濟水清澈不浑，劑为剪齐",
+      "statement": "《系统汉语》把「齊」部表示平齐、调剂的字归为一族：「臍（𪗇）」，《说文》「肚臍也。从肉齊声」，位处人体的正中；「濟」为济水，《说文》「水。出常山房子赞皇山，东入泜」，《风俗通·山泽篇》「济者齐，齐其度量也」；「劑」，《说文》「齐也。从刀从齊，齊亦声」，即剪齐。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：齋为戒洁，齏为韭菜酱——「与诸味相济成」",
+      "statement": "《系统汉语》释「齋（斎𪗓斋）」：《说文》「戒，洁也。从示，齊省声」，《广韵》「洁也，亦庄也，敬也，经典通用齐也」，《正字通》「燕居之室曰斋」，即房舍、书斋；释「齏（虀）」：《说文》「䪢，坠也。从韭，次、𠂔皆声。𠬘，䪢或从齊」，即韭菜酱，《释名》「虀，济也，与诸味相济成也」。",
+      "boundary": "《说文》《广韵》《释名》条文可考；列为同族属作者编排。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：鱭（刀鱼）体形狭长侧薄似尖刀，多细毛状骨刺",
+      "statement": "《系统汉语》释「鱭（鮆）」：jì，《集韵》「鮆，《说文》：『㱃而不食，刀鱼也。』或从齊」。刀鱼是一种洄游鱼类，与河鲀、鲥鱼和鮰鱼一起被誉为「长江四鲜」，平时生活在海里，每年 2～3 月份溯江而上生殖洄游；鱼体形狭长侧薄，颇似尖刀，银白色，肉质细嫩，但多细毛状骨刺，故指吃时须小心谨慎之意。",
+      "boundary": "鱼名与物性描述属博物知识；「故指吃时须小心谨慎」是作者把物性与「齊（谨慎）」义相系的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：本义是口水挂在嘴边——从欠从冫，与「㳄」同源",
+      "statement": "《系统汉语》认为，「次」从欠从冫：「冫」即冰，水凝结的样子；「欠」指张开口，合而象意口水挂在嘴边状。与「㳄（xiàn）」本是同源字，《广韵》「口液也」。",
+      "boundary": "属作者据字形所作的解释；《说文》另释「不前，不精也。从欠二声」，作者判其不确。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：口水逐渐分泌，引申指依次、次等；欲流未流，引申指途中停留",
+      "statement": "《系统汉语》认为，口水含蛋白质带黏性，逐渐由唾液腺分泌出来，故「次」引申指依次、逐渐（cì，《玉篇》「叙也」，《广雅》「近也」），又由依次引申指次等（《字汇》「亚也」）；由口水挂在嘴边欲流未流、欲断未断状，引申指途中的临时停留（《广雅》「舍也」），或欲进不前的样子（zī，《集韵》「趑，《说文》：『趑趄，行不进也。』或作次」）。",
+      "boundary": "字书训释可考；两条引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：辨证——《说文》「从欠二声」不确；「次」与「㳄」侧重不同",
+      "statement": "《系统汉语》辨证：因「二、冫」形近，故《说文》「不前，不精也。从欠二声。七四切」析形不确。书中又辨「次、㳄」虽同源而侧重点不同：「次」侧重在「冫」，指口水的凝滞状态；「㳄」的核心在「欠」，指因渴望得到而张开嘴的样子。",
+      "boundary": "《说文》原文可考；判其不确与两字分工是作者的辨证意见。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：借音字——口水徐出如蚕吐丝，义音同「兹」；欲前不进，义音同「齐」",
+      "statement": "《系统汉语》认为，「次」是借音字：因口水徐徐流出，其状如蚕吐丝，故义音同「兹」——《吕氏春秋·知分》「荆有次非者」，「次非」《汉书·宣帝纪》作「佽飞」，如淳注引《吕氏春秋》「荆有兹非」。或因欲前不进之小心状，义音同「齐」：《礼记·玉藻》「趋以采齐」，「齐」《大戴礼记·保傅》作「茨」。",
+      "boundary": "属作者音源体系主张；所引异文与注文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次族：依次累叠——栥与㮞为柱上短方木，絘为绩麻捻线，垐为以土增道",
+      "statement": "《系统汉语》把「次」部指次的流出、表示依次累叠的字归为一族：「栥」为屋柱上的短方木；「㮞（楶）」，《说文》「𣝍櫨也」，《尔雅》「栭谓之楶」，即柱上支撑大梁的方木；「絘」，《说文》「绩所缉也」，即续绩麻捻成线，或指税钱；「垐（堲）」，《说文》「以土增大道上」，即用土一层一层地增垫在大路上；「佽」，《说文》「便利也……一曰递也」，《广韵》「助也、代也、及也」。",
+      "boundary": "《说文》《尔雅》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次族：資为财货逐渐积累，茨为以茅苇盖屋（次比草为之）",
+      "statement": "《系统汉语》认为，「資」从「次」，因财货也是逐渐积累起来的。《说文》「货也。从贝次声」；《尔雅》「将，资也」，即送。「茨」，《说文》「以茅苇盖屋。从艸次声」，《释名》「次也，次比草为之也」。",
+      "boundary": "《说文》《释名》条文可考；「财货逐渐积累故从次」是作者的理据说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "㳄：本义是唾沫横飞——甲骨文于「欠」的口部加小点",
+      "statement": "《系统汉语》认为，「㳄」的甲骨文从「欠」的口部有许多小点：「欠」象嘴张开形；小点，战国古文演化作「水」，指唾沫、口水，象意唾沫横飞的样子。xián，《集韵》「涎本字」。",
+      "boundary": "属作者据字形所作的解释；今通行作「涎」为字书可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "㳄：由垂涎引申指贪欲；本「欠」声，附于《次部》以便比对",
+      "statement": "《系统汉语》认为，「㳄」由垂涎引申指贪欲，xiàn，《说文》「慕欲口液也。从欠从水」。其音本「欠」声，应属于《欠部》，为方便比对，附于《次部》。",
+      "boundary": "《说文》训释可考；「本欠声、附于次部」是作者的处理说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：本义是把丰茂的草捆成一束，即「秭」的初文",
+      "statement": "《系统汉语》认为，「𠂔」的甲骨文从「丰」从集束之形：「丰」指草的长势茂盛，合而象意将丰茂的草类捆成一束，实即「秭（zǐ）」的初文。《集韵》「禾五稯」，《广韵》「稯，禾束」。",
+      "boundary": "《集韵》《广韵》条文可考；「即秭之初文」是作者的判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：草束意味收割，故引申指停止",
+      "statement": "《系统汉语》认为，草束意味着收割，故「𠂔」引申指停止。zǐ，《集韵》「止也」。",
+      "boundary": "《集韵》义训可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：辨证——《说文》「从𣎵盛而一横止之」不确；「巿」从巾，与𠂔形近而混",
+      "statement": "《系统汉语》辨证：西周金文演变较大，已经看不出「丰」字，小篆从之，故《说文》「止也。从𣎵盛而一横止之也」析形不确。又「巿、𠂔」形近，故或相混：《集韵》「巿，草木盛貌」，实际上「巿」从「巾」，指佩巾长而宽的样子，故有丰沛之意；《说文》「韠也……从巾，象连带之形」所解是正确的。",
+      "boundary": "《说文》原文可考；「巿从巾、所解正确」是作者对《说文》的肯定，与对「𠂔」的否定并列。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔辨形：「朿」「𣎳」「市」三字本义各不相同，不可与「𠂔」相混",
+      "statement": "《系统汉语》并辨形近诸字：「朿」本指刺；「𣎳」本指麻，引申指分削；「市」本指庙会，引申指热闹、杂乱。这些字与「𠂔、巿」形近而实不同源。",
+      "boundary": "属作者的字形辨析；各字本义另有异说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：借音字——因有停止意，义音同「次」",
+      "statement": "《系统汉语》认为，「𠂔」是借音字：因有停止意，而义音同「次」。《易·夬》「其行次且」，《释文》「次，《说文》及郑作趀」。",
+      "boundary": "属作者音源体系主张；《释文》异文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔族：秭为二百把禾，泲为济水（亦指滤酒），胏为带骨干肉，笫为竹编床垫",
+      "statement": "《系统汉语》把「𠂔」部指草束、表示聚束的字归为一族：「秭」，《说文》「五稯为秭……一曰数亿至万曰秭」，《广雅》「积也」；「泲（濟）」，《说文》「沇也，东入于海」，即济水，源出王屋山，从地下冒出、清澈透亮，横穿黄河河床，宋文彦博赞其「远朝沧海殊无碍，横贯黄河自不浑」，《正字通》「莤泲，釃酒也」，用茅草束滤酒；「胏（𦚙）」，《说文》「食所遗也」，即吃后剩下的食物，又指带骨的干肉；「笫」，《说文》「床箦也」，即竹编的床垫子。",
+      "boundary": "《说文》《广雅》《正字通》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔族：姊为女兄，西周金文象人头上有发饰之形",
+      "statement": "《系统汉语》释「姊（姉）」：《说文》「女兄也。从女𠂔声」；《正字通》引《读书通》谓古从笫、从巿，音近相通，故姊亦或作姉。作者指出，西周金文跟「每」所从同，象人头上有发饰形，后讹从「𠂔」或「巿」。",
+      "boundary": "《说文》训释可考；金文象发饰之形是作者的释读，故「姊」从𠂔为后起之讹。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意：本义是语言文字所包含的内容——本作「𠶷」，从言中有〇形",
+      "statement": "《系统汉语》认为，「意」本作「𠶷」，《字汇》「𠶷，古文意字」；从言中有〇形：「言」指语言、文字，「〇」跟「束」所从相同，指束缚、包含，合而象意语言文字所包含的内容。",
+      "boundary": "《字汇》可考；「〇即束缚包含」是作者对构形的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/03d-yi-jie.md",
+      "topic_title": "卷三·意部以下诸部",
+      "topic_summary": "意、ㄗ（卩）、即、肥、配、邑、印、氾、射、睪诸字的字形分析、转义、辨证、音源与字族义项，含作者对「卩」作为常用部件的楷化处理。",
+      "topic_keywords": [
+        "意",
+        "卩",
+        "即",
+        "肥",
+        "配",
+        "邑",
+        "印",
+        "氾",
+        "射",
+        "睪"
+      ]
+    },
+    {
+      "id": "j3d-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意：后加「心」作「𢡃」，因「言、音」相近而演变作「意」",
+      "statement": "《系统汉语》认为，「𠶷」后加「心」作「𢡃」；因「言、音」相近，而演变作「意」，表示各种心理活动。yì，《说文》「意，志也。心察言而知意也。从心从音」；《玉篇》「思也」；《增韵》「心所向也」；《广雅》「疑也」；《集韵》「度也，辞也」。",
+      "boundary": "《说文》等条文可考；由「𠶷」到「意」的演变脉络是作者的梳理。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意：心理活动反应迅速则引申指快，内在不显则引申指安泰",
+      "statement": "《系统汉语》认为，「意」由心理活动的反应迅速，引申指快，《玉篇》「𢡃，快也」；心理活动是内在的，外表不一定会显示出来，故引申指安泰，《玉篇》「𢡃，安也」。",
+      "boundary": "《玉篇》义训可考；两条引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意：由心理活动复杂难述引申指数多，由为文指归引申指果仁、意气",
+      "statement": "《系统汉语》认为，「意」由心理活动的复杂性和难以被描述性，引申指数量多，《说文》「𢡃，满也。从心𠶷声。一曰十万曰𠶷」；意是语言、文字的指归、是核心，故引申指果仁，《玉篇》「𠶷，仁也」；表情达意除语言文字外也可通过情态、感叹表现，故引申指意气、气势、叹息（yī，《集韵》「噫，恨声。或作亿、意、嘻、谑、懿」）。",
+      "boundary": "字书训释可考；三条引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意：辨证——「〇」与「中」相似，《说文》「从言从中」之说可参而「快」非本义",
+      "statement": "《系统汉语》辨证：由于「𠶷」所从的「〇」跟「中」相似，故或以为从「中」，《说文》「𠶷，快也。从言从中」；从「言」象意语言所承载的内容也说得通，但「快」应该不是本义，故其说可参。",
+      "boundary": "《说文》原文可考；「可参而非定论」是作者的评断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意：借音字——因有蕴含义而义音同「医」",
+      "statement": "《系统汉语》认为，「意」是借音字：因有蕴含义，而义音同「医」。《庄子·骈拇》「意仁义其非人情乎」，《释文》「意，亦作医」。",
+      "boundary": "属作者音源体系主张；《释文》异文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意族：噫为饱嗝声、亦为叹词；癔取义在「说胡话」",
+      "statement": "《系统汉语》释「噫」：《说文》「饱食息也。从口意声」，即饱嗝声；yī 为叹词，《玉篇》「痛伤之声也」，《广韵》「恨声」。释「癔」：《集韵》「心意病也」，即癔病，发病时喜怒无常、感觉过敏，严重时手足或全身痉挛、说胡话、可昏迷；作者认为其取义的关键在于「说胡话」，即不清楚说的是什么内容。",
+      "boundary": "《说文》《集韵》条文可考；「取义关键在说胡话」是作者的说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意族：鷾为燕子、是商人的图腾神；䗷为细腰蜂，古人误以为它代螟蛉养子",
+      "statement": "《系统汉语》释「鷾（𩁈）」：《广韵》「鷾鸸，玄鸟也，出《庄子》」，即燕子，叫声呢喃，是商人的图腾神，被奉为祖先。释「䗷」：《玉篇》「小蜂也」，即细腰蜂（蜾蠃），因其用泥土在墙上或树枝上作窝、捕螟蛉产卵其体内以作为幼虫的食物，被古人误以为它是帮螟蛉养子。",
+      "boundary": "字书训释与「蜾蠃负螟蛉」的古代误解可考；「商人的图腾神」是作者的说法，非作者独有。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "意族：億为满意而安然（亦数名十万），臆为胸骨亦指猜测，鐿为稀土元素音译",
+      "statement": "《系统汉语》把「意」部表示满、多的字归为一族：「億（亿）」，《说文》「安也。从人𢡃声」，即满意而安然，《集韵》「数名，十万曰亿」；「臆（肊）」，《说文》「胸骨也……或从意」，即心腔部位的肋骨，《方言》「满也」，又指主观的、猜测的；「鐿」为一种稀土金属元素（符号 Yb），是音译字。",
+      "boundary": "字书训释与元素名可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "ㄗ（卩）：本义是象人屈膝下跪之形",
+      "statement": "《系统汉语》认为，「ㄗ」（即「卩」）象人屈膝下跪之形，书中以商代玉人像为图证。",
+      "boundary": "「卩」象跪跽之人为学界的通行解释；此条本身不含作者独有主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "ㄗ：由屈膝引申指节止、节制，又指符节",
+      "statement": "《系统汉语》认为，「ㄗ」由屈膝引申指节止、节制，jié，《玉篇》「今作节」；或引申指符节，《说文》「瑞信也。守国者用玉ㄗ，守都鄙者用角ㄗ，使山邦者用人ㄗ，泽邦者用龙ㄗ，门关者用符ㄗ，货贿用玺ㄗ，道路用旌ㄗ。象相合之形」。",
+      "boundary": "《玉篇》《说文》条文可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "ㄗ：借音字——跪坐为闲居歇息之状，故义音同「次」",
+      "statement": "《系统汉语》认为，「ㄗ」是借音字：古人跪坐多为在家闲居、歇息之状，故义音同「次」。《书·康诰》「勿庸以次汝封」，「次」《荀子·宥坐篇》《孔子家语·始诛》引作「即」；《礼记·杂记下》「山节而藻棁」，「节」《汉书·舆服志》引作「㮞」。书中另录一读 zòu，《说文》「㔿，ㄗ也。阙」。",
+      "boundary": "属作者音源体系主张；所引异文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "ㄗ族：𡴹为山之转弯处，卹为忧恤，𠬨为治，𩱺指土地坚硬瘠薄",
+      "statement": "《系统汉语》把「ㄗ」部多指屈膝、或表示弯曲的字归为一族：「𡴹（岊𡴺巀）」，《说文》「陬隅，高山之节」，即山的转弯处；「卹（恤捽）」，《说文》「忧也……一曰鲜少也」，即忧愁、救济抚恤、怜悯、少；「𠬨（𢻮𠬝）」，《集韵》「治也」；「𩱺」，《集韵》「𩱺𦓥，硗埆也」，指土地坚硬瘠薄。",
+      "boundary": "《说文》《集韵》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "即：本义是就食——从皀ㄗ声，「皀」象豆中盛食，人跪坐而食",
+      "statement": "《系统汉语》认为，「即」从皀ㄗ声：「皀」象豆中装有食物形；从「ㄗ」，因古人多席地而坐，故吃饭时为跪跽状，合而象意就餐。jí，《说文》「即食也。从皀ㄗ声」，徐锴注「即，就也」。",
+      "boundary": "《说文》及徐锴注可考；「跪跽而食」是作者的取象说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "即：由就食时的靠近引申指接近、达到、迎合，亦作虚词「就、即刻」",
+      "statement": "《系统汉语》认为，「即」由就餐时的靠近食物，引申指靠近、接近、达到、迎合（《尔雅·释诂》「尼也」）；或指时间挨着（《玉篇》「今也」），或空间挨着（《方言》「半也」）；或作虚词，表示就、即刻、接着。",
+      "boundary": "字书训释可考；引申链与虚化过程属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "即族：多指靠近、挨紧——節为竹节，櫛为梳篦总名，癤为小疮",
+      "statement": "《系统汉语》把「即」部多指靠近、表示挨紧细密的字归为一族：「節（节）」，《说文》「竹约也」，即竹节，引申指节律、节制、节操、印节；「櫛」，《说文》「梳比之总名也」，即梳篦；「癤（疖）」，《正字通》「疡之小者为癤」，即小疮；「揤」，《说文》「捽也」，即抓按；「蝍」为蜈蚣，亦指尺蠖、蟋蟀。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "肥：本义两解——肉多而鼓出堆叠如节，或指翅膀可以折叠",
+      "statement": "《系统汉语》认为，「肥」从肉ㄗ声，可有两意：一象意肥胖，从「ㄗ」指因肥胖而致肉鼓出、堆叠呈节状（《说文》「多肉也。从肉，从ㄗ」）；二象意翅膀，从「ㄗ」指翅膀可以折叠，古「非」「肥」即可通（《广韵》「痱，同𤷂」，「非」本指翅膀）。",
+      "boundary": "《说文》条文可考；「两意并存」是作者的处理，未定一说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "肥：由肉多引申指厚、丰富；由翅膀引申指相背、扁平",
+      "statement": "《系统汉语》认为，「肥」由肉多引申指厚、丰富，《博雅》「盛也」；由翅膀引申指相背，《尔雅·释水》「归异出同流，肥」，指水同源而异流；或引申指扁平、薄，bǐ，《集韵》「薄也」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "肥族：萉为麻子亦指芦菔（萝卜），𡺮为崩塌，淝为淝水，蜰为体扁有臭腺的臭虫",
+      "statement": "《系统汉语》把「肥」部字归为三族：指肥胖、堆叠的有「萉」，《说文》「枲实也」，即麻子，可食，《尔雅·释草》郭璞注「萉宜为菔，芦菔也」，即萝卜；「𡺮」，《说文》「崩也」，即崩塌。指翅膀、相背的有「淝」，淝河（淝水），源出安徽合肥市西北，一支注淮河、一支注巢湖。指翅膀、扁平的有「蜰」，蟑螂、臭虫，身体扁平赤褐色、腹大、体内有臭腺，吸人畜血液；作者并作助记短诗「有蜰俷德，于䈈萉身。吸血遗臭，𤷂痒难禁」。",
+      "boundary": "《说文》《尔雅》注文可考；同族归类与助记诗属作者所编（诗为助记，不作释义）。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "配：本义是相对饮酒——甲骨文从酉ㄗ声，人跪在酒旁",
+      "statement": "《系统汉语》认为，「配」的甲骨文从酉ㄗ声：「酉」指酒，人跪在旁边，象意饮酒或调制酒。宋宝苹《酒谱·酒之名二》：「相饮曰配。」",
+      "boundary": "《酒谱》可考；「人跪在酒旁」是作者对字形的释读。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "配：引申指配合、匹敌、相当；由倒酒引申指发配",
+      "statement": "《系统汉语》认为，「配」由对饮引申指配合、结合、匹敌、相当，《玉篇》「匹也、媲也、对也、当也、合也」；或由饮酒时的倒酒，引申指发配，《篇海类编》「流刑隶也」，亦指临时的摊派。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "配：辨证——战国古文讹「ㄗ」作己形，《说文》「从酉己声」不确",
+      "statement": "《系统汉语》辨证：战国古文或讹「ㄗ」作己形，为小篆所本，故《说文》「酒色也。从酉己声」析形不确，徐铉注「己非声，当从妃省」亦未得其实。",
+      "boundary": "《说文》原文与徐铉注可考；判其不确是作者的辨证。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "邑：本义是人集中居住、歇息的地方——从囗ㄗ声",
+      "statement": "《系统汉语》认为，「邑」从囗ㄗ声：「囗（wéi）」指四围的地域；「ㄗ」为人跪跽状，表示歇息、靠近，合而象意人所集中居住、歇息的地方。yì，《说文》「邑，国也……从囗，先王之制，尊卑有大小，从ㄗ」；《释名》「邑，犹俋也，邑人聚会之称也」；《左传·庄公二十八年》「凡邑，有宗庙先君之主曰都，无曰邑」，孔颖达疏「小邑有宗庙，则虽小曰都，无乃为邑」。",
+      "boundary": "《说文》《释名》《左传》及孔疏可考；「跪跽示歇息靠近」是作者的取象说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "邑：城邑有护城河高墙，引申指闭塞憋闷；跪跽于室，引申指迎合曲从",
+      "statement": "《系统汉语》认为，古代城邑为防守外有护城河、四围有高墙，故「邑」引申指闭塞、憋闷（《集韵》「唈，鸣唈，短气」，《康典》「又于邑，气逆结不下也」，《史记·商君传》「安能邑邑待数十百年」，邑邑与悒悒通）；由人的跪跽于室之状，引申指迎合、曲从（è，《正韵》「阿邑，与阿匼同，谄谀迎合貌」）。",
+      "boundary": "字书与《史记》可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "邑族：悒为不安忧郁，挹为舀取，浥为浸渍，腌为渍肉",
+      "statement": "《系统汉语》把「邑」部指城邑围护、表示狭窄憋闷，与指城邑河沟、表示浸渍的字归为两族：前者如「悒（𤶛）」，《说文》「不安也」，即忧郁，《正字通》「𤶛，郁病」；「𨹝」，《集韵》「𨹝𨽦，陜也」，即狭窄。后者如「挹（揖）」，《说文》「抒也」，即舀；「浥」，《说文》「湿也」，即浸渍；「腌」，《说文》「渍肉也」；「䱒」为盐渍鱼；「鴨（𪁗）」为水鸭子。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "印：本义是按指纹以作凭信——从爪ㄗ声，「ㄗ」指符节",
+      "statement": "《系统汉语》认为，「印」从爪ㄗ声：「ㄗ」指符节；「爪」或作「又」，合而象意按压指纹以作凭信。",
+      "boundary": "属作者对构形的解释；《说文》训「执政所持信也」，与作者所释本义层次不同。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "印：引申指公章私章，又指按压（分化作「抑」）、痕迹与印证",
+      "statement": "《系统汉语》认为，「印」由按手印引申指公章、私章，yìn，《说文》「执政所持信也」，《广韵》「符印也，印信也」；由按印之状引申指压、按、抑，此义分化作「抑（yì）」，《广韵》「按也，《说文》作𢑏，从反印」；由按印所留的痕迹引申指痕迹、记号，以及印刷、印证等义，此义或分化作「色」，《广韵》「颜色」。",
+      "boundary": "字书训释可考；「抑」「色」由「印」分化的判断属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "印：辨证——「印」与「𠬝」同源，因「ㄗ」取义不同而意义有别",
+      "statement": "《系统汉语》辨证：「印」与「𠬝」同源，但由于「ㄗ」的取义不同而意义有别：当「ㄗ」指跪着的人时，用手按住，象意表示降服，为「𠬝」——其甲骨文从爪从ㄗ，即以手按抑一人之意，是「𢑏（抑）」的初文；后来为区别，便以「报」或「服」表示，故「𠬝」可谓「报」或「服」的省形。",
+      "boundary": "属作者的同源与分化主张；《说文》「𠬝，治也」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "印族：𢬃即「抑」、鮣为头顶有吸盘的印鱼、茚为音译字",
+      "statement": "《系统汉语》把「印」部字归为两类：指按压、踩踏的有「𢬃（𢑏抑）」，《说文》「𢑏，按也。从反印……俗从手」，即压制、往下按；指印状、凭信的有「鮣」，印鱼，体长呈圆筒形、头扁平，头顶有一长椭圆形具软骨质横褶的吸盘，常吸附于大鱼或船底；「茚」今作 indene 的音译字，是一种无色液体有机化合物，为制造合成树脂的原料。",
+      "boundary": "《说文》条文与鱼名、化学名可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "氾：本义是水流停驻不走——从水从ㄗ",
+      "statement": "《系统汉语》认为，「氾」从水从ㄗ：「ㄗ」为人跪跽之状，表示歇息；从「水」，象意水流停驻不走。fàn，《广雅》「渍也」。",
+      "boundary": "《广雅》训释可考；「水流停驻」是作者对构形的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "氾：由水流停驻引申指泛滥漫溢、广博、低洼、污秽",
+      "statement": "《系统汉语》认为，「氾」由水流停住不走，引申指洪水氾滥、漫溢，《说文》「滥也」；或引申指广博，《玉篇》「普博也」；或引申指地势低洼，《扬子·方言》「洿也，自关而东或曰洼，或曰氾」；或引申指污秽，《广雅》「汙也」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "氾：辨形——「ㄗ」楷化后有㔾等写法，单从㔾声者可视作「氾」省声",
+      "statement": "《系统汉语》辨形：「ㄗ」在汉字系统中是一个常用部件，楷化后产生不同的写法，「㔾」只是其中一种。《韵会》：「凡从𢎟字之偏旁作𢎟、巴、㔾、卩。」因单从「㔾」声的字多跟「氾」音义同，故也归入其中，可视为「氾」省声，实即「卩」声。又其音本「ㄗ」声，义音跟「乏、凡」通：《史记·屈原贾生列传》「氾兮若不系之舟」，《文选·鵩鸟赋》作「泛」。",
+      "boundary": "《韵会》与异文可考；「可视作氾省声、实即卩声」是作者的处理原则。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "氾族：范本为草亦指蜂，笵为法式，範为模范——「以土曰型，以金曰镕，以竹曰笵」",
+      "statement": "《系统汉语》释「范」：《说文》「艸也。从艸氾声」；《礼·檀弓》「范则冠，而蝉有緌」，郑玄注「范，蜂也」，孔颖达疏「蜂头上有物似冠也」；今作「笵、範」的简化字。释「笵」：《说文》「法也」，即法则、铸范，《通俗文》「规模曰笵，以土曰型，以金曰镕，以竹曰笵」，即将溶液停驻其中形成器物之意。释「範」：《说文》「範軷也」，为古时出行前祭路神的仪节，亦指铸造器物的模型。",
+      "boundary": "《说文》《通俗文》《檀弓》注疏可考；「溶液停驻成形」是作者的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "氾族：犯为侵犯，砭为以石刺病，𣳜为落葬（同「窆」）",
+      "statement": "《系统汉语》释「犯（𤝑）」：《说文》「侵也」，即侵犯，《玉篇》「抵触也」；释「砭」：《集韵》「砭，《说文》：『以石刺病也。』或从㔾」，即用石针扎皮肉治病；释「𣳜（窆）」：同「窆（biǎn）」，《集韵》「葬下棺也」，即落葬。",
+      "boundary": "《说文》《集韵》条文可考；列为一族属作者编排。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "射：本义是矢在弓弦上欲射出之状，或加「又」示用手拉弓",
+      "statement": "《系统汉语》认为，「射」象矢在弓弦上欲射出的样子；或加「又」，是「用手拉弓射箭」的意思，合而象意射箭。shè，《集韵》「弓弩发也。或从寸」。",
+      "boundary": "属作者对字形的解释；《说文》另释为「弓弩发于身而中于远也，从矢从身」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "射：辨证——战国文字「弓」变成「身」，故《说文》析为「从矢从身」",
+      "statement": "《系统汉语》辨证：因战国文字将「弓」演变成「身」，故或从身从矢、或从寸，故《说文》「弓弩发于身而中于远也。从矢从身……篆文䠶从寸。寸，法度也；亦手也」。此析形之误源于字形的时代演变。",
+      "boundary": "《说文》原文可考；「弓变身为战国文字演变所致」是作者的文字学说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "射：引申指照射、陈述、猜度、离开、厌弃，又指武事官名「仆射」",
+      "statement": "《系统汉语》认为，「射」由箭的发射而出之状，比喻指照射、陈述、猜度、投射、离开、厌弃等，《广韵》「绎也」，yì，《尔雅》「厌也」；由射的目的性引申指猜度，《康典》「又指物而取曰射」；由射箭而引申指军事，yè，《集韵》「仆射，官名。射者，武事，古者重武以主射名官，关中语转为此音」。",
+      "boundary": "字书与官名可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "射：音源字——源自射箭声，因「矢」声本源自射箭而归入《矢部》",
+      "statement": "《系统汉语》认为，「射」是音源字，源自射箭声；因「矢」声本源自射箭，故可归入《矢部》。",
+      "boundary": "属作者音源体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "射族：多指射箭而表示离、弃、速——謝为辞去，榭为无室之厅堂，麝善跳如射",
+      "statement": "《系统汉语》把「射」部多指射箭、表示离弃速的字归为一族：「謝（谢）」，《说文》「辞去也」，《集韵》「告也」，《韵会》「拜赐曰谢」；「榭」，《新附》「台有屋也」，古指无室的厅堂，也为藏器或讲军习武的处所；「麝」，《说文》「如小麋，脐有香」，雄者脐部有香腺能分泌麝香，善跳如射之意。",
+      "boundary": "《说文》条文可考；同族归类与「善跳如射」的取象属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "睪：本义是射箭时的瞄准——与「䀢」同源，甲骨文从目矢声",
+      "statement": "《系统汉语》认为，「睪」跟「䀢」本同源，商代甲骨文从目矢声，象意射箭时的瞄准。yì，《广韵》「伺视也」。",
+      "boundary": "属作者的释读；《说文》另释为「目视也，从横目，从㚔」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "睪：引申指选择；瞄准为了射出，故又引申指释放、败坏",
+      "statement": "《系统汉语》认为，「睪」由瞄准目标引申指选择，zé，《正韵》「择，选也，亦作睪」；瞄准的目的是为了将箭射出去，故引申指释放、败坏，dù，《集韵》「殬，《说文》：『败也。』引《商书》：『彝伦攸殬。』或作殀、斁」。",
+      "boundary": "字书训释可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "睪：辨证——「矢」讹作「㚔」，「目」讹作「白、日」，又与「睾、皋」相混",
+      "statement": "《系统汉语》辨证：由于「矢」跟「幸、㚔、夲」形近，西周金文即或讹从「㚔」，小篆承之，故《说文》「目视也。从横目，从㚔」析形不确；而「目」跟「白、日」形近，战国文字或讹从「白」或「日」，又与「睾、皋」相讹混——《素问·至真要大论》「民病少腹控睪」，王冰注「睪，阴丸也」，其实应该是「睾」之讹字。",
+      "boundary": "《说文》《素问》及王冰注可考；「睪、睾相混」是作者的辨证。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "睪：本「矢」声，义音同「射」",
+      "statement": "《系统汉语》认为，「睪」本「矢」声，义音同「射」：《诗·召南·葛覃》「服之无斁」，「斁」《礼记·缁衣》引作「射」；《穀梁传·昭公八年》「以习射于射宫」，「射宫」《诗·小雅·车攻》毛传作「泽宫」。",
+      "boundary": "属作者音源体系主张；所引异文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "睪族：指瞄准而表示选择、淘洗——釋为解也，澤为光润，擇为柬选",
+      "statement": "《系统汉语》把「睪」部指瞄准、表示选择与淘洗的字归为一族：「釋（释）」，《说文》「解也」，从釆取其分别物，「釆」本指簸米，《诗·大雅》「释之叟叟」毛传「释，淅米也」，因要将糠秕扬弃，故引申指解除、废弃；「澤（泽）」，《说文》「光润也」，作者认为应指水荡漾如淘洗，《风俗通·山泽篇》「水草交厝，名之为泽」；「擇（择）」，《说文》「柬选也」，即挑选；「醳」，《释名》「醳酒，久酿酉泽也」。",
+      "boundary": "《说文》《释名》《风俗通》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "睪族：指射箭而表示抽绎、交替——繹为抽丝，譯为传译，驛为驿骑，鐸为大铃",
+      "statement": "《系统汉语》把「睪」部指射箭、表示抽绎与交替的字归为一族：「繹（绎）」，《说文》「抽丝也」，《尔雅》「陈也」；「譯（译）」，《说文》「传译四夷之言者」，即翻译；「驛（驿）」，《说文》「置骑也」，即驿站的马骑；「圛」，《说文》「回行也」，即来回络绎不绝；「鐸（铎）」，《说文》「大铃也。军法：五人为伍，五伍为两，两司马执铎」，《释名》「铎，度也，号令之限度也」。",
+      "boundary": "《说文》《释名》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3d-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-yi-jie",
+      "title": "睪族：指射箭而表示释放、脱落——蘀为草木皮叶落地，籜为笋壳，蠌为寄居蟹",
+      "statement": "《系统汉语》把「睪」部指射箭、表示释放脱落的字归为一族：「蘀（䕪）」，《说文》「艸木凡皮叶落陊地为蘀」；「籜（箨）」，《类篇》「竹皮也」，即笋壳，笋成竹后会自然脱落；「蠌」，《尔雅·释鱼》郭璞注「螖，即蟛螖也，似蟹而小，一名蠌」，即寄居蟹，形如蜘蛛，寄居在空螺壳里，也可脱出行走；「懌（怿）」，《新附》「说也……经典通用释」，即欢喜、释怀之意。",
+      "boundary": "《说文》《尔雅》注与《类篇》可考；同族归类与「脱落如射」的取象属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷三 19.齊部、20.次部、21.𠂔部（齊、次、㳄、𠂔）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j3c-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：本义是蒺藜——三个刺球果实相叠，为「薺」的初文",
+      "statement": "《系统汉语》认为，「齊」从「蒺藜果实」之形的三叠：该形象蒺藜的刺球果实，三叠则象意蒺藜果之多。「齊」是「薺（cí）」的初文。《说文》：「薺，蒺棃也。从艸齊声。《诗》曰：『墙有薺。』」",
+      "boundary": "《说文》「薺」字条可考；「齊为薺之初文、象蒺藜刺球三叠」是作者的释读，《说文》另释为「禾麦吐穗上平」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/03c-qi-ci-zi.md",
+      "topic_title": "卷三·齊次𠂔诸部",
+      "topic_summary": "齊、次、㳄、𠂔四字的字形分析、转义、辨证、音源与字族义项，以及对「齐、次、刺」取象的辨析。",
+      "topic_keywords": [
+        "齊",
+        "蒺藜",
+        "次",
+        "㳄",
+        "涎",
+        "𠂔",
+        "秭",
+        "木刺"
+      ]
+    },
+    {
+      "id": "j3c-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：蒺藜茎贴地、叶对生，引申指平齐、调剂、修剪",
+      "statement": "《系统汉语》认为，蒺藜茎平贴地面而生，且叶对生，故「齊」引申指平齐、调剂义。qí，《广韵》「整也，中也，好也，等也」，《集韵》「和也」；或引申指修剪，jiǎn，《集韵》「前，《说文》：『齐断也。』或作齐，俗作剪，非是」。",
+      "boundary": "字书训释可考；由蒺藜贴地、叶对生到「平齐」的引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：蒺藜刺扎人而多生路旁，引申指谨慎虔敬与界限限制",
+      "statement": "《系统汉语》认为，蒺藜刺扎人，且好生路旁，故「齊」引申指小心、谨慎、虔诚（zhāi，《广韵》「庄也」，《集韵》「斋，《说文》：『戒洁也。』隶作齐」，「齐齐，恭悫貌」）；又因蒺藜常被作为墙垣的防护栽种，引申指界限、限制（jì，《列子·杨朱》「百年，寿之大齐」，张湛注「齐，限也」）。",
+      "boundary": "《广韵》《列子》及张湛注可考；两条引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：辨证——禾麦颗粒椭圆、穗为长条，非菱形刺状，故《说文》所析不确",
+      "statement": "《系统汉语》辨证：《说文》「禾麦吐穗上平也。象形。凡亝之属皆从亝」，徐锴注「生而齐者莫若禾麦」。作者认为「禾麦」应非其本义：禾麦之实虽有芒如刺，但颗粒椭圆，不为菱形，而其穗更是长条，故所析不确。",
+      "boundary": "《说文》原文与徐锴注可考；驳「禾麦」而主「蒺藜」是作者的辨证。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊：借音字——蒺藜果有刺，故义音同「朿」",
+      "statement": "《系统汉语》认为，「齊」是借音字：因蒺藜果有刺，故义音同「朿」。《诗·小雅·大田》「此有不敛穧」，孔颖达疏「定本集注穧作积」；积本朿声。",
+      "boundary": "属作者音源体系主张；孔疏异文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：薺为蒺藜，薺菜俗称地菜，如蒺藜般贴地而生",
+      "statement": "《系统汉语》释「薺」：《说文》「蒺棃也。从艸齊声。《诗》曰：『墙有薺。』」；jì，《玉篇》「甘菜也」，即薺菜，俗称「地菜」，如蒺藜般贴地而生，嫩时可食；qí，《字汇》「荸，俗呼荸薺，即鳧茈」。",
+      "boundary": "《说文》《玉篇》训释可考；「贴地而生」为作者用以串连字族取象的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：臍居人体正中，濟水清澈不浑，劑为剪齐",
+      "statement": "《系统汉语》把「齊」部表示平齐、调剂的字归为一族：「臍（𪗇）」，《说文》「肚臍也。从肉齊声」，位处人体的正中；「濟」为济水，《说文》「水。出常山房子赞皇山，东入泜」，《风俗通·山泽篇》「济者齐，齐其度量也」；「劑」，《说文》「齐也。从刀从齊，齊亦声」，即剪齐。",
+      "boundary": "《说文》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：齋为戒洁，齏为韭菜酱——「与诸味相济成」",
+      "statement": "《系统汉语》释「齋（斎𪗓斋）」：《说文》「戒，洁也。从示，齊省声」，《广韵》「洁也，亦庄也，敬也，经典通用齐也」，《正字通》「燕居之室曰斋」，即房舍、书斋；释「齏（虀）」：《说文》「䪢，坠也。从韭，次、𠂔皆声。𠬘，䪢或从齊」，即韭菜酱，《释名》「虀，济也，与诸味相济成也」。",
+      "boundary": "《说文》《广韵》《释名》条文可考；列为同族属作者编排。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "齊族：鱭（刀鱼）体形狭长侧薄似尖刀，多细毛状骨刺",
+      "statement": "《系统汉语》释「鱭（鮆）」：jì，《集韵》「鮆，《说文》：『㱃而不食，刀鱼也。』或从齊」。刀鱼是一种洄游鱼类，与河鲀、鲥鱼和鮰鱼一起被誉为「长江四鲜」，平时生活在海里，每年 2～3 月份溯江而上生殖洄游；鱼体形狭长侧薄，颇似尖刀，银白色，肉质细嫩，但多细毛状骨刺，故指吃时须小心谨慎之意。",
+      "boundary": "鱼名与物性描述属博物知识；「故指吃时须小心谨慎」是作者把物性与「齊（谨慎）」义相系的解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：本义是口水挂在嘴边——从欠从冫，与「㳄」同源",
+      "statement": "《系统汉语》认为，「次」从欠从冫：「冫」即冰，水凝结的样子；「欠」指张开口，合而象意口水挂在嘴边状。与「㳄（xiàn）」本是同源字，《广韵》「口液也」。",
+      "boundary": "属作者据字形所作的解释；《说文》另释「不前，不精也。从欠二声」，作者判其不确。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：口水逐渐分泌，引申指依次、次等；欲流未流，引申指途中停留",
+      "statement": "《系统汉语》认为，口水含蛋白质带黏性，逐渐由唾液腺分泌出来，故「次」引申指依次、逐渐（cì，《玉篇》「叙也」，《广雅》「近也」），又由依次引申指次等（《字汇》「亚也」）；由口水挂在嘴边欲流未流、欲断未断状，引申指途中的临时停留（《广雅》「舍也」），或欲进不前的样子（zī，《集韵》「趑，《说文》：『趑趄，行不进也。』或作次」）。",
+      "boundary": "字书训释可考；两条引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：辨证——《说文》「从欠二声」不确；「次」与「㳄」侧重不同",
+      "statement": "《系统汉语》辨证：因「二、冫」形近，故《说文》「不前，不精也。从欠二声。七四切」析形不确。书中又辨「次、㳄」虽同源而侧重点不同：「次」侧重在「冫」，指口水的凝滞状态；「㳄」的核心在「欠」，指因渴望得到而张开嘴的样子。",
+      "boundary": "《说文》原文可考；判其不确与两字分工是作者的辨证意见。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次：借音字——口水徐出如蚕吐丝，义音同「兹」；欲前不进，义音同「齐」",
+      "statement": "《系统汉语》认为，「次」是借音字：因口水徐徐流出，其状如蚕吐丝，故义音同「兹」——《吕氏春秋·知分》「荆有次非者」，「次非」《汉书·宣帝纪》作「佽飞」，如淳注引《吕氏春秋》「荆有兹非」。或因欲前不进之小心状，义音同「齐」：《礼记·玉藻》「趋以采齐」，「齐」《大戴礼记·保傅》作「茨」。",
+      "boundary": "属作者音源体系主张；所引异文与注文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次族：依次累叠——栥与㮞为柱上短方木，絘为绩麻捻线，垐为以土增道",
+      "statement": "《系统汉语》把「次」部指次的流出、表示依次累叠的字归为一族：「栥」为屋柱上的短方木；「㮞（楶）」，《说文》「𣝍櫨也」，《尔雅》「栭谓之楶」，即柱上支撑大梁的方木；「絘」，《说文》「绩所缉也」，即续绩麻捻成线，或指税钱；「垐（堲）」，《说文》「以土增大道上」，即用土一层一层地增垫在大路上；「佽」，《说文》「便利也……一曰递也」，《广韵》「助也、代也、及也」。",
+      "boundary": "《说文》《尔雅》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "次族：資为财货逐渐积累，茨为以茅苇盖屋（次比草为之）",
+      "statement": "《系统汉语》认为，「資」从「次」，因财货也是逐渐积累起来的。《说文》「货也。从贝次声」；《尔雅》「将，资也」，即送。「茨」，《说文》「以茅苇盖屋。从艸次声」，《释名》「次也，次比草为之也」。",
+      "boundary": "《说文》《释名》条文可考；「财货逐渐积累故从次」是作者的理据说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "㳄：本义是唾沫横飞——甲骨文于「欠」的口部加小点",
+      "statement": "《系统汉语》认为，「㳄」的甲骨文从「欠」的口部有许多小点：「欠」象嘴张开形；小点，战国古文演化作「水」，指唾沫、口水，象意唾沫横飞的样子。xián，《集韵》「涎本字」。",
+      "boundary": "属作者据字形所作的解释；今通行作「涎」为字书可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "㳄：由垂涎引申指贪欲；本「欠」声，附于《次部》以便比对",
+      "statement": "《系统汉语》认为，「㳄」由垂涎引申指贪欲，xiàn，《说文》「慕欲口液也。从欠从水」。其音本「欠」声，应属于《欠部》，为方便比对，附于《次部》。",
+      "boundary": "《说文》训释可考；「本欠声、附于次部」是作者的处理说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：本义是把丰茂的草捆成一束，即「秭」的初文",
+      "statement": "《系统汉语》认为，「𠂔」的甲骨文从「丰」从集束之形：「丰」指草的长势茂盛，合而象意将丰茂的草类捆成一束，实即「秭（zǐ）」的初文。《集韵》「禾五稯」，《广韵》「稯，禾束」。",
+      "boundary": "《集韵》《广韵》条文可考；「即秭之初文」是作者的判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：草束意味收割，故引申指停止",
+      "statement": "《系统汉语》认为，草束意味着收割，故「𠂔」引申指停止。zǐ，《集韵》「止也」。",
+      "boundary": "《集韵》义训可考；引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：辨证——《说文》「从𣎵盛而一横止之」不确；「巿」从巾，与𠂔形近而混",
+      "statement": "《系统汉语》辨证：西周金文演变较大，已经看不出「丰」字，小篆从之，故《说文》「止也。从𣎵盛而一横止之也」析形不确。又「巿、𠂔」形近，故或相混：《集韵》「巿，草木盛貌」，实际上「巿」从「巾」，指佩巾长而宽的样子，故有丰沛之意；《说文》「韠也……从巾，象连带之形」所解是正确的。",
+      "boundary": "《说文》原文可考；「巿从巾、所解正确」是作者对《说文》的肯定，与对「𠂔」的否定并列。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔辨形：「朿」「𣎳」「市」三字本义各不相同，不可与「𠂔」相混",
+      "statement": "《系统汉语》并辨形近诸字：「朿」本指刺；「𣎳」本指麻，引申指分削；「市」本指庙会，引申指热闹、杂乱。这些字与「𠂔、巿」形近而实不同源。",
+      "boundary": "属作者的字形辨析；各字本义另有异说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔：借音字——因有停止意，义音同「次」",
+      "statement": "《系统汉语》认为，「𠂔」是借音字：因有停止意，而义音同「次」。《易·夬》「其行次且」，《释文》「次，《说文》及郑作趀」。",
+      "boundary": "属作者音源体系主张；《释文》异文可考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔族：秭为二百把禾，泲为济水（亦指滤酒），胏为带骨干肉，笫为竹编床垫",
+      "statement": "《系统汉语》把「𠂔」部指草束、表示聚束的字归为一族：「秭」，《说文》「五稯为秭……一曰数亿至万曰秭」，《广雅》「积也」；「泲（濟）」，《说文》「沇也，东入于海」，即济水，源出王屋山，从地下冒出、清澈透亮，横穿黄河河床，宋文彦博赞其「远朝沧海殊无碍，横贯黄河自不浑」，《正字通》「莤泲，釃酒也」，用茅草束滤酒；「胏（𦚙）」，《说文》「食所遗也」，即吃后剩下的食物，又指带骨的干肉；「笫」，《说文》「床箦也」，即竹编的床垫子。",
+      "boundary": "《说文》《广雅》《正字通》条文可考；同族归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j3c-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-03-qi-ci-zi",
+      "title": "𠂔族：姊为女兄，西周金文象人头上有发饰之形",
+      "statement": "《系统汉语》释「姊（姉）」：《说文》「女兄也。从女𠂔声」；《正字通》引《读书通》谓古从笫、从巿，音近相通，故姊亦或作姉。作者指出，西周金文跟「每」所从同，象人头上有发饰形，后讹从「𠂔」或「巿」。",
+      "boundary": "《说文》训释可考；金文象发饰之形是作者的释读，故「姊」从𠂔为后起之讹。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
