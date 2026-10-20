@@ -449,10 +449,36 @@ function spawnsFrom(ch, claims) {
   const reFrom = new RegExp(`从[^。；\\n]{0,8}${esc}[声聲]`, 'u');
   for (const c of claims) {
     const t = `${c.title}\n${c.statement || ''}`;
+    if (String(c.title || '').startsWith(`${ch}部`)) return true; // 有自己的「X部」字族条目
     if (t.includes(`${ch}是音源字`) || t.includes(`「${ch}」是音源字`)) return true;
     if (reFrom.test(t)) return true;
   }
   return false;
+}
+
+// 异体或隶变写法（如「以」之于「㠯」）：同属一部，按一级字根看待
+function variantOf(ch, claims, z) {
+  const esc = ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  for (const c of claims) {
+    const title = String(c.title || '');
+    const m = title.match(/^([\p{Script=Han}])部[：:]/u);
+    if (!m || !z.byName || !z.byName[m[1]]) continue;
+    const escRoot = m[1].replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    if (new RegExp(`${escRoot}（${esc}）`, 'u').test(title)) return m[1];
+  }
+  return null;
+}
+
+// 「X部：字族…」这类条目把谐声字按字族归堆，是「从某声」之外的第二条判级线索
+function familyOf(ch, claims) {
+  for (const c of claims) {
+    const title = String(c.title || '');
+    const m = title.match(/^([\p{Script=Han}])部[：:]/u);
+    if (!m || m[1] === ch) continue;
+    if (!/字族|衍生|谐声/.test(title)) continue;
+    if (`${title}\n${c.statement || ''}`.includes(ch)) return { root: m[1], claim: c };
+  }
+  return null;
 }
 
 // 判级（释字第一步）：一级字根＝609 部的部首字；部内衍生字按能否再滋生分二级、三级字根，
@@ -468,7 +494,20 @@ async function levelOf(ch, direct) {
     };
   }
   if (!direct || !direct.length) return null;
-  const r1 = await findRoot(ch, direct);
+  const variant = variantOf(ch, direct, z);
+  if (variant) {
+    const bv = z.byName[variant];
+    return {
+      level: '一级字根',
+      text: `一级字根：「${ch}」是「${variant}」的异体或隶变写法，同属第 ${bv.no} 部「${variant}部」（卷${juanCn(bv.juanNo)}「${bv.juanName}」），按部首字看待。`,
+      cites: direct.filter((c) => String(c.title || '').startsWith(`${variant}部`)).map((c) => c.id),
+    };
+  }
+  let r1 = await findRoot(ch, direct);
+  if (!r1) {
+    const fam = familyOf(ch, direct);
+    if (fam) r1 = fam;
+  }
   if (!r1) return null;
   const spawn = spawnsFrom(ch, direct);
   let root = r1.root;
