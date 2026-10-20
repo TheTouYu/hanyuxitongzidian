@@ -1,0 +1,1034 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷十 予 78 条（音源字「予」，第60部予部至第64部宁部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j10-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "卷首：音源字「予」指梭子，音源為穿梭聲",
+      "statement": "卷十的音源字為「予」，指織布用的梭子，其音源自穿梭聲。梭子是一種古老的織具，用于編織時將緯線來回穿引進經線中。早在7000年前的河姆渡文化遺址中，就出土有骨質、角質梭形器。",
+      "boundary": "源自《系统汉语》卷十「予」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/10a-yu.md",
+      "topic_title": "卷十·予",
+      "topic_summary": "《系统汉语》卷十「予」，音源字「予」指梭子、音源为穿梭声；含第60部予部、61部𦥑部、62部呂部、63部者部、64部宁部，凡78条。",
+      "topic_keywords": [
+        "予",
+        "𦥑",
+        "呂",
+        "者",
+        "宁",
+        "梭子",
+        "音源字",
+        "卷十"
+      ]
+    },
+    {
+      "id": "j10-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "卷首：梭子的兩類形制——箭形與船形",
+      "statement": "梭子的形制大致有兩類：一類如箭形，線直接纏繞在梭子上，一般用于織網；一類如船形，兩頭尖以便手持，中空以放置紗線輪。戰國還有玉制梭形器，後世用木質梭、兩種裝線方式並存。",
+      "boundary": "源自《系统汉语》卷十「予」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "卷首：「予、𦥑」音義可通——織布時兩手左右推送梭子",
+      "statement": "織布時需要兩手左右來回推送梭子，故「予、𦥑」音義可通：《左傳·襄公四年》「后杼滅豷于戈」，「杼」《初學記·武部》引《世本》作「輿」。",
+      "boundary": "源自《系统汉语》卷十「予」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "卷首：由予的引緯作用，音義同「者」",
+      "statement": "由予的引緯作用，而音義同「者」：《呂氏春秋·異用》「今之人學紓」，「紓」《新書·諭誠》作「緒」。",
+      "boundary": "源自《系统汉语》卷十「予」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "卷首：由予的編織作用，音義同「宁」",
+      "statement": "由予的編織作用，而音義同「宁」：《左傳·襄公四年》「后杼滅豷于戈」，「杼」《太平御覽》卷八二引《帝王世紀》作「宁」。",
+      "boundary": "源自《系统汉语》卷十「予」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "卷首：卷十五部的部次——第60部予部至第64部宁部",
+      "statement": "卷十「予」含五部：第60部予部（梭子與給予）、第61部𦥑部（兩手捧舉）、第62部呂部（小塊相連與脊骨）、第63部者部（箸與書）、第64部宁部（麻布與貯存）；部次與《目錄》「卷十「予」（第60–64部）」一致。",
+      "boundary": "源自《系统汉语》卷十「予」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予：本義象帶線的梭子形，「杼」之初文",
+      "statement": "「予」象帶線梭子形，交錯成連環狀，象意織布時梭子的來回推送。是「杼（zhù）」的初文，《說文》：「機之持緯者。从木予聲。」",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予：轉義為給予，或售賣、贊許",
+      "statement": "梭子引緯線進行編織，故引申指給予。yǔ，《集韻》：「賜也。」《說文》：「推予也。象相予之形。凡予之屬皆从予。余呂切。」春秋金文演變成「八、呂」，「呂」本指金屬錠、「八」指分開，象意分予，也是取此意。或引申指售賣、贊許，如《管子·國蓄》「歲適美，則市糶無予」。",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予：轉義為往復、舒張、自身（余予皆我也）",
+      "statement": "梭子來回左右穿梭，依次完成編結，故引申指往復；運行梭子時雙手張開，故引申指舒張；或引申指自身。yú，《集韻》：「《說文》：『余語之舒也。』《爾雅》：『余、予，皆我也。』亦姓。」",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予：音源為推杼聲，義音同「余」",
+      "statement": "「予」是音源字，源自推杼聲；因有舒裕義而義音同「余」：《集韻》「紓，《說文》：『緩也。』一曰解也。或作䋡、悆、忬。通作舒。」",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予字族①兩手推予，表示寬緩、舒張：豫、預、舒、抒、紓、𣏗",
+      "statement": "①指兩手的推予，表示寬緩舒張：豫（大象；又怠也、安也、敘也、佚也、早也、逆備也，或作預）、預（安也，經典通用豫；又先也、參預也、干也）、舒（《說文》「伸也，从舍从予，予亦聲，一曰緩也」，《方言》「東齊之間凡展物謂之舒」）、𧦃（同舒）、抒（《說文》「挹也」，《廣韻》「除也」，《方言》「解也」）、紓（《說文》「緩也」，《集韻》「解也」）、𣏗（《說文》「栩也，讀若杼」，櫟樹，其葉可以飼柞蠶）。",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予字族①續：伃、忬、𪐧、櫲、澦、蕷、魣、𠰄、𤰩、𥳕",
+      "statement": "①續：伃（《說文》「婦官也」，《集韻》「美皃」，《方言》「凡大人，楚謂之伃」，亦作妤）、忬（預之或體，先也、安也）、𪐧（《玉篇》「黑也」）、櫲（櫲章，大樟樹，《神異經》東方荒外豫章樹主九州吉凶）、澦（灩澦，瞿塘峽口險灘）、蕷（薯蕷，即山藥）、魣（鱮魚，即鰱鱅，體長呈梭形）、𠰄（《篇海類編》「呢也」）、𤰩（畬，三歲治田，開墾兩年以上的田）、𥳕（竹名）、𦯅、𦺗（魚薺）、𢎻（弓也）。",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予字族②左右穿行，表示來回、往復：序、杼、芧、汿、垿、𡱣",
+      "statement": "②指予的左右穿行，表示來回往復：序（《說文》「東西牆也」——南北為經、東西為緯，梭子本穿行于東西以織緯；《廣雅》「次也」）、杼（《說文》「機之持緯者」，梭子；《方言》東齊土作謂之杼）、芧（苧麻，取其一種而可以收割多茬）、汿（溝也、泄水）、垿（同序，反坫謂之垿，宴會放酒杯的土台）、𡱣（履屬）、𤝉（野之古文，戰國从鼠，疑指老鼠的穿梭）、𦱻（芻）、𧺥（趣）、㐨（本「予」的二迭，指來回穿梭，故指魚子）、㶦（焰餘）。",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "予字族③形近字「宁、于、矛、牙、䏌、子」之訛：𦍗、𨋋、𩿗、𥄛、𧠐、䂛",
+      "statement": "③形近字之訛：𦍗（䍱，郊羊，皮可冒鼓）、𨋋（車也，疑𨊱之訛）、𨱢（音義與髦同）、𩿗（鴉之誤）、𥄛（肸之訛，肸本从䏌）、𧠐（覎口，富春墟名）、䂛（矷，乞子石）。",
+      "boundary": "源自《系统汉语》第60部「予部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "𦥑：本義為兩手相對之形，與「𠬞」同",
+      "statement": "「𦥑」本同「𠬞」，都是兩手相對之形。jú，《說文》：「叉手也。从𠀉、彐。凡𦥑之屬皆从𦥑。居玉切。」《廣韻》：「斂手。」",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "𦥑：轉義為拱手、掬捧、上舉",
+      "statement": "兩手相對可表多重意義：或指拱手，或指掬捧，或指上舉。「𦥑」義側重于後兩義，故音有別：jú，《玉篇》「兩手捧物曰𦥑」；jǔ，《字彙》「古舉字」；póu，《集韻》「裒，《爾雅》：聚也。或作𦥑」。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "𦥑：音源為借音字，義音同「匊」或「予」",
+      "statement": "因有捧義而義音同「匊」：《禮記·禮運》鄭玄注「手掬之也」，《釋文》「掬，本亦作𦥑」，《玉篇》「𦥑，古文匊字」；或義音同「予」：《左傳·襄公四年》「后杼滅豷於戈」，「杼」《世本》作「輿」。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "𦥑字族：多指捧舉——𢍣、盥、閰、𧤑、𣆵、䳔",
+      "statement": "字族多指捧舉：𢍣（素屬，从素𠬞聲）、盥（《說文》「澡手也，从𦥑水臨皿」——商代金文本从手在皿中形，不从𦥑，義音同祼）、𠢈（共輿皃，與舁同）、閰（門閂，斂手曰𦥑，與臼字不同）、𧤑（曲角，牛羊盤曲的角，狀如捧舉）、𣆵（日光，日如被捧狀）、𢞦（心明）、𣻥（水名）、𦑹（飛皃）、𦛓（肥也）、𪅉（鴨也）、䳔（烏鶇，从𦥑當指其巢于高處如舉）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "臾：本義从人𦥑聲，象兩手拽人之狀，與「丞」同源",
+      "statement": "「臾」从人𦥑聲，象兩手拽人之狀，與「丞」應同源。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "臾：轉義為救人助人、抬舉奉承（丞）、豐腴、須臾、慫恿、草竹筐（蕢）",
+      "statement": "兩手拽人可象意多種：或指救人、助人；或指抬舉別人即阿諛奉承，此義或分化為「丞」；或指自身的捧腹之狀，引申指豐腴肥碩（yú，《集韻》「善也」）；由拖拽引申指時間短暫，如「須臾」；或引申指使往上、往前（yǒng，《正韻》「縱臾，與慫慂通」）；或由上提引申指盛物的草竹筐，此義與「蕢」訛混（《說文》「蕢，艸器也……臾，古文蕢」）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "臾：辯正《說文》誤「人」形作「乙」",
+      "statement": "《說文》：「束縛捽抴為臾。从申从乙。羊朱切。」臣鉉等注「乙，屈也」——將「人」形誤釋作「乙」，析形不確。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "臾字族①奉承、上舉：萸、諛、㥚、斞",
+      "statement": "①指奉承、上舉：萸（茱萸，重陽佩之以辟惡氣、禦冬，因其殺蟲消毒、逐寒祛風）、諛（諂媚）、㥚（憂也；又懼也）、斞（《說文》「量也」，量具，《周禮》「桼三斞」）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "臾字族②豐腴、黑色：庾、腴、楰、瘐、㳛、𤧙、𥯮",
+      "statement": "②指豐腴或黑色：庾（水槽倉，一曰倉無屋者，露天堆積，取豐腴義）、腴（腹下肥）、楰（鼠梓木，大葉如桐葉而黑，山中人謂檟楸）、瘐（囚以饑寒而死曰瘐，當指因缺乏營養導致水腫，故从臾）、㳛（汙也；又皁也、治帛也）、𤧙（美石次玉）、𥯮（黑竹）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "舁：本義从𦥑的二疊，象兩手共同捧舉",
+      "statement": "「舁」从𦥑的二疊，象意兩雙手共同捧舉，抬的意思。yú，《說文》：「共舉也。从𦥑从廾。凡舁之屬皆从舁。讀若餘。以諸切。」",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "舁：轉義為轎子（輿亦作舁）；字族：㜒、𢱲、𥰩、𨵹、𢍲",
+      "statement": "由抬舉引申指轎子（《洪武正韻》「輿，亦作舁」）。字族取抬舉義：㜒（姥也）、𢱲（俗舁字）、𤠈（西南苗人名）、𥰩（喂牛用的圓筐）、𨵹（與開同）、𢍲（遵之古字，循也）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "與：本義从牙舁聲——上下牙咬取咀嚼時如兩人抬舉般協同",
+      "statement": "「與」春秋金文本从牙舁聲，象意上下牙齒在咬取、咀嚼食物時，如兩人抬舉般的相對協同。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "與：轉義為和同、參與干預、給與、猶豫容與、語氣助詞",
+      "statement": "由牙齒的相對協同引申指和、同、比、對等（yǔ，《增韻》「及也」，《博雅》「如也」，作為連詞表並列、比較、假設亦源于此）；或引申指參與、干預（yù，《集韻》「參與也」）；牙齒咬取食物並送進嘴裏，故引申指給與；牙齒上下來回咀嚼，故引申指猶豫、容與、舒豫（yù，《正字通》「疑慮未決也，通作豫」）；作為語氣助詞置于句尾表疑問驚歎、置于句中表停頓，也源于此義。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "與：辯正小篆訛「牙」為「与」，「与」本即「勺」",
+      "statement": "「與」所从「牙」小篆訛變作「与」形，故《說文》：「與，黨與也。从舁，从与。余呂切。」析形不確。「与」本即「勺」，故《說文》：「与，賜予也。一勺為与。此與与同。」今據此將「與」簡化作「与」，有悖「与」的本義。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "與字族①黨與、成群，兼有抬舉義：鸒、穥、鱮",
+      "statement": "①指黨與成群，兼抬舉義：鸒（卑居，即寒鴉，小而多群、腹下白，喜群棲）、穥（黍稷美也；禾稼謂之穥，通作與）、鱮（鰱魚或鱅魚，體白、多浮游于水上層）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "與字族②抬舉：璵、譽、歟、旟、嶼、礜、擧、櫸、𣝑",
+      "statement": "②指抬舉：㺞（吃奶的小豬小狗，狀如抬舉母豬母狗）、璵（璵璠，美玉，君所佩）、譽（稱讚）、歟（表示安舒的語氣）、𧾚（安行，指被抬著走）、旟（錯革畫鳥其上，所以進士眾，軍吏所建）、嶼（島嶼，水簇擁如與；在坴為嶼、在水為島）、礜（毒石，制砷原料，可毒鼠）、𪋮（似鹿而大）、㦛（趣步㦛㦛，疾走而又安舒）、㶛（水搖盪貌）、嬩（女字）、𩦡（馬行徐而疾）、擧（對舉，以兩手舉之）、籅（喂牛用的圓筐）、藇（酒之美；又香艸；又薯蕷即山藥）、𡒊（高平陸）、櫸（榆科落葉喬木，木材堅實為上等傢俱用材）、𨣦（酒之美）、𥎗（矛也）、𣝑（可以抬的食案）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "輿：本義从車舁聲，象人力抬的車，即轎子",
+      "statement": "「輿」从車舁聲，象意人力抬的車，即轎子。yù，《增韻》：「舁車也。兩手對舉之車。」《說文》：「輿，車輿也。从車舁聲。以諸切。」",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "輿：轉義泛指車、運載、眾多；辯正「舁、共」同源",
+      "statement": "由人力車引申泛指所有的車（《玉篇》「車乘也」）；或引申指運載、舉（《廣雅》「載也」）；輿轎一般需兩人、四人甚至八人十六人抬，故引申指眾多（《廣雅》「多也」）。辯證：「舁、共」本同源，故《說文》「輂，大車駕馬也。从車共聲」也當是指「輿」。字族：𢹏（對舉，謂兩人舉之）、𣟰（抬運食物的器具）、𤫌（與璵同）、𥷔（竹名，筐，江沔之間謂之籅）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "具：本義甲骨文从鼎𦥑聲，象搬鼎，「㮂」之初文",
+      "statement": "「具」甲骨文从鼎𦥑聲，象意搬鼎，可謂「㮂（jú）」的初文，《說文》：「舉食者。」",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "具：轉義為酒肴飯食、陳設準備、器具、共同",
+      "statement": "鼎是烹煮食物的器具，搬鼎意味著準備煮飯菜或已煮熟準備食用，故引申指酒肴飯食（《史記·司馬相如列傳》「今有貴客，為具召之」）；由準備飯食引申指陳設、準備、置辦（《廣韻》「備也、辦也」）；由飯菜之具引申指所有器具（《字彙》「器具也」）；煮好食物的鼎又燙又重，要兩人抬且須配合好、同時用力、同進同退，故引申指共同、俱義（《正字通》「具，又與俱通」）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "具：辯正周代金文因「鼎、貝」形近而訛从貝",
+      "statement": "由于「鼎、貝」形近，周代金文或訛从「貝」，故《說文》：「共置也。从𠬞，从貝省。古以貝為貨。其遇切。」析形不確。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "具字族①抬舉之具：颶、犋、㮂、椇、𨁺、䡞",
+      "statement": "①指抬鼎，表示抬舉之具：颶（十級以上的海洋大風暴，具四方之風，即能把東西吹抬起來之意）、犋（量詞，牽引犁耙的畜力單位）、埧（堤塘，即壩）、㮂（《說文》「舉食者」，抬舉食物的用具）、椇（枳椇，落葉喬木，果實味甜可食亦可釀酒，亦稱拐棗；又曲橈也、俎名）、𨁺（足寒曲，通作跔）、䡞（大車上纏繞直轅的皮革；又土轝即夯土具）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "具字族②具備，表示準備、完備：𩜃、俱、䋰",
+      "statement": "②指具備，表示準備完備：𩜃（寒具，餅屬，冬春可留數月，寒食禁煙用之，即環餅）、俱（《說文》「偕也」，共同；又皆也）、䋰（《說文》「約也」，用繩子捆束，《通訓》「䋰之言拘也」）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "𧇽（虡）：本義象人舉雙手，為「舉」之初文",
+      "statement": "「𧇽」初文本即人舉雙手之形，商代金文象人舉雙手、突出雙趾，是「舉」之初文；春秋金文或疊加聲符「虍」，指如虎撲之意。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "𧇽：轉義為鐘鼓之架、高几案；字族：虡、簴、鐻、𧃢",
+      "statement": "由雙手托舉引申指鐘鼓之架。jù，《說文》：「鐘鼓之柎也。飾為猛獸，从虍，異象其下足。」或引申指高的几案（《方言》「几，其高者謂之虡」）。字族取托舉大物義：虡（或作簴、𣝛，《爾雅》「木謂之簴，所以掛鐘磬」）、𧃢（苦蕒菜，葉闊長、味苦可食可入藥）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "奧：本義从宀𢍏聲，象轉彎抹角的房屋深處",
+      "statement": "「奧」从宀𢍏聲：「𢍏」指捲曲，从「宀」象意轉彎抹角的房屋深處。ào，《玉篇》：「謂室中隱奧之處也。」",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "奧：轉義為室西南隅、豬圈、灶神、幽微積聚、水邊彎曲",
+      "statement": "由房屋深處引申專指西南方向的屋子（《說文》「宛也；室之西南隅」，古時祭祀多設神主或尊長居坐之處）；或引申指豬圈（《莊子·徐無鬼》「吾未嘗為牧，而牂生于奧」，釋文「奧，豕牢也」）；或引申指灶神（《禮記·禮器》「燔柴于奧。夫奧者，老婦之祭也」）；或比喻指幽微、深處、積聚，如深奧、奧妙；yù，或引申指水邊彎曲的地方（《正韻》「隈也，水內曰奧」）；yōu，《集韻》「燠休，痛念聲，或作奧」。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "奧字族：多取隱藏義——䉛、薁、澳、隩、墺、襖、燠、懊、嶴",
+      "statement": "字族多取隱藏義：䉛（淘米用的筲箕；又移蠶具）、薁（蘡薁，即郁李，落葉小灌木，果味酸，亦稱唐棣；一說野葡萄）、澳（《說文》「隈，厓也，其內曰澳，其外曰隈」；又海邊彎曲可停船處即海灣）、隩（水隈崖也，此處多聚沙）、墺（四方土可居；又地近水厓者）、襖（棉襖，雙層塞棉絮的夾層冬衣）、燠（熱在中也，蘊熱在裏面）、礇（石似玉，疑指璞玉）、鐭（溫器）、擙（磨也）、嶴（山深處或山間平地，浙江沿海島嶼多用之為名）、懊（悔也、懊惱、恨也）、䐿（鳥胃，藏物于奧內）、𩟇（妒食）、䜒（隱語也，與奧通）、𩼈（小鰌、鯉）、㜩（妒也）、䴈（鷿鵜之類水鳥）、𣡉（育蠶器）、𣤡（悲意；又愁皃）。",
+      "boundary": "源自《系统汉语》第61部「𦥑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "呂：本義从丁的二疊，象許多小塊相連",
+      "statement": "「呂」从丁的二疊：「丁」指木楔，表示小塊即釘；二疊象意許多小塊相連。",
+      "boundary": "源自《系统汉语》第62部「呂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "呂：轉義為脊椎骨、相伴（侶）、長",
+      "statement": "由小塊相連之狀引申指脊椎骨。lǚ，《說文》：「呂，𦟝骨也。象形。昔太岳為禹心呂之臣，故封呂矦。凡呂之屬皆从呂。」或引申指相伴，此義分化如「侶」（《廣韻》「伴侣」）；二疊本表示很多，故引申指長（《方言》「矤呂，長也，東齊曰矤，宋魯曰呂」）。",
+      "boundary": "源自《系统汉语》第62部「呂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "呂：辯正「丁、口、囗」形近之訛（囗二疊、口二疊說存參）",
+      "statement": "由于「丁、口、囗」古字形相近，或以其為「囗」的二疊（會意兩個相鄰相近的居住區域），或以其為「口」的二疊（《元池説林》「狐之相接也，必先吕。吕者，以口相接」）；貌似也通，故錄以存參。",
+      "boundary": "源自《系统汉语》第62部「呂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "呂：音源為借音字，義音同「與」",
+      "statement": "「呂」是借音字，義音同「與」：《左傳·成公二年》「君子謂華元、樂舉于是乎不臣」，「樂舉」《呂氏春秋·安死》高誘注引作「樂呂」。",
+      "boundary": "源自《系统汉语》第62部「呂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "呂字族①聚攏、彙集、相鄰：𦛗、閭、梠、侶、筥、鋁、櫚、稆",
+      "statement": "①指聚攏彙集相鄰：𦛗（俗呂字，加肉作膂）、閭（里門，五家為比、五比為閭；又船首之閭）、梠（楣也，屋簷）、侶（同伴、夥伴）、筥（筲箕，方曰筐、圎曰筥；又四把禾）、鋁（磋磨骨角銅鐵使之光滑的工具；又化學元素aluminum的音譯）、櫚（棕櫚，取其棕毛層層相迭之意）、稆（野生稻，穀粒自落而又聚生）、絽（線縷、縫綴）、𢣻（憂也）、莒（齊謂芋為莒，意子芋多而群生；又國名）、郘（古邑名，呂甥封邑）。",
+      "boundary": "源自《系统汉语》第62部「呂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "呂字族②：𥶆、𢈚、𦊼、捛、㛎、㾔、𠃳、𤔑、𦎑",
+      "statement": "②續：𥶆（𥶆䈝竹，其節疎）、𢈚（眾也，又晉大夫名）、𦊼（重網）、捛（與旅字同）、㛎（婦人醜皃）、㾔（久病、瘡病）、𠃳（馗之古文，九達道，亦作逵）、𢙲（慢也）、𤔑（古文礼字）、𦎑（𦎠𦎑，身小角尖的山羊）。",
+      "boundary": "源自《系统汉语》第62部「呂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "呂字族③形近「台」之訛：𣳮（治）",
+      "statement": "③形近字「台」之訛：𣳮（與治同）。",
+      "boundary": "源自《系统汉语》第62部「呂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者：本義从口从聿，或指持竹枝助食（箸之初文），或指記錄口頭的話（書之初文）",
+      "statement": "「者」从口从聿，「口」或指吃東西、或指說話，故象意可有二：或指持竹枝以助食，則為「箸（zhū）」的初文（《說文》「飯攲也」）；或指記錄口頭所說的話，則為「書（shū）」的初文（《正字通》「紀也，著也，文也」）。但木頭也可以做箸，故或从木从口，甲骨文「媎」和西周金文「奢」可為證明；由于「口、丁」形近，導致與从木丁聲的「杏」相混，故在上面加小點表示小塊食物或湯汁。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者：龍虯莊出土6600年前的骨箸",
+      "statement": "據考古發掘，江蘇高郵龍虯莊累計出土491件骨器，其中有42件一頭尖圓、一頭鈍平、較為細長，似笄非笄；均置于死者腰部、倒扣的陶缽或陶碗之下、成雙出現，顯然與碗缽配套，從而認定是用動物骨骼磨制而成的骨箸（6600年前）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者：轉義為顯示諸物（這、那），或作語助",
+      "statement": "由箸的夾菜引申指顯示諸物，相當于這、那。zhě，《增韻》「卽物之辭，如彼者，如此者」；或引申作語助，表示語氣停頓並構成判斷句（《玉篇》「語助也」）。其它引申義在字族中更明顯：筷色褐紅故為「暑」，有了筷子鼎中食物得以顯現故為「睹」，進食都須借助筷子故為「著」，用筷子來回送食物故為「儲」，用筷子揀選菜肴故為「諸」，筷子反復上下來回故為「躇」，筷子開合自如故為「翥」。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者：辯正《說文》从白𣥐聲不確",
+      "statement": "《說文》：「別事詞也。从白𣥐聲。𣥐，古文旅字。之也切。」「旅」的甲金文从㫃从从，跟「者」相差甚遠，當系形近而誤。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者：音源為敲箸聲",
+      "statement": "「者」是音源字，源自敲箸聲。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者字族①箸色，表示赤褐：赭、曙、楮、褚、薯、醏、鷵",
+      "statement": "①指箸色，表示赤褐：赭（赤土，色如者）、曙（曉也、旦也）、楮（榖樹，皮可績為布、搗以為紙；又櫧，常綠喬木，木質色暗紅、彈力強）、暏（旦明；又詰朝欲明）、褚（士卒；以綿裝衣曰褚；又衣赤）、藸（荎藸，五味子）、薯（薯蕷即山藥；今指番薯、馬鈴薯）、帾（覆蓋棺木的紅布；又旗幟）、醏（醬，色赭）、琽（應指赭色玉）、鷵（鸄鶶鷵，似烏蒼白色，其色如筷初白後變醬色）、䰩（醜䰩，嚇人；又山鬼）、藷（甘蔗）、廜（屋平曰廜；屠蘇酒色赤，釀此酒的房子才稱廜㢝）、㸙（吳人呼父，年老膚色赤褐）、媎（同姐，羌人呼母）、瘏（病也、疲乏）、𥀁（桑白皮，今作杜）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者字族②持箸，表示挑出、張開：賭、睹、屠、奢、翥、觰、緒",
+      "statement": "②指持箸，表示挑出張開：賭（賭博，用財物作注爭輸贏）、睹（看見）、屠（刳剝；又殺也、裂也）、奢（張也）、擆（置也、擊也）、㨋（擊也）、撦（裂開）、翥（飛舉，飛起）、觰（牛角上張皃）、緒（《說文》「絲端也」——以竹簽撥動水面絲緒，用筷子挑出絲頭；又事業、統系）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者字族③用箸，表示附著、儲存、停駐：諸、著、豬、瀦、煮、渚、暑、都、堵",
+      "statement": "③指用箸，表示附著儲存停駐：諸（表示區別的虛詞；又眾也；《釋名》「儲也」）、著（明顯、定居、確立、補納、完成、確定；又附也、置也、被服也；今簡化作着）、豬（豕而三毛叢居者，豬性唯睡與吃、困于淤泥；又水所停止曰豬）、瀦（水停聚的地方）、煮（烹煮）、渚（小洲曰渚；《釋名》「遮也，能遮水使旁回也」）、陼（水中高者；同堵）、暑（濕熱，熱如煮物）、都（有先君宗廟的城邑；凡聚會之地皆曰都；又總也）、闍（城門上的台，積土如水渚所以望氣祥）、堵（垣也，五版為一堵；十六尺曰堵）、䣝（今陝西合陽，縣東20公里為洽川濕地，《詩經》「在河之洲」即此）、鍺（車軸上的鐵包皮；又同堵，編鐘十六枚在一虡謂之堵）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者字族④箸形，表示細長條：箸、櫡、櫫",
+      "statement": "④指箸形，表示細長條：箸（竹筷；又同著，撰寫）、櫡（同箸，飯敧；又斫謂之櫡）、櫫（木樁，楬櫫有所表識）、𦿀（薵𦿀，蔥）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "者字族⑤運箸，表示躊躇、往復：䠧、蠩、儲、署、躇、𥗁、䃴",
+      "statement": "⑤指運箸，表示躊躇往復：䠧（歭䠧，不前也）、蠩（蜛蠩，一頭數尾、狀如蠶可食；又蟾蜍）、儲（等待、徜徉；今指儲蓄）、署（辦公的處所；書檢；署置之，言羅絡之若罘網）、譇（羞澀詞窮、支支吾吾）、𥗁（斫地的石鋤；又碎石）、躇（躊躇，進退皃；又超遽也）、䃴（礛䃴，礪也，可以攻玉）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "書：本義从聿者聲，實為「者」的分化字，專指用筆書寫",
+      "statement": "「書」从聿者聲。「者」本从聿，因此實質上是「者」的分化字，復加「聿」以區別于「者」的助食之意，專指用筆書寫。shū，《釋名》：「庶也，紀庶物也；亦言著也，著之簡紙求不滅也。」",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "書：轉義為造字方法、字體、典籍",
+      "statement": "或引申指書寫用的文字所造方法（《玉篇》「世謂蒼頡作書……象形、指事、形聲、轉注、會意、假借，此造字之本也」）；或引申指書寫字體（《正字通》秦八體：大篆、小篆、刻符、摹印、蟲書、署書、殳書、隸書，漢興又有艸書，今行真艸隸篆四體）；由書寫引申指所寫出來的東西，包括信件、文件、冊子、典籍（《正字通》「凡載籍謂之書」）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "書：辯正《說文》；字族不具表音性",
+      "statement": "《說文》：「箸也。从聿，者聲。」而又釋「箸」為「飯攲也」，似被當作筷子；徐鍇《繫傳》「箸于竹帛謂書也」。字族衍義：不具備表音性，沒形成字族（𦶕草名、𨃲即疌）。",
+      "boundary": "源自《系统汉语》第63部「者部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "宁：本義象一塊苧麻織成的布幅，「紵」之初文",
+      "statement": "「宁」象一塊苧麻織成的布幅形，因其纖維較粗，故布幅的兩頭露出經線。實為「紵（zhù）」的初文，《說文》：「檾屬。細者為絟，粗者爲紵。从糸宁聲。直呂切。」",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "宁：轉義為貯存、收藏（麻布防腐防潮），或久立、門屏之間",
+      "statement": "麻布防腐、防潮、防菌，被譽為「千年不爛的軟黃金」，最宜作為儲藏用的包裝物，從而引申指貯存、收藏（《段注》「宁與貯，蓋古今字」，《說文》「貯，積也」）；苧麻是多年生宿根性作物，栽種一次可獲益幾十上百年，當年種植當年五月、七月、十月可連續收穫三茬，故「宁」也含久貯之意；由儲藏引申指站立很久（《段注》「凡云宁立者，正積物之義之引申」），《爾雅·釋宮》「門屛之間謂之宁」即站立等候之處。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "宁：辯正《說文》所釋乃引申義；今簡化「寧」為「宁」不合字理",
+      "statement": "《說文》：「辨積物也。象形。凡宁之屬皆从宁。直呂切。」所釋乃引申義，析形則不確。另外，今將「寧（níng）」簡化作「宁」，「寧」本丁聲，形音義與「宁」都沒有關係，不符合字理。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "宁：音源為借音字，義音同「者」",
+      "statement": "「宁」是借音字，因有儲存之意而義音同「者」：《周禮·廛人》鄭玄注「謂貨物𡪄藏于市中」，《釋文》「𡪄，本或作貯，又作褚」；《史記·貨殖列傳》「廢著鬻財于曹魯之間」，「著」《漢書·貨殖傳》作「貯」；《說文》「柠，楮或从宁」。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "宁字族①苧麻，表示麻布或類似織物：苧、紵、䘢、柠",
+      "statement": "①指苧麻，表示麻布或類似的織物：苧（苧麻，可為繩；又三棱草，莖柔韌如麻絲）、紵（用苧麻織成的布）、䘢（敝衣；同褚）、柠（梧桐、榖樹，其皮纖維柔韌都可以為繩為布，故从宁）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "宁字族②麻袋，表示儲存、積久：貯、羜、眝、佇、㿾、詝、坾、𤲑",
+      "statement": "②指麻袋，表示儲存積久：貯（《說文》「積也」；盛也、藏也）、羜（五月生羔，羊羔一般四個月可出欄，五個月還沒出即留存到最肥的時候）、眝（注視、睜大眼睛）、佇（長時間站著）、㿾（盛物的器皿）、𧈚（貯物的器物）、詝（智慧、知識）、坾（積塵）、𢁼（棺衣）、𤲑（盛米的麻袋）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "襾：本義本即「宁」，象麻布形；轉義為覆蓋",
+      "statement": "「襾」本即「宁」，象麻布形；由麻布之用引申指覆蓋。yà，《玉篇》：「覆也。」",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "襾：辯正小篆訛形；與「西、雨、網、鹵」形近多訛",
+      "statement": "小篆訛「宁」作从冂處上下之間形，故《說文》：「覆也。从冂，上下覆之。凡襾之屬皆从襾。讀若𣇩。呼訝切。」析形不確。而「襾」與「西、雨、网、卤」等字形俱近，因此存在諸多訛錯，需要重新據義辨析。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "襾字族①覆蓋、反復：𧟧、𧟱、𧟼、𧟿、覈、𥽶",
+      "statement": "①指覆蓋：𧟧（蓋也）、𧟨（人名用字）、𧟱（醜也，農夫之醜稱，凡罵庸賤謂之田儓）、𩳭（音義同魁）。②指反復：𧟼（行灶，今之三隅灶）、𧟿（與聖同）、𧠂（因悲痛而哭出聲）、𧠃（覆之異體）、覈（《說文》「實也。考事，襾笮邀遮，其辭得實曰覈」——襾者反復之也、笮者迫也、邀者要其情也、遮者止其詭遁也；核實、檢驗；又果仁）、𥽶（穀糠不破者）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "襾字族③形近「雨、囪、鹵、網」之訛：霸、垔、覃、罷、覉",
+      "statement": "③形近字之訛：𧟲（同霸，本从雨）、𡊹（同垔，塞也，本从囪）、𧟩（與覃同，本从鹵）、𧟹（覃本字，本从鹵）、𧟽（同罷，本从网）、𧠄（與覉同，本从网）、覉（羈本字，俗作覉、覊，本从网）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "賈：本義本即「貯」，从貝宁聲，象積聚錢財",
+      "statement": "「賈」本即「貯」字，从貝宁聲：「宁」指麻布、「貝」指錢貝，象意積聚錢財。gǔ，《玉篇》：「聚也。」",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "賈：轉義為買賣、價值、價格",
+      "statement": "錢財的積聚要靠做買賣，故引申指買賣（gǔ，《爾雅》「市也」，《玉篇》「通物曰𧷮，居賣曰賈也」）；做買賣的途徑主要是低價買進、囤積居奇、然後高價賣出，故引申指價值、價格（jiǎ，《類篇》「售直也」）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "賈：辯正戰國古文訛「宁」為「古」，楚系又訛作「襾」",
+      "statement": "戰國古文訛「宁」作「古」，楚系文字或訛作「襾」，為小篆所本，故《說文》以其「从貝，襾聲」。李學勤《魯方彝與西周商賈》即認為魯方彝銘文最清楚證明這個字（貯）應讀為「賈」。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "賈：音源義音同「古」（估量價值）或「夏」",
+      "statement": "本「宁」聲，義音同「古」，即估量物的價值之意（《荀子·儒效篇》「君子不如賈人」楊倞注「賈，與估同」；《論語·子罕》「求善賈而沽諸」，「沽」《漢石經》作「賈」）——這也是戰國古文之所以訛「宁」為「古」的原因；或義音同「夏」，榨取價值之意（《左傳·襄公三年》「穆薑使擇美檟」，「檟」《爾雅疏》引作「榎」）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "賈字族①價值，表示壓榨、估摸：價、檟、𥋣、𪆲",
+      "statement": "①指價值，表示壓榨估摸：價（價錢，商品所值的錢數）、檟（楸樹，子實可榨油為油漆材料和燈油；又苦荼即茶樹，茶籽可榨油）、𥋣（視也，即估摸之狀）、𪆲（本作賈，鷹屬，大約指魚鷹——漁民系小其脖頸使其捕到魚卻吞不下，從而獲取其所捕魚，故有壓榨之意）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j10-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-10-yu",
+      "title": "賈字族②形近「覃」之訛：䜖（譚）",
+      "statement": "②形近字「覃」之訛：䜖（譚字之訛）。",
+      "boundary": "源自《系统汉语》第64部「宁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
