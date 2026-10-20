@@ -1,0 +1,333 @@
+{
+ "schema_version": 1,
+ "intent": "新增：《系统汉语》篇章结构 24 条（章、卷、部三级结构与音训、义训、谐声）",
+ "risk": "medium",
+ "claims": [
+  {
+   "id": "pc-001",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "篇章结构：分章、卷、部三级，三级各对应一种训诂关系",
+   "statement": "《系统汉语》的篇章结构分章、卷、部三级：章辖卷，卷辖部，部是全书编号的最小定位单位。三级各自对应一种训诂关系——同卷各部之间是音训，同章各部之间是义训，同部之内字根与字族是谐声。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "topic_path": "knowledge/hanzi-origin/pianzhang.md",
+   "topic_title": "篇章结构：章、卷、部与训诂关系",
+   "topic_summary": "《系统汉语》的篇章结构说明：章、卷、部三级与音训、义训、谐声三种训诂关系；十二章对应生命十二阶段（孕、育、成三段）；卷为主音系百卷、部为字根六百零九部；以及全书的诠释体例、注音校订、形近而讹考订、开放可查性与音源归属的权宜性。",
+   "topic_keywords": [
+    "篇章结构",
+    "章",
+    "卷",
+    "部",
+    "音训",
+    "义训",
+    "谐声",
+    "字根",
+    "音源字"
+   ]
+  },
+  {
+   "id": "pc-002",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "同卷各部音义相通，属训诂学中的「音训」",
+   "statement": "同属一卷的各部之间存在音义相通的关系，属于训诂学中的「音训」；卷内字根相互间一般都可音义互通，存在大量通假关系。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-003",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "同章各部义项相通，属训诂学中的「义训」",
+   "statement": "同属一章的各部之间存在义项上的相通关系，属于训诂学中的「义训」；章是汉语的意义集束。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-004",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "同部字根及其字族是谐声字，形、音、义三者相通",
+   "statement": "同属一部的字根及其字族，属于谐声字，是形、音、义都相通的。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-005",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "全书分十二章，分别指与生命相关的十二个阶段",
+   "statement": "《系统汉语》全书分十二章，分别指与生命相关的十二个阶段，是汉语的意义集束。作者自述：这是针对汉语音系之间音义互通关系所作的大致梳理，试图以简驭繁、帮助认知，科学与否读者可以忽略不管。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-006",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "十二章分「孕」「育」「成」三段：前四章孕、五至八章育、九至十二章成",
+   "statement": "十二章按生命阶段分三段：前四章的核心为「孕」，包括男女生殖器及交媾受孕；五至八章的核心为「育」，包括生命的诞生及幼年时期；九至十二章的核心为「成」，包括少年到老年期。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-007",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "章与章之间的关系是相对的，许多字根难以归入某一章",
+   "statement": "章与章之间的关系仍是相对的，许多字根很难正确归类；汉字系统庞杂，不可能用这么几章就概括得了。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-008",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "原版《迭体字》一章在修订时按音义分入各章",
+   "statement": "原版有《迭体字》一章，专门归纳汉字这种象意方式所涉及的字根；修订时，根据其音义分别归入各章之中。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-009",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "卷是汉语的主要音系，以音源字为纲，计一百卷",
+   "statement": "卷为汉语的主要音系，以音源字为纲，计百卷。修订稿在原版七十四卷的基础上进一步作了拆分；作者自述这仍不是终极、准确的划分，只能算是大概，并非刚好一百。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-010",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "每卷所含字根一般音义互通，详见《汉字通用声素研究》",
+   "statement": "每一卷所包含的字根，相互间一般都可音义互通，存在着大量的通假关系；限于篇幅书中只是择要述及，欲知详情可参看《汉字通用声素研究》。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-011",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "部是汉语的字根部分，是本书的主体与精髓，计六百零九部",
+   "statement": "部为汉语的字根部分，是本书的主体、精髓所在；计六百零九部，分属于各卷之中。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-012",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "只对一、二级字根约一千二百九十八个作详细形义分析",
+   "statement": "本书只对一、二级字根（即衍生有新字或独立成字的字根部分）约一千二百九十八个，进行详细的形义分析，并尽可能地搜罗其最初字形。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-013",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "修订稿按「本义」「转义」诠释，对有争议字形专设「辩证」",
+   "statement": "修订稿在原来基础上，按照「本义」「转义（含引申义、比喻义等）」作明确诠释；对一些有争议的字，尤其是《说文》在解析字形上存在的问题，专门进行「辩证」。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-014",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "其它衍生字只取字书基本释义，《说文》全录、他书有所取舍",
+   "statement": "其它衍生字主要目的在于说明字根，一般未加详细分析，只取《说文》《广韵》《集韵》《玉篇》《类篇》等字典的基本释义；《说文》所有者全部录有，其它字典则有所取舍，纯释音以及释作人名、地名、官名、星宿名等参考价值不大的部分多未录。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-015",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "注音依《汉语大字典》逐一核对订正",
+   "statement": "注音部分，根据《汉语大字典》进行了逐一核对和订正。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-016",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "形近而讹的字集中分列考订，主要参考《正字通》",
+   "statement": "汉字中因形近而讹的现象比较多，即使是常用字如「牡」，所从的「土」实际上是「士」字之讹；因此本书专门将这部分字集中分列出来考订（修订版才明确有此体例），修订过程中主要参考了《正字通》。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-017",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "简化字、异体字只录字根常见字形，其余可类推",
+   "statement": "对于简化字和异体字，本书只录其字根所常有的一些字形，其它字可以相应推知；如「難」的简化字为「难」，以「難」为声符的「灘、攤、儺」等亦依此类推。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-018",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "本书是开放性的汉字系统：释字四万五千二百余，实质可查字八万以上",
+   "statement": "本书建立的是一个开放性的汉字系统：即使书中没有的字，通过查找其相关表音部件，也大致可知其所含意义。全书释字虽只有四万五千二百余个，但实质可查字在八万以上，甚至更多；可以按所查字所在的「部」「卷」「章」了解其形音义根源。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-019",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "拟声对象的多音性与借音字，使字根的音源归属难以确定",
+   "statement": "由于汉字拟声对象本身的多音性，即使音源字也有些不好确定，更不用说相当多的字根是借音字；加上汉字发展到今天难以推知其初音，特别是汉语遵循音同则义通的习惯、许多字反过来因义而变音，因此要归纳出准确的字根数很难。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-020",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "修订稿在原五百一十部基础上增加九十九个，成六百零九部",
+   "statement": "修订稿在原来五百一十部的基础上增加了九十九个，成为六百零九部；这只是细分出来的，并非多出了什么。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-021",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "汉语一字或有两音，体系含南北两大方言基因",
+   "statement": "从汉语一字或有截然不同的两音来看，汉语形成之初或为长江文明与黄河文明的糅合，其体系本身就含有南北两大方言基因。标志性的字如「南／壳」：本是楠竹的象形字，楠竹只生长于四川宜宾、湖南、江西、福建等地（淮河以南），北地称「南」（音同「难」，有如火焚身之意，指南方的火热），产地本身称「壳」（音同「角」，指中空而硬如牛角）；指楠竹的本义反而淹没无闻，只作为构件残存于「殼」字，楷化后成「壳」。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-022",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "「夕／月」「母／女」「隹／鸟」等在甲骨文本是一字，后分化为二",
+   "statement": "「夕、月」「𠬞、𦥑」「母、女」「父、丈」「司、后」「隹、鳥」「片、爿」等，本来在甲骨文中都是一个字、所指应该相同，却分化为二；其原因当不全是后来之事，而是起初就可能有两个音。商取代夏以后融合夏文化，从而形成汉语的音义体系。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-023",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "字根的音源归属有双重性，只能权宜处置",
+   "statement": "由于汉字系统本身的两重性，字根的音源归属相当困难：如「南、壳」依最初字形本应在一起，可音义却分属两处——「南」指火热得属《火》，「壳」指空壳得属《鼓》或《牛》（角义）。可见把汉字的形音义统一起来归入某一音系本身存在不可能性；编撰中许多字根反反复复难以确定，即使定稿也还有些勉强。作者认为若能把汉语析出为两套体系，或能妥善归类。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "pc-024",
+   "node": "hanzi-origin",
+   "topic_id": "topic-pianzhang",
+   "title": "字根的音源归属本身有权宜之处，读者不必拘泥",
+   "statement": "字根的音源归属本身即有權宜之处，作者希望读者不必拘泥；同时也欢迎提出修改意见，共同使汉字系统真实再现。",
+   "boundary": "源自《系统汉语》篇章结构。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}

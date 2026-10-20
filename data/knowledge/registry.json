@@ -387,6 +387,25 @@
         "音源字"
       ],
       "permission": "public"
+    },
+    {
+      "id": "topic-pianzhang",
+      "node_id": "hanzi-origin",
+      "title": "篇章结构：章、卷、部与训诂关系",
+      "path": "knowledge/hanzi-origin/pianzhang.md",
+      "summary": "《系统汉语》的篇章结构说明：章、卷、部三级与音训、义训、谐声三种训诂关系；十二章对应生命十二阶段（孕、育、成三段）；卷为主音系百卷、部为字根六百零九部；以及全书的诠释体例、注音校订、形近而讹考订、开放可查性与音源归属的权宜性。",
+      "keywords": [
+        "义训",
+        "卷",
+        "字根",
+        "章",
+        "篇章结构",
+        "谐声",
+        "部",
+        "音源字",
+        "音训"
+      ],
+      "permission": "public"
     }
   ],
   "relationships": [],
@@ -3082,6 +3101,126 @@
       ]
     },
     "clm_0CC149A2E3F941928EF002C85E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_AD539023B64EF8531224E546ED": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1C270E957FE0491A696D466126": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_93B5857C155759D2DAEF00A3AD": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3EC4A703E4C0DE464997726D3C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1FA774A7080B17FD3B57D57EE6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_254B6685B448E04D47FCD93444": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_449DEE93F44A1000756A66FF9A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5C2E36DDA679BA3DDF78B7E635": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6B2B5F9C455145540E48E548C7": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6A11C21B7F1C3A6D82E57A39F3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_840C3AA00F4EC639C285298863": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_640129CD1DD5576B88DA6A7858": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8ADE568CEF02BA4D80D1E9526F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_DCE0EA5EC0A94544C8DA7BC2ED": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_51D9D1BCFFAA2717C0668CE15D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_399F07C7CE03A81F11B70C776B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F7D0EAB9F527C9FDE4F8439230": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_390B317C9FA89269A2238C5CBA": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_34E36F09E345E2670CE3D4E0F5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_00EAA613463E9D9ED6EA6A259E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E7DCBA06908673701A36584FA9": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9CF4D1D6DD310FE427D6F016E6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1DEDB806EF8EB150404AB03D6F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4CFD3221A16CFEC69C30487D36": {
       "fact_classes": [
         "evidence_scope"
       ]
