@@ -1,0 +1,1874 @@
+{
+ "schema_version": 1,
+ "intent": "录入《系统汉语》卷三十二 今：180.今部至191.品部",
+ "risk": "medium",
+ "baseline_mode": "worktree",
+ "claims": [
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "卷卅二音源字「今、甘」象口含物之形，音源為口裏含有東西時所發出的聲音",
+   "statement": "本卷音源字為「今」「甘」，象口含物之形，音源是口裏含有東西時所發出的聲音。今、甘、欠、函、冘、干音義均可通；兼、冊、炎因有併攏、吞噬義而借音；血本算是音源字，但其義音同「戌」，故歸入戌部。",
+   "boundary": "源自《系统汉语》卷三十二「今」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-001",
+   "topic_path": "knowledge/hanzi-yinyuan/32a-jin.md",
+   "topic_title": "卷三十二·今",
+   "topic_summary": "卷三十二「今」（第180–191部，p529–p562）：180 今部（p530）、181 甘部（p542）、182 音部（p545）、183 凵部（p546）、184 函部（p548）、185 戌部（p549）、186 血部（p552）、187 兼部（p553）、188 冊部（p555）、189 炎部（p557）、190 冘部（p560）、191 品部（p562）。音源字「今」「甘」象口含物之形，音源为口里含有东西时发出的声音；陷阱之「凵」、酿酒之「酓」、铃之「令」、金属之「金」、兵器之「戌」皆取空洞可容、含物之义，兼、冊、炎因并拢、吞噬义而借音。",
+   "topic_keywords": [
+    "今",
+    "甘",
+    "音源",
+    "陷阱",
+    "凵",
+    "臽",
+    "含",
+    "念",
+    "令",
+    "金",
+    "僉",
+    "禽",
+    "陰",
+    "飲",
+    "香",
+    "敢",
+    "音",
+    "函",
+    "戌",
+    "咸",
+    "血",
+    "兼",
+    "冊",
+    "炎",
+    "冘",
+    "品",
+    "器",
+    "囂"
+   ]
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "陷阱可能是最先用於狩獵的手段，「凵」為其最初的象形字",
+   "statement": "陷阱可能是最先用於狩獵的手段，其法十分簡單，挖個深坑就是了，「凵」應該就是其最初的象形字。甲骨文為了區別一般的坎狀物，加「人」表示人陷落其中之意，即「臽」，《說文》：「阱也。」",
+   "boundary": "源自《系统汉语》卷三十二「今」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-002"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《易經》坎卦剝去占卜內容後，講的就是設置陷阱的方法",
+   "statement": "《易經》八卦中即有「坎」，將有關占卜吉凶的內容剝去，講的就是設置陷阱的方法：「習坎，來之坎坎，險且枕。坎不盈，只既平。系用徽纆。置于叢棘，三歲不得。」意為在野獸經常出沒的道路上挖坑，架上掩蓋物使之與地面平整，做好記號「徽纆」以免誤傷人；若設置在荊棘叢中，野獸不會到那裡活動，自然得不到獵物。",
+   "boundary": "源自《系统汉语》卷三十二「今」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-003"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「坎」為形聲字，陷阱的音源難以確定，估計初音是動物落坑的吼叫混響",
+   "statement": "「坎」是個形聲字，聲从「欠」，而「欠」本為人張開口的樣子，因此陷阱的音源到底是基於自身，還是藉口含物之音，難以確定：或象野獸落進陷阱時覆蓋物斷裂所發出的聲音，或象口中含物時的發音，或象動物身處陷阱中吼叫時所發出的混響，估計其初音應是後者。",
+   "boundary": "源自《系统汉语》卷三十二「今」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-004"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "臽、今、甘、欠、函、冘、干所指共同，皆指空洞可容物之狀",
+   "statement": "可以確定的是，古「臽、今、甘、欠、函、冘、干」音義均可通，其所指則是共同的，都是指空洞可容物之狀。文獻可證：臽通冘（《史記·魏其武安侯列傳》「陷胷」《漢書》作「冘匈」）、臽通欠（《易·坎》釋文「坎，本亦作埳」）、臽通函（《史記·禮書》「函及士大夫」索隱作「啗」）、臽通戌（《楚辭·七諫》「埳軻」一作「轗」，「咸」从「戌」）。",
+   "boundary": "源自《系统汉语》卷三十二「今」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-005"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "今甘之義古老故字族豐富；兼、冊、炎借音，血義音同戌故歸戌部",
+   "statement": "由於今、甘之義比較古老，其字族自然比較豐富：「兼、冊、炎」因有併攏、吞噬義而借音；「血」本算是音源字，但其義音同「戌」，故歸入其中。",
+   "boundary": "源自《系统汉语》卷三十二「今」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-006"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「今」本義象口朝下所發生的行為，是「含」的初文",
+   "statement": "「今」（亼）上象倒口之形，下為「一」（下），象事指口朝下所發生的行為，是「含（hán）」的初文。《說文》：「嗛也。从口今聲。」",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-007"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「今」由口的銜住引申指現在、此時",
+   "statement": "「今」由口的銜住，引申指正在發生，表示現在、此時之意。jīn，《玉篇》：「是時也。」《廣韻》：「對古之稱。」",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-008"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《說文》析「今」為从亼从𠃌不確",
+   "statement": "戰國古文字形發生了變化，下面的一橫變成橫折，故《說文》：「今，是時也。从亼从𠃌，𠃌，古文及。」析形不確。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-009"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「今」的音源是嘴閉著時所發出的聲音",
+   "statement": "「今」為音源字，音源是嘴閉著時所發出的聲音。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-010"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "今部字族①：嘴的閉合，表示束縛、鉗制",
+   "statement": "由嘴的閉合，引申出束縛、鉗制義：紟（衣帶，籀文从金，《玉篇》「結衣也，亦作衿」）、靲（皮革制的鞋帶）、衿（衣襟、衣帶）、㪁（持、脅持）、蚙（蚰蜒，俗稱草鞋蟲）、扲（急持衣衿，通作禽）、梣（白蠟樹，皮可入藥稱秦皮）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-011"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "今部字族②：嘴的閉合，表示包含、覆蓋",
+   "statement": "由嘴的閉合，引申出包含、覆蓋義：䶃（麝香鼠，頰裡藏食）、衾（大被）、汵（水入船中，或作淦）、棽（枝條茂密）、鹶（鹹苦）、坅（坎、坑）、肣（舌、牛腹、斂）、涔（浸漬、積柴養魚曰槮）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-012"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "今部字族③：嘴的尖利，表示刺入、尖細",
+   "statement": "由嘴的尖利，引申出刺入、尖細義：䰼（醃魚、小魚）、𢦟（殺戮，从戈今聲）、貪（欲物，《釋名》「貪，探也」）、雂（句喙鳥）、黔（黎黑、黔首，通黥）、𤬯（風箱的柄）、赺（疾趨）、黅（黃色）、笒（竹名）、趻（跳躍）、矜（矛柄，又憐憫、鰥）、鈐（大犁、矛柄）、岑（山小而高）、芩（黃芩）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-013"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "今部字族④：嘴的閉合而有聲",
+   "statement": "由嘴的閉合而有聲，引申出琴瑟吟詠一類：琴（弦樂，振而發聲，从珡，古文从金）、耹（地名、音）、訡（吟，呻也）、妗（善笑、舅母）、欦（含笑）、嗿（眾人飲食聲）、仱（古樂名）、玪（石之次玉者）、𤘡（牛舌病，舌病則噤閉不成聲）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-014"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「侌」本義為雲層遮住日光，是「陰」的初文",
+   "statement": "「侌」戰國古文从云从今，今亦聲：「今」指覆蓋，象雲層遮住日光，後「云」繁化為「雲」。《說文》：「霒，雲覆日也。从雲今聲。」",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-015"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「陰」由雲遮日光引申指暗、背陽、月亮、潛藏、雌性、冥間、光陰",
+   "statement": "「侌」由雲層遮住日光引申指暗、背陽的一面，分化為「陰」（《說文》「闇也，水之南、山之北也」）；因月亮晚上出來故引申指月亮，或指潛藏暗地（陰謀、陰溝）、雌性、生殖器、冥間、時間（光陰）、沉默（《玉篇》「陰，默也」）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-016"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "甲骨文「侌」从隹今聲與「雂」同源之說存疑",
+   "statement": "或以為「侌」的甲骨文从隹今聲，與「雂」同源（于省吾《甲骨文字釋林》以之為天氣陰晴之陰，《甲骨文字典》謂「鳥鳴預示天氣將變」）；但西周金文「陰」所从或為酓、或為侌、或為金，卻沒有从雂的，說明「陰」的含義是由「今」衍生而來，並不一定跟「雂」有關，故存疑待考。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-017"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "侌部字族：陰暗、遮覆",
+   "statement": "侌部字族多指陰暗、遮覆：蔭（草木覆蓋土地）、廕（覆蓋、庇護）、癊（心中病、血痕）、𣸊（水名）、𦁌（單被、系衣襟的帶子）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-018"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「酓」本義象飲酒，亦指初釀味苦之酒與密閉窖藏之酒",
+   "statement": "「酓」从酉从今，今亦聲：「酉」指酒缸，「今」指嘴，則象意飲酒（《集韻》「㱃，歠也」）；「今」指現在，則象意初釀的酒，酒初釀時味道尚苦，故引申指苦酒（《說文》「酒味苦也」）；「今」指覆蓋，則指密閉窖藏的酒。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-019"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「酓」由苦酒引申指苦味",
+   "statement": "「酓」由苦酒引申指苦味。yàn，《廣韻》：「苦味。」《集韻》：「𨡎，苦也。或作酓。」",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-020"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「㱃」自有甲骨文，初應兼指茶水粥湯等汁液",
+   "statement": "「㱃」本有其自身的甲骨文，象人俯首啜飲于器皿中的樣子，初應不只是指飲酒，當包含茶水、粥湯等汁液類物體。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-021"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "酓部字族：覆蓋、藏匿",
+   "statement": "酓部字族多指覆蓋、藏匿：盦（覆蓋）、韽（微小低沉之聲、鐘病聲）、㜝（含怒、難知、美）、𡻡（山貌、山勢險峻）、𣘞（鼓風器的通風管）、𣻦（沉沒）、𧫧（諳，熟悉、背誦）、䨄（鵪鶉，頭小尾短、善隱匿）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-022"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「念」本義為心裡默記",
+   "statement": "「念」从心今聲，「今」指閉嘴不出聲，从「心」象意心裡默記。《說文》：「常思也。从心今聲。」《釋名》：「念，黏也。意相親愛，心黏著不能忘也。」",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-023"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「念」由心裡默念引申指誦讀",
+   "statement": "「念」由心裡默念引申指為了記憶而誦讀，如「念叨」「念書」，即看著文字讀出聲音。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-024"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "念部字族①：捻轉、填塞、牽拉",
+   "statement": "念部字族①指念念不忘，表示捻轉、填塞、牽拉：捻（用手指搓轉，通作敜）、敜（閉塞，《周書》「敜乃穽」）、稔（穀熟，凡積久者亦曰稔）、艌（用桐油和石灰填補船縫）、𦁇（引舟繩、船纜）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-025"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "念部字族②：默念，表示形態、味道、聲音的隱沒",
+   "statement": "念部字族②指默念，表示形態、味道、聲音的隱沒：錜（小釵、小頭釘）、𩋏（鞍𩋏，薄）、趝（疾行、俯首疾行）、淰（水濁無波、魚驚散）、菍（草名、棯棗）、唸（呻吟、誦讀）、諗（深諫、思念）、惗（愛、暗聲憶）、𩐭（聲絕）、棯（果木名）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-026"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「含」本義象將東西銜在嘴裡",
+   "statement": "「含」从口今聲，象意將東西銜在嘴裡。《說文》：「嗛也。从口今聲。」",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-027"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「含」由銜在嘴裡引申指包容、寬容",
+   "statement": "「含」由銜在嘴裡引申指包容、寬容，《正韻》：「包也，容也。」或引申寬，《廣雅》：「寬也。」",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-028"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "含部字族①：能含，表示中空而深",
+   "statement": "含部字族①指能含，表示中空而深：頷（下巴，口含物之車）、谽（谽谺，谷空貌）、鋡（受也，齊楚曰鋡）、𤭙（似瓶有耳、斂口器）、㟏（大谷）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-029"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "含部字族②：被含，表示被包容、沒入",
+   "statement": "含部字族②指被含，表示被包容、沒入：琀（送死口中玉）、莟（菡，荷花、花蕊、苗含心欲秀）、晗（天將明，太陽還未吐露）、蛿（毒蟲）、浛（水和泥、船沒）、馠（香味深）、梒（梒桃，櫻桃，可含在嘴裡）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-030"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "含部字族③：含物狀，表示中實而閉、聲音模糊",
+   "statement": "含部字族③指含物狀，表示中實而閉、聲音模糊：筨（實心竹，腹中白膜闌隔）、𩈣（面紅、憋得臉通紅）、𣢺（含笑、貪欲）、𡪁（寐中言語）、誝（語不決，含糊其詞）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-031"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「令」本義象發布或接受命令，又是「鈴」的初文",
+   "statement": "「令」从卩从亼（今省），亼亦聲：「卩」象跪著的人形，「亼」即「今」指口，則象意發布或接受命令（《說文》「發號也」）；「今」指物的口形空腔，則象意發布號令用的鈴，即「鈴」的初文（洛陽二里頭出土銅鈴可證）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-032"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「令」由發號引申指律法、禁止、支使、召請，由鈴的應聲引申指靈巧美好",
+   "statement": "「令」由發號令的目的（叫人做或不做什麼）引申指律法、禁止、支使、召請（《廣韻》「命也、律也、法也」）；由鈴的應聲而響引申指靈巧、美好（《廣韻》「善也」）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-033"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "令部字族①：搖鈴，表示上下起落、搖動",
+   "statement": "令部字族①指搖鈴，表示上下起落、搖動：零（零星雨滴、墮落）、蕶（草零落）、齡（年紀，取牙齒的更生和脫落表徵年紀）、秢（穗熟、年）、𠄖（撞）、蛉（蜻蜓、螟蛉，古人誤以為蜾蠃養之作子）、翎（鳥翅尾長羽、箭羽）、鴒（鶺鴒，飛則鳴、行則搖）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-034"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "令部字族②：搖鈴，表示獨行、不正之貌",
+   "statement": "令部字族②指搖鈴，表示獨行、不正的樣子：伶（弄、樂人、獨）、竛（竛竮，行不正，亦作伶俜）、彾（獨行貌）、跉（行遲、行不正、腳細長）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-035"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "令部字族③：搖鈴，表示聲音清脆而連續",
+   "statement": "令部字族③指搖鈴，表示聲音清脆而連續：命（命令，大曰命小曰令）、詅（叫賣、自衒賣）、玲（玉石相碰聲、玲瓏精巧）、泠（青弋江、清、泉聲）、澪（水名）、聆（聽、聽從）、駖（車騎聲、馬眾聲）、呤（小語）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-036"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "令部字族④：鈴狀，表示鈴或形態如鈴",
+   "statement": "令部字族④指鈴狀，表示鈴或形態如鈴：軨（車廂前後縱橫木圍欄）、鈴（《正韻》「為圜形，半裂以出聲，錮銅珠于內以鳴之」）、領（本義指套在馬頸上的鈴鐺，引申首領、統領）、苓（蒼耳子、茯苓）、瓴（似瓶之甕、仰瓦）、嶺（山道、山嶺，山形如鈴）、柃（木名，花開如鈴）、冷（寒冷）、拎（提）、笭（竹編車欄、船艙座架）、羚（羚羊，角有圓繞蹙文）、岭（岭巆，山深小貌）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-037"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "令部字族⑤：鈴鐺的形態與功用，表示細小、靈巧",
+   "statement": "令部字族⑤指鈴鐺的形態與功用，表示細小、靈巧：姈（女佼慧）、𧆺（似虎而小）、㾉（瘦、疲病）、𪕌（斑鼠）、狑（良犬）、㸳（牛名）、刢（刀剖物、伶俐）、怜（心了、聰明機靈、疼愛）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-038"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "令部字族⑥：鈴狀，表示空間的小或物的細而亮",
+   "statement": "令部字族⑥指鈴狀，表示空間的小或物的細而亮：閝（門上窗）、囹（牢獄）、砱（石孔開明、石聲）、𣢝（含笑）、昤（昤曨，日光）、紷（精細染練過的絲布）、魿（魚連行、鱗）、鹷（鹽）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-039"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「金」本義象從土中冶煉出來的金屬，初指黃銅",
+   "statement": "「金」西周金文从土从仌从亼，亼亦聲：「土」指其產自土中，「仌」指冶煉的銅錠，「亼」即「今」含的意思，象意從土中冶煉出來的金屬。初本指黃銅，後引申指所有金屬，或專指黃金。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-040"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「金」引申指黃色、堅固、貴重、禁控與金屬器物",
+   "statement": "「金」由黃金引申指黃色（金魚）、比喻堅固（金城）、貴重（金貴）；由金屬作馬嚼子引申指禁控（《釋名》「金，禁也，爲進退之禁也」）；又引申指金屬鑄造的錢幣、鐘鼎、兵器、樂器（金錢、金文、金革、金鼓）及貨幣單位一鎰或一斤。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-041"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "甲骨文从火今聲是否為「金」仍待確證",
+   "statement": "或以為「金」的甲骨文从火今聲（《釋義》「會意火被封閉燃燒，是冶煉爐中冶煉金屬之象」），但《劉一曼、嶽占偉·殷墟近出刻辭甲骨選釋》所錄甲骨文作从土今聲，與西周金文一脈相承，故从火今聲的甲骨文是否為「金」，仍有待確證。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-042"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "金部字族①：「銜」，表示含、把控或馬口被勒",
+   "statement": "金部字族①指「銜」，表示含、把控或馬口被勒的樣子：趛（低頭疾行，同銜）、顉（低頭、點頭搖頭）、唫（口急不能暢言，古吟字）、銜（馬嚼子含在口中，凡口含物曰銜）、䘳（內外相交的衣襟）、欽（打哈欠、敬）、撳（用手按）、嶔（山高峻）、廞（陳設車馬服飾、淤塞）、捦（急持衣衿，同擒）、鈙（以手按物）、淦（水入船中）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-043"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "金部字族②：金屬之質，表示硬挺、尖利",
+   "statement": "金部字族②指金屬之質，表示硬挺、尖利：鑫（金長、財富興旺）、㕋（石質土地）、崟（山之岑崟，高）、釿（劑斷、平木具）、惍（利）、鵭（句喙鳥）、釗（削摩楞角、遠）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-044"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "金部字族③：金屬之色，或專指黃色",
+   "statement": "金部字族③指金屬之色，或專指黃色：錦（用五彩色織出各種花紋，《釋名》「錦，金也，其價如金」）、菳（黃芩）、𪑙（黃黑如金、淺黃色）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-045"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「僉」本義象眾人一起默念禱告，引申指皆、都",
+   "statement": "「僉」甲骨文从兄亼聲：「亼」即今，指念，「兄」即祝，象意默念、禱告；春秋金文从二兄（同昆，眾人）从曰，象意眾人一起念。由眾人一起默禱引申指皆、都（《爾雅》「皆也」），或引申指連枷（《方言》「宋魏之間謂之欇殳」）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-046"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《說文》析「僉」从亼从吅从从不確",
+   "statement": "《說文》將「僉」的「兄」拆成「口」與「人」，釋為「皆也。从亼，从吅，从从」，析形不確。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-047"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "僉部字族：兼有、聚斂",
+   "statement": "僉部字族多指兼有、聚斂：檢（封書題簽、法度、檢束）、劍（隨身攜帶的兩面有刃兵器，鋒刃本可稱口，兩口合一故从僉）、瞼（上下眼皮）、鹼（鹽在水曰鹼）、醶（醋，如鹽能中和掩蓋他味）、儉（行為約束、省節）、險（阻難、四面陡峭）、嬐（敏疾、莊敬）、譣（按問、驗證兩邊口供）、獫（長喙犬）、憸（奸險不正）、驗（徵也、證也、考視）、籢（鏡匣、化妝盒）、斂（收聚）、撿（斂手抱拳）、厱（磨治玉石之石）、澰（水溢）、羷（羊角卷三匝）、簽（在文件上寫姓名畫符號）、襝（衣垂貌）、薟（白薟、蛇葡萄）、殮（為死人穿衣入棺）、臉（面頰）、䌞（懸系蠶簿橫柱的紐）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-048"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「禽」本義象用網兜捕捉，引申指鳥獸總名",
+   "statement": "「禽」从离从今，今亦聲：「离」即「𠦒」，象網兜之形，「今」指含，象意用網捕捉住；由網捕引申指鳥獸魚類等被捕捉的對象（《白虎通》「鳥獸總名」），或專指鳥，或專指未孕的鳥獸（《韻會》「鳥獸未孕曰禽」）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-049"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《說文》釋「禽」形義皆不確",
+   "statement": "《說文》以「离」為走獸頭形，故釋「禽」為「走獸總名。从厹，象形，今聲。禽、离、兕頭相似」，所釋形義皆不確。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-050"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "禽部字族①：網住，表示含、捉",
+   "statement": "禽部字族①指網住，表示含、捉：噙（含）、擒（急持、捉，通作禽）、檎（林檎，即花紅、沙果，果林能招眾禽故名來禽）、𠘅（凜，寒得咬緊牙關）、𪒭（淺黃黑）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-051"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "禽部字族②：形近「离」之訛",
+   "statement": "禽部字族②為形近字「离」之訛：𥼝（黏鳥的木膠，正作黐）、蠄（螭之訛，地螻）、𤢌（鷙獸，离字之訛）、𦔟（種也，𦔓字之訛）。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-052"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「𢎘」本即「今」字，《說文》所說从𢎘的字其實都不是",
+   "statement": "「𢎘」應即「今」，篆文形相近而義同「含」，《說文》釋「圅」時亦言「从𢎘，𢎘亦聲」，說明𢎘、今相通；故《說文》「嘾也。艸木之華未發圅然」析形不確。而《說文》所說从𢎘的幾個字其實都不是：圅的甲骨文象箭在囊中（詳206《函部》）、𣐺的甲骨文象木上有刻痕、本「丯」字（詳567《丯部》）、𢍫與𩏏本从「束」。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-053"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「𢎙」為「今」的迭體字，指深含之意",
+   "statement": "「𢎙」从二𢎘，「𢎘」既為「今」，應為「今」的迭體字，指深含之意。",
+   "boundary": "源自《系统汉语》第180部「今部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-054"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「甘」本義象口中含有東西，是「咁」的初文",
+   "statement": "「甘」从口中含一，象事指口中含有東西，是「咁（xián）」的初文，《集韻》：「嗛，《說文》：『口有所銜也。』或作咁。」《說文》：「美也。从口含一。」",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-055"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「甘」由含在口中引申指甜美、嗜好、寬緩、濃烈",
+   "statement": "能含在口中的，當然是味道甜美的，故「甘」引申指甜、美（《洪武正韻》「甜也」），或引申指土味；由含著引申指嗜好、喜歡、情願（《玉篇》「甘心快意也，樂也」）、寬緩（《廣雅》「緩也」），或引申濃烈、成熟（酣）。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-056"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「甘」的音源是口裡含有東西時所發出的聲音，古甘、今可通",
+   "statement": "「甘」為音源字，音源是口裡含有東西時所發出的聲音。古「甘、今」可通：《易·說卦》「艮為黔喙之屬」釋文「黔，鄭作黚」，《史記·衛康叔世家》「出公季父黔」《呂氏春秋·慎小》作「黚」。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-057"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "甘部字族①：包含",
+   "statement": "甘部字族①指包含：鉗（以鐵圈束脖頸、鐵夾子）、嵌（山深、陷入中）、紺（微帶紅的黑色，《釋名》「紺，含也」）、黚（淺黃黑）、邯（邯鄲，邯指被周遭所含）、箝（夾持、鎖項）、拑（脅持）、疳（積而不消化之病）、坩（小陶器、坩堝）、玵（美玉）、甝（白虎）、魽（蚶，殼厚如瓦楞）、𧵊（甜言蜜語騙取財物）、咁（乳、口有所銜）、酣（飲酒痛快）、佄（同酣）。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-058"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "甘部字族②：味甜",
+   "statement": "甘部字族②指味甜：苷（甘草）、泔（淘米水，味甜）、𤯌（甜得發膩而麻口）、甜（从甘从舌，舌知甘者）、䇞（甜竹，筍味甘美）、䗣（食桑食瓜之蟲，嗜甜）、姏（老女以甘言悅人）、柑（似橘之果）。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-059"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「香」本義象禾黍的甘美，引申指香氣",
+   "statement": "「香」从禾或黍从甘，甘亦聲，象意禾黍的甘美；由禾黍味道的甘美引申指香氣（《正字通》「凡物有聲色謂之香」）。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-060"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「香」本甘聲，因有歆享之意而義音同「鄕」",
+   "statement": "「香」本「甘」聲，因有歆享之意，而義音同「鄕」，《集韻》：「香，亦作薌。」",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-061"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "香部字族：多取芳香義",
+   "statement": "香部字族多取芳香義：萫（菜肉相雜而製成的羹）、麘（麝麘，獸名，麝香本作香，俗加鹿）、㗍（噍齧聲，吃得香甜之狀）、䅨（芳氣）、䦭（開、香）、䫝（同馥）。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-062"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「敢」本義象互相用口撕咬，引申指侵犯、勇敢",
+   "statement": "「敢」西周金文从爭甘聲：「爭」指爭鬥，「甘」指含，則象意互相用口撕咬；「甘」指喜歡或美味，則象意喜好爭鬥、為美味而爭鬥。由爭鬥引申指侵犯、勇敢（《廣韻》「勇也、犯也」）。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-063"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "甲骨文从干从豕為「敢」說義通，但與西周金文差異過大",
+   "statement": "或以从干（或从又持干）从豕的甲骨文為「敢」，指用干刺取野豬，野豬兇猛受傷必拼命，故引申指勇敢，意義上講得通；但西周金文與之區別太大，應非一般訛變字，而是異體字。小篆訛「甘」為「口」，故《說文》「進取也。从𠬪古聲」析形不確；又「干」本象張口之狀，以干叉物即如用口銜物，「干、甘」同音故兩字義通。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-064"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "敢部字族：用口撕咬，表示張開大口狀",
+   "statement": "敢部字族多指用口撕咬，表示張開大口狀：闞（倚門而望、虎聲、怒聲）、譀（說大話、嘲弄）、㺖（小犬吠）、𪒠（忘而息，即憨）、𠪚（山崖險峻如張開的口）、橄（橄欖）、澉（薄味、無味）、豃（裂開、谷深）、撖（懸挂、危）、憨（愚、癡）。",
+   "boundary": "源自《系统汉语》第181部「甘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-065"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「音」本義為口中含物而發出的不清楚言語，是「喑」的初文",
+   "statement": "甲骨文「音」比「言」多那麼三個小點，小點一般表示許多小物什或雨滴，故「音」从䇂从口从小，義即瑣細的不清楚的言語；春秋金文从「甘」，指口中含物，口中含物其聲自然也是不清晰的。是「喑（yīn）」的初文。",
+   "boundary": "源自《系统汉语》第182部「音部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-066"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「音」由口中發出的聲音引申指所有聲音、音樂、語音、資訊",
+   "statement": "「音」由口中發出的聲音引申指所有聲音（音響、雜音），或專指音樂聲，因語言也是一種聲音故又指語音、言詞；由聲音傳達事物的某種情況引申指資訊（音訊、佳音）；由聲音的不清引申指幽暗、掩藏，此義分化如「暗」。",
+   "boundary": "源自《系统汉语》第182部「音部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-067"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「音」為借音字，義音同「奄」或「今」",
+   "statement": "「音」為借音字，因有掩蔽意而義音同「奄」（《玉篇》「隌，闇也，與晻同」），或義音同「今」（《書·無逸》「乃或亮陰」，《史記·魯周公世家》作「亮闇」）。",
+   "boundary": "源自《系统汉语》第182部「音部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-068"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "音部字族①：喑啞、含糊不清",
+   "statement": "音部字族①指喑啞、含糊不清：喑（小兒哭泣不止，實際當指哭得失聲）、瘖（失音、啞）、𤟟（竇中犬聲）、歆（鬼神享食祭品的香氣）、韽（微小低沉之聲）、諳（知悉、記誦）、愔（安和、深靜）。",
+   "boundary": "源自《系统汉语》第182部「音部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-069"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "音部字族②：幽暗、掩覆",
+   "statement": "音部字族②指幽暗、掩覆：暗（日無光）、黯（深黑）、闇（閉門、幽暗，通暗；又居喪之廬）、𤃷（水大至）、罯（覆蓋、魚網）、湆（陰暗潮濕、羹汁）、䜾（幽豆、野豆）、䤃（醃藏不洩氣者）、窨（地室、熏窨茶葉）、堷（壙中埋藏處、墓穴）、揞（藏、手覆、掩）、萻（野草相互掩伏）、腤（煮魚肉）、隌（闇也）、㛺（女志不靜）、𢉩（同陰）。",
+   "boundary": "源自《系统汉语》第182部「音部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-070"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「凵」本義象開口向上的虛空之形，可指坑洞或器物",
+   "statement": "「凵」象開口向上的虛空之形，可指坑洞，也可指器物（《正字通》引魏校「受物之器，象地體承載形，虛中者，當其無，有器之用也」）。",
+   "boundary": "源自《系统汉语》第183部「凵部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-071"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "甲骨文「臽」从人从凵象人處陷阱，周金文訛「凵」為「臼」",
+   "statement": "凵部字族多以「臽」為聲；甲骨文「臽」从人从凵，凵亦聲，象意人身處陷阱中的樣子，或有許多小點指泥水；但周代金文訛變「凵」為「臼」，故《說文》「臽，阱也。从人在臼上」析形不確。",
+   "boundary": "源自《系统汉语》第183部「凵部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-072"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「凵」為借音字，義音同「欠」或「今」",
+   "statement": "「凵」為借音字，義音同「欠」（如張開的口，《玉篇·土部》「埳，陷也，與坎同」），或義音同「今」（《集韻》「蜭，毒蟲名。或从含」）。",
+   "boundary": "源自《系统汉语》第183部「凵部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-073"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "凵部字族：陷阱，表示坎穴、探進、吞沒",
+   "statement": "凵部字族指陷阱，表示坎穴、探進、吞沒：㧄（以手伸進去掏物）、掐（用指爪刺進）、窞（坎中小坎、深坑）、陷（從高處下落、墜落）、蜭（毛蠹，蜭之言陷也）、餡（米麵食物坎其中實以雜味）、䐄（食肉不厭、足腫）、䱤（鱤魚，吞啗同類）、啗（咬吃）、燄（火苗微弱卻越燃越旺）、淊（泥水相和、淹沒）、惂（憂困）、欿（欲得、貪惏）、䘓（羊凝血，表面凝而裏面不凝故如陷）、埳（土坑，同坎）、錎（連鐶、同陷）、輡（車行不平）、𪉦（無味、味過鹹）、𣛱（橄欖，取含食之意）。",
+   "boundary": "源自《系统汉语》第183部「凵部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-074"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「閻」本義象門內如陷阱，表示里巷之門",
+   "statement": "「閻」从門从臽，臽亦聲，象意門內像陷阱一樣，表示里巷之意；里巷作為公共通道，其門一般是虛掩的，或者乾脆只有門框而沒有門扇。《說文》：「里中門也。」",
+   "boundary": "源自《系统汉语》第183部「凵部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-075"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「閻」由巷門之狀引申指開、深長、勸誘",
+   "statement": "「閻」由巷門之狀引申指開（《方言》「閻笘，開也，東齊開戸謂之閻笘」）、深長（衣長貌，《史記·司馬相如傳》「眇閻易以戍削」）、勸誘（《方言》「食閻，勸也……或謂之慫恿」）。",
+   "boundary": "源自《系统汉语》第183部「凵部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-076"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "閻部字族：巷狀，表示深長而空",
+   "statement": "閻部字族指巷狀，表示深長而空：讇（諂媚、說夢話）、爓（火門、火光、燖肉）、㶄（相污穢、水進）、㿕（病走、瘡）、䌪（把麻析成縷連接起來）、𠐩（癡）、𢸴（續折）、𧂄（荷花蕾）、𤯐（味甘）、𥶿（竹病不可析）、𦢨（沈肉于湯）、𨇝（踮起腳跟望）、壛（長廊）、櫩（屋簷、走廊）。",
+   "boundary": "源自《系统汉语》第183部「凵部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-077"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「函」本義象箭在囊中，指箭囊",
+   "statement": "「函」象「矢」在有耳的容器中，从矢象意箭囊；引申指細長如箭囊的器皿，或套在外面的物體（信封、鎧甲）。",
+   "boundary": "源自《系统汉语》第184部「函部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-078"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《說文》釋「函」為舌象形，形義皆不確",
+   "statement": "《說文》：「舌也。象形。舌體𢎘𢎘。从𢎘，𢎘亦聲。」形義皆不確。",
+   "boundary": "源自《系统汉语》第184部「函部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-079"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「函」為借音字，因箭在匣中如舌在嘴裡，義音同「今」",
+   "statement": "「函」為借音字，因箭在匣中如舌在嘴裡，故義音同「今」：《禮記·月令》「羞以含桃」釋文「含，本又作函」；《方言》「涵，沈也」《集韻》引作「浛」；《詩·陳風·澤陂》「有蒲菡萏」釋文「菡，本又作莟」。",
+   "boundary": "源自《系统汉语》第184部「函部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-080"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "函部字族：包容、涵蓋",
+   "statement": "函部字族多指包容、涵蓋：涵（水澤多、沉浸）、𩄙（久雨成災）、顄（下巴，同頷）、𠗙（寒，冰封如函）、菡（荷花骨朵）、蜬（小螺、水貝）、崡（山有谷如函）、䈄（實心竹）、㖤（怒氣、含糊不清）、䘶（衣袖、蔽耳巾）、𢃗（巾壅耳）、䤴（鎧甲、櫝、杯）、㮀（潛通水具）。",
+   "boundary": "源自《系统汉语》第184部「函部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-081"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「戌」本義象寬刃長柄的實戰兵器",
+   "statement": "「戌」象寬刃長柄的兵器形，形制大抵跟戉差不多，但戉只是權力的象徵、比較輕薄，而戌是實戰性武器、比較厚重，刃較平，跟板斧差不多；商代青銅戌可證。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-082"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「戌」引申指滅、實誠，又被借為地支第十一位",
+   "statement": "「戌」屬重型武器，被砍後會造成巨創，故引申指滅（《廣韻》「滅也」）；使用時需要特別用力，故引申指實誠（《玉篇》「誠也」）；古人又借「戌」為地支第十一位，配天干以紀年、月（九月）、日、時辰（晚七至九時），十二生肖屬狗，五行屬土，方位屬西北。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-083"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《說文》析「戌」从戊含一不確，戉戌戍三字形音義相近故相混",
+   "statement": "《說文》依據小篆析作「从戊含一」，析形不確；又由於「戉、戌、戍」三字之間形音義均相近，造成以「戌」為聲旁的字族或从戉、或从戍，今按其讀音近「戌」者歸入戌部。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-084"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「戌」為借音字，因鋒刃突出故義音同「今」",
+   "statement": "「戌」為借音字，因其鋒刃特別突出，故義音同「今」：《易·咸》「咸其拇」「咸其腓」「咸其股」「咸其脢」「咸其輔頰舌」諸「咸」字，馬王堆漢墓帛書本並作「欽」，欽本金聲，金从今聲。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-085"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "戌部字族①：大",
+   "statement": "戌部字族①指大：珬（大貝謂之珂，可飾馬具）、㖅（吹口貌、口哨聲）、銊（鋸聲）、𥅛（目深貌）、𧊥（海蟀，一種大型的棘刺龍蝦，能摩擦觸角產生很大聲響）。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-086"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "戌部字族②：疾狂",
+   "statement": "戌部字族②指疾狂：䎉（飛走貌、驚遽貌，《禮》「鳥不矞」）、䢕（眾走貌）、䬄（小風貌）、𧻗（走也）、𩣊（眾馬走貌）。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-087"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "戌部字族③：滅絕",
+   "statement": "戌部字族③指滅絕：𣧵（盡也、殂也，死亡）、𤇳（滅也，从火戌，火死于戌，陽氣至戌而盡，《詩》「赫赫宗周，褒似𤇳之」）。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-088"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「咸」本義从口从戌，所象意隨「口」義而變",
+   "statement": "「咸」从口从戌，戌亦聲；「口」有多重含義，故所象意隨之而變：或指區域（與囗相當），則義近「或」，表示戌守的地域；或指刃口，則表示如戌一般鋒利；或指創口，則表示如戌所砍一般特別深長。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-089"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「咸」由戌守地域引申指皆、都，由刃利引申尖利，由所創引申減損",
+   "statement": "「咸」由戌守的地域引申指皆、都（《說文》「皆也，悉也」）；由戌刃之利引申指尖利，此義分化為「箴」；由戌之所創引申指減損（減），或引申指吞噬、封閉。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-090"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "咸部字族①：戌守之域，表示動盪、不安",
+   "statement": "咸部字族①指戌守之域，表示動盪、不安：感（動人心）、㨔（搖動）、顑（飯不飽而面黃肌瘦）、𠔺（長面）、憾（恨、心中不美滿）、輱（車聲、轗軻不得志）、𢜩（意不安）。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-091"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "咸部字族②：戌之所創，表示減損、銜住",
+   "statement": "咸部字族②指戌之所創，表示減損、銜住：減（損去）、喊（大聲叫、怒聲、呵斥）、鹹（可銜在口裡品味，鹽味）、堿（鹽鹵）、緘（捆紮箱篋的繩索、棺束）、諴（和協、誠）、椷（箱匣，同函）、葴（馬藍，即板藍，葉含藍靛染料）、𣤭（堅持己見不鬆口）、鱤（鱤魚，吞啗同類）、䶢（齧、噍聲）、䃭（以石蓋）、𧍧（似蛤而扁有毛）、𥻇（塗）、㰹（含笑）、黬（黑色、釜底黑）、䁍（目陷、眸子枯陷）、㛾（女不淨）。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-092"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "咸部字族③：戌刃之利，表示尖利、有力",
+   "statement": "咸部字族③指戌刃之利，表示尖利、有力：麙（大山羊、絕有力）、𧇱（雄虎絕有力）、㺂（母羊、羊有力）、𡞣（健貌）、箴（縫衣的竹針、規戒）、鍼（金屬針）、𪒹（面白皙而有黑氣、兇惡貌）、𪈁（水鳥，咮似針銳）、瑊（石次玉）、𥳒（竹名）、鱵（針觜魚，喙尖細黑骨如刺）。",
+   "boundary": "源自《系统汉语》第185部「戌部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-093"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「血」本義指血祭用的鮮血",
+   "statement": "「血」从皿中有物，象皿中盛血之形，指血祭用的鮮血。《說文》：「祭所薦牲血也。从皿，一象血形。」",
+   "boundary": "源自《系统汉语》第186部「血部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-094"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「血」引申指血液、傷亡殺害、血親、剛強熱烈、紅色",
+   "statement": "「血」由血祭之血引申指人或動物體內循環系統的不透明液體；血流流出意味傷亡，故引申指受傷、殺害，或比喻悲痛憂慮（泣血）；嫡親血型相關，故引申指血緣、血統、血親（骨血）；人激動時血液循環加快，故引申指剛強熱烈（血性）；血色一般為紅色，故比喻紅色（血旗）。",
+   "boundary": "源自《系统汉语》第186部「血部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-095"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「血」的音源是血流聲，因血液包容體內故義音同「戌」",
+   "statement": "「血」為音源字，音源是血流聲（《釋名》「血，濊也，出于肉，流而濊濊也」）；因血液包容在體內，故義音同「戌」：《史記·司馬相如列傳》「揚袘恤削」《漢書》作「戌」，「眇閻易以戌削」《漢書》作「恤」。",
+   "boundary": "源自《系统汉语》第186部「血部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-096"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "血部字族①：血液的紅色",
+   "statement": "血部字族①指血液的紅色：𥅧（視惡貌，意即眼中充血）、烅（火光）、盢（山名，山體呈紅色）、桖（木名，赤若血）、䒸（茜草，或稱地血，根紅色可作染料，也行血活血）。",
+   "boundary": "源自《系统汉语》第186部「血部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-097"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "血部字族②：血液的周濟作用",
+   "statement": "血部字族②指血液的周濟作用：恤（憂、收、救濟）、卹（憂、鮮少，同恤；又驚恐、救濟、憐憫、謹慎）、𠜄（疑卹字之訛）、賉（分賑，亦卹字）、衅（用牲畜的血塗器物縫隙祭祀）。",
+   "boundary": "源自《系统汉语》第186部「血部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-098"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "血部字族③：血流聲音的細微連續與血管呈現的狀態",
+   "statement": "血部字族③指血流聲音的細微、連續（侐、䦗、欰、𠲣）與血管呈現的狀態（殈，鳥卵未孵成而破裂；𦚡，脂、或同脈；洫，人工開鑿的大型溝渠，又同溢、鎰；䆝，穿貌、空貌；𨵨，門限；𩶫，魚子初生）。",
+   "boundary": "源自《系统汉语》第186部「血部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-099"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「兼」本義象手持一把禾，引申指併攏、又及、加倍",
+   "statement": "「兼」从又持秝，象意手持一把禾；由許多禾被握在一起引申表示併攏、又及、加倍（《說文》「並也，从又持秝，兼持二禾，秉持一禾」）。",
+   "boundary": "源自《系统汉语》第187部「兼部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-100"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "手能把握多禾亦意味分量輕、歉收，故引申指不足",
+   "statement": "手能把握很多禾，同時也意味著禾的分量輕、歉收，從而引申指不足、欠缺，此義分化如「歉」（《廣雅》「貧也、少也」）。",
+   "boundary": "源自《系统汉语》第187部「兼部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-101"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「兼」為借音字，因有併攏義而義音同「咸」",
+   "statement": "「兼」為借音字，因有併攏義而義音同「咸」：《禮記·樂記》「故禮主其減」，《史記·樂書》作「謙」。",
+   "boundary": "源自《系统汉语》第187部「兼部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-102"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "兼部字族①：持多禾，表示併列、包含、相夾、連續",
+   "statement": "兼部字族①指持多禾，表示併列、包含、相夾、連續：縑（雙絲織成的絹，古時用作賞贈、貨幣或紙張，量詞一匹）、傔（侍從）、槏（門、窗戶兩邊的柱子）、鰜（大青魚、比目魚）、鼸（田鼠，頰內藏食）、嗛（用嘴含、懷恨、歉收）、㺌（犬吠不止、兩犬爭）、鎌（鐮刀，刀口呈鋸齒狀相連）、熑（用火燒烤木頭以彎曲成車輪）、螊（海中介蟲、小蚌）、鬑（鬢髮垂而長）、㡘（帷幔、門簾）、𩄡（久雨）、隒（層迭的山崖）、䫡（頭頰長）、簾（門簾）、搛（夾持、擊鼓）、鶼（比翼鳥，不比不飛）、馦（香氣充溢）、豏（糕餅中的豆餡）、甉（瓦施屋）、蠊（蟑螂，卵鞘如豆莢故有兼意）、臁（小腿兩側）、𨎷（車輞）、𣀃（擊鼓）、𤬓（瓜之子）。",
+   "boundary": "源自《系统汉语》第187部「兼部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-103"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "兼部字族②：歉收，表示低廉、不足、淡薄",
+   "statement": "兼部字族②指歉收，表示低廉、不足、淡薄：廉（狹窄、堂屋側邊、清廉、自檢斂）、磏（紅色磨刀石、石有棱）、謙（恭敬、謙虛）、歉（餓、吃不飽）、稴（秈稻、禾不實）、嫌（不平於心、疑惑）、慊（疑惑、切齒恨、滿足）、溓（薄水、味薄、小水）、濂（薄）、䭑（小吃、廉潔、餅中肉即餡）、𧸖（廉價買來高價賣出）、𪙊（牙齒參差不齊）、尲（不正、尲尬行不正）。",
+   "boundary": "源自《系统汉语》第187部「兼部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-104"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「冊」本義象用竹木編紮成排，指竹簡或柵欄",
+   "statement": "「冊」象用竹木編紮成排形，指竹簡或柵欄。cè，《廣韻》：「簡冊。」zhà，《集韻》：「編竹木補籬謂之冊。」",
+   "boundary": "源自《系统汉语》第188部「冊部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-105"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「冊」由竹簡引申指典籍、詔令、謀略，由柵欄引申指行走不便",
+   "statement": "竹簡是最早的文書載體，故「冊」引申指典籍、詔令（《說文》「符命也，諸侯進受命于王也」），或引申指謀略、計策（通策、筴）；由柵欄的攔阻作用引申指行走不便，此義分化如「跚」（蹣跚，行不進貌）。",
+   "boundary": "源自《系统汉语》第188部「冊部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-106"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「冊」為借音字，義音同「僉」",
+   "statement": "「冊」為借音字，義音同「僉」：《書·盤庚上》「相時憸民」，《說文》「𢘁」字條引作「𢘁」；《立政》「用憸人」、《冏命》「爾無昵于憸人」釋文並云「本又作𢘁」。",
+   "boundary": "源自《系统汉语》第188部「冊部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-107"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "冊部字族①：簡冊，表示告示、冊封、言詞、改削",
+   "statement": "冊部字族①指簡冊，表示告示、冊封、言詞、改削：𣆑（用簡冊告誡）、嗣（繼承君位，甲骨文从子从冊，即冊封兒子為繼承人之意）、𢘁（巧捷便利的口才、奸邪）、刪（古書刻寫于竹簡，修改時用刀削去字跡，故从刀从冊）、姍（誹謗、行貌）、𥮚（竹箱）、粣（粽、糝）、珊（珊瑚，排列如冊）。",
+   "boundary": "源自《系统汉语》第188部「冊部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-108"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "冊部字族②：柵欄，表示阻滯、難進",
+   "statement": "冊部字族②指柵欄，表示阻滯、難進：狦（惡而猛的犬）、𣧱（單于別名）、跚（蹣跚，跛行、行不進）、柵（柵欄，編樹木，甲骨文象編木為柵之形）。",
+   "boundary": "源自《系统汉语》第188部「冊部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-109"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「炎」本義象火苗上騰，又象大火、火光、焚燒、炎熱",
+   "statement": "「炎」从火的二疊或三疊、四疊，火指燃燒，疊體表示多、極致；因火性不同而象意有別：火往上騰則象火苗上騰（《說文》「火光上也，从重火」），或象大火、火光火焰（焱，火華也）、焚燒、炎熱。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-110"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「炎」引申指言詞華麗雄辯、炎症、南方、青黃白色",
+   "statement": "「炎」由火光的明亮比喻言詞華麗而富於雄辯（《莊子》「大言炎炎」）；由炎熱給人的感覺引申指機體局部紅、腫、熱、痛等症狀（肺炎）；因南方太陽大、氣溫高，故代指南方（《呂氏春秋》「南方曰炎天」）；火焰顏色內外不同，可引申指相似的青黃或白色，此義分化如「緂」。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-111"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「炎」為借音字，因烈火能吞滅一切故義音通「臽」",
+   "statement": "「炎」為借音字，因烈火能吞滅一切，故義音通「臽」：《集韻·敢韻》「啖，或作啗」，《韓非子·說難》「以其半啖君」，《太平御覽》卷八二四引作「啗」。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-112"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "炎部字族①：火焰的閃爍，表示晃動、閃動",
+   "statement": "炎部字族①指火焰的閃爍，表示晃動、閃動：扊（門閂）、倓（安然不疑）、談（對話談論）、欻（吹而使火燃起、暴起）、掞（舒、疾動、削）、敥（以手散物）、𨁹（疾行）、晱（電、閃電）、睒（暫視、窺視）、覢（忽然出現）、燊（旺盛、火把，舉火把趕路）。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-113"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "炎部字族②：形色如火焰",
+   "statement": "炎部字族②指形色如火焰：毯（毛毯，西周彩色羊毛罽織物可證）、緂（白鮮衣貌、青黃色、緝搓）、𦃖（帛騅色、蒼白色絲織品）、𤎥（青黑色絲織品）、裧（車帷、柩車裙緣、蔽膝）、菼（初生的荻，色如鵻在青白之間，可為帚）、棪（樹名，果實紅色可食，膠可和香為蘇合）。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-114"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "炎部字族③：火焰的氣態，表示薄、長",
+   "statement": "炎部字族③指火焰的氣態，表示薄、長：淡（薄味、淡泊、顏色淺，古痰字）、䆱（薄大、不平、深穴）、醈（酒醋味薄）、痰（上呼吸道黏膜分泌的黏液）、𪉧（無味）、𥲄（淡竹，節長而壁薄）、惔（憂、火燒、恬靜）、顃（面長、光、閃電）、埮（地平而長、瓦罎）、郯（東海縣，少昊之後所封）。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-115"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "炎部字族④：火焰的燒物，表示吞噬、銳利",
+   "statement": "炎部字族④指火焰的燒物，表示吞噬、銳利：啖（咀嚼、吞、引誘）、賧（南方少數民族以財物贖罪）、腅（肴、相飯）、䎦（耕、利耜）、𥰨（洗刷馬用的篦子，搔而令皮如火燒火燎，故从炎）、燅（在熱水中把肉溫熱）、剡（銳利、削）、錟（長矛、刺、利刃）。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-116"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "炎部字族⑤：从炎聲",
+   "statement": "炎部字族⑤雖為形旁，疑也可表聲：𤎭（火延燒貌，从炎㐭聲，象意晾在高處的穀物如騰起的火焰）、顲（面黃肌瘦、改變臉色）、𤃨（水浮）、𨟏（地名）、𦧡（火光、舌舔如火焰）、煔（火行、火光閃爍；杉樹皮厚易燃，宜作火把）、檆（杉樹）。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-117"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "炎部音譯字「氮」",
+   "statement": "炎部有音譯字「氮」，是一種氣體元素，無色、無臭、無味，化學性質不活潑。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-118"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「㓹」本義象框形物由尖利之物組成，是「𦇧」「𥰨」的初文",
+   "statement": "「㓹」依據戰國古文从匚从剡：「匚」象方形的受物之器，「剡」指尖利，象意框形物由尖利的東西組成，表示馬刷、毛毯之類；實為「𦇧（罽）」的初文（毛布），或為「𥰨」的初文（搔馬的篦子）。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-119"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「㓹」由其尖利之狀引申指尖銳、刺傷",
+   "statement": "「㓹」由其尖利之狀引申指尖銳（《玉篇》「籀文銳」），或引申指刺傷。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-120"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "籀文「匚」演變作「厂」，《說文》析「銳」已失初形",
+   "statement": "由於籀文「匚」演變作「厂」，故《說文》：「芒也。从金兌聲。𠫶，籀文銳从厂、剡。」析形實已失其初形；「㓹」本「剡」聲，因有尖銳義而義音同「銳」。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-121"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "㓹部字族：成片的尖銳之物",
+   "statement": "㓹部字族多指成片的尖銳之物：𤺗（頭瘍、傷胈、禿）、𦺶（草之小者，草初生尖銳貌）、罽（魚網、氈類織毛為之）、𦇧（西胡毳布，氈類）、蘮（蘮蒘即竊衣，子大如麥、有毛著人衣，俗名鬼麥）、瀱（井一有水一無水，受虹吸原理呈定時噴出）、𥷙（竹名，生海邊）。",
+   "boundary": "源自《系统汉语》第189部「炎部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-122"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「冘」本義象人頸部套有橫工形物體，是「沈」的初文",
+   "statement": "「冘」象人頸部套有橫工形物體之形，與「央」本同源，所从「人」不過是一為正面、一為側面而已，可謂「沈（chén）」的初文。",
+   "boundary": "源自《系统汉语》第190部「冘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-123"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「冘」引申指行進緩慢、猶豫不定",
+   "statement": "脖子上枷著東西，所以行動不便，故「冘」引申指行進緩慢、猶豫不定（《說文》「淫淫，行貌」）；yóu 則為「冘豫，不定，通作猶」。",
+   "boundary": "源自《系统汉语》第190部「冘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-124"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「冘」甲骨文與「何」「方」形近易混",
+   "statement": "「冘」的甲骨文跟「何」「方」十分接近，尤其是「方」（勺、人十分相似），故所錄甲骨文（合264）和西周金文即被《類編》作為「方」字；但從「䒞」和「沈」的西周金文所从來看，顯然應該是「冘」。",
+   "boundary": "源自《系统汉语》第190部「冘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-125"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「冘」為借音字，因有沉溺意故義音同「甚」",
+   "statement": "「冘」為借音字，因有沉溺之意，故義音同「甚」：《廣韻》「瘎，腹内故病，㽸，上同」，《集韻》「媅，樂也，或从冘，亦作湛、愖」。",
+   "boundary": "源自《系统汉语》第190部「冘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-126"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "冘部字族：沉沒、沉埋、下沉、深入、沉溺",
+   "statement": "冘部字族多指沉沒，表示沉埋、下沉、深入、沉溺：沈（山嶺上凹處的積水，甲骨文象沉牛沉羊于水中，引申沉沒、污泥、止息）、䒞（地參，地下塊莖多毛如被埋的動物）、忱（誠信）、霃（久陰、久雨）、鈂（鐵鍬、鐵杵）、訦（信實不欺）、枕（臥時頭所靠之物、繫牛木樁）、鴆（毒鳥食蛇，羽畫酒飲之即死）、㱽（下擊上、深擊）、䪴（枕骨）、耽（耳大垂、沉溺享樂）、眈（視近而志遠、虎視眈眈）、黕（渣滓污垢、沉澱物）、抌（深擊、推）、酖（樂酒、同鴆）、紞（冕冠懸塞耳瑱的帶子）、䏙（多汁的肉醬）、𧖺（和血的肉醬）、㽸（腹內痼病）、𣜣（掘）、㼉（青皮瓜）、㓄（掘地、赤黑色）、邥（沈，國名、姓）、髧（髮垂貌）、帎（冠俯前）、衴（衣領邊、被邊）、妉（沉溺於女色）、瓭（小甖、瓶）、馾（馬步近前、馬睡貌）、𤘣（水牛、儒艮，能沉入水底）、躭（享樂、沉溺、懷孕）、沊（水聲）、醓（肉汁、血醢）、𡖓（多）。",
+   "boundary": "源自《系统汉语》第190部「冘部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-127"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「品」本義象眾口或物品眾多",
+   "statement": "「品」从口的三疊或四疊，口可指動物之口，也可指器物之口，疊體表示多或者極致：或象意眾口、喧嘩，此義分化作「㗊」（眾口）、「𠱠」（眾鳥、眾聲）；或象意物品的眾多，此義分化作「品」（《說文》「眾庶也，从三口」）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-128"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「品」由眾聲引申指評論、吹奏，又指物類、等級、法式",
+   "statement": "「品」由眾聲引申指評論、吹奏（《廣韻》「二口則生訟，三口乃能品量」），由品量引申指物類、等級、法式（官品、類、式、法，《廣雅》「齊也」）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-129"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "口、丁、囗、厽形近相混，故品部與呂部、咢部、畾部雜糅",
+   "statement": "由於「口、丁、囗、厽」形近，存在相混的情況，因此品部跟《呂部》《咢部》《畾部》存在雜糅的情況。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-130"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「品」為借音字，義音同「僉」或「乞」",
+   "statement": "「品」為借音字，因其義指眾口，義音同「僉」（《集韻》「籢，鏡籢也，或作匳、匲」）；或義音同「乞」（《禮記·樂記》「然後樂器从之」，《史記·樂書》作「氣」；《逸周書·官人解》「其器寬以柔」，《大戴禮記·文王官人》作「氣」）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-131"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "品部字族①：眾口，表示話多或張開的眾口",
+   "statement": "品部字族①指眾口，表示話多，或張開的眾口：偘（侃，剛直從容）、𣼞（涎）、𠵀（古文師字）、㗊（眾口、喧嘩；又古文雷字）、𠾅（嚚，口不道忠信之言，愚）、𡙗（鏡匣、妝奩）、闆（門中視、老闆）、䓵（花開貌）、榀（量詞，一個房架，即品字形結構）、𠵬（疑即皮）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-132"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "品部字族②：形近「𠱠、喿、嵒、厽」之訛",
+   "statement": "品部字族②為形近字之訛：臨（察視、居上視下、降臨、哭弔；周初金文所从應為「丁」的二疊三疊，本義指俯視水鑒）、瀶（山谷、寒冷、雨）、煰（俗燥字）、𤸔（同癌）、嵓（山岩，與喦同）、碞（積石高峻、僭越）、𨶴（闉之訛）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-133"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「器」本義象犬守眾口而吠，引申指器用、才能",
+   "statement": "「器」从犬从㗊，㗊亦聲：犬的領地意識很強，對靠近的陌生人通常吠叫示警甚至攻擊，故實等於「吠」的疊體，表示狂吠之意，其義跟「囂」差不多；「口」也可指人的口表示呼喚，則象意對狗的隨意唆使。由狗能隨時聽从召喚引申指器用、才能、性格、度量，也包括器具、器官、部件及手段、條件等一切可利用的事物；又引申指賞識、看重（器重）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-134"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《說文》以「㗊」之口為器皿之口，曲說難通",
+   "statement": "《說文》以「㗊」之「口」為器皿之口：「皿也。象器之口，犬所以守之。」《正字通》駁之：「器形體不一，首足目耳臋腹孔竅悉具，非獨口也；犬雖守戶，非盡能守器也。」曲說難通。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-135"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "器部字族：狂吠同「氣」、器具形狀各異、器用表示好",
+   "statement": "器部字族①指狂吠、同「氣」（𥷇，氣也；𤼅，病也，大約指哮喘之類出氣不贏的病）；②指器具、表示形狀各異（𢻪，㩻䧢不正）；③指器用、表示好，或為形近字「𠱠」之訛（𩆮，器名，即靈）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-136"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「囂」本義象大喊大叫",
+   "statement": "「囂」从頁从㗊，㗊亦聲：「頁」象人跪跽而抬頭的樣子，「㗊」指眾口，可指一人的多口，則象意大喊大叫；也可象意眾口的針對一個（眾言貌、眾喧聲）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-137"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「囂」引申指囂張自得、詆毀、山凹之地",
+   "statement": "「囂」由大喊大叫之狀引申指囂張、自得（《正字通》「自得不肯受言貌」），由眾人的針對一個引申指詆毀（《詩·小雅》「讒口囂囂」），「口」的疊體也可表示口的大，故比喻指山凹之地。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-138"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "《說文》「氣出頭上」之說曲而不通",
+   "statement": "《說文》：「聲也。氣出頭上。从㗊从頁。頁，首也。」《六書故》評「氣出頭上之說，曲而不通」；「㗊」雖然與「氣」可通，但與「聲」沒有必然聯繫，故所析不確。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-139"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "「囂」本「㗊」聲，因有叫囂意而義音同「哮」",
+   "statement": "「囂」本「㗊」聲，因有叫囂之意，而義音同「哮」。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-140"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-32-jin",
+   "title": "囂部字族：狂傲、氣沖",
+   "statement": "囂部字族①指狂傲：𤣠（犬黃白色、犬吠聲、狂犬）、𠑪（傲，俗囂字）、𡆔（同囂）；②指氣沖：𩱴（炊氣冒出的樣子）、虈（白芷，其根氣味濃烈故从囂）。",
+   "boundary": "源自《系统汉语》第191部「品部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j32-141"
+  }
+ ]
+}
