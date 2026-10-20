@@ -210,9 +210,38 @@ function glyphInfo(ch) {
   };
 }
 
+// ---------- 字根分级 ----------
+// 依据「全书目录与结构」：「部号+部首字」是最小定位单位，609 部即一级字根；
+// 部内能再滋生的衍生字是二级、三级字根，其余是谐声字（clm_640129CD…）。
+// 部名索引由 tools/zigen-index.mjs 从 mulu.md 生成，服务层不直接读 knowledge/。
+const ZIGEN_INDEX = join(PUBLIC, 'zigen.json');
+let zigenCache = { at: 0, data: null };
+
+function loadZigenIndex() {
+  if (zigenCache.data && Date.now() - zigenCache.at < 300_000) return zigenCache.data;
+  try {
+    const data = JSON.parse(readFileSync(ZIGEN_INDEX, 'utf8'));
+    zigenCache = { at: Date.now(), data };
+    return data;
+  } catch (e) {
+    log('字根索引读取失败:', e.message);
+    return { byName: {}, juan: [], chapters: [] };
+  }
+}
+
+const JUAN_CN = ['', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十'];
+function juanCn(n) {
+  if (!n) return '';
+  if (n <= 10) return JUAN_CN[n];
+  if (n < 20) return '十' + JUAN_CN[n - 10];
+  if (n === 100) return '一百';
+  const a = Math.floor(n / 10);
+  const b = n % 10;
+  return (a === 1 ? '十' : JUAN_CN[a] + '十') + (b ? JUAN_CN[b] : '');
+}
+
 const HAN_ONE = /\p{Script=Han}/u;
 const isHan = (ch) => !!ch && HAN_ONE.test(ch);
-
 const CARD_TOPICS = /(本义|本義|本意|字源|字形|甲骨文|转义|轉義|引申义|引申|衍生字|衍生|字族|字根|意思|含义)/;
 
 // 判断问题是不是在「问某一个字」
@@ -257,6 +286,7 @@ const CARD_PROMPT = `你是《系统汉语》字卡的编辑。只依据下面�
 {"字形":"…","字根":"…","本义":"…","转义":"…","衍生":"…"}
 
 填写要求：
+0. 分级：字卡最前面「分级」一栏由系统按全书结构判好（一级字根＝部名；部内能再滋生新字者为二级、三级字根；其余为谐声字），你不得改动、不得另立级别。填「字根」一栏时先交代该字属于哪一级、由哪个字根衍生，再讲字根义如何进入这个字。
 1. 字形：该字在甲骨文、金文里的形体如何象形或构形；条目没讲字形，就填空字符串。
 2. 字根：这个字由哪个字根构成（条目里「从某从某」「从某，某声」说的那个字），并说清字根与这个字的关系——会意还是形声、字根的意义怎么进到这个字里。写成「字根：说明」，例如「士：仕从人从士，士是音源字，本义指雄性，引申为读书人、官员，所以「仕」表任事、学习政事」。若条目分「字根条目」单列，用它们说明字根本身的意义，并分别标注出处。字根必须是另一个字，不能把这个字自己写进去；条目只说它是借音字、没有构形分析的，填空字符串。
 3. 本义：造字之初的意义。
@@ -412,6 +442,95 @@ async function findRoot(ch, direct) {
   return list.find((x) => x.byTopic) || list.find((x) => x.byYinyuan) || null;
 }
 
+// 这个字能不能再滋生新字（判二级/三级字根的依据）：条目里它作声符，或自称音源字
+function spawnsFrom(ch, claims) {
+  if (!ch) return false;
+  const esc = ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const reFrom = new RegExp(`从[^。；\\n]{0,8}${esc}[声聲]`, 'u');
+  for (const c of claims) {
+    const t = `${c.title}\n${c.statement || ''}`;
+    if (t.includes(`${ch}是音源字`) || t.includes(`「${ch}」是音源字`)) return true;
+    if (reFrom.test(t)) return true;
+  }
+  return false;
+}
+
+// 判级（释字第一步）：一级字根＝609 部的部首字；部内衍生字按能否再滋生分二级、三级字根，
+// 不能再滋生者为谐声字。声符链最多上溯两层，够覆盖「㠯→台→始」这类结构。
+async function levelOf(ch, direct) {
+  const z = loadZigenIndex();
+  const bu = z.byName && z.byName[ch];
+  if (bu) {
+    return {
+      level: '一级字根',
+      text: `一级字根：「${ch}」是第 ${bu.no} 部「${ch}部」的部首字，属卷${juanCn(bu.juanNo)}「${bu.juanName}」（p${bu.p}）。部即字根；全书 609 部中第223部原缺、第554部部首字未能转录，其余 608 部即一级字根。`,
+      cites: [bu.claim],
+    };
+  }
+  if (!direct || !direct.length) return null;
+  const r1 = await findRoot(ch, direct);
+  if (!r1) return null;
+  const spawn = spawnsFrom(ch, direct);
+  let root = r1.root;
+  let via = null;
+  let depth = 1;
+  if (!z.byName || !z.byName[root]) {
+    via = root;
+    try {
+      const rr = await retrieveForChar(root);
+      const r2 = await findRoot(root, rr.direct);
+      if (r2 && z.byName && z.byName[r2.root]) {
+        root = r2.root;
+        depth = 2;
+      }
+    } catch {}
+  }
+  // 异体或隶变写法（如「以」之于「㠯」）：按一级字根看待，不降级
+  const alias = direct.some((c) => {
+    const t = `${c.title}\n${c.statement || ''}`;
+    return t.includes(ch) && t.includes(root) && /(隶作|隸作|共一字|异体|異體|或作|古字|同字)/.test(t);
+  });
+  const bu2 = z.byName && z.byName[root];
+  const where = bu2
+    ? `第 ${bu2.no} 部「${root}部」（卷${juanCn(bu2.juanNo)}「${bu2.juanName}」）`
+    : `「${root}」`;
+  const chain = depth === 2 ? `「${root}」→「${via}」→「${ch}」` : `「${root}」→「${ch}」`;
+  const cites = [r1.claim.id];
+  if (depth === 1 && alias && bu2) {
+    return {
+      level: '一级字根',
+      text: `一级字根：「${ch}」是「${root}」的异体或隶变写法，同属${where}，按部首字看待。`,
+      cites,
+    };
+  }
+  if (depth === 1) {
+    if (spawn) {
+      return {
+        level: '二级字根',
+        text: `二级字根：「${ch}」从${where}的「${root}」得声构形（${chain}）；它在部内还能滋生新字，故为二级字根。`,
+        cites,
+      };
+    }
+    return {
+      level: '谐声字',
+      text: `谐声字：「${ch}」从${where}的「${root}」得义得声（${chain}）；自身不再滋生新字，属该部末端谐声字。`,
+      cites,
+    };
+  }
+  if (spawn) {
+    return {
+      level: '三级字根',
+      text: `三级字根：「${ch}」不在部目上，声符链为${chain}，源头是${where}；它在二级字根之下还能滋生新字，故为三级字根。`,
+      cites,
+    };
+  }
+  return {
+    level: '谐声字',
+    text: `谐声字：「${ch}」的声符链为${chain}，源头是${where}；自身不再滋生新字，属部内三级以下的谐声字。`,
+    cites,
+  };
+}
+
 // 字条目 + 字根条目分两组编号，模型才能分清哪句在讲字根
 // 返回上下文与「编号 → 条目 id」的对照，模型只写 [3] 这种编号时也能追回来
 function cardContext(ch, direct, root, rootClaims) {
@@ -565,6 +684,14 @@ async function handleCard(emit, res, question, ch, ip) {
     }
   }
   if (!sections) sections = [];
+
+  // 分级放最前：先定性，再看字形与字义
+  try {
+    const lv = await levelOf(ch, direct);
+    if (lv) sections.unshift({ key: 'fenji', label: '分级', text: lv.text, cites: lv.cites.filter(Boolean) });
+  } catch (e) {
+    log('判级失败:', e.message);
+  }
 
   emit({
     type: 'card',
