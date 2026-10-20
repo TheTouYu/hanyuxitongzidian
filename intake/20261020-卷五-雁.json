@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷五 雁 48 条（34.丂部至38.厄部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "topic_path": "knowledge/hanzi-yinyuan/05a-yan.md",
+      "topic_title": "卷五·雁",
+      "topic_summary": "《系统汉语》卷五「雁」：以「丂」为音源字，象雁鵝长颈与雁阵；雁具五常、为婚礼之贽、驯为家鹅而衍生「假」义，并有鸿雁传书、雁塔题名诸典。下辖丂、厂、我、加、厄五部，皆与「丂」音义相通。",
+      "topic_keywords": [
+        "雁",
+        "丂",
+        "雁阵",
+        "五常",
+        "婚礼用雁",
+        "鸿雁传书",
+        "鵝",
+        "丂部",
+        "厂部",
+        "我部",
+        "加部",
+        "厄部"
+      ],
+      "title": "卷五的音源字是「丂」，象雁鵝長頸",
+      "statement": "《系统汉语》卷五「雁」以「丂」为音源字：「丂」象雁、鹅伸长的脖颈，以部分代指雁鹅整体，音源来自鸿雁的叫声。大雁秋分南来、春分北归，飞行时排成「一」字或「人」字，故「雁」字所从的「厂」也被认为是由「人」字队形演变而来。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "雁阵与领头雁",
+      "statement": "雁群一般以六或六的倍数排成序列，前面一只为领头雁，其翅尖会产生微弱的上升气流，后雁依次利用以节省体力。领头雁全靠自己扇翅，容易疲劳，故长途迁徙中须经常变换队形、轮番领飞；变换时速度放慢，便过渡为「一」字形，这是「人」字队形形成的行为基础。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "雁有五常",
+      "statement": "中国古人认为大雁具备「仁、义、礼、智、信」五种品格：群飞群落、扶老携幼为仁；一雌一雄终身为偶、失偶不独活为义；迁徙万里整然有序为礼；高飞避弓矢、栖止时老雁放哨闻警齐飞为智；寒暑易往、信实守约为信。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "婚礼用雁与「五礼」",
+      "statement": "据《仪礼》，周代婚姻的纳采、问名、纳吉、请期、亲迎都要以雁为礼。《白虎通德论》解释：雁随时南北从不误时，表明不会耽误女子青春；飞成行、止成列，表明嫁娶长幼有序、不违规矩。大夫往来、社祭冬祭亦用雁，可见礼尚往来原有深刻的文化内涵。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "驯雁为鹅与「雁」的假义",
+      "statement": "野生大雁难得，古人很早就驯养为家鹅，鹅渐失远飞之能。《庄子·山木》「命竖子杀雁而烹之」的「雁」即指鹅；《韩非子·说林》鲁人以「雁」冒充谗鼎，齐人说是雁（假货），此义后演变为「贗」。战国时已多以家鹅代雁送礼，唐松赞干布献金鹅称「夫鹅犹雁也」，江南端午女婿送鹅亦存古风。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "鸿雁传书与雁塔题名",
+      "statement": "大雁并非信鸽，「鸿雁传书」典出《汉书·苏武传》：汉使假称昭帝于上林苑射得足系帛书的大雁，匈奴乃放还苏武。此后雁成为征人羁旅的知己与思乡寄托。雁又象征志存高远，晋羊祜《雁赋》咏其万里不退缩；唐长安慈恩寺大雁塔为进士题名处，白居易二十七岁题诗「慈恩塔下题名处，十七人中最少年」。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "雁鹅鸭同类与第一版归卷之误",
+      "statement": "大雁、鸭、天鹅本质上同类，只是身形上鹅最美，皆世界著名观赏鸟。《系统汉语》第一版以《鵝》为卷，而把「雁」放进《蟬》卷，是错误的：致误主因是「雁」所从的「丂」与指悬崖的「厂」形近相混，加上普通话失去「ng」声母，把雁鹅鸭的叫声拟成了 yan、e、ya。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "卷五五部皆与「丂」音义相通",
+      "statement": "卷五立丂、厂、我、加、厄五部，皆与「丂」音义相通：「我」是近似戈的长柄兵器，有如鹅的头颈，故借音于鹅；「加」所从即牛軛，曲如鹅脖，与「丂」同；「厄」亦指車軛；「厂」则与雁阵形近。故《雁》与《鶴》《蛇》义音亦可通。",
+      "boundary": "源自《系统汉语》卷五「雁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「丂」本指雁颈或雁阵，四向引申",
+      "statement": "「丂」甲骨文从「丿」往「一」（上），「丿」象细长韧挺之物，从「上」象细长脖颈伸而向上，可能本指雁鹅，即「鴚」的初文，也可能指雁阵之形。由雁颈柔软引申为灵巧（巧），由啄食引申为稽考（考），由伸颈叫唤引申为呼号（号），由身肥颈细引申为枝柯（柯）。《说文》「气欲舒出」的析形不确；音源为鸿雁叫声。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「号」由嚎叫引申为名号与虚空",
+      "statement": "「号」从口从丂，象大雁伸长脖子向上张口嚎叫。雁声凄切如遭哀痛，故有「哀鸿」；由嚎叫传达信息引申为名称、标记、信号、商号、号令；由张口之状又引申为虚空，如「枵」（木根空、玄枵星次，凡物虚耗曰枵）、「呺然」（虚大之貌）。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「乎」从气息引申为语气词与「于」",
+      "statement": "「乎」从「丂」上加表示声音、气息的符号，象伸长脖子呼叫、哈气。由呼叫声大引申作语气词，表疑问、反问、感叹、祈使、推测、召唤、肯定；又引申指关注，如「在乎」；或作介词，相当于「于」，如「异乎」。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「兮」本即「乎」，且与「幵」相讹",
+      "statement": "「兮」本即「乎」，从「丂」上有两点表示呼出的气息，《说文》训「语所稽也」。西周晚期金文两点讹作「八」，又与其形近的「幵」相混：《类编》《甲骨文》等把「兮」形当作「兮」的甲骨文，其实从「𠣬」看所从应是「幵」（发簪，象细而坚挺）。故「兮」的字族须按字义剔除「幵」讹入者。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「可」一形两字：歌与斧柯",
+      "statement": "「可」的甲骨文包含两个字：一从口从丂，口在下与「号」相对，朝上是呼号，朝下则是歌唱、哈气、点头答应、啄食，即「歌」的古字；一从口从「斤」柄之形，为「柯」（斧柄）初文。斧柯之状与雁长颈肥身相似，形义难分。由点头答应引申为能够、值得、适合，又引申为表大约、转折、疑问的副词。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「何」本象人扛戈，借为疑问",
+      "statement": "「何」甲骨文象人扛长戈之形，战国文字才讹从人可声，本义为担荷、扛。扛戈不是作战之状，自然不会是要干什么，故引申表疑问（何故、哪里、谁、多么）。因扛戈之状身短粗而戈细长，如斧柄，故义音同「可」；甲骨文时代「河」已与「可」混同，故附于《丂部》。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：由雁颈柔软引申的「巧」",
+      "statement": "由雁脖柔软灵活引申的一族：巧（技能、灵巧、美好、擅长）、㱙（朽，骨木如脖之软则已腐）、㤍（㤍㤉，伏态，感情不外露）、䲾（巧妇鸟，即鹪鹩，善筑巢）、㚽（女子名）、䒓（曲、乖戾）。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：由啄食引申的「考」与「辩」",
+      "statement": "由雁鹅啄食之状引申为稽考：攷（考，叩击、校考、成、引；《淮南子》「夏后氏之璜不能无考」即瑕疵）、《说文》系传训「丂，犹稽丂之意」；䛒（辩，别、理、慧），为善辩之俗字。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：由雁叫引申的歌与呵",
+      "statement": "由雁叫引申的一族：哥（声也，从二可，古以为謌字，今呼为兄）、歌（咏也，《释名》「歌者，柯也」，歌声如柯叶上下）、訶（大言而怒，呵斥）、哿（可也、嘉许，假借为珈）、疴（病也，张口不开，指腮腺炎、小儿惊风）、呵（责怒、笑声、嘘气，通何、阿）、㰤（张口笑、气出）。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：由雁身上细下肥引申",
+      "statement": "由上细下肥之状引申：鴚（鴚鹅，鸿雁）、𪀉（同鴚，𪀉鹅即雁）、柯（斧柄，又枝茎、法度，古以三尺为一柯）、苛（小草，又政烦、急、怒）、坷（坎坷、土块）、屙（上厕所，蹲踞之状如阿）、蚵（蚵龙，蜥蜴；闽粤称牡蛎为蚵）。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：由浮水与宛曲引申",
+      "statement": "由雁浮水与姿态宛曲引申：舸（大船，南楚江湘谓之大船）、滒（多汁、黏稠）、菏（菏泽水，吴王夫差开深沟引菏水入泗，江淮河济四渎始通）、閜（大开、大杯，又弯曲）、阿（大陵、山丘曲处，又柔貌）、娿（媕娿不决，娿娜柔美）、㫊（旖旎，旌旗从风之貌）、𧙃（衣貌、弱貌）。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：由羽色白与号之虚中引申",
+      "statement": "由雁鹅羽色白引申：珂（石次玉、洁白如雪，又名马珂螺）、䋪（细缯、白练）、笴（箭茎、弓材）、魺（河豚；南越谓鲊为魺）。另由「号」之张口虚中引申：呺（虚大）、𧇼（土釜、敞口陶锅）、𤩭（似玉筒形器，疑玉扳指）、饕（贪食贪财）、鴞（鸱鸮，即猫头鹰类）。",
+      "boundary": "源自《系统汉语》第34部「丂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「厂」本象悬崖，「雁」所从却是雁阵",
+      "statement": "「厂」甲骨文与「石」同源，象悬崖形，上部突出呈棚状；西周金文加声符「干」。「雁」所从之「厂」当指大雁迁徙群飞排成的阵形，可视为「丂」，因形近而混同，「鴈」或体从文从厂（文指纹路，即呈厂字形的纹路）可证。或有斑头雁栖悬崖、幼鸟出壳即跳崖之说，则或专指此雁。「广」与「厂」本同源。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「反」从又厂声，本指返回翻转",
+      "statement": "「反」从又厂声。厂若指悬崖，从又象手作攀扣之状，为「扳」的初文；厂若指雁阵，从又则象大雁回归、反转。雁阵出现于迁徙：秋分南飞、春分北归，故引申指返回、反归。由翻转引申为反复、慎重（《诗》「威仪反反」）；旧说以手攀崖，则翻转、反复之义无从出。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「彥」从文厂云，本同「鴈」",
+      "statement": "「彥」金文从文从厂从云：文指纹路，厂指雁阵，云象大雁高翔云天，本同「鴈」。由雁具五常引申指大、常，又引申指贤士、有才德者（《广韵》「美士」）；由高飞引申高峻（嵃），由鸣声高远引申流传很广的言语（諺）。旧释从「彣」厂声、或以为象弓形，皆不确。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「炭」象火色如雁，本指火炭与煤炭",
+      "statement": "「炭」战国古文从火从彥省，象物质燃烧后形成的颜色如雁一般灰褐，指火炭，实即余烬，故或从「厂」从「少火」、或径作「幺火」，指火势微弱。汉简字形或从火从岩，应指可以燃烧的石头，即煤炭，《说文》「岸省声」所释当指石炭，可视为「炭」的转义。碳、羰则为音译字。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「產」从生从彥省，取雁徙南北之象",
+      "statement": "「產」从生从彥省：生指草木的新生，彥指大雁的迁徙。雁徙秋南春北，故其义有二：指北归，则象春天来临、草木吐绿，表示生育（与「春」表意相近）；指南飞，则象秋收，表示物产。由草木新生引申指事物的发生（「事所从始亦曰产」）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「詹」有三重字源，屋簷为本义",
+      "statement": "「詹」西周金文从音厂声，结构同「反」，指声音的反覆，表示回音或说话重三倒四、喋喋不休；战国古文从言从彥省，则本义当指雁鸣；小篆从厃从八从言，八象屋顶向两旁分张伸出，为「檐」的初文。屋簷如悬崖，又多为燕雀蝙蝠栖息、声音嘈杂之处，故屋簷才是「詹」的本义。引申为足（《尔雅》「至也」）、供养（贍）、悬垂担荷（擔）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：指悬崖或悬崖之状",
+      "statement": "指「石」、悬崖的一族：厓（山边，「圭」为叠加声符，指其状如圭、上部圆曲）、崖（高边）、涯（水边，引申边际、极限）、睚（目际、怒视，即睚眦）、屵（岸高）、广（依山崖建屋，实即「厂」，今作「廣」的简化字）、娾（喜乐；或指女貌丑，额头前突如崖）、厊（厏厊，不相合）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：雁与「假」义",
+      "statement": "同「丂」、表示大雁的一族：贗（伪物，鹅看似雁而味不如，故引申为假、不好）、鴈（雁的或体，《说文》以为从鸟人厂声，实即「厂」为「丂」之误，指雁飞成「人」字队形）、㷳（火色，即色如褐雁）、偐（贗的或体）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：翻转与返回",
+      "statement": "由翻转、回返引申的一族：飯（吃饭，上古以手抓食；又饲人、喂牲口）、返（还也）、䡊（车厢两旁如耳向外反出，以蔽泥尘）、阪（山坡、堤障、山腰小道）、叛（分离、背叛）、眅（翻白眼）、扳（攀援；又往下或往里拉）、舨（小船，两头翘起）、汳（汴水，泗水支流）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：反复与木板",
+      "statement": "由反复之义引申的一族：板（片木，与版同）、蝂（蝜蝂，好负重物的小虫，即负版）、魬（比目鱼，扁如木板）、畈（成片的田）、粄（米饼，熟米饭反复舂成）、販（买贱卖贵）、版（判木、户籍、筑墙夹板；大版谓之业）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：雁飞、雁鸣与雁色",
+      "statement": "由雁飞、雁鸣、雁色引申的一族：顏（眉目之间、印堂，《小尔雅》训额）、𪃛（疑即雁）、嵃（山峻之貌，又殿台之势）、諺（传言、俗语，《文心雕龙》「谚者，直语也」）、喭（吊生、刚猛粗俗）、齴（露齿而笑）、𩜽（糖）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：炭状与产状",
+      "statement": "由炭与产引申的两组：湠（大水、湠漫）、㨏（槃㨏，宛转）、𣁗（无采色、无文章）、㛶（仪容不加修饰）；嵼（山曲峻）、㦃（全德、多）、㹌（畜牲；母牛）、簅（三孔短管乐器，大籥谓之产）、滻（水名，渭水支流）、𥽽（破壳舂米）、摌（摇物、择物）。",
+      "boundary": "源自《系统汉语》第35部「厂部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「我」本象戈类兵器，借为第一人称",
+      "statement": "「我」象戈类兵器形，与一般戈不同，有突出的三角刺，一般三个、呈锯齿状排列，大约为砍斫类武器，或作仪仗用。由我之状引申指倾侧，倾侧如点头示意，故又引申为第一人称代词。小篆表刃部分讹作「𠄒」，《说文》析形不确。此兵器早退出历史，本义被借音于鹅取代（「鵝」又从「我」得声），第一人称或源于巫师峨冠博带、状如鹅的自称。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「義」本为有角饰的仪仗，引申为礼法",
+      "statement": "「義」甲骨文从「我」上有两曲角形，后演变为从羊我声，说明它不是兵器「我」，而是顶端有角类装饰的仪仗（商代首领墓出土的牛首叉形銎管器即此类），为「儀」的初文。这种仪仗由特权者在特殊场合持有，引申指礼节、仪式、法度、善美；仪仗主要为好看，故又引申指外表、假，如「义肢」。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「羲」本为鵝敛翅之态",
+      "statement": "「羲」甲骨文从丏（万）我声：「丏」为「非」的一半，表示敛翅不飞，或上加两点表示叫声；「我」本有鹅义，故象鹅敛翅不飞时的优雅姿态，金文改从「義」指其仪态之美，本为「鵝」的初文。由鹅的身形引申指勺（㰕），由鹅羽洁白引申指色纯（犧为纯色牛）、日光（曦）。小篆讹从「兮」，《说文》「气也」之释不确。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：鹅叫、乞食与吟哦",
+      "statement": "指鹅的叫、表示乞食吟哦的一族：䳘（鵝，野鹅，即雁、鸿鹄、天鹅一类）、餓（饥也）、哦（吟咏；又叹词，表将信将疑、惊讶、领会）、誐（嘉美的言词；又吟哦）。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：鹅翅宽大之状",
+      "statement": "指鹅的翅膀宽大、表示阔展的一族：𧒎（蚕化飞虫，同蛾）、莪（萝莪，蒿属，嫩茎叶可食，俗称抱娘蒿）、涐（水名，即今大渡河，指其两边峡谷如展开的翅膀）、蛾（象蝴蝶的昆虫，翅张开很宽如鹅展翅；又通螘、蚁）。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：伸颈高貌与倾侧",
+      "statement": "指鹅伸长脖子、表示高貌倾侧的一族：峨（嵯峨，山势高峻）、硪（石岩，山的边岸；又砸地基的工具）、娥（尧女舜妻娥皇；秦晋谓好曰娙娥，指女子身材修长、姿态轻盈）、騀（马摇头，马颈本长、头如鹅状）、睋（望、视）、俄（俄顷、须臾；又倾斜、高扬）、𩒰（齐也、侧弁）。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：仪容、法度与议",
+      "statement": "指仪容、表示美好法度的一族：儀（法度、威仪；又匹配、忖度、望见、引来）、𥫃（仪容、正也）、嬟（婍嬟，好貌）、議（讨论、谋划、选择、评论，如蚁以触角相碰交流信息）、蟻（蚂蚁，腰细而触须长）。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：角状竖立与纯白明亮",
+      "statement": "指義状、表示角状竖立的一族：轙（车衡上贯穿缰绳的大环）、䣡（地名，在今安徽泗县北）、鸃（鵔鸃，红色野鸡，尾羽美可作冠饰）、㕒（厜㕒，山峰巉岩）、礒（碕礒，山石高耸错落）、艤（整舟向岸，桅杆露出如義）、檥（筑墙两端竖起的木柱；使船靠岸）；又犧（纯色牲）、曦（日光）取羲羽之白。",
+      "boundary": "源自《系统汉语》第36部「我部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「加」本指牛軛，引申为增加陵驾",
+      "statement": "「加」从口从力：「口」指口状物，从「力」象与犁配套的口状物，即軛，为「枷」（项械）的初文；「口」也可指口，表示犁地时用语音驱使拉犁的牲口。由套在牲畜肩颈之状引申指外加、增加、施加、戴上，又引申指欺侮、陵驾。借音：因其曲如鹅脖，义音同「丂」（鴐即雁）。",
+      "boundary": "源自《系统汉语》第37部「加部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：驾驭、庆贺与枷械",
+      "statement": "指戴加、表示驾驭或增加的一族：駕（马在軛中，把车套在马上）、嘉（美也、善也，甲骨文从壴从力，象开犁庆祝，后泛指冠婚贺庆之礼）、枷（连枷打谷之具；又项械、衣架）、賀（以礼相奉庆，又担荷、犒劳，义音同荷）、妿（以妇道教人的女教师）。",
+      "boundary": "源自《系统汉语》第37部「加部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：形如牛軛之物",
+      "statement": "指加状、表示样子如加的一族：珈（妇人首饰，以发为副、加玉饰，形如軛，六珈为侯伯夫人所用）、鴐（野鹅、鸿雁，脖颈曲如加）、跏（跏趺，架腿成牛軛状而坐）、笳（卷芦叶吹之的北方乐器）、茄（荷花的茎，弯如牛軛）、䴥（雄鹿，有角如加）、架（支承之物，又交错、虚构、争斗）、𨔣（相互牵制令不得行）、迦（释迦，梵文译音）、泇（水名）。",
+      "boundary": "源自《系统汉语》第37部「加部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：加部的梵文音译字",
+      "statement": "加部中的音译字：袈（袈裟，梵文译音，原意「不正色」，因僧衣用杂色布制成）、伽（伽蓝，佛寺；又译音字，如伽耶琴、伽马射线）、鉫（器具；化学元素「鎵」的旧译）。",
+      "boundary": "源自《系统汉语》第37部「加部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "「厄」本指车軛，引申困苦与要隘",
+      "statement": "「厄」即「戹」：甲骨文从跪着的人形（卩）在膝盖部位画一弧线，象曲如弯膝，指牲口拉东西时驾在颈上的曲木，为「軛」的初文；西周金文径作车軛的象形。由套在牲畜脖颈之状引申指困苦、灾难，或引申指要隘、状如軛之物。《说文》另释「厄」为木节（科厄）不确；「厄、戹」本一字，「𠂬」隶省作「厄」，或讹同「巵」。",
+      "boundary": "源自《系统汉语》第38部「厄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：軛颈之状，阻塞与握住",
+      "statement": "指軛颈、表示阻塞卡住握住的一族：呝（呃，鸟声；又逆气、小儿啼，如喉咙被卡住）、阸（阻塞、险隘；或作隘，狭陋）、𩚬（饥饿；又嗝声）、㧖（把也、握住，或作搹、搤、扼，与軛通）、蚅（鸟蠋，似蚕大如指，吐丝如自扼）、𢫷（捰𢫷，摘也）。",
+      "boundary": "源自《系统汉语》第38部「厄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "字族：軛状弯曲与婀娜",
+      "statement": "指軛状、表示弯曲婀娜的一族：枙（木节、树疙瘩；又同軛）、豟（豕绝有力者，大猪）、㛂（婐㛂，好貌；又弱也，婀娜曲貌，义音同娜）、𠈊（皮宽）、𦛐（肥貌）、砨（砥砨，玉名，疑为磨刀石，因反复磨刀而多下凹呈軛形）、頋（静也；俗混同「顧」，今简作顾）。",
+      "boundary": "源自《系统汉语》第38部「厄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-05-yan",
+      "title": "厄部的音译字「苊」",
+      "statement": "「苊」为音译字：碳氢化合物的一类，无色针状结晶，溶于热酒精，可作媒染剂，英文 acenaphthene 的音译。",
+      "boundary": "源自《系统汉语》第38部「厄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
