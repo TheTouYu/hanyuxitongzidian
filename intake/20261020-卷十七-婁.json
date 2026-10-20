@@ -1,0 +1,839 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷十七 婁 63 条（音源字「婁」象手捧牛角漏斗，第96部婁部至第99部卯部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j17-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卷十七音源字「婁」：甲骨文象手捧牛角漏斗，音源为漏物时的滴沥声",
+      "statement": "「婁」的甲骨文从𦥑从牛从角小：「角小」指角的尖部有细孔，即牛角做成的漏斗；从「𦥑」指手捧，象意手捧牛角漏斗使用。其音源自漏物时的滴沥声，是汉语一个重要的音义系统。",
+      "boundary": "源自《系统汉语》卷十七「婁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/17a-lou.md",
+      "topic_title": "卷十七·婁",
+      "topic_summary": "卷十七「婁」（第96–99部，p298–p304）：96 婁部（p299）、97 屚部（p302）、98 叟部（p302）、99 卯部（p304）。音源字「婁」为手捧牛角漏斗之形，音源漏物滴沥声；本卷核心义在漏斗的过滤、装入与中空，婁、屚、叟、卯四部音义相通（如漏刻、佝偻、柳条编织、卯榫）。",
+      "topic_keywords": [
+        "婁",
+        "漏斗",
+        "屚",
+        "叟",
+        "卯",
+        "柳",
+        "漏刻",
+        "中空"
+      ]
+    },
+    {
+      "id": "j17-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "漏斗的形制与牛角、叶片、手掌三种代用品",
+      "statement": "漏斗是圆锥状筒形物，用于把油、酒等液体及粉状物注进人口较细小的容器。古代无不锈钢或塑胶，牛角中空、根部粗大而尖部细小，可謂现成的漏斗；没有漏斗时宽大的叶子可卷成锥形，甚至直接用手掌窝成。",
+      "boundary": "源自《系统汉语》卷十七「婁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "米家崖陶漏斗：5500 年前的漏斗与最早的啤酒酿造证据",
+      "statement": "考古发现最早的漏斗见于 5500 多年前的陕西西安米家崖遗址：一件破碎陶器修复拼接后原是漏斗，内壁残留物经成分鉴定为淀粉，另有植硅体（谷物外壳特有）与草酸钙（小麦发酵副产物，业内称啤酒石），说明米家崖先民已会用漏斗将发酵液灌入小口陶瓶保存，即酿造啤酒的工具。",
+      "boundary": "源自《系统汉语》卷十七「婁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "「屚」亦为音源字：屋漏滴沥如「婁」，漏刻沙漏由此启发",
+      "statement": "「漏」所从「屚」其实也是音源字，《说文》「屋穿水下也」即屋子的漏雨；屋漏滴沥如「婁」，故音义相通（《尔雅·释器》「金謂之鏤」，《释文》「鏤，字又作𨫒」）。先民受漏斗漏物细而匀的启发，还发明了漏刻、沙漏等古老计时装置。",
+      "boundary": "源自《系统汉语》卷十七「婁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "「婁」的音义系统：过滤义音同鹿，中空而小义音同舟、叟、曲、卯",
+      "statement": "「婁」用于过滤时音义同「鹿」——《荀子》「剄而獨鹿棄之江」杨倞注「獨鹿與屬鏤同，本亦或作屬鏤」；因其中空而小，义音同「舟、叟、曲、卯」——《集韵》氍毹作㲣、𣮸、氀，鉤𤬏即王瓜、𦸈𧁾即土瓜，蔞（丧车饰）或作僂、𨋖、𨍸、通作柳。",
+      "boundary": "源自《系统汉语》卷十七「婁」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁本义：甲骨文从𦥑从牛从角小，象手捧牛角漏斗使用",
+      "statement": "「婁」甲骨文从𦥑从牛从角小：「角小」指角尖有细孔即牛角漏斗，从「𦥑」指手捧。可能为了免与「解」混淆，西周金文将「牛」改成「女」，遂与「要」混同。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁的转义：由漏时细线长流引申指牵曳、聚束",
+      "statement": "漏斗主要用于液体或细物的过滤、装入；由漏时细线长流之状，引申指牵曳、聚束（lǘ，《正韵》「淩如切，音慺。曳也」，《集韵》「牽也」，「卷婁，猶拘攣也」）。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁的锥状中空义：比喻漏斗状物体或指中空",
+      "statement": "漏斗呈锥状、中空，故或比喻指漏斗状的物体（lóu，《集韵》「培塿，小阜。或省」），或引申指中空（《广韵》「空也」）。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁的琐细频数义与愚笨义",
+      "statement": "由漏物时淋漓不断之状引申指琐细、频数（lǚ，《集韵》「屢，數也」，《正韵》「良據切。同屢。煩數也」），或引申指愚笨（lǘ，《集韵》「愚也」）。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁的辩证：《说文》析形不确，战国文字讹「𦥑角」为「貴」字头",
+      "statement": "战国文字讹「𦥑角」为「貴」字头形，小篆又讹作「母、中」，故《说文》「空也。从母、中、女，空之意也」析形不确；「婁務」即愚笨义。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁的音源：源自漏物滴沥声，义音同「丩」",
+      "statement": "「婁」是音源字，音源为漏物时的滴沥声；义音同「丩」——《易·噬嗑》「屨校滅趾」，「屨」马王堆汉墓帛书本作「句」。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族一：锥形中空之物（廔、簍、髏、䱾、甊、鷜）",
+      "statement": "廔为房屋窗牖通明的样子，或指播种器具耬车（《玉篇》「屋蠡也、脊也」）；簍为竹编疏目之笼（《急就篇注》「簍者，疏目之籠，言其孔樓樓然也」）；髏为骷髅头骨；䱾为大青鱼；甊为瓿甊即瓶；鷜为鵱鷜即野鹅，又𪇖鷜即郭公（斑鸠）。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族二：炊具、足衣与马具（籔、鞻、屨、㡞、𤻺）",
+      "statement": "籔为做饭淘米漉水的箕，十六斗亦曰籔，又窶籔为四足几；鞻为鞮鞻氏所掌四夷舞者之皮鞋；屨为皮鞋（《释名》「屨，拘也，所以拘足也」）；㡞为饮马布袋（《方言》「飲馬橐」）；𤻺同瘦。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族三：渔具、驴与播种器（罶、䮫、耬）",
+      "statement": "罶（𦌁）为曲梁、寡妇之笱，鱼所留也；䮫即驴（《集韵》「馬類。一曰大騾」）；耬为播种农具耬车（《正字通》「狀如三足犂，中置耬斗，藏種以牛駕之，一人執耬，且行且搖，種乃隨下」）。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族四：层叠与楼船、山顶（樓、艛、嶁）",
+      "statement": "樓为两层以上的屋子（《释名》「樓謂牖戸之間有射孔，樓樓然也」）；艛为古代有楼的大船；嶁为山顶，岣嶁即衡山（《集韵》「岣嶁，衡山也」），其峰佝偻故名。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族五：佝偻与曲身（軁、僂、𡰌、慺）",
+      "statement": "軁为駝背（《集韵》「躽軁，傴也」）；僂为背脊弯曲（《庄子·达生》「聚僂之中」郭象注「曲而可以聚物曰聚僂，畚筥之類是也」），又棺盖边的饰物、疾速；𡰌与僂通；慺为谨敬、不轻、下情。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族六：牵聚、夺取与薮泽（謱、摟、㪹、藪、𤗬、𠐍）",
+      "statement": "謱为言语啰嗦（謰謱，小儿语）；摟为曳、聚、强加牵合，两臂合抱；㪹为斢㪹即兵夺人物；藪为大泽——《说文》列九州之薮：扬州具区、荆州云梦、豫州甫田、青州孟诸、沇州大野、雝州弦圃、幽州奚养、冀州杨纡、并州昭余祁；𤗬为遏水版；𠐍侲即肃慎国名。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族七：行步连绵与计数（遱、數）",
+      "statement": "遱为行步连绵不绝的样子（《说文》「連遱也」）；數为计数、数落、辨、目物，又 shuò 指频数、遽、迫促、细（《集韵》「數數，猶汲汲也」）。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族八：雨、病与屡次（漊、𩄽、瘻、屢）",
+      "statement": "漊为雨缕缕不绝（《说文》「雨漊漊也」），或指饮酒习之不醉，又沟通水、水名；𩄽为小雨不绝貌；瘻为颈项肿溃即淋巴结核，今指瘘管（体内病变向外溃破形成的管道）；屢为多次（《尔雅》「亟也」、《玉篇》「疾也」）。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族九：线缕、衣襟与毛布（縷、褸、氀、𪖹）",
+      "statement": "縷为丝线、麻线（覶縷即委曲）；褸为衣襟，又衣坏（《方言》「南楚凡人貧，衣被醜弊，或謂之褸裂，或謂之襤褸」）；氀为毛布（氍毹者曰毾㲪）；𪖹为齁𪖹，熟睡而打鼾。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族十：抖擞、坟土与祭名（擻、塿、膢、㻲、𥕍、𥖻）",
+      "statement": "擻为抖擞即举索物、振动；塿为疏土，小坟（《方言》「冢，自關而東謂之丘，小者謂之塿」）；膢为楚俗二月饮食祭、祈谷尝新；㻲为立秋祭名；𥕍𥖻为石；𡗆为多。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族十一：草名与饮食（蔞、𧃒、𧂜、𤬏、𪍣、𧰃）",
+      "statement": "蔞为蔞蒿可烹鱼，蔞叶即蒟酱叶（食槟榔者以此叶与鲜灰同嚼辟瘴疠），又丧车饰、正轮工具、木耳；𧃒为蘩𧃒即鸡肠草；𧂜为草名或木耳；𤬏为鉤𤬏即王瓜；𪍣为𪍴𪍣即寒具；𧰃为𧰃豆。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族十二：贪财与呼畜之声（𧷡、𡀿、𡂡）",
+      "statement": "𧷡为䞀𧷡即贪财（《玉篇》「貪也」）；𡀿为吴人呼狗、呼猪的方言；𡂡为使犬声，又同嗽即吮吸。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族十三：刻镂与蝼蛄（鏤、螻）",
+      "statement": "鏤为刚硬的铁可用以雕刻，或指烹饪的锅（《尔雅》「金謂之鏤，木謂之刻」，《方言》「鍑，江淮𨻰楚之間或謂之鏤」），又屬鏤为剑名；螻为蝼蛄即土狗，能掘地、喜夜鸣。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "婁字族十四：贫穷、狭小与穴居之物（寠、䣚、熡、貗、䝏、瞜、𠞭、𦎹）",
+      "statement": "寠为无礼之居、贫陋空、高地上狭小的坡地；䣚为南阳穰乡（今河南邓州）；熡为火炎，撬动火堆使露小孔进气助燃；貗、䝏为求子之猪、母猪；瞜为视、偏盲、细视；𠞭为穿、小穿、细切；𦎹为《山海经》似羊四角、触物则斃之兽。",
+      "boundary": "源自《系统汉语》第96部「婁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "屚本义：本当作从广从雨的「𢉀」，象屋漏水，或指漏刻",
+      "statement": "「屚」本当作「𢉀」，从广从雨：「广」指屋子，象意屋子漏水；因「广、尸」形近，战国古文讹「广」作「尸」，故《说文》「屋穿水下也。从雨在尸下。尸者，屋也」。或本指古代计时器即「漏」（《广韵》「漏刻」）。",
+      "boundary": "源自《系统汉语》第97部「屚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "屚的转义：渗出、僻陋与屋漏、漏泄",
+      "statement": "由漏雨之状引申指渗出、僻陋（《正字通》「漏，與屚同，音陋。滲漏。又室西北隅謂之屋漏。又漏洩」，又「竅也」）。",
+      "boundary": "源自《系统汉语》第97部「屚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "屚的音源：借音字，滴水如漏斗故义音同「婁」",
+      "statement": "「屚」是借音字，因滴水如漏斗，故义音同「婁」——《礼记·内则》「馬黑脊而般臂，漏」，《山海经·北山经》郭璞注「漏」引作「膢」；《尔雅·释器》「金謂之鏤」，《释文》「鏤，字又作𨫒」。",
+      "boundary": "源自《系统汉语》第97部「屚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "屚字族一：漏刻与漏疮（漏、瘺、𧫞）",
+      "statement": "漏为以铜受水、刻节、昼夜百刻的计时器：分播水壶（一般三个，置台阶或架上，均有小孔滴水）与受水壶，受水壶中立箭划百刻，箭随蓄水上升露出刻度以表示时间，与沙漏原理相似；瘺为颈部生疮久而不愈、常出脓水；𧫞为𧫞诟暴怒。",
+      "boundary": "源自《系统汉语》第97部「屚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "屚字族二：漏芦、铁锈与蹋（𦸢、𨫒、𨄋）",
+      "statement": "漏芦（𦸢蘆）根呈倒圆锥形而中空如漏斗，故从「屚」，有排脓消肿、通乳、止遗尿之效；𨫒为鏉𨫒即铁锈，亦作雕镂，𨫒楱为铁齿杷（杷物时物从齿间漏出）；𨄋为蹋。",
+      "boundary": "源自《系统汉语》第97部「屚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟本义：甲骨文从宀从又持火把，为「搜」之初文与守火种老人二义",
+      "statement": "「叟（叜）」甲骨文从宀从又持火把，「宀」指屋子，象在屋里举着火把：一指举火把到屋里找东西，即「搜」的初文（《广韵》「索也。求也。聚也」）；一指在屋里负责看守火种的人，一般为家中最年长者（《玉篇》「老也。或作叟」），纳西、彝、哈尼等族至今仍由长者看守火塘。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟的转义：由搜寻指动，由老人守火种指小便与瘦",
+      "statement": "由搜寻引申指动（《集韵》「搜，搜搜動皃」）；由老人看守火种引申指小便，衍生作「溲」（《集韵》「溺謂之溲」），或引申指瘦。因古代钻木取火不易、靠火塘余烬保存火种，易熄灭或致火灾，需专人看护；老人睡眠警醒又干不了重活，最适其任，也方便夜起照明。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟的辩证：《说文》「从又从災」析形不确",
+      "statement": "《说文》「老也。从又从災。闕。叜或从人」，「災」指火灾，与字义无关，故析形不确。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟的音源：借音字，年老佝偻故义音同「婁」",
+      "statement": "「叟」是借音字，因年老佝偻，故义音同「婁」——《楚辞·九叹·忧苦》「步從容于山廀」洪兴祖《考异》「廀，一作藪」；或同「蚤」，《诗·大雅·生民》「釋之叟叟」《释文》「叟，字又作溲，濤米聲也」。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟字族一：搜求、风声与试探（搜、颼、獀、𧳶、謏、瞍、嗖）",
+      "statement": "搜为求索、聚、劲疾；颼为风声、寒冷清凉；獀为猎犬，又指驱犬狩猎（秋猎、春猎）；𧳶为食猛兽之兽；謏为小、诱、以言语试探；瞍为瞎子（摸索之意，或称长者）；嗖为驱鸟声，象声词形容迅速通过的声音。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟字族二：刻镂、隐匿与漉酒（鎪、騪、廋、遚、㪢、𥰞）",
+      "statement": "鎪为刻镂、马的金饰耳、铁锈；騪为蕃中大马；廋为隐匿、求取、山坳；遚为不进、匿；㪢为击、搅；𥰞为漉取酒，又淘米用的竹器（籔）。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟字族三：便溺、酸臭与多足虫（𣸈、餿、醙、螋、㵻）",
+      "statement": "𣸈为把米浸泡滤出后再浇湿、拌和、大小便、淘米声；餿为饭坏受潮变质的酸臭味；醙为白酒；螋为蠼螋（黑褐色、体扁平狭长、腹端有铗状尾须一对，生活在潮湿处，危害家蚕）；㵻为汗面。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟字族四：草名、船与马具（𦺋、蓃、𣔱、艘、𦃈、䱸、𣯜）",
+      "statement": "𦺋为石胡荽即鸡肠草（生石缝阴湿处，高二三寸，气辛熏不堪食，鹅亦不食）；蓃为莍蓃即椒子聚生成房之貌，又同藪；𣔱为船之总名（船长期泡水故有腐臭味）；艘为船隻、海中大船；𦃈为套车时拴在驾辕牲口屁股上的皮带；䱸为人名，又同緧；𣯜为有花纹的毛毯。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "叟字族五：体瘦贫瘠、佝偻与古国（𤸃、𧼭、嫂、㟬、鄋、㥰、𠪇、𤔣、𥕋）",
+      "statement": "𤸃为肌肉不丰满、土壤瘠薄；𧼭为不进、体不伸即伛偻；嫂为兄妻（《释名》「嫂，叟也。人及物老，皆縮小于舊也」）；㟬崮为山东蒙阴西南之山名；鄋为北方长狄国（夏为防风氏、殷为汪茫氏，今山东济南北）；㥰为愁，通骚；𠪇为隈、老人；𤔣为姓；𥕋为小石。",
+      "boundary": "源自《系统汉语》第98部「叟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯本义：甲骨文象空心而表面长凸起物的树干，为「柳」的初文",
+      "statement": "「卯」甲骨文象空心而表面长有凸起物的树干形，是「柳（liǔ）」的初文（《玉篇》「小楊也」）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯的转义一：柳条编织与头木作业法，故引申指留止",
+      "statement": "在古代特别是北方缺竹地区柳的作用很大：柳条柔韧细长，可编筐、包、篮、席；柳树再生力极强，插地即芽，古人因此发明头木作业法——长到两米左右高时截头平茬，保留当年萌发新枝，第二年疏条、均匀保留五到十条，长到规格采伐全部枝条，如此周而复始、一次栽植永续利用；故「卯」引申指留止义（《集韵》「柳，聚也」）。本义早已隐没，引申义主要体现在衍生字族上。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯的转义二：披拂指流、瘤子指圆球、空心指卯眼与剖开",
+      "statement": "由柳枝披拂状引申指流（《本草》「楊枝硬而揚起，故謂之楊。柳枝弱而垂流，故謂之柳」）；受病虫害影响，老柳树干会长出一簇簇瘤子，引申指圆球（《集韵》「𩛁，飽」）；柳树易招虫蛀、树干多空心，引申指中空，木器上安榫头的眼孔即「卯眼」「卯榫」（《说文》「窌，窖也」），或引申指剖开（《玉篇》「𠛓，割也」）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯借用为地支第四位：纪年纪月纪时与「点卯」「比卯」",
+      "statement": "「卯」很早被借用为地支第四位：纪年与天干相配（《尔雅·释天》「太歲在卯曰單閼」）；纪月指二月（《说文》「冒也。二月，萬物冒地而出。象開門之形。故二月為天門」）；纪时指早晨五点到七点，此时太阳初升、一天开始，故引申指开始——上班点名报到称「点卯」、造币场开铸之期称「卯」、催收粮饷税捐称「比卯」。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯的辩证：与「𠨍」形近致「卿」等讹写，《说文》释酉从卯亦不确",
+      "statement": "「卯」与「𠨍」字形相近，本属于「𠨍」的字如「卿」讹写成卯；实则「𠨍」的甲骨文象两人相对之形，与卯无关。此外「酉」的小篆与卯形似，故《说文》释酉「从卯，卯為春門…酉為秋門」不确——「酉」的甲骨文象酒罈形，与卯无关。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯的音源：借音字，留义故义音同「酉」，中空而小义音同「婁」",
+      "statement": "「卯」是借音字：因有留义，故义音同「酉」——《周礼·大宗伯》「以槱燎祀司中、司命、飌師、雨師」，「槱」《风俗通义·典祀》引作「柳」；或义音同「婁」——《集韵》「罶，《說文》：曲梁，寡婦之笱，魚所留也」。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯字族一：留止与丧车（柳、罶、𩖴、𨋖、泖、笷、㶯、𣘪）",
+      "statement": "柳为杨柳，又聚、丧车；罶为曲梁、寡妇之笱，鱼所留也；𩖴为绪风、余风（䬀𩖴）；𨋖为载柩车、丧车饰（或作僂、𨍸，通作柳）；泖为淤塞而成的湖荡（吴华亭有圆泖、大泖、长泖三泖）；笷为笷竹（生天台、雁荡、乐清诸山，叶尖似桃李，作篾柔韧）；㶯为火㶯；𣘪疑即柳。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯字族二：圆鼓之状（𪕚、珋、昴、𩛁、峁、飹、駠、㚹、㡻、㟹）",
+      "statement": "𪕚为竹鼠（头圆眼小、耳隐于皮内、尾与四肢均短，故如圆球）；珋为石之有光、璧珋；昴为白虎宿星，本七星亮者六、簇拥成团（《元命苞》「昴之為言留也，言物成就系留是也」）；𩛁为饱（吃得肚子圆溜）；峁为顶部浑圆、斜坡较陡的黄土丘陵；飹为饵；駠为赤马黑髦尾；㚹为女子轻丽美貌；㡻俗「廖」，人名又姓；㟹嶆为山险（或作嶗）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯字族二续：小字（𡊧、𢨺、𤵠、𥁚、𥄸、𦝐、𩊅、𦺹、𩹡）",
+      "statement": "𡊧为邑名；𢨺为赵地城名；𤵠为疾；𥁚为盛器满貌（《诗》「有饛簋飱」）；𥄸为邪视（𥅟𥄸）；𦝐同皰，面生气；𩊅为凸起而坚硬的样子；𦺹为草名；𩹡司为一种水生动物（《西游记》「𩹡司針利似鋒芒」）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯字族三：中空之义（聊、奅、𡧙、窌、鉚、窷、㗦、𠨣、𣶐、𠛓）",
+      "statement": "聊为耳鸣（《说文》「耳鳴也」），又苟且、依赖、慰藉、恐惧、闲谈；奅为大、说大话骗人（《方言》「以大言冒人曰奅」），又砲礮；𡧙为醉起，又同窖；窌为地窖、深空之貌、地名；鉚为美金、镀金，今指器物接榫处凹入的部分、铆接；窷为穿；㗦嘈为大声；𠨣为酒器；𣶐为渍、清；𠛓为割。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "卯字族四：飘拂流动（貿、𦯆、鄮、㧕、𩅎）",
+      "statement": "貿为做买卖、变易、目不明之貌；𦯆为凫葵即莼菜（多年生水草，浮水面，叶椭圆，开暗红花，茎叶背面有黏液可食，从卯应指其叶如皮浮生水面）；鄮为秦代会稽县（今浙江鄞县东，沿海滩涂长、植被茂盛）；㧕为扪；𩅎同电。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "留本义：从田卯声，「田」指鼓，老柳空心如鼓",
+      "statement": "「留」从田卯声：「田」指鼓，老柳空心如鼓；从「卯」，象意柳树上长的瘤子，因此也还是指「柳」。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "留的转义：停止、阻止、保存、长久与担任",
+      "statement": "「留」的引申义跟「卯」相当，指停止、阻止、保存（《说文》「止也」，《广韵》「住也」），或引申指长久（《尔雅》「久也」）、担任（《龙龛》「任也」）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "留字族一：柳树瘤与球形（瘤、騮、𪅳、籒、鰡、蒥、𤠑、榴）",
+      "statement": "瘤为肿瘤，圆而大（《释名》「癅，流也。血流聚所生癅腫也」）；騮为黑鬃黑尾的红马；𪅳为鸟少美长丑者（猫头鹰一种，头圆无角状羽故称留）；籒为读书即认读竹简文字，籀文字体圆转如留；鰡为吹沙小鱼、鲨；蒥为香草；𤠑为食竹根鼠；榴为石榴（丹实垂垂若赘瘤，原产西域、汉代传入）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "留字族一续：小字（𧳽、𩔲、𥰣、𥳩、媹、䝀、𦼾）",
+      "statement": "𧳽为食竹之鼠；𩔲为顦𩔲，动物名；𥰣为竹名；𥳩为竹声、竹名；媹为女字；䝀为豌豆（并州谓豆曰䝀）；𦼾为菗蒢即地榆（根呈纺锤形）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "留字族二：柳树干与中空（廇、𥛽、嵧、塯、璢、𥨌、磂）",
+      "statement": "廇为堂屋中央、屋大梁、屋檐上接雨水的水槽（又作霤）；𥛽为祝𥛽即祈祷念咒以治病；嵧为岣嵧山貌（罗君山峰）；塯为瓦饭器；璢为琉璃，亦瓦饭器；𥨌为穴；磂同硫（硫磺），又梁州谓釜曰鎦。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "留字族三：垂柳与周流（𦉉、𩞷、𨢇、鬸、鎦、溜、𩅸、㽌、㩅）",
+      "statement": "𦉉为关东谓甑；𩞷为饭气蒸腾、上遇冷再凝成水珠；𨢇为酒名（疑即蒸馏出的烧酒）；鬸为关东谓甑；鎦为古刘字、梁州谓釜，今指鎦金（金汞齐涂饰后加温蒸汞、玛瑙压光，战国中期已行）；溜为柳江、水往下流、滑、偷偷走开、积留；𩅸为屋檐水下流；㽌为屋脊盖瓦；㩅为拉引（抽）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "留字族四：截柳与留止（𣠚、𥢋、𧤝、羀、遛、𢔲、𧽖、𨍸、𢞓、𢣠、䗜）",
+      "statement": "羀为曲梁、寡妇之笱，口阔颈狭、腹大而长、无底，束之则鱼入而不能出；遛为豆遛不进，今指散步缓行；𨍸为车驻、丧车饰；𢞓为懰栗忧貌；𢣠为温习、复习；䗜为蝼蛄（会稽谓之䗜蛄），又蜉蝣。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "劉本义：从卯从刀，如用刀剖开老柳树干",
+      "statement": "「劉」甲骨文从卯从刀：卯象中空而两边长有许多树瘤的样子，从「刀」表示如用刀剖开老柳树干（liú，《尔雅》「暴樂也」）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "劉的转义：杀戮、征服与刀、陈设",
+      "statement": "由剖开引申指杀戮、征服（《尔雅》「殺也」「克也」），或引申指杀戮的器具（《广雅》「刀也」，《正字通》「鉞屬」）、陈设（《尔雅》「陳也」）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "劉字族：多指裂开（䉧、𣞗、藰、瀏、䬟、𢷶、懰、𢤐）",
+      "statement": "𣞗为刘杙（刘子生山中，实如梨、酢甜、核坚，出交趾），又「捋采其劉」毛传「爆爍而希」即熟时外皮爆开；藰为商陆（根如人形，能逐水消肿、通利二便）；瀏为流清之貌（《诗》「瀏其清矣」），又偷偷跑掉；䬟为风行声、绪风；𢷶为斩刺、束、捋；懰为忧貌、美好；𢤐为定意。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "兜的本义与辩证：从皃从𠑹，指头上扣的皮囊即头盔",
+      "statement": "「兜」从皃从𠑹，𠑹亦声：「皃」指人头，从「卯」指头上如扣着的皮囊，即头盔（《说文》「兜鍪，首鎧也」）；《说文》误以为中间为「人」而强解为「瞽」（瞎子之状），不确。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "兜的转义与音源：环绕盛装，本音同「卯」、义音如「鼓」",
+      "statement": "由头盔戴在头上引申指环绕、围绕、盛装（兜抄、衣兜、兜风、兜揽）；「兜」本音同「卯」，义音如「鼓」——皮蒙如鼓之意。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j17-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-17-lou",
+      "title": "兜字族：篼、蔸、㨮、𣘛、𦄓、𩮷",
+      "statement": "篼为饮马器即一端没打通可作器皿的竹筒，又竹舆（篼子即滑竿）；蔸为某些植物的根和靠近根的茎；㨮为批、揽；𣘛为木根入土无枝桠者；𦄓为结缕囊；𩮷为白头、发乱（故用网巾之类兜住）。",
+      "boundary": "源自《系统汉语》第99部「卯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
