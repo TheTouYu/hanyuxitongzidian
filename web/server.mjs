@@ -290,12 +290,12 @@ const CARD_PROMPT = `你是《系统汉语》字卡的编辑。只依据下面�
 0b. 声母义：该字所属部的声母拟态义与一致度也由系统附上（「声母义」一栏），你不得改写、不得另拟声母义；讲字根时可以引用它的结论。
 1. 字形：该字在甲骨文、金文里的形体如何象形或构形；条目没讲字形，就填空字符串。
 2. 字根：这个字由哪个字根构成（条目里「从某从某」「从某，某声」说的那个字），并说清字根与这个字的关系——会意还是形声、字根的意义怎么进到这个字里。写成「字根：说明」，例如「士：仕从人从士，士是音源字，本义指雄性，引申为读书人、官员，所以「仕」表任事、学习政事」。若条目分「字根条目」单列，用它们说明字根本身的意义，并分别标注出处。字根必须是另一个字，不能把这个字自己写进去；条目只说它是借音字、没有构形分析的，填空字符串。
-3. 本义：造字之初的意义。
+3. 本义：**开头必须先写一句六书判语，格式「六书：……」**，再讲造字之初的意义。六书用班固名目，不用「形声」一词。判法（按条目原文判断）：条目说它是「音源字」、或读音「源自……声」＝象声；条目说「从某从某」而两字各有独立意义＝象意；条目说「从某，某声」、某字是声根、这个字是加形旁分化来的＝转注；独体、字形如画＝象形；在象形字上加一个无义符号＝象事；因义借声＝假借。复合的照绪论六种组合报，如「象意＋转注」「象意＋象声」。只要条目里有「从某声」「音源字」「从某从某」这类线索就必须判；一条线索都没有才不写判语。若字表构形之外另有条目说它是「音源字」、读音「源自……声」，判语要合成两截（如「象意＋象声」「象形＋象声」），不要只写构形那一截。
 4. 转义：引申义、假借义。
 5. 衍生：由它分化、加注形旁或用它作声符的字，写成「字：意义；字：意义」，最多 6 个字；条目里说「同组」「属……类」的那些字也算，一个都别漏。
 6. 每个非空字段末尾必须带 [clm_XXXXXXXX] 出处（字根、衍生两栏尤其不能漏），id 只能取自条目列表，不得编造，一个字段可以带多个。
 7. 条目里没有依据的字段一律输出空字符串 ""，不要用你自己的常识补。
-8. 简体中文，字形、字根、本义、转义各不超过 130 字，衍生不超过 150 字。`;
+8. 简体中文，字形、字根、转义各不超过 130 字，本义（含六书一句）不超过 170 字，衍生不超过 150 字。`;
 
 function extractJson(text) {
   const s = String(text || '');
@@ -311,6 +311,18 @@ function extractJson(text) {
 
 // 只保留出自条目的引用；没有有效引用的一律判为「无依据」
 // order 是上下文里的编号表，模型偷懒写 [3] 也能映射回 clm_ id
+const LIUSHU_CORE = '(?:象形|象事|象意|象声|转注|假借)';
+const LIUSHU_HEAD = new RegExp('^(' + LIUSHU_CORE + '(?:[＋+／/]' + LIUSHU_CORE + ')*)([，。：:\\s、])');
+
+// 六书判语统一成「六书：……」开头（主人定：放在本义解释里头，不单列一栏）
+function ensureLiushu(sec) {
+  if (!sec || !sec.text) return sec;
+  const t = String(sec.text).trim();
+  if (/^六书\s*[：:]/.test(t)) return sec;
+  if (!LIUSHU_HEAD.test(t)) return sec;
+  return { ...sec, text: '六书：' + t };
+}
+
 function sanitizeSection(raw, allowed, order) {
   let s = String(raw || '')
     .replace(/\r/g, '')
@@ -758,8 +770,10 @@ async function handleCard(emit, res, question, ch, ip) {
       if (obj) {
         const built = CARD_SECTIONS.map((def) => {
           const raw = obj[def.field] ?? obj[def.label] ?? obj[def.key];
-          const sec = sanitizeSection(raw, allowed, ctx.order);
-          return sec ? { key: def.key, label: def.label, ...sec } : { key: def.key, label: def.label, missing: true };
+          let sec = sanitizeSection(raw, allowed, ctx.order);
+          if (sec) sec = { key: def.key, label: def.label, ...sec };
+          if (sec && def.key === 'benyi') sec = ensureLiushu(sec);
+          return sec || { key: def.key, label: def.label, missing: true };
         });
         if (built.some((s) => !s.missing)) {
           sections = built;
