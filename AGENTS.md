@@ -8,9 +8,10 @@
 
 ## 工具
 
-- 运行时：`..\portable-knowledge\.venv\Scripts\pkc.exe`；本目录 `tools\pkc.cmd` 是它的包装
-- 版本：PKC 0.2.0rc5（不要用别的副本，也不要把 `PYTHONPATH` 指向源码目录）
-- git：`tools\git.cmd`（便携版 MinGit）；提交前先 `git diff --check`
+- 运行时：`.runtime\venv\Scripts\pkc.exe`（PKC 0.2.0rc5）；本目录 `tools\pkc.cmd` 是它的包装
+- 版本：PKC 0.2.0rc5（不要用别的副本，也不要把 `PYTHONPATH` 指向源码目录；源码副本在 `.runtime\src\portable-knowledge`，仅供查阅）
+- git：`tools\git.cmd`（便携版 MinGit，在 `.runtime\mingit`）；提交前先 `git diff --check`
+- `.runtime/` 是运行环境，不进 git；整个 `D:\系统汉字` 目录可以整体搬走，但 `.runtime\venv` 依赖本机 Python 3.12
 
 ## 硬规则
 

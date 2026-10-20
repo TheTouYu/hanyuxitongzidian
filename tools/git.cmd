@@ -1,3 +1,3 @@
 @echo off
 setlocal
-"%~dp0..\..\.tools\mingit\cmd\git.exe" %*
+"%~dp0..\.runtime\mingit\cmd\git.exe" %*

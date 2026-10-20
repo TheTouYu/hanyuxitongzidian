@@ -14,6 +14,7 @@
 | `intake/` | 知识录入草稿区 |
 | `data/knowledge/evaluation/` | 检索回归用例（先空着，知识多了再补） |
 | `tools/` | `pkc` 和 `git` 的包装命令 |
+| `.runtime/` | 运行环境：PKC 的 venv、便携版 Git、源码副本，不进 git |
 | `.local/` | 可丢弃的检索投影，不进 git |
 
 ## 当前结构
