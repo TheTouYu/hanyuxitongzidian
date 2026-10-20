@@ -1,0 +1,995 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷六 鶴 75 条（第39部隺部至第43部畫部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j6-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：「隺」象丹顶鹤头顶红冠如戴小头巾",
+      "statement": "卷六的音源字是「隺」，甲骨文从「巾」「小」在「隻」的头部：「隻」本指鹤，象丹顶鹤头顶有一块红顶，如同戴着一块小头巾。隶变作「隺」时省去「小」和「隻」，后来繁化作「鹤」。唐玄应《一切经音义》：「古文鶴，今作隺，同。」",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/06a-he.md",
+      "topic_title": "卷六·鶴",
+      "topic_summary": "《系统汉语》卷六「鶴」，音源字「隺／隻」，音源于鹤鸣；含第39部隺部、40部隻部、41部戈部、42部禾部、43部畫部，凡75条。",
+      "topic_keywords": [
+        "鹤",
+        "隺",
+        "隻",
+        "戈",
+        "禾",
+        "畫",
+        "音源字",
+        "卷六"
+      ]
+    },
+    {
+      "id": "j6-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：「隻」以鹤足瘦长如手象意鹤",
+      "statement": "卷六音源字的另体是「隻」，从「又」在「隹」下，取鹤足瘦长如手之意。鹤足四趾，后趾蜕化上翘，前三趾修长而甲尖，有半蹼如掌，宜于在水草中行走，能抓握鱼虾。其音源是鹤鸣之声。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：鹤为「一品鸟」，象征圣洁、清雅与长寿",
+      "statement": "鹤喙、颈、腿「三长」，直立可逾一米，被称为「一品鸟」，地位仅次于凤凰，有「仙鹤」之名，象征圣洁、清雅、长寿；后世以「鹤寿」「鹤龄」「鹤算」为祝寿之词。鹤雌雄相随、步行规矩、情笃而不淫，古人以之比喻修身洁行的贤能之士，称为「鹤鸣之士」。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：鹤的分类、分布与中国九种",
+      "statement": "鹤属脊椎动物鹤形目鹤科，是大型涉禽：全世界十五种，除南美与南极外各大陆皆有分布，起源于西半球，后扩展到亚洲九种、非洲六种、澳大利亚两种，北美现存两种。中国有九种：丹顶鹤、灰鹤、蓑羽鹤、白鹤、白枕鹤、白头鹤、黑颈鹤、赤颈鹤、沙丘鹤；最著名的是丹顶鹤，数量最多分布最广的是灰鹤，个体最大的是黑颈鹤，最小的是蓑羽鹤，最少见的是沙丘鹤。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：中国九种鹤的辨识要点",
+      "statement": "丹顶鹤体羽白、头顶裸露艳红、二三级飞羽黑（站立时收拢盖住尾部，易误为黑尾巴），身长一百三十厘米；蓑羽鹤最小，约八十厘米，蓝灰色，眼后一簇白羽、前颈前胸生黑色蓑羽长约五十厘米；白鹤一百三十五厘米，体羽纯白而初级飞羽黑，故又称黑袖鹤；沙丘鹤灰体、裸出红色前冠、鸣声大；赤颈鹤体长约一百九十厘米，头喉颈上部裸露、皮肤淡红；白枕鹤面部鲜红、腹与前胸下侧深蓝灰；灰鹤烟灰色、额与上颈黑、眼至颈侧白，故有玄鹤之名；白头鹤九十至一百厘米，额部乌黑光亮、头下侧雪白；黑颈鹤浅灰而头颈与次级飞羽黑、头顶红斑，是唯一栖息于海拔三千至五千公尺高原的鹤。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：「松鹤长春」与鹤的实际习性不合",
+      "statement": "中国画常把鹤与松画在一起，题「松鹤长春」「鹤寿松龄」，但自然中的鹤与松毫无缘分：它生活在沼泽或浅水地带，捕食小鱼虾、昆虫、蛙蚧、软体动物，也吃植物根茎、种子、嫩芽，有「湿地之神」之称；寿命一般只有二三十年，并不长寿。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：鹤的迁徙、繁殖与群居习性",
+      "statement": "鹤在中国属迁徙鸟类，除黑颈鹤、赤颈鹤生活于青藏、云贵高原外，其余都在北方繁殖，每年十月下旬迁至长江流域一带越冬，次年四月再飞回北方。鹤善飞而结群，睡眠时常单腿直立、扭颈回首将头放在背上；巢多筑于沼泽地的草墩上或草丛中，产卵一至二枚，雌雄轮流孵化，三十一天后雏鹤啄壳，双亲在旁守候一昼夜；幼鹤长到一岁即被亲鸟赶走自立；群鹤栖息时有一至二只专门放哨。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：鹤类濒危与现存种群数量",
+      "statement": "鹤类已成为濒危物种，亟须保护：美洲鹤约二百只、白鹤三千至四千只、丹顶鹤一千九百只、白枕鹤六千只、白头鹤九千只、黑颈鹤八千只、赤颈鹤一万只、肉垂鹤八千只、蓝鹤二万二千只。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：鹤鸣即其名，与鹅、天鹅音义可能重叠",
+      "statement": "鹤的叫声即其名，大致为 he 或者 huo，跟天鹅的叫声有些近似；白鹤、丹顶鹤又都是白色，因此在汉语的音义系统中两者可能多有重叠，甚或本为同一音系。若细加甄别，大致鹅的音侧重于 e。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "卷首：鹤的借音字与音义相通",
+      "statement": "鹤最突出的特点在于颈长、足长，故「戈、禾、畫」都因此借其音，但其借音字应不尽于此。其音义或与「高、告、匃、角」相通：《集韵》「鶴，或作鶮、鶡、鵠」，《正字通》「確，與确通」，《集韵》「確，堅也，或作碻」；因此与《雞》《桔槔》等存在音义交叉关系，都是取其「高」义而借音。",
+      "boundary": "源自《系统汉语》卷六「鶴」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺：本义为丹顶鹤，隶变省形后繁作「鹤」",
+      "statement": "「隺」甲骨文本从「巾」「小」在「隻」的头部：「隻」本指鹤，象丹顶鹤头顶红冠如戴小头巾；隶变作「隺」，省去「小」与「隻」，后繁化作「鹤」。唐玄应《经音义》：「古文鶴，今作隺，同。」《說文》：「鶴，鳴九皋，聲聞于天。从鳥隺聲。下各切。」《集韻》：「水鳥名。似鵠，長頸高腳，丹頂白身，頸翅有黑，常以夜半鳴，聲聞八九里。」",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺：转义为极高、白色、坚固与灌溉",
+      "statement": "由鹤之高引申指极高：hú《廣韻》「至也，髙也」，hè《集韻》「鳥飛高也」，què《集韻》「隺然，心志高也」；由鹤羽之色引申指白色或黑白相杂，分化如「㹊」（白牛）；由雌雄相守引申指坚固，分化如「確」（堅也，靳固也）；由栖息湿地引申指浇灌、浸渍、洗涤，分化如「㴶」（灌也、濯也）；又比喻物体像鹤头细长而喙尖，《釋名》谓锄「頭曰鶴，似鶴頭也」。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺：辩证——《说文》从「冂」析形不确，「寉」非鹤之初文",
+      "statement": "《說文》：「高至也。从隹上欲出冂……胡沃切。」以「隺」从「冂」，析形不確。因甲骨文「巾小」跟「雨」相似，西周金文便讹从「雨」作「霍」；「巾」跟「宀」也相近，故或讹从「宀」作「寉」（《集韻》「寉，鳥飛髙也」）；一些学者如刘钊《新甲骨文编》以寉为鹤之初文，但鸟在屋舍下如何能飞高，显然不通，疑为「䍜」的异体；或又讹从「穴」作俗字。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺：音源字，源自鹤鸣声",
+      "statement": "「隺」是音源字，其音直接源自鹤的鸣叫之声。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺部字族①：湿地灌溉、渔获与渡桥",
+      "statement": "取鹤栖息于湿地的意思，字族表示灌溉、渔获、桥：「㴶」（què、guō，灌也、濯也；hú，水声）、「𦞦」（hè，肉羹）、「篧／䉟」（zhuó、huò，鱼罩、取鱼竹器）、「榷」（què，水上横木所以渡者，即独木桥；又木名枳，有实如柚）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺部字族②：鹤状物与高举",
+      "statement": "取鹤之形状，表示鹤状物、高举：「䥃」（yuè，齐人谓大椎）、「搉／攉」（què，敲击；《廣韻》揚搉、大舉；《廣雅》揚搉，都凡也，即大略；huō，手反覆）、「𣤇／塙」（què，高也）、「𢞕」（huò，恐惧貌、哗也）、「𦑱／𦒧」（huò，飞疾貌）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺部字族③：相守专一与坚固真实",
+      "statement": "取鹤雌雄相守之意，表示专一、坚定：「傕」（juè，姓、人名）、「𨢜」（què，同榷，专营、专卖）、「確／确／塙／碻」（què，靳固、坚也、真实实在；《正字通》与确通）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隺部字族④：鹤羽白色与黑白相杂",
+      "statement": "取鹤羽之色，表示白色或黑白相杂：「㹊」（yuè，白牛）、「雤／鷽」（xué，山鹊）、「䮤」（hè，马白额；又苑名）、「㿥」（hè，鸟之白）、「𤌍」（hú，灼也）、「𣉒」（huò，暂明）、「𥉑／矐」（yù、hè，望也、目明貌、失明、去目睛）、「髉」（bó，骨端；jué，骨坚白）、「蒮」（yù，山韭，茎细长而花白）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍：本义与隺同源，亦指丹顶鹤",
+      "statement": "「霍」甲骨文从「巾」「小」从「隻」，与「隺」同源，象丹顶鹤；因鹤多群居，故「隻」或作「雦」以象成群。《集韻》「通作隺」，《墨子·經説下》「麋與霍孰高」，王闿运注：「霍即鶴。」",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍：转义为迅疾、草木细长与豆叶藿香",
+      "statement": "由鹤飞之状引申指迅疾、奢豪（huò，《集韻》「揮霍，猝遽也」）；由鹤高足长颈之状比喻草木细长（suǐ，《廣韻》「靃靡，草木弱皃」）；由鹤翅膀宽大比喻豆叶、藿香（hè，《集韻》草名，《爾雅》「枹，霍首」；《廣韻》「藿，豆葉，又香草」）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍：辩证——西周金文讹从「雨」，「霍」声字族多可从「隺」",
+      "statement": "因「巾小」跟「雨」形近似，西周金文讹从「雨」，小篆承袭，故《說文》：「飛聲也。雨而雙飛者，其聲霍然。」依其字形，「雨」表声则象群鸟的飞声如雨声急骤，「雦」表声则象雨声如群鸟飞起。但事实上，以「霍」为声旁的字族多可从「隺」，取义也多与鹤相关。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍：音源字，源自鹤鸣声",
+      "statement": "「霍」是音源字，其音亦源自鹤鸣。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍部字族①：水上、水中与盛水之物",
+      "statement": "取鹤栖于湿地的意思，表示水上、水中，或盛水之物：「籱／籗／篧」（zhuó、kuò，罩鱼的器具）、「㰌／榷」（què，枳木有实如柚；俗榷字）、「臛／𩟯／𦞦」（huò，羹臛、肉羹）、「瀖」（huò，众波声、濩也、渍也）、「𩱶／瀹／汋」（yuè，把肉和菜放在沸汤中稍煮取出）、「𨯟／鑊」（huò，鼎鑊）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍部字族②：高声、高举与山名",
+      "statement": "取鹤状，表示高声、高举：「𡾜」（jué，山名，《爾雅》本作霍，霍山为南岳）、「鸖」（hè，同鹤）、「嚯／謔」（xuè，与谑同，戏也；huò，今为叹词，表赞叹或惊讶）、「𤣅」（què，至也、高也）、「㱋／塙／𣤇」（què，与塙同，高特）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍部字族③：鹤飞翻飞、迅疾与叶大而密",
+      "statement": "取鹤飞之意，表示翻飞、迅疾、叶大而密：「攉／搉」（huò，挥攉、手反覆、盘手戏；què，专利、垄断）、「𠠰／𠠎」（kuò，解也、裂也）、「𦒧／𦑱」（huò，飞疾貌）、「癨」（huò，癨乱，吐泻病，即霍乱，取发病急之意）、「㸌／霩」（huò，光亮急速闪烁；霩，雨止云罢）、「𧆑／藿」（huò，豆叶、藿香、鹿藿即野绿豆；suǐ，草木花敷貌）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍部字族④：相守专一与坚硬",
+      "statement": "取鹤相守之意，表示专一、坚硬：「礭／確」（què，坚也、鞭也，与确音义通）、「𥽥」（huò，黍糗，黍制干粮）、「𠐶／傕」（què，姓、人名，后汉李傕）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "霍部字族⑤：鹤羽白色、明亮与黑白相杂",
+      "statement": "取鹤羽之意，表示白色、明亮，或黑白相杂：「皬／㿥」（hé，白也，《史記》「皬然白首」，白而不纯）、「𤜅／㹊」（yuè，白牛）、「𩧏／䮤」（jué，马白额）、「曤」（huò，明也，日光炫目）、「矐／䁨／𥉑」（huò，重目、光明、失明、目开、骇视）、「㺢」（huò，㺢㹢狓，非洲产、似长颈鹿而小的珍稀动物）。",
+      "boundary": "源自《系统汉语》第39部「隺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隻：本义为鹤，取「足如手」之象",
+      "statement": "「隻」从「又」在「隹」的足部：「隹」指鸟，「又」指手，象足如手一般的鸟。手的特性是修长、有掌、抓握灵活，一般鸟类不具备：鹰类能抓拢而无掌（蹼），雁类有掌而不能抓拢，唯鹤爪四趾、后趾蜕化上翘、前三趾修长甲尖、有半蹼如掌，宜于水草中行走而不能树栖，能抓握鱼虾、握拳搏击。故「隻」的本义也当指鹤，《玉篇》「水鳥也」，《廣韻》「似鵠，長喙」。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隻：转义为单只、抓推、怒争与成对",
+      "statement": "由鹤足最长、休息时一足收于翼下交替而立，引申指单、独、只（zhī，《玉篇》「奇也、一枚也」，《篇海類編》「物單曰隻」）；由鹤趾握持、足善踢引申指抓、推（分化如「㨦／㩳」，執也、推也）；由颈长嘴长叫声高亢引申指发怒、抗争（分化如「奪」，怒也、諍也）；由一雌一雄终相厮守引申指成对，后来分化作「雙」（兩也、偶也）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隻：辩证——「从又持隹」的定论违背生活常识",
+      "statement": "《說文》：「鳥一枚也。从又持隹。持一隹曰隻，二隹曰雙。」其解释在学界几成定论，但抓鸟一般抓翅膀而不抓足：鸟爪尖利易伤手、鸟会啄、翅膀会扑腾。「隻」所从「又」在足部，与「為」所从「又」在「象」的鼻部结构相似，都是比喻部位的特性，不是实指手抓，故所析不確。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隻：音源字，源自鹤鸣声",
+      "statement": "「隻」是音源字，其音源自鹤鸣。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隻部字族①：鹤飞与丧夺、惧耸",
+      "statement": "取鹤飞之意：「奪」（duó，手持隹失之、丧失、强取、不与、易、怒、诤；西周金文从隻从小衣，「小」指叫声、「衣」指翅膀，象边飞边鸣）、「𠔟」（duó，与夺同，见石鼓文）、「䨥／𩆀」（huò，𩂹䨥，大雨）、「愯／𢥠／悚／聳」（sǒng，惧也，双省声）、「𢊄」（huī，姿𢊄）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "隻部字族②：鹤爪与抓取、收丝、捕鱼",
+      "statement": "取鹤爪之意：「㸕／攫」（jué，与攫同）、「㨦／㩳」（sǒng，执也、推也）、「䉟／篧」（huò，取鱼竹器）、「篗／籆／籰／𧤯／䈅」（yuè，收丝的架子，络丝用）、「𩹹／鱯／𩽕」（hù，鮠鱼即江团，只一根脊椎、十分肥美，性凶猛贪食，应从隻取捕获意）、「𥻬」（zhī，𥻬营也）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "蒦：本义为丹顶鹤，从「隻」讹变而来",
+      "statement": "「蒦」跟「隻」本同源（以「蒦」为声的「鑊」，甲骨文即从「隻」）。因「隻」容易被误解成抓鸟，春秋金文才演变为从艸从隹从尤，「尤」指特异、表示鸟的足特别高；「艸」或是「卝」之讹变（参见第443部《卝部》），小篆又改回从「卝」，指鹤的冠羽，也或指其生活在水草中。即「鸌」的初文，但今指海鸟鸌，体形虽大而足不高，应不是。据「雘」（善丹，红色）与「䨼」（青色）来看，其本义应指丹顶鹤：丹顶鹤头顶有块硬皮呈红色，故代指红色；「䨼」指青色，应指灰鹤。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "蒦：转义为度量、规蒦与高视",
+      "statement": "由鹤足之长比喻两脚规，由其行进之状引申指度量（huò，《說文》「規蒦，商也……一曰視遽皃。一曰蒦，度也」，或从彠；徐锴曰「商，度也」）；由鹤高貌引申指看得高（《玉篇》「高視也」）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "蒦部字族①：鹤色与红、青、白颜料",
+      "statement": "取鹤色，表示红色、青色、白色：「雘」（wò，善丹，赤石脂一类颜料，疑本指丹顶鹤，以其顶色引申指丹红）、「艧」（huò、wò，船；一说雘字之讹，舟无艧名）、「䨼」（hù，青属、黝属，石青白青之属）、「鱯」（huà、hù，鮠鱼，身体细长，又名魾、魤、懒鱼）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "蒦部字族②：鹤足与度量、张开、划开",
+      "statement": "取鹤足，表示度量、张开、划开：「蠖」（huò，尺蠖，屈申虫；yuè，蠖略，行步进止貌）、「矱」（yuē，度也，或从寻从矢）、「穫／获／耯／劐」（huò，刈谷，收割谷物）、「劐／劃」（huō，裂也、划开；huá，锥刀刻、以刀破物）、「耯」（huò，俗穫字）、「瓁」（wò，玉璞，指鹤足趾半有蹼）、「鸌」（wò、hù，水鸟，疑本鹤的别称，今指鸌属远洋鸟）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "蒦部字族③④：鹤姿高远与鹤飞扑腾",
+      "statement": "③取鹤姿，表示高、远：「檴／樗」（huà，椰榆、樺、臭椿）、「𧅰」（hù，神䕶，草名）、「𧾛」（guó，足长貌）、「㠛」（wò，陂名、邨名）、「𢋒」（huò，廓𢋒，空远貌）。④取鹤飞，表示扑腾、翻滚：「鑊」（huò，煮也、鼎鑊、釜属锅；甲骨文从鬲从隻，象炊煮食物时锅中翻腾）、「濩」（huò，雨流溜下、煮也、大水、宫室深邃、汤乐名）、「𤐰」（huò，热也，火盛时火苗闪动）、「䨥」（huò，𩂹䨥，大雨）、「頀」（hù，大頀，汤乐，商代乐名）、「𩟓」（wò，无味、味薄）、「𥖪」（lè，打草田器，形似碌碡、外有齿）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "蒦部字族⑤⑥⑦：鹤爪缠束、鹤鸣大叫、鹤视圆睁",
+      "statement": "⑤取鹤爪，表示抓取、缠束：「獲」（huò，猎所获、得也）、「韄／䪝」（hù，佩刀丝、缠在刀把上的皮绳）、「擭」（wò，搫擭、布擭、握也、捕兽机槛）。⑥取鹤鸣，表示大叫、喉音：「嚄／𩟓」（huò，大唤、嚄唶多言、惊怛声、叹词）、「𤻙」（huó，㾰𤻙，物在喉）、「𣤨」（wò、huò，吐声、吐气）、「𩪭」（huò，骨声、美肉）。⑦取鹤视，表示圆睁双眼注视：「㬦」（yuè，勇貌，实为「矍」之讹）、「矆／䂄」（huò、xuè，大视、远视、视遽）、「㦜／戄」（huò，惊也、心动、忧也、遽视）、「護／謢／护」（hù，救视、监视监督、助也、辩也）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "矍：本义为鹤圆睁双眼、注视惊视",
+      "statement": "「矍」从「䀠」从「隻」：「䀠」指瞪大眼睛注视，「隻」指鹤，象鹤圆睁双眼，表示注视、惊视（《字彙》「視遽貌」）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "矍：转义为惊惶四顾、抓取搏击与大步走",
+      "statement": "由鹤视之状引申指惊惶四顾（《玉篇》「急視也」，又「矍矍，視而無所依之也」，又「鷹隼得逸志也」）；由鹤爪之利引申指抓取、搏击（分化如「攫」，搏也、取也）；由鹤足长、行走步伐快引申指大步走（分化如「𧾵」，大步也）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "矍：辩证——实为「隻」的同源字，《说文》析形不确",
+      "statement": "「矍」实际上还是「隻」的同源字，指鹤，只不过强调其高视阔步之状，字族取义仍跟「隻、蒦」差不多。故《說文》：「隹欲逸走也。从又持之，矍矍也……一曰視遽皃。」析形仍不確。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "矍部字族①：鹤爪攫取",
+      "statement": "取鹤爪，表示攫取：「玃／蠼／𤣓」（jué，母猴、善顾、攫持人）、「钁」（jué，大鉏、大锄头；铲除、挖掘）、「攫」（jué，扟也，鸟兽用爪从上面如舀般抓取；搏也、取也）、「貜」（jué，犬属，似猕猴而大、色苍黑、能攫持人、好顾盼，即马猴）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "矍部字族②③④：鹤步大步、鹤足劲健、鹤息单足",
+      "statement": "②取鹤步，表示大步：「𧾵」（大步也）、「𢖦」（往也、行貌）、「䢲」（行不住、周游）、「𥜵」（除灾祭）。③取鹤足，表示劲健有力：「彏」（弓急张、弓弦急貌）、「𡚠」（健貌，矍字之讹）、「矡」（矛属、锥）、「𨏹」（车辋、车辐）、「𥸘」（取鱼竹器）、「𠑩」（音义与矍同）、「𦣒」（人名用字）、「𦫇／臒」（善肉，臒之讹）。④取鹤息，表示单足立：「𪈴」（鸟似白鵁，《集韻》谓如鸡、白身三首三足，疑本鹤单足而立被传说成三首三足）、「躩」（足躩如、脚步迅疾、盘辟貌）、「䣤／𨟠」（乡名，在河东闻喜，今山西闻喜有白鹤村）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "矍部字族⑤⑥：鹤色青与鹤视圆睁",
+      "statement": "⑤取鹤色，表示青色：「𥤘」（草名，可染皂）、「欔」（木名，乌阶即乌杷，子连相著、可染皂；锹属，与钁同类）、「𧅚」（𧅚子，菜名，讹字）。⑥取鹤视：「戄／㦜」（惊也、遽视、谛视）、「䂄／矆／𥍜」（大视）、「𡤬／嬳」（作姿态，江南谓之咿、山东谓之嬳；一曰惜也）、「𣌗」（明也）、「𧢭」（视貌）。",
+      "boundary": "源自《系统汉语》第40部「隻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "戈：本义为横刃有柄的长戈",
+      "statement": "「戈」象横刃有柄的长戈形，指戈，是一种古代兵器，主要盛行于商周时代；《玉篇》「平頭戟，長六尺六寸」。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "戈：转义为战争",
+      "statement": "因戈主要用于战争，故引申指战争，如「干戈」即战乱、战争。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "戈：辩证——《说文》「从弋」析形不确",
+      "statement": "由于小篆「弋」跟「戈」大部分相同，故《說文》：「平頭𢧢也。从弋，一橫之。象形。」「戈」本是完整的象形字，而「弋」本指木橛或系有丝线的箭，跟戈没有关系，故析形不确。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "戈：借音字，柄长而横刃如鹤",
+      "statement": "「戈」是借音字，因其柄长而横刃如鹤，故义音同「霍」：《玉篇》「𦑌，䎕𦑌，飛皃。或作𦒧」。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "戈部字族①：状如戈",
+      "statement": "取戈形，表示状如戈：「𩾷」（gē，鸟名；yuān，《正字通》以为「𩾢」之讹、同鸢，但甲骨文有从「戈」之「𩾷」应非讹，疑即鹤，鹤头颈如戈）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "戈部字族②：切割、刮削与戈之用",
+      "statement": "取戈用，表示切割、刮削：「𢦚」（huà，击踝、持戈相斗）、「㡲」（huán，屋上仰盖的槽瓦、或指网绳；瓦相覆盖如戈刃相割）、「戛／拮」（jiá，戟也、割首；揩、常法常礼、践踏）、「嘎／尜」（gā，鸟声；gá，尜尜，两头尖中间大的玩具；gǎ，调皮、脾气坏）、「𩰎」（wēng、huán，试力士锤，约似举重杠铃，因长而两头沉、如戈刃之处两头）、「𢧖」（zhá，好也，疑为「顶」之讹）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "或：本义从口戈声，口有多义",
+      "statement": "「或」从口戈声：「戈」指武器戈，「口」可有多义——指嘴则象嘴的厉害，分化如「㰲」（噦惡聲）；指口子则象用戈割开、切割，分化如「𠜻」（刀破也）；指壕沟则象镇守的地域，《說文》「邦也。从囗从戈以守一。一，地也」，此义所从「口」或即「囗」；西周金文或在「口」字四周加两横或四横，表示上下或四周之意。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "或：转义为或者、也许与包括",
+      "statement": "由口的厉害引申指大风、热气（xù，《廣韻》「㰲，吹氣也。通作㖪」）；由邦国之间你争我夺、具有不确定性，引申指或者、也许（huò，《玉篇》「有疑也」，《廣韻》「不定也」，《集韻》「疑亂」；或作连词表选择列举、副词表不定、代词表「有的」「谁」）；由邦域四周有高墙和壕沟环护之状引申指包括（分化如「𦈸」，瓦器）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "或部字族①②：疆域边界与惑乱不定",
+      "statement": "①取疆域，表示区域、边界：「域／㚜／㽣／䧕／𢨊」（yù，居也、封也、区域界也、葬地）、「閾／𨵨」（yù，门榍即门槛）、「淢／𡿯／洫／汩」（xù、yù，沟渠护城河、疾流）、「𡿿」（huò，水流）、「𪑝」（yù，羔裘之缝、黑色）、「緎／𩋉／𩎹／𦎘」（yù，衣缝）、「棫」（yù，白桵即枸骨、鸟不踏即红刺楤，取植以作为分界线）。②取疆域，表示惑乱、不定：「惑」（huò，乱也、迷也、疑也、眩乱）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "或部字族③④：包束囊括与切割割取",
+      "statement": "③取疆域，表示包束、囊括：「𦈸」（yù，瓦器）、「㦽／彧／郁」（yù，有文章、有文采）、「罭」（yù，鱼网，九罭即捕小鱼的密眼网）、「𧖻」（guó，犬血；狗有守门作用，古人以白犬血题门户辟除不祥）。④取切割，表示破裂、割取：「掝／㩇」（huò，裂也、裂声）、「𠜻」（huò，刀破也）、「䂸」（guó，破也、击石）、「聝／馘」（guó，军战断耳、割耳；馘当指割取头颅，截耳作耳旁、献首作首旁）、「𢹖／摑」（guó，掌耳、挻也、周也）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "或部字族⑤：口利、风声与风害",
+      "statement": "取口利，表示风声、风害：「蜮／蟈」（yù、guō，短狐似鳖三足、以气害人；虾蟆、蟈蟈）、「䰥／魊」（huò，鬼䰥旋风、回风、鬼名）、「䬎」（guó、xù，赤气热风之怪、风貌）、「𦑌／𦒧」（huò，飞貌、飞声、羽声）、「㰲」（yù，吹气也）、「𢃤／𢃎」（huò，巾帛从风声）、「𤷇」（xù，头痛）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "國：本义即「或」，加「囗」表示有边界武装守护的地域",
+      "statement": "「國」本即「或」字，西周金文添加形旁「囗」，战国古文「囗」或作「匚」，都是表示区域、范围之意；从「戈」象意有边界、武装守护的一定地域。战国前表示古代王、侯的封地，秦统一后专指国家；《說文》「邦也。从囗从或」，《玉篇》「小曰邦，大曰國」。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "國：转义同「或」——包括、切割、嘴利",
+      "statement": "「國」既跟「或」同，其引申义也跟「或」一样：指包括，如「槶」（筐当）；指切割，如「𣂽」（斫也）；指嘴利，如「嘓」（口嘓嘓烦也）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "國部字族①：四围有界、包括与窝状物",
+      "statement": "取国的四围有界，表示包括、窝状物：「幗」（guó，妇人首饰、包头巾、丧冠）、「簂／槶」（guì、guó，筐、器物内腔）、「蔮」（guó，同幗簂，围发际、结项中以固冠的首饰）、「𤮋」（guó，瓦器）、「膕／𩪐」（guó，曲脚、膝盖后面的腿弯、并足）、「𡳚／犀／㾷／𤺊」（xī，同犀；犀牛皮松多褶、涂泥降温防虫故离不开水，也可谓从漍省声；或指风湿关节痛）、「漍」（guó，水泽，江苏北漍镇，古暨阳湖）、「𧤯／籰／篗」（guó、yuè，收丝者）、「𨉹」（guó，裸也、露出心窝）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "國部字族②：切割、砍斫与批击",
+      "statement": "取切割，表示砍斫、批击：「𩠲／馘」（guó，俗馘字，割取敌人左耳计功；xǔ，面也）、「𣂽」（wò，斫也）、「摑／𢮎／𢼛／𢐚／𢧷」（guǒ、guāi，掌耳、打也、批也，用巴掌打耳光）、「𤔩／𦄰／攫」（jué，爪持、扑取，取「摑」意）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "國部字族③④：惑乱不定与叫声、响声",
+      "statement": "③取疆域，表示惑乱、不定：「慖」（guó，心乱、恨、悖）、「𢠝」（xīn，中心不二，疑误，本同慖）。④取口利，表示叫声、响声大：「蟈／蜮」（guó，蝼蝈即蛙别名、蝈蝈，鸣叫聒噪）、「嘓／㖪」（guó，口嘓嘓烦，象蛙一样聒噪不休）、「𧰒」（guó，鼓声如蛙鸣）、「𥕏」（kuò，石硬声）、「𤡓」（wò，猳𤡓，一种猴类）。",
+      "boundary": "源自《系统汉语》第41部「戈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "禾：本义为成熟的一株粟",
+      "statement": "「禾」象一株有穗的成熟的粟形，指粟即今小米，后泛指粮食类庄稼，包括粟米、稞子、稻谷等；《廣韻》「粟苗」。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "禾：转义为粮食作物总名与中和、调和",
+      "statement": "粟是粮食作物的代表，由此引申繁殖所有粮食作物（《正字通》「嘉穀總名，黍、稷、稻、梁，自苗至實皆曰禾」）；粮食为主食、以淀粉为主、适宜多数人食用并能搭配菜蔬提供营养，故引申指中和、调和，此义后分化如「和」（應也、調也）。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "禾：辩证——《说文》「从木从𠂹省」析形不确",
+      "statement": "「禾」本粟的全株象形，因下面的茎叶部分跟「木」相同，故《說文》：「禾，嘉穀也……从木，从𠂹省。𠂹象其穗。」析形不确。或反写作「𥝌」（jī），《說文》：「木之曲頭，止不能上也。」所析也不确。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "禾：借音字，形似戈而音同戈",
+      "statement": "「禾」是借音字，因禾形似戈，故义音同「戈」：《楚辭·九歌·國殤》「操吳戈兮被犀甲」，王逸注「或曰操吾科」，「科」从禾声。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "禾部字族①：应和、调和与和顺",
+      "statement": "取禾之用，表示应和、调和、和顺：「和／咊」（hè，相应；粟为主食能中和五味，故有连带、相加之意；hé，和顺、谐、不坚不柔；又笙之小者、车铃；huò，掺和混杂、蒙哄；huó，揉和）、「龢」（hé，调也，音韵和谐）、「鉌」（hé，车铃、鸾铃）、「訸」（hé，平也，言语平和）、「惒」（hé，俗和字）、「啝」（hé，顺也、小儿啼）、「柇／𤖱」（hé，棺当、棺头板，取其相对之意）、「姀」（hé，女字、雅容，结构同委）。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "禾部字族②：盉之状，一头细长一头肥大",
+      "statement": "取盉之状，表示一头细长一头肥大之物：「盉」（hé，调味，盛酒器、调和酒水的器具；本取调和之意，因形制特别而充当二级字根，衍生字仍从禾但指其状如盉，嘴部细长而器身呈斗状肥大）、「䒩／萂」（hé，草名，或从和）。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "科：本义为长柄曲头、似禾的量酒勺",
+      "statement": "「科」从斗从禾，禾亦声：「斗」指量具，从「禾」象形状似禾一般的长柄量具，实际上指一种曲柄勺子；从商周时代出土的同类文物看，斗圆而柄装饰华丽、大小不一，应是舀酒用的礼器。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "科：转义为法式品级、中空与形似之物",
+      "statement": "由舀酒时的称量作用引申指法式、品类、等级、条目、标准（《說文》「程也。从禾从斗。斗者，量也」；《玉篇》「法也、式也」；《廣韻》「條也、本也、品也、科斷也」；《釋名》「課也，課其不如法者，罪責之也」）；由酒斗之状引申指物体中空（《廣雅》「空也、坑也」）；由长柄而圆头比喻形似的物体（《廣雅》「藂也、本也」，丛聚、植物的根茎；《漢典》「光禿貌」；kè，滋生、种子发芽时的样子）。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "科部字族：多指长柄而圆头之形",
+      "statement": "「科」的字族多指其长柄而圆头之形：「蝌」（kē，蝌蚪，蛙的幼虫，其形如科，「蚪」音义从斗可为证）、「犐」（kē，无角牛）、「䈖」（kē，竹名）、「萪」（kē，海葱；萪藤生海边，围数寸、重于竹，可为杖、篾以缚船及为席，胜竹）。",
+      "boundary": "源自《系统汉语》第42部「禾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "畫：本义为以规与刀笔描画、刻画",
+      "statement": "甲骨文「畫」从（两脚规形，用于测量、画圆，应为「规」的初文）从「聿」或「尹」（指刀笔之类工具），象用刀笔之类工具描画或刻画；西周金文从「周」或「琱」，指雕画。《釋名》「畫，挂也，以五色挂物象也」，《玉篇》「形也、繪也、雜五色綵也」。",
+      "boundary": "源自《系统汉语》第43部「畫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "畫：转义为分界规划筹谋与截止停止",
+      "statement": "由刻画引申指分界、规划、筹谋（《玉篇》「分也、計也、策也、界也」）；由界划引申指截止、停止（《玉篇》「止也」，《正字通》「截止也」）。",
+      "boundary": "源自《系统汉语》第43部「畫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "畫：辩证——战国古文讹「周」为「田」，《说文》析形不确",
+      "statement": "战国古文将所从「周」讹变成「田」，小篆承袭古文，故《說文》：「界也。象田四界。聿，所以畫之。」析形不确。",
+      "boundary": "源自《系统汉语》第43部「畫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "畫：音源字，源自刻画声",
+      "statement": "「畫」是音源字，其音源自刻画之声；义音同「戈」，《集韻》「掝，《博雅》：裂也。或从畫」。",
+      "boundary": "源自《系统汉语》第43部「畫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j6-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-06-he",
+      "title": "畫部字族：多指划开、裂开",
+      "statement": "「畫」的字族多指划开、裂开：「劃／划／𠜻／劐」（huà，锥刀曰划，用尖利物把东西割开；huá，计划、谋划；huai，㓦划，处置、安排、修理、整治）、「嫿」（huà，静好、娴静美好、分明好貌、矜恃貌、奔驰貌）、「繣」（huà，繣徽乖违、结碍、系结东西的带子、违背、结巴、乖戾）、「澅」（huà，水名，在齐，今山东淄博临淄西）、「㗲／咟」（huò，㗲啧，叫呼）、「㦎」（huò，乖戾、顽、不慧、辩快、乖剌）、「䐸／膕」（huò，曲脚、膝盖后窝，曲腿时深陷如裂缝）、「㩇／掝」（huò，擗也、裂也、裂声）、「𢄶」（huà，裂帛声）、「𨐶」（huò，味辛）、「𥊮」（huò，目病）。",
+      "boundary": "源自《系统汉语》第43部「畫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
