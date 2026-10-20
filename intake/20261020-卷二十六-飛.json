@@ -1,0 +1,1130 @@
+{
+ "schema_version": 1,
+ "intent": "录入《系统汉语》卷二十六 飛：149.北部至155.驫部",
+ "risk": "medium",
+ "claims": [
+  {
+   "id": "j26-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "卷二十六音源字「北、非、飛」象展翅飛翔形，音源為翅膀扇動聲",
+   "statement": "本卷音源字為「北、非、飛」，皆象展翅飛翔形，其音源自飛翔時翅膀的扇動聲。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "topic_path": "knowledge/hanzi-yinyuan/26a-fei.md",
+   "topic_title": "卷二十六·飛",
+   "topic_summary": "卷二十六「飛」（第149–155部，p444–p462）：149 北部（p445）、150 不部（p448）、151 皮部（p452）、152 辟部（p454）、153 比部（p457）、154 猋部（p461）、155 驫部（p462）。音源字「北、非、飛」皆象展翅飛翔形，音源為翅膀扇動聲；本卷由翅膀的相背、寬扁、倒懸諸象，牽連背、皮、不、弗、勹、巴諸音系。",
+   "topic_keywords": [
+    "飛",
+    "北",
+    "非",
+    "不",
+    "皮",
+    "辟",
+    "比",
+    "猋",
+    "驫",
+    "翅膀",
+    "展翅",
+    "飛翔",
+    "音源"
+   ]
+  },
+  {
+   "id": "j26-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「飛」的本義與引申：鳥蟲振翅往來，泛指騰起浮空",
+   "statement": "飛翔本指鳥類或蟲類等用翅膀在空中往來活動的情形，引申泛指騰起或在空中浮動的物體。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」象翅膀形故有「背」義，「皮」以其寬扁而薄借音",
+   "statement": "因動物的飛翔必須憑借翅膀，故以象翅膀形的「非」字表示；翅膀分佈在背部的兩側，故有「背」義；翅膀一般都寬扁而薄，故「皮」借以為音：《詩·小雅·桑扈》「彼交匪敖」，「彼」《左傳·襄公二十七年》引作「匪」。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」借音：淩空而飛猶如物體倒懸",
+   "statement": "淩空而飛，猶如物體的倒懸，故指花柎的「不」也借以為音：《詩·大雅·蕩》「無背無側」，《韓詩外傳》卷五引作「倍」，「倍」本从「不」。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「弗」指連枷，音源撲打聲，擊打之狀如飛故義音同",
+   "statement": "「弗」是音源字，指連枷，其音源自撲打聲；擊打之狀本也如飛，故義音同：《儀禮·有司徹》「厞用席」，鄭玄注「古文厞作茀」。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「巿」本指蔽膝，倒掛寬扁，其孳乳可與「弗」通",
+   "statement": "此外，存在倒掛和寬扁含義的「巿」，其義本是指蔽膝，也當是以其為音；其孳乳字或可以與「弗」相通，如《類篇》「䟛，行皃。一曰猝也。或作𧿳」，《釋文》「肺，本又作胇」。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「勹」象人俯伏形，含「伏、負」兩類字族",
+   "statement": "存在俯義的「勹」，象人俯伏之形，包含「伏、負」兩類字族；「仆」的孳乳字如䟔（《類篇》「僵也」）、仆（《說文》「頓也」），跟「踣」義同。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「巴」象叉開手指爬搔，應是「爬」的初字",
+   "statement": "存在俯義的「巴」，象一個人叉開手指爬搔的樣子，應是「爬」的初字；琵琶、枇杷、批把作為連綿詞，體現了「比、巴」之間的音義關係（《康典》「批把，樂器，推手前曰批，引手後曰把」）。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "本卷與《勹》《弗》《卜》音義多通，原为一版",
+   "statement": "本卷與《勹》《弗》《卜》中的字，音義多通，一版就是合併在一起的。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "卷首圖版：玉蝙蝠（紅山文化）與福祿壽喜紋盤（清）",
+   "statement": "卷首圖版為玉蝙蝠（紅山文化）與福祿壽喜紋盤（清），蝙蝠之「蝠」與「福」諧音，是吉祥紋樣。",
+   "boundary": "源自《系统汉语》卷二十六「飛」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「北」的本義：从二匕相背，象張開的翅膀",
+   "statement": "「北」从二匕相背形，象張開的翅膀，與「非」同源（《說文》「非，違也。从飛下翄，取其相背」；《正字通》「象鳥翼奮起形」）；圖版為大雁玉雕（遼）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「北」的轉義：脊背、背離、北方、敗走",
+   "statement": "翅膀長於鳥類或昆蟲的背部，故引申指脊背，此義分化如「背（bèi）」（《玉篇》「背脊」）；翅膀一般都是相對而生，由其飛翔時扇動的樣子引申指背離（bèi，《集韻》「違也」）；許多鳥類有遷徙的習慣，春季由南向北、秋季由北向南，故引申指北方（běi，《玉篇》「方名」，《集韻》「朔也」），或引申指敗走（《玉篇》「軍敗走曰北」）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「北」的辯證：人匕形近致《說文》釋為二人相背；或指北斗、小北斗兩星座",
+   "statement": "由於「人、匕」形近，故《說文》釋「北」為「乖也。从二人相背」；此外古文字「勺」跟「匕、人」也都相近，因北斗七星連起來呈勺狀故稱「勺星」，北極星所在星座連起來也呈勺狀而稱「小北斗星」，「北」或許是指這兩個相對的星座，由於古人憑其識別北方方位，則北方當為本義。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「北」的音源：翅膀的扇動聲",
+   "statement": "「北」是音源字，源自翅膀的扇動聲。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「北」字族①：脊背，表示背後、背靠、背離",
+   "statement": "背（脊背，自肩至後腰部分，《廣雅》「後也」；bēi 負荷、用脊背馱）、褙（短衣；把布或紙一層一層地粘在一起）、偝（背對著；違背、背棄；或同褙，指裱糊）、𧉥（蟹四足者）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-016",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「北」字族②：北方",
+   "statement": "邶（故商邑，自河內朝歌以北，在今河南湯陰縣東南；又有邶殿在今山東昌邑市西）、冀（北方州名；希望、希圖；金文或从飛、異聲，其本意當與「翼」相同，據此可證「北」即「飛」，指翅膀）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-017",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「北」字族③：翅羽狀，表示扁而細長之物",
+   "statement": "䉾（惡米，意同「粃」即秕穀）、苝（野薤，似薤而細弱）、軰（等輩、類）、𩭿（細毛）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-018",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」的本義：與「北」同源，象展翅之形",
+   "statement": "「非」與「北」同源，象展翅之形，可能是為了區別「人、匕」而在「北」上加一橫，或表示上飛之意，其義音同「飛」（《易·乾》「飛龍在天」，「飛」《史記·孝武本紀》作「蜚」、馬王堆漢墓帛書本作「翡」；《說文》「違也。从飛下翄，取其相背」）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-019",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」的轉義：違逆錯誤、下隱、無中生有",
+   "statement": "由翅膀的相背，引申指違逆、錯誤、責怪、反對（《廣韻》「不是也。責也。違也」）；由翅膀的收縮或有翅之物的遠飛不見，引申指下、隱逸（《玉篇》「下也、隱也」）；由翅膀的使身子騰飛，引申指無中生有、誹謗（fěi，《集韻》「謗也」）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-020",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」字族①：翅膀形，表示扁薄之物",
+   "statement": "扉（門扇）、菲（土瓜、蒠菜，葉厚而長有毛似翅；微薄；草鞋；fēi 芳菲、艸茂皃）、𨵈（門火氣，俗扉字）、棑（棑筏；盾；桴；船後木；木名）、𦩋（插在木船後邊用以停船的木頭，通作排）、𩇯（蠹𩇯，鳥名如梟人面一足，同「肥」）、䨽（分解；鳥名山梟，同𩇯）、𣡖（吹火韋囊）、𧕿（臭蟲，負蠜，通作蜚）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-021",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」字族②：翅膀扇動，表示對動之物、推排、往來",
+   "statement": "屝（用草、麻、皮做的鞋）、腓（小腿肚子；枯萎；倚、庇）、匪（方形竹筐；非也、彼也；搶劫財物危害人民的人；通斐；分賜）、篚（車箱；方曰筐、圓曰篚）、輫（車箱）、棐（弓檠，矯正弓弩的器具；香榧木；同篚）、㹃（兩牛相向而耕，復耕後再種植）、騑（駕在車轅兩旁的馬）、輩（軍發車百兩為一輩；等輩、類）、琲（成串的珠，珠五百枚或十貫為一琲）、𥇖（大眼睛，睫毛如翅）、䕁（江湘間凡卒相見謂之䕁相見；驟然）、婓（往來不停皃；醜皃；或通妃）、餥（隨身帶的乾糧）、排（用手推擠物體；列、安置；鼓風吹火的器具）、悱（想說而說不出來）、鯡（魚子；海魚名；海中飛魚能掠水羣飛）、霏（雨雲皃；雨雪皃）、裵（長衣皃；徘徊本字；姓）、䠊（斷足）、𨛬（河東聞喜縣；同裴）、俳（雜戲、滑稽戲，當指長袖雙人舞；俳徊）、啡（臥息；唾聲；吹；譯音用字如咖啡）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-022",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」字族③：展翅飛翔，表示張大、揚起",
+   "statement": "奜（大；姓）、𩇩（大）、𢳁（手起物）、罪（捕魚竹網，疑本指捕鳥的網；秦以罪為辠字；犯法、罰）、猅（犬短首）、檌（倒損）、嶵（山高不齊皃）、𣿓（清）、𢶀（損；拉）、誹（從旁指責過失，譭謗）、馡（香）、𡌦（灰塵）、䩁（毛紛紛；細毛）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-023",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」字族④：翡鳥之羽，表示紅色",
+   "statement": "翡（赤羽雀，出鬱林；一說雄曰翡、雌曰翠）、暃（日色）、斐（用以分別的文采，指鳥不同則羽毛顏色也不同；文章皃；姓）、緋（帛赤色）、痱（中風病；痱子、汗疹，皮膚起紅點如掉毛後的翅膀）、䊫（稻赤米）、𦃄（蜀錦名）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-024",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「非」字族⑤：斂翅或遠飛，表示隱蔽、掩飾",
+   "statement": "陫（狹隘；隱蔽；山名）、厞（隱蔽、隱蔽處）、䨾（隱、陋）、悲（哀痛、傷心，有聲無淚曰悲）、𨻼（牢獄，所以拘非，或作狴）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-025",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「飛」的本義：甲骨文象鳥展翅飛翔之形",
+   "statement": "「飛」的甲骨文象鳥展翅飛翔之形（《說文》「鳥翥也。象形」）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-026",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「飛」的轉義：凡物之飛、飄蕩流動、迅速、高、突然、無根據",
+   "statement": "由鳥飛引申指凡物的飛（《廣韻》「飛翔」），或引申指物體在空中飄蕩或流動（飛雪、飛花）、非常迅速（飛速、飛馳）；由飛翔的淩空之狀引申指高（《釋名》「船上重室曰飛廬。在上，故曰飛也」，如飛橋）、上翹上升（飛簷、飛揚）；由鳥類的騰飛之狀引申指突然、意外（飛禍、飛災）或無根據（飛短流長、流言飛語）。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-027",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「飛」的字族：多指飛狀",
+   "statement": "騛（馬逸足，跑如飛）、𩙲（獸名，如牛，白首一目）、䬠（雪皃，同霏）、𢑮（音飛，義同）、𨕗（音緣，音義應同遠）、𩹉（魚名似鮒；有翅膀能在水面滑翔的飛魚）；圖版為飛魚。",
+   "boundary": "源自《系统汉语》第149部「北部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-028",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」的本義：象花房、蕊之形，「柎」的異體",
+   "statement": "「不」象花房、蕊之形，是「柎（fū）」的異體（《集韻》「柎，艸木房為柎。一曰華下萼。或作不」；《通志·六書略》「不，音跗。象花萼蒂之形」）；圖版為花的結構。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-029",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」的轉義：大、胚胎、小、否定疑問",
+   "statement": "由花不的展開之狀引申指大，此義分化作「丕（pī）」（《說文》「大也」）；花房本系果實的胚胎，故引申指胚胎，此義分化作「肧（pēi）」（《集韻》「肧胎，未成物之始」），或引申指小（bǐ，《韻補》「陋也」）；或引申指否定、疑問（bù，《集韻》「無也。通作弗」；fǒu，與可否之否通）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-030",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」的辯證：《說文》誤為鳥形",
+   "statement": "《說文》誤為鳥形：「鳥飛上翔不下來也。从一，一猶天也。象形」，而《正字通》「按此說曲而不通，非不字本義」。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-031",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」的音源：借音字，因否定義而義音同「北」",
+   "statement": "「不」是借音字，因其有否定之義，而義音同「北」：《詩·大雅·蕩》「無背無側」，「背」《韓詩外傳》卷五引作「倍」；《戰國策·魏策》「背大樑」，「背」《戰國縱橫家書》作「倍」；《國語·齊語》「莫之敢背」，「背」《管子·小匡》作「倍」。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-032",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」字族①：花不形，表示大、寬扁",
+   "statement": "丕（大）、魾（大鱯，小者名鮡；鯿魚）、𩑢（曲頤，彎曲而微微向前的下巴；大面皃）、鉟（刃戈，形如刀而兩邊有刃；同鈹）、豾（貍子；貔）、伾（有力；眾；山一重）、秠（一稃二米，黑黍之一殼兩米者；或指穀皮）、邳（奚仲之後、湯左相仲虺所封國）、岯（大岯，山名；山一成）、𩂆（霧；雨不止）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-033",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」字族②：花不狀，表示披拂、相對",
+   "statement": "駓（毛色黃白相雜的馬，又名桃花馬；馬跑皃）、髬（髬髵，猛獸奮鬛皃，一曰被髪走）、抔（手掬物）、呸（相爭之聲，嘆詞，表示斥責或唾棄）、怌（恐懼；怠慢）、抷（同批，反手批擊；手掬）、吥（吸吥，同否）、𧉈（蟲名，似蟹而小，十二足）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-034",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」字族③：花不的孕育，表示胚胎、初始",
+   "statement": "肧（婦孕一月；肧胎，未成物之始）、衃（凝血，赤黑色的瘀血）、妚（女子儀態美好；同胚，懷孕）、紑（衣服鮮潔皃，生帛所製）、芣（花盛皃；車前草，《詩·周南》「采采芣苢」，其子治婦人難產，可見此詩本意當是求子或順產的禱告語）、炋（火；疑指保留火種、用易燃物緊裹而成的火胚，如今日線香、紙撚）、䲹（魚鷹，啄魚又吐出，如孕之而生）、坏（一重的山丘；未燒成的瓦坯；屋的後牆；「壞」的簡化字）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-035",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「不」字族④：象意俗字，含否定義",
+   "statement": "甭（不用）、𣈇（暗）、孬（不好；范成大《桂海雜志》所記俗字𨱥、奀、𧗩、𤯚與之同類）、𠁃（鋪）、歪（不正，俗合「不正」二字，卽竵之譌）、𤯚（人亡絕）、𩖲（聲絕）、𠀰（多）；《龍龕》另收「不成、不合、不辰、不上、不示、不出」等以「不」為字條者。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-036",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「否」的本義：从口不聲，指花開放露出花房花蕊，為「䓏」初文",
+   "statement": "「否」从口不聲：「口」指花的開放狀，从「不」象意露出花房、花蕊的樣子，是「䓏」的初文（fū，《玉篇》「華盛皃」）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-037",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「否」的轉義：言語的否定、空間的閉塞偏遠破敗",
+   "statement": "「不」本有否定義，「口」可指嘴，則引申指言語上的否定（fǒu，《說文》「不也」，徐鍇「不可之意見于言，故从口」）；「口」可指某空間，則引申指空間的閉塞、偏遠、破敗（pǐ，《廣雅》「隔也」，《廣韻》「塞也」）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-038",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「否」字族①：花開狀，表示敞開、盛大",
+   "statement": "䓏（華盛皃）、嚭（大；大喜，吳有太宰嚭）、桮（盛飲料的器皿，或作杯、盃）、㧵（同抔，手掬物）、𥞶（黑黍，一稃二米）、𦐸（飛）、䫠（短鬚髮皃）、䫊（曲頤；大面謂之䪹）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-039",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「否」字族②：否定，表示倒挂、下覆、不肖",
+   "statement": "𧻳（仆倒、僵）、踎（方言，蹲；混日子）、𧳏（貔，北燕朝鮮謂之𧳏）、𨛔（地名）、𩣚（馬黃白色，今之桃花馬；獸趨行皃）、娝（不肖，形象醜陋、品德不賢）、俖（不肯、誑妄；不可）、痞（痛；腹內結病）、㤳（依賴）、㳪（水名）、𦊾（捕兔網；罘罳，臣將入請事于此復重思之）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-040",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「咅」的本義：即「否」，上加一橫示花萼朝下綻開",
+   "statement": "「咅」即「否」（《正字通》「咅，同㕻」）；「不」本可寫作𠀚，上面加一橫為「上」，表示花萼的朝下綻開。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-041",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「咅」的轉義：花綻開體大故引申為「倍」，或同「否」指違背倒挂",
+   "statement": "花綻開後體積會變大許多，故引申指「倍」義，表示倍增、更加、越發、陪護；同時「不」本指胚胎，成倍地繁殖子實本也可引申指倍增，此義分化如「倍（bèi）」（《正字通》「物財人事加等曰倍」）；或同「否」，指違背、否定、倒挂（《說文》「相與語，唾而不受也」）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-042",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「咅」字族①：花的綻開，表示倍增、鼓脹、分剖",
+   "statement": "倍（違反；物財人事加等；伴隨，後作陪）、培（加厚、增益、堤封、輔助、治理；培塿，小土丘；瓦未燒者）、陪（重土；貳、隨、加、助、益；家臣）、婄（婦人肥皃；不才；醜）、犃（雄；短頭牛）、賠（補償人財物，本作備）、錇（大釘）、毰（毰毸，毛羽皃；毰毢，鳳舞皃）、琣（佩刀下飾）、𤗏（版、踏版）、碚（碚𥗬即蓓蕾；北碚地名）、醅（醉飽；未過濾的酒，取其腹鼓如胚）、䍌（小缶，小瓶）、蓓（蓓蕾，始華）、餢（起麵餅，發酵使麵輕高浮起）、剖（判、破，從中間分開，有倍義）、篰（剖細的竹篾；竹簍）、部（分判、部伍、部曲；統、界）、𦜟（豕肉醬）、棓（杖、棒；連枷）、䋨（整治破舊的絲綿）、𤬃（瓜）、勏（勏劶，用力）。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-043",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「咅」字族②：花開狀，表示倒懸、覆蓋、仆倒",
+   "statement": "掊（五指耙物；擊）、箁（竹筍殼；竹葉）、㾦（痂、瘡、弱）、䯽（髮皃；美髮；髮短皃）、踣（向前仆倒；陳屍）、䞳（僵）、涪（水名即烏江，疑其落差大如懸掛）、焙（挂起來用微火烘乾）、𠟌（割草）、蔀（遮陽棚；小席；暗、小；星名）、殕（物腐敗而生白膜；敗、腐；斃）。另「坏、怀」見468《眔部》，「环、还」見480《袁部》。",
+   "boundary": "源自《系统汉语》第150部「不部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-044",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」的本義：甲骨文从又从革，象意取皮",
+   "statement": "「皮」的甲骨文从又从革，象意取皮（《說文》「剝取獸革者謂之皮。从又，為省聲」）。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-045",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」的轉義：剝離、表面組織、皮革製品、皮狀之物",
+   "statement": "由剝取獸皮引申指剝、離；由剝取的皮革引申指人或動植物表面的一層組織（《釋名》「皮，被也，被覆體也」）或物體的表層；或引申指皮革製品（裘衣、獸皮製成的箭靶）；或引申指性狀象皮革的東西（鐵皮、面皮），指薄而平的片狀物（皮紙、皮糖），指象皮革一樣有韌性（橡皮）。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-046",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」的音源：借音字，因披掛義而義音同「不」",
+   "statement": "「皮」是借音字，因有披掛義而義音同「不」：《史記·高祖功臣侯者年表》「長鈹都尉擊項羽」，《前漢書》作「鉟」；抷，《集韻》「披也」。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-047",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」字族①：剖皮，表示披散、裂開、偏斜",
+   "statement": "㓟（刀析、剝）、披（古喪具，柩車兩旁牽挽的帛；開、分、散、裂、張）、詖（辯論，針對對方言論反駁；諂媚；頭偏）、破（石碎；解離、壞；敗軍奪地）、耚（耕；小高）、㱟（開肉、剖肉；枝折）、㨇（同搫，掃除）、疲（勞累，象皮一樣疲軟）、旇（旌旗披靡；麾）、彼（往，有所加；對此之稱；偏斜）、坡（斜坡，取披義）、岥（陂陀）、陂（山坡；池塘；壅塞的水澤；傾斜不正）、頗（頭偏，指披在身上的皮頭的部分偏在一邊；程度副詞；疑問語氣）、柀（杉樹，皮有刺如帶毛獸皮，宜剝作火把；離析）、駊（馬受驚或不願走而搖頭抬蹄）、㝿（跛腳）、跛（行不正、瘸腿）、帔（裙子；披肩；霞帔）、翍（張羽；張開、分散）、怶（邪僻；恐、憂）、櫇（果名）、𡽠（山皃）、骳（脛曲、屈曲）、䏢（肉；皮膚開裂）、𠴸（燕代謂喜言人惡）、𣔓（木名）、𣬼（毛；女性的外生殖器）、蔢（艸木茂盛；草根；薄荷）、佊（邪；哀）、㢰（絲皮飾弓；張弩；弓曲）、狓（狓猖，飛颺、猖狂）、婆（婆娑，盤旋起舞；丈夫的母親）、簸（揚米去糠；簸箕）。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-048",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」字族②：皮狀，表示寬而薄",
+   "statement": "鈹（中醫用的長針，下端如劍兩面有刃，起手術刀的作用；形似刀的劍；大矛；刨土的工具；元素Be的音譯字）、蚾（蟾蜍，所蛻皮叫蟾衣，是名貴中藥材；土鼈）、髲（假髮）、波（水湧流；起伏的水面；引申指水流、影響、潮流、風氣、逃散）、紴（絲帶子；水波錦文）、被（被子；同披，被覆人；加、及；車幔；首飾假髮）、𣥣（被）、鞁（鞍轡等馬具；給馬套上鞍轡）、錃（鋤頭，扁而寬）、碆（石可為矢鏃；拴在絲繩上的石箭鏃）、麬（麥皮）、䝛（音波）、𠵿（量詞，相當於對）、𡛡（女字）、鮍（魚名，體型似鯽而小，身體扁平，故从皮）。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-049",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」字族③：皮貨，表示貨幣、租稅、店鋪",
+   "statement": "貱（輾轉給與，即用皮作貨幣流通之意；增加；貤貱，次第）、秛（禾租、租稅）、𢇳（舖、舍，一說屋旁小舍俗呼披子，披、𢇳聲相近）。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-050",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」字族④：象聲字",
+   "statement": "嘙（梵語譯音字，呪語，無實義）、玻（玻瓈，古指天然水晶，有紫白紅碧四色；後指玻璃，《正字通》「明三保太監出西洋，攜燒玻瓈人來中國，故中國玻瓈頓賤」；譯音字）、啵（象聲字；助詞，用法與「吧」大致相同）。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-051",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「皮」字族⑤：形近字「冘、支」之訛",
+   "statement": "𠡄（用力；《漢典》以其為「𠠹」的訛字）、䜵（俗「豉」，鹽豉）。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-052",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "圖版：簸揚（清 焦秉真《耕織圖》局部）",
+   "statement": "皮部圖版為《耕織圖·簸揚》局部（清 焦秉真），配合「簸」字之義。",
+   "boundary": "源自《系统汉语》第151部「皮部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-053",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」的本義：即「璧」，象持璧跪跽的人",
+   "statement": "「璧」的商代甲骨文本从〇从辛（或省），〇為璧的象形，西周後才从玉辟聲（《說文》「瑞玉圜也」）；「辛」即憑信之意，則「辟」實際上是从卩璧聲，象意持璧跪跽的人（《廣韻》「君也」）。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-054",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "璧的形制與名稱：璧、瑗、環、玦，各有功用",
+   "statement": "璧是一種平圓形、中間有孔的玉，一般是王公貴族用作祭祀、朝聘、喪葬時的禮器；《爾雅·釋器》「肉倍好謂之璧；好倍肉謂之瑗；肉好若一謂之環」，「肉」指邊廓、「好」指孔洞，周邊有一個缺口為玦；《荀子·大略》「問士以璧，召人以瑗，絕人以玦，反絕以環」。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-055",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "璧的禮制等級：六瑞六器、諸侯往來，百姓不得私有",
+   "statement": "璧在古代作為六種禮玉之一，最初有嚴格的等級規定，是子、男爵晉見天子時的贄禮，主要用於祭天（《周禮》「以蒼璧禮天」「子執穀璧，男執蒲璧」）；也用於諸侯間的往來（「璧以帛」）；一般百姓不能擁有（《左傳·桓公十年》「匹夫無罪，懷璧其罪」），也不允許買賣（《禮記·王制》「有圭璧金璋，不粥于市」）。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-056",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」的轉義：治理法度、曉示彰明、開闢剖分，及以璧周匝形制為喻的諸義",
+   "statement": "由璧作為禮器引申指治理、法度（《爾雅》「法也」），由璧的示意性引申指曉示、彰明（《墨子·小取》「辟也者，舉他物而以明之也」）；璧作為憑信可以分開，分而持之、相合則信，故有「珠聯璧合」之語，分開的部分稱「璜」（半璧曰璜），「琥」其實也是璜，故「辟」或引申指開闢、剖分（《廣雅》「半也」）；而主要則以璧的周匝形制作比喻，引申指周圍、壁壘、閉聚、手臂、捶胸、徵召、僻遠、棄除、平息。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-057",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」的辯證：《說文》以「辛」為罪而釋為法，非本義",
+   "statement": "《說文》以「辛」為罪，故釋作「法也。从卩，从辛，節制其辠也；从口，用法者也」，應非本義。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-058",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」的音源：本「辛」聲，因其如皮周匝而義音同「皮」",
+   "statement": "「辟」本「辛」聲，因其如皮周匝，故義音同「皮」：《詩·周頌·載見》「載見辟王」，「辟」《墨子·尚同》引作「彼」；《老子》「入軍不被甲兵」，「被」河上公本作「避」。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-059",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」字族①：劈開、剖分",
+   "statement": "劈（破、砍開）、闢（開）、擘（分裂；大拇指，取君主義）、霹（霹靂，雷之急激者，《埤雅》「辟，折也。所曆皆破折也」）、襞（折疊衣裳；裂開、剖分）、糪（夾生飯）、擗（撫拍胸脯；擘開）。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-060",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」字族②：周圍、環聚",
+   "statement": "𨐨（砌井，井口如璧之意；引申指法）、臂（手上，在旁曰裨）、嬖（地位低下而獲得寵倖的人；寵愛別人）、甓（瓦磚）、壁（牆壁；陡峭的山石，《釋名》「辟也，辟禦風寒也」）、廦（牆）、繴（捕鳥的覆車網）、檗（黃柏，木材堅硬，莖可製黃色染料，樹皮入藥）、檘（枰仲木名；博局；同檗）、幦（漆布，古代車前橫木上的覆蓋物）、癖（食不消化、腹病；嗜好之病，今指對事物的偏愛）、䌟（織絲為帶；絮；用同澼）、澼（漂洗；腸間水）、𤖟（豆中小硬者）。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-061",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」字族③：僻遠、偏斜",
+   "statement": "僻（避開、牽制；陋）、𠪮（仄、狹窄，取崖如壁之意）、避（回避、躲避）、𪇊（野鳧，腿過於靠後不能陸行）、𣦢（有足而不能行）、躃（兩足不能行；仆；跛躄）、㱸（極；欲死皃）、𩪧（弓弭，弓末彎曲處）。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-062",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「辟」字族④：曉示、憑信；圖版為璧、環、瑗、玦與二璜璧、三璜璧",
+   "statement": "譬（告諭，用打比方的方法說明事理，使容易明白）、璧（瑞玉圜，用作印信憑證的玉，《白虎通》「外圜象天，內方象地」）；圖版為璧、環、瑗、玦、二璜璧（齊家文化）、三璜璧（東周）。",
+   "boundary": "源自《系统汉语》第152部「辟部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-063",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」的本義：匕之二疊，象群飛，表示密切、並列、齊同",
+   "statement": "「比」為「匕」的二疊，「匕」象翅膀形，二疊表示極致，或象意鳥類的群飛，表示密切、並列、齊同、比次（《廣韻》「和也、並也」，《字彙》「齊也」）；或象意翅膀的大，表示遮蔽，此義分化如「庇（bì）」（《說文》「蔭也」）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-064",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」的轉義：親近輔助勾結、比較較量類比",
+   "statement": "由密切、並列引申指親近、輔助、勾結（bì，《玉篇》「近也、親也、吉也、阿黨也、備也、代也」），或引申指比較、較量、考校、類比（bǐ，《玉篇》「類也、方也、校也、並也」）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-065",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」的辯證：匕與勹、人、勺形近致《說文》誤釋反人",
+   "statement": "由於「匕」跟「勹、人、勺」字形過於相近，很早就發生了混淆：《說文》釋「匕」為「相與比敘也。从反人……一名柶」，所指本即「勺」而非「反人」，故其釋「比」為「密也。二人為从，反从為比」也是不對的；甲骨文正反每無別，「从、比」猶如「司、后；欠、旡；身、㐆」，意思應當相同。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-066",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」的音源：義音同「非」，亦同「卑」",
+   "statement": "「比」是借音字，義音同「非」（紕，並也，事謬織疏也）；由於翅膀一般都是比較扁平而輕巧的，故義音同「卑」（《莊子·天下》「天與地卑，山與澤平」，《荀子·不苟》「山淵平，天地比」；「俾」引作「比」、「毗」引作「庳」）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-067",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」字族①：遮蔽，表示遮護、庇佑",
+   "statement": "芘（錦葵，葉大而有毛如翅；蔭蔽、庇護）、庇（遮蔽、遮護；寄託、依託；保護、保佑；袒護；養育；彌補）、妣（死去的母親，取義同庇；《爾雅》「父為考，母為妣」）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-068",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」字族②：翅膀狀，表示扁薄之物",
+   "statement": "秕（癟穀，穀如翅膀只有空殼）、紕（毛織品，如翅有毛而能遮身；布帛絲縷破壞而披散；疏忽、錯誤；鑲邊；縫合）、䃾（用小豬祭司命神）、枇（枇杷，葉大而有毛如翅；長柄淺斗的取食器具，當為勺之訛；篦子；排列）、魮（文魮魚，今瓣鰓綱中能產珍珠的珠母貝；鰟鮍魚）、屁（從肛門排出的臭氣，一如翅膀扇動時的有風）、𨈚（體柔）、阰（山名，在楚南）、𧑜（蟲名，疑同蚍）、鈚（鐵；犁刃；鈚箭，鐵鏃薄而闊）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-069",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」字族③：密切，表示相連、相並",
+   "statement": "㩺（南楚之間器破而未離謂之㩺）、𢁦（殘帛）、坒（土地依次相連接；同陛）、梐（梐枑，也稱「行馬」，古代官署前阻擋行人的障礙物，用木條交叉做成）、𠨒（相輔佐的符節，今作弼）、仳（分別、離別；仳倠，醜女）、䚹（言具）、䯗（髀，股）、𤙞（牛馬行）、𠈺（開腳行、邁步）、𤽊（明白）、沘（水名，今安徽淠河、河南泌陽河）、𦊁（取蝦具，用竹或荊柳編織的障礙物）、䩃（面皃）、悂（謬誤；意倂；謹慎）、陛（升高的階梯，天子階）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-070",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「比」字族④：扇動翅膀，表示批擊、飛動",
+   "statement": "批（反手擊；擊打、推排、轉動、批示；兩手共擊）、琵（琵琶，胡樂，胡人馬上所鼓，推手前曰琵、引手後曰琶；《釋名》「兩相裨助，共擊之」）、吡（諀訾，毀；鳥聲）、蚍（蚍蜉，大蟻、飛蟻；蚍衃，錦葵）、砒（砒石，天然產含砷礦物的加工品，有毒，產自信州故又名信石，「性猛如貔，故名」）；圖版為《韓熙載夜宴圖》局部（南唐 顧閎中）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-071",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「𣬈」的本義：象反芻動物瓣胃之狀，為「膍」的初文",
+   "statement": "「𣬈」从𡇒从比，比亦聲；「𡇒」即「胃」所从（參見78《鹵部》），「比」指比次，象意牛、羊、鹿等反芻動物的瓣胃之狀（或稱「百葉肚」，裡面為許多相迭的葉片形），實為「膍（pí）」的初文（《說文》「牛百葉也」）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-072",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「𣬈」的轉義：厚、憤懣、小籠，及由瓣胃輔助消化引申的輔助",
+   "statement": "由瓣胃的層層疊疊之狀引申指厚（pí，隸作毗），或引申指憤懣（《方言》「懣也」）、小籠（《字彙》「𣬉，小籠」）；瓣胃的作用是吸收水分及發酵產生的酸，並不負責消化食物，跟瘤胃、網胃一起稱為前胃，真正分泌消化液的是皺胃（真胃），由瓣胃的輔助消化作用引申指輔助、輔佐（《集韻》「輔也」）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-073",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「𣬈」的辯證：𡇒、囟、田形近，金文訛从囟，《說文》釋為人臍不確",
+   "statement": "由於「𡇒、囟、田」形近，西周金文或訛變从「囟」，故《說文》「人臍也。从囟，囟，取氣通也；从比聲」所釋不確，隸變从「田」作「毗」亦非。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-074",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「𣬈」字族①：𣬈之狀，表示密集排列、相連、相並",
+   "statement": "𤚪（牛名，應指牛百葉）、篦（篦子，齒比梳子密的梳頭用具；捕蝦的竹器）、膍（牛的百葉肚；鳥胃，應指嗉囊）、媲（配偶）、䠘（偶；踦）、㮰（屋簷前板）、㡙（車帷、簾）、𦃋（細布）、貔（豹屬，出貉國；或指山貓，《方言》「關西謂之狸」；專家考證貔貅即大熊貓，《山海經》食鐵獸）、蓖（蓖麻，種子可榨油，醫藥上用做輕瀉劑，梳篦毛髮時用以潤滑並殺蝨）、𦳈（蒿；𦳈麻）、𥯡（籠）、𪄆（𪄆鵊，黑卷尾，尾羽如篦）、𨻀（牢獄，或作狴）、𡲮（穴）、磇（砒，藥石）、𩪅（髀，股）、螕（齧牛蟲，牛蝨即蜱蟲，狀如蓖麻籽）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-075",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「𣬈」字族②：同「比」，指翅膀，表示批擊、披靡",
+   "statement": "𠞇（斫、削、割）、鎞（釵；掠器；櫛髮具，俗作篦；刀似箭鏃者曰鎞，《涅槃經》金鎞刮眼膜使復明）、𣹮（水聲；眾；舟行皃）、㔡（大；大力之皃）、𢱧（反手擊）、𢾱（屋欲壞）、𢞗（通；性之惡者）、𠹇（叱聲）、𨉮（體柔）、𪍜（米麥炒熟後磨成粉的乾糧）。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-076",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「𣬈」字族③：形近字「囟」之訛",
+   "statement": "𩔙（同𩔅，傾頭皃；俗「顖」，腦會）。另「昆」見507《从部》，「皆」見360《虤部》。",
+   "boundary": "源自《系统汉语》第153部「比部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-077",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「猋」的本義：从犬二疊或三疊，象群犬狂奔與相咬",
+   "statement": "「猋」从犬的二疊或三疊，「犬」指狗，疊體表示極致；古時候的狗多用於狩獵，故象意群犬狂奔（《說文》「犬走皃」）；狗的領地意識比較強，遇到同類往往相互吠叫甚或相咬，故或象意狗的相咬或狂吠（「㹜，兩犬相齧也」）；圖版為漢畫像石《狩獵圖》。",
+   "boundary": "源自《系统汉语》第154部「猋部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-078",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「猋」的轉義：疾風旋風、爭言粗野、極小的犬",
+   "statement": "由群犬的狂奔引申指疾風、旋風（《爾雅》「扶搖謂之猋」）；由狗的相吠引申指爭吵時言語粗野；「猋」的疊體也可象意特別小的狗，故或引申指樣子象狗而又特別小的動物，此義分化如「贆」。",
+   "boundary": "源自《系统汉语》第154部「猋部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-079",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「猋」的音源：借音字，因疾速而義音同「票」",
+   "statement": "「猋」是借音字，因其疾速而義音同「票」：《左傳·襄公二十六年》「寧喜弑其君剽」，「剽」《漢書·古今人表》作「猋」；《史記·司馬相如列傳》「雷勳熛至」，「熛」《文選·子虛賦》作「猋」。",
+   "boundary": "源自《系统汉语》第154部「猋部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-080",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「猋」字族①：犬奔，表示輕疾",
+   "statement": "飆（扶搖風、暴風、疾風）、𣄠（旌旗飛揚皃）。",
+   "boundary": "源自《系统汉语》第154部「猋部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-081",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「猋」字族②：犬狀",
+   "statement": "䁭（惡視；望，指如犬般圓瞪雙眼）、贆（貝居陸，應指陸生貝類即蝸牛之屬，觸角探來探去如犬嗅聞，肉身形似伏著的小狗，因有觸角故一般稱「牛」）、𡪱（音寂，疑同寂，指犬在屋中警覺的樣子）。",
+   "boundary": "源自《系统汉语》第154部「猋部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-082",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「猋」字族③：形近字「焱」之訛",
+   "statement": "䔸（草名、香草，應即芭茅，本應从「焱」指其穗紅似火）、𦠎（腫欲潰；當為形近字「焱」之訛，表示紅腫）；圖版為芭茅。",
+   "boundary": "源自《系统汉语》第154部「猋部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-083",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「驫」的本義：从馬三疊，象眾馬奔騰",
+   "statement": "「驫」从馬的三疊，「馬」指馬，其主要特點是跑得快，為古代騎乘或拉車的主要牲口，疊體表示極致，象意眾馬奔騰（《廣韻》「眾馬走皃」；《說文》「眾馬也」）。",
+   "boundary": "源自《系统汉语》第155部「驫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-084",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「驫」的音源：借音字，因速度快而義音同「票」",
+   "statement": "「驫」是借音字，因有速度快義而義音同「票」：《正字通》「驫，與飄同。水名。《水經注》『沁水南歷猗氏關，與驫水合』」。",
+   "boundary": "源自《系统汉语》第155部「驫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j26-085",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-26-fei",
+   "title": "「驫」的字族：表示多、盛",
+   "statement": "䯂（眾盛；眾馬行皃；木盛皃）、𥤡（《漢典》以為「䯂」的訛字，疑非，本指禾盛皃）、𠫑（𠫑氏鍾，器名，疑即「驫」字繁文）、𤆀（水聲，俗「滮」字）。",
+   "boundary": "源自《系统汉语》第155部「驫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
