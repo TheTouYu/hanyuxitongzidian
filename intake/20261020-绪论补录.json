@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》绪论补录 6 条并挂入现有四主题（音源字本音流失、联绵词例证链、沮诵仓颉、r 声母分化、声母规范主张、十三章与十二章两版）",
+  "risk": "medium",
+  "claims": [
+    {
+      "node": "hanzi-sound-meaning",
+      "topic_id": "topic-word-families",
+      "title": "音源字的本音会流失，音系归类因此两难",
+      "statement": "《系统汉语》指出，因「因义借音」的表达方式，许多音源汉字也逐渐失去本音，向某个有代表性的音源字乃至借音字趋同：雷的本字是「申」，本即雷声，却或作「靁」借「畾」为声（畾所从「田」本指鼓声），或作「震」借「辰」为声（辰本指蚌，是借音字）；象本自鸣，却与「羊」混通，「橡」或称「样」；犬本自鸣，却或称「狗」，以「丩」为声，而「丩」指物的勾曲，据《汉字通用声素研究》与「丩」相通假的字有求、侯、虎、于等三十八个，跨蟋蟀、老虎、猴子、竽等音系。因此「丩」究竟该归入哪类音系，成了难题。",
+      "boundary": "源自《系统汉语》绪论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-sound-meaning",
+      "topic_id": "topic-word-families",
+      "title": "联绵词之间的音义互通可串起同源字族",
+      "statement": "《系统汉语》以「潒瀁」为例说明联绵词之间的音义互通：所从「象」「羊」音义可通；与它音义皆同的联绵词「徜徉」「荡漾」，其所从「向」「昜」自然也是音义可通的同源字。循此线索可以发现一群群字族，它们虽各有音源，却在音义上交叉混用，在古汉语词汇中表现为大量通假。",
+      "boundary": "源自《系统汉语》绪论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-liushu",
+      "title": "《系统汉语》推测汉字或为沮诵、仓颉所造",
+      "statement": "《系统汉语》根据汉字自成系统这一点推测：汉字很可能是传说中沮诵、仓颉两人所造，不然不可能如此成系统。",
+      "boundary": "源自《系统汉语》绪论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-sound-meaning",
+      "topic_id": "topic-sound-imagery",
+      "title": "r 声母在南方多读零声母、x 或 n、l，是后起的分化",
+      "statement": "《系统汉语》指出 r 的发音方式近似 sh，这种音在南方与 zh、ch、sh 一样多不存在：普通话读 r 的字，南方方言一般读零声母（「绕」rao，衡阳话读 yao）、或读 x（「人」ren，衡阳话读 xing）、或读 n、l（「染」ran，衡阳话读 nian），可见 r 是后来分化出来的。",
+      "boundary": "源自《系统汉语》绪论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-sound-meaning",
+      "topic_id": "topic-sound-imagery",
+      "title": "声母表时态与词性出于自然，尚不规范，规范后可建立严谨的汉语体系",
+      "statement": "《系统汉语》认为汉语是通过发声口型即声母的变化来表现时态、并由此表现词性的，但这些表现不是人为规定的，因此不规范；若在此基础上加以规范，将有望建立严谨的汉语体系。",
+      "boundary": "源自《系统汉语》绪论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-hanzi-system",
+      "title": "汉语系统先试分十三章，后改从十二字根立论",
+      "statement": "《系统汉语》曾把汉语系统试分为《穹隆》《丁东》《团圆》《佝偻》《轆轤》《龊龉》《蒺藜》《浪荡》《迷蒙》《抱负》《坎陷》《羸弱》与《迭体字》十三章；归结到《羸弱》（与婴儿有关的字根）时，发现它与前面各章都有音义联系，遂改以士、谷、冓、孕、屰、因、兒、子、大、卝、兄、老十二个字根统摄。",
+      "boundary": "源自《系统汉语》绪论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
