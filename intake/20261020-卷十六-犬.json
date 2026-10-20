@@ -1,0 +1,1933 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷十六 犬 147 条（音源字「犬」象狗形，第88部犬部至第95部㯥部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j16-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "卷十六以「犬」为音源字：象狗形，音源于狗吠声",
+      "statement": "卷十六以「犬」为音源字。「犬」的甲骨文象狗形，其读音来自狗叫的声音。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/16a-quan.md",
+      "topic_title": "卷十六·犬",
+      "topic_summary": "《系统汉语》卷十六「犬」，音源字犬（狗吠声），含 88.犬部、89.丩部、90.口部、91.冓部、92.曲部、93.寇部、94.䀠部、95.㯥部（第88–95部，p268–p295）",
+      "topic_keywords": [
+        "犬",
+        "丩",
+        "口",
+        "冓",
+        "曲",
+        "寇",
+        "䀠",
+        "㯥",
+        "音源字",
+        "卷十六"
+      ]
+    },
+    {
+      "id": "j16-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬是人类最早驯服的动物助手：甲骨文「獣」示以犬狩猎，金文「協」示驱犬拉犁",
+      "statement": "甲骨文「獣」指利用犬狩猎，金文「協」指驱使多条犬拉犁。犬协助人类开辟生计，牛马则是农耕与畜牧文明的产物。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬在现代社会仍不可替代：边境巡逻、缉毒、侦破、救护、导盲、陪伴",
+      "statement": "从边境巡逻、缉毒、侦破案件、救护伤患到为盲人引路、与主人作伴，处处有犬的身影，故狗几乎在世界各国都受宠爱和保护。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬保持肉食动物的消化特征：上下各一对尖锐犬齿，臼齿能切断食物、啃咬骨头",
+      "statement": "犬上下各有一对尖锐犬齿，体现肉食动物善于撕咬猎物的特点；臼齿尖锐强健，能切断食物、啃咬骨头，但不善咀嚼。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬咬骨时上下齿压力可达165千克，进食「狼吞虎嚥」很少咀嚼",
+      "statement": "犬啃咬骨头时上下齿之间的压力可达165千克，但因不善咀嚼，吃东西时狼吞虎嚥、很少咀嚼。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬的食管壁富横纹肌、呕吐中枢发达，吃进毒物能引起强烈呕吐排出",
+      "statement": "犬食管壁上有丰富横纹肌，呕吐中枢发达，吃进毒物后能引起强烈的呕吐反射，把吞入胃内的毒物排出，是独特的防御本领。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬的唾液腺发达、含溶菌酶，夏天靠伸舌蒸发散热调节体温",
+      "statement": "犬唾液腺发达，分泌大量唾液湿润口腔和饲料，唾液中含溶菌酶有杀菌作用；炎热季节靠唾液水分蒸发散热，故夏天常张大嘴伸舌。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬胃呈不正梨形，胃液盐酸含量0.4%～0.6%居家畜首位，对蛋白质消化力强",
+      "statement": "犬胃呈不正梨形，胃液中盐酸含量为0.4%～0.6%，在家畜中居首位；盐酸使蛋白质膨胀变性便于分解，故犬对蛋白质消化能力很强。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬食后5～7小时排空胃，肠管仅为体长3～4倍，是典型肉食特征",
+      "statement": "犬食后5～7小时可将胃中食物全部排空，比草食或杂食动物快许多；肠管只有体长的3～4倍（马、兔为12倍），肠壁厚、吸收力强，都是典型肉食特征。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬肝大（约体重3%）、胆汁助脂肪吸收，排粪中枢不发达不能行进中排粪",
+      "statement": "犬肝脏较大，约占体重的3%，分泌胆汁利于脂肪吸收；排粪中枢不发达，不能像其他家畜那样在行进状态下排粪。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬的品种体格差异可达20倍以上：最高超1米、最矮20厘米、最重130千克、最轻1.5千克",
+      "statement": "犬品种很多，体格大小差异可达20倍以上：最高的超过1米，最矮的只有20厘米；最重的130千克，最轻的1.5千克，但解剖构造基本相同。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬有225～230块骨头，构成坚固支撑、保护内脏并支撑疾速奔驰",
+      "statement": "犬有225～230块骨头，既构成坚固的支撑系统、保护内脏器官，也是能够疾速奔驰的基础。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬肌肉发达、耐久，中型犬100米不超10秒，最高可跳过5米障碍",
+      "statement": "犬肌肉发达强壮，奔跑快速且耐久，能连续奔跑几十公里；后肢骨骼强壮，是跳高能手，最高可跳过5米的障碍物。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬嗅觉居各畜之首，对酸性物质灵敏度高出人类几万倍，可感知到分子水平",
+      "statement": "犬嗅觉灵敏度位居各畜之首，对酸性物质的嗅觉灵敏度高出人类几万倍；对气味的感知能力可达分子水平，并能在混合气味中分辨特定味道。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "经训练的犬可在丙酸、醋酸、羊脂酮酸混合气味中辨出戊酸，警犬能辨10万种以上气味",
+      "statement": "经过专门训练识别戊酸气味的犬，可以在十分相近的丙酸、醋酸、羊脂酮酸等混合气味中分辨出戊酸存在；警犬能辨别10万种以上不同的气味。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬主要靠嗅觉识别主人、性别、发情状态、母仔与路途方位",
+      "statement": "犬在生活主要依嗅觉识别主人、鉴定同类性别与发情状态、母仔识别，并辨别路途、方位、猎物与食物；认识和辨别事物首先表现为嗅的行为。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬嗅觉被用于刑侦追踪：现场气味停留一昼夜仍可鉴别，穿过的雨靴经3个月仍能嗅出",
+      "statement": "警犬能根据犯罪分子遗留的物品、血迹、足迹鉴别和追踪；气味在现场停留一昼夜仍可鉴别，人穿过的雨靴经3个月之久警犬也能嗅出穿靴的人。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "缉毒犬、搜爆犬、救助犬分别从邮包行李、建筑车船飞机、雪地沙漠废墟中搜寻目标",
+      "statement": "缉毒犬能从众多邮包行囊中嗅出藏有大麻、可卡因等毒品的包裹；搜爆犬能准确搜出藏在建筑物、车船、飞机中的爆炸物；救助犬能寻找深埋于雪地、沙漠及倒塌建筑物中的遇难者。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬听觉为人的16倍，睡觉时仍能分辨半径1公里内的声音，立耳犬比垂耳犬更灵敏",
+      "statement": "犬不仅能分辨极细小的高频率声音，对声源的判别能力也强，听觉是人的16倍；晚上睡觉时仍保持高度警觉，对立耳犬比垂耳犬更灵敏。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬眼调节能力只有人的1/5～1/3：固定目标50米内看清，运动目标可感825米",
+      "statement": "犬眼的调节能力只及人的1/5～1/3：固定目标50米之内可以看清，超过这个距离就看不清；但对运动的目标可感觉到825米远的距离。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬视野开阔：单眼左右100～125度、上方50～70度、下方30～60度，头部转动灵活",
+      "statement": "犬单眼左右视野为100～125度，上方视野50～70度，下方视野30～60度；对前方物体看得最清楚，加上头部转动灵活，可以「眼观六路，耳听八方」。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬是色盲，导盲犬靠亮度区分红绿灯，但暗视力灵敏仍保持夜行性特点",
+      "statement": "犬是色盲，看世界如同黑白电视，只有黑白亮度不同；导盲犬区分红绿信号灯靠两灯的光亮度。犬对灰色浓淡辨别细微，能形成立体视觉，暗视力也较灵敏。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬味觉器官在舌上但很迟钝，品尝食物主要靠嗅觉与味觉双重作用",
+      "statement": "犬的味觉器官位于舌上，但很迟钝；吃食时很少咀嚼，几乎是在吞食，故不是通过细嚼慢咽品尝味道，而主要靠嗅觉和味觉的双重作用。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬智力强、有时间观念与惊人记忆力，俗谚「猫找八百里，狗找一千里」",
+      "statement": "犬能领会人的语言、表情和手势，经训练能计数识字；每到喂食时间会到喂食地点，对饲养过它的主人、住所和声音记忆很强。俗话「猫找八百里，狗找一千里」即指其归家本领。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬的性格由遗传与大脑兴奋、抑制过程决定，个体差异明显",
+      "statement": "每条犬有特定性格：或活泼好动，或文静安详，或粗狂强暴，或胆小懦弱。性格形成与遗传及生活环境有关，主要受大脑神经兴奋与抑制两种基本活动过程决定。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬表情丰富，喜怒哀乐可由全身变化表现：摆尾跳跃为高兴，露齿竖毛为愤怒，夹尾颤抖为恐惧",
+      "statement": "犬高兴时使劲摆尾、向高处跳跃，或鼻上堆皱、上唇拉开露齿、目光温柔；愤怒时鼻上提、露齿、两眼圆睁、两耳斜后伸直、被毛竖立；恐惧时尾巴下垂或夹在两腿间、被毛直立、浑身颤抖；哀伤时头垂下、两眼无光。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬胆量较小，睡觉也保持警惕，故被用来看守门户、防火防盗；对雷声枪炮等巨响易恐惧",
+      "statement": "犬胆量其实较小，即使睡觉也保持对外界警惕，故被人类用作门户看守、防火防盗。对闪电雷鸣、飞机轰鸣、枪炮鞭炮等巨响，有的犬会夹尾逃避、拒食，甚至产后不久的母犬发生吃仔悲剧。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬对领地内出现的光火会围吠（故有报火警故事），对同类尸体气味与难解现象也会恐惧",
+      "statement": "当光、火在犬的领地内出现，它会小心地围着吠叫，于是出现许多犬报火警的故事；犬死后发出的气味对活犬有强烈恐怖刺激，最亲密的同伴和后代也不敢靠近；对没有生命气息却有生命形态的标本、会动的玩具、风吹的门、张开的伞也难以理解而毛骨悚然。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬寿命一般12～15岁，有记载最高34岁；7岁后衰老，10岁左右生殖能力停止",
+      "statement": "犬的寿命一般在12～15岁之间，有记载的最高长寿记录是34岁；2～5岁是壮年，7岁以后出现衰老现象，10岁左右生殖能力停止。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬有等级习性：群体中由头犬（通常是老犬）支配全群，以特定动作表明等级优势",
+      "statement": "犬生性好群居，群体中有明显等级制度，由一只头犬（通常是老犬）支配、管辖全群；头犬以允许或不允许检查生殖器官、不准在其排过尿处排尿等动作表明等级优势。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬与人交往的天性取决于3～7周龄的「印记」期是否接触人",
+      "statement": "与人交往是犬天生的习性，程度常取决于3～7周龄时与人接触「印记」的程度；若出生头两个月只与犬在一起而不与人在一起，一生就会远离人并难以训练。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬有领地感，以自身气味标出地界并经常更新，气味还可传递性别、年龄与健康状况",
+      "statement": "犬以自己为中心、用自己的气味标出地界并经常更新；公犬沿固定路线在树干、路灯下撒少量尿，一只犬的气味可使另一只犬知道其领地、性别、年龄和健康等状况。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬有嗅闻外生殖器的习性与爬跨习性：前者辨别性别年龄态度，后者示高兴顽皮或确立优势",
+      "statement": "犬通过互相嗅闻最能反映情感的外生殖器部位辨别性别、年龄、身体状况及态度；爬跨行为在幼犬是高兴顽皮的表现，成年公犬则或为交配、或为确立优势，母犬发情高潮时也会爬跨公犬。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "人类崇狗起源古老：采集文明时动物非食即敌，狩猎文明驯服狗为第一个动物助手",
+      "statement": "人类最初是采集文明，那时动物不是食物就是敌人；进入狩猎文明，人类驯服了第一个动物助手狗。功劳很大的牛马则是农耕文明和畜牧文明的产物。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "狗在每个时代都未「下岗」并走向专业化：牧羊犬、护家犬、宠物犬、警犬、缉毒犬、通讯犬",
+      "statement": "人类脱离狩猎时代后，经畜牧、农耕以至工业化时代，狗仍没有下岗，在每个时期都能发挥特殊作用，并走向专业化：牧羊犬、护家犬、宠物犬、警犬、缉毒犬、通讯犬等，有的还成为残疾人的助手。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "狗对人最忠诚、被视为吉利动物：「猫来穷，狗来富」，狗守夜鸡司晨构成完满家庭",
+      "statement": "俗话「儿不嫌母丑，狗不嫌家贫」，人们普遍把狗看成吉利的动物，若家中突然来一只狗，主人会高兴收养，认为是财富来临的前兆；「猫来穷，狗来富」，狗守夜、鸡司晨，才能构成「鸡犬之声相闻」的家庭氛围。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "狗嗅觉灵、警觉高，被认为可预示灾祸：地震前狂躁狂吠、狗上房预示盗贼、狗夜哭俗信有死伤",
+      "statement": "王维诗「夜静群动息，时闻隔林犬」即写其警觉；俗信以为地震发生前狗会狂躁狂吠，旧时狗上房预示将有土匪盗贼来临，狗夜哭则有死伤之灾。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "狗文化崇拜多流行于少数民族，典型为瑶族盘瓠崇拜，犬戎国即《山海经》「犬封国」",
+      "statement": "狗文化崇拜较多流行于少数民族，因他们最后告别狩猎文明进入农耕文明。典型的是瑶族盘瓠崇拜：古有「犬戎国」或「狗国」，《山海经》「犬封国」郭璞注「昔盘瓠杀戎王，高辛以美女妻之……是为狗封之国」。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "盘瓠神话：高辛帝悬赏吴将军头，五色犬盘瓠衔头而来，帝以女妻之，生六男六女为瑶族祖先",
+      "statement": "《晋纪》《搜神记》《后汉书》载：高辛帝有犬戎之患，诏令得敌首吴将军头者以美女妻之；座下五色犬盘瓠衔人头而至，帝不能毁约，以女嫁之，盘瓠负女走南山，三年生六男六女，是为瑶族祖先，故瑶人常穿五彩斑斓衣服不忘盘王子孙。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "盘瓠是南方少数民族共同崇拜的先祖：瑶族《盘王大歌》、苗族《古老话》皆及之",
+      "statement": "盘瓠是民族潜意识产物，是南方少数民族共同崇拜的先祖：瑶族《盘王大歌》、苗族《古老话》等都涉及盘瓠；苗、瑶、佘、仡佬等族都信奉犬型的盘瓠。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "汉族尚狗风俗自相矛盾：既视狗有灵性带来财运、狗血驱邪、以「狗」命名祈健康",
+      "statement": "汉族地区尚狗风俗有矛盾一面：喜欢养狗，视狗为富有灵性的动物，能带来财运；以为狗血能驱邪避鬼、破法术；认为狗有几条命，故喜欢给小孩命名为「狗」或用谐音，望其像狗一样健康、有生命力。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "另一面又喜吃狗肉：认为冬天吃可滋补，治高血压、小儿夜尿症与虚弱，春夏不能吃",
+      "statement": "汉族另一面又喜欢吃狗肉，认为冬天吃狗肉可滋补强身，对成年人高血压、小儿夜尿症、虚弱病体有疗效；但春夏天不能吃，吃了会生毒疮。旧俗乡间若打死人家的狗，往往与邻居分食。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "吃狗肉史料：周礼「六膳」有狗肉、礼记称「羹献」作祭品、秦汉屠狗为专业（聂政、高渐离、樊哙）",
+      "statement": "《周礼·天官·食医》「六膳」中有狗肉，《礼记·曲礼》把狗肉称「羹献」用作祭祀宗庙供品；秦汉以前屠狗是专门职业、狗肉铺很多，刺客聂政、高渐离与汉高祖大将樊哙都是狗屠出身。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "马王堆竹简载64种食品中狗肉有三种，魏晋后食狗之风衰落，今南盛于北",
+      "statement": "长沙马王堆汉墓竹简记载的64种食品中狗肉有三种：「狗苦羹」「狗巾羹」「犬肩」。魏晋以后经五胡十六国之乱，中原汉族大量南迁，食狗肉之风开始衰落；《齐民要术》所记北方食品中狗肉制品只有一种。今除延边朝鲜族嗜食狗肉外，全国吃狗肉之风南盛于北。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「天狗吃月」传说：月蚀时老人说是天狗吃月，众人敲金属响器催其吐月",
+      "statement": "旧时还有「天狗吃月」的传说：月蚀时老人说是天狗把月亮吃了，大家就拼命敲各种金属响器，催促「天狗」把月亮「吐」出来。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬的表音表义性强，音义特征多与犬的习性相关（蜷伏、交媾力、口咬猎物、嗅觉）",
+      "statement": "由于犬与人们关系密切，具有较强的表音表义性，其音义特征主要跟犬的习性相关：犬的蜷伏性、发情时期较强的交媾能力、口咬猎物、嗅觉能力强等，构成其基本概念。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "与犬关系最紧密的是「丩」：狗从句即丩声，象两细长之物相勾连",
+      "statement": "与犬关系最紧密的是「丩」：犬的俗名「狗」，所从「句」即「丩」声，「丩」象两细长之物相勾连的样子。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "《汉字通用声素研究》列与「丩」音义相通字四十余，本卷只取冓、曲、巨、娄、屚、䀠、口、㯥八字",
+      "statement": "据《汉字通用声素研究》，与「丩」音义相通的字有讨、攸、翏、周、九、皋、簋、求、咎、秋、休、幼、尗、高、枭、敫、乔、嚣、兜、娄、屚、冓、口、具、后、侯、后、区、谷、壳、曲、凶、古、䀠、巨、虎、于、羁等；其中有些本是音源字，故本卷只取因义而借音的冓、曲、巨、娄、屚、䀠、口、㯥八字。",
+      "boundary": "源自《系统汉语》卷十六「犬」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「犬」的本义是狗：象狗形；转义指奴才、卑贱（多作自谦，如犬子、犬效）",
+      "statement": "「犬」象狗形，指狗；quǎn，《说文》「狗之有悬蹏者也」。因狗待人忠诚、为人狩猎，故比喻指服侍主子的奴才，或引申指卑贱，一般作自谦，如「犬戎、犬子、犬效」。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「犬」与「火、犮、大、九」形近易讹混，其字族须按字音字义辨析；音源为狗的叫声",
+      "statement": "由于「犬」的字形跟「火、犮、大、九」等相近，或存在讹混现象，其字族需根据字音和字义加以辨析。「犬」是音源字，读音源自狗的叫声。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬部字族①指犬咬：猚为翠鸟（鱼狗）或长尾猴，𩵥即狗鱼",
+      "statement": "指犬咬一类的字：猚（yá）为鸟名，大抵即翠鸟，俗称「鱼狗、鱼虎」，又读wèi指一种长尾猴；𤝮（lù）为箭射；㧋（xuǎn）为拨弄；𩵥（fèi）为鱼名，大抵即狗鱼。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬部字族②指犬吠：吠、犾（两犬相齧）、𤜹（呼犬子）",
+      "statement": "指犬吠一类：吠（fèi）为犬鸣；犾（㹜，yín）为两犬相齧、「犬相吠也」；𤜹（yú）为呼犬子之声。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "犬部字族③是形近「大、巛、才、犮、于、夭」之讹：汱、䭾、哭、畎、𣅤诸字",
+      "statement": "形近致讹一类：汱（汰，quǎn/fú）为水落貌；䭾为「馱」的讹字；哭（kū）《说文》从吅、狱省声，或以为甲骨文从吅从人披头散发哭闹，从犬系字形讹变；畎（quǎn）为田间水沟；𣅤为「旴」的讹字。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「狊」的本义是从目从犬，象犬一样看，表示警惕、注视",
+      "statement": "「狊」从目从犬，象意如犬一样看，表示警惕、注视。jú，《说文》「犬视皃。从犬目」。不过犬性警觉、目露凶光，也符合字理。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「狊」可能是讹字：马叙伦以为从「目」乃「贝」之误，当从大（或夭）䀠声，本瞿的异文，应归《䀠部》",
+      "statement": "马叙伦《说文解字六书疏证》据《尔雅·释鸟》「鵙，伯劳也」与「鶪」同，认为从「目」乃「贝」之误；从读音及字族取义看，似应为「𥈀」或「𥈏」之误，本从大（或夭）䀠声，即「瞿」的异文，最终讹作「狊」。《尔雅·释兽》「鸟曰狊」郭璞注「张两翅」，说明本义指鸟的行为。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「具」与「狊、臭」形近相混，鶪、鼳、湨等很可能本从「具」",
+      "statement": "因「具」与「狊、臭」等字形十分相近，存在相混：鶪指伯劳（有将猎物挂于刺树的习惯），鼳指鼹鼠（有用木头筑坝捕鱼的习惯），湨指河中有大堤，都符合「具」本两手捧鼎、有置办摆设之意的特点，故所从「狊」很可能是「具」之讹。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "狊部字族①指犬视、惊视貌：瞁、犑、𠋬、𤋀、𦝳",
+      "statement": "指犬视、表示惊视貌：瞁（xù）为惊视貌；犑（jú）为牛名；𠋬（jú）为狡黠；𤋀（xù）为惊貌；𦝳为「瞁」的讹字。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "狊部字族②指犬咬、凶猛：鼳（鼹鼠）、湨（河中大堤）、郹、鶪（伯劳，屠夫鸟）",
+      "statement": "指犬咬、表示凶猛：鼳（jú）为鼹鼠，或读xí指松鼠；湨（jú）为水名，河中有大堤；郹（jú）为蔡邑；鶪（jú）即伯劳，嘴尖尾长、生性凶猛，常将猎物挂在带刺的树上撕食，故称屠夫鸟。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "狊部字族③是形近「具、鬲、臭」之讹：闃（寂静）、𧅖（绶草）、䠐诸字",
+      "statement": "形近致讹一类：闃（qù）为寂静、空虚；𩳵（jú）为静；𧅖（yì）为绶草，《说文》讹从鶪；䠐（qù）为踞貌，或为「䠗」之讹。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「狩（兽）」的本义是狩猎：从干（或单）从犬，干指树杈即最原始的狩猎工具，犬指猎犬",
+      "statement": "「狩」本从干（或单）从犬：「干」指树杈，是最原始的狩猎工具；从「犬」指猎犬，象意狩猎。后「单」讹变作「嘼」，小篆分化为「狩、兽」。《尔雅·释天》「火田为狩」「冬猎为狩」。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「兽」的转义指猎获对象，并以「四足而毛」区别于两足鸟类；又引申指巡狩、守备",
+      "statement": "由狩猎引申指猎获的对象，《尔雅·释鸟》「四足而毛谓之兽」，以区别于两足的鸟类，今简化作「兽」。古人打猎多在冬季闲暇时，故或引申指帝王巡狩（《孟子》「巡狩者，巡所守也」）；狩猎多为围猎，故或引申指守备。",
+      "boundary": "源自《系统汉语》第88部「犬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「丩」的本义是两细长之物相勾连，指缠绕、糾合",
+      "statement": "「丩」象两细长之物相勾连的样子，指缠绕、糾合。jiū，《说文》「相糾繚也。一曰：瓜瓠結丩起。象形」。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「丩」是借音字：因有相咬合之意而义音同「口」（敂/叩、扣/呴互引）",
+      "statement": "「丩」是借音字，因有相咬合之意而义音同「口」：《周礼·司关》「敂关」，《国语·周语中》引作「叩」；《淮南子·精神训》「膝上叩头」高诱注「叩，或作跔」；《国语·吴语》「三军皆哗扣」，《经音义》引作「呴」。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "丩部字族①指相丩，表示糾合、勾连、缠束：糾、𦱠、㽱、收、㧃",
+      "statement": "指相丩、表示糾合勾连缠束：糾（jiū）为绳多股绞合；𦱠（jiū）为草交相缠绕；㽱（jiǎo）为腹中绞痛；收（shōu）为逮捕、聚取；㧃（jiū）为糾缠纠结。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "丩部字族②指丩状，表示弯曲而有张力：朻（木下曲）、觓（角曲）、赳、虯、叫、嘂",
+      "statement": "指丩状、表示弯曲而有张力貌：朻（jiū）为高木、木下曲（《尔雅》「木下句曰朻，上句曰乔」）；觓（qiú）为角曲貌；赳（jiū）为轻劲有才力；虯（qiú）为有角的幼龙；叫（jiào）为呼喊；嘂（jiào）为高声呼喊。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「州」的本义是水中的陆地：从巜（沝）丩声，象河流被陆地中分而后又复糾合",
+      "statement": "「州」从巜（沝）丩声：「巜」指河流，从「丩」象意河流被陆地中分而后又复糾合，指水中的陆地。《字彙》「水中高土为州」。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「州」的转义：九州、居地、浮动、肛门、不同、官舍聚集",
+      "statement": "古代依据河流相互勾连形成的水系，将中国划分为九州，后用以指行政区划（《尔雅·释地》列冀、豫、雍、荆、扬、兖、徐、幽、营九州）；或引申指居地；由水中陆地之状引申指浮动，或引申指肛门（《尔雅》「白州驠」郭璞注「州，窍也」）；由州之间的分界引申指不同；由行政区划引申指官舍、聚集。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「州」的辩证：《说文》据小篆当作两「川」重叠，未指出其从「丩」，析形不确",
+      "statement": "《说文》依据小篆「水中可居曰州，周遶其旁，从重川」，将其当作两「川」重叠，未指出其从「丩」，故析形不确。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "州部字族①指水州，表示周绕、巡行：洲、酬、詶（祝/咒）、銂（刀币）",
+      "statement": "指水州、表示周绕巡行：洲（zhōu）为水中可居之地，本作「州」，后人加水以别州县；酬（chóu）为主人进客、劝酒敬酒；詶（chóu）为酬答，又读zhòu为诅咒；銂（zhōu）为金刀，指刀币。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "州部字族②象声：𥒁（石声）、喌（唤鸡声）",
+      "statement": "象声一类：𥒁（kēng）为石声；喌（zhōu）为呼鸡重言之拟声字，读若祝。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「句」的本义是口的糾合，表示大叫、相咬、相骂；或象话语的糾合表示语句；或象物糾合成口状表示勾曲",
+      "statement": "「句」从口从丩，都可表声：「丩」声象意口的糾合，表示大叫、相咬、相骂等，此义分化如「訽」；或象意话语的糾合，表示语句；「口」声象意物的糾合成口状，表示勾曲。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「句」的转义：挂住、连接、拘执，及刻镂、停留、不正当之事、钩子、谦恭",
+      "statement": "由口的糾合引申指挂住、连接、拘执（如「勾结、勾连」）；或引申指刻镂（如「勾画、勾销」）、停留（「勾留」）、不正当的事情；由勾曲之状引申指钩子、谦恭。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「句」的辩证与音源：《说文》析「曲也，从口丩声」；丩声读如糾（jù）、口声读如扣（gōu），犬称「狗」正见犬与口、丩音义可通",
+      "statement": "《说文》「曲也。从口，丩声」，依据「曲」义应为「口」声，其字族多混。按理「丩」声当读如「糾」作jù，「口」声当读如「扣」作gōu，但因音近而字族多混；而犬本或称「狗」，可见「犬」与「口」或「丩」均音义可通。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "句部字族①指佝偻、弯曲：苟、佝、耈、笱（曲竹捕鱼器）、枸、鉤、拘、駒、痀、劬",
+      "statement": "指佝偻、弯曲：苟（gǒu）为草名，即钩吻（断肠草），又表苟且；佝（kòu）为弯身劳作、佝偻；耈（gǒu）为老人背佝偻、面如冻梨有垢；笱（gǒu）为曲竹编的捕鱼器，大口小颈有倒须，鱼入而不能出；枸（jǔ）为蒌叶，又指枳枸（拐枣）；鉤为金属曲钩；拘（jū）为用手使勾留、拘捕；駒（jū）为少壮的马；痀（jū）为驼背；劬（qú）为劳累。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "句部字族②指大张口，表示叫、咬、骂、呵：狗、豿、蚼、雊、鴝（八哥）、煦、訽、豞",
+      "statement": "指大张口、表示叫咬骂呵：狗（gǒu）《说文》引孔子「狗，叩也。叩气吠以守」；豿为熊虎幼子名；蚼（gǒu）为北方食人犬，或指大蚂蚁；雊（gòu）为公野鸡叫；鴝（qú）即鸲鹆、八哥，能学人语；煦（xù）为地气上升、温润；訽（gòu）为骂詈羞辱；豞（hòu）为猪叫。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "句部字族③是形近「旬」之讹：𣧬即「殉」字之讹",
+      "statement": "形近致讹一类：𣧬（xiǔ/xùn）旧注或作「㱙」音朽，实即「殉」字之讹。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「局」的本义是局促、狭小的居所：本从厂（崖）句声，象崖居",
+      "statement": "据《古籀汇编》所录古玺文，「局」本从厂（崖）句声：「句」指佝偻，「厂」指山石之厓岩、人可居，象意局促、狭小的居所。《管子·白心》「大者宽，小者局」。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「局」的转义：单位、部分（局部、书局），棋盘、匣子（棋局、布局），拘束卷曲，距离近，圈套形势",
+      "statement": "由狭小的居所引申指单位、部分（如「局部、书局」）；由空间狭窄引申指棋盘、匣子（「棋局、布局」），或引申指拘束、卷曲，或引申指距离近；由棋局比喻指圈套、形势（「骗局、局势」）。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-079",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「局」的辩证：战国古文讹从尸句声，小篆讹从尺从口，《说文》「从口在尺下」析形不确",
+      "statement": "战国古文讹变作从尸句声（「尸」指呆着不动，意义变化不大），小篆讹从尺从口，故《说文》「促也。从口在尺下，复局之……象形」，析形不确。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-080",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "局部字族①指局促、短小、近距离：侷、駶、焗、梮（抬盒）、鋦（鋦子）",
+      "statement": "指局促、短小、近距离：侷（jú）为侷促短小；駶为马立不定；䎤为耕麦地；焗为将锅盖严焖煮；梮（jū）为抬举食物的用具（俗称抬盒），或指棋盘，或指一种下面有锥的屐；鋦（jū）为用铜铁制成两头有钩的「鋦子」，用以加固构件或接补裂缝器物。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-081",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "局部字族②指弯曲、卷曲：挶（曲肘夹住）、跼（蜷跼不伸）、𡨅（不敢伸）、𩭊（鬈发貌）",
+      "statement": "指弯曲、卷曲：挶（jú）为曲肘夹住，或指抬土器具；跼（jú）为蜷跼、曲、促，筋脉拘急关节不能屈伸；𡨅（jú）为不敢伸；𩭊（jú）为鬈发貌。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-082",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "局部字族③是形近「匊、茍、氐」之讹：𩷐（江豚）、𦯃（同「亟」）、𡌟（水中小块高地）",
+      "statement": "形近致讹一类：𩷐（jú）为「䱡」之讹，即江豚；𦯃（jì）即「茍」，同「亟」，表急、自急敕；𡌟（chí）为水中小块高地，同「坻」。",
+      "boundary": "源自《系统汉语》第89部「丩部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-083",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「口」的本义是动物张开的嘴，指人和动物吃东西、发声乃至呼吸的器官",
+      "statement": "「口」象动物张开的嘴形，指人和动物吃东西和发声乃至呼吸的器官。kǒu，《说文》「人所以言、食也。象形」。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-084",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「口」的转义：言语口才、吃食口味、器皿之口、出入处、锋刃、孔穴裂缝、量词「个」",
+      "statement": "由口的功能引申指言语、口才（「口才、口实、口语」），或吃食、口味（「可口、口食」）；由口所处比喻器皿通向外面的地方（「碗口、壶口」），或空间与外界的出入处（「门口、港口、关口」），或武器工具的锋刃（「刀口、刃口」）；由口之状引申指孔穴、裂缝（《释名》「空也」）；由人或容器有口引申作量词，相当于「个」（「人口、户口」）。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-085",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「口」是音源字，源自哈气或吆喝时发出的声音；字族多指口的咬合义（𧥣、叩、釦、扣、筘）",
+      "statement": "「口」是音源字，读音源自哈气或吆喝时所发出的声音。字族多指口的咬合义：𧥣（叩，kòu）为叩问；叩为将手指弯成钩状敲击；釦为用金涂饰器皿的边（边即口），俗谓衣纽；扣为用圈环套住或拢住其嘴以牵引；筘为织布机上状如梳子的机件。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-086",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「告」的本义是用草（蓍草）占卜、求告神灵，是「祰」的初文",
+      "statement": "一期甲骨文「告」本从屮从口，口亦声：「屮」象草形指草，从「口」指能言；草自然不能言，而是象意用草（一般用蓍草）占卜吉凶、求告神灵，是「祰（gào）」的初文，《玉篇》「祷也、告祭也」。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-087",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "后世以两块贝壳或竹根、玉石、牛角为「珓（筊）」占卜，先声明所求再抛掷，以圣珓为吉；此法实为慎思谋划",
+      "statement": "后来一般用两块相合的贝壳或竹根、玉石、牛角占卜，称作「珓」或「筊」；占时先声明求告之事，再将合拢的珓抛地：阴面都朝天为阳珓、都俯地为阴珓、一俯一仰为圣珓，前两者不吉，占者不断检讨行为、作出承诺再反复占卜，直到圣珓出现。此方法看似迷信，其实是慎思、谋划的过程。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-088",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「告」的转义：表明、请求、揭发、宣布；审讯定罪；告朔",
+      "statement": "由占卜吉凶时的诉求引申指表明、请求、揭发、宣布（「告急、告老、告发、告示」，《玉篇》「语也、请告也」）；或引申指审讯定罪（《集韵》「读书用法曰告」）；或专指告朔（周制秋冬之交天子把来年历书颁给诸侯）。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-089",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「告」的辩证：《说文》据甲骨文或写如从牛从口而释「牛触人，角著横木」，释义不确",
+      "statement": "由于甲骨文或写如从牛从口，小篆承之，故《说文》「牛触人，角著横木，所以告人也。从口，从牛」，释义不确。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-090",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「告」的音源是本「口」声，义音同「爻」：古告、爻可通用",
+      "statement": "「告」本「口」声，义音同「爻」，古告、爻可通用：《淮南子·泰族训》「有最相觉」，《群书治要》引作「告」；《诗·大雅·抑》「有觉德行」，《礼记·缁衣》引作「梏」；《国语·鲁语上》「帝喾」，《管子·侈靡》作「帝俈」。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-091",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "告部字族①指占珓、表示求告：誥、祰、嚳、硞、筶、鯌",
+      "statement": "指占珓、表示求告：誥（gào）为告诉，一般指帝王对臣子的命令，西周金文从言𠬞声；祰（gào）为禀告祖先的祭礼；嚳（kù）为告急，又为帝高辛之号；硞（què）为击石声；筶即「告」，或作「珓」；鯌（kào）为凤鲚，俗称靠子鱼，古人以为其到河口求子，故从「告」。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-092",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "告部字族②指珓象、表示显明告知：晧、酷、焅、浩、皓、鵠（天鹅）、𥞴",
+      "statement": "指珓象、表示显明告知：晧（hào）为日出貌；酷（kù）为酒味浓厚，引申虐、甚、惨；焅（kù）为旱气、酷热；浩为水大盛；皓为光白；鵠（hú）为鸿鹄、天鹅，或指箭靶的中心；𥞴（kù）为禾大熟。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-093",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "告部字族③指珓象、表示相背相合：靠、梏（手械）、牿（防牛触人的横木）、窖、造",
+      "statement": "指珓象、表示相背相合：靠（kào）《说文》「相违也」，段注「今俗谓相依曰靠，古人谓相背曰靠」；梏（gù）为束缚手的刑具，其状正象告之两相合；牿（gù）为绑在牛角上使其不能触人的横木；窖（jiào）为地藏；造（zào）为成就、功绩，古文从舟即刳木为舟。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-094",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "告部字族④指珓的变化、表示翻动：捁（搅）、簉（附属凑集）、慥（仓猝）、䗢（跳蚤）",
+      "statement": "指珓的变化、表示翻动：捁（jiǎo）即「搅」，乱也；簉（zào/chòu）为附属、凑集、并排、充满；慥（zào）为言行急、仓猝，又为笃实；䗢（zǎo）为跳蚤。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-095",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "告部字族⑤是形近「吾」之讹：𡨟即「寤」之讹",
+      "statement": "形近致讹一类：𡨟（wù）《龙龛》「俗，寤，正」，即「寤」之讹。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-096",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「司」的本义是掌勺喂饲的人，是「飼」的初文；也可象意用语言支使，是「詞」的初文",
+      "statement": "「司」从勺从口，皆可表声：「勺」为助食器，「口」是吃食和语言的器官；「勺」声象意掌勺喂饲的人，可谓「飼（sì）」的初文；也可象意用语言支使，是「詞（cí）」的初文。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-097",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「司」的转义：主管主持、官署、窥察监视、诉讼、后嗣继承",
+      "statement": "由掌勺引申指主管、主持（《说文》「臣司事于外者」，「司令、司机」）；或引申指负责的部门、官署（《正字通》「凡官衙总名曰官司」）；由主管官署引申指窥察、监视（分化如「伺」），由官署所负责的事务引申指诉讼（分化如「𤔲」）；由喂饲引申指后嗣、继承（分化如「嗣」）。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-098",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「司」的音源是本「勺」声，古司、以可通；本可归久部或勺部，为便于与「后」比较而置于口部",
+      "statement": "「司」本「勺」声，战国古文或从与从口，「与」为「赐予也，一勺为与」，说明「司」即「飼」，用勺子喂食之意；本可归属《久部》或《勺部》，为了便于跟「后」比较，故置于《口部》。勺本称「柶」或「匙」，故音义同，古司、以、嗣可通。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-099",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "司部字族①指饲喂、表示供奉继承：飼、𪗪（反刍）、笥（方形竹器）、祠、嗣",
+      "statement": "指饲喂、表示供奉继承：飼（sì）为喂养；𪗪（chī）为牛羊反刍；笥（sì）为盛饭食和衣服的方形竹器（圆曰箪，方曰笥）；祠（cí）为春祭、供奉祖先神灵的房屋，何休注「祠，犹食也，犹继嗣也」；嗣（sì）为继承君位、继承前辈遗产俸禄的人。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-100",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "司部字族②指语词、表示求告诉讼：詞（意内言外）、𤔲（辭，讼也）",
+      "statement": "指语词、表示求告诉讼：詞（cí）「意内而言外也」，意义寄托在语词之内而通过声音表达在外；𤔲（辭）为讼，甲骨文从𤔔（手治丝）从辛，义指快刀斩乱麻，或引申指断案的文辞。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-101",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "司部字族③指官署、表示察视伺机：伺、覗（窥视）、䏤（囟门）",
+      "statement": "指官署、表示察视伺机：伺（sì）为侦候、观察，读cì为伺候侍奉；覗（sì）为窥视；柌为镰刀把；䏤（sì）为囟门，人出生后慢慢才会完全合拢。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-102",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "司部字族④是音译字（鉰为元素「钪」的旧译），⑤是形近「同」之讹（䣳即「酮」之讹）",
+      "statement": "音译字：鉰（sī）为化学元素「钪」的旧译，元素符号Sc的音译。形近致讹：䣳（cí）为醋，是「酮」字之讹。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-103",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「后」本即「司」，声符不同取意有别：从勺口声，口指语言则象发号施令以饲人（君主），口指嘴则象口对口喂饲（配偶）",
+      "statement": "「后」本即「司」，声符不同而取意有别。「后」从勺口声，象意有二：口指语言，则象意靠发号施令以饲人，表示君主（《广韵》「君也」，或指诸侯百官）；口指嘴，则象意口对口喂饲，表示配偶（《释名》「天子之妃曰后」）。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-104",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「后」的转义：由王后引申指后来（今以「后」简化「後」），由口对口喂饲引申指呕吐",
+      "statement": "由王后引申指后来（《礼记》贾公彦疏「后，後也。言其後于天子」），今干脆将「後」简化为「后」，与「先、前」相对；由用口喂饲之状引申指呕吐，「㖃」为其初文。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-105",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「后」的辩证：《说文》「象人之形，施令以告四方」析形不确；或以「毓」为其甲骨文亦不妥",
+      "statement": "《说文》「继体君。象人之形。施令以告四方……从一口」，析形不确。或以「毓」为其甲骨文，「毓」本指生育、有王后之意，但甲骨文本有「后」，故不妥。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-106",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「后」的音源是本「口」声、义音同「丩」：后/句、苟/后、垢/訽、姤/狗互引",
+      "statement": "「后」本「口」声，义音同「丩」，古后、丩可通：《老子》「失道而后德」马王堆帛书乙本作「句」；《左传·襄公二十六年》「苟反」，《春秋事语》作「后」；《老子》「受国之垢」帛书甲乙本皆作「訽」；《易·姤》「姤其角」帛书本作「狗」。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-107",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "后部字族①指后的口对口、表示相遇偶合：逅、茩（草决明）、姤（配偶）、骺、缿（储钱罐）",
+      "statement": "指后的口对口、表示相遇偶合：逅（hòu）为邂逅；茩为薢茩即草决明，其叶昼开夜合，故有邂逅之意；姤（gòu）为配偶、遇；骺（hóu）为长骨两端膨大部分；缿（dóu/xiàng）为储钱罐，或古代接受告密文书的器具，腹大口窄，可入而不可出。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-108",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "后部字族②指后的吐出、表示呕吐骂詈污垢：㖃、嘔、詬、垢、垕（厚）、鮜",
+      "statement": "指后的吐出、表示呕吐骂詈污垢：㖃（hǒu）为厚怒声，或指吐、耻辱；嘔为呕吐；詬（gòu）为骂詈、耻辱；垢（gòu）为污垢；垕即古文「厚」；鮜（hòu）为鲯鱼，体表有黏液如垢。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-109",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "后部字族③是形近「若、兄」之讹：𡧻（若）、𪊪、𥙐（祝）",
+      "statement": "形近致讹一类：𡧻（ruò）旧藏作「若」；𪊪（ǒu）为兽名，《正字通》以为讹字；𥙐（zhù）为「祝」的讹字。",
+      "boundary": "源自《系统汉语》第90部「口部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-110",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「冓」的本义是两「丙」相接、相交迭体字：或指孔洞相连（沟），或指柄的交迭，或指卯榫结合（构）",
+      "statement": "「冓」从两「丙」相接，是相交迭体字。「丙」或指孔穴，或指柄，故象意有三：孔洞的相连（分化如「沟」）、柄的交迭（《说文》「交积柴也。象对交之形」）、柄与穴的结合即卯榫结构（分化如「构」）。",
+      "boundary": "源自《系统汉语》第91部「冓部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-111",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「冓」的转义：相遇（遘）、交合（媾）、物数（十秭曰冓）",
+      "statement": "由物的相接引申指相遇（分化如「遘」），或引申指交合（分化如「媾」）；由丙的交迭如算筹引申指物数（《广韵》「数名，十秭曰冓」）。",
+      "boundary": "源自《系统汉语》第91部「冓部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-112",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「冓」是借音字：因有交迭意而义音同「丩」（覯/鉤互引）",
+      "statement": "「冓」是借音字，因有交迭意而义音同「丩」：《诗·召南·草虫》「亦既覯之」，《马王堆汉墓帛书·五行》引作「鉤」。",
+      "boundary": "源自《系统汉语》第91部「冓部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-113",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "冓部字族①指交迭相合：媾、遘、覯、構（架屋）、購（悬赏征求）、斠（平斗斛之器）、講",
+      "statement": "指交迭相合：媾（gōu）为重迭互结的婚姻；遘（gòu）为遇见、遭遇；覯为遇见；構（gòu）为架构、架屋，或指方椽；購为悬赏征求、重金收买；斠（jiào）即「概」，量谷物时使与斗斛平齐的器具；講（jiǎng）为讲和、论习。",
+      "boundary": "源自《系统汉语》第91部「冓部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-114",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "冓部字族②指沟穴空洞：溝（水道）、篝（熏笼）、韝（射箭臂套）、耩（用耧播种）、褠（直袖单衣）",
+      "statement": "指沟穴空洞：溝（gōu）为人工开挖的水道（广四尺深四尺），《释名》「田闲之水曰沟。沟，构也，纵横相交构也」；篝为熏笼、盛物竹篓，或指篝火；韝/鞲为射箭用的臂套；耩（jiǎng）为用耧播种或施肥；褠为直袖的单衣。",
+      "boundary": "源自《系统汉语》第91部「冓部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-115",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "冓部字族③是形近「𠦒」之讹：𥻰即「弃粪」之讹",
+      "statement": "形近致讹一类：𥻰（fèn）《广雅》「尽也」，是「𥻔（弃粪）」的讹字。",
+      "boundary": "源自《系统汉语》第91部「冓部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-116",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「曲」的本义是曲尺、九十度直角尺，是「矩」的初文",
+      "statement": "「曲」的甲骨文象曲尺形，即九十度直角尺，是木工常用工具，上面的条文为刻度，一般用于在木头上预画直线和榫眼，「矩（jǔ）」的初文（《玉篇》「圆曰规，方曰矩」）。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-117",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「曲」的转义：弯曲、不直；蚕箔；不公正不合理；乐曲乐调",
+      "statement": "由曲尺之状引申指弯曲（《玉篇》「枉也、不直也」）；因蚕吐丝时需要角落的凭借，故或专指蚕箔（《说文》「蚕薄也」）；或比喻指不公正、不合理（《广韵》「委曲」）；或比喻指乐曲、乐调（读qǔ）。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-118",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「曲」的辩证：战国古文或讹作「匚」，小篆与受物之器「凵」混同，《说文》「象器曲受物之形」所释不确",
+      "statement": "由于战国古文或讹作「匚」，小篆作「[图]」，跟受物之器的「凵」混同，故《说文》「象器曲受物之形。或说曲，蚕薄也」，所释不确。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-119",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「曲」是借音字：因有弯曲意而义音同「丩」（朻/樛），或义音同「丘」（鬼臾区/鬼臾丘）",
+      "statement": "「曲」是借音字，因有弯曲意而义音同「丩」：《尔雅·释木》「下句曰朻」，《诗·周南·南有樛木》毛传「木下曲曰樛」；或义音同「丘」：《黄帝内经·素问》「鬼臾区」，《亢仓子·贤道》作「鬼臾丘」。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-120",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "曲部字族多指屈曲：㻃（委曲）、蛐（蚯蚓）、䒼（蚕箔）、麯（酒曲）、陋（狭隘）",
+      "statement": "曲部字族多指屈曲：㻃（qū）为委曲，或指曲尺形的玉；蛐（qū）为蚯蚓；䒼（qū）为养蚕用的箔；麯（qū）为酒曲即酒母，制作时须将菌药与米粉拌和搓丸发酵长霉，其状犹如结满茧的蚕箔；㔷/陋（lòu）为侧逃、隐匿、狭隘。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-121",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「區」的本义是众多物品曲身挤在一起：从品从曲，品表示众多",
+      "statement": "「區」从品从曲，曲亦声：「品」为口的三叠，「口」可指人或动物，也可指有口的器皿之类，「品」表示众多；从「曲」象意众多的物品曲身挤在一起。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-122",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「區」的转义：小的范围处所、区别划分、小容器（四豆为区）、弯曲、藏匿、昏昧",
+      "statement": "物多而至于身曲意味地方狭小，故引申指小的范围、处所（《韵会》「区者，小室之名」）；或引申指区别、划分，或小的容器（读ōu，四豆为区）；由委身之状引申指弯曲，或藏匿；狭小而物品众多导致光线昏暗，故引申指昏昧、糊涂。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-123",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「區」的辩证：与「曲」一样战国古文或讹作「匚」，《说文》「从品在匸中」析形不确",
+      "statement": "跟「曲」一样，由于战国古文或讹作「匚」，故《说文》「踦区，藏匿也。从品在匸中。品，众也」，析形不确。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-124",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "區部字族①指沤积：毆（捶击）、驅（鞭马前进）、鷗（水鸮）、漚（久渍）、饇（燕食）、軀（体）",
+      "statement": "指沤积：毆（ōu）为用捶杖击打物体（使瘀血之意）；驅（qū）为鞭马前进；鷗（ōu）为群聚的一种水鸟；漚（òu）为浸泡很久（沤麻）；饇（yù）为古代君主宴饮同姓的私宴，或指饱；軀（qū）为躯体。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-125",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "區部字族②指弯曲：彄（弓弩系弦处）、傴（驼背）、摳（提衣升堂、挖取）、貙（云豹）",
+      "statement": "指弯曲：彄（kōu）为弓弩两端系弦的地方，或指笔管；傴（yǔ）为驼背、弯腰；摳（kōu）为套裤上的带子，或指提起衣裳、挖取探取；貙（chū）为云豹，形似狸，善攀爬，常伏于树枝守候猎物。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-126",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "區部字族③指狭小：甌（小盆）、奩（梳妆匣）、樞（门轴）、鏂（门铺浮沤钉）、瞘（目深）",
+      "statement": "指狭小：甌（ōu）为小盆、小碗；奩（lián）为古代盛香炉的笼子或盛梳妆用品的匣子；樞（shū）为门轴、承受转动的窝；鏂（ōu）为门铺（浮沤钉）；瞘（kōu）为目深貌。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-127",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「叵」的本义是歪嘴，或指口张如曲尺一般（口张得很大）：甲骨文从口曲声",
+      "statement": "「叵」的甲骨文本从口曲声，象意歪嘴；或指口张如曲尺一般，表示口张开得很大。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-128",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「叵」的转义是不可、不可耐；辩证：《说文》「从反可」析形不确，疑为「匸」的俗体",
+      "statement": "由歪嘴引申指不正、不可之义（《玉篇》「不可也」，《正字通》「叵耐，不可耐也」）。由于「叵、可」字形相似，故《说文》「不可也。从反可」，但「可」本从「丂」声，字形与「叵」并不相同，《说文解字诂林》引《钮新附考》以为「叵，疑匸之俗体」，故《说文》析形不确。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-129",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「叵」的音源是本「曲」声，因口张开之状如「皮」而义音同「皮」（坡/岥/𡶅）",
+      "statement": "「叵」本「曲」声，因口张开之状如「皮」，故义音同「皮」：《集韵》「坡，《说文》『阪也』，或作岥、𡶅」。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-130",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "叵部字族①指口张得很大：鉕（敞口浅杯）、笸（竹柳编盛物器）、尀",
+      "statement": "指口张得很大：鉕（pǒ）为鉕锣，铜器，或指酒卮、敞口浅杯，又为化学元素「钷」的音译字；笸（pǒ）为用竹篾或柳条编成的盛物器；尀（pǒ）与「叵」同。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-131",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "叵部字族②指不正、偏颇：坡、陂（不平）、頗（头偏）、駊（马行貌）",
+      "statement": "指不正、偏颇：坡（pō）为阪（山坡）；陂（pō）为陂陀不平，俗「陂」字；頗（pō）为头偏；駊（pǒ）为马行貌，或指高大貌（《甘泉赋》「崇丘陵之駊騀」与岥峨义通）。",
+      "boundary": "源自《系统汉语》第92部「曲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-132",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「寇」的本义是攻破墙垣、入室抢劫：从攴从完，攴指击打（或作戈，表示用武器攻打）",
+      "statement": "「寇」从攴从完：「攴」指击打，战国古文或作「戈」，表示用武器攻打；从「完」即攻破墙垣、入室抢劫之意。《玉篇》「贼寇也」，《广韵》「钞也」。",
+      "boundary": "源自《系统汉语》第93部「寇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-133",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「寇」的转义：残暴、仇敌，及物盛多（疑非）",
+      "statement": "由强盗行径引申指残暴（《说文》「暴也」），或引申指仇敌；由被劫掠引申指物盛多（《方言》「齐宋之间凡物盛多谓之寇」），但此义疑非，《正字通》以为系借「多凫」释物盛之义，由「䳹」义引申而来。",
+      "boundary": "源自《系统汉语》第93部「寇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-134",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「寇」是借音字、义音同「區」：滱水即沤夷水；字族多指寇击（破裂、穿过、抠出）",
+      "statement": "「寇」是借音字，义音同「區」：《说文》「滱水即沤夷水」。字族多指寇击、表示破裂穿过抠出：蔻（kòu）为豆蔻，因成熟时外壳开裂或因其药效得名；滱为水名（唐河）；簆即「筘」，织布机上把纬线推到织口的机件；䳹为寇雉即鵽鸠。",
+      "boundary": "源自《系统汉语》第93部「寇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-135",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「䀠」的本义是眼睛睁得很大（或深目、怒目、斜视）：从目二叠，二叠表示极致",
+      "statement": "「䀠」从目的二叠：「目」指眼睛，二叠表示极致，象意眼睛睁得很大，或深目、怒目、斜视等种种不同寻常的眼神。jú，《说文》「左右视也。从二目」，读若拘。或作「目」的三叠「瞐」，意思相同。",
+      "boundary": "源自《系统汉语》第94部「䀠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-136",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「䀠」的辩证：「臦」从二臣相违，表意应与「䀠」相同，《说文》所释不确",
+      "statement": "由于「目」或作「臣」，故或写作「臦」（guàng），《说文》「乖也。从二臣相违」。人和动物的眼睛一般都是两只，「臣」的二叠容易被误认作两眼，才故意写成上下相迭或左右相背，故「臦」的表意应该也跟「䀠」相同。",
+      "boundary": "源自《系统汉语》第94部「䀠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-137",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「䀠」是借音字：因有目光深邃之意而义音同「句」（鸜鹆/鸲鹆互引）",
+      "statement": "「䀠」是借音字，因有目光深邃之意而义音同「句」：《周礼·考工记》「鸜鹆不逾济」，《淮南子·原道训》作「鸲鹆」。",
+      "boundary": "源自《系统汉语》第94部「䀠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-138",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "䀠部字族①指瞪大眼、表示惊恐圆鼓：瞿（鹰隼之视）、懼（恐惧）、臞（瘦而眼球鼓出）、鸜（八哥）",
+      "statement": "瞪大眼表示惊恐、圆鼓：瞿（jù）为鹰隼之视，鹰隼瞪大双眼为捕猎，其它鸟瞪大眼就是害怕；懼（jù）为恐惧、惊惶失措；𥉁（jù）为举目惊恐之貌；臞（qú）为瘦，瘦而眼球鼓出；鸜（qú）即鸲鹆、八哥，能模仿人说话，《本草纲目》「此鸟好浴水，其睛瞿瞿然，故名」。",
+      "boundary": "源自《系统汉语》第94部「䀠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-139",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "䀠部字族②指左右四顾、表示惊慌四出往来：𥇛（目衺斜视）、臦（乖违）、衢（四达之路）、氍（毛毯）、蠷（蠼螋）",
+      "statement": "指左右四顾、表示惊慌四出往来：𥇛（jū）为眼睛斜着；臦（guàng）为乖违；臩（guǎng）为惊走、往来；衢（qú）为四通八达的大路；氍（qú）为毛织的地毯；蠷（qú）为蠼螋，体扁平狭长，多生潮湿处，为害家蚕。",
+      "boundary": "源自《系统汉语》第94部「䀠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-140",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「㯥」的本义是镂空的大木头，即「槽」的初文；也可指鼓声的大而多，即「嘈」的初文：从「东」二叠",
+      "statement": "「㯥」从「东」的二叠：「东」指木鼓，二叠表示极致，可象意有二：木鼓本是挖空木头而成，二叠指其大，表示镂空的大木头，实即「槽」字初文（《说文》「畜兽之食器」）；也可指鼓声的大而多，表示噪杂，实即「嘈」字初文。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-141",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「㯥」的转义：混杂粗劣糟粕（糟）；日出明亮，引申指周期、次（一周天为一㯥）",
+      "statement": "由槽食之状引申指混杂、粗劣、糟粕（分化如「糟」）；由于「东」被借用指东方，日出东方，二叠则象意明亮（读zāo，「日出明」）；太阳每天从东方升起，故引申指周期、次（《字彙补》「一周天也」）。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-142",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「㯥」的辩证：《说文》误释「东」为「从日在木中」，故未能解释㯥的音义；「曹」本从㯥从口",
+      "statement": "由于《说文》误释「东」为「动也。从木……从日在木中」，未理解其字源义，故对「㯥」的音义没有作出解释（「㯥，二东，曹从此。阙」），只是指出「𣍘」就是「曹」。其实甲骨文「曹」本从「㯥」从「口」，「口」既可指嘴表示声音噪杂，也可表示空间表示木槽；西周金文讹从「曰」，小篆承之，故《说文》「狱之两曹也……从曰」所释也不确。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-143",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "「㯥」是借音字：因有大声音之意而义音同「告」（造/遭互引）",
+      "statement": "「㯥」是借音字，因有大声音之意而义音同「告」：《书·大诰》「予造天役」，《汉书·翟方进传》作「遭」；《史记·周本纪》「双方具备」裴骃集解引徐广「造，一作遭」。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-144",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "㯥部字族①指槽状、表示槽形之物与穿凿：槽、漕（水运）、螬（蛴螬）、艚（漕运船）、鏪（穿）",
+      "statement": "指槽状、表示槽形之物与穿凿：槽（cáo）为喂牲畜饲料的长凹形器具，泛指物体中间凹下；漕（cáo）为利用水道转运物资，或指人所乘的车船；螬（cáo）为蛴螬，俗称地蚕，取其为害时将苗木块根挖成槽而从「曹」；艚为漕运所用的船；鏪（cáo）为穿。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-145",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "㯥部字族②指槽中食、表示杂乱粗劣肮脏：蓸（乱草）、褿（垫布）、㷮（烧焦）、糟（酒滓）、蹧（蹧蹋）",
+      "statement": "指槽中食、表示杂乱粗劣肮脏：蓸（cáo）为乱草；褿（cáo）为披肩、垫席、小儿垫布；㷮（zāo）为烧焦；糟（zāo）为带滓的酒、滤去清酒剩下的酒渣，引申朽烂、坏；蹧（zāo）为蹧蹋、作践不爱惜。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-146",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "㯥部字族③指声音噪杂喧闹：䏆（耳鸣）、嘈（喧杂）、曹（众、辈、群）",
+      "statement": "指声音噪杂喧闹：䏆（cáo）为耳中声、耳鸣；䐬为腹鸣；䜊（zāo）为声乱；嘈（cáo）为声音杂乱；𣍘（曹）为狱之两曹、同事同辈（《广韵》「曹局也。众也」），由「槽」义引申——同槽而食故引申指同事、同辈。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j16-147",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-16-quan",
+      "title": "㯥部字族④指东方的日出、表示相逢周期明亮：遭（遇）、傮（一周曰一傮）、𣍖（日出东方）、鰽（刀鱼）",
+      "statement": "指东方的日出、表示相逢周期明亮：遭（zāo）为相逢、巡行；傮（zāo）为一周的终结、一周期（《方言》「一周曰一傮，俗作遭」）；𣍖（zāo）为日出东方；鰽（qiú）为刀鱼，每年2—3月成群由海溯江而上繁殖，取其周期性地由东洄游之意。",
+      "boundary": "源自《系统汉语》第95部「㯥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
