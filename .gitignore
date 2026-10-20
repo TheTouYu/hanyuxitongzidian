@@ -3,3 +3,8 @@
 .env
 __pycache__/
 *.py[cod]
+
+# 网页服务运行时产物
+web/bin/
+web/.cache/
+web/node_modules/
