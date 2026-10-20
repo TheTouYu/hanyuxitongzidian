@@ -1,0 +1,828 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷二十三 鼓 62 条（音源字「壴、田、東、中」都是不同种类的鼓、音源击鼓声，第120部壴部至第123部中部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j23-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "卷二十三音源字「壴、田、東、中」都是指不同种类的鼓，音源为击鼓声",
+      "statement": "此卷的「壴、田、東、中」都是音源字，都是指不同种类的鼓，其音源自击鼓声。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/23a-gu.md",
+      "topic_title": "卷二十三·鼓",
+      "topic_summary": "卷二十三「鼓」（第120–123部，p366–p378）：120 壴部（p368）、121 田部（p370）、122 東部（p373）、123 中部（p378）。音源字「壴、田、東、中」都是指不同种类的鼓，其音源自击鼓声。",
+      "topic_keywords": [
+        "鼓",
+        "壴",
+        "田",
+        "東",
+        "中",
+        "木鼓",
+        "陶鼓",
+        "鼉鼓",
+        "建鼓",
+        "喜"
+      ]
+    },
+    {
+      "id": "j23-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "鼓应是最原始的乐器，其产生远早于金属的使用；最原始的鼓是竹木与葫芦，故「竹、瓠」都读如鼓",
+      "statement": "鼓应该是最原始的乐器。最简单的打击乐、金属利用之前最响亮的乐器无疑就是鼓；最原始的鼓当为竹子之类的空心木头及葫芦之类，所以「竹、瓠」都念如鼓，以后才慢慢有了陶鼓、铜鼓、皮蒙的鼓，一如今天的形制。现存最原始的鼓当属云南、贵州、台湾的佤族、苗族、侗族、高山族等使用的木鼓。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "鼓与葫芦救世的洪水传说：中空的鼓仿葫芦而造，盘古即盘固、盘瓠",
+      "statement": "《徐松石·百粤雄风岭南铜鼓》记：鼓是伏羲、女娲时期，共工造反、决黄河而导致洪水滔天，人们四散奔逃、大部分葬身鱼腹，只有少数人凭着葫芦而逃生，人们为了纪念这次洪水而造出了中空的鼓。所谓盘古，即盘固、盘瓠；神话中盘古开天地即指葫芦救世人，鼓是仿葫芦而造的。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "佤族木鼓：以母腹之声启发、雕木为鼓，鼓声即母亲呼唤，木鼓房为通天神器",
+      "statement": "佤族的木鼓是原始社会的产物：氏族首领要召集成员防御猛兽袭击而缺乏响亮的鸣器，氏族的母亲听到洞穴中蟋蟀的叫声受到启发，便躺在地上拍拍肚子发出咚咚声，于是叫人仿照她的身体雕空木头作鼓；鼓声响起意味着母亲发出呼唤。后来祭祀时擂鼓以示庄重、战争时擂鼓报警、集众议事时擂鼓为号、跳舞时擂鼓伴奏。佤族村寨都有木鼓房，木鼓是通天的神器、被当作天神莫伟的化身；木鼓样式象女阴，体现母系氏族崇拜，通常一大一小分称母木鼓、子木鼓。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "陶鼓：伊耆氏时已有土鼓；陕西千阳出土约 4000 年前巨型陶鼓",
+      "statement": "陶鼓也叫做「土鼓」，鼓框可能由陶土制成。《礼记·明堂位》记载很早的传说中「伊耆氏」之时就已有「土鼓」。陕西千阳县沣头村新石器时代遗址（相当半坡文化、距今约 4000 多年）出土一面巨型陶鼓，外形颇似水缸，口径约 48 厘米、高 90 厘米、腹径 65 厘米，口沿外侧突起 14 个舌耳用于固定牛皮，鼓腹钻有 3 个直径约 6 厘米的放音孔；蒙上大牛皮敲打，其声浑厚、撼人心魄。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "鼍鼓：夔即鳄鱼，鼍鼓用鳄鱼皮蒙面；陶寺遗址出土 4000 多年前鼍鼓实物",
+      "statement": "相传黄帝在涿鹿之战九战不胜，后受元女之教造「夔牛鼓」八十面，一震五百里、连震三千里，以鼓声大壮军威，终于擒杀蚩尤。夔与鼍古文相通，夔其状如牛、居于大泽、水陆两栖，每到雷雨季节便发出令人震撼的吼叫（《山海经·大荒东经》「雷澤有神，龍首人頭，鼓其腹而熙」），夔被先民奉为雷神和音乐之神。其实夔就是鳄鱼，鼍鼓就是用鳄鱼皮作膜面的鼓。1978 年山西襄汾陶寺遗址发现新石器时代晚期鼍鼓实物（距今 4000 多年），鼓腔用树干制作、外施彩绘、鳄鱼皮蒙面，高约一米。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "商周以降鼓制：崇阳铜鼓、祥云铜鼓、虎座鸟架鼓、曾侯乙悬鼓与周代「鼓人」",
+      "statement": "自商代后鼓有多种形制：1977 年湖北崇阳出土晚商至西周早期铜制贲鼓（形如「賁」字、鼓面条纹清晰）；1960、1975 年云南祥云大波那与楚雄万家坝出土 16 件战国铜鼓（迄今所见年代最早的少数民族铜鼓）。后来鼓身下有鼓座、鼓身有羽毛装饰、以动物皮革为膜面，代表实物如湖北江陵望山一号楚墓的虎座鸟架鼓，曾侯乙墓也出土悬鼓。到周代已专设「鼓人」管理鼓制、击鼓等事。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "鼓的用途：祭祀乐舞、战阵号令、驱兽报时报警，汉代鼓吹、隋唐十部乐至明清戏曲",
+      "statement": "古代鼓不仅用于祭祀、乐舞，还是打击敌人、驱除猛兽的号角和武器，并且是报时、报警的工具，常被作为一项最隆重的礼仪。汉代兴起的鼓吹乐中鼓占极重要地位；公元 4 世纪又有腰鼓、齐鼓、羯鼓、达卜等流行；隋九部乐和唐十部乐用到节鼓、檐鼓、都昙鼓、毛员鼓、答腊鼓、鸡娄鼓、连鼓和桴鼓等十余种；宋时教坊乐部与民间器乐合奏都少不了鼓，西南少数民族地区又有铳鼓流行；明清以来随戏曲繁荣而发展。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "「鼓」的基本义项：中空、须敲击、圆形、声响亮、皮包覆、单面居中——故库骨窟壶、筑杵、弧、呼哭、覆储囚、孤皆读如鼓",
+      "statement": "不管哪种鼓，其基本形制和功用没有区别：「鼓」的最基本义项是中空，所以凡中空的如「庫、骨、窟、壺」等都念如鼓；其次鼓发出声音必须敲击，所以为「築、杵」；再就是鼓的形状大都为圆形，所以为「弧」；鼓的声音响亮，所以为「呼、哭」；鼓是用皮严实地包着的，故有覆盖、包住、储藏之意，为「覆、儲、囚」等；合奏时鼓始终占主导地位、通常只有一面，所以为「孤」。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "鼓声与虎、鹿、牛、羊、猴、蝠、竽等音系多有重合，本卷所录只取与鼓直接相关者",
+      "statement": "鼓声跟虎、鹿、牛、羊、猴、蝠、竽等音系多有重合，本卷所录实际上都只是跟鼓直接相关的。",
+      "boundary": "源自《系统汉语》卷二十三「鼓」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "壴本义：象竖立在架子上的建鼓形——中为鼓身、下为鼓座、上为崇牙装饰",
+      "statement": "「壴」本义象竖立在架子上的建鼓形：中为鼓身，下为鼓座，上为崇牙装饰；因鼓与座连在一起象豆形，故写似「豆」（zhù，《字汇补》「鼓架也」；徐锴《说文系传》「豆，樹鼓之象；屮，其上葆羽也」）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "壴的转义与音源：由竖立之状引申指竖立；音源为击鼓声",
+      "statement": "由其竖立之状，引申指竖立（shù，《字汇补》「又借作豎立之豎」）。「壴」是音源字，源自击鼓声。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "壴的辩证：《说文》「陈乐立而上见也，从屮从豆」析义不确，本专指鼓",
+      "statement": "「壴」本专指鼓，故《说文》「陳樂立而上見也。从屮从豆」析义不确。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "尌、樹、澍：均从壴取直立义——尌为立，树为直立之木，澍为及时雨灌注",
+      "statement": "尌（shù，《说文》「立也。从壴从寸，持之也」）为直立（《正字通》「僮僕曰尌」，zhù 又作駐）；樹（shù，《说文》「生植之緫名」）为树木（取直立义，《广雅》「本也」「杠也」，《尔雅》「門屏謂之樹」）；澍（shù，《说文》「時雨，澍生萬物」）为及时雨，zhù 同霔（灌注、倾泻）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "鼓、鼔：从壴从攴，象手持桴击鼓；《说文》释「郭也」即覆冒之意",
+      "statement": "鼔（gǔ，《说文》「擊鼓也。从攴从壴，壴亦聲」）同鼓；鼓（gǔ，《说文》「郭也。春分之音，萬物郭皮甲而出，故謂之鼓。从壴，支象其手擊之也」，徐锴曰「郭者，覆冒之意」）为其正字，《周礼》六鼓为靁鼓八面、灵鼓六面、路鼓四面、鼖鼓皋鼓晋鼓皆两面；《玉篇》「瓦為椌，革為面，可以撃也」。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "瞽、𪔜：由鼓及鼓声孳乳——瞽为目有眹而无明，故以盲者为乐师",
+      "statement": "𪔜（tōng，《广韵》「鼓聲」）为鼓声；瞽（gǔ，《说文》「目但有眹也」）为眼睛只有缝（《释名》「鼓也。瞑瞑然目平合于鼓皮也」，《字汇》「目有眹而無明，目無明則耳聰，使為樂師，名之曰瞽，因所掌而命名也」）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "皷、臌、𢜳：由鼓之鼓胀孳乳——皷为俗鼓字，臌为膨胀，𢜳为小怒",
+      "statement": "皷（gǔ，《正字通》「俗鼓字」）为皮蒙的鼓；臌（gǔ）为膨胀、身上某部分胀起鼓出；𢜳（chì，《说文》「小怒也」）当依段注本「豈」声（豈指插在头上的鸡毛，故有怒发冲冠之意；「壴、豈」本一字）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "喜本义：从口壴声，张口发出如击鼓般响亮的声音，即「嘻」的初文",
+      "statement": "「喜」本义从「口」、「壴」声。「壴」指鼓；从「口」，象意张口发出如击鼓一般响亮的声音，即「嘻」的初文（xǐ，《正字通》「歎聲」，《集韵》「笑也」）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "喜的转义：叹声可表多种情绪遂作语气词，由张口大笑引申指喜庆喜悦、嬉戏，宴饮歌舞引申指酒食",
+      "statement": "叹声本来可以表示多种意思——愤怒、悲痛、赞美、叹息、惊异、遗憾、恐惧等，多写作「嘻」作语气词；由张口大笑引申指喜庆、喜悦（《说文》「樂」，《玉篇》「悅也」），或引申指嬉戏（xī，《集韵》「通作嬉」）；古代王公贵族宴饮多以歌舞助兴，故引申指酒食（《集韵》「饎，《說文》：酒食也。一說炊黍稷曰饎」）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "喜字族一：喜庆欢乐——僖、禧、憙、嬉、蟢、瞦",
+      "statement": "僖（xī，《说文》「樂也」）；禧（xī、xǐ，《说文》「禮吉也」，行礼获得吉祥）；憙（xǐ，《说文》「說也」）为喜悦、喜好；嬉（xī，《广雅》「戲也」）为嬉戏；蟢（xǐ，《正韵》「蟢子，蟲名，蠨蛸也」）为一种身体细长暗褐色、脚很长的蜘蛛（多在室内墙壁间结网，网被认为像八卦、是喜庆的预兆，故称「喜子」「喜蛛」）；瞦（xī，《说文》「目童子精也」）为眼睛发光有神。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "喜字族二：火热、赞美、哀痛——熹、譆、歖、饎、暿、嘻",
+      "statement": "熹（xī，《说文》「炙也」）为用火烤（《玉篇》「熱也、烝也、炙也、熾也」，《广雅》「美也」，甲骨文从火从壴）；譆（xī，《说文》「痛也」）为表悲痛的叹词；歖（xī，《说文》「卒喜也」）为突然而来的喜悦（指吃惊而张着嘴的样子）；饎（chì，《说文》「酒食也」，扬雄《方言》「氣熟曰糦」）为酒食、熟食；暿（xǐ）为热得使人张开嘴出气（即「熱哈哈」）；嘻（xī，《玉篇》「嘻嘻，和樂聲」）为嬉笑、恨声。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "彭本义：从壴从彡，象擂鼓所发出的声音；由鼓声引申指盛大众多、胀大、近旁、行进",
+      "statement": "「彭」本义从「壴」从「彡」：「壴」象建鼓形，「彡」表示声音，象意擂鼓所发出的声音（péng，《说文》「鼓聲也」）。由鼓声的宏大引申指盛大、多、壮（bāng，《玉篇》「多皃。又盛也」）；由鼓之状引申指胀大（分化如「膨」）或指近旁（páng，《正韵》「旁也」）；古代战争擂鼓以进军，故引申指行进、道路（péng，《广韵》「行也。道也」）。音源为擂鼓声；因有旁义而义音同「方」（《战国策·韩策》「房喜謂韓王曰」，《韩非子·说林上》作「彭」）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "彭字族：鼓声撞击（澎、嘭、𥕱、𨅘、𨎧）与鼓状膨胀（膨、𥛱、憉、甏、𦅈、蟚）",
+      "statement": "澎（pēng、péng，《集韵》「澎濞，水皃」）为水声、水名；嘭（pēng）为敲击声；𥕱（péng，《龙龛》「磕石如雷聲也」）为石声；𨅘（pèng）为踏地声；𨎧（péng，《集韵》「車聲也」）为车声。膨（péng，《广韵》「脹皃」）为膨胀；𥛱（bēng，《说文》「門內祭」）为庙门旁祭；憉（péng，《玉篇》「憉悙，自強也」）为自矜健貌；甏（bèng）为瓶瓮；𦅈（bēng，《正字通》「俗繃字」）为绳结；蟚（péng，《集韵》「蟚蜞，蟹屬」）为海边泥中的小蟹（一螯偏大者名擁劍）。",
+      "boundary": "源自《系统汉语》第120部「壴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "田的本义有两个来源：一为鼓（囗为鼓框、甲为蒙皮），一为耕种的田地（象田畴之形）",
+      "statement": "「田」的甲骨文本是两个不同的字：一个如「雷」字中的「田」，从「囗」从「十（甲）」——「囗」为鼓框（甲文不便刻写圆形，故多刻○如囗）、「甲」指蒙在上面的皮革（《诗·周颂》「應田縣鼓」，《毛传》「田，大鼓也」）；一个是耕种的田地，象田畴之形（《说文》「陳也。樹穀曰田。象四囗。十，阡陌之制也」）。西周金文将两者混写，导致前义迷失，只是残存在诸如「雷」等字里表征鼓义的存在。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "田的转义：由田鼓的功用引申指田猎，由田地引申指耕种",
+      "statement": "由田鼓的功用引申指田猎（《字汇》「獵也」，《诗·小雅·车攻》「田車既好」）；古代的田猎形式是驱车擂鼓围猎——利用鼓声惊吓鸟兽以求速度与安全（人在车上不但安全，还可补射或用戈矛近战），这种田猎方式也形成了古代的作战方式，直到战国还是「車錯彀兮短兵接」；由田地引申指耕种（《字汇》「耕治之也」）。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "田的辩证：学界多以为「田猎」之田象网或象田猎战阵，本文认为「网」自有其字，取战阵说较合理",
+      "statement": "学界虽认识到「田」的两源性，但对「田猎」之「田」本义为何仍有异说：《汉典》引蒋礼鸿《读字肊记》「田即網也，田所以取鳥獸」当作网的象形字；《甲骨文》「象田獵戰陣之形……囿有溝封以為疆界……後世不知農田阡陌之形初本田獵戰陣之制」。网之象形本有其字、跟「田」相差甚远，而战阵之说确有合理之处，其说可参。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "田的音源：源自击鼓声",
+      "statement": "「田」是音源字，源自击鼓声。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "田字族一：田鼓与田猎声——畋、䟧、䡒",
+      "statement": "畋（tián，《说文》「平田也」，甲骨文象擂鼓之形、战国金文或从「犬」，其义当指田猎，《说文》所释不确）为平整田土、耕种或取禽兽；䟧（tián，《玉篇》「踏地聲」）为蹑地声；䡒（tián，《集韵》「䡘䡘，車眾聲」）为众车声（通作顛、闐）。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "田字族二：田地耕治——佃、甸、沺、畑、畠、鈿",
+      "statement": "佃（diàn，《说文》「中也……一轅車」；高鸿缙以为本义为农吏，从田人會意）为租种土地（tián 为作田、营田）；甸（diàn，《说文》「天子五百里地」）为王田、郊甸（《释名》「四丘為甸。甸，乘也，出兵車一乘也」）；沺（tián，《玉篇》「大水也」）为水势广大无际；畑（tián）为旱地；畠（zī、zāi）同甾（不耕田、田一岁曰葘）；鈿（tián，《新附》「金華也」）为用金宝镶成的花形首饰（《正韵》「陷蚌曰螺鈿」），diàn 为以宝饰器。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "廛本义：从坴甸声，象民居以及四周的土地——居所、市邸、百亩",
+      "statement": "「廛」本义从「坴」、「甸」声：「坴」本从「六」从「土」，「六」象屋庐之形、指屋舍；「甸」指王城外的郊野，象意民居以及四周的土地（chán，《玉篇》「居也、市邸也、百畝也」，《集韵》「民居區域之名」）。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "廛的转义：由环屋四周引申指缠绕（纏），由台阶过道引申指踩踏（躔）",
+      "statement": "由廛的环绕屋舍四周，引申指缠绕（分化如「纏」，《说文》「繞也」）；屋舍四周一般是台阶以及过道、禾坪之类，不是耕作之地，故而引申指踩踏（分化如「躔」，《说文》「踐也」）。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "廛的辩证：战国古文讹「六」为「火」、小篆讹「甸」为「广」，故《说文》析形不确；俗作「厘」亦误",
+      "statement": "因「六」形近「火」，战国古文讹作「火」；「甸」本从「勹」，小篆讹作「广」。故《说文》「一畝半，一家之居。从广、里、八、土」析形不确（段注改为「二畝半」亦不确）。另外「廛」俗或写作「厘」，「厘」本「釐」的省写、跟「廛」本没有关系。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "廛的音源：本「田」声，义音同「坛」，古「廛、坛」可通",
+      "statement": "「廛」本「田」声，义音同「坛」，古「廛、坛」可通（《战国策·楚策》「乃封壇為安陵君」，《说苑·权谋》作「纏」）。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "廛字族一：四周缠绕——纏、𧔊、瀍、鱣、𢷹、𨮻、𧸪",
+      "statement": "纏（chán，《说文》「繞也」）为盘绕、约束；𧔊（chán）为守宫（壁虎）别名；瀍（chán）为水名（源出洛阳西北、东南流入洛水，流域是中华民族发祥地之一、遍布马屯等遗址）；鱣（chán，《广韵》「江東呼爲黃魚」）为鲟鳇鱼（形似龙、锐头、口在颔下、背腹皆有甲，中国境内最大的淡水鱼、有水中「大熊猫」之称，多见于黑龙江）；𢷹（zhǎn）为手转；𨮻（chán）为𨮻钏；𧸪（zhàn）为谋人财物。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "廛字族二：来回践踏——躔（日月运行）、𨷭、𧾡、鄽；又音译字与「厘」之讹",
+      "statement": "躔（chán，《说文》「踐也」）为兽走过的足迹、循行，又指日月星辰的运行（《方言》「日運為躔，月運為逡」）；𨷭（chán）为市门；𧾡（chán）为移；鄽（chán）为市鄽（俗作䣑）；竰（li）为公制容量单位「厘升」的旧译；喱（lí）为英美重量单位「格令」的旧译。",
+      "boundary": "源自《系统汉语》第121部「田部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "東本义：从木田声，象木头掏空而成的木鼓，为「𧯾」的初文",
+      "statement": "「東」本义从「木」、「田」声。「田」指鼓；从「木」，象意木鼓——将木头掏空而成，可谓「𧯾（dōng）」的初文（《类篇》「𧯾𧯾，鼓聲」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "東的转义：木鼓为通天神器、古人擂鼓迎日出，故代指日出的东方；五行东方属木、对应春季",
+      "statement": "由于鼓的声音响亮、能传得很远，远古时期就被当作神圣之物，每逢重大节庆、祭祀、狩猎、战争必然擂鼓；木鼓作为最原始的鼓自然更为古老（晋干宝《搜神记》《晋记》载苗族「叩槽而號，以祭磐瓠」，至今云南佤族仍视木鼓为至高无上的通天神器、山寨村民赖以生存的保护神）。因此古代可能擂鼓以迎接日出，故而代指日出的东方；五行学说中东方属木、对应春季，故《玉篇》「東，春方也」。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "東的辩证：《说文》「从日在木中」析形不确——甲骨文中间显非「日」；以「橐」为「東」亦不可取",
+      "statement": "由于「田」跟「木」的中间结合在一起，演变为小篆的「日」字形，故《说文》「動也。从木。官溥說从日在木中」；但甲骨文的中间明显不是「日」，析形不确。另《甲骨文》或以「橐」为「東」（象橐中实物以绳约括两端之形，为橐之初文），从字形上「橐」确实写如「東」，但「東」的二叠字「㯥」即「曹」的本字指木槽，这跟木鼓之义刚好切合，故此说也不可取。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "東的音源：源自木鼓的敲击声；古「田、東」本可通",
+      "statement": "「東」是音源字，源自木鼓的敲击声。古「田、東」本可通（《大戴礼记·保傅》「齊有田單」，《新书·胎教》作「陳」；《左传·襄公二十二年》「陳文子」，《史记·田敬仲完世家》作「田文子」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "東字族一：木鼓之状引申粗壮、笨拙——棟、凍、涷、䍶、鶇、蝀",
+      "statement": "棟（dōng，《说文》「極也」）为屋的正梁（《释名》「棟，中也。居屋之中也」）；凍（dōng，《说文》「仌也」）为厚冰、寒冷；涷（dōng，《说文》「水。出發鳩山，入于河」；《尔雅》「暴雨謂之涷」）为暴雨（雨声如鼓）；䍶（dōng，《玉篇》「泰山獸，如牛，一角」，《山海经》「狀如羊，一角一目，目在耳後」）；鶇（dōng）为鶇鵍（美形貌，今为鶇亚科鸟类通称，羽色七彩斑斓如虹）；蝀（dōng，《说文》「螮蝀也」）为虹。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "東字族二：敲鼓引申击打与类似之声——㨂、𣌾、𧯾、𤦪、㖦",
+      "statement": "㨂（dǒng，《玉篇》「打也」）为击；𣌾（tōng，《集韵》「鼓聲遠聞」）；𧯾（dōng，《集韵》「鼓聲」）；𤦪（dōng）为玉石碰击声；㖦（dǒng，《玉篇》「多言也」）。另氭为化学元素「氡」的旧译；錬、䦨、𧹩为形近「柬」「闌」「煉」之讹。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "陳本义：从㫃从東，象用旗帜和木鼓指挥排兵布阵——军伍行列",
+      "statement": "「陳」本义本从「㫃」从「東」：「㫃」指旗帜；「東」指木鼓，象意用旗帜和木鼓指挥进行排兵布阵（zhèn，《广韵》「列也」，《正字通》「軍伍行列也」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "陳的转义：由排兵布阵引申指排列张设布置，由人马聚集引申指众多、久旧",
+      "statement": "由排兵布阵引申指排列、张设、布置（chén，《广韵》「陳列也。張也。布也」）；由陈兵时的人马聚集引申指众多（《广韵》「眾也」），或引申指久、旧（《广韵》「故也」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "陳的辩证：小篆讹「㫃」为「𨸏」、「東」为「申」，故《说文》析形不确；「陣」为「陳」之讹",
+      "statement": "由于「㫃」跟「𨸏」、「東」跟「申」字形相近，小篆讹作「𨻰」甚或「𨸬」，故《说文》「宛丘，舜後媯滿之所封。从𨸏从木申聲」析形不确（所释地名「宛丘」本应从「陳」从「土」，因周文王曾在此排八卦阵而得名）。由于「車」与「東」形近，所从「陳」隶变后讹写作「陣」。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "陳字族：行列战阵——陣、敶、䨯、螴；陈旧与经营驰逐——樄、蔯",
+      "statement": "陣（zhèn，《玉篇》「師旅也」）为军队行列、作战队形、阵地战场；敶（chén、zhèn，《说文》「𠛱也」）为陈列；䨯（zhèn，《玉篇》「雲」）为云；螴（chén，《集韵》「螴蜳，蟲行」）为虫行、气不安定；樄（chén，《字汇》「樄㯌，經營馳逐也」）指朽木（王孙赋「扶嶔崟以樄�櫌」状猴子攀缘）；蔯（chén，《玉篇》「茵蔯也」）为茵蔯蒿（茎枝密生灰白色柔毛如尘灰）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "熏本义：西周金文从東有小点，象木制香炉，为「薰」的初文",
+      "statement": "「熏」本义西周金文从「東」里面有小点：「東」指木鼓；小点表示气味，象意木制香炉；或加火而省小点、表示燃烟之意，意思更为明确。为「薰」的初文（《广韵》「薰香」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "熏的转义：由熏香引申指火气热气蒸腾、温和，又指熏成的绛色（纁）",
+      "statement": "由香炉中熏香之状引申指火气、热气的蒸腾（《玉篇》「熱也、煙上出也」，《集韵》「灼也」），或指温和（《正字通》「又和悅貌」）；或引申指熏成的绛色（《正字通》「又借黃昏時也。別作曛」，《仪礼·士冠礼》「爵弁，服纁裳」，郑玄注「今文纁皆作熏」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "熏的辩证：小篆讹「東」为「黑」，故《说文》「从屮从黑」析形不确",
+      "statement": "因小篆讹「東」为「黑」，故《说文》「火煙上出也。从屮，从黑。屮黑，熏黑也」析形不确。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "熏字族一：熏香、香气冲人——醺、薰、勳、燻、臐、櫄",
+      "statement": "醺（xūn，《说文》「醉也」）为醉而酒气冲人；薰（xūn，《说文》「香艸也」）为蕙草之类香草（古人祓除以此草熏之）；勳（xūn，《说文》「能成王功也」）本义当指薰香的功用（能防腐除臭、拔除不祥），或从「員」（鼎，香炉本鼎状）；燻（xūn）同熏（火气盛貌）；臐（xūn，《广韵》引郑玄「羊曰臐，豕曰膮，皆香美之名」）为羊羹；櫄（chūn）为椿树（叶嫩时香而可食，熏烤食物加其叶可以增香）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "熏字族二：熏色浅红——曛、纁、獯、鑂；熏形似——壎",
+      "statement": "曛（xūn，《广韵》「日入也。又黃昏時」）为黄昏；纁（xūn，《说文》「淺絳也」）为浅赤色（烟熏的颜色）；獯（xūn，《集韵》「獯鬻，匈奴別號」）疑指肤色如熏；鑂（xūn，《集韵》「金色渝也」）为金色如烟熏；壎（xūn，《说文》「樂器也。以土為之，六孔」）为陶埙（烧土为之、锐上平底、形似称锤，《白虎通》「壎之言熏也」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "重本义：甲骨文从東在人的足部，象脚如木鼓般粗沉，为「瘇」的初文",
+      "statement": "「重」本义甲骨文从「東」在人的足部（東声），象意脚如木鼓一般又粗又沉，表示脚浮肿，应为「瘇（zhǒng）」的初文（《集韵》「𤺄，《說文》：脛氣足腫」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "重的转义：由足肿引申指怀孕，又引申指厚沉浓重大、贵重谨慎、重叠增加、拖累迟缓、儿童",
+      "statement": "脚肿是肾脏排水不畅、身体积水造成的，一般孕妇和老人较为常见，故引申指怀孕（《汉书·刘屈氂传》「重馬傷耗」颜师古注「重，謂懷孕者也」）；由浮肿之状引申指厚、沉、浓、深、大（zhòng，《广韵》「多也。厚也」），或引申指贵重、谨慎（《广韵》「善也。慎也」），或引申指增加、重叠（chóng，《玉篇》「疊也」，《集韵》「再也」）；浮肿导致行动迟缓，故引申指拖累、迟重；小孩子生长旺盛往往胖得肥嘟嘟像浮肿一般，故也可引申指儿童（tóng，《礼记·檀弓下》郑玄注「重當為童，未冠者之稱」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "重的辩证：春秋金文下加「土」演变为从東从土，故《说文》「从𡈼，東聲」析形不确",
+      "statement": "春秋金文在下面加「土」，遂演变为从「東」从「土」，故《说文》「厚也。从𡈽，東聲」（徐锴曰「𡈽者，人在土上，故為厚也」）析形不确。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "重字族：鼓胀增益（瘇、腫、鍾、緟、種）与迟缓冲撞（動、慟、衝、踵、揰、𧄓）",
+      "statement": "瘇（zhǒng，《集韵》引《说文》「脛氣足腫」）为足肿；腫（zhǒng，《说文》「癰也」）为毒疮、臃肿（《释名》「腫，鐘也。寒熱氣所鐘聚也」）；鍾（zhōng，《说文》「酒器也」）为酒器、聚、量名、乐器；緟（chóng，《说文》「增益也」）为增叠；種（zhǒng）为种类、谷种；動（dòng，《说文》「作也」）为起身行动；慟（tòng，《新附》「大哭也」）为恸哭；衝（chōng，《玉篇》「交道也」）为通道交叉处、朝向；踵（zhǒng，《说文》「追也」）为脚后跟、追随；揰（chòng，《集韵》「推擊也」）为推击；𧄓（dǒng，《集韵》「𧄓𧄓，鼓聲」）。",
+      "boundary": "源自《系统汉语》第122部「東部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中本义：甲骨文象建鼓之形，上下均有长杆，杆端或有枝状饰物",
+      "statement": "「中」本义甲骨文象建鼓之形，上下均有长杆，杆端或有枝状饰物（zhōng）。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中的转义一：鼓摆设于社区或行列的中心，引申指中心、中间、里面",
+      "statement": "鼓在古代有十分重要的作用、被称作通天神器，不管平时生产、祭祀、喜庆还是战争、狩猎，都是指挥和号令的工具，因此会摆设于社区或行列的中心，从而引申指中心、中间之义（《玉篇》「半也」，《正字通》「又中央，四方之中也」）；由事物的中间之义引申指里面（《正字通》「又內也」，《康熙字典》「又心也」）。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中的转义二：中间与两端等距，引申指相当、相宜、相合、不偏倚，又指中介之物与案卷",
+      "statement": "中间对两端或四周来说是等距的，故引申指相当、相宜、相合（《广韵》「平也。成也。宜也。堪也。任也。和也」；zhòng「當也」），或引申指不偏倚、中介。此义或引申指中介之物：如《周礼·春官·太史》郑玄注「中，所以盛筭也」即古代投壶时盛筹码的器皿；《周礼·秋官·小司寇》「以三刺斷庶民獄訟之中」，江永《疑义举要》「凡官府簿書謂之中……猶今之案卷也」。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中的辩证：小篆失去上下枝状饰物，故《说文》「从口；ㄧ，上下通」析形不确",
+      "statement": "小篆没有了上下的枝状饰物，故《说文》「內也。从口；ㄧ，上下通」于义虽通，但析形不确。对「中」的字源或有不同解析：唐兰持旗帜说；胡念耕《唐兰释「中」补苴》以「口」实为鼓形（1935 年河南汲县山彪镇战国墓水陆攻战纹铜鉴上有击鼓图，两图旗杆中部安的都是鼓）；晁福林《释中》综合二说、也倾向指建鼓；李圃《甲骨文选读》则以其当作古代测天仪（垂直长杆饰飘带观风向、架方框观日影）。特录以备参考。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中的音源：源自击鼓声；古「中、東」可通用",
+      "statement": "「中」是音源字，源自击鼓声。古「中、東」可通用（《书·盘庚下》「肆予沖人」伪孔传「沖，童」；《史记·天官书》「炎炎衝天」，《汉书·天文志》作「中」；「衝」从「重」声，而「童、重」金文均从「東」、東本指木鼓）。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中字族一：中间、正直、里面——忠、仲、衷、盅",
+      "statement": "忠（zhōng，《说文》「敬也」）为肃敬、无私、正直；仲（zhòng，《说文》「中也」）为居中、老二、中间人（《释名》「父之弟曰仲父。仲，中也，位在中也」）；衷（zhōng，《说文》「裏褻衣」）为贴身内衣、善正诚；盅（chōng，《说文》「器虛也」）为器皿空虚，zhōng 为没有把的小杯子。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中字族二：击鼓引申冲撞——忡、沖、浺、翀、䆔、祌",
+      "statement": "忡（chōng，《说文》「憂也」）为忧愁、心神不宁；沖（chōng，《说文》「湧搖也」）为晃荡摇动、空虚、谦虚、深远（今作「衝」的简化字）；浺（chōng，《广韵》「浺瀜，水平逺之皃」）为水深广；翀（chōng，《玉篇》「飛上天」）为直上飞；䆔（chōng，《玉篇》「穿䆔也」）为穿；祌（zhòng，《玉篇》「神也」）chōng 与沖同（祌禫即沖澹、淡泊）。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j23-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-23-gu",
+      "title": "中的形近之讹与用字：䛱、訲为讹字；衶、蚛、狆、筗、舯等为后起专字",
+      "statement": "䛱（tí，《正字通》「或曰諰字之訛」）为言不懈（讹字）；訲（yì，《说文》本作𠶷「快也」，此为其讹字）。衶（zhōng，《玉篇》「袴也」）为套裤；蚛（zhòng，《广韵》「蟲食物」）为虫咬过的；狆（zhòng）为中国西南布依族的旧称；筗（zhòng，《集韵》「中籥也」）为中等管乐；舯（zhōng）为船的中央部分。",
+      "boundary": "源自《系统汉语》第123部「中部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
