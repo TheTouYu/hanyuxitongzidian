@@ -487,11 +487,12 @@ function familyOf(ch, claims) {
 // ---------- 声母义（分部主题）----------
 // 一部一条，由 pkc 生成到 knowledge/hanzi-yinyuan/02z-shengmu-yi.md，这里直接读该主题文件
 const SM_DOC = join(ROOT, 'knowledge', 'hanzi-yinyuan', '02z-shengmu-yi.md');
-let smCache = { at: 0, byRoot: new Map(), zero: null };
+let smCache = { at: 0, byRoot: new Map(), byZi: new Map(), zero: null };
 
 async function shengmuIndex() {
   if (smCache.byRoot.size && Date.now() - smCache.at < 300_000) return smCache;
   const byRoot = new Map();
+  const byZi = new Map();
   let zero = null;
   try {
     const text = await readFile(SM_DOC, 'utf8');
@@ -501,19 +502,29 @@ async function shengmuIndex() {
       const title = m[2].trim();
       const body = m[3].split('#### 适用边界')[0].trim();
       const hit = title.match(/^(.+?)部：声母义/u);
+      const sub = title.match(/^(.+?)（二级字根）：声母义/u);
       if (hit) byRoot.set(hit[1], { id, text: body });
+      else if (sub) byZi.set(sub[1], { id, text: body });
       else if (title.startsWith('零声母诸部')) zero = { id, text: body };
     }
   } catch (e) {
     log('读声母义主题失败:', e.message);
   }
-  smCache = { at: Date.now(), byRoot, zero };
+  smCache = { at: Date.now(), byRoot, byZi, zero };
   return smCache;
 }
 
-async function shengmuOf(root) {
-  if (!root) return null;
+async function shengmuOf(ch, chain) {
+  if (!ch && !(chain && chain.length)) return null;
   const idx = await shengmuIndex();
+  // 声符链由远及近，末尾再带上本字：先找「谁自己有独立声母义条」，
+  // 例如「始」从台声，该用「台」条（三读不系）而不是㠯部的零声母条。
+  const list = [...(chain && chain.length ? chain : []), ch].filter(Boolean);
+  for (let i = list.length - 1; i >= 0; i -= 1) {
+    const own = idx.byZi.get(list[i]);
+    if (own) return { claim: own.id, text: own.text };
+  }
+  const root = list[0] || ch;
   const hit = idx.byRoot.get(root);
   if (hit) return { claim: hit.id, text: hit.text };
   if (idx.zero && idx.zero.text.includes(`「${root}部」`)) {
@@ -790,9 +801,13 @@ async function handleCard(emit, res, question, ch, ip) {
           }
         }
       }
-      // 声母义：取所属部的条目（零声母诸部用合并条），紧排在分级之后
-      const rootCh = (lv.chainChars || [])[0] || ch;
-      const sm = await shengmuOf(rootCh);
+      // 声母义：由近及远找声符链上带独立声母义条的字，落到所属部则用部条，紧排在分级之后
+      const sm = await shengmuOf(ch, lv.chainChars || []);
+      if (sm) sections.splice(1, 0, { key: 'shengmu', label: '声母义', text: sm.text, cites: [sm.claim] });
+    }
+    if (!lv) {
+      // 判不出字根也不要漏掉声母义：部内二级字根（氏、氐、巳、了等）自成一条
+      const sm = await shengmuOf(ch, []);
       if (sm) sections.splice(1, 0, { key: 'shengmu', label: '声母义', text: sm.text, cites: [sm.claim] });
     }
   } catch (e) {
