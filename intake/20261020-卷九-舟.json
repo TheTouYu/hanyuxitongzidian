@@ -1,0 +1,1127 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷九 舟 85 条（音源字「余」，第53部舟部至第59部攸部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j9-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：音源字「余」象船桨形，舟、余的音都源于划桨声",
+      "statement": "卷九的音源字是「余」，象船槳形，指船槳，其音源自劃槳聲；「舟」指船，雖然也是音源字，但其音也源于劃槳聲。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/09a-zhou.md",
+      "topic_title": "卷九·舟",
+      "topic_summary": "《系统汉语》卷九「舟」，音源字「余」，音源于划桨声，「舟」亦同；含第53部舟部、54部余部、55部魚部、56部鹵部、57部禺部、58部㫃部、59部攸部，凡85条。",
+      "topic_keywords": [
+        "舟",
+        "余",
+        "俞",
+        "魚",
+        "鹵",
+        "禺",
+        "㫃",
+        "攸",
+        "音源字",
+        "卷九"
+      ]
+    },
+    {
+      "id": "j9-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：船的重要性——秦始皇修靈渠以通嶺南",
+      "statement": "自古以來船就是最重要的運輸工具。公元前221年，秦始皇「使尉屠睢將樓船之士南攻百越」，向廣西進攻的一路秦軍遇頑強抵抗，迫使秦軍「三年不解甲弛弩」（《淮南子·人間訓》），失利主因是南嶺阻隔、山路崎嶇、後勤不繼。勘察發現南嶺以北的湘江與以南的灕江在興安境內只相距二十五公里，于是決定「使監祿鑿渠運糧」（《史記·平津侯主父列傳》），在史祿主持下于公元前214年鑿成靈渠，糧餉可由湘江入灕江源源運至前線，秦軍當年攻下嶺南，設桂林、南海、象郡。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：船的發明諸說與八千年前的實物",
+      "statement": "船是誰發明的，或說伏羲氏，或說黃帝的大臣共鼓、貨狄，或說番禺，或說巧垂，大約本非某一人所發明。已發現有船的年代當在八千年以前：1973年浙江余姚河姆渡文化遺址發現六支木槳，附近還搜集到一具夾炭黑陶質獨木舟模型，經測定都是八千年前的遺物；陶舟長橢圓、外體流線型，長7.7釐米、寬2.8釐米、高3釐米，舟首有雞胸形小板、上有小孔可系纜繩，平置桌上舟尾微翹、舟首較傾，似一艘正在水上行駛的輕舟。1958年江蘇武進奄城鄉發掘出一支長11米、寬0.9米、內底寬0.56米、深0.42米的獨木舟，用一整段大原木挖空而成，考證為春秋時期。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：浮木→獨木舟→木筏，以及船槳的費力杠杆原理",
+      "statement": "船和槳的發明非一朝一夕：最早的船可能是模仿自然浮木、僅保證「乘客」不會下沉的大原木，後來才出現平底、有空間供主人動作的獨木舟，這前後木筏也可能出現了。最初划船的工具可能是船篙，只能在淺水區活動；深水區一般的劃動只能在平靜水面或順水漂流，要逆水只能靠岸上人力或畜力用纜繩拖拉。船槳一端小而圓便于手握，一端象樹葉、扁而寬用以劃水；不會劃船隻會原地打轉。劃槳是利用費力杠杆原理，借助水波的反作用力，象魚鰭一樣一下一下前後劃動，才能使船體徐徐前進，因此可以逆流而上。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：舟、余、俞的字形——舟加槳即「俞」",
+      "statement": "船的最古老稱呼叫做「舟」，甲骨文象木板船的樣子；船槳的稱呼叫做「余」，甲骨文象槳形。所以舟加上槳，就成了「俞」，象用槳在水裡划船的樣子。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：船所能及處，往往就是文明所能及處",
+      "statement": "據《尚書·禹貢》，大禹所劃定的九州實際只包括現在的黃河、淮河、長江及其支流所在的中原地域——這三大水系相距很近、甚至彼此交叉，從來均可以憑船暢通；而其它流域船所難及，也就無法實現征服。秦始皇也正是修了靈渠，才實現對珠江水系的征服。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：「朕」的甲骨文指持篙撐船，即舵手",
+      "statement": "秦始皇稱自己為「朕」，「朕」的甲骨文正是指持篙撐船，也即「舵手」之意——與「余」由劃槳引申指首領自稱同一理路。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：鄭和寶船——九桅十二帆、長138米、載重約1500噸",
+      "statement": "船的技術發展，國家也就發展。我國一直發展到明朝永樂時代，鄭和船隊七次下西洋，這時的船稱「寶船」，其主力貨船有9桅、12面帆、長138米，載重量約1500噸，達到當時世界頂峰；這以後每況愈下。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：借音「魚」——槳在水中劃動，魚游動似劃槳",
+      "statement": "由船槳在水裏劃動，借而表示「魚」的讀音：《史記·趙世家》「踰句注斬常山而守之」，「踰」《戰國策·趙策》作「魯」；「俞」本「余」聲。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：借音「予」——槳前後來回之狀如織布梭子",
+      "statement": "由槳的前後來回劃動之狀，借而表音為「予」，指梭子，織布時來回織緯線。《集韻》：「紓，《說文》：『緩也。』一曰解也。或作䋡、悆、忬。通作舒。」",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：借音「鹵」「㫃」——義音同「魯」",
+      "statement": "由于「鹵」的義音同「魯、㫃」，《集韻》：「櫓，《說文》：『大盾也。』或从鹵、从虜。」「𥰠，飯器。或作筥、𥱾。」故將指鹵水的「鹵」、指旗幟的「㫃」一併作為其借音字。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "卷首：借音「由、攸」——船行的舒徐之狀",
+      "statement": "由船行的舒徐之狀，借而表音為「由、攸」：《孟子·萬章下》「由由然不忍去」，「由由」《韓詩外傳》作「愉愉」；《楚辭·九懷》「失志兮悠悠」，洪興祖《考異》「悠悠，一作調調」。",
+      "boundary": "源自《系统汉语》卷九「舟」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舟：本義象船形，即刳木而成的木板船",
+      "statement": "「舟」甲骨文象木板船的樣子。zhōu，《說文》：「船也。古者，共鼓、貨狄，刳木為舟，剡木為楫，以濟不通。象形。凡舟之屬皆从舟。職流切。」",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舟：轉義為周密（合絲嚴縫）、佩帶環繞、馴服",
+      "statement": "由舟體的合絲嚴縫、滴水不漏以及浮于水面之狀，引申指周密。《釋名》：「舟言周流也。」《說文通訓》：「舟，假借為𠣘。」《玉篇》：「𠣘，帀徧也。或作周、洀。」或引申指佩帶、環繞（《正字通》「帶也。佩也」）；或引申指馴服（《篇海類編》「服也」）。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舟：音源為波浪拍打船體聲，義音同「周」",
+      "statement": "「舟」是音源字，源自波浪拍打船體所發出的聲響。因刳木以作舟，故義音同「周」：《左傳·僖公三年》「齊侯與蔡姬乘舟于囿」，「舟」馬王堆漢墓帛書《春秋事語》作「周」；《左傳·襄公二十三年》「華周對曰」，「華周」《說苑·立節》作「華舟」；《爾雅·釋訓》「侜張，狂也」，《釋文》「侜，本或作倜」。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舟字族①舟行，表示負載之狀：矪、𩢸、𧻖、輈、貈、𦩻（朝）",
+      "statement": "①指舟行、表示負載之狀：矪（射鳥的箭，即遊弋）、𩢸（蕃中大馬）、𧻖（行不進）、輈（小車上的獨轅，一木居輿前正中、朝前曲而向上）、貈（似狐善睡的獸，本作貉，又與貊同）、𦩻（朝，旦也，太陽剛从海面升起時，太陽浮出海面如船；从其甲、金文字形看从「舟」，當系水流之訛）。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舟字族②舟狀，表示周帀、環繞：侜、𠣘（周洀）、洀（盤）、𡲟（履）、珘、鵃",
+      "statement": "②指舟狀、表示周帀環繞：侜（有廱蔽，又侜張即誑）、𠣘（帀徧，或作周、洀）、洀（水波紋，與盤同則指漩渦）、𡲟（履，足所依；甲骨文不从舟，象人足踏之形，西周晚期金文才添加聲符舟）、珘（玉）、鵃（鶻鵃，斑鳩，尾短身如船狀；因其為不噎之鳥，或指船的不會進水）。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "受：本義从𠬪舟聲，象兩手交接如舟行傳遞",
+      "statement": "「受」从𠬪（兩手相交接之狀）舟聲，从「舟」象意兩手交接某物時如舟行水上一般傳遞，即直接給予或接納之意；小篆「舟」省作「冖」。shòu，《說文》：「相付也。从𠬪，舟省聲。殖酉切。」《玉篇》：「容納也、承也、盛也、得也。」",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "受：轉義為遭遇（受屈）、忍受、繼承、適合（受聽）",
+      "statement": "由接受某物引申指遭遇，如「受屈」；或引申指忍耐某種遭遇，如「忍受」；由接受引申指繼承（《廣韻》「繼也」）；或引申指適合，如「受聽」。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "受字族①給與：授、涭（濤）、㖟、䛵",
+      "statement": "①指給與：授（《說文》「予也」，从手从受、受亦聲）、涭（水皃，《龍龕》以為「濤」俗字，波濤相推如有所授受）、㖟（口頭傳授，《集韻》「口誨與也」）、䛵（《正韻》「口授也」）。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "受字族②接納：綬（系印絲帶，標誌身份等級）、㥅、𦰹、𨛶、𩸣",
+      "statement": "②指接納：綬（系物用的絲帶，古代用以系佩玉、官印，顏色常用以標誌不同身份與等級；《急就篇注》「綬，受也，所以承受印環也」）、㥅（人名）、𦰹（菜名）、𨛶（鄉名）、𩸣（琵琶魚，背鰭最前有刺伸長像綬帶，前端有小燈籠狀皮膚皺褶能發光誘捕獵物）。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "受字族③形近字「爰、定、後（右）」之訛：𤟗、𧌅、𧚯、𢔏",
+      "statement": "③形近字「爰、定、後（右）」之訛：𤟗（《舊藏》作猨，即猿）、𧌅（音受、蟲也，一曰蝯字之譌）、𧚯（衣也，一曰䘺字之譌，縫補）、𢔏（《字彙補》「古文後字」）。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "盜：本義从次（㳄垂涎）舟聲，如划船悄無聲息地弄走",
+      "statement": "「盜」甲骨文本从次舟聲。「次」或作「㳄」，象意垂涎的樣子，表示羡慕、想得到（見5《欠部》）；从「舟」，指如划船一樣悄無聲息地弄走，象意因羡慕而竊取。dào，《廣韻》：「盜賊。」",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "盜：轉義為謀取不義財物權位，辯正金文誤舟為皿",
+      "statement": "由偷竊引申指凡謀取不義之財物、權位、私情等，《正字通》：「凡陰私自利者皆謂之盜。」辯證：因西周金文誤「舟」為「皿」，故《說文》：「私利物也。从㳄，㳄欲皿者。徒到切。」析形不確。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "盜字族：垂涎（𥶎葅、𨣕醋）與形近「㿽、𣪊」之訛（𧫺諡、𧰕愨）",
+      "statement": "①指垂涎狀：𥶎（《石鼓文》葅字，酢菜）、𨣕（醋）。②形近字「㿽、𣪊」之訛：𧫺（諡字之訛，帝王大官死後評給的稱號）、𧰕（同愨，謹也、善也）。",
+      "boundary": "源自《系统汉语》第53部「舟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "余：本義象船槳形，指划船的槳",
+      "statement": "「余」象船槳形，指划船的槳；春秋金文或从「八」，表示劃撥之意。相對于用篙撐的船來說，劃槳的船要大。yú，《集韻》：「艅，艅艎，吳舟名。通作余。」「艅艎，吳大舟名。」",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "余：轉義為首領自稱（余＝我）、浸泡水中的葉子、舒徐、剩餘",
+      "statement": "由槳的使船前行，比喻指首領，跟指撐船的「朕」一樣多用于首領自稱（《玉篇》「身也、我也」）；由槳的在水裏劃動，引申指浸泡在水裏的葉子（《爾雅·釋草》「莕，接余」）；由槳的劃行之狀引申舒徐（《爾雅·釋天》「四月為余」，郝懿行義疏「四月萬物皆生枝葉，故曰余。余，舒也」）；槳是船的附屬，故引申指剩餘（《康典》「與餘同」）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "余：辯正《說文》析形不確，音源為劃槳聲",
+      "statement": "《說文》：「語之舒也。从八，舍聲省。二余也。讀與余同。以諸切。」析形不確，也非本義。「余」是音源字，源自劃槳聲。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "余字族①劃槳，表示舒緩、次第：悆、徐、敘、俆、除、篨",
+      "statement": "①指劃槳、表示舒緩次第：悆（忘也、貪欲、喜悅，或通舒）、悇（憂也）、除（宮殿的臺階，引申去也、開也、疾愈也）、篨（籧篨，竹席；編之如人擁腫不能俯，故以名醜疾）、徐（安適地行走，引申緩、遲）、敘（依順序）、俆（舒緩，通徐）、塗（泥也，引申道路、亂寫亂畫）、途（路也）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "余字族①續：捈、𤙛、駼、蜍、滁、涂、漵、畭（畬）、狳、荼（茶）",
+      "statement": "①續：捈（橫引，或通攄）、𤙛（黃牛虎文，指黃牛性格溫順、行動遲緩）、駼（騊駼，北方荒野所產良馬）、蜍（蟾蜍；又北方朝鮮洌水之間謂鼅鼄為蝳蜍）、滁（水名，今安徽滁州因其河得名）、涂（河名，即今牛欄河；又道路、階前、溝塗）、漵（水邊灘地，今湖南漵水）、畭（連續三年耕治過的熟田；又焚草木以灰肥田）、狳（犰狳，似魚、蛇尾、豕目，見人則佯死；因腿短故行動遲緩）、荼（苦菜；或指茅葦花；或指茶，因其苦味如荼——《野客叢書》「世謂古之荼卽今之茶」）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "余字族②槳附于船，表示殘餘、畸零、不正：餘、艅、斜、筡、嵞",
+      "statement": "②指槳的附于船，表示殘餘、畸零、不正：餘（饒也，引申豐足寬裕，又殘也、賸也、畸也）、艅（艅艎，大船）、斜（舀出、傾出，引申散也、不正也）、筡（剖析竹篾；竹中空）、嵞（會稽山，一曰九江當嵞）、硢（石名，疑即礁石）、鵌（鳥鼠同穴之鳥；又山海經三首六尾善笑之鳥）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "余字族④槳形，表示樣子象槳的物體：鮽、梌、瑹（笏）、蒤（虎杖）",
+      "statement": "④指槳形、表示樣子象槳的物體：鮽（魚名，尾如蝌蚪）、梌（楸樹、楓樹；又銳也）、瑹（《廣雅》「瑹班，笏也」，君臣在朝廷相見所執的狹長板子，取其狀如槳）、蒤（虎杖，莖中空、表面有紅紫色斑點，闊葉圓莖上有紅斑正如槳狀；又委葉即雜草）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "俞：本義从舟从余，劃槳使船行，「輸」之初文",
+      "statement": "「俞」从舟从余，皆可表聲：「余」指槳，从「舟」象意劃槳使船行，故春秋金文或添加水紋。是「輸」的初文，《說文》：「委輸也。」",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "俞：轉義為輕鬆愉快、答應允諾、紫黑色、腧穴；辯正《說文》析形不確",
+      "statement": "由船行的輕快引申指輕鬆、愉快、更加（《正字通》「恬安也」）；劃槳時俯身如應承一般，故引申指答應、允諾（《集韻》「然也」）；由船體之色引申指紫黑色，此義分化如「騟」（紫色馬）；由船的運載作用引申指運行氣血的腧穴。辯證：由于所从「余」或為省寫方式、小篆演變作「△」，故《說文》：「空中木為舟也。从△，从舟，从巜。羊朱切。」析形不確。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "俞字族①船行，表示輕鬆、愉快、逾越：逾、愉、覦、瘉、輸、愈、偷",
+      "statement": "①指船行、表示輕鬆愉快逾越：逾（進也，引申越也、遠也）、愉（薄也，喜形于色；又悅也、和也、樂也）、覦（希望得到）、瘉（病瘳，今別作愈）、貐（猰貐，似貙、虎爪、食人、迅走）、踰（越過，通遙）、輸（用車船轉運，引申委也、更也、盡也、瀉也；俗謂勝負為輸贏）、愈（病情好轉、賢、勝過、更加）、偷（盜也；苟且）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "俞字族②船色，表示紫黑色的物狀：榆、瑜、羭、渝、鍮、䤅",
+      "statement": "②指船色、表示紫黑色的物狀：榆（白枌，當指紫榆，木材堅實宜做船；假借為輸、為搖）、瑜（瑾瑜美玉，疑指玉色紫黑如船，故能掩瑕疵）、羭（黑母羊）、渝（變汙）、緰（細麻布）、鍮（鍮石似金，即黃銅礦石）、䤅（榆仁醬）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "俞字族③船狀，表示中空的物體：匬、窬、牏、褕、㼶",
+      "statement": "③指船狀、表示中空的物體：匬（甌器，受十六斗）、窬（穿木戶，一曰空中，即門邊小竇）、牏（築牆短版，即築牆夾板）、褕（用野雞尾羽圖案繪飾的衣，或指短衣）、㼶（甁也）、堬（墳）、崳（山名）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "俞字族④划船狀，表示應答、告諭：歈（船夫號子）、諭（喻）",
+      "statement": "④指划船狀、表示應答告諭：歈（歌也，即船夫的號子；《史記》渝水之人善歌舞、漢高祖采其聲，後人因加此字；吳歌亦曰歈）、諭（告也，及其未悟、告之使曉）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "佘：與「余」同源，單用時只作姓氏",
+      "statement": "「佘」與「余」同源。轉義：單用時只作為姓氏，沒有實義。《康典》引楊慎：「今人姓有此，而妄寫作佘，此不通曉《說文》而自作聰明者。」字族同「余」，指舒緩、柔和：賒（貰買，即賒欠錢財，有剩餘而能借人之意）、畬（焚燒田草木、以灰肥耕種）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舍：本義从口余聲，吃有剩餘，「𩜉」之初文",
+      "statement": "「舍」从口余聲：「余」指槳，引申指舒裕、剩餘；从「口」，象意吃有剩餘。是「𩜉」的初文，《玉篇》：「䬷，䬼飫也。𩜉，同上。」轉義：由吃有剩餘引申指止息（《廣韻》「止息」）、放置、赦免（《正字通》「與赦通」），由止息引申指休息的地方（《釋名》「舍，于中舍息也」）。辯證：《說文》：「市居曰舍。从亼、屮，象屋也。口象築也。」析形不確。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舍字族①吃剩，表示捨棄、放下：捨、倽（啥）、猞、𧌖（蟹醬）",
+      "statement": "①指吃剩、表示捨棄放下：捨（釋也，捨棄放下）、倽（啥，疑問代詞）、猞（猞猁，像狸貓、毛多淡黃、有黑斑、四肢粗長、能爬樹、性兇猛，伏于草叢石縫待獵物走近才出其不意沖出）、𧌖（似蟹之蟲；又蟹醬——蟹足有殼不便吃，故棄後再搗碎成醬）、騇（母馬，含捕獵野馬時捨棄母的之意）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "舍字族②屋舍：𨛭（舒國）、鵨（舒雁即鵝）、𡌫（臺）、𢉃（小室）",
+      "statement": "②指屋舍：𨛭（春秋時的舒國，在今安徽廬江縣西）、鵨（似鳧之鳥，即舒鴈、鵝）、𡌫（臺，觀四方而高者）、𢉃（小室，屋頭）、𦧶（音義與舍同）、𧮿（音舍）。",
+      "boundary": "源自《系统汉语》第54部「余部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "魚：本義象魚形",
+      "statement": "「魚」象魚形。yú，《說文》：「水蟲也。象形。魚尾與燕尾相似。凡魚之屬皆从魚。語居切。」",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "魚：辯正魚、角形近；音源為魚的遊動似劃槳",
+      "statement": "辯證：由于「魚、角」形近，一些从「角」的字如「觸」等可能應从「魚」。音源：借音字，因魚的遊動似劃槳，故義音同「余」：《史記·趙世家》「踰句注斬常山而守之」，「踰」《戰國策·趙策》作「魯」。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "魚字族：漁、𩺰、䲆（鮮）、鷠、䁩、鯂（甦）",
+      "statement": "字族衍義指魚或如魚的樣子：漁（捕魚；甲骨文或从手持網、或从手持釣竿、或从爪、或从又、或从廾，指捕捉魚的各種手段；又侵佔、掠奪）、𩺰（二魚，魚行必相隨，應即魚；或同鱻，味鮮）、䲆（穌息、舒悅、死而更生；又同鮮）、鷠（疑指飛魚）、䁩（環眼馬，馬最下者）、鯂（魚將死更生，別作甦）。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "穌（𩵦）：本義从木魚聲，木名即棣棠（扶蘇）",
+      "statement": "「穌」西周金文从木魚聲，象意某種樹木。《康典》：「木名。《詩·鄭風》：『山有扶蘇。』傳：『扶蘇，扶胥，小木也』。」大約指棣棠，灌木，花黃而美；其葉跟紫蘇相似、葉緣呈鋸齒狀如魚鰭一般，故从「魚」。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "穌：轉義混同「蘇」，紫蘇藥效引申為蘇醒；辯正《說文》释义不確",
+      "statement": "由于紫蘇的葉子也如棣棠一般，故春秋金文「蘇」从艸从𩵦；由于「木、禾」相近，戰國時「𩵦」訛變作「穌」，遂造成「𩵦」的本義丟失而混同「蘇」。紫蘇別名桂荏、白蘇、赤蘇，氣清香、味微辛，種子可榨油，嫩葉可作茶飲、可做佐料，尤能去魚腥、解魚毒；因其發汗解表、理氣寬中的功效，特別的香氣能使人清醒，故引申指蘇醒（《韻會》「死而更生曰穌」）。辯證：《說文》依據小篆釋「穌」為「把取禾若也。从禾魚聲」，釋義不確。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "穌：𩵦或解作从魚木聲，指比目魚——形如木葉",
+      "statement": "另外，「𩵦」或解作从魚木聲。《正字通》：「魪，一名𩵦。」《玉篇》：「兩魪，比目魚也。」可見从「木」是指其形如木葉。《爾雅·釋地》：「東方有比目魚焉，不比不行，其名謂之鰈。」「鰈」所从「枼」就是指樹葉。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "穌字族：蘇、櫯、囌、㢝（屠蘇酒）、𨣺（酥）",
+      "statement": "字族指紫蘇、表示色紫、氣芳、質軟：蘇（桂荏，即紫蘇；又薪艸曰蘇，流蘇即緝鳥尾垂之若流；又死而復生謂之蘇）、櫯（櫯枋，可染緋，杆呈方形且可染紫，指其狀如紫蘇）、囌（囉嗦）、㢝（草菴、平頂屋；屠蘇酒即歲酒，華佗創制，大黃、白術、桂枝、防風、花椒、附子入酒浸制，因其氣如蘇故字从蘇）、𨣺（酥，酪也，牛羊乳為之）。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "魯：本義从口魚聲，嘴如魚嘴開合——魚不能作聲故曰魯",
+      "statement": "「魯」从口魚聲：「口」指嘴；从「魚」，象意嘴如魚嘴一般開合。lǔ，《正字通》：「魚不能作聲，故曰魯。」轉義：由魚的張嘴而不能出聲之狀，引申指遲鈍、麻木（《釋名》「魯，魯鈍也。國多山水，民性樸魯也」），或引申指吃驚、嘉許；魚靠嘴覓食和鼓鰓呼吸、總是不停地遊動，由此引申指行旅，或引申指嚕嗦。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "魯：辯正「口→曰→白」之訛，音源義音同鹵；字族：櫓、嚕、瀂、氌、鑥",
+      "statement": "辯證：因「魯」所从「口」春秋時演變作「曰」，秦篆因此訛變作「白」，故《說文》釋作「鈍詞也。从白，鮺省聲」，析形不確。音源：本魚聲，因有遲鈍、澀口意而義音同「鹵」。字族：①指魚遊、表示左右擺動（櫓，大盾，笨重之意，又城上守禦望樓，或指划船器具——船尾曰柂、在旁曰櫓，用膂力然後舟行；艪，船櫓；擼，捋、撤職、訓斥）；②指魚嘴、表示囉嗦遲鈍（嚕、瀂即滷）；③音譯字（氌，氆氌即毛毯；鑥，稀土元素Lu的譯音）。",
+      "boundary": "源自《系统汉语》第55部「魚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "鹵：本義象鹽鹵——面具裏的結晶或鹽池中的鹵水",
+      "statement": "「鹵」从甶（本指面具）中有結晶顆粒之形，象意鹽鹵：面具裏面的結晶物本是汗漬，主要成分為鹽鹵、味鹹；或以為象鹽粒在器皿中的樣子，也通。依據《廣韻》「鹽澤也。天生曰鹵，人造曰鹽」，則疑从田中有鹽粒結晶形，象意鹽池，即未經過濾、熬製成鹽的鹵水。「鹽」从「監」聲，「監」本指水鑒，象意鹵水裝在器皿中的樣子。",
+      "boundary": "源自《系统汉语》第56部「鹵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "鹵：轉義為鹽鹼地、苦澀、薰染、搜獲",
+      "statement": "鹵能使土地變得乾硬、植物不能生長，故引申指鹽鹼地（《釋名》「地不生物曰鹵。鹵，爐也」）；鹵味苦澀，故或比喻指苦澀的物體；鹵能醃制食品使食材脫水以便保存，故引申指薰染（《廣雅》「熏也」）；古代取鹵不易，或靠海水、或从深井，故引申指搜獲（《揚子·方言》「奪也」）。",
+      "boundary": "源自《系统汉语》第56部「鹵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "鹵：辯正「甶、西、田」形近之訛，音源義音同魯",
+      "statement": "辯證：因「甶、西、田」形近，故《說文》：「西方鹹地也。从西省，象鹽形。安定有鹵縣。東方謂之㡿，西方謂之鹵。」析形不確。音源：借音字，因其味苦澀故義音同「魯」：《說文》「櫓或从鹵」「𧀦或从鹵」；《史記·秦始皇本紀》「流血漂鹵」，「鹵」《陳涉世家》作「櫓」。",
+      "boundary": "源自《系统汉语》第56部「鹵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "鹵字族①鹵味，表示味道的苦、澀：滷（潟）、塷、磠、蓾",
+      "statement": "①指鹵味、表示味道的苦澀：滷（同鹵；又苦地、斥鹵可煮鹽者）、潟（海邊鹽鹼地）、塷（同鹵，西方鹹地）、磠（硇砂，味苦鹹如鹵）、蓾（作履苴草；又杜衡別名，根芳香而味苦辛）。",
+      "boundary": "源自《系统汉语》第56部「鹵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "鹵字族②熬鹵，表示乾涸、強取：𤃯（涸）、𥱾、樐、鏀、𢲸",
+      "statement": "②指熬鹵、表示乾涸強取：𤃯（涸，从水从鹵从舟——水乾則鹵生、舟在鹵旁）、𥱾（盛飯用的圓形竹筐）、樐（櫓，大盾）、鏀（煎膠器，一曰刀柄；又釜也，疑本指熬鹵鹽用的鍋；取為防止刀柄乾縮而鬆動、先用鹵水浸泡之意）、𢲸（擄掠、強取、搖動）、𢟧（心惑）、㔪（伏地）、𧫓（言不定，冒失輕率）。",
+      "boundary": "源自《系统汉语》第56部「鹵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "禺：本義為木雕的偶像，「偶」之初文",
+      "statement": "「禺」甲骨文从甶有丙形：「丙」即柄、直的木頭；「甶」指面具，象意木雕的偶像。是「偶」的初文，《說文》：「桐人也。从人禺聲。」因其狀如胳膊，後演變作「禸」——「禸」本从「九」，指胳膊肘。",
+      "boundary": "源自《系统汉语》第57部「禺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "禺：轉義為相配相對、寄託（寓）、呆笨（愚）、區域",
+      "statement": "偶的樣子是依照人或物的樣子做出來的，故引申指相配、相對（《史記·封禪書》「木禺龍欒車一駟」，索隱「禺，音偶。謂偶其形于木」）；古代偶主要用于陪葬、以代替真的人或物，故引申指寄託，此義分化如「寓」；偶只是一種模型、不具備活物的靈動，故引申指呆笨，此義分化如「愚」；或引申指區域（《字彙補》「禺，區也」）。",
+      "boundary": "源自《系统汉语》第57部「禺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "禺：辯正《說文》母猴屬之說——引申諸義無从出",
+      "statement": "《說文》：「母猴屬。頭似鬼。从甶，从禸。」以其為實有的猴子，《玉篇》進一步闡釋為「獸似獼猴也，目赤尾長」，今人也多采其說；但其引申諸義無从出，王筠句讀《說文》解「愚」時即謂「然謂猴為愚，即属不經」，至于配偶、寓所之意更是無从得出。何況古本多偶像：《史記·殷本紀》載帝乙「為偶人，謂之天神，與之博，天神不勝，乃僇辱之。為革囊盛血，仰而射之，命曰射天」，出土文物中更是比比皆是。故本義當指偶像。",
+      "boundary": "源自《系统汉语》第57部「禺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "禺：音源義音同魚",
+      "statement": "音源：借音字，因木偶之狀，而義音同「魚」：《山海經·海內東經》「漢水出鮒魚之山」，「鮒魚」《海外北經》作「務隅」。",
+      "boundary": "源自《系统汉语》第57部「禺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "禺字族①相配，表示相遇、相對、交彙：遇、耦、隅、嵎、齵、喁",
+      "statement": "①指相配、表示相遇相對交彙：遇（不期而會、道路相逢）、耦（兩耜並耕，引申諧也）、隅（山角，又廉也、角也，旁邊角落）、嵎（山勢彎曲險峻處，與隅通）、齵（牙齒參差不齊）、喁（魚口露出水面咂動之皃，又于喁即聲相和也）、湡（水名，又稱沙河、溫榆河，京杭大運河源頭，源頭為無數泉水匯流故稱百泉水）、堣（堣夷，在冀州陽谷，立春日、日值之而出）。",
+      "boundary": "源自《系统汉语》第57部「禺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "禺字族②木偶，或表示形狀相似之物：偶、顒、鰅、髃、蕅（藕）",
+      "statement": "②指木偶、或表示形狀相似之物：偶（泥塑或木雕的人像；又同輩同類，合也、匹也、對也）、顒（大頭，偶也稱俑，取狀如蟲蛹；又仰也、敬仰盼望）、鰅（皮有文的魚，出樂浪東暆；班魚或黃頰魚）、髃（肩前骨，渾圓如禺）、𪃍（狀如梟、人面四目有耳的怪鳥，見則天下大旱）、蕅（蓮藕——芙蕖行根如竹行鞭，節生一葉一華，華葉常偶，故謂之藕；狀如木偶，觀出土木偶與蓮藕十分相似）。",
+      "boundary": "源自《系统汉语》第57部「禺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "禺字族③木偶之性，表示愚鈍、寄託：愚、㥥、寓",
+      "statement": "③指木偶之性、表示愚鈍寄託：愚（戇也，愚笨；又闇也、蒙也、昧也、蠢也、鈍也）、㥥（歡也，應同愚；㥥㥥憧憧即恍惚皃）、寓（寄也，寄居、寄託，即靈魂所寄居的東西——先民製作木偶，起初可能是讓鬼神有安身之所、以免出來作祟）。",
+      "boundary": "源自《系统汉语》第57部「禺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "㫃：本義象飄動的旗幟形",
+      "statement": "「㫃」象飄動的旗幟形。yǎn，《說文》：「旌旗之遊，㫃蹇之皃。从屮，曲而下；垂㫃，相出入也。讀若偃。古人名㫃、字子遊。凡㫃人之屬皆从㫃。」《廣韻》：「旌旗之皃。」",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "㫃：轉義為不固定（後為遊游專屬）、委靡仆倒（偃）",
+      "statement": "旗幟飄帶隨風飄蕩，故引申指不固定的樣子，此意後為其衍生字「遊」或「游」所專屬；靜態時旗幟呈下垂狀，故引申指委靡、仆倒（《玉篇》「㫃蹇，舞皃。今爲偃」）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "㫃：音源為旗幟飄動聲，義音同匽；字族：𣃧、𣃘（斺）",
+      "statement": "音源：音源字，源自旗幟飄動聲；因有偃仆意而義音同「匽」（《玉篇》「㫃，今爲偃」）。字族：𣃧（𣃧翳，遮蔽）、𣃘（旌旗杠皃，即旗杆）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "斿：本義从子从㫃，小孩子如旗飄蕩──「遊」之初文",
+      "statement": "「斿」从子从㫃：中心在「㫃」，則象意小孩子如㫃般飄蕩不定，即遊玩、閒逛，是「遊」的初文（《玉篇》「遨遊也」）；或象意小孩執旗，表示遊戲、演習（《廣雅》「戲也」）。中心在「子」，則象意旗幟的飄帶如小孩子一般飄動不止（liú，旒，旌旗之旓——《廣雅》天子十二旒至地、諸侯九旒至軫、大夫七旒至轂、士五旒至肩）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "斿：音源本㫃聲，義音同㐬或余；字族：游、遊、蝣（蜉蝣）、䑻",
+      "statement": "音源：本「㫃」聲，因有飄動意而義音同「㐬」（蝣，蜉蝣）或「余」（《呂氏春秋·音初》「辛余靡長且多力」，「余」《帝王世紀》作「遊」）。字族多指飄浮：游（旌旗之流即連綴于旗幟正幅下沿的垂飾；又浮也、放也、自適也）、遊（遨遊，與游同；又嬉戲、交遊、放任）、蝣（蜉蝣，幼蟲生活在水中能浮于水面，成蟲不飲不食、在飛行中交尾產卵，壽命只能存活數小時至幾天）、䑻（舟帷，又舟行）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "族：本義从矢㫃聲，指箭鏃",
+      "statement": "「族」从矢㫃聲：「矢」指箭；从「㫃」，象意箭的前端如㫃的部分，即箭鏃；商代金文象箭鏃之形。zú，《說文》：「矢鋒也。束之族族也。从㫃从矢。昨木切。」",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "族：轉義為聚集、親族家族、唆使呈現",
+      "statement": "箭鏃能集中箭的力量、使之射得更遠更鋒利，故引申指聚集（《廣雅》「聚也」）；又由聚集引申指親族、家族、族類（《玉篇》「類也」）；由箭鏃的被射出引申指唆使、呈現（嗾，使犬聲；太蔟，律名——蔟，湊也，萬物始大、湊地而出；聲有節族，通作奏）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "族：音源本㫃聲，義音同聚",
+      "statement": "音源：本「㫃」聲，因有聚集意而義音同「聚」：《尚書大傳》「卿雲藂藂」，舊注「藂，或為族」。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "族字族①鏃狀，表示尖銳、唆使、刺：鏃、䃚、鷟、嗾、𢳇",
+      "statement": "①指鏃狀、表示尖銳唆使刺：鏃（利也，箭鏃；又銼𨰠即溫器小鍋）、䃚（碌䃚，石地不平；與鏃通——挹婁國弓長四尺、砮以靑石為鏃，因箭鏃用石故俗作䃚）、鷟（鸑鷟，鳳凰類）、嗾（使犬聲，唆使狗追咬時所發出的語聲）、𢳇（刺也，與捔同）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "族字族②鏃用，表示聚集：蔟、簇、瘯、𨄕",
+      "statement": "②指鏃用、表示聚集：蔟（供蠶作繭的設備，用稻麥稈等堆聚而成；又太蔟律名——蔟，湊也，萬物始大、湊地而出）、簇（小竹叢生；簇者，湊也；又矢金即箭鏃）、瘯（瘯蠡，皮膚病，疥癬）、㵀（水皃）、𡻬（聚齊皃）、𨄕（曲足皃）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "旅：本義从㫃从从，眾人如旗飄蕩──漫遊旅行或軍旅",
+      "statement": "「旅」从「从」（相隨的眾人）㫃聲：从「㫃」可象意眾人如㫃一樣飄蕩，表示漫遊、旅行（《正字通》「行旅、羇旅，行止無定所也」）；也可象意眾人隨旗而行，表示軍旅（《說文》「軍之五百人為旅。从㫃从从。从，俱也」）。金文或加「車」，表示軍旅車隊。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "旅：轉義為陳列、眾多、道路寄居、放養；音源義音同呂或魚",
+      "statement": "由軍旅的成行成縱引申指陳列（《集韻》「𨻰也」），或表示眾多（《爾雅》「眾也」）；由旅行引申指道路、寄居（《爾雅》「途也」、《廣雅》「客也」），或引申指放養（《廣雅》「養也」）。音源：本「㫃」聲，因有眾意而義音同「呂」——《左氏春秋·宣公十八年》「楚子旅卒」，「旅」《穀梁傳》作「呂」、《史記·楚世家》作「侶」；或義音同「魚」——《書·序》「旅天子之命」，「旅」《史記·周本紀》作「魯」。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "旅字族：祣、玈、𥰠、𡇴（圖）、𨛷（都）、𩥆、膂",
+      "statement": "字族同「呂」、指成行成列：祣（陳列祭品以祭祀山川之神）、玈（黑色，黑弓）、𥰠（盛飯器，南楚謂之筲、趙魏之郊謂之𥰠）、𡇴（古文圖字）、𢒕（古文諸字）、𨛷（都，古作𨛷）、𩥆（傳馬，驛傳有步馬急遞三等使，𩥆即急遞）、膂（脊骨；擔者用膂力，因名云）。",
+      "boundary": "源自《系统汉语》第58部「㫃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "攸：本義从人从攴，人背後遭杖撲打──「修」之初文",
+      "statement": "「攸」甲骨文从人从攴：「攴」指持杖、在「人」後，象意人背後遭杖撲打的樣子，表示懲治，是「修」的初文（《玉篇》「治也」）。轉義：背後有著挨打的威脅，故引申指憂愁、害怕；或引申指所、表示被迫接受（《爾雅·釋言》「攸，所也」，如「生死攸關」）；由杖的樣子引申指細長條，此義分化如「條」；由杖抽打的樣子引申指倏忽、晃悠，此義分化如「倏」，或引申指悠然自得的樣子。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "攸：辯正金文「彡」為杖痕非水滴；音源為枝條抽打的破空聲",
+      "statement": "辯證：西周金文在中間添加「彡」，《說文》以為水滴，故釋作「行水也。从攴从人，水省」，不確——「彡」的本義指紋飾，此當指杖痕，實即「修」字，指笞杖的調治，故引申指修理、修飾（《廣韻》「理也」）。音源：音源字，源自枝條抽打時的破空聲；因有晃悠意而義音同「斿」（《說文》「㫍，旌旗之流也」「遊，旌旗之流也」）。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-079",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "攸字族①悠長、悠久：悠、鯈、絛、筱、蓨、脩",
+      "statement": "①指悠長、悠久：悠（憂思長，又遠也、遐也、思也；用義能反映攸的義項——長久遠、在空中擺動、閒適閒散、穩住控制）、鯈（參條魚，長而小、時浮水面、性好遊）、絛（編織而成的匯合眾彩的絲帶）、筱（箭竹）、蓨（羊蹄菜，根可入藥）、脩（乾肉條，割而乾之；又與修通）、鞗（細長的皮條轡）、樇（細而長的樹枝）。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-080",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "攸字族②晃悠、倏忽：倏、虪、跾、儵、㫍、翛",
+      "statement": "②指晃悠、倏忽：倏（奔跑；倐忽，犬走疾）、虪（黑虎）、跾（疾也、長也）、儵（青黑繒縫白色；又急疾也）、㫍（旌旗之流）、峳（山海經䃌山有獸狀如馬、羋目四角牛尾，名曰峳峳，見則其國多狡客）、翛（羽毛敗壞的樣子；飛羽聲）、焂（光動皃）、㶖（水波迅疾）、𩗚（風聲）。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-081",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "攸字族③修飾、整治：修、滫、鋚、鎀、䐰（羞）、𩛢",
+      "statement": "③指修飾、整治：修（修飾、裝飾，又治也、理也、葺也，引申編纂書寫、推舉論列、學習鍛煉、告誡、遵循、美善、進獻）、滫（久留而酸臭的淘米水；又溲也、小便、溲麵——用植物澱粉拌和食物使之柔滑）、鋚（鐵也，或指帶嚼子的馬龍頭）、鎀（銅鐵礦石；又鍛也）、䐰（羞，進獻也，致滋味為羞）、𩛢（蒸飯）。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-082",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "攸字族④形近「𠬢、左」之訛：㫦、𤛛、䗛",
+      "statement": "④形近字「𠬢、左」之訛：㫦（日色，㫞字之譌）、𤛛（犐𤛛，醜牛狀，無尾）、䗛（譌字）。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-083",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "條：本義从木攸聲，指細長的枝條",
+      "statement": "「條」春秋金文从木攸聲，象意細長的枝條。tiáo，《說文》：「𣒼，小枝也。从木攸聲。徒遼切。」轉義：由枝條的細長引申泛指細長的物體，如苗條、金條；或引申指通達（《廣韻》「貫也」）；由枝條紛垂的樣子引申指事物的層次、秩序，如條例、條理，又條令、條款；由枝條紛亂的樣子引申指雜亂；或引申指洗滌（與滌通）；或引申指挑選（《詩》「蠶月條桑」）。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-084",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "條：辯正「条」从木从夊，與「𣒼」字源不同而混為一字",
+      "statement": "辯證：「条」的甲骨文从木从夊，夊亦聲。「夊」為倒止形，指倒退（《說文》「行遲曳夊夊，象人兩脛有所躧也」）；類似的字分別从口、豕、大、禾、丰、戈，只有从「口」的可以明確為「各」、應即「落」的初文、義音同「墜」，其它幾個沒有對應的今字，但也當都是下垂、遲重之意；則从「木」的「条」即指枝條的倒垂，或从「彳」為「條」意思仍同（因為「夊」本有行義）。因此「𣒼」跟「条」字源雖不同，但字形近且都有長條之意，故混而為「條」。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j9-085",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-09-zhou",
+      "title": "條字族：蓧、窱、螩、縧、篠、滌、𨃜（跳）",
+      "statement": "字族：①指條形、表示細長物（蓧，艸田器——《論語》「以杖荷蓧」；又蓧麥、羊蹄菜；窱，深遠、小而深的洞穴；螩，寄生蟲、比蛔蟲長；縧，絛帶，又藏也、寬也、劍衣也；篠，細竹）；②指條狀、表示搖動皃（滌，灑也即洗滌；𨃜，跳也、躍也）。",
+      "boundary": "源自《系统汉语》第59部「攸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
