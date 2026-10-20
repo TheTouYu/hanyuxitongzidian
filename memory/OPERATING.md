@@ -34,6 +34,8 @@
 
 **intent 即计划身份**：同一句 intent 重复提交会被当成旧计划（`PLAN_ABANDONED`），失败重试要换一句新的 intent。
 
+**基线过期**：定稿后如果又提交了别的改动（哪怕只改文档），批准会报 `PLAN_STALE_BASELINE`。处理：`pkc knowledge-plan rebase <pln_…> --reason "…"` 重新贴到当前基线 → `pkc knowledge-plan check <pln_…> --mode delta` → `pkc knowledge-plan finalize <pln_…>`，得到新的 `bundle_id` 和 `content_hash`（知识内容不变，哈希随基线变），再按新哈希批准、应用。
+
 ## 4. 禁止
 
 - 不用编辑器直接改 `knowledge/**/*.md` 和 `data/knowledge/*.json`

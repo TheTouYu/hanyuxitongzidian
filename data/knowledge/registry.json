@@ -6,15 +6,31 @@
       "name": "汉字本源",
       "path": "knowledge/hanzi-origin",
       "boundary": "字源、形体演变与造字理据（六书）",
-      "keywords": ["字源", "演变", "甲骨文", "金文", "小篆", "六书", "造字理据"],
-      "migration_status": "managed"
+      "keywords": [
+        "字源",
+        "演变",
+        "甲骨文",
+        "金文",
+        "小篆",
+        "六书",
+        "造字理据"
+      ],
+      "migration_status": "pilot"
     },
     {
       "id": "hanzi-structure",
       "name": "汉字结构",
       "path": "knowledge/hanzi-structure",
       "boundary": "部件、偏旁部首、笔画笔顺与间架结构",
-      "keywords": ["结构", "部件", "偏旁", "部首", "笔顺", "笔画", "间架"],
+      "keywords": [
+        "结构",
+        "部件",
+        "偏旁",
+        "部首",
+        "笔顺",
+        "笔画",
+        "间架"
+      ],
       "migration_status": "managed"
     },
     {
@@ -22,15 +38,29 @@
       "name": "汉字音义",
       "path": "knowledge/hanzi-sound-meaning",
       "boundary": "读音、多音字、字义与义项关系",
-      "keywords": ["读音", "拼音", "多音字", "字义", "义项", "形声"],
-      "migration_status": "managed"
+      "keywords": [
+        "读音",
+        "拼音",
+        "多音字",
+        "字义",
+        "义项",
+        "形声"
+      ],
+      "migration_status": "pilot"
     },
     {
       "id": "hanzi-usage",
       "name": "汉字应用",
       "path": "knowledge/hanzi-usage",
       "boundary": "规范标准、易错点辨析与书写应用",
-      "keywords": ["规范", "通用规范汉字表", "错别字", "辨析", "书写", "简化字"],
+      "keywords": [
+        "规范",
+        "通用规范汉字表",
+        "错别字",
+        "辨析",
+        "书写",
+        "简化字"
+      ],
       "migration_status": "managed"
     }
   ],
@@ -41,7 +71,14 @@
       "title": "字源与形体演变",
       "path": "knowledge/hanzi-origin/etymology.md",
       "summary": "单个汉字的字形来源、演变脉络与造字理据",
-      "keywords": ["字源", "演变", "甲骨文", "金文", "小篆", "六书"],
+      "keywords": [
+        "字源",
+        "演变",
+        "甲骨文",
+        "金文",
+        "小篆",
+        "六书"
+      ],
       "permission": "public"
     },
     {
@@ -50,7 +87,13 @@
       "title": "部件与偏旁部首",
       "path": "knowledge/hanzi-structure/components.md",
       "summary": "汉字的部件拆分、偏旁部首归属与笔画笔顺",
-      "keywords": ["部件", "偏旁", "部首", "笔顺", "笔画"],
+      "keywords": [
+        "部件",
+        "偏旁",
+        "部首",
+        "笔顺",
+        "笔画"
+      ],
       "permission": "public"
     },
     {
@@ -59,7 +102,13 @@
       "title": "读音与字义",
       "path": "knowledge/hanzi-sound-meaning/reading.md",
       "summary": "汉字的读音、多音字读法、字义与义项辨析",
-      "keywords": ["读音", "多音字", "字义", "义项", "拼音"],
+      "keywords": [
+        "读音",
+        "多音字",
+        "字义",
+        "义项",
+        "拼音"
+      ],
       "permission": "public"
     },
     {
@@ -68,9 +117,329 @@
       "title": "规范与易错辨析",
       "path": "knowledge/hanzi-usage/standards.md",
       "summary": "汉字使用的规范标准、常见错别字与用字辨析",
-      "keywords": ["规范", "通用规范汉字表", "错别字", "辨析", "简化字"],
+      "keywords": [
+        "规范",
+        "通用规范汉字表",
+        "错别字",
+        "辨析",
+        "简化字"
+      ],
+      "permission": "public"
+    },
+    {
+      "id": "topic-liushu",
+      "node_id": "hanzi-origin",
+      "title": "六书与造字理据",
+      "path": "knowledge/hanzi-origin/liushu.md",
+      "summary": "六书的文献源流、班固与许慎两套名目的分歧，以及《系统汉语》对六书的重解",
+      "keywords": [
+        "会意",
+        "假借",
+        "六书",
+        "形声",
+        "指事",
+        "段玉裁",
+        "班固",
+        "许慎",
+        "象形",
+        "转注"
+      ],
+      "permission": "public"
+    },
+    {
+      "id": "topic-sound-imagery",
+      "node_id": "hanzi-sound-meaning",
+      "title": "声母拟态与语音表意",
+      "path": "knowledge/hanzi-sound-meaning/sound-imagery.md",
+      "summary": "汉语声母按发音部位与气流状态模拟行为，并带时态、词性与空间义",
+      "keywords": [
+        "双声反义",
+        "发音部位",
+        "声母",
+        "拟态",
+        "时态",
+        "音源字"
+      ],
+      "permission": "public"
+    },
+    {
+      "id": "topic-word-families",
+      "node_id": "hanzi-sound-meaning",
+      "title": "字族、通假与联绵词",
+      "path": "knowledge/hanzi-sound-meaning/word-families.md",
+      "summary": "音义族群的构成、古汉语通假与联绵词的语源学意义",
+      "keywords": [
+        "双声",
+        "叠韵",
+        "字族",
+        "联绵词",
+        "连语",
+        "通假",
+        "音义"
+      ],
+      "permission": "public"
+    },
+    {
+      "id": "topic-hanzi-system",
+      "node_id": "hanzi-origin",
+      "title": "汉字系统与字根",
+      "path": "knowledge/hanzi-origin/system.md",
+      "summary": "以天、地、人统摄字族，用十二个字根串起人生阶段的系统框架",
+      "keywords": [
+        "人",
+        "冓",
+        "地",
+        "士",
+        "天",
+        "字",
+        "字根",
+        "汉字系统",
+        "谷"
+      ],
       "permission": "public"
     }
   ],
-  "relationships": []
+  "relationships": [],
+  "claim_metadata": {
+    "clm_269C128453E306F1DDE7B94294": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5C50FFEB1D36EA56956F1AE7E0": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8328C2C044A52D57D10BCD3CB9": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B43D0333E1AC483D9EB8710E84": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_BEEEC18A60BD7BBAE0C5C84496": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9BB963D6A72A3B18E17769F43D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_852CCAF8E0239893ED147FDCF5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_87CD88BEF6E85B3089233329A3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D06C47E43C529617D1094C792B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B740DD373E9CFF1464C44B529E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8D9FE691DEB0487C7E0B8D7011": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0A19B6204C47C4DDAFB4CFF402": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9D83C3A330303999E0CE97B82F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D746084CE3DF7D4A806F4657C4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_20379AEF747D57A5148046DE9E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_20E56E4B742D87857AF2DE01F2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3965DF271FA35D650097D3B8A5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5CD37BCFCBAB844C4DDCD1AD45": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F95FE3BB9190A5A10484817A24": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7685A07CC2E86E6FA3DC13F04A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_560878E34B4155542D6AB4A72D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_AE2D7342CB8325B990FFDA4885": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E3174BAB0F8330FF863B0A93E4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_94CBDD82E7F5841C0055C6EE73": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_72B5D318F5A7A0EF0B6D3795D6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4D0B5D46FCE912423311F09851": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_17E07E557786040651E83AC44A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4BF0E35EBC7645C1099AABB949": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E35328BFC7A3E45C1D4A4B7360": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6AF6DC33AA74E61DE0A54A76F3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_85769D15BB919DCFC405AA86B2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_60BA4143D3DD152F837AC86CDA": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_822C1F5BFDA3427EC8B6575F54": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_FE65A2CF7C79ECCCBBAD476A7F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_FC3BBC0F59621F4F8B505D0AF3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B022EBE7F644709EB31F1E6477": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_72C95A2CAEC22DF14DD4E33C70": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A78F31E47A6B8F56A495BD1068": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5F9E3F0BBE235F8224578C3733": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_ED763C6D32C1FE2CD8E51BC4C8": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_51495E84FAC30D2F4C4C16C1CA": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_17B7EC2EBCC61A84F0980B55AF": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F954B4415653A1BD53EF47BC97": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_051DED75D676E7493EFD3C0320": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_BC140BF1F6B5E007FF22AFF833": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_41C90494F21E35254943DF54B2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6B9966BE5D3D0A8763A761B33E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3D9FDA8FBA7C8DFA5894CDEF01": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    }
+  }
 }
