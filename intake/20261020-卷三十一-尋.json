@@ -1,0 +1,703 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷三十一 尋：175.尋部至179.覃部",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "卷三十一音源字「尋」象張開雙手編織之形，「壬」象腰織機架形，音源為編織聲",
+      "statement": "本卷音源字是「尋」，甲骨文象張開雙手編織之形，指編織；「壬」也是相關的音源字，象腰織機架形，指織布。二者的音源均出自編織聲。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-001",
+      "topic_path": "knowledge/hanzi-yinyuan/31a-xun.md",
+      "topic_title": "卷三十一·尋",
+      "topic_summary": "卷三十一「尋」（第175–179部，p516–p526）：175 尋部（p518）、176 壬部（p520）、177 衣部（p524）、178 罙部（p526）、179 覃部（p526）。音源字「尋」甲骨文象張開雙手編織之形，「壬」象腰織機架形，音源均為編織聲；梭在經線中穿行引申隱沒、尋找，衣、罙、覃諸字借其音。",
+      "topic_keywords": [
+        "尋",
+        "壬",
+        "腰機",
+        "編織",
+        "經線",
+        "紝",
+        "巠",
+        "經",
+        "衣",
+        "罙",
+        "覃",
+        "鹽",
+        "音源",
+        "紡織"
+      ]
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "近代工業社會的序幕由紡織機械開啟：凱伊飛梭、珍妮紡紗機、瓦特蒸汽機",
+      "statement": "1733 年英國機械師凱伊發明飛梭，大大提高織布速度；1765 年織工哈格裡夫斯發明「珍妮紡紗機」，大幅增加棉紗產量；1785 年瓦特改良型蒸汽機投入使用，提供更便利的動力。人類由此進入「蒸汽時代」，從手工工廠時代躍入機器大工業時代，英國因最早開始這場革命而成為世界最強國家。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-002"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "古代社會的序幕同樣由紡織機械開啟：「壬」即織布腰機，公元前二世紀已能織羅紗與錦緞",
+      "statement": "先民發明的「壬」——織布腰機，使人類告別草衣木食的蒙昧時代，進入服用紡織品的文明時代。其形制雖簡陋，紡織技術卻極精妙；到公元前二世紀（西漢）已能織出薄如蟬翼的羅紗和構圖千變萬化的錦緞，使中國享有「絲綢之國」之稱。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-003"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "最初的編結分平鋪式與吊掛式兩種",
+      "statement": "人類最初為禦寒直接利用草葉和獸皮蔽體，由此發展編結、裁切、縫綴技術。編結大致分兩種：平鋪式，先平鋪線繩，一端固定，用骨針在橫向經線中一根根穿織；吊掛式，將一組紗線分別垂吊在轉動的圓木上，每根紗線下端系以重錘使紗線繃緊，編結時甩動相鄰或固定間隔的重錘，使紗線相互糾纏形成絞結，逐根編成帶狀織物。此法速度慢、密度不均，後來在平鋪式基礎上發明了原始腰機。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-004"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "腰機的考古實證：河姆渡、良渚出土腰機零件，青台遺址有五千年前絲綢實物",
+      "statement": "腰機何時發明、發明者是誰已難考證，但至少在甲骨文出現時已有，因為與「壬」相關的漢字已大量出現。七千年前的浙江河姆渡遺址、良渚文化遺址都出土了腰機零部件（打緯刀、分經棍、綜杆等）；1981 至 1987 年對滎陽青台新石器時代遺址的發掘，發現了迄今最早的絲綢實物，以及紡輪、骨針、骨匕、陶刀和合股麻繩殘段，經上海紡織科學研究院鑒定，五千多年前的青台先民已普遍使用腰機織布。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-005"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "腰機形制即甲骨文「壬」字，編織完成開口、引緯、打緯、卷取、送經五大運動",
+      "statement": "腰機即甲骨文「壬」字，其實並沒有機架，分三部分：下為卷布軸，上套皮帶，編結時系於腰間；另一端為經軸；兩端聯結的中間部分為經紗和織成的布。編結時雙足蹬住經軸張緊織物，用分經棍把經紗按奇偶分成上下兩層形成梭口，再用竹製綜杆把下層經紗一根根牽吊起來，提起棍即調換上下層形成新梭口；用骨針或梭幹引緯紗來回穿過梭口，再用木製打緯刀打緯。這套過程完成了開口、引緯、打緯、卷取、送經五大運動，現代織機的部件都是據此設置的。至今黎族等少數民族仍在使用。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-006"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「壬」與杵牆之「工」字形相近而相混，「女紅」之「紅」、「虹」本應从「壬」",
+      "statement": "腰機「壬」字形跟指杵牆的「工」近似，因此造成相混。如「女紅」的「紅」即寫从「工」，實際上應該从「壬」才對；「虹」所从的「工」可能也應該是「壬」，反映出在先民心目中，美麗的彩虹就是天神所織出的。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-007"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "漢語文明即絲的文明：蠶的生命狀態構成中國人的精神世界，織絲的壬構成物質世界",
+      "statement": "從某種意義上說，漢語文明就是絲的文明：吐絲的蟲子——蠶，其生命狀態構成了中國人的精神世界；織絲的器械——壬，其工序的機巧構成了中國人的物質世界。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-008"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "牛郎織女神話源出《詩經·小雅·大東》，七夕乞巧見《荊楚歲時記》，「喜子」即蜘蛛",
+      "statement": "牛郎織女神話很早已有雛形。《詩經·小雅·大東》「維天有漢，監亦有光。跂彼織女，終日七襄……睆彼牽牛，不以服箱」，詩中「織女」指象梭子一般的織女星座；約七月七日該星座最為明亮，時節正值秋涼將至，恍惚在提醒人們趕緊紡織禦寒衣服，這跟先民稱蟋蟀為「促織」差不多。這天夜晚人們當空祭拜並準備紡織器械，名為「乞巧」。梁人宗懍《荊楚歲時記》記其細節：是夕人家婦女結彩樓、穿七孔針，或以金銀瑜石為針，陳瓜果於庭中以乞巧，有喜子網於瓜上則以為有符應——「喜子」指蜘蛛，蜘蛛結網跟人類織布相似，乞巧人見此頓生喜悅。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-009"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "梭引緯線在梭口中來回穿梭，引申指隱沒、尋找，衣、罙、覃借其為音",
+      "statement": "織布時梭子引緯線在梭口中來回穿梭，由此引申指隱沒、尋找之義；含有隱、深義的「衣、罙、覃」因此借其為音。",
+      "boundary": "源自《系统汉语》卷三十一「尋」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-010"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「尋」从布帛之形从張開雙手編織之形，本義編織，與「𤔌」同源",
+      "statement": "「尋」从[布帛或席]从[張開的雙手]，前者指布帛或席子（或省作丨），後者象雙手張開在編織之形，象意編織。當為「𤔌」的同源字。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-011"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「尋」由梭行經線如探物引申搜求尋找，又由兩手之距引申為八尺之長、由反復編織引申重復繼續",
+      "statement": "原始編結為踞織：坐席上兩腿伸直，雙腳抵住經的一端，一端套在腰上，左右兩手來回持梭將緯線編結進去。梭在經線中穿行如探索尋物一般，故引申指搜求、尋找（《增韻》「求也」、《玉篇》「繹也、理也」）。編織的布、席寬度最多只是兩手之間的距離，故引申指兩臂伸開的長度，《說文》「度，人之兩臂為尋，八尺也」；因古代尺的標準不統一，一尋有八尺、七尺、六尺之別，《廣韻》「六尺曰尋」，鄭玄注《周禮·地官》「八尺曰尋，倍尋曰常」。或引申為長，《揚子·方言》「凡物長謂之尋」。編織時兩手反復進行，故引申指重復、繼續、經常（《玉篇》「重也、用也、遂也」），或引申指時間短（《正字通》「俄也」）。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-012"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "《說文》析「尋」為从工从口从又从寸、彡聲不確，甲骨文「捧帛獻神」說亦不可據",
+      "statement": "《說文》依小篆釋「尋」為「繹理也。从工从口从又从寸。工、口，亂也。又、寸，分理之。彡聲」，析形不確。《甲骨文》以尋為捧帛之形，謂象雙手捧帛以為獻神之祭或聘饗贄見之禮，諸家或釋謝（羅振玉）、或謂泛（郭沫若）、或釋爰（葉玉森）、或釋尋（唐蘭）、或釋帥（于省吾），均不可據——貌似合理，但尋求、繼續之意無从出。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-013"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「尋」音源為織布聲",
+      "statement": "「尋」是音源字，音源自織布聲。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-014"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「尋」字族之一指織布狀，表示探求、不寧、反復：潯、撏、憳、燖、䫮、𧫿、𦅀",
+      "statement": "「尋」字族之一指織布狀，表示探求、不寧、反復：潯（水邊，《說文》「旁深也」）、撏（探取、扯取，或作探）、憳（憳忒，心不寧，即忐忑）、燖（以開水燙後去毛，水很燙兩手須快速翻動）、䫮（俯首貌、取也）、𧫿（𧫿䜗，言不定）、𦅀（續也，今作尋）。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-015"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「尋」字族之二指織布時的雙手之距，表示橫長：鄩、襑、樳、蕁、攳、鱘、蟳",
+      "statement": "「尋」字族之二指織布時的雙手之距，表示橫長：鄩（周邑，今河南鞏縣西南）、襑（衣服寬大，《說文》「衣博大」）、樳（木名似槐）、蕁（知母，根莖橫生；今指蕁麻，纖維可織布）、攳（長也）、鱘（鱘魚，背如龍，長一二丈）、蟳（靑蟳，海蟹蝤蛑一類）。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-016"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「尋」字族之三為形近字「辱」之訛：鐞（鎒）指除草",
+      "statement": "「尋」字族之三為形近字「辱」之訛：鐞（鎒），《龍龕》「鐞，俗；鎒，正」，指鋤鎒、除草。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-017"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「帥」从巾尋聲，初文本即「尋」，指佩巾，引申遵循、率領、聚集",
+      "statement": "「帥」从巾尋聲，「巾」本指布幅，「尋」指編織布帛，故其初文本即「尋」；西周金文添加形符「巾」，明確指織品，即佩巾（或作帨）。兩手按固定寬度反復編織，引申指遵循、因循（《禮·王制》注「帥，循也」、《前漢·循吏傳》注「帥，遵也」），又由遵循引申指率領（《廣韻》「將帥也」）。編織過程本就是將紗線聚集排列，故引申指聚集（《甘泉賦》注「帥，聚也」）。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-018"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "《說文》因小篆訛「尋」作「𠂤」而釋「帥」為从巾从𠂤，形義皆不確；「帥」義音同「率」",
+      "statement": "因小篆將「尋」訛作「𠂤」，《說文》釋「帥」為「佩巾也。从巾、𠂤」，形義皆不確。其音源本「尋」聲；因編織時的樣子如拉鋸一般，故義音同「率」——《集韻》「蟀，蟋蟀，蟲名。或作帥」。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-019"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「帥」字族指雙手織布狀，表示往復：𧍓（蟋蟀）、𦝭（膟）、𣈪",
+      "statement": "「帥」字族指雙手織布狀，表示往復：𧍓（蟋蟀，好鬥，本名促織）、𦝭（膟，血祭肉）、𣈪（與類同，「𦝭」的訛字）。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-020"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「迎」从彳尋聲，象張開雙手前行迎接，引申相逢、奉承、相反，未形成字族",
+      "statement": "「迎」本从彳尋聲：「尋」指編織時雙手張開之狀，「彳」指行走，象意張開雙手前行的樣子，表示迎接（《廣韻》「迓也」）。由迎接時的相向引申指相逢（《廣韻》「逢也」），或引申指奉承、迎合（《玉篇》「逢迎也」），或相迎的相對引申指相反（《增韻》「逆也」）。戰國古文訛變从辵从卬，故《說文》「逢也。从辵卬聲」析形不確；甲骨文中或直接以「尋」表示迎接之意。不具表音性，未形成字族。",
+      "boundary": "源自《系统汉语》第175部「尋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-021"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「壬」象腰織機架形，指織布，為「紝」的初文",
+      "statement": "「壬」（𡔛𡈼）象腰織機架形，指織布，是「紝（rèn）」的初文，《集韻》「織也」。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-022"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「壬」由紗線織成長幅引申指大、負擔，由緯線暗中穿梭引申指奸佞，又借為天干第九位",
+      "statement": "腰織機實際上就是一個用來繃緊經紗以便編織緯線的架子，是最原始的織布機。由將細微紗線編織成長幅布匹，引申指大、負擔（《爾雅》「大也」，《史記·律書》「壬之為言任也，言陽氣任養萬物於下也」，又與任同、負也）。由編織時緯線在暗中穿梭，引申指奸佞（《爾雅》「佞也」）。古代或借作天干的第九位，與地支相配以紀年月日（《玉篇》「太歲在壬曰玄黓」）；依五行學說壬、癸屬水、位於北方，故《說文》「位北方也」。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-023"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "《說文》以「壬」象人褢妊之形不確，線輪、針、斧刃諸說莫衷一是，「壬」與「工」形近難分",
+      "statement": "對「壬」的本義認識不一。《說文》「位北方也……象人褢妊之形……壬承辛，象人脛」，以之如人的脛骨，但字形明顯無人形，析形不確。《新編甲骨文》謂「象中間細直、兩端有圓擋的線輪形」，另有縫紉之針、斧刃等說法，莫衷一是。甲骨文「壬」與「工」字形或相同，兩字很難區分；从「工」的「紅」指女子編織、刺繡等手工活，很可能本應是「壬」，但綜合看「工」為築牆用的杵更具說服力，故以「壬」為腰機。西周金文或在「壬」中間加一圓點強調中間的經線，才徹底與「工」區別開來。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-024"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「壬」音源為織布聲，義音同「尋」，或同「乃」",
+      "statement": "「壬」是音源字，音源自織布聲。其義音同「尋」：《集韻》「潯，與淫同」。因紗線細軟，或義音同「乃」：《左氏春秋·桓公五年》「天王使仍叔之子來聘」，楊伯峻注「仍叔，《穀梁》作任叔」。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-025"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「壬」字族之一指經線狀，表示細長、柔弱：荏、栠、飪、紝、恁、衽",
+      "statement": "「壬」字族之一指經線狀，表示細長、柔弱：荏（白蘇，莖細長；又柔弱，《小雅》「荏染，柔木」）、栠（弱貌）、飪（煮得爛熟，熟而變軟）、紝（織布機上的紗縷，《說文》「機縷也」；《集韻》「織也」）、恁（志氣低下；又念、思、弱）、衽（衣襟，衣服胸前交領部分）。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-026"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「壬」字族之二指莖用，表示負擔、承載：任、妊、凭、賃、䇮",
+      "statement": "「壬」字族之二指莖用，表示負擔、承載：任（保舉；堪、當、負擔；又與妊同）、妊（懷孕，《說文》「孕也。从女从壬，壬亦聲」）、凭（依靠在几上，《說文》「依几也。从几从任」）、賃（雇傭，《說文》「庸也」）、䇮（單席，通作衽）。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-027"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「巠」从一巛从壬，象經紗形，為「經」的初文，引申指直",
+      "statement": "「巠」（坙𡿱𢀖）从一巛从壬，壬亦聲：「一巛」象經紗形，「壬」指細長，象意織布用的經紗，本「經（jīng）」的初文（林義光《文源》「巠，即經之古文」；《正字通》「凡織縱曰經，橫為緯」）。由經紗的樣子引申指直（《廣韻》「直波爲巠」）。西周金文「巠」所从「巛」或為四筆，戰國古文「經」所从「巠」明顯是經線的樣子，故《說文》「水脈也。从川在一下；一，地也」所析形義不確。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-028"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「巠」字族之一指經紗，表示直而長狀：經、莖、徑、頸、脛、剄、涇、陘、鋞、娙、羥、䞓",
+      "statement": "「巠」字族之一指經紗，表示直而長狀：經（編織品的縱線，《說文》「織也」；又常久、經常、治理、經過）、莖（草木的主幹）、徑（步行的小路；直也）、頸（脖子，《釋名》「頸，徑也，徑挺而長也」）、脛（小腿，《釋名》「脛，莖也，直而長，似物莖也」）、剄（以刀割頸）、涇（渭水支流，流經黃土高原而渾濁）、陘（山脈中間斷絕成坑陷）、鋞（暖物器皿，圓而直）、娙（身材苗條）、羥（羊名；羥基）、䞓（赤色，魚尾密集縱線如經線般的紅色條紋）。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-029"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「巠」字族之二指經紗的直，表示有力、快速：勁、痙、輕、硜、鑋、烴、𢙼、䀴",
+      "statement": "「巠」字族之二指經紗的直，表示有力、快速：勁（強健，《說文》「強也」）、痙（僵硬堅直）、輕（輕車，重之對）、硜（石聲；硜硜，堅決固執）、鑋（金屬撞擊聲；一足行）、烴（焦臭；有機化學碳氫化合物總稱）、𢙼（怨恨）、䀴（直視）。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-030"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「巠」字族之三為音譯字「氫」",
+      "statement": "「巠」字族之三為音譯字：氫，化學元素名，一價非金屬元素，常態下為無色、無臭、極易燃燒的雙原子氣體，元素符號 H。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-031"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「㸒」从爪从壬，象繞著經線編織，引申近取、貪求沉溺，為「淫」的初文",
+      "statement": "「㸒」从爪从壬：「壬」指編織，也可指經線；「爪」指手，象意繞著經線進行編織（《篇海》「織也」）。編織時身子不需移動，只需將緯線左右反復穿梭經線，故引申指近取（《說文》「近求也」）；由來回反復地長時間編織，引申指貪求、沉溺（《玉篇》「濫貪也」、《廣韻》「貪也」）。其音源本「壬」聲；因有沉溺義，義音同「冘」：《國語·齊語》「擇其淫亂者先征之」，「淫」《管子·小匡》作「沈」；《大戴禮·勸學》「沈魚出聽」，《淮南子·說山訓》作「淫」。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-032"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「㸒」字族多指緩而久：婬、淫、霪、𦁍、𤷏、𥓕（磬）、𨺄",
+      "statement": "「㸒」字族多指緩而久：婬（淫亂放縱）、淫（隨其脈理慢慢浸漬；久雨不止，《爾雅》「久雨謂之淫，淫謂之霖」）、霪（久雨，雨過十日以往）、𦁍（久緩貌）、𤷏（病漸加重）、𥓕（古文磬字，餘音久之意）、𨺄（同陘，連山中絕）。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-033"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「𤔌」从𠬪从壬，象兩手在經紗兩旁援引穿梭，為「隱」的初文",
+      "statement": "「𤔌」从𠬪从壬：「𠬪」指上下兩手，「壬」指經線，象意兩手在經紗兩旁相互援引，表示左右來回穿梭以編織；一手與兩手本質相同，實即「㸒」的另體。編織時梭子引緯線在經線中穿行，引申指隱蔽、藏匿（《玉篇》「古文隱字」；隱，「不見也，匿也」）。因「壬、工」字形相近，小篆作「工」，故《說文》「所依據也。从𠬪、工」析形不確。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-034"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「𤔌」字族多指隱秘、暗裡：㥯、隱、檃、穩、癮、讔、䨸、𤢦",
+      "statement": "「𤔌」字族多指隱秘、暗裡：㥯（謹慎；又憂）、隱（隱蔽、藏匿）、檃（矯正竹木的工具）、穩（蹂踐聚集穀粒使殼米分開；安穩）、癮（內病、癖好；蕁麻疹）、讔（暗語、謎語，《文心雕龍》「讔者，隱也」）、䨸（雲貌）、𤢦（山驢，行蹤詭秘）。",
+      "boundary": "源自《系统汉语》第176部「壬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-035"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「衣」象有衣領的上衣之形，指對襟衣，引申指外罩表皮、穿戴覆蓋、隱蔽",
+      "statement": "「衣」象有衣領的上衣之形，指古代的對襟衣，左右相包抄而成（《廣韻》「上曰衣，下曰裳」）。由衣服的遮體作用，比喻指物體的外罩、表皮，如「足衣」「胞衣」「苔衣」「花生衣」；或引申指穿戴、覆蓋、依靠（《釋名》「衣，依也，人所以依以庇寒暑也」）；由衣服遮蔽身體引申指隱蔽（《玉篇》「衣者，隱也」）。",
+      "boundary": "源自《系统汉语》第177部「衣部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-036"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "《說文》「象覆二人之形」析「衣」不確；「衣」音源為衣服摩擦聲，義音通「壬」",
+      "statement": "《說文》「依也。上曰衣，下曰裳。象覆二人之形」析形不確。「衣」是音源字，音源自衣服摩擦聲；因衣有隱義，故義音通「壬」：《書·無逸》「則知小人之依」，王引之《經義述聞》「依，隱也」，《白虎通義》「依，隱也」——「依」為「衣」聲，「隱」本「壬」聲。",
+      "boundary": "源自《系统汉语》第177部「衣部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-037"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「衣」字族之一指穿著衣服，表示憑藉、依靠：依、㥋、裔",
+      "statement": "「衣」字族之一指穿著衣服，表示憑藉、依靠：依（依靠，《說文》「倚也。从人衣聲」）、㥋（哀痛聲，即痛得站立不穩之意）、裔（衣邊；苗裔、種類，指衣飾相同故指同類）。",
+      "boundary": "源自《系统汉语》第177部「衣部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-038"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「衣」字族之二指衣服的遮體，表示隱蔽、隱藏：㛄、䧇、襲、𤇯、㕈、庡、扆",
+      "statement": "「衣」字族之二指衣服的遮體，表示隱蔽、隱藏：㛄（女字）、䧇（酒泉天依阪）、襲（重衣；掩其不備，从龍衣聲也可指電閃雷鳴時烏雲聚攏故有掩襲之意）、𤇯（將肉包之以衣——泥、樹葉等，用微火烤或煨）、㕈（隱翳）、庡（俳佪；藏）、扆（戶牖之間的屏風，《釋名》「依也，在後所依倚也」）。",
+      "boundary": "源自《系统汉语》第177部「衣部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-039"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「哀」从口衣聲，衣引申指掩飾，象哭聲不大之狀，引申指愛、憐憫",
+      "statement": "「哀」从口衣聲（戰國古文或从心从衣），「衣」指衣服，引申指掩飾；象意哭聲不是很大的樣子，一般為哭泣、悲傷過度或較久之狀（《玉篇》「哀傷也」）。由哀哭引申指愛、憐憫（《說文》「閔也」；《釋名》「愛也，愛乃思念之也」）。",
+      "boundary": "源自《系统汉语》第177部「衣部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-040"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「哀」字族指哭聲：偯、𢜺、𤸖、㗒、𡟓；另有音譯字「鎄」",
+      "statement": "「哀」字族指哭聲：偯（哭的余聲曲折悠長）、𢜺（同哀）、𤸖（憂疾）、㗒（嘆詞，表示哀歎、感慨或詫異）、𡟓（方言，母親，同「娭」）。另有音譯字：鎄，一種人造放射性元素，符號 Es。",
+      "boundary": "源自《系统汉语》第177部「衣部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-041"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「罙」从又入冖中有小點，象從洞穴中摸索，為「探」的初文，引申指深處",
+      "statement": "「罙」（穼𥥍𥥦𥤷）甲骨文从又入冖中有小點形：「又」指手，「冖」西周金文或作「穴」指洞穴，「小」指細小的物體，象意從洞穴中摸索，是「探（tàn）」的初文（《爾雅》「取也」「試也」）。由洞穴引申指深處（《字彙》「穼，幽深也」）。小篆訛「又、小」為「火」形，故《說文》「深也。一曰灶突。从穴，从火，从求省」析形不確。",
+      "boundary": "源自《系统汉语》第178部「罙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-042"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「罙」為借音字，義音通「壬」",
+      "statement": "「罙」是借音字，其義音通「壬」：《莊子·達生》「彼將處乎不淫之度」，「淫」《列子·黃帝》作「深」。",
+      "boundary": "源自《系统汉语》第178部「罙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-043"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「罙」字族之一指幽、深：深、琛、賝、𢊖、堔、棎、㤾、𦸂",
+      "statement": "「罙」字族之一指幽、深：深（即瀟水，湘江支流，《水經注·湘水》「瀟者，水清深也」）、琛（珍寶，深藏之意）、賝（寶色，亦作琛）、𢊖（深大屋，屋深）、堔（義未詳，疑指埋藏）、棎（果名，似柰而酸）、㤾（憛㤾，失志；憂惑）、𦸂（蒲蒻之類，生水中）。",
+      "boundary": "源自《系统汉语》第178部「罙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-044"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「罙」字族之二指探取：探（撏）、𩤞",
+      "statement": "「罙」字族之二指探取：探（深入摸取，《說文》「遠取之也」；《爾雅》「探，試也」；或作撏）、𩤞（馬行步向前，取馬行走時馬蹄如探取物一般）。",
+      "boundary": "源自《系统汉语》第178部「罙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-045"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「覃」甲骨文象尖底大口瓶形，金文加「鹵」，為熬鹵水成鹽，實「鹽」的初文",
+      "statement": "「覃」（𧟩𧟹𪉙𪉞𪉫𪉲𪉷）甲骨文本象尖底大口的瓶形，形制大抵與「酉」近似，只是「酉」形制要小、口不大。金文添加「鹵」，當指用這種罐子將鹵水熬製成鹽，跟用釀酒的「酉」表示「酒」的方式相同，實為「鹽（yán）」的初文。",
+      "boundary": "源自《系统汉语》第179部「覃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-046"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「覃」由鹽能滲入食材引申指悠長、蔓延，又引申指銳利",
+      "statement": "鹽是五味之首，能滲入各種食材使之變得可口，故引申指悠長、蔓延（《說文》「長味也」；《廣雅》「長也」；《廣韻》「及也、延也」）。鹽能使物體脫水、殺菌、防腐，或引申指銳利（《集韻》「剡，利耜也。或作覃」）。",
+      "boundary": "源自《系统汉语》第179部「覃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-047"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "商周煮鹽工藝分種鹽、淋鹵、煎鹵三步，山東壽光、東營出土煮鹽陶器",
+      "statement": "山東壽光商代制鹽遺址出土煮鹽陶器；山東東營市南河崖制鹽遺址出土商周時期熬鹽罐，遺址存鹵水溝、刮鹵攤場、淋鹵坑、鹽灶，所展現的煮鹽技術流程與《天工開物·海水鹽》所記差不多：一是種鹽，先在地上廣布蘆茅灰寸許，壓使整平，第二天早晨露氣沖騰則其下鹽茅勃發；二是淋鹵，日中晴霽時將灰、鹽一併掃起，放到淋鹵坑上鋪有席子的支架上用鹵水灌淋，得到更高濃度的鹵水；三是煎鹵，從淋鹵坑舀出鹵水裝入盔形器，在鹽灶上加熱蒸發水分，水沸時加入椎碎的皂角和粟米糠二味結晶劑，鹽便很快結晶。",
+      "boundary": "源自《系统汉语》第179部「覃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-048"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "鹽井深引申指深、探取，煮鹽引申指煮熬；「覃」為借音字，義音同「尋」",
+      "statement": "除海水煮鹽外，還有岩鹽、井鹽等來源。獲取鹵水的鹽井很深，故引申指深，此義分化如「嘾（含深也）」；或引申指探取，此義分化如「撢（探也）」。由煮鹽過程引申指煮、熬，此義分化如「燂（火孰物也）」。音源方面「覃」是借音字，因有深、長義，義音同「尋」：《集韻》「潯，《說文》『旁深也』。或作𤃂、潭」。",
+      "boundary": "源自《系统汉语》第179部「覃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-049"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「覃」字族之一指鹽井，表示深、探：潭、撢、嘾、㜤、瞫、橝、鐔、罈、贉",
+      "statement": "「覃」字族之一指鹽井，表示深、探：潭（即今柳江；又深水貌；浸潭與浸淫同）、撢（探求、探尋）、嘾（含得很深）、㜤（志趣低下、十分貪婪）、瞫（深視；下視；竊見）、橝（屋簷；架蠶箔的木柱）、鐔（劍柄與劍身連接處兩旁突出的部分，取其狀如簷）、罈（平底瓦罐）、贉（買物預付訂金）。",
+      "boundary": "源自《系统汉语》第179部「覃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-050"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「覃」字族之二指鹽味，表示長、久：簟、鱏、㽑、禫、譚、醰、驔",
+      "statement": "「覃」字族之二指鹽味，表示長、久：簟（竹席，《釋名》「布之簟簟然平正」）、鱏（白鱘，已滅絕；《本草綱目》「此魚延長，故从尋、从覃，皆延長之義」）、㽑（長味，或作醰）、禫（服喪二十七月後除服的祭祀，取長久之意）、譚（宏大；與談同，取話多綿延不絕之意）、醰（酒味苦；厚味）、驔（深黑色馬、黃色脊樑）。",
+      "boundary": "源自《系统汉语》第179部「覃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-051"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-31-xun",
+      "title": "「覃」字族之三指煮鹽，表示煮鹽用的相關材料或煮鹽狀：蕈、藫、燂、䊤、蟫",
+      "statement": "「覃」字族之三指煮鹽，表示煮鹽用的相關材料或煮鹽狀：蕈（桑樹上的木耳，或指其他菌類；一說可作鹽的草）、藫（水苔、海藻，疑本指煮「蓬鹽」用的海草）、燂（火熱；于湯中爚肉；以湯沃毛令脫）、䊤（稠粥用菜摻和；稀飯）、蟫（書中的蠹蟲，即白魚）。",
+      "boundary": "源自《系统汉语》第179部「覃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "id": "j31-052"
+    }
+  ]
+}
