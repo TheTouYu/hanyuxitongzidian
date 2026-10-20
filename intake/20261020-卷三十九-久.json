@@ -1,0 +1,830 @@
+{
+ "schema_version": 1,
+ "intent": "录入《系统汉语》卷三十九 久（220.勺部–222.兆部）",
+ "risk": "medium",
+ "baseline_mode": "worktree",
+ "claims": [
+  {
+   "id": "j39-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卷卅九音源字為「久」，與「勺」同源，象勺形，音源為烙印時燒紅烙鐵接觸皮膚之聲",
+   "statement": "本卷的音源字是「久」，与「勺」同源，象勺形。其音源为给牛羊等牲畜烙印时、烧红的烙铁接触皮肤时所发出的声音。灸灼会使皮肤变焦，故此义音同「焦」、同「秋」。",
+   "boundary": "源自《系统汉语》卷三十九「久」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "topic_path": "knowledge/hanzi-yinyuan/39a-jiu.md",
+   "topic_title": "卷三十九·久",
+   "topic_summary": "卷三十九「久」（第220–222部，p638–p650）：220 勺部（p639）、221 韭部（p649）、222 兆部（p650）。音源字「久」，与「勺」同源，象勺形，音源为烙印牛羊时烧红烙铁接触皮肤的声音；灸灼使皮肤变焦，故义音同焦、秋。久本为灸之初文（勺状烙铁/熨斗，内可放烧红木炭），用于烙印以为所属标记，烙印久存故引申时间长久；用于热疗则为艾灸，用于熨衣则分化作「尉」。勺状物一支多分：舀取为勺、指北斗为斗、抛掷石块为氒、烧红烫物为久；勺部另含刁、豹、斗、久、召、粥、卓诸字根。韭象韭菜丛生，割而复生一种久食，故义音同久；兆从北从水象隔水为界，界沟窄可跃过，故有裂缝卜兆、跳越诸义而借音同勺。",
+   "topic_keywords": [
+    "久",
+    "勺",
+    "斗",
+    "召",
+    "卓",
+    "韭",
+    "兆",
+    "灸",
+    "烙印",
+    "北斗",
+    "音源"
+   ]
+  },
+  {
+   "id": "j39-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "最古老的中醫是針灸，出於人體本能的按壓撫揉，先民借助工具而灸療生",
+   "statement": "真正最为古老的中医是针灸：它出于人类本能的条件反射，然后摸索成规律，从而不断完善成医术——身体哪个地方痛，都会本能地去按压、抚揉，而且这种方法确实行之有效；于是先民便试着借助工具来治疗，灸疗也就应运而生。",
+   "boundary": "源自《系统汉语》卷三十九「久」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "「灸」本从「久」，久象勺形，指勺或勺狀烙鐵；後來才改用艾灸",
+   "statement": "通常所说的「灸」是指艾灸，《段注》「今以艾約體曰灸」，但这其实是后来的事。「灸」本从「久」，「久」象勺形，指的就是勺或勺状的烙铁。后来之所以选用艾灸，除了艾草的香气和药用价值外，更在于艾绒燃烧缓慢而持久、方便使用。",
+   "boundary": "源自《系统汉语》卷三十九「久」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "烙印的由來：放牧混雜須作記號，記號易失易假，故以燒紅的勺子燙出焦印",
+   "statement": "先民放牧，大家的牛羊都在同一片草野，难免会相混。为了区分，人们便将各自的牛羊作上记号；一般的记号容易消失或被假冒，于是便有了烙印——在牛羊身上烫出一块特有的印记。这印记烫焦了牛羊的皮肤便不再长毛，从而会长期保留下来。烙印的工具并不常用，因此直接用长柄的勺子就可以，这就是「灼、約」之所以从「勺」的原因（都指用勺子烙印的功能，故有烧灼、约束之义）；此外勺子里还可以直接放进烧红的木炭，以用于灸烫或熨烫。",
+   "boundary": "源自《系统汉语》卷三十九「久」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "北斗七星是天地秩序的制定者：斗柄所指定四季，古人以之為帝車",
+   "statement": "在中国古代神话中，北斗七星是天地秩序的制定者。《鹖冠子》「斗柄东指，天下皆春；斗柄南指，天下皆夏；斗柄西指，天下皆秋；斗柄北指，天下皆冬」，说的是春夏秋冬四季的午夜北斗斗柄分别指向东南西北，这其实是地球公转所致；战国时编成的《甘石星经》「北斗星谓之七政，天之诸侯，亦为帝车」，将其比于帝车，天帝也如人间君王坐着它到四方巡视。",
+   "boundary": "源自《系统汉语》卷三十九「久」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "北斗七星名目；「斗」為象事字，甲骨文於勺柄作標記，本義指北斗，引申指量器斗",
+   "statement": "北斗七星是夜空中的七颗亮星，组成图形像古代的斗，故名；从斗身最前端到斗柄末尾，七颗星分别称作天枢、天璇、天玑、天权、玉衡、开阳、瑶光。「斗」其实是象事字，其甲骨文是在「勺」的柄部作一标记，表示北斗星柄部的旋转，因此本义指的就是北斗星；后引申指量器斗，其实那是「勺」的本义。因指印记，而「兆」借其音；因有长久义，而「韭」借其音。",
+   "boundary": "源自《系统汉语》卷三十九「久」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺本義：象勺形，中有一點象所舀取的細小或流體物質，指食用之器",
+   "statement": "勺（杓）本义：象勺形，中间的一点象事指舀取的细小或流体物质，表示食用之器。sháo、shuó，《玉篇》「饮器也，十勺为升，亦作杓」；zhuó，《说文》「挹取也，象形，中有实，与包同意」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺轉義：由舀取而攪拌引申為調和，又比喻形狀相似之物（射質、箭靶）",
+   "statement": "转义：勺子除用于舀取流体或细小的颗粒物外，也用于搅拌，故引申指调和（zhuó，《集韵》「勺药，调五味也」）；由勺子之状，或比喻指形状相似的东西，如 dì《集韵》「㢩，射质也，或省，通作的」，即箭靶。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺辯證：勺尚可作烙鐵（分化久）、拋石（氒）、量器（斗升），字形又與刀匕相混",
+   "statement": "辩证：勺除舀取、搅拌外还有许多用途——可烧红作烙铁用，给牲畜烙上标记，此义分化作「久」；可用于抛掷石块之类，此义分化作「氒」；可作量器用，此义分化作「斗、升」。这些器物或因为形状似勺、或是大小不同的勺子，故字形也都同「勺」。此外，因其字形跟「刀、匕」相近，而与之相混。由于这些字都衍生有自己的字族、具有一定的独立性，故都有专门的释解；只是这些字（特别是「久」）其义或体现在以「勺」为声的字族中，辨析时需要注意。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺為音源字：源自灸灼聲，因燒灼義而義音同「焦」",
+   "statement": "音源：勺是音源字，源自灸灼声。因有烧灼义，而义音同「焦」：《集韵·药韵》「灼，《说文》：炙也，或作燋」；《战国策·齐策》「宜若奉漏甕沃燋釜」、《论衡·雷虚篇》「石燋井寒」、《白虎通·五行》「其火燋金」，诸「燋」字并与「灼」同。因此本部的独立性也不强，跟蟋蟀、雀、杵诸部多有交集。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺部字族一：指勺狀與舀取（杓、刁、𩲃、酌、汋、与、叼、訋）",
+   "statement": "字族衍义①指「勺」，表示勺状、舀取：杓（biāo《说文》「枓柄也，从木从勺」；勺子把；《广韵》「北斗柄星」；sháo「杯杓」，挹酌器；dí「柄末横木」）、刁（diào《集韵》「古者军有刁斗，以铜作鐎，受一斗，昼炊饮食，夕击行夜」，其状如勺；因字形跟「刀」近或误作「刀」，引申指狡诈、勾引、诱骗）、𩲃（zhuó《字彙补》「斗星名」，北斗七星连线似勺）、酌（zhuó《说文》「盛酒行觞也」，斟酒、用勺舀酒喝）、汋（zhuó《说文》「激水声也，井一有水一无水谓之瀱汋」，挹也；yuè 涮、煮；chuò「汋约」，姿态美好）、与（與，yǔ《说文》「赐予也，一勺为与」，给予）、叼（diāo，用嘴衔住）、訋（diào《玉篇》「拏也」，声也）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺部字族二：指「久」的灸灼、顯明（旳、菂、芍、馰、玓、礿、䋤、灼、圴、烵、䓎、㢩、䶂、虳、𪔸）",
+   "statement": "字族衍义②指「久」，表示灸灼、显明：旳（的，dì《说文》「明也，从日勺声」，明显，当指太阳的灸烤；《释名》「以丹注面曰旳」，古代妇女用朱色点在面部的装饰；de，助词）、菂（dì《集韵》「芙蕖中子」，莲子）、芍（xiáo《说文》「凫茈也」，荸荠，苗如葱、块根圆球形色紫、状似烙铁；sháo 芍药）、馰（dí《说文》「马白頟也」）、玓（dì《说文》「玓瓅，明珠色」）、礿（yuè《说文》「夏祭也」，灼热之祭，当从久）、䋤（yuè《说文》「白约，缟也」，白色的绢）、灼（zhuó《说文》「炙也」；《玉篇》「灼灼，花盛貌，又热也、明也」；《方言》「惊也」）、圴（zhuó《集韵》「土迹」）、烵（zhuó《集韵》「烵烁，草木花色盛貌」）、䓎（chuò《集韵》「艸名」）、㢩（dì《广韵》「射也」；《集韵》「射质也，或省，通作的」，箭靶）、䶂（zhuó《说文》「胡地风鼠」，鼠属能飞、食虎豹，出胡地；刺猬类）、虳（jué《玉篇》「鼠也」）、𪔸（diāo 俗鼦字，即貂，指其身上斑纹如烙印）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺部字族三：指「久」的標記、約束、節制（約、䵠、箹、彴、𩚈、𢁕、妁、𥭖、靮、仢、𥭓、畃、葯、𧘑）",
+   "statement": "字族衍义③指「久」，表示标记、约束、节制：約（yuē《说文》「缠束也」，即缠绳以为标记；《玉篇》「少也、俭也、薄也、束也、缠也」；yào 要领、关键；dì 琴徽；yāo 用秤称物）、䵠（dí《博雅》「龙须谓之䵠」；妇人面饰；黑子著面；zhuó「妇人以点饰」）、箹（yuē《说文》「小籁也」，小管乐器，大籥谓之产、中谓之仲、小者谓之箹；yào 竹节；chuò 车篷带）、彴（zhuó《广雅》「独梁也」，独木桥；bó「奔星为彴约」，流星）、𩚈（yuē《集韵》「食节也」）、𢁕（diǎo《玉篇》「缯头也」）、妁（shuò《说文》「酌也，斟酌二姓也」，媒人；yuē「婥妁」，姿态柔美）、𥭖（bó《说文》「手足指节鸣也」，指节声，拟声字）、靮（dí《说文》「马羁也」，马缰绳）、仢（bó《说文》「约也」；《尔雅》「奔星为仢约」）、𥭓（bó「𥭓箕，軬带也」，车篷带）、畃（xún《字彙补》「令也」）、葯（yào《集韵》「白芷其叶谓之葯」；dì、yuē「缠也」）、𧘑（zhuó《玉篇》「襌衣」；bào 衣襟）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺部字族四：指「氒」的拋擊、踢出、暴起（䄪、扚、𩾡、𩖚、㣿、𥐝、尦、趵、䂆、𠡑、𠮭、𡖑、𢯊、𢻭、𠣳、𤿈、𦳹、𩭲、瓝）",
+   "statement": "字族衍义④指「氒」，表示抛击、踢出、暴起：䄪（diǎo《说文》「禾危穗也」，禾穗下垂貌）、扚（diǎo《说文》「疾击也」；《方言》「揜取曰扚」；dí 引也；yuē 手指节文；lì 按也）、𩾡（bào《正字通》「鴇，一名獨豹，後人妄立𩾡字」，大鸨，从豹省声、善跑如豹）、𩖚（biāo《集韵》「飙，《说文》：扶摇风也」，或从包、从勺，亦作飘，通作猋）、㣿（zhuó《方言》「痛也」；《广雅》「惊也」；diǎo「垂心」）、𥐝（dí《集韵》「磓也」，大约指桔槔）、尦（liào《说文》「行胫相交也」，行走时两腿相交；尥蹶子，骡马跳起来用后腿向后踢）、趵（bō《玉篇》「足击声」；bào「跳跃也」；pào「跑，兽前足扒地也」）、䂆（xù《集韵》「矛也」）、𠡑（zhuō《集韵》「健也」；yuē 同约，束也）、𠮭（bó《集韵》「嚗，怒声，或作𠮭」）、𡖑（gǒu《字彙补》「句也」）、𢯊（dāi 方言，扭、揪）、𢻭（bó《集韵》「㩧，《博雅》：击也」，击声）、𠣳（pào《集韵》「起也」）、𤿈（báo《集韵》「𦢊，肉胅起，一曰皮破」）、𦳹（wò《集韵》「艸名，蒻也」）、𩭲（dí「𩭲髻，同䯼髻」，发髻或假髻）、瓝（bó《集韵》「小瓜」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺部字族五：指「釣」的釣魚之狀（汈、瘹、𥲟、𦋥、𦨓、䔙、𦉹、釣）",
+   "statement": "字族衍义⑤指「釣」，表示钓鱼之状：汈（diāo「汈汊，湖名，在湖北汉川市」）、瘹（diào《博雅》「狂也」；《集韵》「小儿疾」）、𥲟（diào《字彙补》「竹也」）、𦋥（yuē「𦋥𦊲，鱼网」）、𦨓（zhuó「小船」）、䔙（diào《集韵》「艸名」）、𦉹（dí《广韵》「鱼击网也」；《集韵》「魡，系鱼也，或作𦉹」，即钓）、釣（diào《说文》「钩鱼也」，用长杆钓钩钓鱼；甲骨文作持杆钓鱼形，从「勺」系由钓线演变而成）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-016",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "勺部字族六：形近字「刀」之訛，指斷（䒒、𩾗、𠤉、𠚭、𠚻）",
+   "statement": "字族衍义⑥形近字「刀」之讹，指断：䒒（tiáo 苇华，其类皆有䒒秀，通作苕，今人取之为帚曰苕帚）、𩾗（diāo《尔雅·释鸟》「𩾗鹩，剖苇」，一种青斑色的小鸟，喜欢用嘴啄开芦苇皮吃秆中虫；jiāo 同鹪）、𠤉（jué《字彙补》「古文绝字」，应从刀）、𠚭（dì《集韵》「断也」）、𠚻（diāo《正字通》「讹字」，应从刀，指断取、割取）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-017",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "豹本義：甲骨文象身上有斑紋的金錢豹，因斑紋如被灸而金文加聲符「勺（久）」",
+   "statement": "豹（𤝧犳）本义：甲骨文本象身上有斑纹的金钱豹形；因其斑纹如被灸，故西周金文添加声符「勺（久）」。bào，《说文》「似虎，圜文，从豸勺声」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-018",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "豹部字族：取豹子特徵為意（𪕺、𠹕、𥔰）",
+   "statement": "字族衍义（取豹子的特征为意）：𪕺（zhuó 同䶂，胡地风鼠，鼠属能飞食虎豹，刺猬类、有斑纹如豹）、𠹕（bào《集韵》「夸也」，指豹吼）、𥔰（pào《集韵》「炮亦作𥔰」，俗炮字，指豹子奔跑的速度快）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-019",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗本義：與勺結構相似而指示符號標在柄部，象斗柄轉動，本義指北斗星",
+   "statement": "斗（𣁬𠦁𤣫𣂑）本义：与「勺」的结构相似，主体象勺形，只是将指示符号标记在勺的柄部，象事指斗柄的转动，本义应是指北斗星。北斗由七颗恒星组成，连起来就象勺子；由于地球自转，肉眼见到的星空也跟着旋转，地轴所指刚好是北极星，因此北斗便随时令变化围绕北极星旋转，柄端犹如时钟的指针，所指方位对应不同季节。《正字通》「本作斗宿名」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-020",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗轉義：由斗狀引申指形似之物與量器（十斗為斛）",
+   "statement": "转义：由斗之状，引申指形似的物体；zhǔ《集韵》「枓，《说文》：勺也」；dǒu《释名》「斗在栾两头，如斗也」；或专指量器，《六书故》「斗，酌器，因以为量，十斗为斛」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-021",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗辯證：《說文》「十升也，象形，有柄」析形不確，應為象事字",
+   "statement": "辩证：《说文》「十升也，象形，有柄」——象形不必在柄部作标记，应为象事字，故析形不确。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-022",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗為借音字：本勺聲，因北斗為萬物化生之主宰而義音同「主」",
+   "statement": "音源：斗本勺声。由于北斗星跟四时变化的紧密联系，在古人心目中北斗成为天地万物化生的中心、是主宰，故义音同「主」：《易·丰》「日中见斗」，《释文》「孟作见主」；《诗·小雅·大东》「维北有斗」，《释文》「斗，沈作主」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-023",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗部字族一：指斗形，表勺或勺狀物（枓、蚪、鈄、阧、斢、斝、㞳、𣁵、𧘞、㪷、㳆、𣂁）",
+   "statement": "字族衍义①指斗形，表示勺或勺状物：枓（zhǔ《说文》「勺也」；《玉篇》「有柄，形如北斗星，用以斟酌也」；dǒu「柱上方木」「枓拱」）、蚪（dǒu「蝌蚪」，蛙的幼虫，状如斗）、鈄（dǒu 酒器，即金属斗；姓）、阧（dǒu 同陡，陡峭，如斗壁）、斢（tǒu《集韵》「黈，黄色，通作斢」；古代君主以黄绵为丸、用丝带悬于冕垂两耳旁以示不妄听；tiǎo 调换）、斝（jiǎ《说文》「玉爵也，夏曰琖，殷曰斝，周曰爵」，甲文金文实与爵同）、㞳（dǒu《集韵》「山名」）、𣁵（dǒu《篇韵》「用以斟酌也」）、𧘞（dǒu《玉篇》「衫袖也」）、㪷（dǒu《玉篇》「斗，十升曰斗，㪷，俗字」）、㳆（tǒu「㳆乡，地名」）、𣂁（tiāo、qiāo《说文》「斛旁有𣂁」，古田器，今俗别作锹）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-024",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗部字族二：指用斗，表稱量、舀取（料、窲、抖、唞、䚵、𣁳）",
+   "statement": "字族衍义②指用斗，表示称量、舀取：料（liào《说文》「量也，从斗，米在其中」，称量；《玉篇》「数也、理也」；《正字通》「材质也」；liáo 捋也；小鼓谓之料，声清而不乱）、窲（cháo《集韵》「寥窲，屋深貌」）、抖（dǒu《玉篇》「抖擞，起物也」，抖动、振动）、唞（dóu 方言，歇、休息）、䚵（tǒu《集韵》「诱也」，以言掇诱）、𣁳（wò《玉篇》「抒也」，斗取物；吹火也）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-025",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗部字族三：指北斗，表旋轉、交錯（斡、濣、炓、閗）",
+   "statement": "字族衍义③指北斗，表示旋转、交错：斡（wò《说文》「蠡柄也」，瓢把；应为「斗」声，本指北斗的旋转；《广雅》「转也」；guǎn 车毂孔周边金属包裹的圆管状部分）、濣（wò《集韵》「取水也」）、炓（liào《玉篇》「火光貌」）、閗（dòu 俗斗字，「交争也」，此义今简化作「斗」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-026",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "斗部字族四、五：象意俗字含勺義（酙）與形近「丩」之訛（𪖘、呌、㸯）",
+   "statement": "字族衍义④象意俗字，含勺义：酙（zhēn《龙龛》「斟，酌也，益也，匀也，取也」，酙、㪸二俗同上）。⑤形近字「丩」之讹：𪖘（yào「鼼字之讹」，仰鼻也、折鼻也）、呌（jiào 俗噭字，鸣也、远声也、唤也，与叫同）、㸯（kē《集韵》「郭犐，牛属，一曰牛无角也」，大约指一种尾长腿短身肥、状如蝌蚪的牛；jiū 大牡谓之㸯）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-027",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "久本義：與氒同源，象長柄勺形，指燒紅以燙物（烙鐵、熨斗），實為「灸」之初文",
+   "statement": "久（乆）本义：「久」跟「氒」本是同源字，象长柄勺形。勺状物有许多作用，因此分化成「勺、斗、久、氒」等：用于舀取水等为「勺」；指北斗为「斗」；用于抛掷石块为「氒」；而「久」则指烧红以烫物，类似于烙铁或熨斗，实为「灸（jiǔ）」的初文，《说文》「灼也」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-028",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "久轉義：烙印不滅故引申時間長久與滯留；熱療與熨衣分化為灸、尉",
+   "statement": "转义：用久灼烫的目的主要有两个：一是给人、畜和器物烙上印记，表示为某所有、以区别于其他人，这种烙印不会轻易磨灭，从而引申指时间长（jiǔ，《玉篇》「远也、长也」；《正字通》「暂之反也」），又由时间长引申指滞留、堵塞（《集韵》「以盖塞鬲口也」）；一为给人热疗（jiù，《正字通》引《六书本义》「久，灼病也」），这一应用后来发展为艾灸、一直延续至今，另外也用于熨烫衣服使之平展，此义分化为「尉（㷉）」（《说文》「从上案下也，从𡰥，又持火，以尉申缯也」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-029",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "久辯證：《說文》「从後灸之，象人兩脛後有距」析形不確，因小篆上部把勺體寫成「人」",
+   "statement": "辩证：由于小篆「久」的上部将勺体写成「人」字形，故《说文》「从后灸之，象人两胫后有距也」析形不确。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-030",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "久為音源字：源自用久烙物時所發出的聲音，類似淬火聲",
+   "statement": "音源：久是音源字，源自用久烙物时所发出的声音，类似于淬火声。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-031",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "久部字族一：指灸灼，表灼燙、誘導、追究（灸、玖、羑、㕗、畂、𠝙、𥤯）",
+   "statement": "字族衍义①指灸灼，表示灼烫、诱导、追究：灸（jiǔ《说文》「灼也」，用艾绒所制艾炷或艾条烧灼或熏熨人体穴位表面以治病）、玖（jiǔ《说文》「石之次玉黑色者」，黑色的玉，取灸而变黑为义；借用作「九」的大写以防奸易）、羑（yǒu《说文》「进善也」，引导向善美前进；疑本指在羊身上烙上标记表示驯养；《玉篇》「导也、进也、善也，今作诱」）、㕗（yòu《说文》「相訹呼也」）、畂（liù《集韵》「耕地起土也」；mǔ「亩字之讹」）、𠝙（jiǔ《海篇》「出罪也」）、𥤯（jiù 同究）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-032",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "久部字族二：指久，表時間長（柩、奺、㝌、疚、𨾉、汣、镹、湵、𠨠、𢏉、𣿤、𪖓）",
+   "statement": "字族衍义②指久，表示时间长：柩（jiù《说文》「棺也」，灵柩；《白虎通》「柩，久也，久不复变也」）、奺（jiǔ《说文》「女字也」）、㝌（jiù《说文》「贫、病也」；久居也）、疚（jiù《集韵》「久病也」；《释名》「疚，久也，在体中也」；或指贫穷、居丧、惭愧）、𨾉（jiǔ 姓）、汣（jiǔ 同氿，宜兴东西二汣，溪名）、镹（jiǔ《集韵》「长也，通作乆」）、湵（yǒu《集韵》「水名」）、𠨠（jí《字彙补》「久也」）、𢏉（jiù「弓强也」）、𣿤（yǒu 水名）、𪖓（qiú 同鼽，《释名》「鼻塞曰鼽，鼽，久也，涕久不通遂至窒塞也」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-033",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "久部字族三：形近「彡、勻、夋」之訛（𧰫、𧺓、𪔼）",
+   "statement": "字族衍义③形近字「彡、匀、夋」之讹：𧰫（chù「豕行也」，𢒔的讹字）、𧺓（qióng 俗赹字，「独行貌」）、𪔼（jùn 俗𪕞字，「食鼠，出蜀中，毛可为笔」；或谓不一定是讹字，或是「䶂」的异体）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-039",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召本義：从雙手持勺向口（或酉、曾），象揭開酒罈或蒸籠舀取酒食，為「䬰」初文",
+   "statement": "召（𠮦𥃝𠮥）本义：甲骨文从双双手持「勺（匕）」向「口（或省）」，「酉」指酒罈、「曾」指蒸笼，象意揭开酒罈或蒸笼舀取酒食；可谓「䬰（shào）」的初文（《广韵》「小食」），品尝之意。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-040",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召轉義：酒食香氣四溢十分誘人，故引申指召喚、招引",
+   "statement": "转义：揭开酒罈或蒸笼，酒食香气四溢、十分诱人，故引申指召唤、招引（zhāo，《玉篇》「呼也」；《广雅》「靓也」，邀请）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-041",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召辯證：或从口从勺而勺亦聲，因勺刀形近為《說文》所混；召亦可从久从口象灸灼龜殼裂縫",
+   "statement": "辩证：召或从口从勺、勺亦声，因「勺、刀」形近而为《说文》所混（「呼也，从口，刀声」），析形不确。但「刀、勺」既相混，则「召」同样也存在本从刀从口的情况，如「绍」甲骨文本从刀、与「绝」同源（见 603 刀部），战国古文分化作「绍」。同时「召」也可以独立象意：所从「勺」也可以指「久」、表示灸灼之意，从「口」象意占卜时灸灼龟壳所产生的裂缝，即「𠧙（shào）」的初文（《说文》「卜问也」；「𠧞」《说文》「灼龟坼也」）；因此「召」跟「兆」也是音义相通的，表示细长的缝隙，或跳跃之意。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-042",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召部字族一：指酒食香氣，表招引、美好（招、韶、眧、玿、䬰、𥹙、䂏、𪌕、𠰉、蛁、欩、鞀、髫、齠）",
+   "statement": "字族衍义①指酒食的香气，表示招引、美好：招（zhāo《说文》「手呼也」，用手招引、邀请；qiāo 举也；sháo 同韶，虞舜乐、「美也」）、韶（sháo《说文》「虞舜乐也」，《书》「箫韶九成，凤皇来仪」；古和乐之乐皆曰韶；美也）、眧（chǎo《集韵》「以目玩人谓之眧」，用目光挑逗人）、玿（sháo「美玉」）、䬰（shào《广韵》「小食」；方言，用泔水、米糠、野菜等煮成的饲料）、𥹙（sào「泔水」）、䂏（diāo《广雅》「短也」；犬短尾）、𪌕（chǎo 同𪍑，糗也，干粮）、𠰉（chāo《玉篇》「喉鸣」；截人言，打断别人的话）、蛁（diāo《说文》「虫也」，蛁蟟，一种蝉名，高处鸣叫）、欩（chāo《集韵》「欩歊，气上蒸」）、鞀（táo《说文》「鞀辽也」，拨浪鼓，生意人招引客人的响器）、髫（tiáo 古时儿童下垂的发式）、齠（tiáo《集韵》「毁齿也」，开始换牙，即招引新的牙齿生出之意）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-043",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召部字族二：指卜兆，表卜問、顯明（𠧙、笤、祒、佋、詔、䙼、昭、炤、照、貂、駋）",
+   "statement": "字族衍义②指卜兆，表示卜问、显明：𠧙（shào《说文》「卜问也」，俗𠧞字）、笤（tiáo 笤帚，用细竹枝做成；shào 卜卦的用具即「筊」，用两块竹根制成）、祒（tiáo 人名，巫咸祒）、佋（zhāo《说文》「庙佋穆」，宗庙排列的昭穆次序）、詔（zhào《说文》「告也」；《释名》「诏，昭也」；皇帝颁发的命令、诏书）、䙼（shào《唐韵》「见也，召也」）、昭（zhāo《说文》「日明也」，太阳显露出来；《尔雅》「光也、见也」）、炤（zhào《广雅》「明也」）、照（zhào《说文》「明也」，照耀；察知、知晓、告知、对照、反射影像、拍摄、镜子、凭据、看顾）、貂（diāo《说文》「鼠属，大而黄黑，出胡丁零国」，水貂，同䶂）、駋（zhāo《集韵》「马名」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-044",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召部字族三：指兆紋，表溝池、縫隙、界線、細長（沼、袑、怊、𨹸、𦯐、䈃、𣉈、𤿘、𢁾、鮉、弨、鍣、𣬸、𦨣、鉊）",
+   "statement": "字族衍义③指兆纹，表示沟池、缝隙、界线、细长：沼（zhǎo《说文》「池水」；《韵会》「圆曰池，曲曰沼」）、袑（shào《说文》「绔上也」，裤裆）、怊（chāo《新附》「悲也」；奢也、怊怅失意）、𨹸（zhào《说文》「耕以臿浚出下垆土也」，耕田的人用锹翻出地下黑色坚硬的土；田间土埂）、𦯐（sháo「艸名」）、䈃（zhǎo「竹名」）、𣉈（shào 同昏）、𤿘（zhāo《集韵》「肉之魄莫」，皮肉上的薄膜）、𢁾（chāo《玉篇》「细丝也」）、鮉（diāo 同鲷，好在水面活动的一种条形小鱼）、弨（chāo《说文》「弓反也」，将弦松开、弓身变长）、鍣（zhāo《集韵》「锥也」）、𣬸（tiáo「𣬸㲖，鸟尾翘毛」）、𦨣（diāo 小船）、鉊（zhāo《说文》「大𨮯也，鎌谓之鉊」，大镰刀）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-045",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召部字族四：同「兆」，表跳躍、高遠（超、劭、岹、苕、菬、軺、𥁏、迢、邵、卲、牊、柖、𠣫）",
+   "statement": "字族衍义④同「兆」，指跳跃，表示高、远：超（chāo《说文》「跳也」；《释名》「卓也，举脚有所卓越也」；《方言》「远也」）、劭（shào《说文》「勉也」，勉励自己；高、美好）、岹（tiáo 同岧，「岧嶤，山高貌」）、苕（tiáo《说文》「艸也」，凌霄花，蔓生得木而上即高数丈；苕菜即紫云英；芦苇的花穗）、菬（qiáo《说文》「艸也」，疑即苕）、軺（yáo《说文》「小车也」；《释名》「遥也，四向远望之车」）、𥁏（diào 同盄，铫子，可吊起来烧水熬煮食物的器具）、迢（tiáo《说文》「迢，遰也」，远不相通曰迢遰）、邵（shào《说文》「晋邑也」）、卲（shào《说文》「高也」，高尚、美好）、牊（cháo《篇海》「几也」）、柖（sháo《说文》「树摇貌」；《广韵》「射的也」；浴床）、𠣫（shào《玉篇》「倒悬钩」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-046",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "召部字族五：形近「刀、巴、亟」之訛（紹、刟、𠯉、𢑦）",
+   "statement": "字族衍义⑤形近字「刀、巴、亟」之讹：紹（shào《说文》「继也」，继承、接续；一曰绍紧纠也；甲骨文本从糸从刀可隶定作「𠛩」，又讹混作「糾」；chāo 缓也）、刟（diāo《集韵》「𠚥，《博雅》：断也」）、𠯉（jí《字彙补》「与亟同」）、𢑦（shào「𢽪字之讹」；「巴、召」相近，应为「𢃳」字之讹）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-047",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "粥本義：从鬲中有勺，表示需用勺舀取的食物，下或从火表火煮",
+   "statement": "粥（鬻）本义：甲骨文从鬲中有勺形、勺亦声。「鬲」为古代炊具、类似现在的饭锅；从「勺」表示需要用勺舀取的食物，里面或有小点表示饭粒；下或从火表示用火煮。「鬲」后来演变作「弜」形、小点演变作「米」，遂成「粥」。zhōu，《说文》「䭈也」；《玉篇》「糜也」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-048",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "粥轉義：由舀粥引申為叫賣，由粥的稠和引申為柔弱",
+   "statement": "转义：跟「召」一样，由舀粥引申指叫卖（《广韵》「鬻，卖也，亦作粥」）；由粥的稠和之状，引申指柔弱（zhōu，《正字通》「柔弱貌」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-049",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "粥部字族：取粥的稀意（𢐫、𤳕、𪆀）",
+   "statement": "字族衍义（取粥的稀意）：𢐫（zhōu 同粥）、𤳕（yù《广韵》「生田」，疑即粥）、𪆀（zhōu「𪆀鸠，鸟名」，即鹁鸪；《本草纲目》「食之令人不噎」，显然取粥的不用咀嚼可直接下咽，鹁鸪喝水可直接吞咽而不像其他鸟类需要停顿，故古代鸠被当作养老的象征，汉代还特意赐鸠杖给七十岁以上的老人）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-050",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓本義：甲骨文从畢勺聲，畢與勺皆有長柄可遠距撈取，故表高、遠",
+   "statement": "卓（㔬𠤚𠤟𠤞𢂦𢂚𠦝）本义：甲骨文从毕勺声。「毕」指一种长柄的网，「勺」指勺子，毕跟勺本形状相似、都有着长长的柄，可以远距离地捞取或舀取东西，从而表示高、远之意。zhuō，《释名》「超卓也，举脚有所卓越也」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-051",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓轉義：由距離的高遠引申為高明、突出",
+   "statement": "转义：由距离的高、远，引申指高明、突出（《广韵》「高也」；《正字通》「特立也」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-052",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓辯證：西周金文將「畢」訛成「早」，故《說文》「早匕為㔬」析形不確；畢與弋本通",
+   "statement": "辩证：由于西周金文将「毕」讹成「早」，故《说文》「高也，早匕为㔬，匕卪为卬，皆同义」析形不确。不过「毕」跟「弋」本相通（《玉篇》「毕，弋也」），西周金文本应该是从「弋」，因与「早」字形近而讹（可参 26 弋部）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-053",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓為借音字：本「勺」聲，古卓、勺義音相通",
+   "statement": "音源：卓本「勺」声。古卓、勺义音也通：《书·立政》「灼见三有俊心」之「灼」，《说文》「焯」字条引作「焯」。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-054",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓部字族一：指畢獲之狀，表遠伸撈取、搖動、奪取（罩、𩷹、掉、𩘀、𧣺、棹、淖、鋽、㪕、㹿、𢿭）",
+   "statement": "字族衍义①指毕获之状，表示远伸捞取、摇动、夺取：罩（zhào《说文》「捕鱼器也」，捕鱼的竹笼）、𩷹（zhuó《说文》引《诗》「烝然𩷹𩷹」，捕鱼器具）、掉（diào《说文》「摇也」，《春秋传》「尾大不掉」；今多指落下、减损、遗失、回转）、𩘀（zhào「𩗀𩘀」，盛夏开始时强劲的东南风）、𧣺（nuò《集韵》「握也」）、棹（zhào 同櫂，船桨；zhuō 同桌）、淖（nào《说文》「泥也」，泥淖、陷足而不便行）、鋽（diào《玉篇》「烧器也」；铁未炼）、㪕（diào《集韵》「扑也」；chuò 夺取物也）、㹿（zhuó《玉篇》「猛犬」；zhào 冬猎）、𢿭（chuò《集韵》「击也」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-055",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓部字族二：指顯明、突出、高（倬、焯、晫、㷹、𥢔、𡯴、𤙴、𨌬、桌、竨、䂽、𦹫）",
+   "statement": "字族衍义②指显明、突出、高：倬（zhuō《说文》「箸大也」，《诗》「倬彼云汉」，显明而大）、焯（zhuō《说文》「明也」，明；chāo 把蔬菜放到沸水中略微一煮就捞出来）、晫（zhuó《博雅》「明也」，明盛貌）、㷹（zhào《广韵》「火急煎貌」；shào 炽火急然）、𥢔（zhuó《说文》「特止也」，卓立）、𡯴（chào 同踔，跛）、𤙴（chāo《集韵》「角挑也」）、𨌬（chào《玉篇》「车弓也」，车篷架）、桌（zhuō《广韵》「与卓同」，俗呼几案曰桌）、竨（diào「竨𥪯，高危也」）、䂽（diào「硗䂽，石名」）、𦹫（zhào 菜名，即蔊菜）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-056",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓部字族三：指長、遠（琸、婥、繛、踔、趠、逴、𩭟、𨉔、𧳝、鵫）",
+   "statement": "字族衍义③指长、远：琸（zhuó 人名）、婥（nào《说文》「女病也」，妇女白带过多之病，取义于淖；chuò「婥约，美貌」）、繛（chuò 同绰，宽也、缓也，姿态柔美）、踔（chuō《说文》「踶也」，践踏；《类篇》「远腾貌」；diào 路远也；tiào 越也）、趠（chuò《说文》「远也」，跨步远；chào 超也；zhuó 疾走也）、逴（chuò《说文》「远也」，一曰蹇也，跛）、𩭟（dào《篇海》「长也」）、𨉔（dào 同軇，身长）、𧳝（zhào《玉篇》「豸也」）、鵫（zhuó「鵫雉，今白雉也」）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-057",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "卓部字族四：指被畢之狀，表鳴叫、懼怕、哀傷（啅、𧨳、悼、𤷘）",
+   "statement": "字族衍义④指被毕之状，表示鸣叫、惧怕、哀伤：啅（zhuó《玉篇》「众口貌」，同啄；zhào「众声」「啅啅，鸟声」）、𧨳（zhuó《集韵》「义阙，人名」，应同啅）、悼（dào《说文》「惧也，陈楚谓惧曰悼」；《玉篇》「伤也」；《方言》「哀也」）、𤷘（dào《字彙》「伤也」，伤悼）。",
+   "boundary": "源自《系统汉语》第220部「勺部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-058",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "韭本義：象韭菜密集叢生之形，《說文》「一穜而久者」",
+   "statement": "韭（韮）本义：象韭菜密集丛生之形。《说文》「菜名，一穜而久者，故谓之韭，象形，在一之上，一，地也」。",
+   "boundary": "源自《系统汉语》第221部「韭部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-059",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "韭轉義：韭菜葉扁細長嫩而密集，相互交錯雜亂，引申為雜亂（䪞）",
+   "statement": "转义：韭菜叶片扁而细长、又嫩、密集而生，因此相互交错杂乱，故引申指杂乱，此义分化如「䪞（zá）」（《广韵》「恶也」）。",
+   "boundary": "源自《系统汉语》第221部「韭部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-060",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "韭為借音字：韭割而復生、一種久食，故義音同「久」；韭基本不表音而作形旁",
+   "statement": "音源：韭是借音字。韭菜可以割而复生、一种而可以反复食用，故义音同「久」（《马王堆汉墓竹简·十问》「草千载者唯韭，故因而命之」）。但「韭」基本上不表音，如韰、韱、齏等均充作形旁，表示属类、含有细碎之意；本部字实际上也是属于其衍生字「䪞」（从天从韭，象意吞食韭菜，义音同「杂」）。",
+   "boundary": "源自《系统汉语》第221部「韭部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-061",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "韭部字族：多指雜亂（䪞、𠿓、𠎷、𢶍、𨆂、𩐅、𩆅、𦠿、𧬩、𦼩、𨷆、𡒁）",
+   "statement": "字族衍义（多指杂乱）：䪞（zá《玉篇》「恶也」，从天从韭，从「天」其意大抵跟「吞、舔」同，从「韭」代指物的细碎而多，义音同「帀」即并收、囊括之意）、𠿓（sà《玉篇》「𠿓𠿓，丑也」）、𠎷（sà《广韵》「傝𠎷，不谨貌」）、𢶍（zá《广韵》「擸𢶍，和杂」；sà「搕𢶍，粪」）、𨆂（sà「𨆂𨆂，行貌」）、𩐅（sà《广韵》「攱起也」，支起、垫起）、𩆅（sà《玉篇》「雨下也」）、𦠿（sà「䏠𦠿，肉杂也」）、𧬩（zá「𧬩𧬩，声也」）、𦼩（sà「艸声」）、𨷆（sà《集韵》「闭也」）、𡒁（sà「土堕貌」）。",
+   "boundary": "源自《系统汉语》第221部「韭部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-062",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "兆本義：甲骨文从北从水，象兩人隔水相背，指以水為分界線",
+   "statement": "兆（𠧞𡉵𡊥）本义：甲骨文从北从水，象两人隔水相背之形，指以水为分界线。《周礼·夏官·掌固》「凡国都之竟，有沟树之固，郊以如之，若有山川则因之」——可见古代的边境要么依据自然山川，若是没有则开沟渠为界。zhào，《尔雅》「域也」。",
+   "boundary": "源自《系统汉语》第222部「兆部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-063",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "兆轉義：由界溝引申指裂縫（龜甲卜兆）、預示、數字，又因可躍而過而有跳義（分化涉）",
+   "statement": "转义：由界沟引申指裂缝，特指占卜时龟壳的裂纹（《说文》「灼龟坼也」）；由卜兆引申指预示、显示（《玉篇》「事先见也、形也」）；或引申指数字（《集韵》「数也，十亿曰兆」）；人工开凿的界沟当然不会太宽、可以一跃而过，故金文或在「水」的两边各加一「止」表示「跳」的意思（táo，《广雅》「避也」），但此字也可以视为从步从水即徒步过河，此义分化为「涉」。",
+   "boundary": "源自《系统汉语》第222部「兆部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-064",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "兆為借音字：因有跳義而義音同「勺」（窈窕一本作「茭芍」）",
+   "statement": "音源：兆是借音字。因有跳义，故义音同「勺」：《诗·周南·关雎》「窈窕淑女」，「窈窕」《马王堆汉墓帛书》引作「茭芍」。",
+   "boundary": "源自《系统汉语》第222部「兆部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-065",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "兆部字族一：指溝的深度，表縫隙、裂紋、深邃（珧、窕、晁、罀、𡡃、𨴡、𪘈、繉、聎、桃）",
+   "statement": "字族衍义①指沟的深度，表示缝隙、裂纹、深邃：珧（yáo《说文》「蜃甲也，所以饰物也」，《礼》「佩刀，天子玉琫而珧珌」；蚌类的甲壳）、窕（tiǎo《说文》「深肆极也」，深邃之极；《尔雅》「窕，间也」，间隙；《广韵》「美色曰窕」；tiāo 轻佻）、晁（cháo 本指蟑螂，因其多藏身壁缝中故从兆，其色红故指朝；zhāo 同朝）、罀（zhào 素烧的瓶，上有裂纹之意）、𡡃（tiǎo 同窱，深远深邃）、𨴡（chāo 疑指门缝）、𪘈（tiáo 小孩子刚换牙齿）、繉（hún《管子·轻重篇》「繉」注「缝也」）、聎（tiāo《集韵》「耳病也」；耳鸣）、桃（táo《说文》「果也」，桃树未叶而先花、树皮薄而易裂；tiāo 长柄勺子；床前横木）。",
+   "boundary": "源自《系统汉语》第222部「兆部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-066",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "兆部字族二：指溝的細長，表邊際、狹長、細小（垗、鮡、旐、筄、艞、庣、絩、銚、䍮、洮、餆、𦾺、䠷、𤕷、𤱩、𨱵、𩋍、𩬱、脁、𤶃）",
+   "statement": "字族衍义②指沟的细长，表示边际、狭长、细小：垗（zhào《说文》「畔也，为四畤界」；葬地；围墙、田埂、涯际）、鮡（zhào《说文》「鱼名」，《尔雅》「魾，大鳠，小者曰鮡」，体小、前部平扁、胸部平坦无鳞，生活于溪涧中）、旐（zhào《说文》「龟蛇四游，以象营室，游游而长」，绘有龟蛇图案的条形旗）、筄（yào《尔雅》「屋上薄谓之筄」，铺在房屋椽上瓦下的竹箔或苇箔）、艞（yào 江中大船；tiào 舟泊岸置长板船首与岸接以通往来，俗呼艞板）、庣（tiāo《广韵》「不满之貌」）、絩（tiào《说文》「绮丝之数也」，达到一定数量的有花纹的丝织品）、銚（yáo《说文》「温器也，一曰田器」，暖物的器皿或大锄；qiāo 同锹）、䍮（zhào《说文》「羊未卒岁也」，没满周岁的羊）、洮（táo《说文》「水，出陇西临洮」，水名在甘肃，本义当指荡洗；盥也、淘洗）、餆（yáo「餆饵食」，糕饼类食品）、𦾺（yáo「𦾺芅，草名」，羊桃，其枝细长）、䠷（tiǎo《广韵》「身长貌」）、𤕷（diào 床子、床版）、𤱩（diào「𤱩疁，田中穴」，田不耕而火种；田界）、𨱵（nǎo「镺𨱵，长貌」）、𩋍（xiāo「羽翼𩋍蔽者也」，羽翼凋敝）、𩬱（dào 发长）、脁（tiào《说文》「祭也」，祭肉；yáo 好也）、𤶃（diào 白癍、痤疮）。",
+   "boundary": "源自《系统汉语》第222部「兆部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j39-067",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-39-jiu",
+   "title": "兆部字族三：指越溝，表跳躍、越過、高峻（逃、咷、跳、趒、姚、䂪、雿、𠝡、𢮉、𥩼、眺、覜、祧、𣂀、頫、脁、狣、駣、𡱜、𢳙、𥎺、䄻、𨋫、𠛪、挑、佻、誂、宨、晀、恌、烑、鴵、㿡、𣂁、𤙔、鞉）",
+   "statement": "字族衍义③指越沟，表示跳跃、越过、高峻：逃（táo《说文》「亡也」；《广韵》「去也、避也」）、咷（táo《说文》「楚谓儿泣不止曰噭咷」，大声哭泣）、跳（tiào《说文》「蹶也，一曰跃也」；《释名》「跳，条也，如草木枝条务上行也」，上冒、冒出）、趒（tiáo《说文》「雀行也」；tiào 越也；tiǎo 跃也）、姚（yáo 虞舜之姓；《方言》「美也」；tiāo 轻捷；yào「剽佻，劲疾貌」，勇猛迅疾）、䂪（qiǎo 同硗，贫瘠的山田；或同铫，煮物的瓦器）、雿（diào「幽冥也」，虚无寂寞；zhào 高峻貌）、𠝡（qiāo 古锹字）、𢮉（qiāo《广雅》「陗𢮉，高也」）、𥩼（qiáo「竨𥩼，高危也」）、眺（tiào《说文》「目不正也」，斜视；眺望、远视）、覜（tiào《说文》「诸侯三年大相聘曰覜」，诸侯每三年相互拜见访问）、祧（tiāo《说文》「迁庙也」，远祖的庙）、𣂀（tiāo《说文》「斛旁有𣂀」，疑指斛口用以撮取的部分，跟今日的撮箕差不多；故也指穿突、锹锸）、頫（fǔ《说文》「低头也」，今俗作俯；tiào 视也）、脁（tiǎo《说文》「晦而月见西方谓之朓」，月底月亮在西方出现，即跳之意；疾也）、狣（zhào《广韵》「犬有力也」，猛犬）、駣（táo 三四岁的马，《周礼》「教駣攻驹」）、𡱜（zhào 音兆又音逃）、𢳙（tiǎo 书法术语，写字布局使上下左右结构平稳相称）、𥎺（tiào《玉篇》「矢也」）、䄻（cháo《集韵》「禾穭生」，再生稻；táo 桃黍即高粱）、𨋫（tiāo「愉也」，轻薄放纵、不庄重）、𠛪（tiāo《集韵》「剔也」）、挑（tiǎo《说文》「挠也，一曰摷也」，用细长的东西远距离挑拨、逗弄；《正字通》「拨也，诱也」；tiāo 杖荷；tāo「挑达」，往来相见貌）、佻（tiāo《说文》「愉也」，轻薄、招惹；yáo 缓也）、誂（tiǎo《说文》「相呼诱也」，挑逗）、宨（tiǎo《集韵》「《尔雅》：肆也」，轻宨放肆）、晀（tiǎo《篇韵》「明也」，烈日）、恌（tiāo《广韵》「轻薄」；《尔雅》「偷也」）、烑（yáo《玉篇》「光也」）、鴵（xiāo《五音类聚》「不孝鸟也」，枭）、㿡（dōu 与兜同）、𣂁（tiāo、qiāo 古量器，或用𣂀指锹）、𤙔（zhào 人姓）、鞉（táo 同鞀，拨浪鼓，商人招揽生意用的手鼓，小孩亦作玩具）。",
+   "boundary": "源自《系统汉语》第222部「兆部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
