@@ -195,11 +195,18 @@ function loadGlyphIndex() {
 function glyphInfo(ch) {
   const idx = loadGlyphIndex();
   const e = idx.chars && idx.chars[ch];
-  if (!e || !Array.isArray(e.files) || !e.files.length) return null;
+  const ph = (idx.photos && idx.photos[ch]) || [];
+  const files = (e && Array.isArray(e.files) ? e.files : []).map((f) => '/glyphs/' + f.split('/').map(encodeURIComponent).join('/'));
+  const photos = ph.map((x) => ({
+    file: '/glyphs/' + x.file.split('/').map(encodeURIComponent).join('/'),
+    caption: x.caption || '',
+  }));
+  if (!files.length && !photos.length) return null;
   return {
-    doc: e.doc || '',
-    variants: e.variants || '',
-    files: e.files.map((f) => '/glyphs/' + f.split('/').map(encodeURIComponent).join('/')),
+    doc: (e && e.doc) || '',
+    variants: (e && e.variants) || '',
+    files,
+    photos,
   };
 }
 
@@ -465,8 +472,9 @@ async function askModelForCard(ch, question, context) {
 }
 
 async function handleCard(emit, res, question, ch, ip) {
-  const glyph = glyphInfo(ch);
-  emit({ type: 'card-start', char: ch, glyph: glyph ? { doc: glyph.doc, files: glyph.files } : null });
+  let glyph = glyphInfo(ch);
+  let glyphFrom = null;
+  emit({ type: 'card-start', char: ch, glyph: null });
 
   let evidence;
   try {
@@ -514,6 +522,15 @@ async function handleCard(emit, res, question, ch, ip) {
     }
   }
 
+  // 这个字在原稿里没有独立的字形行（只是字族成员）时，退一步用字根的字形与配图
+  if (!glyph && rootInfo) {
+    const g = glyphInfo(rootInfo.root);
+    if (g) {
+      glyph = g;
+      glyphFrom = rootInfo.root;
+    }
+  }
+
   if (!direct.length) {
     note = `知识库里还没有「${ch}」的专门条目。字形图取自《系统汉语》原稿，可以先看形体；字义条目还在录入，暂不推断。`;
   } else if (MODE === 'model') {
@@ -556,7 +573,9 @@ async function handleCard(emit, res, question, ch, ip) {
       question,
       mode,
       note,
-      glyph: glyph ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files } : null,
+      glyph: glyph
+        ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: glyph.photos || [], from: glyphFrom }
+        : null,
       root: rootInfo ? rootInfo.root : null,
       sections,
       claims: direct.length + rootClaims.length,

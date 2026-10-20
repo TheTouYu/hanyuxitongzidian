@@ -13,7 +13,7 @@
 // 用括号里的异体串挂回前面同异体串的字头，得到 字 → 字形图列表。
 // 零依赖：只用 node 内置 zlib 解析 docx（zip）。
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, rmSync } from 'node:fs';
 import { inflateRawSync } from 'node:zlib';
 import { join, extname, basename } from 'node:path';
 
@@ -156,30 +156,97 @@ function parseDocx(file) {
 // 字形行里的分组标签：图片串后面跟一个单字，标的是它前面那组图
 const LABEL = /^[\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\u{20000}-\u{2FA1F}]$/u;
 
+// 部头，如「9.士部」：字形行里没写异体字时，用它兜底
+const PART = /^\s*\d+\s*[.．、]\s*([\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\u{20000}-\u{2FA1F}])\s*部\s*$/u;
+
 function extractChars({ paras }) {
   const heads = [];
   const entries = [];
+  const photos = [];
   let rows = 0;
   let unmatched = 0;
   let lastHead = null;
+  let lastPart = null;
+  let owner = null;
+  let sectionOwner = null;
+  let inFamily = false;
+  let partHeads = [];
+  const usedHeads = new Set();
 
-  for (const p of paras) {
+  const captionOf = (p) => {
+    const t = (p.text || '').trim();
+    return t.startsWith('▲') ? t.replace(/^▲\s*/, '').trim() : '';
+  };
+
+  for (let pi = 0; pi < paras.length; pi++) {
+    const p = paras[pi];
+    const mPart = p.text.match(PART);
+    if (mPart) {
+      lastPart = mPart[1];
+      partHeads = []; // 换部了，按出现顺序重新排队
+    }
+
     const mHead = p.text.match(HEAD) || p.text.match(HEAD2);
     if (mHead) {
       const ch = onlyHan(mHead[1]);
       if (ch) {
-        lastHead = { char: ch[0], variants: mHead[2] ? onlyHan(mHead[2]) : '' };
+        const at = p.text.search(/[：:]/);
+        lastHead = {
+          char: ch[0],
+          variants: mHead[2] ? onlyHan(mHead[2]) : '',
+          // 字族表：冒号后面那串（牡（…）社（…）仕…），用来给没写异体的字形行认主
+          family: at >= 0 ? p.text.slice(at + 1) : '',
+        };
         heads.push(lastHead);
+        partHeads.push(lastHead);
+        owner = lastHead.char;
+        sectionOwner = lastHead.char;
+        inFamily = false;
       }
     }
+
+    const t0 = (p.text || '').trim();
+    if (/^字族衍義/.test(t0)) inFamily = true;
+    // 字族衍義里每个衍生字的定义行（「牡（𡉯𤚴𪋂）mǔ《說文》…」），配图跟着它走
+    if (inFamily) {
+      const mDef = t0.match(/^([\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\u{20000}-\u{2FA1F}])(?:[（(][^）)]*[）)])?\s*[a-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜü]+\s*[《【]/u);
+      if (mDef) owner = mDef[1];
+    }
+
+    // 实物配图：单独一张图，紧跟一段「▲说明」
+    if (p.imgs.length === 1 && !ROW.test(p.text) && owner) {
+      const next = paras.slice(pi + 1, pi + 3).find((q) => q.text.trim() || q.imgs.length);
+      const caption = next ? captionOf(next) : '';
+      if (caption) photos.push({ char: owner, rid: p.imgs[0], caption });
+      continue;
+    }
+
     if (!p.imgs.length || !ROW.test(p.text)) continue;
     rows += 1;
     const variants = onlyHan(p.text.match(ROW)[1]);
-    let head = variants
-      ? heads.find((h) => h.variants && h.variants === variants) ||
-        heads.find((h) => h.variants && [...h.variants].every((c) => variants.includes(c)))
-      : lastHead;
+    let head = null;
+    if (variants) {
+      head = heads.find((h) => h.variants && h.variants === variants) ||
+        heads.find((h) => h.variants && [...h.variants].every((c) => variants.includes(c)));
+    } else {
+      // 行里只有拼音（如「（shì）：」）：看下面的分组标签在谁的字族表里
+      const labels = [...p.text].filter((c) => LABEL.test(c));
+      if (labels.length) {
+        head = [...heads].reverse().find((h) => h.family && labels.every((c) => h.family.includes(c))) || null;
+      }
+      if (!head && lastPart) {
+        head = heads.find((h) => h.char === lastPart && !usedHeads.has(h)) || null;
+      }
+    }
+    // 还认不出来：按字头出现顺序取下一个没用过的（原稿里字形行与字族表是分开排的）
+    if (!head) head = partHeads.find((h) => !usedHeads.has(h)) || heads.find((h) => !usedHeads.has(h)) || null;
+    if (head) usedHeads.add(head);
     if (!head) unmatched += 1;
+    if (head) {
+      owner = head.char;
+      sectionOwner = head.char;
+      inFamily = false;
+    }
 
     const groups = [];
     let cur = [];
@@ -202,7 +269,7 @@ function extractChars({ paras }) {
       entries.push({ char: canonical, variants: g.label ? '' : variants, rids: g.rids });
     }
   }
-  return { entries, rows, unmatched };
+  return { entries, photos, rows, unmatched };
 }
 
 // ---------- 主流程 ----------
@@ -223,10 +290,12 @@ function main() {
   const docs = readdirSync(SRC)
     .filter((f) => f.toLowerCase().endsWith('.docx') && !f.startsWith('~$'))
     .sort((a, b) => (a.startsWith('卷') === b.startsWith('卷') ? a.localeCompare(b, 'zh') : a.startsWith('卷') ? -1 : 1));
+  // 每次重建都清空，否则上一轮多出来的图会留在磁盘上（索引里已经没有它们）
+  rmSync(OUT, { recursive: true, force: true });
   mkdirSync(OUT, { recursive: true });
 
-  const index = { generated: new Date().toISOString(), source: '《系统汉语》各卷 Word 原稿', chars: {} };
-  const report = { docs: 0, rows: 0, unmatched: 0, chars: 0, files: 0, bytes: 0 };
+  const index = { generated: new Date().toISOString(), source: '《系统汉语》各卷 Word 原稿', chars: {}, photos: {} };
+  const report = { docs: 0, rows: 0, unmatched: 0, chars: 0, photos: 0, files: 0, bytes: 0 };
 
   for (const docName of docs) {
     const file = join(SRC, docName);
@@ -281,9 +350,30 @@ function main() {
         index.chars[v] = { doc: docTitle, variants: entry.variants, alias: ch, files };
       }
     }
+
+    // 实物配图（图下带 ▲ 说明）：单独放 photos/<字>/，说明文字进索引
+    for (const ph of res.photos) {
+      if (!HAN.test(ph.char)) continue;
+      const media = parsed.rels.get(ph.rid);
+      if (!media) continue;
+      const ext = extname(media).toLowerCase();
+      if (!['.png', '.jpg', '.jpeg', '.webp', '.gif'].includes(ext)) continue;
+      const data = parsed.zip.read('word/media/' + media);
+      if (!data || data.length > MAX_BYTES) continue;
+      const list = (index.photos[ph.char] = index.photos[ph.char] || []);
+      if (list.length >= 6) continue;
+      const dir = join(OUT, 'photos', ph.char);
+      mkdirSync(dir, { recursive: true });
+      const name = String(list.length + 1).padStart(2, '0') + (ext === '.jpeg' ? '.jpg' : ext);
+      writeFileSync(join(dir, name), data);
+      list.push({ file: `photos/${ph.char}/${name}`, caption: ph.caption });
+      report.files += 1;
+      report.bytes += data.length;
+    }
   }
 
   report.chars = Object.keys(index.chars).length;
+  report.photos = Object.values(index.photos).reduce((n, a) => n + a.length, 0);
   writeFileSync(join(OUT, 'index.json'), JSON.stringify(index));
   console.log(JSON.stringify(report, null, 2));
 }

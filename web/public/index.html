@@ -153,6 +153,35 @@
   }
   .glyphs figcaption { font-size: 10px; color: #a89e8e; margin-top: 3px; }
   .glyphs .empty { font-size: 13px; color: #a89e8e; padding: 8px 0; }
+  .photos {
+    display: flex; gap: 10px; overflow-x: auto; padding: 0 0 10px;
+    border-bottom: 1px dashed var(--line); margin-bottom: 12px;
+  }
+  .photos figure { margin: 0; flex: 0 0 auto; text-align: center; max-width: 180px; }
+  .photos img {
+    height: 104px; width: auto; display: block; background: #fff;
+    border: 1px solid var(--line); border-radius: 6px; padding: 2px; object-fit: cover;
+  }
+  .photos figcaption { font-size: 10px; color: #a89e8e; margin-top: 3px; line-height: 1.4; }
+  .glyphs img, .photos img { cursor: zoom-in; }
+  .glyphs img.broken, .photos img.broken { opacity: .3; cursor: default; }
+  #viewer {
+    position: fixed; inset: 0; z-index: 80; background: rgba(32, 26, 20, .84);
+    display: flex; align-items: center; justify-content: center; padding: 20px;
+  }
+  #viewer[hidden] { display: none; }
+  #viewer figure { margin: 0; text-align: center; max-width: min(94vw, 900px); }
+  #viewer img {
+    max-width: 100%; max-height: 78vh; background: #fff; border-radius: 8px;
+    padding: 12px; box-shadow: 0 12px 40px rgba(0, 0, 0, .35);
+  }
+  #viewer figcaption { color: #f2ece1; font-size: 13px; margin-top: 12px; line-height: 1.6; }
+  #viewer .viewer-x {
+    position: absolute; top: 10px; right: 14px; width: 38px; height: 38px;
+    border: 0; border-radius: 50%; background: rgba(255, 255, 255, .14); color: #fff;
+    font-size: 22px; line-height: 1; cursor: pointer;
+  }
+  #viewer .viewer-x:hover { background: rgba(255, 255, 255, .26); }
   .sec { margin: 0 0 13px; }
   .sec h4 {
     font-family: var(--serif); font-size: 14px; letter-spacing: .1em;
@@ -174,6 +203,8 @@
     .bubble { max-width: 92%; }
     .glyphs { flex-wrap: wrap; overflow-x: visible; }
     .glyphs img { height: 72px; }
+    .photos { flex-wrap: wrap; overflow-x: visible; }
+    .photos img { height: 84px; }
     .card-char { font-size: 36px; }
   }
 </style>
@@ -284,18 +315,42 @@ function renderCard(card) {
     `<span class="card-note">${esc(modeNote)}</span>` +
     '</div>';
 
-  if (g && g.files && g.files.length) {
-    html += '<div class="glyphs">' + g.files.map((u, i) =>
-      `<figure><img src="${esc(u)}" alt="${esc(card.char)}字形${i + 1}" loading="lazy">` +
-      `<figcaption>${i === 0 ? esc(g.doc) : '·'}</figcaption></figure>`).join('') + '</div>';
-    html += `<div class="card-note" style="margin:-8px 0 12px">字形图取自《系统汉语》原稿 ${esc(g.doc)}，图下小字是原书标注的出处与分期。</div>`;
+  const hasGlyph = g && g.files && g.files.length;
+  const hasPhoto = g && g.photos && g.photos.length;
+  if (hasGlyph || hasPhoto) {
+    if (hasGlyph) {
+      html += '<div class="glyphs">' + g.files.map((u, i) =>
+        `<figure><img src="${esc(u)}" alt="${esc(card.char)}字形${i + 1}" loading="lazy">` +
+        `<figcaption>${i === 0 ? esc(g.doc) : '·'}</figcaption></figure>`).join('') + '</div>';
+    }
+    if (hasPhoto) {
+      html += '<div class="photos">' + g.photos.map((p, i) =>
+        `<figure><img src="${esc(p.file)}" alt="${esc(p.caption)}" loading="lazy">` +
+        `<figcaption>${esc(p.caption || '原稿配图')}</figcaption></figure>`).join('') + '</div>';
+    }
+    const src = g.doc ? `取自《系统汉语》原稿 ${esc(g.doc)}` : '取自《系统汉语》原稿';
+    const tail = [
+      hasGlyph ? '字形图下的小字是原书标注的出处与分期' : '',
+      hasPhoto ? '配图是原稿里的实物图与说明' : '',
+    ].filter(Boolean).join('，');
+    if (g.from) {
+      html += `<div class="card-note" style="margin:-8px 0 12px">原稿里「${esc(card.char)}」没有独立的字形行，这里给的是它字根「${esc(g.from)}」的字形与配图：${src}${tail ? '，' + tail : ''}。知识库里「${esc(card.char)}」的字义条目见下。</div>`;
+    } else {
+      html += `<div class="card-note" style="margin:-8px 0 12px">${src}${tail ? '，' + tail : ''}。</div>`;
+    }
   } else {
     html += '<div class="glyphs"><span class="empty">这个字的字形图还没收进字库。</span></div>';
   }
 
   for (const s of card.sections || []) {
     html += `<div class="sec${s.missing ? ' empty' : ''}"><h4>${esc(s.label)}</h4>`;
-    html += s.missing ? '<p>条目里还没有这一项。</p>' : render(s.text);
+    if (s.missing) {
+      html += s.key === 'zixing' && hasGlyph
+        ? '<p>字形见上方原稿字形行；条目里还没有对形体演变的说明。</p>'
+        : '<p>条目里还没有这一项。</p>';
+    } else {
+      html += render(s.text);
+    }
     html += '</div>';
   }
   if (!card.sections || !card.sections.length) {
@@ -478,6 +533,60 @@ if (params.get('mode') === 'chat') {
   if (b) b.click();
 }
 if (q0) { input.value = q0; submit(); }
+</script>
+<div id="viewer" hidden>
+  <figure>
+    <img id="viewerImg" alt="">
+    <figcaption id="viewerCap"></figcaption>
+  </figure>
+  <button class="viewer-x" type="button" aria-label="关闭">×</button>
+</div>
+<script>
+// 字形图 / 配图：点击放大；加载失败时降级显示，不占破图
+(() => {
+  const viewer = document.getElementById('viewer');
+  const vimg = document.getElementById('viewerImg');
+  const vcap = document.getElementById('viewerCap');
+
+  const open = (src, cap, alt) => {
+    vimg.src = src;
+    vimg.alt = alt || '';
+    vcap.textContent = cap || '';
+    viewer.hidden = false;
+    document.body.style.overflow = 'hidden';
+  };
+  const close = () => {
+    viewer.hidden = true;
+    vimg.removeAttribute('src');
+    document.body.style.overflow = '';
+  };
+
+  document.addEventListener('click', (e) => {
+    const img = e.target.closest && e.target.closest('.glyphs img, .photos img');
+    if (!img || img.classList.contains('broken')) return;
+    const fig = img.closest('figure');
+    const cap = fig && fig.querySelector('figcaption');
+    open(img.currentSrc || img.src, cap ? cap.textContent : '', img.alt);
+  });
+
+  viewer.addEventListener('click', (e) => {
+    if (e.target === viewer || e.target.closest('.viewer-x')) close();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !viewer.hidden) close();
+  });
+
+  // 图片加载失败（error 不冒泡，用捕获阶段统一兜底）
+  document.addEventListener('error', (e) => {
+    const img = e.target;
+    if (!img || img.tagName !== 'IMG' || !img.closest('.glyphs, .photos')) return;
+    img.classList.add('broken');
+    const fig = img.closest('figure');
+    const cap = fig && fig.querySelector('figcaption');
+    if (cap) cap.textContent = '图加载失败：' + (img.alt || '未知');
+    img.alt = '图加载失败';
+  }, true);
+})();
 </script>
 </body>
 </html>

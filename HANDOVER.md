@@ -7,7 +7,7 @@
 
 ## 1. 一句话现状
 
-知识库 **193 条 Claim**（5 节点 / 12 主题，含新录入的「音源字卷」145 条）已入库并通过 `pkc validate`；对外问答网页（`web/`）已跑通、公网可访问。**新增「字卡模式」**：输入一个字，按「甲骨文字形图 → 字根 → 本义 → 转义 → 衍生字义」五栏作答（字根栏回答「仕的字根是士」这类问题，并说清两者的构形关系），字形图取自《系统汉语》原稿（941 字、2070 张图，图内自带出处与分期）。代码已提交（`10641b3`），后续字根栏在 `47f25e7` 之后继续改。
+知识库 **193 条 Claim**（5 节点 / 12 主题，含新录入的「音源字卷」145 条）已入库并通过 `pkc validate`；对外问答网页（`web/`）已跑通、公网可访问。**新增「字卡模式」**：输入一个字，按「甲骨文字形图 → 字根 → 本义 → 转义 → 衍生字义」五栏作答（字根栏回答「仕的字根是士」这类问题，并说清两者的构形关系），字形图取自《系统汉语》原稿（1057 字 / 2557 张图 / 194 张实物配图，图内自带出处与分期；字本身没有字形行的，退一步给字根的字形与配图）。代码已提交（`10641b3`），后续字根栏在 `47f25e7` 之后继续改。
 
 ## 2. 现在的运行态（接手后先确认这两个进程）
 
@@ -33,8 +33,8 @@
 | `web\server.mjs` | 24.0 KB / 733 行 | 零依赖 Node 服务：路由、检索编排、字卡编排、SSE、静态文件、限流 | 可以，改完按第 8 节自测 |
 | `web\pkc-bridge.py` | 3.7 KB / 123 行 | 调 `pkc` 的桥：强制 UTF-8、补 mingit PATH、参数不过 shell | 谨慎，编码逻辑别动 |
 | `web\public\index.html` | 18.6 KB / 483 行 | 单文件前端：字卡、问答、引用芯片、抽屉面板 | 可以，纯前端 |
-| `web\public\glyphs\` | 8.1 MB / 941 字 / 2070 图 | 字形图库：`index.json` + 每字一目录（`字/01.png`…） | **生成物，别手改**，重跑 `tools\extract-glyphs.mjs` |
-| `tools\extract-glyphs.mjs` | 10.4 KB / 291 行 | 从 `D:\字谱智能体\*.docx` 抽字形图 → `web\public\glyphs`（零依赖，自带 zip 解析） | 可以 |
+| `web\public\glyphs\` | 23.9 MB / 1057 字 / 2557 图 | 字形图 + 实物配图：`index.json` + `字/01.png`… + `photos/字/01.jpg`（配图说明在索引里） | **生成物，别手改**，重跑 `tools\extract-glyphs.mjs` |
+| `tools\extract-glyphs.mjs` | 14.5 KB / 365 行 | 从 `D:\字谱智能体\*.docx` 抽字形图 → `web\public\glyphs`（零依赖，自带 zip 解析） | 可以 |
 | `web\start.cmd` | 0.5 KB | 双击启动：服务 + 隧道 | 可以 |
 | `web\bin\cloudflared.exe` | 52.8 MB | 隧道二进制，v2026.10.1 | 不要进 git（已 ignore） |
 | `web\README.md` | 4.4 KB | 网页服务的说明（面向使用者） | 可以 |
@@ -91,7 +91,8 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-
 ```
 POST /api/ask {question, mode:"card"|"chat"|"auto"}
   ├─ detectChar(question) → 字
-  ├─ glyphInfo(字) → web/public/glyphs/index.json（5 分钟缓存）→ /glyphs/<字>/01.png…
+  ├─ glyphInfo(字) → web/public/glyphs/index.json（5 分钟缓存）→ /glyphs/<字>/01.png… + photos/<字>/01.jpg（原稿实物配图，带说明）
+  │    └─ 这个字在原稿里没有独立字形行（只是字族成员）时，退一步用字根的字形与配图，卡片上注明 from: 字根
   ├─ retrieveForChar(字) → pkc query 12 条 → 只保留 public+active
   │    └─ direct = 标题或正文真的出现这个字的条目（这才是能给它背书的证据）
   ├─ findRoot(字, direct) → 从「从人从士」「从口㠯声」里找字根
@@ -104,13 +105,16 @@ POST /api/ask {question, mode:"card"|"chat"|"auto"}
 
 五栏顺序固定：**字形 → 字根 → 本义 → 转义 → 衍生字义**。字根这一栏专门回答「仕的字根是士」这类问题，并说清字根与这个字的关系（会意/形声、意义怎么进来的）。
 
-六个坑（都实际踩过）：
+九个坑（都实际踩过）：
 1. **提示词用中文键、代码用拼音键**：`CARD_SECTIONS[].field` 存中文键，取值 `obj[field] ?? obj[label] ?? obj[key]`，否则每一栏永远 missing。
 2. **`id.toUpperCase()` 把 `clm_` 前缀也大写了**：必须 `'clm_' + id.slice(4).toUpperCase()`，否则引用全被当无效丢掉。
 3. **模型漏写引用 = 该栏作废**：宁可显示「条目里还没有这一项」，也不接受无出处的话。
 4. **字形图按「字族标签组」切分**：卷八里 `虎` 只是 `虍` 的字族成员，图在 `（𧇁hū）：…图…虎` 这一行末尾，解析要按「图片串 + 末尾单字标签」分组（详见 `tools/extract-glyphs.mjs` 的 `LABEL` 与 `flush()`）。
-5. **模型会把上下文里的编号当出处**：`cardContext()` 用 `[1] [2]` 编号，模型就写 `[1]`；`sanitizeSection(raw, allowed, order)` 必须拿编号表把它映射回 `clm_` id，否则整张卡会掉进 fallback。
-6. **字根不能乱认**：条目自称「X是音源字」或明说「析形不确」的不设字根（否则「士」会被认成从「一」）；候选多于一个时优先取「知识库里有自己主题（X部）」的那个，`台` 因此得到 `㠯` 而不是 `口`。
+5. **原稿的字形行与字族表是分开排的**：`（shì）：` 这种只写拼音的行认不出主人，要先看分组标签落进谁的字族表，再按「部头里字头出现的顺序，取下一个没用过的」兜底（`PART` + `partHeads` + `usedHeads`）；修好后 `unmatched` 从 41 降到 0，`士` 才拿到自己的 7 张图。
+6. **实物配图不是字形图**：原稿里 `[图片]` 紧跟一段 `▲公牛` 才是配图，按定义行 / 字族衍義里的衍生字条目归属，存到 `photos/<字>/`，说明文字进索引。
+7. **模型会把上下文里的编号当出处**：`cardContext()` 用 `[1] [2]` 编号，模型就写 `[1]`；`sanitizeSection(raw, allowed, order)` 必须拿编号表把它映射回 `clm_` id，否则整张卡会掉进 fallback。
+8. **字根不能乱认**：条目自称「X是音源字」或明说「析形不确」的不设字根（否则「士」会被认成从「一」）；候选多于一个时优先取「知识库里有自己主题（X部）」的那个，`台` 因此得到 `㠯` 而不是 `口`。
+9. **清空再重建**：`extract-glyphs.mjs` 每次先 `rmSync(OUT)`，否则上一轮多出来的图会留在磁盘上（索引里已经没有它们），体积和字数对不上。
 
 ## 6. 接口
 
@@ -118,7 +122,7 @@ POST /api/ask {question, mode:"card"|"chat"|"auto"}
 | --- | --- | --- | --- |
 | GET | `/api/health` | — | `{ok, pkc:"0.2.0rc5", claims:193, mode:"model"\|"skeleton"}` |
 | GET | `/api/tree` | — | `{ok, nodes:[{id,title,topics:[{id,title,claims}]}], claims}`，缓存 60 秒 |
-| GET | `/api/glyph?char=台` | 任意汉字（URL 编码） | `{ok, char, glyph:{doc, variants, files:["/glyphs/台/01.png"…]}}`，没有则 `glyph:null` |
+| GET | `/api/glyph?char=台` | 任意汉字（URL 编码） | `{ok, char, glyph:{doc, variants, files:["/glyphs/台/01.png"…], photos:[{file, caption}]}}`，没有则 `glyph:null` |
 | GET | `/api/claim/<clm_id>` | 路径参数须匹配 `^clm_[0-9A-F]{20,40}$` | `{ok, claim:{id,title,statement,node_id,topic_id,permission,lifecycle}}` |
 | POST | `/api/ask` | `{question, mode?}`，`mode`=`card`\|`chat`\|`auto`（缺省 auto）；≤64KB 请求体、≤200 字问题 | `text/event-stream`：问答 `sources` → `delta`* → `done`；字卡 `card-start` → `sources` → `card` → `done`；出错 `error` |
 
@@ -159,11 +163,15 @@ POST /api/ask {question, mode:"card"|"chat"|"auto"}
 | 问「部首一共多少个？」 | 「知识库里还没有这方面的内容。」 | ✅ 0.3 s，命中 0，不调模型（`topic-components` 是空主题） |
 | 问「什么是声母拟态？」 | 多引 + 边界说明 | ✅ 3.2 s，8 条命中，七组声母逐个引 |
 | 隧道端到端 | 页面/问答可用 | ✅ 页面 0.5 s，问答 2.1 s |
-| 问「台」（字卡） | 字形图 + 本义/转义/衍生字义，每栏带引用 | ✅ 6 张字形图（春秋/戰國），四栏齐全，引 `clm_FF5814` / `clm_D0E442` / `clm_F2B969` |
+| 问「台」（字卡） | 字形图 + 字根 + 本义/转义/衍生字义，每栏带引用 | ✅ 6 张字形图（春秋/戰國），五栏齐全，字根 = 㠯，引 `clm_FF5E14` / `clm_51B84D` / `clm_D0E442` / `clm_F2B969` |
+| 问「仕」（字卡） | 字根是士，并说清关系；仕自己没有字形行，退给士的图 | ✅ 7 张士的字形图 + 1 张公牛配图（注明 `from: 士`），字根栏「士：仕从人从士…」 |
+| 问「士」（字卡） | 字形图 + 公牛配图 | ✅ 7 张字形图 + 1 张公牛（`▲公牛`），本义「雄性」 |
+| 问「奚」（字卡） | 借音字不编字根 | ✅ `mode:"fallback"`，退回条目原文 |
 | 问「雞」（字卡） | 字卡，库里缺的栏如实显示 | ✅ 8 张字形图，本义/转义显示「条目里还没有这一项」 |
 | 问「龍」（字卡，库里没有） | 只给字形图 + 说明，不编字义 | ✅ `mode:"none"`，附「暂不推断」 |
 | 问「今天天气怎么样」（无单字） | 退回问答 | ✅ 命中 0，答「知识库里还没有这方面的内容。」 |
 | `GET /glyphs/台/01.png` | 200 + `image/png` | ✅ 4390 字节 |
+| `GET /glyphs/photos/士/01.jpg` | 200 + `image/jpeg` | ✅ 原稿实物配图（公牛） |
 | `git status` | 只有 `web/`、`prompts/`、`.gitignore` | ✅ `git diff --check` 干净 |
 
 ## 9. 已知边界与风险
@@ -196,7 +204,7 @@ POST /api/ask {question, mode:"card"|"chat"|"auto"}
   ```powershell
   C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe D:\系统汉字\tools\extract-glyphs.mjs --src "D:\字谱智能体" --out "D:\系统汉字\web\public\glyphs"
   ```
-  输出 `{docs, rows, unmatched, chars, files, bytes}`；当前基线 `24 卷 / 240 字形行 / 41 行未配上字头 / 941 字 / 2070 图 / 8.1 MB`。重抽后服务不用重启（`index.json` 5 分钟缓存会自动过期）。
+  输出 `{docs, rows, unmatched, chars, files, bytes}`；当前基线 `24 卷 / 240 字形行 / 0 行未配上字头 / 1057 字 / 2557 图 / 194 张配图 / 23.9 MB`。重抽后服务不用重启（`index.json` 5 分钟缓存会自动过期）。
 - **改召回条数** → 同文件 `RETRIEVE_LIMIT`（检索几条）与 `CONTEXT_CLAIMS`（喂几条全文）。当前都是 8；之前设 4 时会误判「库里没有记载」。字卡另走 `retrieveForChar()` 的 12 条。
 - **换模型/端点** → 环境变量，别改代码。
 - **加缓存** → 建议加在 `retrieve()` 外层，key 用清洗后的问题；注意 `pkc rebuild` 后要能失效。

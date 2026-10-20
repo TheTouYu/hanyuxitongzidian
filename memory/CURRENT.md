@@ -12,7 +12,7 @@ Primary Context: `default`
 - 运行时：PKC 0.2.0rc5，位于 `.runtime\venv`（`tools\pkc.cmd` 可直接调用）；Python 是 `.runtime\python` 里的 3.12.10 便携安装，git 在 `.runtime\mingit`。整个目录不依赖 C 盘。
 - 录入链路已跑通：草稿 → 预览 → 定稿 → 批准 → 应用 → `validate` 通过；绪论、卷一、卷二均按此流程入库。
 - 踩过的坑：多个 bundle 都以同一份 `registry.json` 为基线时不能顺序应用（第二个会报 `authority changed`），同一轮的同类新增要合并成一个 bundle；`node_*` 元数据只在节点尚未存在时随首条 claim 提交，节点已存在则只留 `topic_*`。
-- 对外服务（网页 / 微信）：**网页已上线**。`web/` 是零依赖 Node 服务 + 单文件前端，只经 `pkc` 检索、只答 `active`+`public` 的 Claim；两种模式——「问答」和「字卡」（输入一个字，按 字形图 → 本义 → 转义 → 衍生字义 四段答，每段必须带 `clm_` 出处，无依据就显示缺项）。字形图从 `D:\字谱智能体\*.docx` 抽出，`web/public/glyphs`（941 字 / 2070 图，图下自带出处与分期），重抽用 `tools/extract-glyphs.mjs`。启动：`web\start.cmd`（服务 127.0.0.1:8080 + cloudflared 匿名隧道）。微信尚未接入。
+- 对外服务（网页 / 微信）：**网页已上线**。`web/` 是零依赖 Node 服务 + 单文件前端，只经 `pkc` 检索、只答 `active`+`public` 的 Claim；两种模式——「问答」和「字卡」（输入一个字，按 字形图 → 字根 → 本义 → 转义 → 衍生字义 五栏答，每栏必须带 `clm_` 出处，无依据就显示缺项；字本身没有字形行的退用字根的字形图）。字形图与原稿实物配图（士 = 公牛、里 = 土地庙）从 `D:\字谱智能体\*.docx` 抽出，`web/public/glyphs`（1057 字 / 2557 图 + 194 张配图，图下自带出处与分期），重抽用 `tools/extract-glyphs.mjs`。启动：`web\start.cmd`（服务 127.0.0.1:8080 + cloudflared 匿名隧道）。微信尚未接入。
 
 ## 下一步
 
