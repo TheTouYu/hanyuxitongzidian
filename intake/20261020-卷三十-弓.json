@@ -1,0 +1,859 @@
+{
+ "schema_version": 1,
+ "intent": "录入《系统汉语》卷三十 弓：172.弓部至174.尹部",
+ "risk": "medium",
+ "baseline_mode": "worktree",
+ "claims": [
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "卷三十音源字「弓」象弓形，音源為拉弓射箭時弓弦發出的振動聲",
+   "statement": "本卷音源字為「弓」，象弓形，其音源自拉弓射箭時弓弦所發出的振動聲。卷內由弓形曲引出臂彎之「厷」，由持箭欲射之狀引出「尹」，分為 172.弓部、173.厷部、174.尹部。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-001",
+   "topic_path": "knowledge/hanzi-yinyuan/30a-gong.md",
+   "topic_title": "卷三十·弓",
+   "topic_summary": "卷三十「弓」（第172–174部，p504–p511）：172 弓部（p506）、173 厷部（p510）、174 尹部（p511）。音源字「弓」象弓形，音源为拉弓射箭时弓弦发出的振动声；弓形曲，故臂弯之「厷」、持箭欲射之「尹」皆借其音。",
+   "topic_keywords": [
+    "弓",
+    "厷",
+    "肱",
+    "弘",
+    "強",
+    "尹",
+    "引",
+    "津",
+    "盡",
+    "建",
+    "角弓",
+    "六材",
+    "音源",
+    "射箭"
+   ]
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "弓由有彈性的弓臂與有韌性的弓弦構成，拉弦張弓積聚的力量瞬間釋放可將箭或彈丸射向目標",
+   "statement": "弓是一種很古老的彈射武器，由有彈性的弓臂和有韌性的弓弦構成；拉弦張弓過程中積聚的力量在瞬間釋放時，可將扣在弓弦上的箭或彈丸射向目標。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-002"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "1963 年山西朔縣舊石器遺址出土的石鏃是我國發現最早的箭鏃，距今 28900 多年",
+   "statement": "1963 年在山西朔縣的舊石器遺址中發現一枚石鏃，長約 28 毫米，加工精細、前鋒銳利，經放射性碳素測定年代距今 28900 多年，是我國發現最早的石鏃。《易傳·繫辭》已記載「弦木為弧，剡木為矢」的原始弓箭，可見中國先民製造和使用弓箭的具體年代至少在三萬年以前。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-003"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "原始弓箭製作簡單，用弓狩獵既可遠距射殺野獸又可避免近身遭受猛獸傷害",
+   "statement": "原始社會早期的弓箭製作簡單、形狀粗陋：將一根竹片或樹枝彎過來，用一段繩子繫緊、拉住兩端，便成一張半圓形（確切說是圓弧形）的弓，再把木棍或竹竿削尖當作箭。用它狩獵是社會的一大進步，既可遠距離射殺野獸，又可避免近身捕獵遭受猛獸的威脅和傷害；後來又用石片或獸骨磨製成箭鏃安裝在箭頭上，大大提高了殺傷效果。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-004"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "松掉弦的原始弓就是一根直樹幹，張好的弓寫作一弧形加一弦線；商代弓拊部凹陷故甲骨文「弓」中間多一道彎",
+   "statement": "弓箭不使用時為保持彈性應將弦鬆掉，因此鬆掉弦的原始弓其實就是一根直的樹幹；張好的弓用文字表現即一弧形加一弦線。進入青銅器時代以後，箭鏃改用更為尖硬銳利的銅鏃，弓的形制更加富有彈力；商代的弓拊部向射手一側明顯凹陷，所以在商代甲骨文中「弓」中間多了一道彎。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-005"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "弓中部反向預彎是複合弓的力學原理：外層先受壓、內層先受拉，使用時相互抵消而使弓體更強勁、射程更遠",
+   "statement": "一根直的竹材可想像為許多薄竹片一層層黏在一起：彎成弧形時外層竹片受拉力、內層受壓力，拉弓的勁越大彎得越厲害，力超過承受極限便出現裂紋甚至折斷。古人於是將竹材向相反方向預先彎一下，使外層先受些壓力、內層先受些拉力；使用時外層受拉、內層受壓，從內部先抵消一些力，弓承受的力因而增大，拉弦釋弓時弓體向相反方向拘曲，比原始的單體弓更為強勁，張弦後保持較強彈性，大大延伸射程。從此弓基本上都保持這種形制。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-006"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "《考工記·弓人》載制弓「六材」與三年成弓的規範，製品即文獻所稱「角弓」",
+   "statement": "自商周以來弓始終是主要的射遠兵器，製作備受重視；到了春秋，制弓工藝大進，各諸侯國都用它裝備部隊。從《考工記·弓人》可見當時已有比較科學的制弓規範：首重選材，基本材料有六種稱「六材」——幹（柘、桑、橘、木瓜、荊、竹等）、角（牛角）、筋、膠（鹿、馬、牛、鼠、魚、犀）、絲和漆；冬天做弓幹，春天浸治角，夏天治筋，秋天用絲、膠、漆把三者合起來做成弓體，入冬置於弓匣內定形，來年春天裝上弓弦檢驗，製作一張良弓前後達三個年頭。如此製成的複合弓彈力大、經久耐用，文獻中通常稱為「角弓」；湖南、湖北等地楚墓出土的古弓基本上能印證《考工記》等古籍的記載。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-007"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "射為六藝之一：春秋戰國弓箭列兵器之首，貴族自幼習射，生男門口掛弓，東周養繇基稱「神箭養叔」",
+   "statement": "弓箭在春秋戰國時期應用相當普遍，被列為兵器之首，貴族將門之子從小就學習射箭；「射」作為一種技藝是公卿大夫必須通曉的「六藝」之一，不僅在國君會盟、宴會上被視為一種禮儀，民間風俗中也以它為禮節——哪家生個男孩，門口便掛一張弓，期待男孩長大後勇武有力、能弓善射。東周時期有一位名叫「養繇基」的小將，自幼習射，少年便精通射技、百發百中，被人們稱為「神箭養叔」。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-008"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「兩軍相遇，弓弩在先」：弓箭延用至清末，火器問世後仍以輕巧靈便、射中率高服役軍中",
+   "statement": "中國古代各代朝臣都十分重視弓的製作和使用，因為古代戰爭中「兩軍相遇，弓弩在先」，無論攻守城鎮還是伏擊戰、陣地戰都可以弓箭為利器；即使火器問世之後，弓箭仍以輕巧靈便、射中率高之長繼續服役軍中，一直延用到清朝末年。時至今日，體育競技場上仍能見到射箭。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-009"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "弓弦「翁翁」聲為音源，但弓的弧度與天穹相同，是弓借聲於雷還是天穹借聲於弓難以分辨",
+   "statement": "拉弓射箭時弓弦會發出「翁翁」聲，因此弓作為古老的狩獵工具和殺敵利器，自然也被作為音源字。但弓的弧度跟天穹一樣，到底是弓借聲於天穹（即雷聲），還是天穹借聲於弓，兩者之間難解難分，音義也就多有混同；不過雷聲是自然界本來就有的，自然該在前，只是弓比較重要，單剔出來作為一卷，將與其直接相關的義項歸類其中。",
+   "boundary": "源自《系统汉语》卷三十「弓」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-010"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弓」本義象弓弦形，《說文》列《周禮》六弓之用",
+   "statement": "「弓」本義象弓弦形。gōng，《說文》：「以近窮遠。象形。古者揮作弓。《周禮》六弓：王弓、弧弓以射甲革甚質；夾弓、庾弓以射干矦鳥獸；唐弓、大弓以授學射者。凡弓之屬皆从弓。」",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-011"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弓」由弓的形狀引申指彎曲、狀如弓之物，古或用弓作丈量工具",
+   "statement": "「弓」由弓的形狀引申指彎曲，《釋名》：「弓，穹也。張之穹穹然也。」或指狀如弓的東西，如「彈弓」「胡琴弓」。古或用弓作為丈量的工具，《度地論》：「二尺為一肘，四肘為一弓，三百弓為一里。三百六十步為一里，卽三百弓也。」",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-012"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弓」的音源是拉弓射箭時弓弦發出的「ong」振動聲",
+   "statement": "「弓」為音源字，音源是拉弓射箭時弓弦會發出「ong」的振動聲。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-013"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弓」字族①指弓形、表示弓曲：弞矧矤穹杛宆焪𣇬䛪䠻𡸕𢛙𢮍𣶆𥓰",
+   "statement": "「弓」字族第一路指弓形、表示弓曲：弞（矧）為笑不壞顏即微笑，嘴角微彎如弓之意，亦與矧同、拉長；矤（矧、𥎪、訠）為況且，取引弓而發更進一層之意；穹从穴弓聲，《爾雅·釋天》「穹蒼，蒼天也」，郭璞注「天形穹隆，其色蒼蒼」，又有大、高、孔之義；杛為木名；宆同穹、指天形；焪（熍）為盡、乾、火乾物、曝、燼，俗稱火籠，一般用竹木做成弓形；𣇬為日乾物；䛪為多言、詢問；䠻（㑋、竆）為使役、曲躬；𡸕（𡹗）為山形；𢛙（𢞏、𢖸）為憂；𢮍為捺；𣶆為水急貌；𥓰為石聲。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-014"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弓」字族②為形近字「乍、肉」之訛：𨡗即醡、𦶁即蕡",
+   "statement": "「弓」字族第二路為形近字「乍、肉」之訛：𨡗（醡）是「醡」字之訛，醡為壓酒具、酒𥂖，或作笮、苲、榨；𦶁（蕡、萉）《廣韻》以為「蕡」之古文，指草木多實，《正字通》以為譌字，周祖謨《廣韻校本》以為「萉」的訛字。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-015"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「躬」本義：春秋金文从身从呂作「躳」，呂指相連綴的脊椎，小篆改从弓為聲指身屈如弓",
+   "statement": "「躬」（𨈴、𧘏、躳）本義：春秋金文本从身从呂，作「躳」，「呂」應跟「宮」所从同，指卯榫結構，在這裡指相連綴的脊椎；小篆另以「弓」為聲，指身體象弓一樣屈伸。gōng，《說文》：「身也。从身从呂。躬，躳或从弓。」《直音篇》：「身屈也。」",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-016"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「躬」由屈身之狀引申指恭敬、親自",
+   "statement": "「躬」由屈身之狀引申指恭敬，《篇海》：「恭也。」屈身意味著親自勞作，故引申指親自，《集韻》：「親也。」",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-017"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「躬」字族多指彎腰、表示弓曲：窮匑𡺺𣋶𤢶藭",
+   "statement": "「躬」字族多指彎腰，表示弓曲：窮（竆、穷）从穴躳聲，為極、恭貌、貧；匑（匔、趜、𠤊）為匑匑謹敬貌，即彎腰如弓；𡺺（𡾈）為山形；𣋶為謹敬；𤢶《玉篇》「似虎」，《正字通》謂獸屬名竆奇者，本作竆、俗加犬；藭（𧅓、芎、𦵡）即芎藭、川芎，別名芎窮、小葉川芎，花形呈傘狀如弓，古人因其根節狀如馬銜謂之馬銜芎、狀如雀腦謂之雀腦芎，出關中者為京芎、出蜀中者為川芎、出天台者為台芎、出江南者為撫芎。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-018"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「引」本義从人持弓象拉弓射箭，或於弓背作指示符號「丿」示手所握處",
+   "statement": "「引」（㧈、𢎢、𢏂、𢎤）本義：初文本从人持弓，象意拉弓射箭；或簡化為在弓背上作一指示符號「丿」，表示拉弓時手用力握住的位置，後來演化作弓丨。yǐn，《說文》：「開弓也。从弓丨。」臣鉉等曰：「象引弓之形。」馬王堆漢墓漆畫有《引弓圖》。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-019"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「引」由拉弓引申指延伸伸長、導引帶領、陳述陳列、牽拉、後退",
+   "statement": "「引」由拉弓引申指延伸、伸長（《爾雅·釋詁》「長也」；《廣雅》「演也」）；引申指教導、帶領（《集韻》「導也」）；引申指陳述、陳列（《爾雅》「陳也」）；由開弓時的拉弦引申指牽拉（《集韻》「牽車紼也。一曰曲引」）；由開弓時的往後拉引申指後退（《康典》：「又卻也。《禮·玉藻》：『侍坐，則必退席。不退，則必引而去君之黨。』注：引，卻也。」）",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-020"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「引」字族①指拉弦、表示牽拉導引：靷紖䏖𢪉矧䒡𣏖鈏",
+   "statement": "「引」字族第一路指拉弦，表示牽、拉、導引：靷（𩍱）為引軸的皮帶，《集韻》「駕牛具，在胷曰靷」，又作紖即牛鼻繩；紖為牽牛的繩子，亦指牽引靈車的大繩子；䏖為疤痕、急遽、杖痕腫處、背脊肌肉；𢪉為俗引字；矧（訠、矤、𥎪）為況且、長，或與齗通指牙齦，鄭玄注《禮·曲禮》「笑不至矧」：「齒本曰矧，大笑則見」；䒡為草、艸蔓延貌；𣏖（㮳）為木名、灰可以染，即山礬，染者用其葉燒灰以藏所染之色，意即引出染料效果；鈏為錫（延展性比較好的金屬），亦指引針即沒有鼻子的針，比針粗，用于打孔以引導穿針引線。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-021"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「引」字族②指拉弓狀、表示彎曲鼓起：䀕䇙𧿯𨈧蚓",
+   "statement": "「引」字族第二路指拉弓狀，表示彎、曲、鼓起：䀕為怒目、目睛，圓睜雙眼；䇙為竹名；𧿯（䠒、𧿓）為跪、雙膝著地；𨈧疑同「躬」；蚓（螾）即蚯蚓，一名曲蟺、一名土龍，入藥用、白頸是其老者，《埤雅》謂土精、無心之蟲，又山蚓為蛇別名、大如蚯蚓而有鱗、其尾如首、亦名兩頭蛇。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-022"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弘」本義从口在弓弦之間，象箭射出後弓弦回位時的振動聲，或指弓弦之間的空間",
+   "statement": "「弘」（𢎪、𢎞）本義：从口在弓弦之間，象意箭射出後、弓弦回位時發出的振動聲；或指弓弦之間的空間。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-023"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弘」由弓弦空間變大、弓身變長引申指擴充光大、大而廣",
+   "statement": "「弘」：拉弓時弓弦之間的空間會變大，鬆弦射箭時弓身會伸直變長，所以引申指擴充、光大，hóng，《字彙》：「大之也。」如「弘揚」；或引申指大、廣，《玉篇》：「大也。」如「宏圖」。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-024"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弘」辯證：《說文》从弓厶聲析形不確，與「引」混同之說亦不確",
+   "statement": "「弘」辯證：《說文》依據小篆釋為「弓聲也。从弓厶聲。厶，古文肱字」，析形不確。或將其與「引」混同，如以甲骨文「象馳弓有臂形，又于弓臂虇曲部位附著一短畫，與甲骨文所从之厷同」而釋「弘」，看似有理，但西周金文「宖」所从「弘」明顯為「口」，故亦不確。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-025"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弘」字族①指弓弦之間、表示幽微而深：泓霐苰𢘌紭𥦷",
+   "statement": "「弘」字族第一路指弓弦之間，表示幽微而深：泓（𣴦）為下深貌、水清貌；霐（䨎）為幽深貌，本作䨎，又為水名出《靈寶經》；苰為藤苰即胡麻，其莖細長如弦；𢘌為𢘌憕失志貌、昏聵；紭（綋、紘）為冠卷即帽上的系帶，《集韻》「一曰纓从下而上者」，又為網紭、系也，如弦系于弓；𥦷為小水。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-026"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「弘」字族②指狀如弓之鞃，③指發弓聲、表示深長回聲之宖𥥈𠰈",
+   "statement": "「弘」字族第二路指狀如弓：鞃（䩑、𩉦、䡌、䡏）為車軾，即車軾中段裹上皮革以便人倚靠，狀如弓身之意。第三路指發弓聲、表示深長的回聲：宖為屋響、房屋幽深有迴響，又安也；𥥈从穴，為幽深貌，又為小水貌；𠰈為牛聲。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-027"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「強」本義从虫从弘，指無足幼蟲爬行時一屈一伸如弓弦張弛，或專指米中蠹蟲",
+   "statement": "「強」（强、彊、𢏟、𧖑）本義：从虫从弘，弘亦聲，指無足幼蟲爬行時的一屈一伸如弓弦的張弛一般；或專有所指，指米中的蠹蟲。qiáng，《玉篇》：「米中蠹。」《說文》：「蚚也。从虫弘聲。」徐鍇曰：「弘與強聲不相近，秦刻石文从口。疑从籀文省。」《爾雅·釋蟲》：「強蚚。」郭璞疏：「強，蟲名也。一名蚚，好自摩捋者，蓋蠅類。」",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-028"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「強」由蟲的善鑽與爬行吃力引申指健壯有力、堅硬、勉力勤勉、倔強",
+   "statement": "「強」由蟲的善鑽引申指健壯有力（《廣韻》「健也、暴也」；《字彙》「壯盛也」；《小爾雅》「益也」），或引申指堅硬（《玉篇》「彊，堅也。強，同上」）；由蟲爬行的吃力與緩慢引申指勉力、勤勉（qiǎng，《爾雅》「勤也」；《集韻》「勉也」），或引申指堅韌、倔強（jiàng，《字彙》「木強，不柔和也」；《正韻》「自是也，㑃也」，即自以為是、執拗、不順从）。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-029"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「強」本「弘」聲，義音同「畺」",
+   "statement": "「強」音源：本「弘」聲，義音同「畺」。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-030"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「強」字族①多指緊繃、直硬：襁勥繈鏹蔃漒犟糨膙",
+   "statement": "「強」字族第一路多指緊繃、直硬：襁（𧚴）為負兒衣即襁褓，背小孩用的背帶或布兜；勥（𠣃）為迫、強迫、追、勉力；繈為粗長的絲節，又孟康曰「繈，錢貫也」、俗作鏹；鏹為以繈貫錢即成串的錢，《正字通》「白鏹，金別名」指銀子或銀錠，又鏹水為鹽酸和氯化鋅混合溶液的俗稱、用于焊接；蔃為蔃莍即百合，其梗細而硬，又為草名、儉歲人食其根；漒為水名、在河南郡，晉桓溫封漒川侯；犟（𠎦）為執拗、倔強；糨（糡、漿）為漿糊，又同「漿」，用粉漿或蜜糖浸紗、布、衣服使乾後發硬發挺；膙為筋頭、筋強，或指手腳上因摩擦而生的硬皮。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-031"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「強」字族②其餘諸字：謽嵹摾䥒𣩴𩝽𩴒",
+   "statement": "「強」字族其餘諸字：謽為詞不屈即強嘴；嵹為嵹臺山即西傾山，在青海、甘肅、四川交界處，《山海經注》謂白洮至嵹南北三百里、地草皆龍鬚、無樵柴、謂之嵹川，亦作漒、讀若強；摾（弶）為施罟于道、以弓罥鳥獸、張取獸；䥒為鉛屬；𣩴為殭仆即直挺地倒下；𩝽為硬食；𩴒為鬼名。",
+   "boundary": "源自《系统汉语》第172部「弓部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-032"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「厷」本義象臂彎處加弧形符號，指上臂，即「肱」字初文",
+   "statement": "「厷」（肱、𠃋、𠬟）本義：象臂彎處加弧形符號形，象事指上臂，即「肱（gōng）」字初文。《說文》：「臂上也。从又，从古文厷。厷或从肉。」",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-033"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「厷」由臂彎可折可伸引申指大；音源為借音字，手肘屈伸如弓，義音同「弓」",
+   "statement": "「厷」：臂彎可以折疊、可以伸直，從而引申指大，hóng，《集韻》：「大通也。通作宏。」音源為借音字，手肘屈伸如弓，故義音同「弓」：《易·豐》「折其右肱」馬王堆漢墓帛書本作「弓」；《儀禮·鄉射禮》「侯道五十弓」鄭玄注「今文改弓為肱也」；《左傳·昭公三十一年》「邾黑肱以濫來奔」，《公羊傳》作「黑弓」。",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-034"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「厷」字族①指上臂、表示強壯粗大：肱雄閎紘䍔竑䫺𦞗𧈽𧰯𨗑𨹠𩉦",
+   "statement": "「厷」字族第一路指上臂，表示強壯、粗大：肱為臂上、臂幹，即胳膊由肘到肩的部分；雄（𩿅）為鳥父即公鳥，應是指雄鳥寬大的翅膀，因為雄鳥一般要比雌鳥的體魄大一些，《爾雅·釋鳥》「鳥翼，右掩左雄，左掩右雌」；閎（𨴵）為巷門、深，又為門辟旁長橛、閎廓深遠、大也寬廣；紘（綋、紭）為冠卷即帽上的系帶，鄭玄注《禮·雜記》「冠有筓者為紘，紘在纓處，兩端上屬，下不結」，又束也、與弘宏通；䍔（𣘯、𦊫）為網滿、索、網綱；竑（宏、閎、谹、鈜）為廣、量度，《正字通》「凡厷之類如宏、閎、谹、鈜，皆从強大之義」；䫺（𩖢）為大風；𦞗（䐵）為膨𦞗、大腹；𧈽為蟲名；𧰯（熊）為豕特即公豬；𨗑為迷信中的鬼名；𨹠（隆）同隆，中央高起、豐、大、盛；𩉦（𨌆、鞃）為軾中靶、同鞃。",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-035"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「厷」字族②指強弓、表示回聲：𧮯耾翃鈜汯㢬䆖",
+   "statement": "「厷」字族第二路指強弓，表示回聲：𧮯（谹）為谷中響、谷空；耾（𦕹）為耳語、耳中聲、耾耾大聲、聾；翃為飛、蟲飛；鈜（吰、𠴈）為金聲、鏗鈜鐘鼓聲；汯（浤）為汯汯迅流、深汯無舟涉水、泓汯水勢迴旋；㢬（彋）為弸㢬即弓聲，彋為帷帳起貌、開張；䆖（宏）為䆖䆵大屋、屋深響。",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-036"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「厷」字族③為形近字「右」之訛：𨡿即醢、𥒣即磷",
+   "statement": "「厷」字族第三路為形近字「右」之訛：𨡿（醢）為用肉、魚等製成的醬，「厷、右」形近而為「醢」的訛字；𥒣（磷）為石貌，《集韻》「厷」作「右」。",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-037"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「宏」本義从宀从厷，象屋大而深",
+   "statement": "「宏」（吰、宖、䆖、𥥈）本義：从宀从厷，厷亦聲，象意屋子大而深。hóng，《說文》：「屋深響也。从宀厷聲。」",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-038"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「宏」由屋子的深廣引申指廣、大",
+   "statement": "「宏」由屋子的深廣引申指廣、大，《玉篇》：「大也。」《增韻》：「廣也。」",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-039"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「宏」辯證：西周金文从函弓聲者疑非「宏」本字，本義應指弓袋，因弓長弓袋亦長故引申為深廣",
+   "statement": "「宏」辯證：《金文編》所錄西周金文从函弓聲，疑非「宏」本字；其形象弓在囊中，本義應是指弓袋，因弓較長、弓袋自然也會長，故引申指深、廣之義；由于「弓、厷」音義本通，故可表「宏」義。",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-040"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「宏」字族①指深屋、表示深廣，②指回聲、表示大聲：竤峵硡翝浤鋐",
+   "statement": "「宏」字族第一路指深屋，表示深、廣：竤（竑）為度量、俗竑字；峵（𡵓、嶸、巆、嵤）即崢嶸、山峻。第二路指回聲，表示大聲：硡（𥐪、𥕗、𥔀、𥗞）為石落聲；翝（翃）為飛，即翃字之訛；浤（汯、泓）為浤浤汩汩、海水騰湧貌，俗泓字；鋐（鈜）為器也、俗鈜字，指鐘鼓聲。",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-041"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「宏」字族③為形近字「客」之訛：𩓘即額",
+   "statement": "「宏」字族第三路為形近字「客」之訛：𩓘（額）出《續高僧傳》，為「額」的訛字。",
+   "boundary": "源自《系统汉语》第173部「厷部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-042"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」本義从又持ㄧ，ㄧ為代表權力的信物或行使權力的工具，象管理政務的官員",
+   "statement": "「尹」本義：从又（手）持ㄧ。「ㄧ」具體所指，有說是指權杖，有說是指筆，其實也可以說是牧牛羊用的鞭子之類，或者是指符節、圭玉之類憑信——總之，是代表權力的信物或行使權力的工具，象意管理政務的官員。yǐn，《說文》：「治也。从又、丿，握事者也。」《廣雅》：「官也。」",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-043"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」由官員需公正無私引申指正、誠、進",
+   "statement": "「尹」由官員的需要公正無私，引申指誠、進，《廣韻》：「正也。誠也。進也。」",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-044"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」辯證：尹持ㄧ與聿持竹枝表意無本質不同，或本即一字而借音有別，盡、津、建實際均从聿",
+   "statement": "「尹」辯證：「尹」的持ㄧ，跟「聿」的持竹枝，在表意上沒有本質的不同，因此兩者間也存在有形音義方面的聯繫，甚或本即一字，只是借音有別而已。為方便比對，將《聿部》中讀音相近的部分字根附錄于此；而所錄「盡、津、建」實際均从「聿」，但音近「尹」。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-045"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」為借音字，持ㄧ如持箭欲射，義音同「引」",
+   "statement": "「尹」音源：借音字，持ㄧ如持箭欲射，故義音同「引」。《易·萃》「引吉」，「引」馬王堆漢墓帛書本作「尹」；《老子》「大滿若盅，其用不窮」，「窮」馬王堆漢墓帛書《老子》甲本作𠬞形之字。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-046"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」字族多指聚集、相連：君為握權杖發號施令者並引申為各種尊稱，郡為君所管轄之地",
+   "statement": "「尹」字族多指聚集、相連。君（𠱭）《說文》：「尊也。从尹。發號，故从口。」即握持權杖發號施令的人，為古代大夫以上據有土地的各級統治者的通稱，引申作尊稱——凡有地者皆曰君、夫人亦稱君、子稱父母曰君、妾稱夫曰君、夫稱婦曰細君、上稱下亦曰君、封號曰君。郡即君所管轄的地方，《說文》：「周制：天子地方千里，分為百縣，縣有四郡……至秦初置三十六郡，以監其縣。」《釋名》：「郡，羣也。人所羣聚也。」",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-047"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」字族之聚集相連義：莙窘群帬宭𣀆鵘",
+   "statement": "「尹」字族中表示聚集、相連諸字：莙為牛藻草，《顏氏家訓》引《說文》「莙，牛藻也」即陸機所謂「聚藻，葉如蓬」，一節長數寸、細茸如絲、圓繞可愛，長者二三十節；又寸斷五色絲橫著線股間繩之、以象莙草，用以飾物即名為莙，張敞因造糸旁畏字；《正字通》「莙薘，菜名，秋種冬茂」即甜菜。窘為迫、急、仍。群（羣）為輩，羊性好羣故从羊，指朋輩、象羊一樣聚集在一起。帬（裙）為下裳，取其籠統狀。宭為羣居。𣀆為朋侵即群起而攻之、群盜。鵘為雞無尾，一種沒有尾巴的雞，體型緊湊之意。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-048"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」字族之相連義：輑䪳頵涒伊𧉅",
+   "statement": "「尹」字族中表示相連、蹙聚諸字：輑為軺車前橫木，即小車前面縱橫交錯的木欄，又車軸相逢、車軸也、連曰輑；䪳為面目不正貌、五官蹙縮之狀；頵為頭頵頵大；涒為食已而復吐之，《爾雅》「太歲在申曰涒灘」，又涒粼為水旋流、水流曲折貌；伊（𠈽）《說文》「殷聖人阿衡，尹治天下者」，又彼也、因也、維也；𧉅為蛜威、委黍即鼠婦，狀如書中蠹蟲（白魚），一般聚集在陰暗潮濕的洞穴底部。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-049"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「尹」字族其餘諸字：芛捃鮶珺覠峮𤸷焄𨊼咿桾",
+   "statement": "「尹」字族其餘諸字：芛（芟）為艸之葟榮即草木開花貌、初生的草木花；捃（攈、攟）為拾、取；鮶為水鮶、蟲名似魚，或指鮶魚，目大鱗粗似鯉、體細長側扁、有不規則黑斑、尾鰭圓形、卵胎生、生活于近海岩礁間；珺為美玉；覠為大視；峮為嶙峮、山相連貌；𤸷（㿏）為痹、手足麻痹、手指拘攣在一團；焄（熏）為火上出，亦作熏，又香臭之氣，或同「葷」指蔥蒜等有特殊氣味的蔬菜；𨊼（𩉥、𨌉）為車弓；咿為喔咿強笑、呻吟、內悲；桾為桾櫏木，君遷子即「黑棗」，落葉喬木、漿果長橢圓形、熟透後黑褐色、可以吃亦可入藥。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-050"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「津」初文即「𦩦」象人立船上撐篙，西周金文作「淮」兼表聲，戰國古文从尹从彡",
+   "statement": "「津」（𦘔）本義：初文應即「𦩦」字，象人立船上撐篙之形，指撐船；西周金文換作「淮」，兼表聲，義音同「進」；戰國古文簡化从尹从彡，「尹」指撐篙，「彡」指波紋。jīn，《說文》：「𣸁，水渡也。从水𦘔聲。」《正字通》：「𣸁，津本字。」",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-051"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「津」由撐船引申指渡口，由篙行水中引申指浸潤、津液",
+   "statement": "「津」由撐船引申指渡口，《正字通》：「津，水渡處。」由篙行水中引申指浸潤、津液，《釋名》：「津，進也，汁進出也。」《正字通》：「氣液也。」《康典》：「又潤也……又津津，溢也。《莊子·庚桑楚》：其中津津乎猶有惡。」",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-052"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「津」辯證：《說文》「聿飾也，从聿从彡」析義不確，𦘔或與聿混同",
+   "statement": "「津」辯證：《說文》依據小篆，而「彡」有花紋義，故釋為「聿飾也。从聿从彡。俗語以書好為𦘔」，析義不確。另外由于「𣸁」後來寫作「津」，因此「𦘔」或與「聿」混同。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-053"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「津」字族①指船篙入水之狀、表示下面深長不見：葏蓁㶳",
+   "statement": "「津」字族第一路指船篙入水之狀，表示下面深長不見：𦻄（葏）為艸茂貌、一作𦻄；𦳳（蓁）為首戴物貌，《爾雅》「蓁蓁，戴也」；㶳為火餘、薪，徐鉉曰「聿非聲，疑从𦘔省，今俗別作燼」。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-054"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「津」字族②指撐篙于水、表示潤澤津液：𨔥珒堻𧗁𥂵",
+   "statement": "「津」字族第二路指撐篙于水，表示潤澤、津液：𨔥（冿、𣸁、𦨱、𦩏、𦩨、𦩦、𦪉、津）為自登而至即撐篙而至，津古作𦪉、𣸁、𦩦、𨔥；𤦯（珒）為玉名；堻為潤澤；𧗁為氣血之津液，《段注》：「此字各書皆假津為之。」𥂵為氣之液。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-055"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「盡」本義从皿从𦘔，𦘔所持竹枝指刷帚，表示刷洗器皿",
+   "statement": "「盡」（𥁞、𧗁、䀆、尽）本義：甲骨文本从皿从𦘔，𦘔亦聲。「𦘔」所持竹枝，指刷帚——今仍常用，截取竹子的一節，將其約三分之二的部分縷析，用于刷洗中空的器皿，故从「皿」，表示刷洗器皿的意思。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-056"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「盡」由器皿刷洗引申表示完畢、竭盡、極限",
+   "statement": "「盡」：器皿中的東西沒有了，才需要刷洗，從而引申表示完畢、竭盡、極限的意思，《小爾雅》「止也」，《玉篇》「終也」，《廣韻》「竭也」，《集韻》「悉也」「極也、任也」，《韻會》「皆也」。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-057"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「盡」辯證：《說文》从皿㶳聲析形不確",
+   "statement": "「盡」辯證：由于戰國古文或演變成从皿㶳聲，小篆承之，故《說文》：「器中空也。从皿㶳聲。」析形不確。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-058"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「盡」字族多指剩餘、細小：贐藎燼嚍壗濜嬧儘孻璶㯸𥵧𣃏",
+   "statement": "「盡」字族多指剩餘、細小：贐（𩟝、賮）為會禮即會面的禮物，《孟子》「行者必以贐」趙岐注「送行者贈賄之禮也」；藎為草名即藎草、黃草，莖細、葉卵狀披針形，莖葉可做黃色染料、纖維可造紙，狀如竹俗稱淡竹葉，故从「盡」取狀如刷帚之意，又進也、餘也；燼（㶳、䀆）為火燃完後的灰、餘、薪；嚍為憤、憤怒，即言盡辭窮之意；壗為石似玉，疑指灰塵；濜（𧗁）為水名在襄陽，又水流、水急之貌，或為氣之液；嬧為女字；儘為皆、與盡同；孻為廣東謂老人所生幼子；璶為石之似玉者；㯸為盂；𥵧為小竹；𣃏（斵）同斵，砍，疑因形近而訛。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-059"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「建」本義从乚津聲，即垂直豎立標杆；半坡房屋為「个」字形結構，故先立中心柱並將建木神聖化",
+   "statement": "「建」（䢖）本義：甲骨文从乚津聲，「乚」即「曲」、角尺；从「津」，即垂直豎立標杆之義。《玉篇》：「豎立也。」《廣韻》：「樹也。」根據考古發現，半坡氏族的房屋即為「个」字形結構，因此建造之前自然需要最先豎立中心柱，並因此而將建木神聖化，後來的立碑、豎牌坊、建華表、豎大門等都與此一脈相承。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-060"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「建」由中心柱引申指建築建設，由建木引申指頒佈律令的榜木（華表、謗木），又引申指覆蓋、至",
+   "statement": "「建」：中心柱的豎立是建築的必須，故引申指建築、建設（《逸周書·作雒》「乃建大社于國中」）；由建木引申指頒佈律令的榜木——據崔豹《古今注·問答釋義》，堯設誹謗之木即今之華表木，以橫木交柱頭、狀若花、形似桔槔，大路交衢悉施，或謂之表木，以表王者納諫，亦以表識衢路，類似今天的路牌，同時也起公告欄和意見收集箱的作用；由建木的高大引申指覆蓋（《集韻》「覆也」），或引申為至（《廣韻》「至也」）。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-061"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「建」辯證：《說文》从聿从廴析形不確，乚省去、止形演變為彳而楷作廴；又與「疌」形近訛混",
+   "statement": "「建」辯證：戰國古文中「乚」逐漸被省去，原先指站立的「止」形逐漸脫離，演變成小篆的「彳」，楷化作「廴」，故《說文》：「立朝律也。从聿，从廴。」析形不確。另由于「疌」的字形與之近似，一些本應从「疌」的字或訛混作「建」；不過在意義上，與「建」的指豎立不同，多指快捷、迅速。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-062"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「建」字族①指標杆、表示直硬強勁：鍵健楗犍腱鞬湕鰎䭈𥍹揵騝𥴤",
+   "statement": "「建」字族第一路指標杆，表示直硬、強勁：鍵為鉉即貫通鼎耳的橫杠，或指剎車，又鑰牡即鑰匙、門杠、壯也；健（徤）為伉、強有力、不倦；楗為限門即門杠、門閂，又剛木，或同「蹇」指馬行疲；犍（𤚳、㓺、㹇）為閹割了的牛，又犍為郡名；腱（䇟、筋）為筋之本即肌腱，又筋鳴；鞬為馬上盛弓箭的器具，《釋名》「馬上曰鞬。鞬，建也。弓矢建立其中也」，又韜、束；湕為水名、在湖北荊門境內；鰎為魚名、鹽乾魚；䭈（𩱃、餰、飦、䊕、𩱤、𩱡）為鬻即粥，又指米湯的漿布使之硬挺；𥍹為矛；揵為舉、以肩舉物，又拔、接、閉（與楗通）、難；騝為駵馬黃脊；𥴤為筋鳴。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-063"
+  },
+  {
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-30-gong",
+   "title": "「建」字族②為形近字「疌」之訛：旔睷𥯦毽",
+   "statement": "「建」字族第二路為形近字「疌」之訛：旔（𣄂）為捷；睷（睫）為目數即用眼睛點數、有簡捷概略之意，或為「睫」字之訛；𥯦（箑）為竹名，又「箑」字之訛即竹扇，或指行書（秦使徒隸助官書草𥯦以為行事，取其疾速、不留意楷法），懸肉的竿子一義仍當从「建」；毽為拋足之戲具，用羽毛紮成的遊戲器具、踢時上下翻飛，應從「疌」。",
+   "boundary": "源自《系统汉语》第174部「尹部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "id": "j30-064"
+  }
+ ]
+}
