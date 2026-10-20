@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "intent": "新增：卷一·雞（音源字与民俗）第一批 32 条",
+  "risk": "medium",
+  "claims": [
+    {
+      "node_name": "音源字卷",
+      "node_path": "knowledge/hanzi-yinyuan",
+      "node_boundary": "《系统汉语》以音源字为纲编排的卷次知识：每卷围绕一个音源字，收其字形、字族通假与相关民俗，不是完整的字典释义，也不替代《说文》《广韵》等字书。",
+      "node_keywords": [
+        "音源字",
+        "卷",
+        "字族",
+        "通假",
+        "民俗"
+      ],
+      "topic_id": "topic-juan-01-ji",
+      "topic_path": "knowledge/hanzi-yinyuan/01-ji.md",
+      "topic_title": "卷一·雞",
+      "topic_summary": "音源字「雞」的字形与借音，只、奚、匃、乞、欠、曷、桀等字的字族关系，以及鸡作为太阳鸟、德禽、凤凰化身与祭祀牺牲的信仰和衡阳民俗",
+      "topic_keywords": [
+        "雞",
+        "鸡",
+        "奚",
+        "只",
+        "匃",
+        "乞",
+        "欠",
+        "曷",
+        "鶡",
+        "桀",
+        "音源字",
+        "太阳鸟",
+        "德禽",
+        "凤凰",
+        "祭祀",
+        "衡阳民俗"
+      ],
+      "title": "「雞」是卷一音源字，甲骨文象鸡形",
+      "statement": "「雞」是《系统汉语》卷一的音源字，其甲骨文字形象一只鸡。",
+      "boundary": "只说明本卷音源字与甲骨文字形的对应，不涉及「雞」字后来的形声化过程。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "家鸡由原鸡驯化，初驯或需系绳防飞",
+      "statement": "《系统汉语》认为家鸡由原鸡驯养而成，初驯时可能需要系绳以防飞走。",
+      "boundary": "属作者推测，未给出驯化时间与地域。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "「奚」是借音字，借的是鸡鸣之声",
+      "statement": "《系统汉语》认为「雞」从「奚」得声，取的不是「奚」的字义；「奚」本身是借音字，借的是鸡鸣之声。",
+      "boundary": "只就「雞」的声旁立论，不涉及「奚」字本义的其它说法。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "「只」本是鸡距趾的象形，用来代指鸡",
+      "statement": "《系统汉语》认为造字有用部分特征代指整体的办法：鸡跟别的鸟不同，足上有尖利的距趾，故用距趾的象形字「只」来指鸡。",
+      "boundary": "只说明「只」的造字取象与指代关系，不涉及「只」字的其它义项。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "「只」后演变为从口从八，本义已失",
+      "statement": "《系统汉语》认为「只」后来演变成从口从八的形体，其本义（鸡的距趾）已经失传。",
+      "boundary": "只说明形体演变与本义失传，不涉及简化字「只」的现代用法。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "雄鸡有五德，故称「德禽」",
+      "statement": "古人赞美雄鸡具有文、武、勇、仁、信「五德」，因此称鸡为「德禽」。",
+      "boundary": "只记「五德」的名目与「德禽」之称，不逐一对应五德各自的释义。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "雄鸡自觉司晨，午夜过后引颈高歌",
+      "statement": "雄鸡有高度的自觉司晨习性，不畏寒暑，午夜过后引颈高歌，黎明时报晓，唤醒人们、驱除黑暗、迎接光明。",
+      "boundary": "只描述司晨习性与传统意象，不涉及鸡报晓的生物学机制。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "雄鸡护群、觅食时招呼伙伴分享",
+      "statement": "《系统汉语》称雄鸡在外敌来侵时会挺身而出、舍生忘死维护群体安全；觅食时柔声咯咯，招呼大小伙伴共同分享，甚至把食物全献给伙伴。",
+      "boundary": "属对鸡的德性描写，不是严格的动物行为学结论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "鸡事实上充当了鸟的代表",
+      "statement": "《系统汉语》认为鸡事实上充当了鸟的代表：它与其它卵生鸟类一样会飞，但飞不远，所以容易被人驯养；食谱杂，以植物的嫩叶、种子和虫蚁为食；胆小，是群居性的鸟类。",
+      "boundary": "只说明鸡作为鸟类的代表性与一般习性，不涉及家鸡与野鸟的谱系关系。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "鸡喜欢扒土，为找虫蚁与降温",
+      "statement": "《系统汉语》称鸡喜欢扒土，尤其是有腐殖质的灰土，一则为了寻找虫蚁，二则为了覆伏以降低体温。",
+      "boundary": "只描述扒土这一习性及其两种作用，不涉及饲养管理。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "鸡视力差、逢酉进埘，故十二时辰属「酉」",
+      "statement": "《系统汉语》称鸡的视力较差，晨起而暮归，十二时辰中所对应的正是「酉」时，指其逢酉而进埘。",
+      "boundary": "只描述鸡的作息与十二时辰的对应，不涉及历法制度本身。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "鸡听力好，警觉时呼伴护雏",
+      "statement": "《系统汉语》称鸡的听力很好，一有风吹草动便警觉起来，呼唤同伴一起躲进荆棘丛中，把小鸡护在翅膀下面。",
+      "boundary": "只描述这一避险行为与环境选择，不涉及鸡的感官生理数据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "鸡以啄为武器，有报时的习惯",
+      "statement": "《系统汉语》称鸡的武器主要靠啄，短而尖利；鸡有报时的习惯，母鸡一般啄鸡埘报时，公鸡则在五更后开始每隔一段时间鸣叫一阵。",
+      "boundary": "只描述啄击与报时行为，不涉及具体时辰的考证。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "小鸡、公鸡、母鸡的叫声不同",
+      "statement": "《系统汉语》指出鸡的叫声并不单纯：小鸡、公鸡、母鸡的叫声都不同，小鸡叫声似「鸡」，公鸡打鸣似「格」，母鸡一般叫声似「歌」。",
+      "boundary": "属拟声描写，不是严格的音值记音。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "鸡因报晓被先民视为太阳之神",
+      "statement": "《系统汉语》认为鸡因具备报晓的特性，在先民心目中至高无上，被视为太阳之神，能驱除黑暗和一切邪恶。",
+      "boundary": "只说明这一信仰观念，不主张其为史实。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "《玄中记》天鸡鸣于扶桑，呼日出",
+      "statement": "《玄中记》载蓬莱之东的岱舆山上有扶桑树，树高万丈，树巅常有天鸡为巢，每夜到子时天鸡便鸣叫；《系统汉语》据此说明鸡崇拜与太阳崇拜的关系。",
+      "boundary": "只就《玄中记》所载立论，不考订其成书与文本异文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "浙江称鸡为太阳鸟，畲族传说鸡是落地的太阳",
+      "statement": "浙江许多地方的人仍称鸡为「太阳鸟」；流传于浙江丽水山区的畲族传说称，鸡是后羿射日时射下的九个太阳之一变成，它同天上剩下的那个太阳联合起来，鸡鸣日升。",
+      "boundary": "只记录这一称谓与民间传说，不作为史实。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "盘古开天传说中盘古是鸡头人身",
+      "statement": "传说开天辟地的盘古是鸡头人身，天地未分时本是一个蛋，盘古盘在蛋中，长大后用嘴把蛋壳啄破脱出，天与地随其长大而拉开距离。",
+      "boundary": "只记录传说中的形象，不涉及盘古神话的其它版本。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "古籍常以鸡形称凤凰",
+      "statement": "《系统汉语》指出古籍常以鸡的形象称说凤凰：《山海经·南山经》称丹穴之山有鸟「其状如鸡，五采而文，名曰凤凰」，《太平御览》称「黄帝之时，以凤为鸡」，北齐《刘子新论》称「楚之凤凰，乃是山鸡」。",
+      "boundary": "只列这三条文献，不主张鸡与凤凰在来源上等同。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "山东人称野鸡为「凤凰鸡」",
+      "statement": "《系统汉语》记今天山东一带的人仍把野鸡叫作「凤凰鸡」。",
+      "boundary": "只记录这一方言称谓，不推及其它地区。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "鸡自古用作祭祀牺牲",
+      "statement": "《系统汉语》指出鸡因具神圣秉性，自古以来的祭祀及礼仪大典都把它用作牺牲：《青史子书》称「鸡者，东方之牲也……故以鸡祀祭」，《山海经》称「祠鬼神皆以雄鸡」。",
+      "boundary": "只列这两条文献，不概括历代祭祀用牲的全貌。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "衡阳乡间称男根为「鸡」「鸟」",
+      "statement": "《系统汉语》以衡阳乡间的习俗为例：鸡与人们渴望生命延续、生殖繁衍的意念紧密相联，最明显的表现就是称男阳、男根为「鸡」为「鸟」。",
+      "boundary": "只记录这一俗称，不外推为全国通例。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "衡阳乡间以红蛋报喜、送礼、庆生",
+      "statement": "衡阳乡间妻子有喜，夫家送涂红的鸡蛋到妻子娘家报喜，娘家一般回送「巴肚礼」，其礼非鸡即蛋；孩子满月后宴请亲友吃外壳涂红的鸡蛋或送红鸡蛋，凡生日必吃鸡蛋。",
+      "boundary": "只记录衡阳一带的生育与生日礼俗，不推及其它地区。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "衡阳建房杀鸡滴血敬神避煞",
+      "statement": "衡阳乡间砌屋奠基时杀鸡滴血，敬土地之神、避邪驱煞；砌到竖大门时杀鸡滴血敬门神；上梁圆垛时杀鸡滴血敬五方之神、驱除魍魉。",
+      "boundary": "只记录衡阳乡间的建房习俗，不推及其它地区。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "衡阳丧葬以公鸡避煞，并据其挣扎预卜",
+      "statement": "衡阳乡间丧葬中，亲人刚咽气时要杀公鸡；供三牲时必有公鸡；下葬时杀一只公鸡于墓穴以避煞，并看其挣扎情况预卜亡者是否会惠及后代。",
+      "boundary": "只记录衡阳乡间的丧葬习俗，不评价这一预卜之说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "乡间「无公鸡不祭祀」，公鸡平时忌宰吃",
+      "statement": "《系统汉语》称衡阳乡间重大的节日祭祀与先祖忌日祭祀都要以雄鸡为牺牲，「无公鸡不祭祀」；平时公鸡也忌讳宰吃，中医称之为「发物」，有旧病者吃了会复发，正在生病者吃了会加重。",
+      "boundary": "只记录这一习俗与民间说法，不涉及中医对「发物」的界定。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "作者推测忌荤的初因是对鸡的崇拜",
+      "statement": "《系统汉语》推测，古人饮食忌讳中的「荤」指葱、蒜等，而这类恰恰是鸡所不吃的，其它庄稼鸡几乎都吃；因此最初忌荤的动机可能就是出于对鸡的崇拜。",
+      "boundary": "属作者推测，未提供文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "作者推测斗鸡起初或基于对鸡的崇拜",
+      "statement": "《系统汉语》推测，流传久远的斗鸡之属，起初或许不是为好玩，而是基于对鸡的崇拜。",
+      "boundary": "属作者推测，未提供文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "「匃」「乞」「欠」都是音源字",
+      "statement": "《系统汉语》认为「匃」「乞」「欠」都是音源字，指动物或人张口尽力呼喝的样子，可以是鸡打鸣、动物吼叫、张口乞求、咳喘、打嗝、哀痛等形状；这类音源字很多且意义多有交叉，故不单设《卷》。",
+      "boundary": "只说明这三字作为音源字的取象与不单设卷的理由，不逐一考订其字形。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "「鶡」从「曷」，属鸡类，并入卷一的《雞》",
+      "statement": "《系统汉语》因「鶡」本从「曷」、也属鸡类，把它并入卷一的《雞》中。",
+      "boundary": "只说明归卷处理，不涉及「鶡」字本身的形义考释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "「乞」「欠」与「匃」义音相通",
+      "statement": "《系统汉语》举《集韵》为证说明「乞」「欠」与「匃」义音相通：「櫭」从「既」，「既」从「旡」声，「旡、欠」同源；「楬」从「曷」，「曷」从「匃」声；「气」本即「乞」，「炁」从「旡」声。",
+      "boundary": "只就这几组声符关系立论，不遍考其它通假。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    },
+    {
+      "topic_id": "topic-juan-01-ji",
+      "title": "「桀」是纯粹的借音字",
+      "statement": "《系统汉语》认为「桀」是纯粹的借音字，义音同「匃」，《集韵》「𢷒，担也。或省，亦从桀」可证。",
+      "boundary": "只说明「桀」的借音性质与这一条书证，不涉及「桀」作人名的用法。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "node": "hanzi-yinyuan"
+    }
+  ]
+}

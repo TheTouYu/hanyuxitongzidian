@@ -62,6 +62,20 @@
         "简化字"
       ],
       "migration_status": "managed"
+    },
+    {
+      "id": "hanzi-yinyuan",
+      "name": "音源字卷",
+      "path": "knowledge/hanzi-yinyuan",
+      "boundary": "《系统汉语》以音源字为纲编排的卷次知识：每卷围绕一个音源字，收其字形、字族通假与相关民俗，不是完整的字典释义，也不替代《说文》《广韵》等字书。",
+      "keywords": [
+        "卷",
+        "字族",
+        "民俗",
+        "通假",
+        "音源字"
+      ],
+      "migration_status": "pilot"
     }
   ],
   "topics": [
@@ -195,6 +209,32 @@
         "字根",
         "汉字系统",
         "谷"
+      ],
+      "permission": "public"
+    },
+    {
+      "id": "topic-juan-01-ji",
+      "node_id": "hanzi-yinyuan",
+      "title": "卷一·雞",
+      "path": "knowledge/hanzi-yinyuan/01-ji.md",
+      "summary": "音源字「雞」的字形与借音，只、奚、匃、乞、欠、曷、桀等字的字族关系，以及鸡作为太阳鸟、德禽、凤凰化身与祭祀牺牲的信仰和衡阳民俗",
+      "keywords": [
+        "乞",
+        "凤凰",
+        "匃",
+        "只",
+        "太阳鸟",
+        "奚",
+        "德禽",
+        "曷",
+        "桀",
+        "欠",
+        "祭祀",
+        "衡阳民俗",
+        "雞",
+        "音源字",
+        "鶡",
+        "鸡"
       ],
       "permission": "public"
     }
@@ -437,6 +477,166 @@
       ]
     },
     "clm_3D9FDA8FBA7C8DFA5894CDEF01": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5568CE8F4AFD710C4DFE2BCA04": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8C6A7E94DE6E8FE009BEBEB782": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C453705BFC054FB48FFB680BD1": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A9A06C4723BDC599D7A0817B59": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_89AFD3FE3B271ADD811A351FF9": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3230EBFE7AC4ECF311FC91ABF2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_370C5AAE80374B985B06CDFB6A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_66DF88B11A8A0EFFEB2F61FCEB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A331D226D3463C9E07F82509C5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_FDDB2D8FFB79AD7B54624C22BE": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EF58E635B42FECCA99F0F4DF94": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C8FF3ED91DC9735FCFF76ACFA3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F225A9D950CBBE9FB4F4FCC5ED": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3A1DFEED45F7747F7BE65BC651": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_BED3B8750D0F5C44548DF1999F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_FADFC39998EB17A242E53964AB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F056330AE11C9B5736D3DBBF3B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_84D341318AD9826EBC534B78EE": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5E451C023789123DA95691DCE7": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_450ED8D16650067BBD154C9C97": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8DAF172FCE974D473A3C0C05E0": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9746CAC792960B36933917245C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F2B203C976F714070AB50A38C3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F2B953273D46BBBCAF0920C339": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E9A48675176139EBF5E130F6DA": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_20BD50233964C6D0CFF3CF1F39": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9D2A19D11649A041753D66157F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_78396FEF3059F61051794569D5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3CC0CF854C7FE73E4448B75E6B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D4E99FE440C5577A1D9F3DA619": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3A6B062D6F8489F54BC08111E0": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_27971F643EDBAF1DBF3CC2690E": {
       "fact_classes": [
         "evidence_scope"
       ]
