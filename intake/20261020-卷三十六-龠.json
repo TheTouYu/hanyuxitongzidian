@@ -1,0 +1,560 @@
+{
+ "schema_version": 1,
+ "intent": "录入《系统汉语》卷三十六 龠（210.龠部–213.歲部）",
+ "risk": "medium",
+ "baseline_mode": "worktree",
+ "claims": [
+  {
+   "id": "j36-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "卷卅六音源字為「龠」，从倒口下有編管形，音源自吹龠聲",
+   "statement": "本卷的音源字是「龠」，字形从倒口（亼）下有编管形，指乐器龠。其音源是吹龠的声音。卷首以龠为纲，论证古龠本为编管乐器（近排箫），秦漢以后失传，其形制只保留在汉字中。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "topic_path": "knowledge/hanzi-yinyuan/36a-yue.md",
+   "topic_title": "卷三十六·龠",
+   "topic_summary": "卷三十六「龠」（第210–213部，p615–p621）：210 龠部（p617）、211 戉部（p618）、212 月部（p619）、213 歲部（p621）。音源字「龠」，从倒口下有编管形，指乐器龠，音源为吹龠声；本卷主旨在古龠即编管排箫（非单管笛），其半圆形与编束之形见于月、戉、夬、岳、约、跃、越诸字。戉即鉞，刃如弯月、为征伐权仗，义音同月龠；月取圆而缺如龠，故义音同龠而字族多取缺义（刖、跀、抈），外从卜从月取月之圆缺变化表意外；歲象长柄石镰、为劌之初文，因一年一收割而有年岁义，兼取岁星、太岁、污秽诸义，音源割禾声而义音同会。",
+   "topic_keywords": [
+    "龠",
+    "戉",
+    "鉞",
+    "月",
+    "外",
+    "歲",
+    "编管",
+    "排箫",
+    "骨龠",
+    "黄钟",
+    "妇好",
+    "岁星",
+    "太岁",
+    "音源"
+   ]
+  },
+  {
+   "id": "j36-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠是中國最古老的樂器之一，明朱載堉稱其為「七聲之主宰，八音之領袖」",
+   "statement": "龠是中国最古老的乐器之一，明朱载堉《律吕精义》称其为「七声之主宰，八音之领袖，十二律吕之本源，度量权衡之所由出者也」。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "古龠發源於「吹火管」，新石器時代已有骨龠，殷商甲骨文多用作祭名",
+   "statement": "古龠发源于「吹火管」：至少在近万年前的新石器时代已发展为完形的多音孔乐器「骨龠」；《礼记》记黄帝时期出现以天然植物材料制作的「葦龠」；《吕氏春秋》记大禹时皋陶作「夏龠九成」，龠被首倡为宗教乐舞的标志性乐器（边吹边舞）；殷商时期「龠」字已盛行于甲骨文，多用作祭名；两周时期古龠被隶定为「文舞」的代表性乐器。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "先秦古龠文化燦爛：武王伐殷有「龠人」、穆王西遊有「龠器」、國祭有「龠章」、宮廷有「龠師」",
+   "statement": "据史载：武王伐殷，祀庙谒祖有「龠人」（《逸周书》）；穆王西游，大奏广乐有「龠器」（《穆天子传》）；国祭中击鼓歌诗有「龠章」（《诗经》）；宫廷里掌握国子舞羽吹龠有「龠师」（《周礼》）。可见古龠文化在先秦时期的灿烂。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "秦漢以後雅樂淪喪，古龠失傳，明清宮廷與孔廟所持「龠」只是棍狀舞具",
+   "statement": "自秦汉以后雅乐沦丧，古龠开始失传。至迟自明清以来，历朝宫廷雅乐及孔庙祭祀乐舞中所持之「龠」皆不能演奏，只是一根徒有「龠」名的棍状舞具；加之史载「龠如笛」语焉不明，古龠的真实形制及吹法一直是难解之谜。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠的形制有兩說：一謂單管如笛三孔或六孔，一謂編管如排簫",
+   "statement": "关于龠的形制主要有两说：一认为形如笛，三孔或六孔，依据《尔雅·释乐》「龠，乐之竹管三孔，以和众声也」、《风俗通》「竹管三孔」、《毛诗传》「龠六孔」、《广雅》「龠谓之笛，有七孔」、《旧唐书》「管三孔曰龠」、朱熹《诗集传》「如笛而六孔或三孔」；一认为形如排箫、为编管乐器，依据「龠」的甲骨文金文字形，徐中舒《甲骨文字典》以为「正象编管之乐器，象管端之孔，此即乐器笙之初形，卜辞用为祭名，盖用乐以祭也，后世增示作禴」。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "單管說與甲骨文形遠，編管說又乏記載；龠曾為度量衡基準，宋時所見已是單管",
+   "statement": "两说相持：单管说与甲骨文之「龠」相去甚远，编管说又缺乏具体记载依据。龠曾为度量衡具、为历代度量衡法制之基础：黄帝命伶伦作律，伶伦截竹首制「黄钟之宫」即「黄钟之龠」；《汉书·律历志》「龠、合、升、斗、斛也，所以量多少也，本起于黄钟之龠，十龠为合，十合为升，十升为斗，十斗为斛」。若为编管，标准难定；苏轼《日喻》「他日揣钥以为日」可见宋时龠是如蜡烛的单管；由宋传入高丽的三孔龠今存韩国，1978 年香港「韩国乐器展览」说明称其为「竹制竖笛，有一V形凹槽及三个指孔，用于孔子祭典音乐中」。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "老子「橐龠」之喻與量具不漏的要求，反證龠初形當為編管",
+   "statement": "老子「天地之间，其犹橐龠乎」，吴澄注以橐为外围风箱之函、龠为内鼓扇之辖，则龠管如吹火筒，而吹火筒筒壁不能有孔；龠既作量具，若管壁有孔则装碎小物体时会漏出，难以量准。况且「龠」字所从分明含集束性符号「亼」和跟竹编相同的「冊」字形，故合理的推测是：起初的龠本是编管乐器，与今排箫形制近似，呈半圆形。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "古龠為半圓形編管，管端呈 V 形缺口，長短不一而音異，最宜作律呂標準",
+   "statement": "推测古龠：管子一头为 V 字形缺口、一头是实的，长短不一致故能发不同乐音；吹奏时象吹口风琴一般左右移动。此种乐器只要大小长短相同则声音相同，作律吕标准最恰当；但吹奏不便，估计秦汉时代已改良为单管有孔的箫，古老形制只保留在汉字中。其同音字亦有体现：「約」束縛体现编束原意，「月、戉、夬、岳」体现半圆形模样，「躍、越」体现吹奏时快速移动的样子。",
+   "boundary": "源自《系统汉语》卷三十六「龠」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠本義：象編管形，从冊加吅標示竹管、添倒口表吹奏",
+   "statement": "龠（𠎤𠋁）本义：象编管形。在「冊」上加吅标示其为竹管，更添倒口表示吹奏之意，形制跟后来的「排箫」差不多。《说文》：「乐之竹管，三孔，以和众声也。从品侖。」",
+   "boundary": "源自《系统汉语》第210部「龠部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠轉義三路：度量標準、躍動（䟑）、諧調（龢）",
+   "statement": "龠管大小长短不同、能发不同音调，从而引申指度量的标准（《广韵》「量器名」；《字彙》「惟黄钟之管，实以黍米，积之而成五量之名」）；吹龠如吹口风琴需左右快速移动，引申指跃动，此义分化为「䟑」（《广韵》「趠䟑，行貌」）；此种乐器吹起来不甚流利、最初用于协调音律，引申指谐调，此义分化为「龢」（《广韵》「谐也、合也」）。",
+   "boundary": "源自《系统汉语》第210部「龠部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠从「冊」證其為多管編成，《說文》「三孔」當為三根竹管",
+   "statement": "辩证：「龠」既从「冊」，而「冊」本指竹简，说明其形制象竹简一样由多根竹管编成；后世不知是失传、形制被改还是名称变化（被「排箫」代替），遂以为是一根如笛子的乐器（《广雅》「龠谓之笛，有七孔」）。若按其形制应为七根竹管组合，《说文》的「三孔」应是三根竹管，也有说指六孔；排箫有 10 到 24 根不等，说明它是在龠的基础上发展起来的，龠最初大约只有 3 到 7 根竹管。",
+   "boundary": "源自《系统汉语》第210部「龠部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠為音源字，音源自吹龠聲",
+   "statement": "龠是音源字，音源是吹龠的声音。",
+   "boundary": "源自《系统汉语》第210部「龠部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠部字族一：指龠狀或與龠相似之物（籲、蘥、𨷲、鑰、籥）",
+   "statement": "字族衍义①指龠状，表示龠或与之相似的东西：籲（《说文》「呼也，从页籥声」；呼吁；《广韵》「和也」）、蘥（《说文》「爵麦也」；雀麦即燕麦，穗如龠）、𨷲（《说文》「关下牡也」；门的直闩；《玉篇》「固关，令不可开，或作籥」；关防；《广雅》「投谓之𨷲」；钥匙）、鑰（《正字通》「管键也，管有茎，键有须，所以扃户也，通作籥」；同𨷲、籥）、籥（《说文》「书僮竹笘也」；习字儿童用的编在一起的小竹简；《玉篇》「乐器，似笛」；《释名》「籥，跃也，气跃出也」；《小尔雅》「键谓之籥」；锁钥）。",
+   "boundary": "源自《系统汉语》第210部「龠部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "龠部字族二：指吹龠，表躍動、閃耀（瀹、䟑、䠯、鸙、爚、禴等）",
+   "statement": "字族衍义②指吹龠，表示跃动、闪耀：瀹（《说文》「渍也」；浸泡；《玉篇》「煮也，内菜汤中而出也」；《篇海类编》「疏瀹开涤也」；疏通、疏导）、䟑（《说文》「趠䟑也」，谓疾走，即跃）、䠯（《玉篇》「登也，拔也」；《类篇》「行也」；《广韵》「履也」）、鸙（《集韵》「天鸙，鸟名，形如鷃，色似鹑」，即云雀，是鸣禽中少数能在飞行中歌唱、能在空中悬停的鸟类）、𢅹（《类篇》「幕屋谓之𢅹」）、爚（《说文》「火飞也，一曰爇也」；火光；《玉篇》「光也、电光也」）、𧢢（《说文》「视误也」；看东西不清，视物有重影如龠；《广韵》「视不定也」；《集韵》「眩也」）、禴（《集韵》「礿，《说文》：夏祭也」，或作禴、𧆆，亦从火）、𧕋（《类篇》「𧐔𧕋，虫名，萤火也」）。",
+   "boundary": "源自《系统汉语》第210部「龠部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-016",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "戉本義：象鉞形，刃如彎月，與戈只是鋒刃不同",
+   "statement": "戉（鉞）本义：象鉞形，跟戈只是锋刃上的不同：戈是横刃，主要用于战车作战时的拖割；戉（鉞）刃如弯月，跟现在的斧头差不多。《正字通》「斧之长柲者」。",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-017",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "鉞曾居兵器之首，商周為王者專有的儀仗禮器與征伐權仗",
+   "statement": "鉞曾居兵器之首。商周时期鉞作为兵器的同时亦作为仪仗礼器使用，为王者所专有：《书经》「鉞以金饰，王无自由之理，左杖以为仪耳」；史载周公把大鉞、召公把小鉞以夹武王；武王伐商誓师牧野「左仗黄鉞，右秉白旄」。古代国王赏赐大臣青铜鉞，有赋予军权和征伐权的意义，绝非一般氏族贵族所能享有。故鉞是象征征伐权力的权仗、统帅权威的象征，同时又是执行最高律令的法器刑具。此礼制沿袭到魏晋南北朝：《晋书·职官志》载魏文帝黄初三年置都督诸州军事，曹真都督中外诸军事、「假黄鉞」则总统内外诸军，即凭黄金为饰的鉞代表皇帝行使权力，跟后来的「尚方宝剑」类似。",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-018",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "現存最早的鉞出土於安陽殷墟婦好墓：四件青銅鉞，大鉞重九千克",
+   "statement": "迄今发现最早的鉞是 1976 年河南安阳殷墟妇好墓出土的 4 件青铜鉞，其中一件大鉞长 39.5 厘米、刃宽 37.5 厘米、重达 9 千克，鉞上饰双虎扑噬人头纹并有「妇好」二字铭文；该鉞并非实战兵器，而是妇好统帅权威的象征物。",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-019",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "戉轉義：刃薄柄長、須大跨步砍殺，引申為輕越（分化「越」）",
+   "statement": "转义：鉞虽然如斧，但其刃薄故相对较轻，柄也颇长，使用时须大跨步进行砍杀，因此引申指轻越义，此义分化如「越」（《玉篇》「远也、逾也」）。",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-020",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "戉析形：《說文》「从戈𠄌聲」不確，周代金文已失象形性",
+   "statement": "辩证：周代金文后逐渐失去象形性，故《说文》「斧也，从戈𠄌声」析形不确。（《说文》引《司马法》「夏执玄戉，殷执白戚，周左杖黄戉，右秉白髦」；徐鉉谓「今俗别作鉞，非是」。）",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-021",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "戉為借音字：鉞刃弧形如彎月，故義音同「月、龠」",
+   "statement": "音源：戉是借音字。由于鉞刃呈弧形、如弯月一般，故义音同「月、龠」：「蚏」《唐韵》《集韵》「与𧑅同」；「鑰」《玉篇》「兵器也」，应即鉞。",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-022",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "戉部字族一：執戉表輕舉、踰越（越、𨒋、䟠、䋐、泧、樾等）",
+   "statement": "字族衍义①指执戉，表示轻举、逾越：越（《说文》「度也」；超越、逾越；《广韵》「坠也、于也、於也、远也、走也、逾也、曰也、扬也」；《广雅》「治也、与也」；瑟底小孔）、𨒋（《说文》「逾也」；同越；《玉篇》「散走也」）、䟠（《说文》「轻也」；轻轻越过；《广雅》「疾也」；或指一脚行）、𡛟（《说文》「轻也」；《广雅》「愚也」）、䋐（《说文》「采彰也，一曰车马饰」；有五彩花纹的丝织品；《集韵》「细布」）、狘（《新附》「兽走貌」；即越义）、眓（《说文》「视高貌」）、泧（《说文》「瀎泧也」；波涛汹涌，郭璞《江赋》「溃濩泧漷」；《集韵》「泧瀎，拭灭」，抹杀）、樾（《玉篇》「楚谓两木交阴之下曰樾」；树阴）、𥩡（《广韵》「竚立也」）、䎀（《广韵》「飞貌」）、㞽（《玉篇》「山也」）、䬂（《广韵》「小风貌」）、怴（《广韵》「狂也」；《玉篇》「怒也」；愚貌、怨也）、魆（《字彙补》「谲也，又猝然也」）、𠇘（《集韵》「忧也」）、𠾲（呕吐）、𧑅（彭蚏，水虫，似蟹而小，一螯偏大谓之拥剑、亦名执火）、𩿠（《集韵》「鸟名」，疑同鸙指云雀）。",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-023",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "戉部字族二：與戉直接相關（鉞、𩎙、𣧡）",
+   "statement": "字族衍义②指戉，与之直接相关：鉞（《说文》「车銮声也，从金戉声」，《诗》「銮声鉞鉞」；徐鉉谓今俗作鐬、以鉞作斧戉之戉非是；《广雅》「鉞，斧也」；《释名》「鉞，豁也，所向莫敢当前，豁然破散也」）、𩎙（《集韵》「斧衣也」，装斧子的套子）、𣧡（《集韵》「尽也」）。",
+   "boundary": "源自《系统汉语》第211部「戉部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-024",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "月本義：象彎月形，《說文》「闕也，太陰之精」",
+   "statement": "月（𡇹）本义：象弯月形。《说文》：「阙也，太阴之精，象形。」",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-025",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "月轉義：以圓缺週期定日期而為計時單位，又指類似週期變化",
+   "statement": "转义：古代凭借月亮圆缺的周期性变化来确定日期，从而引申指一个周期的计时单位。《广韵》引范子计然云「月者，尺也，尺者，纪度而成数也」；一年分十二个月，每月一般是 30 天。或引申指类似的周期变化，《正字通》「女子天癸谓之月事」。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-026",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "月與肉形近：《說文》肉旁楷化後多作「月」（肝腎腦胸）",
+   "statement": "辩证：由于战国古文「肉、月」相近，楷化后的「肉」在作偏旁时多写作「月」，如肝肾脑胸等。《正字通》「肉字偏旁之文本作肉，《石经》改作月，中二画连左右，与日月之月异；今俗作月以别之」。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-027",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "月為借音字：取圓而缺如龠，故義音同「龠」，並跨夕、名三個音系",
+   "statement": "音源：月是借音字。月因缺时多、圆时少，取其圆而缺如龠，故义音同「龠」；但其声又因月夜出而或借音与蛇为「夕」，或借音于蚊为「名」，跨三个音系。「月」义音既同「缺」，故其字族多取缺义。古「月、夬」之间虽暂无直接音义可通证据，但月通兀、兀通出、出通夬：《说文》「𧿁，跀或从兀」、《易·困》「劓刖」释文作「臲𡰈」、段玉裁注《说文》檮字条引《春秋传》「檮柮」即《左传》文十八年「檮杌」、《淮南子·兵略训》「毋抉坟墓」而《文子·上义》作「掘」。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-028",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "月部字族一：指月缺，表缺少、折斷、殘餘（刖、跀、蚏、抈、㱚等）",
+   "statement": "字族衍义①指月缺，表示缺少、折断、残余：刖（《说文》「绝也」；断绝，取月之缺意；《玉篇》「断足也」；甲骨文不从月，从刀砍大一足形）、跀（《说文》「断足也」；斩断脚趾，斩后足成月形；甲文象锯人一足之形）、蚏（《广韵》「蟚蚏，似蟹而小」；《古今注》生海边食土，一名长卿，其一螯偏大谓之拥剑、亦名执火，如刖一足之意）、抈（《说文》「折也」；折断；《正字通》「动也」）、䎳（《说文》「堕耳也」，掉落耳朵）、㱚（《集韵》引《说文》「禽兽所食余也」）、岄（《集韵》「山名」）、仴（《玉篇》「地名」）。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-029",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "月部字族二：指月形，表窩曲之狀（鈅、䚴、阴、迌、𨊸、枂等）",
+   "statement": "字族衍义②指月形，表示窝曲之状：鈅（《正字通》「兵器，一说戉鉞通，俗作鈅」；今指开锁的钥匙）、䚴（《玉篇》「怒也、诃也」）、阴（《字彙补》「𨹉又作陰，并与陰同」，阴之俗字）、迌（《玉篇》「诋䛢貌」，狡猾的样子；《正字通》以为讹字）、𨊸（《集韵》「车釭」，车毂口穿轴用的铁圈）、𢚑（《篇海》「生革也」，未经鞣制的皮革）、枂（《唐韵》「去树皮也」；《广韵》「柮枂，柱头木」；《集韵》「鞍瓦」）。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-030",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "外本義：从卜从月，取占卜結果如月圓缺變化，表例外、意外",
+   "statement": "外（𡖄）本义：从卜从月，月亦声。「卜」指占卜；从「月」指占卜的结果象月亮的圆缺变化一样，缺时会向圆的方面变化、圆时也会向缺的方面变化，表示例外、意外之意；或指外卦，即重卦的上三爻。《左传·僖公十五年》「蛊之贞，风也；其悔，山也」，晋杜预注「外卦为贞，内卦为悔」，孔颖达疏「筮之画卦，从下而始，故以下为内，上为外」，意即如月亮分上弦月与下弦月。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-031",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "外轉義：由意外引申為表面的、疏遠的（外王父、外王母）",
+   "statement": "转义：由意外引申指表面的、疏远的。《广韵》「表也、远也」；《尔雅·释亲》「母之考为外王父，母之妣为外王母，母之王考为外曾王父，母之王妣为外曾王母」。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-032",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "外析形：《說文》「卜尚平旦，今夕卜，于事外矣」無確證，存疑",
+   "statement": "辩证：《说文》「远也，卜尚平旦，今夕卜，于事外矣」——晚上占卜是否属于「事外」没有什么确切证据，存疑。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-033",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "外部字族：外面、表面、遠處（𠨃、𠰻、迯、𨳿等）與形近「升、奴」之訛",
+   "statement": "字族衍义①指外面，表示表面、远处：𠨃（《字彙补》「𠨃甥，姊妹之子也」）、𠰻（远指代词「那」；叹词「喂」）、迯（《字彙》「俗逃字」）、䀤（《字彙补》引《青箱杂记》「䀤睮者，嫉妒人也」）、𧵏（《广韵》「蕃姓」）、𨳿（《篇海类编》「门扇也」；同间、閒，《说文》「隙也，从门月」，战国古文「从门，外声，间之繁文」；方言小山庄）、𩊃（《篇海》「皮鞨也」）。②形近字「升、奴」之讹：𢫑（《龙龛》「同抍」，拯救，疑为抍之讹字）、𧦨（《字彙》「急恶言也」；《龙龛》「俗，通𧪅，正作詉，恚恶言也」）。",
+   "boundary": "源自《系统汉语》第212部「月部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-034",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲本義：象有長柄的石鐮刀，為「劌」之初文，指收割莊稼",
+   "statement": "歲（歳岁）本义：象有着长柄的石镰刀之形，上有两点为系镰于柄上时所用的孔，是「劌」之初文（《广韵》「伤也、割也」）；指收割庄稼。因庄稼是一年收割一次而有年岁之意，所以或加「步」表示经历过、或指收割时的步态；或加「月」表示时日、或指镰形如弯月。《集韵》「年也」；《释名》「歲，越也，越故限也」。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-035",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲轉義：由太陽曆、歲星紀年而有「太歲」與「犯太歲」之說",
+   "statement": "转义：古人以太阳的运行周期计时，其运行轨道为一圆圈称「黄道」，转一圈为一年，此种纪年法称「太阳历」；木星轨道与黄道相近，绕太阳一周约需十二年，若将黄道作十二等分则木星每年行经黄道一次，故称木星为「岁星」，其纪年法称「太岁历」。太阳历以十天干与十二地支依次相配成六十个基本单位即「花甲」，而木星运行五个周期刚好也是六十年，故《书·洪范》「五纪，一曰岁」。古人将岁星神化，认为它由十二个神（道家分为六十）组成的领导班子轮流值年、掌管人间祸福，一个人出生时值年的岁神每隔十二年到来一次，称「犯太岁」，须小心敬奉以免灾祸；同时岁星途经地上某处，某处地下便生肉状怪物「太岁」，能在阴暗潮湿的地下生长，故不能在其上动土。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-036",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲引申指污穢，分化為「穢」",
+   "statement": "由太岁之义，「歲」也引申指污秽之意，此义分化如「穢」（《集韵》「恶也，通作濊」）。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-037",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲析形：《說文》「从步，戍聲」不確，當以指鐮為是",
+   "statement": "辩证：《说文》「木星也，越历二十八宿，宣遍阴阳，十二月一次，从步，戍声」将镰刀形视作「戍」（戍的甲骨文从人从戈），故析形不确。或以为「歲」所从为「戉」（《战国古文》「甲骨文作某，从步，戉声，或作某，从月，戉声」）：歲形确与戉颇相似，故西周晚期即写如戉，但初形差别较大（戉形比歲要宽），当以指镰为是。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-038",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲為音源字：源自割禾聲，因污穢義而義音同「會」",
+   "statement": "音源：歲是音源字，源自割禾的声音。因有污秽义，而义音同「会」：《集韵》「濊，汪濊，深广也，或作澮」。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-039",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲部字族一：指割聲，表連續的「歲歲」聲（翽、鐬、𤃴、噦、𧬨等）",
+   "statement": "字族衍义①指割声，表示连续的「岁岁」声：翽（《说文》「飞声也」，《诗》「凤皇于飞，翽翽其羽」；《玉篇》「羽声众貌」）、𧕼（《字彙补》「音许」，疑指虫飞声）、鐬（《玉篇》「铃声」；《广雅》「鐬鐬，盛也」；《集韵》「鉞，《说文》：车銮声也，引《诗》銮声鉞鉞，或从歳，亦作噦」）、𤃴（《说文》「碍流也」，《诗》「施罟𤃴𤃴」；王筠《释例》「施罟水中，其声𤃴𤃴然」）、噦（《说文》「气啎也」，嗝逆；《正字通》引方书「有物无声曰吐，有声无物曰噦，有物有声曰呕」，即干呕；又「声徐有节也」，《诗》「鸾声噦噦」；鸟鸣也；顪，颐下毛、一曰颊）、𧬨（《说文》「声也」，《诗》「有𧬨其声」；《广韵》「众声」，声音嘈杂）、䮹（《玉篇》「䮹䮭，马怒」；《集韵》「马性恶」）。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-040",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲部字族二：指歲狀，表歲狀物或割開的大口（劌、奯、鱥等）",
+   "statement": "字族衍义②指歲状，表示歲状物或割开的大口：劌（《说文》「利伤也」；刺伤；《方言》「凡草木刺人，自关而东或谓之劌」；《广韵》「伤也、割也」）、𣦦（《字彙补》「伤也」）、奯（《说文》「空大也」，孔窍大；《广韵》「大开目也」；义音同「豁」）、𢕺（《字彙》「室宇显敞之貌」）、𣦧（《玉篇》「名山名」）、𦅵（《集韵》「繐，《说文》：细疏布也」；细而疏的麻布；《玉篇》「练布也」）、𧸗（《类篇》「艸名，鼠姑也」，即牡丹；《本草纲目》「鼠姑，味苦平无毒，主咳逆上气、寒热鼠瘺、恶疮邪气」）、鱥（《集韵》「鱖，《说文》：鱼名」；鱖鱼口大、背鳍齿状刺有毒、体侧有不规则暗棕色斑块）。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j36-041",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-36-yue",
+   "title": "歲部字族三：指太歲，表污穢（薉、濊、饖、獩、顪等）",
+   "statement": "字族衍义③指太岁，表示污秽：薉（《说文》「芜也」，荒草；《玉篇》「行之恶也，又作穢」）、濊（《说文》「水多貌」；《集韵》「浊也，或从薉」；「汪濊，深广也，或作澮」）、饖（《说文》「饭伤热也」；《广韵》「饭臭」，饭伤热而馊臭；义音同「餧」）、獩（《广韵》「濊貊，夫余国名，或作獩貊」，古国名，在今朝鲜北部）、𧴖（《篇海》「蛮夷人」）、顪（《广韵》「颊也」；《集韵》「颐下毛，一曰颊谓之顪，或从口」）、䠩（《集韵》「小溺也，一曰倦也」）、𣩪（《集韵》「残𣩪，死物」）、𤻀（《正字通》「恶也，本作穢」）、𪒩（《集韵》「黑色」）。",
+   "boundary": "源自《系统汉语》第213部「歲部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
