@@ -1,0 +1,20 @@
+# 当前状态
+
+Primary Context: `default`
+
+## 现在是什么状态
+
+- 知识库为**空库**：0 条 Claim，等待主人录入第一批知识。
+- 结构骨架已建：4 个节点、4 个主题，见 `data/knowledge/registry.json`。
+- 运行时：PKC 0.2.0rc5，位于 `..\portable-knowledge\.venv`（`tools\pkc.cmd` 可直接调用）。
+- 对外服务（网页 / 微信）：还没开始，等知识录入成型后再接。
+
+## 下一步
+
+1. 主人用中文讲知识（可以很口语）→ 整理成 `intake/*.json` 草稿
+2. `knowledge-plan capture --preview-only` 预览
+3. 主人确认后，按精确哈希批准 → apply → 验证 → 提交
+
+## 计数
+
+4 个节点 / 4 个主题 / 0 条 Claim

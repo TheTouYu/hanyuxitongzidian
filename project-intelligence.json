@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "instance": {
+    "id": "system-hanzi",
+    "name": "系统汉字"
+  },
+  "pkc": {
+    "version": "0.2.0rc5",
+    "projection_path": ".local/pkc"
+  },
+  "authority": {
+    "registry": "data/knowledge/registry.json",
+    "actors": "data/knowledge/actors.json",
+    "store": "data/knowledge",
+    "knowledge": "knowledge",
+    "authority_refs": "data/knowledge/authority-refs.json"
+  },
+  "identities": {
+    "principal": {
+      "id": "owner"
+    },
+    "executor": {
+      "id": "pkc-agent"
+    },
+    "workspace": {
+      "id": "hanzi-workspace",
+      "path": "."
+    },
+    "writer": {
+      "id": "owner-channel"
+    }
+  },
+  "compatibility": {
+    "v1_actor_map": {
+      "owner-channel": "owner"
+    }
+  },
+  "memory": {
+    "roles": [
+      {
+        "role": "operating_entry",
+        "path": "memory/OPERATING.md",
+        "mutation_policy": "reference"
+      },
+      {
+        "role": "current_recovery",
+        "path": "memory/CURRENT.md",
+        "mutation_policy": "replace"
+      },
+      {
+        "role": "decision_entry",
+        "path": "memory/DECISIONS.md",
+        "mutation_policy": "supersede"
+      }
+    ],
+    "contexts": [
+      {
+        "id": "default",
+        "default": true,
+        "lifecycle": "active",
+        "goal": "建设并运维「系统汉字」知识库，为网页与微信问答提供有出处的答案",
+        "recovery_role": "current_recovery",
+        "validation_gate": "pkc validate"
+      }
+    ],
+    "startup_budget": {
+      "max_files": 3,
+      "max_characters": 6000
+    },
+    "applies_to": {
+      "workspace": ".",
+      "branches": ["*"]
+    }
+  },
+  "evaluation": {
+    "cases_path": "data/knowledge/evaluation/retrieval-cases.json"
+  },
+  "experience": {
+    "current_surfaces": ["AGENTS.md", "memory/CURRENT.md"],
+    "stale_markers": [],
+    "proof_boundary": "本检查只覆盖 Authority 登记、Project Memory 角色、知识树结构与检索回归用例，不证明对外服务（网页/微信）的运行状态，也不证明任何未登记为 Claim 的说法。"
+  }
+}

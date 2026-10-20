@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "nodes": [
+    {
+      "id": "hanzi-origin",
+      "name": "汉字本源",
+      "path": "knowledge/hanzi-origin",
+      "boundary": "字源、形体演变与造字理据（六书）",
+      "keywords": ["字源", "演变", "甲骨文", "金文", "小篆", "六书", "造字理据"],
+      "migration_status": "managed"
+    },
+    {
+      "id": "hanzi-structure",
+      "name": "汉字结构",
+      "path": "knowledge/hanzi-structure",
+      "boundary": "部件、偏旁部首、笔画笔顺与间架结构",
+      "keywords": ["结构", "部件", "偏旁", "部首", "笔顺", "笔画", "间架"],
+      "migration_status": "managed"
+    },
+    {
+      "id": "hanzi-sound-meaning",
+      "name": "汉字音义",
+      "path": "knowledge/hanzi-sound-meaning",
+      "boundary": "读音、多音字、字义与义项关系",
+      "keywords": ["读音", "拼音", "多音字", "字义", "义项", "形声"],
+      "migration_status": "managed"
+    },
+    {
+      "id": "hanzi-usage",
+      "name": "汉字应用",
+      "path": "knowledge/hanzi-usage",
+      "boundary": "规范标准、易错点辨析与书写应用",
+      "keywords": ["规范", "通用规范汉字表", "错别字", "辨析", "书写", "简化字"],
+      "migration_status": "managed"
+    }
+  ],
+  "topics": [
+    {
+      "id": "topic-etymology",
+      "node_id": "hanzi-origin",
+      "title": "字源与形体演变",
+      "path": "knowledge/hanzi-origin/etymology.md",
+      "summary": "单个汉字的字形来源、演变脉络与造字理据",
+      "keywords": ["字源", "演变", "甲骨文", "金文", "小篆", "六书"],
+      "permission": "public"
+    },
+    {
+      "id": "topic-components",
+      "node_id": "hanzi-structure",
+      "title": "部件与偏旁部首",
+      "path": "knowledge/hanzi-structure/components.md",
+      "summary": "汉字的部件拆分、偏旁部首归属与笔画笔顺",
+      "keywords": ["部件", "偏旁", "部首", "笔顺", "笔画"],
+      "permission": "public"
+    },
+    {
+      "id": "topic-reading-meaning",
+      "node_id": "hanzi-sound-meaning",
+      "title": "读音与字义",
+      "path": "knowledge/hanzi-sound-meaning/reading.md",
+      "summary": "汉字的读音、多音字读法、字义与义项辨析",
+      "keywords": ["读音", "多音字", "字义", "义项", "拼音"],
+      "permission": "public"
+    },
+    {
+      "id": "topic-standards",
+      "node_id": "hanzi-usage",
+      "title": "规范与易错辨析",
+      "path": "knowledge/hanzi-usage/standards.md",
+      "summary": "汉字使用的规范标准、常见错别字与用字辨析",
+      "keywords": ["规范", "通用规范汉字表", "错别字", "辨析", "简化字"],
+      "permission": "public"
+    }
+  ],
+  "relationships": []
+}

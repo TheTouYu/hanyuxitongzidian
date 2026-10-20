@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "actors": [
+    {
+      "id": "owner-channel",
+      "name": "Owner channel",
+      "status": "active",
+      "roles": ["owner", "business_reviewer"]
+    }
+  ]
+}
