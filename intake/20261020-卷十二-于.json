@@ -1,0 +1,1426 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷十二 于 108 条（音源字「于」象竽形，第68部于部、69部瓜部、70部𠌶部、71部壺部、72部羽部、73部雨部、74部古部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j12-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：音源字「于」象竽形，音源為吹竽聲",
+      "statement": "卷十二的音源字為「于」，象竽形，其音源自吹竽聲。竽是氣鳴（簧管）樂器，甲骨文「于」即為竽的象形，說明至少在商周時期就已經有了。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/12a-yu.md",
+      "topic_title": "卷十二·于",
+      "topic_summary": "《系统汉语》卷十二「于」，音源字「于」象竽形、音源为吹竽声；含第68部于部、69部瓜部、70部𠌶部、71部壺部、72部羽部、73部雨部、74部古部，凡108条。",
+      "topic_keywords": [
+        "于",
+        "竽",
+        "瓜",
+        "華",
+        "壺",
+        "羽",
+        "雨",
+        "古",
+        "音源字",
+        "卷十二"
+      ]
+    },
+    {
+      "id": "j12-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：竽的盛況與形制演變——《韓非子》齊宣王「使人吹竽，必三百人」",
+      "statement": "《韓非子·內儲說》載，齊宣王（公元前342—前324）「使人吹竽，必三百人」，描繪的就是戰國時期齊國吹竽的盛景；从出土的西漢百戲陶俑和東漢石刻百戲畫像中，也可看出竽在百戲樂隊中佔有重要地位。漢以前，竽、笙是並存的兩件樂器；東漢《說文解字》記載竽為36簧，後減至23管，分前後二排；不過至宋代時，在教坊十三部中，只有笙而無竽。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：竽與笙的區別，以及「26管以上為竽」的判定標準",
+      "statement": "「笙」和「竽」模樣相仿，一些文獻認為竽就是不同形的笙，如《呂氏春秋·仲夏紀》高誘注「竽，笙之大者」。二者的區別是：笙體積比較小、簧管也少，竽體積比較大、簧管也多，兩者早期都是用嵌簧的編管插入葫蘆內，並以葫蘆作為共鳴體。古時笙的別名很多，有「竽」「巢」「鳳巢」「鳳笙」「參差」「龢」等，如《爾雅·釋樂》「大笙謂之巢，小者謂之龢」，但主要還是「竽」「笙」用得最多；宋代以後統一稱「笙」。現在的初步共識是：26個管子以上的叫「竽」，26個管子以下的叫「笙」，這個標準來自長沙馬王堆一號漢墓出土的一支26管的竽。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：笙在典籍中的記載——《詩經·小雅·鹿鳴》《禮記·月令》《楚辭·九歌》",
+      "statement": "笙字出現在典籍上的有《詩經·小雅·鹿鳴》「我有嘉賓，鼓瑟吹笙，吹笙鼓簧，承筐是將」；《禮記·月令》「仲夏之月……命樂師……調竽笙也簧」；歷史上除中原各國流行笙外，南方的楚國也盛行吹笙，如《楚辭·九歌·東皇太一》「陳竽瑟兮浩倡，靈蹇兮姣服」。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：笙的起源諸說與「五音之長」的地位",
+      "statement": "有關笙的起源有不同的記載：有認為是女媧所作，如《禮記·明堂位》「女媧氏之笙簧」；《世本》則說「隨作笙」——傳說中女媧是人類的祖先，笙義即生，女媧化生了人類萬物，成為生的象徵，自然也就成了笙的創造者；另有學者認為笙源于印度或東南亞。無論如何，先秦時期笙已很盛行並成為重要樂器，被稱為「五音之長者」，如《韓非子·解老》「竽也者，五聲之長者也。故竽先，則鐘瑟皆隨，竽倡，則諸樂皆和」；而笙師也同時是其它樂器吹奏的老師，《周禮·春官·笙師》「掌教吹竽、笙、塤、龠、簫、笛、管」。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：最初的笙斗用葫蘆做，葫蘆因救世之功成為溝通人神的神器",
+      "statement": "最初的笙斗是用葫蘆做的。在創始神話中，始祖神伏羲跟女媧本就是憑藉葫蘆而得救于洪水的，因此葫蘆本就具有救世的偉績，被各族人民視為溝通人神交往的神器。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：葫蘆古寫作「壺」，與「三壺」——破壺、懸壺、壺天",
+      "statement": "葫蘆古代寫作壺，俗稱葫蘆瓜，《詩·大雅·綿》「綿綿瓜瓞，民之初生」，意思是人類出自葫蘆瓜。中國人的整個人生歷程都蘊涵在「三壺」之中：「破壺」指人从瓜出；「懸壺」指醫藥濟民；「壺天」指魂歸壺天——這壺都是葫蘆。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：葫蘆崇拜——多民族神話中的始祖母體，與「福祿」「長命」的吉祥義",
+      "statement": "在我國許多民族的先民那裏，都曾崇拜過象徵「母」體的葫蘆：漢族《獨異志》載伏羲、女媧兄妹是从昆侖（葫蘆）山中誕生的，滇東北的漢族則傳說「人从瓜出」，彝、土家、黎、水、苗、藏等族都有關于祖先和葫蘆有關的傳說。葫蘆為多子多孫象徵，又與「福祿」諧音，人們常在幼小娃娃的身上、胸前佩戴小葫蘆以祈長命百歲。道家把葫蘆視為神物，道士隨身攜帶葫蘆盛「仙丹妙藥」是為法器，傳說中的鐵拐李、麻姑、南極仙翁皆攜帶葫蘆；許多道觀、佛廟把葫蘆用來作驅邪逐鬼、鎮壓五毒之符；古時行醫者身上都背著葫蘆。葫蘆味甘性平滑無毒，其葉、莖、須及葫蘆殼、子均可入藥；李時珍《本草綱目》「竊謂壺匏之屬，既可烹曬，又可為器；大者可為甕盅，小者可為瓢樽；為腰舟可以浮水，為笙可以奏樂；膚瓤可以養豕，犀瓣可以澆燭；其利溥矣」，比較全面地總結了葫蘆的用途和價值。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：二十多個民族拜匏（崇拜葫蘆），聞一多《伏羲考》列葫蘆神話四十九種",
+      "statement": "我國至少有20多個民族拜匏，也就是崇拜葫蘆，並有葫蘆神話相伴隨；聞一多在《伏羲考》中列出了與葫蘆相關的神話49種。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：葫蘆神話的共同內容——母體、靈魂歸宿、萬物種子、祖先的聲音",
+      "statement": "葫蘆神話大多有這樣一些內容：葫蘆是誕生始祖的母體，是先祖靈魂的歸宿地，葫蘆籽是萬物的種子，葫蘆笙聲是祖先的聲音。彝族民間長詩《梅葛》說漢、傣、彝、傈僳、藏、白、回等民族都是从一個葫蘆裏出來的親兄弟；拉祜族長詩《牡帕密帕》說第一代人紮笛和娜笛是天神厄莎用葫蘆孕育出來的，拉祜、佤、哈尼、彝、傣等九個民族是紮笛和娜笛所生的九對孩子，並記紮笛「砍來最好的泡竹，找來最好的葫蘆，找到蜂蠟和樹槽，做出了第一隻葫蘆笙」；佤族《司崗里》也有類似的傳說。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：笙屬樂器的三大類——葫蘆笙、蘆笙、排笙",
+      "statement": "歷史上的笙屬樂器大致可分成少數民族的葫蘆笙、蘆笙，國外的排笙，以及漢族的笙三大類。葫蘆笙是將笙管插在葫蘆上、笙管透底、葫蘆作笙斗、笙簧以竹制，音量較小、音色柔和，一般五、六管；蘆笙流行于西南苗、傜、侗等族，木制笙斗、金屬簧片，有長達丈余單管插于粗竹筒內吹奏的，也有小至數寸多至六管的，較葫蘆笙粗獷宏亮；排笙的笙管像排簫般緊密排列、分左右兩行置放入半截葫蘆或竹木製成的音斗之上、以金屬為簧，國外或稱老撾笙。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：笙的吹奏技巧——運氣、用舌、按指，且是少有的能吹和聲的樂器",
+      "statement": "笙的吹奏技巧或謂易于其它樂器，但吸收其它樂器的演奏技巧與樂器改革帶來的新技巧，使其表現力更為豐富而具特色：運氣方面，腹顫音、頓氣、腹吟音、腹震音、頓彈等可以表現歡騰熱烈、懸疑緊張、高潮迭起等不同情緒；用舌方面，除一般管樂器的單吐、雙吐、三吐、花舌、鋸音及碎吐外，還可演奏笙獨特的舌顫、呼舌、喉顫及喉舌等技巧；按指方面，笙是極少能吹奏和聲的樂器之一，加上迭音、倚音、打音、顫音、曆音、抹音、滑音、贈音等技巧，故在器樂、歌舞、曲藝及戲曲音樂中皆使用笙作為主奏或伴奏。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：笙在傳統器樂樂種中的角色——从西安鼓樂到苗族蘆笙樂隊",
+      "statement": "《戰國策·齊策》「臨淄甚富而實，其民無不吹竽（大笙）鼓瑟，擊築彈琴」，早期即流行吹笙的器樂並一直延續下來：西安鼓樂中的坐樂及行樂、以管子為主奏而笛笙穿插的智化寺京音樂、流行于河北保定地區的冀中管樂、在婚喪喜慶及僧道宗教儀式中演奏的山東鼓吹、流行于山西五臺山的八音會、十番鑼鼓中的笙吹鑼鼓、江南絲竹、福建莆仙地區的十音八樂、福州十番、臺南等地區的十三腔，以及潮州大鑼鼓、潮州蘇鑼、苗族蘆笙樂隊等，都有笙的主奏、助奏角色。在曲藝中使用笙的，則包括福建南詞、紹興平胡、伬藝、四明南詞、貴州琴書、揚歌、天津時調、安徽琴書及徐州琴書等。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：蘆笙舞——《詩經》「左執簧」與《新唐書》「吹瓢笙」的最早記述",
+      "statement": "歌舞音樂中使用笙來主奏的，以西南少數民族的蘆笙舞最具代表性。蘆笙舞歷史久遠，至今仍是西南民族民俗活動的重要舞蹈形式：《詩經》「君子陰陽，左執簧」是吹笙簧起舞的最早描述；《新唐書·南蠻列傳》有「吹瓢笙，筏四管，酒至客前，以笙推盞勸酪酹」的記述。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：蘆笙舞的兩種形式、匏笙與一般蘆笙之別，及其祭祀節慶婚喪的社會功能",
+      "statement": "蘆笙舞分為和著蘆笙曲調起舞與邊吹奏蘆笙邊舞兩種形式，又有葫蘆笙和一般蘆笙之分。葫蘆笙即古文獻所說的「匏笙」，是農耕文化型的古老樂器之一，匏即作水瓢用的大葫蘆瓜，也即周代器樂「八音」中的「匏」；匏笙隨中原、荊楚文化傳入古滇地，和古滇人、昆明人的文化相結合，形成當地的葫蘆笙與葫蘆笙舞。葫蘆笙插入笙斗的笙管不超出底部、底部平滑，演奏者用手指按笙管上孔吹奏的同時用拇指按底孔，每管可發出兩三個音；一般蘆笙的管都長出笙斗，演奏時不按底孔，一管雖只吹出一個音，但按指技法較多。二者社會功能相同，都可用于祭祀、節日、婚慶、喪葬、賀喜等活動，舞者吹奏起舞形成肅穆虔誠的氛圍、表達歡快熱烈的情緒，也可娓娓動聽地吹奏以傾述愛慕，是本民族男子必須掌握的樂舞形式；多為吹者居中、舞者圍圈攜手踏地起舞，伴奏常配以口簧、吹樹葉以及笛子、胡琴等，當地稱「打歌」「打跳」，明清文獻稱「踏歌」。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：竽的音義元素在於它的葫蘆，故音義與「瓜」相通",
+      "statement": "竽作為漢語的音義元素，其主要特點就在於它的葫蘆，故其音義跟「瓜」相通，古瓜、于可通用：《周禮·朝人》「凡揉輈欲其孫而無弧深」，鄭玄注引杜子春云「弧讀為盡不汙之汙」；《左傳·哀公十五年》「下石乞、盂黶敵子路」，「盂黶」《漢書·古今人表》作「狐黶」；《爾雅·釋草》「瓠棲瓣」，《釋文》「瓠，舍人作觚」。相應地，「壺、𠌶、古」也如是。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "卷首：「羽」參差如竽，故義音同「于」；「雨」細雨飄落如羽，故義音同「羽」",
+      "statement": "「羽」本指鳥的翅羽，因其參差如竽，故義音同「于」：《詩·大雅·韓奕》「川澤吁吁」，「吁吁」《玉篇》「詡」字條引作「詡詡」。「雨」大雨時本自發聲，但細雨時則飄落如羽，故義音同「羽」：《漢書·元後傳》「冬饗飲飛羽」，顏師古注「羽，字或作雨」，故也一併歸入本卷。",
+      "boundary": "源自《系统汉语》卷十二「于」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于：本義象吹管樂器竽形，即「竽」的初文",
+      "statement": "「于」象吹管樂器竽形，即「竽（yú）」的初文，《說文》：「管三十六簧也。」",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于：轉義為大、長而曲折，以及語氣迂曲的歎辭",
+      "statement": "竽由斗和管組成，是竹管樂器中體積最大的，同時樂音悠揚曲折，故引申指大、長而曲折之義。yū，《集韻》：「大也。《禮》：『況于其身』。」或引申指語氣的迂曲。xū，《正韻》：「休居切，與籲通。歎辭。」《廣韻》：「曰也。於也。」",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于：轉義為污濁，分化作「汙」「污」",
+      "statement": "竽斗在吹奏過程中容易淤積口水，故引申指污濁。《釋名》：「竽，汙也。其中汙空。」今分化作「汙（yū）」指糞尿，「污（wū）」指污穢。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于：辯正字本不从「丂」，小篆訛作「亏」，《說文》所釋非本義",
+      "statement": "字本不从「丂」，小篆訛作「亏」，故《說文》：「亏，於也，象氣之舒亏。从丂，从一。一者，其氣平之也。凡亏之屬皆从亏。今變隸作于。羽俱切。」所釋非本義，析形則不確。因其字族或因義而分別為「亏」和「于」，或不分，故特注明。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于：辯正「于、於」作語氣助詞音義相近，今或將「於」簡化作「于」",
+      "statement": "由于「于、於」在作語氣助詞時音義相近，故今或將「於」簡化作「于」。「於」本指烏鴉，是「烏（乌）」字的異體（見324《烏部》），跟「于」沒什麼直接關係。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于：音源為竽的吹奏聲",
+      "statement": "「于」是音源字，源於竽的吹奏聲。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于字族①指竽形，表示竽或物形如竽：竽、芌（芋）、宇、衧",
+      "statement": "①指竽形，表示竽或物形如竽：竽（《說文》「管三十六簧也。从竹亏聲」，《釋名》「竽，汙也。其中汙空」）、芌（芋，《說文》「大葉實根，駭人，故謂之芌也」——芋頭大葉實根、莖簇生如竽管；又通「宇」表居住）、宇（《說文》「屋邊也。从宀于聲」——屋簷參差如竽，《釋名》「宇，羽也，如鳥羽翼，自覆蔽也」；又四方上下）、衧（《說文》「諸𧘚也」，古代婦女穿的大袖外衣，亦作「諸于」）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于字族①（續）地名、器物、草蟲之形如竽：邘、穻、骬、玗、𦱃、𦰲、虶",
+      "statement": "邘（周武王次子邘術的封地，在今河南沁陽縣西北）、穻（窗戶；又古宇字）、骬（《廣雅》「𩩲骬，缺盆」即胸骨）、玗（《說文》「石之似玉者」，疑指珊瑚，其狀參差如竽）、𦱃（葅𦱃，菜名，似韭，出塞下）、𦰲（藥艸蛇牀即蛇床子）、虶（《集韻》「蚨𧈯，蟲名，蚰蜒也」即草鞋蟲，多足如竽管）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于字族②指竽斗，表示凹狀物、淤積、污穢：虧（亏）、盂、旴、釪、杅、䢓、𦀒",
+      "statement": "②指竽斗，表示凹狀物、淤積、污穢：虧（《說文》「氣損也。从亏雐聲」——「雐」疑即鵜鶘，因其嘴大所以不飽，故有虧欠之意，今簡化作「亏」；《廣雅》「去也、少也」）、盂（《說文》「飯器也。从皿亏聲」即飯碗，《方言》「宋楚魏之間，盌謂之盂」）、旴（《集韻》「日始旦也」，即「旭」）、釪（《韻會》「錞釪，樂器，形如鐘，以和鼓」，亦作淳于）、杅（《集韻》「器也」，《正字通》「浴器，大而深」）、䢓（《廣韻》「窻䢓，床也」）、𦀒（冔，商冠名）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于字族②（續）塗抹、低窪、雨貌：汙、杇、𡜂、圬、䨕、圩",
+      "statement": "汙（污、洿，《說文》「薉也。一曰小池為汙。一曰塗也」——污濁、水坑、塗抹；《集韻》「濁水不流也」）、杇（《說文》「所以塗也。秦謂之杇，關東謂之槾」，塗牆的工具）、𡜂（《說文》「𡜂鹵，貪也」，貪污）、圬（《玉篇》「泥墁也」，泥瓦匠塗抹的工具）、䨕（《玉篇》「雨皃」，《集韻》「𩅄䨕，暴雨」）、圩（《正字通》「圩岸」——江淮低窪地區周圍防水的堤；又同「墟」指市集）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于字族③指吹竽，表示迂曲、啜飲、誇大：弙、紆、迂、䩒、盱",
+      "statement": "③指吹竽，表示迂曲、啜飲、誇大：弙（《說文》「滿弓有所鄉也」即拉滿弓瞄準欲射）、紆（《說文》「詘也」即曲折、縈回纏繞）、迂（《說文》「避也」即迂曲回避；又迂腐不切事理）、䩒（《說文》「輨內環靼也」，古代車軸上系靷的皮環）、盱（《說文》「張目也」即瞪大眼睛；《龍龕》「仰目也」）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "于字族③（續）驚歎、誇大、憂思、小飲、旋流、宴飲：𠮱（吁）、訏、𢖳、酑、盓、䣿",
+      "statement": "𠮱（吁，《說文》「驚語也。从口从亏，亏亦聲」，當指長長地驚歎即「長吁短歎」）、訏（《說文》「詭訛也」即詭詐虛偽；《方言》「中齊、西楚之間謂大曰訏」，誇大其詞）、𢖳（《說文》「憂也。从心于聲，讀若籲」）、酑（《玉篇》「飲也」，《正字通》「小飲」）、盓（《集韻》「盤盓旋流也」）、䣿（《集韻》「宴也。一曰能飲者飲，不能飲者止」）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "夸：本義从大从于聲，象邊吹竽邊舞蹈之狀，「跨」之初文",
+      "statement": "「夸」从大于聲：「大」指張開腿跨步的樣子，「于」指竽，象意邊吹竽邊舞蹈的樣子，大約跟今日一些少數民族的竽笙舞差不多，是「跨（kuà）」的初文，《集韻》：「䠚跨，行不進皃。」行而不進，就是原地跨步舞蹈之狀。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "夸：轉義為體柔美好，或張開、虛誇、自大",
+      "statement": "由竽舞之狀引申指體柔、美好。kuā，《爾雅·釋言》：「夸毗，體柔也。」xū，《集韻》：「姱，匈於切，音籲。美皃。」由竽舞時的跨步引申指張開、虛誇、自大。kuā，《說文》：「奢也。从大于聲。苦瓜切。」kuǎ，《集韻》：「夸𡗸，自大。」",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "夸字族①指張開腿，表示胯部、騎跨、蹲跨：跨、𨃖、胯、骻、絝",
+      "statement": "①指張開腿，表示胯部、騎跨、蹲跨：跨（《說文》「渡也」即越過；《廣韻》「越也，又兩股閒」即髀間；又騎、踞）、𨃖（《說文》「踞也」，蹲）、胯（《說文》「股也」，兩大腿之間）、骻（《集韻》「股間也」，或作胯；髁，髀骨）、絝（《說文》「脛衣也」，套在小腿上的衣即無襠褲，《釋名》「跨也，兩股各跨别也」）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "夸字族②指跨步狀，表示剖開、掏空：刳、瓠、洿、垮、晇、舿、鮬",
+      "statement": "②指跨步狀，表示剖開、掏空：刳（《說文》「判也」，从中間破開再挖空，如跨狀）、瓠（《說文》「匏也」，葫蘆瓜；剖開葫蘆而成瓢）、洿（《說文》「濁水不流也」，濁水池；地勢低下）、垮（倒塌，往兩邊批）、晇（《集韻》「旴，日始旦也，或作晇」即旭）、舿（大船）、鮬（鰟鮍魚，身體扁薄如剖開的魚片；其繁殖十分特別，須將卵產在張開的河蚌鰓腔內孵化）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "夸字族③指跨步狀，表示張開、誇大、橫跨：姱、侉、誇、咵、恗、挎、銙、摦",
+      "statement": "③指跨步狀，表示張開、誇大、橫跨：姱（《集韻》「奢皃。一曰好也」即美好）、侉（《說文》「𢞎詞」即表示疲憊的虛詞，又奢、粗大粗笨）、誇（《說文》「譀也」即誇大誇耀）、咵（《集韻》「言戾也」，與夸、誇通）、恗（《玉篇》「恐也、怯也、憂也」；又心自大）、挎（用手指鉤著；又剖開挖空；又提起）、銙（古代附于腰帶上的扣板，原用來受環懸物、後純作裝飾）、摦（《新附》「橫大也」）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雩：本義从雨于聲，象吹竽以求雨",
+      "statement": "「雩」从雨于聲，象意吹竽以求雨；甲骨文或从「舞」，戰國古文則或从「羽」聲，說明「雨、于、舞、羽」之所以同音，是因為它們都是古代求雨時所必須用到的道具。其儀式大抵是模擬下雨時大地萬物歡快的情形：求雨之所以用竽，竽即「笙」，代表著地下的生靈；羽毛大抵是沾濕了的，插在頭上，隨著舞步會撒出小水滴如下雨一般。yú，《說文》：「夏祭，樂于赤帝，以祈甘雨也。从雨于聲。雩，羽舞也。羽俱切。」",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雩：轉義為彩虹——求雨噴灑的水珠在陽光下形成",
+      "statement": "求雨時噴灑的水珠在太陽的照射下會形成彩虹，故引申指彩虹。yù，《集韻》：「呉人謂虹曰雩。」",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雩字族①指竽舞狀：樗、摴、𨖜、嫮",
+      "statement": "①指竽舞狀：樗（《說文》「木也，以其皮裹松脂」，即檴、樺樹；又臭椿樹，葉呈羽狀）、摴（《新附》「舒也。又摴蒲，戲也」，古代一種類似擲色子的博戲）、𨖜（音迂，恕）、嫮（《集韻》「嫭，𡚱也。一曰好皃」，妃子、美好）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雩字族②指歌呼、裂縫：謣、𠻢、𪄮、𦉏（罅）、鄠、㻬、嶀",
+      "statement": "②指歌呼、裂縫：謣（《說文》「妄言也」，虛誇；又舉重勸力之歌，《呂覽·淫辭篇》「今舉大木者，前呼輿謣，後亦應之」，即號子聲）、𠻢（《集韻》「嘑」或作，唬也）、𪄮（《集韻》「九雇，農桑候鳥」；又古「顧」字即回頭看）、𦉏（同罅，裂縫）、鄠（右扶風縣名，本夏之扈國）、㻬（《山海經》「小華山其陽多㻬琈」）、嶀（山名，嶀山之成工嶠壁立臨江、欹路峻狹）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "粵：本義據《金文編》本即「雩」，小篆所从「宷」乃「雨」之訛，取求雨歌呼為義",
+      "statement": "根據《金文編》，「粵」本即「雩」，則小篆所从「宷」乃「雨」的訛變，取求雨時的歌呼為義。yuè，《爾雅·釋詁》：「粵，曰也。」郭璞注：「語辭發端。」《爾雅·釋詁》：「于也。」郭璞注：「語之韻絕歎辭也。」",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "粵：轉義指百越之地——多山，俗喜歌呼唱答",
+      "statement": "由歌呼引申指百越之地，因此地多山、俗喜歌呼唱答。《漢書·地理志》：「粵地，牽牛婺女之分野。今之蒼梧、郁林、合浦、交址、九真、南海、日南，皆粵分也。」",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "粵：辯正《說文》析形不確；所錄甲骨文字形近「粵」實當釋「祡」",
+      "statement": "《說文》據小篆釋為「粵，亏也。審慎之詞者。从亏，从宷。《周書》曰：『粵三日丁亥。』王伐切」，析形不確。另，所錄甲骨文出自《古文字詁林》所引《甲骨文編》和《續甲骨文編》，字形雖近「粵」，但《甲骨文》以其為「祡」——「象以木或束木架于前焚燎之以祭天神之意」，字形下面顯然是从「示」不从「于」，當以《甲骨文》為是。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "粵：未形成字族——𠿋、𣙾（樾）、𨮁",
+      "statement": "未形成字族：𠿋（《玉篇》「辭也」，歌呼之意）、𣙾（樾，《字林》「樹隂也」，《玉篇》「楚謂兩木交隂之下曰樾」，粵地多樹木之意）、𨮁（人名用字）。",
+      "boundary": "源自《系统汉语》第68部「于部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜：本義象蔓上結瓜形，指瓜類",
+      "statement": "「瓜」象蔓上結瓜形，指瓜類。guā，《說文》：「㼌也。象形。凡瓜之屬皆从瓜。古華切。」《正字通》：「蔓生，種類非一。」",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜：轉義為相似物體，以及單獨——一蒂一瓜",
+      "statement": "由瓜的莖細長而實圓大之狀引申指相似物體。wō，《字彙補》：「與蝸通。」瓜不象禾麥或某些果實一樣會成串，一般都是一蒂一瓜，故引申指單獨，此義分化如「孤（gū）」（《玉篇》「特也、少無父也、獨也」）。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜：辯正西周金文「瓜、亡」相近而訛，「狐」从亡聲實為訛字",
+      "statement": "由于西周金文「瓜、亡」相近，小篆或訛「亡」為「瓜」，如「狐」甲骨文本从犬亡聲。之所以从「亡」，是因為狐非常機靈，善于埋伏等待或使用聲東擊西等計謀來捕食老鼠、兔子等小動物；人類鋪設的陷阱幾乎對狐不起作用，狐總能將陷阱裏充當誘餌的食物取走而自己从陷阱裏成功脫逃，有的狐在遇到人類時還會裝死。因此，「狐」實際上是個訛字。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜：音源為借音字，因形圓如竽斗而義音同「于」",
+      "statement": "「瓜」是借音字，因形圓如竽斗，故義音同「于」：《左傳·哀公十五年》「下石乞、盂黶敵子路」，「盂」《漢書·古今人表》作「狐」。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜字族①指瓜的單結，表示單獨：孤",
+      "statement": "①指瓜的單結，表示單獨：孤（《說文》「無父也。从子瓜聲」，幼年喪父或父母雙亡；《釋名》「孤，顧也，顧望無所瞻見也」；《玉篇》「特也、少無父也、獨也」；又侯王謙稱，凡孑處亦曰孤）。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜字族②指瓜形，表示大而圓、凸起：弧、𡗷、呱、軱、胍、坬、蛌",
+      "statement": "②指瓜形，表示大而圓、凸起：弧（《說文》「木弓也」，曲也）、𡗷（《說文》「大也」）、呱（《說文》「小兒嗁聲」，小孩哭時一般都鼓著腹；又象聲字，又方言「拉呱」即聊天）、軱（《廣韻》「大骨也」；又盤骨）、胍（胍𦘴，大腹皃；俗謂杖頭大為胍𦘴；又現代化學名詞 là 供製磺胺脒）、坬（《集韻》「土陲也」，土堆、山坡）、蛌（喇喇蛌即螻蛄）。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜字族③指瓜的剖開狀，表示凹進、中空：柧、窊、窳、鈲、㽿、畖、觚、搲、䠚、溛、泒、箛",
+      "statement": "③指瓜的剖開狀，表示凹進、中空：柧（《說文》「棱也」，棱角、有棱的木）、窊（《說文》「汙衺，下也」，低凹低下）、窳（《說文》「汙窬也」，凹陷；《玉篇》「邪也」；《廣韻》「器中空」，器物中空、質量低劣腐敗）、鈲（系縴具；又裁木為器）、㽿（瘡也，禿也；或作瘑）、畖（畖留，地名，在今山西新絳）、觚（《說文》「鄉飲酒之爵也。一曰觴受三升者謂之觚」，飲酒之器即酒葫蘆；又竹簡，凡有廉棱皆謂之觚，操觚即執簡習書）、搲（用瓜瓢舀物，或手作瓢狀取物）、䠚（䠚蹃，踏地用力；即用力踏地使凹進去）、溛（溛瀤，水不平皃）、泒（《說文》「水，起雁門葰人戍夫山，東北入海」，今滹沱河）、箛（《說文》「吹鞭也」，可供吹奏的鞭狀樂器，或即笳，漢時傳入中原）。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜字族④指藤上結瓜狀：罛、㼌、苽",
+      "statement": "④指藤上結瓜狀：罛（《說文》「魚罟也」，大漁網）、㼌（《說文》「本不勝末，微弱也。从二瓜」，瓜實繁多，故引之有本不勝末之義）、苽（《說文》「雕苽，一名蔣」，一種多年生水生高稈禾草，莖中因寄生菌作用形成筍狀結構即茭白筍，可食）。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "瓜字族⑤形近字「亡、斤、古」之訛：𦱄、狐",
+      "statement": "⑤形近字「亡、斤、古」之訛：𦱄（《說文》「艸多皃。从艸狐聲」，乃「䓄」之訛）、狐（《說文》「䄏獸也，鬼所乘之，有三徳」，狐狸；甲骨文本从「亡」，參見前「瓜」字辯證）。",
+      "boundary": "源自《系统汉语》第69部「瓜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶：本義象樹木開花形，為「華（华）」之初文，今簡化為「花」",
+      "statement": "「𠌶」商代甲骨文象樹木開花形，或从「曰、口」亦表聲，象意花開如張開的口，是「華（华）」的初文，今簡化為「花」。huā，《玉篇》：「草木華也。」《正字通》：「華本字。隸作華，俗作花。」《說文》：「𦾓，榮也。从艸从𠌶。凡華之屬皆从華。戶瓜切。」《方言》：「齊楚之間或謂之華，或謂之荂。」",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶：轉義為光彩、繁盛，以及中國、華夏的簡稱",
+      "statement": "由于指花的本義後來演化从「艸」作「華」，故其字義多體現為「華」。花開豔麗，故引申指光彩、光澤、繁盛，如「繁華、華燈」。huá，《廣韻》：「草盛也。色也。」由于中國古人非常注重服飾，故引申作中國、華夏的簡稱，huá，《正字通》：「中夏曰華，言禮樂明備也。」《左傳·定公十年》「裔不謀夏，夷不亂華」，孔穎達疏：「中國有禮儀之大，故稱夏；有服章之美，謂之華。」",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶：轉義為粉飾、精粹、花白、時光、破、山名、不正虛誇",
+      "statement": "或引申指粉飾（如「鉛華」）、精粹（如「精華、才華」）；花色不一，或引申指花白（如「華髮」）；花期一般都較短，故比喻指時光（如「韶華、年華」）；花開四披的樣子，故引申指破，《禮·曲禮》「為國君者華之」，鄭玄注「華，中裂之，不四拆也」；或比喻象花的樣子，huà，《爾雅·釋山》「華山，為西嶽」，主峰蓮花峰呈盛開的花朵狀；花虛空不實、朝向不一，或引申指不正、虛誇，kuā，《集韻》「𦮃，不正也，或作華」。",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶：辯正西周金文訛樹木開花形為「𠂹（垂）」，小篆沿襲並借「亏」為聲",
+      "statement": "西周金文訛樹木開花形為「𠂹（垂）」，小篆沿襲，並借「亏」為聲。故《說文》：「艸木華也。从𠂹亏聲。凡𠌶之屬皆从𠌶。𠌶或从艸从夸。況於切。」析形不確。",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶：音源為借音字——初借「曰」為聲，西周金文作「于（亏）」聲",
+      "statement": "「𠌶」是借音字，初借「曰」為聲，指花開如張開說話的嘴；西周金文作「于（亏）」聲。古于、曰本通：《書·堯典》「曰若稽古」，蔡沈集傳「曰，古文作粵」；李賢注《後漢書·李固傳》、李善注《文選·東都賦》並引「曰」作「粵」，而「粵」本从「于」聲。",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶字族①指花的開放，表示張開、裂開，或狀似花：華、譁、鞾（靴）、嘩、𧑍、鏵",
+      "statement": "①指花的開放，表示張開、裂開，或狀似花：華（同𠌶，又華山、姓）、譁（《說文》「讙也」即喧嘩；《方言》「譁、涅，化也」，變化）、鞾（《說文》「鞮屬」即馬的鞍具，《釋名》「跨也，兩足各以一跨騎也」，亦作靴）、嘩（譁或从口；又象聲詞）、𧑍（《字林》「大蛇也，出魏興，啖小蛇及蝮，但張口小蛇自入也」）、鏵（《釋名》「鍤，或作鏵。鏵，刳地為坎也」，即犁鏵）。",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶字族①（續）墷、瞱、𦧹、𦪠、𨶱、㦊、撶、𡼀（華山）",
+      "statement": "墷（《五音集韻》「㙔，俗韓字」即井垣）、瞱（《集韻》「目動皃」，又怒視、眼花）、𦧹（《篇海》「舌短貌」，舌如花蕊）、𦪠（𦪠艇，船名）、𨶱（《玉篇》「開門也」）、㦊（《集韻》「心侈也」）、撶（劃，用槳撥水使船行動）、𡼀（《說文》「山，在弘農華陰」，華山，《水經·渭水注》「其高五千仞，削成四方，遠而望之，又若花狀」）。",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "𠌶字族②指花色，表示明麗、繁盛、茂美：皣、曄、爗、驊、鷨、樺、嬅、澕、䅿、𨣄、𩻮",
+      "statement": "②指花色，表示明麗、繁盛、茂美：皣（《說文》「艸木白華也」）、曄（《說文》「光也」，火光很盛，《玉篇》「曄曄，震電皃」）、爗（《說文》「盛也」，《詩》「爗爗震電」）、驊（《玉篇》「驊騮，駿馬」，周穆王八駿之一，師古曰「言色如花之赤也」）、鷨（《玉篇》「雉別名」，野雞羽色豔麗）、樺（《玉篇》「木皮可以爲燭」，木皮有紫黑花者）、嬅（《正字通》「女容麗也」）、澕（《集韻》「水深皃」）、䅿（《集韻》「禾盛也」）、𨣄（《字彙》「醇𨣄，酒」）、𩻮（𩻮子魚，產自塞外，肉肥刺細，味甚美）。",
+      "boundary": "源自《系统汉语》第70部「𠌶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "壺：本義象有蓋的壺形",
+      "statement": "「壺」象有蓋的壺形。hú，《說文》：「昆吾圜器也。象形。从大，象其蓋也。凡壷之屬皆从壷。戶吳切。」《集韻》：「夏商曰尊彝，周制用壷，有方圜之異。」《玉篇》：「盛飲器也。」",
+      "boundary": "源自《系统汉语》第71部「壺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "壺：轉義泛指這類器皿——葫蘆、投壺、畫壺、壺口山",
+      "statement": "由壺之狀引申泛指這類器皿。《玉篇》：「圓器也、瓦鼓也。」《篇海類編》：「瓠也。」即葫蘆。《正字通》：「投壺。《禮》：『諸侯大夫士皆有之壺』」，一種投箭遊戲用的壺；又「畫壺，今小兒所吹泥鼓，有聲無調，俗謂之畫壺」；又「壺口，山名」。",
+      "boundary": "源自《系统汉语》第71部「壺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "壺：音源為風吹壺口之聲，壺狀如瓜故義音同「瓜」",
+      "statement": "「壺」是音源字，源自風吹壺口時所發出的聲音；壺狀如瓜，故義音同「瓜」：《易·睽》「後說之弧」，《釋文》「弧，本亦作壺，京、馬、鄭、王肅、翟子玄作壺」；《史記·仲尼弟子列傳》「乃下石乞、壺黶攻子路」，「壺黶」《漢書·古今人表》作「狐黶」；《呂氏春秋·當賞》「而陶狐不與」，「陶狐」《史記·晉世家》作「壺叔」。",
+      "boundary": "源自《系统汉语》第71部「壺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "壺字族①指壺形，表示壺狀物：㯛、𤬗（瓠）、𦺟",
+      "statement": "①指壺形，表示壺狀物：㯛（《玉篇》「今江東謂呼棗大而鋭上者曰㯛」，壺形棗子）、𤬗（同瓠，葫蘆）、𦺟（《集韻》「艸名」）。",
+      "boundary": "源自《系统汉语》第71部「壺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "壺字族②指壺的作為飲器，表示流質食物：𩞵（餬）",
+      "statement": "②指壺的作為飲器，表示流質食物：𩞵（與餬同，《廣韻》「寄食；又糜也，『使餬其口于四方』是也」）。",
+      "boundary": "源自《系统汉语》第71部「壺部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽：本義甲骨文象鳥的翅羽形",
+      "statement": "「羽」甲骨文象鳥的翅羽形。yǔ，《說文》：「鳥長毛也。象形。凡羽之屬皆从羽。王矩切。」《廣韻》：「鳥翅也。」",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽：轉義為鳥類飛蟲、翅膀、箭矢、五音之一、朋黨、緩慢",
+      "statement": "由羽毛代指鳥類和飛蟲，如「羽族」；或引申指會飛的翅膀，如「蟬羽」「羽化」。古代將羽裝在箭上以修正箭支的飛行姿態、增加準確度，故引申代指箭矢，如「飲羽」。由羽毛遮覆身體的樣子，或引申指古代五音之一，《風俗通·聲音》「羽者，宇也。物始藏，宇覆之也」。由翅羽的簇生之狀引申指聚集、朋黨，如「黨羽」，《廣韻》「聚也」。由羽毛質地很輕、掉落時呈飄忽狀，故引申指緩慢，hǔ，《集韻》「緩也」。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽：辯正甲骨文「彗」與西周金文「羽」相近而造成混淆",
+      "statement": "由于甲骨文「彗」跟西周金文「羽」相近，因此造成兩者後來的混淆。《甲骨文》：「或以甲骨文形近《說文》篆文羽，故亦釋為羽字，誤。實象帚形，為彗之初文。……卜辭用羽與翊、昱同。」按理「羽、彗」的甲骨文相差很遠，西周金文應不至于訛混；可能是因為「羽」字書寫不便，而羽毛與艸穗又有些相似，並且翅羽也可以紮束成帚稱「撣帚」，一般用于撣去器物上的灰塵，故用「彗」代「羽」沿襲成俗，遂至初文丟失。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽：音源為借音字，羽毛參差且羽管中空，故義音同「于」",
+      "statement": "「羽」是借音字，因羽毛的參差之狀且羽管中空，故義音同「于」：《論衡·骨相篇》「孔子反羽」，「羽」《講瑞篇》作「宇」；《詩·大雅·韓奕》「川澤吁吁」，「吁吁」《玉篇》「詡」字條引作「詡詡」。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽字族①指展翅狀：頨、䣁、挧、祤、䋚（翼）、𨋾",
+      "statement": "①指展翅狀：頨（《說文》「頭妍也」，中間低、四周高的一種頭形，即如鳥展翅時的樣子，傳說孔子是這種頭形）、䣁（南陽舞陰亭）、挧（振動、舞動）、祤（祋祤，縣名，在馮翊）、䋚（《說文》「翄也」，篆作翼，翅膀）、𨋾（輕快）。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽字族②指眾羽飛聲：䨒、詡、蛡",
+      "statement": "②指眾羽飛聲：䨒（《說文》「水音也。从雨羽聲」，流水的聲音）、詡（《說文》「大言也」，誇耀說大話；《玉篇》「普也、大也、徧也」；又嫵媚）、蛡（《類篇》「蜂房也」；《玉篇》「蟲名」；蟲飛）。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽字族③指狀如羽：鮙（鰨）、栩、珝、𦭳",
+      "statement": "③指狀如羽：鮙（俗鰨字，鯢魚似鮎四足聲如嬰兒；又東方比目魚）、栩（《說文》「𣏗也」即麻櫟，取其葉形如羽；因其材質堅硬宜作梭子，故或从「予」聲）、珝（《新附》「玉也」）、𦭳（《集韻》「艸名」）。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "羽字族④指矢羽：𥏊、𦐧（羿）",
+      "statement": "④指矢羽：𥏊（黑色，疑本指有羽的箭）、𦐧（《說文》「羽之𦐧風。亦古諸侯也。一曰射師」，鳥張翅旋風而上；或指后羿——从「幵」指箭杆的直，后羿可能是改良箭的人，給箭加羽後箭能飛得更平穩更準）。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "昱：本義甲骨文从日羽聲，象太陽的運行，表示日光的照耀",
+      "statement": "「昱」甲骨文本从日羽聲，象意太陽的運行，表示日光的照耀。yù，《玉篇》：「日明也。」《廣韻》：「日光也。」",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "昱：辯正小篆从日从立，《說文》釋「明日」而與「翌」混淆",
+      "statement": "小篆从日从立，故《說文》：「昱，明日也。从日立聲。餘六切。」與「翌」發生了混淆，具體見429《立部》。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "昱字族：多指日光，表示明亮、熾盛——喅、煜、䗑、𥳲",
+      "statement": "字族多指日光，表示明亮、熾盛：喅（《說文》「音聲喅喅然」，聲音眾多）、煜（《說文》「熠也」，火光閃動，《廣雅》「熾也」）、䗑（𧐔𧕋，蟲名，螢火也）、𥳲（格笿，盛杯盤等器皿的竹籠）。",
+      "boundary": "源自《系统汉语》第72部「羽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雨：本義象雨點自天而降之形",
+      "statement": "「雨」象雨點自天而降之形。yǔ，《說文》：「水从雲下也。一象天，冂象雲，水霝其間也。凡雨之屬皆从雨。王矩切。」",
+      "boundary": "源自《系统汉语》第73部「雨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雨：轉義泛指凡物从上往下掉落，或比喻密集投擲射擊",
+      "statement": "由下雨之狀引申泛指凡物从上往下掉落。yù，《集韻》：「自上而下曰雨。」或比喻密集地投擲或射擊。",
+      "boundary": "源自《系统汉语》第73部「雨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雨：音源為雨落聲，因雨有飄意而義音同「羽」",
+      "statement": "「雨」是音源字，源自雨落聲；因雨有飄意而義音同「羽」：《漢書·元後傳》「冬饗飲飛羽」，顏師古注「羽，字或作雨」；《淮南子·齊俗訓》「辟若俔風也，無須臾之間定矣」，高誘注「俔，候風雨也」，張儒按「俔」同「綄」，「雨」通「羽」，《廣韻》「綄，船上候風羽」。",
+      "boundary": "源自《系统汉语》第73部「雨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-079",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "雨字族：指雨或雨狀——𣔯、𧌙、𨜄",
+      "statement": "字族指雨或雨狀：𣔯（松，松針如雨絲）、𧌙（同蚳，蟲也；《六書統》「从震省，从土，聞震則出于土」）、𨜄（同鄠）。",
+      "boundary": "源自《系统汉语》第73部「雨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-080",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古：本義从口从丁从丨（十），象嘴比釘上還要嚴實十倍，表示過去、久遠",
+      "statement": "「古」从口从丁（釘）从丨（十）：「丁」象木楔即釘子形，一般用于使物體穩固；「十」表示十倍；从「口」本指嘴，則象意嘴比釘上還要嚴實十倍，表示過去、久遠。gǔ，《玉篇》：「古久之言也。伏羲爲上古，文王爲中古，孔子爲後古。」《字彙》：「遠代也。」",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-081",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古：象意口的難以張開，表示苦澀，此義分化如「苦」",
+      "statement": "也可象意口的難以張開，表示苦澀，此義分化如「苦（kǔ）」（《說文》「大苦，苓也」）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-082",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古：「口」引申指空間範圍，象意穩固、密封，此義分化如「固」",
+      "statement": "「口」也可引申指空間、範圍，則象意穩固、密封，此義分化如「固（gù）」（《玉篇》「堅固也」）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-083",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古：轉義為死亡，或老的、開始的",
+      "statement": "由過去引申指死亡。《爾雅·釋詁》：「古，故也。」或引申指老的、開始的。《玉篇》：「始也。」《篇海類編》：「老也。」",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-084",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古：辯正「丁」或簡寫作「一」，與「丨」結合後失去「丁」，《說文》析形不確",
+      "statement": "由于「丁」或簡寫作「一」，與「丨」結合後遂失去了「丁」，故《說文》：「故也。从十口，識前言者也。凡古之屬皆从古。公戶切。」臣鉉等曰：「十口所傳是前言也。」析形不確。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-085",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古：音源為借音字，因有密封之意而義音同「瓜」，或義音同「車」",
+      "statement": "「古」是借音字，因有密封之意而義音同「瓜」：《詩·衛風·碩人》「施罛濊濊」，「罛」《說文》「濊」字條引作「罟」。或義音同「車」：《禮記·禮運》「天子以德為車」，鄭玄注「車，或為居」；《爾雅·釋草》「望，乘車」，「車」《釋文》作「居」；《老子》「其死也枯槁」，「枯」馬王堆漢墓帛書《老子》甲、乙本作「𣒞」。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-086",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古字族①指過去，表示故舊、枯槁：故、詁、枯（楛）、鴣、㱠（辜）、蛄、骷、秙、軲、鈷、股",
+      "statement": "①指過去，表示故舊、枯槁：故（《說文》「使為之也」，原因、根由；又舊、事、常；又死亡）、詁（《說文》「訓故言也」，解析古代的語言，《爾雅·釋詁》邢昺疏「詁，古也；古今異言，解之使人知也」）、枯（楛，《說文》「槀也」，草木失去水分或生機；又楛為荊一類植物，莖可制箭）、鴣（鷓鴣，其鳴自呼「鉤輈格磔，行不得也，哥哥」，除叫聲如「古」外，可能跟其羽色褐黃如枯葉有關）、㱠（《說文》「枯也」，骨肉乾枯）、蛄（螻蛄，俗名啦啦蛄、土狗子，害蟲；又蟪蛄，蟬類）、骷（骷髏，沒有皮肉的全副骨骼或頭骨）、秙（禾麥不結實；又禾苗枯槁）、軲（車也；又山名、姓）、鈷（鈷䥈，熨斗、溫器；又通瑚為黍稷器）、股（《說文》「髀也」，或从古、从骨）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-087",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古字族②指苦澀，表示苦味、粗糙：苦、酤（沽）、䔯、盬、楛、瘔、𪏻、𩱍、㼋、𧇡、沽、罟、估、咕、菇",
+      "statement": "②指苦澀，表示苦味、粗糙：苦（《說文》「大苦，苓也」即苦菜；取其味如食物腐壞之味故从「古」；引申指難受、著急、困、勤、窮）、酤（《說文》「一宿酒也。一曰買酒也」，一夜釀成的酒味帶苦意）、䔯（《說文》「韭鬱也」，醃韭菜、醃菜，氣味濃烈）、盬（《說文》「河東鹽池」，即沒有經過熬制的鹽，帶苦味）、楛（《說文》「木也」，形似荊而赤莖，堪為矢榦；又粗劣不堅固）、瘔（苦，困也）、𪏻（《說文》「黏也」，煮米及麪為鬻，或作糊）、𩱍（《說文》「䭈也」，即𪏻）、㼋（王瓜；又乾菜）、𧇡（《廣雅》「息也」即姑息）、沽（水名，今河北白河；又買賣、屠沽；又粗劣簡略）、罟（網也，法網、羅網）、估（估價，估量物品的價值）、咕（象聲詞）、菇（王瓜，葫蘆科多年生草質藤本，果實、根可作藥用，味苦；又同菰，菌類）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-088",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "古字族③指堅固，表示久固、仗恃：㕆、䀇、嘏、怙、姑、牯、羖、岵、狜、跍、祜、㽽、𠷞、瓳",
+      "statement": "③指堅固，表示久固、仗恃：㕆（《說文》「美石也」）、䀇（《說文》「器也。从皿从缶，古聲」，烹飪用具，周圍陡直較深；金文从曲古聲，或从攴，應是搗香料的擂缽）、嘏（《玉篇》「固也」，《廣韻》「福也」；又大遠）、怙（《說文》「恃也」，依靠；父母合稱）、姑（《說文》「夫母也」，丈夫的母親；又父之姊妹、妻之母為外姑）、牯（母牛；俗呼牡牛曰牯）、羖（《說文》「夏羊牡曰羖」，黑色的公羊）、岵（《說文》「山有草木也」）、狜（狜猔，古代少數民族之一）、跍（蹲皃）、祜（《爾雅·釋詁》「厚也」，《廣韻》「福也」）、㽽（《說文》「久病也」；小兒口瘡）、𠷞（巫𠷞，祠名，在雲陽，越人祀之）、瓳（㽃瓳，大磚）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-089",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "辜：本義从死古聲，象死了很久已經枯槁的屍骨，本即「㱠」",
+      "statement": "「辜」本从死古聲：「死」指死亡；从「古」，象意死了很久已經枯槁了的屍骨，本即「㱠（kū）」（《說文》「枯也」，《集韻》「與辜同」）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-090",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "辜：轉義為肢解酷刑、罪，或指農曆十一月「辜月」",
+      "statement": "年代久遠的屍體會腐爛、分解，从而引申指肢解酷刑，《康典》：「磔也。《周禮·春官》：『以疈辜祭四方百物。』註：『疈，披牲胷也。疈辜，披磔牲以祭也。』」後「死」改作「辛」，「辛」本指刻鏤、引申指罪，故gū，《說文》：「辠也。从辛古聲。古乎切。」農曆十一月正是嚴冬季節，寒風凜冽、手足都容易凍裂，故或稱「辜月」，《爾雅》「十一月為辜」。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-091",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "辜字族①指枯槁：橭、䐻、𨬕",
+      "statement": "①指枯槁：橭（牡橭，木名，山榆；一曰橭梚，木枝四布，通作枯）、䐻（大脯，大塊肉乾）、𨬕（《字林》「𨮓𨬟，魯矢」，《左傳》作僕姑）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-092",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "辜字族②指仗恃：嫴、𥶜",
+      "statement": "②指仗恃：嫴（《說文》「𠈃任也」，擔保；《玉篇》「苟且也」；《廣雅》「榷也」即估計）、𥶜（𥶜被也，出《韻略》）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-093",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "固：本義从囗古聲，象四周阻塞、防守嚴密的地域",
+      "statement": "「固」从囗古聲：「囗」指圈起來的地域；从「古」，象意四周阻塞、防守嚴密的地域。gù，《說文》：「四塞也。从囗古聲。古慕切。」",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-094",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "固：轉義為結實堅固、不能改變、本來、固執、破敗、久病不癒",
+      "statement": "由地域的防守嚴密比喻指結實、堅固、牢靠、不可動搖（《玉篇》「堅固也」）；或引申指不能改變、再三堅持（《集韻》「再辭也」）；或引申指本來、原來（《正字通》「本然之詞」，《廣韻》「堅也、一也、常也、故也」）；或引申固執、偏執（《廣雅·釋言》「陋也」）；或引申指破敗（《字彙補》「廢也」）；或引申指疾病經久不癒（《正字通》「疾之牢不可去者曰固」）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-095",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "固字族①指四塞之地，表示凸起、堅固：堌、錮、崮、棝、婟、痼、夁、㧽",
+      "statement": "①指四塞之地，表示凸起、堅固：堌（河堤、土堡土城、墳墓）、錮（《說文》「鑄塞也」，熔化金屬填實空隙；又禁錮、久固之疾）、崮（四周陡削、頂端較平的山，如魯南抱犢崮）、棝（《說文》「棝斗，可射鼠」，鑿木為斗、上施柄安弓為機以射鼠）、婟（《說文》「嫪也」，戀惜；凡嗜好不能割棄者曰婟）、痼（久病；又小兒口瘡；亦作錮）、夁（古文壹字）、㧽（稒陽，縣名，在五原郡）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-096",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "固字族②指閉塞之狀，表示枯槁、乾癟：涸、䓢、箇、凅、䍛、祻、𠴱、䭅、鯝",
+      "statement": "②指閉塞之狀，表示枯槁、乾癟：涸（《說文》「渴也」，水枯竭、竭盡）、䓢（艸也）、箇（《說文》「竹枚也」，用于計算的竹簽，或作个、介，通作個，另見81《介部》）、凅（因寒而凝固、閉塞）、䍛（𦌕䍛，取魚具）、祻（祭也；用同禍）、𠴱（牛頷垂也，與胡同）、䭅（餅也，通作餬）、鯝（魚腸；黃鯝狀似白魚，南人訛名黃姑、北人訛名黃骨魚）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-097",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "胡：本義从肉古聲，象動物脖子下面下垂的肉",
+      "statement": "「胡」从肉古聲：「古」猶枯義；从「肉」，象意動物脖子下面的肉——這個部位一般只是兩張皮相貼，如乾枯、腐敗了的肉一般。hú，《正字通》：「喉也。頷肉下垂者曰胡。」《釋名》：「互也。在咽下垂，能斂互物也。」《說文》：「牛𩔞垂也。从肉古聲。戶孤切。」",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-098",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "胡：轉義為下垂之物、脖頸喉嚨、長壽、鬍鬚→胡人、蠻橫、反問語氣、大遠",
+      "statement": "由胡扁而下垂的樣子比喻指類似的物體（鋒之曲而旁出者曰胡即戈頸；菰米曰雕胡；蝴蝶、鵜胡、胡同）；胡的部位在頸，故引申指脖頸、喉嚨；年紀越大胡越突出，故或引申指長壽；因胡的部位多長須故引申指鬍鬚，而北方和西域的一些少數民族多鬍鬚，故又引申指胡人、外國外族的（胡服、胡姬、胡琴、胡瓜）；因其多為遊牧民族、驍勇善戰、長期騷擾中原，故又引申有蠻橫、亂的意思（胡鬧、胡來）；或引申表示反問語氣（何也）；或引申指大、遠（《儀禮·士冠禮》「眉壽萬年，永受胡福」）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-099",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "胡字族①指胡或與胡有關：猢、𪕮、鰗、鬍、㗅、㾰、鶘",
+      "statement": "①指胡或與胡有關：猢（獑猢，似猨；猢猻即猴子，下巴部位有胡囊可以儲食）、𪕮（《說文》「斬𪕮鼠，黑身，白腰若帶；手有長白毛，似握版之狀」）、鰗（河豚）、鬍（鬍鬚）、㗅（㖤㗅，聲也；又喉也）、㾰（物在喉中；又物螫）、鶘（鵜鶘，體大而嘴長，嘴下有皮囊）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-100",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "胡字族②指如胡狀扁平而兩相貼：餬、糊、煳、蝴、𢉢、𤭱、瑚",
+      "statement": "②指如胡狀扁平而兩相貼：餬（《說文》「寄食也」，以薄粥供食；稀飯；可用以黏貼物體）、糊（黏也，煮米及麪為鬻；又塗抹、封閉；又像稠粥一樣的濃液汁；又蒙混敷衍）、煳（食品經火變焦發黑，取義于「糊」即燒結成一塊）、蝴（蝴蝶，棲息時其翅常相貼如「胡」）、𢉢（平也）、𤭱（同瓳，大磚）、瑚（《說文》「珊瑚也」，似玉而赤色作樹形；又瑚璉為宗廟盛黍稷之器）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-101",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "胡字族③指如胡的中空：箶、䩴、媩、衚、鍸、𡹹、𧛞",
+      "statement": "③指如胡的中空：箶（竹名；箶簏，箭室）、䩴（䩴簏，箭室，通作箶）、媩（女字）、衚（衚衕，街也，今京師巷道名衚衕，或省作胡同）、鍸（黍稷器，夏曰鍸、商曰璉、周曰簠簋，通作瑚）、𡹹（山名）、𧛞（衣䘸也，用衣襟兜起來）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-102",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "胡字族④指胡人，表示所出產或風俗：葫、醐、楜、䠒",
+      "statement": "④指胡人，表示所出產或風俗：葫（大蒜，張騫使大宛所得；又葫瓜、菰米）、醐（《說文》「醍醐，酪之精者也」，精製的乳酪）、楜（胡椒，產自胡地，本作胡）、䠒（䠒跪，夷人屈節禮即胡人的一種屈膝禮）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-103",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "胡字族⑤指胡人，表示蠻橫：湖、𧍵",
+      "statement": "⑤指胡人，表示蠻橫：湖（《說文》「大陂也」，大池澤，應因其常常氾濫成災而取胡人之「胡」義）、𧍵（蜂屬，胡蜂）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-104",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "居：本義从尸古聲，象尸祭時的蹲著不動",
+      "statement": "「居」从尸古聲：「古」指固定；「尸」指古代祭祀時代表死者受祭的人，象意尸祭時的蹲著不動。jū，《說文》：「居，蹲也。从尸古者，居从古。踞，俗居从足。九魚切。」臣鉉等曰：「居从古者，言法古也。」",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-105",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "居：轉義為停留、佔據、住所、積蓄，或傲慢",
+      "statement": "由蹲著不動引申指停留、佔據、住所（「居守、居住、居心」，《廣韻》「當也、處也、安也」）；或引申指積蓄、囤積（「奇貨可居」，《正字通》「積也」）；由蹲居之狀引申指傲慢，此義分化作「倨（jù）」（《廣韻》「倨傲」）；或引申指語氣，jī，《廣韻》「語助」。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-106",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "居：辯正「居」或作「凥」「㞐」——「凥」从尸从几，「㞐」本為「砬」乃訛字",
+      "statement": "《正字通》：「居或作凥、㞐。」「凥」本从尸从几：「几」指几案，象意倚靠著几案歇息，《說文》「凥也，从尸得几而止」，應該是由「処」演變過來的。「㞐」从石从立，本為「砬（㕇là）」（《說文》「石聲也」，指石頭崩裂聲），後「石」演變成「宀」而有立身之所意；因此形義與「居」都相近，但从字源上來說「㞐」是訛字，只有「凥」才算得上與「居」同。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-107",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "居字族①指居狀，表示蹲踞、聳峙：据、踞、裾、倨、琚、鋸、距、䱟、𦎠、涺、崌、𦱅、椐、鶋",
+      "statement": "①指居狀，表示蹲踞、聳峙：据（拮据，同「局、挶」，手病；又同據表憑據、依據）、踞（《說文》「蹲也」，伸開腿坐即箕踞，為傲慢之態）、裾（《說文》「衣袍也」，衣服的前襟或後襟；衣服寬大）、倨（《說文》「不遜也」，客來而踞故有傲慢不恭順之意）、琚（瓊琚，佩玉）、鋸（《說文》「槍唐也」，鐵葉為齟齬、其齒一左一右以片解木石，指鋸齒如蹲狀）、距（《說文》「雞距也」，公雞足後突出如趾的部分）、䱟（形似石首魚，左右三牙如鐵鋸）、𦎠（一種身小角尖的山羊）、涺（水名，原名澽水，黃河支流）、崌（山名，《山海經》「崌山，江水出焉」）、𦱅（苴𦱅，草）、椐（《說文》「樻也」，木名，腫節可為杖；又即櫸）、鶋（鶢鶋，鳥名；鵯鶋即雅烏，指其頭頂羽毛聳峙）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j12-108",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-12-yu",
+      "title": "居字族②指居留，表示居室、積聚：𡨢、艍、腒、婮、啹、䅕、䵕、䋧、䛯、𨛮",
+      "statement": "②指居留，表示居室、積聚：𡨢（𡨢舍也，住所房舍；又貯）、艍（船）、腒（《說文》「北方謂鳥腊曰腒」，乾鳥肉）、婮（女字）、啹（吮吸）、䅕（蜀人謂黍曰䅯䅯）、䵕（黍也；又黏）、䋧（《說文》「纑繩絇也」，糾合成繩索）、䛯（言有則也）、𨛮（國名）。",
+      "boundary": "源自《系统汉语》第74部「古部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
