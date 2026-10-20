@@ -1,0 +1,1208 @@
+{
+ "schema_version": 1,
+ "intent": "录入《系统汉语》卷二十七 弗：156.弗部至163.巴部",
+ "risk": "medium",
+ "claims": [
+  {
+   "id": "j27-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卷二十七音源字「弗」指連枷，音源為連枷拍擊聲",
+   "statement": "本卷音源字為「弗」，指連枷；其音源自連枷拍打穀穗時的拍擊聲。",
+   "boundary": "源自《系统汉语》卷二十七「弗」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "topic_path": "knowledge/hanzi-yinyuan/27a-fu.md",
+   "topic_title": "卷二十七·弗",
+   "topic_summary": "卷二十七「弗」（第156–163部，p463–p482）：156 弗部（p464）、157 弜部（p466）、158 畐部（p467）、159 巿部（p469）、160 甶部（p470）、161 父部（p479）、162 夫部（p481）、163 巴部（p482）。音源字「弗」指连枷，音源为连枷拍击声；弗的敲杆编连如板引申捆绑宽扁，拍击飞舞引申兴起跳跃，与弜、畐、巿、甶、父、夫、巴诸部音义相通。",
+   "topic_keywords": [
+    "弗",
+    "弜",
+    "畐",
+    "巿",
+    "甶",
+    "父",
+    "夫",
+    "巴",
+    "連枷",
+    "音源",
+    "捆綁",
+    "拍擊",
+    "寬扁"
+   ]
+  },
+  {
+   "id": "j27-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "連枷由手杆與敲杆構成，甲骨文「弗」即其敲杆之形",
+   "statement": "連枷以約六尺竹竿為手杆，一端烤軟劈去一半折彎為柄；敲杆以三尺許硬木棍四至六根平列，用牛皮筋或竹篾藤條編連如板，上端烤軟旋扭回頭、中加短梗木軸，套在手杆折彎處即成；甲骨文「弗」字形即此敲杆。",
+   "boundary": "源自《系统汉语》卷二十七「弗」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "連枷異名甚多：枷、柫、柍、桲、㭋、棓、檙、𢶶",
+   "statement": "連枷古有枷、柫、柍、桲、㭋、棓、檙、𢶶等名，《說文》「枷，柫也」、《釋名》「加杖于柄頭，以撾穗而出其穀」、《玉篇》「桲，今連枷，所以打穀也」皆指此器。",
+   "boundary": "源自《系统汉语》卷二十七「弗」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "連枷源起可能與弋射有關，字形近「弔」，弋射出東夷",
+   "statement": "連枷源起可能與弋射有關，其字形與指弋射的「弔」相近：「弔」為線繩纏一弋形，「弗」則纏有兩根，弋射時繒絲纏住獵物在空中掙扎之狀正如揮擊連枷；弋射源於東夷，史載連枷打麥最早見《國語·齊語》，齊國地域本屬古東夷。",
+   "boundary": "源自《系统汉语》卷二十七「弗」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "連枷曾改良為兵器，宋慶曆間改鐵製敲杆，「檙」或即此",
+   "statement": "連枷除作農具外曾改良為兵器，宋仁宗慶曆年間將木製敲杆改用鐵打製成，「檙」字可能即指這種鐵連枷，使用歷史不長，後可能演變為雙節棍。",
+   "boundary": "源自《系统汉语》卷二十七「弗」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "「弗」字義分兩系：敲杆編連如板→捆綁寬扁；拍擊飛舞→興起跳躍",
+   "statement": "「弗」所表達的字義主要有二：一為敲杆編織連結如板狀，引申指捆綁、寬扁，與「弜、畐、巿、甶」等音義相通；一為拍擊時的飛舞之狀，引申指興起、跳躍，與「比、非、犮、奮」等音義相通。",
+   "boundary": "源自《系统汉语》卷二十七「弗」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "「弗」音源兼義音同「縛」，古甫、弗可通",
+   "statement": "「弗」為音源字，音源為連枷的撲打聲，義音同「縛」；古甫、弗可通，《管子·四稱》「近為君拂」，許維遹《集校》：「拂，與輔通。」",
+   "boundary": "源自《系统汉语》卷二十七「弗」卷首。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗：甲骨文象用繩將長條木杆編紮一處，「柫」之初文",
+   "statement": "弗甲骨文與「弔」結構類似，只是被束縛的直條有兩根或三根，戰國古文更明確將直條寫作「弋」即纏繩的箭，表示用繩子將許多長條形木杆編紮一起；為「柫」之初文，《說文》：「擊禾連枷也。」",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗轉義為輔助、整治、乖戾",
+   "statement": "由不同木條被捆紮在一起之狀，弗引申指輔助、整治、乖戾：《玉篇》「撟也，不正也」、《爾雅》「治也」、《廣雅》「不也」、《正字通》「不可也；不肰也；與不通」「除也」「違也」。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗轉義為擊打、興起、快速、飄忽",
+   "statement": "由連枷的使用，弗引申指擊打，此義分化如「拂」（《說文》「過擊也」）；由揮舞連枷之狀，引申指興起、快速、飄忽，《字彙》「弗弗，疾貌」，或分化如「佛」（見不審也）、「䞞」（跳也）。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「弗」象纏繩矯正箭杆說：只能引申出矯正義，非本義",
+   "statement": "或以為弗象用繩子纏繞箭杆使之變直之形（《說文》「撟也，从丿从乀，从韋省」，甲骨文从箭杆及箝與纏繞之繩）；箭杆亦竹，所解貌似合理，但只能引申出矯正義，故作者認為此說不確，並非本義；《說文》「从韋省」字形與「韋」無關聯，所析亦不確。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗音源為連枷撲打聲，義音同「縛」",
+   "statement": "弗為音源字，源自連枷的撲打聲，義音同「縛」；古甫、弗可通，《管子·四稱》「近為君拂」，《集校》：「拂，與輔通。」",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗字族①指擊打：拂、柫、茀、刜、砩",
+   "statement": "拂（過擊、拂拭、輔弼、拂汨風動、楚謂搏擊）、柫（打穀連枷）、茀（道多草不可行，草木眾多、引柩繩、彗星、香氣盛）、刜（擊、斫、斷）、砩（螢石即氟石，以石遏水曰砩）。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗字族②指捆束：紼、𢂀、𧙂、岪、笰、㚕",
+   "statement": "紼（亂系、引棺索、車索、印組，與芾通指蔽膝）、𢂀（束髮網套）、𧙂（蠻夷衣，蔽膝）、岪（山脅道，山腰之路）、笰（杆上帶繩的箭、髮簪、車箱後遮蔽物）、㚕（大也，與拂、弼通）。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗字族③指連枷揮動：䄶、靅、胇、炥、疿、怫、狒、艴、沸、鮄",
+   "statement": "䄶（禾重生）、靅（雲布貌、靉靅雲盛）、胇（大貌，同肺）、炥（火貌、熱氣、鬼火）、疿（熱生小瘡即痱子）、怫（鬱也、忿貌、悖亂）、咈（違、戾）、狒（狒狒，如人被髮迅走食人）、艴（色怒、不悅）、沸（泉湧、沸騰）、鮄（魴鮄海魚，胸鰭翼狀略能飛翔）。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-016",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗字族④指揮動之模糊散亂：佛、𥄱、髴、昲、費、䊧",
+   "statement": "佛（見不審、仿佛、輔弼、佛陀音譯）、𥄱（目不明）、髴（若似也、婦人首飾、髮亂）、彿（髣髴）、昲（曝曬、日光貌）、費（散去錢財、耗損、違背乖戾、邑名）、䊧（屁）。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-017",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弗字族⑤音譯用字：氟、鐨",
+   "statement": "氟為鹵素一價非金屬元素，淺黃色可燃刺激性毒氣，最強氧化劑之一；鐨為人工生產的放射性金屬元素，符號 Fm；二者皆音譯字。",
+   "boundary": "源自《系统汉语》第156部「弗部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-018",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弜：从弓二疊，象弓強有力或弓檠",
+   "statement": "弜从弓的二疊，二疊表示極致，或象意弓的強有力（《說文》「彊也」，其兩切）；或象意弓檠——狀似弓的青銅器，弓鬆弛不用時綁在弓裏邊防變形，也可用於矯正變形的弓，簡易者用竹片，故《說文》：「㯳，榜也。」",
+   "boundary": "源自《系统汉语》第157部「弜部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-019",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弜轉義為輔助，分化作「弼」",
+   "statement": "由「弜」對弓的保護與矯正作用，引申指輔助，此義分化作「弼」，《說文》：「輔也，重也。」",
+   "boundary": "源自《系统汉语》第157部「弜部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-020",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弜為借音字，因有捆縛義而義音同「弗」",
+   "statement": "弜為借音字，因有捆縛之意而義音同「弗」：《大戴禮記·保傅》「絜廉而切直，匡過而諫邪者，謂之弼」，「弼」《新書·保傅》作「拂」。",
+   "boundary": "源自《系统汉语》第157部「弜部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-021",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "弜字族：𢐆、弼、𢐁、𤙗、𦭲、𧙭、𥋡",
+   "statement": "𢐆（張設道上捕捉鳥獸的弓形裝置，即弶）、弼（輔也、重也、正弓器，从弜㐁聲，金文从㐁从弜會車廂兩側有蔽簟之意）、𢐁（同弦）、𤙗（古方字，並船）、𦭲（繅絲取絲頭）、𧙭（衣引也）、𥋡（視也）。",
+   "boundary": "源自《系统汉语》第157部「弜部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-022",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "畐：初文本短刀象形，即匕首、劍之前身",
+   "statement": "畐初文本短刀的象形，與商代羊首銅刀幾乎一模一樣：上為刀柄，下為刀身，兩面有刃，類似後來的匕首，是劍的前身，可能主要用於宰殺牲口；其衍生字「副」可印證，《說文》：「判也。」《集韻》：「剖也。」",
+   "boundary": "源自《系统汉语》第158部「畐部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-023",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "畐轉義為寬廣、迫近、滿備",
+   "statement": "由刀頁的寬，畐引申指廣（幅，《說文》「布帛廣也」）；這種短刀只能近身使用，故引申指迫近（逼，《廣韻》「迫也」）；或引申指滿、完備（《廣韻》「滿也」「道滿也」）。",
+   "boundary": "源自《系统汉语》第158部「畐部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-024",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「畐」為酒器說：字形容有可通，寬幅逼近之義無從體現",
+   "statement": "或以為畐為有流之酒器之形，甲骨文福字象以灌酒于神前為報神之福或求福之祭（《朱芳圃·殷周文字釋叢》謂象長頸鼓腹圓底之器）；從字形上說有些像尖底瓶之類陶器，但寬幅、逼近之意無從體現，且以畐為聲旁的「副」商代金文明顯是持刀剖豕之形，故錄以備考；《說文》「从高省，象高厚之形」與甲金字形不合，析形不確。",
+   "boundary": "源自《系统汉语》第158部「畐部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-025",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "畐為借音字，因有寬義而義音同「弗」",
+   "statement": "畐為借音字，因有寬義而義音同「弗」：《詩·大雅·卷阿》「茀祿爾康矣」，鄭玄箋：「茀，福。」",
+   "boundary": "源自《系统汉语》第158部「畐部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-026",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "畐字族①指刀狀之分剖、寬扁：副、𤗚、蝠、幅、鰏、鶝、葍、鍢、輻",
+   "statement": "副（判也、剖分破開，貳也、輔佐、首飾、成套）、𤗚（判也、薄版、開裂）、蝠（蝙蝠，初文本蝙蝠象形，翼薄而寬大）、幅（布帛寬度，古制一幅二尺二寸；綁腿布）、鰏（鰏科小魚側扁）、鶝（戴勝別名、寒鴉）、葍（蔓草，又名小旋花，地下莖可蒸食）、鍢（同鍑，大口鍋）、輻（車輪中連接轂與輞的直木，同輹即伏兔）。",
+   "boundary": "源自《系统汉语》第158部「畐部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-027",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "畐字族②指緊挨之迫近、彌滿：逼、偪、楅、匐、福、富、䵗、𤐸、愊、腷、堛",
+   "statement": "逼（迫也、強迫、切近）、偪（迫、紮綁腿即行縢、腹滿）、楅（以木逼束、加在牛角上防觸人的橫木、插箭器具）、匐（伏地）、湢（浴室、水驚湧）、踾（踾踧聚貌、行迫、踏地聲）、福（佑也，甲骨文本義當指分割祭肉即胙肉）、富（備也、厚也、豐于財）、䵗（治黍禾豆下潰葉）、𤐸（以火乾肉）、愊（誠志、悃愊至誠、鬱結）、腷（腷臆，意不泄貌）、堛（土塊）。",
+   "boundary": "源自《系统汉语》第158部「畐部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-028",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巿：从巾上加一橫，象蔽膝（圍腰）之形",
+   "statement": "巿从巾上加一橫：「巾」指布帛，上加一橫表示腰帶，指蔽膝，跟現在的圍腰近似；《說文》：「韠也。上古衣蔽前而已，巿以象之。天子朱巿，諸矦赤巿，大夫蔥衡。」俗作紱。",
+   "boundary": "源自《系统汉语》第159部「巿部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-029",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巿轉義為寬扁、前仆、遮蔽充盈",
+   "statement": "由巿形引申指寬而扁，此義分化如「杮」（薄而寬的小木片）；行動時懸垂的巿前後晃動，引申指前仆，分化如「伂」（顛仆）；作為蔽膝穿在衣外起遮蔽裝飾作用，引申指遮蔽、充盈，分化如「芾」（草木盛）。",
+   "boundary": "源自《系统汉语》第159部「巿部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-030",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「𣎵」與「巿」同源：《說文》分而析之卻又與巿相混",
+   "statement": "「𣎵」可能與「巿」同源，《說文》分而析為「艸木盛𣎵𣎵然，象形，八聲」，但解析相關字義時又與巿相混：㸬、㧊小篆從𣎵而《說文》釋為巿聲，旆小篆從𣎵而戰國古文從巿；《廣韻》解𣎵同「朩」（麻片）應是形近而誤解。",
+   "boundary": "源自《系统汉语》第159部「巿部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-031",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巿為借音字，形寬扁而義音同「畐」，或義音同「弗」",
+   "statement": "巿為借音字，因其形寬扁而義音同「畐」：《史記·秦始皇本紀》「遣徐巿發童男女數千人」，「徐巿」《淮南衡山列傳》作「徐福」；或義音同「弗」：《類篇》「䟛，行貌，一曰猝也，或作𧿳」，《釋文》「肺，本又作胇」。",
+   "boundary": "源自《系统汉语》第159部「巿部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-032",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巿字族①指巿形之寬扁：芾、𧘟、旆、杮",
+   "statement": "芾（小貌、草木盛貌，與紱韍黻通，以帛一幅遮蔽前後謂之黻）、𧘟（衣袖，蠻夷衣、蔽膝）、旆（接連鑲在旗邊上的旗飾，《釋名》「雜帛為旆，以雜色綴其邊為翅尾」）、杮（削木劄樸即小木片，陳楚謂櫝為杮；木盛貌）。",
+   "boundary": "源自《系统汉语》第159部「巿部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-033",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巿字族②指巿態之前傾：㧊、犻、䢌、䟛、伂、𢻵",
+   "statement": "㧊（擦拭、擊、推）、犻（狗飛快經過不齧取旁物，前腿並而躍行；犬怒貌；吠）、䢌（行貌、急走、猝）、䟛（急行、猝，與跋、狽通）、伂（顛仆，通作沛）、𢻵（物衺舛，袖箭，樹杈）。",
+   "boundary": "源自《系统汉语》第159部「巿部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-034",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巿字族③指巿用遮蔽充盈：𥄔、沛、㸬、霈、㤄、肺、䰽",
+   "statement": "𥄔（不明）、沛（水名，草生水曰沛，沼澤多水草之地，水充盛、豐盛廣闊）、𣬪（多毛貌）、㸬（二歲牛、牛足長大）、霈（大雨、雨多貌）、㤄（恨怒、恚恨）、肺（呼吸器官，《釋名》「肺，㪍也」）、䣪（酒色、酒氣）、䰽（河豚，皮堅韌厚實曾用以製作頭盔）。",
+   "boundary": "源自《系统汉语》第159部「巿部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-035",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甶：象面具形，或與「甲」同源分化",
+   "statement": "甶象面具形，其形制即「甲」，指狀如盔甲；或與「甲」本是同源字，因義分化：「甲」指盔甲，「甶」指古代巫師祭祀時所戴的面具，跟現存的儺戲面具差不多；《說文》：「鬼頭也，象形。」",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-036",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甶轉義分化出鬼、畏、畀、卑、畢、禺、畟、甫諸字",
+   "statement": "由面具之狀引申指類似的物體，而分化作「鬼、畏、畀、卑、畢、禺、畟、甫」諸字並形成新的字族，甶失去獨立表意性，多被作為聲旁使用。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-037",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甶為借音字，形扁平覆臉而義音同「孚」",
+   "statement": "甶為借音字，因其形扁平、覆在臉上，故義音同「孚」：《易·需》「需有孚」，《釋文》「孚，又作旉」；「旉」本甫聲，「甫」从甶聲；《集韻》「麩，或从甫、从孚」。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-038",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卑：象手持有柄之甶，為椑、箄之初文",
+   "statement": "卑象手持有柄的甶形：「甶」作為圓筐形物體，戴在臉上為「鬼」，拿在手裏自然是淺筐類器皿，可謂「椑」（扁圓形飲酒器）或「箄」（篩、籠、簍類竹器）之初文。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-039",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卑轉義為低下、使喚附屬",
+   "statement": "由其淺小之狀，卑引申指低下（《廣韻》「下也，賤也」），或引申指使喚、附屬（《集韻》「𢔌，使也，或作卑，通作俾」）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-040",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「卑」从𠂇甲：𠂇當指握持，非徐鍇所謂「左」",
+   "statement": "《說文》：「賤也，執事也，从𠂇甲。」徐鍇以「𠂇」為左、以「甲」為天干第一有尊義；但古代尊左尊右時代有異、場合有別並無定規（《史記·廉頗藺相如列傳》位在廉頗之右而廉頗不忍為之下，《田叔列傳》則以右為尊），故「𠂇」應指握持，徐注不確，《說文》所解為引申義，非本義。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-041",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卑音源本甶聲，因扁平義而義音同「比」",
+   "statement": "卑本甶聲，因有扁平義而義音同「比」：《集韻》「髀，或作䯗、𩪅、脾、肶」。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-042",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卑字族①指扁圓形物體：髀、脾、碑、箄、鞞、鼙、椑、㼰",
+   "statement": "髀（股也、大腿、股骨，或指測日影的表）、脾（土藏，其形扁圓；牛百葉；股）、碑（豎石，初用於測日影記時或拴牲口，王莽以後專指墓碑）、箄（篩籠簍類竹器、捕魚器、冠飾、大筏、甑蔽）、鞞（刀劍鞘、同鼙即騎鼓、縣名、蔽膝）、鼙（古代軍中小鼓，《釋名》「禆助鼓節也」）、椑（扁圓盛酒器、斧柄、油柿、棺）、㼰（腹大口小的容器，盛水防火）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-043",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卑字族②指扁平生物：螷、蜱、豍、萆、𦸣",
+   "statement": "螷（蚌狹而長者，修為螷、圜為蠇）、蜱（螳螂的扁圓形卵塊；今指壁虱，體扁平，吸人畜血液能傳染腦炎等）、豍（豍豆即豌豆、扁豆）、萆（雨衣、蓑衣；薜荔；萆薢藥草）、𦸣（鼠莞，生長在卑濕之地的細草）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-044",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卑字族③指卑下短小：𠕩、捭、㪏、庳、埤、陴、稗、粺、婢、俾、裨",
+   "statement": "𠕩（別也、分裂）、捭（兩手橫向對外旁擊、分開撕裂）、㪏（搗毀）、庳（兩旁高中間低的房屋、短也、低下）、埤（增也、附助補、下濕、城上矮牆）、陴（城牆上矮小的牆即俾倪）、稗（稗子，葉似稻藏身禾中，有害稻的生長；敗壞）、粺（舂後去殼的精米）、婢（女之卑者）、俾（益也、守門人、使也）、裨（接續、補充、偏副）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-045",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "卑字族④指卑下之其他：猈、𪐄、鵯、痺、𥏠、䚜、㯅、睥、啤、諀、貏、崥",
+   "statement": "猈（短脛狗）、𪐄（黍屬，夾雜在黍裏）、鵯（寒鴉，小而多羣腹下白）、痺（䳺鶉之雌者）、𥏠（短小貌）、䚜（橫角牛）、㯅（木下枝、小樹）、睥（斜視即看不起對方、窺視）、啤（喉病不能大聲說話；啤酒為德語 bier 音譯）、諀（誹謗、惡言）、貏（貏豸，漸平貌）、崥（山形漸平、山足）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-046",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "𢍉：从廾从甶，本義當指戴面具，與「異」同源",
+   "statement": "𢍉从廾从甶：「甶」指面具，「廾」象雙手捧舉之形，本義當指戴面具，跟「異」本是同源字；由戴著面具之狀引申指奇怪（《廣韻》「異，奇也」），但其衍生字如「戴」仍保留本義。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-047",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "𢍉轉義：甶可指箕筐篩，金文演變作「其」，分化出「番」",
+   "statement": "「甶」也可引申指形狀相似的器具如箕、筐、篩，故西周金文演變作「其」指箕類，當時含義當指雙手端著箕類以為盛物、播揚、篩選、甑隔等用途；甲骨文本或在下面有小點表示小的顆粒，此義或分化作「番」，即「播」之初文。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-048",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「𢍉」與「畀」混同：二者功用不同，須據義辨別",
+   "statement": "《說文》「𢍉，舉也，从廾甶聲」所釋含義還是對的，但應非甶聲而是廾聲，跟「舉」同；由於从𢍉分化出異、番、卑等字並衍生新字族，它反而失去表音性；楷化後又與「畀」字形相近，本就不多的字族與其混同——「畀」是象形字本指箭鏃，二者功用不同（箭有鏃使其更利有給與之意，其狀鼓出頂端也有舉義可通），需根據意義辨別其字族。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-049",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "𢍉音源本「廾」聲，實際已混同為「甶聲」",
+   "statement": "𢍉本「廾」聲，應屬《𦥑部》，為了辨析才放在此；且由於以其表音的字多混同「畀」或「卑」，實際上已經是「甶聲」了。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-050",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "𢍉字族①甶形物與卑通用：箅、綥、𣽠、𨡟、𩩚、腗",
+   "statement": "箅（障隔飯甑之底的蔽具）、綥（蒼艾色的包頭巾，未嫁女所服；或指草鞋）、𣽠（用箕在水中將蠶絮雜物漂去，引申水清、魚游貌；水流輕疾）、𨡟（搗榆醬）、𩩚（俗髀字，股骨）、腗（同脾）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-051",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "𢍉字族②卑下應从「卑」：𢈷、𥚈、睤、𧳠、𧨬、𧤃",
+   "statement": "𢈷（同庳，舍下也）、𥚈（同裨，補也增也）、睤（睤睨，旁視）、𧳠（俗貏字，貏豸漸平貌）、𧨬（同諀，惡言訾毀）、𧤃（同䚜，橫角牛）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-052",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "𢍉字族③箭鏃狀當从「畀」：痹、𢮅、淠、𢍚、𦱓",
+   "statement": "痹（風濕病，關節腫大如箭鏃）、𢮅（相付與之，與畀同）、淠（水名即白鷺河，舟行貌、眾多貌）、𢍚（草木盛美貌）、𦱓（蒼耳，金文从畀，指其實如箭鏃）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-053",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甫：从屮甶聲，象寬如甶之艸，即「莆」之初文",
+   "statement": "甫甲骨文本从屮甶聲：「甶」指面具，表示寬而扁的樣子；「屮」即艸。象意寬如甶的艸，即「莆」之初文，《說文》：「萐莆也。」即蒲葵，葉子很寬可作扇。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-054",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甫轉義為大、展開、男子美稱、菜園、輔助",
+   "statement": "由莆葉的寬大，甫引申指大、展開（《廣韻》「始也、大也、我也、眾也」）；因男子胸部寬大扁平、肋骨鼓出如蒲葉，或引申指男子（《說文》「男子美稱也」）；或引申指菜園（圃）；莆的韌性很好可用於編結捆縛，而引申指輔助，此義分化作「輔」。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-055",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「甫」金文變从用父聲：《說文》析形不確，但甫與父、夫通用",
+   "statement": "「甫」的西周金文變化較大，變成从用父聲，小篆沿襲不變，故《說文》：「男子美稱也，从用、父，父亦聲。」析形雖不確，但「甫」跟「父」「夫」的確可以通用，如「浦」或从「父」、「簠」或从「夫」。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-056",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甫字族①指莆形之寬扁物：莆、脯、䩉、鋪、鬴、蒲、簠、鯆",
+   "statement": "莆（蒲葵可作扇，通蒲指菖蒲或蒲草）、脯（乾肉，張開挂起風乾；今指胸部）、䩉（面頰）、鋪（附着門扇銜門環的金屬螺形獸面，鋪設陳列，商店）、鬴（大口鍋，衡陽俗稱荷葉鍋；類似斗的量具）、蒲（水艸可編席包扇）、簠（盛黍稷的圓形竹器，外方內圓，容一斗二升）、鯆（江豚，又名江魨，能拜風）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-057",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甫字族②指莆狀之平展遮覆：浦、𧀮、逋、匍、牖、旉、麱、庯",
+   "statement": "浦（水濱、岸邊淺灘）、𧀮（花葉舒展貌）、㕊（石頭在空隙處突然出現）、埔（地名，本義當指水邊灘地即浦）、峬（峬峭，山勢平緩）、郙（古亭名）、逋（逃亡、拖延遲緩）、匍（伏地用手爬行，胸脯著地）、酺（王德布大飲酒，需國君特許）、痡（疲勞之病，瘦得皮包骨）、牖（穿壁以木為交窗；引導、嚮導）、旉（敷本字，佈置鋪開擺開）、麱（小麥屑皮）、庯（平頂屋）、鵏（布穀鳥）、悑（惶恐）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-058",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "甫字族③指甫用之輔助：輔、俌、黼、捕、補、哺、餔、晡",
+   "statement": "輔（人頰車即腮幫子；夾在車輪外旁的直木，每輪二木；輔助）、俌（輔助）、黼（白與黑相次文，半白半黑似斧刃白而身黑取能斷意）、捕（捉取，覆而取之）、補（修補衣服使完好；助也）、哺（咀嚼、吃食；吃晚飯即輔食）、餔（申時食即晚飯；糖漬乾果）、晡（午後三點至五點）、秿（禾捆）、䝵（以財相酬）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-059",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "尃：从又甫聲，象取蒲葵以為用",
+   "statement": "尃甲骨文本从又甫聲：「甫」指蒲葵，「又」指手，象意取蒲葵以為用。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-060",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "尃轉義為寬闊散佈普遍，及捆綁",
+   "statement": "取蒲葵以為扇，尃引申表示寬闊、散佈、普遍（《說文》「布也」）；取蒲葵以為繩索，引申表示捆綁，此義分化如「縛」（《說文》「束也」）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-061",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "尃字族①指以為繩之捆綁附著：縛、𩌏、𩍿、䪙、搏、傅、賻、𣝍",
+   "statement": "縛（捆住、捆綁用的繩索）、𩌏（車下索、車上囊、內褲）、𩍿（車墊、鞋墊）、䪙（車軛上裹的皮套）、搏（索持、捕捉、近身、擊取）、傅（輔助、附著；同敷）、賻（以財助喪、贈死）、𣝍（壁中小柱）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-062",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "尃字族②指以為扇之攤開寬扁：博、溥、薄、髆、鎛、膊、餺、簿",
+   "statement": "簙（六箸十二棊的棋戲）、礴（旁礴混同、廣被充塞）、煿（火乾、煎炒烤乾）、博（大通、廣大、精通）、𢾭（施給、陳也）、溥（廣大、徧也普也）、𦺉（花葉展開貌）、榑（榑桑神木日所出；斗拱）、薄（草木密集叢生處、蠶簾、厚薄、迫近）、髆（肩胛、腰骨）、㗘（咀嚼）、𪙍（咀嚼堅硬食物）、鑮（大鐘）、鎛（懸鐘橫木上金塗飾的花紋；短柄鋤頭）、膊（薄肉片貼屋上曬乾；肩膊；界域）、餺（餺飥，很薄的湯餅）、牔（屋端版）、簿（冊子、文書、手板、蠶簾、迫近）、蒪（蘘荷，薑科植物）。",
+   "boundary": "源自《系统汉语》第160部「甶部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-063",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "父：从十从又，象布指之十倍即十尺，與「丈」同源",
+   "statement": "父甲骨文本从十从又：「又」指手，「十」指十倍，象意表示布指（手指張開，拇指尖到中指尖的距離）的十倍即十尺，與「丈」同源；《說文》：「十尺也，从又持十。」",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-064",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "父轉義為成年男子、父親、男性長輩",
+   "statement": "由十尺引申指成年男子（《集韻》「甫，《說文》男子美稱也，或作父」），或指父親（《釋名》「父，甫也，始生己也」），或泛稱男性長輩。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-065",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「父」从又持杖：甲骨文「十」作「丨」與「攴」近似故誤",
+   "statement": "由於甲骨文「十」寫作「丨」，與「攴」近似，故《說文》：「矩也，家長，率教者，从又持杖。」以「十」為「杖」，析形不確。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-066",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "父為借音字，古父、甫可通用",
+   "statement": "父為借音字，古父、甫可通用：《詩·大雅·綿》「古公亶父」，《釋文》「父，本亦作甫」；《左氏春秋·僖公二十三年》「宋公茲父卒」，「父」《史記·宋微子世家》作「甫」；《老子》「以閱眾甫」，馬王堆帛書乙本作「父」；《史記·司馬相如列傳》「尃結縷」，《漢書》作「布」。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-067",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "父字族①指斧之砍斫啃咬咀嚼：斧、𪄇、蚥、𧉊、㕮",
+   "statement": "𨊽（頰骨）、𪂀（鳥也）、𪄇（鸛，一名負釜，長喙如斧）、斧（砍東西用的縱刃大斧，《釋名》「甫，始也，凡將制器始用斧伐木」；或指成年男人才掄得起）、蚥（蟬；蟾蜍；螳螂別名）、𧉊（守瓜，瓜中黃甲小蟲）、㕮（㕮咀，用口將藥物嚼碎以便煎服）。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-068",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "父字族②指成年男子之頭大腹鼓：釜、𩵹、䭸、滏",
+   "statement": "𩵹（吐𩵹即杜父魚，見人則以喙插入泥土如船矴）、釜（蒸煮用的大型炊器，戰國古文本从缶父聲）、䭸（牡馬，公馬）、滏（滏水，今滏陽河，源出河北磁縣西北石鼓山）。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-069",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "布：从巾父聲，象布幅（織布最大寬度為十尺）",
+   "statement": "布从巾父聲：「父」指十尺，既是布指的十倍，也是兩臂展開的長度；古人手工織布左右穿梭，最大的寬度也只能是十尺；「巾」指紡織品，象意布幅；《廣韻》：「布帛也。」",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-070",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "布轉義為陳列散開，及貨幣賦稅",
+   "statement": "由布帛的展開之狀，布引申指陳列、散開（《玉篇》「陳列也」、《小爾雅》「展也」、《集韻》「散也」）；由於布帛輕便而珍貴，古代一度被作為貨幣和賦稅使用，故引申指貨幣、賦稅（《正字通》「又錢別名」）。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-071",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「布」本指所有紡織品，《說文》專指麻為不確",
+   "statement": "「布」本指所有紡織品，《小爾雅》：「麻、苧、葛曰布。布，通名也。」《說文》以其專指麻（「枲織也，从巾，父聲」），釋義不確。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-072",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "布字族①指織布穿梭之擊打惶遽：抪、柨、怖、𩶉",
+   "statement": "抪（捫持，用手壓而捉住；擊也；展舒；抪扈同跋扈）、柨（蔽柨木名，汁可食）、怖（惶恐）、𩶉（江豚）。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-073",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "布字族②指布幅之展開鋪陳：𢁻、𢇴、佈、鈽、㳍、𡇊、𧦞",
+   "statement": "𢁻（巾也）、𢇴（列也）、佈（佈徧，散滿）、鈽（金版）、㳍（地名，東㳍洲）、𡇊（同圃，種菜曰圃）、𣧦（夭也）、𤵗（痞病，胸腹脹滿）、㚴（美女，譌字）、𧉩（蝜𧉩，蟲大如蜆有毒）、𧦞（諫也，敷陳也，與布通）。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-074",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "布字族③音譯與形近訛字：咘、𥞎",
+   "statement": "咘為譯音用字（人名、地名）；𥞎音子，疑「秭」字之譌。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-075",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "丈：从又从十，以身度物，十尺為丈",
+   "statement": "丈从又从十，跟「父」同源；古人測量長度以身體為標準：拇指指關節的寬度為一寸（常用於中醫取穴），張開手指拇指尖跟中指尖的距離為一尺（常用於比量物體長度），「十」指十倍即十尺；《說文》：「十尺也，从又持十。」",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-076",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "丈轉義為成年男子、年長者、扶倚",
+   "statement": "與「父」同，由十尺引申指成年男子（《玉篇》「丈夫也」），或引申指年長的人（《玉篇》「長也」）；由於年長的人腿腳不利多拄拐杖，故引申指扶、倚。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-077",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "丈為借音字，義側重長度而義音同「長」",
+   "statement": "丈為借音字，其義側重於長度，故義音同「長」：《穀梁傳·隱公元年》范甯集解「隱長桓幼」，《釋文》「長，又作丈」。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-078",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "丈字族：仗、扙、粀、杖、𤣸、𡚹",
+   "statement": "仗（器仗，刀戟總名；戰鬥、戰事；憑仗依靠）、扙（杖擊）、𤣸（玉也）、𡚹（女字）、粀（公制長度單位「十米」的舊譯）、杖（拐杖，《說文》「持也」，所以扶行也）。",
+   "boundary": "源自《系统汉语》第161部「父部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-079",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "夫：从大上插一，象男子簪髮，本義為成年男子",
+   "statement": "夫从大上插一：「大」指跨騎即成人，上插「一」表示簪髮之意；古代不同年齡的人髮式不一樣，男子二十行加冠禮，要將頭髮用頭巾包好並插上簪子固定，表示已經成人、能勝任田間勞作、可以結婚了；故本義指成年男子，《說文》：「丈夫也，从大，一以象簪也。」",
+   "boundary": "源自《系统汉语》第162部「夫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-080",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "夫轉義為配偶、勞動者、兵士、官長，及代詞語氣詞",
+   "statement": "成年男子才可以與女子婚配，並有相應的家庭、社會責任和義務，故引申指女子的配偶、從事某種體力勞動的人、兵士、官長等，如夫婦、丈夫、農夫、挑夫、武夫、大夫；或引申作代詞（他、它、他們，那、那個，這、這個），或作語氣助詞（句首句中提示，句末表感歎疑問）。",
+   "boundary": "源自《系统汉语》第162部「夫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-081",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "夫為借音字，義音同「甫」",
+   "statement": "夫為借音字，義音同「甫」：《詩·邶風·谷風》「匍匐救之」，「匍匐」《禮記·檀弓》《漢書·谷永傳》並引作「扶服」，《孔子家語》引作「扶伏」；《史記·張耳陳餘列傳》「扶以義」，《漢書》作「輔」。",
+   "boundary": "源自《系统汉语》第162部「夫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-082",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "夫字族①指成年男子之身份行為：扶、畉、伕、蚨、趺、鳺",
+   "statement": "扶（佐助、扶持；四指並列的寬度；扶服同匍匐；甲骨文像兩人相攙扶形）、畉（耕田，農夫）、妋（貪貌、女貌）、伕（女夫婿，後指賣苦力的人）、酜（同酺，彙聚飲酒）、蚨（青蚨還錢，故為錢的別稱）、𧥱（訣詞、語端辭）、趺（腳背、跏趺大坐）、鳺（火斑鳩；子規即杜鵑）。",
+   "boundary": "源自《系统汉语》第162部「夫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-083",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "夫字族②指男子體態之寬扁高大英武：麩、芙、鈇、衭、肤、枎、玞",
+   "statement": "麩（小麥磨碎篩出麵粉後剩下的麥皮碎屑）、芙（芙蓉即荷花，葉大如莆；木芙蓉）、鈇（鍘刀；同斧）、衭（衣前襟、襲袴；劍衣）、肤（皮膚）、𤱽（小畚器）、枎（扶疏，大樹枝葉四布；草木子房、花萼）、䄮（再生稻；俗稃字）、𩵩（鯕魚，大頭豐脊色微紅）、玞（石次玉，赤地白采）、邞（琅邪縣）、颫（大風）。",
+   "boundary": "源自《系统汉语》第162部「夫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-084",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "夫字族③形近「失」之訛：𦔾、䃿",
+   "statement": "𦔾（希望也，《正字通》謂譌字，耳司聽無望義）、䃿（祭名、祭疏，《正字通》謂「祑」字之譌）。",
+   "boundary": "源自《系统汉语》第162部「夫部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-085",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巴：甲骨文象人跪著伸手往前爬搔，「爬」之初文",
+   "statement": "巴甲骨文象人跪著伸出手往前爬搔的樣子，為「爬」之初文，《廣韻》：「搔也。」",
+   "boundary": "源自《系统汉语》第163部「巴部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-086",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巴轉義為靠近貼緊、攀援把握、長條物",
+   "statement": "由爬搔引申指靠近、貼緊（如泥巴、嘴巴、巴望），或引申指攀援、攀附、把握，此義分化如「把」（《廣韻》「持也，執也」），或引申指長條形的東西（如尾巴）。",
+   "boundary": "源自《系统汉语》第163部「巴部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-087",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "辯「巴」象蛇說：小篆如蛇頭形故《說文》析形不確",
+   "statement": "由於小篆如蛇頭形，故《說文》：「蟲也。或曰食象蛇。象形。」析形不確；「巴」指蛇語出《山海經·海內南經》巴蛇食象，但到底是指蛇因巴地而得名還是巴地因蛇而得名不得而知——蛇本爬行動物稱之為巴本可，四川東部山勢陡峭出入得靠攀援故稱之為巴也可。",
+   "boundary": "源自《系统汉语》第163部「巴部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-088",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巴為音源字，源自爬搔聲，古巴、畐、甫音義可通",
+   "statement": "巴為音源字，源自爬搔聲；爬必俯身張開手掌，故古巴、畐、甫音義可通：《說文》「蘘，蘘荷也，一名葍蒩」，段玉裁注《史記·子虛賦》作「猼且」、《漢書》作「巴且」、王逸作「蒪菹」、顏師古作「蒪苴」。",
+   "boundary": "源自《系统汉语》第163部「巴部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-089",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巴字族①指爬搔之握持把柄：把、靶、弝、𧣃、𩨜、䰾",
+   "statement": "把（握持；弓弣手所握處為把；爬即搔）、靶（韁繩上趕車人所持的皮革；射擊的目標）、弝（弓背中部手握的地方）、妑（妑頭，女兒雙髻）、𧣃（牛角闊、牛角張如柄）、𩨜（刀把；足脛骨）、䰾（鯉科魚，體側扁口有鬚，多產華南西南澗溪；馬鮫魚）。",
+   "boundary": "源自《系统汉语》第163部「巴部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-090",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巴字族②指爬搔之撥動爬行：琶、跁、耙、爬、鈀、筢、杷",
+   "statement": "琶（琵琶，用手指彈撥如爬）、跁（跁跒不肯前；短人；小兒匍匐）、耙（碎土平地的農具，犁後用之，破塊惟細為功）、爬（搔、爬梳、攀援、伏地前行）、鈀（兵車；箭鏃；五齒平土除穢的鉏屬；鈀元素音譯）、筢（五齒筢，摟柴草的竹器）、𢃳（反手擊物）、杷（收麥器，枇杷；碎土平地的農具；器物的柄）。",
+   "boundary": "源自《系统汉语》第163部「巴部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j27-091",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-27-fu",
+   "title": "巴字族③指爬伏之緊貼寬大：帊、蚆、爸、疤、笆、芭、豝、葩",
+   "statement": "帊（帛三幅曰帊、頭巾、帳）、蚆（蠃屬，形中央廣兩頭銳；雲南邊夷貨多用貝呼為海蚆）、吧（小兒忿爭；大口貌；語氣詞）、爸（吳人、羌人呼父）、疤（瘡痕，本作瘢）、粑（餅類食物；粘貼；依戀）、羓（腊屬，大塊乾肉）、笆（有刺竹籬）、芭（芭蕉，葉子濶大；香草，同葩）、豝（母豬；一歲的豬）、皅（草花的潔白）、葩（艸木的花）、舥（舥腳船；浮橋）。",
+   "boundary": "源自《系统汉语》第163部「巴部」。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
