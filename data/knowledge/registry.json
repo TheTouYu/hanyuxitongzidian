@@ -773,6 +773,26 @@
         "鼓"
       ],
       "permission": "public"
+    },
+    {
+      "id": "topic-juan-24-bei",
+      "node_id": "hanzi-yinyuan",
+      "title": "卷二十四·貝",
+      "path": "knowledge/hanzi-yinyuan/24a-bei.md",
+      "summary": "卷二十四「貝」（第124–139部，p380–p418）：124 貝部（p382）、125 丰部（p384）、126 本部（p389）、127 𠦪部（p390）、128 賁部（p393）、129 匹部（p395）、130 𢨋部（p397）、131 並部（p398）、132 并部（p399）、133 平部（p401）、134 辰部（p403）、135 身部（p406）、136 臣部（p408）、137 貞部（p414）、138 幵部（p416）、139 㠭部（p418）。音源字「貝」象貝殼形，音源為貝殼撞擊聲；本卷所屬多為借音字，隨「辰、貝」而變。",
+      "keywords": [
+        "㠭",
+        "丰",
+        "匹",
+        "珍珠",
+        "目",
+        "臣",
+        "蚌",
+        "貝",
+        "貝幣",
+        "辰"
+      ],
+      "permission": "public"
     }
   ],
   "relationships": [],
@@ -11398,6 +11418,896 @@
       ]
     },
     "clm_FA79860CDCB288BE79C36C2094": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1B9D504F199529ED8FBCA68D4B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_746B9FF76FC585D0D030F68B60": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4FB456F5DC3F45B4D46D4DAE67": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1FF0D8956F17B3EA92FC99EB95": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9848B5DD10B1DE0BF1FBF1B696": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_650B90B461941BF3D091269E76": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_137B262A40C2F01EF31F2EECFE": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1EDA23EF5484354A42FB7F6814": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7B49E251DDFA2EABA314223E28": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C65AEFE22A4467A909B322102C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E02E841BBCC240FC96279C05D9": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0B269871FBDD15DD6C2EADD781": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5149F2555C320FB25CABDC400B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4D36773C6D701B2039DAF87E0C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_68EB2286F2ECB68F2EEEC0EECA": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9104C6F74D884F5222875E5637": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7AA38FA3A31EE931DB99038F98": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A3C356072385A09794295B4009": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_82B8F08C6F2BDCF2A9AEB701D2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_10559F0D73182EFC30EFD9A7F4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_01344967138E16828138F041BC": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6B4CA14A6DECA2AD47F534B33F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_95F8D1D2C41F0AC6C2ABAF1A1F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_502FEE52EFFDE9224DC3C9077A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D0358941AB8DF606655A0C4E1C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B9AD049D98E9C65A9D0905B181": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_DE030E72C33FD979EC8B212A2F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C746F133698AFCCD506E013E04": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4E63FB43A505D79E4C9B94F840": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_68ABFC5D67042F4437E694E3A5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4DDBE3A4794AA4420E25B88BD9": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EAAB39AB36323C184E79876172": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_DF1C298422082D7FBE152A7078": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6B59100020BCADABE403A1D96D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EEAA28D3BFEEDC9F28E370F85A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_08FE29972ECE59EF9733CAFB9C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A07C2C20CA65378A8FACB4B946": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4B692C2AE8B38C678F618E7F01": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_82BB693DD0345616BE2C9CB305": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_56B500328B060A8189BBEF3A62": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_39F9D2BAC5099EDAB1BE0D458D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_AAB5BFC038B631B86D5D7D9501": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_18D5CDCDBCCE0C35E753A5BB9A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E4200DD8CBB79E4456B9B9F106": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F5B9BCC9CD7F94563D956DE1D6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_474EE6EC70AF6DAD492C20C071": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7CE5714B85F879B735C68E74BB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_731EE48B850242F8FA3F702BA3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C87081112595E7E81C1EDE4EA3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4990A36FF7E2A1C6571B8FF088": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D3A748F07543AB6D92C3F2CCD2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_FE5E5BDBD17EF8BA3C3FDF51D5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F1C86E948D91056F1CF65445ED": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_68EEF0BE3C58B4EF7AABD797E6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CE50A7624251716B8C545917E6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5C2C5AFC17B368D0EB00AF125C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D7985795FC88E8E3F77EF1F334": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CA824EBD136F09782EBCEB8C80": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9B1828985C8CF33105ACA3F5D4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6548CEF19E27D142AEB32F7E40": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F6BA61B7F81F9F3F399D85598F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8551882569BE906AC158458925": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E64CB9574A159A04C59BC59898": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5315D275623A157C1B82E9492A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_43EB14A7AFEB8319D36E3C3961": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7112DEFC26BF96929157C4036C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_BC2135AEAADB4D4A9FADBD040E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_AFCEF73AEA515125EBE8A7671A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EF2A0F75E20AEDAA47F5B2007B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7BB764B9F74900B84BDBD98947": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D21F6A31EA7287ECC27EDD0D0E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A53F9D082F1A23C138F431BFB4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8A73F7092D7A05F39E8434580C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_93CF427CFF9491BCF80ABA2F56": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D842ED16543A4591EC3D425A5A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EFC7F753E0C39050C7D83953FF": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B2D1AD07D76C2883BE66746754": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A44F16A0FA87BB5AA3F5C7BB77": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C77C0B87A0283178C426C67B4E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7270BAE089AC0E71C7B9BAB17A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_401FF2395FA2BBE82C55E984B3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B35EC83AD6F884B3E62549CDA4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5A2FAFC875445C64B2CC55A559": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_37B91E68A7034C4068BAA24192": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D02405E6B0FF3BE018906970C3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_701C8DD2F440B8E6A6E285E460": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0A8B24A78F5921FE78CAC84B28": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CEBDE36A81EA4DE340AF2AAF2A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5F3563F68301A88CE59DB52EE3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CF884828E824A462BF0B8DB4B4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8BBAA98D7437CFDC1059329B0B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8F1777DD06A981B7421114605B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_61BBCD3B2F700BE47977B190E0": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3E6780CA85A129683F92D5EC21": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F2C8B8CB1BB02B62A0696D6554": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6FACD83D2AF88F5BCBC8C847A6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_82587D28FA860F7023EEBFBF6F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_53030356035A521135D4499E0A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F1F6DA3E22ED0633134CF9A79E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3A0AD687D03B1C98FF1C781AF7": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8723F87DBE686FD19E39E59F2F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C8C2EC6D539B7CAC368672C09E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_713753902701628ED28E12C1DE": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_48D4E097EA1119EDCFBC4887E8": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_2F7424999FF8AFF17681275973": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C1FE6F4503EEC0839C611158F6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0680CD4317EEB9E7409BA30B89": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F67FBCCBCE5D8C87AD4140DE65": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_52204ABCC4187BC225027DA83F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_AFD8CAC8D458B20AE963762080": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B262B21BDA1EDEBCF226B0E3A5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B986B47B5590B4D12590A8D9F5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_AADD5900AB2B966FD7A074FE87": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_387B622B75FDD642BDF5D4B0B4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F7DC06A277D9B67476FEF3F8B0": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7A255F52BD27B6C9A9F55D8880": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C9E0883EB0C5DED39CBA6CE5DE": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D2E6C49FC9F4B669D2B7781896": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_80B823FF20C73EF08F073428E2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D81A93ED6A7BBBC1C05B139464": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_12C9ABFC59C27618D89855DF4D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_2644E9BC1BC3675ACE67B866D7": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_88D12E08569A75682CDE7481BE": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9986C1D658FEEB311FBDE44766": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4D3757C5D547117F02743420D5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9F2411B841CBC6179BDD6BE69C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CFC0BB76B69644B6309F80AF98": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8B9EC7A893FCE012C14FA009ED": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7135FF34A791D4CC06346048D2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_FD15E6FB5B10195811646CE24D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7A961C00294B9D4BE1117C400A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_2F3E4F4A97F0E8FD2F24948C42": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9629DE30BD3BEFCFD4EEA23639": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_2C81E60A50F0C4348C27D00759": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_BD6309F428A43601704F9FDCF1": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_170CFCFA62ED8A3DF1D74297BB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6323365805B73E61031912BC7C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_49B4A07FE148C08AFEF973E62F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0FAA2F218327F1BA1325C9285B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D0480C67377213D349950DB1E2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A6C16CB1D11EC7C1339485D591": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_2BFA14FF0A0C7D095E20206F6F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_12012324AC936638BDC6D843B3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CED8E863113415ADDA83FE3CE5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7E1AD8B6A2F1347FB22CD92D7E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_70ADE6794CE6B85971CEFDEBF6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_2889109A2C2CD8CAB289FD4364": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0F4FD7E9DD003B95CC535F38B3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6CCAC15B3E96E6E30383A5FD2D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1702405CB1DA4DE6C0CD01298E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D47691BB65C271D6827F11C1D6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_39F17AB87D6858DD2AAA7A1CB9": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1F7F640F38830D2E49ACDAA4A5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7B34A9B0AC4E5A696FF08CB843": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_062962FD9E6DCC1142289E296F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1BE9AF68C3C014C370CA5042F6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4A02A37D9539C88142F59BE520": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C3B7F430999CABFB3A260BE4A7": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9CAACF2A39A28D5CDF5985BF4D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9119161CBA42057C7326D70AC1": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E0AF166E01E62A06F0705FBC3A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_39D587454F09AA9A09F1954E2C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5189D8EEBF737E240D87712BD7": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_97881A3B16D2B7C99E3F786D23": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4BAEB2A3E19135BC2557D2FA00": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_20BBDF79EB2A705B7A7C8EF089": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_002344A643B952F9E3B764FBF3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1F42FB744FAF0719096AD536BC": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5343472CBEBA3E03A8B41D04C8": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C47A8AEF82B3859D9B86A04BF6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E26158C80110335A17DF89EA50": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D9D5B2345CDF895E179C4D2ECC": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_DAB68D57A91DFD5B133C63A511": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_41FE65233DB0FE5FD1C286F830": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_9B928BC5D9E947AE9A6677E19F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A4D880442F271F045E57BCB369": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_49A0B95A37ADA2C31211C493D2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_28807BFA69318918B011AA3AE0": {
       "fact_classes": [
         "evidence_scope"
       ]
