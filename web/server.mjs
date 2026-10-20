@@ -287,6 +287,7 @@ const CARD_PROMPT = `你是《系统汉语》字卡的编辑。只依据下面�
 
 填写要求：
 0. 分级：字卡最前面「分级」一栏由系统按全书结构判好（一级字根＝部名；部内能再滋生新字者为二级、三级字根；其余为谐声字），你不得改动、不得另立级别。填「字根」一栏时先交代该字属于哪一级、由哪个字根衍生，再讲字根义如何进入这个字。
+0b. 声母义：该字所属部的声母拟态义与一致度也由系统附上（「声母义」一栏），你不得改写、不得另拟声母义；讲字根时可以引用它的结论。
 1. 字形：该字在甲骨文、金文里的形体如何象形或构形；条目没讲字形，就填空字符串。
 2. 字根：这个字由哪个字根构成（条目里「从某从某」「从某，某声」说的那个字），并说清字根与这个字的关系——会意还是形声、字根的意义怎么进到这个字里。写成「字根：说明」，例如「士：仕从人从士，士是音源字，本义指雄性，引申为读书人、官员，所以「仕」表任事、学习政事」。若条目分「字根条目」单列，用它们说明字根本身的意义，并分别标注出处。字根必须是另一个字，不能把这个字自己写进去；条目只说它是借音字、没有构形分析的，填空字符串。
 3. 本义：造字之初的意义。
@@ -483,6 +484,47 @@ function familyOf(ch, claims) {
 
 // 判级（释字第一步）：一级字根＝609 部的部首字；部内衍生字按能否再滋生分二级、三级字根，
 // 不能再滋生者为谐声字。声符链最多上溯两层，够覆盖「㠯→台→始」这类结构。
+// ---------- 声母义（分部主题）----------
+// 一部一条，由 pkc 生成到 knowledge/hanzi-yinyuan/02z-shengmu-yi.md，这里直接读该主题文件
+const SM_DOC = join(ROOT, 'knowledge', 'hanzi-yinyuan', '02z-shengmu-yi.md');
+let smCache = { at: 0, byRoot: new Map(), zero: null };
+
+async function shengmuIndex() {
+  if (smCache.byRoot.size && Date.now() - smCache.at < 300_000) return smCache;
+  const byRoot = new Map();
+  let zero = null;
+  try {
+    const text = await readFile(SM_DOC, 'utf8');
+    const re = /<!-- CLAIM:START (clm_[0-9A-F]+) -->\s*\n### (.+?)\n([\s\S]*?)<!-- CLAIM:END/g;
+    for (const m of text.matchAll(re)) {
+      const id = m[1];
+      const title = m[2].trim();
+      const body = m[3].split('#### 适用边界')[0].trim();
+      const hit = title.match(/^(.+?)部：声母义/u);
+      if (hit) byRoot.set(hit[1], { id, text: body });
+      else if (title.startsWith('零声母诸部')) zero = { id, text: body };
+    }
+  } catch (e) {
+    log('读声母义主题失败:', e.message);
+  }
+  smCache = { at: Date.now(), byRoot, zero };
+  return smCache;
+}
+
+async function shengmuOf(root) {
+  if (!root) return null;
+  const idx = await shengmuIndex();
+  const hit = idx.byRoot.get(root);
+  if (hit) return { claim: hit.id, text: hit.text };
+  if (idx.zero && idx.zero.text.includes(`「${root}部」`)) {
+    return {
+      claim: idx.zero.id,
+      text: `${root}部读零声母；绪论七组声母未列零声母，故不系拟态声母义，该部释义靠义类与字形。`,
+    };
+  }
+  return null;
+}
+
 async function levelOf(ch, direct) {
   const z = loadZigenIndex();
   const bu = z.byName && z.byName[ch];
@@ -748,6 +790,10 @@ async function handleCard(emit, res, question, ch, ip) {
           }
         }
       }
+      // 声母义：取所属部的条目（零声母诸部用合并条），紧排在分级之后
+      const rootCh = (lv.chainChars || [])[0] || ch;
+      const sm = await shengmuOf(rootCh);
+      if (sm) sections.splice(1, 0, { key: 'shengmu', label: '声母义', text: sm.text, cites: [sm.claim] });
     }
   } catch (e) {
     log('判级失败:', e.message);
