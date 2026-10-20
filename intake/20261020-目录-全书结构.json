@@ -1,0 +1,1539 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》全书目录与结构 117 条（12 章、100 卷、609 部及附录；卷号统一汉语数字，附录排除文旅策劃書）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "jm-001",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "总览：《系统汉语》十二章、一百卷、六百零九部，正文 p2–1752",
+      "statement": "《系统汉语》全书分十二章、一百卷、六百零九部，正文自 p2 至 p1752。章以音源字命名（士、谷、冓、孕、屰、因、兒、子、大、卝、兄、老），每章辖若干卷，卷亦以音源字命名并辖若干部（部即以该部部首字立目）；每部之下再按声符、形符诸字分条训释。书末另有附录：漢字基本筆劃（p1755）、後記（p1757）、疑難雜字筆劃檢字表（p1765）。",
+      "boundary": "章数、卷数、部数与页码依《系统汉语》目录页；「每部之下再分条」据正文体例概括。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-origin/mulu.md",
+      "topic_title": "全书目录与结构",
+      "topic_summary": "《系统汉语》的全书目录：十二章（章音源字）、一百卷（卷音源字）、六百零九部的编号与页码，以及书末附录与目录校记，是后续各卷录入与部号引用的框架依据。",
+      "topic_keywords": [
+        "目录",
+        "结构",
+        "十二章",
+        "一百卷",
+        "部号",
+        "音源字"
+      ]
+    },
+    {
+      "id": "jm-002",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "部号：1–609 是全书统一的引用编号，可据部号与页码定位",
+      "statement": "《系统汉语》给每部一个全书统一的序号（1–609），正文与各卷注释常用「見 24《射部》」这类写法互指；每部另在目录中注明起始页码。因此「部号 + 部首字」是全书结构的最小定位单位，卷与章只是部的分级容器。",
+      "boundary": "属对全书编号体例的说明；引用写法见卷三正文实例。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-003",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第一章 士：卷一至卷七，第1–47部（p2 起）",
+      "statement": "第一章以「士」为音源字，辖卷一 雞、卷二 㠯、卷三 矢、卷四 弋、卷五 雁、卷六 鶴、卷七 斤，共47部（第1–47部），正文自 p2 起：雞（7部）、㠯（8部）、矢（10部）、弋（8部）、雁（5部）、鶴（5部）、斤（4部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-004",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第二章 谷：卷八至卷十五，第48–87部（p143 起）",
+      "statement": "第二章以「谷」为音源字，辖卷八 虎、卷九 舟、卷十 予、卷十一 竹、卷十二 于、卷十三 合、卷十四 咠、卷十五 車，共40部（第48–87部），正文自 p143 起：虎（5部）、舟（7部）、予（5部）、竹（3部）、于（7部）、合（8部）、咠（4部）、車（1部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-005",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第三章 冓：卷十六至卷二十一，第88–113部（p268 起）",
+      "statement": "第三章以「冓」为音源字，辖卷十六 犬、卷十七 婁、卷十八 鹿、卷十九 彔、卷二十 角、卷二十一 方，共26部（第88–113部），正文自 p268 起：犬（8部）、婁（4部）、鹿（1部）、彔（1部）、角（7部）、方（5部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-006",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第四章 孕：卷二十二至卷三十四，第114–204部（p350 起）",
+      "statement": "第四章以「孕」为音源字，辖卷二十二 雷、卷二十三 鼓、卷二十四 貝、卷二十五 勹、卷二十六 飛、卷二十七 弗、卷二十八 卜、卷二十九 黽、卷三十 弓、卷三十一 尋、卷三十二 今、卷三十三 風、卷三十四 鷹，共91部（第114–204部），正文自 p350 起：雷（6部）、鼓（4部）、貝（16部）、勹（9部）、飛（7部）、弗（8部）、卜（2部）、黽（6部）、弓（3部）、尋（5部）、今（12部）、風（8部）、鷹（5部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-007",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第五章 屰：卷三十五至卷四十六，第205–261部（p599 起）",
+      "statement": "第五章以「屰」为音源字，辖卷三十五 兔、卷三十六 龠、卷三十七 翟、卷三十八 夬、卷三十九 久、卷四十 午、卷四十一 殳、卷四十二 丵、卷四十三 沙、卷四十四 段、卷四十五 隹、卷四十六 陶，共56部（第205–261部），正文自 p599 起：兔（5部）、龠（4部）、翟（2部）、夬（4部）、久（3部）、午（4部）、殳（9部）、丵（3部）、沙（4部）、段（1部）、隹（10部）、陶（7部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-008",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第六章 因：卷四十七至卷五十七，第262–327部（p760 起）",
+      "statement": "第六章以「因」为音源字，辖卷四十七 母、卷四十八 民、卷四十九 門、卷五十 豕、卷五十一 盾、卷五十二 磨、卷五十三 牛、卷五十四 网、卷五十五 巫、卷五十六 燕、卷五十七 烏，共66部（第262–327部），正文自 p760 起：母（8部）、民（8部）、門（3部）、豕（5部）、盾（4部）、磨（5部）、牛（9部）、网（11部）、巫（4部）、燕（5部）、烏（4部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-009",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第七章 兒：卷五十八至卷六十三，第328–382部（p959 起）",
+      "statement": "第七章以「兒」为音源字，辖卷五十八 兒、卷五十九 能、卷六十 𦟀、卷六十一 犀、卷六十二 蛇、卷六十三 索，共55部（第328–382部），正文自 p959 起：兒（14部）、能（4部）、𦟀（7部）、犀（6部）、蛇（12部）、索（12部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-010",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第八章 子：卷六十四至卷六十九，第383–417部（p1106 起）",
+      "statement": "第八章以「子」为音源字，辖卷六十四 絲、卷六十五 鼻、卷六十六 采、卷六十七 足、卷六十八 豸、卷六十九 舄，共35部（第383–417部），正文自 p1106 起：絲（11部）、鼻（5部）、采（8部）、足（5部）、豸（3部）、舄（3部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-011",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第九章 大：卷七十至卷七十三，第418–442部（p1199 起）",
+      "statement": "第九章以「大」为音源字，辖卷七十 亥、卷七十一 聿、卷七十二 馬、卷七十三 釆，共25部（第418–442部），正文自 p1199 起：亥（9部）、聿（4部）、馬（3部）、釆（9部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-012",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第十章 卝：卷七十四至卷八十，第443–494部（p1277 起）",
+      "statement": "第十章以「卝」为音源字，辖卷七十四 雈、卷七十五 叀、卷七十六 又、卷七十七 蛙、卷七十八 夒、卷七十九 彗、卷八十 干，共52部（第443–494部），正文自 p1277 起：雈（7部）、叀（13部）、又（3部）、蛙（10部）、夒（5部）、彗（10部）、干（4部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-013",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第十一章 兄：卷八十一至卷八十九，第495–539部（p1413 起）",
+      "statement": "第十一章以「兄」为音源字，辖卷八十一 釘、卷八十二 工、卷八十三 鼎、卷八十四 心、卷八十五 匚、卷八十六 良、卷八十七 羊、卷八十八 昜、卷八十九 象，共45部（第495–539部），正文自 p1413 起：釘（5部）、工（9部）、鼎（2部）、心（3部）、匚（7部）、良（2部）、羊（2部）、昜（8部）、象（7部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-014",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "第十二章 老：卷九十至卷一百，第540–609部（p1552 起）",
+      "statement": "第十二章以「老」为音源字，辖卷九十 秋、卷九十一 火、卷九十二 辛、卷九十三 廌、卷九十四 七、卷九十五 離、卷九十六 雀、卷九十七 殸、卷九十八 銿、卷九十九 且、卷一百 壽，共70部（第540–609部），正文自 p1552 起：秋（10部）、火（6部）、辛（6部）、廌（5部）、七（11部）、離（4部）、雀（9部）、殸（6部）、銿（2部）、且（3部）、壽（8部）。",
+      "boundary": "章的音源字取章题；所辖卷、部数与页码依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-015",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷一 雞：第1–7部（p2–p20）",
+      "statement": "卷一「雞」（第1–7部，p2 起）：1 只部（p4）、2 奚部（p5）、3 旨部（p7）、4 匃部（p9）、5 欠部（p12）、6 乞部（p17）、7 桀部（p20）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-016",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二 㠯：第8–15部（p21–p49）",
+      "statement": "卷二「㠯」（第8–15部，p21 起）：8 㠯部（p22）、9 士部（p32）、10 示部（p37）、11 帝部（p43）、12 𦣞部（p45）、13 支部（p46）、14 一部（p49）、15 斦部（p49）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-017",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三 矢：第16–25部（p51–p76）",
+      "statement": "卷三「矢」（第16–25部，p51 起）：16 矢部（p53）、17 尸部（p60）、18 朿部（p62）、19 齊部（p64）、20 次部（p66）、21 𠂔部（p68）、22 意部（p69）、23 ㄗ部（p70）、24 射部（p75）、25 睪部（p76）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-018",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四 弋：第26–33部（p79–p92）",
+      "statement": "卷四「弋」（第26–33部，p79 起）：26 弋部（p80）、27 夷部（p86）、28 弟部（p87）、29 弔部（p89）、30 彝部（p90）、31 戠部（p90）、32 戚部（p91）、33 異部（p92）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-019",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五 雁：第34–38部（p94–p112）",
+      "statement": "卷五「雁」（第34–38部，p94 起）：34 丂部（p96）、35 厂部（p102）、36 我部（p108）、37 加部（p111）、38 厄部（p112）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-020",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六 鶴：第39–43部（p114–p128）",
+      "statement": "卷六「鶴」（第39–43部，p114 起）：39 隺部（p117）、40 隻部（p119）、41 戈部（p123）、42 禾部（p126）、43 畫部（p128）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-021",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七 斤：第44–47部（p129–p141）",
+      "statement": "卷七「斤」（第44–47部，p129 起）：44 斤部（p131）、45 石部（p133）、46 乇部（p138）、47 炙部（p141）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-022",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八 虎：第48–52部（p143–p165）",
+      "statement": "卷八「虎」（第48–52部，p143 起）：48 虍部（p146）、49 去部（p157）、50 丘部（p162）、51 六部（p163）、52 業部（p165）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-023",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九 舟：第53–59部（p167–p184）",
+      "statement": "卷九「舟」（第53–59部，p167 起）：53 舟部（p169）、54 余部（p171）、55 魚部（p176）、56 鹵部（p178）、57 禺部（p179）、58 㫃部（p181）、59 攸部（p184）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-024",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十 予：第60–64部（p187–p201）",
+      "statement": "卷十「予」（第60–64部，p187 起）：60 予部（p188）、61 𦥑部（p190）、62 呂部（p196）、63 者部（p197）、64 宁部（p201）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-025",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十一 竹：第65–67部（p204–p214）",
+      "statement": "卷十一「竹」（第65–67部，p204 起）：65 竹部（p206）、66 南部（p209）、67 谷部（p214）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-026",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十二 于：第68–74部（p218–p231）",
+      "statement": "卷十二「于」（第68–74部，p218 起）：68 于部（p221）、69 瓜部（p225）、70 𠌶部（p227）、71 壺部（p229）、72 羽部（p229）、73 雨部（p231）、74 古部（p231）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-027",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十三 合：第75–82部（p238–p254）",
+      "statement": "卷十三「合」（第75–82部，p238 起）：75 合部（p239）、76 夾部（p244）、77 帀部（p246）、78 𦐇部（p248）、79 疌部（p250）、80 燮部（p251）、81 介部（p252）、82 卡部（p254）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-028",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十四 咠：第83–86部（p255–p259）",
+      "statement": "卷十四「咠」（第83–86部，p255 起）：83 咠部（p256）、84 妾部（p257）、85 妻部（p258）、86 及部（p259）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-029",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十五 車：第87–87部（p261–p263）",
+      "statement": "卷十五「車」（第87–87部，p261 起）：87 車部（p263）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-030",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十六 犬：第88–95部（p268–p295）",
+      "statement": "卷十六「犬」（第88–95部，p268 起）：88 犬部（p273）、89 丩部（p275）、90 口部（p282）、91 冓部（p288）、92 曲部（p289）、93 寇部（p293）、94 䀠部（p294）、95 㯥部（p295）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-031",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十七 婁：第96–99部（p298–p304）",
+      "statement": "卷十七「婁」（第96–99部，p298 起）：96 婁部（p299）、97 屚部（p302）、98 叟部（p302）、99 卯部（p304）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-032",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十八 鹿：第100–100部（p310–p313）",
+      "statement": "卷十八「鹿」（第100–100部，p310 起）：100 鹿部（p313）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-033",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷十九 彔：第101–101部（p315–p316）",
+      "statement": "卷十九「彔」（第101–101部，p315 起）：101 彔部（p316）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-034",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十 角：第102–108部（p319–p329）",
+      "statement": "卷二十「角」（第102–108部，p319 起）：102 角部（p320）、103 爻部（p321）、104 𡭴部（p325）、105 交部（p326）、106 黹部（p329）、107 皛部（p329）、108 夭部（p329）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-035",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十一 方：第109–113部（p332–p348）",
+      "statement": "卷二十一「方」（第109–113部，p332 起）：109 方部（p334）、110 皋部（p339）、111 堯部（p342）、112 高部（p345）、113 杲部（p348）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-036",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十二 雷：第114–119部（p350–p365）",
+      "statement": "卷二十二「雷」（第114–119部，p350 起）：114 申部（p353）、115 天部（p354）、116 堇部（p355）、117 龍部（p357）、118 畾部（p360）、119 巾部（p365）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-037",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十三 鼓：第120–123部（p366–p378）",
+      "statement": "卷二十三「鼓」（第120–123部，p366 起）：120 壴部（p368）、121 田部（p370）、122 東部（p373）、123 中部（p378）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-038",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十四 貝：第124–139部（p380–p418）",
+      "statement": "卷二十四「貝」（第124–139部，p380 起）：124 貝部（p382）、125 丰部（p384）、126 本部（p389）、127 𠦪部（p390）、128 賁部（p393）、129 匹部（p395）、130 𢨋部（p397）、131 並部（p398）、132 并部（p399）、133 平部（p401）、134 辰部（p403）、135 身部（p406）、136 臣部（p408）、137 貞部（p414）、138 幵部（p416）、139 㠭部（p418）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-039",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十五 勹：第140–148部（p422–p441）",
+      "statement": "卷二十五「勹」（第140–148部，p422 起）：140 勹部（p423）、141 孚部（p431）、142 包部（p432）、143 表部（p435）、144 𠬪部（p436）、145 阜部（p438）、146 𠬝部（p439）、147 𤰈部（p440）、148 复部（p441）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-040",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十六 飛：第149–155部（p444–p462）",
+      "statement": "卷二十六「飛」（第149–155部，p444 起）：149 北部（p445）、150 不部（p448）、151 皮部（p452）、152 辟部（p454）、153 比部（p457）、154 猋部（p461）、155 驫部（p462）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-041",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十七 弗：第156–163部（p463–p482）",
+      "statement": "卷二十七「弗」（第156–163部，p463 起）：156 弗部（p464）、157 弜部（p466）、158 畐部（p467）、159 巿部（p469）、160 甶部（p470）、161 父部（p479）、162 夫部（p481）、163 巴部（p482）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-042",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十八 卜：第164–165部（p485–p487）",
+      "statement": "卷二十八「卜」（第164–165部，p485 起）：164 卜部（p486）、165 菐部（p487）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-043",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷二十九 黽：第166–171部（p490–p500）",
+      "statement": "卷二十九「黽」（第166–171部，p490 起）：166 黽部（p493）、167 乘部（p495）、168 升部（p495）、169 千部（p496）、170 登部（p498）、171 吅部（p500）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-044",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十 弓：第172–174部（p504–p511）",
+      "statement": "卷三十「弓」（第172–174部，p504 起）：172 弓部（p506）、173 厷部（p510）、174 尹部（p511）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-045",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十一 尋：第175–179部（p516–p526）",
+      "statement": "卷三十一「尋」（第175–179部，p516 起）：175 尋部（p518）、176 壬部（p520）、177 衣部（p524）、178 罙部（p526）、179 覃部（p526）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-046",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十二 今：第180–191部（p529–p562）",
+      "statement": "卷三十二「今」（第180–191部，p529 起）：180 今部（p530）、181 甘部（p542）、182 音部（p545）、183 凵部（p546）、184 函部（p548）、185 戌部（p549）、186 血部（p552）、187 兼部（p553）、188 冊部（p555）、189 炎部（p557）、190 冘部（p560）、191 品部（p562）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-047",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十三 風：第192–199部（p565–p585）",
+      "statement": "卷三十三「風」（第192–199部，p565 起）：192 凡部（p567）、193 乏部（p574）、194 蟲部（p575）、195 賏部（p577）、196 仌部（p580）、197 央部（p581）、198 卬部（p584）、199 邕部（p585）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-048",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十四 鷹：第200–204部（p589–p594）",
+      "statement": "卷三十四「鷹」（第200–204部，p589 起）：200 𨿳部（p591）、201 隼部（p591）、202 頃部（p592）、203 冋部（p593）、204 茍部（p594）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-049",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十五 兔：第205–209部（p599–p610）",
+      "statement": "卷三十五「兔」（第205–209部，p599 起）：205 兔部（p600）、206 鼠部（p603）、207 屰部（p603）、208 突部（p609）、209 土部（p610）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-050",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十六 龠：第210–213部（p615–p621）",
+      "statement": "卷三十六「龠」（第210–213部，p615 起）：210 龠部（p617）、211 戉部（p618）、212 月部（p619）、213 歲部（p621）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-051",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十七 翟：第214–215部（p623–p627）",
+      "statement": "卷三十七「翟」（第214–215部，p623 起）：214 翟部（p625）、215 岳部（p627）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-052",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十八 夬：第216–219部（p628–p637）",
+      "statement": "卷三十八「夬」（第216–219部，p628 起）：216 夬部（p630）、217 出部（p633）、218 解部（p635）、219 穴部（p637）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-053",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷三十九 久：第220–222部（p638–p650）",
+      "statement": "卷三十九「久」（第220–222部，p638 起）：220 勺部（p639）、221 韭部（p649）、222 兆部（p650）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-054",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十 午：第224–227部（p654–p663）",
+      "statement": "卷四十「午」（第224–227部，p654 起）：224 午部（p655）、225 牙部（p656）、226 五部（p659）、227 咢部（p663）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-055",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十一 殳：第228–236部（p666–p683）",
+      "statement": "卷四十一「殳」（第228–236部，p666 起）：228 殳部（p667）、229 朱部（p670）、230 主部（p672）、231 朮部（p675）、232 戍部（p676）、233 蜀部（p677）、234 𧸇部（p680）、235 豖部（p682）、236 逐部（p683）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-056",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十二 丵：第237–239部（p684–p691）",
+      "statement": "卷四十二「丵」（第237–239部，p684 起）：237 丵部（p687）、238 乍部（p688）、239 左部（p691）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-057",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十三 沙：第240–243部（p696–p703）",
+      "statement": "卷四十三「沙」（第240–243部，p696 起）：240 沙部（p697）、241 𧴪部（p700）、242 寽部（p701）、243 頪部（p703）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-058",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十四 段：第244–244部（p704–p706）",
+      "statement": "卷四十四「段」（第244–244部，p704 起）：244 段部（p706）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-059",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十五 隹：第245–254部（p707–p734）",
+      "statement": "卷四十五「隹」（第245–254部，p707 起）：245 隹部（p709）、246 𠂤部（p715）、247 兌部（p719）、248 叕部（p721）、249 坐部（p724）、250 卒部（p725）、251 㒸部（p728）、252 水部（p729）、253 彖部（p731）、254 肙部（p734）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-060",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十六 陶：第255–261部（p738–p757）",
+      "statement": "卷四十六「陶」（第255–261部，p738 起）：255 缶部（p741）、256 舀部（p744）、257 由部（p745）、258 𦣻部（p748）、259 豆部（p753）、260 𠁁部（p755）、261 鬥部（p757）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-061",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十七 母：第262–269部（p760–p778）",
+      "statement": "卷四十七「母」（第262–269部，p760 起）：262 母部（p761）、263 女部（p767）、264 乳部（p771）、265 乃部（p771）、266 𠧟部（p775）、267 某部（p775）、268 黑部（p776）、269 㣎部（p778）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-062",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十八 民：第270–277部（p779–p807）",
+      "statement": "卷四十八「民」（第270–277部，p779 起）：270 民部（p781）、271 昏部（p783）、272 文部（p784）、273 𡖀部（p787）、274 冖部（p788）、275 尨部（p797）、276 丙部（p798）、277 秉部（p807）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-063",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷四十九 門：第278–280部（p808–p819）",
+      "statement": "卷四十九「門」（第278–280部，p808 起）：278 門部（p810）、279 戶部（p814）、280 奻部（p819）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-064",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十 豕：第281–285部（p820–p841）",
+      "statement": "卷五十「豕」（第281–285部，p820 起）：281 豕部（p825）、282 囗部（p825）、283 𣶒部（p837）、284 皿部（p838）、285 會部（p841）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-065",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十一 盾：第286–289部（p844–p851）",
+      "statement": "卷五十一「盾」（第286–289部，p844 起）：286 盾部（p846）、287 豚部（p847）、288 屯部（p847）、289 亯部（p851）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-066",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十二 磨：第290–294部（p857–p870）",
+      "statement": "卷五十二「磨」（第290–294部，p857 起）：290 米部（p859）、291 麻部（p860）、292 眉部（p864）、293 烕部（p870）、294 末部（p870）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-067",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十三 牛：第295–303部（p872–p901）",
+      "statement": "卷五十三「牛」（第295–303部，p872 起）：295 牛部（p875）、296 矛部（p878）、297 毛部（p885）、298 戊部（p887）、299 丑部（p888）、300 苗部（p890）、301 肉部（p892）、302 屮部（p895）、303 覞部（p901）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-068",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十四 网：第304–314部（p902–p929）",
+      "statement": "卷五十四「网」（第304–314部，p902 起）：304 网部（p905）、305 勿部（p909）、306 冃部（p912）、307 木部（p915）、308 㒳部（p916）、309 面部（p919）、310 𡬳部（p920）、311 丏部（p922）、312 兵部（p924）、313 亡部（p925）、314 未部（p929）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-069",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十五 巫：第315–318部（p931–p937）",
+      "statement": "卷五十五「巫」（第315–318部，p931 起）：315 巫部（p933）、316 吳部（p934）、317 舞部（p936）、318 武部（p937）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-070",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十六 燕：第319–323部（p939–p948）",
+      "statement": "卷五十六「燕」（第319–323部，p939 起）：319 燕部（p942）、320 妟部（p942）、321 弇部（p945）、322 奄部（p946）、323 焉部（p948）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-071",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十七 烏：第324–327部（p950–p955）",
+      "statement": "卷五十七「烏」（第324–327部，p950 起）：324 烏部（p951）、325 亞部（p953）、326 夏部（p954）、327 下部（p955）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-072",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十八 兒：第328–341部（p959–p989）",
+      "statement": "卷五十八「兒」（第328–341部，p959 起）：328 兒部（p962）、329 爾部（p964）、330 而部（p967）、331 需部（p968）、332 耎部（p971）、333 耳部（p972）、334 尼部（p975）、335 若部（p978）、336 日部（p979）、337 須部（p982）、338 入部（p983）、339 二部（p986）、340 弱部（p988）、341 惢部（p989）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-073",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷五十九 能：第342–345部（p991–p996）",
+      "statement": "卷五十九「能」（第342–345部，p991 起）：342 能部（p993）、343 人部（p995）、344 刃部（p996）、345 戎部（p996）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-074",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十 𦟀：第346–352部（p998–p1018）",
+      "statement": "卷六十「𦟀」（第346–352部，p998 起）：346 𦟀部（p999）、347 冎部（p1001）、348 果部（p1007）、349 妥部（p1009）、350 夂部（p1011）、351 𩰫部（p1017）、352 委部（p1018）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-075",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十一 犀：第353–358部（p1023–p1038）",
+      "statement": "卷六十一「犀」（第353–358部，p1023 起）：353 犀部（p1023）、354 囟部（p1025）、355 囪部（p1030）、356 山部（p1032）、357 允部（p1033）、358 孔部（p1038）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-076",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十二 蛇：第359–370部（p1039–p1068）",
+      "statement": "卷六十二「蛇」（第359–370部，p1039 起）：359 它部（p1042）、360 也部（p1044）、361 乙部（p1046）、362 舌部（p1050）、363 失部（p1054）、364 益部（p1055）、365 世部（p1057）、366 夕部（p1060）、367 易部（p1063）、368 徹部（p1066）、369 折部（p1066）、370 多部（p1068）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-077",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十三 索：第371–382部（p1074–p1101）",
+      "statement": "卷六十三「索」（第371–382部，p1074 起）：371 索部（p1076）、372 束部（p1077）、373 素部（p1079）、374 㐁部（p1080）、375 丮部（p1082）、376 取部（p1084）、377 芻部（p1089）、378 十部（p1091）、379 㚔部（p1095）、380 劦部（p1098）、381 聶部（p1099）、382 占部（p1101）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-078",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十四 絲：第383–393部（p1106–p1133）",
+      "statement": "卷六十四「絲」（第383–393部，p1106 起）：383 糸部（p1108）、384 系部（p1109）、385 㬎部（p1110）、386 㡭部（p1112）、387 𢆶部（p1113）、388 子部（p1118）、389 己部（p1121）、390 析部（p1123）、391 丌部（p1124）、392 几部（p1131）、393 启部（p1133）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-079",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十五 鼻：第394–398部（p1135–p1144）",
+      "statement": "卷六十五「鼻」（第394–398部，p1135 起）：394 自部（p1137）、395 畀部（p1141）、396 四部（p1142）、397 西部（p1143）、398 皕部（p1144）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-080",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十六 采：第399–406部（p1145–p1159）",
+      "statement": "卷六十六「采」（第399–406部，p1145 起）：399 采部（p1146）、400 才部（p1146）、401 則部（p1151）、402 夨部（p1153）、403 史部（p1154）、404 帶部（p1156）、405 皀部（p1157）、406 畟部（p1159）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-081",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十七 足：第407–411部（p1161–p1182）",
+      "statement": "卷六十七「足」（第407–411部，p1161 起）：407 足部（p1162）、408 步部（p1165）、409 止部（p1170）、410 之部（p1178）、411 㝵部（p1182）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-082",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十八 豸：第412–414部（p1184–p1188）",
+      "statement": "卷六十八「豸」（第412–414部，p1184 起）：412 豸部（p1186）、413 祭部（p1187）、414 杀部（p1188）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-083",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷六十九 舄：第415–417部（p1191–p1196）",
+      "statement": "卷六十九「舄」（第415–417部，p1191 起）：415 舄部（p1192）、416 𡿧部（p1193）、417 宰部（p1196）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-084",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十 亥：第418–426部（p1199–p1218）",
+      "statement": "卷七十「亥」（第418–426部，p1199 起）：418 亥部（p1201）、419 戒部（p1206）、420 革部（p1207）、421 克部（p1209）、422 癹部（p1210）、423 伐部（p1213）、424 鬲部（p1214）、425 秝部（p1216）、426 虤部（p1218）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-085",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十一 聿：第427–430部（p1221–p1230）",
+      "statement": "卷七十一「聿」（第427–430部，p1221 起）：427 聿部（p1222）、428 曰部（p1227）、429 立部（p1227）、430 隶部（p1230）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-086",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十二 馬：第431–433部（p1232–p1243）",
+      "statement": "卷七十二「馬」（第431–433部，p1232 起）：431 馬部（p1236）、432 白部（p1238）、433 大部（p1243）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-087",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十三 釆：第434–442部（p1251–p1275）",
+      "statement": "卷七十三「釆」（第434–442部，p1251 起）：434 釆部（p1252）、435 甹部（p1255）、436 𠬜部（p1256）、437 八部（p1258）、438 辡部（p1270）、439 扁部（p1271）、440 玨部（p1273）、441 豩部（p1274）、442 斌部（p1275）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-088",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十四 雈：第443–449部（p1277–p1290）",
+      "statement": "卷七十四「雈」（第443–449部，p1277 起）：443 卝部（p1280）、444 貫部（p1285）、445 串部（p1286）、446 䜌部（p1286）、447 𤲶部（p1288）、448 侖部（p1288）、449 夗部（p1290）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-089",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十五 叀：第450–462部（p1293–p1332）",
+      "statement": "卷七十五「叀」（第450–462部，p1293 起）：450 叀部（p1295）、451 回部（p1299）、452 全部（p1309）、453 丸部（p1311）、454 元部（p1312）、455 兀部（p1315）、456 泉部（p1317）、457 旋部（p1319）、458 玄部（p1320）、459 員部（p1325）、460 卷部（p1327）、461 川部（p1329）、462 鮮部（p1332）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-090",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十六 又：第463–465部（p1333–p1342）",
+      "statement": "卷七十六「又」（第463–465部，p1333 起）：463 又部（p1334）、464 尤部（p1340）、465 化部（p1342）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-091",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十七 蛙：第466–475部（p1344–p1367）",
+      "statement": "卷七十七「蛙」（第466–475部，p1344 起）：466 眔部（p1347）、467 圭部（p1350）、468 規部（p1356）、469 龜部（p1357）、470 瓦部（p1358）、471 鬼部（p1358）、472 𢌳部（p1361）、473 癸部（p1361）、474 危部（p1363）、475 毳部（p1367）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-092",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十八 夒：第476–480部（p1368–p1379）",
+      "statement": "卷七十八「夒」（第476–480部，p1368 起）：476 夒部（p1372）、477 侯部（p1373）、478 袁部（p1375）、479 爰部（p1378）、480 𥆞部（p1379）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-093",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷七十九 彗：第481–490部（p1380–p1395）",
+      "statement": "卷七十九「彗」（第481–490部，p1380 起）：481 彗部（p1382）、482 帚部（p1385）、483 龖部（p1390）、484 尾部（p1390）、485 毀部（p1391）、486 美部（p1392）、487 威部（p1393）、488 𥝩部（p1394）、489 朵部（p1394）、490 耑部（p1395）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-094",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十 干：第491–494部（p1397–p1407）",
+      "statement": "卷八十「干」（第491–494部，p1397 起）：491 干部（p1400）、492 單部（p1403）、493 善部（p1405）、494 旦部（p1407）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-095",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十一 釘：第495–499部（p1413–p1438）",
+      "statement": "卷八十一「釘」（第495–499部，p1413 起）：495 丁部（p1414）、496 公部（p1426）、497 生部（p1432）、498 爭部（p1436）、499 晶部（p1438）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-096",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十二 工：第500–508部（p1439–p1467）",
+      "statement": "卷八十二「工」（第500–508部，p1439 起）：500 工部（p1440）、501 夅部（p1446）、502 𠬞部（p1448）、503 曾部（p1460）、504 亙部（p1462）、505 从部（p1463）、506 雙部（p1466）、507 祘部（p1467）、508 𠨎部（p1467）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-097",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十三 鼎：第509–510部（p1470–p1475）",
+      "statement": "卷八十三「鼎」（第509–510部，p1470 起）：509 鼎部（p1472）、510 典部（p1475）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-098",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十四 心：第511–513部（p1476–p1481）",
+      "statement": "卷八十四「心」（第511–513部，p1476 起）：511 心部（p1478）、512 囧部（p1479）、513 悤部（p1481）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-099",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十五 匚：第514–520部（p1483–p1499）",
+      "statement": "卷八十五「匚」（第514–520部，p1483 起）：514 匚部（p1484）、515 黃部（p1486）、516 行部（p1490）、517 王部（p1493）、518 兄部（p1496）、519 光部（p1498）、520 章部（p1499）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-100",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十六 良：第521–522部（p1502–p1506）",
+      "statement": "卷八十六「良」（第521–522部，p1502 起）：521 良部（p1504）、522 刅部（p1506）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-101",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十七 羊：第523–524部（p1509–p1515）",
+      "statement": "卷八十七「羊」（第523–524部，p1509 起）：523 羊部（p1512）、524 永部（p1515）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-102",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十八 昜：第525–532部（p1517–p1532）",
+      "statement": "卷八十八「昜」（第525–532部，p1517 起）：525 昜部（p1518）、526 昌部（p1521）、527 向部（p1522）、528 上部（p1527）、529 相部（p1528）、530 爽部（p1529）、531 桑部（p1530）、532 𨛜部（p1532）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-103",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷八十九 象：第533–539部（p1534–p1550）",
+      "statement": "卷八十九「象」（第533–539部，p1534 起）：533 象部（p1537）、534 爿部（p1538）、535 襄部（p1544）、536 囊部（p1546）、537 長部（p1547）、538 畕部（p1548）、539 鬯部（p1550）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-104",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十 秋：第540–549部（p1552–p1578）",
+      "statement": "卷九十「秋」（第540–549部，p1552 起）：540 秋部（p1554）、541 求部（p1556）、542 九部（p1558）、543 玉部（p1565）、544 老部（p1566）、545 休部（p1568）、546 臼部（p1570）、547 酉部（p1571）、548 翏部（p1575）、549 好部（p1578）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-105",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十一 火：第550–555部（p1579–p1598）",
+      "statement": "卷九十一「火」（第550–555部，p1579 起）：550 火部（p1581）、551 亦部（p1588）、552 尞部（p1590）、553 巤部（p1592）、554 部（p1594，部首字原文用符號字，未能轉錄）、555 樂部（p1598）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-106",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十二 辛：第556–561部（p1601–p1611）",
+      "statement": "卷九十二「辛」（第556–561部，p1601 起）：556 辛部（p1602）、557 觲部（p1606）、558 先部（p1607）、559 戔部（p1608）、560 孨部（p1610）、561 乂部（p1611）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-107",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十三 廌：第562–566部（p1614–p1623）",
+      "statement": "卷九十三「廌」（第562–566部，p1614 起）：562 廌部（p1615）、563 臸部（p1616）、564 進部（p1617）、565 兟部（p1617）、566 尖部（p1623）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-108",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十四 七：第567–577部（p1625–p1665）",
+      "statement": "卷九十四「七」（第567–577部，p1625 起）：567 七部（p1629）、568 棘部（p1634）、569 黍部（p1635）、570 丯部（p1638）、571 力部（p1644）、572 歺部（p1648）、573 萬部（p1653）、574 剌部（p1655）、575 𠧪部（p1657）、576 來部（p1660）、577 制部（p1665）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-109",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十五 離：第578–581部（p1667–p1675）",
+      "statement": "卷九十五「離」（第578–581部，p1667 起）：578 𠦒部（p1668）、579 䍜部（p1671）、580 麗部（p1673）、581 豊部（p1675）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-110",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十六 雀：第582–590部（p1676–p1697）",
+      "statement": "卷九十六「雀」（第582–590部，p1676 起）：582 小部（p1678）、583 巢部（p1685）、584 喿部（p1687）、585 爵部（p1689）、586 爪部（p1690）、587 幺部（p1693）、588 杳部（p1696）、589 要部（p1696）、590 淼部（p1697）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-111",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十七 殸：第591–596部（p1698–p1718）",
+      "statement": "卷九十七「殸」（第591–596部，p1698 起）：591 殸部（p1699）、592 冬部（p1700）、593 林部（p1707）、594 彡部（p1711）、595 㦰部（p1717）、596 羴部（p1718）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-112",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十八 銿：第597–598部（p1719–p1728）",
+      "statement": "卷九十八「銿」（第597–598部，p1719 起）：597 用部（p1720）、598 亢部（p1728）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-113",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷九十九 且：第599–601部（p1731–p1739）",
+      "statement": "卷九十九「且」（第599–601部，p1731 起）：599 且部（p1732）、600 巨部（p1736）、601 麤部（p1739）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-114",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "卷一百 壽：第602–609部（p1740–p1752）",
+      "statement": "卷一百「壽」（第602–609部，p1740 起）：602 𠃬部（p1742）、603 周部（p1744）、604 刀部（p1746）、605 鳥部（p1748）、606 寸部（p1749）、607 褭部（p1750）、608 雔部（p1751）、609 祝部（p1752）。",
+      "boundary": "部号、部首字、页码依目录页；本卷尚未录入正文。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-115",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "附录：漢字基本筆劃、後記、疑難雜字筆劃檢字表",
+      "statement": "《系统汉语》正文之后附：漢字基本筆劃（p1755，笔画名称与写法）、後記（p1757，著者自述）、疑難雜字筆劃檢字表（p1765，按笔画检索难字）。目录页另列《系統漢字舘》文旅策劃書（p1762），属宣传策划材料，不属本书知识结构，未收入。",
+      "boundary": "篇目与页码依目录页；各篇内容据篇题概括；策划书按主人意见排除。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-116",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "目录校记：第223部原缺、第353部目录误作「53」、第554部部首字为符号字、卷号转写",
+      "statement": "据《系统汉语》目录页校读：一、部号 222「兆部」之后直接是 224「午部」，第223部原缺（疑为排印脱漏，正文卷四十「午」前应有一部）；二、卷六一「犀」下「犀部」目录印作「53.犀部」，据前后序号当为第353部；三、第554部（p1594，卷九一「火」内）的部首字原书用符号字排印，本次转写未能辨认，暂缺其名；四、目录页卷号作「卷廿一」「卷卅四」「卷卌六」，本库统一写作「卷二十一」「卷三十四」「卷四十六」，字形不同而卷次相同。",
+      "boundary": "校记据目录页字面与序号连续性推得，原书未作说明；第223部与第554部之名待查正文；卷号仅改写法，不改卷次。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "jm-117",
+      "node": "hanzi-origin",
+      "topic_id": "topic-mulu",
+      "title": "已录入卷次对照：卷一至卷三已入库，其余卷待录",
+      "statement": "按本目录，已录入《系统汉语》卷一「雞」（第1–7部）、卷二「㠯」（第8–15部）、卷三「矢」（第16–25部）共 28 部；卷四「弋」（第26–33部）起至卷一百「壽」（第602–609部）尚未录入。各卷录入后，可按本目录的部号与页码接续。",
+      "boundary": "已录卷次以知识库现有 Claim 为准；部号范围依目录页。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
