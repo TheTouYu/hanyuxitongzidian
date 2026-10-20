@@ -14,7 +14,7 @@
 
 ## 硬规则
 
-1. 任何知识变动只走 `pkc knowledge-plan`（`capture` / `add-claim` / `revise-claim` / `move-topic` / `update-topic`）。先 `--preview-only` 预览，再由主人批准精确的 64 位 `content_hash`，才允许 `bundle-approve --apply` 和 `bundle-apply --apply`。
+1. 任何知识变动只走 `pkc knowledge-plan`（`capture` / `add-claim` / `revise-claim` / `move-topic` / `update-topic`）。先 `--preview-only` 预览，再由主人批准精确的 64 位 `content_hash`，才允许 `bundle-approve --apply` 和 `bundle-apply --apply`。Claim 必填 `node`/`topic_id`/`title`/`statement`/`boundary`/`permission`/`fact_classes`；汉字知识 `fact_classes` 固定 `["evidence_scope"]`。
 2. 不要手工编辑 `knowledge/**/*.md` 和 `data/knowledge/*.json`；不要读 `.local/`（含 SQLite）。
 3. 改完必须跑 `pkc rebuild`、`pkc validate`，再做一条代表性 `pkc knowledge-search`。
 4. 对外回答只用 `lifecycle=active` 且 `permission=public` 的 Claim；没有依据就说没有，不要用模型常识兜底。

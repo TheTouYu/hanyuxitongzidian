@@ -7,3 +7,4 @@
 - **对外内容统一 `public`**：网页 / 微信要用的知识放在 `permission=public` 的主题下；内部资料另建 `internal` 主题，不混放。
 - **问答只认 Claim**：回答用户只依据 active + public 的 Claim，没有依据就说没有，不用模型常识兜底。
 - **变动走 `knowledge-plan`**：知识增删改一律通过 `pkc knowledge-plan`，先预览、再批准精确哈希、再应用。
+- **汉字知识用 `fact_classes: ["evidence_scope"]`**：PKC 的 Authority Ref 面向代码契约类事实（设计意图 / 实现 / 文档契约），库里只有 8 个固定 fact class；汉字知识是文献证据型，用 `evidence_scope` 表达「以实际资料为界」，既满足校验，又不必为每条知识伪造 Authority Ref。需要严格出处时改用 `sources/` + `register-source` + `add-evidence`。

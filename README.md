@@ -41,8 +41,17 @@
 **自己动手**：照着 `intake/README.md` 写一份草稿，然后：
 
 ```powershell
-.\tools\pkc.cmd knowledge-plan capture --file intake\你要的文件.json --preview-only
+.\tools\pkc.cmd knowledge-plan capture --file intake\20261020-人字.json --preview-only   # 只预览
+.\tools\pkc.cmd knowledge-plan capture --file intake\20261020-人字.json                  # 定稿，输出哈希
+.\tools\pkc.cmd bundle-inspect bnd_xxxxxxxx --format json
+.\tools\pkc.cmd bundle-approve bnd_xxxxxxxx --content-hash <64 位哈希> --apply
+.\tools\pkc.cmd bundle-apply   bnd_xxxxxxxx --content-hash <64 位哈希> --apply
+.\tools\pkc.cmd validate
 ```
+
+每条 Claim 必填 `node`、`topic_id`、`title`、`statement`、`boundary`、`permission`、`fact_classes`；汉字知识统一 `["evidence_scope"]`。
+
+流程已在副本上跑通（新增 Claim → 批准 → 应用 → 校验通过），本库仍是 0 条知识。
 
 ## 后续对外服务
 

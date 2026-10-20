@@ -19,9 +19,9 @@
 
 ## 3. 录入知识（唯一正规路径）
 
-1. 起草草稿：`intake/xxx.json`（格式见 `intake/README.md`）
+1. 起草草稿：`intake/xxx.json`（格式见 `intake/README.md`）。每条 Claim 必填 `node`、`topic_id`、`title`、`statement`、`boundary`、`permission`、`fact_classes`
 2. 预览（不写任何东西）：`pkc knowledge-plan capture --file intake/xxx.json --preview-only`
-3. 定稿并生成 Bundle：`pkc knowledge-plan capture --file intake/xxx.json`
+3. 定稿：`pkc knowledge-plan capture --file intake/xxx.json`（去掉 `--preview-only` 会自动做 delta 校验并生成 Bundle，输出 `bundle_id` 与 64 位 `content_hash`）
 4. 看 Bundle 内容：`pkc bundle-inspect bnd_xxx --format json`
 5. 主人批准精确哈希：`pkc bundle-approve bnd_xxx --content-hash <64 位哈希> --apply`
 6. 应用同一哈希：`pkc bundle-apply bnd_xxx --content-hash <64 位哈希> --apply`
@@ -29,6 +29,10 @@
 8. 提交：`git add` 精确路径 → `git commit`
 
 修改已有条目用 `knowledge-plan revise-claim`，移动主题用 `move-topic`，不要手改文件。
+
+**汉字知识的 fact_class 约定**：统一用 `evidence_scope`。PKC 的 Authority Ref 是给代码契约类事实用的（设计意图、实现、文档契约），汉字知识是文献证据型，用 `evidence_scope` 表示「以实际资料为界」；这样无需为每条知识伪造 Authority Ref。需要出处时，把原文摘录放进 `sources/` 并 `register-source` + `add-evidence`，走证据面。
+
+**intent 即计划身份**：同一句 intent 重复提交会被当成旧计划（`PLAN_ABANDONED`），失败重试要换一句新的 intent。
 
 ## 4. 禁止
 
