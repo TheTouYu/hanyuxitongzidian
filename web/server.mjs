@@ -206,7 +206,7 @@ function glyphInfo(ch) {
 const HAN_ONE = /\p{Script=Han}/u;
 const isHan = (ch) => !!ch && HAN_ONE.test(ch);
 
-const CARD_TOPICS = /(本义|本義|本意|字源|字形|甲骨文|转义|轉義|引申义|引申|衍生字|衍生|字族|意思|含义)/;
+const CARD_TOPICS = /(本义|本義|本意|字源|字形|甲骨文|转义|轉義|引申义|引申|衍生字|衍生|字族|字根|意思|含义)/;
 
 // 判断问题是不是在「问某一个字」
 function detectChar(question) {
@@ -227,9 +227,9 @@ function detectChar(question) {
   const all = [...plain].filter(isHan);
   if (all.length === 1 && plain.length <= 2) return all[0];
 
-  // 3) X的本义 / X字 / X的转义 …
+  // 3) X的本义 / X字 / X的转义 / X的字根是什么 …
   const m = plain.match(
-    /^[^\p{Script=Han}]{0,4}(\p{Script=Han})(?:字)?(?:的)?(?:本义|本義|本意|字源|字形|甲骨文|转义|轉義|引申义|引申|衍生字|衍生|字族|意思|含义)$/u
+    /^[^\p{Script=Han}]{0,4}(\p{Script=Han})(?:字)?(?:的)?(?:本义|本義|本意|字源|字形|甲骨文|转义|轉義|引申义|引申|衍生字|衍生|字族|字根|意思|含义)(?:是什么|是啥|是哪些|有哪些)?$/u
   );
   if (m) return m[1];
 
@@ -238,6 +238,7 @@ function detectChar(question) {
 
 const CARD_SECTIONS = [
   { key: 'zixing', field: '字形', label: '字形' },
+  { key: 'zigen', field: '字根', label: '字根' },
   { key: 'benyi', field: '本义', label: '本义' },
   { key: 'zhuanyi', field: '转义', label: '转义' },
   { key: 'yansheng', field: '衍生', label: '衍生字义' },
@@ -246,16 +247,17 @@ const CARD_SECTIONS = [
 const CARD_PROMPT = `你是《系统汉语》字卡的编辑。只依据下面给出的知识条目填写字卡，条目以外的内容一个字都不许加。
 
 只输出严格 JSON，不要代码块标记，不要解释：
-{"字形":"…","本义":"…","转义":"…","衍生":"…"}
+{"字形":"…","字根":"…","本义":"…","转义":"…","衍生":"…"}
 
 填写要求：
 1. 字形：该字在甲骨文、金文里的形体如何象形或构形；条目没讲字形，就填空字符串。
-2. 本义：造字之初的意义。
-3. 转义：引申义、假借义。
-4. 衍生：由它分化、加注形旁或用作声符的字，写成「字：意义；字：意义」，最多 6 个字。
-5. 每个非空字段末尾必须带 [clm_XXXXXXXX] 出处（衍生一栏尤其不能漏），id 只能取自条目列表，不得编造，一个字段可以带多个。
-6. 条目里没有依据的字段一律输出空字符串 ""，不要用你自己的常识补。
-7. 简体中文，字形、本义、转义各不超过 120 字，衍生不超过 150 字。`;
+2. 字根：这个字由哪个字根构成（条目里「从某从某」「从某，某声」说的那个字），并说清字根与这个字的关系——会意还是形声、字根的意义怎么进到这个字里。写成「字根：说明」，例如「士：仕从人从士，士是音源字，本义指雄性，引申为读书人、官员，所以「仕」表任事、学习政事」。若条目分「字根条目」单列，用它们说明字根本身的意义，并分别标注出处。字根必须是另一个字，不能把这个字自己写进去；条目只说它是借音字、没有构形分析的，填空字符串。
+3. 本义：造字之初的意义。
+4. 转义：引申义、假借义。
+5. 衍生：由它分化、加注形旁或用它作声符的字，写成「字：意义；字：意义」，最多 6 个字；条目里说「同组」「属……类」的那些字也算，一个都别漏。
+6. 每个非空字段末尾必须带 [clm_XXXXXXXX] 出处（字根、衍生两栏尤其不能漏），id 只能取自条目列表，不得编造，一个字段可以带多个。
+7. 条目里没有依据的字段一律输出空字符串 ""，不要用你自己的常识补。
+8. 简体中文，字形、字根、本义、转义各不超过 130 字，衍生不超过 150 字。`;
 
 function extractJson(text) {
   const s = String(text || '');
@@ -270,7 +272,8 @@ function extractJson(text) {
 }
 
 // 只保留出自条目的引用；没有有效引用的一律判为「无依据」
-function sanitizeSection(raw, allowed) {
+// order 是上下文里的编号表，模型偷懒写 [3] 也能映射回 clm_ id
+function sanitizeSection(raw, allowed, order) {
   let s = String(raw || '')
     .replace(/\r/g, '')
     .trim();
@@ -281,6 +284,12 @@ function sanitizeSection(raw, allowed) {
     if (!allowed.has(up)) return '';
     ids.push(up);
     return `[${up}]`;
+  });
+  s = s.replace(/[[【]\s*(\d{1,2})\s*[\]】]/g, (m, n) => {
+    const id = Array.isArray(order) ? order[Number(n) - 1] : null;
+    if (!id || !allowed.has(id) || ids.includes(id)) return '';
+    ids.push(id);
+    return `[${id}]`;
   });
   s = s
     .replace(/\*\*/g, '')
@@ -304,8 +313,10 @@ function briefOf(claim) {
 }
 
 // 没有模型（或模型失败）时的确定性字卡：按条目原文归类
+// 字根一栏不在这里分桶，由 zigenFallback() 单独拼，避免出现两个「字根」
 function fallbackSections(claims) {
-  const buckets = new Map(CARD_SECTIONS.map((s) => [s.key, []]));
+  const defs = CARD_SECTIONS.filter((d) => d.key !== 'zigen');
+  const buckets = new Map(defs.map((s) => [s.key, []]));
   const other = [];
   for (const c of claims) {
     const hay = `${c.title}\n${c.statement || ''}`;
@@ -315,7 +326,7 @@ function fallbackSections(claims) {
     else other.push(c);
   }
   const used = new Set();
-  const secs = CARD_SECTIONS.map((def) => {
+  const secs = defs.map((def) => {
     const list = buckets.get(def.key);
     if (!list.length) return { key: def.key, label: def.label, missing: true };
     list.forEach((c) => used.add(c.id));
@@ -347,10 +358,95 @@ async function retrieveForChar(ch) {
   return { hits, claims, direct };
 }
 
-async function askModelForCard(ch, question, claims) {
+// 从条目里的「从某从某」「从某，某声」找出这个字的构字成分（候选字根）
+const COMP_RE = /从[「『“"']?([\p{Script=Han}])[」』”"']?/gu;
+const SHENG_RE = /[「『“"']?([\p{Script=Han}])[」』”"']?[声聲]/gu;
+
+function rootsOf(ch, claims) {
+  const out = new Map();
+  const esc = ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  // 「X」…从：要求「从」紧跟在这个字之后，避免把别人的构形算到它头上
+  const lead = new RegExp(`「?${esc}」?[^。；;\\n]{0,14}?从`, 'u');
+  for (const c of claims) {
+    const text = `${c.title}\n${c.statement || ''}`;
+    if (text.includes(`${ch}是音源字`)) continue; // 自己就是音源字，没有更上位的字根
+    if (/不确|不確|析形不确|误|誤/.test(text)) continue; // 条目自己说这种析形靠不住，不采
+    for (const sent of text.split(/[。；;\n]/)) {
+      if (!lead.test(sent)) continue;
+      for (const re of [COMP_RE, SHENG_RE]) {
+        for (const m of sent.matchAll(re)) {
+          const r = m[1];
+          if (r !== ch && !out.has(r)) out.set(r, c);
+        }
+      }
+    }
+  }
+  return out;
+}
+
+// 优先取「知识库里自己有主题（X部）」或「条目自称音源字」的那个成分当字根
+async function findRoot(ch, direct) {
+  const cands = rootsOf(ch, direct);
+  if (!cands.size) return null;
+  const titles = [];
+  try {
+    const tree = await getTree();
+    for (const n of tree.nodes || []) for (const t of n.topics || []) titles.push(String(t.title || ''));
+  } catch {}
+  const list = [...cands.entries()].map(([root, claim]) => {
+    const hay = `${claim.title}\n${claim.statement || ''}`;
+    return {
+      root,
+      claim,
+      byTopic: titles.some((t) => t.includes(root)),
+      byYinyuan: hay.includes('音源字') && hay.includes(`「${root}」`),
+    };
+  });
+  return list.find((x) => x.byTopic) || list.find((x) => x.byYinyuan) || null;
+}
+
+// 字条目 + 字根条目分两组编号，模型才能分清哪句在讲字根
+// 返回上下文与「编号 → 条目 id」的对照，模型只写 [3] 这种编号时也能追回来
+function cardContext(ch, direct, root, rootClaims) {
+  const order = [];
+  const block = (claims) =>
+    claims
+      .map((c) => {
+        order.push(c.id);
+        const body = String(c.statement || '').replace(/\r\n/g, '\n').trim();
+        return `[${order.length}] ${c.id} 《${c.title}》\n节点/主题：${c.node_id} / ${c.topic_id}\n正文：\n${body}`;
+      })
+      .join('\n\n---\n\n');
+  const parts = [`「${ch}」的条目：\n\n${block(direct)}`];
+  if (root && rootClaims.length) {
+    parts.push(`字根「${root}」的条目（用来说明字根本身的意义）：\n\n${block(rootClaims)}`);
+  }
+  return { context: parts.join('\n\n====\n\n'), order };
+}
+
+// 没有模型时，字根一栏只用条目原文拼
+function zigenFallback(info, rootClaims) {
+  const { root, claim } = info;
+  const body = briefOf(claim);
+  if (!body && !rootClaims.length) return null;
+  const lines = [`字根：${root}`];
+  if (body) lines.push(body);
+  for (const c of rootClaims.slice(0, 4)) {
+    const b = briefOf(c);
+    lines.push(`**${c.title}** [${c.id}]` + (b ? `\n${b}` : ''));
+  }
+  return {
+    key: 'zigen',
+    label: '字根',
+    text: lines.join('\n\n'),
+    cites: [claim.id, ...rootClaims.slice(0, 4).map((c) => c.id)],
+  };
+}
+
+async function askModelForCard(ch, question, context) {
   const messages = [
     { role: 'system', content: CARD_PROMPT },
-    { role: 'user', content: `字：${ch}\n用户问题：${question}\n\n知识条目：\n\n${buildContext(claims)}` },
+    { role: 'user', content: `字：${ch}\n用户问题：${question}\n\n知识条目：\n\n${context}` },
   ];
   const r = await fetch(`${BASE_URL}/chat/completions`, {
     method: 'POST',
@@ -398,15 +494,36 @@ async function handleCard(emit, res, question, ch, ip) {
   let mode = 'none';
   let note = '';
 
+  // 字根：从「从人从士」这类条目里找，再把字根自己的条目也取来当证据
+  let rootInfo = null;
+  let rootClaims = [];
+  if (direct.length) {
+    try {
+      rootInfo = await findRoot(ch, direct);
+    } catch (e) {
+      log('字根识别失败:', e.message);
+    }
+    if (rootInfo) {
+      try {
+        const rr = await retrieveForChar(rootInfo.root);
+        rootClaims = rr.direct.filter((c) => !allowed.has(c.id)).slice(0, 6);
+        for (const c of rootClaims) allowed.add(c.id);
+      } catch (e) {
+        log('字根检索失败:', e.message);
+      }
+    }
+  }
+
   if (!direct.length) {
     note = `知识库里还没有「${ch}」的专门条目。字形图取自《系统汉语》原稿，可以先看形体；字义条目还在录入，暂不推断。`;
   } else if (MODE === 'model') {
     try {
-      const obj = await askModelForCard(ch, question, direct);
+      const ctx = cardContext(ch, direct, rootInfo && rootInfo.root, rootClaims);
+      const obj = await askModelForCard(ch, question, ctx.context);
       if (obj) {
         const built = CARD_SECTIONS.map((def) => {
           const raw = obj[def.field] ?? obj[def.label] ?? obj[def.key];
-          const sec = sanitizeSection(raw, allowed);
+          const sec = sanitizeSection(raw, allowed, ctx.order);
           return sec ? { key: def.key, label: def.label, ...sec } : { key: def.key, label: def.label, missing: true };
         });
         if (built.some((s) => !s.missing)) {
@@ -422,6 +539,13 @@ async function handleCard(emit, res, question, ch, ip) {
   if (!sections && direct.length) {
     sections = fallbackSections(direct);
     mode = 'fallback';
+    if (rootInfo) {
+      const zi = zigenFallback(rootInfo, rootClaims);
+      if (zi) {
+        const i = sections.findIndex((s) => s.key === 'zixing');
+        sections.splice(i >= 0 ? i + 1 : 0, 0, zi);
+      }
+    }
   }
   if (!sections) sections = [];
 
@@ -433,8 +557,9 @@ async function handleCard(emit, res, question, ch, ip) {
       mode,
       note,
       glyph: glyph ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files } : null,
+      root: rootInfo ? rootInfo.root : null,
       sections,
-      claims: direct.length,
+      claims: direct.length + rootClaims.length,
     },
   });
   emit({ type: 'done' });
