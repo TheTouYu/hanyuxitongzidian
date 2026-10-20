@@ -1,0 +1,550 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷二 㠯部（含卷首主张，音源字卷第一批·修订）【卷二正式】",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j2a-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "卷首：卷二以「㠯」「士」为音源字，象雄性生殖器形",
+      "statement": "《系统汉语》认为，卷二以「㠯」或「士」为音源字：字形象雄性哺乳动物的生殖器，圆头部分象阴囊，细线部分象阴茎，本义指雄性、父系；其音源于男女交合时的叫喊声（一般为女子的声音），并称「爱」才是其真正的音源——「爱」本从「旡」声，象张口叫唤之形。",
+      "boundary": "属作者音源体系主张，非文字学界共识；「㠯」字形另有多说，见本卷辨证条。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/02a-yi.md",
+      "topic_title": "卷二·㠯部",
+      "topic_summary": "《系统汉语》第二卷的卷首主张，以及㠯、台、厶、矣、氏、氐、巳、了诸部的本义、转义、辨证、音源与字族义项。",
+      "topic_keywords": [
+        "㠯",
+        "以",
+        "音源字",
+        "字族",
+        "生殖崇拜"
+      ]
+    },
+    {
+      "id": "j2a-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "卷首：生殖崇拜与「示」为倒写的「士」",
+      "statement": "《系统汉语》主张，世界各民族因繁殖的需要都有过生殖崇拜：对女性主要是乳房崇拜，对男性崇拜的主要对象则为生殖器；「示」指神灵，其字形即为倒写的「士」，最直观地体现了这一点。",
+      "boundary": "属作者对字形与信仰关系的解读；「示」的甲骨文字形学界另有释为神主、祭台等说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "卷首：氏、氐标志进入父系氏族社会",
+      "statement": "《系统汉语》认为，给「㠯」加上人形的「氏」「氐」说明已进入父系氏族社会，以共同的男性为中心构成部族；「台」所从的「厶」本即「㠯」，说明当时人们已充分认识到「㠯」是繁殖的必须条件，所以「胎」从「台」。",
+      "boundary": "属作者据字形所作的社会史推断，无直接文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "卷首：私从㠯，见性意识觉醒与私有制形成",
+      "statement": "《系统汉语》认为，「私」也从「㠯」，体现了先民性意识的觉醒和私有制社会的形成；并引「食色，性也」说明性欲与食欲的满足是人生的两件根本大事，故与之相关的借音字特别丰富。",
+      "boundary": "所引「食色，性也」通行本作《孟子·告子上》引告子语，原稿系于《论语》；解读属作者主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "卷首：本卷只收「支止𦣞帝斦一」等借音之字",
+      "statement": "《系统汉语》说明本卷的归并方式：只取以「氏」的分支义为借音的「支、止、𦣞」，以「氐」的根柢义为借音的「帝、斦」，以及以「士」的形貌特征为借音的「一」归在一起；含尖刺、挺举等义的字另设卷。",
+      "boundary": "这是作者的分卷体例说明，不涉及字义考订。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "卷首：《汉字通用声素研究》所举两组通假关系",
+      "statement": "据《汉字通用声素研究》所举通假关系，跟「士」音义可通的有革、帝、系、矢、益、史、𠂔、㠯、未、巳、隺、囟、斤、艮、辛、戒、介十七字；跟「㠯、氏、氐」可通用的有帝、止、支、是、此、多、带、旦、单、至、旨、示、斦、彡、尾、辰、斤、之、也、兮、易、异、能、里、来、未、弋、与、予、舍、隶、肆、蛊、有、𦣞、司、辛、巳、牛、士等字。",
+      "boundary": "属转引该书所举例证，非《系统汉语》自创；通假关系不等于同源关系。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "卷首：修订版放弃「章」的义项归类",
+      "statement": "《系统汉语》前版把与「㠯」「士」相关的音源字统一归类成「章」；修订版考虑到字义的复杂性，放弃了这种义项归类，只侧重于揭示音源字与借音字的关系。",
+      "boundary": "属作者编排体例的自我说明。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "㠯部：㠯本义象雄性生殖器形，分化为「厶、氏」",
+      "statement": "《系统汉语》认为「㠯」本义象雄性生殖器形，指雄性、父系，其本义分化为「厶、氏」；《玉篇》「厶，今为私」，汉伶玄《飞燕外传》「早有私病，不近妇人」的「私」即指男性生殖器。",
+      "boundary": "属作者体系主张；「㠯」的造字本义另有薏苡、耜、胎等说，学界无定论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "㠯部：「以」由繁殖条件引申为「用」",
+      "statement": "「以」是繁殖后代所必需的条件，女性通过与其交配而致孕，故引申指「用」：《说文》「用也。从反巳。贾侍中说：巳，意巳实也。象形」，羊止切；又引申指依照、凭借（「物以类聚」）、因为、目的在于、做、完结停止等义。",
+      "boundary": "义项罗列为《说文》《玉篇》《正字通》所载，引申脉络属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "㠯部：同父所生容貌相似，故引申为「似」",
+      "statement": "同一父系所生育的子女往往外貌相似，故「㠯」引申指相似，sì，《集韵》「佀，《说文》：象也。或作似。亦省。古作𠚦」。",
+      "boundary": "相似义为字书所载，其与「同父所生」的联系属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "㠯部：㠯（以）溯源的诸家异说",
+      "statement": "《系统汉语》列举「㠯（以）」溯源的诸说：薏苡说（《说文》引贾侍中）、胎说（田倩君《释以》）、耜说（徐中舒《耒耜考》）、矣说（高田忠周《古籀篇》）、始说（林义光《文源》）；「氏」又有崩崖、根柢、匙、橛、提、㠯氏一字诸说，判以上所解均不确，唯揭示出「㠯、以、氏、氐」四字同源这一事实。",
+      "boundary": "各家之说为学术史材料；「四字同源」为《系统汉语》采信的核心判断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "㠯部：音源为性高潮时的叫声",
+      "statement": "《系统汉语》认为「㠯」的音读 yǐ 应源于性高潮时的叫声；或作 sì，表穿刺、进入的行为义。",
+      "boundary": "属作者音源推测，未提供文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "㠯部：字族按三义项分布",
+      "statement": "「㠯」声字族按三个义项分布：指共㠯（同父或同夫）者如佀（似）、娰（姒）；指致孕、怀胎者如苢（苡）、䬮（饴）、笖、泤（汜）；指可以插、刺之物者如㭒（耜）、鈻（鈶）。",
+      "boundary": "字族归并为作者体例；各字训释见《说文》《玉篇》《集韵》。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "台部：台从口㠯声，象性交时的状态",
+      "statement": "《系统汉语》认为「台」从口㠯声：「口」既可指女阴之口，也可指男阴之口，也可指嘴；「㠯」声象意性交时的状态。",
+      "boundary": "属作者体系主张；「台」的构形学界另有他说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "台部：由性爱引申出怡悦、后嗣、自称、台星",
+      "statement": "由男欢女爱「台」引申指怡悦（《说文》「说也」）、颐养（《方言》「养也，晋卫燕魏曰台」）；射精而疲软，引申指懈怠、失去、脱落（《方言》「失也，宋鲁之间曰台」）；性交而致孕，引申指胎儿、后嗣（《集韵》「嗣古作台」）；又引申作自称「我」（《尔雅·释诂》「台，我也」），并指主管福禄寿的三台星。",
+      "boundary": "各义项见字书韵书；「性交—疲惫—后嗣」的引申链条属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "台部：今「台」的台观义系「臺」字简化",
+      "statement": "今「高台、台阶」之「台」系「臺」的简化：《说文》「观，四方而高者。从至从之，从高省」，与「台」在字形上没有关系，只因为所从「至」与「㠯」音义相通，故古即相混。",
+      "boundary": "「台」「臺」为简化合并关系，这一点为文字学界通说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "台部：字族按四义项分布",
+      "statement": "「台」声字族按四个义项分布：指性交状（进出、抽送、研磨）者如齝、笞、诒、跆、瓵；指性高潮（喜悦、愉快、疲惫）者如骀、怡、咍、怠、殆；指使受孕（胚胎、开始）者如贻、始、胎、饴、炱、鲐；指男根状（物的凸起）者如治、枱、眙、坮。",
+      "boundary": "字族归并为作者体例；单个字的训释见《说文》《广韵》《集韵》。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "厶部：厶与㠯同源，象男性生殖器形",
+      "statement": "《系统汉语》认为「厶」与「㠯」同源，象男性生殖器形；《正字通》引郑樵「厶非自营义；音鸟，男子之势」。",
+      "boundary": "属作者体系主张；《说文》释「厶」为「奸衺也」，与此不同。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "厶部：由隐私引申为私、奸邪、代指「某」",
+      "statement": "性器官是人的隐私，故「厶」引申指个人的、自己的（《广韵》「自营为厶也」）；或引申指奸邪（《玉篇》「奸邪也」）；或由不便直呼而代指，用同「某」（《集韵》「且字也。通作某」）。",
+      "boundary": "义项见《广韵》《玉篇》《集韵》，引申脉络属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "厶部：《说文》析形为「自营」不确",
+      "statement": "《说文》「奸衺也。韩非曰：仓颉作字，自营为厶」大约视字形为闭环状，故以其为「自营」，《系统汉语》判其析形不确。",
+      "boundary": "属作者对《说文》的批评，学界对「厶」构形仍有争议。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "厶部：「私」本禾名，又指男阴",
+      "statement": "「私」从禾厶声，《说文》「禾也。北道名禾主人曰私主人」；《正字通》「又对公而言谓之私」；《左传·襄公十五年》杜预注「小便」、伶玄《飞燕外传》「早有私病」的「私」都指男阴。",
+      "boundary": "「私」指男阴为《系统汉语》的读法，注家另有异说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "矣部：矣从厶从矢，象射精之状",
+      "statement": "《系统汉语》认为「矣」从厶从矢：「厶」指男性生殖器，「矢」指箭，比况交媾（古代岩画中交媾画面旁往往绘有弓箭），象意性交时的射精；本应归《冓》章。",
+      "boundary": "属作者体系主张，非文字学界共识；岩画旁绘弓箭的解释亦属推断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "矣部：射精时的叫喊引申为语气助词",
+      "statement": "射精即达到性高潮，一般会因兴奋而本能地发出叫声，故「矣」多引申作语气助词，表示必然、肯定、命令、完结、疑问、感叹等语气（《玉篇》「已语辞也」）。",
+      "boundary": "语气助词用法为文献所载；其来源解释属作者主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "矣部：《说文》以「矢」为叠加声旁",
+      "statement": "《说文》「语已词也。从矢㠯声」，若为「㠯」声则其意当指射箭，但「矢」实际上是比况义、表声；该字族主要是「矣」声，故《系统汉语》置于此部，并谓「矢」可视为后世叠加的声旁。",
+      "boundary": "属作者对《说文》形声分析的修正，学界未有定论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "矣部：字族按三义项分布",
+      "statement": "「矣」声字族多由性交时的情态引申：指紧挨、推击者如㶼、涘、娭、騃、挨、埃；指滞留、等待者如俟、𥏳、竢；指叫唤、叹息者如誒、唉、欸。",
+      "boundary": "字族归并为作者体例；各字训释见《说文》《玉篇》《集韵》。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氏部：氏即㠯从人，指男性、父系",
+      "statement": "《系统汉语》认为「氏」即「㠯」从人㠯声，没有省去人形而已，指男性、父系；《通志·氏族略序》「三代之前，姓氏分而为二。男子称氏，妇人称姓。氏所以别贵贱」。",
+      "boundary": "「氏」的构形属作者主张；姓氏分合为古代制度史通说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氏部：姓氏来源九类与已婚婦女称氏",
+      "statement": "随氏族社会解体，人皆有姓氏而来源不一，「氏」引申指对人名、官职、国号、民族支系等的敬称（如伏羲氏、夏后氏、保氏）；《风俗通》列姓有九类：氏于号、谥、爵、国、官、字、居、事、职。古代称呼已婚妇女常在其父姓后系「氏」，后又加夫姓，如「赵钱氏」。",
+      "boundary": "制度与称谓为文献所载。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氏部：《说文》释为「巴蜀山名」不确",
+      "statement": "《说文》释「氏」为「巴蜀山名……象形」，本据扬雄《解嘲》「响若氏隤」的引申义立说，《系统汉语》判其所析形、义皆不确。",
+      "boundary": "属作者对《说文》的批评。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氏部：音源同「支」，取分出之意",
+      "statement": "《系统汉语》认为「氏」本㠯声，因有分出之意而义音同「支」：《集韵》「䉻，赤米。或从支」「軝，以朱络毂。或从支」。",
+      "boundary": "属作者音源主张；所引《集韵》异文为文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氏部：字族多表依附",
+      "statement": "「氏」声字族多指姓氏、表示依附：纸（絮一苫，附着竹帘的丝绵渣）、眂（看貌）、䟗（树立）、扺（侧击）、坁（附着而止）、汦（着止）、祇（地神）、舐（以舌取物）、赿（迟，脚着地）。",
+      "boundary": "字族归并为作者体例；各字训释见《说文》《集韵》。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氐部：氐从氏下加一，为氏族之根",
+      "statement": "《系统汉语》认为「氐」从氏下加一，与「至、之」的表意方式类似，指姓氏所及之处，即氏族之根；衍生字「羝」指公羊，甲骨文从「士」，而「士」本雄性生殖器的象形，说明「士、以、氏、氐」所指本同。",
+      "boundary": "属作者体系主张；「羝」甲骨文从「士」是其关键证据，「士」象生殖器则非共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氐部：由根本引申为抵达、终极、低下",
+      "statement": "由男根繁衍后代而成氏族，「氐」引申指根本（《尔雅》「天根，氐也」，孙炎注「角亢下系于氐，若木之有根」，指东方苍龙七宿的第三宿）；又引申指抵达（《说文》「至也。从氏下著一。一，地也」）、终极、止、低下（《正字通》「与低同」）。",
+      "boundary": "「氐」为星宿名与「至也」之训为文献所载；「若木之有根」的取义属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "氐部：字族按两义项分布",
+      "statement": "「氐」声字族按两个义项分布：指根底、低处、留止者如柢、底、低、邸、阺、骶；指抵达、砥砺、抵触者如牴（觝）、抵、诋、呧、坻、厎（砥）、羝、胝。",
+      "boundary": "字族归并为作者体例；各字训释见《说文》《广韵》《集韵》。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "巳部：巳为㠯之倒写，象阴茎疲软下垂",
+      "statement": "《系统汉语》认为「巳」即「㠯」的倒写，象阴茎疲软下垂的样子；《说文》「㠯。从反巳」，甲骨文正反写每相同；或分化为「已」，《正字通》「已，与㠯古共一字。隶作㠯、以」。",
+      "boundary": "属作者体系主张；「巳」「已」古通用为文字学界通说，「象阴茎」则非共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "巳部：引申为结束、后嗣、地支第六位",
+      "statement": "阴茎疲软意味着性交结束，故「巳」引申指结束、停止、废黜（此义为「已」所专）；性交结束意味着女方可能怀孕，故或同「台」引申指胎儿（《玉篇》「嗣也，起也」）；古又借「巳」表示地支第六位，用以纪年、月、日、时，巳时指上午九时至十一时，五行属火，十二生肖属蛇（《论衡·物势》「巳，火也，其禽蛇也」）。",
+      "boundary": "地支用法与生肖相配为文献所载；前两支引申属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "巳部：辨《说文》象形说与「巳」「己」相混",
+      "statement": "《说文》因「巳」生肖属蛇、小篆作宛曲线条形，释为「巳也……象形」，《系统汉语》判其析形不确；又引《说文》释「包」之说，以为「巳、已」本义或象胎儿形；并指出「己」与「已、巳」形近易混，如「妃、起」本从「巳」，而「攺」或作「改」、「圯」与「圮」分从「巳」「己」，须据形音义区分。",
+      "boundary": "「巳」「己」形近易混为文字学常识；「象胎儿形」为可参之说。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "巳部：字族分怀孕挺举与胎儿连接两支",
+      "statement": "「巳」声字族分两支：指怀孕、兴起、挺举者如起、𦚪、戺、攺；指胎儿、连接者如祀、汜、圯、釲、妃。",
+      "boundary": "字族归并为作者体例；祀之「祭无已」、圯之「桥」见《说文》。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "了部：了即已，指男阴",
+      "statement": "《系统汉语》认为「了」即「已」，或写作「𠄏」，指男阴；《通志·六书略》「𠄏，男子阴」。",
+      "boundary": "属作者体系主张；《通志》所载为其文献依据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "了部：引申为完结、明白、悬挂",
+      "statement": "「了」跟「已」义同，引申指完结（《广雅》「讫也」）、决定决断；又引申指聪明、明白（《玉篇》「慧也」）、快（《方言》「快也」），或作句末助词读 le；阴茎悬垂，故引申指悬挂（《玉篇》「挂也」）。",
+      "boundary": "各义项见字书；「悬垂—悬挂」的引申属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "了部：《说文》「从子无臂」析形不确",
+      "statement": "《说文》「尦也。从子无臂。象形」，而「尦」训「行胫相交」，与「无臂」没有意义上的联系，《系统汉语》判其析形不确；「孑孓」皆从「了」下加一笔，本是「了」的分化，为象事字，文献中未见用作所释「无臂」之义。",
+      "boundary": "属作者对《说文》的批评。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2a-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-yi",
+      "title": "了部：借音同「鸟」，字族分三系",
+      "statement": "《系统汉语》认为「了」是借音字，义音同「鸟」，古「鸟」「了」相通（《龙龛》「𦄋，音了。了、𠄏，悬也」）；字族分三系：指阴茎形、表示细长之物者如䑠、𧘈、鰷；表示悬挂、翘起者如釕、𢆳、𥾇、梟；象事含细长、翘起义者如孓、孑、𢩯、𧺐。",
+      "boundary": "字族归并与「鸟」「了」相通属作者主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}

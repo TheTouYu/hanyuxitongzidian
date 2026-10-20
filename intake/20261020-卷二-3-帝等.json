@@ -1,0 +1,445 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷二 帝部以下五部（音源字卷第三批）【卷二正式】",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j2c-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：「帝」象花蒂，是「蒂」的初文",
+      "statement": "《正字通》引《说文》训「蒂」为「瓜当」，徐锴谓「当，底也」；《玉篇》训「蔕」为「草木缀实也」。《系统汉语》认为「帝」象花、瓜果与枝茎相连之处，即「蒂」的初文。",
+      "boundary": "「蒂」的训释可考；「帝」象花蒂、为「蒂」初文之说属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/02c-di.md",
+      "topic_title": "卷二·帝部以下诸部",
+      "topic_summary": "帝、𦣞、支、一、斦五部的字形分析与字族义项，及其与音源字㠯、氐的借音关系。",
+      "topic_keywords": [
+        "帝部",
+        "𦣞部",
+        "支部",
+        "斦部"
+      ]
+    },
+    {
+      "id": "j2c-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：「帝」由花蒂引申为天帝与君王",
+      "statement": "《尔雅》训「帝」为「君」，《字汇》训为「上帝，天之神也」；《庄子·刻意》亦有「其名为同帝」之语。《系统汉语》认为二义都由花蒂为花所依托、瓜熟蒂落的意象引申而来。",
+      "boundary": "字书义训可考；由花蒂到天帝、君王的引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：帝是借音字，义音同「氐」",
+      "statement": "《系统汉语》认为「帝」是借音字：因有根本之义，义音同「氐」，并引张衡《东京赋》「抵璧于谷」及《通训》「抵，叚借为擿」为证。",
+      "boundary": "帝与氐的借音关系属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：《说文》析「帝」为「从丄，朿声」不确",
+      "statement": "《说文》析「帝」为「谛也，王天下之号也，从丄，朿声」。《系统汉语》认为「帝」与「朿」只是字形相近，实非一系，故判定此析形不确。",
+      "boundary": "《系统汉语》判为析形不确；驳「朿声」与主「象花蒂」相承，属作者辨证。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：缔、谛、渧、蒂取花蒂连接包裹之状",
+      "statement": "《系统汉语》将「缔」「谛」「渧」「蒂」归为取花蒂连接、包裹之状的一族：缔为结不解（《说文》），谛为审察（《说文》「审也」），渧为水渗下（《集韵》「一曰滴水」），蒂为草木缀实（《玉篇》）。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：禘、鶙、䱱取天帝审察统辖之义",
+      "statement": "《系统汉语》将「禘」「鶙」「䱱」归为取天帝审察、统辖之义的一族：禘为审谛之祭（《说文》「谛祭也」），鶙即杜鹃（《字汇》「鶗鴂，子规也」），䱱为大鱧（《集韵》）。",
+      "boundary": "「鶙」「䱱」因帝得名的解释属作者推测，未提供文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：「啇」即「啻」，象脱落的蒂",
+      "statement": "《广韵》训「啇」为「本」，《正字通》谓「木根、果蒂、兽蹄，皆曰啇」。《系统汉语》认为「啇」即「啻」，甲骨文从口在帝中，以口指蒂印，象脱落的蒂。",
+      "boundary": "字书训释可考；甲骨文构形与「蒂印」之说属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "帝部：嫡、鏑、敵取相当相对相配之义",
+      "statement": "《系统汉语》将「嫡」「鏑」「敵」归为啇族中表相当、相对、相配的一组：嫡为正室，《增韵》云「一曰嫡，敌也」；鏑为箭头，《释名》云「鏑，敌也，可以御敌也」；敵即仇敌，《尔雅·释诂》训「当也」。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：「𦣞」象形，本义为牙床骨",
+      "statement": "《说文》训「𦣞」为「𩔞也」，象形，为「頤」的初文；《龙龛》训「辅车骨也」，即牙床骨。《系统汉语》认为其字形像牙床，尖锐部分为牙齿。",
+      "boundary": "字形取象（牙床、牙齿）属作者解释；不涉及「頤」的引申义。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：牙床引申出颐养与面颊二义",
+      "statement": "《尔雅》训「頤」为「养也」，即由牙床嚼食引申为吃食、保养；《集韵》又载「頤，曳来切，颔也，关中语」，因牙床所在为面颊而引申指面颊。",
+      "boundary": "只就《尔雅》《集韵》所训立论，不遍考「頤」字的其它引申用法。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：𦣞是借音字，义音同「以」",
+      "statement": "《系统汉语》认为「𦣞」是借音字：因它有育养之义，义音同「以」（㠯），并引《集韵》「姬，众妾总称，或作𡚱、㚶」一条为证。",
+      "boundary": "𦣞与㠯的借音关系属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：頤、㺿、䱌、䇫状如下巴牙床",
+      "statement": "《系统汉语》将「頤」「㺿」「䱌」「䇫」归为状如下巴、牙床的一族：頤为面颊、牙床，㺿为似玉之石（《说文》），䱌即河豚（《正字通》），䇫为取虮的篦子（《说文》「取蟣比也」）。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：宧、姬、𦚟、㺇取育养善辨之义",
+      "statement": "《系统汉语》将「宧」「姬」「𦚟」「㺇」归为取育养、善辨之义的一族：宧为室之东北隅、食所居（《说文》「养也」），姬为众妾总称，𦚟即胰腺（《本草纲目》），㺇为辨狱之官（《玉篇》）。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：「巸」从巳从𦣞，象意食色之事",
+      "statement": "《系统汉语》认为「巸」从巳从𦣞，巳表色、𦣞表食，象意食色之事，故引申出壮大、美好（《方言》「长也」，郭璞注「谓壮大也」；《广韵》「美也」）与喜悦（《集韵》「熙，说乐也」）二义。",
+      "boundary": "构形分析与由食色到壮大、喜悦的引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：《说文》析「巸」为「从𦣞巳声」不确",
+      "statement": "《说文》析「巸」为「广𦣞也，从𦣞巳声」。《系统汉语》认为此析忽略了「巳」的含义，故不确；又「戺」训门槛、门轴（《玉篇》），与「巸」义无关，盖因形近而混。",
+      "boundary": "《系统汉语》判为析形不确；「戺」形近相混之说属作者推断。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "𦣞部：㜯、媐、饎与熙、𠘕分属婚配酒食和喜悦",
+      "statement": "《系统汉语》将「㜯」「媐」「𩜮」归为婚配、酒食一族，将「熙」「𠘕」归为喜悦一族：媐《说文》训「说乐也」，《正字通》谓「与妃通」；𩜮即饎，为酒食；熙《广韵》训「和也、广也、长也」。",
+      "boundary": "字书训释可考；婚配酒食与喜悦两系归类属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：「支」从又持半竹，本义为竹枝",
+      "statement": "《说文》训「支」为「去竹之枝也，从手持半竹」，古文作「𠦙」。《系统汉语》据此认为「支」象以手持半截竹条之形，即掰下的竹枝。",
+      "boundary": "字书训释可考；「掰下的竹枝」是对《说文》的申说，非别解。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：竹枝派生引申出分支、分散与四肢",
+      "statement": "竹枝由主干派生，故「支」引申指分支、分散，《集韵》训「分也」，而有支脉、支派、支出诸语；《正字通》又谓「与肢通，人四体也」，四肢亦犹躯干之分枝。",
+      "boundary": "只就分支、四肢二义立论，不涉及支撑、量词等其它引申。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：竹枝横出引申出支撑、支持、装载",
+      "statement": "竹枝横出，便于鸟兽栖息依凭，故「支」引申指支撑、支持、装载：《玉篇》训「持也、举也、载充也」，《广韵》又训「支持也」。",
+      "boundary": "只就支撑、支持、装载三义立论，不涉及「支吾」「支应」等搪塞之义。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：支是音源字，义音同「氏」",
+      "statement": "《系统汉语》认为「支」是音源字，其音源于竹枝的攀折声；因有支派之义，义音同「氏」，《说文》「翄，翼也，从羽支声，𦐊，翄或从氏」可证。",
+      "boundary": "「支」音源于竹枝攀折声之说属作者推测，未提供文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：枝、芰、翄、歧表分支伸出",
+      "statement": "《系统汉语》将「枝」「芰」「翄」「歧」归为表分支、伸出的一族：枝为木别生条（《说文》），芰为菱（《说文》），翄即翅（《说文》「翼也」），歧为歧路（《玉篇》）。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：庪、頍、豉、𨍺表支撑举起悬挂",
+      "statement": "《系统汉语》将「庪」「頍」「豉」「𨍺」归为表支撑、举起、悬挂的一族：庪为祭山而县挂祭品（《新附》「祭山曰庪县」），頍为举头（《说文》），豉为煮熟之豆庋而发酵，𨍺为车轴伏兔。",
+      "boundary": "字书训释可考；「豉」庋而发酵、𨍺承轴之说属作者解释。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：攲、㩻、𢺵表倾侧不正",
+      "statement": "《系统汉语》将「攲」「㩻」「𢺵」归为表倾侧、不正的一族：攲《说文》训「持去也」，《玉篇》谓「今作不正之㩻」；㩻《说文》训「㩻䧢也」，即崎岖不正；𢺵《说文》训「顷也」。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "支部：支为枝的初文，后世加木旁分化",
+      "statement": "《系统汉语》认为「支」是「枝」的初文：竹枝之义本用「支」，后世加木旁分化出「枝」，《说文》「枝，木别生条也，从木支声」即其分化之体；《正字通》亦谓「枝与支通」。",
+      "boundary": "支为枝的初文、支枝分化属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "一部：「一」象算筹或手指，本义为数字一",
+      "statement": "《广韵》训「一」为「数之始也，物之极也」。《系统汉语》认为其字形像一根算筹或一根手指，本义即数字一，并由数之始引申出起初、全、同、独诸义。",
+      "boundary": "字形取象属作者解释；《说文》「道立于一」的哲学义涵不在本条范围。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "一部：一是借音字，义音同「士」",
+      "statement": "《系统汉语》认为「一」是借音字：伸出一根食指的手势其状如男阴，故义音同「士」，并举《书·武成》「一戎衣」与《康诰》作「殪」、《礼记·中庸》作「壹」等异文为证。",
+      "boundary": "手势取象与「一」音同「士」之说属作者推测，未提供文献证据。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "斦部：「斦」从二斤，为「质」的初文",
+      "statement": "《系统汉语》认为「斦」从斤的二叠，斤指斧头，二叠表示极致，可象斧之锋利，也可象斧之小，后一义实为「质」的初文。",
+      "boundary": "字形分析与「质」的初文之说属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "斦部：斦本为斧形货币，引申指抵押",
+      "statement": "湖南宁乡出土商代小青铜斧二百二十四只，被认为是中国最早的称量货币；《周礼·地官·质人》有「大市曰质，小市曰剂」之文。《系统汉语》据此推断「斦」本为斧形货币，进而指交易中的抵押品。",
+      "boundary": "考古与文献可考；由斧币到抵押品的推断属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "斦部：质由抵押引申出信用、公正与本体",
+      "statement": "《广韵》训「质」为「信也、平也、谨也、正也」，又载「交质」；《玉篇》训「主也、朴也、躯也」。《系统汉语》认为由人质、垫底而有信用、公正、恭谨，由物的价值而有本体、本性、底子。",
+      "boundary": "义训可考；由抵押到信用、本体的引申链属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "斦部：《说文》训「斦」为「二斤也」析形不确",
+      "statement": "《说文》训「斦」为「二斤也，从二斤」，读语斤切。《系统汉语》认为此析形不确，当从斤之二叠取象，象斧之锋利或斧之小，并作「质」的初文。",
+      "boundary": "《系统汉语》判为析形不确；「二叠表极致」之说属作者主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "斦部：质是借音字，义音同「氐」",
+      "statement": "《系统汉语》认为「质」是借音字：因有垫底之义，义音同「氐」，《史记·李斯列传》「手足胼胝」之「胝」，《孟子·滕文公下》章指作「躓」，可为旁证。",
+      "boundary": "质与氐的借音关系属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "斦部：礩、躓、櫍、鑕、懫表抵押垫底阻塞",
+      "statement": "《系统汉语》将「礩」「躓」「櫍」「鑕」「懫」归为表抵押、垫底、阻塞的一族：礩为柱下石（《新附》），躓为绊倒（《说文》「跲也」），櫍为器物之脚（《新附》「柎也」），鑕为腰斩刑具的垫座，懫训「止也、塞也、满也」（《玉篇》）。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2c-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-di",
+      "title": "斦部：𡂒、儨、啠表质朴明智",
+      "statement": "《系统汉语》将「𡂒」「儨」「啠」归为表质朴、明智的一族：𡂒为野人言之（《说文》），儨训「正也」（《篇海》），啠为「哲」的俗字（《龙龛》「啠，俗；哲，正」）。",
+      "boundary": "字书训释可考；诸字同族归类与取象解释属作者体系主张。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}

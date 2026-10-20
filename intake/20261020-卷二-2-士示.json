@@ -1,0 +1,523 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷二 士部与示部（音源字卷第二批）【卷二正式】",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j2b-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "topic_path": "knowledge/hanzi-yinyuan/02b-shi-shi.md",
+      "topic_title": "卷二·士部与示部",
+      "topic_summary": "士部与示部的字形分析、字族义项与音源关系，以及示与神灵、祭祀的关系。",
+      "topic_keywords": [
+        "士部",
+        "示部",
+        "祭祀",
+        "神灵"
+      ],
+      "title": "士部：士的甲骨文象雄性生殖器，本义指雄性",
+      "statement": "「士」的甲骨文象雄性动物腹下的阴茎形，下面一横指腹部，本义指雄性动物与男性；《正字通》称「男子通称」，《字彙》称「未娶亦曰士」。",
+      "boundary": "只就甲骨文字形与男性义立论，不涉及「士」作爵位、阶层的制度义。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：士由男性引申为读书人、官员与士兵",
+      "statement": "「士」由男性义引申指读书人（学士）、做官的人（士大夫）、当兵的人（武士、士卒），又泛指志士、烈士、女士及护士等专业人员；《玉篇》训「事」，《字彙》引《汉志》「学以居位曰士」。",
+      "boundary": "只列主要引申义，不考订「士」在先秦爵制与选官制度中的具体等级。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：《说文》析「士」为从一从十，析形不确",
+      "statement": "《说文》释「士」为「事也，数始于一，终于十，从一从十」，并引孔子「推十合一为士」；《系统汉语》判其析形不确，因西周金文「士」上部已演变为「十」字形。",
+      "boundary": "《系统汉语》判为析形不确；「士」在衍生字中与「土」讹混，是另一层问题。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：士是音源字，与「㠯」同",
+      "statement": "《系统汉语》认为「士」是音源字，注「同㠯」，即「士」声字族与「㠯」声字族音义相通，牡、社、仕等字皆属之。",
+      "boundary": "属作者体系主张，非文字学界共识；「同㠯」的具体对应需逐字核对。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：社最初从士，先有生殖崇拜后有土地神",
+      "statement": "《系统汉语》认为「社」的战国古文与「牡」同步，最初亦当从「士」，先体现生殖崇拜，后演变为土地崇拜；《说文》训「地主也，从示土」，《白虎通》称「封土立社，示有土也」。",
+      "boundary": "「最初从士」与生殖崇拜之说属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：仕、𣁙、𦚙一组表任事与俸禄",
+      "statement": "「仕」《说文》训「学也，从人从士」，指学习政事、见习试用，后指任职做官；同组「𣁙」指仕的官服，「𦚙」（胏）指有骨的干肉，古代或以干肉、粮食作为官员俸禄。",
+      "boundary": "只列这三字与任事、俸禄相关的义项，不涉及「仕」的其它引申。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：里本义为田社，二十五家为一里",
+      "statement": "《系统汉语》认为「里」从田士声，本义指田社，是古代的村落单位；《礼记·祭法》载大夫以下成群立社曰置社，《史记·孔子世家》裴骃注称「二十五家为里，里各立社」；村落间有间隔，故又引申为长度单位。",
+      "boundary": "「从田士声、士即社」属作者体系主张；《说文》另作「从田从土，一曰士声」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：梩、娌、哩属「㠯」声字族",
+      "statement": "《系统汉语》认为「里」本「士」声，音义与「㠯」相通：梩（㭒）即耜一类的农具，《说文》「㭒，臿也，从木㠯声」；娌指成双、妯娌；哩为语余声。",
+      "boundary": "字族归并与「同㠯」之说属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：理、俚、裡、埋、鲤一组表内部底层",
+      "statement": "《系统汉语》认为「理」（治玉、分理）、「俚」（乡野、鄙陋）、「裡」（衣内）、「埋」（藏、瘗）、「鲤」（底层鱼）同属「里」声字族中表内部、底层、鄙陋的一组。",
+      "boundary": "字族归类属作者体系主张；各字本义仍以《说文》《玉篇》所训为准。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：狸本义为山猫，从里得声",
+      "statement": "「狸」即山猫，《说文》训「伏兽，似貙，从豸里声」，《段注》称「即俗所谓野猫」；《正字通》列猫狸、虎狸、九节狸、香狸、牛尾狸等数种。",
+      "boundary": "只记「狸」的本义与诸种名目，不涉及现代生物学分类。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：作者推断狸本音为 mái，源自山猫叫声",
+      "statement": "《系统汉语》推断「狸」的本音应为 mái，源于山猫的叫声；其象形字后来演化为形旁「豸」或「犬」，本音随之迷失。",
+      "boundary": "属作者推测，未提供文献证据，也未作音韵学构拟。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：薶、㦟、霾三字归入「狸」声字族",
+      "statement": "《系统汉语》认为「薶」（埋葬、填塞）、「霾」（大风扬尘，《字彙补》谓与「埋」通）、「㦟」（聪慧）同属「狸」声字族，其中薶、霾多取「埋」义。",
+      "boundary": "只列这三字，不遍考「狸」声字的全部义项。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：野的甲骨文从林从士，本指雄性",
+      "statement": "《系统汉语》认为「野」的甲骨文从林从「士」，与「牡」所从相同，本指雄性，取山林间雄性桀骜不驯之意；「士」后讹作「土」「予」，《集韵》称「野古作埜」。",
+      "boundary": "「从林从士、本指雄性」属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：作者据《周礼》推断「野」本义或指野合",
+      "statement": "《系统汉语》推断古代社林最初是青年男女幽会的场所，故「野」的本义也可说是指野合；所据为《周礼》「仲春之月，令会男女，奔者不禁」。",
+      "boundary": "属作者推测，未提供文献证据；《周礼》原文只记仲春令会男女。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：墅、𤍓、嘢、𧐓、漜一组表郊野",
+      "statement": "《系统汉语》认为「墅」（田、村舍、别馆）、「𤍓」（野火）、「嘢」（方言语气词）、「𧐓」（虫名）、「漜」（泥水貌）同属「野」声字族中表郊野的一组。",
+      "boundary": "字族归类属作者体系主张；「嘢」为方言记音字，不含郊野义。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：色从勹从士，本指男女情欲",
+      "statement": "《系统汉语》认为「色」的甲骨文从「勹」从「士」，「勹」指雌性、「士」指雄性，象意男欢女爱，本指情欲；旧因「刀」「勹」形近，或释为「劅」的初文，指阉割，作者不取。",
+      "boundary": "「从勹从士」属作者体系主张，非文字学界共识；「劅」说亦为一解。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：赩、酡、艳、滟一组表颜色与美色",
+      "statement": "《系统汉语》认为「赩」（大赤）、「酡」（饮酒而面红）、「艳」（色彩鲜明、美女）、「滟」（水光闪动）同属「色」声字族中表颜色、脸色、美色的一组。",
+      "boundary": "字族归类属作者体系主张；「铯」为元素音译字，不在此组。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：𢑓从豕士声，是「家」所从之字",
+      "statement": "《系统汉语》认为「𢑓」从豕士声，象公猪；「士」后讹作「古」而为「豭」，「𢑓」又讹变成「豕」，故今天的「家」字本从「𢑓」，其音义本当作「牡」。",
+      "boundary": "「家本从𢑓」属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "士部：家、嫁、稼、幏、榢一组表成家",
+      "statement": "《系统汉语》认为「家」、「嫁」（女适人）、「稼」（禾之秀实）、「幏」（南郡蛮夷賨布）、「榢」（架）同属「家」声字族中表成家、安家、安置的一组。",
+      "boundary": "字族归类属作者体系主张；各字本义以《说文》《集韵》所训为准。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：示象「士」的倒写，体现生殖崇拜",
+      "statement": "《系统汉语》认为「示」象「士」的倒写之形，与「士」同源；或下加小点表示生殖、繁衍，或上加「一」表示上天，体现原始生殖崇拜；《广韵》以「示」同「祇」，即地祇之神，《系统汉语》视之为主生万物的神灵。",
+      "boundary": "「象士倒写、体现生殖崇拜」属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：示的字形众说纷纭，作者主倒写说",
+      "statement": "「示」本义指神灵，字形所指则众说纷纭：丁山谓祭天杆，明义士谓祭坛之几，马叙伦谓从一十声，唐兰、徐中舒、商承祚谓神主，郭沫若谓雄性生殖器倒置；《系统汉语》不取《说文》从二、三垂之说，而主「示」象「士」倒写。",
+      "boundary": "《系统汉语》判《说文》析形存疑；诸家之说并存，非文字学界定论。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：示是音源字，义音同「氏」",
+      "statement": "《系统汉语》认为「示」是音源字，注「同㠯」；因指神灵而义音同「氏」，《经典释文》「示或作祇」，《周礼·大宰》「祀大神示」释文「示，本又作祇」。",
+      "boundary": "属作者体系主张，非文字学界共识；「同㠯」「同氏」需逐字核对。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：祁、眎、呩、禗、祋一组表神灵与暗事",
+      "statement": "《系统汉语》认为「祁」（盛、大、多）、「眎」（视，察是非）、「呩」（嗜，喜好）、「禗」（神不安欲去）、「祋」（殳，或悬羊皮惊牛马）同属「示」声字族中表神灵、暗地发生的一组。",
+      "boundary": "字族归类属作者体系主张；各字本义以《说文》《集韵》所训为准。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：奈本义为堆柴于示前燎祭",
+      "statement": "《系统汉语》认为「奈」从横木从「示」，示亦声，指堆柴于示前准备燎祭，即「祡」的初文；《集韵》「燔燎祭天也」。",
+      "boundary": "「从横木从示、为祡之初文」属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：奈由堆柴引申为柰树与「忍得住」",
+      "statement": "《系统汉语》认为由堆柴之状，「奈」引申指树枝丛生的柰树，柰是苹果的一种，《广韵》称「柰有青、白、赤三种」；其果味甘酸而能经受，故又引申为忍得住、受得了，此义后专属「奈」。",
+      "boundary": "只列柰树与忍耐两个引申义，不涉及「奈」作语气助词的用法。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：《广雅》以石榴释柰，非其本义",
+      "statement": "《系统汉语》认为「柰」非石榴：《广雅》「楉橊，柰也」，王念孙疏证指「楉橊」为石榴，而石榴汉代才从西域传入，此当为译音，非「柰」的本义。",
+      "boundary": "属作者推断；石榴传入的时代与路径另有专门研究，此不详考。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：𣛒、隶、捺、渿、㮏一组表短而密集",
+      "statement": "《系统汉语》认为「𣛒」（窃视）、「隶」（附箸）、「捺」（手按、摩擦）、「渿」（水波、水声）、「㮏」（柰的俗字，又指枯木、新芽）同属「奈」声字族中表短而密集的一组。",
+      "boundary": "字族归类属作者体系主张；各字本义以《说文》《集韵》所训为准。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：祟的字源本即「柰」，指柴祭",
+      "statement": "《系统汉语》认为「祟」的字源本即「柰」，指柴祭；战国古文因「木」「出」形近，讹「柰」为「祟」，小篆承之，故《说文》「祟，神祸也，从示从出」为析形不确。",
+      "boundary": "《系统汉语》判《说文》析形不确；「字源本即柰」属作者体系主张，非共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：祟是音源字，义音同「叕」",
+      "statement": "《系统汉语》认为「祟」本「示」声，因有依附义而义音同「叕」：《诗·曹风·蜉蝣》「荷戈与祋」，「祋」郑玄注《礼记·乐记》引作「缀」。",
+      "boundary": "属作者体系主张，非文字学界共识；只此一条书证，未遍考通假。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：𠭥、㝮、窜、赘、虿一组表塞义",
+      "statement": "《系统汉语》认为「𠭥」（卜问吉凶、冬赛报祠谢神）、「㝮」（塞、放逐边塞）、「窜」（匿、塞）、「赘」（抵押、疣子）、「虿」（虫名）同属「祟」声字族中多以「𠭥」为声、表塞义的一组。",
+      "boundary": "字族归类属作者体系主张；「虿」与塞义的关联，原文未详。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：款从柰、祟从欠，本指暗里显露",
+      "statement": "《系统汉语》认为「款」从「柰」（祟）从「欠」，「柰、祟」本同，指附属的、暗里的；从「欠」指张开口，象意暗里的事物有所显露；《说文》「意有所欲也」。",
+      "boundary": "「从柰祟从欠」属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：款指标识、条款与诚恳、缓慢",
+      "statement": "「款」指标识、刻写，如落款、款识，《前汉·郊祀志》颜师古注「款，刻也；识，记也」；又指条文、款式，缓慢、空阔，以及内心的诚恳、珍重。",
+      "boundary": "只列款识、条款、诚恳、缓慢等义，不涉及「款」的现代法律义。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：䲌、窾、䥗、㯘、䕀一组表暗中进行",
+      "statement": "《系统汉语》认为「䲌」（鱼触网）、「窾」（空）、「䥗」（灼铁烙印作暗记）、「㯘」（断木、梭声）、「䕀」（款冬）同属「款」声字族中多指暗中进行的一组。",
+      "boundary": "字族归类属作者体系主张；各字本义以《说文》《集韵》所训为准。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：祡本义为烧柴燎祭天神",
+      "statement": "《系统汉语》认为「祡」与「柰、祟、𠭥」一字，都指堆柴于示前燎祭；《说文》「烧祡燔燎以祭天神，从示此声」；战国古文才产生从木的「柴」，《集韵》「祡，通作柴」。",
+      "boundary": "「与柰、祟、𠭥一字」属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：柴指短小薪柴、参差聚集与篱落",
+      "statement": "「柴」《说文》训「小木散材」，指短小的薪柴；又引申指参差、聚集，以及用柴围成的篱笆，《集韵》「篱落也，或作寨、砦」，《正字通》称「柴即寨本字」。",
+      "boundary": "只列薪柴、参差、聚集、篱落四义，不涉及「柴」的姓氏用法。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：偨、㾹、䓱、𡍥一组表干枯短小不齐",
+      "statement": "《系统汉语》认为「偨」（参差不齐）、「㾹」（瘦、疫病）、「䓱」（柴胡）、「𡍥」（寨，藩落）同属「柴」声字族中多指干枯、短小、不齐的一组。",
+      "boundary": "字族归类属作者体系主张；「䓱」为药草名，与干枯义的联系原文未详。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：市的本义是赶赴祭祀场所的庙会",
+      "statement": "《系统汉语》认为「市」的甲骨文从止示声，象意赶往祭祀场所，即赶庙会，「止」或加三点指脚步纷纷；因庙会人多，也是物资交易之地，故引申指集市。",
+      "boundary": "「从止示声、本义为赶庙会」属作者体系主张，非文字学界共识。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：市的「示」旁后讹作「丂」「巾」",
+      "statement": "周以后「市」所从的「示」不断讹变：西周晚期金文讹作「丂」，张世超《金文形义通解》以为从兮止声；战国文字演变成「巾」而为「𣥈」，《集韵》以为「会」的古体。《系统汉语》判《说文》析形不确。",
+      "boundary": "《系统汉语》判为析形不确；「示」讹作「丂」「巾」的具体环节尚存争议。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j2b-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-02-shi",
+      "title": "示部：柿、递、秭、闹一组表市貌热闹",
+      "statement": "《系统汉语》认为「柿」（赤实果，霜后红果挂枝）、「递」（更迭）、「秭」（千亿）、「闹」（不静、猥扰）同属「市」声字族中表热闹、众多的一组。",
+      "boundary": "字族归类属作者体系主张；「柿」与「杮」形近，原文另有辨析。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
