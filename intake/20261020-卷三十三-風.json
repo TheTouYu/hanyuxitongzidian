@@ -1,0 +1,1077 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷三十三 風（192.凡部–199.邕部）",
+  "risk": "medium",
+  "baseline_mode": "committed",
+  "claims": [
+    {
+      "id": "j33-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "卷三十三音源字「凡」象洞口形、音源為風吹過洞口時所發出的聲音",
+      "statement": "本卷音源字为「凡」，象洞口形，指洞穴，是「洞」的初文，《正字通》：「山巖有孔穴者。」洞中气温与外界有温差，洞口总是习习生风，故引申指风，此义分化作「風」，《玉篇》：「风以动万物也。」音源即风吹过洞口时发出的声音。「風」虽也可作音源字，但其或作「凡」声，故本卷以「凡」为音源字。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_title": "卷三十三·風",
+      "topic_summary": "卷三十三「風」（第192–199部，p565–p585）：192 凡部（p567）、193 乏部（p574）、194 蟲部（p575）、195 賏部（p577）、196 仌部（p580）、197 央部（p581）、198 卬部（p584）、199 邕部（p585）。音源字「凡」象洞口形，指风，音源为风吹过洞口时发出的声音；风、乏、虫取凡之音，賏、朋、仌、央、卬、邕则由脖颈饰物、贝串、冰凌、枷颈等义而义音相通。",
+      "topic_path": "knowledge/hanzi-yinyuan/33a-feng.md"
+    },
+    {
+      "id": "j33-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "季風對中國的影響：一年四季的變化最先讓人感覺到的是風向的變化",
+      "statement": "季风对中国的影响是巨大的，一年四季的变化，最先让人感觉到的就是风向的变化：东风知春暖，南风报夏热，西风秋凉到，北风冬雪飘。据胡厚宣《甲骨学商史论丛初集·甲骨文四方风名考证》，商代甲骨卜辞中已有类似四风的记录，并用三羊、三犬、三豚进行祭祀。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "周代「風師」一官與八風、二十四風的細分",
+      "statement": "到了周代，《周礼》记载有「风师」一官，专门负责风的观测和祭祀。在风的观测上已细分到「八风」，《吕氏春秋·有始》：「东北曰炎风，东方曰滔风，东南曰熏风，南方曰巨风，西南曰凄风，西方曰飂风，西北曰厉风，北方曰寒风。」汉代更细分到二十四风，与二十四节气相对应。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "風與生產生活密切相關：風動蟲生、百病所由始，以及風水、風尚、風化、風月、風格、風光",
+      "statement": "之所以对风如此重视，是因为风跟生产、生活密切相关：《说文》说「风动虫生」，《内经》称「风者，百病所由始」。自古以来称择居为「风水」，地方习俗为「风尚」，社会伦理为「风化」，男女私情为「风月」，物质禀性为「风格」，山川形胜为「风光」，说的就是「风生万物」。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "風的本質、箕星主風、呼吸放屁即風，以及洞居故甲骨文以「凡」為風",
+      "statement": "风是空气因物体运动和温差变化而产生的流动形态。先民想象天风来自天上某个星宿的簸扬，所谓「箕星主风」；对身边的风，则以为呼吸、放屁即是风，尤其原始时代所居洞穴内外温差大，时刻感觉到风。因此甲骨文将风写作「凡」（洞穴之形）。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "鸚鵡的分類與分佈",
+      "statement": "鹦鹉属鹦形目鹦鹉科，是一个以体色艳丽、能模仿人语而驰名中外的鸟类类群，种类之间体形差异很大而结构都一样。全世界有 340 多种，分属 6 个亚科、70–80 个属，分布在大洋洲、亚非大陆和中南美大陆，主要栖息在热带区域，只有少数飞到温带地区。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "鸚鵡的形態與食性",
+      "statement": "鹦鹉的喙弯曲有勾，腿较短，脚掌前后有双趾，走路样子很怪而爬树却是行家，喙往往助一臂之力。舌头厚而强健，能巧妙摆弄食物；以食花蜜为主的短尾鹦鹉舌头很长，舌尖像刷子。喙坚硬锋利，能啄破像椰子那样坚硬的食物，食性很杂，多以果实和种子为主，有的还食花、叶芽、根茎、昆虫及蛹。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "鸚鵡的繁殖：一夫一妻、每窩 2–5 卵、晚成鳥",
+      "statement": "大型鹦鹉三至四岁性成熟，小型的一至二岁，大多「一夫一妻」制。每窝产卵 2–5 枚，体形较小的种类有时多达 8–9 枚，卵较小、多为纯白色、椭圆形，孵化期 16–32 天。雏鸟为晚成鸟，刚孵出时两眼紧闭、仅头顶和背部有稀疏绒羽或完全裸露，不能活动和取食，要在亲鸟呵护下 2–3 个月才独立。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "鸚鵡即古代傳說中鳳凰的原型",
+      "statement": "从鹦鹉的特点看，它可能就是古代传说中的凤凰原型：善于模仿各种声音，故被称为百鸟之王；《庄子》说凤凰非梧桐不栖，正与鹦鹉以树洞为巢的栖息方式吻合；鹦鹉的「一夫一妻制」也符合凤凰的秉性，所谓比翼鸟、鸾可能都指鹦鹉；出土文物中凤凰的样子也像鹦鹉，尤其是凤凰的钩形嘴为一般鸟类所无。「鳳」字从「凡」从「鳥」，意即洞中的鸟，所以后来的「風」便写同「鳳」。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "鳳凰的早期文獻：《尚書·益稷》《山海經》《詩經·大雅·卷阿》",
+      "statement": "今日所见关于凤的最早记录，可能是《尚书·益稷》中大禹治水后庆典「萧韶九成，凤皇来仪」。《山海经·南山经》：「有鸟焉，其形如鹤……名曰凤凰……见则天下安宁。」《大荒西经》：「五彩鸟三名，一曰皇鸟，一曰鸾鸟，一曰凤鸟。」《诗经·大雅·卷阿》更详细描绘「凤凰于飞，翙翙其羽」「凤凰鸣矣，于彼高岗；梧桐生矣，于彼朝阳」。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "梧桐何以成為鳳凰栖所：皮可漚繩、老樹兜空心",
+      "statement": "梧桐不过是一种冬季落叶的乔木，凤凰偏选它，是因为古人栽梧桐主要为剥皮沤作绳索，其皮纤维又长又软，最适合作牛绹之类，故梧桐不断遭砍伐。但梧桐生命力长，留有树兜就发新苗，乡间梧桐往往兜部很大而簇生细枝；老树兜年岁太久往往空心，遂成凤凰最理想的栖身之所。鸟类中以树洞为巢的一般只有两类：自己啄洞的啄木鸟和拣现成洞的鹦鹉。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "鳳凰的神化：風神、風姓、舜的化身，以及燕子充當鳳凰的崖居時代",
+      "statement": "鹦鹉被凤凰之名取代后，就像龙一样成了神，不但是众鸟之王，更是万物之母，与阳性的龙相配而为阴性，是风神。《帝王世纪》说「太嗥帝庖牺氏，风姓也」；传说凤凰是舜的化身或与舜歌舞相伴，《法苑珠林》《山海经·大荒南经》均有记载，可见凤凰主要生存于南方，与鹦鹉习性相合。后来燕子似乎也充有了凤凰的身份，这大约是商人由洞居发展到崖居时代的事。因此其音源可能是风声，也可能是鹦鹉的叫声。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "本卷取音關係：賏、朋、仌由頸飾貝串冰凌而義音相通，央、卬為純粹借音",
+      "statement": "由于鹦鹉脖颈上有羽纹如项链，故指项链的「賏」也因此而义音同，「鹦鹉」的「鹦」即从「賏」。「賏」指贝串，跟「朋」同源，跟「贝」一样相碰时也应有声；与「朋」相通的「仌」指冰凌，击而有声，也是如此。只有与脖颈相关义的「央、卬」是纯粹的借音字。",
+      "boundary": "源自《系统汉语》卷三十三「風」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "凡：本義象洞口形，指洞穴，為「洞」之初文",
+      "statement": "凡（凢凣𠁽）象洞口形，指洞穴，《正字通》：「山巖有孔穴者。」即「洞」的初文。北京周口店山顶洞人遗址即此类洞居的实证。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "凡：轉義指風、總括大略、平常",
+      "statement": "洞中气温比外界或暖或凉，温差导致洞口总是习习生风，从而引申指风，此义分化作「風」。「風」无处不在、无孔不入，所以引申指总括、大略，fán，《广韵》：「皆也。」《正字通》：「大概也。」风时常刮起、方向不定，所以为平常，《广韵》：「常也。轻也。」",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "凡：辯證——《說文》「最括也」與「盤之初文」說均不確",
+      "statement": "《说文》依据小篆释为「最括也。从二，二，偶也。从𠄎，𠄎，古文及」，析形不确。或以凡为「盘」字初文，谓象高圈足盘形、般字从之、因与舟形似故般所从之凡渐讹从舟，风本盘旋——此说应非。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "凡：音源為風吹洞口之聲，義音同「東」",
+      "statement": "凡为音源字，源自风吹过洞口时所发出的声音。凡既指洞，洞中空，故义音同「东」，古凡、东可通用：《周礼·大司乐》「以六律、六同、五声、八音、六舞大合乐」，「同」，《汉书·郊祀志下》作「钟」。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "凡字族：多指風吹，表示浮泛、搖動（汎軓梵芃忛訉釩杋𧆉帆）",
+      "statement": "凡字族多指风吹，表示浮泛、摇动：汎（渢泛滼）为浮游不定貌，《玉篇》「今为汎滥字」；軓为车前横木掩蔽车厢的木板即挡风板；梵（檒）为风行木上，《集韵》「或作梵」；芃为草密集分布、随风相附之状，义音同「蓬」；忛为「帆」字之误，疑指心烦；訉为多言；釩为拂、器，又为金属元素 vanadium 的音译；杋疑即桦树，其皮可做船；𧆉为竹名，出南海；帆为船上布篷，「随风张幔曰帆」。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "佩：本義為隨身攜帶的巾帛，轉義指環繞、敬仰、倍增",
+      "statement": "佩（珮姵）初本从人从巾，指随身携带的巾帛，后加「凡」为声，表示随风飘动之意，一般系于腰间用于擦拭，《说文》：「大带佩也……佩必有巾，巾谓之饰。」由披挂之状引申指环绕，《正字通》：「水萦纡谓之佩。」或引申指敬仰，《篇海类编》：「凡心记而服从之曰佩。」佩巾一般系有饰物，故引申指倍增，《释名》：「佩，倍也。言其非一物，有倍贰也。」",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "佩：音源本「凡」聲，因懸掛義而義音同「不」；字族珮、姵",
+      "statement": "佩本「凡」声。因有悬挂义而义音同「不」：《荀子·大略篇》「一佩易之」，杨倞注：「佩，或为倍。」「倍」本「不」声。未形成字族，仅珮为玉佩（《三礼图》详载玉佩形制）、姵为女名。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "般：本義象風一樣使物盤旋，轉義指搬運、大船、起舞、勻齊、斑紋",
+      "statement": "般（𦨗𦨟𦨚）从攴凡声，「攴」指手持棍棒之类工具，「凡」指风，象意如风一样使物盘旋，pán，《集韵》：「还也。通作班。」由盘旋时的转动引申指搬、运；或引申指利用风帆行驶的大船，《玉篇》：「大船也。」或引申指盘旋起舞，《尔雅》：「乐也。」由盘旋之状引申指匀齐、分赐；盘旋时形成圈形纹路，故引申指斑纹、扁圆形。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "般：辯證與字族——盤旋（槃鞶幋褩搫𥈼媻搬䰉磐縏蒰瀊䈲𤠍）與斑紋（瘢𪒀䃑螌）",
+      "statement": "因「凡、舟」形近，西周金文讹作「舟」，故《说文》「辟也。象舟之旋，从舟；从殳，殳，所以旋也」析形不确。字族①盘旋：槃为木做圆盘（或作鎜、盘、柈），鞶为盘绕腰间的皮带，幋为覆衣大巾或头巾，褩为衣表，搫为旋着拨动，𥈼为环视，媻指女子盘腿而坐的不雅坐姿故为「奢」，搬为搬移搬演，䰉为盘起的头发，磐为水滨小丘，縏为小囊，蒰为草盘结，瀊为水洄，䈲为竹名又捕鱼笱，𤠍为尾盘旋之犬；②斑纹：瘢为疤痕，𪒀为颜色斑驳，䃑为石文，螌为斑蝥（身黑、鞘翅黄黑斑纹、关节分泌黄色毒液）。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "歬（前）：本義象如風而行，轉義指前方、先前",
+      "statement": "歬（偂前）从止从凡、凡亦声，「止」指行走，从「凡」象意如风而行，或加「彳」或加「行」，意思相同，qián，《广雅》：「进也。」由行进引申指前方、先前，《正字通》：「后之对也，先也。」",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "歬：辯證——《說文》「止在舟上」不確，洗足說與踴之初文說並存考",
+      "statement": "西周金文讹「凡」为「舟」，小篆承之，故《说文》「不行而进谓之歬。从止在舟上」析形不确。另或以「凡」为高足盘，李孝定《甲骨文字集释》认为「止在盘中乃洗足之意」。但该字形与「用」的甲骨文相同，疑当为「踊」的初文，可楷化为「𨀍」，义指跳跃，存以备参。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "歬字族：多取不行而進義（葥箭翦湔剪揃煎㡐鬋媊擶椾譾瑐糋騚）",
+      "statement": "歬字族多取「不行而进」义：葥为山莓（茎有刺、挂人而随行）、扫帚草（扫地故谓「前」）、车前草（好生路旁）；箭为矢，《释名》：「箭，进也。」；翦为新羽初生或箭羽，俗作剪；湔为河名或用手洗物来回搓动；剪为整齐地剪断；揃即剪，又为择、签识；煎为用火或油干熬、熬时跳动不止；㡐为旗帜；鬋为妇女鬓发下垂或修剪须发；媊为女媊星神；擶为射令正；椾为古文笺字、又同栈；譾为浅薄；瑐为玉名；糋为煎饼；騚为四蹄皆白的踏雪马。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "同：本義从口从凡象洞穴中空，轉義指會合、聚集、共同",
+      "statement": "同（tóng）从口从凡、凡亦声，象意洞穴，本与「凡」同义，只是强调洞的中空而已。先民曾经群居于洞穴，所以引申指会合、聚集、共同，《广韵》：「齐也。共也。辈也。合也。」",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "同：辯證與字族①中空（銅桐侗恫詷哃筒衕眮姛茼秱峒𢏕𢈉䆚垌硐胴戙粡鮦）",
+      "statement": "小篆误「凡」为「𠔼」，故《说文》「合会也。从𠔼，从口」析形不确。字族①指洞穴、表示物的中空：铜为「挖洞而开采出来的金属」（浙江淳安铜山铜矿遗址）、桐为桐梓（指其空心，《陈翥桐谱》列六种）、侗为大貌又童蒙无知、恫为痛或呻吟、詷为共同又说大话、哃为妄语、筒为无底洞箫、衕为通街即胡同、眮为瞋目顾视、姛为脖子直、茼为茼蒿（茎空心）、秱为禾盛、峒为崆峒山深或山穴、𢏕为弓两端象骨装饰、𢈉为洞内回声、䆚为通穴、垌为地窖或田地、硐为中间有孔的石磨、胴为体腔、戙为系缆木桩、粡为粽或粗米、鮦为色黑体圆筒形的柴鱼。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "同字族②：指洞狀，表示通達（洞駧迵挏狪𨀜霘絧㓊）",
+      "statement": "同字族②指洞状，表示通达：洞为迅疾的水流，《集韵》：「通也。」；駧为使马快跑离开；迵为通达；挏为两手抱着往来推引即「捅」；狪为状如豚而有珠的野猪；𨀜为走貌；霘为水浪急；絧为深远、相连或相通；㓊为冷。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "井：本即「凡」，為區別垂直向下的洞而寫成井欄之形；轉義指聚居、深、潔淨",
+      "statement": "「井」本即「凡」，为了区别它是垂直向下的洞，后写成井栏之形，jǐng，《说文》：「八家一井，象构𩏑形……古者伯益作井。」由水井比喻指形状相似的（矿井、天井）或「井」字形（井田）；古人围绕井而居，故引申指聚居之地，《玉篇》：「因井为市也。」由井状引申指深（《广雅》：「深也」）、井水清澈故引申指洁净（《广雅》：「静也」）。良渚文化遗址出土 5300 年前的木构水井。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "井字族：井穴（阱𠭘𨙷）、井水（妌汫）、井形（耕宑）、音譯（肼）",
+      "statement": "井字族①井穴：阱为陷阱，𠭘为坑、穿地捕兽，𨙷为郑地𨙷亭；②井水：妌为女子贞洁，汫为小水貌；③井形：耕为犁田（一曰古者井田，战国古文或不从井、从又持力从田），宑为天井；④音译：肼为有机化合物的一类，用来制药，亦作火箭燃料。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "丹：本義象深井中埋藏的丹砂，轉義指紅色、赤誠",
+      "statement": "丹（𠁿𠂁𠕑）从「凡」或「井」中有一点，象事指深井中埋藏的丹砂。宋《寇宗奭·本草衍义》记丹砂（朱砂）多出蛮峒、锦州界，其井深广数十丈，先聚薪于井焚之，青石壁迸裂处即有小龛，龛中白石床上乃生砂，小者如箭镞，大者如芙蓉，研之鲜红。《说文》：「巴越之赤石也。象采丹井，一象丹形。」由于丹砂色红，故引申指红色，《广雅》：「赤也。」或比喻指赤诚，《正字通》：「又赤心无伪曰丹。」",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "丹：辯證——从「冄（冉）」之字因形近而訛从「丹」",
+      "statement": "一些本从「冄（冉）」的字或可从「丹」：「冉」本指竹子披拂下垂的样子，竹生南方，本引申有色赤之意，故形音义均跟「丹」近；但「丹」没有披拂下垂义。因此此类从「丹」的字本应从「冉」，因形近而讹。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "丹：音源本「凡」聲，因色赤而義音同「蟺」；字族①丹砂紅色（旃彤刐𥙡烿𣲥蚒鴅栴）",
+      "statement": "丹本「凡」声；因丹砂色赤，故义音同「蟺」：《战国策·赵策》「燕必致毡裘狗马之地」，「毡」，《史记·苏秦列传》作「旃」。字族①指丹砂、表示红色：旃为大红、无饰、曲柄的旗帜；彤为用红色涂饰器物；刐为割而见红；𥙡为祭、福；烿为火气、火色赤；𣲥为红色；蚒同彤；鴅为人面鸟喙的𠂄兜（四凶名）；栴为栴檀香木即紫檀。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "丹字族②③④⑤：煉丹（𨈝𩔣）、丹床白色（砃䒟玬）、丹井水深（浵𥫼）、形近之訛（袇𦕃坍𪗤𧿜𣪂𤿔）",
+      "statement": "丹字族②炼丹为丸：𨈝同炉，以身中阴阳既济为炉、修炼内丹；𩔣为额头（江湘之间语）。③丹床白色：砃为白石，䒟为白草，玬为玉名。④丹井水深：浵为汪浵、水深，𥫼为觅鱼具。⑤形近字「冉、幵、凡、用」之讹：袇同袡为衣边，𦕃同聃为大耳垂，坍为水坏岸，𪗤为齿不齐，𧿜同蹑或为趼之讹，𣪂为古班字（般之讹），𤿔同皰为面上生气皰。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "風：本義从虫凡聲，甲骨文或以「凡」或以「鳯」指風",
+      "statement": "「风」字见于战国古文，从虫凡声，《说文》：「八风也……风动虫生，故虫八日而化。从虫凡声。」《广雅》：「风，气也。」但甲骨文时，或以「凡」指风，或以「鳯」指风；「鳯」最初象大鸟形，头上所加「辛」为商代神圣的标志符号（如龙、商、童等字均有），大约即鹦鹉。鹦鹉不会筑巢、栖息于洞穴，故或从「凡」，被当作风神受远古先民崇拜。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "風：轉義指吹、聲音、散開、勸告、癲狂、風俗教化、雌雄相誘、羽毛、眾多",
+      "statement": "由风的吹拂之状引申指吹、声音、散开，《玉篇》：「散也。声也。」或比喻指劝告、讽诵。风来去很快，故比喻指癫狂、中风，《正字通》：「今俗狂疾曰风，别作疯。」我国为大陆季风气候，不同方向的风带来气候变化，风吹来时草木灰尘闻风而动，所以比喻指各地的民俗、习惯、教化；或比喻指兽类雌雄相诱、羽毛、众多。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "風：音源為風吹聲或借凡為聲；字族①直接相關（鳳葻嵐猦堸煈飌渢偑檒楓）",
+      "statement": "风为音源字，源自风吹声，或借凡为声。字族①与风直接相关：凤为神鸟，据《说文》《山海经》《广雅》《范成大·虞衡志》所描述，本象当为鹦鹉——色彩美丽、能模仿百鸟叫声、以洞穴为栖身之所，故「凤」或从「凡」，而之所以赋予神奇色彩可能是根据彩虹想象出来的；葻为草得风貌，岚为山林中的雾气，猦为传说中像猿、遇风即复活的动物，堸为虫窝，煈为焚，飌为古文风字，渢为宛转悠扬的乐歌或风声，偑为地名，檒为风行木上（或作梵），楓为厚叶弱枝善摇的枫树。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "風字族②：比喻象風一樣（颿諷瘋）",
+      "statement": "风字族②比喻象风一样：颿为马疾步，「马快如风」，舟船之颿本用此字、今别作帆；讽为朗读传诵，又为谏、譬喻、讽刺；疯为头病，或指精神错乱、失常、瘫痪。",
+      "boundary": "源自《系统汉语》第192部「凡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "乏：本義象疲勞蹩腳而拖著腳行走，轉義指缺少、射禮避箭的屏風",
+      "statement": "乏（𣥄𠂜𠓟）从丿从止，「丿」指拖曳、跟「乙、𠂆」实为一字，「止」指脚，象意因疲劳、蹩脚而拖着脚行走，表示疲劳、少力之意；农民犁田时招呼牛停下来就称「乏」，如「疲乏」「困乏」。可谓「䟪（fǎn）」的初文。由乏力引申指缺少、没有，《广韵》：「匮也。」或引申指古代射礼时唱靶人用以避箭的屏风（一名容，用皮为之，使所射箭停下来）。",
+      "boundary": "源自《系统汉语》第193部「乏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "乏：辯證「反正為乏」存考；音源為腳步拖曳聲、義音同「凡」",
+      "statement": "由于「乏」缺乏战国之前的字形作参照，而「正」本从「丁」、「丁」或作一短横，因此《说文》「反正为乏」也不无道理：「正」犹「征」，指往前走；「乏」从反止，指往回走、往后退。但古汉字字形的正反在字义上多相同，而「乏」义与「正」却不相同，故存以待考。音源为脚步的拖曳声，或即「丿」声；因如风浮行，故义音同「凡」：《诗·墉风·柏舟》「汎彼柏舟」，汎，《白孔六帖》引作「泛」。",
+      "boundary": "源自《系统汉语》第193部「乏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "乏字族：多指拖曳、浮泛（姂䍇𪀐眨㞏貶窆泛䒦覂疺柉砭）",
+      "statement": "乏字族多指拖曳、浮泛：姂为妇人貌、好貌；䍇为平底缶（段注谓当作「不平缶」，反正为乏）；𪀐（鴔）为戴胜鸟，飞行时两翅扇动缓慢、成一起一伏的波浪式前进，象无力飞翔；眨为困而眨眼；㞏为蹑手蹑脚、脚步很小如拖着一般；贬为减损；窆为将棺材用绳拽着徐徐放入穴中；泛为浮；䒦为草浮水中貌；覂为翻覆；疺为瘦、疲；柉为皮可制绳索的树（疑即桦树）；砭为用石头刺而治病，《广韵》：「石针。」疑本指用砭石刮痧。",
+      "boundary": "源自《系统汉语》第193部「乏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "蟲（䖵）：本義从虫之二疊三疊，象蛇形而小而多，指所有昆蟲",
+      "statement": "蟲（䖵虫䖝）从虫的二叠或三叠，「虫」本象蛇形、指蛇，跟「它」同源；叠体表示数量多或性状的极致。常见虫子一生要经过卵、幼虫、蛹、成虫四个阶段，幼虫阶段许多也跟蛇一样没有腿、为圆长条形，故「䖵」含样子象蛇但小而多之意，从而象意所有昆虫，《说文》：「䖵，虫之总名也……读若昆。」指性状则象意虫的噬物，《集韵》：「虫食物也。亦作蚛。」",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "蟲：轉義指所有動物、天熱、具有某種特點或嗜好的人",
+      "statement": "由于虫类数量极多，有腿的、没腿的、会飞的各式各样，故在古代或引申指所有动物，《说文》：「有足谓之虫，无足谓之豸。」《集韵》引李阳冰：「裸、毛、羽、鳞、介之总称。」虫子喜欢温暖湿润的气候，故或引申指天热；不同的昆虫将卵产在自己喜欢的动植物体内或附近，幼虫孵化后直接以该处动植物为食，故比喻指具有某种特点或嗜好的人，如「懒虫、书虫、网虫」。",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "蟲：音源為借音字，古人誤以為風動而蟲生，故義音同「凡」",
+      "statement": "虫为借音字。由于古人不太清楚成虫产卵在动植物中的这一过程，误以为动植物会因外界风动而虫生，故义音同「凡」：《诗·大雅·云汉》「蕴隆虫虫」，《释文》：「虫，《韩诗》作烔。」「烔」从「同」声，「同」本「凡」声。",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "蟲字族①：指蟲的行為，表示鑽、刺（鉵痋𢥞𢦃𧖂䂈𨹁𤅱𧾶）",
+      "statement": "虫字族①指虫的行为，表示钻、刺：鉵为大犁、锹臿一类工具（取虫子的钻义）；痋为疼痛，即象虫钻一般；𢥞同忡为忧；𢦃为忧、惶遽；𧖂为「𢦃」之讹；䂈为刺矛；𨹁为山名（在云南，出铜）；𤅱为水𤅱、虫名，又指血吸虫病；𧾶为进貌。",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "蟲字族②：指多蟲的季節，表示熱、毒（爞𠘦蠱𧔴𧒨）",
+      "statement": "虫字族②指多虫的季节，表示热、毒：爞为旱气、熏、热；𠘦音冶、义同；蠱为腹中虫也，《通志·六书略》：「造蛊之法，以百虫置皿中，俾相啖食，其存者为蛊。」又为事、毒、惑；𧔴为「虿」之讹，𧒨为毒虫即蝎子。",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "蟲字族③：指樣子象蟲（赨茧）",
+      "statement": "虫字族③指样子象虫：赨为赤色，《广韵》：「赤虫。」或为古文雄字，疑指雄性阴茎色赤而状如虫；茧为草名，疑指地蚕或冬虫夏草，又为草衰、草为虫所伤之意。",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "融（𧖓）：本義象蒸籠熱氣騰騰，轉義指晴熱、和樂、長久、融化",
+      "statement": "融（róng）商代金文从鬳从䖵，「鬳」为「鬲」的一顺一倒形、指蒸笼之类，「䖵」指热，象意蒸笼的热气腾腾，《说文》：「融，炊气上出也。」由热气腾腾之状引申指天气晴热、明朗和乐，《广韵》：「和也。朗也。」天气变暖、白昼变长，或引申指长久；蒸汽升腾遇冷凝结成水流下来，故引申指融化、融合、流通。",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "融：辯證甲骨文从土从蟲說備考；字族曧（明朗）、瀜（融合）",
+      "statement": "或以为融的甲骨文本从土从虫，象很多虫子从土里爬出来，象意惊蛰过后天气回暖、冬眠的虫子纷纷复苏，其义也通；但楷化当作另一形，疑因甲骨文「土」跟「鬲」形近而混为一，录以备考。字族：曧为太阳当顶（明朗），瀜为沖瀜、大水貌，又浺瀜、水深广貌（融合）。",
+      "boundary": "源自《系统汉语》第194部「蟲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "賏：本義从兩貝相連象串聯的貝殼，指頸飾，轉義指環繞、幼兒",
+      "statement": "賏（yīng）商代金文从两贝相连形，象意串联的贝壳。贝串在古代主要有两个作用：一作装饰，《说文》：「賏，颈饰也。从二贝。」《正字通》：「联小贝为颈饰也。亦作璎。」跟现在的项链差不多；一作货币使用，此义分化作「朋」。为了区别，加上了人形，后来演化作「婴」。由颈上戴賏之状引申指环绕、缠绕；賏也用于幼儿的颈饰，故或引申指幼儿、幼弱之物。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "賏：音源為借音字，以幼兒哭聲或鸚鵡叫聲為音；古朋、凡通用",
+      "statement": "賏为借音字：因有幼儿义，故以幼儿的哭声为音；或由于鹦鹉颈上有纹如賏，而借鹦鹉的叫声为音。古朋、凡通用：《书·益稷》「朋淫于家」，「朋」，《后汉书·乐成靖王传》作「风」。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "賏字族①：指貝串，表示項鏈或類似之物狀（瓔蘡譻嚶鸎纓櫻）",
+      "statement": "賏字族①指贝串、表示项链或类似之物状：璎为珠玉串成的项链（璎珞）；蘡为蘡薁即野葡萄（蔓生，苗叶与葡萄相似而小）；譻为小声，即如贝壳相撞声；嘤为鸟鸣，通作譻；鸎（莺）为黄鸟，指其叫声圆润如「譻」；缨为系帽子的带子，《释名》：「缨，颈也，自上而系于颈也。」；樱为樱桃（《吕览》高诱注「以莺所含食，故曰含桃，又名莺桃」，当指樱桃成串如串贝）。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "賏字族②：指頸飾，表示頸環物狀（嬰孾孆鸚𨟙攖蠳瀴罌廮𣤵癭）",
+      "statement": "賏字族②指颈饰、表示颈环物状：婴为用贝壳串成的项链、一般为女子饰物故从「女」，小儿不分男女皆饰之故后称婴儿，《释名》：「人始生曰婴儿。胸前曰婴，抱之婴前，乳养之，故曰婴。」又为加、触、绕、萦绊；孾为孩；孆为女婴；鹦为能言鸟（鹦䳇）；𨟙为地名；撄为结、有所系着、拈、乱、触、迫近；蠳为龟名（呷蛇龟，腹小、中心横折、能自开阖、好食蛇）；瀴为水绝远或大水，又冷，即大水淹没到脖颈；罂为大腹小口的瓶子（指瓶有颈可握持）；廮为安止、廮陶县；𣤵为怒气（怒而颈鼓）；瘿为颈瘤即大脖子病，又指树木外部隆起如瘤之物。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "朋：本義與「賏」同源，象串聯的貝殼，指貝幣單位；轉義指同類、匹配、勾結、群聚",
+      "statement": "「朋」与「賏」本同源，象串联的贝壳形，只不过所显示的贝一为背面（贝）、一为正面（玉）、或为侧面；上古或将小块玉雕琢成贝壳形作为货币使用，因此分化出「玉」字专指玉石，或用骨头雕成贝形、或用青铜铸成贝形，直到秦代这类贝币才停止使用。为方便携带古人将其连成一串，péng，《集韵》：「五贝曰朋。」由朋贝的成串之状引申指同类、匹配、勾结、群聚。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "朋：辯證——《說文》以「朋」為「鳳」不確；鳳凰原型鸚鵡與賏有音義關係",
+      "statement": "由于小篆将「朋」的贝齿状写得跟「凤」中的鸟羽相似，故《说文》将「朋」当作「凤」：「神鸟也……凤飞，群鸟从以万数，故以为朋党字。」所说并不确。不过凤凰的原型可能是鹦鹉，「鹦」本「賏」声，则相互间存在音义上的关系。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "朋字族：多指成串，表示並聯、緊板（倗堋崩繃棚弸輣䣙掤淜稝傰蹦鵬鬅㥊蒯）",
+      "statement": "朋字族多指成串，表示并联、紧板：倗为辅助、可托（通凭）；堋为丧葬下土、射垛、分水灌溉的堤堰；崩为山坏、成片往下落；绷为缠束包扎、婴儿包被、板着、裂开；棚为架上以蔽下者；弸为弓强貌即辅弓的复合弓；輣为兵车、楼车；䣙为地名、古国名；掤为遮蔽箭筒的盖；淜为无舟渡河、水声（通冯）；稝为禾密、禾相比成列；傰为阿党、姓；蹦为两脚并拢跳；鹏为大鹏鸟，亦以为古凤字；鬅为头发披散；㥊为好怒、好嗔；蒯为茅类又姓（「𦳋」之讹，见第88部）。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "豐（丰）：本義象用瓔珞裝飾繁盛的建鼓，轉義指大、盛、多",
+      "statement": "豐（丰𣍈𤲊𧯮）甲骨文从壴从朋（玨），「壴」指建鼓，「朋」指贝串或玉串、在此作没连线的「玨」，象意用璎珞等装饰繁盛的建鼓；「朋」或作「林」，表示很多。《隋书·音乐志》载建鼓自夏后氏加足（足鼓）、殷人柱贯之（楹鼓）、周人悬之（悬鼓），近代植而贯之，疑即「鼖」（大鼓）。由装饰繁盛之状引申指大、盛、多，《广韵》：「大也。多也。茂也。盛也。」",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "豐：辯證——《說文》从豆不確、豐侯為鼓手；字族寷麷酆㒥蘴",
+      "statement": "由于「壴、豆」相近，小篆讹从「豆」，故《说文》「豆之丰满者也。从豆，象形」析形不确；所引《乡饮酒》中的「丰侯」，大抵是负责击鼓的鼓手。「丰」既可从「林」也应可从「卉」，则即「鼖」字（大鼓，八尺而两面，以鼓军事）。字族：寷为大屋，麷为煮麦（取麦粒膨大之意），酆为周文王所都（今陕西户县东），㒥为仙人偓㒥，蘴为芜菁苗（亦作葑）。",
+      "boundary": "源自《系统汉语》第195部「賏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "仌（冰）：本義象冰凌二疊，指冬季冰封，轉義指凝結、冰冷",
+      "statement": "仌（冫）甲骨文为「＾」的二叠，「＾」即「冬」，象冰凌形；二叠表示极致，象意冬季冰封的样子，《说文》：「仌，冻也。象水凝之形。」由于「仌」比较简单且跟「吕」形近，为了区别，甲骨文或从水丁声，象意冰如钉子一般坚硬并将物冻结在一起；战国古文演变成从水从吕，象意水如金属溶液一般冷却成硬块；小篆则从水仌声。由冰为水凝结引申指液体的凝结，或引申指冰状的物体；由冰的温度低比喻指冷。",
+      "boundary": "源自《系统汉语》第196部「仌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "仌：音源為冰凌敲擊聲，因成串而義音同「朋」；字族𦚝栤砯𨋲",
+      "statement": "仌为音源字，源自冰凌敲击声；因冰凌的成串，而义音同「朋」：《战国策·韩策》「王不如资韩朋」，「韩朋」，《史记·田敬仲完世家》作「韩冯」，《战国纵横家书》作「韩傰」。字族：𦚝为腹胀貌（腹部发硬如水面结冰）；栤为劈树声；砯为水击山岩声（或作砰）；𨋲为车声。",
+      "boundary": "源自《系统汉语》第196部「仌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "馮：本義象馬行如溜冰般迅速，轉義指盛大、憤怒、登載、欺淩、憑藉",
+      "statement": "馮（冯 píng）从马仌声，或象意骑马行走如溜冰一般快，表示马行的迅速；或可象意马在冰上行走——冰面很滑，需用布之类包住马蹄才行，故《易·泰卦》「包荒用冯河」、《尔雅》「冯河，徒涉也」应是冰封河道、用草包住脚就能平稳走过去。由马飞奔引申指盛大、愤怒；由骑乘引申指登、载、欺凌、凭藉。",
+      "boundary": "源自《系统汉语》第196部「仌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "馮：辯證——春秋金文疑本从仌从文从止，象冰凌流動即淩汛；字族憑𣰜𥂳𦡻𦿅𧂋𪅯𥖬𨆱𨝭",
+      "statement": "从春秋金文来看，疑本不从「马」，因为「马」没有这种写法。从字形看疑本从仌从文从止：「文」指纹路，「止」指行走，象意冰凌的流动即凌汛，俗称「冰排」，一般出现于北方冬季河道开始结冰和春季解冻之时，冰下有水流带动冰块向下游运动，河堤狭窄时冰层不断堆积，容易造成堤防溃决、洪水泛滥成灾，故引申指盛、大、怒、满诸义；因与「马」字形相近，战国古文讹从「马」。字族：凭为投托、依、厚、满、懑、怒；𣰜为犬毛；𥂳同荡为涤器；𦡻为肿满貌；𦿅为草盛貌；𧂋为草木盛；𪅯为鸿（大曰鸿，小曰雁）；𥖬为石声；𨆱为蹋地声；𨝭为姬姓之国。",
+      "boundary": "源自《系统汉语》第196部「仌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "央：本義象人脖頸被枷或被系，為「鞅」之初文；轉義指中間、鄉社、持久、災禍",
+      "statement": "央（yāng）甲骨文从人脖上有凵，象人脖颈被枷或被系之形，为「鞅」的初文，《说文》：「颈靼也。」由脖颈被系之状引申指中间（《说文》：「中央也。从大在冂之内」），或引申指乡社的中心、持久；脖颈被枷意味着被拘押囚禁，故引申指灾祸（分化作「殃」）；脖颈被系或是装饰用的项链之类，此义分化如「紻」（缨卷，即系在脖子上的帽带），或引申指鲜明美丽。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "央：音源為借音字，義音同「賏」；項上纏繩如牽羊故央、羊可通",
+      "statement": "央为借音字，义音同「賏」：《尔雅·释器》「盎谓之缶」，《左传·襄公九年》「具绠缶」孔颖达疏引《说文》「缶，瓦器，所以盛酒浆」亦谓之罂。「賏」本指项链，故「央」也是指项上缠绳。项上缠绳如牵羊，故「央、羊」可通：《书·伊训》「降之百殃」，「殃」，《墨子·非乐上》作「𦍙」。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "央字族①：指頸上纏物狀，表示頸飾、幼弱（鞅鴦紻抰盎姎秧䇦㹧）",
+      "statement": "央字族①指颈上缠物状，表示颈饰、幼弱：鞅为套在牛马颈上的柔软皮革，《释名》：「鞅，婴也。喉下称婴，言缨络之也。」；鸯为鸳鸯，雄鸟项间有纹如央，得名当因此；紻为系帽的带子变曲而环绕；抰为用车上套马脖的皮子抽打，疑本指拘系其颈并抽打；盎为大约有盖的泡菜坛子、大腹小口、颈部有边可盛水或封蜡用于密封，又为充盈、酒名；姎为女人自称（古女子多系项链）；秧为禾苗叶多的样子，又为插秧、泛指需移栽的嫩苗（取「婴」义）；䇦为竹名或笋；㹧为貉属。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "央字族②：指脖頸被枷狀，表示遮蓋、卡住、上舉（泱坱映醠軮怏炴𧵌雵䬬咉殃詇岟㿮眏柍佒胦駚）",
+      "statement": "央字族②指脖颈被枷状，表示遮盖、卡住、上举：泱为云气起貌、水深广、弘大声；坱为尘埃广大的样子；映为物为光所照而产生阴影，故指明或隐没；醠为浊酒即多浮糟；軮为軮轧声、远相映、漫无边际；怏为因心不服而怨恨，又勉强、自大；炴为火光、气貌；𧵌为无赀量即无极限、无财；雵为白云貌；䬬为饱貌、满、饫（食满及喉）；咉为喉部出声、悲；殃为灾祸；詇为早知道而隐瞒未说出、问、求告；岟为山足、山形、深邃；㿮为面色青黑（似脖子被卡之状）；眏为目不明、恨视、目光深邃；柍为梅、屋中央、连架（打谷脱粒的农具）；佒为驼背、偃佒不能俯、乐；胦为脖胦即肚脐（在人体的中央）；駚为兽跳踏自扑、马貌。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "英：本義指雄花（从艸从用从大），轉義指美好、特出、幼苗",
+      "statement": "英（yīng）春秋金文从艸从用从大，「用」本指蛹、在此实为花瓣象形，「大」或作「天」、在此实为花蕊象形；花蕊呈丝状伸出的一般为不结果的雄性花，故本义当指雄花，《广韵》：「华也。荣而不实曰英也。」由雄花的美引申指美好、特出，《广雅》：「美也。」由花而不实引申指幼苗，《集韵》：「稻初生未移者。」同「秧」。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "英：辯證——小篆从「央」不確，然央英音義本有聯繫；音源為借音字",
+      "statement": "由于下面的字形跟「央」相近，小篆演变从「央」，故《说文》「艸荣而不实者……从艸，央声」析形不确。但「央」本也有鲜明、美丽之意，且「央」指戴项链也有「婴」义、指幼弱，因此「央」与「英」也存在音义上的联系，为辨析特置于《央部》。英为借音字，因「英」华而不实、有「秧」义，而义音同「央」。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "英字族①：指雄花狀，表示鮮明、美麗（瑛媖韺渶㲟偀朠煐碤㡕㢍䁐䊔䚆䣐䦫䭊𡾗𧯀）",
+      "statement": "英字族①指雄花状，表示鲜明、美丽：瑛为玉的光彩（水精谓之玉瑛）；媖为女人美称；韺为帝喾乐名「六韺」；渶为水名；㲟为毛车、毛；偀为俗英字；朠为月色；煐为火色、人名；碤为水中石、石有文采者（雨花石）；㡕同央，鲜明貌（「旂旐央央」）；㢍为长廊；䁐为深目、视；䊔为精米；䚆为视貌；䣐为地名；䦫为门中；䭊为饵、饱；𡾗为山神名用字；𧯀为谷名。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "英字族②③：無子幼弱（霙𩘑𠝟蝧鶧𦔃𨍞）與形近「央」之混（𥠚暎楧鍈𥍼𩹅𤸡）",
+      "statement": "英字族②指雄花的不结果，表示无子、幼弱：霙为雨雪杂下、霰，即没能形成雪花就落下；𩘑为高风、风高貌；𠝟为削、刺；蝧为蜂属，疑指蜾蠃（细腰蜂），古人误认为蜾蠃不产子而喂养螟蛉为子，故从「英」取不产子之意；鶧为继鶧鸟，疑指杜鹃（寄生鸟，将卵下在其它鸟巢）；𦔃为草茸；𨍞为兵车（即最终会在战斗中损毁之意）。③与形近字「央」相混：𥠚同秧，暎为映的俗讹，楧为柍的或体，鍈为铃声（铃形似花，应从英），𥍼为以羽饰矛（同缨，应从央），𩹅为鱼名（䱀之讹），𤸡同殃。",
+      "boundary": "源自《系统汉语》第197部「央部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "卬：本義象由俯伏而抬頭伸腰，轉義指仰望、仰慕、期待、高、自稱",
+      "statement": "卬（yǎng）从匕从ㄗ，「匕」指俯伏，「ㄗ」为人跪跽形，象意由俯伏而抬头伸腰，《广雅》：「仰、卬，举也。」《玉篇》：「俯卬，今作仰。」由抬头之状引申指仰望、仰慕、期待，《说文》：「望，欲有所庶及也」；或引申指对着、朝着；由抬起身子之状引申指高、自称。",
+      "boundary": "源自《系统汉语》第198部「卬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "卬：辯證「印、卬」形近與同源難定；音源為借音字、義音同「央」",
+      "statement": "由于「付、印」中的手形跟「匕」近似，或与「印」相混：《殷周金文集录》以某商代金文为「卬」，而《古文字类编》则以为「印」，故「印、卬」之间到底是形近字还是同源分化字尚难确定。卬为借音字，义音同「央」：《庄子·列御寇》「缘循、偃佒、困畏不若人」，郭嵩焘云「疑偃佒当为偃仰」。",
+      "boundary": "源自《系统汉语》第198部「卬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "卬字族①：指抬頭，表示仰起、高貌（仰昂䩕䭹𦯒𨋕岇迎䤝𠵫𡵙𥸾𧥴𩑝𩜟𢓋𩾱枊㭿）",
+      "statement": "卬字族①指抬头、表示仰起、高貌：仰为抬头、举首望、心慕、恃、资；昂为高抬、日升、明、高；䩕为䩕角（鞮属，即木屐），又同硬；䭹为马怒貌、马惊而昂头并抬起前肢、千里驹；𦯒为昌蒲；𨋕为轿𨋕、车名、竹舆；岇为山高貌；迎为逢；䤝为钏；𠵫为方言叫喊；𡵙为山名；𥸾为「料」的俗字、量米；𧥴为止；𩑝为𩑝头；𩜟为食无廉；𢓋为行不专；𩾱为鸿雁；枊为系马桩、坚、斗拱；㭿为屋的斜角。",
+      "boundary": "源自《系统汉语》第198部「卬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "卬字族②：形近字「印、坐」之訛（抑𡊁𡊂）",
+      "statement": "卬字族②为形近字「印、坐」之讹：抑为按、美、意、冤、疑辞、损（《说文》「按也。从反印」）；𡊁为地名（应即𡊶邑名）；𡊂为「坐」的讹字、连坐之意。",
+      "boundary": "源自《系统汉语》第198部「卬部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "邕（浥）：本義象四周有水環護的城池，轉義指閉塞、擁載、和睦、潮濕",
+      "statement": "邕（yōng）与「浥」同源，从「囗」四周有水滴形，下从「ㄗ」表示人所居，象意四周有水环护的城池，《说文》：「邕，四方有水，自邕城池者。从川从邑。」由其四面都是水、与外界隔绝之状引申指闭塞、阻塞；由水的环绕引申指载、拥、护，或引申指和睦；这样地方当然潮湿，故引申指湿，此义分化作「浥」。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "邕：辯證——「雝」从隹从囗象鳥群集之洲；二囗之形為「宮」「雝」構件",
+      "statement": "「雝（雍）」的甲骨文本从隹从囗，象意鸟群集的区域：鸟一般喜欢栖息在洲上，四围环水、有沙滩可以捕鱼，又不受人类打扰，因此也引申指水洲，西周金文或从「水」；故音义同「邕」，战国古文或干脆以其为「邕」的衍生字。「雝」或从囗的二叠，因字形跟「吕」相似，故甲骨文或写成两个「囗」字相交，表示相连的区域、空间；由于此字没有对应的今字，只作为「宫」「雝」的构件。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "邕：音源為借音字，因四面阻塞之義而義音同「賏」",
+      "statement": "邕为借音字，因有四面阻塞之义，而义音同「賏」：《尔雅·释诂》「噰噰，声音和也」，李善注《文选·南都赋》引作「嘤嘤」。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "邕字族①：指水洲，表示四面環水之狀（雝灉廱㽫𩟷𦉥）",
+      "statement": "邕字族①指水洲、表示四面环水之状：雝为水鸡（或指䳭鸰），都是水鸟，生活在池沼、沟渠、水田或近水灌木丛中，又指辟雍，「水旋丘如璧以节观者，故曰辟廱」，又为蔽、塞、和、睦、祐；灉为古汳（汴）水流经河南商邱虞城的一段，即河水决出复还入者；廱为天子乡饮酒礼的辟廱，《白虎通》《三辅黄图》谓「璧廱如璧之圆，廱之以水，象教化流行」；㽫为芡实（鸡头米，叶圆而大平摊水面、实如鸡头），又与壅通、培田；饔为熟食；瓮为汲水瓶。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-079",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "邕字族②：指被水環繞，表示閉塞、擁抱（癰𡄸郺㻾齆壅𢀍𦞡𧖇𨞑𩌋蕹𢢓𩆄𢹬㒕𤢐𧴗㜉）",
+      "statement": "邕字族②指被水环绕、表示闭塞、拥抱：痈为脓肿，《释名》：「壅也。气壅否结，裹而溃也。」又为鼻疾；𡄸（嗈）为鸟叫声、气咽塞；郺为多貌、举动迟缓；㻾为石次玉、玉器；齆为鼻塞；壅为塞、加土封、隔、障；𢀍音邕义同；𦞡为肥貌、臭貌；𧖇为蚕、米虫；𨞑为臭气；𩌋为靴袜的筒儿；蕹为空心菜（干柔中空）；𢢓为忧；𩆄为云气；拥为拥抱；㒕为不伏；𤢐为犬不伏牵；𧴗为兽似猿；㜉为女貌。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-080",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "宮：本義象多而大的房子，轉義指宗廟王宮學校、子宮、五音之首、圍繞、宮刑",
+      "statement": "宮（gōng）从宀从吕（邕），「吕」从二囗、指空间范围的多和大，「宀」指居室，象意多而大的房子；周代金文或加「九」为叠加声符，表示屋子空间的深阔，故可谓从吕宏声，《释名》：「宫，穹也。屋见垣上穹隆然也。」上古这类大屋非一般人所能居，故或专指宗庙、王宫、学校；或比喻指人体的子宫、心脏以及五藏神所在部位，或引申指星空的划分区域；宫一般是部落的中心，故引申指五音中的第一音；或引申指围绕；古代对男子阉割、对女子幽闭之刑将其囚禁在封闭的蚕室，故称「宫刑」。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-081",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "宮：辯證——「呂」為脊骨、窗孔、囗諸說，當以「囗」為是",
+      "statement": "由于对「吕」的字源义阐释不同，对「宫」的字源义探求也莫衷一是：或以「吕」为脊吕即脊椎骨，《说文》遂释宫为「从宀，躳省声」，段注「宀绕其外，吕居其中」；或以「吕」为房屋的窗孔，据半坡圆形房屋遗址复原，围墙中部开门、门与屋顶斜面通气窗孔呈相应之形，故名「宫」；以上解释看似都有合理之处，关键在于「吕」所从是「丁」还是「囗」还是「口」，三者初文十分相近难以区分，笔者以其为「囗」，指空间、区域，二叠为「吕」，表示所占空间和区域的多而大，与「雝」所从同。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j33-082",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-33-feng",
+      "title": "宮字族：響亮（𣪯𩘎䃔𠹒𤹜）、宮室（𦞨𧎡）、圍繞（𨜳𦵡）、形近「官」之訛（㴦𢞏）",
+      "statement": "宫字族①指宫的空阔、表示声音响亮：𣪯为击空声；𩘎为风声、大风；䃔为石落声；𠹒为市人、众声（或作哄）；𤹜疑指耳鸣。②指宫室本身：𦞨为腐刑即阉割之刑（宫刑者畏风，须暖，作窨室蓄火如蚕室）；𧎡为守宫即壁虎（白天潜伏壁缝瓦檐下，夜间出来捕食蚊蝇，故名）。③指宫室的周匝、表示围绕：𨜳为古国名；𦵡为芎藭（川芎，花形成伞状），意即如宫殿一般中间高、四周环绕。④形近字「官」之讹：㴦为县名（「涫」之讹，涫为沸腾）；𢞏为忧（疑为「悺」之讹）。",
+      "boundary": "源自《系统汉语》第199部「邕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
