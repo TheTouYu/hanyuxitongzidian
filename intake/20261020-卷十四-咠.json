@@ -1,0 +1,1097 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷十四 咠 83 条（第83部咠部至第86部及部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j14-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "卷十四以「咠」为音源字：从口从耳，表示挨近耳朵说悄悄话，音源于耳语声",
+      "statement": "卷十四以「咠」为音源字。「咠」从口从耳，构形表示把嘴凑近耳朵说悄悄话；其读音来自耳语时的气息声。本卷所辖字多与相贴、聚拢义相关。",
+      "boundary": "源自《系统汉语》卷十四「咠」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/14a-qi.md",
+      "topic_title": "卷十四·咠",
+      "topic_summary": "《系统汉语》卷十四「咠」，音源字咠（附耳私语），含 83.咠部、84.妾部、85.妻部、86.及部四部，第83–86部（p255–p259）。",
+      "topic_keywords": [
+        "咠",
+        "妾",
+        "妻",
+        "及",
+        "音源字",
+        "卷十四"
+      ]
+    },
+    {
+      "id": "j14-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "咠部与合部音义可通：妾与夹相通，《集韵》「翣」或作菨、接、歰、摄、翜、䈉",
+      "statement": "说悄悄话一般不想让第三者听到，故附耳言之；由附耳之状引申指相贴、聚拢，因此咠部所辖字与《合》部所辖字可以相通，例如「妾」即与「夹」相通。《集韵》：「翣，色甲切。《说文》：『棺羽饰也。天子八，诸侯六，大夫四，士二，下垂。』或作菨、接、歰、摄、翜、䈉。」",
+      "boundary": "源自《系统汉语》卷十四「咠」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "咠作为音系的独立性并不强，单独设卷只因为「咠」的确是音源字",
+      "statement": "咠部的音义与合部多有交叉，作为独立音系的独立性并不强；单独设为一卷的理由，是「咠」本身确实是一个音源字。",
+      "boundary": "源自《系统汉语》卷十四「咠」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "咠：本义从口从耳，或指以耳就口听人说话（后分化作聖、聽），或指以口就耳说悄悄话",
+      "statement": "咠，从口从耳，象意有二：或指以耳就口，听人说话，此意后来分化作「聖」和「聽」；或指以口就耳，跟「聶」义近，指对着人的耳朵说悄悄话。《说文》：「聶语也。从口从耳。《诗》曰：『咠咠幡幡』。七入切。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "咠转义：悄悄话多为私密之语、防旁人听到，由此引申指谗言",
+      "statement": "说悄悄话一般是私密之语，防止被旁人听到，由此引申指谗言。《广韵》：「咠咠，谮言也。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "咠的音源：源自耳语声；因有聚拢义，义音同「集」",
+      "statement": "咠是音源字，读音源自耳语声。因有聚拢之义，义音同「集」。《集韵》：「鏶，《说文》：『鍱也。』或作鍓。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "咠字族总说：字族衍义多指相贴、收聚",
+      "statement": "咠部字族衍义多指相贴、收聚：葺取相贴盖屋，戢、緝、輯、楫、揖皆取聚敛、相合之意，其音皆从咠得。",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "葺：用茅苇盖屋，取其相贴之意；又作修补、覆盖",
+      "statement": "葺，《说文》：「茨也。从艸咠声。七入切。」用茅苇盖屋，取其相贴之意。《正字通》：「又修补也。覆盖也。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "𪔪：鼓无声，大约指敲鼓时以手止住余音",
+      "statement": "𪔪，qì、tiè，《说文》：「鼓无声也。从鼓咠声。他叶切。」大约指敲鼓时加之以手，防止有余音。《正字通》：「一说鼓声止而余音在也。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "戢：聚藏兵器；又止、聚、敛、插",
+      "statement": "戢，jí，《说文》：「藏兵也。从戈咠声。《诗》曰：『载戢干戈。』阻立切。」聚藏兵器。《广韵》：「止也。」《玉篇》：「聚也、敛也。」《广雅》：「插也。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "緝：绩麻、续接；又緝緝为口舌声，又指缝衣边",
+      "statement": "緝，jī、qì，《说文》：「绩也。从糸咠声。七入切。」《玉篇》：「续也，亦緟也。」《尔雅》：「光也。」《集韵》：「緝緝，口舌声。」《释名》：「緝，下横缝，緝其下也。」缝衣边。",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "輯：车和辑，车必汇合众多材料与工匠方能造成；又和、睦、敛",
+      "statement": "輯，jí，《说文》：「车和辑也。从车咠声。秦入切。」《今释》：「车必汇合众多材料集中众多工匠方可造成。」《玉篇》：「和也。」《正韵》：「睦也。」《集韵》：「敛也。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "湒：雨下之貌，一曰沸涌貌",
+      "statement": "湒，jí，《说文》：「雨下也。从水咠声。一曰沸涌皃。姊入切。」《类篇》：「和也。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "濈：和睦；又汗出；又湍流",
+      "statement": "濈，jí，《说文》：「和也。从水戢声。阻立切。」和睦。《玉篇》：「汗出也。」shà，《集韵》：「𣹱濈，湍流。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "𠦫：和谐，即「輯」",
+      "statement": "𠦫，jí，《说文》：「词之𠦫矣。从十咠声。秦入切。」和谐，即「輯」。",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "楫：船桨；《释名》捷也，拨水使舟行捷疾；又有聚义",
+      "statement": "楫，jí，《说文》：「舟棹也。从木咠声。子叶切。」船桨。《释名》：「楫，捷也。拨水舟行捷疾也。」《集韵》：「聚也。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "鍓（鏶）：金属薄片，即铁鍱、炙铁",
+      "statement": "鍓（鏶），jí，《集韵》：「鏶，《说文》：『鍱也。』或作鍓。」金属薄片。鏶，《广韵》：「铁鍱。」「炙铁。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "箿：织竹器之缘；又有覆盖义",
+      "statement": "箿，jí，《集韵》：「织竹器缘。」《玉篇》：「覆。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "偮：人众之貌",
+      "statement": "偮，jí，《集韵》：「人众皃。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "諿：和谐、善辩；又指智谋",
+      "statement": "諿，qī，《集韵》：「和也。辩也。」和谐，善辩。xǔ，《字彙》：「谋也。」智谋。",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "蕺：鱼腥草，叶似荞麦生湿地，根茎横生；又指小折声",
+      "statement": "蕺，jí，《集韵》：「艸名。叶似荞麦，生湿地。」鱼腥草，根茎横生。qiè，《集韵》：「小折声。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "揖：拱手行礼，或指手贴着胸行礼；又汲取（挹或作揖）；又聚、成（通輯）",
+      "statement": "揖（撎挹），yì，《说文》：「攘也。从手咠声。一曰手箸胷曰揖。伊入切。」拱手行礼，或指手贴着胸行礼。《广雅》：「进也。」《正字通》：「固逊也。」《集韵》：「撎，俯手拜也。或作揖。」「挹，《说文》：『抒也。』或作揖。」汲取。jí，《集韵》：「聚也，成也。通作輯。」",
+      "boundary": "源自《系统汉语》第83部「咠部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妾：本义从女从辛，辛指纹身为女子纹身，表示女性成熟可以婚配；西周改为簪发",
+      "statement": "妾（㛙），从女从辛。「辛」指纹身；从「女」，象意给女子纹身，表示女性的成熟，可以婚配。西周时期则改为簪发，故《仪礼·士婚礼》：「女子许嫁，笄而醴之，称字。」因此也可以视「辛」为发簪。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妾转义：由可以婚配、繁衍后代引申指接续",
+      "statement": "由女性的可以婚配、繁衍后代，引申指接续。qiè，《玉篇》：「接也。得接于君者也。」",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妾的辩证：《说文》以辛为罪、释为有罪女子给事者不确；甲骨「妾妣甲」「河妾」为配偶之称",
+      "statement": "《说文》以「辛（䇂）」为罪，故释为「有罪女子，给事之得接于君者」，所解不确，应不是其字源义。商代甲骨卜辞有「妾妣甲」「河妾」之语，「甲」指商王、「河」指河神，可以作为商王与河神的配偶，怎么会是奴婢？《甲骨文》：「殷王配偶，用与𥇛、妻同。或为神之配偶。」后来分化为专指男子在正妻之外所娶的女子，但配偶的含义并没有改变。之所以被误解为指女奴，是因为古代刑法中往往将有罪的女眷罚作妾，一些人家也喜欢将陪嫁的女奴纳为妾。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妾的音源：借音字，接续义音同「咠」；或义音同「夹」",
+      "statement": "妾是借音字。因有接续之义，义音同「咠」：《礼记·檀弓下》：「蒙袂辑屦」，「辑」《新序·节士》作「接」。或义音同「夹」：《集韵》：「翣，或作菨、接、歰、摄、翜、䈉。」",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妾字族总说：字族衍义指相连、相插、相遮",
+      "statement": "妾部字族衍义指相连、相插、相遮：接、椄、菨取接续相连，淁取水之钻聚相插，霎取雨丝相插，翣、䈉、帹取相遮覆。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "淁（潗）：河名、水支流；又水沸腾喷涌之状，如头发由四周钻聚而相插",
+      "statement": "淁（潗），qiè，《说文》：「水也。从水妾声。七接切。」河名。《正字通》：「水支流也。」jí，《集韵》：「潗，水瀵也。一曰湁潗，水微转细通皃。或作淁。」水沸腾或喷涌状，其状正如头发由四周钻聚而相插。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "鯜：鱼名，即妾鱼（鰟鮍鱼），其行以三为率，一前二后若婢妾",
+      "statement": "鯜，qiè，《说文》：「鱼名。出乐浪潘国。从鱼妾声。七接切。」《正字通》：「即妾鱼，其行以三为率，一前二后若婢妾。」鰟鮍鱼。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "接：用手相交引，有持、合、会、续、承诸义；通「挟」；又为「翣」或体",
+      "statement": "接（椄擑扱翣𪉚𦁉），jiē，《说文》：「交也。从手妾声。子叶切。」用手相交引。《广韵》：「持也。合也。会也。」《广雅》：「续也。徧也。」《字彙》：「承也。」《集韵》：「捷也。亦姓。或作擑。」xié，通「挟」，挟持。chā，《集韵》：「扱，《说文》：『收也。』或作接。」shà，即「翣」之或体。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "椄：嫁接花木（续木）；椄槢为连接桎梏两孔的木梁",
+      "statement": "椄，jiē，《说文》：「续木也。从木妾声。子叶切。」嫁接花木。jié，《集韵》：「椄槢，梁也。」连接桎梏两孔的木梁。xiě，《集韵》：「椄槢，梁也。《淮南子》：『大者为柱，梁小者为椄槢』。」qiè，《集韵》：「木名。」",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "菨：荇菜，丛生水中叶片在茎端、茎相连接；又为「翣」或体",
+      "statement": "菨（翜摄歰䈉翣），jiē，《说文》：「菨余也。从艸妾声。子叶切。」《集韵》：「莕菨，水草。丛生水中，叶圆，在茎端，长短随水深浅。江东食之。」荇菜，茎相连接。shà，即「翣」之或体。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "霎：斜风细雨，有雨丝相插入意；「霅」或从妾；用同「闸」「眨」",
+      "statement": "霎（霅），shà，《新附》：「小雨也。从雨妾声。山洽切。」即斜风细雨，有雨丝相插入意。《集韵》：「霅，《博雅》：『霅霅，雨也。』或从妾。」「雨声。」「𩂻霎，疾雨。」《字彙补》：「倏然也。」用同「闸」，水闸；用同「眨」，眼睛闭上又立刻睁开。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "䈉（箑）：扇；同「翣」；又指竹器",
+      "statement": "䈉（箑），shà，《说文》：「箑，扇也。从竹疌声。䈉，箑或从妾。」《集韵》：同「翣」。qiè，《集韵》：「竹器。」",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "踥：小步行走，脚尖连着脚跟交替而进之貌",
+      "statement": "踥，qiè，《玉篇》：「踥踥，往来皃。」《六书故》：「踥蹀、蹀躞、躞蹀皆耆进连步之貌。」小步行走，脚尖连着脚跟交替而进的样子。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "帹：远行时遮风尘的面衣（面帽）；又指束发巾",
+      "statement": "帹，shà，《玉篇》：「帹㒾，面衣也。」远行时遮挡风尘用的面帽。qiè，《类篇》：「七接切，音妾。幧头。」束发的巾。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "唼：水鸟啑喋而食之貌；又「捷捷」为谗言；又指啖食",
+      "statement": "唼（啑捷𠯗𠴴噈），shà，《集韵》：「啑，啑喋，水鸟食皃。或从妾。」qiè，《集韵》：「捷，捷捷，谮言。或从人。亦作唼。」zā，《集韵》：「𠯗，啖也。或作𠴴、噈、啑、唼。」",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "𧳛：兽名，大约指猪啃食的样子",
+      "statement": "𧳛（𧱙），shà，《集韵》：「兽名。或从豕。」大约指猪啃食的样子。",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "翣：棺羽饰，天子八、诸侯六、大夫四、士二而下垂；形如扇以木为匡；又为帝王仪仗大掌扇",
+      "statement": "翣，shà，《说文》：「棺羽饰也。天子八，诸侯六，大夫四，士二。下垂。从羽妾声。山洽切。」《广韵》：「翣形如扇，以木为匡。」《小尔雅》：「大扇谓之翣。」古代帝王仪仗中的大掌扇。《玉篇》：「𦇨也。」",
+      "boundary": "源自《系统汉语》第84部「妾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妻：本义从又抓女子头发，指掠婚制（掠外族女子为配偶），或指已婚女子的簪发；与「夫」结构类似",
+      "statement": "妻（𡜌𡜛𡜈𡝣𡜽），甲骨文从又抓女子头发之形，指古代的掠婚制，即掠外族女子为配偶；或疑指古时已婚女子的簪发，钗、簪的束发作用犹如手持，故从「又」，与「夫」的结构类似。古代成年男女都要举行加冠和簪发仪式，完毕后意味着可以结婚生子。西周金文或讹变为从母从西。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妻转义：古代或一夫多妻，故专指嫡配；《广韵》「齐也」，谓与丈夫平起平坐",
+      "statement": "古代或一夫多妻，故「妻」或专指嫡配。qī，《广韵》：「齐也。」等齐，与丈夫平起平坐之意。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妻的辩证：《说文》据小篆释「从女从屮从又」、以屮为进为齐，不确；屮本指女子头发",
+      "statement": "《说文》依据小篆释作「妇，与夫齐者也。从女，从屮，从又。又，持事，妻职也」，臣铉等曰「屮者，进也，齐之义也，故从屮」。「屮」本指女子头发，故析形不确。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妻的音源：借音字，古妻、妾可通用（棲与接互作）；义音同「西」",
+      "statement": "妻是借音字。古妻、妾可通用：《战国纵横家书·谓燕王章》「不难以国壹栖」，「栖」整理者释为「接」；《战国策·燕策》「接收燕、赵」，「接」在《战国纵横家书》作「栖」。义音同「西」：《集韵》：「栖，鸟栖。或从西。通作西。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "妻字族总说：三路——妇女长发（茂盛兴起散乱）、女子出嫁（栖息搁置）、婚配（等齐磨砺）",
+      "statement": "妻部字族衍义分三路：①指妇女长发，表示茂盛、兴起、散乱；②指女子出嫁，表示栖息、搁置；③指婚配，表示等齐、磨砺。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "萋：草盛之貌；又恭顺之貌",
+      "statement": "萋，qī，《说文》：「艸盛。从艸妻声。《诗》曰：『菶菶萋萋』。七稽切。」《集韵》：「一曰恭顺皃。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "淒：云雨兴起之貌；又寒凉，通「凄」；又淒浰为疾貌",
+      "statement": "淒（凄𣹥倩），qī，《说文》：「云雨起也。从水妻声。《诗》曰：『有渰淒淒』。七稽切。」云雨兴起的样子。《正字通》：「又寒凉也，通作凄。」qiàn，《集韵》：「淒浰，疾皃。或从倩。通作倩。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "霋：雨止为霋（晴）；又云行之貌",
+      "statement": "霋，qī，《说文》：「霁谓之霋。从雨妻声。七稽切。」雨止，晴。《玉篇》：「云行皃。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "悽：悲痛悲伤，披头散发之状表示内心悲哀；通「凄」；又有恨义",
+      "statement": "悽，qī，《说文》：「痛也。从心妻声。七稽切。」《玉篇》：「悽怆也、伤也。」悲痛、悲伤，披头散发之状表示内心的悲哀。《正字通》：「与凄通。」寒凉。qì，《集韵》：「恨也。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "緀：丝织品有纹采之貌（緀兮斐兮，成是贝锦）",
+      "statement": "緀，qī，《说文》：「白文皃。《诗》曰：『緀兮斐兮，成是贝锦。』从糸妻声。七稽切。」丝织品有纹彩貌。《广韵》：「緀斐，文章相错皃。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "棲：鸟在巢上，日西而鸟栖，故有「西」义；鸟类停留歇宿，又指搁置；棲棲为忙碌不安之貌",
+      "statement": "棲（捿栖），qī，《说文》：「鸟在巢上。象形。日在西方而鸟栖，故因以为东西之西。凡西之属皆从西。栖，西或从木、妻。」鸟类停留、歇宿。《集韵》：「鸡所止。或从西。」《广雅》：「床谓之栖。」搁置。xī，《集韵》：「栖栖，简阅车马皃。」或指忙碌、不安定貌。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "鶈：鶈鸎，东夷传说中的怪鸟",
+      "statement": "鶈，qī，《玉篇》：「鶈鸎，东夷鸟名。」古代传说中的东部的一种叫鶈鸎的怪鸟。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "𨹷（隮齐蹬）：登也，引《商书》「予颠跻」",
+      "statement": "𨹷（隮齐䠁𨹶𢁃跻），jī，《集韵》：「跻，《说文》：『登也。』引《商书》『予颠跻』。或作隮、齐、䠁、𨹶、𨹷、𢁃。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "郪：新郪，汝南县，战国魏地；妻通「齐」、齐通「茨」，因河岸多蒺藜而得名",
+      "statement": "郪，qǐ，《说文》：「新郪，汝南县。从邑妻声。七稽切。」古地名，战国魏地，在今安徽省界首县东北茨河南岸。「妻」通「齐」，「齐」通「茨」（见19《齐部》），当是因河岸多蒺藜而命名。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "㼮：㼮㼽，用碎瓦石磨去污垢；又指用砖砌井壁",
+      "statement": "㼮，chāi，《广韵》：「㼮㼽，屑瓦洗器。」《集韵》：「㼮㼽，礳垢也。」用碎瓦石磨去污垢。qì，《五音集韵》：「甃也。」用砖砌井壁。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "啛：先尝，通「啐」",
+      "statement": "啛（啐），cuì，《集韵》：「先尝也。通作啐。」",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "䃀：磨；又指磨砺",
+      "statement": "䃀，cuì，《玉篇》：「磑也。」磨。chāi，《集韵》：「㼽也。」磨砺。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "𠆜：相等",
+      "statement": "𠆜（𪗍𠬎），qí，《说文》：「等也。从亝妻声。徂兮切。」相等。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "𦪱：舟也，同「济」",
+      "statement": "𦪱，jì，《玉篇》：「舟也。」同「济」。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "𨧬：锋利",
+      "statement": "𨧬（𨥦），qí，《集韵》：「𨥦，利也。或从妻。」锋利。",
+      "boundary": "源自《系统汉语》第85部「妻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "及：本义从又抓住人的足部，指对方要离开或快走时仆倒捞住其足，象意勉强够着，表示追上、逮住",
+      "statement": "及（乁弓𨕤﨤），从又抓住人的足部。一般是指对方要离开或正快走时，急忙中仆倒在地捞住了他的足；象意勉强够着，表示追上、逮住。jí，《说文》：「逮也。从又，从人。巨立切。」徐锴曰：「及前人也。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "及转义：由追上引申指到达、接续、及时",
+      "statement": "由追上引申指到达、接续、及时。《广韵》：「至也。连也。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "及转义二：由足的被抓住，引申指连累",
+      "statement": "由足的被抓住，引申指连累。《增韵》：「连累也。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "及的音源：借音字，因有连续义而义音同「合」；或义音同「妾」",
+      "statement": "及是借音字。因有连续之义，义音同「合」：《集韵》：「䑪，舟动皃。或从及。」或义音同「妾」：《集韵》：「扱，《说文》：『收也。』或作接。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "及字族总说：两路——追上（垒叠、连续、次第）、及时（紧急、快速）",
+      "statement": "及部字族衍义分两路：①指追上，表示垒叠、连续、次第；②指及时，表示紧急、快速。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "极：驴背上负载物的木架，类似马鞍；今「极端」之「极」本是「極」义，简化后混同",
+      "statement": "极，jí，《说文》：「驴上负也。从木及声。或读若急。其辄切。」驴背上负载物的木架，类似马鞍。《广韵》：「极插。」而「极」之今义指极端，则本是「極」的含义，简化后混在一起了。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "級：丝的等级；又等级、阶级（台阶）；秦法斩首多者进爵一级，故称首级",
+      "statement": "級，jí，《说文》：「丝次弟也。从糸及声。居立切。」丝的等级。《广韵》：「等级。」《玉篇》：「阶级也。」台阶。《正字通》：「又首级。秦法斩人首多者进𩰣一级，因谓之首级。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "汲：引水于井，牵引、引导；汲汲为不休息之貌；伋伋为虚诈之貌",
+      "statement": "汲，jí，《说文》：「引水于井也。从水从及，及亦声。居立切。」《广韵》：「汲引也。」牵引、引导。《集韵》：「伋伋，虚诈皃。或作汲。」《正字通》：「又汲汲不休息貌。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "岋（岌圾）：山高之貌，山峦重迭；「圾」为危也（庄子「殆哉圾圾乎」）；又动摇之貌",
+      "statement": "岋（岌圾），jí，《说文》：「岌，山高皃。从山及声。鱼汲切。」山峦重迭之意。《集韵》：「圾，危也。《庄子》：『殆哉！圾圾乎。』或从山。」è，《正字通》：「岋，同岌，动摇貌。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "芨：白芨，地下块茎数个相连如生姜故名；其黏液可作浆糊",
+      "statement": "芨（𦳌），jī，《说文》：「堇艸也。从艸及声，读若急。居立切。」白芨，其地下块茎呈三角状扁球形或不规则菱形，黄白色，肉质肥厚，常数个相连如生姜，因其地下块茎常数个相连而名之为「芨」。或指用其黏液作浆糊，《本草》：「白芨，叶似初生椶苗，开花长寸许，红紫色，中心如舌，七月实熟。陶弘景曰：可以作糊。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "鈒（闟）：短小的矛、戟名；细鏃金银为文曰鈒镂（嵌饰花纹）；又指小锋",
+      "statement": "鈒（闟），sà，《说文》：「鋋也。从金及声。稣合切。」短小的矛。《集韵》：「戟名。通作闟。」《广韵》：「鈒镂。」《六书故》：「细鏃金银为文曰鈒镂。」用金银在器物上嵌饰花纹。xì，《集韵》：「小锋。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "馺：马行相及、马行疾",
+      "statement": "馺，sà，《说文》：「马行相及也。从马从及。读若《尔雅》『小山馺，大山峘』。苏答切。」《广韵》：「马行疾。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "㠷：蒲席制的盛米器具；又指车垫",
+      "statement": "㠷，gé，《说文》：「蒲席𤲑也。从巾及声。读若蛤。古遝切。」《玉篇》：「以席载谷。」用蒲席制成的盛米的器具。《集韵》：「车藉。」车垫。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "吸（噏）：向内吸气，饮、吸引",
+      "statement": "吸（噏），xī，《说文》：「内息也。从口及声。许及切。」向内吸气。《广雅》：「饮也。」《玉篇》：「吸引也。」《广韵》：同「噏」。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "扱（插）：收敛、敛持；又搢（插）、取、获、举、引；又拜手至地",
+      "statement": "扱（插），xī，《说文》：「收也。从手及声。楚洽切。」《集韵》：「敛持也。」收敛。chā，《集韵》：「搢也。或作插。」《广韵》：「取也。获也。举也。引也。」qì，《集韵》：「拜手至地也。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "圾：危也；又土块；「垃圾」指尘土与扔掉的脏东西，取层层堆叠之意",
+      "statement": "圾，jí，《康典》：「危也。」倾危。jié，《玉篇》：「土圾也。」土块。jī，垃圾，尘土和扔掉的脏东西，层层堆叠之意。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "笈：负书箱（书箱），同「极」",
+      "statement": "笈，jí，《集韵》：「负书箱。」书箱。《正字通》：「同极。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "及部其余字族字：㽺病弱、𩣞马行貌、䶋鼻息声、魥枯鱼、𩷘鱼众、衱后襟交领、昅日干、𤜯犬食、砐山高、雭雨声、㚫女容、㧀门闩、䏜肥、𠈶人众、𠬬行、𠲺众声、𢃺绢、𣬬睫长、𤷹洁病、𥝥草名、𥯼竹屐、𧋏虫行、𧩇高声、𨦮锄属、𨳛闹、𩖪风声、𩨞首动、䲯戴胜",
+      "statement": "及部另有一批字族字，义皆由「及」的接续、相及而来：㽺病弱无力；𩣞马行之貌；䶋鼻息声；魥枯鱼、风干之鱼（以竹贯鱼为干，穿成一串）；𩷘鱼众；衱衣后襟、交领；昅日干、晒干；𤜯犬舔食；砐山高貌；雭小雨声；㚫女子容貌；㧀门闩；䏜肥；𠈶人众貌；𠬬行；𠲺众声；𢃺新罗谓绢；𣬬眼睫长貌；𤷹洁病；𥝥草名；𥯼竹屐；𧋏虫行貌；𧩇高声；𨦮锄属；𨳛闹；𩖪大风声；𩨞首动貌；䲯即鷑鸠（小黑鸟），今呼戴胜，羽冠呈扇形、作波浪式飞行、巢内粪便堆积而奇臭。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "伋（急）：人名；伋伋为虚诈、过分亲昵之貌；与「急」同",
+      "statement": "伋（急），jí，《说文》：「人名。从人及声。居立切。」《集韵》：「伋伋，虚诈皃。」过分亲昵之意。《字彙》：「与急同。」fān，变动貌。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-079",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "彶：急行也",
+      "statement": "彶，jí，《说文》：「急行也。从彳及声。居立切。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-080",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "㤂（忣急）：褊也，狭窄狭隘；《释名》「急，及也」，谓操切之使相逮及",
+      "statement": "㤂（忣急），jí，《说文》：「褊也。从心及声。居立切。」狭窄、狭隘。《释名》：「急，及也，言操切之使相逮及也。」《玉篇》：「迫切也、尽也。」《字彙》：「窘也。」「紧也。」《广韵》：「急疾。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-081",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "靸：小儿鞋，前帮深而覆脚、无后帮，如今日的拖鞋；又有轻举之貌",
+      "statement": "靸（𩎕），sǎ，《说文》：「小儿履也。从革及声。读若遝。稣合切。」《释名》：「靸，韦履深头者之名也。靸，袭也，以其深袭覆足也。」小儿的鞋子，前帮深而覆脚、无后帮，如今日的拖鞋。与「趿」的取义应相似。《正韵》：「轻举貌。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-082",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "趿：进足有所撷取（《尔雅》「趿谓之撷」），把鞋后跟踩在脚后跟下，即因事急来不及拔后跟",
+      "statement": "趿，sǎ、tā，《说文》：「进足有所撷取也。从足及声。《尔雅》曰：『趿谓之撷』。稣合切。」把鞋后跟踩在脚后跟下，即因事情急而来不及拔后跟就穿鞋的样子。qì，《广雅》：「趿趿，行也。」",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j14-083",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-14-qi",
+      "title": "及部另一批字族字：觙同伋、訯强事言语、䑥舟动貌、𣧉危也、㴔水疾声",
+      "statement": "及部尚有：觙，同「伋」；訯（𧫝誜），sǎ，强事言语，又枉也；䑥（䑪），è，舟动貌，又船具，sà 舟行疾；𣧉（㱞），jí，危也，lā 朽折也；㴔（潝），xī，《说文》「水疾声」之或体。",
+      "boundary": "源自《系统汉语》第86部「及部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
