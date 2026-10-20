@@ -1,0 +1,1309 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷十三 合 99 条（音源字「合」两口相对，第75部合部至第82部卡部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j13-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卷首：音源字「合」兩口相對，象器有蓋，音源為蓋蓋聲",
+      "statement": "卷十三的音源字為「合」，兩口相對，表示器有蓋狀，其音源自蓋蓋聲。",
+      "boundary": "源自《系统汉语》卷十三「合」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/13a-he.md",
+      "topic_title": "卷十三·合",
+      "topic_summary": "《系统汉语》卷十三「合」，音源字「合」两口相对象器有盖、音源为盖盖声；含第75部合部、76部夾部、77部帀部、78部𦐇部、79部疌部、80部燮部、81部介部、82部卡部，凡99条。",
+      "topic_keywords": [
+        "合",
+        "夹",
+        "帀",
+        "𦐇",
+        "疌",
+        "燮",
+        "介",
+        "卡",
+        "音源字",
+        "卷十三"
+      ]
+    },
+    {
+      "id": "j13-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卷首：「合」是中國文化的精髓——天人合一與求同存異的融合",
+      "statement": "「合」是中國文化的精髓所在。《周易》說：「夫大人者，與天地合其德，與日月合其明，與四時合其序，與鬼神合其吉凶。」意思是要做到天人合一，要順應自然，要善于融合各種因素。因此幾千年來，中華文明一直是在求同存異中不斷融合各種文化，从而形成大一統的中華民族；最典型的民族是漢族，可它根本就不是一個單純的民族，而是由各民族在矛盾衝突中不斷融合所形成的；最典型的文化現象，是儒釋道互相借鑒、互相融合，你中有我，我中有你。",
+      "boundary": "源自《系统汉语》卷十三「合」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卷首：「合」的三重象意——在己上下頜相對、在人陰陽相合（合巹禮）、在物有莢有蓋",
+      "statement": "「合」字本是上下兩個「口」相對。在己，上下頜相對運動，才能吐納氣息、才能吃進食物、才能出聲；在人，陰陽相合才能化生萬物，所以最早的婚禮形式就是合巹禮——將苦葫蘆切成兩瓣瓢，新郎新娘各拿一瓢飲酒，象徵著夫妻同甘共苦、琴瑟和諧；在物，則為子實之有莢、器皿之有蓋。",
+      "boundary": "源自《系统汉语》卷十三「合」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卷首：本卷核心義在物的相對、相合、相夾，與《亥》《咠》《臽》《七》音義交叉",
+      "statement": "本卷的核心義在于物的相對、相合、相夾：「夾、帀、疌、𦐇、介、及、卡」都與之義音相通；不僅如此，「今、臽、甲」等均含有「夾」義，也都與之相通，从而與《亥》《咠》《臽》《七》等存在音義交叉關係。",
+      "boundary": "源自《系统汉语》卷十三「合」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合（亼）：本義从亼从口，即兩口相對的閉合",
+      "statement": "「合」从亼从口，「亼」本「口」的倒寫，兩口相對，可象意多種。或象意兩口相閉合。hé，《說文》：「合口也。从亼从口。候合切。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合：或象意對答，或象意男女相吻——表示配偶、偶合",
+      "statement": "兩口相對，或象意對答，《爾雅》：「對也。」《正字通》：「答也。」口口相對，也可以象意男女的相吻，表示配偶、偶合，《爾雅》：「仇、偶、妃、匹、會，合也。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合：轉義為可閉合的器蓋、蚌殼、門洞、衣帽，以及容量單位",
+      "statement": "由口比喻指所有口狀物的東西，如器蓋、蚌殼、門洞、衣帽等，从而引申指可以閉合的物體。《正韻》：「合子，盛物器。」古或借指容量單位，gě，《集韻》：「兩龠為合。」《周子算經》：「十勺為一合。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合：轉義為結合、併攏、相符、覆蓋，以及聚集、會同",
+      "statement": "或引申指結合、併攏、相符、覆蓋，如「合眼、合併、符合、重合」；又由閉合引申指聚集、會同，《玉篇》：「同也。」《廣韻》：「集也。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合：辯正《說文》釋「亼」為三合，形義皆不確",
+      "statement": "《說文》釋「亼」為：「亼（jí），三合也。从入、一。象三合之形。讀若集。凡亼之屬皆从亼。讀若集。秦入切。」臣鉉等曰：「此疑只象形，非从入一也。」形義皆不確。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合：音源為蓋合時所發出的聲音",
+      "statement": "「合」是音源字，源自蓋合時所發出的聲音。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族①指合狀，表示內空之物（一）：郃、閤、鞈、𢂷（韐）、帢",
+      "statement": "①指合狀，表示內空之物：郃（《說文》「左馮翊郃陽縣」；《集韻》引《爾雅》「合也」或作郃）、閤（《說文》「門旁戶也」，正門旁邊的小門；《正韻》「內中小門」、內室臥室；同「闔」）、鞈（《說文》「防汗也」，囊屬、防箭捍身之具，多塊皮革縫合如皮盒；或指障泥）、𢂷（韐，《說文》「士無巿有𢂷，制如榼，缺四角」，士人的蔽膝如八角酒尊）、帢（《廣韻》「士服，狀如弁，缺四角，魏武帝製」，按頭使下故曰帢）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族①指合狀，表示內空之物（二）：袷、龕、盒、餄、鮯、䶀、㿯",
+      "statement": "袷（《說文》「衣無絮」，夾衣；又衣縫、衿；袷袢為對襟長袍）、龕（《說文》「龍皃」；《方言》「龕，受也」即受盛；龍即神故指神龕、供奉佛像神位的小閣子；又塔下室、勝任）、盒（《類篇》「盤屬」，底蓋相合或抽屜式的盛器，《廣韻》「盤覆也」）、餄（《玉篇》「餌也」，餄餎即河漏，用蕎麥或高粱面軋成的長條食品）、鮯（《山海經》「其狀如鯉而六足，鳥尾」）、䶀（《說文》「鼓聲也」）、㿯（《玉篇》「皮寬也」）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族①指合狀，表示內空之物（三）：峆、峇、硆、鉿、㘛、䆟、𦳬、㾑",
+      "statement": "峆（峆崉，山皃）、峇（《正字通》「山窟也」）、硆（礘礘，石皃）、鉿（《玉篇》「聲也」即陷聲；又二尺鋌；鉿匝同匼匝）、㘛（與嵌同，㘛𡆑，山也）、䆟（《集韻》「合也」，《廣韻》「䆟合，相當也」；又凹下、土墊、凸字）、𡋛（與臺同）、垥（《篇海類編》「堤水」）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族①指合狀，表示內空之物（四）：𦊪、𣨄、㾑、𡋛、𦳬",
+      "statement": "𦊪（鳥網）、𣨄（《集韻》「㱠也」即枯）、㾑（《類篇》「肥皃」；又寒病；疙瘩）、垥（堤水）、𦳬（草也）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族②閉合，表示兩相合攏、掩蓋、關閉（一）：頜、蛤、𧊧、珨、𧮵、詥、㪉",
+      "statement": "閉合，表示兩相合攏、掩蓋、關閉：頜（《說文》「𩔞也」，口腔的上下部分；又低頭、頤傍耳下骨）、蛤（蚌蛤；蛤蚧、蛤蜊；蛤蟆）、𧊧（《說文》「蜃屬有三，皆生于海」，千歲化為𧊧，秦謂之牡厲）、珨（玉蛤、蜃器；又開閉門也）、𧮵（《字彙》「兩山相合」）、詥（《說文》「諧也」，和諧；又會言也）、㪉（《說文》「合會也」，《段注》「今俗云㪉縫」）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族②閉合（二）：欱、鴿、佮、匌、給、拾、㭘、湁",
+      "statement": "欱（《說文》「歠也」，飲、吸；通歃）、鴿（《說文》「鳩屬」；雄雌鴿皆能在嗉囊內製造鴿乳，雛鴿出殼後由親鴿口對口輪流哺乳；陸佃「鴿性喜合，凡鳥雄乘雌，惟鴿雌乘雄」）、佮（《說文》「合也」）、匌（《說文》「帀也」，周匝環繞）、給（《說文》「相足也」，連接短絲使結合，引申豐足富裕；又交付、讓、助詞）、拾（《說文》「掇也」，撿取收拾；射箭時用的皮製護袖；借為數目字）、㭘（《說文》「劍柙也」，劍鞘；㭘棔木即合歡樹，葉白天張開夜晚合攏）、湁（湁湒，水如開水般湧動，水浪的卷合）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族②閉合（三）：祫、跲、恰、洽、姶、搿、哈、拿、耠",
+      "statement": "祫（《說文》「大合祭先祖親疏遠近也」，三歲一祫）、跲（《說文》「躓也」，跌倒；又卻行、代也）、恰（《新附》「用心也」；又鳥鳴聲、適當之辭）、洽（《說文》「沾也」，沾浸；《廣韻》「和也、合也」；水名即今金水河）、姶（《說文》「女字也」，一曰無聲）、搿（兩手合抱，引申為結交）、哈（魚多皃、魚口皃；張口呼氣；通歠）、拿（俗拏字，用手取、握持）、耠（《博雅》「耚，耠也」，翻鬆土壤的農具，翻起土壤使裏外相合）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族②閉合（四）：烚、䀫、䶎、䞩、㓣、䨐、㣛、㢵、冾、匼、㕉",
+      "statement": "烚（火皃）、䀫（《廣韻》「目細暗」；眇、目睫動）、䶎（䶎齁，鼻息）、䞩（走皃；跛也）、㓣（《集韻》「陷也」即刺入；古文割字）、䨐（同洽，和也合也霑也；澈濕）、㣛（邂逅相合于道；會之古文）、㢵（弓強、弓弽；射決）、冾（和也霑也，和睦滋潤）、匼（奄媚迎合；烏匼巾名；周繞貌）、㕉（用手指按壓；凹下；窟穴）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族②閉合（五）：𣆗、䏩、䑪、䢔、𡪗、𢙅、𢩅、𢻆、𣌭、𣹱、𤀉",
+      "statement": "𣆗（日照水）、䏩（脅肩竦體）、䑪（舟動皃）、䢔（《說文》「遝也」，行相及）、𡪗（寢而首動也）、𢙅（《集韻》「合也」）、𢩅（關門）、𢻆（𢻆㩾，不齊）、𣌭（會之古文；同答）、𣹱（湍流）、𤀉（𤀉泥）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族②閉合（六）：𤝰、𥊉、𦧛、𧳇、𨠭、𩳋、𪑇、𪘁",
+      "statement": "𤝰（犬以舌取物）、𥊉（困悶眼，即「瞌」）、𦧛（疑同𪘁）、𧳇（同貈，似狐善睡獸）、𨠭（覆蓋東西使其變性，同醃）、𩳋（鬼名）、𪑇（雲暗也）、𪘁（食也、齧聲；盡內口中）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "合字族③音譯字：鎿",
+      "statement": "③音譯字：鎿（ná），一種放射性金屬元素，銀白色，符號 Np，音譯字。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "翕：本義从羽合聲，象鳥開合翅膀而飛翔",
+      "statement": "「翕」从羽合聲：「合」指閉合、彙集，「羽」指羽毛、也可代指鳥。或指鳥的開合翅膀，表示飛翔。xī，《說文》：「起也。从羽合聲。許及切。」《段注》：「翕从合者，鳥將起必斂翼也。」或指眾鳥的齊飛，此義分化作「𦐇（tà）」，《說文》「飞盛皃」；或指合羽，即將羽毛填充成羽絨衣、被、坐墊之類，此義分化如「𧝅（tà）」即毾㲪（毛毯）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "翕：轉義為閉合、收斂、聚集，以及煽動、眾多、興盛",
+      "statement": "鳥在地上活動時翅膀是收攏、閉合的，故引申指閉合、收斂、聚集，《玉篇》：「合也、斂也、聚也。」鳥飛翔時需扇動翅膀，即翅膀的一開一合，故引申指煽動，如「翕動、翕飛、翕忽、翕響」，《廣韻》：「動也。」由鳥類的齊飛引申指眾多、興盛，《廣韻》：「盛也。」《集韻》：「眾也。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "翕字族①指斂翅，表示收縮、閉合：歙、𨝫、潝、嬆、嶖",
+      "statement": "①指斂翅，表示收縮、閉合：歙（《說文》「縮鼻也」，縮鼻吸氣；《正字通》「合也，與翕同」；收縮、斂氣；丹陽歙縣）、𨝫（《說文》「地名」，即今安徽歙縣）、潝（《說文》「水疾聲」，水流很急的聲音；浥即深淵漩渦）、嬆（《玉篇》「莊嚴也」，女性淨即守貞操）、嶖（崦嵫山名）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "翕字族①指斂翅（續）：㒆、㬛、䁯、㽂",
+      "statement": "㒆（《集韻》「斂也」，《老子》「將欲㒆之」；通作歙）、㬛（日乾物也）、䁯（目眇視；同翕即合、收斂）、㽂（器破；一說从翕有完合義，非破碎也）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "翕字族②指翕動，表示扇動、擊打、踩踏：闟、蹹、㩉、𠟊、𤛣",
+      "statement": "②指翕動，表示扇動、擊打、踩踏：闟（《玉篇》「戟名」即長戟；《正韻》「闔也」即聚集；又通蹋表踐踏、床榻）、蹹（踏、蹋，踐也）、㩉（摧折、打；通拉為摧）、𠟊（欲割也）、𤛣（抵也）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "翕字族②指翕動（續）：𧬈、𩻵、𪅲、𦪙",
+      "statement": "𧬈（疾言也；𧬈䛅，語聲）、𩻵（同鰈，比目魚）、𪅲（鳥名，疑指比翼鳥）、𦪙（《廣韻》「兩槽大船」，疑本指大的帆船）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "翕字族③指合羽，表示羽毛製品：𣯾、㯓、𨎰、𢡁、熻",
+      "statement": "③指合羽，表示羽毛製品：𣯾（毾之訛，毛毯）、㯓（同榻，類似床的坐臥用具；又䈳即窗扇）、𨎰（同翰；疑本指車席之屬）、𢡁（心熱皃，疑由羽絨製品的暖和引申）、熻（熱也、火光）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "荅（答）：本義从艸合聲，象子實呈盒狀的植物即豆莢",
+      "statement": "「荅」从艸合聲，象意子實呈盒狀的植物，即豆莢。dá，《說文》：「小尗也。从艸合聲。都合切。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "荅：轉義為相當、相對、應答，厚實，以及豆莢裂開解體",
+      "statement": "由豆莢相合之狀引申指相當、相對、應答，《玉篇》：「當也。」《字彙》：「與答同。」或引申指厚實，《通訓》：「荅，假借為疊。」豆莢成熟後或自然裂開，故引申指解體、裂開，tà，《集韻》：「嗒，解體皃，或省。」其字族多混同「答（畣）」。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答（畗）：本義从田合聲，田指鼓，即「䶀」的異文，鼓聲",
+      "statement": "「答（畗）」从田合聲：「田」指鼓；从「合」，指狀如盒狀。應即「䶀（tà）」的異文，《說文》：「鼓聲也。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答：轉義為答應、回應——鼓聲很響能產生回聲",
+      "statement": "由于鼓聲很響能產生回聲，故引申指答應、回應。dá，《玉篇》：「當也、對也、然也。今作荅。」",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答：辯證「荅、答」之關係——艸竹形近而訛，或為後造字（竹索說、竹板竹筒說）",
+      "statement": "「答」本从竹从合，字形上可能因「艸、竹」形近而訛「荅」作「答」；或「答」本系後造的字，《篇海》解為「竹䇱也。又當也、報也、合也」，《集韻》「笝，纜舟竹索也」，即拉船用的竹索。《漢字字源》認為「船家願意載客就把竹索扔給客人，作為對叫船者的回應，由此產生答應、回復和還報等含義」，可備一說。筆者認為「答」可能指竹板或竹筒：竹板即如今日尚存的快板之類，相擊即發出「答答」聲；而「䇱」既从「囪」，當指象煙囪一般即竹筒——山民放牛常在牛脖子上挂一竹筒，中懸一舌如鈴鐺，牛走動時發出聲響从而知道牛所在的地方，故而引申指語言上的對應即回答。《詩經·小雅·雨無正》「聽言則答，譖言則退」，說明很早就指應答之意了。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答：辯證《說文》誤釋「畣」為「滿也」，致本義湮沒而被「答」取代",
+      "statement": "由于《說文》根據小篆字形，誤釋「畣」為：「滿也。从高省，象高厚之形。凡畗之屬皆从畗。讀若伏。芳逼切。」使之與「答」失去了意義上的聯繫，本義遂湮沒無聞，完全被「答」所取代。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答字族①指應答，或引申指拍打：𨃚、鎝、搭、𤠟、𨶀、𩥠、譗",
+      "statement": "①指應答，或引申指拍打：𨃚（《說文》「趿也」，穿鞋只套上腳尖，走時拍打腳板而發出聲響；又跳、跛）、鎝（鐵鎝，一種翻土的農具，有三至六個鐵齒）、搭（《正字通》「摸也、拊也」；又附挂、連接、乘坐、搭蓋架設、攙扶、搭配）、𤠟（犬食也，亦作碟）、𨶀（同鞳，闛𨶀為鐘鼓聲）、𩥠（馬行皃）、譗（譗𧫡，言無倫脊即說話無條理）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答字族①指應答（續）：𤡿、𠍹、𠢡、㗳、嗒、溚、塔",
+      "statement": "𤡿（法也）、𠍹（忽觸人也、愛頂撞人、抵牾不循理）、𠢡（勤力也）、㗳（㗳然，忘懷也；象聲詞）、嗒（嗒然，極淡漠的樣子，《莊子》「嗒焉似喪其耦」；又䑛嗒、助詞）、溚（濕也；水名；英語 tar 的譯音字即焦油）、塔（物墮聲；西域浮屠，佛教特有的多層建築；又處、地方）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答字族②指豆莢狀，或引申指凸起：𨻇、𩏒、𦞂、𥉌、𦖿、𣯈、剳",
+      "statement": "②指豆莢狀，或引申指凸起：𨻇（同塌，墊也）、𩏒（皮革做的指套）、𦞂（𦞂膊即褡包，系在衣服外面的長而寬的腰帶）、𥉌（大垂目皃）、𦖿（大垂耳皃）、𣯈（同毾，毾㲪即有花紋的細毛毯）、剳（鉤、鐮刀，狀如豆莢；同札即舊時公文）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "答字族②指豆莢狀（續）：劄、瘩、㙮、榙、㜓、𩞰、𩺗、褡",
+      "statement": "劄（以針刺也；牋劄、書劄即書信）、瘩（長在背上癰；疙瘩，皮膚上小腫凸起的塊狀物）、㙮（地方、處所；圪㙮同疙瘩）、榙（榙𣝋，果似李）、㜓（面㜓姶皃）、𩞰（餎𩞰，面疙瘩）、𩺗（𩺗鰻，比目魚的一種；鮓𩺗，生于獸類肝膽間的結石，名貴藥物）、褡（被橫謂之褡；褡褳，一種長條形口袋，中間開口、兩頭裝東西，可搭在肩上）。",
+      "boundary": "源自《系统汉语》第75部「合部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾（㚒）：本義象兩人分處於一人腋下兩側，可象意夾持或夾住",
+      "statement": "「夾」象兩人分處於一人腋下兩側之形。可象意一人夾持左右兩人。jiā，《說文》：「持也。从大俠二人。古狎切。」也可象意左右兩人夾住中間一人。qià，《韻會》：「左右持也。」",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾：轉義為兼有、腋部、懷藏私藏、旁邊輔佐、雙層、狹窄、夾具",
+      "statement": "由一人夾持倆引申指兼有，《韻會》：「兼也。」由兩腋的相夾或引申指腋部，如「夾（gā）肢窩」，此義分化如「脥（qiè）」即腋下；或引申指懷藏、私藏、偷竊，如「夾雜、夾帶」；由兩人夾住一人引申指旁邊、輔佐、親近，《廣雅》「近也」、《集韻》「傍也」；或引申指雙層的，如「夾衣、夾層」；或引申指狹窄，xiá，《字彙補》「與狹同」；或引申指夾東西的器具，如「鐵夾」。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾：辯證春秋金文分化出「㚒」，且「夾、亦」形近而混，需按字義辨別",
+      "statement": "可能是為了區別，春秋金文將一人夾持兩人之義中的兩人分化作兩「入」，从而演變作「㚒（shǎn）」，《說文》：「㚒，盜竊褢物也。从亦，有所持。……弘農陝字从此。」另外因「夾、亦」形近或相混同：「亦」的甲骨文本从大从火，指燃竹枝或麻稈為燭；金文从丁从火指燈火就容易區別了。《說文》誤解「亦」為「人之臂亦也」，導致「亦、夾」不分——最典型的是「夜」，金文本指燈燭或燈月的照明，跟腋本不相干，但《說文》誤為「从夕，亦省聲」，从而將「腋、掖」等均為夜聲，實際上後者為「夾」聲。同樣，被認為从「夾」或「㚒」的字，則可能本應是从「亦」，需要根據字義進行辨別，具體見551《亦部》。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾：音源為借音字，因兩相合之意而義音同「合」",
+      "statement": "「夾」是借音字，因有兩相合之意而義音同「合」：《韓非子·說林上》「則䀹其一日」，《集韻·洽韻》「䀫，或从䀹」；《古詩為焦仲卿妻作》「著我繡夾裙」，《玉篇·衣部》「夾，同袷」。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾字族①指夾兩人，表示挾持、懷藏、隱匿、夾帶：挾、唊、梜、俠、翜",
+      "statement": "①指夾兩人，表示挾持、懷藏、隱匿、夾帶：挾（《說文》「俾持也」，夾持、夾在腋下或指間；《集韻》「輔也」；懷、持、藏、護）、唊（《說文》「妄語也」，唊唊即多言；猴頰藏食曰唊）、梜（《說文》「檢柙也」，護書的夾子、匣子；又筷子）、俠（《說文》「俜也」，一人能勝兩人，因力大而任事自雄；《正韻》「任俠，相與信為任，同是非曰俠」）、翜（《說文》「捷也」，飛之疾也；挾持；鳥斂翅而快速下滑；又棺羽飾）。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾字族①指夾兩人（續）：匧、㥦、㛍、瘱、瘞",
+      "statement": "匧（篋，《說文》「藏也」，收藏物品用的竹箱）、㥦（愜，《說文》「快心」，快意、內心感到滿足）、㛍（得志皃；呼吸急促、氣息奄奄，應指高興得氣喘吁吁狀）、瘱（《說文》「靜也」，安靜；隱匿隱秘；《方言》齊楚曰瘱，審也明白）、瘞（《說文》「幽薶也」，《爾雅》「祭地曰瘞薶」，幽藏埋）。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾字族①指夾兩人（續）：䬊、𧻵",
+      "statement": "䬊（風疾、風急皃，飛砂走石取挾持之意）、𧻵（行疾皃）。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾字族②指兩人夾，表示兩旁、狹窄、相對、相合：𠩘、陜（峽狹）、陝",
+      "statement": "②指兩人夾，表示兩旁、狹窄、相對、相合：𠩘（《說文》「𠪮也」，狹窄狹隘）、陜（《說文》「隘也」，狹隘不廣，或作陿、峽、狹）、陝（弘農陝也，古虢國王季之子所封；陝地因地處函谷關以西而得名，本取狹窄之意，應同「陜」——陜兼閃、狹二音二義，非有从人从入之別）。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾字族②指兩人夾（續）：䀹、頰、鋏、浹、莢、郟",
+      "statement": "䀹（《說文》「目旁毛也」即眼睫毛；目動、眨眼）、頰（《說文》「面旁也」，臉的兩側；《釋名》「夾也，兩旁稱也」）、鋏（《說文》「可以持冶器鑄鎔者」，即鉗子；又劍、劍兩頰）、浹（《新附》「洽也」，濕透；《爾雅》「徹也」；周匝；浹辰十二日）、莢（《說文》「艸實」，《廣雅》「豆角謂之莢」）、郟（潁川縣；宮室夾室，指東西兩側的後廂房）。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾字族②指兩人夾（續）：䩡、綊、㾜、㤲、筴、鵊",
+      "statement": "䩡（鞮䩡沙，漢時少數民族一種鞋頭不加護套的靴子，鞋幫兩塊相拼合；又履根；革製胸甲）、綊（《說文》「䋊綊也」，車馬飾；覆蓋在帽子上的一種裝飾物，分垂兩邊）、㾜（《說文》「病息也」，病人氣息微弱，如被夾緊呼吸急促）、㤲（《說文》「思皃」）、筴（策，馬棰；謀；蓍草占卜時夾在指間；又箸、夾舉、鍼箭具；同柵）、鵊（杜鵑即布穀鳥；產卵于其它鳥巢由別鳥代孵，取夾雜摻雜之意）。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "夾字族②指兩人夾（續）：埉、㼪、㿓、𪘘、𢂿、𢈙、𤲍、㽠、𠗉、㰰、𪖨、峽、硤、蛺",
+      "statement": "埉（水旁地；峽谷）、㼪（瓦相掩、半瓦）、㿓（羊蹄間疾、獸足病）、𪘘（曲齒；齒曲生皃）、𢂿（同帢，弁缺四隅謂之帢，士服）、𢈙（牆壁）、𤲍（相著也）、㽠（溝相接）、𠗉（凍相箸皃）、㰰（氣逆、喘息、呻）、𪖨（䶎齁，鼻息）、峽（兩山夾著的水道，《正字通》「山峭夾水亦曰峽」）、硤（硤石縣、峽州）、蛺（《說文》「蛺蜨也」，蝴蝶，斂翅如夾）。",
+      "boundary": "源自《系统汉语》第76部「夾部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "帀（匝迊）：本義甲骨文為倒「生」形，指艸木生長茂盛而枝葉倒垂之狀",
+      "statement": "「帀」甲骨文為倒「生」形，指艸木因生長茂盛而枝葉倒垂之狀。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "帀：轉義為環繞、遍及",
+      "statement": "由枝葉環繞主榦而倒垂之狀引申指環繞、遍及。zā，《玉篇》：「周也、徧也。」",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "帀：辯正《說文》「从反之」「周盛說」析形不確",
+      "statement": "《說文》依據小篆釋為：「𠣘（周）也。从反之而帀也。……周盛說。子荅切。」「反之」之意本有「夂」字，林義光《文源》即認為「反之無周帀之意」，而以其「三面各集于一也」；但「周帀」之意是指四圍，「三面」並不能體現，故析形皆不確。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "帀：音源為借音字，周帀如夾故義音同「夾」",
+      "statement": "「帀」是借音字，周帀如夾，故義音同「夾」：《周禮·大宰》「挾日而斂之」，《釋文》「挾，干本作帀」。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "帀字族①指環繞、周匝：魳、𠯗、砸、鉔、沞、韴",
+      "statement": "①指環繞、周匝：魳（鰤，老魚體呈紡槌形，體側有條貫穿頭尾的黃色帶子，故从帀）、𠯗（《風俗通》「入口曰𠯗」，用嘴唇銜住而吮吸；本指嘴唇環繞）、砸（《廣韻》「㩵今字」，《玉篇》「把也」，當指周帀然後捶打以免被砸物四處飛濺）、鉔（《字彙》「香球也」，古代金屬製成的球形熏香器，機環轉四周、爐體常平）、沞（湆沞，纔濕、微濕；沸皃，水沸騰翻湧而上面溢出之狀如帀）、韴（斷聲）。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "帀字族①指環繞、周匝（續）：𩫿、㺰、䞙、𤜳、𩡸、箍、鳾",
+      "statement": "𩫿（鬇，亂髮皃）、㺰（同瑡，玉名）、䞙（走皃，走急皃）、𤜳（獅，犬生二子；通作師）、𩡸（野馬）、箍（以竹篾或金屬條束緊，用帶子勒住；《廣東新語》大箍圍、小箍圍言四環皆江水）、鳾（鳥名，背部青灰色、頭部有黑色條紋，故从帀；善攀援樹木）。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "帀字族②象意字，含圍繞義；③形近字「巾」之訛：𤆱、䒥、𤟓",
+      "statement": "②象意字，含圍繞義：𤆱（同暖）。③形近字「巾」之訛：䒥（「芇」的訛字，本从巾卝聲，相當、折賄）、𤟓（字辨收錄）。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "師（𠂤）：本義从𠂤从帀，象多人環繞而坐",
+      "statement": "「師」从𠂤从帀，皆可表聲：「𠂤」象屁股形，表示坐的意思；「帀」指周匝，象意多人環繞而坐。shī，《爾雅·釋詁》：「眾也。」",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "師：轉義為軍隊、師傅教師、效法",
+      "statement": "環繞而坐意味著是有組織、有領頭的眾人，故引申指軍隊，《說文》：「二千五百人為師。从帀从𠂤。𠂤，四帀，眾意也。」或引申指環繞教師、師傅聽講，《玉篇》：「範也。敎人以道者之稱也。」由教師師傅引申指效法，《增韻》：「法也，效也。」",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "師：音源為本帀聲，義音同「斯」",
+      "statement": "「師」本帀聲，義音同「斯」：《左傳·文公十一年》「獲長狄緣師」，「師」《史記·魯周公世家》作「斯」。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "師字族：同「帀」，指環繞、成叢——溮、瑡、獅、篩、蒒、螄、𡠋、𤹌、𧜂、𩥐",
+      "statement": "字族同「帀」，指環繞、成叢：溮（溮水，源出河南湖北邊境桐柏山支脈，東北流入淮河）、瑡（玉名）、獅（《爾雅·釋獸》「狻麑」，《正字通》「百獸之長」，毛黃褐色、雄者脖有長鬣，一吼百獸辟易）、篩（用竹或金屬做成有孔的器具，使細者漏下、粗者留上）、蒒（蒒草即苔草，種子像大麥可食，俗名自然穀或禹餘糧）、螄（螺螄，一般環水岸而處、殼呈螺旋形）、𡠋（女巫）、𤹌（疑指丹毒之類的病）、𧜂（衣破）、𩥐（野馬）。",
+      "boundary": "源自《系统汉语》第77部「帀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "𦐇：本義从冃从羽，或指眾鳥高飛，或指以羽絨作被服的填充——「褟」之初文",
+      "statement": "「𦐇」从冃从羽：「冃」指覆蓋；「羽」指羽毛。或指羽毛的覆蓋，形容眾鳥高飛的樣子。tà，《說文》：「飛盛皃。从羽从冃。土盍切。」臣鉉等曰：「犯冒而飛，是盛也。」《玉篇》：「高飛皃。」或指將羽毛遮蓋以為用，即用羽絨作為被服的填充材料，實為「褟」的初文，《玉篇》：「褟，衣也。」",
+      "boundary": "源自《系统汉语》第78部「𦐇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "𦐇：轉義為緊貼、踏實——羽毛蓬鬆易飛散，需覆壓嚴實",
+      "statement": "羽毛十分蓬鬆、容易飛散，需要覆壓嚴實，故引申指緊貼、踏實，如「蹋、溻」等。",
+      "boundary": "源自《系统汉语》第78部「𦐇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "𦐇：音源——應由「翕」分化，「冃」本當為「合」，實即合聲，可歸入《合部》",
+      "statement": "就《訂正六書通》所載《義雲章》中的「塌」字來看，「𦐇」應由「翕」分化而來，「冃」本當為「合」，實即「合」聲，可以歸入《合部》。古𦐇、合本可通用：《史記·貨殖列傳》「榻布皮革千石」，「榻」《漢書·地理志》作「荅」；《戰國策·齊策》「其民無不吹竽、鼓瑟、擊築、彈琴、走犬、六博、蹹踘者」，「蹹」《史記·蘇秦列傳》作「蹋」。",
+      "boundary": "源自《系统汉语》第78部「𦐇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-064",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "𦐇字族①指集合羽毛為用，表示貼近、挨緊：榻、蹋、毾、褟、鰨、溻",
+      "statement": "①指集合羽毛為用，表示貼近、挨緊：榻（《新附》「床也」，《釋名》「言其榻然近地也」）、蹋（《說文》「踐也」，《釋名》「蹋，榻也，榻著地也」；蹋鞠即踢毬）、毾（毾㲪，有彩紋的細毛毯；施之承大床前小榻上）、褟（衣也，本義當指羽絨衣；貼身的單衫）、鰨（《說文》「虛鰨也」，比目魚；鯢魚即娃娃魚，似鮎四足聲如嬰兒——比目魚、娃娃魚都有皺褶如縫合的𦐇邊）、溻（濕也，汗水浸濕衣服被褥）。",
+      "boundary": "源自《系统汉语》第78部「𦐇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-065",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "𦐇字族①指集合羽毛為用（續）：遢、傝、禢、䪚、𦶑、搨",
+      "statement": "遢（穩行皃；邋遢即不謹事、行不正）、傝（傝儑，不自安、無恥、不著事、無儀檢；又儜劣）、禢（姓也）、䪚（熱䪚䪚也；皮服；兵器、鼓鼙聲）、𦶑（艸名，可作布，一種艸做的粗厚布）、搨（蒙上；同拓，用紙墨从鑄刻器物上捶印文字圖畫；收縮耷拉；塗抹顏色；打、落、壓、貼）。",
+      "boundary": "源自《系统汉语》第78部「𦐇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-066",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "𦐇字族②指鳥展翅狀，表示懸垂的寬大之物：闒、塌、䈳、鎉、䌈",
+      "statement": "②指鳥展翅狀，表示懸垂的寬大之物：闒（《說文》「樓上戶也」，樓上小門，樓門開合如翅；又里門、鐘鼓聲、闒茸無才能、微賤）、塌（墮也、地下陷；耕地之法初耕曰塌；床著地而安；土炕；耷拉；處所）、䈳（窗扇；篾織的窗簾）、鎉（金鎉、搭鉤；鉈的舊譯）、䌈（以索罥物，用繩索套取物體）。",
+      "boundary": "源自《系统汉语》第78部「𦐇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-067",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "𦐇字族②指鳥展翅狀（續）：𠞈、䑽、𧮑、𦧭、𩝣、𧪦、𩥑、𤒻",
+      "statement": "𠞈（著也、相著聲，从較高較遠處鉤取東西）、䑽（大船曰𦪙，兩槽大船，取其寬容平榻即艎屬）、𧮑（《說文》「嗑也」，話多；𧪦𧪞即多言妄語）、𦧭（狗舔食，舌頭寬大而往下之意）、𩝣（食皃）、𧪦（多言、妄語）、𩥑（馬行不進）、𤒻（爛也、墮也）。",
+      "boundary": "源自《系统汉语》第78部「𦐇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-068",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌（帇𦘒𤴗𤴘）：本義甲骨文从巾从止即「帇」，象意布幅的移動；或指織布時的「提綜」",
+      "statement": "「疌」甲骨文从巾从止，即「帇」，象意布幅的移動；或加「𦥑」指用手提起，當指織布時的提綜——織布時須將經線上下分開成梭口以受緯線，這裝置叫「綜」，原始踞織用的綜杆靠手工提拉，故从「𦥑」；後來用線連接到機下的踏板上用腳控制，从而產生織布機。由于商代晚期金文或作手提綜杆形，「巾」反向上，為後世所本，楷化作「𤴗（疌niè）」，或誤作「𤴘」，《字彙》：「機下足所履者。」",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-069",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌：轉義為快捷——提綜迅速",
+      "statement": "提綜迅速，故引申指快捷。jié，《玉篇》：「疌，辭接切。疾也。」",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-070",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌：辯正《說文》析形不確、所釋為引申義，且「帇、𦘒、𤴘、疌」同源",
+      "statement": "由于「𤴗」所从「巾」倒寫向上如「屮」，《說文》：「𤴗（疌），疾也。从止，从又。又，手也。屮聲。疾葉切。」析形不確，所釋也是引申義。而「帇、𦘒、𤴘」與「𤴗（疌）」本都是同源字：元周伯琦《六書正訛》認為「帇，从手持巾，言其易，亦作疌」；《徐灝·段注箋》引戴侗說「疌、𤴘實一字，織者足躡于下，手應于上，務于敏疌……今作捷。屮于聲不諧，乃入之訛」，所論精當。不過「𤴘」所从「入」其實也是倒「巾」之訛變，並不表聲。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-071",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌：音源為借音字，提綜分上下兩組相對而有夾意，故義音同「夾、聶」",
+      "statement": "「疌」是借音字，因所提綜分上下兩組相對而有夾意，故義音同「夾、聶」：《集韻》「𥍉，目動皃。或作䀹、睫」。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-072",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌字族①指提綜快，表示輕巧、快捷：捷、婕、倢、寁、𥵯、𢈻",
+      "statement": "①指提綜快，表示輕巧、快捷：捷（《說文》「獵也，軍獲得也」即戰利品；《廣韻》「疾也、剋也、勝也」；《爾雅》「接，捷也」；西周金文同「截」）、婕（女名用字；婕妤為婦官；美也、靈巧）、倢（《說文》「佽也」，便捷；健、次；斜出、利、便）、寁（《說文》「居之速也」，短暫停留；速、亟）、𥵯（破竹時兩側快速裂開）、𢈻（人名）。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-073",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌字族①指提綜快（續）：䑖、𨎉、𨕽、𨤴、𩃖、𪖮、㫸",
+      "statement": "䑖（音義待考，疑同砸）、𨎉（小車也）、𨕽（同躓，絆倒）、𨤴（斬也、漸也）、𩃖（下雪的樣子）、𪖮（噴嚏）、㫸（㫸𣋲，日欲沒，暮色四合之狀）。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-074",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌字族②指提綜狀，表示上下左右前後反復地快速離合：睫、蜨、徢、𨓰、𨖋",
+      "statement": "②指提綜狀，表示上下或左右、前後之間反復地快速離合：睫（《釋名》「揷也，接也，揷于眼眶而相接也」，睫毛隨眼皮快速離合正如提綜；目動）、蜨（蝴蝶，翅膀快速離合扇動；或作蝶、𧕊；漳泉海蟹橫尖者亦謂之蜨）、徢（趨行皃，兩腳快速前後交合）、𨓰（疾走也）、𨖋（遠也；行貌）。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-075",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌字族②指提綜狀（續）：啑、誱、踕、萐、箑、𣶏、疀、𦦘",
+      "statement": "啑（啑喋，水鳥食魚皃；啖也；多言；嚏之俗字，上下嘴巴快速開合）、誱（口誱，多言也）、踕（足疾、行皃，俗踥字）、萐（萐莆，瑞艸，堯時生于庖廚，扇暑而涼；其葉大于門扇，不搖自扇）、箑（《說文》「扇也」，竹扇；亦作𥯦，秦使徒隸助官書草𥯦，取其疾速）、𣶏（𣶏㳧，纔有水皃；波急聲）、疀（《說文》「𣂀也，古田器」，鍬、鏟、插用具）、𦦘（古文臿；揚麥杴）。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-076",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌字族②指提綜狀（續）：𦩌、𢏵、𦑈、𩗳",
+      "statement": "𦩌（舟行疾，船槳的來回搖動）、𢏵（同㣅，弓張弦，拉鬆弓弦時造成弓的快速翕張）、𦑈（俗翜字，飛之疾也）、𩗳（風皃，風吹使樹葉等質輕之物快速擺動）。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-077",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "疌字族③指所提綜狀，表示兩兩相接、相對：緁、𧚨、崨、𥓐、𧴇、脻、蓵、𣓉、𧲌",
+      "statement": "③指所提綜狀，表示兩兩相接、相對：緁（《說文》「緶衣也」，用針線縫合衣邊）、𧚨（《說文》「䘳緣也」，衣襟的邊沿；衣敝）、崨（崨䃳，山連延皃；山高皃）、𥓐（䃳𥓐，山連屬皃）、𧴇（獸也）、脻（髃也即肩頭；接也）、蓵（編草障戶；同雜）、𣓉（木理起皃；接也）、𧲌（牝豕、老母豬，其兩排乳房如分綜之狀）。",
+      "boundary": "源自《系统汉语》第79部「疌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-078",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "燮（爕㸉）：本義甲骨文象手持肉塊在火中燒烤，為「炙」之初文",
+      "statement": "「燮」甲骨文象手持肉塊在火中燒烤之形，是「炙」的初文。另體則从火从帀，「帀」指四周，義即環繞在火的四周燒烤；西周金文承襲此體，春秋時「帀」省作「T」形，後遂訛變成「𢆉、辛、屰、言」等形。《說文》分別釋作：「𤏻，大熟也。从又持炎、辛。辛者，物熟味也。」「燮，和也。从言从又、炎。籀文𤎬从𢆉。……此燮蓋从𤎬省，言語以和之也。」",
+      "boundary": "源自《系统汉语》第80部「燮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-079",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "燮：轉義為翻卷、輕盈——燒烤須不停翻動",
+      "statement": "手持肉塊在火中燒烤，為防止燒焦須不停地翻動，故引申指翻卷、輕盈，其義主要體現在衍生字中，如「𧕊」《廣韻》：「蜨，蛺蜨，蟲名。」指翻飛的蝴蝶。",
+      "boundary": "源自《系统汉语》第80部「燮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-080",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "燮：音源為借音字，來回翻卷之義音同「疌」（𧕊即蜨），或即「帀」聲",
+      "statement": "「燮」是借音字，因來回翻卷之意，義音同「疌」——前「𧕊」即與「蜨」同；或即「帀」聲。",
+      "boundary": "源自《系统汉语》第80部「燮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-081",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "燮字族：多指翻動——𤫉、躞、𧕊、㦪、㰔、㽊",
+      "statement": "字族多指翻動：𤫉（《說文》「石之次玉者」，疑同躞，指玉製的書卷軸心）、躞（躞蹀，邁著小步走路的樣子；隋唐藏書金題玉躞，躞為軸心以玉為之，即便于書頁翻動）、𧕊（蛺蜨即蝴蝶；一種海蟹）、㦪（意不平；志輕）、㰔（㰔㭯，簟名）、㽊（瓦破聲；疑本指瓦的一翻一覆相疊）。",
+      "boundary": "源自《系统汉语》第80部「燮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-082",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "燮字族（續）：𠑄、𡄕、𢹒、𩎃、𩙜、𥍆",
+      "statement": "𠑄（輕佻皃）、𡄕（壞聲；一說从燮言聲和也）、𢹒（取也）、𩎃（鞢𩎃，馬的鞍具）、𩙜（風皃）、𥍆（閉目，疑指燒烤時因煙熏人故閉目；或音義同睫）。",
+      "boundary": "源自《系统汉语》第80部「燮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-083",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介（个）：本義甲骨文从人四周有小點——或指人身上長小硬塊（疥之初文），或指鎧甲",
+      "statement": "「介」甲骨文从人四周有小點之形，小點指小的塊狀物，从「人」可象意有二：或指人身上長有許多小硬塊，是「疥」的初文——疥瘡由疥蟎在人體皮膚表皮層內引起，皮損為針尖大小的丘皰疹和皰疹，久不愈則出現炎性硬結節、劇癢，也應包括銀屑病、魚鱗病等癬類疾病；或指人穿著用皮革或金屬片連綴而成的鎧甲，《玉篇》：「甲也。」《廣雅》：「鎧也。」",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-084",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介：轉義為幫助護佑憑藉、障礙間隔疆界、介紹媒介、堅固",
+      "statement": "鎧甲護身，故引申指幫助、護佑、憑藉，《廣韻》：「助也、佑也。」由鎧甲抵擋武器攻擊起到隔開的作用，引申指障礙、間隔、疆界、側旁，《集韻》「間也」、《字彙》「畔也」；或引申指介紹、媒介即中間人，《玉篇》「紹也」。由鎧甲的堅實引申指堅固，《正字通》：「凡堅確不拔亦曰介。」",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-085",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介：轉義為大、獨特、單個（个）",
+      "statement": "穿著鎧甲人會變得肥大，故引申指大，《玉篇》：「大也。」或引申指獨特，《廣雅》：「獨也。」或引申指單個，gè，《集韻》：「箇，《說文》『竹枚也』，或作个、介，通作個。」",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-086",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介：辯正小篆將小點簡寫作「八」，《說文》「从八从人」析形不確",
+      "statement": "小篆將旁邊的小點簡寫作「八」，故《說文》：「畫也。从八，从人；人各有介。古拜切。」析形不確。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-087",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介：音源為借音字，古介、丯通用，或義音同「合」",
+      "statement": "「介」是借音字，古介、丯可通用：《老子》「是以聖人執左契而不責于人」，「契」馬王堆帛書《老子》甲本作「介」、乙本作「芥」；《戰國策·趙策》「則地與國都邦屬而壤挈者七百里」，「挈」《戰國策縱橫家書·蘇秦獻書趙王章》作「芥」。或義音同「合」：《禮記·月令》「爵入大水為蛤」，「蛤」《大戴禮記·易本命》作「蚧」。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-088",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介字族①指人披介狀，表示外殼硬：斺、㠹、祄、圿、𧱘、芥",
+      "statement": "①指人披介狀，表示外殼硬：斺（補膝、結也，即蔽膝）、㠹（幘也即頭巾）、祄（祜也，護佑）、圿（垢也，污垢）、𧱘（頑惡）、芥（《說文》「菜也」，芥菜根莖部位包裹一層厚皮故从介；種子細小味辛辣故引申指小義；芥藍即芥心嫩薹）。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-089",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介字族②指疥瘡或介狀，表示散佈的小塊：疥、魪、䲸、蚧",
+      "statement": "②指疥瘡或介狀，表示散佈的小塊：疥（《說文》「搔也」，疥瘡；通痎即兩日一發的瘧疾）、魪（兩魪即比目魚，體表有斑點如介）、䲸（《說文》「鳥，似鶡而青，出羌中」，疑指孔雀，羽端散佈眼狀斑）、蚧（蛤蚧，壁虎類；海蚌；介殼蟲）。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-090",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介字族③指介的保護，表示界限、中介、聯繫：畍（界）、衸、䦏、紒、䯰、𩡺、庎、𠨴",
+      "statement": "③指介的保護，表示界限、中介、聯繫：畍（界，《說文》「境也」，地界邊界；限、離間）、衸（《說文》「袥也」，裙子正中開衩的地方；衣裾、補膝裙）、䦏（《說文》「門扇也」）、紒（束髮，或作髻、結；心不了即不省悟；紫青色綬帶）、䯰（《說文》「簪結也」，已上簪的髮髻；覆髻巾、假髻）、𩡺（《說文》「系馬尾也」，捆綁馬尾成髻形）、庎（放置食器器具的擱板架子；濯洗用的流水器；獨居）、𠨴（與屆通）。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-091",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介字族④指披介的人狀，表示大、好、獨特：价（價）、玠、𡗦、㝏",
+      "statement": "④指披介的人狀，表示大、好、獨特：价（《說文》「善也」，善、大，《詩》「价人維藩」，朱熹集傳「价，大也，大德之人」；或說通甲即被甲之人；又介紹、派遣傳達之人；今作價之簡化字）、玠（《說文》「大圭也」即介圭）、𡗦（《說文》「大也」）、㝏（《博雅》「獨也」，《方言》「畜無偶曰㝏」）。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-092",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介字族⑤指人披介狀，表示不便、遲緩、摩切：尬、𢗊、忦（恝）、齘",
+      "statement": "⑤指人披介狀，表示不便、遲緩、摩切：尬（尷尬，進退兩難，因介甲沉重行走不便）、𢗊（《說文》「忽也」，忽略遺忘；無憂皃）、忦（恝，《說文》「憂也」，憂懼；怨恨；急也）、齘（《說文》「齒相切也」，牙齒相摩切；噤齘即切齒怒）。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-093",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "介字族⑤指人披介狀（續）：砎、扴、妎、吤",
+      "statement": "砎（石皃；砎礣即小石；磨也）、扴（《說文》「刮也」，揩扴物；彈奏）、妎（《說文》「妒也」，嫉妒；心不了；煩苛）、吤（聲也即喉中哽塞所出聲；助詞襯字；同齘）。",
+      "boundary": "源自《系统汉语》第81部「介部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-094",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卡：本義从上下，象夾在上下之間的中間地帶，即關隘",
+      "statement": "「卡」从上下，象意夾在上下之間的中間地帶，即關隘。qiǎ，《字彙補》：「从納切，音雜，楚屬關隘地方設兵立塘，謂之守卡。」",
+      "boundary": "源自《系统汉语》第82部「卡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-095",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卡：轉義為夾東西的物體、堵住，以及卡片（英文 card 音譯）",
+      "statement": "由關隘引申指夾東西的物體，如「髮卡、卡尺」；或引申指堵住，如「卡殼、卡喉嚨」。kǎ，今或稱小而硬的薄紙片類物體為卡片，則由英文 card 音譯過來，含有方便夾帶的意思。",
+      "boundary": "源自《系统汉语》第82部「卡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-096",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卡：辯正其結構跟「乞」同，「乞」之硬義實即卡之義，可視卡為乞的分化字",
+      "statement": "「卡」的結構其實跟「乞」同，「乞」之硬義實即卡之義，可視「卡」為「乞」後來的分化字。",
+      "boundary": "源自《系统汉语》第82部「卡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-097",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卡：音源為借音字，義音同「夾」",
+      "statement": "「卡」是借音字，義音同「夾」。",
+      "boundary": "源自《系统汉语》第82部「卡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-098",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卡字族①指夾，使堵塞：拤、咔、峠",
+      "statement": "①指夾，使堵塞：拤（用兩手掐住）、咔（俗哢字，鳥鳴；象聲詞）、峠（同卡）。",
+      "boundary": "源自《系统汉语》第82部「卡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j13-099",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-13-he",
+      "title": "卡字族②音譯字：佧、胩、鉲",
+      "statement": "②音譯字：佧（佧佤，佤族舊稱）、胩（有機化合物的一類，無色液體有惡臭，英 carbylamine 音譯）、鉲（化學元素鎘的音譯，符號 Cp）。",
+      "boundary": "源自《系统汉语》第82部「卡部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
