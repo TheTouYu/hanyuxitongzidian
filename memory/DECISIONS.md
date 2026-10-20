@@ -33,3 +33,9 @@
 
 - **凡主人发来的文档，一律录入知识库**（主人 m01350）：「凡是我发给你的文档，都要录入知识库」。收到 docx/doc 等文档即直接走录库流程（抽取 → 草稿 → 预览 → check → 定稿 → 请主人按哈希批准 → 应用 → rebuild/validate/check/search → 更新 memory → 提交），不再先问「是否录入」。只有一种情况要先问：文档内容与库里已有主题高度重叠，需要主人在「补录缺口／新增主题／全量重录」之间定夺（如 `系统汉语.docx` 那次）。
 - **`memory\HANZI-EXEGESIS.md` 作为方法文档保留**（主人 m01350「要」）：释字方法论「先定性，再释形义」——先查目录定位部次、判断是字根还是谐声字，再按对应路径讲形义；含「始」的完整示例与「只搜字头就断言库里没有」的反例。暂不入 Claim，放 memory 供每次释字/字卡遵循。
+
+## 2026-10-20 自动入库授权（卷七起）
+
+- **主人授权跳过逐批批准**（m01503）：「卷七  斤.docx 录入知识库。完成后自动录入，不需要经过批准」。故自卷七起，文档入库仍走完整链路（抽取 → 草稿 → `capture --preview-only` → `check --mode delta` → `finalize` → `bundle-approve`/`bundle-apply` → `rebuild`/`validate`/`knowledge-check`/检索抽验 → memory → 提交），但**不再请主人逐批点头哈希**；bundle 与 64 位 content_hash 照旧留档在 `data/knowledge/bundles/`，可回溯。
+- 若遇 `PLAN_STALE_BASELINE`（定稿后 HEAD 被别处推进），仍按 `knowledge-plan rebase` → `check` → `finalize` 重定稿后直接应用，不打断主人。
+- 仍然要问的只有一类：文档与既有主题高度重叠，需要在这批是「补录缺口／新增主题／全量重录」之间定夺时才请示。

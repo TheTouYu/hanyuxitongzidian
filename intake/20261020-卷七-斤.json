@@ -1,0 +1,837 @@
+{
+  "schema_version": 1,
+  "intent": "新增：《系统汉语》卷七 斤 63 条（第44部斤部至第47部炙部）",
+  "risk": "medium",
+  "claims": [
+    {
+      "id": "j7-001",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：「斤」象曲柄石斧，「石」同为音源字",
+      "statement": "卷七的音源字是「斤」，甲骨文象曲柄的石斧形，斤身与木柄相连成「7」字形，刃部锋利。因为斤由石斧发展而来，「石」字同样是音源字，二者都源自从石器上发出的砍砸声。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/07a-jin.md",
+      "topic_title": "卷七·斤",
+      "topic_summary": "《系统汉语》卷七「斤」，音源字「斤」（曲柄石斧）与「石」，音源于石块砍砸声；含第44部斤部、45部石部、46部乇部、47部炙部，凡63条。",
+      "topic_keywords": [
+        "斤",
+        "石",
+        "乇",
+        "炙",
+        "音源字",
+        "卷七"
+      ]
+    },
+    {
+      "id": "j7-002",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：手斧到装柄的「斤」，即学界所称的「錛」",
+      "statement": "不经装柄的石器只是「手斧」：两面打制，轮廓多为梨形或杏仁形，以长轴为中心左右对称，一端略尖、一端钝厚以便握持，兼作宰割猎物的屠刀与砍伐之具，被称为人类最早的标准化工具；日本考古学家 2008 年底曾在马来西亚发现距今 180 万年前的手斧。把手斧安上木柄才成为「斤」，学界一般称「錛」，利用杠杆原理与冲量等于动量改变量的原理运作，事半功倍；「运斤成风」讲的就是把笨重的斤按圆形轨迹轮番砍斫、借其惯性，「斩」即其形象再现。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-003",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：彩陶缸上的石斧——木柄嵌石片、以绳固定",
+      "statement": "1978 年河南临汝阎村发现的一件彩色陶缸上绘有石斧（见《雚》附图），图中石斧是把石片嵌进木柄、再用绳子固定；据测定该陶缸属仰韶时期，距今 6500–5000 年。斤在中国何时开始使用尚无定论，但这幅图是石斧装柄的实物证据。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-004",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：火与金属——800℃ 出现青铜，国家随之而生",
+      "statement": "人类文明的「分水岭」是火被掌控：此前为石器时代，生产生活所需俯拾即是，是原始公社制、无国家；此后烧陶使窑温越来越高，达到 800℃ 时青铜被发现利用，其硬度超过任何石头，又可随人的愿望铸成器物，但需要一定的技术与条件，于是谁先掌握冶炼谁就能主宰世界——从此进入杀伐时代，奴役与被奴役开始，作为阶级斗争产物的国家应运而生。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-005",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：铜锡合金——锡熔点 231.9℃，合金硬度为铜锡两倍多",
+      "statement": "常见金属中锡的熔点最低，只有 231.9℃，硬度还不如石头；但温度达到 800℃ 时，伴生的铜与锡熔合，形成高硬度的合金青铜，硬度是铜或锡的两倍多。把它造成工具以后，便可以改造自然、征服同类。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-006",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：中国最早的青铜器与「禹铸九鼎」",
+      "statement": "1973 年甘肃东乡林家马家窑文化遗址（约前 3100 年）出土一件青铜刀，是迄今中国发现最早的青铜器；河南偃师二里头、山西夏县东下冯、辽宁夏家店等地也相继发现约前 2080–前 1580 年间的品类繁杂的青铜制品。大约同一时期三皇五帝活跃起来，最终由大禹父子建立第一个私有制国家夏；为垄断「金」，禹「收九牧之金，铸九鼎，象九州」，秦始皇则「收天下之兵聚之咸阳，销锋镝，铸以为金人十二」。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-007",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：商代青铜与文字——「商」「龍」都刻着青铜刀「辛」的徽记",
+      "statement": "真正达到青铜文明高度的是商：其国号「商」、其图腾「龍」都刻有青铜刀「辛」的徽记，以彰显「金霸天下」的实力。「国之大事，在祀与戎」，金作为国家重器，主要用途就在战争与祭祀——辛、斤之类锐利的武器，鼎、尊之类精美的礼器，莫不以清脆的金属声昭示其魅力，汉字系统也由此趋于完善。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-008",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：妇好墓青铜斧钺——刃宽约 375–385 毫米、重 8.5–9 公斤",
+      "statement": "进入青铜时代，青铜斧取代石斧。河南安阳殷墟妇好墓出土两件大型青铜斧钺，刃部宽约 375–385 毫米，重 8.5–9 公斤，上铸铭文「妇好」；它保留了石斧刃部弧曲宽阔、两角略微上翘的特点，但更大、更坚韧、更精美，与今天的斧头相比也毫不逊色。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-009",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：斧是工匠的象征，甲骨文「兵」即双手抡斤",
+      "statement": "斧头十分笨重，主要用于砍伐树木、加工木材，遂成工匠的象征，「班门弄斧」的「班」就是春秋时著名工匠鲁班。甲骨文指战争、武器、士兵的「兵」，写作双手抡斤的样子，可见斧在甲骨文时代是最主要的武器；拥有大斧的妇好是殷王武丁之妻、骁勇善战的女统帅，曾多次率兵出征。随着戈、矛、剑出现，笨重的斧退居次要，《左传·哀公二十五年》「皆执利兵，无者执斤」——到春秋时没有锋利武器才不得已用斧。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-010",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：青铜斧曾是中国最早的金属称量货币，「斤」由斧名变为重量单位",
+      "statement": "1959 年湖南宁乡黄材出土的商代铜铙中藏有 224 只小青铜斧，大小一致、全是新铸、未见使用痕迹；据《居后敦》铭文「货余一斧，舍余一斧」与《易·旅》「得其资斧」推断，「资斧」即资金，可见斧曾具备货币职能。这也解释了何以指斧头的「斤」会兼指斤两的「斤」。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-011",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：砍斫声分三类——「斫」「斤」「析」",
+      "statement": "辛、斤、鼎之类器物都经历过石器或陶器时代，并与青铜器并存，故其字族取音兼有石声与陶声。石斧砍斫发出 duo-duo 声；青铜斧砍伐声无明显变化，但斧身会发 ding-ding 声；又因利用方式不同，砍伐是 duo-duo，剖物则是 xi-xi-jian-jian 声。若按声音细分，当分三大类别：一为「斫」，一为「斤」，一为「析」。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-012",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "卷首：托举之「乇」借石音——《集韵》「拓，手推物。或作𢸨、托」",
+      "statement": "取石块垫底托举之用，「乇」借以为音。《集韵》：「拓，手推物。或作𢸨、托。」即手上托物的动作借了石的音义。",
+      "boundary": "源自《系统汉语》卷七「斤」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-013",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤：本义为曲柄石斧，刃利如石镞",
+      "statement": "斤的甲骨文象曲柄的石斧形，刃部与「矢」的锋相同，指其利如石镞。jīn，《正字通》：「斧类。」《释名·释用器》：「斤，谨也。板广不可得削，又有节，则用此斤之，所以详谨令平灭斧迹也。」",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-014",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤：转义为重量单位与「斤斤」明察、宽仁",
+      "statement": "青铜器产生以后，石斤换作金属，或铸小斤作为钱币使用，故引申作量词，表示十两之意，《广韵》：「十六两也。」古用十六两秤，与今天的十两同。由其度量作用，又引申指明察、宽仁：《集韵》「斤斤，仁也」「明也」，《尔雅》「斤斤，察也」，或从心作「忻」。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-015",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤：辩证——《说文》「斫木也」失之于片面",
+      "statement": "斤作为砍斫器具，功用是多方面的：《说文》「斫木也。象形。凡斤之属皆从斤。举欣切」，只就砍木一端立说，失之于片面。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-016",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤：音源字，石斤声浊近 ji、zhuo，金属斤才近 jin、yin",
+      "statement": "斤是音源字，源自用斤时的砍斫声：石斤时声音浊，近似 ji、zhuo；到金属斤时，声才近似 jin、yin。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-017",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤部字族①：运斤砍斫（釿、斫、斲、斮、匠）",
+      "statement": "指运斤，表示砍斫、上下起伏：釿 yǐn，《说文》「剂断也。从斤金」，整齐地截断，唐玄应《经音义》「剪刀也」，又为平木之具、器之釿锷（器物凹下处）；斫 zhuó，《说文》「击也。从斤石声」，指用石斧砍击，《尔雅》「斫谓之鐯」（大锄）；斲 zhuó，《说文》「斫也。从斤𠁁」，徐铉谓「𠁁，器也，斤以斲之」；斮 zhuó，《说文》「斩也。从斤昔声」，斤声也可通；匠 jiàng，《说文》「木工也。从匚从斤。斤，所以作器也」，《广韵》「工匠」，《小尔雅》「治也」。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-018",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤部字族①续：𪀘、庍、頎、斱、赾、䞪、祈",
+      "statement": "𪀘 jiàng，《玉篇》「巧妇也」，《广雅》「女𪀘，工雀也」，即鹪鹩一类；庍 bài，《玉篇》「到。别也」，xìn 为疮中冷，tīng 同「厅」；頎 qí，《广韵》「长貌」，《玉篇》「颀颀然佳也」，kěn 音垦，为「至也」，《礼记》「稽颡而后拜，颀乎其至也」郑注「颀，至也」；斱 zhuó，《篇海》「同斫」；赾 qǐn，《说文》「行难也。从走斤声」，行走困难，指行走之状如砍斫，《广韵》「跛行貌」；䞪 jiàng，《说文》「行貌。从走匠声」，应与「赾」同；祈 qí，《说文》「求福也。从示，斤声」，祈祷叩头作揖如运斤，《广雅》「求也」。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-019",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤部字族②：斤形——牙、旗等物如斤状",
+      "statement": "指斤形，表示牙、旗等物如斤状：齗 yín，《说文》「齿本也。从齿斤声」，《玉篇》「齿根肉」，即牙龈，谓露出牙齿如斤；听 yǐn，《说文》「笑貌。从口斤声」，《广韵》「口大貌」，《玉篇》「仰鼻」，tīng 俗借为「听」的省文；妡 xīn，《广韵》「女字」；靳 jìn，《说文》「当膺也。从革斤声」，当胸的皮革，《广雅》「弸辕谓之靳」（游环），又为吝、取、嘲弄；䓄 yín，《说文》「艸多貌」，草多而交错；旂 qí，《说文》「旗有众铃，以令众也。从㫃斤声」，旗形如斤；𧞐 zhuó，《说文》「衣至地也」；馸 xìn，马重，jìn 为车中马；䖐 yín，《说文》「虎声也」，虎啸露牙如斤；㹞 yín，《说文》「犬吠声」，犬争也。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-020",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤部字族③：斤印——开裂",
+      "statement": "指斤印，表示裂开：忻 xīn，《说文》「闿也。从心斤声」，开启，《玉篇》「察也」「喜也」；昕 xīn，《说文》「旦明，日将出也」，天刚亮、混沌初开之状，甲骨文或从「囧」，《小尔雅》「明也」；訢 xīn，《说文》「喜也。从言斤声」，喜悦、咧嘴而笑；𪛊 yín，《集韵》「大篪」；沂 yí，沂水，又《尔雅·释乐》「大篪谓之沂」，即笛，亦通「垠」为界限；圻 yín，《说文》「地垠也。一曰岸也」，地的边界、岸，qí 通「崎」「碕」，又通「畿」为天子千里之地；盺 xīn，《玉篇》「喜也」，《类篇》「视不明貌」；炘 xìn，爇、炙、火气；峾 yìn，峾沦，水回旋、漩涡。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-021",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "斤部字族④：斫碎——细长条与紧挨",
+      "statement": "指斫碎，表示细长条、紧挨：近 jìn，《说文》「附也。从辵斤声」，《玉篇》「不远也」，《广韵》「迫也」；垽 yìn，《说文》「淀也」，沉淀的渣滓；伒 jìn，《集韵》「相也」，yín 为众立；𪏴 jǐn，《玉篇》「黏也」；邤 xīn，《集韵》「邻也」；菦 qín，《说文》「菜，类蒿」，即芹；芹 qín，《说文》「楚葵也」，茎细长有棱如砍削而成，《埤雅》谓其洁白有节、其气芬芳。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-022",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "所：本义为处所，从户从斤，伐木之声亦作所",
+      "statement": "「所」（𢨷）从户从斤：取「斤」声，则象意门页如斧，表示处所，suǒ，《集韵》「一曰处也。亦姓。古作𢨷」；取「户」声，则象意斧头阔大如门扇，表示砍伐。shǔ，《说文》：「伐木声也。从斤户声。《诗》曰：『伐木所所。』疏举切。」",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-023",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "所部字族：齭、乺、㫹——未成字族",
+      "statement": "「所」下字不成族：齭 chǔ，《说文》「齿伤酢也。从齿所声」，即牙齿被酸所伤；乺 suǒ，韩语「涂刷用具、刷子」；㫹 shù，《广韵》「明也」，《正字通》以为「昴」字之讹。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-024",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "欣：本义为笑喜，从欠斤声；「訢」与「欣」音义同流",
+      "statement": "欣从欠斤声：「欠」指裂开口的样子，「斤」指斧头，象意嘴张开如斧头砍出的口子，表示大笑。《说文》：「欣，笑喜也。从欠斤声。许斤切。」也可象意手舞足蹈如抡斧之状，表示欢腾，此义作「訢」；或指出言如斫，表示谨慎。转义由笑时嘴张开，引申为张起、蓬勃，如「欣欣向荣」，又由喜悦引申为爱戴、欣赏。辩证：「欣」与「訢」结构本不同，但「欣」只有战国古文，《段注》引晋灼「訢，古欣字」，二者音义皆同，故合并解释。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-025",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "欣部字族：掀、𦜓、焮、惞、俽——喜悦张起",
+      "statement": "指喜悦，表示张起貌：掀 xiān，《说文》「举出也。从手欣声」，《广韵》「以手高举也」，如抡斧状；𦜓 xìn，同「㾙」，疮中冷，又指伤口愈合时新肉略微凸出；焮 xìn，炙、火气、暴晒；惞 xīn，《集韵》「喜也。亦作欣欣」；俽 xīn，《集韵》「喜也」。",
+      "boundary": "源自《系统汉语》第44部「斤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-026",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "石：本义为山石，甲骨文象悬崖上倒立的石块",
+      "statement": "石的甲骨文象悬崖形——只有石块才可能这样呈倒立状（土块会崩塌下来），故指石头。shí，《说文》：「山石也。在厂之下；口，象形。凡石之属皆从石。常只切。」或下加「口」，指落下的石块状。《字汇》：「山骨。」",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-027",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "石：转义为磬、坚固、量词、砭石、居室与投掷",
+      "statement": "古代或用石块制成打击乐器磬，《正字通》「乐器名，八音之一」；岩石一般硬实坚固，故比喻坚定、牢固、沉重，如「石心」「石交」；石头坚实硕大，或比喻如石之物，《玉篇》「厚也」；或引申作量词，《小尔雅》「钧四谓之石」，《正字通》「十斗为石」，方言中又为田的面积单位；或指治病用的砭石，《石雅·砭石》「古者以石为针」；初民崖居，故或指居室，此义后分化为「厂」「广」，多作形旁表示居室；或引申指投掷，《广雅》「石，擿也」。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-028",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "石：音源字，源自石块碰击声",
+      "statement": "石是音源字，源自石块碰击之声。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-029",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "石部字族①：石头的用途（祏、宕、鉐、坧、砅）",
+      "statement": "指石头的相关用途：祏 shí，《说文》「宗庙主也」，一曰大夫以石为主，反映古代石崇拜；宕 dāng，《说文》「过也。一曰洞屋」，《集韵》「采石工谓之宕户」，与「荡」通；鉐 shí，《集韵》「鍮鉐，以石药治铜」，指含铜的矿石；坧 zhǐ，《集韵》「碁址也」，基脚，一般用石块；砅 lì，《说文》「履石渡水也。从水从石」，踏着石磴渡水。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-030",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "石部字族②：用石砍砸、投掷（斫、拓、䞠、袥、沰、𡇈、䲽、鼫）",
+      "statement": "指用石砍砸、投掷：斫 zhuó，《说文》「击也。从斤石声」，用石头砍砸；拓 zhí，《说文》「拾也。陈、宋语」，即拣石头，拣石头是为扔出去，故有开拓之意，tuò 为手承物、手推物，tà 为把碑刻文字图画摹印在纸上；䞠 zhī，《广韵》「行也」；袥 tuō，《说文》「衣衸」，裙子中间开衩处；沰 tuō，落、磓，duó 为滴；𡇈 dàng，《唐韵》「碎石声也」；䲽 shí，鹡鸰鸟，羽黑白相间如石，又称「石鸟」「点水雀」；鼫 shí，《说文》「五技鼠也」，鼯鼠，滑翔如掷石不远。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-031",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "石部字族③④：石头之硬与石之大",
+      "statement": "指石头的硬：蹠 zhí，《说文》「足下也」，脚掌；柘 zhè，《说文》「桑也」，木质硬如石；妬 dù，同「妒」，《释名》「乳痈曰妬」；炻 shí，介于陶器与瓷器之间的陶瓷制品。指石之大：碩 shuò，《说文》「头大也」；䄷 shí，《说文》「百二十斤也」，稻一䄷为粟二十升，权之大者也；𦚈 tuò，腹大貌。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-032",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "席：本义为席子，甲骨文象席纹，金文从巾石声取「如石般硬」",
+      "statement": "席的甲骨文本象有纹路的席子形，即「㐁」字。西周金文或从巾石声，意即象石板一样硬邦邦的布，指用厚布作的席子；或从巾从革省，指用皮革作席；战国古文或从竹石声，则指竹席。xí，《说文》：「籍也。……从巾，庶省。祥易切。」徐铉谓席以待宾客之礼、宾客非一人，故从庶，《玉篇》「床席也」。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-033",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "席：转义为席位、凭藉与席状物；字族蓆、褯、𥱊、𣝸",
+      "statement": "先民的坐卧饮食都在席上，故引申指席位、座位、职位、酒席，《正字通》「坐卧所藉也」；由坐卧于席引申指凭藉、依仗、安息，《韵会》「资也、因也」；或比喻席状物，如「挂帆席」指船帆。字族：蓆 xí，《说文》「广多也」，草多如席，或指草席；褯 jiè，包裹婴儿的衣被、尿布；𥱊 xí，竹篾编的垫子；𣝸 chuì，指男性不育，谓如席子只起睡觉之用。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-034",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "度：本义为手拿石头作工具，甲骨文从又从石",
+      "statement": "度的甲骨文从又从石，象意手拿石头作为工具。由于石头用途广泛，随着用途不同而引申出多种含义。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-035",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "度：转义为通过、堵塞、击器、涂饰、揣度与居住",
+      "statement": "用石头垫脚过河或抛掷，引申指通过、跨越（dù，《字汇》「过也」）；用石头填塞坎洞，引申指堵塞（duó，《正字通》「投土于版也」）；用石头砍砸，引申指击打用的器具（dù，《广雅》「殳、度，杖也」，即连枷）；用石头刻画、涂饰，即「镀」；用石头探知水深、洞深与动静，引申指揣度、测量、谋划（dù，《说文》「法制也」；duó，《尔雅》「谋也」）；用石头垒成居室，引申指居住（zhái，《集韵》引《说文》「所托也」，古作𡧪、㡯）。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-036",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "度部字族①：通过（渡、踱、𨍏、䩲、艔、𪃒）",
+      "statement": "指通过：渡 dù，《说文》「济也」，过河，《广雅》「去也、通也」；踱 duó，赤足踏地，又「跮踱，乍前乍却」，慢慢地走，chuò 与「躇」同，越级不按阶次；𨍏 duó，𨍏辂，转；䩲 dū，析皮具、牛牵船；艔 dào，机动船牵引的客船、渡船；𪃒 duó，鸌𪃒，水鸟，贴水而飞状如打石漂。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-037",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "度部字族②③：堵塞与揣度",
+      "statement": "指堵塞：𢾅 dù，《说文》「闭也」，即拿石头堵住；𥯖 dù，发簪；𡍨 dù，填、塞。指揣度：𢜬 duó，《集韵》「忖𢜬也。与度同」；庹 tuǒ，《字汇补》「两腕引长谓之庹」，即用手度量；喥 duó，言无度、啰嗦；𧶴 dǔ，同「赌」。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-038",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "度部字族④⑤：刻画裁割与硬如石",
+      "statement": "指刻画、裁割：鍍 dù，以金饰物；𣨲 dù，败也；𦂀 tá，绢重；𧩧 duó，欺也；剫 duó，《说文》「判也」，裁割，《玉篇》「治木也，分也」。指硬如石头：𦳔 dù，香草，疑即杜若，根茎硬如石；𩩮 dù，头颅。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-039",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "叚：本义为花岗岩，即「碬」（厉石）之初文",
+      "statement": "「叚、度」本同源，周后分化为从石从𠬪。「𠬪」，《说文》「物落；上下相付也」，指手头的直接交付，象意石头的多次经手、辗转使用。石头本来普通，却被辗转使用，意味着这不是普通的石头，而是特别硬的花岗岩之类，可谓「碬」（xiá）的初文，《说文》「厉石也」，能做磨刀石的必须是很硬的石头。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-040",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "叚：转义为借、色赤、坚硬与大",
+      "statement": "由石头的辗转使用，引申指借义（jiǎ，《说文》「借也」）；由花岗石之色，引申指色赤，此义分化如「瑕」（《说文》「玉小赤也」）；由花岗石之硬，引申指坚硬，此义分化如「鍜」（《集韵》「颈铠也」）；花岗石难以被分化，岩体都很大，故引申指大，此义分化如「假」，《尔雅·释诂》「大也」。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-041",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "叚部字族①：大、远、闲、久（假、嘏、暇、遐、徦、䫗、蕸、睱、婽）",
+      "statement": "指叚形，表示大、远、闲、久：假 jiǎ，《说文》「非真也」，一曰至也，《尔雅》「大也」，《广雅》「借也」，jià 为休假；嘏 jiǎ，《说文》「大远也」，《广韵》「福也」；暇 xiá，《说文》「闲也」，空闲；遐 xiá，《说文》「远也」，远、长久；徦 jiǎ，《说文》「至也」，指来得很快；䫗 xiá，言语无度；蕸 xiá，《尔雅·释草》「荷，芙蕖。其叶蕸」，荷叶；睱 xià，闲暇视、慢慢看；婽 jiǎ，好也。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-042",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "叚部字族②：坚硬（瘕、豭、椵、麚、䠍、鍜、䪗、犌、碬）",
+      "statement": "指叚质，表示坚硬：瘕 jiǎ，《说文》「女病也」，腹中结块之病，谓其硬如石块；豭 jiā，《说文》「牡豕也」，公猪，甲骨文本从「士」指雄性；椵 jiǎ，《说文》「木。可作床几」，木质硬如石；麚 jiā，《说文》「牡鹿」，雄鹿；䠍 xiā，足所履；鍜 xiá，《说文》「錏鍜也」，套在脖子上的铠甲；䪗 xiá，鞋后跟加厚部分；犌 jiā，牛有力，即公牛；碬 xiá，《说文》「厉石也」，磨刀石。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-043",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "叚部字族③：赤色与斑驳（騢、瑕、葭、鰕、赮、𣮫、貑、霞、蝦）",
+      "statement": "指叚色，表示赤、斑驳：騢 xiá，《说文》「马赤白杂毛」，谓色似鰕鱼；瑕 xiá，《说文》「玉小赤也」，玉石上的小赤色斑点；葭 jiā，《说文》「苇之未秀者」，没有抽穗的芦苇，色赤；鰕 xiā，斑鱼，《本草纲目》「鰕音霞，俗作虾，入汤则红色如霞」；赮 xiá，《新附》「赤色也」；𣮫 jiā，毛衣；貑 jiā，羆如熊、黄白文；霞 xiá，《新附》「赤云气也」；蝦 há，《说文》「虾蟆也」，蛤蟆，xiā 为虾。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-044",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "槖：本义为木鼓梆子，转义为袋子与杵声",
+      "statement": "槖从東石声：「東」指木鼓、掏空的木头，「石」声象意如石头般硬实的木鼓，指梆子，是「𣟄（tuò）」的初文，《说文》「夜行所击者」。因梆子中空，引申指袋子（tuó，《玉篇》「小囊也」，《广韵》「无底囊」）；由击槖声引申指杵声，《正字通》「橐橐，杵声」。字族：𣟄 tuò，夜里敲击的木梆；驝 tuò，骆驼，驼峰如槖；蠹 dù，木中蛀虫，蛀空木头。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-045",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "庶（𢉙）：本义为烧红的石头，从火石声",
+      "statement": "庶（𢉙）从火石声，象意烧红的石头。先民在没有陶器之前，用烧红的石头煨煮食物，今天「铁板烧」即其遗法。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-046",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "庶：转义为煨煮、庶几、众多与熨烫",
+      "statement": "将石头烧红作用很多：或用于煨煮食物，故义音同「煮（zhù）」，郑玄《周礼·秋官》「庶氏」注「庶，读如药煑之煑」；于省吾《甲骨文字释林·释庶》谓陶器出现之前，古人或以火烧热石头烙烤食物，或以热石投于盛水器中煮熟食物，甲骨文庶字正象烧石之形。这种加热方式程度有限，故引申指庶几、差不多、估摸（《尔雅·释言》「庶，幸也」，《论语》「回也其庶乎」朱注「庶，近也」）；加热过程中所需石块较多，故引申指多（《尔雅·释言》「侈也」）；或用于冬季取暖、熨烫衣服、热疗，此义分化为「㷉」。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-047",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "庶：辩证——《说文》「屋下众也」析形不确，煤块说不可从",
+      "statement": "《说文》依据秦篆，释为「屋下众也。从广炗；炗，古文光字」，析形不确。另有唐汉《汉字密码》以为庶指能燃烧的石头即煤炭，庶民即用煤的贫民；考古上中国确实很早就使用煤（辽宁沈阳新乐遗址下层出土精煤制品、陕西宝鸡茹家庄西周墓出土煤雕二百余枚，《山海经》称煤为「石涅」），但从「庶」的字义以及以「庶」为声符的衍生字看，与煤看不出联系，此说不可从。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-048",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "庶部字族①：遮盖与众多（遮、嗻、蹠、謶、嫬、墌、蟅等）",
+      "statement": "指遮盖、众多：遮 zhē，《说文》「遏也」，掩盖、拦住；嗻 zhè，《说文》「遮也」，多言使别人说不上话；蹠 zhí，《说文》「楚人谓跳跃曰蹠」，脚掌、踩踏；謶 zhuó，谪、欺，shù 通「庶」为希冀；嫬 zhē，女字；𠌮 zhē，𠌮儸，健而不德；墌 zhǐ，基址，zhuó 为筑土为基；㵂 shù，水名；䭖 zhù，豕食、大糜；𡻠 zhù，番山；㫂 zhù，斫；蟅 zhè，土鳖、蝗虫，众多之意。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-049",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "庶部字族②③：红褐色与煮后拣拾（蔗、鷓、樜、熫、摭、𤳯）",
+      "statement": "指石头烧红时的红褐色：蔗 zhè，《说文》「藷蔗也」，甘蔗，因其皮色褐如柘树；鷓 zhè，鹧鸪，背腹黑白相杂、头顶棕色；樜 zhè，柘树，树皮灰褐、木心黄色、质坚致密；熫 zhì，《颜氏家训》「吴人以火旁作庶，为炙字」。指煮后拣拾石头：摭 zhí，《正字通》「同拓，采取也」，采摘；𤳯 zhù，筐子、畚箕。",
+      "boundary": "源自《系统汉语》第45部「石部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-050",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "乇：本义为手掌朝上托举，即「托」之初文",
+      "statement": "乇的甲骨文为「又」字表手腕的部分朝上，表示手掌朝上托举之意，是「托（tuō）」的初文。《集韵》：「拓，手推物。或作𢸨、托。」",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-051",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "乇：转义为张开、草叶与寄托；辩证《说文》「艸叶也」析形不确",
+      "statement": "由手托举时手掌张开之状，引申指张开，此义分化如「厇（zhé）」（《集韵》「张也」），或引申指草木的叶子（zhé，《玉篇》「草叶也」）；由对物的托举，引申指寄托、委托（tuō，《六书正讹》「乇，借为寄乇、委乇字」）。《说文》「艸叶也。从垂穗，上贯一，下有根。象形」，析形不确。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-052",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "乇：借音字——手掌较硬，义音同「石」",
+      "statement": "乇是借音字：因手掌较硬，而义音同「石」，《集韵》：「拓，手推物。或作𢸨、托。」",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-053",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "乇部字族①：托举——负载、挺举、依凭（托、杔、奼、仛、馲、託、亳等）",
+      "statement": "指托举，表示负载、挺举、依凭：托 tuō，《集韵》「拓，手推物。或作𢸨、托」，《康典》引《五代史》「不托」即汤饼；杔 tuō，杔栌，木名，zhé 为滤酒器、柱上横木；𦘴 dū，胍𦘴，大腹貌；奼 chà，《说文》「少女也」；仛 duó，他也，tuō 为依；馲 zhé，驴父牛母所生，即骡子，tuō 为骆驼，都善于驮物；𧲢 zhé，骡子；𦨎 tà，舟名；𥭬 féi，竹名；𦬃 zhé，药草；託 tuō，《说文》「寄也」；㓃 dù，《说文》「奠爵酒也」，祭祀时把酒洒在地上；亳 bó，商汤所都；圫 yù，墺，四方土可居；籷 zhé，炊屑米为饭；䆛 zhà，物在穴中；𩱾 tuò，落魄、贫无家业；灹 zhà，火焱、火声；𢖲 chà，忖也。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-054",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "乇部字族②：托掌——张开（吒、魠、厇、𧘐、𣧃、秅、飥）",
+      "statement": "指托掌状，表示张开：吒 zhà，《说文》「喷也。叱怒也」，呵斥；魠 tuō，《说文》「哆口鱼也」，口大；厇 zhé，《集韵》「张也」，《玉篇》亦作「磔」，张开，zhái 与「宅」通；𧘐 tuō，开衣令大；𣧃 dù，《集韵》引《说文》「败也」；秅 chá，《说文》「二秭为秅」，四百把禾束；飥 tuō，馎饦，面片。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-055",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "乇部字族③：手掌——敲击、硬实（𪔘、𩑒、𤴱、虴、矺等）",
+      "statement": "指手掌，同「石」，表示敲击、硬实：𪔘 gāo，鼓也；𩑒 duó，《说文》「颅也」，《释名》「𩑒颅谓之髑髅」，脑盖；𤴱 dù，乳痈、乳腺增生；虴 zhè，蚱蜢；𧿌 zhà，义不明，疑同「𨀟」；汑 tuō，滑也；𤣯 tuō，玉名；𤰦 zhà，义不明；矺 zhé，《玉篇》「磓也」，敲、击，《集韵》「磔，《说文》：辜也」，古代分裂肢体的酷刑。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-056",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "乇部字族④：形近「屯」「乏」之讹（䨋、𤫪、𪐞、䒲、𥁩）",
+      "statement": "形近字「屯、乏」之讹：䨋 nüè，同「虐」，tún 为大雨；𤫪 tún，瓜属；𪐞 dù，深黑色，tún 疑即「黗」，黄黑色；䒲 chà，䒲葿，黄芩，因其花集生茎枝顶端、偏向一侧如猪尾，故从「㹠」；𥁩 fán，杯也。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-057",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "宅：本义为托身之所，从宀乇声",
+      "statement": "宅从宀乇声：「宀」指房子，「乇」指托身，象意寄托身躯的地方，即住宅、屋舍。zhái，《释名》「宅，择也，择吉处而营之也」，《说文》「所托也。从宀乇声」，《玉篇》「人之居舍曰宅」。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-058",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "宅：转义为居住、坟墓、禁锢、法度与开裂；辩证与「度」混同",
+      "statement": "由屋宅引申指居住、存身、寄托（《尔雅》「居也」），或引申指坟墓（《广雅》「葬地也」）；由托身之所引申指禁锢（zhà，《集韵》「惩也」），或引申指法度（dù，《集韵》引《说文》「法制也」，或作㡯、宅）；「乇」本有张开之意，故「宅」也或引申指开裂（chè，《类篇》「裂也」）。辩证：战国古文「宀」或作「厂」，与「石」的初文近似，故或混同「度」——「度」本指用手拿石头揣度（参见45石部）；不过「乇、石」本音义可通，究竟属于什么情况仍待考。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-059",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "宅部字族①：张开、裂开（㢉、咤、詫、姹、挓、侘、烢、䯔等）",
+      "statement": "指托掌，表示张开、裂开：㢉 chá，《说文》「开张屋也」；咤 zhà，与「吒」同，惊异、愤怒；詫 chà，诳、告、夸；姹 chà，夸诳、美女；挓 zhā，挓挱，张开貌，zhé 为裂、张；侘 chà，侘傺，失志貌；烢 chè，裂也；𪀥 zhá，山鸡之类，毛备五色；䤩 chá，䤩尾，即今之鱼尾；䯔 zé，偏转；𧧉 tuō，毁也，俗「託」字。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-060",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "宅部字族②③：寄托、托举与揣度（侂、秺、垞、𨴥、䖳、𨀟、㤞等）",
+      "statement": "指托身，表示寄托、托举：侂 tuō，《说文》「寄也。从人㡯声」，寄托；秺 dù，禾束、地名；垞 chá，小丘名，古文「宅」作「垞」；𨴥 yí，门臼；䖳 zhà，水母，形如羊胃、无目，以虾为目。与「度」同，指揣度：𨀟 duó，踱，赤足、乍前乍却；𣳥 dù，渡；㤞 duó，忖也，zé 为惩；𤵾 chā，痴貌；𥭌 jì，疑即「𥯖」，发簪；𨀸 cù，踧踖，行而谨敬。",
+      "boundary": "源自《系统汉语》第46部「乇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-061",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "炙：本义为用火烤肉，从肉从火",
+      "statement": "炙从肉从火，象意用火烧烤肉。zhì，《说文》：「炮肉也。从肉在火上。凡炙之属皆从炙。之石切。」",
+      "boundary": "源自《系统汉语》第47部「炙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-062",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "炙：转义为热；音源为烤肉声，义音同「石」",
+      "statement": "由烤肉引申指热，《广雅》「爇也」。炙是音源字，源自烤肉时所发出的声音；因古以烧石炙肉，故义音同「石」。《易·晋》「晋如鼫鼠」，「鼫」，马王堆汉墓帛书本作「炙」。",
+      "boundary": "源自《系统汉语》第47部「炙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "id": "j7-063",
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-07-jin",
+      "title": "炙部字族：䂹、𠶨、𣇧、𣶋、𨂂——多指被炙烤之状",
+      "statement": "字族多指被炙烤之状：䂹 suǒ，《说文》「碎石磒声。从石炙声」，谓碎石坠落之声，不确，应同「庶」，指烧红的石头——先民在没有发明陶器之前，用烧红的石头煨煮食物，《正字通》「一说读若炙，烧石炙物也」；𠶨 xī，和声；𣇧 zhè，日赫；𣶋 zhè，肉羹类；𨂂 zhí，与「蹠」同，脚掌、踩踏，xuě 为石土自陨。",
+      "boundary": "源自《系统汉语》第47部「炙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
