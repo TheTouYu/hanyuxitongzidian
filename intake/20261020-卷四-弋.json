@@ -1,0 +1,813 @@
+{
+ "schema_version": 1,
+ "intent": "新增：《系统汉语》卷四 弋 61 条（26.弋部至33.異部）",
+ "risk": "medium",
+ "claims": [
+  {
+   "id": "j4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "卷首：卷四的音源字是「弋」，音源为弋射时线轴转动的声音",
+   "statement": "本卷音源字为「弋」，甲骨文象拴有线绳、前端有倒刺的箭形；其音源自弋射时线槔（线轴）所发出的声音。「夷、弟、弔」虽构型有异，但所指也都是弋射。",
+   "boundary": "属作者音源体系主张，非文字学界共识。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "topic_path": "knowledge/hanzi-yinyuan/04a-yi.md",
+   "topic_title": "卷四·弋部",
+   "topic_summary": "《系统汉语》第四卷的卷首主张（弋射的器具与用途），以及弋、夷、弟、弔、彝、戠、戚、異八部的字形分析、转义、辩证、音源与字族义项。",
+   "topic_keywords": [
+    "弋",
+    "弋射",
+    "矰",
+    "繳",
+    "夷",
+    "弟",
+    "弔",
+    "音源字"
+   ]
+  },
+  {
+   "id": "j4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "卷首：弋射须有矰与繳，拴绳以防猎物逃跑、免箭丢失",
+   "statement": "《周礼·夏官·司弓矢》「矰矢、茀矢，用诸弋射」，《淮南子》「好弋者先具繳与矰」：矰是打猎的短箭（箭头有倒刺以防逃脱、箭铤中有孔槽以系绳），繳是缠着细绳、可以收放的线槔。拴绳主要解决两件事：一是防止猎物中箭后逃跑，故一般只用于捕猎鸟类等小型猎物（《诗经·郑风》「将翱将翔，弋鳧与雁」）；二是避免箭的丢失，即便未中也可循绳收回。",
+   "boundary": "引书为常见文献；「音源」判断属作者主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "卷首：弋射不必射中鸟身，以绳缠翅颈即可活捉，故出土许多矰无刃",
+   "statement": "弋射甚至不必射中鸟的身子，只要能使线绳缠住其翅膀或脖子，就能将其活捉；因此出土的许多矰是没有刃的。",
+   "boundary": "依考古材料与作者解释。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "卷首：彝、戚、戠、異四字与「弋」音义相通",
+   "statement": "彝指缚鸡，故音义同「夷」（《书·洪範》「是彝是训」，《史记·宋微子世家》作「夷」）；戚虽为象形字，西周金文以「尗」为声，尗本从弋；戠指戈伤所造成的长条疤痕，硬而长，故音义同「弋」（《集韵》「杙，《说文》刘杙，或作樴、职」）；異象人双手举子于头顶之形，因有高举之意而音义同「弋」（《尔雅·释地》「南方有比翼鸟焉」，《释文》「翼，又作𦏵」）。",
+   "boundary": "属作者以音义系联字族的主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弋（𢍺）本义：象拴有线绳、前端有倒刺的箭形",
+   "statement": "弋甲骨文下部鼓出的部分为绕线的繳，金文用一横代替，从而演变成今天的字形。yì，《玉篇》「繳射也」；《宋兆麟·战国弋射图及弋射溯源》「弋射之矢，箭头有倒刺，箭铤中有孔槽，前者防猎物逃脱，后者适于系绳」。这种箭的作用在于利用绳子在空中缠束住鸟的翅膀而将其活捉，所以往往形成人牵着飞鸟的奇观，据称风筝就是模仿此而发明的，名之为「纸鸢」。",
+   "boundary": "析形为作者判断；《说文》「橜也」被作者判为引申义，见辩证条。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弋转义：由射鸟引申指猎获、获得",
+   "statement": "由弋的射鸟，引申指猎获、获得。《韵会》「取也」。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弋转义：由弋之状引申指木桩（杙）",
+   "statement": "由弋之状，引申指木桩。《玉篇》「橛也，所以挂物也。今作杙」。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弋转义：其状如绳墨，引申指黑色；又指善于滑翔的鹰隼",
+   "statement": "其状如绳墨，故或引申指黑色：《汉书·文帝纪赞》「身衣弋绨」，颜师古注「弋，黑色也」。又由鸟被弋而滑翔之状，引申指鹰隼之类善于滑翔飞行的禽鸟。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弋辩证：《说文》析形不确，所解「橜」为引申义",
+   "statement": "《说文》「橜也。象折木衺锐著形。从𠂆，象物挂之也」，作者认为析形不确，其所解之义为引申义。",
+   "boundary": "作者对《说文》的批评，属个人判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弋音源：弋射时线轴转动之声；古弋、㠯可通",
+   "statement": "音源字，源自弋射时线轴转动时所发出的声音。古弋、㠯可通：《左氏春秋·襄公四年》「夫人姒氏薨」，「姒氏」《公羊传》作「弋氏」；《老子》「夫惟道善贷且成」，「贷」马王堆汉墓帛书《老子》乙本作「始」。",
+   "boundary": "属作者音源体系主张；通假例可核。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①指弋射，表示借贷、更替：隿、㚤、代、貸、貣、帒",
+   "statement": "隿（yì）用拴有丝绳的箭射鸟，《说文》「繳射飞鸟也」，甲骨文从「夷」；㚤（yì）妇官，大约即仓管之类，管理物资的进出；代（dài）更替、续，「人的世代相替，犹如弋之射而复得」，《字汇》「世也」；貸（dài）施给，《玉篇》「假也、借盈也、以物与人更还主也」，又求乞、差错（与忒通）；貣（tè）从人求物，《广韵》「假貣，谓从官借本贾也」；帒（袋，dài）囊，「有出而又能进物意」。",
+   "boundary": "单字训释多引《说文》《玉篇》《广韵》，可核；系联理由为作者主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①之差忒义：忒、脦、𢘋",
+   "statement": "忒（tè）变更，《广韵》「差也」，《玉篇》「疑也」，即心意反复；脦（tè）「肋脦，不正容止」，即邋遢、衣冠不整；𢘋（tè）失去常态，《说文》「失常也」，应同「忒」。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①之乞贷生虫与太山：蟘、𧊇、岱",
+   "statement": "蟘（tè）食苗叶之虫，《说文》「吏乞贷则生蟘」，《尔雅·释虫》邢昺疏「食禾叶者，言假贷无厌，故曰蟘也」；𧊇（dài）蚱蜢，又关中谓蛇虿毒曰𧊇；岱（dài）太山，封禅之山，「即代天以行使管理之权」，《风俗通》「岱，胎也，宗，长也」。",
+   "boundary": "单字训释依字书；岱的语源解释为作者引申。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①之杂义：䴬、𤬩、𢖺、𢓀、鮘、垈、甙、䬥",
+   "statement": "䴬（yì）破碎的麦壳，可用以和泥涂墙，也指稻壳；𤬩（yì）瓦坯；𢖺（yì）《集韵》「心动也」；𢓀（yì）《玉篇》「行也」；鮘（dài）闽语鲤鱼，可能跟鲤鱼善产卵有关，即放几尾进去能收获许多回来；垈（dài）地名用字，或指耕地、把土翻起来；甙（dài）今作音译字（糖苷），有机化合物的一类，中药车前、甘草、陈皮等皆含甙；䬥（yì）《玉篇》「古文饐字」。",
+   "boundary": "单字训释依字书；鮘、垈的语源解释为作者推测。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族②指弋状物：杙、釴、𦏵、𢇙、柋、骮、芅",
+   "statement": "杙（yì）小木桩，《尔雅·释宫》「樴谓之杙，橜也」；釴（yì）附耳在唇外的方鼎，《尔雅·释器》「鼎附耳外谓之釴」；𦏵（翼，yì）翅膀，《说文》「翄也」，又辅、盛，亦国名、姓；𢇙（廙，yì）行屋（可移动的屋舍）；柋（dài）架蚕箔的柱子，吴俗谓蚕槌曰柋；骮（yì）小骨，或指锁骨；芅（yì）猕猴桃，《尔雅·释草》「长楚，铫芅」，扦插枝条即能成活。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-016",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族③指绳墨，表示黑色：黓、䣧、䘝、鴏、玳",
+   "statement": "黓（yì）《广雅》「黑也，又作弋」；䣧（yì）酒色，《通训定声》「酒黑色也，字亦作黓」；䘝（yì）上衣，《集韵》「黑衣」；鴏（dài）即玳瑁；玳（dài）玳瑁，海中像大龟的爬行动物，甲壳黄褐色、有黑斑，很光滑，可做装饰品或入药。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-017",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族④音译字：鋱",
+   "statement": "鋱（tè）音译字，一种金属元素，符号Tb，属稀土金属，无色结晶的粉末，有毒；其化合物可做杀虫剂，亦用来治疗皮肤病。",
+   "boundary": "现代音译用字，非古义。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-018",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族⑤形近字「戈」之讹：鳶",
+   "statement": "鳶（yuān）《玉篇》「鴟类也」。据《古文字类编》所录商代金文，本从「戈」，则当为「𩾷」字；作者认为读作yuān的字应为「卝」声。yì，《正字通》「或云鳶与隿同」。",
+   "boundary": "字形考订属作者判断，与《说文》异。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-019",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "夷（𡗝𡰥𡖴𢎯）本义：象矢上缠丝之形，指缠有缯丝的箭",
+   "statement": "夷象矢上缠丝之形，指缠有缯丝的箭。弋本是矢的一种，因此「夷」与「弋」所指本是一回事。",
+   "boundary": "析形为作者判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-020",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "夷转义：由弋射大鸟而指东夷，再引申为中原以外各族、外国人",
+   "statement": "弋射鸟类为食，主要是猎取大鸟；这类鸟多栖居于水草丰茂之地、以小魚为食、多分布于东部沿海，因此殷商时期就称东部沿海部族为「夷」，他们也多以鸟类为图腾；沿袭下来引申指中原以外各族，后称外国或外国人。yí，《说文》「东方之人也」，《玉篇》「蛮夷也」。",
+   "boundary": "语源解释属作者主张；字书训释可核。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-021",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "夷转义：同辈同类、等同；又指创伤、铲除消灭",
+   "statement": "由夷族引申指同辈、同类、等同，《广韵》「夷犹等也」；古代东夷部族与中原民族在融合中或战或和，故引申指受伤、创伤（《小尔雅》「伤也」）、铲除消灭（《广雅》「灭也」）。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-022",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "夷转义：地势平坦、日光强烈，引申指平坦、明亮、愉快；又指蹲踞、傲慢",
+   "statement": "东部沿海地势平坦、日光强烈，故引申指平坦、明亮、愉快（《玉篇》「明也、平也、敬也、易也」，《尔雅》「悦也」）；东夷民族喜欢蹲踞，这种姿势被认为傲慢无礼，故引申指蹲踞（《广雅》「踞也」）、傲慢。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-023",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "夷辩证与音源：《说文》析形不确；音源为弋射线轴转动之声",
+   "statement": "小篆「大」与「矢」、「弓」与缠绕的S形丝线字形相近，故《说文》「平也。从大，从弓。东方之人也」析形不确。夷为音源字，源自弋射时线轴转动所发出的声音。",
+   "boundary": "作者对《说文》的批评与音源判断均属个人主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-024",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①指弋的缠丝，表示依次、次第：姨、荑、洟、鴺、蛦、鮧、眱",
+   "statement": "姨（yí）妻的姐妹，又母亲的姐妹；荑（tí）初生茅草的嫩芽，又莁荑（草名）；洟（tì）鼻涕；鴺（鵜，tí）鹈鹕，又鼯鼠；蛦（yí）虫名（𧏿蛦），又山鸡；鮧（tǐ）大鲶鱼，无鳞而有黏液如涕；眱（dì）眯目而斜视，南楚谓眄曰睇。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-025",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族②指东夷人的特点，表示喜悦、蹲踞：咦、痍、恞、跠、䧅、羠",
+   "statement": "咦（yí）南阳谓大呼曰咦，又笑貌，今作叹词表示惊讶；痍（yí）创伤，《释名》「痍，侈也，侈开皮肤为创也」；恞（yí）《玉篇》「悦也、忻也」；跠（yí）蹲踞；䧅（yí）「隇䧅，险阻」，又地名；羠（yí、sì）阉割过的羊，又雌性的野羊。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-026",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族③指东夷的地势，表示平坦：侇、𢓡、銕、桋",
+   "statement": "侇（yí）陈列尸体，又平坦、同辈同类；𢓡（yí）行平易（平坦），tí又为休息；銕（鐵，tiě）铁，《集韵》「黑金也」，因铁在古代是最坚硬的金属，故有平、常义，yí又「嵎銕，东表之地」通作夷；桋（yí）苦槠树，是标志长江南北的「分界树」，疑因其坚韧似铁故从「夷」。",
+   "boundary": "单字训释依字书；桋的系联理由为作者推测。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-027",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弟（𠂖𢦢）本义：象木橛上缠丝之形，本指缠有缯丝的弋",
+   "statement": "弟象木橛上缠丝之形，本指缠有缯丝的弋。",
+   "boundary": "析形为作者判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-028",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弟转义：由缯丝依次缠绕，引申指次第、次序、弟弟与敬顺",
+   "statement": "由缯丝依次缠绕在木橛上，引申指次第、次序（dì，《释名》「弟，第也，相次第而上也」）；进而引申指同辈中比自己年纪小的男性（《尔雅》「男子先生为兄，后生为弟」），或指对兄长的敬顺（tì，《集韵》「悌也」）、和易近人（《尔雅》「易也」）；又由缠绕的缯丝引申指柔顺、颓唐（tuí，《集韵》「弟靡，不穷貌。一曰逊伏」）。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-029",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弟辩证与音源：《说文》以「韦束」析形不确；音源为弋射线轴之声，义音同夷",
+   "statement": "《说文》「韦束之次第也」将「弋」与所缠绳视为「韦」，析形不确。弟为音源字，源自弋射时线轴转动所发出的声音；义音同「夷」：《易·涣》「匪夷所思」，《释文》「荀作匪弟」。",
+   "boundary": "作者对《说文》的批评与音源判断均属个人主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-030",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族（次第义）：递、娣、睇、悌、豑、第",
+   "statement": "递（dì）传递；娣（dì）同嫁一夫的女子年幼者（即妾），又妹妹、母亲的妹妹（姨）；睇（dì）眯目而斜视，《说文》「目小视也」；悌（tì）敬爱兄长；豑（zhì）爵的次序，古「秩」字；第（dì）次序、顺从，又科举应试合格、按品级所建的大宅院。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-031",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族（火镰、发、目液、厚缯）：銻、梯、鬀、涕、綈",
+   "statement": "銻（tí）火齐、火镰（以火镰与火石摩擦击出火花点燃易燃物），tī今作锑的音译字；梯（tī）木楼梯、阶梯，又攀登、嫩芽；鬀（剃，tì）剃小孩子的头发（大人曰髡，小人曰鬀）；涕（tì）眼泪，又鼻涕、哭泣；綈（tí）厚的丝织品，取层层缠绕之意。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-032",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族（蝉、鲶鱼、秽草）：𧋘、鮷、蕛",
+   "statement": "𧋘（tí）小蝉（蝭蟧、蟪蛄），背青绿色、头有花冠；鮷（tí）大鲶鱼，无鳞而有黏液如涕，故从「弟」；蕛（tí）似稗、布地而生的秽草。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-033",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族（祭祀、灼龟与杂义）：祶、焍、俤、珶、𦯔、䑯、挮、罤、䬾",
+   "statement": "祶（dì）同「禘」，宗庙四季祭祀之一；焍（dì）灼龟之木，烧荆枝更递而灼之；俤（dì）相似；珶（dì）佩玉；𦯔（荑，tí）初生茅草；䑯（dì）船；挮（tǐ）擦去涕泪，又擦拭物体；罤（tí）兔网，kūn《玉篇》引《说文》「周人谓兄曰罤」，今作昆；䬾（tí）饼糕类食品。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-034",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族（鵜）：鵜",
+   "statement": "鵜（tí）鹈鹕，俗称「淘河」或「塘鹅」，长喙直而广、颔下皮囊大如数升，好群飞、沉水食鱼；其所以被称为「弟」，应是因为它次第群飞；而称为「胡」，则是因为它嘴巴下面的皮囊如胡。",
+   "boundary": "单字训释依字书；得名解释为作者推测。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-035",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弔（吊𢎣𢎨𢎱）本义：象人身上缠着弋线之形",
+   "statement": "弔象人身上缠着弋线之形：有线绳的箭（弋）委于人，象意弋射出去后的回收。后或楷化作「吊」，《字汇》「俗弔字」；可谓「鈟（diào）」的异文，《字汇》「同钓」，《说文》「钓，钩鱼」。",
+   "boundary": "析形为作者判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-036",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弔转义：由收弋之状引申指提取、收回；又指悬挂",
+   "statement": "由收弋之状，引申指提取、收回，如「吊销」；由线拉猎物之状，引申指悬挂，如「上吊」。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-037",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弔转义：祭奠慰问；又由猎物掉落引申指落、至",
+   "statement": "由察看射中的猎物状况，引申指祭奠死者或对遭丧事的人家、团体给予慰问，如「弔唁」「弔丧」「凭弔」，或指慰问、伤痛、怜悯，如「形影相弔」；《广韵》「弔生曰唁，弔死曰弔」。或由猎物的掉落引申指落、至（dì，《玉篇》「至也」）。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-038",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "弔辩证与音源：小篆将弋演作弓形，《说文》析形不确；与夷、弟同从弋声",
+   "statement": "由于小篆将弋演变成弓形，故《说文》「问终也……从人持弓，会驱禽」析形不确。其结构本与「夷、弟」相同，皆从「弋」，可谓「弋」声；义音同「尗」：《左传·哀公十六年》「旻天不弔」，「弔」《周礼·大祝》郑玄注引作「淑」。",
+   "boundary": "作者对《说文》的批评与音源判断均属个人主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-039",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①指悬吊：盄、鈟、屌、伄",
+   "statement": "盄（zhāo）煮茶的器皿，《通训定声》「今苏俗煎茶器曰吊子，即此盄字」；鈟（diào）同「钓」；屌（diǎo）男性外生殖器；伄（diào）「伄当，不常也」，不经常、不长久。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-040",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族②指凭弔：䘟、𨑩",
+   "statement": "䘟（diāo）用绢贴棺中，又蛮夷衣、死人衣；𨑩（dì、diào）至。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-041",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "彝（彜彛彞）本义：象双手奉翅膀被缚之鸡形，象意杀鸡以祭祀",
+   "statement": "彝甲骨文象双手奉翅膀被缚之鸡形，且鸡颈处从「丿」，象意杀鸡以进行祭祀。其祭祀方式可能跟现在尚存的杀鸡祭祀方式差不多：取雄鸡一只，浅割其脖颈（出血即可，不能深割，以免立即死亡），滴血祭祀；这种杀鸡祭祀一般用于房屋奠基、棺材入土、盟誓等重大场合，带有祭祀天地、辟邪的性质，而且必须是雄鸡。被祭祀用的鸡往往被「杀」以后仍是活的，正如《山海经·中山经·中次六经》所提到的祭神方式「用一雄鸡，禳而勿杀」。金文或加两点，表示滴血之状。",
+   "boundary": "析形与祭俗解释属作者主张；《山海经》引文可核。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-042",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "彝转义：常用祭祀方式，引申指常规、法度；又指祭祀用的酒尊",
+   "statement": "在古代，杀鸡祭祀是常用的祭祀方式，故引申指常规（yí，《广韵》「常也、法也」）；祭祀时滴鸡血于酒中，故引申泛指祭祀用的酒尊（《广韵》「酒樽也」）。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-043",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "彝转义：彝器形态各异，引申指不同少数民族，今单指彝族",
+   "statement": "彝器大小不一、形态各异、造型精美，故引申指不同的少数民族（《别雅》「彝戎，夷戎也」，用同「夷」）；今单指彝族，分布于云南、贵州、四川、广西、越南等地。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-044",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "彝辩证与音源：小篆已失鸡形，《说文》析形不确；借音字，义音同夷",
+   "statement": "由于字形演变到小篆时已失去鸡形，故《说文》「宗庙常器也……」析形不确。彝为借音字：由被缚之状而义音同「夷」——《书·洪範》「是彝是训」，《史记·宋微子世家》作「夷」；《诗·大雅·烝民》「民之秉彝」，《孟子·告子》《潜夫论·德化》并引作「夷」；《周礼·司尊彝》「祼用鸡彝」，《礼记·明堂位》作「夷」。",
+   "boundary": "作者对《说文》的批评属个人判断；通假例可核。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-045",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族：㰘",
+   "statement": "㰘（yí）树名，《正字通·木部》「或曰古礼器多用木，此木可作彝器，故从木」。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-046",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "戠（𧧬）本义：从戈从言，象意戈刻画出的印记或戈伤留下的疤痕",
+   "statement": "戠从戈从言：戈本武器，用于砍、割；从「言」，象意戈刻画出的印记或戈伤留下的疤痕。zhī，《广韵》「职、识字从此」，标志、记号。",
+   "boundary": "析形为作者判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-047",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "戠转义：疤痕愈合引申指聚合；疤痕干硬长条引申指干肉、黏土",
+   "statement": "疤痕是伤口愈合后形成的，故引申指聚合（zhī，《字汇》「敛也」）；疤痕呈干硬的长条形，故或引申指干肉（分化作「膱」，zhí，《集韵》「脯脡也，长尺有二寸」），或引申指黏土（zhí，通「埴」）。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-048",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "戠辩证与音源：《说文》「阙」未解其义；借音字，因干硬长条而义音同弋",
+   "statement": "《说文》「阙。从戈从音」，没有解释出它的意义。戠为借音字：因有干硬的长条意而义音同「弋」——《战国策·魏策》「不识礼义德行」，「识」《战国纵横家书》作「试」；《集韵》「杙，《说文》刘杙，或作樴、职」。",
+   "boundary": "作者对《说文》的批评与音源判断均属个人主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-049",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①指印记，表示标记、旗帜、职业：幟、識、職、軄",
+   "statement": "幟（zhì）旌旗之属，又标记、记号；識（shí）旗帜、知识，zhì加标记；職（zhí）识、记，又主宰、掌管、职务职业，tè又指小木桩（《周官》有职人）；軄（zhí）俗「职」字，身份、职业。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-050",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族②指疤痕，表示干硬的长条：樴、織、膱、熾、蘵、蟙",
+   "statement": "樴（zhí）小木桩（《玉篇》「杙也，所以系牛」），yì又为果木名（刘杙）；織（zhī）纺织；膱（zhí）干肉，又肉败、臭；熾（chì）火旺盛，指炊煮时柴薪燃烧的样子；蘵（zhī）蘵草，「江东以作菹食」，今河北谓之龙葵；蟙（zhí）蟙䘃（蝙蝠），又指高脚蟹（世界上最大的蟹）。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-051",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "戚（𠋰𠎰）本义：象两边有齿的玉钺形",
+   "statement": "戚象两边有齿的玉钺形。戚最初可能是石斧，为便于用绳索绑定在木柄上，故在两侧凿以齿；殷墟妇好墓中出土了大量这种玉钺。qī，《玉篇》「戉也，或作鏚」。",
+   "boundary": "析形为作者判断；妇好墓玉钺为考古材料。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-052",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "戚西周金文：从戈从尗，意即有柄而形小如尗的兵器",
+   "statement": "西周中期金文实际上是一个再造的象意字：从戈从尗，意即有柄而形小如尗的兵器。小篆「戈」演变作「戉」，故《说文》「戉也。从戉，尗声」。",
+   "boundary": "析形为作者判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-053",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "戚转义：由戚齿排列之状引申指亲近亲密；又指急促紧迫、悲哀忧愁",
+   "statement": "由戚齿的排列之状，引申指亲近、亲密（qī，《集韵》「近也」，《广韵》「亲戚」）；或引申指急促、紧迫（cù，《集韵》「蹙，迫也，或作戚」）；或引申指如人皱眉、苦脸之状，表示悲哀、忧愁、愤怒（《正字通》「又忧也、哀也，俗作慼」）。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-054",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "戚音源：本借音字，因形制较小，西周金文以「尗」为声",
+   "statement": "戚本为借音字；因其形制较小，故西周金文以「尗」为声。",
+   "boundary": "属作者音源体系主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-055",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族（多取戚齿状，指蹙缩）：槭、慽、顣、𦟠",
+   "statement": "槭（qì）落叶小乔木，花黄绿色、叶掌状分裂、叶沿呈齿状，秋季变成红色或黄色，故从「戚」；慽（qī）忧愁而皱眉、苦脸，使脸部皮肤皱缩；顣（cù）皱眉，与「蹙」同；𦟠（cù）脂肪表面的皱纹（䐚𦟠，膏泽）。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-056",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族（蹙缩之引申）：摵、蹙、嘁、磩、傶、鏚、縬、䙘",
+   "statement": "摵（shè）捎带，又陨落貌；蹙（cù）迫、近、急（《说文》「迫也」），又缩小、皱；嘁（zā、cù）叹息、愁貌，qī象声词形容低语声；磩（qì）象玉的石，zhú柱下石墩（础谓之磩）；傶（zú）邑名、姓，qī亲近；鏚（qī）干鏚，斧钺，本亦作戚；縬（cù）缩，又缯文、聚文；䙘（chǔ）鲜、美好貌，指新衣服的皱褶分明。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-057",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "異（异𠔱𢄖）本义：象人双手举子于头顶之形，「戴」的初文",
+   "statement": "異甲骨文初本象人双手举子于头顶之形。这种情形生活中常见，一般是大人逗弄小孩，或者肩着孩子行走；跟「允、尼」构型近似。它是「戴（dài）」的初文，《广韵》「荷戴」，《集韵》「首戴」。「子」或作「甶」，「甶」本指面具，表示戴面具的意思。",
+   "boundary": "析形为作者判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-058",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "異转义：由戴面具的样子引申指特别、怪异",
+   "statement": "由戴面具的样子，引申指特别、怪异。yì，《玉篇》「殊也、怪也、分也、奇也、尤也」。",
+   "boundary": "义项依本书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-059",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "異辩证与音源：《说文》「从𠬞从畀」析形不确；借音字，因高举义而义音同弋",
+   "statement": "字本不从「畀」，故《说文》「分也，从𠬞从畀」析形不确。異为借音字：因有高举义而义音同「弋」——《尔雅·释地》「南方有比翼鸟焉」，《释文》「翼，又作𦏵」。",
+   "boundary": "作者对《说文》的批评与音源判断均属个人主张。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-060",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族①指佩戴，表示往上、表层发生的行为：廙、潩、㔴、趩、𠪙、霬、穓、熼",
+   "statement": "廙（yì）行屋，可以移动的住房（帐篷之类），又恭、敬；潩（yì）水名，即今清异河、颍水支流；㔴（yì）田器，又大鼎；趩（chì）行声，一曰不行貌，疑本指不走而行（飞行或被负载而行）；𠪙（xǐ）石头锐利（大约指砺而使石利）；霬（yì）人名用字；穓（yì）耕；熼（yì）火光、火焰往上貌（热气使周围空气受热上升，带动火焰向上）。",
+   "boundary": "单字训释依字书。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "j4-061",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-juan-04-yi",
+   "title": "字族②指翅膀，表示飞速：𩙺、𧾰、瀷、冀、驥",
+   "statement": "𩙺（翼，yì）翅膀，《说文》「翄也」，又辅、敬、助、盛；《类编》所录甲文和商代金文不从「異」（分别从「幺」「大」），上从「彗」，疑非「翼」字，而是指幼儿的发髻，因误「彗」为「羽」而错认作翼。𧾰（yì）走路如飞；瀷（yì）水名（出河南密县东入颍），又雨后地面积聚的水、水急流；冀（jì）北方州名，又希望，本义也应是指翅膀（「北」本指翅膀）；驥（jì）千里马。",
+   "boundary": "单字训释依字书；翼字考订属作者判断。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
