@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷八十四 心（511.心部至513.悤部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "音源字心、囧：象心臟形，音源心跳聲",
+      "statement": "本卷音源字為「心、囧」，象心臟形，其音源自心跳聲。由于心跳會發出聲音，所以有自己的音義系統；但其聲為 pudm（撲通），並不是 xin，跟本音有較大的差距。估計其初音是在前面加了行為聲母 x 表續行，指其不停的搏動，而成為 xpudm，變成了雙輔音，大約即《何九盈·音韻叢稿》中的複輔音 sp，快讀時 p 丟失而跟 xin 或 xiong（匈）近似。鄭張尚芳在《上古音系》中將其描述為 slɯm，除了中間的 l 可能是 p 外，基本音也都象。",
+      "boundary": "源自《系统汉语》卷八十四「心」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/84a-xin.md",
+      "topic_title": "卷八十四·心",
+      "topic_summary": "《系统汉语》卷八十四「心」第511–513部（p1476–p1481）：音源字心、囧象心臟形、音源心跳聲；卷首講心臟的形態與泵血、心主血脈與三部九候/寸口脈診、心腦一體（思从囟从心）與心臟移植性格改變、息从自从心與氣功；511 心部含心、慶（从鹿心聲，鹿跳）兩系；512 囧部以囧為剖開的心臟，明為囧月/日月/田月三字，盟从囧从血；513 悤部以心跳快表匆忙，分化總、聰，又混入蔥的細長、青白、中空諸義。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心在中國文化中的雙重身份",
+      "statement": "心在中國文化中，不止是人和脊椎動物體內推動血液循環的器官，還是靈魂的寓所、思維的器官。前者意義上的詞叫「心臟」，後者則稱「心靈」。",
+      "boundary": "源自《系统汉语》卷八十四「心」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心臟的形態與金文、甲骨文的取象",
+      "statement": "成年人的心臟重約300克，形狀像一個倒置的梨，上寬下窄，大小和自己的拳頭差不多，處在胸部左側肺部之中。金文就是其外觀的形狀：下面是心尖，上面支出的是動脈、靜脈管，中間交錯的是冠狀動脈。而剖開的樣子則為甲骨文的「囧」，指心臟的四腔即左心房、左心室、右心房、右心室；左右心房之間和左右心室之間均由間隔隔開，故互不相通，心房與心室之間有瓣膜，使血液只能由心房流入心室而不能倒流。但「囧」過去一直被人當作是窗子，《說文》就解為「窻牖麗廔闓明。象形」。",
+      "boundary": "源自《系统汉语》卷八十四「心」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心臟的泵血與工作量",
+      "statement": "心臟通過一張一翕、周而復始的「泵」運動來進行血液的射出和回流：壓縮心肌，鮮紅的血液由左心室射入主動脈，再流經全身的動脈、毛細血管，向器官、組織提供充足的血液以供應氧和各種營養物質；擴張心肌，使暗紅的血液從靜脈回流到右心室，進入肺動脈再加工，輸送到左心房後開始新一輪循環。一個人在安靜狀態下心臟每分鐘約跳70次、每次泵血70毫升，則每分鐘約泵5升血；以70歲計算，一生心跳將近26億次，一生泵血所作的功大約相當于將3萬公斤重的物體向上舉到喜馬拉雅山頂峰。心臟做工時也有休息：心率75次/分鐘時一個心動週期為0.8秒，心房每工作0.1秒可休息0.7秒，心室每工作0.3秒可休息0.5秒，所以心臟可以一直跳動而不會累。",
+      "boundary": "源自《系统汉语》卷八十四「心」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心主血脈與脈診的發明",
+      "statement": "《黃帝內經》說「心者，五臟六腑之大主」「心主血脈」，即各臟腑在心的領導下互相聯繫、分工合作，構成一個有機的整體；心臟與各臟腑的聯繫通道就是血管（血脈），因此脈搏的跳動可以反映心跳的情況，心跳的情況可以反映出全身臟器的情況。中醫很早就發明了脈診：起初主要是「遍身診」，按摸全身從頭到腳可以觸摸到的動脈（頭、頸、兩頰動脈，上肢的撓動脈，下肢的脛後、足背、膕、股動脈），《內經》記述為「三部九候」診（上部天候按兩額動脈、人候按耳前動脈、地候按兩頰動脈；中部天候按手太陰經候肺、人候按手少陰經候心、地候按手陽明經候胸中之氣；下部天候按足厥陰經候肝、人候按足太陰經候脾胃、地候按足少陰經候腎）；沿用至今的主要是中部的「寸口診」，即切摸兩手掌後突起（撓骨莖突）的撓動脈，所謂「獨取寸口」，因古人認為寸口是人體經脈的會合處。古代文獻所記常用脈象約二十多種（浮、沉、遲、數、滑、澀、虛、實、濡、芤、緩、弱、結、代、促、緊、弦、洪、細、微等），據此可瞭解五臟六腑的寒熱虛實以便對症下藥。",
+      "boundary": "源自《系统汉语》卷八十四「心」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心腦一體：心為思維器官",
+      "statement": "現代生理學認為人的精神思維活動是大腦的功能，但在中國的先民看來心腦是一體的、都具有思維功能：甲骨文「思」就从「囟（腦）」从「心」，所以「囟、心」都是同音字。《黃帝內經》載「心為君主之官」「心主神明」，《靈樞·本神篇》說「所以任物者謂之心」，「任」就是擔任、接受，指出接受外來事物而產生思維活動的過程是由心來完成的。心的功能正常時則神志清晰、思考敏捷、精神充沛；功能異常時常出現心神改變，如心悸不安、失眠多夢、健忘癡呆、狂妄躁動、哭笑無常，甚至昏迷不省人事。據《河北日報》2006年7月3日頭版報導，美國科學家研究發現人類的心臟也許有某種「思考和記憶功能」——每10例接受換心手術的病人中就有1人出現性格改變，如40歲的退休貨車司機傑姆·克拉克接受心臟移植後突然開始給妻子寫情詩，他確信這一「怪癖」來自那顆捐贈的心臟（捐贈者一家都愛寫詩）。因此中國人所說的健康還必須是心靈的健康，「心病還須心藥醫」。反過來要實現心靈的健康也可以靠調節心律來起作用，而心律的調節又跟呼吸緊密相連：呼吸漢字為「息」，从「自（鼻）」从「心」；《黃帝內經·平人氣象論》「人一呼脈再動，一吸脈亦再動」，指出脈搏和呼吸頻率是一與四之比，與現代生理學觀察一致，先民據此發明了養生氣功。",
+      "boundary": "源自《系统汉语》卷八十四「心」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心本義：象動物心臟形",
+      "statement": "心本義象動物心臟形。《說文》：「人心，土藏，在身之中。象形。博士說，以為火藏。凡心之屬皆从心。」",
+      "boundary": "源自《系统汉语》第511部「心部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心轉義：思想心性、根本中央",
+      "statement": "心臟本是人和脊椎動物身體內推動血液循環的器官，古人認為心同時也是思維器官，故引申指思想、心性、神明、思慮（《釋名》「心，纖也。所識纖微，無物不貫于心也」、《爾雅》「謀，心也」、《黃帝內經》「心者，生之本，神之變也」「君主之官，神明出焉」）；由心的位置及功能引申指根本、中央（《康典》「本也」「中也」）。",
+      "boundary": "源自《系统汉语》第511部「心部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心音源：心跳聲，心與刅通",
+      "statement": "心為音源字，源自心跳聲。古「心、刅」可通用：《史記·刺客列傳》「徙于衛，衛人謂之慶卿；而之燕，燕人謂之荊卿」，慶本心聲、荊本刅聲。",
+      "boundary": "源自《系统汉语》第511部「心部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心字族①②：中心、心臟心思",
+      "statement": "①指中心：杺為木名（其心黃，一曰車鉤心木）；𢛓為地名；芯為艸名（燈心草莖的髓即燈芯，綿軟細長、白髓乾後對油脂吸附性強，古代用作油燈燈芯，並有清心降火、利水通淋之效，《六書故》「凡圅蓄于中者皆謂之心」）。②指心臟、心思：伈（懍）為因驚恐而心跳加快；訫（信㐰）為言而有信、誠實；孞同信；吢（吣𢙈唚）為貓狗嘔吐、反胃（因在心窩處常誤作心痛）；応（應应）古同應，當、答。",
+      "boundary": "源自《系统汉语》第511部「心部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "心字族③：心跳，滲入、插入、透出",
+      "statement": "③指心的跳動，表示滲入、插入、透出：沁為沁水（源出山西沁源縣東北綿山東谷），或指滲入、清涼（韓愈、孟郊《同宿聯句》「義泉雖至近，盜索不敢沁」，顧炎武注「北人以物探水為沁」，《漢典》「滲入；滲透」「現出；透出」「汲」「低垂」）；鈊為金名、利；抋（𢱶）為挿、播；𠖶（㓎）為冷氣。",
+      "boundary": "源自《系统汉语》第511部「心部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "慶本義：从鹿心聲，指鹿的跳躍",
+      "statement": "慶本義：甲骨文从鹿心聲。鹿行跳躍，故从「心」，指其象心一樣跳動不止，因此本義應是指鹿的跳躍。",
+      "boundary": "源自《系统汉语》第511部「心部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "慶轉義與辯證",
+      "statement": "由鹿跳之狀引申指人高興地跳躍，《廣韻》「賀也。福也」。《說文》「行賀也。从心从攵。吉禮以鹿皮為贄，故从鹿省」，所解貌似合理，但字得是以「鹿」為聲，故析形不確。另因「心」與「角」字形近似，或以其从鹿从角、西周金文誤从「心」（初生的鹿角叫鹿茸，藥用價值高而野生難獲，可能因此而有慶倖之意，于義可通）；或因「鹿、廌」形近，以其所从本為「廌」（傳說廌能判斷誰有罪無罪，《說文》「解廌獸也，似山牛一角，古者決訟，令觸不直」，如此判案自然是看誰慶倖，故也有慶賀之意）——二說可參，只是所从也應該是「角」。慶不具備表音性，沒形成字族；櫦（杺）義未詳，疑即杺（鹿本色黃，故由櫦字可證「慶」所从應為鹿）。",
+      "boundary": "源自《系统汉语》第511部「心部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "囧本義：剖開的心臟",
+      "statement": "囧本義：甲骨文象心臟的截面形，裏面的曲線為心室中的瓣膜；金文則象剖開的兩塊心臟。指剖開的心臟。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "囧轉義：坦白、表明",
+      "statement": "由心臟的被剖開，引申指坦白、表明，《玉篇》「大明也、彰也」。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "囧辯證：窗牖說不確，牛耳說存參",
+      "statement": "《說文》「窻牖麗廔闓明。象形……賈侍中說，讀與明同」，所釋于義雖通，但金文顯然不象窗的樣子，故析形不確。另據《周禮·夏官·戎右》「贊牛耳，桃茢」，鄭玄注「尸盟者割牛耳取血助為之……以桃茢沸之又助之也」，指古代諸侯會盟時要割牛耳滴血以飲之；因此有學者認為「囧」象割下的牛耳根形，从甲骨文字形來看確實相似，故留以存參。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "囧音源：心跳聲，與心同源異體",
+      "statement": "囧為音源字，源自心跳聲，與「心」同源而異體。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "囧字族：心形相關與形近之訛",
+      "statement": "①指心形或與之相關：莔（苘䔛）為貝母艸（其鱗莖狀如心形，亦如貝如女陰）；𥭮（䈍）為竹名；㴄（澋）為水洄貌（取心臟的泵血之狀為意）；𢚊（悉）為古文悉（明瞭于心之意）。②形近字「冋」之訛：𦀝（絅）為布名，《正字通》「絅字之譌」。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "明本義：形近音同的三個字",
+      "statement": "明本義：甲骨文其實是形近音同的三個字——一从囧从月，「囧」本心臟的剖面形即心，从「月」即如月般亮，表示心裡明白、清楚，或指互相表白心意（《廣韻》「通也」）；一从日从月，意指明亮、一晝夜、次日（《廣韻》「光也。昭也」）；一从田从月，「田」為窗子之形，指月光透進窗子使暗處發亮（《說文》「照也。从月从囧」）。戰國古文或从目从月，指眼睛看清，表示審、察之意（《廣韻》「察也、清也、審也」）。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "明音源：初文月聲，然盟从囧聲故歸囧部",
+      "statement": "明初文應為「月」聲才對，跟「名」同；不過如「𥁰（盟）」確實是以「囧」為聲，故還是歸于《囧部》。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "明字族①：明亮、明朗",
+      "statement": "①指明亮、明朗：䳟為鷦䳟（似鳳，南方神鳥）；奛（爌）為開明、開朗；奣為六合清朗；焽（焸）為火光、明；琞（聖）同聖，亦同望、姓（當是形近訛字）；𣊧（朗照）音義與朗、照同；𧡜大約即明瞭之意。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "明字族②③：萌發初露、盟誓歃血",
+      "statement": "②指萌發，表示初露、開始：萌為艸芽開始顯露（《玉篇》「始也」）；橗為木名、木心；𥎒為矛；𧾆為始走意；𨵛為門中。③指盟誓或跟歃血有關：𥁰（𧖸𥂗盟）甲骨文本从血从囧，歃血為盟、互相表明心跡（《說文》「殺牲歃血，朱盤玉敦，以立牛耳」，《廣韻》「盟約，殺牲歃血也」；「歃」為盟者以血塗口旁，一般還要用牲血將誓約寫出來、雙方簽字畫押），本屬《囧部》，西周以後才或添加「月」字而變成「明」的衍生字；擝（掹）同掹，拽、拉出；𩣶為汗血寶馬（當从盟省聲，指馬出汗如歃血）；𣽭（𤀄）為𣽭津（河名，注意與「溫」區別）；𨞚（鄳）為古縣名。",
+      "boundary": "源自《系统汉语》第512部「囧部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤本義：心跳得快，匆忙、快速",
+      "statement": "悤本義：甲骨文本从心从十，即十倍于普通心臟，指跳動得很快，表示匆忙、快速之意（《廣韻》「速也」）；或指心臟統帥全身血管，表示統領、聚束之意，此義分化如「總（zǒng）」（《廣韻》「聚束也。合也。皆也。衆也」）。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤轉義：思維靈敏",
+      "statement": "因心也引申指思維，故「悤」也可引申指思維、感覺十分靈敏，此義分化如「聰（cōng）」（《廣韻》「聞也。明也。通也。聽也」）。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤辯證：小篆加囪為聲，又與蔥相混",
+      "statement": "由于小篆添加了「囪」為聲，故《說文》「多遽悤悤也。从心、囪，囪亦聲」；「囪」本指窗子，有明亮、通暢之意，于引申義尚可通，但不符合字的本義。另由于甲骨文「自」跟「心」字形相近，西周金文將从「自」中有「·」、表示氣味沖鼻的「葱」與「悤」相混，導致戰國古文以其从艸悤聲，變成了「悤」的衍生字，從而影響了「悤」字的表意，如「蔥」色青綠故或引申指青綠色，此義分化如「驄（cōng）」（《說文》「馬青白雜毛也」）。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤音源：本讀「十」，與蔥同音",
+      "statement": "根據甲骨文，字的讀音應該是「十」；可能因其很早便與「蔥」相混，從而與「蔥」同音。「蔥」葉尖細如「松」，故義音同，如《集韻》「幒，或从松」。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤字族①：聚束、總領",
+      "statement": "①指「悤」，表示聚束、總領：𥡥（稯）為禾聚束、通總；總（緫繱𢝰总）為聚束（《說文》「聚束也」），又合、皆、衆，絲八十根為一總，亦通「蔥」之青；摠（揔捴）同總，又將領；𢊕為屋階中會；𩮀（鬆䯳）為馬鬣、束髮，又髼鬆（髮亂）；𨍉（𨍈）為輪（《釋名》「言輻總入轂中也」），又載囚檻車。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤字族②：聰明、匆忙",
+      "statement": "②指「悤」，表示聰明、匆忙：聰（聪）為聽而能審察是非真假（《說文》「察也」）；𣎗為𣎗朧（明亮）；漗為汲；傯（偬）為倥傯（苦、困貌）；𤁬（濍）為水聲；顖（囟）即囟（頭會匘蓋）；憁（憽愡）為惺憽（了慧之人）、聰慧貌，又愡恫（不得志、心急、無知貌）。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤字族③：蔥，細長而尖",
+      "statement": "③指「蔥」，表示細長而尖：蔥（茐葱）為菜（其甲骨文从「自」中有「·」象氣味沖鼻，「蔥」味沖鼻為其初文，因形近而混同「悤」）；鏓為鐘聲，或指大鑿（入木鑿孔，《段注》「許正謂大鑿入木曰鏓」）；𥎋（鏦）為短矛；謥為言語嗆人（取義于蔥的氣味沖人）；楤（樬）為尖頭擔（俗稱禾槍，兩頭尖，用于挑成捆柴禾，取其狀如蔥），或指莖無枝如蔥的樹；𥳺（𣞷）為箸桶（盛筷子的竹籠，筷子如蔥）；䗓為蜻蜓（蟲身如蔥）。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-84-xin",
+      "title": "悤字族④⑤：青白雜色、中空",
+      "statement": "④指「蔥」，表示青白雜色：璁為石之似玉者（疑指鐘乳石之類，中空如蔥，或指其色如蔥）；驄為馬青白雜毛；𦇎為帛青色（色青黃、細絹）；𨡮（𨣭）為濁酒（糯米醪糟酒）。⑤指「蔥」，表示中空：熜（燪）為用麻莖捆紮成的火炬（麻莖中空如蔥），又微火、熱氣，用同「囪」（煙囪）；幒（𢃓）為滿襠褲或書套；窻（牎窗囪）為通孔（即窗）；𧜢（衳）為內褲（即「衷」）。",
+      "boundary": "源自《系统汉语》第513部「悤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
