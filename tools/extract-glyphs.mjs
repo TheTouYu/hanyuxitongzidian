@@ -196,16 +196,18 @@ function extractChars({ paras }) {
         const at = p.text.search(/[：:]/);
         // 冒号后是字族表；括号里是异体或交叉引用（如「鯉（參209《土部》）」），先剔掉
         const famText = (at >= 0 ? p.text.slice(at + 1) : '').replace(/[（(][^）)]*[）)]/g, '');
+        // 「X：Y部」「X：467《圭部》」是目录里的部名索引行，不是字族表
+        const isCrossRef = /[《》]/.test(famText) || famText.includes('部');
         lastHead = {
           char: ch[0],
           variants: mHead[2] ? onlyHan(mHead[2]) : '',
           // 字族表：冒号后面那串（牡 社 仕…），用来给没写异体的字形行认主
-          family: famText,
+          family: isCrossRef ? '' : famText,
         };
         heads.push(lastHead);
         partHeads.push(lastHead);
         // 字族表：冒号后面那串字头，按原稿顺序记下来（配图要挂到各自的字头后面）
-        const famChars = [...new Set(onlyHan(famText))];
+        const famChars = isCrossRef ? [] : [...new Set(onlyHan(famText))];
         if (famChars.length) families.set(lastHead.char, famChars);
         lastHead.familyChars = famChars;
         owner = lastHead.char;
@@ -308,7 +310,8 @@ function main() {
       process.exit(1);
     }
     const idx = JSON.parse(readFileSync(indexPath, 'utf8'));
-    const fam = { ...(idx.families || {}) };
+    // 字族表完全由原稿推导，整表重建，避免旧索引里残留的错条
+    const fam = {};
     let added = 0;
     for (const docName of docs) {
       let res;
