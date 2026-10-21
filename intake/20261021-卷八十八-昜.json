@@ -1,0 +1,839 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷八十八 昜（525.昜部至532.𨛜部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "音源字昜：从日从丂，伸長脖子對太陽，音源拜日呼喝聲",
+      "statement": "本卷音源字為「昜」，从日从丂，象意伸長脖子對著太陽之狀；或作「昌」，从日从口或曰，象意對著太陽叫喚。指的都是遠古時期人們的太陽崇拜，其音源自拜日時的呼喝聲。",
+      "boundary": "源自《系统汉语》卷八十八「昜」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/88a-yang.md",
+      "topic_title": "卷八十八·昜",
+      "topic_summary": "《系统汉语》卷八十八「昜」第525–532部（p1517–p1532）：音源字昜从日从丂（伸長脖子對太陽），音源拜日呼喝聲；卷首講太陽崇拜與春分祭日、北京日壇、借音字根（向上相爽桑𨛜皆與明亮有關）、昜與羊象音通；525 昜部（昜、量；字族分熱瘡夭折、日出明亮、飛揚搖盪）、526 昌部（唱與興盛、形近訛）、527 向部（向、尚、堂、當、黨、掌六根，字族分趨向相對、敞開敞亮、推舉罩覆、來回反復、相當抵擋、見底空當、朋黨不分明、撐起手掌）、528 上部（借音同尚）、529 相部（相、霜）、530 爽部（空明、刮擦）、531 桑部（桑、喪、染）、532 𨛜部（相對對食、美味回聲）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "太陽崇拜與拜日儀式：日壇與春分祭日",
+      "statement": "萬物生長靠太陽，遠古時代人們十分崇拜太陽，每天拂曉太陽初升、黃昏太陽落山都要舉行隆重的拜日儀式；周代以後覺得太繁瑣、像日常小事一樣失去了祭祀的嚴肅性，便改在每年春分這一天進行祭祀，遇「日食」則臨時祭拜。春分這一天到處喜氣洋洋、紛紛到郊外踏青，帝王代表國家在京城南門郊外設專門的「日壇」率文武百官早晚祭拜。遺留至今的日壇建在北京朝陽門外東南，是1530年明代建立的：主體是用白石砌成的方形高臺，壇面為紅色琉璃象徵太陽，外圍紅牆，周圍還有配套建築，「金台夕照」曾是北京著名八景之一；1951年擴建為日壇公園（增加亭苑、畫廊、遊樂設施，花木山水相映成趣），是國家重點文物保護單位，如今每年春分當地政府還會在此組織祭日民俗文化活動。",
+      "boundary": "源自《系统汉语》卷八十八「昜」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "本卷借音字根都與太陽照耀時的明亮之狀有關",
+      "statement": "其相關借音字根如「向、上、相、爽、桑、𨛜」，都跟太陽照耀時的明亮之狀有關。",
+      "boundary": "源自《系统汉语》卷八十八「昜」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昜與羊、象音通：呼號聲為共同的音源",
+      "statement": "昜本「丂」聲、源出呼號，故與「羊、象」均通：《呂氏春秋·本味》「湯湯乎若流水」，《列子·湯問》作「洋洋」；《詩·墉風·牆有茨》「不可詳也」，《釋文》「詳，《韓詩》作揚」；《說文》「𩞃，𩞧或从傷省聲」。而從「昜」的字族或有熱瘡、夭折、飛揚之義，應是指酷熱引起的旱災導致人頭生瘡、草木夭折、塵土飛揚，其狀正如羊易感染蟎蟲而生疥癬，故而義音同「羊」。",
+      "boundary": "源自《系统汉语》卷八十八「昜」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昜部的太陽意象：日出、飛舉、乾旱",
+      "statement": "昜从日从丂——「丂」本脖頸的象形，从日象意對著太陽呼喊、表示日出之意，是「暘」的初文（《說文》「日出也」）；由太陽飛升之狀引申指飛舉（《廣韻》「飛也」），或由太陽的大引申指所導致的乾旱狀（此義分化如「畼」，《說文》「不生也」）。",
+      "boundary": "源自《系统汉语》卷八十八「昜」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昜本義與轉義：日出、飛舉、乾旱",
+      "statement": "昜本義：从日从丂，「丂」本脖頸的象形，从「日」象意對著太陽呼喊、表示日出之意，是「暘（yáng）」的初文（《說文》「日出也」）。轉義：由太陽飛升之狀引申指飛舉（《廣韻》「飛也」）；或由太陽的大引申指所導致的乾旱狀，此義分化如「畼（chàng）」（《說文》「不生也」）。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昜辯證：金文加光芒形近勿，从示、从柯二說可參",
+      "statement": "辯證：西周金文或在「丂」下添光芒形，遂形近「勿」，小篆从之，故《說文》「開也。从日一勿。一曰飛揚。一曰長也。一曰強者眾皃」析形不確。由于「丂」「示」相近，甲骨文或如「示」，故或以其从日从示，戰國古文謂「从日从示，會日出祭壇上方之意，示亦聲」，其說可參；「丂」「可」本同源，或以「昜」所从之「丂」為「柯」字初文指枝柯（李孝定謂疑古柯字，日在柯上象日初升之形），其說亦可參。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昜字族①：太陽猛烈，表示熱瘡、夭折",
+      "statement": "①指太陽的猛烈，表示熱瘡、夭折：瘍（痒𤻈傷，yáng《說文》「頭創也」，頭瘡，先起膿包然後潰爛流膿，一般發病于盛夏、系熱毒；dàng「畜病泄」）、鐊（鍚𩋬，馬額頭上的金屬裝飾物，或指包車輪的鐵片，指其狀如瘍）、畼（𤲘場㙊，chàng《說文》「不生也」，田不生；《博雅》「長也」；通作鬯即祭神香酒）、傷（伤殤，shāng《說文》「創也」，創傷、皮肉破損處；《廣韻》「傷損」；未成人或作殤）、𥏫（箭傷）、慯（憂傷）、殤（不成人，人年十九至十六死為長殤、十五至十二死為中殤、十一至八歲死為下殤）、禓（yáng《說文》「道上祭」，在路上祭祀、大約針對橫死的青壯年；shāng「強鬼也」即橫死變成的鬼）。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昜字族②：日出，表示明亮、灼熱、赤黑",
+      "statement": "②指日出，表示明亮、灼熱、赤黑：䵮（yàng赤黑色）、鰑（赤鱺，即虎魚科之江鰍，無鱗多黏液、狀如瘍）、暘（《說文》「日出也」；《玉篇》「明也。日乾物也」）、場（祭神用的平地，或指土地不耕種，或指整治穀粟的地方；shāng指螞蟻蚯蚓在穴口翻起的松散泥土/浮土；dàng指用耙鋤覆蓋種下地的種子）、煬（烊，烘烤使乾燥；《方言》「暴也」曝曬；yáng「爍金也」熔化金屬）、鬺（煮）、餳（餹糖，飴加糯米粉熬成的糖；《釋文》「餳，洋也，煮米消爛，洋洋然也」）、陽（《說文》「高、明也」；山南水北、陰陽二氣；與佯同即假裝）、璗（金之美者與玉同色）、崵（首陽山、崵谷）、氱（氧的舊譯）、霷（十月為霷，通作陽）、湯（熱水、沸水；tàng灼也；shāng湯湯水流皃）。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昜字族③：日升，表示飛揚、搖盪",
+      "statement": "③指日升，表示飛揚、搖盪：楊（楊樹，白色楊花成毛球狀能四處飛揚）、颺（《說文》「風所飛揚也」，又簸颺即颺去糠粃）、敭（揚，飛舉）、瑒（圭長尺二寸有瓚，祭祀祖宗時舀酒灌地的禮器）、蕩（即今湯河，源出河南湯陰縣北、衛河支流；dàng排蕩去穢垢、放縱）、踼（跌倒、抵拒；行不正；申足伏臥）、愓（放也、不憂、放逸）、盪（滌器之皿，搖動）、𥯕（大竹筩，笙簫之類樂器，可盛酒）、簜（大竹，可為幹而筱可為矢）、碭（有花紋的石頭，或指蕩溢振盪）、觴（觶實曰觴、虛曰觶，盛滿酒的角杯，金文从爵从昜）、腸（大小腸，暢也、言通暢胃氣）、𧀄（艸茂）、輰（栁車）、鸉（白鷢，似鷹而尾上白）、諹（譽也、讙也）、婸（放蕩、淫戲）、𥂸（杯）、暢（達也通也，所从「申」本義當指雷電的閃動）、糃（精米即播揚後的米）、啺（古文唐字，說大話）、鐋（刨平木頭的器具；tāng小銅鑼）、薚（蓫薚，馬尾）、𦳝（商陸艸）、蝪（王蛈蝪，即螲蟷、地下土蜘蛛，洞有蓋可開合）、摥（推排）、逿（失據倒也、過也）、䑗（舂也、持米精）、𧼮（前走）、偒（直也、真也；放蕩）。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "量本義：从東从昜，用斗稱量",
+      "statement": "量本義：从東昜聲——「東」指木鼓、掏空的木頭即斗，「昜」為飛舉，象意用斗稱量。liǎng，《集韻》「斗斛曰量」。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "量轉義與辯證：稱輕重、測量；《說文》从重省不確",
+      "statement": "轉義：由用斗稱量引申泛指稱重量或測量長短、商榷等（liáng，《說文》「稱輕重也」；《廣雅》「度也」）。辯證：由于「量」所从「丂」或承「東」省，戰國古文又繁化加「土」、小篆从之，故《說文》「稱輕重也。从重省，曏省聲」析形不確。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "量字族：糧食與形近「畺」之訛",
+      "statement": "字族：①指稱量：糧（𣊼𩞯粮，穀米；王應電《僃考》「糧者，廩祿之穀。从量，以酌量功事賦給」，古用糧食作薪俸、或指田賦）、𤎲（本从尞从東从勹在鬲中，象意將食物包裹放在餘燼中煨，楷化有誤）。②形近字「畺」之訛：𪋥（麠，大麃、牛尾、一角）、𡑆（疆）。",
+      "boundary": "源自《系统汉语》第525部「昜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昌本義：从日从口，對著太陽叫喚",
+      "statement": "昌本義：甲骨文从日从口——「日」指太陽，从「口」可象意兩：一為對著太陽叫喚（這可能是一種古老的拜日儀式，其意跟「昜」類似），一為日出而萬物蘇醒並發出聲響。chàng，《集韻》「唱，《說文》：『導也』」或从龠、从言，亦作倡、昌；chāng，《字彙》「顯也」。",
+      "boundary": "源自《系统汉语》第526部「昌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昌轉義：美言、開始、興盛",
+      "statement": "轉義：由「唱」引申指美言、精當（《說文》「美言也。从日从曰。一曰日光也。《詩》曰：『東方昌矣』」；《玉篇》「當也」）；或引申指開始（《廣雅》「始也」）；由顯明引申指興盛（《玉篇》「盛也、明也」）。",
+      "boundary": "源自《系统汉语》第526部「昌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昌音源：源自叫喚聲，古昌、尚通用",
+      "statement": "音源：音源字，源自叫喚聲。古昌、尚通用：《書·皋陶謨》「禹拜昌言」，《逸周書·祭公解》「王拜手稽首黨言」，「黨言」即「昌言」；《爾雅·釋詁》「昌，當也」。",
+      "boundary": "源自《系统汉语》第526部「昌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昌字族①：唱，或與娼妓有關",
+      "statement": "①指唱，或與娼妓有關：唱（誯𪛋，領唱、領奏；《廣韻》「發歌」）、倡（古代歌舞樂人；《集韻》「狂也」；chàng與唱通、導引先）、娼（妓女）、鯧（鯧鯸，似鯿、頭上突起連背、身圓肉厚、止一脊、骨耎可食；《本草綱目》「昌，美也，以味名。或云：魚游于水，群魚隨之，食其涎沫，有類于娼，故名」）、䅛（糠，穀的空殼）、䗉（小蠃即螺）、𪂇（廣𪂇，鳳皇屬）、䮖（馬名）、猖（狂駭、猖狂、放肆）、𪉨（鹵漬，用酒醋或醬油浸漬食品）。",
+      "boundary": "源自《系统汉语》第526部「昌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昌字族②：興盛",
+      "statement": "②指興盛：閶（天門；《史記·律書》「閶闔風居西方。閶者，倡也。闔者，藏也，言陽氣道萬物闔黃泉也」；tāng同鼞即鼓聲）、菖（菖蒲，《本草》「蒲類之昌盛者」，葉長根白）、琩（耳璫、琩玩即蠻夷充耳，懸垂耳旁的玉）、淐（水名）、錩（器名）、裮（披衣不帶）、晿（人名）、𥫅（出《釋典》）。",
+      "boundary": "源自《系统汉语》第526部「昌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "昌字族③：形近字「咼、旱、習、曹」之訛",
+      "statement": "③形近字之訛：焻（火氣；guā為「煱」的訛字）、𢛝（「惷」字之譌）、𣮑（「𣯥」字之訛，睫毛）、𥛼（「䄚」字之訛，祭也、佑也、祭豕先）。",
+      "boundary": "源自《系统汉语》第526部「昌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "向本義：从宀从口，屋子的窗戶",
+      "statement": "向本義：从宀从口——「宀」指屋子，从「口」表示窗戶。xiàng，《玉篇》「窻也」。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "向轉義與辯證：方向、相向；《說文》北出牖說不確",
+      "statement": "轉義：窗戶用于通風、透光而有所朝，故引申指方向、朝向（《廣韻》「對也」），或引申指相向而動（《集韻》「趣也。救也」）。辯證：《說文》「北出牖也。从宀，从口。《詩》曰『塞向墐戶』」，徐鍇曰「牖所以通人氣，故从口」——屋子的四方都可以開窗、並非只有北邊，故釋義不確。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "向音源：門窗向陽而有光，義音同昜",
+      "statement": "音源：借音字。門窗向陽而有光，故義音同「昜」：《廣韻》「𤵼，同慯」；《揚子·方言》「餳謂之餹」，「餹」《正字通》作「饄」；《集韻》「餳，饋也。與餉同」。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "向字族①：窗戶朝外，表示趨向、相對",
+      "statement": "①指窗戶的朝外，表示趨向、相對：𤖽（向，窗也本作向）、𥥩（與向同）、餉（饟𩞃𩝾，用酒食款待、饋贈，《正字通》「今俗軍糧曰餉」）、𥹝（同餉）、珦（玉）、恦（念也）、姠（女字）、晌（晑，本指太陽照進窗戶，今指中午、取太陽正對之意；俗謂半刻曰半晌）、䖮（蠁，知聲蟲，一曰醯雞名）、嚮（鄉，面也，與向通用；xiǎng「兩階間謂之嚮」，又與響同即聲響——「鄉」本為兩人相對而食形、疊加聲符）、𩐢（響，回音、大的聲音）、𥀾（應指鼓聲）、𤵼（憂疾、痛）、𣂝（斤之所向，對砍之意）、𤍀（俗音嚮）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "向字族②③：明亮與形近「冋、舟、冏、咼」之訛",
+      "statement": "②指窗戶的明亮，或為形近字「冋」的訛字：扄（戶耳、門耳；jiōng俗扃字）、銄（「餉」字之譌；jiōng或同扃）、晑（明也）、逈（同迥，遠也）、𥿧（疑為「絅」字之訛）。③形近字「舟、冏、咼」之訛：䚁（䚀𧡬，𧡬訛作䚀、舟譌从向；𧡬《廣韻》「私出頭視也」，悄悄探頭去看）、𧥁（觿觹，解結錐子，童子佩之、銳端可以解結）、𧙹（《舊藏》作禍）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "尚本義：从八向聲，打開窗戶即「敞」之初文",
+      "statement": "尚本義：从八向聲——「八」指分開、分別，从「向」象意打開窗戶，是「敞（chǎng）」的初文（《集韻》「開也。露也」）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "尚轉義：推崇、薦舉、尊奉、佐助、增加；庶幾；主宰",
+      "statement": "轉義：由打開窗戶使屋內更明亮，引申指推崇、薦舉、尊奉、佐助、增加（《廣韻》「飾也，曾也，加也，佐也」；《廣雅》「高也」「舉也」；《爾雅》「右也」）；由開窗所致明亮的有限，引申指庶幾、差不多、勉強（《說文》「曾也，庶幾也」）；開窗意味著人為的控制，故引申指主宰、掌控（《集韻》「貴也。主也。久也」）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "尚字族①：敞開、敞亮",
+      "statement": "①指敞開、敞亮：敞（將高起的土地築成平台用于遠望；《集韻》「開也。露也」；zhèng磨而使光亮）、氅（析鳥羽為旗纛之屬，用鳥羽做成的披風，或指禿鷲的羽毛）、鱨（黃頰魚即黃沙鯝，口闊、頭似燕形、厚而長頰骨黃、有力能飛，徐州人謂之揚）、瓽（大盆；磚砌的井壁）、㗬（厚唇皃）、廠（露舍、屋無壁、馬屋）、僘（寬也，通作敞）、鋿（磨也、車輪繞鐵）、躺（身體橫倒）、𨜂（䣊䣣黨，地名，《周禮》五百家、通作黨）、棠（牡曰棠牝曰杜，甘棠即杜梨，花瓣敞開；《釋名》「棠，𨅨也」，車兩旁控制進退的橫木）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "尚字族②：推舉、罩覆",
+      "statement": "②指推舉、罩覆：嘗（口味之也，口試其味；《爾雅·釋天》「秋祭曰嘗」，用新穀祭神有償還之意）、橖（車橖、車木；chēng柱也）、钂（古兵器，形如半月、當中有槍尖兩邊出翅略似叉）、耥（水稻中耕除草鬆土的農具）、賞（賜有功也）、常（裳，下帬即遮蔽下體的裙子，下面是敞開的；《釋名》「裳，障也，所以自障蔽也」，又九旗之名、日月為常，車戟曰常長丈六尺、倍尋日常故稱常；《玉篇》「恒也」）、嫦（俗姮字）、䉎（罩也）、鞝（扇形馬鞍皮，或指把鞋幫鞋底縫合成鞋）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "尚字族③：來回、反復",
+      "statement": "③指來回、反復：償（還也；報也、當也、復也、備也）、埫（埫塎，不安；shǎng同坰，十畝為一埫）、𪄹（䳯𪄹，鳥名）、徜（徜徉，徘徊、自由自在地來回走）、惝（惝怳，失志不悅皃、無所適从狀）、倘（驚疑欲止皃；cháng倘佯同徜徉）、趟（躍跳、走路不穩、驚走皃；tāng从淺水中走過，tàng步子/走動的次數）、淌（大波；流出、流下）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "堂本義與轉義：土築高臺、殿堂；顯明高大",
+      "statement": "堂本義：从土尚聲——「尚」指敞開、敞亮，从「土」象意用土築成的高臺（《玉篇》「土爲屋基也」），或指空闊高大的殿堂（《說文》「殿也」）。轉義：由高臺之狀引申指顯明、高大（《廣雅》「明也」；《釋名》「堂，猶堂堂，高顯貌也」）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "堂字族①：堂之空，表示顯明、空闊",
+      "statement": "①指堂之空，表示顯明、空闊：鼞（鞺，鼓聲）、鏜（鐘鼓之聲；táng指加工機械零件內孔的方法）、嘡（象聲詞，打鐘敲鑼一類的聲音）、𨎋（樘𨍴，大車、兵車；chēng小車轅）、膛（胸腔、體腔，或器物的中空部分）、𨟐（地名，在今江蘇南京北部）、闛（闛闛，盛皃；tāng同鼞即鼓聲；chāng同閶即天門）、𡠠（㜍，女字）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "堂字族②：堂之高，表示撐起、抵距",
+      "statement": "②指堂之高，表示撐起、抵距：㑽（傏，傏𠊲不遜、唐突冒失）、𤛋（𤚫，牛名，出日南及潯州大賓縣、色靑黃與蛇同穴、角如玉可為器）、蹚（跌踼行不正；chēng距也即撐；tǎng同趟）、憆（瞠𥊲盯䁎，直視也）、摚（距也）、漟（溪也）、樘（牚橕撐，《說文》「衺柱也」即用斜柱支撐；táng車樘、門窗框）、隚（殿基）、饄（糛餹，糖）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "當本義與轉義：田相值；相當、承擔、見底",
+      "statement": "當本義：从田尚聲——「田」指田地，「尚」敞開，象意田裏沒有莊稼、因此田的價值跟其面積本身相等，表示等值之意（《說文》「田相值也」）。轉義：由田的等值引申指相對、相等、相抵（《玉篇》「任也、直也、敵也」），或引申指承擔、執掌（《廣韻》「主也」；《字彙》「承也」；dàng《正字通》「事理合宐也」，「凡出物質錢俗謂之當」別作儅）；由田裏沒有莊稼引申指見底、頂端、空當（dàng，《玉篇》「底也」）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "當字族①：相當、抵擋",
+      "statement": "①指相當、抵擋：壋（橫築在河中或低窪田地中以擋水的小堤，或同凼）、襠（裲襠即馬甲背心，或指褲襠——兩條褲腿相連的部分）、𧒾（螳，螳螂）、璫（華飾，玉質的瓦當；耳珠即耳墜）、擋（摒也，阻攔；春秋金文从戈尚聲）、𩟈（與食也，給與食物）、儅（止也；不中、正中；倜儅不羈）、檔（牀也，橫木）、簹（篔簹竹名，《異苑》「建安有篔簹竹，節中有人，長尺許，頭足皆具」；車前後的屏蔽）、𨎴（車𨎴，通作檔）、㽆（甌屬，或指瓦當）、𦡁（耳下垂謂之𦡁）、𡽊（眾山奇怪之形）、𤢎（獸名，應即牙豚——《山海經·東次四經》「有獸焉，其狀如豚而有牙，其名曰當康……見則天下大穰」）、𥢷（稂𥢷，禾皃）、𪇁（鳥名）、劏（方言，宰殺即剖開）、𦼲（艸名，疑指當歸）、𩼉（魚也，應即當魱）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "當字族②：見底、空當",
+      "statement": "②指見底、空當：澢（水氹）、艡（𦨢艡，大船）、礑（底也；凡物之有底者木石雖別皆曰當）、鐺（鎖鏈；tāng鐘鼓之聲、以鐵貫物；chēng釜屬、三足溫酒器，或指平底淺鍋）、㼕（瓜中實，瓜底曰㼕）、闣（盛皃、鼓聲；疑本指門檻）、𥼽（同糖）、𨆉（同踼，跌）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "黨本義與轉義：从黑尚聲，不鮮、同類、偏袒",
+      "statement": "黨本義：从黑尚聲——「尚」指敞開，「黑」指黑色、黑夜，象意黑夜裏敞開窗戶、表示內外差不多、不鮮明（《說文》「不鮮也」）。轉義：由一般黑引申指同類、同輩、同族（《玉篇》「朋黨也」；《廣韻》「輩也」），或引申指偏袒、幫助、相連（《玉篇》「助也、接也」；《廣雅》「比也」），或引申指善良、美好（《廣雅》「善也、美也」），或引申指不動（chèng《集韻》「儻，不動意」）。辯證：「尚」可引申指推崇，歷史上夏、秦都以黑色為尊，因此或以「黨」的本義是指崇尚黑色、引申指族類之意，其說可參。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "黨字族①：朋黨、抵擋",
+      "statement": "①指朋黨、抵擋：钂（古代一種與叉相似的兵器）、𥤗（頓𥤗，黃穀名）、𥸈（竹名，與欓同、盛物之器）、𩽳（𩽳魟魚，背厚長有足、大者二三斤；鉲魚尾上有刺如欓樹刺）、儻（倜儻也，豁達、卓異；或然之詞同倘，僥倖；chǎng弘敞無偏）、讜（直言也、美言）、攩（朋群也即結成朋黨；俗用為抵攩字、遮遏也即抵擋）、欓（茱萸類、越椒，莖有刺故有「擋」義）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "黨字族②：不分明",
+      "statement": "②指不分明：爣（爣朗，火光寬明）、曭（日無光也）、𣎲（𣎲㬻，月不明也）、㿩（明也/白色）、灙（漭灙，水皃；水名）、矘（目無精直視也，眼睛無神茫然直視皃）、𥽻（同糖）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "掌本義與轉義：从手尚聲，手心；主管",
+      "statement": "掌本義：从手尚聲——「尚」指敞開、攤開，从「手」象意攤開的手心（《說文》「掌，手中也」）。轉義：手掌可抓握東西，故引申指主管（《正字通》「又職掌」）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "掌辯證：撑所从本作「𣥺」「牚」",
+      "statement": "辯證：「撑（chēng）」所从「掌」本當寫作「𣥺（䟫）」或「牚」：「𣥺」西周金文本从高省从尚从止，《說文》「歫也」，指雞等動物足掌上面懸著的距趾；「牚」本从牙从尚，「牙」指犬牙、表示象犬牙一樣突出，義當同「𣥺」，引申指邪柱（《廣韻》「牚，邪柱也」）。作為動物來說手足本無別，且「𣥺、牚」也沒另外形成字族，故合而為一。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "掌字族①：牚，撐起、凸起",
+      "statement": "①指「牚」，表示撐起、凸起：撐（撑樘𢴤橕𣥺牚，柱也；《正字通》「橕、撐、牚、𣥺，音義並同」）、𥊼（定視也；chēng瞠即直視）、𥳶（竹名）、𩞦（𩞦䬷，飽也）、𢿦（朾，《說文》「橦也」，撞、觸）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "掌字族②：掌，手掌狀",
+      "statement": "②指「掌」，表示手掌狀：幥（疑指手絹）、礃（礃子也叫掌子，採礦或隧道工程中掘進的工作面）、𩻰（魚名）、罉（方言，平底鍋）、𣾦（水名）、𦺡（天南星、最小附子細未成者皆名虎掌，射干、仙人掌、佛掌花治瘡毒）。",
+      "boundary": "源自《系统汉语》第527部「向部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "上本義與轉義：从一加指示符號，物體的上面",
+      "statement": "上本義：甲骨文从「一」上加指示性符號，象事指物體的上面（《說文》「高也。此古文上。指事也」）。轉義：由物體的上端引申指往上（《廣韻》「登也。升也」），或引申指位處諸物之上（《廣韻》「君也。猶天子也」；《玉篇》「居也」），或引申指以為上、表示尊崇（《正字通》「崇也。尊也」）。",
+      "boundary": "源自《系统汉语》第528部「上部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "上音源：借音字，物之上是敞開的故義音同尚",
+      "statement": "音源：借音字。物之上是敞開的，故義音同「尚」：《易·乾·上九》馬王堆漢墓帛書本「上」作「尚」；《詩·大雅·抑》「尚不愧于屋漏」，「尚」《漢書·劉向傳》引作「上」；《史記·封禪書》「色上黑」，「上」《漢書·郊祀志》作「尚」。",
+      "boundary": "源自《系统汉语》第528部「上部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "上字族：高處往上、往上義象意字、形近訛字",
+      "statement": "字族：①指高處、往上：𨑗（疑上之繁文，鄂君舟節讀上、逆水而𨑗）、圵（dàng高田，與南北字不同）、仩（仧長𡕣，與長同，帶頭的人）。②象意字含往上義：忐（忐忑，心虛、怯、懼即提心吊膽；kěng忐忑即誠懇）、𠮵（問而不答）、𠮳（𠮳𠮴，應喚語也、呼應聲）、𠧕（音和）。③形近訛字：𠧛（百的俗字，地名）、𣥌（同幻）。",
+      "boundary": "源自《系统汉语》第528部「上部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "相本義與轉義：从目从木，察看木的材質；省視、交互、輔助",
+      "statement": "相本義：从目从木，指觀木、察看木的材質。xiāng，戴侗《六書故》「相，度才也。工師用木，必相視其長短、曲直、陰陽、剛柔之所宜也」。轉義：由度材引申指省視（《廣韻》「瞻視也」；《說文》「省視也」），或引申指形皃；由觀木之狀引申指共、交互（《廣韻》「共供也」），或引申指輔助、教導、贊勉（《廣韻》「助也。扶也」；《爾雅》「導也」「勴也」）。",
+      "boundary": "源自《系统汉语》第529部「相部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "相音源：借音字，義音同向",
+      "statement": "音源：借音字，義音同「向」：《廣雅·釋訓》「徜徉，戲蕩也」，王念孫疏證引《後漢書·張衡傳·思玄賦》「悵相羊而延佇」，《文選》作「徜徉」，並字異而義同。",
+      "boundary": "源自《系统汉语》第529部「相部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "相字族①：交互、相對、輔助",
+      "statement": "①指交互、相對、輔助：想（冀思也即想象；《增韻》「意之也。物未至而意之也」；《六書精薀》「心有所欲而思也，字意从心从相，言有所著也」）、箱（大車的車廂，《篇海》「車內容物處為箱」）、廂（廊也，東西廊、堂屋的東西牆、正房兩側的房屋）、湘（湘江，源出廣西興安縣陽海山西麓；從「相」疑跟古代憑藉河道放木排有關，或因相星對應之故——《甘石星經》「相星在北極斗南，總領百司」）、𧡮（信也）、葙（蘘，青蘘即青葙，嫩苗似莧可食、長則高三四尺，苗葉花實與雞冠花一樣無别，種子可入藥明目退翳；或指蘘荷，葙根以為菹、香辛）。",
+      "boundary": "源自《系统汉语》第529部「相部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "相字族②：當為「霜」之省聲，指喪、敗",
+      "statement": "②當為「霜」之省聲，指喪、敗：緗（帛淺黃色；《釋名》「緗，桑也，如桑葉初生之色也」）、𠷹（同爽；《廣雅》「爽，敗也」）、𤭪（㼽，半瓦即沒有燒透的瓦器；chuǎng用碎瓦石塊等沖刷去垢）、𤷼（𤷼疾也）、𪂼（鳥名，疑「鸉」字之譌）。",
+      "boundary": "源自《系统汉语》第529部「相部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "霜本義、轉義與音源：露凝、肅殺、年歲；義音同喪",
+      "statement": "霜本義：从雨相聲——「雨」指雨水，从「相」指地面的水氣冷至攝氏零度以下時凝結成細微的白色冰粒而附著在艸木上（《玉篇》「露凝也」）。轉義：由于霜的溫度低導致艸木凍傷凋零，故引申指肅殺、傷害（《說文》「喪也。成物者」）；霜一年一季，故或引申代指年歲（《正字通》「歷年曰霜」）；或比喻霜狀的物體（霜鬢、柿霜、懷霜、霜刃）。音源：本「相」聲，義音同「喪」（《詩·大雅·板》「喪亂蔑資」，「喪」《說苑·政理》引作「相」）。",
+      "boundary": "源自《系统汉语》第529部「相部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "霜字族：喪與霜狀",
+      "statement": "字族：①指喪：孀（孤孀，寡婦）、灀（殺物也）。②指霜狀：鸘（鷞，鷫鷞即西方神鳥；《禽經》「鸘飛則霜，鷺飛則露，其名以此」）、驦（騻，驌驦，良馬名）、礵（砒礵即砒霜，白色粉末如霜）。",
+      "boundary": "源自《系统汉语》第529部「相部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "爽本義：象人兩手各提大器物；轉明亮、傷損",
+      "statement": "爽本義：甲骨文象人兩手各提大的器物之形，象意有二：一表示孔武有力、豪爽（《廣韻》「烈也。猛也」），二也可表示所提的為空的、粗疏的器物，所以器物之狀或即陶缸、或簡寫作一個×或兩個×（與「希」所从同；《爾雅》「差也。忒也」）。轉義：由器物的空、粗疏引申指明亮（《說文》「明也」，徐鍇曰「大，其中隙縫光也」）；器物過大、一手一個，提的過程中難免會跟兩足發生刮擦，故引申指傷、損（《廣雅》「傷也」「敗也」「減也」）。",
+      "boundary": "源自《系统汉语》第530部「爽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "爽音源：兩邊有物相夾，義音同相",
+      "statement": "音源：借音字。兩邊有物相夾，故義音同「相」：《老子》「五味令人口爽」，「爽」馬王堆漢墓帛書《老子》甲本作「𠷹」、乙本作「爽」；《左傳·定公三年》「有兩肅爽馬」，孔穎達疏「爽，或作霜」，《國語·楚語下》韋昭注引作「驦」。",
+      "boundary": "源自《系统汉语》第530部「爽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "爽字族①：空明",
+      "statement": "①指空明：鷞（鷫鷞，西方之鳥——大約是候鳥，秋天从西方遷來，其來之時桑葉凋落、寒霜降臨；《正字通》「長頸綠色似鴈，皮可為裘」；shuǎng鷞鳩即鷹、通作爽）、慡（性明也，性格爽朗）、漺（淨也、冷也，水清皃；chuǎng同磢即摩擦碰撞）、塽（地髙明處，通作爽）、騻（驦，驌驦，良馬名）。",
+      "boundary": "源自《系统汉语》第530部「爽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "爽字族②：刮擦",
+      "statement": "②指刮擦：㼽（磢𤭪，用瓦石搓磨掉器物的污垢；shuāng半瓦即沒有燒透的瓦器）、樉（木名，一曰木茂皃）、鏯（疑即鋾銼之類，跟磢、㼽功用類同而用金屬製成）、𦄍（緉𦄍，絞也；履底繩）、䫪（醜也、滿也）、傸（惡也）、𠞮（𦞛，皮傷也即擦傷）。",
+      "boundary": "源自《系统汉语》第530部「爽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "桑本義與轉義：枝條繁茂的桑樹；圓而堅韌之物、蠶之狀",
+      "statement": "桑本義：甲骨文象枝條繁茂的桑樹形（《玉篇》「蠶所食葉。俗作桒」）。轉義：桑樹堅硬而柔韌、老樹幹上多生出圓鼓鼓的結節，由此引申指圓而堅韌之物（此義分化如「䡦」，《集韻》「車輞也」即車輪的外周）；桑樹最大作用是以葉飼蠶，故引申指蠶之狀（此義分化如「搡」，指用力推、狀如蠶吐絲時的左右搖擺）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "桑辯證與音源：小篆訛作叒；桑葉被摘有空爽義故義音同爽",
+      "statement": "辯證：小篆將枝葉訛變作「叒」，故《說文》「蠶所食葉木。从叒木」析形不確。音源：借音字，因桑葉被摘而有空爽義，故義音同「爽」：《書·仲虺之誥》「用爽厥師」，《墨子·非命上》引作「龔喪厥師」，孫詒讓引畢沅曰「龔、用，喪、爽音同」；《國語·周語下》「晉侯爽二」韋昭注「爽，當為喪，字之誤也」（張儒按：非字之誤，乃聲之誤）；《山海經·南山經》「發爽之山」郭璞注「爽，一作喪」——喪本桑聲。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "桑字族①：桑樹的結節，表示圓而鼓出之硬物",
+      "statement": "①指桑樹的結節，表示圓而鼓出之硬物：顙（額頭）、嗓（喉嚨；俗以馬病鼻流涎曰嗓）、磉（柱子下面的石墩）、𣞙（鼓匡木、鼓材）、䡦（車輞即車輪外周，或指車轂受軸的空腔）、鎟（鈴聲，或同䡦即轂中之空、受軸處）、𡠏（商代地名，在今河南寧陵縣南部）、𩺞（黃顙魚，頭部堅硬）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "桑字族②③④：推搡搖擺、桑椹、硬的象意",
+      "statement": "②指蠶吃桑葉之狀，表示推搡、搖擺：搡（用力推、頂撞）、𣉕（㫰𣉕，暴曬）、𦟄（𦟄磕，譏笑譏刺；sào同臊即害羞）、縔（繭中）、褬（衣敝，衣爛如蠶吃過的桑葉）、𤸯（馬病——蠶頭似馬，疑指馬吐沫如蠶吐絲）、䮣（𩦌，馬色黃尾白）。③指桑椹：𨢆（乳酒）。④象意字含硬義：𢻚（𢻏弜，弓硬皃）、㪣（義闕）、𢧱（義闕）、𣙰（𡳨𡳭，分蠶即移蠶就寬——蠶晃著腦袋行將吐絲時要分開放到寬敞處結繭）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "喪本義與轉義：从吅从桑，眾蠶食桑；失去、死亡",
+      "statement": "喪本義：甲骨文从吅从桑——「吅」指眾口、表示很多蠶，故或作「品」或「㗊」，从「桑」象意蠶吃桑葉。轉義：眾蠶食桑的樣子猶如許多身穿白色孝服的人匍匐著哭喪一般，故引申指失去、死亡（sàng《廣韻》「亡也。死喪也」），或引申指喪事（sāng《正韻》「持服為喪」）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "喪辯證與字族：金文加亡為聲，小篆訛作哭",
+      "statement": "辯證：西周金文在下面又添加「亡」字作為聲符兼表意，小篆又將「桑」與「吅」訛寫作「哭」，遂與「桑」徹底失去聯繫、直接表示喪亡之意，故《說文》「亡也。从哭、从亾會意，亾亦聲」。字族（指色如蠶狀）：𦅇（纕，緗𦅇即淺黃）、𩦌（䮣，馬色黃尾白；shuāng馬淺黃色）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "染本義與轉義：从水从桑，用桑樹汁液作染料；玷污、薰陶",
+      "statement": "染本義：从水从桑，象意用桑樹的汁液作為染料（《本草綱目》「木之白皮亦可用。煮汁染褐色，久不落」；其實枝葉乃至根、果實都可以作染料，桑樹種類很多、不同桑樹可染出不同色彩，如柘桑「其木染黃赤色」；《廣韻》「染色」）。轉義：由染色引申指玷污（《廣雅》「污也」），或引申指薰陶（《正字通》「習俗積漸曰染」）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "染辯證與音源：小篆承戰國古文作杂；桑枝柔韌故義音同冉",
+      "statement": "辯證：因戰國古文將桑枝簡寫作「九」字形，小篆承之，故《說文》「繒染為色。从水，杂聲」析形不確（裴光遠云「从木，木者所以染，梔、茜之屬也；从九，九者染之數也」）；不過古代染料多取各種植物汁液為之，「九」本有多之義，故理也通；另外依據「染」的西漢帛書，所从「杂」又跟「朵」差不多，「朵」本指花朵而花朵也可作染料，故所从到底指桑樹還是花朵仍難以確定。音源：本「桑」聲，因桑枝柔韌故義音同「冉」（《詩·小雅·巧言》「荏染柔木」，「染」《說文系傳》引作「苒」）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "染字族：染色、沾濕",
+      "statement": "字族（指染色、沾濕）：媣（諟，整理；安詳皃）、𩃵（濡也，沾濕）、蒅（靛染料）。",
+      "boundary": "源自《系统汉语》第531部「桑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "𨛜本義：从兩相對跪跽之人，相向；嚮之初文",
+      "statement": "𨛜本義：甲骨文从兩個相對的跪跽之人，象意相向，是「嚮」的初文（xiàng，《集韻》「面也」）。",
+      "boundary": "源自《系统汉语》第532部「𨛜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "𨛜轉義與辯證：親密侍奉；卿、鄉同源，《說文》分釋不確",
+      "statement": "轉義：古人歇息時多呈跪跽狀態，兩個相對意味著兩人關係緊密，故引申指親密、侍奉（qīng，《正字通》「𠨍，卿本字。人臣事君之義會意」），或引申指同一地域的人，此義分化作「鄉」（《釋名》「萬二千五百家爲郷。郷，向也，衆所向也」）。辯證：由于戰國古文將跪跽著的人形訛變作「邑」、小篆承之，故《說文》分別釋「𠨍」為「事之制也。从卩、㔿」、釋「𨛜」為「鄰道也。从邑从𨙨」，所釋不確；同時「卿、鄉」本同源，甲骨文从兩人（𠨍）相對而食之形，故《說文》分釋為「國離邑……从𨛜，皀聲」與「章也……从卯皀聲」，所釋也不確。",
+      "boundary": "源自《系统汉语》第532部「𨛜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "𨛜音源：因相對之意而義音同向",
+      "statement": "音源：借音字，因相對之意而義音同「向」：《集韻》「珦，《說文》：『玉也』，或从鄉」。",
+      "boundary": "源自《系统汉语》第532部「𨛜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "𨛜字族①：相對，表示對食、面對、親密",
+      "statement": "①指相對，表示對食、面對、親密：𨞰（鄉乡嚮，本指在一起共同飲食的氏族部落，後引申指行政單位——周制萬二千五百家為鄉，漢制十亭為鄉，唐宋至今指縣以下的行政單位；xiàng面也；《正字通》「往者謂之鄕者，往日謂之鄕日」；xiǎng與響通即回音、與饗通）、卿（古代天子及諸侯所屬高級官員的稱呼；秦漢以後君呼臣為卿、凡敵體相呼亦為卿，隋唐以來儕輩下已則稱卿；舊時夫妻之間的稱呼；通慶即喜慶；甲骨文同鄉、象兩人對食之形）、𨞠（巷，街里中的道路、胡同——直為街曲為巷、大者為街小者為巷；hàng巷道即采礦時井下挖掘的通道）、嚮（與向通用；xiǎng兩階間謂之嚮、又與響同）、䦳（門響也；《爾雅·釋宮》「兩階聞謂之䦳」，或指門頭、牖屬，《明堂位》「刮楹達䦳，天子之廟飾」）。",
+      "boundary": "源自《系统汉语》第532部「𨛜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-88-yang",
+      "title": "𨛜字族②：對食，表示美味、回聲",
+      "statement": "②指對食，表示美味、回聲：饗（鄉人相聚宴飲；《玉篇》「設盛禮以飯賔也」；《集韻》「享也」）、薌（穀氣即榖物的香氣，亦作香）、曏（不久以前；shǎng少時即頃刻，即「晌」）、膷（牛羹，牛之美者；香也；今肉中生息肉也）、響（聲也；《玉篇》「應聲也」即回聲相應）、蠁（知聲蟲也叫地蛹，即蠛蠓、俗稱酒螟子，喜歡吸食酸腐之物，被古人誤以為系酒醋上的白黴變成）、𧬰（非美言也；荅也；不久也）、𤩬（珦，玉也）。",
+      "boundary": "源自《系统汉语》第532部「𨛜部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
