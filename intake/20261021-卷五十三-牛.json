@@ -1,0 +1,1307 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷五十三 牛（295.牛部至303.覞部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "卷五十三音源字「牛」与其得音",
+      "statement": "卷五十三以「牛」为音源字：甲骨文象牛头形，上面的叉状为角，下面相对的为耳，中间一竖代表脸部；商代金文或以牛的整體象形表示。其音源为牛的叫声（niú）。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/53a-niu.md",
+      "topic_title": "卷五十三·牛",
+      "topic_summary": "《系统汉语》卷五十三「牛」：第295–303部（p872–p901），音源字为「牛」，甲骨文象牛头形，音源为牛的叫声；辖牛部（p875）、矛部（p878）、毛部（p885）、戊部（p887）、丑部（p888）、苗部（p890）、肉部（p892）、屮部（p895）、覞部（p901）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛的生物分类与种类",
+      "statement": "牛与羊同为食草性反刍动物，生物分类上属同类，只是体魄大、好斗。就驯养者而言，按功用分耕牛、奶牛、菜牛；按种类分牦牛、水牛、黄牛。黄牛耐热、角较短、性格温顺；水牛没有汗腺，夏天须整天泡在水中，体魄较大而好斗，冬季要睡干爽的干草窝。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牦牛：青藏高原的特有牛种",
+      "statement": "牦牛原产青藏高原，又称西藏牛、猪声牛、马尾牛，是肉、乳、役兼用牛，全世界仅1400多万头，约85%繁衍生息在我国青藏高原及周围3000米以上的高寒地区。其头大角粗、皮松厚、髻甲高长宽、前肢短而后肢呈刀状、体侧下部逆生粗长毛、尾短而蓬松；肉可食、乳可饮（酥油为高原主要食油）、皮可制牛皮船、绒可纺呢绒、毛可撚绳制帐篷、尾可制毛撣。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "犀牛亦称牛",
+      "statement": "犀牛亦称牛，是陆地上仅次于大象的哺乳动物，一般体长2.1–2.8米、高1.1–1.5米、重约1吨，习性与样子都跟水牛有些相近，古代可能被视为同类。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛的四胃与反刍",
+      "statement": "牛有四胃：瘤胃、网胃（第二胃）、瓣胃（第三胃）和皱胃（真胃、第四胃）。瘤胃中存活数十种细菌和纤毛原虫可分解饲料，瘤胃与网胃合称反刍胃，瓣胃进一步磨碎并吸收有机酸和水分。反刍时食物逆呕到口腔再咀嚼后咽回，一昼夜反刍7–8小时、约10–15个反刍周期（夜间约占2/3）；每天唾液分泌100–200升，含碳酸氢钠等缓冲盐使瘤胃pH稳定在6.0–7.0。大型牛胃容量可达200–250升，瘤胃占总容量80%；消化道平均长56米（小肠约40米），食物残渣7–8天以上才排尽，故消化率高。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "制牛在鼻与《吕氏春秋》牵牛之说",
+      "statement": "牛行动迟缓、性格倔强，发起威来速度惊人，其弱点主要在鼻子：拴住鼻子把头仰起便失去力量；往前牵牛也不能太用力，力过使之痛反而后退。《吕氏春秋》载「使乌获疾引牛尾，尾绝力尽，而牛不可行，逆也；使五尺竖子引其鼻，而牛恣所以之，顺也」——大力士乌获拉牛尾徒劳，矮小童子牵牛鼻环却能使牛听话。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "禅宗《十牛图》以牛喻性",
+      "statement": "禅宗《十牛图》以牧童喻心、牛喻性，喻修行十个阶段：寻牛、见迹、见牛、得牛、牧牛、骑牛归家、忘牛存人、人牛俱忘、返本还源、入廛垂手（宋廓庵禅师与普明禅师皆有此图）。五蕴身心名色比作野牛，贪瞋痴无明习性比作牛的蛮性，戒律比作韁绳，禅定比作木桩，慧观正念比作对牛的照管，强调修禅既压制七情六欲又顺应本性，渐至物我两忘。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "相牛术与《相牛经》",
+      "statement": "中国古代很早就有相牛术的记载：传说春秋齐桓公谋士甯戚著《相牛经》，传百里奚，汉代河西薛公得其书以相牛并作注解，汉末由高堂生传至晋代；此作也可能是汉初人假托古人总结春秋至秦汉民间相牛经验而成，原作已失传，仅散见于《齐民要术》等农书。清《相牛心境要览》1.2万余字，以相水牛技术为主、次及黄牛，大部分可作现代役牛鉴定参考。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牧牛与舍饲的历史",
+      "statement": "放牧是古代养牛的早期方式：甲骨文「牧」表示以手执鞭驱牛，《说文》释为养牛人；夏商牧官有牧正、牧师，放牧地有郊地、林地、牧地之别。甲骨文「牢」表示供躲避风霜雨雪的简易牛栏或牛棚。《秦律》已有牛马饲养管理保护条例，北魏《齐民要术》主张「寒温饮饲，适其天性」并造牛衣、修牛舍、垫草越冬；《唐六典》规定官牛饲料由政府定量供应，《农桑辑要》记每三头牛日给豆料八升、先粗后精；明清牧喂结合，徐光启《农政全书》述江南、蒲松龄《农桑经》等述华北、杨秀元《农言著实》记苜蓿喂牛。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛崇拜与牛生日",
+      "statement": "牛在上古即走向祭坛称「牺牲」，是祭祀不可缺少的神圣物；民间传说牛是来人间帮助人类的天上神灵，甲骨文「物」实际指牛创造了一切。牛崇拜普遍：伏羲龙身牛首、女娲牛首蛇身、炎帝「人身牛首」、蚩尤「人身牛蹄四目六手，头有角」。牛生日各异：闽西以农历三月三、粤北客家和畲族以四月初八「牛王诞」、瑶族以十月初一；战国秦已设怒特祠专祀神牛，为最早记录的耕牛崇拜；苗族郎德村将铜鼓悬于牛角形鼓藏树，视铜鼓与耕牛同为祖先化身；塔吉克、维吾尔、柯尔克孜等族认为世界由一头神牛顶着。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛的义项与音义联系",
+      "statement": "牛在汉语系统中的义项主要跟牛的有角、反刍、好斗等习性以及牧牛方式有关。音义联系最紧密者为「矛」：古矛、牛义音相通（《说文》「蛑，古文蟊」），既指牛角坚挺如牛角，也指茅草披覆如牛毛。故除指尖利的「戊」外，指细柔的「毛、丑、苗、肉、屮」也都借以为音。",
+      "boundary": "源自《系统汉语》卷五十三「牛」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛：本义与字形",
+      "statement": "牛甲骨文象牛头形，上面的叉状为角，下面相对的为耳，中间一竖代表脸部，商代金文或以整体象形表示。niú，《玉篇》：「大牲也。黄帝服牛乘马。」商代有「亚长」青铜牛尊。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛：转义",
+      "statement": "牛或比喻指样子像牛一样性格倔强固执（如「牛脾气」），或用以指样子像牛的动物（如「天牛」「蜗牛」）。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛：辩证",
+      "statement": "《说文》「大牲也。牛，件也；件，事理也。象角头三、封㞑之形」析形不确：据商代金文作牛头形，牛字并不从「件」取义，所谓「封」为高起之说亦非。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛字族一：直接与牛相关",
+      "statement": "牧（𤘴）mù为养牛人，从攴从牛，引申为放牧之地（《尔雅》「郊外谓之牧」）；件（侔）jiàn从人从牛，牛大物故可分，本义当指牵牛，故义音同「牵」，引申为分割、物件；吽hǒu为牛鸣，亦为狗争斗声、佛教六字真言之一；𥝫（𤛿犂）lí即「耕」；𧥸yìn为怒言。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛字族二：指牛的斗角",
+      "statement": "牪yàn为牛伴、牛件，又训「抵」；牮jiàn谓屋斜用牮（支撑倾斜的房屋），又以土石遮水；𧣈chù同「触」；𤵃chōu谓病差愈（与「瘳」义近，《正字通》以为宜删）。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牛字族三：指状如牛之物",
+      "statement": "汼（鷔聱）为水名，又形容鱼鸟之状；㭌（桙）为器名；𤘵音斛；𧲤为兽似豕；𩲍为鬼名；䒜即牛膝，药草，苗高二三尺、叶尖圆如匙、两两相对、节似牛膝鼓出；𩵠（𩹷）为牛鱼（北方鲔类，头有脆骨重百斤，即南方鲟鱼），又为鬼头鱼（出广东韶州乐昌荣溪，味美状狞恶）。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牢：本义与字形",
+      "statement": "牢甲骨文从宀牛声，象关牛的圈，或加「马」义同。láo，《广韵》：「养牛马圈。」三国时有陶制牛圈模型。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牢：转义",
+      "statement": "牛有角而力大，其圈必须坚固结实，但相对猪圈一般要敞亮，故引申为坚固（《唐韵》「坚也、固也」）、把稳稳妥（《正字通》「牢，将牢，犹俗言把稳」）；由牛圈之状引申为仓廪、监狱（《释名》「狱，又谓之牢」）、里面稍空之状；又指牛羊（牛曰大牢、羊曰少牢）；由牛在牢中转悠反刍之状引申为忧烦苦闷（牢愁）。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牢：辩证",
+      "statement": "《说文》「闲，养牛马圈也。从牛，冬省，取其四周帀也」，「冬省」之说源自小篆将「宀」塞口可能有封闭之意，故楷书或写作「𡕘」。字本同「牢」，释形不确。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牢字族一：牛栏状，表坚牢封闭",
+      "statement": "㟉láo为亭名、山貌；𢭂（㨓捞）láo训「闭也」，用同「捞」；䜮liáo为谷名，又训谷空、深；𠈭（僗）láo为胶𠈭，粗大貌。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牢字族二：牛打栏，表扰动叩击反刍",
+      "statement": "𤉍lào见《搜真玉镜》；𨦭（哰鐒）láo为炉錍、炉镝（箭镞），又为铜器；浶láo为浶浪，惊扰貌；𥒪（䃕磱）láo为石器，「石相叩谓之䃕」；𦕵（聊𦗖）liáo即耳鸣；𪁔láo为鸟名，锦文。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牟：本义与字形",
+      "statement": "牟甲骨文从「丁」（小木楔）从「牛」，丁在牛头部位，象穿牛鼻子的木牶（丁或作一，故战国古文或从牛上横一），后演变为「牟」。本义指牵牛，为「牵」的初文，《广韵》：「引也、挽也。」《正字通》：「以縻引牛。」",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牟：转义",
+      "statement": "细绳牵动巨牛，故引申为超过、加倍、博大（《广韵》「过也、陪也、进也、大也」）；引申为谋利而有获取、喜欢之义（《玉篇》「爱也、取也、夺也、遇也」）；牵的是牛鼻子，故引申为头部（《玉篇》「首也」）；由被牵引引申为愚昧昏暗（mǎo，「务，昏也」，古作瞀）。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牟：辩证",
+      "statement": "所录甲骨文源自《新编甲骨文》，释为「从口在牛上，会牛张口鸣叫之意」，与《说文》「牛鸣也。从牛，象其声气从口出」相符；《正字通》则谓「声无形，不可象也」「牟象开口出气，亦非」。另《甲骨文》录有从「矢」的甲骨文，矢身与牛身重合、只余矢尾在牛头中，疑亦「牟」字，象用箭矢穿过牛鼻子即牛牶。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牟：音源",
+      "statement": "牟为音源字，源自牛的叫声。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牟字族一：牵牛，表牟取勉强努力",
+      "statement": "侔（蟊蛑）móu训「齐等」，又谓北燕之外努力谓之侔莫，máo则与蟊、蛑同（食苗虫）；眸móu为目童子（《释名》「冒也，相裹冒也」）；哞mōu为牛叫声；蛑móu、máo为蝤蛑（梭子蟹，大有力能与虎斗）或螳螂、食草根害虫；劺（敄）móu谓相勉努力、强；恈móu训贪爱；鴾móu即鹌鹑；洠móu为水边；鉾（矛）móu为剑端，máo为古文矛字；䏬móu为脊；𤚅mú音模；𥿵móu谓不相和；𧔂xiá为蝼蛄别名；𨴍móu训「开也」；𩶢móu为鱼名。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "牟字族二：牵牛状，表大、加倍",
+      "statement": "麰（𦭷）móu为来麰（一种双穗的麦、短粒麦、春麦），取其大义，又为大麦曲即酒母；毪mú为西藏出产的羊毛织品（毪子）；桙（杅）móu、yú同「杅」，为大木盆，可洗浴、饮牛、盛汤浆（《正字通》「杅，浴器，大而深」）。",
+      "boundary": "源自《系统汉语》第295部「牛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矛：本义与字形",
+      "statement": "矛商代金文象长柄有耳的矛形，即枪、梭镖，直刃，刃下系有缨以免溅血到持矛人身上，故或称红缨枪。máo，《说文》：「酋矛也。建于兵车，长二丈。象形。」古矛从戈。商代有双耳青铜矛。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矛：辩证（所从为茅草花穗）",
+      "statement": "从「懋（𢘅）」的甲骨文来看，所从「矛」并不象矛，而象茅草的花穗形，其中小点当为子实，故疑「茅」所从本非「矛」字而是茅草花的象形，字形近「弔」；春秋金文及战国古文所写「矛」更像「茅」字。茅草在古代有特别作用：白茅洁白柔顺，祭祀时常用来垫托或包裹祭品，又是缩酒之物（立一束白茅于祭坛前倒酒，酒渗入茅中表示神明已饮），招神也用茅（《周礼》「旁招以茅」）；初生之茅名「荑」，叶不腐烂可盖屋顶、制索，俗称茅屋。古人视茅为神物还因其花白如人年老白头、生命力强（野火烧不尽），体现对长寿的追求；白茅花可做枕芯、夹衣芯。「弔、夷」本一字，夷从弋（木橛），削尖木棍即最原始的矛，故「茅」之从「夷」与「矛」并无本质不同。以「矛」为声符的字族实际分为「茅」与「矛」两类，二者因形近而混，抑或因茅草叶尖长、两面有刃如矛锋而借「矛」为声，不得而知。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矛：音源",
+      "statement": "矛为借音字：因矛状如牛角般坚挺，而义音同「牛」。《诗·周颂·思文》「贻我来牟」，《释文》：「牟，字或作𪍓。」《说文》：「蛑，古文蟊。」「矛」或有蒙覆之义，如「雺（wù）」指雾气，显然取意于茅草花状。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矛字族一：指茅草，表蒙覆繁茂",
+      "statement": "茅máo即茅草（《说文》「菅也」），苗出地曰茅针、花曰莠、叶曰菅、根曰茹，惟白茅擅名，又指明（用茅草作标记）；蟊（䖥𧓿𧕑）máo为食植物根苗的小红蜘蛛之类害虫（茅根味甜），又为龟兆之气不泽；𧔨（蝥蛑）máo为虫食草根者，古文从虫从牟；髳（𨱨髦䟥）máo为发至眉（头发之长），róu为马繁鬣，méng为草木朦胧不清；罞máo为捕麋鹿的网（郭璞注「冒其头也」）；雺（𩄯𩅗雾）wù为雾气、méng为蒙昧；䟥méng为草木繁茂；𡹰máo为山名（在句容）；𨾣（鹜）wù为鸭子；鶜máo为鶜鸱（猫头鹰，其羽如茅花，即《尔雅》「狂，茅鸱」）。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矛字族二：指矛，表纵长",
+      "statement": "楙mào训木盛（此义当从茅），又为木瓜树（树状如矛、杆直、木瓜集结于顶端，此义当从矛）；𦼪mào为草名；懋（𢘅）mào训勤勉（甲骨文从茅，西周金文从矛，本应分为两字）；袤（𧝺𧞉）mào为衣带以上，又指南北距离的长度（南北曰袤、东西曰广）。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矛字族三：形近「弔」之讹",
+      "statement": "𥁛（盄）diào为器名（铫子，一种烧水或煮东西、嘴较长的器具）；𥍝shǔ音暑，义不详，疑即「尗」（尗本从弔）。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "敄：本义与字形",
+      "statement": "敄西周金文从「矛、攴」，所从「矛」从「人」（战国古文从「兀」）头上插「茅」形，象古武士头盔上的茅穗状装饰，即「鍪（móu）」的初文（《广韵》「兜鍪，首铠」）；「攴」指击打，象向武士挑战，故表强悍、冒失之义；兜鍪本也是帽，故也有蒙冒之意。wù，《说文》：「强也。从攴矛声。」móu则谓北燕之外相勉努力谓之劺，一曰强。战国时有青铜头盔。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "敄字族：多表蒙冒、混乱、昏昧",
+      "statement": "鍪（䥐𨩺）móu为大口的锅，本指打仗时的头盔（《说文长笺》「军士以首铠为炊具，故曰兜；兜为胄名，鍪则釜名，一物兼二义」）；鞪（𨍎𨎸）mù为车轴束、辀束（车辕上绑扎加固的皮带兼装饰），móu为鞮鞪（首铠，通作牟、鍪）；䓮（茆）mào为细草丛生，茆又为凫葵（莼菜）；楘（𣖶𥠪）mù为车历录束文（用皮带绑扎加固车辕而成的装饰，《释名》「复也，重复非一之言也」）；㡔mù、wù为漆布、车上衡衣；蓩mǎo为卷耳（苍耳，果实如兜鍪、上有钩刺，名苍耳子）；𦎦（𦏃）yù、wù为六月生羔；𨂣（𨄝）wù为长跪；堥（𥓺务旄）máo为丘前高后下，móu为堆堥（小陇），wǔ为瓦器（煎药瓦罐）；㜈mù为美貌；蝥（蟊𧎄𧐙𧒚蟱）máo为斑蝥，wú为蜘蛛，wù为蛷螋；务（务侮㚢㑄𢘃娒瞀牟）wù为为某事而奔走（《说文》「趣也」），又训事务、强、遽，wǔ为侮慢，mào为昏乱眩惑；嵍（堥𡻒𥓺务旄）wù为山名；骛（𩤝𩥦）wù为马乱奔驰；𪍓（𪍘麰）mú与麰同（春麦）；䨁wù为雀子、鸡雏；鹜（䳱）wù为鸭（舒凫）；愗（𢝽𠍢𠊮霿）mào为怐愗（愚貌）、鄙吝；婺wù为不顺从，móu、mù为女貌、美貌；霚（雾雺雾）wù为地气蒸发天不应和（雾），指其笼盖貌（《释名》「霚，冒也，气蒙乱覆冒物也」）；霿（愗𠊮𢝽𠍢）méng、wù为浓雾、晦（昏昧愚蒙）；𨡭mú为榆仁作的酱；㮘máo为冬桃；𩭾（髳𩮼）máo为发至眉；瞀（敄牟）mào为低着眼睛谨慎地看，又为目不明、思念乱；暓（𣊃）mào为乱明（阴天）；奦wù为大、事；熃（𤋄）wù为主火；䋷（𦃤）móu为縠绢、缚、绰；𠊮（𠍢）móu为佝𠊮（鄙吝）；𥎟máo见《五音篇海》；𦺒mòu为毒草。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矞：本义与字形",
+      "statement": "矞从矛从「㕯」或「丙」，「丙」即柄，指装有柄的长矛。yù，《说文》：「以锥有所穿也。从矛从㕯。一曰满有所出也。」",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矞：转义",
+      "statement": "由长矛穿刺之状引申为诡诈（jué，《集韵》「谲，权诈也」）；由长矛刺取的迅猛引申为惊惧、迅速（xù，《集韵》「惊遽貌」，《玉篇》「飞貌」）；由长矛及缨的色彩引申为外赤内青的祥云（yù，《埤雅》「二色为矞，外赤内青谓之矞云」，同「霱」）。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矞字族一：长矛状，表细而尖",
+      "statement": "鹬（𪈄鶐）yù为知天将雨之鸟（水鸟天将雨即鸣，古人以其知天时乃为冠，象此鸟之形，使掌天文者冠之），又为翠鸟；驈yù为骊马白胯（深黑色而大腿间白，取其状如鹬，当为鹬省声）；橘jú为橘树（树有刺）；氄（㲝𣰲𥎜𣭲）rǒng为鸟兽细毛；鱊yù为小鱼（鳑鲏的一种，鱼苗多干制为「春鱼」）；𦺖jú为草名（马芹）；𧑐yù为金龟子（长寸许、金碧荧然，苏州妇女用为首饰，俗称金乌虫）。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矞字族二：用矛刺，表狂诈疾",
+      "statement": "𧽻jú为狂走；遹yù为回避（《玉篇》「循也、述也、自也、回也、避也」）；噊yù为危、诡诈；憰jué为权诈；谲jué为权变欺诈（益梁曰谬欺、天下曰谲）；僪（獝䰬）jú为狂屈侜张似人而非、狂鬼，yù为日旁气；獝（𢨌𥎕）xù为狂、惊遽貌；蹫jú为狂走、跛貌；𩘻yù为急风；䰬jú为狂鬼、无头鬼；𢵮lǖ为抽打；𥛯jué为不祥；𦒔yù为飞貌。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "矞字族三、四：被刺状（喷涌赤色）与巨创（深穴）",
+      "statement": "潏jué为涌出、水中坻（人所为为潏）、水名，又为水中所筑土石工程；䤎（𪊀）jú为酱，jué为蚌酱；劀guā为刮去恶疮上的肉；燏yù为火光；霱（矞）yù为瑞云（卿云）；𥎐yù为出；璚（琼玦瓗琁）qióng为赤玉，jué为鹿璚（老鹿年久角中生玉）、玦（玉佩）。䆷（坹）xuè为空貌、深貌；繘（𦇹𦈇）yù为汲水用的绳索；鐍（𧤾觼）jué为有舌的环、锁钥，yù为锥；𧝃（袂）jué为袖；瞲（𥅛𥄵）xù为目深貌，xuè为惊视貌；𣎛xuè为疮貌；𧷾jú为贝。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "柔：本义与字形",
+      "statement": "柔据商代金文与「𢘅」的甲骨文同，应即「茅」的初文：下为「屮」的倒写表示草的披拂，上为茅草开花的样子，本指茅草。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "柔：转义",
+      "statement": "茅草花呈絮状十分软和，故引申为软和。róu，《集韵》「安也」，《玉篇》「弱也」，《广韵》「顺也」。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "柔：辩证",
+      "statement": "由于倒「屮」与「木」下同，战国古文即讹作「木」，上部讹作「矛」，故《说文》「木曲直也。从木矛声」析形、义皆不确。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "柔字族一：使物变软，表践踏搓撚混杂",
+      "statement": "鞣（𦎤）róu为使皮革柔软（《正字通》与蹂同，蹂躏；《玉篇》乾革）；蹂（厹）róu为兽足蹂地、践踏、野兽脚印；輮róu为车轮外框（煣木而为之）；煣rǒu为烤而使弯曲或伸直；𢔟（狃）rǒu为用脚来回踩踏（应同蹂），niǔ为习、正、与狃同；韖rǒu为柔韧、车轫（阻止车轮转动的木头）；糅（粈）róu为掺和、揉而使混杂；𥠊róu为驾车碾粟穗脱粒；揉（𦽩挠煣楺）róu为以手挻、屈、撚、顺；䋴niù为杂色缯；𡀐（伫）zhù同伫；𨜙（𨛶）róu、shòu为乡名；𩜷（𩚖）yòu为馏、niù为杂饭；𪍚（曲）qū为酒曲俗字；𪑶róu为商世国名。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "柔字族二：软和，表柔顺松软弯曲",
+      "statement": "蝚（猱）róu为蛭蝚（蚂蟥，取其体柔）、蝼蛄类，náo为猿猴类；鍒róu为软铁（熟铁）；腬róu为肥美的肉（取其松软之状）；㽥róu为土性柔和的田（耕治过的熟田）；騥róu为多鬃的青黑色马；媃róu为女子温存；楺róu为屈木；鶔róu为传说中的鸟（如鹊短尾，能衔箭反射人，即戴胜鸟）；瑈róu为玉名；渘róu为水名，与柔同；葇（𦺤）róu为香葇（香薷、香茸、蜜蜂草，能发汗解暑）；䰆róu为马繁鬣、黄发；猱（㑱）náo为猴；㖻niú为小儿声，róu为恶言；𠢢yǒu为软；𢜸（𢥝）náo为劣；鰇róu为柔鱼（鱿鱼，似乌鲗无骨，越人重之）。",
+      "boundary": "源自《系统汉语》第296部「矛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛：本义与字形",
+      "statement": "毛甲骨文象动物的尾巴或身上的体毛下垂形，指动物或植物表面的丝状物；西周金文倒过来向上，遂演变为今天的「毛」字。máo，《说文》：「眉发之属及兽毛也。象形。」",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛：转义",
+      "statement": "人的毛相对其他动物最小，或指食用时不拔毛，故视多毛为粗糙、不开化、兽性，而指没有完成的半成品（如毛坯、毛糙、毛利）；毛发细微故引申为小、轻（如毛孩子）；毛发凌乱久则纠结，故引申为惊慌慌乱；紧张时毛孔收缩、毛发竖起，故也指害怕、生气；或比喻像毛发之物，一般指谷物或草类（如不毛之地）；动物体表颜色不同主要即毛色不同，故或引申为选择（mào，《集韵》「择也」）。",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛：音源",
+      "statement": "毛为借音字：毛覆盖于身体表面，故义音同「冒」。《释名》：「毛，貌也，冒也，在表所以别形貌，自覆冒也。」古牛、毛可通用：《左传·昭公十二年》「王孙牟」，杜预《春秋氏族谱》作「王孙髦」。",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛字族一：毛多、长，表覆冒",
+      "statement": "髦（𨱞氂斄猫）máo为长发（《释名》「髦，冒也，覆冒头颈也」），又为俊、鬣、西南夷长髦牛、士官、天门冬、螳螂；牦（𤙚）máo为牦牛（出甘肃临洮及西南徼外，状如水牛，膝尾背胡下黑毛长尺许，古取为旌旄）；旄máo为用牦牛尾装饰的旗帜（《玉篇》「牛尾也，舞者持」），又为泽柳、冬桃、老称；芼mào为草覆蔓、拔取、杂在肉汤里的菜；枆（楙）máo为冬桃（桃子有毛）；氂máo为牦牛尾（《集韵》「十毫曰氂」，长度单位同厘，又为硬而卷曲的毛）；䋃mào为刺、绢帛䋃起如刺；宒zhūn为棺貌；䭷máo为车翣以御风尘、马长毛；𦳁hào为吴俗以草木叶粪田；𧘝biǎo为上衣（古者衣裘以毛为表，引申为识、明、外）；𩮄xiū为龙车边侧的漆饰（义音同髹）；毫（毜）háo为长锐毛（鬃毛），十丝曰毫，笔谓之毫（聚兔毫为之）；蚝（蛓蠔䗹𧉠𧊸𧏀）cì为毛虫，háo为斑蝥（一名龙蚝，全身被毛）或牡蛎（可生吃，故从毛）。",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛字族二：毛细，表不明",
+      "statement": "覒máo为选择（毛细微要仔细看之意），又为邪视；秏hào为一种稻类植物（疑本指打谷时连谷粒一起脱落的茎叶，俗称禾毛），又为减、败，mào为秏乱不明；眊（𥉗瞙）mào为目少精、眼睛看不清楚，mèi为好；㧌（挠）mào为择，náo为搅；酕máo为极醉貌（醉眼朦胧看不清、脚步轻飘）；耄（𦒷𦹾）máo为年九十曰耄（《正字通》「惛忘也」）；㿞（耄）mào为俗耄字；䚽hào为音信。",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛字族三：毛轻，表轻忽",
+      "statement": "毣（眊）mù为思貌、毛湿、好貌（毣毣，小好貌），即鸟身上的绒毛，máo同眊；㲝（𩿂）rǒng为众、聚，mào为鸟毛盛、轻毛；䫽pāo为轻貌、轻风；㲏（𣬢）pāo为毛起貌、轻；𣹪máo为水名（出诸与山）。",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛字族四：带毛物，表粗糙急躁",
+      "statement": "耗（秏）hào为虚、减、败、恶、无、尽（俗作耗），máo为独貌，mào为耗乱；毷háo为解（吃惊，毛竖起），毷氉为烦恼烦躁不安；竓háo为公制容量单位「毫升」的旧译；㕰xuè为怒声、恚呼貌；㘪（耗）hào为粗疏（卤泻曰㘪）；㚪（𩲊𨑺）hào为虚厉；𤡇hāo为貉类（色白尾小如狗，北人谓之皮狐子，亦曰獓子）；𨈥máo音毛（邓福禄、韩小荆《字典考正》认为是「毦」字之讹）；𩫁mào为氉𩫁。",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "毛字族五：形近「屯」之讹",
+      "statement": "𤝄（㹠）máo音毛，tún同「㹠（豚）」。",
+      "boundary": "源自《系统汉语》第297部「毛部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "戊：本义与字形",
+      "statement": "戊象戟类兵器形，兼具矛的穿刺、戈的钩割、斧的砍斫，功用较全，属重型武器。wù，《正字通》引周伯琦：「戊，兵器，即矛字，古文作𥍥。」",
+      "boundary": "源自《系统汉语》第298部「戊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "戊：转义",
+      "statement": "因其功用较全、属重型武器，故引申为丰茂（《玉篇》「戊茂也」）；由于「戊」被借用作天干第五位，据五行学说对应五方的中（《集韵》「中宫也」，《玉篇》「太岁在戊曰著雍」）。",
+      "boundary": "源自《系统汉语》第298部「戊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "戊：辩证",
+      "statement": "《说文》「中宫也。象六甲五龙相拘绞也。戊承丁，象人胁」析形不确。",
+      "boundary": "源自《系统汉语》第298部「戊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "戊：音源",
+      "statement": "戊为借音字：因其可刺，故义音同「矛」。《尔雅·释诂》「茂，勉也」，《释文》：「茂，字又作懋，亦作𢘅。」《书·康诰》「懋不懋」，《左传·昭公八年》引作「茂」；《国语·周语上》「懋其正德」，《史记·周本纪》作「茂」。",
+      "boundary": "源自《系统汉语》第298部「戊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "戊字族一：丰茂、繁复",
+      "statement": "茂mào为草丰盛（《集韵》「美也」，《尔雅》「勉也」）；䛋jì训谋；㧔guài为扰、訬（吵扰）；𣆈huò音豁。",
+      "boundary": "源自《系统汉语》第298部「戊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "戊字族二、三：戊状与形近「岁、犮、匕」之讹",
+      "statement": "𥍥（矛）máo为古文矛字；𩒃kǎn为颊疾（脸颊肿痛，状如戊的侧刃）。𢧡（岁）suì为俗岁字；𩬕（发）fā为「发」字之讹（疑非讹字，指头发茂盛亦通）；𪗥（龀）chèn为「龀」字之讹（小孩七八岁时换下的牙齿）。",
+      "boundary": "源自《系统汉语》第298部「戊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "丑：本义与字形",
+      "statement": "丑象屈指之形，弯曲手指一般是抓扣时所呈现的样子，本为「扭（niǔ）」的初文，表示揪住、拧转之意。《正字通》引《六书故》：「丑，孥九切，手扭取物也。」",
+      "boundary": "源自《系统汉语》第299部「丑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "丑：转义",
+      "statement": "由手的屈指抓扣物体之状引申为器物上可以提起或系挂的部分，此义又分化出「纽」（《广韵》「丑犹纽也」）；指屈如被拘系之状，故引申为手铐（《六书正讹》「手械也」）；古代借「丑」为地支第二位，用以纪年、月（农历十二月）、日、时（早晨1到3点）及十二生肖中的属牛。",
+      "boundary": "源自《系统汉语》第299部「丑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "丑：辩证",
+      "statement": "《说文》将丑等同于手：「纽也。十二月，万物动，用事。象手之形。时加丑，亦举手时也。」析形不确，所释亦非本义。",
+      "boundary": "源自《系统汉语》第299部「丑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "丑：音源",
+      "statement": "丑为借音字：因手指屈曲，而义音同「柔」。《诗·齐风·还》「遭我乎峱之阳兮」，「峱」《太平御览》卷九〇九引作「猱」；《史记·孔子世家》「公山不狃止之」，司马贞索隐：「狃，邹氏云：一作蹂。」",
+      "boundary": "源自《系统汉语》第299部「丑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "丑字族一：被扭处，表枢纽机关",
+      "statement": "钮（㺲杽𨥋）niǔ为印鼻（印章上可以系绶带的鼻状突起），凡物钩固者皆曰钮、衣钩亦曰钮，chǒu为杽（铐手的刑具）；纽niǔ为绑束、打结而可以解散（《周礼》郑注「小鼻在武上，笄所贯也」）；靵niǔ同纽；𧘥niǔ为衣软、衣纽扣（带交结之处）；𨋀niǔ为车𨋀；𨳞niǔ为门关（门闩）；𨴘nán为门人；𨙺niǔ为地名；衄（䶊𦤊）nǜ为鼻出血，又为畏缩、挫败损伤、侮辱耻辱（《释名》「辱，衄也，言折衄也」）；𡚽（侴𡥆好）hào为人姓，又为「好」的古作；𥦅chòu为关东姓氏。",
+      "boundary": "源自《系统汉语》第299部「丑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "丑字族二：扭动，表扭曲",
+      "statement": "炄（𣅴）niǔ为将要干；狃niǔ为驯服了的狗，又为狎昵、习惯、依仗、因袭、狐狸等野兽的足迹；峱（𡸆）náo为山名（在齐地，今山东青州，四周都是山却与周围哪座山也不相连，周围水皆往西流）；䂇niǔ为矛刺中后扭动使创口增大（当即「剌」）；䏔（肘𦡴腬）niǔ为食肉（食肉必用手，故从丑肉），zhǒu同肘，rǒu为腬；沑nǜ、niǔ为水纹、湿润、泥；𩚖（粈）niù为糅杂的饭食；莥（𦱙𦶆）niǔ为鹿藿之实（野绿豆，蔓生缠绕）；妞（𡚽）niǔ为姓（高丽有之），今指女孩；扭niǔ为手转、手缚（今俗谓揪为扭），zhǒu为按、两手揉搓；忸（𢟄𩈇䚼）niǔ为忸怩、惭愧、习惯；䖡nǜ为䖡蚭（蚰蜒，北燕谓之䖡蚭，草鞋虫）；杻niǔ为木名（檍，似棣细叶、材中车辋，即菩提树，其枝扭曲），chǒu为杻械；吜chǒu为声；䛝náo为喜、谜；𣧊niǔ为欲死；𥄨（瞅）chǒu同瞅；𥍳niǔ为软；𥝦niǔ为禾软弱者；𧿔nǜ为行；𩘭xiū为风；𪏲niǔ为黏。",
+      "boundary": "源自《系统汉语》第299部「丑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "丑字族三：形近「又、羽」之讹",
+      "statement": "𡆴（𢬻㘝囡）nà为私取物（㘝的讹字）；𧋡nà为虫动貌；羞（馐𦟤）xiū为进献（从羊，羊为所进，从丑，丑亦声；《段注》「谓手持以进也」），引申为耻、致滋味为羞，据甲金文并不从丑而从又；鱃xiū为鱅鱼（松鱼，即海鲶），qiū为泥鳅；䡭xiū为载丧车、载麦三箱车；𦪋xiū为进船；𩑧（頨）yǔ为「頨」的讹字（中间低四周高的一种头形，传说孔子是这种头形）。",
+      "boundary": "源自《系统汉语》第299部「丑部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "苗：本义与字形",
+      "statement": "苗从屮从田，意即长于田间的草；生于田间的草会被除掉，故只能是嫩草或庄稼的幼苗。本义应指秧苗之类需要移栽的庄稼、蔬果等植物的嫩苗，而不是泛指草，故有小或移义。miáo，《说文》：「草生于田者。从艸，从田。」《广韵》：「禾秀也。」",
+      "boundary": "源自《系统汉语》第300部「苗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "苗：转义",
+      "statement": "由庄稼的幼苗引申为初生的动物（如鱼苗；《玉篇》「夏猎曰苗」，即猎物还没长成熟）；比喻事物的开端（苗头）或形状像苗的（火苗）；幼苗往往密集而生，故引申为众（《广韵》「众也」）；由苗的移植引申为求、变易（《广韵》「求也」，《广雅》「㑥也」，轻慢、交易），又引申为苗裔后代（《广雅》「末也」），或指疫苗。",
+      "boundary": "源自《系统汉语》第300部「苗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "苗：音源",
+      "statement": "苗为借音字：因有细小义，而义音同「毛」。段玉裁注《说文》「虦」字云：「毛、苗古同音。苗亦曰毛，如不毛之地是。」《山海经·海外南经》：「三苗国，一曰三毛国。」",
+      "boundary": "源自《系统汉语》第300部「苗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "苗字族一：苗状，表线条细长",
+      "statement": "媌（㑤）miáo为眉目美好（指女性睫毛细长如苗），又为闽人谓妓；緢miáo为牦牛尾的细毛，máo为丝旋；猫（猫）māo为狸属（面圆、脚有利爪、会捉老鼠、毛特别细密；猫叫声本同苗，且体型较小，故从苗；今简化作「猫」实不当——「猫」本指夏季田猎，野兽尚为成熟故从苗；猫本系国外引进，原始汉语体系的「狸」才是国产猫类）；喵miāo为猫叫声；描miáo为依照原样摹画（取义于移栽），mào为掷；瞄miáo为注意看、视力集中在一点；渵máo为大水貌（水淹没庄稼使之不能成熟）；䅦máo为穮䅦（禾不实）；𠣯（𦹣蒯）kuǎi同蒯（茅类）；𤚐máo为牦牛（一名猫牛，本作猫，讹作𤚐）；锚（𨭈）māo为船上铁锚（即今船首尾四角叉，用铁索贯之投水中使船不动摇，俗读若茅；取猫爪为义，应是从猫省）。",
+      "boundary": "源自《系统汉语》第300部「苗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "苗字族二：苗圃，表移植繁衍",
+      "statement": "庿（庙庙）miào即「庙」（《说文》「尊先祖貌也」），显然是取义于祖庙如苗圃、子孙后代即其「苗」都繁衍于此；𤸠（庙）miào同庙；𩳸miáo为蛊鬼。",
+      "boundary": "源自《系统汉语》第300部「苗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "苗字族三：形近「甾」之讹",
+      "statement": "鹋（鹚）zī为「鹚」字之讹（鹚，《广韵》「东方雉也」，野鸡的别称）；miáo今指鸸鹋（鸵鸟的一种，原产澳大利亚，当为译音）。",
+      "boundary": "源自《系统汉语》第300部「苗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "肉：本义与字形",
+      "statement": "肉象肉块形。ròu、rù，《说文》：「胾肉。象形。」《集韵》：「肌肉也。」《正字通》：「皮里骨外为肉。」",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "肉：转义",
+      "statement": "由动物的肌肉引申为物的表面跟里头中间的部分（如「果肉」；《集韵》「钱璧之体」）；由肉的性状引申为柔软的、迟缓的（如「肉脾气」）。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "肉：音源",
+      "statement": "肉为借音字：因肉柔软，故义音同「柔」。《说文》：「脜，面和也。从𦣻从肉，读若柔。」《玉篇》：「脜，面和也。野王案：柔色以蕴之，是以今为柔字。」",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "肉字族一、二：肉的质地（柔和团缩）与形近「及、冄」之讹",
+      "statement": "脜róu为面色温和；𩬳zhuǐ为假发髻；朒nǜ为朔而月见东方曰朒（《说文》作肭，非，当从肉；《玉篇》「缩朒，不宽伸之貌」，《汉书·五行志》「王侯缩朒不任事」）；𢫭nù为摍𢫭（不申）。𥭊（笈）jí音义不详，一说「笈」的讹字（笈为负书箱）；𨹌（𨛇𨸱）rǎn为𨹌伯（周文王之后），「𨸱」的讹字。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "䍃：本义与字形",
+      "statement": "䍃本为「䚻」，从肉从言，肉亦声，象意拍手或拍腿等为伴奏进行歌唱。yòu，《说文》：「䚻，徒歌。从言、肉。」《正字通》：「隶作谣。《诗·魏风》『我歌且谣』，戴侗曰：歌必有度曲声节，谣则但摇曳永诵之，儿童皆能为，故有童谣也。」南宋马远《踏歌图》、东周铜缶可证。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "䍃：转义",
+      "statement": "由歌谣时的相和引申为跟从。yóu，《广韵》：「从也。」",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "䍃：辩证",
+      "statement": "可能由于「缶、言」形近，或讹写作「䍃」，故《说文》：「䍃，瓦器也。从缶肉声。」徐铉注：「当从䚻省，乃得声。」徐铉即以其本从「䚻」。也可能是如同秦人的击缶，即拍打缶为乐器，演奏时身子左右摇摆，故以「䍃」为声旁的衍生字大多含有摇摆的意思。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "䍃字族：多指摇动",
+      "statement": "摇yáo为摆动（《方言》「摇、扇，疾也」）；遥yáo为逍遥、远；嗂yáo为喜、乐；鹞yào为鸷鸟（足能抓物而飞），yáo为五色雉；瑶yáo为美玉（又为北斗杓星瑶光）；榣yáo为树动、木名；䠛yáo为跳；㑾yáo为喜悦、物大小不同、比拟、欺骗（《说文长笺》「方俗以彼比此曰㑾，转用耀」）；𣣳（𣣵）yào为气冒出貌；媱yáo为曲肩行貌、美好、嬉戏；徭（傜）yáo为徭役；谣（䚻）yáo为徒歌；暚yáo为明、日光；鰩yáo为文鳐（有翅与尾齐，一名飞鱼，群飞水上）；磘yáo为地名用字；熎yáo为灰烬；愮yáo为忧愁、心思动摇，yào为医治；飖yáo为飘飖（上行风、风动物）；窑（窯𡏟）yáo为烧瓦灶，qiāo为窑寥（空寂）；䔄（𦾾）yáo为草名（蒲叶），yào为药草（菟丝）；鎐yáo为酒器；䁘（䁏）yǎo为美目、远视；𡰃（㞁）yào为行不正、足肿；猺yáo为古时对瑶族的蔑称（指其能歌善舞）；𡺯yáo为山貌；𢐥（𢑈）yáo为弓便利（收放自如）；𤚭yáo为牛名；𤬍yáo为瓜；𧡷（覞）yào为普视（扫视）；𧽎yáo为行、走貌；𨍳（轺）diāo为使者小车；𩥣yáo为马名（也作逍遥）；𧎼（珧）yáo为似蚌而柱最珍（状如折扇）。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "繇：本义与字形",
+      "statement": "繇西周金文由「言、幺、象」构成：「幺」指绳索，在「象」头部表示以绳牵象，「言」指说话，象意牵引并驱使大象。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "繇：转义",
+      "statement": "由驱使大象引申为徭役（yáo，《正字通》引《汉书高纪》「尝繇咸阳」、《管子·乘马篇》「起一人之繇，百亩不举」，注：役也，与傜徭同）；由对大象的役使引申为办法、用途、道术（yóu，《尔雅》「道也」）；由大象被牵引之状引申为随从、优游（yóu，《说文》「随从也」）；大象体大皮厚颇难驯服，驯象时一般用尖利的象刺或象钩刺痛它，故引申为刻，专指占卜时在龟甲上刻写卜辞（zhòu，《广韵》「卦兆辞也」）。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "繇：辩证",
+      "statement": "可能因为「为」的从又从象跟「䌛」所从相似，为了区别，西周晚期金文添加「肉」字，从「幺」从「肉」即以线绳系肉，指用绳索牵系牲畜；由于「言」与「缶」字形相近，战国古文又讹从「缶」并省略大象之形，遂演变为「繇」。《说文》：「随从也。从系䚻声。」徐铉注：「今俗从䍃。」",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "繇字族：多取圆形大物而被牵引义",
+      "statement": "𢑈（𢑂）yáo为弓便利（弓弛张便利，指弓系有弦）；蘨yáo为草盛貌；邎yóu为走捷径；𨷱zhuǎn为开闭门便利（门轴，类似今门的活页），或指丝缕计数单位（十总为𨷱）；𢖟yóu为行；㘥（囮）yóu为鸟媒（捕鸟时用于引诱鸟的鸟）；㒡yóu为人名（应㒡，宋理宗时参知政事）；櫾（𣟾）yóu为昆仑河隅之长木，yòu为柚；𤬖yáo为梢瓜、菜瓜（细长的藤挂有圆大的瓜，正如绳索牵牲畜状）。",
+      "boundary": "源自《系统汉语》第301部「肉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "屮：本义与字形",
+      "statement": "屮象草初生时的茎叶形。chè，《说文》：「屮，草木初生也。象丨出形有枝茎也。古文或以为草字。读若彻。」徐铉注：「丨，上下通也，象草木萌芽，通彻地上也。」",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "屮：转义",
+      "statement": "草多丛生，故「屮」也可写作指「草」。cǎo，《说文》：「艸，百芔也。从二屮。」《集韵》：「艸，或作草、屮。」",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "屮：音源",
+      "statement": "屮为借音字：古早、屮可通。《易·屯》「天造草昧」，「草」《汉书·叙传》作「屮」；《书·禹贡》「厥草惟繇」，《汉书·地理志》引作「屮」；《周礼·庶氏》「嘉草攻之」，《释文》作「艸」。草、艸之所以音同义通，可能跟艸也可以染青有关，青黑色近故统言之。古屮、兆可通用：《史记·太史公自序》「贾生、晁错明申、商」，「晁」《汉书·司马迁传》作「朝」；《诗·郑风·子衿》「挑兮达兮」，「挑」《说文》「𠬢」字条引作「𠬢」。古屮、苗可通：《诗·周颂·清庙》「于穆清庙」，《释文》：「庙，本又作庿，古今字也。」庙从朝，朝本屮声。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "𠬢字族：以「𠬢」为声，指草的相关性状",
+      "statement": "𠬢tāo为滑、轻佻、取（《广韵》「腰鼓大头名」）；弢（𩎢）tāo为弓衣（箭在套中如草茎之状）；𤘸tāo为牛徐行（当指牛边吃草边走，所以缓慢）；𧈪chǎn为虫一曲一伸地在草上爬行；𠨲yuè为岸上见（疑从屮声，有草出现意味着到岸）；詜tāo为言不节、小儿语不正（絮絮叨叨）；㫞（㫦）táo为日色。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "艸、卉、茻：表草之多",
+      "statement": "卉huì为草之总名（从艸、屮，《广雅》「众也」，义音同会）；茻mǎng为众草（从四屮，「艸」的二迭，指密集的草野，故音同「网」；mǔ为草木冬生不死、宿草）；泋（𣸀）huì为水波纹、水流貌；枿niè为树木砍伐后留下的桩子或树桩重发的新芽（义音同蘖）；㫩（𣇸）chūn同春；䯵niè为鬄余发；𠱥（囋囐𠵃啐）è为嘈杂声、语相诃拒、叱声；𡜦huì为女名、好；𢞨（㥣惠）huì为古文惠字；𢠞（惠）huì为古文惠字；𥑾è为礍𥑾（石貌）；𦯨（𦳕莽莫）mǎng为石鼓文莽字；𢘿（莎）suō为𢘿题（县名，古莎字）；𨒽（造艁𧻰𨕡）zào为造作、作。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "屮部形近「世、兆、夬」之讹",
+      "statement": "𨒍（迣）shì为游步；zhì为「迣」字之讹（迣，迾也、超逾也；「世」与「卉」形近）；𨒯（逃）tǎo为古文逃字（遁走，「逃」的讹字）；𤵟（疦）táo为疾，jué为「疦」字之讹（疦，口歪斜）。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "朝：本义与字形",
+      "statement": "朝甲骨文从日月在草中，指太阳初升、月亮未落的樣子，表示早晨之意；西周金文改月为水或川，指早晨时的涨潮。zhāo，《广韵》：「早也。又旦至食时为终朝。」",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "朝：转义",
+      "statement": "由涨潮引申为拜见（cháo，《正字通》「同类往见曰朝」，《类篇》「觐君之总称」）；由朝见君主引申为君臣议事的地方（《广韵》「朝廷也」）。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "朝：辩证",
+      "statement": "由于小篆讹「月」或「川」作「舟」，故《说文》「旦也。从倝舟声」析形不确。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "朝字族：多指潮水，表朝拜、潮湿",
+      "statement": "嘲（謿啁）cháo为拿人取笑（取潮水的起落为义）；庙（庿庙）miào为尊先祖貌（《释名》「先祖形貌所在也」，人所朝拜之所，金文从「𣶃」；《尔雅·释宫》「室有东西厢曰庙」），或指供神佛或历史传说人物的建筑；𢴿（掉）diào与掉同；𦺓zhāo为姓；𡼼cháo为𡼼漯（与潮湿同）；𪆘zhāo为山𪁱𪆘（鸟名，即鹧鸪，早晚才出来活动）；潮（𣶃）cháo为水朝宗于海（金文即潮；《皇极经世》「海潮者，地之喘息也，随月消长，早曰潮、晚曰汐」）。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莽：本义与字形",
+      "statement": "莽从「犬」在「林」或「草」中（草或作森、茻，同），表示犬在森林或草野中逐猎的样子。mǎng，《说文》：「南昌谓犬善逐兔草中为莽。从犬，从茻，茻亦声。」",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莽：转义",
+      "statement": "草木茂密难辨方向，犬在其中左冲右突，故引申为冒失（莽撞、鲁莽）；由犬隐身草丛中的样子引申为草的多、深（《广韵》「宿草」，《小尔雅》「草也」「大也」），或引申为草野之色（máng，莽苍）；或专指善于攀缘的藤本植物黄藤（莽草，叶光厚、花红色六出反卷向上、心有红蘂倒垂下，渔人采以捣饭毒鱼或毒鼠，又名鼠莽）。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莽：音源",
+      "statement": "莽为借音字：因有迷失之意，而义音同「亡」。《老子》「荒兮其未央哉」，「荒」成玄英疏引作「莽」。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莽字族一、二：表大粗率与朦胧不清",
+      "statement": "蟒（蜢）mǎng为王蛇（无毒的大蛇，善缠绕，多生于热带森林），měng同蜢（蚱蜢）；漭màng为水广大无边；䥈mǔ为钴䥈（温器）；㟿（㟐）mǎng为嵣㟿（山貌）；𣙷（杧）máng为杧果（芒果树高大，原产印度）；𣯬mǎng为毛布；𩪎mǎng为体胖；䁳mǎng为无一目、目无精；䒎mǎng为色晴、明晰；㬒mǎng为曭㬒（不明）、日无光；𢟨mǔ为心惑；𢳠mǎng同「莽」（粗鲁莽撞）；𦟮huǎng为月不明；𧬏mǔ为言不足（说话粗率）；𩅁mǎng为云色。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莫：本义与字形",
+      "statement": "莫从日在茻中，象意傍晚时太阳下山的样子（茻或作草或作林，意思相同），或从「隹」表示鸟归林以会日暮之意。mù，《说文》：「日且冥也。从日在茻中。」",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莫：转义",
+      "statement": "由日没天黑引申为虚无、没有、不、安定（mò，《集韵》「无也、定也」，《正字通》「勿也，不可也」）；由暮色四合引申为广大、布散、遮覆（《小尔雅》「大也」，《正字通》「广也」「茂密貌」，《广雅》「布也」），或指夜晚有所行为而引申为勉励、谋划（凡劳而相勉若云努力者谓之侔莫）；或引申为最后的、小的（mù，《广雅》「稚也」）。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莫字族一：夜状，表遮覆",
+      "statement": "幕mù为帷幔遮盖在上面（《释名》「幕，络也，在表之称也」）；墓mù为坟墓（指其遮盖封闭）；膜（𦟦）mó为肉里包裹着的薄皮（《释名》「膜，幕也，幕络一体也」），又为抚顺、胡人拜称南膜；嫫（𡠜）mó为嫫母（极丑的女人）；鄚mò、mào为涿郡县（今河北任丘县北）；鬕mà为用带绕在髻上的装饰品；縸mù为恶絮（齐人语）、络縸（张罗貌）；氁mú为毛缎；馍mó为馒头（表面有层皮膜）；塻mò为尘土；𡈗mò疑即「墓」；𢊗mò为定、空；濗（漞）mì为水浅；羃（𥵵）mì为覆食巾、羃䍦（妇人所戴）；㵹（漠𡻟）mò为密貌，huán为波；𥱹mò为竹名；𧃊（馔）zhuàn同馔；𩌧mò为一种皮革；𪍤mò为礱去谷皮。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莫字族二：夜状，表广大",
+      "statement": "𩄻mò为雨貌；募mù为广求（取其黑暗无边、没有明确目标之意；《广韵》「召也」，《集韵》「以财使也」）；𠢓（募）mò为功勋、勤动；慕mù为模拟仿效（《广韵》「思慕」）；漠（𥕓𡻟㵹）mò为北方流沙、清静（《篇海》「广也、大也」）；镆mò为镆釾（大戟、剑名）。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莫字族三、四：夜状表不明，夜事表勉力",
+      "statement": "暮（暯）mù为冥、虚无；瞙（眊）mò为目不明（俗谓目翳曰瞙）；糢mó为模糊（不清楚、不分明）；𨢢mú为美浆（指酒浆的醉人）；𪏟mò约为暮色昏黄。摸mó为扪搎、抚，mō与摹同；模mú为法式、规范、模型，mó为形状样子（《方言》「张小使大谓之廓，陈楚之间谓之模」），通作摹；摹（𢸆摸）mó为有法度，本义当指临摹（将纸覆盖在碑刻上拓印字迹，故有蒙覆之义）；蟆má为蛤蟆，mǒ为螟类蚊虫；𩔷（𩔶㦄）má为难语（麻烦）；𩐍（自）zǐ同自；慔mù为勉力、尽力；蓦mò为上马、超越，mà为登；㷬（𦹪）mò为火貌；貘mò为似熊而黄黑色、出蜀中（白豹，小头痹脚、黑白驳、能舐食铜铁及竹骨、皮辟湿）；瘼mò为病；谟（𠻚）mó为议谋（泛议以定其谋，《尔雅》「伪也」，郭璞注「谋而不忠」）；𧕤mò为螳螂；𧕥mò为小蚊虫。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "莫字族五、六：夜声表寂静，形近「赞」之讹",
+      "statement": "嗼mò为𠴫嗼（静）、喷嚏；𡖶mò为寂寞（《广雅》「静也」）；㱳（𣩎）mò为死寂无声；寞mò为寂寞无声；𩐻mò见《五音篇海》。𥡡（𥡸𥣚穳）cuán为「穳」字讹文（疑非讹字，音义同「𪍤」，指谷壳、糠秕）。",
+      "boundary": "源自《系统汉语》第302部「屮部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "覞：本义与字形",
+      "statement": "覞从「见」的二叠：「见」指看视，二叠可以指对视，因此象意两人对视；二叠也可以表示极致，因此象意普视、遍视。yào，《说文》：「并视也。从二见。」《广韵》：「普视。」明仇珠《虢国夫人游春图》局部可证。",
+      "boundary": "源自《系统汉语》第303部「覞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "覞：音源",
+      "statement": "覞为借音字：因有相对之意，而义音同「䍃」。《类篇》：「覞，或作𧡷。」「䍃」从言肉声，本义指喊号子、对歌。",
+      "boundary": "源自《系统汉语》第303部「覞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-53-niu",
+      "title": "覞字族：多指览视、注视貌",
+      "statement": "䨳xì为见雨而比息（遇雨急行而呼吸急促，当指雨过天晴之意，所以从二见，清楚可见），xī为雨止貌；𧢅yuè同阅（并视继以心，其视加详）；𧢞qiān为很视（凶狠地注视；疑本「覞」声，指侧视、越肩而视）；𧢬xiǎo音晓，义不详，疑指傲慢的样子（义音同嚣）。",
+      "boundary": "源自《系统汉语》第303部「覞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
