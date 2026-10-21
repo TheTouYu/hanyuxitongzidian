@@ -33,3 +33,4 @@ Primary Context: `default`
 ## 计数
 
 5 个节点 / 60 个主题 / 3579 条 Claim
+- 2026-10-21 声旁取义定为比喻（主人再定「象……一样」）：改写「疚」条为「疚本義：从疒久聲，象被灸灼一樣疼痛，指灼熱灼痛之病」，并新增 clm_333823F1027D985881AEC9C373「玖本義：从玉久聲，象被燒灼一樣色黑，指黑色的玉（次玉之美石）」（bundle `bnd_b159c2516076cfccedf42853d3`）。规则写入 `memory/OPERATING.md` §2、`memory/HANZI-EXEGESIS.md` 第 3 步 2c，字卡提示同步。
