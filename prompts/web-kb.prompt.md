@@ -97,7 +97,7 @@ pkc tree --format text
 
 ## 3. 技术方案（照这个做，别换栈）
 
-- 服务端：零依赖 Node，`web/server.mjs`，只绑 `127.0.0.1:8080`。Node 用仓库外那套便携版：`C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe`（v24，自带 `fetch`/`ReadableStream`）。
+- 服务端：零依赖 Node，`web/server.mjs`，只绑 `127.0.0.1:8088`。Node 用仓库外那套便携版：`C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe`（v24，自带 `fetch`/`ReadableStream`）。
 - 前端：`web/public/index.html` 单文件（内联 CSS/JS），中文界面，手机可用。
 - 模型：DeepSeek，`https://api.deepseek.com/chat/completions`，模型 `deepseek-chat`，`stream:true`。
 - Key 来源顺序：`DEEPSEEK_API_KEY` 环境变量 → `C:\Users\萧磊\.dsh\secrets\deepseek.key`。**只在服务端**持有，日志一律打掩码。
@@ -139,7 +139,7 @@ data: {"type":"error","message":"…"}
 ## 7. 上线（短期）
 
 ```powershell
-.\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-autoupdate
+.\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8088 --no-autoupdate
 ```
 
 - 二进制放 `web\bin\cloudflared.exe`（约 55MB，从 GitHub Releases 取，`--version` 应显示 2026.10.1）。
@@ -149,7 +149,7 @@ data: {"type":"error","message":"…"}
 ## 8. 验收（必须自己跑一遍，把结果贴出来）
 
 1. `.\tools\pkc.cmd validate` → 通过。
-2. `curl 127.0.0.1:8080/api/health` → `claims: 48`。
+2. `curl 127.0.0.1:8088/api/health` → `claims: 48`。
 3. 问「『六书』之名最早见于哪部书？」→ 答《周礼·地官·保氏》，带 `[clm_269C128453E306F1DDE7B94294]`。
 4. 问「班固和许慎的六书次序有什么不同？」→ 分别引用两条不同 Claim，不混为一谈。
 5. 问「部首一共多少个？」→ `topic-components` 是空主题，检索为空 → 必须回「知识库里还没有」。

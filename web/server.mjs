@@ -49,7 +49,7 @@ function publicMember(m) {
 }
 
 
-const PORT = Number(process.env.PORT || 8080);
+const PORT = Number(process.env.PORT || 8088);
 const HOST = process.env.HOST || '127.0.0.1';
 const KEY_FILE = 'C:\\Users\\萧磊\\.dsh\\secrets\\deepseek.key';
 const BASE_URL = process.env.DEEPSEEK_BASE || 'https://api.deepseek.com';

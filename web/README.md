@@ -8,11 +8,14 @@
 
 ```
 web/
-├── server.mjs          零依赖 Node 服务（HTTP + SSE + 静态文件 + 字卡编排）
+├── server.mjs          零依赖 Node 服务（HTTP + SSE + 静态文件 + 字卡编排 + 会员闸门）
+├── member.mjs          会员 / 试用 / 兑换码 / 订单（零依赖，JSON 单文件存储）
 ├── pkc-bridge.py       调 pkc 的桥：强制 UTF-8、补 mingit PATH、参数不过 shell
 ├── public/zigen.json   部/卷/章索引（608 部 / 100 卷 / 12 章，由 tools/zigen-index.mjs 生成）
-├── public/index.html   单文件前端（字卡 / 问答两种模式、引用芯片可点开原文）
+├── public/index.html   单文件前端（字卡 / 问答两种模式、引用芯片可点开原文、开通会员面板）
+├── public/admin.html   后台（生成开通码、会员、订单、收入），地址 `/admin`
 ├── public/glyphs/      字形图 + 实物配图（5507 字条 / 2502 个有图字 / 20498 图 + 956 张配图 + 1244 条字族表，由 tools/extract-glyphs.mjs 全量生成；每字不设上限，原稿有几张收几张）
+├── data/               运行时数据（shop.json 会员/订单、admin.key 管理密码、secret.key 签名密钥）——**不进 git**
 ├── start.cmd           双击启动：服务 + 隧道
 ├── bin/cloudflared.exe 隧道的二进制（约 53MB，不入 git）
 └── README.md
@@ -25,7 +28,7 @@ web/
 C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe D:\系统汉字\web\server.mjs
 
 # 公网隧道（另开一个窗口）
-D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-autoupdate
+D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8088 --no-autoupdate
 ```
 
 或直接双击 `start.cmd`，它会启动服务并开隧道，把 `https://xxx.trycloudflare.com` 打进窗口。
@@ -36,10 +39,11 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-
 
 | 变量 | 默认 | 说明 |
 | --- | --- | --- |
-| `PORT` | `8080` | 只监听 127.0.0.1 |
+| `PORT` | `8088` | 只监听 127.0.0.1 |
 | `DEEPSEEK_API_KEY` | 读 `C:\Users\萧磊\.dsh\secrets\deepseek.key` | 只在服务端使用，日志打掩码 |
 | `DEEPSEEK_BASE` | `https://api.deepseek.com` | 换兼容端点时用 |
 | `DEEPSEEK_MODEL` | `deepseek-chat` | |
+| `SITE_URL` | 空（话术里用 `location.origin`） | 公网地址，如 `https://xitonghanzi.com`，后台「复制开通话术」用它拼链接 |
 
 没有 Key 时自动进入**检索骨架模式**：照样展示命中的 Claim 原文与出处，但不用模型组织答案。
 
@@ -52,6 +56,23 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-
 | GET | `/api/glyph?char=台` | 单字的字形图与配图 `{ok, char, glyph:{doc, variants, files, photos:[{file,caption}]}}` |
 | GET | `/api/claim/<clm_id>` | 单条 Claim 全文（引用展开用） |
 | POST | `/api/ask` | `{question, mode?}` → SSE |
+
+会员与试用：
+
+| 方法 | 路径 | 说明 |
+| --- | --- | --- |
+| GET | `/api/pricing` | 三档价格 + 试用额度 `trial_budget_yuan` |
+| GET | `/api/me` | 当前设备/会员状态：`trial{used,left,budget_yuan,spent_yuan,remaining_yuan}`、`member` |
+| POST | `/api/redeem` | `{code, phone}` 兑换开通码，成功后下发 HttpOnly cookie `sh_mid` |
+| POST | `/api/admin/login` | 管理密码登录（cookie `sh_admin`，7 天） |
+| GET | `/api/admin/stats` | 收入 / 会员数 / 码 / 订单 / 试用人数 |
+| GET·POST | `/api/admin/codes` | 列出 / 批量生成开通码（`{tier, count, note}`） |
+| GET·POST | `/api/admin/orders` | 列出订单 / 手工登记收款并开通（线下收钱时用） |
+| GET | `/api/admin/members` | 会员列表（含 `active`、`used_today`、`spent_today`） |
+| POST | `/api/admin/rebind` | 给已有会员生成「换设备补发码」（`price: 0`、绑定原会员，兑换不新建会员、不记账） |
+| POST | `/api/admin/revoke`·`/api/admin/gift`·`/api/admin/logout` | 撤销会员 / 标记赠书已寄 / 退出 |
+
+**闸门**：`/api/ask` 先过 `gateAsk()`——会员按当日花费（默认 3 元）与次数（300 次）封顶；非会员按设备记试用（默认 10 次、累计花费 1 元封顶），超出返回 `402 {need_membership:true}`，会员超额返回 `429`。模型调用出错时 `res.on('finish')` 会退掉本次试用次数与花费（不扣用户额度）。
 
 `POST /api/ask` 的两种事件流：
 
@@ -72,6 +93,19 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-
 3. **字根**：从条目里的「从人从士」「从口㠯声」找构字成分，再把字根自己的条目取来当第二组证据，说清会意/形声与意义关系（如「士：仕从人从士，士是音源字，本义指雄性……」）。条目自称「X是音源字」或明说「析形不确」的，不设字根。借音字（如「奚」借鸡鸣之声）也不设。
 4. **本义 / 转义 / 衍生字义**：由模型从条目里摘，但**每栏末尾必须带 `[clm_…]`，且 id 必须在本次检索到的条目里**；没有有效引用的栏目会被直接丢弃，显示「条目里还没有这一项」。
 5. 只有「标题或正文里真的出现这个字」的条目，才算能给它背书的证据（`retrieveForChar` 的 `direct`）；一条都没有时，字卡只给字形图 + 一句「暂不推断」，不拿泛泛的通论条目凑数。
+
+## 会员与收费（2026-10-21 起）
+
+三档（`member.mjs` 的 `TIERS`）：`y6` 50 元 / 6 个月、`y16` 100 元 / 16 个月（页面标「最划算」）、`life` 500 元 / 10 年并送《系统汉语》一套（248 元、2.8 公斤，`gift:true`）。
+
+- 收钱方式：**先线下收款（微信/支付宝/银行），主人核对后生成开通码发给客户**。后台「开通会员」选档 → 生成码（形如 `C16-EMX7-6AZ9`，前缀 C6/C16/TY）→ 点「复制开通话术」把整段说明发给客户 → 客户在页面「开通会员」里填手机号 + 码即开通。也可用「订单」里的手工登记（`POST /api/admin/orders`）直接建会员记录。
+- 客户换手机/换浏览器：会员身份是**浏览器 cookie**，换设备就失效。在后台会员行点「换设备补发码」，把新生成的码发给客户，在新设备上兑换即恢复原会员（不重复记账、不新建会员）。撤销或过期后不能补发。
+- `SITE_URL`（环境变量）用于生成话术里的链接：后台如果不是从公网地址打开的（比如从 `127.0.0.1:8099` 打开），要设 `SITE_URL=https://你的域名`，否则话术里的链接会带 127.0.0.1。
+- 试用：每台设备 10 次、累计花费上限 1 元（高峰价保守计，实际一人约 0.03–0.08 元）。设备靠 cookie `sh_dev` 记，**清 Cookie 就能重置**——正式对外前应改成手机号/微信登录 + IP 限次。
+- 数据：全在 `web/data/shop.json`（会员、码、订单、试用设备、当日花费），原子写；管理密码在 `web/data/admin.key`（首次启动自动生成，12 字节 base64url），Cookie 签名密钥在 `web/data/secret.key`。`web/data/` 已进 `.gitignore`，**含客户手机号，绝不入库、要备份**。
+- 后台：`/admin`，输 `web/data/admin.key` 里的密码。功能＝统计、生成码、看码、会员（标记赠书、撤销）、订单。
+- 金额口径：`PRICE_IN_YUAN_PER_M=2`、`PRICE_OUT_YUAN_PER_M=8`（高峰价），`usageCost()` 按 token 实算计费；`TRIAL_BUDGET_YUAN`、`MEMBER_DAILY_YUAN`、`MAX_ANSWER_TOKENS=600` 都可用环境变量改。
+- 服务在跑时**不要直接删/改 `shop.json`**：进程内存里还有旧数据，任何一次写都会把它写回。要清空先停服务。
 
 ## 实测记录（2026-10-20）
 
@@ -112,7 +146,8 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-
 
 - 检索是 PKC 的**词法 BM25**，不是向量检索：同义词、口语化问法可能召不回。库扩到几百条以上，建议补 `data/knowledge/evaluation/retrieval-cases.json` 做回归。
 - 单进程内存限流（每 IP 20 次/分钟），重启即清零。
-- 云端**没有**登录和权限控制：链接谁拿到谁能用。要限制访问得自己加口令或换 Named Tunnel + Access。
+- 试用靠 cookie 设备号，清 Cookie 可重置；域名备案与微信支付商户号没下来前，只能线下收款 + 手工发码。
+- 会员状态存 `web/data/shop.json` 单文件，多实例部署要换成数据库或用共享存储；也没有发票、退款、对账的自动化，先靠后台手工处理。
 
 ## 改知识库后
 

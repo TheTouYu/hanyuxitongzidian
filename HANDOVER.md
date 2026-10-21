@@ -13,8 +13,8 @@
 
 | 进程 | 命令 | 现场 |
 | --- | --- | --- |
-| 问答服务 | `node web/server.mjs` | 监听 `127.0.0.1:8080`（PID 用 `Get-NetTCPConnection -LocalPort 8080` 查） |
-| 公网隧道 | `cloudflared tunnel --url http://127.0.0.1:8080 --no-autoupdate --metrics 127.0.0.1:20243` | 后台作业 `pwsh-73da8eb360424be7` |
+| 问答服务 | `node web/server.mjs` | 监听 `127.0.0.1:8088`（PID 用 `Get-NetTCPConnection -LocalPort 8080` 查） |
+| 公网隧道 | `cloudflared tunnel --url http://127.0.0.1:8088 --no-autoupdate --metrics 127.0.0.1:20243` | 后台作业 `pwsh-73da8eb360424be7` |
 
 对外地址（**临时，重启即换**）：
 `https://drop-pilot-scanners-gives.trycloudflare.com`
@@ -50,7 +50,7 @@ D:\系统汉字\web\start.cmd
 
 # 或者分开跑
 C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe D:\系统汉字\web\server.mjs
-D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-autoupdate
+D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8088 --no-autoupdate
 
 # 停：关掉那两个窗口即可（没有守护进程、没有服务注册表项）
 ```
@@ -59,7 +59,7 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8080 --no-
 
 | 变量 | 默认 | 说明 |
 | --- | --- | --- |
-| `PORT` | `8080` | 只绑 127.0.0.1，不对外 |
+| `PORT` | `8088` | 只绑 127.0.0.1，不对外 |
 | `DEEPSEEK_API_KEY` | 读 `C:\Users\萧磊\.dsh\secrets\deepseek.key` | 当前 Key 掩码 `sk-0c1…71fe` |
 | `DEEPSEEK_BASE` | `https://api.deepseek.com` | 换兼容端点时用 |
 | `DEEPSEEK_MODEL` | `deepseek-chat` | |
@@ -157,7 +157,7 @@ POST /api/ask {question, mode:"card"|"chat"|"auto"}
 | 验收项 | 期望 | 实测 |
 | --- | --- | --- |
 | `.\tools\pkc.cmd validate` | ok，48 条 | ✅ 4 节点 / 8 主题 / 48 Claim，errors 空 |
-| `curl 127.0.0.1:8080/api/health` | `claims:193` | ✅ `mode=model` |
+| `curl 127.0.0.1:8088/api/health` | `claims:193` | ✅ `mode=model` |
 | 问「『六书』之名最早见于哪部书？」 | 《周礼·地官·保氏》+ 引用 | ✅ 1.6 s，引 `clm_269C128453E306F1DDE7B94294` |
 | 问「班固和许慎的六书次序有什么不同？」 | 分引两条，不混为一谈 | ✅ 2.8 s，引 `clm_5C50…E0` / `clm_8328…B9`，并说明库里没有次序对比 |
 | 问「部首一共多少个？」 | 「知识库里还没有这方面的内容。」 | ✅ 0.3 s，命中 0，不调模型（`topic-components` 是空主题） |
