@@ -219,7 +219,7 @@ function photoList(list) {
 function familyInfo(ch) {
   const idx = loadGlyphIndex();
   const fam = (idx.families && idx.families[ch]) || [];
-  return fam.map((c) => ({ char: c, photos: photoList((idx.photos && idx.photos[c]) || []) }));
+  return fam.map((c) => ({ char: c, photos: [] }));
 }
 
 function glyphInfo(ch) {
@@ -874,8 +874,10 @@ async function handleCard(emit, res, question, ch, ip) {
       question,
       mode,
       note,
+      // 实物图只留在后端作参考（web/public/glyphs/photos/ + index.json 的 photos），
+      // 不进字卡：配图不参与分级，也不必占版面。glyphInfo() 仍可返回 photos 供离线引用。
       glyph: glyph
-        ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: glyph.photos || [], from: glyphFrom }
+        ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: [], from: glyphFrom }
         : null,
       family: familyInfo(ch),
       root: rootInfo ? rootInfo.root : null,
