@@ -1,0 +1,1151 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷四十六 陶（255.缶部–261.鬥部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "卷音源字为「缶」：从午从口，擂钵；音源击缶声",
+      "statement": "本卷音源字为「缶」，从午从口，表示擂钵，其音源即击缶之声。缶与一般臼杵不同：器壁较厚，用以舂香料、药材，榨取果汁、肉汁一类，秦人或以之作打击乐器。本卷以陶器为核心，故以缶为音源字。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/46a-tao.md",
+      "topic_title": "卷四十六·陶",
+      "topic_summary": "《系统汉语》卷四十六「陶」，音源字为缶（从午从口，指擂钵，音源击缶声），辖第255–261部：255 缶部（p741）、256 舀部（p744）、257 由部（p745）、258 𦣻部（p748）、259 豆部（p753）、260 𠁁部（p755）、261 鬥部（p757）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "中国是世界最早发明陶器的国家之一，陶器可追溯至一万年前",
+      "statement": "中国是世界上最早发明陶器的国家之一，陶器的出现可以追溯到一万年前的原始社会，瓷器的发明也有近四千年的历史。陶瓷原料矽酸盐无毒，瓷器造型典雅适用、釉面光滑便于拭洗，现已成为世界使用最广泛的生活用具；中国因此被誉為「瓷器之国」。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "陶器发明以前的熟食办法：烧烤、石坑焖、热石烫、温泉泡",
+      "statement": "在陶器发明以前，人们为了取得熟食，或以篝火烧烤食物；或用石头砌成坑穴，把猎物去皮放进坑内，上盖热灰焖熟；或用灼热的石块将兽肉烫熟；或把兽肉放入网中泡入高温泉水泡熟。长期以来人们为取得熟食，努力创造一种用以煮熟、储存、饮食的用具。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "最早的陶片：江苏溧水神仙洞，距今11200±1000年",
+      "statement": "中国究竟何时发明陶器？考古发现最早的是1974年江苏溧水县神仙洞洞穴遗址的一块长2.5、宽1.8、厚0.5厘米的陶片和一颗更小的陶粒，化验距今11200±1000年，说明中国陶器的发明至少已有一万多年历史。陶器的发明应随火的利用而出现——约205万年至70万年前的元谋人时代就已开始用火。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "制陶四工序之一选土：含铁高、粘性适度的粘土加羼和料",
+      "statement": "制陶第一道工序是选土：选择含铁量高、粘性适度、可塑性强的粘土，一般还要在粘土中加羼和料（石英、长石、砂石粉末、草木灰、碎陶片末等），以增强陶土的成型性能和成品的耐热急变性能、提高成品率。原料配好后须捣碎、淘洗，减少颗粒度使坯泥细腻，汉字「淘」所指应即这一工序。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "制陶工序之二制胎：手制（盘筑、手捏、掏）与轮制（慢轮、快轮）",
+      "statement": "第二道工序是制胎：将陶土和成泥制成坯胎，待自然风干后打磨修正。手制法分盘筑（泥条盘筑，器壁留螺旋状泥条痕，又称螺旋法）、手捏（直接捏成不规则小器）与掏（从整块陶泥中掏空成器）；轮制法分慢轮与快轮，将泥料放在陶轮上借快速转动提拉成形，比手制规整、胎壁厚薄均匀。此外还有范制法（印制成型，用石膏模压泥片）与注浆法（泥浆注入石膏模，吸水变硬后脱模）。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "制陶工序之三修坯、之四烧制：800–1000℃、横穴窑与竖穴窑",
+      "statement": "第三道工序是修坯：用砾石或骨器在陶坯表面压磨使烧成后光亮，或涂一层泥浆成陶衣（红、棕、白等色），或彩绘、刻划、拍印花纹、镂雕方圆三角孔形图案，即形成彩陶。第四道工序是烧制：入窑焙烧是关键，烧成温度一般800–1000℃、时间两三小时。最初平地堆柴草烧制，火力不集中、品质差成品率低；后发明陶窑，新石器时代主要有横穴式窑（火口、火膛、火道、窑室、窑箅，窑室圆形）与竖穴式窑（窑室在火膛之上，袋状火膛，多股垂直火道），在陕西半坡、河南陕县庙底沟、安阳范家庄、河北邯郸涧沟等仰韶与龙山文化遗址均有发现。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "制陶技术史：仰韶手制为主，龙山快轮普及、蛋壳陶",
+      "statement": "新石器时代陶器种类很多，有灰陶、红陶、彩陶、黑陶、白陶、釉陶等；陶器呈色不同，主要因制陶原料含呈色元素及烧窑后期能改变控制火焰性质。早期陶器都是手制，仰韶文化时才逐渐出现轮制（满轮制法），但使用不广、大部分仍手制；到龙山文化，轮制法已广泛使用快轮操作法，产量品质提高，器形规整精美、器壁薄而均匀，黑陶尤为突出，有的表面极光亮、器壁薄如蛋皮，人称「蛋壳陶」。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "陶器发明的文献与传说：神农作陶冶、舜陶河滨、宁封子为陶正",
+      "statement": "西周青铜器铭文中已有「陶」字。典籍与神话多有记载发明陶器者：战国秦汉之际《逸周书·文酌解》「民生有欲……七陶八冶归灶」，注云「灶善则陶冶良也」；《太平御览》卷78引《逸周书》「神农之时……作陶、冶、斤、斧」；《史记·五帝本纪》「舜耕历山，渔雷泽，陶河滨，作什器于寿丘」；《搜神记》载宁封子为黄帝陶正，有异人掌火能出五色烟，封子积火自烧而随烟气上下。这些记载保留着远古制陶的历史影子。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "音源：击缶声近「ou」，缶、豆、酉皆陶器故音义相通",
+      "statement": "陶艺作为汉语的音义元素，其音应是敲击陶器发出的声音。《诗经·陈风·宛丘》「坎其击缶，宛丘之道」即描绘击缶而歌。击缶声近「ou」，豆、缶、酉都是指陶器，与之直接相关，故音义皆通。而「𦣻」指头颅，因其状如豆，故义音通「豆」；寡从𦣻声、鼓从豆声，《汉书·陈汤传》「毋鼓」颜师古注《西域传》作「毋寡」，鼓、寡声相近；而「由」古可通「酉」，如《易·豫》「由豫」《释文》「由，马本作犹」，犹从酉声。",
+      "boundary": "源自《系统汉语》卷四十六「陶」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「缶」从口从午：象可捣杵的擂钵",
+      "statement": "缶（𦈢，fǒu）从口从午。「午」指杵；从口，象意可以捣杵的器皿，应与臼有别，而是指擂钵之类，器壁较厚，用以舂香料、药材，榨取果汁、肉汁等物；秦人或以其作为打击乐器。《广韵》：「瓦器。钵也。《史记》云『秦王赵王会于渑池，蔺相如使秦王击缶』是也。」《玉篇》：「盎也。《诗》曰：『坎其击缶』。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「缶」转义：泛指粗笨陶器，汲水器、量具",
+      "statement": "缶引申泛指比较粗笨的陶器，如汲水器、量具等。《正字通》：「《左传》曰：『具绠缶，备水器』，是缶为汲器也。然则缶是瓦器，可以节乐，可以盛水、盛酒，即今之瓦盆也。又《小尔雅》：『釜二有半谓之薮，薮二有半谓之缶，缶二有半谓之钟。』注：钟八斛，釜六斗四升，薮一斛六斗，缶四斛也。是缶又为量器也。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「缶」辩证：《说文》依小篆释「瓦器象形」，忽略「午」",
+      "statement": "《说文》依据小篆释作「瓦器。所以盛酒浆，秦人鼓之以节歌。象形」，忽略了「午」的存在，故析形不确。另因「缶」与「去」古字形相近或有混淆，如「厒」《集韵》「同𠩂」，须注意区分：「去」从大，指跨立，表示遮盖之意，所属字音义均不同。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「缶」音源：本「午」声，实源自击缶声",
+      "statement": "缶本「午」声。因是陶钵类，与杵臼声有别，实际上是敲击陶器时发出的声音，所以可视为音源字，源自击缶声。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "缶部字族①指缶相关器物：缻、窑、缹",
+      "statement": "缻（fǒu）《集韵》：「缶，或从瓦作缻。」窑（窯，yáo）《正字通》：「俗窯字。」《集韵》：「烧穴。」《说文》：「烧瓦灶也。从穴羔声。」烧砖瓦陶器的建筑物。缹（𤈒炰，fǒu）《广韵》：「烝缹。」《玉篇》：「火熟也。」用陶器盛而蒸煮。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "缶部字族②指缶状，表肥大饱满：𡜊、𣳬、𤽦、𦚥、𧊦、𩛊、𩢿",
+      "statement": "𡜊（妚，fǒu）女子仪态美好。𣳬（xí）《玉篇》：「露光也。」𤽦（fǒu）《集韵》：「白也。」𦚥（疣，yóu）《五音集韵》：「与疣同。结病也。」𧊦（fǒu）《类篇》：「蚕卧。」𩛊（𩜿𩛁饱，bǎo）《集韵》：「饱，《说文》：『厌也。』或从𤔍、从卯、从缶字。」𩢿（fù）《正字通》：「言马肥大也。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "缶部字族③指用缶，表捣杵、收藏：𠤸、𪔕、㓡、𠶲、𧨵、𡧰",
+      "statement": "𠤸（𩋃，yáo）《集韵》：「𩋃，鼓也。或从匚。」马家窑出土陶鼓距今5700年。𪔕（𪔳，tà）《说文》：「鼓鼙声。从鼓缶声。」敲击鼙鼓的声音。㓡（fǔ）《说文》：「刀握也。从刀缶声。」《玉篇》：「或为弣。」刀、弓等的把，即用刀把为杵在缶中捣碎东西，日常多见于捣碎香料、做豆腐的石膏等。𠶲（𠷄，kè）《篇海》：「啮也。」𧨵（kē）《类篇》：「𧨵䜙，笑语也。」𡧰（𡧖，bǎo）《正字通》：「同𡧖。」藏，「宝」的别体。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "缶部字族④形近「去」之讹，表闭合：厒、𢈊、𠹓、𨑅",
+      "statement": "厒（𠩂𠪦𠪟，qiè）《集韵》：「山左右有岸曰厒或从㕉。」𢈊（㧁，qù）《集韵》：「㧁，《说文》：『闭也。』或作𢈊。」《正字通》以为讹字。𠹓（gé）《集韵》：「声也。」𨑅（𢩘，kē）《字汇》：「闭门声。」《正字通》：「旧注音磕，闭门声……按𢩘别作㧁、𨑅、𠪟，皆讹文，改从辰，误。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「㯱」甲骨文象束囊之形，金文从囊从缶，指包裹陶器",
+      "statement": "㯱（𣞈𣙲𣝐𣞉，pāo）甲骨文象束囊之形，西周金文从囊从缶，缶亦声。从缶，既可谓指囊的鼓胀如缶，《说文》：「囊张大貌。从㯻省，匋省声。」也可谓囊缶，表示包裹之意——用绳索或柔软枝条、稻草将陶器包裹起来，以便运输贩卖时免得相互碰撞。《石鼓文》：「其鱼维何，维鱮维鲤。何以㯱之，维杨与柳。」说的就是用杨柳枝条包裹。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "㯱部字族：蜉，蚍蜉腹肥大腰细如扎着的大囊",
+      "statement": "𧖚（蜉，fú）《说文》：「蚍𧖚也。从䖵㯱声。」蚍蜉，大蚂蚁，腹部肥大、腰部纤细，如扎着的大㯱。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「匋」从勹缶声：象人俯身制作陶器",
+      "statement": "匋（táo）从勹缶声。「勹」象人俯伏的样子；从缶，象意人俯身制作陶器。《玉篇》：「作瓦器也。今作陶。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「匋」转义：指陶器、窑炉，引申颐养",
+      "statement": "匋由制作陶器引申指陶器。《说文》：「瓦器也。从缶，包省声。古者昆吾作匋。」或引申指烧陶器的窑炉，《广雅》：「窑也。」陶器给生活带来巨大便利，用其烧煮熟食、收藏盛装，故引申指颐养，《广韵》：「养也。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「匋」辩证：应从缶声，非「包省声」",
+      "statement": "《说文》以「匋」为「包省声」，但《史籀》既言其「读与缶同」，应从缶声。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "匋部字族①练泥（淘洗践踏）：陶、淘、𨂆、𢔇、𩍂、騊、啕、䛬、醄、萄",
+      "statement": "练泥是制陶第一道工序，通过筛选、淘洗、践踏练成极细陶泥，故表淘洗、践踏。陶（táo）《说文》：「再成丘也，在济阴。」两层山丘；《释名》：「于高山上一重作之，如陶灶然也。」陶丘有尧城，尧尝所居，故号陶唐氏；又《玉篇》「郁陶，哀思也、喜也」，《广韵》「喜也、正也、化也」，《集韵》「陶陶，和乐也」。其甲骨文从阜从二勹（二勹象两人相俯而叠，表堆积），金文或加土，本义当指堆叠陶泥即练制陶泥。淘（táo）《篇海》：「澄汰也，淅米也。」洗去杂质，又冲刷、疏浚。𨂆（dǎo）《古音略》：「古文蹈字。」践踏。𢔇（táo）《集韵》：「𢔳𢔇，行貌。」𩍂（鞄，bào）《集韵》：「鞄，柔革工。」騊（táo）《说文》：「騊駼，北野之良马。」啕（táo）《广韵》：「多言。」号啕。䛬（䛌，táo）《说文》：「往来言也。一曰小儿未能正言也。一曰祝也。」醄（tǎo）《集韵》：「酕醄，醉貌。」取踉跄如杵陶泥状。萄（táo）《说文》：「艸也。」《玉篇》：「蒲萄也。」葡萄，捣而取其汁，或系音译字。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "匋部字族②制坯（盘绕、掏空）：掏、綯",
+      "statement": "制坯是第二道工序，通过盘绕、掏空、注浆等方法制成陶坯，故表纠绳、掏挖。掏（tāo）《集韵》：「择也。抒也。」又「捾也。同搯。」挖取。綯（táo）《玉篇》：「纠绞绳索也。」取制坯泥条盘绕法为意，指盘绕的绳索，一般指牵牛马用的绳子；《广雅》：「索也。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "匋部字族③烧制（窑炉）：𡍒、祹",
+      "statement": "烧制是第三道工序，将陶坯放入窑炉焚烧熔炼成坚硬陶器，故指窑炉。𡍒（táo、yáo）《龙龛》：「音陶。」同「陶」，指陶窑；磁州窑遗址（明）。祹（táo）《玉篇》：「福也。」《集韵》：「神也。」",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "匋部字族④陶器（铸范、硬壳）：𥓮、鋾、裪、𩋃、𩛽、蜪",
+      "statement": "𥓮（táo）见宋赵汝适《诸蕃志》「熔范成𥓮」，即失蜡法所制铸范：蜡模表面浇淋细泥浆成泥壳，涂耐火材料硬化成𥓮，烘烤使蜡熔出而成型腔；周代铸造铜贝的陶范即此类。鋾（錭，táo）《集韵》：「錭，《说文》：『钝也。』或作鋾。一曰鋾铸也。」铸造，又指钝铁块。裪（táo）《唐韵》：「𧝃裪，衣袖也。」𩋃（yáo）鼓也；táo，《集韵》：「鼓木也。《考工记》：『韗人为皋𩋃』。」𩛽（饀，táo）饵也。蜪（tào）《尔雅·释虫》：「蝝，蝮蜪。」郭璞注：「蝗子未有翅者。」《山海经》有蜪犬。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "匋部字族⑤形近「訇」之讹：𨌨，韬之讹指剑套",
+      "statement": "𨌨（輷轁，tāo）《字汇》：「藏也。」《正字通》：「輷字之讹。」《龙龛》：「正作轁。」《正字通》：「轁，韬字之讹。」即「韬」的讹字，指剑套。",
+      "boundary": "源自《系统汉语》第255部「缶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「舀」甲骨文象手在臼中掏小粒，本指掏舂过的米粒",
+      "statement": "舀（抭㧒抌𤔘，yǎo）甲骨文象又（手）在凵（臼）中掏小粒之形。「臼」本用于加工粮食，故「舀」所掏小粒实为舂过后的米粒；或省小粒，意思相同。《说文》：「抒臼也。从爪臼。《诗》曰『或簸或舀』。」",
+      "boundary": "源自《系统汉语》第256部「舀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「舀」转义：用瓢勺挹出东西",
+      "statement": "由从臼中掏出米粒，引申指用瓢、勺等挹出东西。《段注》：「抒，挹也。既舂之，乃于臼中挹出之。今人凡酌彼注此皆曰舀。其引伸之语也。」",
+      "boundary": "源自《系统汉语》第256部「舀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「舀」音源：源自舀物声，义音同「匋」",
+      "statement": "舀为音源字，源自舀物之声，义音同「匋」：《诗·小雅·菀柳》「上帝甚蹈」，「蹈」《一切经音义》卷五引作「陶」；《楚辞·怀沙》「滔滔孟夏兮」，「滔滔」《史记·屈原贾生列传》作「陶陶」。",
+      "boundary": "源自《系统汉语》第256部「舀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "舀部字族①臼用，表舂、踏、荡：稻、䵚、滔、慆、谄、𩥅、蹈、槄、𠋯",
+      "statement": "稻（dào）《说文》：「稌也。从禾，舀声。」稻谷壳又硬又糙必须舂去才能食用，故周代金文从舀，表需经舂杵成米。䵚（tǎo）《集韵》：「关西呼蜀黍曰䵚黍。」高粱。滔（tāo）《说文》：「水漫漫大貌。」波涛激荡犹舂杵。慆（tāo）《说文》：「说也。」喜悦、怠惰。谄（tāo）《玉篇》：「疑也。」《正字通》：「慆字之讹。」𩥅（tāo）马徐徐行走的样子。蹈（dǎo）《说文》：「践也。」槄（tāo）《尔雅·释木》：「山楸。」𠋯（bì）威仪也。",
+      "boundary": "源自《系统汉语》第256部「舀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "舀部字族②臼状内空器物：幍、𡺫、韬、縚、瑫、嫍、䈱、䤾、𤔥、𤔱、𦩹",
+      "statement": "幍（絛，tāo）《集韵》：「巾帙也。」《篇海类编》：「巾帽，士服。」縚即编丝绳。𡺫（tāo）山名。韬（tāo）《说文》：「剑衣也。」又弓袋、藏、宽、臂衣。縚（tāo）《小尔雅》：「索也。」又扁绪。瑫（tāo）美玉，一曰玉饰剑。嫍（tāo）女字。䈱（tāo）竹筐、饭牛器。䤾（tāo）《玉篇》：「函也。」𤔥（巢，cháo）与巢同。𤔱（𠚜𠚘𠚡𠥒𠥪，tāo）《说文》：「古器也。」疑即捞筲箕。𦩹（䑬，yào）大船。",
+      "boundary": "源自《系统汉语》第256部「舀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "舀部字族③舀取，或与形近「臽」相纠缠：搯、𠞞、饀、𠮐",
+      "statement": "搯（掏，tāo）《说文》：「捾也。」《周书》「师乃搯」，谓拔兵刃以习击刺；《诗》「左旋右搯」。掏、挖取；qià同「掐」。𠞞（𠜼㓣掐，qià）《龙龛》：「㓣，正。苦洽反。入也。」刺入，《正字通》：「𠜼，俗掐字。」饀（tāo）《集韵》：「饕，《说文》：『贪也。』」又饵、糕饼、饼中裹肉之馅（xiàn）。𠮐（𠮌，zhú）《集韵》：「鸡儿出壳声。」",
+      "boundary": "源自《系统汉语》第256部「舀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「由」从油滴从口：指动植物油脂，为「油」之初文",
+      "statement": "由（yóu）从（滴状物）从口。前者象滴状物，指油滴；口指嘴，象意油滴入口之形，指动植物的油脂，是「油」的初文。《集韵》：「膏也。」《玉篇》：「麻子汁也。」《广韵》：「油脂。」",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「由」转义：原因、法式、凭借、经历，及自得之貌",
+      "statement": "油脂尤其是食用油是做菜必不可少的物质，能使食物味美，因此引申指原因、法式、凭借、经历、辅助、用诸义（《广韵》：「从也。经也。用也。」《集韵》：「因也。」）。油比水轻，附着于物却不失其本性，使物变得光滑润泽，故或引申为「自得」，如《孟子》「由由然与之偕，而不自失焉」；或引申指笑貌（yāo，《正字通》「冶由，女子笑貌」）。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「由」辩证：本从「西」者混为由，本从「甾」者疑亦从由",
+      "statement": "战国古文「由」演变成「土」字形，与下面的「口」组合后跟「西」的古文近似，从而导致一些本来从「西」的字（如宙）混淆成从由。「西」本义指鸟巢，某些鸟喜在屋檐或梁上筑巢，从而引申指宙，表栋梁、屋宇，故凡此类表空间义的字虽从由，其实应从西。另外「甾」的甲骨文形状也与「由」相近，《说文》「东楚名缶曰甾」，大约指一种黑陶，以甾为声旁衍生的字或有黑义（如缁「帛黑色」），故一些以由为声旁而含黑义的字，疑当从甾。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「由」音源：借音字，油脂凝固如陶泥，义音同「匋」",
+      "statement": "由为借音字，因油脂凝固如陶泥般细腻，故义音同「匋」：《诗·小雅·鼓钟》「忧心且妯」，「妯」《经音义》卷一二引《韩诗》作「陶」，《说文》「怞」字条引作「怞」。古由、酉也可通用：《易·豫》「由豫」《释文》「由，马本作犹」；《战国策·西周策》「昔智伯欲伐厹由」，《史记·樗里子甘茂列传》作「仇犹」；《大戴礼记·哀公问五义》「君子犹然如将可及也」，《孔子家语·五义解》作「油然」。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "由部字族①油的亮泽，表表面油光发亮：油、冑、𩑦、釉、柚",
+      "statement": "油（yóu）水名（出南海龙川），《广韵》：「油脂。」《本草纲目》：「凡凝者为肪为脂，释者为膏为油。」《六书故》：「以油涂物曰油。」另《玉篇》「麻子汁也」。冑（zhòu）《说文》：「兜鍪也。从冃由声。」头盔。商代文字本从目上戴冃（帽）形即「冒」，西周金文加由为声旁，战国古文或从革；因头发多分泌油脂，头盔里面多油光发亮。𩑦（dí）《广韵》：「古文顷字。」釉（yòu）《集韵》：「物有光也。通作油。」涂在陶瓷上烧后成玻璃状的原料。柚（yòu）《说文》：「条也。似橙而酢。」表皮光滑如油；另柚梧为竹名，杼柚为织布机部件（筘）。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "由部字族②油的牵丝，表拔引、抽丝：㽕、𡱋、䅢、䨤、鼬、苖、轴、𩿬、紬、抽、䛆、䄂、怞、㾄、袖、迪",
+      "statement": "㽕（㕀𣓐𣔴，yóu）《说文》：「木生条也。」《商书》「若颠木之有㽕枿」；《广雅》：「空也。」𡱋（yóu）即㽕，空也。䅢（jiù、zhòu）稻稔实，又税也。䨤（dí）雨貌——雨丝如抽。鼬（yòu）黄鼠狼，抽吸动物血液为食，遇害能由肛门分泌臭液自卫。苖（dí）羊蹄草，叶似菠菜、茎中空、块根肥厚金黄、味酸，又名野菠菜、土大黄、酸模。轴（zhóu）《说文》：「持轮也。」贯穿持着车轮的柱形长杆。𩿬（yóu）鼯鼠，又鸟名。紬（chóu）比常丝粗的丝织品；《释名》：「紬，抽也。丝端出细绪也。」抽（chōu）《说文》：「引也。」拔也、引也。䛆（zhòu）诅咒。䄂（liù）祷祝。怞（chóu）《说文》：「朗也。」又忧恐。㾄（chóu）心病震摇，又怨痛、诽（讟）。袖（xiù）《释名》：「袖，由也，手所由出入也。」衣袖。迪（dí）《说文》：「道也。」引导、启迪。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "由部字族③形近「西」之讹，表空间：宙、𦁖、铀、岫、笛",
+      "statement": "宙（zhòu）《说文》：「舟舆所极，覆也。从宀由声。」《玉篇》：「居也。往古来今曰宙。」甲骨文从西。𦁖（zhòu）《集韵》：「古今无极谓之𦁖，通作宙。」铀（zhòu）《字汇》：「古文宙字。」或同胄指头盔；yóu今指放射性元素（音译字）。岫（xiù）《说文》：「山穴也。」笛（dí）《说文》：「七孔筒也……羌笛三孔。」笛的形制为竹管上有孔，正如梁上有巢，故当构形如「宙」。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "由部字族④形近「甾」之讹，表黑色：㹨、牰、鲉",
+      "statement": "㹨（狖，yòu）同狖，《玉篇》：「黑猿也。」牰（yòu）《玉篇》：「牛眼黑。」《广韵》：「牛黑眥。」鲉（yóu）《广韵》：「鮂鲉，小鱼。」《尔雅·释鱼》：「鮂，黑鰦。」体椭圆侧扁、头大有棘状突起、背部淡黄带赤并有黑红斑点，生活在近海。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "由部其余字族：由部字多取牵丝、抽引、亮泽诸义",
+      "statement": "由部字多依「油」的亮泽、牵丝、抽引为义：如㣙（dí）行㣙㣙，行平易也，又古往今来无极之名与宙同；秞（yóu）禾盛，一曰物初生貌；胄（zhòu）《说文》：「胤也。」后代子孙；𩍌（zhòu）臂套、弩柄上的套子；駎（zhòu）竞驰；舳（zhú）船尾、舵（控制船行方向故从由）；妯（zhóu）动也、妯娌；蚰（yóu）蚰蜒、马陆，多足如抽引出许多细线；邮（yóu）地名（今陕西高陵），今义邮递本应作「郵」；菗（chóu）荼菜、地榆。",
+      "boundary": "源自《系统汉语》第257部「由部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𦣻、𩠐（首）、𡿺」同源，象人头之形",
+      "statement": "「𦣻、𩠐（首）、𡿺」本同源，象人头的样貌：或有发，或无发，或以囟门和头发，或仅以眼睛和头发表示。《说文》：「𦣻，头也。象形。」「𩠐，𦣻同。古文𦣻也。巛象发，谓之鬊，鬊即巛也。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𦣻」转义：第一、领先、前端、朝向、自己出头承担",
+      "statement": "头在躯体的最上端，故引申表示第一、领先诸义，跟「元」近似：《广韵》「始也」，《韵会》「魁帅也」，《正韵》「先也」。或比喻指类似头部一般在前端的物体，《字汇补》：「殳上鐏也。」或引申指朝向，《集韵》：「向也。《礼》：『寝常东首』。」或引申指自己出头承担，《集韵》：「有罪自陈。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𦣻」辩证：或混同「歮」，《说文》以「自」为「百」古文亦不确",
+      "statement": "以「𦣻、首、𡿺」为声旁的字楷化后多作「𡿺」；但战国古文或将「𡿺」写成与「止」的二叠相似，因此或混同「歮」（脚步纷乱，行走迟缓），凡表迟缓义而声旁作「𡿺」的，当为「歮」的讹字，「𤷻」应为「𤺙」之讹。另外「𦣻」下的「自」与「白」相近，《说文》或以其为「百」的古文，所析不确。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𦣻」音源：借音字，有始义故义音同「由」",
+      "statement": "𦣻为借音字，因有始义，故义音同「由」：《战国策·西周策》「昔智伯欲伐厹由」高诱注「厹由，狄国，或作仇首也」；《书·益稷》「各迪有功」，「迪」《史记·夏本纪》作「道」；《君奭》「我道惟宁王德延」，《释文》「我道，马本作我迪」。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "𦣻部字族①头、前头、脑部：瑙、艏、䭭、㛴、堖、𩋈、𩤘、匘",
+      "statement": "瑙（nǎo）玛瑙，石次玉，色如马脑故名。艏（shǒu）《方言》「船首谓之合闾，或谓之艗艏」，船头。䭭（shǒu）人初生子、长子，又顺产。㛴（恼，nǎo）《说文》：「有所恨也。从女𡿺声。」怨恨。堖（nǎo）头堖，「脑」的俗字，今指小山丘。𩋈（nào）优皮，一说恼字之讹。𩤘（nǎo）褭𩤘，马名。匘（脑，nǎo）《说文》：「头髓也。」从匕取头盖骨如勺状。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "𦣻部字族②形近「歮」之讹，表迟缓：㺁、𤊲、𤷻、𧩣",
+      "statement": "㺁（nǎo）雌狢，腿短而身肥，行动不够敏捷。𤊲（nǎo）《集韵》：「热貌。」𤷻（nǎo）《集韵》：「病也。」𧩣（nǎo）《集韵》：「语相侮也。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「道」甲骨文从行从人，金文「人」演变为「首」，指人来往路径",
+      "statement": "道（dào）甲骨文从行从人，周代金文「人」演变成「首」，指人来往的路径。《说文》：「所行道也。从辵从𩠐。一达谓之道。」长沙国《驻军图》（西汉）为世界第一地图。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「道」转义：方法、技艺、规律，及知晓、讲述、向导、治理",
+      "statement": "道路是到达某一目的地时必须遵循的，从而引申指方法、技艺、规律、措施、规则（《广韵》：「理也。路也。直也。众妙皆道也。」）；或引申指知晓、讲述（「知道」「说道」）；或专指道家、僧侣、术士。不同的道路通向不同的方向和目的地，不熟悉便不能抵达，从而引申指方向、向导（dǎo，《集韵》「导，《说文》：『导引也。』或作道」）；或引申指治理、疏通、开导（《广雅》：「治也。」）。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「道」音源：源自脚踏声",
+      "statement": "道为音源字，源自脚踏之声。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "道部字族①指导：导、噵；②行道表捣杵：䆃、檤",
+      "statement": "导（dào、dǎo）《说文》：「引也。从寸道声。」疏通、引诱、开导；《尔雅》：「勴也。」赞勉。噵（dào）《集韵》：「说也。通作道。」说话。䆃（dǎo）《说文》：「禾也……一茎六穗。」《集韵》：「以粟为米曰䆃。」即捣义。檤（dào）木名，疑指杵。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「页」甲骨文象人跪跽而抬头，义与「首」近而与「见」相对",
+      "statement": "页（xié）甲骨文象人跪跽而抬头的样子。《说文》：「头也。从𦣻从儿。古文䭫首如此。」「页」义虽与「首」差不多，但其义应与「见」相对：「见」从目，表示行为在眼睛；「页」从𦣻，当表示行为在头部，表示举头有所思，此义分化如「𢝊」（yōu）《说文》：「愁也。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「页」转义：脸有两面，故引申为一张纸（量词）",
+      "statement": "头部之间最大的区别是脸，而脸有两面，故引申指一张纸（yè），量词，指书册的一张，也作「叶」，也指每张的一面。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「页」辩证：表音性不强，多作形旁，易与须、皃、𥄕相混",
+      "statement": "由于「页」跟「𦣻、𩠐」义同，「页」的表音性不强，多作形旁表示类属于头部的器官；而其字形跟「须、皃、𥄕」等又相近，因此或与它们相混，在表意上也就跟「页」并无关联。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "页部字族①头，表显明、高耸：暊、䅡、崸、𨔞、寡、蝢",
+      "statement": "暊（显，xǔ）《玉篇》：「明也。」太阳的光芒；《正字通》：「显字之讹。」疑即「夏」的初文。䅡（xǔ）草名。崸（yáng）山名、山峻。𨔞（dào）同道。寡（guǎ）《说文》：「少也。」金文本从宀从页，表示独处屋中之意，义音同「孤」。蝢（xié）《类篇》：「肹蝢，国名，月支也。」即月氏，疑为译音。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "页部字族②形近「皃、𥄕、狊、贞」之讹：𨘷、𢤧、䫉、𨂠、𪕯、幁",
+      "statement": "𨘷（邈，miǎo）《说文》：「远也。」𢤧（㦝，miǎo）《说文》：「美也。」心意美。䫉（貌，mào）《玉篇》：「容也。」𨂠（xū）足行，lǚ同履；甲骨文从「𥄕」。𪕯（鼳，xí）鼠名，状如鼠而在树木上，即松鼠；又银鼠。幁（xū）束发的头巾，《正字通》：「帧字之讹。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「憂」甲骨文象人抓耳挠腮，表忧愁焦急；战国古文从页从心",
+      "statement": "「𢝊、憂」本同源，甲骨文象人抓耳挠腮的样子，表示忧愁、焦急、沉思之意，战国古文演变作从页从心。《说文》：「𢝊，愁也。从心从页。」徐锴曰：「𢝊，心形于颜面，故从页。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「憂」转义：行动迟缓故引申和缓，又指致忧之因",
+      "statement": "心里有事，做事就会不投入、行动迟缓，故引申指和缓之意。《说文》：「憂，和之行也。从夂，𢝊声。」或引申指导致忧愁的原因，如困难、疾病、父母丧事、闭塞等。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「憂」辩证：与「夒」初文相近，本书重加区分",
+      "statement": "「憂」跟「夒」的初文十分相近：「夒」指长臂猿，与「憂」相比在人形后面多个尾巴而已。因此有些数据或将二者混同，本书重新作了区分（另见478《夒部》）。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "憂部字族①忧状，表迟缓、舒徐：瀀、櫌、优、鄾、嚘、纋、㱊",
+      "statement": "瀀（yōu）《说文》：「泽多也。」雨水充沛，指水流淤积排泄不畅；《玉篇》：「渥也、宽也、渍也。今作优。」櫌（耰，yōu）《说文》：「摩田器。」弄碎土块使田地平坦的农具。优（yōu）《说文》：「饶也。一曰倡也。」宽裕、俳优、戏谑。鄾（yōu）邓国地，今湖北襄樊市北。嚘（yōu）《说文》：「语未定貌。」又气逆、叹。纋（yōu）簪子中央用以固定发髻的部分。㱊（yōu）嘶哑，出不了声（《老子》「终日号而不㱊」）。另有𧀥菜名、䜡闻香貌、𥣯（筥十曰𥣯）、𥽟（谷芒）、𧾤（走也）、𩽇（鱼名，疑即鱿）、𢋣（地名）。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "憂部字族②音译字：䥳为「铕」的旧译",
+      "statement": "䥳（yǒu）为化学元素「铕」的旧译。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "憂部字族③形近「夒、复」之讹，表搔、乱：獶、扰、𨇄、瓇、𢕶",
+      "statement": "獶（yōu）《集韵》：「南越谓犬为獶𤟫。」又犬惊貌；náo即夒《说文》「贪兽也。一曰母猴似人」。扰（rǎo）《说文》：「烦也。一曰顺也。」𨇄（rǎo）足动。瓇（róu）玉名。𢕶（fù）与复同（见《石鼓文》）。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𥄉」象倒悬断头之形，古代磔刑割头挂城示众",
+      "statement": "𥄉（jiāo）象倒悬的断头之形。《说文》：「到首也。贾侍中说：此断首到县𥄉字。」《广雅》：「磔也。」古代一种刑罚，将犯人的头颅割下挂在城头示众。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𥄉」转义：比喻猫头鹰（猴面鹰栖树如挂人头）",
+      "statement": "由断头之形，比喻指猫头鹰之类：这类鸟尤其是猴面鹰，脸似人而身子短，栖于树上时犹如挂在树上的人头一般。因此「枭」的战国古文即从木𥄉声，「𥄉」实际上代指枭；头倒悬之义另属于「县」（具体见460《玄部》）。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𥄉」辩证：《说文》「枭」从鸟头在木上及段注所解皆误",
+      "statement": "由于小篆「枭」写成从鸟从木，导致与「集」的结构相同。《说文》：「枭，不孝鸟也。日至，捕枭磔之。从鸟头在木上。」《段注》引申汉仪赐枭羹诸说，所解显然是错误的。人们视猫头鹰为不祥之鸟，大约因其只活动于夜间且叫声凄厉吓人；实际上它是捕鼠能手，性格凶猛残暴，抓到老鼠后小的整头吞食、大的先啄食其头部再撕身体，即使吃饱见到老鼠也不放过——「枭首」之意或许因其先啄食老鼠的头。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𥄉」音源：倒首也是首故音同「𦣻」，头悬如枭故义音同",
+      "statement": "倒首也是首，故当音同「𦣻」；因头悬如枭，故义音同：《集韵》：「𥄉，通作嘄。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "𥄉部字族①同「枭」相关性状：郻、𠶼、𡟠、𨨴",
+      "statement": "郻（qiāo）同鄡，地名。𠶼（叫嘄，jiào）古文嘄，叫。𡟠（jiāo）女字。𨨴（jiāo）戟属。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "𥄉部字族②本应从「𥄉」，指猫头鹰相关性状：枭、鄡、浇、𡏭、瞗、𡂢、𣘖、蟂",
+      "statement": "枭（xiāo）《字汇》：「以头挂木上，今谓挂首为枭。」战国古文本从木𥄉声，象悬首于树；因猫头鹰状如人首，故引申指猫头鹰，又引申勇猛雄强、首领；猫头鹰头部旋转幅度特别大，故比喻骰子（枭卢，樗蒲采名），引申指等级、混乱。鄡（qiāo）巨鹿县，今河南束鹿县东南。浇（jiāo）《说文》：「沃也。」一曰薄也。𡏭（jiāo）伏土为卵。瞗（diāo）熟视。𡂢（jiāo）《说文》：「声𡂢𡂢也。」又叫、祷。𣘖（jiān）樗蒲采名——古六博即今骰子，象猫头鹰头部可旋转。蟂（xiāo）水虫似蛇四足能害人，一说獭属害鱼者，象猫头鹰一样昼伏夜出。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「湏（𩒳）」甲骨文从水从页，象用水洗脸，为「沬」之初文",
+      "statement": "「𩒳」的甲骨文本从水从页，页亦声，象意用水洗脸；后逐渐添加了手形及盛水的「皿」成「盨」。战国古文或从水未声作「沬（huì）」，《说文》：「沬，洒面也。从水未声。」",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「湏」转义：洗睑在晨起睡前，故引申指昏暗",
+      "statement": "洗脸一般在晨起和晚睡前，故引申指昏暗（mèi，《集韵》：「微晦也。」《说文》：「𩒳，昧前也。从页𡿯声。读若昧。」）。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「湏」辩证：与指胡须的「须」形近相混，「须臾」之须应为「湏」",
+      "statement": "「湏」本即「𩒳」，因字形跟指胡须的「须」相近而导致相混迷失，其衍生的字族得根据其义予以剔出。「须」的本义只是指胡须；而如「须臾」的「须」指时间短，跟胡须并无关联，实际上应该是「湏」。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "湏部字族①洗脸，表相关器物与短时：盨、𩓣、𢄼、𦄼",
+      "statement": "盨（xǔ）《说文》：「㯯盨，负戴器也。」古代盛食物的铜器，椭圆口、有盖、两耳、圈足或四足，应从湏指其状如洗脸盆（《遂公盨》载大禹治水史实）。𩓣（xū）《说文》：「待也。」等待，即洗脸的功夫，形容时间短。𢄼（xū）束发的头巾，洗头时用以往后包住头发。𦄼（xǔ）《说文》：「绊前两足也。」又蜀锦名。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "湏部字族②本指洗脸，被误为形近「顷」之讹：澃、𢊼",
+      "statement": "澃（jiǒng）《玉篇》：「清也。」《正字通》：「𣻯字之讹。」𢊼（qǐng）《字汇补》：「廎字之讹。」旁边小屋，疑非讹字，从湏指洗漱间。",
+      "boundary": "源自《系统汉语》第258部「𦣻部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「豆」象古代食器形，有足有盖，盛饭菜",
+      "statement": "豆（dòu）象古代的食器形：有足，或有盖（上或有短横），一般用于装饭菜。《说文》：「古食肉器也。从口，象形。」浙江跨湖桥文化陶豆距今8000年。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「豆」转义：临时停留（分化「逗」），又指豆子",
+      "statement": "豆的功用在于吃的时候盛装食物，吃完即撤，故引申指临时停留，此义分化为「逗（dòu）」（《说文》：「止也。」）；因其形圆而较小，故引申指豆子（《广雅》：「大豆，菽也；小豆，荅也。」）。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「豆」音源：源自敲豆声，状如殳头故义音同「殳」",
+      "statement": "豆为音源字，源自敲豆之声；因其状如殳头，故义音同「殳」：《集韵》：「逗，或作投。」",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "豆部字族①豆形，表豆类或豆状物体：餖、𢍪、鋀、脰、头、𩊪、梪、䱏、裋、剅、㢄",
+      "statement": "餖（dòu）饤饾，陈设食品的器皿。𢍪（dēng）《说文》：「礼器也。从廾持肉在豆上。」读若镫。鋀（dǒu）《说文》：「酒器也。」tōu则指鍮石（似金的黄铁矿、黄铜矿），tù为化学元素「钍」的旧译。脰（dòu）《说文》：「项也。」颈、咽喉。头（tóu）《说文》：「首也。」𩊪（dòu）驾车被马的器具，马腹带系辔环中的舌。梪（dòu）木制的豆器。䱏（tǒu）鱼名。裋（shù）古代仆役穿的粗布长衣、短衣。剅（dōu）小穿、小裂、割。㢄（dòu）器名、祭所、厨庖。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "豆部字族②豆用，表停留、竖立：逗、侸、郖、𣪌、竖、斗、毭、浢",
+      "statement": "逗（dòu）《说文》：「止也。」留止，又物相调和、句中停顿、惹弄招引。侸（shù）《说文》：「立也。从人豆声，读若树。」树立。郖（dòu）渡口名，在今河南灵宝县西北。𣪌（祋，tóu）即投；duì指殳，一说城郭市里高悬羊皮以惊牛马曰祋。竖（shù）竖立、直，又童仆、卑鄙者之称。斗（dòu）同斗、交争。毭（dòu）氍毭，罽也，毛毯作的雨披。浢（dòu）古河名，在今山西，源出中条山麓南流入黄河。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "豆部字族③豆形，表短小：荳、短、痘、𥆖",
+      "statement": "荳（dòu）豆子、豆蔻。短（duǎn）《说文》：「有所长短，以矢为正。」长度很小，取其近似球状而音从圆；又指人过失。痘（dòu）痘疮、水痘，粒状丘疹如豆子。𥆖（dōu）《说文》：「目蔽垢也。」眼屎。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「厨」本从寸从㢄，指放置使用豆类餐具之所，即橱柜厨房",
+      "statement": "厨（chú）本从寸从㢄，㢄亦声。「㢄」从广，指放置或使用豆类餐具的处所，即橱柜或厨房；从寸象意烹饪、做饭菜。后「豆」逐渐演变成「壴」，遂从广从尌。《说文》：「庖屋也。从广，尌声。」",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「厨」转义：救济、煮饼之树、主持烹饪者、箱柜箭室",
+      "statement": "厨房是做饭菜的地方，由此引申指救济（《正字通》：「以财救人也。」）；或指一种可以煮饼的树（《类篇》：「斯条国有厨木，汁肥可用煮饼。」）；或引申指主持烹饪的人或官吏（《玉篇》：「主也。」）；由厨房盛碗筷的器具，引申指类似的器具——箱柜（《字汇》：「椟也。」）、箭室。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「厨」辩证：应从「豆」，战国古文从「壴」为形近而讹",
+      "statement": "「厨」指置放食器的处所，故应从「豆」；而「壴」本指鼓，故战国古文从「壴」应为形近而讹。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "厨部字族：橱、蹰、幮",
+      "statement": "橱（chú）放置衣物、食品的家具。蹰（chú）《广韵》：「踟蹰，行不进貌。」指如在厨房中来回劳作的样子。幮（chú）《广韵》：「帐也。似厨形。」当指盖碗用的纱帐，以免苍蝇灰尘落入，今人仍用；亦指床帐（唐王建「青山掩障碧纱幮」、司空图「一双白鸟隔纱幮」）。",
+      "boundary": "源自《系统汉语》第259部「豆部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𠁁」从八在豆口沿上，象圈足大腹阔口的豆形食器（鍑）",
+      "statement": "𠁁（𨪐鈄，dòu）从八在豆的口沿上：「八」指张开，「豆」指食器，象意一种圈足、大腹、阔口的豆形食器。考其形制应即鍑。《正字通》引《方言》「鍑，北燕朝鲜间谓之錪……吴扬之间谓之鬲」、《博古图》「周兽耳鍑，容五斗八升，口径八寸六分……汉兽耳鍑，容一斗四升八合……鍑似二瓯俯仰合，瓯边相着，上有小口」。《说文》训「釜大口」，未考鍑形制故也。其作用应是温酒或熟食；陈梦家《殷墟卜辞综述》总结其「只有两个用法：一为用牲之法，一为夕𠁁」。",
+      "boundary": "源自《系统汉语》第260部「𠁁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𠁁」转义：温酒加热，引申重复、覆盖（分化「复」）",
+      "statement": "由温酒或加热熟食，引申指重复、覆盖义，此义分化为「复」。",
+      "boundary": "源自《系统汉语》第260部「𠁁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「𠁁」音源：源自敲𠁁声，形制如豆故义音同「豆」",
+      "statement": "𠁁为音源字，源自敲𠁁之声；因其形制跟「豆」差不多，可以说是大型的「豆」，多了两个耳子而已，故义音同「豆」：《集韵》：「𧪧，《埤仓》：『𧪧譳，不能言也。』」",
+      "boundary": "源自《系统汉语》第260部「𠁁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "𠁁部字族：𧡸、㓸、𠍄、𡟳、𥉝、𨜹、𨻉、𩔡",
+      "statement": "𧡸（dōu）《说文》：「目蔽垢也。」眼屎。㓸（zhuó）斫也；dōu则小穿、割。𠍄（dōu）占侸，极疲；一曰偻侸，下垂。𡟳（dòu）𧪧譳，不能言。𥉝（dōu）目深。𨜹（dòu）地名，古渡口名，在今河南灵宝县。𨻉（dòu）高峻、陡峭。𩔡（dōu）面折。",
+      "boundary": "源自《系统汉语》第260部「𠁁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「斲」从斤𠁁声：用斧沿四周斜砍成𠁁之状",
+      "statement": "斲（zhuó）从斤𠁁声。「斤」指斧头；从「𠁁」，象意用斧头砍成𠁁的样子，一般指砍树时沿着四周往下斜砍，其状正如𠁁，以区别于其它砍法。《说文》：「斫也。从斤、𠁁。」或从「画」亦正有周绕之意；从「丮」则为「斤」之讹。",
+      "boundary": "源自《系统汉语》第260部「𠁁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "斲部字族：𧞐、斗、𡆏、𤂊",
+      "statement": "𧞐（zhuó）《说文》：「衣至地也。」又补也、长衣。斗（dòu）《说文》：「遇也。」接合、交争。𡆏（dòu）多言。𤂊（zhuó）水名，在临湘。",
+      "boundary": "源自《系统汉语》第260部「𠁁部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「鬥」象两人徒手对打之形",
+      "statement": "鬥（dòu）象两人徒手对打之形。《集韵》：「斗也。」",
+      "boundary": "源自《系统汉语》第261部「鬥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「鬥」辩证：《说文》误以两手为兵器，析形不确",
+      "statement": "《说文》误以两人的手为兵器，故释作「两士相对，兵杖在后，象斗之形」，析形不确。楷化后因字形与「门」相近，造成以「鬥」为形旁的字或讹作「门」。",
+      "boundary": "源自《系统汉语》第261部「鬥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "「鬥」音源：源自击打声，义音同「豆」，古斗、豆可通",
+      "statement": "鬥为音源字，源自击打之声；义音同「豆」：《孙子兵法·虚实篇》「敌虽众，可使无斗」，「斗」银雀山汉墓竹简本作「𧯞」。",
+      "boundary": "源自《系统汉语》第261部「鬥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-46-tao",
+      "title": "鬥部字族：斗、闹、𩰎（多作形旁不表音，指争斗）",
+      "statement": "斗（dòu）《说文》：「遇也。从斗斲声。」接合，跟「构」义近。闹（nào）《说文》：「不静也。从市、斗。」繁茂、扰乱。𩰎（xuàn、wēng）《说文》：「试力士锤也。从斗从戈。」比试力士强弱的铁锤（《段注》：「锤当作缒。以绳有所悬镇也。」）。",
+      "boundary": "源自《系统汉语》第261部「鬥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
