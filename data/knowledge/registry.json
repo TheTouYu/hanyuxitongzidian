@@ -1849,6 +1849,15 @@
       "summary": "《系统汉语》书末索引表的性质、列义与规模：五列（音源、字根、字族、訛俗字、頁碼），1162 个页码分组、1742 条音源字头（去重 1694）、页码 4–1752；字根列 1620 条共 27555 字形，字族列 406 条共 1763 字，訛俗列 303 条；并记十二章分布与和目录页码的互证、以及结构化留档位置。",
       "keywords": [],
       "permission": "public"
+    },
+    {
+      "id": "topic-suoyin-bihua",
+      "node_id": "hanzi-origin",
+      "title": "索引笔划检字表：笔画·起笔·索引页码",
+      "path": "knowledge/hanzi-origin/suoyin-bihua.md",
+      "summary": "《系统汉语》书末《索引筆劃檢字表》的性质与结构：以「笔画数 + 起笔」为检索入口、三步查字法（本表→《索引》→正文）；16 个笔画段、105 个起笔组、2301 个单字，表内页码 29–84（索引页码）对应正文 4–1752；艹按三画、十六画以上归一段；附《疑難雜字筆劃檢字表》为补充。",
+      "keywords": [],
+      "permission": "public"
     }
   ],
   "relationships": [],
@@ -37924,6 +37933,61 @@
       ]
     },
     "clm_99AA1FFCE7C414A567D2AF2434": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_557FACC4FAB7FFE511F33F96C5": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6CBDC827D179F4946330B3436A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_FC36E4203B484528AB3F21DCB4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1D327A2167B2B5C1A434F40DEB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_DC3D96D8023D2C7B53E2C79D9D": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E4408AE0013BDE5F90FA3FE34E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B45AE928E14B21E56031C91C7C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EC4C3E30532996FF9AB2FF9310": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EE0ED38DB763100B1E633ECF23": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F4331F8B0671621C75AAE5F9CF": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3E7A8DFCA7C9369AAD5B324E07": {
       "fact_classes": [
         "evidence_scope"
       ]

@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》索引笔划检字表（笔画·起笔·索引页码）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "索引笔划检字表：性质与用途",
+      "statement": "《系统汉语》书末另附《索引筆劃檢字表》（源文件 `D:\\修订\\索引筆劃檢字表.doc`，2025-05-30），是进入全书《索引》的入口表。其作用类似传统字典的部首查字法，但以「笔画数 + 起笔」检索，比部首法更便于查生僻字：不知部首、不明声符的字，只要数得出笔画、看得出起笔，就能查到。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-origin/suoyin-bihua.md",
+      "topic_title": "索引笔划检字表：笔画·起笔·索引页码",
+      "topic_summary": "《系统汉语》书末《索引筆劃檢字表》的性质与结构：以「笔画数 + 起笔」为检索入口、三步查字法（本表→《索引》→正文）；16 个笔画段、105 个起笔组、2301 个单字，表内页码 29–84（索引页码）对应正文 4–1752；艹按三画、十六画以上归一段；附《疑難雜字筆劃檢字表》为补充。"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "三步查字法",
+      "statement": "查字分三步：一、数出独体字的笔画，按起笔找到该字——如「干」三画、起笔「一」，在「三劃」的【一】组内；二、翻到表中该字所注的页码，在《索引》的「字根」列找到它；三、再按《索引》所注的页码翻到正文，即得该字的详细解释。合成字则先查其表声的部分（多在右边）——如「杆」先查「干」，再在《索引》「字族」列中找「杆」。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "表的层级结构",
+      "statement": "表先按笔画数分段，自「一劃」至「十六劃」；每段内再按起笔分为若干组，以【一】【丨】【丿】【丶】【乛】【𠄌】【く】标示；组内逐字排列，每字后附一个阿拉伯数字，即该字在《索引》中的页码。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "表的规模",
+      "statement": "全表分 16 个笔画段、105 个起笔组，共收单字 2301 个。另有约 37 处或因原字以图片嵌入、或因排版断行，文本提取后只剩页码而无字形，未计入上述字数。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "各笔画段的收字分布",
+      "statement": "各段收字数依次为：一劃 4、二劃 36、三劃 77、四劃 150、五劃 161、六劃 204、七劃 201、八劃 244、九劃 244、十劃 207、十一劃 172、十二劃 183、十三劃 103、十四劃 87、十五劃 66、十六劃 162；以八、九两段最多（各 244 字），一画最少（4 字）。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "起笔分组",
+      "statement": "每段内按起笔分七类：【一】【丨】【丿】【丶】【乛】【𠄌】【く】，共 105 个组。合计数为：一起笔 16 组、乛起笔 16 组、丶起笔 15 组、丨起笔 15 组、丿起笔 15 组、𠄌起笔 14 组、く起笔 14 组。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "表内页码的层级",
+      "statement": "表内每字所附的阿拉伯数字不是正文页码，而是《索引》自身的页码，分布区间为第 29 页至第 84 页（共 52 个不同页码）；到《索引》中再按「页码」列换算出正文页码（正文页码区间为 4–1752）。故查一字须两级跳：本表→《索引》→正文。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "收字与计画的处理规则",
+      "statement": "表有两条规定：一、数笔画时不论繁简，「艹」一律按三画、起笔「一」计算；二、十六画以上的字全部归入「十六劃」。此外，符合汉字系统规律的简化字、异体字在《索引》中多可直接查到，但因未列字族，只能查到简化的字根，须依此类推再找正体字。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "与索引表、目录、正文的关系",
+      "statement": "三者构成一套检索链：《索引筆劃檢字表》按笔画与起笔给字位（索引页码），《索引》按音源、字根、字族、訛俗字、頁碼五列给正文页码，正文按音源字分卷、卷下分部、部下系字。若已知字声，可直接查《索引》的字根；若只知其形，则先经本表。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "疑难杂字笔画检字表",
+      "statement": "表前的说明指出：以本表查不到的字，须到书后所附的《疑難雜字筆劃檢字表》中去查。该表与本书同在一处（`D:\\修订\\疑難雑字檢字表.doc`），收录不合汉字系统规律的疑难杂字，是本表的补充，尚未录入本库。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-bihua",
+      "title": "表的留档",
+      "statement": "本库已把本表完整留档：原始提取文本 `intake/20261021-索引笔划检字表.txt`；结构化解析件 `intake/20261021-笔画检字表-解析.json`，内含 `stroke_groups`（16 个笔画段，每段含 `stroke_label`、`starts`（起笔组）及各组 `entries`（字形与索引页码）），可供按笔画、起笔程序化检索。",
+      "boundary": "源自《系统汉语》索引笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
