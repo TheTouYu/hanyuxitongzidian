@@ -1,0 +1,551 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷四十三 沙（240.沙部–243.頪部）",
+  "risk": "medium",
+  "baseline_mode": "committed",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "卷四十三以音源字「沙」立卷",
+      "statement": "本卷音源字为「沙」，但它的形、音、义都与「小」有所混淆：「沙」所从的「少」就是从「小」。实际上「沙」的甲骨文为散乱的沙粒形，或加「水」表示水边的沙滩，西周金文则讹从「少」，因此本书特将它从《少部》中剔出，独立成卷。它的音源，取自用沙子打磨时所发出的声音。",
+      "boundary": "源自《系统汉语》卷四十三「沙」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/43a-sha.md",
+      "topic_title": "卷四十三·沙",
+      "topic_summary": "卷四十三「沙」：音源字为「沙」，义为沙粒、以沙磋磨，音源沙子打磨声；辖 240.沙部（沙、羔、率三系，p697）、241.𧴪部（小贝、贝串，p700）、242.寽部（双手捋取、缫丝为乱，p701）、243.頪部（分辨米粒、类别，p703）四部，共第240–243部。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙子是岩石风化的产物，按颗粒大小分选沉积",
+      "statement": "沙子是岩石风化后，受风力或水流搬运：质量小的走得最远，沉积形成土壤；质量中等的沉积形成沙滩；大的碎石留在原地继续风化。所以真正意义上的沙子指质量中等的颗粒。俗话说「大浪淘沙」，它是已经难以风化变小的最硬颗粒。",
+      "boundary": "源自《系统汉语》卷四十三「沙」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙是建筑与古代「三和土」的骨料",
+      "statement": "现代建筑离不开沙子：与水泥混合，能形成坚硬的墙体或路面。古代虽没有水泥，但人们用黏土、石灰等与沙拌和成「三和土」，也比较硬实。",
+      "boundary": "源自《系统汉语》卷四十三「沙」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的硬度用于攻玉：麻绳黏沙制「锯」琢玉",
+      "statement": "沙子十分坚硬，含特殊矿物质的黑金沙更有非同一般的作用。「他山之石，可以攻玉」说的就是用沙子对玉石进行加工：玉石坚硬，一般金属器具无法切割琢磨，沙子却可以。先民用麻绳黏结上沙子，制成坚韧的「锯子」，琢成各种精美玉器；还利用沙子对器物打磨、抛光——今天仍在用的「砂轮」「砂纸」即传承自古代。",
+      "boundary": "源自《系统汉语》卷四十三「沙」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的细、流动、可塑、吸水、松散等性质各有其用",
+      "statement": "沙粒很细又有流动性，古人因此发明沙漏计时；沙有一定可塑性，可作砂型铸造器物；沙吸水性强，可用于防潮、防腐、清除污渍；沙松散不板结，可改良土壤、增加透气性；制成沙袋可用于拳击训练，或作堡垒沙包。看似不起眼的沙子，用途广泛。",
+      "boundary": "源自《系统汉语》卷四十三「沙」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "本卷分部的依据：寽、頪义音同其衍生字「率」",
+      "statement": "「寽、頪」二字义音同其衍生字「率」，故本书将它们归入本卷。卷首并附清人李澄渊《玉作图》的「捣沙研浆」「开玉图」两幅，示意琢玉工序。",
+      "boundary": "源自《系统汉语》卷四十三「沙」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "卷四十三的部次与页码",
+      "statement": "卷四十三「沙」辖四部：240.沙部（p697）、241.𧴪部（p700）、242.寽部（p701）、243.頪部（p703）。",
+      "boundary": "源自《系统汉语》卷四十三「沙」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的本义：散开的沙粒形，加水指水流冲刷的细石粒",
+      "statement": "沙（𡋷𣲓𣲡）甲骨文本象散开的颗粒形；或加水，则象意有二：一指水流冲刷而形成的细小石粒（因沙粒本小，字形近「少」或「尐」，故西周金文或从「少」，为后世所从），shā，《说文》「水散石也，从水从少，水少沙见」；一指用沙石琢磨物体时的加水，故战国古文或从玉从八，即利用沙子将玉分解，suō，《集韵》「摩挱也」。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的转义：沙滩、细纱、淘汰、磋磨、嘶哑、本体",
+      "statement": "沙系水流冲刷而成，故分布于水流岸边，引申指水边沙地、沙滩（《集韵》「水傍」，《正字通》引《丹铅总录》「水边地可耕曰沙」），或指沙子里冒出的水（jié，《篇海类编》「𣲡，小水也」）；由颗粒细小引申指细纱（《释名·释采帛》「又谓之沙，亦取戚戚如沙也」，《篇海类编》「沙，与纱同」），或比喻细小的颗粒物（蚕沙、沙糖）；由水的淘沙引申指淘汰、拣选（《字彙》「汰也」）；沙质粗硬可用于磋磨器物使其光滑，或切开坚硬玉石（suō，《集韵》「挱，摩挱也」），或引申指沐浴（《篇海类编》「沐也」）；由摩挱的声响引申指嘶哑（《集韵》「声澌也」）；沙子是风化后留下的最坚硬部分，故引申指物体的本体、本性（jí，《广雅》「𣲡，质也」）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的音源：以沙磋磨时发出的声音",
+      "statement": "沙是音源字，音源取自用沙磋磨物体时所发出的声响；故「摩挱」「娑」一类字皆以沙为声。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的字族一：沙粒或似沙粒状",
+      "statement": "指沙粒或似沙粒状的字：砂（《玉篇》「俗沙字」）、𡋷、《集韵》硰石（地名）、粆（蔗饴，通作沙，俗谓沙餹；一说捣蔗汁熬成饴）、痧（中医病名，指霍乱、中暑、肠炎，刮扯后皮肤现紫色瘀点如沙粒，或指疹子）、㲚（毛衣、长毛貌）、乷（朝鲜人名地名用字）、𩳑（俗字，神在山中，亦鬼名）、𪌮（碎麦，正作莎）、纱（《玉篇》「纱縠也」，《急就篇注》「已纺而成谓之纱」）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的字族二：用沙切割、磋磨",
+      "statement": "指用沙切割、磋磨，表示摩擦、切开的字：㸺（母牛，《本草纲目》牝者曰㸺）、𠚺（刺也，细切而不令断曰𠚺）、𧋊（同莎，莎鸡，虫名）、魦（鲨鱼，《说文》「鱼名，出乐浪潘国」，其鳞片类似牙齿、十分坚硬如砂纸，可以锉伤对方，故从沙，《玉篇》「鲛鱼」）、挱（张开、解开；suō，摩挱、抚摸）、閯（开也）、莎（莎草，茎韧可作索，块茎称香附子）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的字族三：摩挱之状，表示环绕",
+      "statement": "指用沙摩挱之状、表示环绕的字：娑（《说文》「舞也」，婆娑，盘旋舞蹈之貌；亦用于馺娑、逻娑即拉萨）、𩊮（乐器，亦谓马尾；一种缺前壅的靴子）、䓾（艸根，一曰茂貌）、𠈱（行也，又舞不止）、𥆝（偷视也）、髿（鬖髿，发美；髟髿，发垂貌）、𣯌（毛羽婆娑貌，通作娑、㲚）、䤬（䤬锣，小铜锣，或指水盆、酒器）、桬（桬棠，木名，出昆仑山）、梭（织具，所以行纬）、𥁲（𥁲盘，即娑婆，舞姿旋转轻盈）、𩡾（駞𩡾，马行貌）、桫（桫椤，蕨类植物，茎含淀粉可食）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "沙的字族四：音译字",
+      "statement": "音译字：裟（袈裟，和尚的百衲衣，由许多杂色小块布拼成，梵文音译）、逤（逻辑、逻逤，吐蕃地名，即拉萨，音译）、唦（象声字，声如响沙）、猀（古代中国广西少数民族之一）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "羔的本义：毛浅如沙的小羊，或烤全羊",
+      "statement": "羔（羙𦎴𦏠𦍚）本有两个字源：一从羊从沙，沙指毛浅如沙粒一般的羊（包括小羊或黑羊，《玉篇》「羊子」，《论语·乡党》「缁衣羔裘」皇侃疏「羔者，乌羊也」），或从二羊表示十分小，同时「沙」本同「小」也可指小羊；一从羊从火，象意烤全羊——《礼记·内侧》载周时「八珍」之一「炮牂」即烤全羊，今日北方及蒙古、新疆维吾尔族仍有此美食，所用羊一般为两三岁的小羊，故引申代指小羊。《说文》「羊子也，从羊照省声」。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "羔的辩证：山火形近致「羔」「岳」相混",
+      "statement": "由于「山」跟「火」的字形十分相似，「丘」又跟「羊」近似，可能造成「羔」「岳」相混。「岳」本崇山之形，《集韵》「嶽，古作岳」；因此羔的衍生字若跟山有关，应属「岳」之误。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "羔的字族一：烤羊及相关事物",
+      "statement": "指烤羊、表示相关事物的字：餻（糕，饵属，质地酥脆的小食品，多系烤、煎、炸而成）、窯（烧瓦灶，即窑，本应指烤羊）、䅵（禾皮，疑指烤羊用的糠秕，或指其焦黄之状如烤羊羔）、蓔（草貌，禾秆的皮）、羹（五味调和的浓汤，大约本指羊肉汤）、禚（齐地名）、𨞿（不羹，邑名，通作羹）、榚（木长貌）、溔（浩溔，水无际）、㚠（长大貌，肥也）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "羔的字族二：羊羔及相关情状",
+      "statement": "指羊羔、表示相关情状的字：𦎴（俗羔字）、𦏗（小羊）、𠏖（𠏖侃，多智）、𣣵（出气也）、𣯇（毛布，同褐）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "羔的字族三：形近字「岳」之讹",
+      "statement": "形近「岳」而讹的字：㟱（山貌，《正字通》「嶕字之讹」）、𨶅（门大开貌，《正字通》「讹字」）、䫞（《说文》「头也」，额大貌；应即𩓥，《说文》「面前岳岳也」）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "率的本义：掺入沙子的绳索，即锯玉的绳锯",
+      "statement": "率（卛）甲骨文从糸沙声：「糸」指线绳，从「沙」象意掺入沙子的绳索，这种绳子一般是原始先民用来切割玉石的，即「𠞩」的初文，《玉篇》「割断」。良渚文明遗址出土过距今约五千年的「率」。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "率的转义：因循、法度、率领、粗率",
+      "statement": "绳锯时得沿着印记来回拉动，故引申指因循（《玉篇》「循也，尊也」）；或引申指法度、标准（lǜ，《正字通》「法也」，《广雅》「校也」）；由拉绳之状引申指带领、劝勉（《玉篇》「将领也」，《广韵》「领也，将也」）；绳上的沙粒不会规整，锯出的口子也不规整，由此引申指大略、粗率（《韵会》「大略也」），或轻易（《论语》「子路率尔而对」注「轻遽貌」）。《说文》依小篆视同于「毕」（捕鸟毕），所释不确。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "率的字族一：拉锯，表示率领、循行",
+      "statement": "指拉锯、表示率领循行的字：䢦（《说文》「先道也」，《玉篇》「引也，今为帅」）、𧗿（《说文》「将卫也」，《玉篇》「循也，导也」）、𦆾（粗绳索，《说文》「素属」，《释名》「悬下圹曰繂，繂，将也，徐徐将下之也」）、鋝（重量单位，《说文》「十铢二十五分之十三也」，引《周礼》「重三锊」）、𠌭、𢕑（行貌）、𢟳（忧闷也）、膟（血祭肉，《说文》「血祭肉也」，亦指肠间脂，即如附着在锯绳上的沙子）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "率的字族二：锯开之状，表示跌落、割开、粗率",
+      "statement": "指锯开状、表示跌落割开粗率的字：𠞩（割也、断也；chì，割声）、㻭（玉英华相带如瑟，玉鲜艳光洁，即经琢磨后的玉，通作瑟）、摔（摔抾，弃于地也；丢、摆脱、掉落、跌倒）、䔞（始也，一曰艸莩甲出也）、𤗪（板也）、𣘚（木名）、𧜠（短衣，用兽毛或粗麻制成的衣服）、𥡢（粝米、糙米）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "率的字族三：锯声，表示声音小而连续",
+      "statement": "指锯声、表示声音小而连续的字：𠻜（《说文》「小㱃也」，啜饮，亦象细小之声）、𩘱（风声）、𩴐（鬼名）、蟀（蟋蟀，触角比躯体长，雄者善鸣好斗；《诗经·豳风·七月》「十月蟋蟀入我床下」写其随天气转冷而迁徙，鸣声往室内移动如在催促纺织备冬衣，故名「促织」）、𪅄（鹁𪁽，鸟名）、𪖶（鼻声）。",
+      "boundary": "源自《系统汉语》第240部「沙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𧴪的本义：小的贝壳",
+      "statement": "𧴪（𧴲䇖）从贝从小，象意小的贝壳，《字彙》「小贝也」。",
+      "boundary": "源自《系统汉语》第241部「𧴪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𧴪的转义：链条与细碎的声音",
+      "statement": "小贝壳在古代有特殊用途，或作装饰、或作货币，使用时都需用绳穿成一串，故引申指链条（此义分化如「锁」，《正字通》「以铁𤪹纽相贯为索，亦曰锒铛」）；成串的贝壳动起来会发出碰撞声，故引申指细碎的声音，《说文》「贝声也」。",
+      "boundary": "源自《系统汉语》第241部「𧴪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𧴪的音源：本「小」声，古𧴪、沙通用",
+      "statement": "𧴪本「小」声。古𧴪、沙可通用：《左氏春秋·成公十二年》「公会晋侯、卫侯于琐泽」，琐泽《公羊传》作沙泽；《定公七年》「齐侯、卫侯盟于沙」，「沙」《左传·定公七年》作琐。",
+      "boundary": "源自《系统汉语》第241部「𧴪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𧴪的字族一：贝串，表示成串的物体与纹饰",
+      "statement": "指贝串、表示成串物体或纹饰的字：锁（铁锁、门键，以钥匙或暗码打开的封缄器；亦谓以铁环互相贯为索）、琐（《说文》「玉声也」，玉件相碰的细碎声；《韵会》「细也，小也」，《博雅》「琐，连也」，凡物刻镂罥结交加为连琐文者皆曰琐；青琐为宫禁代称）、䐝（《说文》「觷也」，脂肪肥厚，与脞义通）、𢱡（揣击也，一曰动也）、䞆（骨也）、𧎫（𧎫蛣，一种蚌，又叫海镜，体内有小蟹寄生）、𩌆（革锁也）、溑（《说文》「水也」，读若琐）。",
+      "boundary": "源自《系统汉语》第241部「𧴪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𧴪的字族二：小贝，表示硬的颗粒",
+      "statement": "指小贝、表示硬颗粒的字：䵀（《说文》「小麦屑之核」，磨麦也，面不精也）、𩹳（鱼名）、𥔭（小石）、䣔（亭名，在河南）、𠝿（切也，一说斫直圜曰𠝿）。",
+      "boundary": "源自《系统汉语》第241部「𧴪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𧴪的字族三：拟声与音译",
+      "statement": "拟声、音译字：嗩（唢呐，簧管乐器名，源于波斯、阿拉伯一带，音译字）。",
+      "boundary": "源自《系统汉语》第241部「𧴪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "寽的本义：双手把取颗粒物，为「捋」之初文",
+      "statement": "寽（lǜ）从𠬪中间有圆点，象意双手把取颗粒物，是「捋」的初文，一般用于捋取长条上附着的东西，诸如捋取禾穗之实、麻皮的麻纤维、动物的肠脂等。《正字通》「一手持物，一手取之也」，《广韵》「持取，今寽禾是」。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "寽的转义：按摩与五指",
+      "statement": "由捋取之状引申指按摩（《玉篇》「摩也」），或引申指五指（《玉篇》「五指也」）。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "寽的音源：捋物声，义音同「聿」",
+      "statement": "寽是音源字，音源取自捋物之声。双手握物如持篙，故义音同「聿」。《说文》「五指持，从𠬪，一声，读若律」——「一声」应非。「率」是持绳，故古寽、率也可通用：《史记·周本纪》「其罚百率」，朱骏声《通训》「叚借为锊」。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "寽的字族一：捋取本义",
+      "statement": "指捋取本义的字：捋（《说文》「取易也」，用手指轻轻摘取，《广韵》「手捋也，取也，摩也」）、䟹（蹶䟹，跳踉貌；当指用脚踩蹂捋取）。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "寽的字族二：细长而斑驳的样子",
+      "statement": "指细长而斑驳之貌的字：锊（重量单位，即锾，《说文》「十铢二十五分之十三也」）、埒（《说文》「卑垣也」，环绕的矮墙，引申为等）、浖（湄浖，厓也；山上有水曰浖，通作埒）、㽟（耕田起土，俗埒字，即田界义）、脟（《说文》「胁肉也」，肠间脂肪；luán，割也，臠或作脟）、㸹（牛白脊也）、㭩（木名，可染缯；桅杆）、蛶（虫名，螪蚵）、酹（《说文》「餟祭也」，将酒呈线状慢慢滴注于地祭奠）、哷（鸡鸣也，公鸡伸颈而鸣）、𢚃（劣，劣弱、鄙、少）、㲕（毛色斑也，鸟羽斑色，马毛杂斑）。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "寽的字族三：分化作「𤔂」与形近「𢌳」之讹",
+      "statement": "分化作「𤔂」表捋取（《说文》「撮也，从𠬪从己」，撮取），及𦳡（菜名、草名）、𢯳（拈也，断绝也）；形近字「𢌳」之讹：頱（頱頢，面丑；《正字通》「頯字之讹」，颧骨）。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𤔔的本义：双手缫丝，为「乱」之初文",
+      "statement": "𤔔（亂之初文）甲骨文从幺从𠬪：「幺」指丝，从「𠬪」指双手治理，象意缫丝；西周金文或添加绕丝于架上之形，或加「㗊」迭加声符，表示络丝时因架子转动而发出连绵响声。《尔雅·释诂》「治也」，《玉篇》「理也」。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𤔔的转义与借音：缫丝如捋",
+      "statement": "丝线众多，故引申指纷乱（《集韵》「乱，紊也」，《玉篇》「兵寇也」）。《说文》「幺子相乱，𠬪治之也」析形不确。𤔔是借音字：缫丝如捋，故义音同「寽」——《汉书·司马相如传》「脟割轮焠」颜师古注「脟，字与脔同」，《吕氏春秋·察今》「尝一脟肉」，《太平御览》引作「脔」。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𤔔的字族一：治理、顺从",
+      "statement": "指治理、顺从的字：乱（乱，《说文》「治也」，《玉篇》「理也」；又横渡，《尔雅》「正截流曰乱」；古指乐曲的最后一章）、覶（《说文》「好视也」，覶缕，委曲也）、𡡗（《说文》「顺也」，顺从；luàn，烦也，通作乱）。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "𤔔的字族二：纷乱、细弱",
+      "statement": "指纷乱、细弱的字：𢿳（《说文》「烦也」，烦乱）、薍（《说文》「𦵹也」，初生的芦苇；小蒜的根曰薍子）、𠏢（弱也）。",
+      "boundary": "源自《系统汉语》第242部「寽部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "頪的本义：分辨米粒，米粒细小相似难分",
+      "statement": "頪（類𩑩）从页从米，象意分辨米粒状：米粒小、数量多而形状相似，所以难以分清；或指色白。《说文》「难晓也，从页，从米，一曰鲜白貌」，臣铉等注「难晓，亦不聪之义」。",
+      "boundary": "源自《系统汉语》第243部「頪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "頪的转义：物的同类与眼睛模糊",
+      "statement": "由米粒的相似引申指物的同类，此义后分化为「类」（从犬、或从分、或从豕，今简作类），如类别、分类、种类（《广韵》「类，善也，法也，等也，种也」）；由分辨不清引申指疾病、眼睛模糊（《广雅》「疾也」，《通训》「视不明也」）。",
+      "boundary": "源自《系统汉语》第243部「頪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "頪的音源：本米声，义音同「寽」",
+      "statement": "頪本「米」声；因有处置细小而多之物的意思，故义音同「寽」：《集韵》「酹，《说文》饌祭也，或作𩛝、𤁾」。",
+      "boundary": "源自《系统汉语》第243部「頪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "頪的字族一：米粒状，颗粒如米",
+      "statement": "指米粒状、表示颗粒如米的字：纇（《说文》「丝节也」，丝有小疙瘩如米粒，引申指缺点、毛病）、蘱（一种蒲草，似蒲而细，可用以编席制绳）、𡔇（块土貌，土块）。",
+      "boundary": "源自《系统汉语》第243部「頪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-43-sha",
+      "title": "頪的字族二：米粒相似，表示类别或分不清",
+      "statement": "指米粒相似、表示类别或分不清的字：禷（《说文》「以事类祭天神」，根据具体事类需要去祭祀天神）、𥌨（目不明）、𤁾（以酒祭地，或作酹）。",
+      "boundary": "源自《系统汉语》第243部「頪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
