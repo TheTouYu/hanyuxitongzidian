@@ -1,0 +1,515 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷六十五 鼻（394.自部至398.皕部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "卷六十五音源字：自象鼻形，音源鼻息声",
+      "statement": "本卷音源字为「自」，甲骨文象外鼻之形：上为鼻根、中为鼻尖、下为鼻翼和鼻孔；音源自鼻子的呼吸声。或二叠作「皕」，指急促呼吸。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/65a-bi.md",
+      "topic_title": "卷六十五·鼻",
+      "topic_summary": "《系统汉语》卷六十五「鼻」第394–398部（p1135–p1144）：394.自部、395.畀部、396.四部、397.西部、398.皕部；音源字「自」象鼻形，音源鼻息声。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "鼻为呼吸孔道，是「有气无气」的生命表征",
+      "statement": "中国文化以气为构成世界的最基本元素，《黄帝内经》「在天为气，在地为形」「无气则死矣」；判断生死即摸有无气息，而气由鼻进出，故鼻是「有没有气」的外在表征。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "古人以鼻为受孕成胎最先成型之官，故「鼻」训「始」",
+      "statement": "扬雄《方言》：「鼻，始也。兽之初生谓之鼻，人之初生谓之首。梁益之间，谓鼻为初，或谓之祖。」胚胎两月末已具眼、鼻、唇、手腕、脚掌，鼻显得特别大，故鼻有「始、初、祖」之义。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "「自」由指鼻转指自己，再引申为介词、副词与「始」",
+      "statement": "人说到自己时常指着自己的鼻子，故「自」由鼻子义转指本人（《集韵》「己也」），再引申出介词「从、由」、副词「本来、当然」，又引申出动词「始」。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "鼻是呼吸兼嗅觉器官，各纲脊椎动物结构不同",
+      "statement": "鼻属高度分化的化学感受器官，对识别环境、辨认敌我、归巢、捕猎、避敌、寻偶、觅食有重要作用；一般由外鼻、鼻腔、鼻旁窦组成，鼻腔下部粘膜血管丰富可调空气温湿，鼻旁窦助调节温度湿度和音色。圆口纲一个外鼻孔和单个嗅囊；鱼类成对外鼻孔与嗅囊（软骨鱼在吻部腹面、硬骨鱼在背面）；陆生脊椎动物出现内鼻孔，鼻腔兼嗅觉与呼吸；两栖类一部分变形为犁鼻器；爬行类嗅觉发达、鼻腔与嗅粘膜扩大；鸟类似爬行类；哺乳类有次生腭、内鼻孔后移至咽部，鼻腔扩大并出现鼻甲骨，嗅表面积大增。水栖种类（鲸、海牛）嗅觉退化，狗等嗅粘膜扩至鼻腔外、极灵敏，故表气味的「臭」从犬。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "嗅觉与气论：四气五味与中医、道家吐纳",
+      "statement": "万物皆有其气味，中国很早形成完整的气论哲学，是传统自然观的基础与核心。中医以天气成寒热温凉四气、地气成酸苦甘辛咸五味，《素问·阴阳应象大论》「气厚者为阳，薄为阳之阴……辛甘发散为阳，酸苦涌泄为阴」，据药物气味之偏调节脏腑。道家更有导引吐纳养生术，《庄子·刻意》「吹呴呼吸，吐故纳新，熊经鸟申」，《抱朴子·对俗》「得道之士，呼吸之术既备，服食之要又该」。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "鼻息三声：呼吸 si、喷嚏 qi、嗅闻 xiu",
+      "statement": "动物呼吸与嗅闻都会发声，受刺激打喷嚏时尤明显。一般呼吸几乎没有声音，大致为「si」声；「qi」大约是喷嚏声；特意嗅闻则发出「xiu」声。呼噜声是鼻息肉堵塞、从口腔发出的声音，不入此列。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "本卷五部皆与鼻或气息相关，西、㐁因「安息」相通",
+      "statement": "本卷所归属的「自、四、乞」都与鼻子或气息直接相关；人只有安静歇息时才能听到鼻息声，故与歇息有关的鸟巢「西」、席子「㐁」也与之音义相通。古西、自可通：《诗·邶风·新台》「新台有洒」，「洒」《说文系传》「𣿒」字条引作「𣿒」，而「𣿒」从自声。",
+      "boundary": "源自《系统汉语》卷六十五「鼻」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "自本义象鼻形，转指本人、开始与缘由",
+      "statement": "自甲骨文象外鼻：上为鼻根、中为鼻尖、下为鼻翼鼻孔。鼻子处面部正中，人指示本人时常指鼻，故引申指本人（《集韵》「己也」）；能否呼吸是生命存在的表征，古人认为生命孕育先从鼻开始，故引申指开始、缘由（《广韵》「从也、用也、由也、率也」）。音源字，源自鼻子的呼吸声。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "自字族①：鼻状，外硬而内空",
+      "statement": "垍，坚硬之土（《说文》「坚土也」），今人以名陶器；郋，汝南邵陵里名。皆取鼻「外硬内空」之状。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "自字族②：鼻息，自称、鼾声、高声",
+      "statement": "咱，俗称自己（《篇海》）；㞒（屭），卧息、鼾声（《说文》「卧息也」，徐铉「自，古者以为鼻字，故从自」），又表壮大之貌；詯（䛛），胆气满、声在人上（《说文》），又休市、决后悔。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "自字族③：鼻涕，牵连不断与汁液",
+      "statement": "臮（𡮧），众词与也，从乑自声，甲骨文即「眔」之形讹，本指鼻涕——鼻涕牵连不断故有及、暨义，小篆讹作「眔」形；𣽍，水名；洎，往锅里灌水（《说文》「灌釜也」），又肉汁、润、及；𦤢，败貌，又鱼名。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "息本义为鼻孔、呼吸，转安定停止、消失返归、生长与利息",
+      "statement": "息甲骨文本从自从𠔁，与「𠔌」构型相同，本义指鼻孔——鼻孔为呼吸之道，故指呼吸（《增韵》「一呼一吸为一息」）；金文从自十声，象呼吸绵绵不绝；战国古文从心从自，表心跳与呼吸同为活着的表征（《说文》「喘也，从心从自，自亦声」）。呼吸本出自然、安静时才觉其存在，故引申安定、停止（《广韵》「止也」、《广雅》「休也、安也」）；由气息出入引申消失、返归（《字彙》「绝也」、《广雅》「返也」）；呼吸意味生命进行，故引申生（《集韵》「生也」），又引申利息（「出钱生子亦曰息」）、儿子（《正字通》「子息，子吾所生者，故曰息」）。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "息字族①：鼻状，凸起或内空",
+      "statement": "㮩，樻树，肿节可为杖；瘜（𦞜），寄生的肉疙瘩，《方书》「鼻肬曰瘜肉，亦谓之瘜菌，鼻通息，故从息」；鄎（𨻁），姬姓之国，在今河南息县；螅（蛓、蟋），毛虫、蟋蟀，今指水螅；𥰝，簨𥰝，竹器；𪃼，鸟食，又鸟名。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "息字族②：呼吸，滋生与休息",
+      "statement": "媳，子妇（《字彙》「俗谓子妇曰媳，通作息」）；熄，蓄留的火种（以灰掩炭保留火种，故又有熄灭义）；憩（愒、偈、𡳅），休息，从舌指张着口喘气、疲劳时出气不赢之状；蒠，菲草即诸葛菜、二月兰，宿根不断、冬春可采；㴧，水貌、水名；䭒，气息、食、长；𠺒，哱𠺒相当于「呸」，表斥责唾弃。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "息字族③④：音译「鎴」与形近之讹「𩔨、𨃡」",
+      "statement": "鎴为化学元素「锶」的旧译；𩔨为「顖」（脑门）之讹，𨃡为「跽」（跪跽）之讹，皆形近而误。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "辠（罪）本义为割鼻或鼻上刺字，秦改辠为罪",
+      "statement": "辠从自从辛：「辛」指刻刀，从「自」象割鼻或在鼻子上刺字，以示对罪犯的惩罚并标明身份（《说文》「犯法也，从辛从自，言辠人蹙鼻苦辛之忧；秦以辠似皇字，改为罪」）。而「罪」本从网从非：「非」指翅膀代指鸟，从网指网捕鸟，亦引申指捕鱼竹网。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "辠字族①：鼻状，流涕与凸起",
+      "statement": "𣿒，水色清新之貌（《说文》「新也」，段注「谓水色新也，如玉色鲜曰玼」）；崔（㠑、磪），山林丛集、山高之貌；𤻁，痤𤻁，疖子；𥼺（䊫），稻之赤米。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "辠字族②：网罗，拉、损、捕捉",
+      "statement": "𢶓（𢶀），摸也，又拉也，又《方言》「损也」；檌，倒损（《方言》）；𨗻与「逮」同。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臬本义为射箭的靶子，转门梱、测影杆、极与法度",
+      "statement": "臬（帠、槷）从木从自：指样子像鼻子一般直竖在中间的木桩，即练射用的靶子（《说文》「射准的也」）。由射的之状引申指类似物体——《集韵》「闑，门梱也，或作臬、槷」，即门中竖立的短木；又指古代测日影的杆柱（《周礼·考工记·匠人》「置槷以县，眡以景」）；由臬的用途引申指极（《小尔雅》「极也」）、法度（《广雅》「法也」）。音源：本「自」声，义音同「儿」——《易·困》「困于葛藟，于臲卼」，吕祖谦音训引晁氏「古文作倪㐳」。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臬字族①：臬状，竖立与耸立",
+      "statement": "闑，门中竖立的短木（《说文》「门梱也」）；嵲（嶭、𡸣、𡶫、𡸢），嵽嵲，山高；臲，臲卼，不安；㙞，山小；㴪，水名。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臬字族②：鼻子，割鼻、梦呓、破罂",
+      "statement": "㓷（劓），割掉鼻子之刑（《说文》「刑鼻也」，甲骨文本从自从刀）；寱（䆿），说梦话，鼻音重而含糊不清；甈（𤮅），空壶、漏风的破罂瓶，指中空如鼻（《广雅》「裂也」）。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臬字族③④：音译「镍」与形近之讹「梟、暞」",
+      "statement": "镍为元素 Ni 的译音；𠹑（嘄），叫也，一说嘄讹；鷍为「枭」（不孝鸟、猫头鹰）之讹；暞为「曒」（明也）之讹，一说「暤」之讹。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臭本义为狗鼻子、嗅气味，转指各种气味与腐败",
+      "statement": "臭（齅、𣧁、𦤀）从犬从自：指狗鼻子——狗嗅觉最灵敏，故指闻气味（《说文》「臭，禽走，臭而知其迹者，犬也，从犬从自」，徐铉「自，古鼻字，犬走以鼻知臭」；《集韵》「逐气也」）。由狗的嗅觉引申指各种气味（《广韵》「凡气之总名，俗作臰」），或专指香气（《正字通》「又香也」）、难闻气味（《玉篇》「恶气息」），又引申腐败、丑恶、狠。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臭字族①：嗅气味，或嗅闻之状",
+      "statement": "齅（嗅），以鼻就臭（《说文》「以鼻就臭也，从鼻从臭，臭亦声」）；𧽒（䠗），狗边嗅边走以搜寻猎物，义音同「寻」；螑，赳螑，龙伸颈而行之状，即如嗅闻气味；搝，搝揭，手举；㱗，息也；𩈸，𩈏𩈸，面丑。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臭字族②：气味，干粮、腐气与化学元素",
+      "statement": "糗，炒熟的米麦干粮，有香气、吃多易致屁多故从臭；𥽙，干饭屑；𩝠，同糗（旧注「食物烂」误）；臰（殠），腐烂的气味（《说文》「腐气也」）；溴，水气，今指卤素元素 Br；䍹（羴），羊臭。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "臭字族③：形近「狊」之讹",
+      "statement": "鄓，臭也，又古地名，为「郹」之讹；𤚯，旧注「兽似熊」，为「犑（牛属）」之讹。",
+      "boundary": "源自《系统汉语》第394部「自部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "畀本义为箭镞，转赐予，字形与甶、𢍉、卑相混",
+      "statement": "畀（𢌿、𢍁、𢍉）甲骨文本象矢有镞形，指箭镞——箭镞扁平与「甶」形近，遂演变成「甶」，为「錍（pī）」之初文（《方言》「凡箭簇胡合嬴者，广长而薄镰，谓之錍」）。箭镞使箭矢更锋利、射得更远，故有赐予义（《说文》「相付与之，约在阁上也，从丌甶声」）。因其字形与「𢍉、卑」相近而义亦近，直接以「畀」为声旁的字多混写作「卑、𢍉」；而其衍生字「鼻」另行成新字族。",
+      "boundary": "源自《系统汉语》第395部「畀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "鼻从自畀声：鼻形如箭镞，畀为叠加声符",
+      "statement": "「鼻」从自畀声：「自」本鼻子的象形，「畀」指箭镞，因鼻子样子如箭镞一般——鼻梁尖而鼻翼宽、呈三角状，故以畀为叠加声符。音源：「鼻」的初文本为「自」，故音义同。",
+      "boundary": "源自《系统汉语》第395部「畀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "鼻字族①：鼻子及与之直接相关的事物",
+      "statement": "鼻，人和动物呼吸兼嗅觉的器官（《说文》「引气自畀也，从自畀」）；引申指印纽（《广雅》「印谓之玺，钮谓之鼻」）、器物隆起及突出部分，即「象鼻子一般」；《方言》「鼻，始也……人之胚胎，鼻先受形，故谓始祖为鼻祖」。嚊（呬），喘息声，又东夷谓息曰呬，又同嗅。劓（㓷），割鼻之刑；𨞳为劓之讹。擤，捏住鼻子用气排出鼻涕，义音同「醒」。",
+      "boundary": "源自《系统汉语》第395部「畀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "鼻字族②：性状如鼻子，水声、短裤、肿大与蝙蝠",
+      "statement": "濞，水暴至声，即如鼻涕不时流出；襣，无裆之裤、合裆贴身内裤（《方言》「无𧙥之袴谓之襣」）；䑄，盛肥、盛、壮大，又𦞜肉；䕗，草名；痹（𤻖），风湿性关节炎，手冷痛、指关节膨大僵硬；𦤫（䫁），犬初生子、首子（旧注「音鼻，首也」无稽）；𧓧，同蝙，蝙蝠倒挂似鼻。",
+      "boundary": "源自《系统汉语》第395部「畀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "四本义为四根算筹横排的表数之形，因字形如鼻而义音同自",
+      "statement": "四（亖、肆、龱、𠁤、𠃢、𦉭、𡆦）甲骨文本为四根算筹横向排列之形，表示数字四；春秋后或象圜钱与蚁鼻钱形，或象将「八」圈起、用「二」表八之半，或省「二」遂成「四」字（《说文》「阴数也，象四分之形」）。音源：借音字——因字形如鼻，故义音同「自」（《尔雅·释诂》「呬，息也」）。",
+      "boundary": "源自《系统汉语》第396部「四部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "四字族①：数字四，四岁牛、驷马、泗水",
+      "statement": "牭（㹑），四岁牛，又牛凶狠——指牛发怒时喷鼻、气咻咻；驷，一乘、四马一乘；泗，淮河支流，源出山东泗水县东蒙山南麓、四源并发故名，又涕泗（鼻涕）；𢪾，整而不乱。",
+      "boundary": "源自《系统汉语》第396部「四部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "四字族②：鼻子，鼻形、鼻息、鼻涕",
+      "statement": "呬（𠰝），东夷谓息为呬，喘息、嘘气；怬，欣喜，又同呬、休息；伵（侐），清静寂静；訵（䜉），阴知、伺察，「沅澧之间相问而不知，答曰䜉」；𥹊，酒糟；柶，古代舀取食物的礼器、形如勺多用角制，指其状如鼻；𧣛，角也，与柶通。",
+      "boundary": "源自《系统汉语》第396部「四部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "西本义为鸟巢，转指日西落与西方，借音义同息",
+      "statement": "西（栖、卤、卥、㢴、㐁、覀、𠧜、𠧪）甲骨文象鸟巢形，指鸟窝（《说文》「鸟在巢上，象形。日在西方而鸟栖，故因以为东西之西」）。由鸟归巢引申太阳西落，从而借指西方——五行西方对应金、季节为秋（《集韵》「金方也」、《广韵》「秋方」）；由鸟巢之状引申指量器（《集韵》「平量也」）。辨证：其字形与指乳房的金文「𠧟」、指盐池的甲骨文「卤」、指囟门的甲骨文「囟」、指烟囱的小篆「囱」、指油脂的小篆「由」、指栗粟的甲骨文「卥」十分相似，混淆相当厉害，须注意区分。音源：借音字——鸟窝为鸟所栖息处，故义音同「息」；古西、自可通用，《诗·邶风·新台》「新台有洒」，「洒」《说文系传》「𣿒」字条引作「𣿒」。",
+      "boundary": "源自《系统汉语》第397部「西部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "西字族①：鸟巢，日晒、雨淋、摇动",
+      "statement": "洒（洗、汛、灑、𣶇），涤也、洒水扫地，又散布、洒脱、肃恭、高峻（《诗》「新台有洒」）、惊貌（《庄子》「洒然异之」）；恓（悽、恤），烦恼不安，又「恤」之讹；徆，行也，走路时双手摆动；晒（曬），与曬同；哂（弞、吲），笑、微笑（《说文》「笑不坏颜曰弞」）；絤（綫、𦇫、線、綖），线、缕；跴，追踪、践踏。",
+      "boundary": "源自《系统汉语》第397部「西部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "西字族②：鸟的栖息，栖宿、迁居、窝状",
+      "statement": "栖（棲），鸟栖宿；䙵，姓也，又鄙；拪（扡、𢼏），迁徙、挪窝（与「迻」同）；閪，粤语俗称女性外生殖器；舾，舾装——船上锚、桅杆、梯、管路、电路等设备与装置的总称及其安装工作。",
+      "boundary": "源自《系统汉语》第397部「西部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "西字族③④：音译「硒、氥、嗮」与形近之讹「価、粞、毢、茜」",
+      "statement": "硒为元素 Se 的译音，氥为元素「氙」旧称，嗮为语气词表强调。価为「佀」之讹写；粞（𥻏）为碎米；毢（鰓）为毰毢、鸟羽张开之貌，通作鳃；茜（蒨、芊、䒸）即茜草、可染绛，《本草》一名地血、风车草、过山龙，实为「䒸」之讹。",
+      "boundary": "源自《系统汉语》第397部「西部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "皕本义为鼻子很大、反应强烈，转盛怒与痛苦，《说文》二百说不确",
+      "statement": "皕（bì）据「衋」的西周早期金文，应从「自」的二叠：「自」指鼻子，二叠表示极致，故象意鼻子很大，或反应强烈。鼻子是呼吸器官，由呼吸急促之状引申指盛怒——此义分化如「奭（shì）」（《集韵》「吓，怒也，或作䓇、奭，通作赫」）；鼻子易因受刺激流涕或流血，故引申指痛苦——此义分化如「衋（xì）」（《说文》「伤痛也」）。辨证：「自、百」形近而讹变从「百」，故《说文》「二百也」，然「二百」作此写法反而繁复、不合书写习惯，所析应不确；「自」与「㐁」也相近，故或相混。音源：音源字，源自鼻息声。",
+      "boundary": "源自《系统汉语》第398部「皕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "皕字族①：鼻息急促，盛怒",
+      "statement": "奭（𡚐、䓇、赫、吓），盛也，从大从皕、皕亦声，为燕召公之名，读若郝；《集韵》「吓，怒也，或作䓇、奭，通作赫」；又赤色（《正字通》）、减也（《广雅》）、惊视貌（《广韵》）；因形与「𥇛」相近或相混。",
+      "boundary": "源自《系统汉语》第398部「皕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "皕字族②：鼻子流涕，悲伤",
+      "statement": "衋（䀌），伤痛（《说文》「伤痛也，从血、聿，皕声」，《周书》「民罔不衋伤心」）；段注「聿者所以书也，血聿者取披沥之意」——「聿、血」应与「津」的结构类似，指血泊，「皕」指痛哭流涕之状。襫（𧞲），襏襫、雨衣、蓑衣，上小下大、披挂如鼻而沥雨如涕。",
+      "boundary": "源自《系统汉语》第398部「皕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-65-bi",
+      "title": "皕字族③：形近「㐁」之讹「弼」",
+      "statement": "𢐤（弼、𢐈、𢐀、𢐡、㢶、弻、㢸）诸形，《龙龛》以「弼」为今字，训辅、重、备；据「弼」的西周金文，应从「㐁（𠀬）」象席形，本为形近之讹。",
+      "boundary": "源自《系统汉语》第398部「皕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
