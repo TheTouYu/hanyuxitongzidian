@@ -1867,6 +1867,24 @@
       "summary": "《系统汉语》书末《疑難雜字筆劃檢字表》：《索引筆劃檢字表》的补充表，收不常用异体字、讹字、俗字与旧简体；按笔画与起笔编排，16 个笔画段、104 个起笔组、2372 条（2353 个不同字形），所附页码为正文页码 4–1753，可一跳到正文，与索引笔划检字表的两跳流程互补。",
       "keywords": [],
       "permission": "public"
+    },
+    {
+      "id": "topic-shuowu-qianyan",
+      "node_id": "hanzi-origin",
+      "title": "《说物解字》前言：汉字的声旁系统",
+      "path": "knowledge/hanzi-origin/shuowu-qianyan.md",
+      "summary": "《说物解字》（李银著，2021）前言的系统论：形旁不是系统、声旁系列才是系统；以「兆」九十余字族为例证；右文说至梁启超、沈兼士、陈寅恪的源流；与《系统汉语》510 个表声字根的关系；以物名验证字源的试金石方法；七卷 123 篇的体例与成书缘起。",
+      "keywords": [],
+      "permission": "public"
+    },
+    {
+      "id": "topic-shuowu-caohui",
+      "node_id": "hanzi-origin",
+      "title": "《说物解字》卷一：草卉",
+      "path": "knowledge/hanzi-origin/shuowu-caohui.md",
+      "summary": "《说物解字》卷一「草卉」33 篇的字理解读：苎麻（宁）、菖蒲（䓉）、香附（莎）、商陆（藰）、萧艾之辨、蒂（帝）、淡竹叶（菉）、紫苏（苏）、抱娘蒿（莪）、菱（芰）、覆盆子（葥）、蒺藜（齐）、五菜、葱、萱、苋（蒉）、鱼腥草（蕺）、蕨、荆、茅、青苔（青）、萝、楠竹（南）、笋、三母、苇、车前（芣苡）、蓼、蕈菌、薯、姜、芋、稻；每篇以物之性状证声旁本义，兼收名物、方俗与药理。",
+      "keywords": [],
+      "permission": "public"
     }
   ],
   "relationships": [],
@@ -38047,6 +38065,221 @@
       ]
     },
     "clm_554AC3757837209D336DF5CD2B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B6B61F74B3ADB8827190257B49": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_135D3CF656DD118B69E19CCADB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5386C67AD42473AFD0338A9A0A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D27FEEDE700C503FAEA9D549A8": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_EB486ACDD9B12A1E0B886DE968": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_74261936B8DC694E46A0773DAE": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B571DE0908621D47124647FAB4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1739962F016C243261637536BA": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4A8807D8890A2BCFC0092A7373": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A38B2093C345E752C49AC6F015": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3FC5FDFBEFE967CC281A9F04A4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_57415CD3544CDE68CE2A0F2096": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_4E5FC0015CA0864D112DF04691": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_978DDF313F887D8FDA51A55CF2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CC62FB6FB7626BED32A899400B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F7453602D49BC9865180FE7351": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D9B9164D7FB643716F3A425297": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5CFCF3E4536FDB529F132E912C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_BA6044D4EC61C10E3C7403181C": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_71B221C83F1116BB8ADED90D60": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_27061FCC491C003DDDC48AC9D2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D5A67C702DE8B9605F448F7E90": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_035D53328D6B9D6C798A078F50": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_8E6901D4121214AB49E274B2EB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6346BBE54C7D0F79D359FD000B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_40847FBD3FAE21C975A2F81A60": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6777454D08DDF6FA7D3FC1824B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1C8AB233C0E608294E835EED97": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_81B65C013A2B2DE5D3C874228A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_935300A352356D36BF88691E20": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_22979F77139CA451921AD613D3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6226198192E5C60C3159F88679": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3BC796886AA67AF8115C86B6C0": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_284AC1E31FCE32E31C4AFA511F": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_07738DBBF3D8819D5B09D16E08": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_34A9548D65A9F4F5DD6FD4D496": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_62B55FE8A97384304980FB6E75": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F26E51EB45A17755B5E0195C82": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3F0B840A3B6CDB0CCC93945448": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_62D4F5BB569F8833C67CCF2F98": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CF8D70DBC2D5F884626FB306F0": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B546C48B487B525FCC260A9632": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E90E2B4FE36AB5ADB493FDCA7A": {
       "fact_classes": [
         "evidence_scope"
       ]
