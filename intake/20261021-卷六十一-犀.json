@@ -1,0 +1,623 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷六十一 犀（353.犀部至358.孔部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "卷六十一音源字犀",
+      "statement": "卷六十一以「犀」为音源字，本作「兕」或「𤉡」，象犀牛形，其音源自犀牛的叫声。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/61a-xi.md",
+      "topic_title": "卷六十一·犀",
+      "topic_summary": "《系统汉语》卷六十一「犀」第353–358部（p1023–p1038）：353 犀部（p1023）、354 囟部（p1025）、355 囪部（p1030）、356 山部（p1032）、357 允部（p1033）、358 孔部（p1038）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀牛的形态",
+      "statement": "犀牛是陸生動物中最強壯的哺乳動物之一，約6千萬年前就已出現，現存黑犀牛、白犀牛、印度犀牛、蘇門答臘犀牛和爪哇犀牛5種。犀牛有異常粗笨的軀體、短柱般的四肢、龐大的頭部，全身披著鎧甲似的厚皮；體長2～4米、重達1～4噸，是第二大陸生動物；是有蹄動物，前腳和後腳都有3個趾頭；一般為灰色或棕色，除蘇門答臘犀牛外都沒有毛髮。犀牛皮雖很堅硬，但其褶縫裡的皮膚十分嬌嫩、常有寄生蟲在其中，故常要在泥水中打滾抹泥，而有一種犀牛鳥經常停在犀牛背上為它清除寄生蟲。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀牛角",
+      "statement": "犀牛最大的特點是它們的角：角長在鼻子上，一般為60～100釐米，白犀的角最長可達158釐米；種類不同，長角的數量也不同——非洲的白犀牛和黑犀牛都有兩隻角，亞洲只有蘇門答臘犀牛有兩隻角，其餘兩個品種都只有一隻角。犀牛角从皮膚中長出來，質地很硬，每年可以長7.6釐米；角雖是犀牛最厲害的武器，但卻是由毛髮構成的，折斷後可以再生，因此犀牛死亡之後犀牛角也會隨之消失。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀牛的习性与繁殖",
+      "statement": "犀牛眼睛很小而且近視，但聽覺和嗅覺很靈敏；愛睡覺、喜群居，小牛犢十分依戀母親，是些膽小無害、不傷人的草食動物，一般寧願躲避而不願戰鬥，不過受傷或陷入困境時卻異常兇猛、往往盲目地沖向敵人。犀牛過著獨居的生活，主要在早晚比較活躍，多數日子都會去水塘喝水或找個泥坑打滾（保持涼爽、避免昆蟲叮咬），活動有一個固定程式，總是在相同的時間裡走相同的路線；活動領域相交處常能發現一個公共的糞便堆，最終可達1.2米高、6米寬。犀牛四歲成熟，每3到4年生一隻小犀牛，孕期為18個月，小犀牛重達100磅，一生也只能生5～6胎，壽命可長達50年以上；母犀牛通常比較溫順，但跟幼仔在一起時會因為一點點刺激而發起攻擊，近距離奔跑速度可達40公里每小時、更能在很小的空間急速轉彎。犀牛利用聲音交流：用鼻子哼、咆哮、怒號，打架時還會發出呼嚕聲和尖叫聲，公犀牛和母犀牛求偶時都會吹口哨。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "中国犀牛的历史与甲骨记载",
+      "statement": "我國原來有3種犀牛：大獨角犀（印度犀）、小獨角犀（爪哇犀）和雙角犀（蘇門犀）。殷商時期黃河流域都有大量生存，稱其為「犀、兕、蔽、駁、麟」等，殷墟出土的甲骨卜辭中有「獲兕十又二」甚至「茲獲兕四十」的記載。1973年在余姚河姆渡新石器時代遺址發掘中發現了距今約6000年前的犀牛遺骸；2000年初浙江省文物考古所的專家在諸暨次塢樓家橋新石器時代遺址發掘中也找到了犀牛遺骸。當時捕獲犀牛主要是為了獲取其皮以做盔甲。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀皮甲、犀角器与「犀利」",
+      "statement": "《周禮·考工記·函人》記載「函人為甲，犀甲七屬，兕甲六屬，合甲五屬，犀甲壽百年，兕甲壽二百年，合甲壽三百年」；同時磨其角可為十分尖利的武器，故有「犀利」一詞；雕其角作為酒器稱「兕觥」，在《詩經》中屢見其名。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "周代犀牛稀少与孔子获麟",
+      "statement": "周時可能受氣候影響以及大量捕殺，犀牛已經十分稀少，偶有出現被視為驚奇，史籍都有記載：如《初學記》引《竹書紀年》「周昭王十六年伐楚荊，涉漢，遇大兕」；到春秋時期偶有犀牛出現，竟然已經沒人知道還有犀牛這種動物——《左傳》記魯哀公十四年春（公元前481年）西狩于大野，叔孫氏之車子鉏商獲獸，以為不祥，以賜虞人，仲尼觀之曰「麟也」，然後取之；《孔子家語》詳細記述孔子「反袂拭面，涕泣沾衿」，謂麟之至為明王、出非其時而害，故傷之，於是命弟子就地掩埋、堆了個大墳堆，就是現在位於巨野縣城東十二里麒麟鎮獲麟集村西北3里處的麒麟塚（1979年公佈為縣級重點文物保護單位）；《東周列國志》記述七十一歲的孔子埋葬麒麟之後撫琴悲歌「唐虞世兮麟鳳遊，今非其時兮來何求，麟兮麟兮我心憂」。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "麒麟的由来与中国犀牛的绝迹",
+      "statement": "从此以後，人們開始將犀牛異化為神靈、脫離了犀牛的實質，稱為「麒麟」，雄性稱麒、雌性稱麟，與「龍、鳳、龜」並列為「四靈」，是神的坐騎，為仁獸、瑞獸。但南方仍存有犀牛：即使到了清朝，由于已經十分少有，南方各省官員為了使犀牛角成為官府私有的財產，發出公告不許民間亂捕犀牛、只許官方獵殺，官兵打死犀牛當場把犀牛角鋸下，多數進貢給上司和皇上，當時最多出動上千官兵、一次能捕幾十頭犀牛，民間也有人為了發財大量偷獵。如此瘋狂捕殺，到公元20世紀初犀牛在中國所剩無幾，據當時官方資料1900年到1910年10年間官方和民間進貢的犀牛角尚有300多支，1922年後犀牛在中國銷聲匿跡。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "本卷诸部与犀角的关联",
+      "statement": "犀牛最突出的特點是頭上聳立的獨角，因此本卷所歸屬的字根都與之相關：其中最主要的是「囟」，指嬰兒的囟門——嬰兒的囟門未合、尚處于凹的狀態，為了起到保護作用常常為其蓄髮成角狀，故音義通；其它「囪、山、允」都是取聳立之意；而「孔」本是「兇（囟）」的同源字。",
+      "boundary": "源自《系统汉语》卷六十一「犀」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀的本义",
+      "statement": "犀象獨角的犀牛形，本作「兕」或「𤉡」（sì，《說文》「兕，如野牛而青，象形，與禽、离頭同」，《集韻》「一說雌犀也，古作兕、𧰽，或作𠒃、雉」）；西周金文演變成象聲字，从牛尾聲（xī，《說文》「犀，南徼外牛，一角在鼻，一角在頂，似豕，从牛㞑聲」）。",
+      "boundary": "源自《系统汉语》第353部「犀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀的转义",
+      "statement": "由于犀牛皮很厚，古代用其作鎧甲，故引申指堅牢（《玉篇》「堅也」，《集韻》「兵器堅也」）；犀牛角中空而堅牢，古人用其作為酒杯或飾品，如「兕觥」「金犀」；犀牛身軀龐大、行走遲緩，故引申指遲緩義，此義或分化作「屖（xī）」（《說文》「遟也」，《玉篇》「遟也，今作棲，亦作犀」）。",
+      "boundary": "源自《系统汉语》第353部「犀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀的辩证：本部当为屖部",
+      "statement": "根據「屖」的甲骨文字形，字本从卩从辛，跟犀牛應無關係：「辛」指刻刀，一般用于刻寫文字或紋身；「卩」為人跪跽之形，後來演化作「尸」；初義當指刻字或紋身，因刻的速度緩慢從而引申有遲緩之意。西周金文「犀」很可能是在「屖」的基礎上添加「牛」而成，本从牛屖聲；由于「辛、毛」形近遂演變成「犀」，因為「尾」並不能體現犀牛的什麼特徵。所以以「犀」為聲旁的「遲」，从甲骨文、金文乃至戰國古文都是从「屖」，小篆才寫成从「犀」。另外由于「卩」也可引申指符節之意，故「屖」另分化作「辟」，為「璧」的初文。因此从字根的角度來說，本部當為「屖」部。",
+      "boundary": "源自《系统汉语》第353部「犀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀的音源",
+      "statement": "犀为音源字，源自犀牛的叫聲；因犀有遲義，故義音同「師」（《春秋公羊傳·文公十六年》「六月戊辰，公子遂及齊侯盟于犀丘」，《穀梁傳》作「師丘」）。",
+      "boundary": "源自《系统汉语》第353部「犀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀字族：犀行迟缓与幼弱",
+      "statement": "此路指犀行，表示遲緩，或引申指幼弱。屖（𡱝𡳚𡥷）：遟也、滯留不進，又堅也。遲（遟迟）：徐行也（《詩》「行道遲遲」），又晚也、久也、緩也、待也。謘（䜄𡂙𡁂）：語諄謘也、語言遲鈍，又啍謘（語不正也）。摨（搱）：揩摨，摩也（揩擦、研磨），又摴蒲采名（古代類似擲骰子的賭博，用具為盤、杯、馬、矢，矢即五木，最初由樗木製成故稱樗蒲）。𧭟（謘𧭋）：言逸也（失言）。徲（𢔭𠌬𢕌）：久也、久待、後至，又徲徲（往來也）。稺（穉䆈𥣦稚）：幼禾也（幼小的禾苗）。𦼗：魚秧（魚苗）。𡟭：娃𡟭，媚貌。㜨：美也。",
+      "boundary": "源自《系统汉语》第353部「犀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "犀字族：犀牛皮与纹饰",
+      "statement": "此路指犀牛皮，表示紋飾相似，或指劃、塗。㓾（𠞂）：𠞮也（破皮），又㓾魚（破魚、劃開）。䙙（𧞽𧛺）：衣也。𦃘（𦆣）：紩也、針縫（用針縫補）。墀（𢹌𡎰）：塗地也（《禮》「天子赤墀」），又階上地、或同坻（水中高地）。樨：木名，桂花（俗名木樨花，樹皮紋如犀牛皮）。此路指犀牛角，表示形狀、紋飾相似：𧣶，俗兕字；𣖅（𣖸𣹲漽𣸒），研米槌、淘米水；厗（𥔈銻），唐厗石也、古銻字、鎕銻（火齊珠，即琉璃）；𧎨，蟲名蛭也（螞蟥）。",
+      "boundary": "源自《系统汉语》第353部「犀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "囟的本义与音源",
+      "statement": "囟（䏤䪿顖龱）象小兒腦門還未完全合攏的樣子（xìn，《說文》「頭會，匘蓋也，象形」）。囟为借音字：小兒時因囟門沒有合縫，人們為了保護它常蓄髮成獨角狀，故義音同犀；金文「犀」為裝飾性圖像，但在其腹部標以「囟」字，當起表音作用。",
+      "boundary": "源自《系统汉语》第354部「囟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "囟字族：囟门细小与凹进",
+      "statement": "此路指幼兒的囟門，表示細小：𠈈（𢇌佌），小貌（《詩》「𠈈𠈈彼有屋」）；𥿳（細），微也、細小。此路指囟門狀，表示凹進：䪿（囟），囟之古文、頂門也；㭡，𥲃也、經絲具，又㭡陽（山名）；𡜧，女字；𡶯，山名；𦤟，腋也、腋氣病（腋窩如囟，指狐臭）；𣳦（硇），水名（出汝南新郪入潁，即細水，今稱茨河、刺河，源出河南鹿邑縣南扶溝蒗蕩渠即古鴻溝，應是取溝如囟門之意），又硇沙（藥名，氯化物類鹵砂族礦物的晶體或人工製成品，不規則碎塊狀、有棱角、凹凸不平）；硇，硇沙（味辛鹹，是氯化銨的天然產物，內有孔）。",
+      "boundary": "源自《系统汉语》第354部「囟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "囟字族：形近字之讹",
+      "statement": "此路為形近字「幺、𣬉、白」之訛。䛜（𠱖）：古文訊字（甲骨文象人被繩系而訊問之形，不从囟，疑為幺之訛）。𧳄：獸名；《正字通》「貔字訛省，舊注音信、泛云獸名，誤，一曰貃之訛」。",
+      "boundary": "源自《系统汉语》第354部「囟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "凶（兇）的本义与转义",
+      "statement": "凶（兇㐫）象小孩囟門未合攏形，本同「囟」，甲骨文作「兇」、下面从「人」更為明確。由于囟門是人體的要害、幼兒此時最為孱弱，故引申指兇險、災禍（xiōng，《玉篇》「短折也、惡也、咎也」）；由于腦門未合會隨著心跳而湧動不止，故引申指擾動（《說文》「兇，擾恐也，从人在凶下」，《春秋傳》「曹人兇懼」）。",
+      "boundary": "源自《系统汉语》第354部「凶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "凶的辩证",
+      "statement": "由于戰國古文已如「凵（坎）」中有「×」形，故《說文》「凶，惡也，象地穿交陷其中也」以陷阱說解之，跟兇險之意雖合，但無湧動之意，故析形不確。",
+      "boundary": "源自《系统汉语》第354部「凶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "凶字族：囟门涌动与凹进耸立",
+      "statement": "此路指囟門的湧動，表示擾動貌：㚃（壹㚃，氤氳，不得泄、志不得伸，元氣交密貌，通作縕）、忷（兇恟，憂恐）、訩（𧧗詾，訟也、盈也、眾言、爭辯喧嘩紛擾、禍亂）、𣧑（古文凶）、酗（䣴䣱，醉怒、醉而亂）、𧿖（跫，人行聲，《莊子》「足音跫然」）、汹（洶，水勢）。此路指囟門或蓄髮之狀，表示凹進或聳立：㟅（𡼔，崆㟅，山峻、山高貌）、𤵻（肛，胮肛，腫也）、𥞝（稯緫緵，布八十縷為稯、十筥曰稯、禾束）、𨥍（銎，矛骹謂之銎、斤斧穿，即矛斧裝柄的孔）、𩰷（鬷，釜屬）。形近字「兄」之訛：𧵮（貺，賜也、與也）。",
+      "boundary": "源自《系统汉语》第354部「凶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "匈（胸）的本义与字族",
+      "statement": "匈（匃𦙄）甲骨文从「凶」在「人」的胸部，指心窩，為「胸（xiōng）」的初文——心窩本如囟門一樣，因心跳而湧動不止（《說文》「膺也，从勹，凶聲」）。此路指心跳，表示擾動、不安：胸（胷匈，膺也）；洶（汹，湧也、水勢）；詾（訩𧧗，說也、訟也、盈也、眾言、恐嚇）；哅（𩐠訩，喧鬧、大聲）；恟（忷，恐懼驚駭致使心狂跳的樣子）；硇（硇洲，島嶼名；硇砂藥石）。形近字「𣬉」之訛：𧲳（𧳄貔，貔貅）。",
+      "boundary": "源自《系统汉语》第354部「匈部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "㚇的本义与辨证",
+      "statement": "㚇（𡕩𡕫𡕢）本同「兇」，指囟門未合的幼兒，戰國古文加上了意符「夊」（「夊」指倒退，表示幼弱之意）。為了保護囟門，即使在今天，幼兒囟門部位的頭髮一般都會保留不剃，由囟門蓄髮之狀引申指叢聚（zōng，《玉篇》「聚也、最也」）。《說文》「㚇，斂足也，鵲鵯醜，其飛也㚇」所釋「斂足」之意雖通，但「凶」跟鳥飛實在扯不上關係，故所析不確。",
+      "boundary": "源自《系统汉语》第354部「㚇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "㚇、𡕢、鍐、錽的辨析",
+      "statement": "或楷化作「𡕢」：《字彙》「㚇，與鍐同，《晉書·輿服志》『金㚇而方釳』」，按《晉書》作「𡕢」；《正字通》「鍐，錽字之訛」；蔡邕《獨斷》「金鍐者，馬冠也，高廣各四寸，如玉華形，在馬鬉前」。可見「𡕢」其實應該是「㚇」，「錽」才是「鍐」的訛字——因為馬鬃也正如囟門所留髮一般故名之為「鬉」，其前的飾物便稱之為「鍐」。至於「𡕩」从「囟」，本同「㚇」，是最標準的楷化字；「𡕫」則為訛字。",
+      "boundary": "源自《系统汉语》第354部「㚇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "㚇字族：蓄发聚束高耸、幼小无知、敛足难行",
+      "statement": "此路指囟門的蓄髮，表示聚束、高聳：嵏（九嵏山，在馮翊谷口；峰聚之山曰嵏）、堫（䎫，穜也，不耕而種）、糉（粽，蘆葉裹米、角黍）、稯（布之八十縷為稯，禾四十秉為稯、禾聚束）、緵（繌䍟緫，布帛二尺二寸幅度內含經線八十根為一緵、粗布、九罭百囊罟、小魚罟）、鬷（釜屬，又總也、眾也、艸名）、騣（馬鬣、馬頸上的長毛、金騣馬冠）、鬉（髮亂、馬鬃毛）、鍐（鋄錽鎫，馬冠「金鍐高廣各四寸在鬉前」）、椶（栟櫚也，可作萆，棕櫚樹葉子簇生在頂端）、蝬（三蝬，蛤屬）、惾（刻賊不通、困惾氣臭熏鼻不通、壅塞不通）、鯼（石首魚，體員厚而長、似鱤魚、細鱗腹白、背微黃、性好噉魚）、𥓻（石名）、䁓（視也、小視、伺視、怒也）、𨍈（𨍉，輪也，言輻總入轂中也）。此路指囟門未合的小孩，表示幼小、無知：葼（青齊沇冀謂木細枝曰葼、小也、小藍曰葼）、猣（犬生三子）、傻（傻俏不仁、蠢笨不明事理、輕狂、小兒懵懂無知貌）、𧫝（𠻦，強事言語、強詞奪理）。此路指斂足難行：艐（𣹇，船著不行、船擱淺于沙灘、至也）、朡（艐隸作朡，船著不行、至也、三朡國名、狂病、以刑具斂足）、𦜒（河東謂腹為𦜒，應即朡之訛）、翪（鳥飛竦翼上下也）、㣭（𨔩，行也、數也）。",
+      "boundary": "源自《系统汉语》第354部「㚇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "恖（思）的本义与转义",
+      "statement": "恖（思）从心囟聲，指心腦活動：古人認為心腦都是思維的器官（《說文》「容也，从心，囟聲」，《集韻》「慮也」，《廣韻》「念也」）。由于腮也跟囟門和心臟一樣可以在裡面翕動，故引申指腮（sāi，《正字通》「頰旁，或作顋，俗作腮」），或指上面的鬍鬚（《集韻》「䯱䰄，多須貌，或作思」）。",
+      "boundary": "源自《系统汉语》第354部「恖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "恖字族：思索细密如丝与翕动不安",
+      "statement": "此路指思索，表示細密如絲：緦（𢆿，十五升布也、兩麻一絲布、六百縱線織成的麻布，《釋名》「緦，絲也，績麻細如絲也」，製作喪服的細麻布，為關係疏遠的親屬所服，故引申指較為疏遠的親屬關係）、䰄（小髮、多須貌）、𢛥（厚也）、𧍤（蛓蠔䗹𧉠𧊸𧏀，毛蟲也、有毒螫人）、䚡（角中骨也）、鍶（鐵器，又金屬元素 Sr，化合物燃燒時發出紅色火焰，用來製造焰火，亦可入藥）、𥻏（粞，碎米）、𨜐（漢侯國名）、𥯨（竹名，皮上有文可為錯子，製成琴樣為礪甲之具，用久微滑以酸漿漬之過宿快利如初，亦可作箭；𥯨簩竹一枝百葉、有毒如堇）、罳（罘罳，屏也，張在窗戶或屋簷下防鳥雀的網；或指古代宮殿城牆四角上的小樓用于守望；《正名》謂罘浮也、罳絲也，織絲文輕疎浮虛之貌）。此路指囟動，表示翕動不安：鰓（魚頰、魚腮；xǐ 為畏懼貌）、腮（顋，兩頰的下半部）、楒（相楒，木名，通作思——相思樹，豆科蔓生灌木，葉為羽狀複葉狀如魚鰓、花呈蝶形）、颸（𩗮，涼風也、疾風）、𪕳（風貌，指老鼠的悉悉索索）、偲（𤟧，強力也、強壯的材力，又偲偲相切責、詳勉、不安）、禗（神不安欲去意）、𪃄（鳥名）、𠖓（姓也）、諰（思之意、邊說邊想、直言、憂懼、語失、呼彼稱）、愢（偲，意不合、相切責、謙和）、毸（𣯯，毰毸鳳舞貌、鳥羽張貌、通作鰓）、揌（振也、撎揌也、震動、把東西填入或胡亂放入、擇也）、葸（畏懼也、慎也、質愨貌、難順也——大約是指草覆蓋的樣子、下面可能是陷阱故要謹慎小心）、崽（子也，江湘間凡言是子謂之崽；自高而侮人也、呼彼之稱）、㩄（散失也）、㴓（漉米也）、𤟧（不安也）、𦩭（音棲）、𧗂（惄，心之饑也、憂也、思也，古文）、𨺯（隈，水曲）。形近字「悤」之訛：𦖻（聰，聞也、明也、察也、聽也）、騦（驄字之訛）、媤（㚸，女字）。",
+      "boundary": "源自《系统汉语》第354部「恖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "囪的本义",
+      "statement": "根據甲骨文來看，「囪」的構件當與「煴」相同，只是「火」在「昷」中而已——「昷」本「人」在「函」中形，从「火」意即煙洞（煴，《說文》「鬱煙也」；囪，《玉篇》「灶突也」），囪本就是用來排煙的，因此它們本是同源字。後來戰國古文與「囟」訛混，為了明確遂加「土」旁表示如囟門一般的土建，楷化後「囟」又混同「西」，遂成「垔」字。",
+      "boundary": "源自《系统汉语》第355部「囪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "囪的辩证",
+      "statement": "因其初文不明，其字源仍莫衷一是。《說文》依據小篆釋作「在牆曰牖，在屋曰囪，象形」，以其象窗形；但《說文》又或以「囧」為窗（「窻牖麗廔闓明，象形」），而「囧」的甲骨文當為心臟剖開後的樣子、金文或象剖開成兩半的心室；《說文》又以「窻」从「悤」，可「悤」的甲骨文、金文顯然是从「心」，與「囪」並無字形上的聯繫。",
+      "boundary": "源自《系统汉语》第355部「囪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "囪的音源",
+      "statement": "囪为借音字：「囪、囟」的混同除了形近以外，在音義上也相通——《莊子·則陽》「是稯稯何為者邪」，《釋文》「稯，一本作總」；《周禮·掌客》鄭玄注「十筥曰稯」，「稯」《釋文》作「總」。",
+      "boundary": "源自《系统汉语》第355部「囪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "囪字族：聚束与中空色青",
+      "statement": "此路用同「囟」，表示聚束：𢈣（𢊕，屋階中會也，屋階的中央交會處）、𢭇（總摠，聚束也、皆也）、𦀙（總，束髮也、總而束之、聚束、合也、皆也、眾也）、鏦（矛，吳楚之間謂之鏦）、𩬼（𩮰，俗鬉字、髮也）。此路用同「悤」，指蔥，表示中空、色青：蔥（葱）、窗（牕牎，通孔也）、聰（聞也、明也、察也、聽也）、蟌（蜻蜓、毛蟲）、驄（馬青白雜毛也）。",
+      "boundary": "源自《系统汉语》第355部「囪部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "垔（烟）的本义与转义",
+      "statement": "垔（𡎱㘻𡋘𡍏𡌓𡊹）本从土囪聲，指煙囪裡的煙塵，為「煙」的初文（yān，《正字通》「同煙，火鬱氣」）。煙囪使用時間一久就會被煙塵所堵，同時煙氣也熏、嗆人，故引申指堵塞（yīn，《廣韻》「塞也」）。",
+      "boundary": "源自《系统汉语》第355部「垔部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "垔的辩证",
+      "statement": "由于小篆訛「囪」為「西」，故《說文》「塞也，《尚書》曰『鯀垔洪水』，从土西聲」析形不確。",
+      "boundary": "源自《系统汉语》第355部「垔部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "垔字族：烟道堵塞",
+      "statement": "此路指煙道，表示堵塞：闉（城內重門也，保護城門的月城的門，又曲也）、湮（沒也、落也、沉沒、塞也，又液體著物向四外散開後作洇）、鄄（衛地，今濟陰鄄城）、堙（垔，塞也、土山，或指為攻城而堆成的土山）、諲（㖶，敬也，即閉口不敢言之意）、歅（音煙，一說與欭通）、凐（𠗃，寒貌）、陻（塞也）、㖶（咽，同咽、語聲、同噎）、籈（割木長尺以鼓敔、所以止樂，古代敲敔用的木板，故有堵義；又竹器）、㢾（弓𩪧，弓末彎曲處）、䃌（石山、石也、山名）、𠿣（欭歅，聲也）、䚈（視貌）、𦝪（𡲙胭咽㖶，咽也、咽喉，項也）、裀（衣身也、複襂謂之裀＝夾衣、通茵褥子、近身衣即內衣）、𧞙（衣相著）。",
+      "boundary": "源自《系统汉语》第355部「垔部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "垔字族：烟状升腾与烟色黑",
+      "statement": "此路指煙狀，表示升騰、搖動：煙（𡨾𤎟烟，火氣也）、禋（𡫻，潔祀也、精意以享為禋，焚燒祭品用煙祭天）、㮒（橪，橪支木也、香艸、酸小棗、染也；又俗作禋）、緸（緸𡨚，搖動貌）、𣱐（臥也、仆也、赴也）、𪃋（同鸇，鷂子）。此路指煙色，表示黑色：黫（𪐘黰，黑也）、黟（黑木也）、㸶（牛尾色謂之㸶）、𤧕（人名用字，疑本指黑玉）、𧹬（婦人面飾、胭脂）、𦎣（群羊相𦎸也、黑羊，成群羊轉相傳染羊瘟）、甄（鄄，匋也＝燒制陶器，又表也、明也、窯也、察也、勉也、視也、甎也；製作陶器所用的轉輪；又掉也、鐘病聲）。此路指煙氣，表示濃重的氣味：茵（䓰薼，香艸，通作茵，即茵陳）、䗎（蟲名，大約指臭屁蟲）、薽（豕首也，即天名精，菊科藥草，有臭氣；南人名地菘、蝦蟆藍、蟾蜍蘭，江東呼豨首，可以煼蠶蛹）。",
+      "boundary": "源自《系统汉语》第355部「垔部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "山的本义与转义",
+      "statement": "山象群峰聳立形，指山嶺（shān，《集韻》「土髙有石曰山」）。山下大上小、雲氣因山而蒸騰，故《說文》「宣也，宣氣散、生萬物，有石而高，象形」；古代以五嶽為山之尊，故或專稱五嶽為「山」；由于山高而體積龐大，故引申指巨大（如「山響」「山呼」）；或引申指象山的東西（如「山牆」），或指山狀紋飾（《廣雅》「彰也」）；山是林木野獸所生存的地方，故引申指粗俗的、鄙陋的（如「山人」）；也是人死後所埋藏之處，故秦代稱墳墓為「山」。",
+      "boundary": "源自《系统汉语》第356部「山部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "山的音源",
+      "statement": "山为借音字：山聳立如囪，故山、囪可通——《史記·封禪書》「又作柏梁、銅柱、承露仙人掌之屬矣」，「仙」《漢書·郊祀志》作「僊」；「僊」从「囪」聲。",
+      "boundary": "源自《系统汉语》第356部「山部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "山字族",
+      "statement": "此路指山的本義：屾（二山也，山本連綿起伏故从二山沒有實際意義，即山之重文）、屳（佡仙，人在山上，神話中稱有特殊能力可以長生不死的人，《釋名》「老而不死曰仙，仙，遷也，遷入山也」）、邖（地名）、旵（日光照也）。此路指山狀，表示起伏、隆起、堵塞：訕（姍，謗也、譏笑譭謗）、疝（腹痛也、小腹氣痛、陰囊脹大的病，《釋名》「疝，詵也，氣詵詵然上入而痛也」）、汕（魚游水貌，或指抄網類的捕魚用具，《爾雅·釋器》「罺謂之汕」）、舢（舢板，近海和江河上用槳劃的小船）、䴮（餠曲也）、奾（女字）、秈（江南呼稉為秈，秈稻植株高、米粒細長、脹性大、早熟而少黏性）、閊（堵、塞、積壓、積存）。",
+      "boundary": "源自《系统汉语》第356部「山部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "允的本义与转义",
+      "statement": "允（𠃔𠘭）甲骨文象人肩上騎人之形，跟「異」的表意方式近似，為「夋（qūn）」的初文（《玉篇》「倨也」）。騎與被騎都是建立在互相信任才可能發生的，故引申指信任、相信（yǔn，《廣韻》「信也」），或引申指應允、答應（《增韻》「肯也」，《正字通》「今俗許諾為允」）；能夠騎需要下面的人能夠承受上面的重量，故引申指相當（《玉篇》「當也」）；被人騎著當然走不快，故引申指行走緩慢；人上還有人當然要比別人高，故引申指超俊之義——此兩義分化為「夋（qūn）」。",
+      "boundary": "源自《系统汉语》第357部「允部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "允的辩证与音源",
+      "statement": "由于西周以後上面的人形演變作「㠯」字形，故《說文》「信也，从儿㠯聲」析形不確。允为借音字：因有高峻之義，故義音同「囟」——《荀子·議兵篇》「功名之總也」，「總」《韓詩外傳》卷四作「統」。",
+      "boundary": "源自《系统汉语》第357部「允部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "允字族：承载高与形近之讹",
+      "statement": "此路指人上騎人，表示承載、高：阭（高也、石也、高峻、地名）、𡴞（允，進也，《易》「𡴞升大吉」；𠦍本指騎馬，當指騎馬而進）、馻（馬毛逆，疑本同駿、指堪騎善奔的良馬）、狁（獫狁，匈奴別號——北方人個頭高大所以从允，从犬乃貶意）、玧（璊㻊，玉䞓色也、充耳玉）、吮（𦧊，欶也，撮攏伸長嘴含吸）、𧉃（蠶四月績者名𧉃，抬頭吐絲時的蠶）、𢇰（陰也）、𤵔（㽸瘎，腹病也、腹內故病、複病曰瘎即舊病復發）、㽙（古允字，同畯——農夫也、典田官、農神）。形近字「兌、瓦」之訛：鈗（銳，侍臣所執兵也，《周書》「一人冕，執鈗」；銳為矛屬）、抁（𢯻挩，動也、搖也、揣也）、䆓（㼱，柔皮革；㼱字之訛，非从穴从允；又窟也）。",
+      "boundary": "源自《系统汉语》第357部「允部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "充的本义与转义",
+      "statement": "充（𠑽𠘺）从𠫓从儿：「𠫓」本子的倒寫，人上有倒子，實即「允」字——因為讓人騎在肩上，一般也是帶孩子出行時才這樣（chōng，《玉篇》「行也」）。人上肩人，故引申指長、高（《說文》「長也，高也」），或引申指充滿、富足、填塞、完備（《玉篇》「美也、塞也、滿也」，《小爾雅》「備也」）；由于是借助于別人才顯得高，故引申指假冒（如「冒充」「充當」）。",
+      "boundary": "源自《系统汉语》第357部「充部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "充的辩证：珫之初文",
+      "statement": "但《漢印文字徵》以及《金文續編》所錄金文為「允」上有冠形，跟「冕」所从同，應是指冠冕，當為「珫」的初文，指古人冠冕上垂在兩側當耳處的玉、貝等裝飾物，亦稱「瑱」（《詩·衛風》「充耳琇瑩」；《廣韻》「珫耳，玉名也，通作充」）。因此「充」的某些含義可能本屬「珫」：由珫耳的懸垂之狀引申指高、晃蕩；由珫耳的可以塞耳而引申指填塞。",
+      "boundary": "源自《系统汉语》第357部「充部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "充字族：高、填塞、晃荡与形近之讹",
+      "statement": "此路指高：統（紀也，絲的頭緒，《釋名》「統，緒也，主緒人世，類相繼如統緒也」，一脈相承的系統、傳統，又攝理、統領、率領、理也、總括綜合）、𣑁（䡴橦衝，木㮔也、木棉、一截木頭、陷敶車、帳上橫樑）、𩒘（充也；訛字）、茺（茺蔚，即益母草，莖如芝麻、層疊累花故或稱「九重樓」）、𥬱（竹尖也）。此路指填塞：銃（𥒝，銎也、斧穿即斧頭上受柄的孔；或用金屬做成的一種打眼器具即釺；或用火藥發射彈丸的管形火器「火銃」）、𡊿（坍𡊿、坍寵，難為情、丟臉）、𪗯（齗，牙齦）、𪎽（黃色，《大戴禮》「𪎽纊塞耳，掩聽也」）、珫（珫耳，玉名也）。此路指晃蕩：㤝（心動也）、䘪（襌衣，襜褕布而無緣、關西謂之䘪䘿＝無裝飾邊緣的短單衣）、㳘（山泉下、㳘淙水聲）、㧤（跳也）、𥅻（困極小睡、打瞌睡）。形近字「亢、元」之訛：犺（猰也、健也、蝟也、健壯的狗、刺蝟、猰犺不順、犺狼似猴的野獸短小精悍可役使）、骯（䯈，膝蓋骨）。",
+      "boundary": "源自《系统汉语》第357部「充部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "夋的本义与转义",
+      "statement": "根據「畯」的演變過程，可以看出「夋」的初文本即「允」字，春秋金文在下面添加了「夊」字形，才演變成「夋」。肩著人行走自然是不快的，故引申指行走緩慢（qūn，《說文》「行夋夋也，一曰倨也」）；騎在別人肩上高且不穩，故引申指高、險——此義分化如「俊（jùn）」（《爾雅》「長也」）。",
+      "boundary": "源自《系统汉语》第357部「夋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "夋字族：高长超迈与蹲伏往复",
+      "statement": "此路指肩人狀，表示高、長、超邁：畯（農夫也、典田官、農神）、䞭（行趚䞭也、行走急速、進也、犇也）、駿（馬之良材者，即馻；大也、通作峻、速也、長也、嚴急也、與俊同）、俊（䑞，材千人也、才智超群的人，本義當指個子高大的人；又䑞即舜、蹲）、陖（陗高也、高峻陡直、險也）、峻（𡺲，高也、山高而陡，又長也、險也、峭也、速也）、晙（明也、早也、敬也）、㕙（狡兔也）、脧（赤子陰也，又縮肭、縮也、減也）、鵔（鵔鸃，鷩也、紅色野雞、似山雞而小即錦雞，鳥狀如鴟赤足直喙黃文見則大旱）、狻（狻麑，如虦貓、食虎豹者，即獅子、獸中之王；又犬急也、狡兔）、𢏤（弓彇、弓弭、弓的末梢）、鋑（𥍯鐫，錐也、刀也、鐫＝鑚也斲也）、𪕞（石鼠出蜀、毛可作筆，即鼫鼠／鼯鼠，行動敏捷善于攀爬和滑翔）。此路指被肩人，表示蹲伏、往復、連續：竣（踆，偓竣也、蹲伏即蹲而使人上去之意，故引申指事情完畢、止也、退伏也、事畢也）、逡（復也、往來、逡巡、退也、卻也，又縣名、流淌）、浚（杼也、舀濾取，又深也、敬也、山名、縣名、伏也）、餕（食之餘也、吃剩的食物、熟食）、悛（恂詢，止也、悔改希望重來、更也、敬也、信心也、均也、樂也）、葰（䕬屬、可以香口，即沙薑，其塊莖正是成節形重迭而生；又縣名、大）、焌（然火也，《周禮》「遂䶴其焌」焌火在前以焞焯龜；燒火、燒灼龜殼、火滅）、梭（𣜤𥭟，木也、木名如余甘即橄欖、木茂；織具所以行緯也，紡織用的梭子來回往復穿行）、捘（推也、推開、排斥、按壓、擠也、掐也）、皴（皮細起也、皮起皺紋，取其迭而相連狀）、酸（酢也，關東謂酢曰酸；水酒變壞後的產物取義同餕，又悲痛亦曰酸、寒酸，微痛而無力的感覺，《釋名》「酸，遜也，遜，遯在後也」）、痠（痛也、酸痛；石名）、𩆑（小雨也、連綿細雨）、𠣟（竣踆，伏退也、止也）、稄（秉四謂之莒、莒十謂之稄；草，又禾密貌）。",
+      "boundary": "源自《系统汉语》第357部「夋部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "兗（沇）的本义",
+      "statement": "兗（兖、沇）从水从允，允亦聲：「允」象背人于肩之形，从「水」象意潛流（《說文》「沇，水，出河東東垣王屋山，東為泲；沿，古文沇」），即濟水。濟水發源于河南省濟源市王屋山上的太乙池，源水以地下河向東潛流七十餘里，到濟瀆和龍潭地面湧出形成珠、龍兩條河流向東，不出濟源市境又交匯成一條河，至溫縣西北始名濟水；後第二次潛流地下穿越黃河而不渾，在滎陽再次浮出地面；流經原陽時南濟三次伏行至山東定陶，與北濟會合形成巨野澤。濟水在古代跟江、河、淮並稱「四瀆」，是古代皇帝祭祀的對象，但水流很細甚至時變乾涸——唐代通而復枯，李世民因此問許敬宗「天下洪流巨谷不載祀典，濟水甚細而尊四瀆何也」，許敬宗答「瀆之為言獨也，不因餘水獨能赴海也，濟潛流屢絕，狀雖微細，獨而尊也」。濟水雖然細微、三隱三現、穿過渾濁的黃河而始終水流清澈、百折入海，故或謂其从「允」取其「信」之意；大約在清代時黃河改道，濟水徹底消失。",
+      "boundary": "源自《系统汉语》第357部「兗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "兗的辩证与字族",
+      "statement": "由于表示「水」的部分或寫成「𠔁（bié）」，與「允」的上部構成「𠔌（jué）」字形，造成跟「㕣（yǎn）」混同，故《說文》釋「㕣」為「山閒陷泥地」並將「兗、㕣、沇」混同一字，不確，當歸于《允部》。此路指往下、往裏、往前推進：渷（沇沿，濟水別名、出王屋山）、𡇰（囚刑固出，囚犯通過挖地道越獄）、𠵷（箭括，箭的末端架在弦上借助弦的推送以射出箭的部位）、𦁙（紖也，拴牛馬的繩索，繩子从牛馬的鼻子穿出牽引而控制牛馬）、𧍄（向前進行的樣子）。此路指往上推送，表示高：𩘍（小風，一曰穀再颺曰𩘍）、𦳆（艸名雀弁也，又柔弱、茺蔚即益母草，莖直立而層層遞高）、𨺥（阭，高也、地名）。同「允」而形近字「兌、瓦」之訛：抁（動也、揣也）、㼱（𠤦𩏈，柔韋也＝鞣治皮革；《正字通》「䆓，㼱字之訛」）。",
+      "boundary": "源自《系统汉语》第357部「兗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "孔的本义与转义",
+      "statement": "孔（𡤿）西周金文在「子」的頭部作一指示符號「乙」形，象事指幼兒囟門未合攏的樣子，本「兇」的同源字。由囟門之狀引申指穴、空、竅（kǒng，《廣韻》「孔穴也」，《玉篇》「竅也、通也、空也」）；由囟門的湧動引申指深遠、洪大（《玉篇》「嘉也、甚也」）。",
+      "boundary": "源自《系统汉语》第358部「孔部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "孔的辩证与音源",
+      "statement": "《說文》「通也，从𠃉从子，𠃉，請子之候鳥也，𠃉至而得子，嘉美之也」——「乙」跟候鳥燕子本無直接聯繫，析形應不確；或將指示符號當作乳房（《簡明金文》「像嬰兒吃奶的情形，乳汁甘美乃有嘉美義，乳汁哺育嬰兒長大乃有廣大義，由乳穴又引申為縫穴的泛稱」），其說可參。孔为借音字：因有穴義，故義音同「空」——《周禮·函人》「視其鑽空」，《釋文》「空，音孔，如字」。",
+      "boundary": "源自《系统汉语》第358部「孔部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-61-xi",
+      "title": "孔字族：囟门闭而有孔、闭而出声",
+      "statement": "此路指囟門，表示閉而有孔：芤（病脈，按之即無、舉之來至、傍實中空者曰芤；《本草綱目》「蔥，从囪，有囪通之象也；芤者，草中有孔也，故字从孔，芤脈象之」——此字頗能說明「孔」指囟門，脈象正象囟門跳動之狀）、尻（𡰼，屁股、脊骨的末端，下即肛門）、谷（𡵾，音義與谷同）、竅（𥤾𥥅䆻，同竅）。此路指囟門的湧動，表示閉而出聲：吼（㖃呴吽，《說文》「厚怒聲」，《玉篇》「牛鳴也」）、犼（北方獸名，似犬、食人）、𢗵（夢魘中的鼾聲）、𤆺（一種烹飪法，加少量水、緊蓋鍋蓋、用微火把食物燜熟）、𩫂（讙也、喧嘩）。",
+      "boundary": "源自《系统汉语》第358部「孔部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
