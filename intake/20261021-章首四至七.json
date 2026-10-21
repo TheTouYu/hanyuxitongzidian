@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》第四章至第七章章首（孕、屰、因、兒）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-4-yun",
+      "title": "「孕、身」本一字，象腹中有子，基本义为抱负与穹隆",
+      "statement": "「孕、身」本一字，为腹中有子之形。由于怀孕时腹部会逐渐隆起，故其基本意义主要有「抱负」「穹隆」两义。",
+      "boundary": "源自《系统汉语》第四章「孕」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch4-yun.md",
+      "topic_title": "第四章·孕",
+      "topic_summary": "《系统汉语》第四章「孕」章首：音源字「孕、身」本一字，象腹中有子，基本义为抱负、穹隆；本章辖卷二十二至卷三十四（第114–204部，91部），末附「方」「圆」分章总论。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-4-yun",
+      "title": "与「身」音义可通的字根：弓、天、申、辛、人、臣、辰、乘、黽、寅、囗、衣、壬、假",
+      "statement": "跟「身」音义可通的有：弓、天、申、辛、人、臣、辰、乘、黽、寅、囗、衣、壬、假。例证：「辰」本蚌的象形，指怀孕的「娠」即从「辰」，古辰、身可通——《史记·高祖本纪》「已而有身」，《汉书·高帝纪》作「娠」，而「娠」从辰声。古黽、孕可通——《尔雅·释鱼》「鱦，小鱼」，《释文》「鱦，本或作䱆」。「天、申」指的都是雷，古天、身可通——《史记·西南夷列传》「有身毒国」，裴骃集解引《汉书音义》「一名天竺」；「雷」也称「震」，与「蚌」音义均通。鼓之「田」可通「乘、申、朕」，「东」可通「申、辰」。工之古壬、身可通——《易·豫·象传》「殷荐之上帝」，《释文》「殷，京作隐」，而「隐」从壬声。弓呈弧形，自通「身」——《说文》「躬，躳或从弓」。",
+      "boundary": "源自《系统汉语》第四章「孕」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-4-yun",
+      "title": "归章理由：抱负义与哺育重叠，贝、辰本同类故《贝》归此章",
+      "statement": "抱负义跟孩子出生后需要哺育重叠——「胚」本从「丕」，「包」本胞衣中有子之形，虽然读音跟前几卷悬殊，但义却关联紧密；「贝、辰」本同类，故《贝》所属字根都应归于此章，但其音义均跟「负、保」可通。",
+      "boundary": "源自《系统汉语》第四章「孕」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-4-yun",
+      "title": "《風》归《孕》：凡本洞穴而音义通「丰」，且风为授粉媒介、风月关乎男女",
+      "statement": "《風》的字根「凡」本指洞穴，按意应属《谷》，但其音义通「丰」——《睡虎地秦墓竹简·编年纪》「四年，攻封陵」，整理者注「封陵，魏地，《水经注》作风陵」；与之相通的「乏」古可通「封」，《仪礼·既夕礼》「乃窆」郑玄注「今文窆为封」，而「封」本丰声；「丰」本通「辰」，故「辰」或称「蚌」。况且风本是植物授粉的主要媒介，跟「风」相关的词如风流、风骚、风情、风月，也都跟男女之情有联系，故将《風》归入《孕》。",
+      "boundary": "源自《系统汉语》第四章「孕」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-4-yun",
+      "title": "《今》（陷阱）归《孕》：今古通壬，又与士、谷、冓、屰诸章字根互通",
+      "statement": "《陷阱》中的「今」古可通「壬」——《尔雅·释言》「饙、餾，稔也」，《释文》「稔，字又作餁」；《楚辞·离骚》「长顑颔亦何伤」，「顑颔」唐写本作「减淫」——故将其归入《孕》。但「今」也通京、井、虔、焉、日、吉、天、人、出、合、林、甚、侵、臣等，跟《士》《谷》《冓》《屰》等所属字根存在音义互通的关系。",
+      "boundary": "源自《系统汉语》第四章「孕」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-4-yun",
+      "title": "「圆」义总论：穹隆、佝偻、中空、侏儒、圆全同属一系，汉字概念可统为「方」「圆」",
+      "statement": "怀孕时腹部的鼓起所产生的「穹隆」义，以及《冓》《老》的「佝偻」义、《谷》的「中空」义、《屰》的「侏儒」义、《卝》的「圆全」义，都存在「圆」的意义。清程瑶田《果裸转语记》所论二百五十个连绵词反映的即此事实；除《士》一章与其少有联系外，其他各章都存在，据本书注解所涉古连绵词初步统计已达一千八百余组。因此本书前稿本按《穹隆》《丁冬》《佝偻》《辘轳》《蒺藜》《龃龉》《团圆》《浪荡》《抱负》《坎陷》《迷蒙》《羸弱》来分章。可以说，汉字系统在概念上可统之为「方」与「圆」：「方」指线性的事物，「圆」指圆转的事物。",
+      "boundary": "源自《系统汉语》第四章「孕」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-5-ni",
+      "title": "「屰」为倒人形，象婴儿出生自母体钻出，故有捣杵、雕琢、掘突之义",
+      "statement": "「屰」字为倒人形，象意婴儿的出生。从母体钻出来，故有捣杵、雕琢、掘突之义。",
+      "boundary": "源自《系统汉语》第五章「屰」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch5-ni.md",
+      "topic_title": "第五章·屰",
+      "topic_summary": "《系统汉语》第五章「屰」章首：「屰」为倒人形，象婴儿出生自母体钻出，故有捣杵、雕琢、掘突之义；本章辖卷三十五至卷四十六（第205–261部，56部），附兔、月、蟾蜍与难产之俗。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-5-ni",
+      "title": "生育九死一生，兔、月、蟾蜍与难产之药：分娩的「免」本指兔",
+      "statement": "婴儿的出生十分艰难，生育的母亲经此往往九死一生；古代医疗条件有限，妇女难产而死更司空见惯。分娩的「免」本指兔子，这应有着特别的含义：传说中的玉兔、月亮跟嫦娥有神秘联系——嫦娥即《山海经·大荒西经》所记的常羲，「生月十有二」，堪称生育之神；她带玉兔在月上捣药，捣的恐怕就是防治难产之药。因此古代女子常拜月，称之为「夙」，拜的目的就是求子和顺产。传说嫦娥奔月后或化为蟾蜍（马王堆汉墓帛画所绘即此故事），蟾蜍即蛙类，应指其多产；齐家文化一块玉牌上所刻产妇形象，其手脚趾正象蛙形，可见其文化符号一脉相承。",
+      "boundary": "源自《系统汉语》第五章「屰」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-5-ni",
+      "title": "与「屰」音义可通的字根：束、兔、庶、五、持、赤、石、舄、隙、昂、突、由、攸、肉、後、孑、夬、出、卯、酋、匊、乇、午",
+      "statement": "跟「屰」音义可通的字就有：束、兔、庶、五、持、赤、石、舄、隙、昂、突、由、攸、肉、後、孑、夬、出、卯、酋、匊、乇、午。兔子跟杵臼正在其列。",
+      "boundary": "源自《系统汉语》第五章「屰」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-5-ni",
+      "title": "归章例证：舄、龠、琢、杵、陶与屰音义可通",
+      "statement": "与《舄》——《吕氏春秋·乐成》「终古㡿卤，生之稻粱」，「㡿卤」《汉书·沟洫志》作「舄卤」，而「㡿」从屰声。与《龠》——《礼记·礼运》「三五而阙」，「阙」《孔子家语·礼运》作「缺」。与《琢》——《说文》「氒，读若厥」。与《杵》——《尔雅·释诂》「遘、逢、遇，逆也」，《释文》「逆，字又作迕」。与《陶》——《庄子·天地》「挈水若抽」，《释文》「抽，司马崔本作流」，而「流」从屰声。但《杵》《足》《陶》跟《士》《谷》《冓》音义或可通。",
+      "boundary": "源自《系统汉语》第五章「屰」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-6-yin",
+      "title": "「因」象人在襁褓中，指初生婴儿，基本义为昏暗、蒙昧、微小",
+      "statement": "「因」象人在襁褓中的样子，指初生的婴儿，或写作「囝、囡」。刚出生的婴儿懵懂无知且视力差，只能看清 20cm 以内的东西，即使到 9 个月时视力也只有 0.1；6 个月前还是色盲，只有黑白两色。因此其基本义为昏暗、蒙昧、微小，而跟有昏义的「民、文」可通。不过婴儿几乎完全处于蒙昧状态的时间段，主要是第一个月。",
+      "boundary": "源自《系统汉语》第六章「因」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch6-yin.md",
+      "topic_title": "第六章·因",
+      "topic_summary": "《系统汉语》第六章「因」章首：「因」象人在襁褓中，指初生婴儿，基本义为昏暗、蒙昧、微小；本章辖卷四十七至卷五十七（第262–327部，66部），末论婴儿发声为语根。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-6-yin",
+      "title": "「因」本「囗」声，与囗音义相通的字根：禾、为、万、屰、彗、彘、匀、隹、危、回、胃、臾、兀、尹、身、鬼、困、咎、昆、员、欠、益、燕、西、士、𣶒",
+      "statement": "「因」本「囗」声。与「囗」音义相通的有：禾、为、万、屰、彗、彘、匀、隹、危、回、胃、臾、兀、尹、身、鬼、困、咎、昆、员、欠、益、燕、西、士、𣶒。",
+      "boundary": "源自《系统汉语》第六章「因」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-6-yin",
+      "title": "与「民」音义可通的字根：母、耳、蒙、亡、明、冖、令、面、丙、绵、寅、人、玄、勿、奔、文、门、昏、䌸",
+      "statement": "与「民」音义可通的有：母、耳、蒙、亡、明、冖、令、面、丙、绵、寅、人、玄、勿、奔、文、门、昏、䌸。",
+      "boundary": "源自《系统汉语》第六章「因」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-6-yin",
+      "title": "归章例证：蚊、门、猪、网、磨、牛、巫、燕诸章与因、民可通",
+      "statement": "与《蚊》——《书·禹贡》「岷山之阳」，「岷」《史记·夏本纪》作「汶」。与《门》——《通训》「闽，假借为蟁」；《大戴礼记·夏小正》「白鸟，谓闽蚋也」，「闽」通「蟁」。与《猪》——「因」本「囗」声，「困、圂」均与其音义可通。与《网》——古民、亡可通，《周礼·遂人》「以疆予任甿」，「甿」《诗·周颂·载芟》郑玄笺引作「民」；「亡」为借音字，「亡、网」可通，故属借音于网。与《磨》——《楚辞·九章·怀沙》「离慜而长鞠」，洪兴祖补注「慜与湣同」，《史记·屈原贾生列传》作「离湣之长鞠」，「慜」从母声，而「母」属《磨》。与《牛》——《书·牧誓》「与受战于牧野」，「牧」《说文》「坶」字条引作「坶野」。与《巫》——因其有虚无、狂乱之义，音义也可通，如古无、亡即可通用（《书·皋陶谟》「无教逸欲」，《汉书·王嘉传》引作「亡」；《左传·庄公八年》「公孙无知虐于雍廪」，《汉书·古今人表》作「公孙亡知」）；「无」本指舞、通「巫」，本是巫术的重要表现方式。与《燕》——古燕、因可通，《论衡·效力篇》「然后咽之」，《玉篇·口部》「咽，吞也，亦作咽」。",
+      "boundary": "源自《系统汉语》第六章「因」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-6-yin",
+      "title": "婴儿发声为语根：因取自初生哭声，保犮取 ba 声，母妈取 ma 声，孩取笑声",
+      "statement": "此章跟后面几章都指婴幼儿阶段，故都存在音义互通现象。婴儿在会说话以前都会发出简单的声音，这些声音都可以起语根的作用：初生时只会靠哭声表达，其声近似 en、an、eng、er，故因、儿、尼等音近字取其音——本章的音源大抵为此；渐长近周岁会发出 ba、bu、bo、bao 等声，保、犮当是，或指父、爸，应是因其呼大人而取音；或发出 ma、mu、mei、mo 等声，母、妈当是；或靠笑声表达，其声近似 hei、hai，故「孩」当是，而「海」本母声却声同孩，原因当在此；或以含乳声模拟，其声近似 ru、ruo、re，弱、若当是，或指女，应是因哺乳而取音——如父、母般，都是借婴儿的发声为声。",
+      "boundary": "源自《系统汉语》第六章「因」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-6-yin",
+      "title": "m、b、p、f 为婴儿最先发出的纯唇音，本无实义，是全世界对「妈妈」称呼相近之因",
+      "statement": "这些发音其实是全世界所有人类的共同语言，对妈妈的称呼都近似 ma，如印地语 maa、越南语 me、马来语 emak、芬兰语 emo、希伯来语 ema、巴斯克语 ama、德语 mutter、英语 mother。此语不过因该音容易发出——m、b、p、f 是单纯的唇音，不需要舌头跟牙齿配合，所以是婴儿最先发出的辅音；本没有什么特定意义，但在大人听来就是有所特指了：日夜伺候在婴儿身边的多是父母，故以为此语是呼唤父母。后面两章的音源都属此类。",
+      "boundary": "源自《系统汉语》第六章「因」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-7-er",
+      "title": "「兒」指囟门未闭阶段：前囟 1–1.5 岁闭，后囟最晚 2–4 个月闭",
+      "statement": "「兒」指婴儿囟门未完全闭合的阶段。婴儿头顶部有一个柔软的、有时能看到跳动的地方，这就是囟门。囟门在出生时主要有两个：一称前囟，在头顶前部，由两侧顶骨前上角与额骨相接而组成，出生时斜径为 2.5 厘米，一般在 1～1.5 岁闭合；另一称后囟，由顶骨和枕骨交接组成，在头顶后部，一般出生时很小或已闭合，最晚在 2～4 个月时闭合。",
+      "boundary": "源自《系统汉语》第七章「兒」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch7-er.md",
+      "topic_title": "第七章·兒",
+      "topic_summary": "《系统汉语》第七章「兒」章首：「兒」指婴儿囟门未闭阶段（一岁左右），义项分哺乳、羸弱、奉承；本章辖卷五十八至卷六十三（第328–382部，55部）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-7-er",
+      "title": "本章时段约一岁，义项分哺乳、羸弱、奉承；字根与四类一一对应",
+      "statement": "本章所指的时间段主要是一岁左右：婴儿主要靠母乳喂养，双腿还不能行走（约六个月后才会爬行），行动必须靠大人抱或背，大小便还不能自控，故所涵盖的义项比较多，可细分为哺乳、羸弱、奉承三义。以《兒》卷为例，大致情况为：指哺乳的字根有乳、若、女、乃、𠧟；指羸弱不能行走的字根有㚔、而；指需要大人奉承的字根有尼、丮、𠬞；指大小便不能自控的字根有需、弱、甾。因此凡音义与上述字根可通的，一般属于此章。",
+      "boundary": "源自《系统汉语》第七章「兒」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-7-er",
+      "title": "归章例证：𦟀、黽、犀牛、熊、蛇与「兒」音义可通",
+      "statement": "与《𦟀》——𦟀本指骡子，系驴与马杂交而成，没有生育能力，故有羸弱之义；古跟「乃」可通，《汉书·韦贤传》「遗子黄金满籯」颜师古注「今书本籯字或作盈」，而「籯」从𦟀声、「盈」从乃声。与《黽》——「黽」通「而」，《尔雅·释鱼》「鱦，小鱼也」，《说文》「鮞，鱼子也」，段玉裁注「许有鮞无鱦者，鱦从绳省声，之与蒸合音最近，鱦者鮞之俗字也」；但「黽」鼓腹而多产，故音义或通「孕」，而归入《孕》。与《犀牛》——「𧰽」即犀牛，本以「凶」为声，属同卷字族；不过犀牛之从「囟」，并非因其囟门未合，而是因其独角如婴儿的蓄发于囟门处，故其音义跟《士》的尖刺义项可通；且「囟」本通「厶」——《老子》「少私寡欲」朱谦之校释「私，本作思」——因此《犀牛》也可归入《士》章。与《熊》——「能」是熊的象形字，熊象婴幼儿一样可作短暂直立，故可通「而」，《易·屯》「宜建侯而不宁」《释文》「郑读而曰能」，《书·君陈》「必有忍，其乃有济」，「乃」《国语·周语》引作「能」。与《蛇》——蛇只能爬行，故可通「尔」，《诗·邶风·新台》「得此戚施」，「施」《说文》「𪓿」字条引作「𪓿」；但蛇也如阴茎，故「也」可通「氏」（《庄子·列御寇》「舐痔者得车五乘」，《释文》「舐，字又作𦧇」），或可归入《士》。",
+      "boundary": "源自《系统汉语》第七章「兒」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-7-er",
+      "title": "《火》《竹》诸章字根亦与「兒」可通，但《竹》归《谷》；此章与前章关联紧密",
+      "statement": "另外，《火》《竹》所属字根也不乏跟《兒》音义可通：「火」即通「兒」——《史记·货殖列传》「乃用范蠡、计然」，「然」《越绝书》作「倪」；「南」本楠竹的象形，古可通「需」——《楚辞·大招》「鼎臑盈望」，洪兴祖《考异》「臑，释文作腩」；但「竹」的音义或通「谷」，故将其归入《谷》中。而此章其实跟前一章关联紧密，只是为了音义上的分类，略作区分而已。",
+      "boundary": "源自《系统汉语》第七章「兒」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
