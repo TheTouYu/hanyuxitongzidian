@@ -585,6 +585,10 @@ async function shengmuOf(ch, chain) {
 
 async function levelOf(ch, direct) {
   const z = loadZigenIndex();
+  // 原稿按繁体立字头，用户多按简体提问：先映射到繁体再判级，
+  // 否则 zigen.json / 字形库查不到键，分级栏就空了。
+  const aliasCh = loadVariantMap()[ch];
+  if (aliasCh && aliasCh !== ch) ch = aliasCh;
   const bu = z.byName && z.byName[ch];
   if (bu) {
     return {
