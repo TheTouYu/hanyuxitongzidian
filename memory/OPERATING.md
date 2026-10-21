@@ -1,6 +1,18 @@
 # 操作入口
 
-一句话：这个库的任何内容变动都走 `pkc knowledge-plan`——先预览、再由主人批准精确哈希、再应用，最后 `rebuild` + `validate`。
+一句话：这个库的任何内容变动都走 `pkc knowledge-plan`——先预览、**按下面第 0 条的授权自主应用**，最后 `rebuild` + `validate`。
+
+## 0. 授权（2026-10-21 主人定：不要再问，一律允许）
+
+主人已明确「不要再问，一律允许」。以下操作**不必再逐次询问，直接做**，做完在报告里列明 bundle、hash、条数、改动范围：
+
+- 常规录入：判类句、横向对照、声母义、六书/字形补句等**只追加、不改原文与边界**的修订（`clarify`）；
+- 草稿 → `preview` → `capture` → `bundle-approve --apply` → `bundle-apply --apply` 全流程；
+- 基线变动后重算 hash（正文一字未改）、`rebase`、`abandon` 重做；
+- `pkc rebuild`、`pkc validate`、`knowledge-search` 验收，`memory/CURRENT.md` 记录，定向 `git add` 与 `git commit`；
+- 起停测试用的网页服务、抽原稿图、生成 `intake/` 下的图与草稿、清理自建临时文件。
+
+仍需先说明、不得擅自动手的三类：**删除知识或主题、改动既有正文与适用边界、调整主题结构**（`move-topic` / 大范围 `revise-claim` 改文）。这三类先讲清方案再动。
 
 ## 1. 读的顺序
 
