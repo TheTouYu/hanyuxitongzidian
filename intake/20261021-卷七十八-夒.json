@@ -1,0 +1,407 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷七十八 夒（476.夒部至480.𥆞部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "卷七十八音源字：夒",
+      "statement": "本卷音源字为「夒」，甲骨文象猕猴形，其音源自猴子的叫声。由于其类或称「猴、猿、蝯」，分别从「侯、袁、爰」，故将这些字根一并归入。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/78a-nao.md",
+      "topic_title": "卷七十八·夒",
+      "topic_summary": "《系统汉语》卷七十八「夒」第476–480部（p1368–p1379）。音源字夒象长臂猿形、音源猴子叫声；猴、猿、蝯分别从侯、袁、爰，故此三字根一并归入（侯本箭镞、袁象脱衣之猿、爰象攀援），皆由猴的形体与攀援习性借以为音。第十章「卝」之第六卷。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "猴与猿",
+      "statement": "猴属哺乳动物，灵长目，种类很多，有猕猴、懒猴、蜘蛛猴、疣猴、叶猴、红面猴、狒狒、山魈、金丝猴、黑叶猴等。猴与猿相似，但猿比猴大，无颊囊和尾，民间一般都把两者视为一种动物，并称「猿猴」。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "猕猴的形态与生理",
+      "statement": "我国最常见的是猕猴，亦称恒河猴。体长 55～60 厘米，尾长 25～32 厘米；毛色灰褐，腰以下橙黄、有光泽，胸腹部和腿部深灰色；颜面和耳裸出，幼时白色、成长后肉色至红色；有颊囊用以贮藏食物；臀部有红色臀疣。群居山林、喧哗好闹，采食野果野菜，冬季常结队盗食农作物。猕猴的生理特点接近于人类，大脑发达、行为复杂、记忆力和模仿性都很强，脑结构也与人十分相似；手和足都能握物，下地后常用四肢行走、有时也能用后腿直立行走；牙齿的形状和数目都和人相似。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "猴的社群与技能",
+      "statement": "野生猴多喜欢群居生活，由一只体大力强的公猴担任「猴王」统率全群，其它公猴当「卫士」保卫母猴和仔猴；狒狒寻找食物和饮水时集体行动，由最强壮勇敢的雄猴组成「先锋队」开路，遇敌则冲上去搏斗、周围树上的狒狒一起大声喊叫壮威。猴子经过训练可以耍猴戏、演杂技、帮人作事。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "猴的习性见闻",
+      "statement": "猴子有许多近似人类的习性：热带森林的猴子患上疟疾时会啃嚼金鸡纳树的树皮自疗；非洲尼日利亚喀萨、祖鲁等地人们将母猴与小猴分居两地，把装有信件的竹筒绑在小猴身上放掉，任其按原路寻找「母亲」，从而实现信件传递；经过训练的猴子能用「钱币」交换实物（一只猴子拿出三角牌向邻笼的猴子买香蕉，另一只收了香蕉后也挑出圆形牌买玩具）；美国动物学家李杰将 4 只金毛猴训练成「守林者」，遇火灾则按动无线电报警器；泰国设有猴子学校训练猴子采摘椰子，一只训练有素的猪尾蛮猴一天可摘 1400 个椰子；猴子会用不同的声音报告不同敌人（遇豹子发出狗吠似的「汪汪」声、看见秃鹰发出低沉的喉音、见到毒蛇发出急促的「嘶嘶」声）；老猴死后活着的猴围着它凄然泪下，然后挖坑掩埋，把死猴尾巴留在外面，风吹尾动便高兴地把死猴挖出百般抚摸、盼能复活，反复十来次之多。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "猴在古代的名称与记载",
+      "statement": "猴在古书里常写作猿、猨、蝯等。周索氏《孝子传》「蝯，禺属也，或黄黑通臂，轻巢善缘，能于空轮转，好吟，雌为人所得，终不独生」；《毛诗草虫经》「猱，猕猴也，楚人谓之沐猴」；《尔雅》载累猴、玃、玃父、狒狒、威夷、蜼、豽、狙、獿、蒙颂等；《吴书·地理志》载果然；刘欣《广州记》载猦母；《括地图》载猩猩。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "猴的生肖、五禽戏与封侯意象",
+      "statement": "十二生肖中猴为其一。以 12 种动物纪月的古历见于《尔雅·释天》，「七月为相」即属猴；以 12 种动物计一日之 12 时始于西汉，与申猴时对应的是 15 至 17 时。神医华佗首创五禽戏，《后汉书·华佗传》载「一曰虎，二曰鹿，三曰熊，四曰猨，五曰鸟」，猨即猿。曹植《白马篇》「仰手接飞猱，俯身散马蹄，狡捷过猴猿」借助猴的形象写马上习武的豪爽。《礼记·王制》载公、侯、伯、子、男五等爵位，因「猴」与「侯」谐音，故猴成了封官进爵的象征——大猴背上驮个小猴象征「辈辈封侯」，「马上封侯」是马背上坐着猴子，「封侯挂印」是一猴在枫树上摘取枝上所挂之印。白猿献寿又使猴成为祝福长寿的象征。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "猴的传说与俗语",
+      "statement": "民间传说猴子历来被视为「淫」：《搜神记》载蜀中西南高山有物与猴相类，名猳国、马化或玃，伺道行妇女年少辄盗取将去；东方朔《神异经》载西方有兽名𧳜，纯牝无牡，群居要路执男子合之而孕；周密《齐东野语》载野婆出南丹州，群雌无牡，每遇男子必负去交合。许多西南民族（羌、彝、纳西、傈僳、哈尼、拉祜、怒、白、景颇、珞巴）以猴为神话中的始祖，神话分两类：猴子变化形成人类（彝族创世史诗《门米间扎节》）、猴子孕育人（藏族《西藏王统记》观世音点化的猕猴与岩洞女妖婚配生育人类）。也有倒过来说人会变成猴子的（黎族《猴子的故事》），此类传说表达人若在道德品行上过多偏离社会规范就会变成猴子，猴成为道德堕落者的贬义象征——「尖嘴猴腮」「沐猴而冠」「猴子摇扇子——学人样」「猴儿急」「猴子的屁股——坐不住」「猴儿精」「山中无老虎，猴子称霸王」「树倒猢狲散」等俗语皆然。猴的叫声为简单的「ou---ou」，跟猫、狗类似，而猴的灵巧似猫、好淫似狗，义源多有接近；「猿」的叫声乃至面容又如猫头鹰，故又与猫头鹰的音义体系发生混淆。《本草纲目》引《抱朴子》「猴八百岁为猿，猿五百岁为玃，玃千岁变为蟾蜍」，将其与蟾蜍（本属「鬼」类）联系在一起，故猿猴在先民认识中亦属山鬼之类怪物。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "夒本义：长臂猿",
+      "statement": "甲骨文本象长臂猿形（《集韵》「猱，玃猱，弥猴类，或作夒，通作蝚」）。因猴像与人近似，小篆将其身形写作「页」，故《说文》「贪兽也，一曰母猴，似人，从页，巳、止、夊其手足」析形不确。另因猴子喜欢抓耳挠腮、其形跟人发愁时的挠头近似，故或与「忧」相混——区别主要在「夒」有尾而「忧」无尾，所以是指人。",
+      "boundary": "476.夒部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "夒的音源与字族",
+      "statement": "音源字，源自猴子的叫声。字族多指夒的长臂，表示抓挠、涂拭：獿（犬惊吠貌；古之善涂暨者；抆拭）、𢅼（已漆过的地面用巾擦拭）、扰（烦也、扰乱、使烦厌）、巎/峱（地名，在今山东淄博）、𢥝（劣也）、𤫕（玉也）、㹛（牛柔谨也、驯也）。",
+      "boundary": "476.夒部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "夔的所指",
+      "statement": "「夔」的具体所指不得而知，或谓之为龙。商周时代的青铜器、玉器中有其纹饰，象一足而龙形，疑即鳄鱼之类。最早见于《山海经·大荒东经》「东海中有流波山，入海七千里，其上有兽，状如牛，苍身而无角，一足，出入水则必风雨，其光如日月，其声如雷，其名曰夔，黄帝得之，以其皮为鼓，橛以雷兽之骨，声闻五百里，以威天下」，则谓之为一种无角而一足的神牛。",
+      "boundary": "476.夒部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "夔与夒的关系",
+      "statement": "商代金文「夔」与「夒」相比，下面多了一「止」而已，故或以为「夔」即「夒」字。田倩君《释夔》「夔与夒虽然其音读不相合，但是其所代表的事物是相同的，夒为猴，夔亦是猴；如王筠所说，夔较夒多两角而各自象形，比如绵羊，牝的无角，牡的有角一对，卷曲如螺旋」。依据《古籀汇编》所录春秋金文，则从「田」（田本指鼓），从表意上说颇符合传说中黄帝以其皮为鼓，则可能就是传说中的「犪」，一种重达数千斤的大野牛。由于「夔、夒」在实际运用中多可通用，故将其附于「夒」后。",
+      "boundary": "476.夒部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "夔的音源与字族",
+      "statement": "音源字，源自雷声。字族指龙状，表示扭动：犪（犪牛，出岷山，肉重数千斤；牛柔顺）、躨（躨跜，龙动貌；兽动貌）、巙（人名；同峱）、𢆃（俗𢅼字，涂拭）、𥜶（祭夫也）、𧅄（菜名）。",
+      "boundary": "476.夒部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "侯本义：石制箭镞",
+      "statement": "甲骨文从厂从矢：「厂」指石，从「矢」象意用石块制成的箭镞，「鍭」的初文（《广韵》「箭镞」）。良渚时期即有石镞，5000 年前。",
+      "boundary": "477.侯部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "侯的转义",
+      "statement": "鍭俗称箭头，是箭的锋刃部分，最初一般用石块和骨头制成，青铜时代以后则用金属；它使箭能够产生最大的杀伤力、是箭的核心，故引申君主（《尔雅》「君也」）、士大夫之间的尊称（列侯为丞相称君侯）、美（《广韵》「美也」）。箭镞在前，故引申前锋、侦伺，此义分化作「候」（《说文》「候，伺望也」，由伺望引申访、等、征候等）；由箭镞所中之的引申射箭时所设的布靶（《玉篇》「射侯」）；由箭镞的飞出引申语气（《广韵》「何也」「辞也」，《尔雅》「乃也」「伊、维，侯也」）。",
+      "boundary": "477.侯部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "侯的辩证与音源",
+      "statement": "《说文》以「厂」为张设的射布「春飨所射侯也，从人，从厂，象张布，矢在其下」，但「厂」表示「石」一般是西周以后，甲骨文多作别形；写作「厂」的一般为「区、匿」等字的构件，当为「匚」（受物之器），则与「医」同源（《玉篇》「所以蔽矢也、盛弓弩矢器也」），指盛弓箭的器具。因此其本义究竟为何有待进一步考察；或许初义本如《说文》所释，但由于西周金文混作「石」，导致后来衍生的字族基本上都指向箭镞之意。音源：借音字，借猴为声，取成年猴子有颊囊如箭镞为义——「猴」甲骨文本象猴子形，后反过来又以「侯」为声另造字。",
+      "boundary": "477.侯部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "侯的字族：箭镞状",
+      "statement": "①箭镞状，表示一端鼓出：猴（猕猴，口腔有储存食物的颊囊）、喉（咽喉，喉结鼓如侯）、𩝍/糇（干食，随身携带的干粮，取如猴的颊囊存食义）、候（伺望，打探情况，即前锋斥候，取侯处于箭矢前端为义）、鍭（金镞齐羽的箭，用于田猎射礼）、鯸（河豚，状如侯，前端胖大、尾部细小）、𨜫（晋之温地，今河南武陟西南）、𦑚（羽本，羽毛的根，状如箭镞）、緱（刀剑柄上缠的绳）、堠（古代瞭望敌情的土堡，十里双堠、五里只堠；斥堠）、瘊（皮肤上不痛不痒的小疙瘩，疣小者）、帿（箭靶）、睺（半盲；深目）、䫛（言不正；大言；扬言）、㮢（㮢桃；㮢栎）、䙈（短衫）、䞀（贪财之貌；桂圆）、𣣠（气出貌；咽病）、䂉（矛属）、䗔（守宫，即壁虎）、䳧（雕也）、𡗁（多也）、𡟑（女字）、𡹵（山名）、葔（香附子，根部结子如侯、茎苗如箭身、顶端分叉如箭尾，恰如一支射进地里的箭）、𢜵（恐也；怒貌）、㬋（罗㬋，月之交首尾）、𤬈（王瓜）、𥀃（石蟇）、𦞈（咽也）、𧩨（言貌）、𧯁（谷名，在成皋）、𩃺（雨也）、𩘋（风貌）、𩩵/骺（骨端；骨镞）、𪅺（鸟名，青色似䳕鸠）、篌（箜篌，或说空国之侯所好故谓之箜篌；取其弹拨方式如猴抓挠）。②形近「度」之讹：𨂸/踱。",
+      "boundary": "477.侯部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "袁本义：猿",
+      "statement": "甲骨文从衣从又：「又」指手，从「衣」指脱衣，象意如没有穿衣的人一般；或在上面加「○」表示其头部呈圆形、同时也表声。「猿」的初文（《玉篇》「猨，似猕猴而大，能啸也」），指猩猩、大猩猩、长臂猿等哺乳动物，它们与猴相比体型要大、没有颊囊、没有尾巴，更像人一些。",
+      "boundary": "478.袁部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "袁的转义与辩证音源",
+      "statement": "因猿猴善于攀援，故引申攀援、遥远，此义分化如「远」（《说文》「辽也」）。《说文》依据小篆释作「长衣貌，从衣，叀省声」应不确。音源字，源自猿猴的叫声，或以「○」为声旁。",
+      "boundary": "478.袁部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "袁的字族",
+      "statement": "①猿性，表示攀援、牵拉：园（种植花果树木菜蔬的地方，四周通常围有垣篱；历代帝后葬所曰园）、猿、鎱（人名）、媴（女名）、榬（古代络丝的器具；悬挂钟磬的架子）、辕（车前用来驾牲畜拉车的长木，《释名》「辕，援也，车之援也」）、溒（水流貌）、褤/褑（衣服上佩玉的带）。②遥远：远（辽也、遥远、离也、疏也）、薳/蒬（远志，多生秦岭 400 米以上的山谷和路旁，有养心安神、增强记忆力的作用）。",
+      "boundary": "478.袁部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "瞏本义：猴面鹰",
+      "statement": "西周金文从目袁声，「目」或作「𥄕」（指有毛角的动物，包括雚即鹭、旧即猫头鹰等），其本义当指猴面鹰即草鸮——跟猫头鹰同种但没有毛角，脸盘象猿猴。",
+      "boundary": "478.袁部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "瞏的转义",
+      "statement": "猴面鹰是夜行性猛禽，白天躲藏在树林里休息、晚上出来活动，飞行时悄然无声；眼睛不能转动，观察时只能左右转动脖子直视，能实现 270 度旋转；主要靠捕捉老鼠兔子为食，捕捉猎物时会发出凄厉的叫声，故引申惊视（《说文》「目惊视也」，《诗》「独行睘睘」），或引申忧愁、孤独（《正字通》「无所依也」「忧也」）。因其脸形呈圆环形，故引申圆环，此义分化如「圜」（《集韵》「绕也」）。",
+      "boundary": "478.袁部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "瞏的字族：圆环形",
+      "statement": "①圆环形：圜（天体，天体圆环；圆也；绕也）、缳（用绳套缠络、绞杀）、蠉/蜎（虫子屈曲爬行或飞貌；孑孓）、檈（古代有足的圆形食物托盘）、还（复也、退也、返也、转也、绕也；与旋同）、擐（贯穿、穿着，「擐甲执兵」；系也；卷起衣袖）、鬟（环形发髻）、寰（京都周围方圆千里的土地；古代王宫的围墙；通县）、阛（环绕市区的墙；街市）、鹮（朱鹮、朱鹭、红鹤，展翅时呈半圆形）、翾（短距离飞行）、𩙽（飞绕貌）、𥌡（小儿初生时眼睑遮蔽眼睛；回视）、轘（车裂人也，肢体分散）、𠟼（朴𠟼，县名）、𦌾/罥（环绕的拉网；系挂、打结、卷起）、攌（木栅栏；拘系）、糫（面饼，类似今天的麻花、馓子）、𢩠（门关）、𦏖/䍺（山海经句山有兽，状如羊而无口，不可杀）、澴（水名；漩澴，水濆起貌）、噮（甘不厌也，味道很好）、彋（帷帐起貌；弓声）、𡄤（猪大口吃食声）、𡑡（面一堵墙）、𡕅（寰的讹字）、镮（金环，凡圆郭有孔可贯系者谓之镮）、𩟁（餍饱也）、䚪（角弯貌；鰥的俗字）、环（璧也，肉好若一谓之环）。",
+      "boundary": "478.袁部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "瞏的字族：急速乖戾",
+      "statement": "②急速、乖戾：獧/狷（疾跳也；急也；器量狭小、性情急躁；有所不为也）、懁（急也；性急；慢也、轻也；性戾也）、儇（慧也；轻薄、小聪明）、𣟳（一种味道不好的枣类）、𧾎（疾也、疾行）、𩦮/䭴（一岁的马，即套上笼头的马）、嬛（材紧也；轻丽貌；孤特也、无兄弟也、无所依也）、谖/讂（慧也；多言也）、𦣴（坚也）。③形近「眔」之讹：鱞（鰥的讹字）、癏（瘝）。",
+      "boundary": "478.袁部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "爰本义：攀援",
+      "statement": "甲骨文跟「寽」相似，但两只手各持「一」的一头，象用藤状物相牵拉之状。为了区别「寽」，金文或改「一」为「帀」（指倒生），上下均有手：从上面的手来说指俯身往下拉拽，从下面的手来说指向上拉住悬垂之物，表示攀援（《广韵》「引也」）。",
+      "boundary": "479.爰部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "爰的转义",
+      "statement": "由牵拉、攀援引申援助，此义分化如「援」（《广韵》「接援，救助也」）；或引申为、于、是，一般作虚词用表示并列或承接关系（《玉篇》「为也、于也、曰也」）；不管是攀援还是牵拉，速度都比较慢，故引申缓慢（《尔雅》「绰绰，爰爰，缓也」），或引申哀戚状（《广韵》「哀也」）；由援助、攀援的使离开，引申变易、整治（《小尔雅》「易也」，《玉篇》「治也」）。",
+      "boundary": "479.爰部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "爰的辩证与音源",
+      "statement": "所从金文「帀」，战国古文或讹变作「于」，小篆从之，故《说文》「引也，从𠬪，从于」析形不确。音源：借音字，因猿善于攀援故借为声；古袁、爰通用（《左氏春秋·成公二年》「及国佐盟于袁娄」，《穀梁传》作「爰娄」；《左传·僖公十五年》「于是乎作爰田」，《国语·晋语》作「辕」）。",
+      "boundary": "479.爰部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "爰的字族：攀援牵引",
+      "statement": "①攀援，表示牵引、上行：援（引也、牵也、拔也、引持也、救助）、媛（美女也，人所援也；婵媛，牵引貌）、湲（潺湲，水声）、煖/暖（温也、火气上行）、锾（锊也，古重量单位，二十四铢曰两、倍举曰锊谓之锾；黄铁也、钱也；同镮）、褑（衣襟上佩玉的带子）、嵈（山名）、㬊（明也）、䈠（断竹也；竹简）、𥶍（门帘、窗帘）、𤲫（禽兽所践处）、瑗（大孔璧，人君上除陛以相引；好倍肉谓之瑗）、禐（佩也）、藧（覆盆子）、𩋫/楦（皮鞋模子，将物体的中空部分填实或撑大）、楥（履法也、鞋楦；木名柳；络丝籰）、𤀣（弄水）、𦑛（飞貌）、𦩮（船名）、鶢（鶢居，海鸟）、蝯/猨/猿（善援，禺属）、𩔃（面不正也）、䁔（大目也、睁大眼睛）、𧡩（大视也）、鰀/鲩（草鱼，上层鱼类，体形较圆）。",
+      "boundary": "479.爰部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "爰的字族：舒缓恍惚",
+      "statement": "②缓慢，表示舒缓、恍惚：缓（繛也、宽缓，《释名》「缓，浣也，断也，持之不急则动摇」）、萱/萲（令人忘忧草，通作谖）、㣪（徐行、免行貌）、愋（恨也、忘也；智也）、喛（恚也，不欲应而强答之意；呼；恐惧；愁也；哀）、谖（诈也、欺也、忘也）、䐘（大笑；牛舌）。③形近「奚」之讹：𦫦（𦫬的讹字，黄病色）。",
+      "boundary": "479.爰部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "𥆞本义：黑眼圈",
+      "statement": "从「」从「䀠」：「」本指眼镜蛇（参见 4《乙部》），眼镜蛇的「眼镜」是指其头部背面像眼镜似的花纹；从「䀠」象意因疲劳或疾病而显示出的黑眼圈。《说文》「目围也，从䀠、，读若书卷之卷，古文以为丑字」。",
+      "boundary": "480.𥆞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "𥆞的辩证与音源",
+      "statement": "与「𥆞」相关而在古文字中有据可考的只有「𡚇」。《说文》释「𡚤」为「二目为𥆞，三目为𡚤，益大也」，所依据的其实只是小篆；《金文编》所录西周金文并不从「䀠」或「𥆞」，而是从某字之二叠或三叠，该字从「目」从「六」，大抵跟「𥄈」（敬也，通作穆；与睦同）相当。因此「奰」未必是「𡚤」，「怒」当为「奰」的含义，本同「𥈀」；西周金文或省一「目」（《玉篇》「奰，不醉而怒也、壮也、迫也」），「𡚇」为其异体字。则「𥆞」跟「𡚇」，与「䀠」跟「𥈀」一样，都是指睁大眼睛。音源：本「䀠」声，因两眼圆睁而义音同「袁」（《史记·司马相如列传》「柔桡𡣱𡣱」，《汉书》作「嬽嬽」）。",
+      "boundary": "480.𥆞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "𥆞的字族：眼睛大表示美好",
+      "statement": "①眼睛大，表示美好、妩媚：𡚇（大貌；或曰拳勇字）、嬽（好也、美女也、媚容也、娥媚貌）、𩕾/愿（头顶；愿，欲也、念也、思也；《说文》「大头也」）。",
+      "boundary": "480.𥆞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-78-nao",
+      "title": "𥆞的字族：瞪眼怒目",
+      "statement": "②同「𥈀」，指瞪眼，表示怒目之状：奰/𡚤（壮大也；怒也；迫也；《诗》「不醉而怒谓之奰」）、㿙/𤼤（气满也；肝气胀满的病）。",
+      "boundary": "480.𥆞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
