@@ -27,7 +27,7 @@ function arg(name, fallback) {
 }
 const SRC = arg('src', 'D:\\字谱智能体');
 const OUT = arg('out', join(process.cwd(), 'web', 'public', 'glyphs'));
-const MAX_PER_CHAR = Number(arg('max', '8'));
+const MAX_PER_CHAR = Number(arg('max', '16'));
 const MAX_BYTES = Number(arg('maxbytes', String(300 * 1024)));
 // --only 吉：只抽这几个字（补抽用，不清空输出目录）
 let ONLY = new Set();
