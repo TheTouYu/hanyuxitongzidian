@@ -29,6 +29,8 @@ const SRC = arg('src', 'D:\\字谱智能体');
 const OUT = arg('out', join(process.cwd(), 'web', 'public', 'glyphs'));
 const MAX_PER_CHAR = Number(arg('max', '8'));
 const MAX_BYTES = Number(arg('maxbytes', String(300 * 1024)));
+// --only 吉：只抽这几个字（补抽用，不清空输出目录）
+let ONLY = new Set();
 
 // ---------- 最小 ZIP 读取 ----------
 function readZip(buf) {
@@ -301,6 +303,7 @@ function main() {
   const docs = readdirSync(SRC)
     .filter((f) => f.toLowerCase().endsWith('.docx') && !f.startsWith('~$'))
     .sort((a, b) => (a.startsWith('卷') === b.startsWith('卷') ? a.localeCompare(b, 'zh') : a.startsWith('卷') ? -1 : 1));
+  ONLY = new Set(onlyHan(arg('only', '')));
 
   // --families-only：只补索引里的「字族表」，不动已抽好的图片（源文档比图库新时用）
   if (argv.includes('--families-only')) {
@@ -333,7 +336,9 @@ function main() {
   }
 
   // 每次重建都清空，否则上一轮多出来的图会留在磁盘上（索引里已经没有它们）
-  rmSync(OUT, { recursive: true, force: true });
+  if (!ONLY.size) {
+    rmSync(OUT, { recursive: true, force: true });
+  }
   mkdirSync(OUT, { recursive: true });
 
   const index = { generated: new Date().toISOString(), source: '《系统汉语》各卷 Word 原稿', chars: {}, photos: {}, families: {} };
@@ -366,6 +371,7 @@ function main() {
     }
 
     for (const [ch, entry] of byChar) {
+      if (ONLY.size && !ONLY.has(ch)) continue;
       const prev = index.chars[ch];
       if (prev && !prev.alias) continue; // 已有正条（别名可以被正条取代）
       const dir = join(OUT, ch);
@@ -397,6 +403,7 @@ function main() {
     // 实物配图（图下带 ▲ 说明）：单独放 photos/<字>/，说明文字进索引
     for (const ph of res.photos) {
       if (!HAN.test(ph.char)) continue;
+      if (ONLY.size && !ONLY.has(ph.char)) continue;
       const media = parsed.rels.get(ph.rid);
       if (!media) continue;
       const ext = extname(media).toLowerCase();
@@ -418,7 +425,20 @@ function main() {
   report.chars = Object.keys(index.chars).length;
   report.photos = Object.values(index.photos).reduce((n, a) => n + a.length, 0);
   report.families = Object.keys(index.families).length;
-  writeFileSync(join(OUT, 'index.json'), JSON.stringify(index));
+  // --merge：与已有索引合并（配合 --only 补抽个别字），已有条目保留、只补缺的
+  const indexPath = join(OUT, 'index.json');
+  if (argv.includes('--merge') && existsSync(indexPath)) {
+    const old = JSON.parse(readFileSync(indexPath, 'utf8'));
+    for (const [k, v] of Object.entries(index.chars)) if (!old.chars[k]) old.chars[k] = v;
+    for (const [k, v] of Object.entries(index.photos)) if (!old.photos[k]) old.photos[k] = v;
+    old.families = { ...index.families, ...(old.families || {}) };
+    writeFileSync(indexPath, JSON.stringify(old));
+    report.merged = true;
+    report.chars = Object.keys(old.chars).length;
+    console.log(JSON.stringify(report, null, 2));
+    return;
+  }
+  writeFileSync(indexPath, JSON.stringify(index));
   console.log(JSON.stringify(report, null, 2));
 }
 
