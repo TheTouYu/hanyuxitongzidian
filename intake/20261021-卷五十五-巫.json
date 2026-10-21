@@ -1,0 +1,503 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷五十五 巫（315.巫部至318.武部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "卷五十五音源字巫与吴舞",
+      "statement": "卷五十五以「巫」为音源字。巫为两「工」交错形，象意巫师。古代巫师主要以歌舞娱神，故指歌舞的「吴」、指舞蹈的「舞」也都是音源字。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/55a-wu.md",
+      "topic_title": "卷五十五·巫",
+      "topic_summary": "《系统汉语》卷五十五「巫」第315–318部（p931–p937）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫与汉语体系的形成",
+      "statement": "汉语之成为体系是古代巫师所为：巫作为一个音系的存在，说明巫师集团在语言统一和知识传承中的核心作用。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫师与致幻药物",
+      "statement": "巫师是古代的术士，凭致幻药物使自己进入迷幻状态，致幻药物主要是大麻，故其字为「术」。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫师活动的七种形式",
+      "statement": "巫师的活动形式：一是演奏乐器（最古老者为击鼓、吹竽、吹龠以及呼叫声），二是舞，三是占卜，四是祭祀时的祷祝，五是书写，六是医病，七是用「午」测量日影、观测物候天象。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫师活动的目的",
+      "statement": "巫师活动的主要目的是求雨、祈福，并负责律法的制定和执行。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫师的专用行头",
+      "statement": "巫师有专用行头：头上插羽毛，手中根据活动目的握着玉、我（兵器）、象牙、旗帜等物；峨冠博带，宽大的衣袖象鹅张开翅膀，象蝙蝠展开双翼。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫师以第一人称自称",
+      "statement": "巫师用第一人称「我、余、吾」等自称，把答案直接写进卜辞、祝辞之中。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫师的地位与分化",
+      "statement": "巫师是原始公社产生的当然领袖、先民中的先知先觉者、文明的缔造人。部落整合成国家后，巫师分化为各行业的执掌人；权力最大、负责神职的巫师反而逐渐退出历史舞台，到西周末年已沦为江湖骗子之流，成为西门豹等理智政治家镇压的对象；各行业的巫师则成为儒、士，开创了春秋战国诸子百家的繁荣局面，使巫文化成为大众文化。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫文化的遗存",
+      "statement": "巫文化并未完全消失，至今在一些闭塞地区尤其是少数民族地区还有职业巫师存在，但已无世俗权力，主要从事宗教性迷信活动，或作为一种医术而存在。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "信阳长台观楚墓漆画所见巫术",
+      "statement": "河南信阳长台观战国楚墓出土漆画再现了巫术细节：巫师逐邪图绘于瑟首，表现楚巫举行傩仪的场景——男巫张弓搭箭对准头戴鸟形面具的女巫，女巫惊慌奔逃，象征正义驱除鬼魔；巫师作法图二幅，巫师举圆棰形、杖形、长柄叶形法器，龙蛇听命；巫师升天图绘巫师双手如鸟爪各持巨蛇，在龙的帮助下飞升天国，两侧细腰女子载歌载舞。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫的音源",
+      "statement": "巫的音源是其呼喊声或乐器的吹奏声。因巫作为音系的特殊性，涵盖内容非常广泛，几乎各音系中都有它的痕迹，特别是带 u、i、e、o 等近似音者；书中只收与巫明确相关、且无其他音源可依据的字。",
+      "boundary": "源自《系统汉语》卷五十五「巫」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫的构形与本义",
+      "statement": "巫的甲骨文为「工」的横直交叉形。工指百工，横直交叉表示能经纬天地四方之意。《玉篇》：神降，男为巫，女为觋。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫的转义为医师",
+      "statement": "巫师也给人治病，故引申指医师，如《周礼·夏官》「巫马掌养疾马而乘治之」。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫字形的诸说辨正",
+      "statement": "巫的字形所指有多种说法：有说为玉的交错，表示巫师以玉为灵物侍神，但甲骨文「玉」中间一竖是贯穿的；《说文》依小篆释为「象人两袖舞形」，甲骨文看不出象两袖舞形，析形不确。作者初疑其为「示」的上下左右相交表示天地四方神灵，又疑如「亟」字从＋从二乞表示沟通四极，又疑为巫师用蓍草竹签占卜之形，难以确定，存以待考。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫的音源与通假",
+      "statement": "巫为音源字，源自巫师跳神时的呼喝声，义音同「舞」：《周礼·职方氏》「其山镇曰医无闾」，颜师古注《汉书·地理志》作「医巫闾」；《公羊传·庄公三十二年》「饮之无傫氏」，《释文》「无，本又作巫」；《论语·子张》「君子之道焉可诬也」，「诬」《汉书·薛宣传》引作「怃」。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫字族：诬与觌",
+      "statement": "诬：虚言妄语，《玉篇》「欺罔也」，《广韵》「诬枉」，《正韵》「诈也、蔑也、谤也」。觊（觋）：《说文》「能斋肃事神明也，在男曰觋，在女曰巫」，男巫；徐锴谓「能见神也」。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫字族：莁即姑榆",
+      "statement": "莁即莁荑、芜荑，又名无姑、姑榆（大果榆）。其皮可作润滑剂（郑玄注《礼·檀弓》「以水浇榆白皮之汁」引輴车使滑）、可粉碎为食、可作黏合剂、可为药消积杀虫，榆荚可食、子仁可作酱。《博物志》「啖榆则眠不欲觉」，其从「巫」可能主要指其能使人昏睡。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫字族：医与瑿翳",
+      "statement": "医（毉）：《广韵》「医疗也」；《集韵》引《说文》「治病工也，殹，恶恣也，医之性然，得酒而使，从酉」，一曰殹为病声，酒所以治病，《周礼》有医酒，古者巫彭初作医。又同「瑿」（松脂千年为茯苓、千年为琥珀、千年为瑿，即黑色琥珀），又同「翳」（乌木，出交州）。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "巫字族：幠与鹀",
+      "statement": "𢃀（幠）：《广韵》「欲空之貌」，《集韵》「毳也」，《方言》「楚曰𢅡𢃀」，郭璞谓「物之行敝」；幠，《玉篇》「大也、有也、覆也、张也」。鹀（鷡）：鴾鹀，鸟名，鴽也，鹌鹑类的小鸟、小型鸣禽。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "筮的构形与本义",
+      "statement": "筮从竹从巫从𦥑：竹指蓍草或竹签，𦥑指双手伺弄，从巫象意巫师用蓍草或竹签占卜。《说文》「《易》卦用蓍也，从竹从𢍮（古文巫字）」；《集韵》又读 shé，谓「揲蓍占也」。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "筮字族：揲与大衍之数",
+      "statement": "𢶅（揲）：《集韵》同揲，《说文》「阅持也」，或作抴、𢶅、𥰰；按定数更迭数物、分成等分。《周易·系辞上》详述大衍之数五十、其用四十有九，分二象两、挂一象三、揲四象四时、归奇于扐以象闰的蓍占程序。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "筮字族：澨噬遾",
+      "statement": "澨（𨼹）：《说文》「埤增水边土，人所止者，从水筮声」——在水边增益土作为堤防，成为人们居住的地方，《玉篇》又为水名、水边地、涯。噬：《说文》「啖也，喙也，从口筮声」——咬吃，《广雅》「息也」，《方言》「忧也」。遾：《广韵》「逮也」，《正韵》「及也」，《集韵》「远也」——相及，或指远。",
+      "boundary": "源自《系统汉语》第315部「巫部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "吴的构形与本义",
+      "statement": "吴从夨从口，象意且歌且舞的样子。《说文》「姓也，亦群也，一曰吴，大言也」；徐锴谓大言故夨口以出声，《诗》「不吴不扬」今写《诗》者改吴作㕦，其谬甚。吴实为「娱」的初文，《玉篇》「乐也」。",
+      "boundary": "源自《系统汉语》第316部「吴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "吴的转义",
+      "statement": "歌舞意味着快乐，故引申指安乐（《集韵》「安也、度也、助也、乐也」）；由歌舞时的大声及动作幅度之大，引申指大义（《方言》「大也」，《广雅》「本也」）。",
+      "boundary": "源自《系统汉语》第316部「吴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "吴的音源",
+      "statement": "吴为音源字，源自歌舞时的呼号声。",
+      "boundary": "源自《系统汉语》第316部「吴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "吴字族：歌舞夸大啼呼一路",
+      "statement": "此路表示歌舞状、夸大、啼呼。误（悞）：错误、妨害、迷惑。虞：驺虞（白虎黑文、尾长于身、仁兽、食自死之肉），疑为假面之舞，希望老虎不吃活人而以虎皮扮演，故其意为预料、欺骗（《正韵》「虑也、测也」，《广雅》「欺也、惊也」）。俁：容貌魁伟（《诗》「硕人俁俁」）。鸆：鸅鸆（护田鸟）、苍鸆（妖鸟九头鸟、鬼车鸟、姑获鸟，夜飞以血点小儿衣物令病惊）。悞：欺也、疑也。",
+      "boundary": "源自《系统汉语》第316部「吴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "吴字族：歌舞夸大一路诸字",
+      "statement": "锃（杇、釫、𢫸、铻）：泥镘，涂工之具；锟铻为山名、出金可作刀切玉；又为犁铧（耕田翻土的农具）。𢫸（捂）：斜相抵触。𣑀：杇的或体。𤝲（㹳）：兽名，如猿，善啼。𪕜（鼯）：鼯鼠，状如小狐似蝙蝠，肉翅，亦谓之飞生。洖：人名。㻍（珸）：琨㻍剑名，又石次玉。𦨳：船名。",
+      "boundary": "源自《系统汉语》第316部「吴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "吴字族：成群歌舞聚集一路",
+      "statement": "此路表示聚集貌。娱：欢乐，即唱歌跳舞。噳：《说文》「麋鹿群口相聚貌」（《诗》「麀鹿噳噳」），《广韵》「笑貌」。茣（䓊）：一种草似艾。蜈：蜈蚣，多足，取群舞时舞步相连意。澞：丘陵间的溪水，指其蜿蜒曲折貌。麌：牡鹿，又麌麌为群聚貌。祦：福也。峿：岖峿，山貌。𦾚：同「箑」，悬肉的竿子。𩦢：俗「虞」字。𪋬：麋鹿群相聚貌。鯃（𩶭）：𩶭鮈，鲤科小型淡水鱼，口角有须、体侧有一行淡黑色斑点，群游。",
+      "boundary": "源自《系统汉语》第316部「吴部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞的构形与本义",
+      "statement": "舞从夨从双手持有枝状物，当是手牵手或手持道具跳舞的样子。《广韵》「歌舞」。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞的转义为耍弄",
+      "statement": "由舞蹈之状引申指耍弄、玩弄，如《汉书·张汤传》「舞文巧诋」。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞的转义为虚无与间隙",
+      "statement": "舞蹈是用肢体再现现实生活而并非实有，由此引申指没有、虚无，此义分化为「无」，战国古文或写作「无」，实际就是「夨」的变体；由虚无引申指间隙（《尔雅》「间也」），或引申指覆盖、杂乱、茂密（《广韵》「蕃滋，生长」）。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞字形的辨正",
+      "statement": "《说文》依小篆将舞、无、𣞤分而析之：舞「乐也，用足相背，从舛无声」，𣞤「丰也，从林𡘲，或说规模字」，无「亡也，从亡无声」，故析形不确。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞的音源",
+      "statement": "舞为音源字，源自舞蹈时的呼喝声。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞字族：舞步杂乱交错一路",
+      "statement": "此路表示杂乱、交错。璑：三采玉，颜色杂乱、质地较差。芜：荒秽、丛生之草，又读 wǔ 为丰盛。𦌬：牖中网，状似网络的窗棂，又为网。鹀：鴽鸟（鴾毋），即乳鸽。踎（䟼、𨅐）：践也、履也，俗「武」字，又为足迹。蟱（蝥）：蜘蛛（鼄蝥），又蟱𧍪为青蚨别名。䌗（䋨）：缫丝出绪后的残余，又为治敝絮。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞字族：舞步一路诸字",
+      "statement": "庑（𢋑）：堂下周屋，疑本即舞台，《释名》「大屋曰庑，庑，幠也，幠，覆也」。幠：覆盖，《尔雅》「大也、有也、傲也」。𨼊：弘农陕东陬。鄦：炎帝太岳之胤、甫侯所封，读若许。䉑：黑皮竹，每节生三枝，枝叶秀媚婆娑可爱。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞字族：舞姿轻盈妩媚一路",
+      "statement": "此路表示轻盈、妩媚。抚（摹、摸）：安抚、抚摸，又为收拢（《小雅》「拾也」），mó 为模仿。怃（㒇）：爱抚（韩郑曰怃），一曰不动，又怅然失意、呆若木鸡，又媚好、傲、空。瞴：瞴娄，微视、悄悄看一下，又好、美目貌。潕：即舞水，出河南泌阳西北，熊会贞谓「平地涌出，若飞舞然」。妩：娇媚、美女。膴（脢、脄）：无骨干肉，指如舞者肢体的柔软，又大块鱼肉、大、法、土地腴美、背肉。儛：与舞同。𩻚：鱼名。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "舞字族：舞蹈内容模仿空无一路",
+      "statement": "此路表示模仿、空无。譕（谟）：诱词、假话哄人的空话，mó 为议谋。墲：冢、墓域，又规度墓地。甒（𤮢）：古代盛五升酒的有盖瓦器，口小腹大底小较深。䒉：长艇船。橅（模）：法式、规范，又木名（模木生周公冢上，叶春青夏赤秋白冬黑）。𠥢：刀室（刀鞘）。呒：惊愕（《汉书·韩信传》「诸将皆呒然」）。㷻：同无、同模。𤏠（𡆶、模、橅）：模的或体。𨶭：县名，一说讹字。",
+      "boundary": "源自《系统汉语》第317部「舞部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "武的构形与本义",
+      "statement": "武从戈从止：或象意以戈阻住人的脚步，即武力征服、迫使之意；或象意持戈而行，指武士、军事行动。《说文》引楚庄王「夫武，定功戢兵，故止戈为武」。",
+      "boundary": "源自《系统汉语》第318部「武部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "武的转义",
+      "statement": "由武装活动引申指勇猛、兵器（《玉篇》「健也、力也」，《广雅》「勇也」）；用戈进攻时步伐不能跨得太大，故引申指半步、足迹（《广韵》「迹也」，《国语·周语下》「不过步武尺寸之间」，韦昭注「六尺为步，贾君以半步为武」）。",
+      "boundary": "源自《系统汉语》第318部「武部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "武的音源为借音",
+      "statement": "武为借音字，挥戈如舞，故义音同「舞」：《左传·庄公十年》「以蔡侯献舞归」，「舞」《谷梁传》作「武」；《战国策·燕策》「燕国有勇士秦武阳」，「武」《史记·刺客列传》作「舞」；《史记·司马相如列传》「娬媚姌袅」，「娬」《汉书》作「妩」。",
+      "boundary": "源自《系统汉语》第318部「武部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-55-wu",
+      "title": "武字族：跨步一路",
+      "statement": "此路多指武步，表示跨步之状。赋：征敛税收（比量田亩按标准收取），又为量、班、税、动、藏、操、禀受、给与、贡士、赋颂，诗六义之一（孔颖达疏「赋之言铺，直铺陈今之政教善恶」）。陚：小土山、平原。倵：人名用字。錻：镀锌铁皮（马口铁）。䟼：迹也、践也、履也。甒（𤭎、𤮢）：甖，周魏之间谓之甒。珷（碔）：石似玉，疑指鹦鹉般的五色玉。娬：妩媚，姿态美好可爱。虣：虐也、急也、强侵、猛，义音同「暴」。鹉：鹦鹉，能言鸟，青羽赤喙、舌似小儿，凡鸟四指三前一后而此鸟两指向后。",
+      "boundary": "源自《系统汉语》第318部「武部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
