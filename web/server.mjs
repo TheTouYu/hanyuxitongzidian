@@ -384,7 +384,12 @@ const CARD_SECTIONS = [
 // 固定栏序：结论 → 分级 → 声母义 → 先释字根 → 本义 → 转义 → 衍生字义 → 横向对照 → 字形 → 一句总结
 const CARD_ORDER = ['jielun', 'fenji', 'shengmu', 'zigen', 'benyi', 'zhuanyi', 'yansheng', 'duizhao', 'zixing', 'xiaojie', 'zuyu', 'other'];
 
-const CARD_PROMPT = `你是《系统汉语》字卡的编辑。只依据下面给出的知识条目填写字卡，条目以外的内容一个字都不许加。
+let EXEGESIS_STYLE = "";
+try {
+  const { readFileSync } = await import("node:fs");
+  EXEGESIS_STYLE = readFileSync(new URL("./prompts/exegesis.md", new URL("../", import.meta.url)), "utf8").trim();
+} catch (e) { EXEGESIS_STYLE = ""; }
+const CARD_PROMPT = `${EXEGESIS_STYLE ? "【释字回答体例（共用规范，必须照此组织答案）】\n" + EXEGESIS_STYLE + "\n\n" : ""}你是《系统汉语》字卡的编辑。只依据下面给出的知识条目填写字卡，条目以外的内容一个字都不许加。
 
 只输出严格 JSON，不要代码块标记，不要解释：
 {"结论":"…","字根":"…","本义":"…","转义":"…","衍生":"…","对照":"…","字形":"…","小结":"…"}
