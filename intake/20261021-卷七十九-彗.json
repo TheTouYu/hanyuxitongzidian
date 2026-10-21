@@ -1,0 +1,743 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷七十九 彗（481.彗部至490.耑部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "卷七十九音源字：彗",
+      "statement": "本卷音源字为「彗」，象草本植物的穗子形。其音源自风吹穗子声；因可扎作扫把，故其音也可说是源自扫地声。「𥝩、朵、耑」实际上都是指穗子，故也都可视为音源字。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/79a-hui.md",
+      "topic_title": "卷七十九·彗",
+      "topic_summary": "《系统汉语》卷七十九「彗」第481–490部（p1380–p1395）。音源字彗象草本植物穗子（两彐相叠），音源风吹穗子声与扫地声；𥝩、朵、耑皆指穗子，故一并视为音源字。第十章「卝」之第七卷。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "扫帚的起源",
+      "statement": "扫帚是最简单不过的清洁工具，它的出现不知有几十上百万年了。《说文解字》「古者少康初作箕、帚、秫酒。少康，杜康也，葬长垣」——杜康是夏禹的第五位继承人，扫帚的出现应该不会这么晚：大约人类只要是需要一个住处、为了避免蚂蚁咬人，也要弄干净一块地方的，这就必然要用到扫帚。其形制也很简单，将树枝什么的扎在一起就可以用了。使用过程中人们会发现脱了子实的草本穗子最好用，细软而有韧性，细小的灰尘也能扫走，而且耐用。于是甲骨文指扫帚的「帚」就写作扎在一起的穗子状，而指睡觉的「寝」字写作房子里有一把扫帚——意思是没有床，只要把地扫干净就可以睡了。作妻子的主要家务就是扫地，故名之为「婦」。杜康发明扫帚，顶多可能是高粱（秫）穗扫帚的发明人，因为他要酿高粱酒、身边都是高粱秆，顺手扎一个就发明出来了。高粱的穗子比一般草本要长、韧性好又容易得到，一直来是比较理想的扫帚材料，估计五六千年来它是家用扫帚的主流，只是在近些年随塑胶扫帚广泛使用才逐渐退出历史舞台。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "扫帚与礼俗",
+      "statement": "由于扫帚举足轻重，早在古代就形成了一些特别的礼俗，体现了中华民族爱清洁的传统美德。「黎明即起，洒扫庭除」，自古以来这是每个家庭每天开始做的第一件事；客人要来，扫地也是第一要做的。《史记·孟子荀卿列传》记阴阳家邹衍到燕国时「昭王拥彗先驱，请列弟子之座而受业」——「拥彗先驱」指主人在贵宾来临之前叫家仆拿着扫帚站在门前恭候，表示门里门外已经打扫干净可以进屋了；我国已出土的汉画像石上常见「拥彗门吏」或「拥彗奴婢」的图案，刻画奴仆躬身持扫帚于门前、扫帚头向上柄朝下。客人来了后一般不得扫地，即使扫到一半也得停止，等客人走了再扫，不然恐被误会是赶客；如果必须要扫得格外小心，《礼记·曲礼》「凡为长者粪之礼，必加帚于箕上，以袂拘而退」，即扫撮垃圾时要将扫把覆住畚斗、不让对方看到垃圾，然后以衣袖遮住畚斗退着离开。为迎接新春，每年农历十二月廿四日起要进行一次卫生大扫除（「扫龙煤」），而正月初一这天则不能扫地，即使不得已要扫、扫下的垃圾也不能往外倒，说是会把家中的财气扫出去。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "扫帚的民俗意义",
+      "statement": "由于扫帚跟灰尘、垃圾打交道，在人们心目中也有特别的意义。民间认为扫帚可扫除邪恶、驱凶化吉，故有许多「妙用」与禁忌：例如妇女怀孕期间居室的物件不得搬动，万一非搬动不可，搬动前先用扫帚在物件周围拍拍打打、象征性地扫几下便可；闽南、台湾民间有些人家喜欢在门旁墙上悬挂一把扫帚用来「驱邪避恶」。同时扫帚自身也被认为有些邪气：用扫帚打人是最大侮辱，骂人是「扫把星」是最恼恨的诅咒。而且自古以来，像扫把一样的星星——彗星，人们一直心怀恐惧，认为它的出现跟灾难相关联，因此一直没有停止过对其认真细致的观察，并形成了一整套占卜体系——长沙马王堆出土的西汉帛书中就绘出了 20 多种不同形状的彗星天象与相关说明；历代史书都记载了彗星出现的情况，最早有确切记载的是《春秋》「鲁文公十四年（公元前 613 年）秋七月，有星孛入于北斗」，这是世界上第一次关于哈雷彗星的确切记录。世界上大多数民族都有过类似的看法，比如在西方，扫把就成了巫师的交通工具。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "扫帚声与音系",
+      "statement": "用扫帚打扫时会发出声音，因此它也就自然地成为了汉语的音义元素之一；所关联的意义比较简单，主要跟扫帚的形状、扫帚的作用相关。但由于扫帚所用的材料以及打扫的物件不同，发出的声音也会有差异，这也给确定其音系的基本读音带来难度：古代地面一般为土质，室外一般打扫树叶等杂物，所用扫帚一般为竹枝扎成、比较粗硬，扫出的声音比较响，大致为 suɑ-suɑ- 声；室内一般为灰尘、生活垃圾、家禽粪便等，所用扫帚一般为高粱秆、苇穗扎成、比较细密，扫出的声音比较小，大致为 hui-hui- 声；还有打扫特别的地方，比如灶头、桌凳、炕床、臼磨等，所用扫帚一般为稻草、茅穗、笋壳、棕毛扎成，比较小而且用有所专，声音更各不同，大致为 yi-yi-、fu-fu- 之类。另外还有用羽毛扎成的掸帚、用纤维扎成的拂尘以及拖把之类，其实也都属于帚类——这些都只能大致根据其形音义的统一性作适当归类。而扎扫帚用的一般都是草木的末梢部分，故指末梢物的如「尾、未、又」等大多与其同音。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "本卷归属的混乱",
+      "statement": "因此本卷的归属比较混乱：扫帚有将物归拢、聚集义，故义音同「囗」（古「彗、囗」可通，《六韬·守土》「日中必彗」，银雀山汉墓竹简本作「卫」）；穗本处于植物的末端，有细微之意，故义音同「米」（古「彗、米」可通，《公羊春秋·庄公二十八年》「冬，筑微」，《释文》「微，左氏作麋」）；成熟的穗一般都会曲垂而呈佝偻状，故义音同「丩」（古「彗、丩」可通，《诗·周南·樛木》「南有樛木」，《释文》「木下句曰樛，马融、《韩诗》本并作朻」，《尔雅·释木》「下句曰朻」）。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "彗本义：穗子",
+      "statement": "象两彐形——「彐」象草本植物尤其是芦苇、茅草的穗子形，两叠表示众多的意思。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "彗的转义",
+      "statement": "脱粒后的穗子多被扎作扫把用，故引申指扫帚（huì，《广韵》「帚也」）；或专指彗星（《集韵》「妖星」，古人认为彗星是扫把星、不祥之星），又由彗星引申指十分明亮（《广韵》「日中必彗」，《集韵》「日中暴明也」）。穗子细长、一般处于顶端，故引申指悬着的细小物体，此义分化如「㨹（huì）」（《集韵》「裂也、挂也」）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "彗的辩证与音源",
+      "statement": "小篆讹作「甡」，故《说文》「扫竹也，从又持甡」析形不确（徐灏注笺「甡盖象竹篲之形，非甡字，犹鸟足从匕而非匕、鱼尾似火而非火也」）。另外其形状或象鸟羽形，因此多被当作「羽」而与羽毛之意相混——不过羽毛也可以集束成帚称「掸帚」，只是不能用于扫地而是用于掸灰。音源：音源字，源自风吹穗子，或用穗子抽打时所发出的声音。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "彗的字族：扫把",
+      "statement": "①指穗用，表示扫把：篲（suì、huì，《集韵》「彗，竹帚也，或从竹」；《竹谱》「篲，筱竹，中扫箒细竹也……物各有用，扫之最良」）、蔧（huì，《玉篇》引《尔雅》「葥，王蔧」，王帚也；《本草纲目》「子落则老，茎可为帚，故有帚、蔧诸名」——地肤草，嫩苗可食、老可为帚）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "彗的字族：悬着的细长物",
+      "statement": "②指穗状，表示悬着的细长物体：槥（huì，《说文》「棺椟也」，小棺材）、暳（huì，《玉篇》「众星貌」，《集韵》「小星谓之暳」）、鏏（wèi，《说文》「鼎也」，一种小鼎，《玉篇》「铜器，三足有耳也」）、䵻（suì，《广韵》「小鼎」，即鏏）、㨹（huì，《集韵》「裂也、挂也」）、𢄣（suì，《类篇》「盥巾谓之𢄣」，洗手用的巾）、轊（wèi，《集韵》「车轴头」，即套在车轴末端的金属筒状物）、𦒄（huì，《玉篇》「六翮之末」、《集韵》「翮末」，鸟翅羽茎的末端）、𢑹（hú，《字汇补》「饮器」，悬于腰间的扁壶之类）、𢟩（suì，《集韵》「谨也」）、𩏚（suì，《集韵》「韢，橐纽也，一曰盛虏头囊」，捆口袋的带子或盛敌人首级的口袋）、㻰（wèi、zhì，《集韵》「璏，劔鼻玉」，剑鞘旁的玉制附件，古人佩剑即以带穿璏而系于腰间）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "彗的字族：彗星突然明亮",
+      "statement": "③指彗星，表示突然明亮：慧（huì，《说文》「儇也」，聪明，《广韵》「解也」、《增韵》「妍黠也」）、嘒（huì，《说文》「小声也」，引《诗》「嘒彼小星」，形容小声或清脆的声音）、𦄑（suì，《说文》「蜀细布也」，四川出产的一种白细布）、譿（huì，《集韵》「辨察也」，《玉篇》「材智也、察也」）、熭（wèi，《说文》「暴乾火也」，曝晒）、𤑡（chǎo，《龙龛》同「炒」，把东西放在锅里来回翻腾搅拌弄熟）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "雪的形义",
+      "statement": "从雨彗声，指雪花——因其状如苇絮，故从「彗」（xuě，《说文》「凝雨，说物者」，《释名》「绥也，水下遇寒气而凝，绥绥然下也」）。转义：雪能使空气变得清新、铺在地上白茫茫的能润泽土地、冻死害虫，故引申指擦拭、消除、洗涤（《广韵》「又拭也、除也」，《正字通》「又洗涤也，凡冤释曰雪冤、刷耻曰雪耻」）。字族：𠞯（suǒ，《玉篇》「削也」）、膤（xuě，疑从肉指皮屑）、鱈（xuě，下颌有一大须、口大吻突、肉洁白如雪，生活在寒冷深海，肝含大量维生素，通称「大头鱼」）、樰（xuě，疑指木屑或雪橇）、艝（xuě，滑雪工具即雪橇）、轌（xuě，地名用字，疑也指雪橇）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "习（習）本义：彗星",
+      "statement": "从日彗声——「日」指太阳或星星等发光的天体，从「彗」指穗子，象意彗星出现时会拖出如扫帚般长长的尾巴；也可谓象彗星形。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "习的转义",
+      "statement": "彗星是一种由冰物质组成的天体，它们绕着恒星飞速运行：远离恒星时体积很小，接近恒星时受恒星辐射影响分解成彗头、彗发和彗尾，体积变得十分巨大、拖曳如扫帚一般；目前人们已发现绕太阳运行的彗星有 1700 多颗，它们都会呈周期出现，其中哈雷彗星最为著名、每 76 年便会出现一次。因此引申指反复、连续（huì，《玉篇》「飞也、串也」，《正字通》「又串习惯熟也」「又重也」「又风接续也」）。彗星出现时会拖曳出一道强烈的白光，故引申指明亮（此义分化如「熠（yì）」，《说文》「盛光也」）。由于彗星状似扫帚，古人联想到扫帚是扫除污秽用的，因此认为彗星的出现也是在打扫天庭，根据天人感应思想认为这预示着地上会有大事发生乃至朝代更替，故史书对彗星出现都有详细记录；由此引申指恐惧、害怕（此义分化如「慴（zhé）」，《说文》「惧也」）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "习的辩证与音源",
+      "statement": "由于「彗」和「羽」、「日」和「白」字形相近，小篆讹从「羽白」，故《说文》「数飞也，从羽从白」所析不确。音源：本彗声；因彗星之状或如发簪，故义音通「妾」（《类篇》「𣮌，或作𣮍、𣯥」）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "习的字族：光亮白",
+      "statement": "①指彗星的光，表示光亮、白：熠（yì，《说文》「盛光也」，引《诗》「熠熠宵行」，《广韵》「熠耀，萤火」）、𧐔（xí、yì，《集韵》「𧐔𧐔，虫貌」；「𧐔𧕋，虫名，萤火也」）、𪄶（xí，《集韵》引《山海经》「小侯山有鸟，状如乌而白文，名曰鴣𪄶」）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "习的字族：形似之物与皱褶",
+      "statement": "②指彗星状，表示形似的物体或皱褶：鰼（xí，《说文》「鳅也」——泥鳅的尾巴象扫帚）、𥱵（huì、suì，同「篲」；xí，《广韵》「檐𥱵，修船具也」）、騽（xí，《说文》「马豪骭也」，马膝胫间多长毛；《玉篇》「骊马黄脊」，背脊黄色的黑马）、槢（xí，《说文》「木也」，《玉篇》「坚木也」，《集韵》「梁也」；李善注「械楔也」，接合之木）、𦸚（xí，《广韵》引《埤苍》「𦸚茵，水草」）、𦾬（zā，《玉篇》「草名」）、𣯥（jié，《类篇》「目旁毛也」，睫毛）、𦗗（zhé，《集韵》「耳也」）、褶（dié，《玉篇》「衣有表里而无絮也」，夹衣；zhě，《正字通》「衣有襞折曰褶」，衣裙的皱褶）、摺（zhé，《说文》「败也」，毁坏；《广韵》「摺叠也」，折叠；lā，「摧折、折辱」）、䌌（qiè、xí，《说文》「緁，缏衣也」，衣物的缘饰、花边）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "习的字族：恐惧",
+      "statement": "③指彗星的不祥，表示恐惧：慴（zhé，《说文》「惧也」，表现了先民对彗星的恐惧心理、视其为祸祟）、謵（xí，《说文》「言謵詟也」，用言辞使惧怕；chè，《广韵》「小语」）、㗩（xī，《玉篇》「忍寒声」）、㿇（xí，《集韵》「痹疾」；xì，「小痛也」）、𣤊（lā，《玉篇》「𣤊歁，不满貌」）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "习的字族：拖曳飞速",
+      "statement": "④指彗星的出现，表示拖曳、飞速：𦒆（lā，《广韵》「𦒆𦑇，飞貌」）、㦻（xí，《玉篇》「古文袭字，轻师不备也」）、磖（lā，《集韵》「磖磼，破物声」；lá，同「砬」，岩石）、䐲（zhé，《广韵》「肉半生半熟」，《玉篇》「腥也」，《韵会》同「䐑」——切成薄片用于涮吃的肉）、䒁（xí，《玉篇》「子船」，系于大船后面用来接运乘客或货物的小船）、𤗨（dié，《集韵》「治也」）、𦧱（tà，《集韵》「歠也」，舔饮）、𨄌（dié，《集韵》「䠟足也，一曰小步」；xiè，「躞蹀，行貌」）、𤛊（lā，《玉篇》「牛牴」）。⑤形近字「㬎」之讹：𦒣（shī，《字汇补》「古文濕字」）、𨻸（xí，《集韵》「隰，《说文》『阪下湿也』」，低湿的地方）。",
+      "boundary": "481.彗部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "帚本义：扫帚",
+      "statement": "甲骨文从屮上有彐形指草穗，或加符号表示集中、束缚、捆扎，象意用草穗扎成的扫帚（zhǒu，《广韵》「少康作箕帚」）。",
+      "boundary": "482.帚部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "帚的转义与辩证",
+      "statement": "扫帚的作用主要是用于将室内的灰尘、粪便等垃圾杂物清除干净，故引申指弃除（《玉篇》「扫除粪秽也」）；扫帚还用于将零散的东西聚拢，故引申指会合、返回，此义分化如「归」（《正字通》「入也、还也」）。辩证：小篆「彗」的一束讹变作「又」形、下面的「屮」讹变作「巾」，故《说文》「粪（弃除）也，从又持巾埽冂内」析形不确。音源：音源字，源自扫帚扫地声；因扫如爬搔，故义音同「蚤」（《史记·黥布列传》「大王宜骚淮南之兵渡淮」，「骚」《汉书·英布传》作「埽」）。",
+      "boundary": "482.帚部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "帚的字族：帚形",
+      "statement": "①指帚形，表示扫帚或相似物：菷（zhǒu，《玉篇》「俗帚字」，草编的扫帚）、箒（zhǒu，《玉篇》「俗帚字」，竹枝扎的扫帚）、㫶（zhǒu，《集韵》「明也」，疑本指彗星）、𦸱（fù，《玉篇》「草也」）、𡹙（guī，山名）、鯞（zhǒu，《尔雅·释鱼》「鱊鮬，鱖鯞」，郭璞注「小鱼也，似鲋子而黑，俗呼为鱼婢，江东呼为妾鱼」——鰟鮍一类小型鱼类，体极侧扁而高、体色鲜艳，之所以从「帚」可能是指雌鱼在生殖季节会拖着一条长长的产卵管、其状如持帚）。",
+      "boundary": "482.帚部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "帚的字族：打扫",
+      "statement": "②指帚用，表示打扫或打扫之状：婦（fù，《说文》「服也，从女持帚，洒扫也」，《释名》「服也，服家事也」——操持家务的已婚女子）、埽（sǎo，《说文》「弃也，从土从帚」，扫除；sào，《正字通》「隄岸曰埽」，竹木为枋、和土以捍水，今黄河之役用之）、𪂋（fù，《字汇》「巧妇，鸟名」，鹪鹩善于筑巢，一旦发现敌情会蹲下扇动翅膀拍击背部、不停晃动尾羽进行恐吓如扫地一般）、㴆（jìn，与浸、𣼡同）、𠴵（zào，《龙龛》「俗噪字」，群鸟鸣声）、𧌈（fù，《玉篇》「鼠𧌈也」，鼠妇，一种小虫，俗称地鸡、地虱子或地虱婆，生活在阴暗潮湿的枯枝败叶环境中，意即如扫帚一般从事打扫）。",
+      "boundary": "482.帚部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "𠬶本义：编扎、打扫、抽打",
+      "statement": "甲骨文从又持帚，作声旁时或省「又」。因穗子的功用不同，象意主要有三：一指用穗子编扎，可以是扫帚也可以是荐席之类（「葠（shān）」字初文，《玉篇》「葠犹苫也，草自藉也」）；一指持帚打扫（「扫（sào）」字初文）；一指持穗抽打（「𢬶（jìn）」字初文，《集韵》「击也」，此义或加「牛」指鞭笞牛）。转义：由鞭笞引申指侵凌、侵蚀，此义分化如「侵」（《玉篇》「伤也」）。",
+      "boundary": "482.帚部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "𠬶的字族：抽打侵凌",
+      "statement": "①指抽打，表示侵凌：祲（jìn，《说文》「精气感祥」，阴阳之气相侵形成象征不祥的妖气）、𣆲（qīn，《玉篇》「日光也」，疑本同「习」指彗星）、㾛（qǐn，《广韵》「㾛痛，又貌丑也」）、侵（qīn，《说文》「渐进也」；甲骨文从牛从帚，象用笤帚殴牛之状，牛行缓慢故指渐进；《广雅》「凌也」，凌辱欺侮；《玉篇》「伤也」，侵蚀）、寖（jìn，《广雅》「积也」；《说文》「水，出魏郡武安，东北入呼沱水」即今洺河，本当指扫地前的洒水）、駸（qīn，《说文》「马行疾也」，指笞马所以行疾）、鋟（qǐn、qiān，《玉篇》「以爪刻版也」，刻；jiān，「锐也」）、唚（qīn，亲吻；qìn，本指猫狗呕吐，借用以贬称人说话）、㓎（qīn，「冷也」）、䜷（qīn，「幽豆也」，豆豉）、𠜘（qìn，《玉篇》「克也」）、𢬶（jìn，《集韵》「击也」）、𢱷（jìn，《集韵》「深掘也」）、𢹚（xiān，《集韵》「拈𢹚，手称物也」）、𥍯（qīn，《玉篇》「锥也」）、浸（jìn，《广韵》「渍也、渐也」，浸渍、逐渐；《释名》「目生肤入眸子曰浸，浸，侵也，言侵明也」）、誛（qīn，《正字通》「私语」；一说以言相侵犯）、埐（jīn，《说文》「地也」）。②指帚状，表示形似物：䈜（qìn，《广韵》「䈜墨工人具」，《集韵》「墨渍笔也」——木工划线用的笔，用竹片削成、状如小扫把）、䯹（xiān，《集韵》「发也」）、𪖧（jīn，《集韵》「高鼻谓之𪖧」）。③指编彗，表示寝卧、床荐：寑（qǐn，《说文》「卧也」；古时没有桌椅板凳，坐卧止息乃至吃饭都在席子上，即使到唐朝时都还在床榻上接待客人，因此睡觉之时自然必须将其打扫干净；另外也可能是用草穗作垫以使床柔软；「尽（尽）」的甲骨文正是「寝」的倒置，说明「帚」与「聿」也是密切相关的）、梫（qǐn，《说文》「桂也」，肉桂，皮厚有香气；或指一种常绿灌木「马醉木」，叶子有剧毒、煎汁能杀害虫，疑古以其驱除床榻上的虫子，故名之）、𦯈（qǐn，《说文》「覆也」，即垫床用的草）、㝲（qǐn，《说文》「病卧也」）、綅（qīn，《说文》「绛线也」，疑误，当作麻葛类编织的粗厚之服；「朱綅」应指红色的粗布衣）、葠（shān，《说文》「丧藉也」，居丧时供人睡寝的草垫；shēn，「人薓，药草，出上党」——人参，年深浸渐长成者根如人形故谓之人薓，薓字从𣹰亦有浸渐之意）。④形近字「寻」之讹：鮼（qīn，《正字通》「鲟字之讹」，疑非讹字——鲟鱼体长，外形本似帚）。",
+      "boundary": "482.帚部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "龖本义：强烈的电闪雷鸣",
+      "statement": "从「龙」的二叠——「龙」本指闪电，二叠表示极致，象意强烈的电闪雷鸣（北周卫元嵩《元包经·孟阳》「震，龖之赫，霆之砉」——雷震动时闪电放出强光、雷霆产生巨响）。转义：由电闪雷鸣之状引申指震怖（dá，《六书精蕴》「震怖也」）。",
+      "boundary": "483.龖部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "龖的辩证与音源",
+      "statement": "由于龙被传说成能呼风唤雨的神灵之物，故《说文》「飞龙也，从二龙，读若遝」释义不确。音源：借音字，因其亮如彗星而义音同「习」（古龖、习、聂可通：《书·大禹谟》「卜不习吉」，「习」《左传·哀公十年》作「𧟟」；《史记·项羽本纪》「诸将皆慴服」，《汉书·项籍传》作「诸将𧮩服」）。",
+      "boundary": "483.龖部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "龖的字族",
+      "statement": "指电闪雷鸣之状：襲（xí，《说文》「左衽袍」，《释名·释丧制》「衣尸曰袭。袭，匝也，以衣周匝覆之也」；《玉篇》「入也、重衣也、因也、还也、掩其不备也」——取闪电的迅速而乌云密布意）、龘（dá，《玉篇》「龙行龘龘也」，《龙龛》「龘、龖，龙飞之貌也」）、𧮩（zhé，《说文》「失气言，一曰不止也」——声嘶力竭、说过不停，取雷声的巨大而连续意；《正字通》「又惧也，与慴、慹通」）、𦒮（fēi，《字汇补》「与飞音义同」）。",
+      "boundary": "483.龖部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "尾本义：人后有尾",
+      "statement": "象人后有尾之形（wěi，《说文》「微也，从到毛在尸后。古人或饰系尾，西南夷皆然」）。",
+      "boundary": "484.尾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "尾的转义",
+      "statement": "由人体的饰尾之形引申指凡动物的尾巴（《玉篇》「鸟兽鱼虫皆有之」，《广韵》「首尾也」）；尾在脊椎骨的末端、在身体的后面，故引申指末端、后面（《玉篇》「末后稍也」，《广雅》「后也」）；由于动物的生殖器多在尾下，故称动物的交配为交尾（《广韵》「交接曰尾」）。",
+      "boundary": "484.尾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "尾的音源",
+      "statement": "借音字。尾状如穗，故义音同「彗」：《书·尧典》「鸟兽孳尾」，「尾」《史记·五帝本纪》作「微」；《论语·公冶长》「孰谓微生高直」，「微生高」《汉书·古今人表》作「尾生高」；《宪问》「微生亩谓孔子曰」，「微生亩」《汉书·古今人表》作「尾生畮」。",
+      "boundary": "484.尾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "尾的字族：尾状随后下垂",
+      "statement": "①指尾状，表示随后、下垂：娓（wěi，《说文》「顺也」，顺从，即跟在后面之意；《玉篇》「美也」）、趘（xí，《篇海》「走也」）、屘（mǎn，台湾地区称少子为「屘」）、艉（wěi，船体的尾部）、荱（wěi，《玉篇》「草名」）、𩗘（wěi，《集韵》「𩗘𩗘，风偃物」）、䜸（měi，《集韵》「碎萁也」，碎豆茎）。",
+      "boundary": "484.尾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "尾的字族：细长条",
+      "statement": "②指尾形，表示细长条：𡲭（mèi，《字汇》「尾长也」）、浘（wěi，《集韵》「浘𤁵，海泄，一曰水流貌」）、𤈦（huǐ，《说文》「火也」，引《诗》「王室如𤈦」——火苗之状如尾）、䞔（wěi，《玉篇》「赤䞔也」）、梶（wěi，《集韵》「树杪」，树梢）、䬿（wěi，《玉篇》「微也」，《集韵》「食余」）、㞙（niào，《集韵》「人小便也，从尾水」，亦作「溺」）、䇻（wěi，《集韵》「竹名」，《字汇》「帚也」）、敹（liáo，《说文》「择也」，引《周书》「敹乃甲胄」——金文从攴从尾米，指敲取穗上的米粒，义音同「料」，《鬼谷子·捭阖》「捭之者，料其情也」皇甫谧注「料谓简择」）、𥒮（wěi，《集韵》「磥𥒮，磨也，齐人语」）、𪘣（yá，「齖」的俗字）、𧋦（wěi，「塘𧋦，蜻蜓」）。③指交尾：𡥸（mìng，《字汇》「初孕也」）。④音译字：𠳿（wēi，叹词，表示焦急痛苦）、𡲼（mì，佛经译音用字）、𡷕（wěi，山名）、𪑐（wèi，佛经咒语译音用字）。",
+      "boundary": "484.尾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "毀本义：捣杵击打破坏",
+      "statement": "从攴从臼从工——「工」指夯土用的杵，「臼」指舂谷物用的臼，「攴」指击打，象意捣杵、击打、破坏（huǐ，《玉篇》「坏也、缺也、破也、亏也」）。转义：由于「臼」也可比喻指牙齿，故或指儿童的换牙（huì，《集韵》「齓也」，《广韵》「男八岁、女七岁而毁齿」）。",
+      "boundary": "485.毀部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "毀的辩证与音源",
+      "statement": "由于「工、壬」相近，战国古文或写如「壬」，小篆则演变从「土」，故《说文》「缺也，从土，毇省声」——「壬」指茎杆，于「毁」义不通；「土」虽可通，但战国古文明明不是从「土」，而「工、壬」每多相混，故以其本为「工」。音源：音源字，源自捣物声；由捣碎之义而义音同「尾」（《诗·周南·汝坟》「王室如燬」，「燬」《说文》「𤈦」字条引作「𤈦」）。",
+      "boundary": "485.毀部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "毀的字族",
+      "statement": "多指捣杵，表示破坏、打开：毇（huǐ，《说文》「米一斛，舂为八斗也」，精米即舂过的米；《集韵》「饘也」）、燬（huǐ，《说文》「火也」，烈火，《字汇》「火焚坏也」）、㩓（huǐ，《说文》「伤击也」，击伤）、𡢕（huǐ，《说文》「恶也，一曰人貌」，毁谤；人丑恶的样子，疑指龅牙或兔唇）、檓（huǐ，《集韵》「木名」，《尔雅》「檓，大椒」——花椒，成熟后花椒子外皮会自行绽开）、譭（huǐ，毁谤）、䥣（záo、zuò，《玉篇》「凿，穿也、錾也」）、𡒂（huǐ，俗「毁」字）、𦽐（huǐ，《玉篇》「𦽐草」）、𧝷（kuì，《广韵》「纽也」，纽扣）、𨷕（wěi，《集韵》「䦱，《说文》『辟门也』」，打开门）。",
+      "boundary": "485.毀部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "美本义：头戴羽角装饰",
+      "statement": "象人头上用羽毛或羊角等装饰之形，象意仪容装扮好看（méi，《广韵》「好色」）。转义：由仪容的好看引申指凡令人舒服、愉快的事物（《玉篇》「甘也、善美」）。",
+      "boundary": "486.美部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "美的辩证与音源",
+      "statement": "小篆将饰物径写作「羊」，故《说文》「甘也，从羊从大，羊在六畜主给膳也，美与善同意」所析不确，所释「甘」当为引申义。音源：借音字，头上冠羽、角其状如尾如彗，故义音同「尾、𢼸」（《诗·陈风·防有鹊巢》「离侜予美」，《释文》「美，《韩诗》作娓」；《周礼·天府》「以贞来岁之媺恶」，「媺」《初学记·岁时部》引作「美」——「娓」所从「尾」、「媺」所从「𢼸」都指末梢之意）。",
+      "boundary": "486.美部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "美的字族",
+      "statement": "①指头饰状，表示顶戴的美：䓺（měi，蘼芜，一种香草，茎高尺许、叶为羽状复叶，风干后可做香料，古人相信蘼芜可使妇人多子故常佩之）、媄（méi，《说文》「色好也」，即蓄有发辫的少女；《六书统》「媄，重文作媺，从女从𢼸，𢼸，少也，一曰少女也」）、嵄（měi，《玉篇》「山」）、渼（měi，《集韵》「水名，在京兆」）。②音译字：鎂（měi，银白色光泽、有延展性的二价金属元素，元素符号 Mg 的译音）。③形近字「菐」之讹：𩋼（bǔ，「䪁」的俗字，络牛头绳）。",
+      "boundary": "486.美部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "威本义：威仪与畏惧",
+      "statement": "甲骨文从戈从女——「戈」是最古老的横刃兵器、代指兵器，所以西周金文或作「戌」指一种阔刃兵器；从「女」，象意有二：或指女子持戈（女性相对男性而言力气要少，所以表示样子吓人，《玉篇》「威仪」）；或指戈加之于女（女性本要比男性胆小，面对武器的袭击自然更为害怕，所以表示畏惧、害怕，wēi，《释名》「威，畏也，可畏惧也」）。",
+      "boundary": "487.威部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "威的转义与音源",
+      "statement": "由威吓引申指威力、法则、德行（《广雅》「力也」，《尔雅》「则也」，《广雅》「德也」）；或专指丈夫的母亲（《说文》「姑也，从女从戌，汉律曰『妇告威姑』」，徐锴曰「土盛于戌，土阴之主也，故从戌」）。音源：借音字，因畏惧而萎缩，故义音同「委」（《易·大有》「厥孚交如威如」，「威」马王堆汉墓帛书本作「委」；《诗·小雅·四牡》「周道倭迟」，「倭迟」《文选·西征赋》李善注引《韩诗》作「威夷」）。",
+      "boundary": "487.威部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "威的字族",
+      "statement": "指威吓，表示看起来厉害：葳（wēi，《集韵》「葳蕤，草木盛貌」，取义于「威」指气势大）、崴（wēi，《集韵》「崴㠢，不平也」，山高的样子；wǎi，（脚）扭坏、扭伤）、揻（wēi，方言，使细长的东西弯曲、折而不断）、蝛（wēi，鼠妇，一种小虫，体椭圆形、灰褐色，生活在阴暗潮湿处，俗称地鸡、地虱子，看起来象害虫其实对人类无害）、鰄（wēi，《广韵》「鱼名」，大约是其口大）、媙（wēi，《字汇》「美女貌」，应即「威」）、隇（wēi，《玉篇》「隇䧅，险阻也」）、縅（wēi，穿盔甲片的线或草）、喴（wēi，象声词，语气词，表示招呼的语气）、㙎（wēi，《玉篇》「决塘也」，掩盖、埋藏）、𥔃（wēi，《集韵》「碨，石貌」）、𦩬（wēi，「𦩬𦩕，独木船」）、楲（wēi，《说文》「楲窬，亵器也」，一种木制的小便器，状如虎口，俗称「虎子」；或指堵塞涵洞的木头）。",
+      "boundary": "487.威部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "𥝩本义：禾穗",
+      "statement": "甲骨文从人伸手取禾穗形（suì，《说文》「禾成秀也，人所以收，从爪禾」）。音源：借音字，义音同「穗」（《集韵》「或从惠，古作𦼯，通作穟」）。",
+      "boundary": "488.𥝩部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "𥝩的字族",
+      "statement": "指禾穗状，表示长而多的样子：褎（xiù，《说文》「袂也」，衣袖；yòu，《广韵》「服饰盛貌」，《集韵》「一曰盛饰，一曰褎褎，禾黍盛貌」）、𧫗（suì，战国古文，从言𥝩声，疑「譓」之异文，《广韵》「多智谋曰譓」）、憓（suì，战国古文，从心𥝩声，疑「憓」之异文，《集韵》「憓，爱也」）、埣（suì，战国古文，从土𥝩声）、邍（suì，战国古文，从邑𥝩声）。",
+      "boundary": "488.𥝩部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "朵本义：禾穗下垂",
+      "statement": "战国古文本从禾的穗部加一短画，象事指禾穗——禾穗上短竖表示其下垂，指事，禾亦声；朵为禾之准声首，「𥠄」之初文。转义：由禾穗悬垂的样子引申指草木花的悬垂（《正字通》「䒳，俗朵字，象草木华𠂹形」）。",
+      "boundary": "489.朵部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "朵的辩证与音源",
+      "statement": "由于小篆讹为从「兀、木」，故《说文》「树木垂朵朵也，从木，象形。此与𥝩同意」析形不确。音源：借音字，义音同「耑」（《集韵》「揣，摇也，一说度高曰揣，或从朵」）。",
+      "boundary": "489.朵部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "朵的字族",
+      "statement": "①指花朵状，表示堆积：垛（duǒ，《说文》「堂塾也」，古代门堂两侧的房间；《玉篇》「射垛也」，设置箭靶的小土墙，也指箭靶子；duò，堆积）、𨹄（duǒ，同「垛」）、㛆（duò，《说文》「量也」，揣量，义音同「度」）、𩊜（duò，《广韵》「履跟缘也」，鞋跟的缘边）、𤱧（tuǒ，《集韵》「𤱧𤱍，小高貌」）、𦚩（wǎ，《集韵》「肥貌」）、𥞛（duò，《玉篇》「积也」，禾秆堆）。②指花朵的悬垂，表示下垂：𥬲（zhuā，《说文》「棰也」，杖、竹鞭）、躲（duǒ，《字汇》「躲避也」，隐藏、避开，即猫腰藏身状）、剁（duò，《玉篇》「斫」，《广韵》「剉」，用刀向下砍）、跺（duò，《玉篇》「行貌」，提起脚来用力踏）、桗（duò，《玉篇》「木枺也」，树根）、尮（duò，《玉篇》「尮𡯁也」，跛、脊背骨骼弯曲）、挅（duó，《集韵》「揣，摇也，一说度高曰揣」；《玉篇》「量度也」）、𥿰（duǒ，《玉篇》「冕前垂」，帽子前面的垂饰）、䤪（duò，《广韵》「鈌也」）、䒳（duǒ，《集韵》「朵，或作朵，亦从草」）、𣧷（duò，《玉篇》「贫殒」）、𤤸（duò，《字汇》「玉名」）、𤬾（duò，《玉篇》「瓯也」；tuó，「堶，飞砖戏也」）、𥙨（huò，《川篇》「惠也」）、𧙤（duǒ，《集韵》引《博雅》「䘶𧙤，袖也」）、𧧨（duò，《类篇》「言相夸也」）、𩬻（duǒ，《玉篇》「发垂」，《集韵》「鬌，剃余发」）。③音译字：哚（duǒ，吲哚，一种有机化合物，分子式 C8H7N）。",
+      "boundary": "489.朵部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "耑本义：抬脚踢（踹之初文）",
+      "statement": "甲骨文从不从止上有小点之形——「不」指花房、胚胎，表示倒悬；「止」指脚；小点表示尘灰，象意抬起脚踢，当为「踹」的初文（chuǎi，《广韵》「足踹」；duàn，《篇海》「足踢也」）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "耑的两源合一",
+      "statement": "西周金文则从彐从而——后者似乎是形近而讹，但「彐」指穗、「而」指爬行，象意禾穗成熟时沉甸甸地悬垂的样子，有着自身的字理，可谓「𥠄（duān）」的初文（《说文》「禾垂貌」）。因此两字很可能是因形近、而又都含有悬垂的意思，导致两者合二为一。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "耑的转义、辩证与音源",
+      "statement": "转义：穗在草本的末端，故引申指头绪（《玉篇》「耑，今为端」；《玉篇》「端，绪也」，《集韵》「始也」）；禾穗悬垂犹如人垂首肃立之状，故引申指正、直（《广韵》「端，正也、直也、等也」）。辩证：《说文》「物初生之题也，上象生形，下象其根也」误将「彐」当作「生」，析形不确（徐铉等注「中，地也」）。音源：音源字，源自脚踹声；但指禾穗的悬垂，则为借音字，义音同「朵」（《易·颐》「观我朵颐」，「朵」李富孙《异文释》「晁氏《易》云：京作㙐，刘亦作㙐」，《释文》「京作椯」）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "端：正直与头绪",
+      "statement": "从立耑声，直也（duān，《说文》「直也」）。《广韵》「正也、直也、绪也、等也」——端正、竖直、头绪、等差；《集韵》「始也」——开始；《篇海》「首也」——顶端；《广雅》「业也」——事业。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "褍、𧤗、顓、剬",
+      "statement": "褍（duān，《说文》「衣正幅」，衣的正而又直的幅面；《集韵》「正衣也」；tuān，「衣宽也」）、𧤗（duān，《说文》「角𧤗，兽也，状似豕，角善为弓，出胡休多国」——郭璞注「角在鼻上，堪为弓」；鼻子本在正中、上长角，所以有正义）、顓（zhuān，《说文》「头顓顓谨貌」，拘谨的样子；《韵会》「蒙也」，老实；《篇海》「通作专」，专擅）、剬（duān，《说文》「断齐也」，切断整齐；tuán，《广韵》「细割」；zhì，《正字通》「又裁制也」，制作、制定、制约）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "瑞：玉信",
+      "statement": "《说文》「以玉为信也，从玉耑」（徐锴曰「耑，谛也，会意」）。《玉篇》「信节也，诸侯之珪也」——用玉制成的信物，即平正的两块可以分合、类似现在的印信；《广韵》「祥瑞也、符也、应也」。媏（duān，《集韵》「女字」）、偳（duān，《字汇》「仯偳，小也」）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "耑的字族：禾穗成熟丰满圆鼓",
+      "statement": "②指穗的成熟，表示丰满、圆鼓：䵎（tuān，《说文》「黄黑色也」，指谷物成熟的颜色）、𪏩（ruì）、𥻁（tuán，《集韵》「䊜，粉饵」——粉饼）、貒（tuān，《说文》「兽也」，猪獾，《正字通》「一名獾㹠，状似小猪，体肥行钝，穴居，足尾短褐毛，尖喙，能孔地，食虫肉」；tuàn，「野豚」）、䝎（tuān，《玉篇》「猪也」，《正字通》「野豕也」）、𦓚（zhuǎn，《说文》「小卮也」，小而圆的酒器）、腨（shuàn，《说文》「腓肠也」，小腿肚子）、篅（chuán，《说文》「以判竹圜以盛谷也」，盛谷物的竹囤）、煓（tuān，《集韵》引《方言》「赫也，一曰火炽盛貌」）、㼷（chuán，《集韵》「江东呼盆曰㼷」；zhuàn，《集韵》「甎，烧墼也」，砖）、輲（chuán，《集韵》「辁，《说文》『蕃车，下庳轮也』，一说无辐曰辁」；亦指载柩车）、䳪（tuán，《集韵》「鸟名」，《尔雅》「鸛鷒、鶝鶔，如鹊短尾，射之，衔矢射人」）、𧍒（chuǎn，《集韵》「蠉𧍒，动虫，一曰无足虫」，蚯蚓之类）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "湍：疾濑",
+      "statement": "《说文》「疾濑也，从水耑声」——迅疾而声小的水流（tuān）；zhuān，《集韵》「水名，出郦县」。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "揣：量度",
+      "statement": "《说文》「量也，从手耑声，度高曰揣，一曰捶之」——测量、揣度，包含高低、远近、大小、轻重；《六书统》「量度也，以手求其端意，一曰扪而察之也」；《广韵》「试也、除也」。duǒ，《集韵》「摇也」；chuāi，怀、藏；chuài，挣揣、挣扎。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "喘、遄、歂",
+      "statement": "喘（chuǎn，《说文》「疾息也」，急促地呼吸）、遄（chuán，《说文》「往来数也」，引《易》「㠯事遄往」——往来频繁而急速）、歂（chuǎn，《说文》「口气引也」，张口出气连续不绝，同「喘」）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "諯、惴",
+      "statement": "諯（zhuān，《说文》「数也，一曰相让也」，数说、责备）、惴（zhuì，《说文》「忧惧也」，引《诗》「惴惴其栗」，忧惧不安、心跳加快；chuǎn，惴耎，虫名）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "鍴、踹",
+      "statement": "鍴（duān，《玉篇》「钻也」，钻、小矛；《篇海》「锁也」，或指觶——形似瓶、侈口、圈足的古饮酒器）、踹（shuàn，《玉篇》「足跟也」；duàn，《集韵》「足也」，《篇海》「足踢也」；chuǎi，踩、践踏）。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-79-hui",
+      "title": "𦦇、𩤚、椯、瘓、𢳐",
+      "statement": "𦦇（zhuì，《集韵》「杵击也」；《博雅》「舂也」）、𩤚（duān，《集韵》「马名」）、椯（duǒ，《说文》「棰也，一曰椯度也，一曰剟也」，马鞭、揣度、刊削；chuán，「木名」）、瘓（tuǎn，《龙龛》「痶瘓也」，瘫痪、四肢麻痹不仁，皆因风寒暑湿所致）、𢳐（zhì、chè，《正字通》「掣，牵曳也」「又揭也、取也」）。④形近字「未（制）」之讹即此类。",
+      "boundary": "490.耑部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
