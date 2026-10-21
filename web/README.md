@@ -12,7 +12,7 @@ web/
 ├── pkc-bridge.py       调 pkc 的桥：强制 UTF-8、补 mingit PATH、参数不过 shell
 ├── public/zigen.json   部/卷/章索引（608 部 / 100 卷 / 12 章，由 tools/zigen-index.mjs 生成）
 ├── public/index.html   单文件前端（字卡 / 问答两种模式、引用芯片可点开原文）
-├── public/glyphs/      字形图 + 实物配图（1059 字 / 2568 图 + 194 张配图 + 1245 条字族表，由 tools/extract-glyphs.mjs 生成）
+├── public/glyphs/      字形图 + 实物配图（5507 字条 / 2502 个有图字 / 13817 图 + 956 张配图 + 1244 条字族表，由 tools/extract-glyphs.mjs 全量生成）
 ├── start.cmd           双击启动：服务 + 隧道
 ├── bin/cloudflared.exe 隧道的二进制（约 53MB，不入 git）
 └── README.md
