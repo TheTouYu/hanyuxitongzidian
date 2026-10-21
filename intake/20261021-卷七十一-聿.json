@@ -1,0 +1,623 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷七十一 聿（427.聿部至430.隶部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿部的音源字是聿（笔的初文）",
+      "statement": "卷七十一的音源字是「聿」，象手持竹枝形，是「笔」的初文，读音来自竹笔书写声。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/71a-yu.md",
+      "topic_title": "卷七十一·聿",
+      "topic_summary": "《系统汉语》卷七十一「聿」第427–430部（p1221–p1230）：427 聿部（p1222）、428 曰部（p1227）、429 立部（p1227）、430 隶部（p1230）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "蒙恬是毛笔的改良者而非发明者",
+      "statement": "传说笔的发明者是秦国将军蒙恬，实际上他只是毛笔的改良者：崔豹《古今注》记其「以枯木为管，鹿毛为柱，羊毛为被，所谓苍毫，非兔毫竹管也」，苏易简《文房四宝·笔谱》记「以狐狸毛为心，兔毫为副」；即改良笔头（硬毛为笔柱、软毛为披毛）、以干木为杆、一端劈开夹笔头、麻线缠紧涂漆加固。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "最早的笔是竹木片",
+      "statement": "最早的笔其实很简单，就是竹木片：藏族至今保持用竹笔的习俗，将竹管削成三角形，一端削成坡面、一端削为单刃成笔头，蘸墨书写；传统木工笔也是如此。这种竹笔挺健有余而柔软不足、流畅性不够、吸墨很少，毛笔于是应运而生。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "商代已有毛笔",
+      "statement": "商代陶片与甲骨上保留有用墨书写的卜辞：1932年河南安阳殷墟出土一陶片上书「祀」字、笔锋清晰；1936年出土一件朱笔书写的陶器和刻有文字的甲骨片，笔迹清晰流畅、挥洒婉转自如、粗细轻重得体——这种笔迹只有毛笔才能体现，说明至少在商代已有毛笔。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "战国毛笔的形制",
+      "statement": "1954年6月湖南长沙左家公山战国古墓出土一支完好毛笔：先将笔毛整理好包裹在笔杆下端外侧，再用细线缠绕勒紧，因笔杆下端刻有一圈凹槽——这大概是秦以前比较通用的毛笔式样。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "秦笔的形制",
+      "statement": "1975年12月湖北云梦睡虎地秦始皇三十年墓出土毛笔三支，外套竹制笔管，笔杆亦竹制、上端削尖、下端较粗、镂空成毛腔，笔头纳入腔内——这就与今天的毛笔无异。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "笔的功用与音义关系",
+      "statement": "笔作为汉字的音义系统主要跟其功用和执笔书写方式有关：其功用在于书写、绘画，故「曰」与其音义相通；执笔要保持笔管竖立，手握要紧而不失灵活，故「立、隶」与其音义相通；执笔与执箸相似，故「食」与其音义相通。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "竹子作为工具的多用途",
+      "statement": "聿从又持半竹，象意以手持竹子作为工具；竹子的作用很多：缕析作刷帚以洗涮器物、作箫笛以为乐器、作篙以撑船、作筷子以夹菜等，《说文》「聿，所以书也」其实只是其中一种用途。",
+      "boundary": "源自《系统汉语》卷七十一「聿」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿的本义是手持竹枝作工具",
+      "statement": "聿从又持半竹，象意以手持竹子作为工具；正因用途多，其义颇多，分化为「者、昼、画、肃、肁、尽」等。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿的转义",
+      "statement": "因用竹作为手头工具十分轻巧便利，故有轻捷之意（《说文》「手之疌巧也」）；由用竹笔书写引申指讲述（《玉篇》「述也」），或引申作语气助词（「自也、辞也」）；由书写之状引申指依循（「循也」）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿的辨证",
+      "statement": "「𦘒、聿」本一字，从「律」字所从即可看出：甲骨文从𦘒、战国文字从聿；但《说文》释聿为「所以书也……从𦘒一声」，又把𦘒混同「疌（niè）」释为「手之疌巧也，从又持巾」，其实疌才从止从巾，析形皆不确。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿与隶、尹相通",
+      "statement": "「隶、㣇」字形与「聿」相近，存在混同；「尹」跟「聿」则是相通的——「画」的甲骨文即或从聿或从尹。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿的音源是竹笔书写声",
+      "statement": "聿是音源字，读音来自竹笔书写声。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿字族：书写表示行进",
+      "statement": "聿部字族第一路取用笔书写：䢖（分布、行貌，又述）、冿（进、志、息进）、𨀞（䠈𨀞不进，走路摇摇摆摆；又跛足）、𠜈、𦘓（劳苦，同勩、肄）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿字族：笔状表示细长尖耸",
+      "statement": "聿部字族第二路取笔状：䋖（长貌、长衣貌）、銉（针；古同肆，悬钟十六枚为一肆）、茟（藜即灰菜；又草木华初生）、𥱂（机𥱂）、侓（侓魁，大貌）、垏（埂埒）、律（普遍施行的条例，古代竹管制成的校正乐律器具——奇数六管称律、偶数六管称吕，引申节令、法令、规则、衡量，又理发曰律、叙述）、峍（山崖）、㡽（言说卑，疑同肇指门杠）、嵂（崒嵂，山高貌）、箻（竹管吹箭以射鸟）、葎（草似葛有刺，善勒人肤故名勒草）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿字族：蘸墨表示黑与滤",
+      "statement": "聿部字族第三路取笔的蘸墨：䮇（骊马白跨，股间白色的黑马）、𧊐（虫名，疑指钻木虫）、𪑯（黑）、𥞰（复姓，𣑵的讹字）、𢯰（去滓汁）、𢫫（捽、捋）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "聿字族：记述表示声音言语",
+      "statement": "聿部字族第四路取笔的记述：㖀（声）、𠷈（鸣，或从率从寽；又鸡鸣）、𢗱（同志）、𧧪（讪的俗字，谤毁诽议）、𥒠（同砉，皮骨相离声）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "笔的本义与转义",
+      "statement": "笔从竹从聿、聿亦声，象意书写用的笔；《说文》「秦谓之笔，从聿从竹」，《尔雅·释器》「不律谓之笔」；笔是书写工具故引申指记述（《释名》「述也，述事而书之也」），或引申指文笔、书画作品。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "笔字族：运笔、蘸笔、笔形、记述",
+      "statement": "笔部字族分四路：运笔（𨅗走貌、𨖷行书——秦使徒隶助官书草𨖷以为行事，取疾速不留意楷法、𢴩刺也同㧙）、蘸笔（潷，滤出液体）、笔形（㻶，青白玉琯）、记述（𠽩，鸣也）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "昼的本义是立竿测日影计时",
+      "statement": "昼从日从聿、聿亦声：聿指手持竹竿，从日象意树立竹竿测量日影以计时，表示白天；《说文》「日之出入，与夜为界，从画省，从日」；此字不具备表音性，没形成字族（仅𣻱为水名）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肃的本义是持篙撑船渡水",
+      "statement": "肃从𣶒从聿、聿亦声：𣶒指深水旋流，聿指持篙，象意持篙撑船渡水，是「橚」的初文（《集韵》「橚矗，行木貌」）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肃的转义",
+      "statement": "撑篙为行船，深水旋流危险必须快速通过，故引申指严峻、峻急（《尔雅·释诂》「疾也、速也」）；或引申指小心谨慎（《说文》「持事振敬也，从𦘒在𣶒上，战战兢兢也」）；由篙插进深渊之状引申指恭敬地引进（《尔雅》「进也」）；由撑船渡水之状引申指飞（《博雅》「飞也」）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肃的音源与字族",
+      "statement": "肃本聿声，因有搜寻意而义音同「叜」（《集韵》「𩙚，凉风谓之𩙚，或作䬒」）；字族第一路取撑篙表示细长深长：萧（艾蒿，艾灸用火易灼伤故须格外小心，故以肃名之，引申肃敬、斜出、萧森、萧散、萧条、萧瑟、萧斧）、箫（参差管乐象凤之翼，即排箫）、䐹（干鱼、肉羹、炒碎肉）、蟰（蟰蛸，长脚小蜘蛛）、鱐（干鱼）、橚（长木貌、楸）、㩋（击、击声）、彇（弓末弯曲处，绷弦之意）、绣（五采具备，指刺绣时小心刺针状）、潇（潇水，水清深；潇潇风雨暴疾貌）、潚（水深且清，同溲淘米）、𩙚（北风、凉风）、𩘹（风声）、啸（吹声，吹气若歌；又叱）、歗（吟，蹙口出声）；第二路取撑船表示浮行泛飞：熽（火炽）、鹔（鹔鹴，五方神鸟之西方者）、䎘（鸟羽声、飞）、骕（骕骦，古之良马）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肁的本义是开门",
+      "statement": "肁从户从聿、聿亦声：户指门，从聿指拿开顶门的竹杠，象意开门；《说文》「始开也」。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肁的转义与辨证",
+      "statement": "由开门引申指开端、初始（《玉篇》「始也、谋也、开也」）；「肁」的初文本当为「启」（从户从口，象门被打开），而「肈」的甲骨文本从戈从户，象意打上门来、表示打击进攻（《集韵》「肇，《说文》击也，通作肈」）；古代城邑有高墙环护、设厚实城门，攻城须先破城门，故引申指开始、谋划；因有开始意，西周金文添加声符聿，遂混为肁的衍生字，其相关字族为「启」所取代。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肁的音源与肇、肈",
+      "statement": "肁本聿声，因有开始意而义音同「兆」：《书·舜典》「肇十有二州」《尚书大传》作「兆」，《诗·大雅·生民》「后稷肇祀」《礼记·表记》引作「兆」；肇（《说文》「击也，从攴肈省声」，又始、敏）、肈（《说文》「上讳」，后汉和帝名，李舟《切韵》云「击也，从戈肁声」，指执戈破门）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "尽的本义是刷洗器皿",
+      "statement": "尽的甲骨文从皿从聿、聿亦声：聿所持竹枝当指刷帚（截取竹子的一节，将其约三分之二缕析，用于刷洗中空的器皿），故从皿；象意刷洗器皿，表示器皿中空。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "尽的转义与辨证",
+      "statement": "器皿中的东西没有了才需要刷洗，故引申指完毕、竭尽、极端、全部（《小尔雅》「止也」、《广韵》「竭也、终也」、《集韵》「极也、任也」「悉也」）；战国古文从火作「䀆」，实为「烬」的初文，指火燃烧后的余烬，《说文》「器中空也，从皿㶳声」析形不确。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "尽的音源与字族",
+      "statement": "尽本聿声，因「聿、尹」相通故义音同「尹」；战国古文或作「𧗁」，与「𣸁（津）」所从同；字族多指剩余、细小之意：赆（会面的礼物，《孟子》「行者必以赆」）、烬（火余、薪柴）、嚍（愤）、壗（石似玉，疑本指琢玉灰尘）、璶（石之似玉者，疑指玉加工后的下脚料）、濜（水名、水势、水流急貌；又气之液本作𧗁）、嬧（古女子人名）、儘（与尽同）、孻（广东谓老人所生幼子）、㯸（盂、痰盂）、𣃏（同斵，砍、剁碎）、𥵧（小竹）、荩（荩草即黄草，茎细叶卵状披针形，可作黄色染料、纤维可造纸，状如细竹故称菉竹）。",
+      "boundary": "源自《系统汉语》第427部「聿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "曰的本义是张口说话",
+      "statement": "曰从口上有一，象事指张开口说话；《说文》「词也，从口，乙声，象口气出也」。",
+      "boundary": "源自《系统汉语》第428部「曰部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "曰的转义",
+      "statement": "由说话引申指为、叫作（《增韵》「谓也、称也」），或引申作助词（《玉篇》「语端也」）。",
+      "boundary": "源自《系统汉语》第428部「曰部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "曰的音源",
+      "statement": "曰是借音字，因有言辞意而义音同聿：《诗·豳风·七月》「曰为改岁」《释文》「曰为，《汉书》作聿为」，《小雅·角弓》「见晛曰消」《释文》「曰，《韩诗》作聿」，《大雅·抑》「曰丧厥国」《释文》曰作聿，《周颂·载见》「曰求厥章」《墨子·尚同》引作聿，《汉书·叙传》「欥中龢为庶几兮」颜师古注「欥，古聿字也」。",
+      "boundary": "源自《系统汉语》第428部「曰部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "曰字族：张口表示裂开连续",
+      "statement": "曰部字族第一路取张口说话：汩（治水，又乱、汩没淹没、水流、疾行、涌波）、欥（诠词、虚词，又辞、喜）、𡿯（水流）、𢪏（牵物动转、穿、裂、搅乱、同掘）。",
+      "boundary": "源自《系统汉语》第428部「曰部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "曰部的形近讹字",
+      "statement": "曰部第二路收形近而讹：𩒳（《说文》「昧前也，从页𡿯声」，实为「湏」的讹字）。",
+      "boundary": "源自《系统汉语》第428部「曰部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "立的本义是人站立占据某处",
+      "statement": "立从大从一：大指人跨立，一代指地面或某处；象事字，象人站立、到临、占据某处不动的样子；《说文》「住也，从大立一之上」，《释名》「立，林也，如林木森然各驻其所也」。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "立的转义",
+      "statement": "站立不能太久故引申指即刻、马上（立刻、立即）；由站立占据引申指存在、成就（《尔雅·释诂》「成也」）；或引申指「粒」；或引申指「位」（古位字）。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "立的音源",
+      "statement": "立是借音字，义音同「异」：《书·金縢》「王翼日乃瘳」之「翼」《汉书·五行志》颜师古注引作「翌」，《尔雅·释地》「南方有比翼鸟焉」《释文》「翼，本或作翌」；又因立如握笔，或义音同「聿」（《集韵》「𥓎，硉本字」；𨁸从戾声，戾本立声）。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "立字族：站立表示竖起",
+      "statement": "立部字族第一路取站立竖起：笠（簦无柄，斗笠）、位（列中庭之左右谓之位）、鴗（天狗，即翠鸟——啄极长尾短，捕鱼能手故称鱼虎鱼狗，常独立于水边枝头故名）、飒（翔风、回旋风）、莅（临、到）、鉝（古扶南国食器）、岦（岦岌，山貌）、菈（东鲁呼芦菔为菈𦾽子，萝卜块茎常长出土表故从立）、苙（畜栏、垫猪栏的草；又白芷、白及等药草）。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "立字族：颗粒表示摧折",
+      "statement": "立部字族第二路取颗粒摧折：粒（米粒，分散成颗）、拉（摧、折、败、招、拽离原位）、柆（折木）、㕇（石声，石崩裂声，本作磿）、泣（无声出涕）、垃（垃圾）、啦（助词）、砬（砬礘石声；石药能制药毒）、鞡（靰鞡，东北垫草暖鞋）。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "戾的本义是犬立欲扑",
+      "statement": "戾从犬从立、立亦声，指狗后腿直立、张牙舞爪欲扑向猎物的样子；犬或作马，指马抬起前腿直立，义同，跟「亥、犮」所指本同（《玉篇》「势也、立也」）。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "戾的转义与辨证",
+      "statement": "犬马本四足著地而抬前腿直立是不正常状态，故引申指乖张、背谬（《广韵》「乖也」）；这种状态要么是发怒攻击故引申凶残（《玉篇》「利也、虐也」），要么是奔跑中急速停下故引申劲疾、停止、到达、扭转（《玉篇》「来也、至也、待也、止也、立也、法也、定也」）；战国古文讹立为户（义即守门狗），小篆从之，故《说文》「曲也，从犬在户下」析形不确。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "戾字族：立而不稳",
+      "statement": "戾部字族多指立而不稳的样子：蜧（蛇属，黑色，潜于神渊能兴风雨；又大虾蟆）、唳（鹤鸣，含惊惧之意）、泪（目液，取义同泣）、棙（琵琶拨弦的木片）、悷（懔悷，悲将哭出貌）、錑（平版具、凿子之类）、䓞（狗尾巴草，可染留黄）、綟（帛色黑而黄，苍艾色）、㑦（怒、很戾）、𥓎（硉本字，硉矹石崖不稳貌）、㪐（㪐㩿，不稳、不滑利）、捩（琵琶拨，拗、紾）、𨁸（行不进、跛足）。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "翊的本义是展翅欲飞",
+      "statement": "翊从羽立声，象意羽毛的支起、为展翅欲飞状，应为「翼」的初文（《说文》「翊，飞貌」）；由翼引申指辅助（《类篇》「翊，辅也」）；字族取展翅状：𥡪（黍稷蕃芜貌，亦作翼）、熤（人名）。",
+      "boundary": "源自《系统汉语》第429部「立部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "隶的本义是抓住动物尾巴",
+      "statement": "隶从又抓倒毛形，象意抓住动物的尾巴，是「逮」的初文；《说文》「及也，从又，从㞑省，又，持㞑者，从后及之也」，段注「此与辵部逮音义皆同，逮专行而隶废矣」。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "隶的转义",
+      "statement": "尾巴是动物的附属、所抓的自然不是要害，故引申指附属、剩余（《方言》「余也，秦晋之间曰隶」），或引申指本、给与；抓尾巴是勉强追及之举，故有到、及义（《正韵》「逮，追也」）；这样往往抓不牢、猎物会挣脱逃走，故有放纵、安泰之意（逮逮，安和貌）。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "隶的辨证与音源",
+      "statement": "由于「隶、聿」形近，以其为声符的字族或有混淆（如「肆」）；隶是借音字，古隶、立可通，《老子》「以道莅天下」《释文》「莅，《说文》作䇐」。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "隶字族：附着赶上",
+      "statement": "隶部字族取附着、赶上：逮（到、及、捉拿，或作迨）、𨽿（及、赶上；从枲声，麻无实者夏至开花荣而不实亦称夏麻，夏宜衣麻，应为隶声指刚好赶上季节）、㥆（放纵、忘、缓）、齂（卧息）、隶（附箸，仆隶）、𣟌（络丝车的摇把，即手抓握转动处）、𥶾（小孩写字用的简牍）、䇐（临、看视，同莅涖）、棣（白棣即棣棠，花黄果黑供观赏，萼片花瓣彼此相附故从隶）、殔（瘗，临时浅埋于道侧）、埭（堵水的土坝，往来舟舶征税之所，两岸树转轴以绠系舟尾推轴挽之而前）、叇（叆叇，云盛貌）、曃（暧昧，昏暗）。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肆的本义是编钟单位",
+      "statement": "「肆」春秋金文本从金从隶、隶亦声：金指金属乐器钟，《周礼·春官·小胥》「凡县钟磬，半为堵，全为肆」注「编县之，十六枚在一虡谓之堵，钟一堵、磬一堵谓之肆」，《左传·襄十一年》「歌钟二肆」注「肆，列也，县钟十六为一肆，二肆三十六枚」；从隶意思是钟磬相及、悬满了；后「金」演变成「长」、「隶」讹作成「聿」，遂作「肆」。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肆的转义与辨证",
+      "statement": "由悬钟之状引申指穷极、陈列（《说文》「极、陈也」），或由陈列引申指店铺、示众，或由穷极引申指放纵、恣意，或借作「四」的大写；因「肆、肄」形近故肆或混同肄（《韵会》「与肄同」），肄本应楷化作「𢑩」。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肆字族：悬钟表示穷极陈列",
+      "statement": "肆部字族第一路取悬钟：肆（极、陈，又遂、故、姓；习、次、缓、放、列、恣、踞、量、突、解）、𢘶（放肆无拘、忘、忽、舒缓、惆怅）。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-71-yu",
+      "title": "肆字族：持尾表示长毛",
+      "statement": "肆部字族第二路取持尾长毛：蕼（堇、赤蕼，草初生柔细的样子，宽舒之貌）、𩬶（同肆、毫毛、兽名）、𤝽（貄，修毫；貍子𧳙，幼小的野猫）。",
+      "boundary": "源自《系统汉语》第430部「隶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
