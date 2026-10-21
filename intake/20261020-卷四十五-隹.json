@@ -1,0 +1,1595 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷四十五 隹（第十卷，245.隹部至254.肙部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "卷四十五以音源字「隹」立卷",
+      "statement": "本卷音源字是「隹」，象鸟形，其音源取自鸟啄之声。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/45a-zhui.md",
+      "topic_title": "卷四十五·隹",
+      "topic_summary": "卷四十五「隹」：音源字为「隹」，象尖嘴鸟形，音源鸟啄声；卷首述鸟喙的角质生长与作用、喙形与食性的对应、雏鸟破壳的「卵牙」，并说明本卷音义体系主要为如鸟啄一般的锥击（「兌」及相关的叕、卒、㒸、水、彖、肙随之相通），或为鸟腿短而身肥之状（坐、𠂤）；辖 245.隹部至254.肙部（第245–254部，p707–p734），共 10 部。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "鸟喙的构造：无前肢无牙齿，喙是主要武器",
+      "statement": "鸟没有前肢，也没有牙齿，喙是它的主要武器。鸟嘴内部有骨骼与头骨相连，骨骼外部覆盖的角质层就是肉眼可见的鸟喙；角质层不断从内部生长，外部因日常活动而磨损，二者持续相对平衡。磨损不足会使喙变厚变长；磨损过度，只要不损伤内部组织还能恢复，若伤及内部骨骼结构就无法恢复。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "鸟喙的作用相当于哺乳动物的嘴唇和牙齿",
+      "statement": "鸟喙起到哺乳动物嘴唇和牙齿的作用，主要用来获取食物——捕食、叼住、撕咬以及从水中过滤食物，有时也用于攀登、修饰、争斗和筑巢。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "喙形与食性之一：短直、钩状、长直",
+      "statement": "鸟类喙千姿百态，与食性密切相关：短而直的喙是食虫鸟，如燕子以蚊、蝇等昆虫为主食；强大而末端带弯钩的喙以鸟兽为食，便于撕咬，如秃鹰可撕下动物肉再撕成小块咽下；长而直的喙便于深入水中捕捉鱼虾，如大蓝鸳能在池塘或沼泽里啄到鱼和青蛙。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "喙形与食性之二：强直尖锐、扁平、锥状",
+      "statement": "强直且尖锐的喙以昆虫为食，如鹬的喙长而尖，主要用来觅食蚯蚓；扁的嘴以杂食居多，如鸭子既捕食鱼虾也吃水草，喙缘常有锯齿可滤水找小食物、也可拔草；鸣禽的喙呈锥状，比鹦鹉的喙软但底部能产生强大压力，可打开种子和谷物只吞其中有营养的部分；松鸡短小的喙可伸进泥土寻找虫子、谷物和种子。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "特殊喙形：交叉、下喙长、上喙隆起",
+      "statement": "交嘴雀的喙上下无法对齐而是交叉的，便于从鲜松果中取出松子；剪嘴鸥的下喙比上喙大而长，贴近水面飞行时可用下喙在水中捞取食物；红鹳的上喙隆起而庞大，正是为了低头捞取水中的藻类。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "雏鸟的「卵牙」：破壳前上喙顶端的角质结构",
+      "statement": "鸟喙的共同特点是啄。雏鸟破壳前，其上喙顶端长有一个向上突出的角质结构，称为「卵牙」，用来帮助雏鸟啄开卵壳；出壳后二到三天，卵牙会脱落。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "本卷音义体系：如鸟啄一般的锥击",
+      "statement": "「隹」所形成的音义体系主要为如鸟啄一般的锥击，如「兌」（《书·吕刑》「夺攘矫虔」之「夺」，《说文》「敚」字条引作「敚」）；相关的「叕、卒、㒸、水、彖、肙」也随之与「隹」音义相通。或为鸟的腿短而身肥之状，如「坐」（《诗·小雅·鸳鸯》「摧之秣之」之「摧」，《白孔六帖》卷九六引作「挫」）、「𠂤」（《集韵》「㢈，《说文》：屋从上倾下也，或作𢈹、㢂」）。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "卷四十五的部次与页码",
+      "statement": "卷四十五「隹」辖十部：245 隹部（p709）、246 𠂤部（p715）、247 兌部（p719）、248 叕部（p721）、249 坐部（p724）、250 卒部（p725）、251 㒸部（p728）、252 水部（p729）、253 彖部（p731）、254 肙部（p734），共第245–254部。",
+      "boundary": "源自《系统汉语》卷四十五「隹」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」的本义：象尖嘴鸟形，指鸟类",
+      "statement": "「隹」甲骨文象尖嘴鸟形，指鸟类，与「鳥」同源。从二字甲骨文字形看，根本区别在于嘴部：「鳥」的喙明显比「隹」大，故「鳥」当指巨嘴鸟，「隹」指尖嘴鸟。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」的转义之一：山高",
+      "statement": "鸟栖居山林且能高飞，故引申指山高。cuī，《集韵》「崔，崔崔，高大也，或作嶉、隹、崒、𨻵」。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」的转义之二：语首助词",
+      "statement": "鸟善鸣，故引申作语首助词，表示发端。wéi，《六书故》「隹，钟鼎文皆借此为惟字」。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」的辩证：《说文》「短尾总名」释形不确",
+      "statement": "《说文》依据小篆释为「鸟之短尾总名也，象形」，但甲骨文「隹」或有明显长尾的鸟，释义不确。另或以「隹」专有所指：《尔雅·释鸟》「隹其鳺鴀」郭璞注「今䳕鸠」，即布谷鸟，或称子规、杜宇、鶗鴃、祝鸠、鵻鸠，种类繁多约六十种，多数把卵产在别的鸟巢中，故被古人误以为众鸟之父、是帝鸟；春夏之际杜鹃彻夜啼鸣，加上口腔上皮与舌、眼周都是红色，古人误以为它啼得流血，故有「杜鹃啼血」之语（南宋朱希真诗「杜鹃叫得春归去，吻边啼血苟犹存」）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」的音源：源自鸟啄声",
+      "statement": "「隹」是音源字，音源取自鸟啄之声。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」字族一：鸟鸣——语气、叫卖、噪杂",
+      "statement": "取鸟鸣之义，表示语气、叫卖、噪杂声：誰（《说文》「何也」，因鸟小多处树丛只闻其鸣不见其形；《尔雅·释训》「谁昔昔也」郭注「谁，发语辞」）、唯（应答声）、惟（思考；《玉篇》「思也、有也、为也、谋也」）、鷕（雌雉鸣）、售（叫卖之意，《说文》「卖去手也」）、雖（转折、不定，《集韵》「一曰不定，一曰况辞」；或疑指变色龙之属，或指蚊蝇蜂蝉这类会飞的鸣虫，由成虫羽化如鸟故从唯）、𧮓（聒噪）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」字族二：鸟身——尖嘴而躯体肥大",
+      "statement": "取鸟身之义，表示尖嘴而躯体肥大的样子：倠（仳倠，丑面）、婎（姿婎，自纵貌，一曰丑）、魋（神兽，如小熊、窃毛而黄，俗呼赤熊）、脽（臀部，鸟类后面部分肥大）、陮（陮隗，高峻不平）、嵟（高也）、顀（出额，突出的额头）、蜼（如母猴，卬鼻长尾）、蓶（菜，似韭而黄）、堆（聚土）、𦶏（草名）、痽（肿病）、醀（肉酒）、㢈（屋从上倾下）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」字族三：鸟眼——大眼而仰视",
+      "statement": "取鸟眼之义，表示大眼而仰视之状：睢（《说文》「仰目也」，大视；睢盱，小人喜悦貌；恣睢，暴戾，一曰自得貌）、𨾗（眷𨾗，顾也）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」字族四：鸟集——汇聚、丛集",
+      "statement": "取鸟集之义，表示汇聚、丛集：淮（水名，源出河南桐柏山老鸦叉，自古水患频频故或称坏河，本东入海，宋后被黄河所夺，清咸丰年间黄河北去而淮河入洪泽湖通长江，是中国南北分界河，疑本因隹多而得名）、匯（回也，水回合也）、濰（水名，出琅邪箕屋山，东入海；《段注》「今山东土语与淮同音，故竟作淮字」）、萑（艸多貌，草木茂盛是以鸟集其中；一曰草名茺蔚即益母草）、濉（水名）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」字族五：鸟行——推、排",
+      "statement": "取鸟行之义，表示推、排之意：趡（动也；又春秋鲁国地名）、推（《说文》「排也」，用手移动；《集韵》「顺迁也，一曰穷诘」）、蓷（萑也，即益母草，有收缩子宫助产作用，故从推）、騅（马苍黑杂毛；《尔雅》「菼，騅也」郭注「菼，草色如騅，在青白之间」）、䜃（谪也；掷也）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」字族六：鸟喙——尖锐、椎击",
+      "statement": "取鸟喙之义，表示尖锐、椎击：䶆（南阳人呼鼠，以其尖喙善穴）、碓（用脚舂米的器具，捣时如鸟啄食；汉砖画有踏碓图）、錐（锐利，指锐如鸟啄，《玉篇》「鍼也」）、椎（《说文》「击也，齐谓之终葵」，捶击之器；《释名》「椎，推也」）、㮅（木名，似桂）、稚（幼稚，亦小也、晚也）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隹」字族七：捕鸟——罗网、帐幕",
+      "statement": "取捕鸟之义，表示罗网、帐幕：維（《说文》「车盖维也」，系车盖的绳索；《集韵》「网也，系也，隅也」）、帷（在旁曰帷，围在四旁的帘幕；《释名》「帷，围也，所以自障围也」）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「奞」的本义：鸟张羽自奋",
+      "statement": "「奞」从大隹声，「大」指跨立，从「隹」形容鸟展翅的样子。suī、xùn，《说文》「鸟张羽自奋也，从大，从隹，读若睢」，《集韵》「鸟振羽」。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「奞」的转义：振作、奋发、舒展（分化作「奮」）",
+      "statement": "由鸟展翅高飞引申指振作、奋发、舒展，此义分化作「奮」，《玉篇》「动也、朋也、奋奞也、振也、舒也」，《广韵》「扬也」。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「奞」的辩证：「奮」金文从衣从隹从田",
+      "statement": "「奮」的西周金文本不从「奞」，而从衣从隹从田：衣指囊，田指鼓，义即鸟在囊中或啄或扑腾如击鼓；战国古文或讹「衣」为「大」，小篆从之，故《说文》「奮，翬也，从奞在田上」析形不确。类似的表意还有「奪」，西周金文从衣从雀从又，指小鸟边扇动翅膀边挥动脚爪的样子。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「奞」的音源与字族：本隹声，义音同賁",
+      "statement": "「奞」本「隹」声，因振作之义而义音同「賁」（《集韵》「𢅯，谷囊满，或从賁」）。字族多指奋张之状：𠌱（偏也）、𤹩（鸟奋也）、奪（《说文》「手持隹失之也」；《玉篇》「取也，不与也，易也」）、𢅯（以囊盛谷，大满而裂）、𢤬（同憤）、𥂙（迅也）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「崔」的本义：鸟头上長草一般的冠羽",
+      "statement": "「崔」甲骨文本从「屮」在「隹」头上，屮指草，意即鸟的头上长着草一般的冠羽，大约即戴胜鸟。这种鸟头顶五彩羽毛，翅膀羽色黑白相间，飞行时一起一伏呈波浪式推进。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「崔」的转义：高、摇动迅速、黑白相间",
+      "statement": "以其羽冠耸立之状而指高，cuī，《玉篇》「崔嵬，高貌」；以其飞翔之状而指摇动、迅速，suì，《集韵》「动貌、速貌」；以其翅膀之色而指黑白相间，如熣（熣煤，烟尘）、凗（霜雪积聚貌）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「崔」的辩证：战国讹「屮」为「山」",
+      "statement": "因「屮」与「山」形近，战国古文讹「屮」作「山」，从而演变成「崔」，故《说文》「大高也，从山，隹声」析形不确。不过以其「从山从隹」也不是不通，可象矗立如鸟状的山，即山体庞大如鸟身、山峰细高如鸟首。另或以为所从「屮」本即「萑」，指祝鸠即鹁鸪、鸽子之类，羽色青白如菼，故从屮（艸省），也颇为可信。由于初文不明，其本义仍难确定。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「崔」的字族：高峻、黑白、推排、行歌",
+      "statement": "字族四路：①冠羽耸立，表示高峻、堆积——嵟、磪、𨻵、繀（把丝收在纺车收丝器上）、𤗯（屋坏）、嶊、槯、墔；②翅羽颜色，表示黑白相间——熣、皠（霜雪白状）、漼（深也；漼溰，雪霜积聚貌）、璀（璀璨，玉光）、鏙（鳞甲谓之鏙错）；③飞状，表示推排、迫促——摧（《说文》「挤也」，推动、排斥、折断）、𢕘（行急貌）、𧽠（逼也）、催（相迫促）；④鸟鸣，表示行歌、忧伤、指责——嗺（撮口；送歌）、獕（猥獕，丑陋难看）、慛（伤也，忧也）、䜅（就也；责也）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「巂」的本义：象鸟一样的柄类物，即「规」",
+      "statement": "「巂」甲骨文从內隹声，「內」指柄、表示类属，从「隹」象像鸟一样的柄类物体，即「规」（画圆之器），故有圆义。guī，《正字通》「车轮转一周为巂，《曲礼》『立视五巂』疏曰：巂犹规也」；「隹」后演变为「雔」或「崔」，意思相同。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「巂」的转义：子规候鸟与提携",
+      "statement": "由巂的划圆引申指候鸟的冬去春来，guī，《集韵》「𨾚，子𨾚鸟名，或作鳺、巂」，即杜鹃、布谷、子规鸟；用巂划圆时一脚固定、再转动另一脚，故引申指提、带，此义分化为「攜」（《说文》「提也」，《玉篇》「贰也，又持也」）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「巂」的辩证：《说文》「周燕」与望帝传说",
+      "statement": "《说文》以「隹」为形旁表属类，释为「周燕也，从隹，屮象其冠也，㕯声」，又引蜀王望帝淫其相妻、惭亡去为子巂鸟、蜀人闻其鸣皆起云「望帝」之说，析形不确。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「巂」的字族：圆形、提携、张开、雋讹",
+      "statement": "字族数路：①巂的作用，表示圆形——蠵（大龟，以胃鸣者）、酅（东海之邑，曾为纪国都城，齐并纪后曾在此建圜丘祭天）、鑴（大盆；大钟）、𤮰（甑下空，亦作窐）；②画巂之状，表示提携牵引——纗（网的大绳居中的绳）、䪎（马鞍上下垂的装饰）、𡰢（脚跛不能行走要人牵引）、孈（愚戆多态）、儶（困劣貌；提携）、𧟃（一幅巾）；③表示张开、裂开——讗（言壮貌，一曰数相怒）、𢥘（有二心）、𤼒（疮裂）、攜（牵引扶行）；④形近「雋」字之讹，表示钻凿、尖锐——觿（佩角，锐端可以解结，古代解结的锥子，用作佩饰）、㔒（减也、削也）、驨（如马一角的兽）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「雋」的本义：弓形钻，即「鐫」的初文",
+      "statement": "据《金文形义通解》所录春秋金文，「雋」下所从象弓形钻形：上为「弓」，中「丨」为钻杆，下「一」为弦；钻时以弦绕钻杆，来回拉弓使钻杆转动。战国古文简化为「弓」，从「隹」指其如鸟啄物。本「鐫」的初文，《集韵》「《说文》：穿木鐫也，一曰琢石也」。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「雋」的转义：隽永、隽异、鐫级",
+      "statement": "弓形钻拉动时能使钻杆不停旋转，故引申指回味长，juàn，徐锴《说文解字系传》「雋，蒯通著书，号《雋永》，言其说有味而长也」；弓形钻使钻孔技术大为进步，故引申指特异、攻克，jùn，与俊、儁通，《正字通》「雋异也」、《左传》「得儁曰克」；由往下钻孔引申指削减、降低，此义分化为「鐫」，《正字通》「中外官降级曰鐫级」。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「雋」的辩证：《说文》「肥肉」释形不确",
+      "statement": "《说文》「肥肉也，从弓，所以射隹」不确——用弓射鸟本有「䠶」字。另因「巂、雋」音形俱近而相混，《集韵》「巂，越巂，郡名，或作嶲」，《正字通》「嶲，巂字之讹」，《殷周金文集成》即以「巂」的商代甲骨文、金文和西周金文为「雋」；但两字表义区别很大，「巂」指规、并无「嶲」的钻孔之义，故凡表钻孔义而从「巂」的字（如鑴、觿、驨），在表锥、独角之义时本应从「雋」。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「雋」的音源：本隹声，义音同夋",
+      "statement": "「雋」本「隹」声，因有来回之义，故义音同「夋」（《集韵》「鋑，锥也，或作𥍯、鐫」）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「雋」的字族：穿凿尖锐与巂讹提携",
+      "statement": "字族两路：①指钻，表示穿凿、尖锐——鐫（穿破木头的金属器具；《释名》「鐏也，有所鐏入也」）、臇（肉羹，碎如钻出的屑）、𧕲（虫食，昆虫吮吸叮咬，虫钻入之意）、儁（同俊，才千人）、懏（慧也）、寯（聚也，人中最才）、觹（同觿）、㻽（玉名，同璿、瓊）、㼇（同瓊）、𠿘（同觜，鸟喙）、𢋄（大室）、𤺻（大痒）、𦼱（葍𦼱，菜名）、𧗔（赤子阴）、𧲑（小公猪）、檇（以木有所捣；檇李，李子一种，果顶微凹处有形似指甲掐过的爪痕）；②形近「巂」字之讹，表提携——擕（俗攜字）、𦆈（纂；纗）、嶲（巂，越巂郡名，或作嶲）。",
+      "boundary": "源自《系统汉语》第245部「隹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「𠂤」的本义：象屁股两瓣鼓出形",
+      "statement": "「𠂤」象屁股两瓣鼓出形，指屁股。duī。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「𠂤」的转义：堆",
+      "statement": "由屁股的肥大、凸起，引申指堆。duī，《玉篇》「小块也」，《正字通》「堆本字」。其引申义主要体现在衍生字上：屁股为坐卧止息之具，故引申指「歸」（《广韵》「还也」）；撵在屁股后面走，故引申指「追」（《广韵》「逐也、随也」）；环绕而坐，故引申指「師」（《广韵》「范也、众也」）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「𠂤」的辩证：《说文》「小𨸏」析形不确",
+      "statement": "《说文》「小𨸏也，象形，今俗作堆」，「𨸏」的甲骨文象梯级形，看起来「𠂤」似乎只是少一层隆起；但甲骨文「𠂤」呈弧形，况且土堆多呈独立的椎形（如「土」），呈两堆则为「丘」，故析形不确。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「𠂤」的音源：借音字，古𠂤、隹可通",
+      "statement": "「𠂤」是借音字：鸟身肥大如臀，故古「𠂤」「隹」可通——《仪礼·士冠礼》「毋追，夏后氏之道也」郑玄注「追犹堆也」，《释文》「堆，本或作塠」，《集韵·脂韵》「椎，通作槌」。或义音同「叕」：《玉篇》「硾，镇也、笮也，亦作缒」，「硾」本从「叕」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「𠂤」字族一：堆起、凸起、高耸",
+      "statement": "指𠂤状，表示堆起、凸起、高耸：垖（聚土，或作㕍、𣳨、垖、𡸠）、頧（头不正貌；毋頧，夏冠名）、鴭（雀属）、𩈜（䩇𩈜，面陋）、㢂（屋从上倾下）、䏨（大肿貌；肿也）、𠈆（仳倠，丑貌）、𡜥（女字）、𨋱（车盛貌）、𨹅（高也）、𩨽（骨起）、𡑸（籀文地字）、𡺇（同堆）、𪌤（丸饼）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「𠂤」字族二：坐下、下坠、捶击",
+      "statement": "指坐下，表示下坠、捶击：𡏩（坐貌，通作敦）、𡑈（重貌；木实垂貌，果实累累欲坠的样子）、𠡒（着力牵也）、桘（即椎，《说文》「击也，齐谓之终葵」）、𤤷（治玉；美石似玉）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「追」的本义：跟在屁股后面走",
+      "statement": "「追」从止𠂤声，「止」指走，「𠂤」指屁股，象跟在屁股后面走。跟在人家后面走可有几层含义：zhuī，或指追赶（《说文》「逐也」），或指跟随（《广韵》「随也」），或指相送（《玉篇》「送也」），或指捕捉（《篇海》「逮也」），或指补救（《玉篇》「救也」）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「追」的转义：捶打治玉、和柔",
+      "statement": "由跟在屁股后面走之状引申指捶打，duī，《集韵》「治玉也」；也可指走路时屁股颠动的样子，引申指柔和状，tuì，《集韵》「和柔貌」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「追」字族一：鼓起、凸出",
+      "statement": "取义同「𠂤」，表示鼓起、凸出：㗓（口满貌）、膇（足肿）、䭔（蜀人呼蒸饼为䭔）、㾽（同膇，足肿；阴病）、𩪀（项后骨，通作椎）、𩌝（大约指鼓槌，以皮裹之故从革）、槌（关东谓之槌，关西谓之㭙，搁架蚕箔的木柱；击也）、鎚（铁锤；秤砣；锻也，治玉）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「追」字族二：下坠、击打、抛掷",
+      "statement": "指下坠，表示击打、抛掷：𩔦（养也；辅车骨，下巴）、縋（以绳有所悬，用绳索挂着东西朝下面放）、䨨（隐也；雷也；古本颐作䨨）、搥（擿也，掷也；击打）、磓（聚石也；落也；以石投下）、㷟（以汤除毛）、𢟋（𢟋惕，鬼名）、𤧫（治玉）、𧪲（谪也，谴责）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「歸」的本义：扫拢成堆，表示附集、往还",
+      "statement": "「歸」从帚𠂤声，「帚」指扫帚，「𠂤」即堆，象扫拢成堆，表示附集、往还。西周金文或加「又」、或加「止」、或加「彳」，意思更明确。guī，《广雅》「往也」，《正字通》「入也、还也」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「歸」的转义：出嫁、回娘家、赠予",
+      "statement": "由往还引申指女子的出嫁或回娘家。《说文》「女嫁也」；《六书故》「妇人内夫家，故嫁曰归；然父母家实其所自出，故其来宁亦曰归。嫁非归之本义」。或引申指赠予、给与，kuì，《广雅》「遗也」，通作「餽」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「歸」的字族：集中、堆起",
+      "statement": "字族多指集中、堆起：巋（山小而众曰巋，一曰高峻貌；块独貌）、蘬（荠实；葒草，丛生成堆之意）、𠐽（使也；往也）、𧢦（注目视，目不转睛地看）、𥍁（目也；视貌）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「官」的本义：坐着办公的屋舍，即官府、衙门",
+      "statement": "「官」从宀𠂤声，「宀」指屋舍，「𠂤」指屁股，象坐着办公的屋舍，即官府、衙门。guān，《康典》「朝廷治事处曰官」；或指驿馆，《字彙》「官舍为官」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「官」的转义：官员、公事、法律",
+      "statement": "由官府引申指官员，《玉篇》「宦也」；或指公事、职责，《增韵》「职也、使也、公也」；或指法律法规，《字彙》「法也」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「官」的辩证：《说文》「𠂤犹众也」不确",
+      "statement": "《说文》「史，事君也，从宀从𠂤，𠂤犹众也，此与师同意」；「师」的众义在「帀」的围绕之意，「𠂤」的本义并没有，故所释不确。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「官」字族一：馆舍、官府，表示出入的空间",
+      "statement": "指馆舍、官府，表示出入的空间：館（客舍，接待宾客吃住的房屋）、棺（关也，所以掩尸）、管（如篪六孔，即笛子之类；引申指管状物、管理管制、钥匙）、輨（车毂末端圆管状的冒盖）、䲘（鱼名，俗称刁子、麦秆刁）、錧（车轴头铁；江南人呼犁刃）、䘾（裤管；韦袴）、䦡（深阁，又阍也）、䩪（车鞁具，驾车被马的器具）、𢃙（同冠）、𦜐（同脘，胃腑）、𨜌（国名）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「官」字族二三：官员臣仆、迴旋不安",
+      "statement": "②指官员，表示臣仆——倌（小臣，《诗》「命彼倌人」）、婠（体德好；疑本指古代学馆的老师，多为老年女性，负责照看教育本氏族小孩，故从女）；③指官府、馆驿之状，表示迴旋、不安——涫（沸腾的水；同盥）、悺（忧也）、痯（病也，疲貌，贤人失志怀忧病）、䗆（雨下虫名；蚁）、綰（把长条东西盘绕起来打成结；贯也、钩系）、捾（掏取，援引；刮）、逭（逃也）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「辥」（薛）的本义：形如屁股的原始剪刀",
+      "statement": "「辥」甲骨文本从辛𠂤声，「辛」指小刀，从「𠂤」象形状象屁股一样的小刀，即最原始的剪刀，是「㔎」的初文，《广韵》「断也」。其形制可能跟出土的西汉早期剪刀差不多：不是今天中间有支轴的剪刀，而是把一根金属条两端打成刀的样子、磨削锋利，再将金属条弯成「8」字型或「U」字形；U字形最原始，可能在商代就有，其状正如「𠂤」字形。使用时轻按两端刀刃即可剪断，一松手两片刀刃弹回原状自然张开，像镊子一样。王國維《釋辥》「余谓此经典中乂艾之本字也」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「辥」的转义：分支",
+      "statement": "由剪刀的分岔之状引申指分支，具体体现在衍生字的取义上：孼（庶子）、櫱（木余）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「辥」的辩证：《说文》「辠也」与「𡴎」之误",
+      "statement": "由于《说文》释「辛」为施黥之刑具，故释「辥」为「辠也，从辛𡴎声」，析义不确。另《说文》「𡴎，危高也，从𠂤屮声，读若臬」，「𡴎」除与「辛」组合成「辥」外并无其它用法；且甲骨文「辥」本从「𠂤」，西周金文才演变成「𡴎」；「𡴎」本从「之」或「止」，因形近而讹作「屮」，实即「追」字，因此本无「𡴎」。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「辥」的音源与字族：本𠂤声，义音同鑷",
+      "statement": "「辥」本「𠂤」声，义音同「鑷」。字族指辥状，表示分岔、旁出：㔎（断也，割断，当即剪断）、𪇷（鳧属，野鸭之类）、薛（艾蒿；莎艸或称香附子，顶端分蘖，茎长而柔韧，古人搓成绳用以编制蓑衣，可毒鱼；甲骨文从辛从月，象弯月之状，两头歧出翘起故有分岔之意）、糱（牙米，生芽的米；酒麴）、𡾦（山名，又名嵯峨山、慈娥山）、蠥（衣服歌谣草木之怪谓之䄏，禽兽虫蝗之怪谓之蠥）、孼（庶子，非正妻所生之子）、躠（蹩躠，旋行貌）、櫱（伐木余，树木砍去后又长出来的芽子；今义为分蘖，指主苗旁边又长出分枝）。",
+      "boundary": "源自《系统汉语》第246部「𠂤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「兌」的本义：动物蜕皮，即「蛻」的初文",
+      "statement": "「兌」从八从兄，「兄」指成人，「八」分开、裂开，象一些动物成长过程中表皮裂开而再生的现象，即「蛻」的初文，《说文》「蛇蝉所解皮也」。",
+      "boundary": "源自《系统汉语》第247部「兌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「兌」的转义之一：细薄之物、脱落裂开分解交换",
+      "statement": "由所蜕之皮比喻指细薄之物，ruì，《释名·释饰首》「帻，或曰兑，上小下大，兑兑然也」；由蜕皮引申指脱落、裂开、分解、交换，《广雅》「蜕，解也」。",
+      "boundary": "源自《系统汉语》第247部「兌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「兌」的转义之二：突出通达、喜悦、尖锐",
+      "statement": "由身子蜕下旧皮长出新皮引申指突出、通达，duì，《广韵》「突也」，《字彙》「直也」；或引申指喜悦，yuè，《集韵》「喜也、乐也、服也，或作说、兊」，《释名·释天》「兑，悦也，物得备足，皆喜悦也」；鸟喙在成长过程中也不断蜕皮，从而引申指尖锐，ruì，《集韵》「锐，《说文》：芒也；籀作㓹」。",
+      "boundary": "源自《系统汉语》第247部「兌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「兌」的辩证：以「兄」为是",
+      "statement": "由于「口」在「兌」中既可跟下面的「儿」合成「兄」，又可跟上面的「八」合成「㕣」，故《说文》「说也，从儿㕣声」及徐铉「㕣，古文兗字，非声，当从口从八，象气之分𢿱」；但根据字义指蜕皮来看，显然跟动物的长成有关，故以「兄」为是。",
+      "boundary": "源自《系统汉语》第247部「兌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「兌」的音源：借音字，义音同隹",
+      "statement": "「兌」是借音字，因有尖锐之义而义音同「隹」：《易·兑》「初九，和兑吉」马王堆汉墓帛书本作「奪」；《书·吕刑》「夺攘矫虔」之「夺」，《说文》「敚」字条引作「敚」；《战国策·魏策》「两弟无罪而再夺之国」之「夺」，《战国纵横家书》作「挩」；古「兌」「術」亦可通，《墨子·尚同中》「先王之书术令之道曰」，《礼记·缁衣》作「兑命」。",
+      "boundary": "源自《系统汉语》第247部「兌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「兌」的字族：脱落、奔突、尖利、空薄",
+      "statement": "字族四路：①脱落、裂开——脫（消肉臞也，消瘦；物自解也）、𤿫（皮剥也，皮坏也）、稅（租也，按田亩收取谷物；舍也）、說（释也；劝说；喜悦，指裂开嘴；与脫通）、痥（马胫疡，或指捋伤，即裂开了口子）、侻（适当、狡猾、轻率；舒缓貌）、悅（喜也、脱也、乐也）、娧（好也；娧娧，舒迟貌）；②奔突、通达——駾（马行疾来貌，马脱缰之意）、捝（解脱；误也；拭也）、敚（强取）、閱（具数于门中，查点计算；观也）；③尖利、细小——鋭（芒也，尖利）、棁（木杖；梁上短柱）、𪁑（水鸟，疑即翠鸟，啄长而尖）、䓲（草生而新达）、鮵（体型较小的乌鳢）、哾（同啜，尝也；针鱼）、䬽（小餟；汤䬽，薄饼以汤沃之）、涗（刚有点热度的水；清也）；④空、薄如蜕之物——蛻（蛇蝉所解皮）、裞（赠送死者的衣被）、帨（佩巾）、綐（紬细也）、𧀲（草名似芹；水芹，空心）、莌（通脱木、通草，茎有髓、白色而空心，有清热利尿通乳之效）。",
+      "boundary": "源自《系统汉语》第247部「兌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「叕」的本义：竹梢弯曲而互相勾连",
+      "statement": "「叕」甲骨文作两竹的两连形，象竹梢因弯曲而互相勾连，或字编竹篾为绳。zhuó，《说文》「缀联也，象形」。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「叕」的转义：张网、系止、邀请",
+      "statement": "由竹梢的勾连引申指张网状，yǐ，《集韵》「张罗貌」；相连的竹梢随风摇曳、时连时断，故引申指系或止，lì，《广韵》「止也、系也」；或引申指邀请、招致状，jué，《集韵》「速也」。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「叕」的音源：源自竹梢相碰声，义音同兌",
+      "statement": "「叕」是音源字，源自竹梢的相碰声。竹梢尖锐，故义音同「兌」：《礼记·礼器》「山节藻棁」《释文》「棁，依字当作棳」，《论语·公冶长》「山节藻棁」《释文》「棁，本又作棳」，《尔雅·释宫》「其上楹谓之棁」《释文》作「棳」。古「叕」「帶」音义也可通：《诗·墉风·蝃蝀》「蝃蝀在东」《释文》「《尔雅》作螮蝀，音同」。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「叕」字族一：连缀，表示断断续续",
+      "statement": "指连缀，表示断断续续：裰（补裰破衣）、綴（合箸也，用丝线连接；缉也，纂集；装饰点缀；止也）、畷（两陌间道，连接田间小道之间的道路，广六尺）、餟（洒酒在地而祭；联续而祭）、腏（挑取骨间肉）、啜（尝也；喙；哭泣抽噎貌；唠叨）、輟（车队稍稍停顿而又连续起来行进；已也、止也、歇也）、惙（忧也；疲也；短气貌）、歠（饮也，喝）、醊（连续祭祀）、欼（啃、咬；大口吞食）、𠿡（口满食，不能一下子咽下去之状）、窡（穴中见物，时隐时现）、剟（刊也，删削；击也）、𩋁（车具）、罬（捕鸟覆车；王筠《释例》详述其机发覆鸟之制）、鵽（鵽鸠，即沙鸡，大如鸽、似雌雉、鼠脚无后指、岐尾，憨急群飞，出北方沙漠）、娺（疾悍；怒也）、掇（拾取）、錣（针也；策端有铁；计数的筹码）、涰（注也；泣也）、䟾（跳也，连续地跳）、蝃（螮蝀，虹也；蜘蛛）、敠（敁敠，知轻重）、𧱝（豕掘地，猪拱土）、𧣸（角触，抵触）、毲（蛮夷织毛罽，西南少数民族织的毛毡）、諁（多言不止）、逫（远也；走貌）、㙍（地名用字）、䍳（病也；羊病；羊跃而死）、䦤（石抑䦤，谷名）、䮕（白额马；的卢）、𠮐（鸡声、鸡出壳声）、𡌭（人名）、𣤜（古文最字）、𤿵（皮断也）、𥟒（禾相连续貌）、𧡏（破碎也）、𨺝（音辍）、𩑇（击也）、𩩟（续骨也）。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「叕」字族二三：短小、形近「㠭」之讹",
+      "statement": "②由断断续续引申指短小——棳（木也；梁上短柱）、䆯（短面）、𥏞（蹷𥏞，短貌；矮）、䫎（头短）、𠭴（吴人呼短物也）、𠟝（同芥）；③形近字「㠭」之讹——𡩿（同塞）。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「垂」的本义：鞭有梢形，即「箠」初文",
+      "statement": "「垂」甲骨文从叕声，上部象鞭有梢形，从「叕」象上下抽打，是「箠」的初文，《广韵》「策也」，《说文》「击马也」。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「垂」的转义：下垂、接近、边界",
+      "statement": "由马鞭之状引申指下垂，《正字通》「自上缒下也」；或引申指接近、快要，《正字通》「又几也，将及也」；或引申指边界，《广韵》「疆也」。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「垂」的辩证：战国古文讹鞭梢为「土」",
+      "statement": "由于战国古文将鞭梢演变成「土」，故《说文》「垂，远边也，从土𠂹声」析形不确。另「𠂹」本「垂」字（《正字通》「𠂹，垂本字」），因战国古文与「華」形近，故《说文》「𠂹，艸木華葉𠂹，象形」形义皆不确。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「垂」字族一：鞭梢，表示垂悬之状",
+      "statement": "指鞭梢，表示垂悬之状：錘（八铢，相当于八百粒黍的重量；秤砣、砝码；锻也；重也）、𦉈（小口罂，应即从井里取水的尖底瓶，绕有绳索，《淮南子·泛论训》「抱甀而汲」）、陲（危也，山势垂危；边也）、唾（口液）、涶（河津也，古黄河渡口名）、郵（境上行书舍，即驿站；过也）、𨻌（磊也，叠磊而高）、腄（瘢胝，老茧；马及鸟胫上结骨；臀也）、厜（厜㕒，山颠，山势欲坠之貌）、崜（山貌；小山貌）、倕（重也；镇也，一曰揣量物重）、綞（綞子，绫，一种很薄的丝织品，一面光像缎子）、䮔（马小貌；马负重难行）、𨙔（不行也，马垂头而不肯行走）、埵（坚土，即夯土；铸金具，冶铸时风箱与火炉连接的通气铁管；果实下垂）、𨿠（鷂子；杜鹃；雅乌）；②指鞭打，表示捶击、捣杵——捶（以杖击也，用棍棒击打；舂也）、菙（木名，荆条，有菙氏共荆菙以灼龟）、硾（捣也；镇也、笮也；揣量物重）、諈（諈诿，累也，以事相嘱托）、娷（诿也，推诿）、睡（坐寐，坐着打盹）、棰（木丛生貌；同箠）、箠（击马也；竹名；竹节）。",
+      "boundary": "源自《系统汉语》第248部「叕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「坐」的本义：跪坐于席上",
+      "statement": "「坐」甲骨文从卩从㐁，「㐁」象席形，「卩」象人屈膝，象人跪跽于席上之状。唐代以前没有凳子，人们歇息时都是跪坐在席子上（东汉壁画《夫妇宴饮图》可证）。zuò，《正字通》「行之对」。",
+      "boundary": "源自《系统汉语》第249部「坐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「坐」的转义：座位、搭乘、曲折、因由、止空",
+      "statement": "由跪坐之席引申指座位、席位（与床座之座通）；或引申指搭乘、放置、留止（坐车、坐锅、坐果）；坐时须屈膝，故引申指曲折、短小，cuò，《释名》「坐，挫也，骨节挫屈也」；坐必有所依凭，故或引申指因为、招致（如连坐）；坐是歇息时的状态，故引申指止、空。",
+      "boundary": "源自《系统汉语》第249部「坐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「坐」的辩证：《说文》「从土从留省」不确",
+      "statement": "由于战国古文「㐁」演变作「土」，「卩」演变成两人对坐状，小篆承之，故《说文》「止也，从土，从留省，土，所止也，此与留同意」；「留」从「卯」，在字形上跟「坐」本无关联，故析形不确。",
+      "boundary": "源自《系统汉语》第249部「坐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「坐」的音源：借音字，义音同隹",
+      "statement": "「坐」是借音字，坐状如鸟，故义音同「隹」：《诗·小雅·鸳鸯》「摧之秣之」之「摧」，《白孔六帖》卷九六引作「挫」。",
+      "boundary": "源自《系统汉语》第249部「坐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「坐」的字族：坐相关、坐姿摧折、坐下短小",
+      "statement": "字族三路：①与坐直接相关——侳（安坐；有也；辱也）、㛗（訬疾也，吵扰轻薄；少貌；主也）、座（床座；坐位；坐具）、蓙（席子）；②指坐姿，表示摧折——夎（拜失容，甲士行跪拜之礼时膝不及地显得失礼；今人衣服张起曰夎）、蓌（挫也）、唑（与噬同，吃、咬）、銼（小锅；折也、摧也）、剉（折伤；去芒角、斫、斩截）、挫（摧也，摧折）、𧨀（佞也、动也；以言折人）、遳（徐行貌；脆也；遳脆，急躁貌）、趖（走意，疾走，快走时脚会略屈）；③指坐下，表示短小——痤（小肿，小肿块；痤疮；一种小李子或称麦李）、莝（斩刍，铡碎的草料）、睉（目小；丛睉犹细碎）、髽（妇人吊丧时的发结，用麻或布束发不用发簪）、矬（身短，矮小；腰背弯曲、下坠）、脞（丛脞，细碎无大略；小；切肉为脞；脆也）、㭫（麦李，一种细小有沟道如麦粒的李子；积木以殡）。",
+      "boundary": "源自《系统汉语》第249部「坐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」的本义：粗布衣服",
+      "statement": "「卒」甲骨文本从衣从爻，「爻」指交叉且稀疏的纹路，从「衣」象粗布衣服，可能是外面的短褂之类。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」的转义一：士卒、死亡",
+      "statement": "这种衣服一般为身份低微者或装殓尸体的服装，故引申指士卒、死亡。zú，《玉篇》「隶人给事也」，《尔雅》「死也」，《集韵》「终也」。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」的转义二：翠鸟的特征移借给「卒」",
+      "statement": "由于翠鸟的尾羽短小，犹如卒服一般，故指翠鸟的「翠」以「卒」为声。因此，跟我与鹅、奚与鸡一样，翠鸟的一些特征被移借给「卒」字，从而引申出相关含义。翠鸟种类很多，中国主要有斑头翠鸟、蓝耳翠鸟和普通翠鸟三种，共同点是头大、喙长、尾羽短，多以鱼类为食；入水捕鱼速度很快，捕到后会将猎物用嘴衔住摔打至不再动弹才吞食，吃完后还会将不能消化的骨、刺呈丸状吐出。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」的辩证与音源：《说文》存疑，本爻声而义音同隹",
+      "statement": "《说文》依据小篆释作「隶人给事者衣为卒。卒，衣有题识者」，析形存疑。音源本「爻」声，因其短而如鸟的翅羽，故义音同「隹」：《左氏春秋·定公十四年》「于越败吴于檇李」杜预注「檇李，吴郡嘉兴县南醉李城」，《公羊氏春秋·定公十四年》作「醉李」，《释文》「醉，本又作檇」。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」字族一：翠鸟入水捕鱼，表示沾湿、淬火",
+      "statement": "指翠鸟入水捕鱼，表示沾湿、淬火：㰵（吮也）、啐（惊也；少饮酒；尝也）、醉（尽量，卒其度量不至于乱）、淬（灭火器，将烧红的器具突然入水；深也、染也、寒也）、錊（炼也；炼铁）、焠（坚刀刃，将打好的烧红刀刃立即放入清水使之坚硬，谓之淬火，表意同时带拟声性质；火入水也）。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」字族二：捕食，表示仓猝、急速",
+      "statement": "指翠鸟的捕食，表示仓猝、急速：踤（触也；骇也；苍踤，仓猝；踩踏）、𣨛（大夫死曰𣨛，突然死亡）、窣（从穴中卒出；窸窣，声不安）、猝（犬从艸暴出逐人，仓猝暴疾）、悴（忧也；心急也；困也）。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」字族三：摔食，表示破碎、撞击",
+      "statement": "指翠鸟的摔食，表示破碎、撞击：噿（鸟喙；鸟声）、𪘧（齚也，咬碎）、誶（让也，责骂，指絮絮叨叨）、𤭢（破也，破碎）、粹（不杂也，精米即脱了外壳和内皮的碎米）、賥（货也，财货；亦作粹）、埣（土之不黏者；土颓落）、脺（小耎易断）、捽（持头发，抓住；击也，抵触撞击）、碎（䃺也，破碎）。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」字族四：尾羽，表示短小",
+      "statement": "指翠鸟的尾羽，表示短小：臎（鸟尾上肉；臀骨、尾骶骨；肥实谓之臎）、䱣（鯈也，白鲦鱼，肉质鲜嫩但细刺多、个头小，最宜油炸，多栖息水表层，最宜翠鸟捕食）、晬（周年，小孩子满周岁，大约指其开始长出短小的乳牙）、顇（憔悴瘦弱；面短）、瘁（病也；劳也）、椊（椊杌，木短出貌；柱头内）、𩩠（小骨）、㲞（毛生貌；毛短）、䚝（角始生）。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」字族五：羽色，表示青翠、五彩、汇聚",
+      "statement": "指翠鸟的羽色，表示青翠、五彩、汇聚：翠（青羽雀也，出郁林；翠鸟背尾羽毛在某种角度的光线照射下会发出翠绿色光芒，故引申指青、绿、碧之类颜色）、璻（玉色）、琗（珠玉光；文采相杂）、𪓌（会五彩缯色）、綷（会五彩缯色；綷䌨，纨素声）、𢃒（五彩缯）、萃（艸貌；萃蔡，衣声；聚也）、祽（月祭名）、倅（副也，辅助；盈也；聚集）、崒（危高也；同萃，聚集）、箤（笭也，竹笼）、稡（禾秀不实；聚也；稗子）。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「卒」字族六：形态，表示独处、眼明",
+      "statement": "指翠鸟的形态，表示独处、眼明：㱖（待也；翠鸟性孤独，平时常独栖近水边的树枝或岩石上伺机猎食）、睟（视正貌；目清明也；润泽貌；目际；翠鸟眼睛特别厉害，在岸上就能准确看见水中的鱼，扎入水中后能迅速调整光线造成的视角反差，故被称为鱼狗）。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「翠」：青羽雀，引申为青绿色",
+      "statement": "「翠」从羽卒声，《说文》「青羽雀也，出郁林」。翠鸟背上、尾巴上的羽毛在某种角度光线照射下会发出翠绿色光芒，十分美丽，因此引申指象其羽毛般的青、绿、碧之类颜色。根据战国古文，「翠」不从「卒」而从「辠」，但结合楚系简帛文字，「卒」的战国文字与「辠」形相近，当因形近而讹混；不过「辠、卒」音本相近，将「翠」解成样子象罪人一般的鸟也无不可——翠鸟头大颈短而喙形长大，有如戴枷的罪人。",
+      "boundary": "源自《系统汉语》第250部「卒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「㒸」的本义：猪的善于拱土、打洞",
+      "statement": "「㒸」从八从豕，「八」指分开，从「豕」象猪的善于拱土、打洞。猪尤其是未完全驯化前的野猪，有尖利的獠牙和坚韧的鼻子，可作觅食和进攻的武器，可谓「遂」的初文，《玉篇》「㒸，今作遂也」，《说文》「遂，亡也」，打洞逃亡之意。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「㒸」的转义：顺遂",
+      "statement": "由猪的脱逃引申指顺遂，《广韵》「从意也」。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「㒸」的音源：本「八」声，结构义音同兌",
+      "statement": "「㒸」本「八」声。「㒸」的字形结构与「兌」相同，义音也相当：《诗·卫风·硕人》「说于农郊」《释文》「说，本或作税，郑作襚」，《史记·郦生陆贾列传》「乃奉百金往税」裴骃集解引韦昭「税，当为襚」，《晏子春秋·内篇问上》「兹于兑」王念孙《读书杂志》「兑，读为隧」。故《说文》「从意也，从八，豕声」所析不确，「豕」为实指，应不表声。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「㒸」字族一：钻洞，表示钻进、逃亡、深入",
+      "statement": "指钻洞，表示钻进、逃亡、深入：遂（亡也，逃亡；达也、进也、成也、安也、止也、往也、从志也）、邃（深远也）、譢（告也、问也，或作讯，通作谇）、㥞（深也，智也，意思深也）、禭（祭名；神名，高句骊国东有大穴号禭神，以十月迎而祭之）、澻（田间小沟，通作遂）、燧（塞上亭守烽火者，边塞上的烽火；《礼·内则》「左佩金燧，右佩木燧」郑注「金燧取火于日，木燧钻火也」，即钻木取火）。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「㒸」字族二：与「隊」同，表示下垂",
+      "statement": "与「隊」同，表示下垂：䃍（陖也，落下）、襚（衣死人，给死人穿衣服；遗也，赠送；绶也，贯穿佩玉的丝带）、旞（导引车子前进的旗帜，旗杆上系有完整的五彩鸟羽）、穟（禾穗成熟时低垂的样子）、𩔀（头蔽𩔀，头痴呆，即象猪一样呆头呆脑）、璲（玉璲，以玉为佩）、嬘（女字）、䡵（輰䡵，柳车也）、𦂁（绶也，所以连系瑞玉者）、𣔾（罗树，即檖，一名赤萝、山梨、鹿梨、鼠梨，果脆美如梨）。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隊」的本义：人从高处坠落",
+      "statement": "「隊」甲骨文本从𨸏从屰，楷化作「队」，今为「隊」的简化字，象人从高处头朝下跌落。zhuì，《正字通》「陨落也，与坠同」。西周金文从𨸏㒸声，与甲骨文本非一字：「㒸」指打洞，「𨸏」指山丘，象人工挖掘的山洞，即墓道。suì，《集韵》「隧，墓道也」；墓道本用于下葬，故引申义同「队」。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隊」的转义：丧失、行列",
+      "statement": "由下坠引申指丧失，《玉篇》「失也」；「㒸」本有从义，故引申指行列，duì，《玉篇》「部也，百人也」，《集韵》「群也」。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隊」字族一：坠落，表示下垂、覆掩",
+      "statement": "指坠落，表示下垂、覆掩：墜（陊也，坠落；失也）、䔹（草名，似菌，蘧蒢；茭白的嫩苔，长在根部）、𪒛（黑云行𪒛𪒛也；黮𪒡，黑也）、𩐌（齏也，切碎的菜；腌藠头）。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「隊」字族二：墓道，表示幽深、凹进",
+      "statement": "指墓道，表示幽深、凹进：䉌（籧篨，粗席；竹径）、䥙（阳䥙，太阳底下取火的铜杯或铜镜，今发现最早的青铜阳䥙为西周器）、隧（墓道也，掘地通路也；径也；或作邃，深远也）。",
+      "boundary": "源自《系统汉语》第251部「㒸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「水」的本义：象波纹蜿蜒形",
+      "statement": "「水」象波纹蜿蜒形，旁边的小点为水珠。shuǐ，《玉篇》「流津也」。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「水」的转义：江河湖海、液体、测平、掺假",
+      "statement": "江河湖海都是由水汇流而成，故引申指江河湖海；或比喻指样子如水一般可以流动的液体（药水、墨水、铁水）；人们利用水趋下的习性测量是否平整，故引申指测平（《说文》「准也，北方之行，象众水并流，中有微阳之气也」）；水的渗透性强，许多物体容易进水而变大、变质，从而引申指掺假的、附加的（水货、外水、肥水）。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「水」的音源：源自水流声，义音同㒸",
+      "statement": "「水」是音源字，源自水流声。水滴石穿，故义音同「㒸」：《集韵》「𥤼，深也，或作邃」。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「水」字族一：溺水",
+      "statement": "字族多跟水直接相关，指溺水：㲻（没也，淹没，今作溺）、𡬄（孰寐也，熟睡）。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「水」字族二：积水、大水、深水",
+      "statement": "指积水、大水、深水：㽷（肿病；《黄帝灵枢经》「风㽷肤胀」，水肿）、沝（二水也，水流会合；闽人谓水曰沝；滩碛相凑之处）、淼（大水也，水势浩大；义音同渺）、𥤼（深也，或作邃）、𠝃（与渊同）。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「水」字族三四：水生物、状如水",
+      "statement": "③指水生物——𩾼（水鸟也）；④状如水——尿（人小便也；尿流细小故义音或同嫋；甲骨文本象人小便形，不从水）。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「沓」的本义：水从高处流入坎穴",
+      "statement": "「沓」从口从水。「口」可以指嘴，或象含水漱口，或象口若悬河滔滔不绝；tà，《说文》「语多沓沓也」。但「口」也可以指坎穴，水从高处流入坎穴时会发出连续不停的声响；「沓」或写作「㳫」（《正字通》「沓字之讹」），而且指话多的字本有「侃」，因此从「沓」字的用义看，水流入坎似乎更符合它的本义。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「沓」的转义：重叠、连续",
+      "statement": "由水流入坎引申指重叠、连续。《玉篇》「重迭也、多言也、合也」，《集韵》「行击鼓也」。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「沓」的音源：本「水」声，义音同𦐇",
+      "statement": "「沓」本「水」声，因有覆盖义，故义音同「𦐇」：《史记·司马相如列传》「纠蓼叫奡蹋以艐路兮」之「蹋」，《汉书·司马相如传》作「踏」。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「沓」字族一二：反复下击、覆盖套叠",
+      "statement": "①指反复下击——䂿（舂已复捣之曰䂿，再舂糙米使之精良；今俗设臼以脚踏碓舂米曰䂿）、涾（涫溢也，沸腾漫溢，取义于水上下不停翻腾）、誻（多言多语；言相恶也）、𦧥（歠也，饮水；大食也）、踏（足着地，践也）、㹺（犬食，犬吃东西一般不咀嚼故为连续吞吃）、䎓（翋䎓，飞貌）、䶁（鼓声杂沓）、𠉤（儑𠉤，不任事也）、𠴲（噂沓，议论纷纭）、𣥾（足趾重）、𨓬（行貌，脚步杂乱）、𨡍（肉酱）、𩣯（馺𩣯，马行疾）、𪂌（鸟名；鸟食）；②指覆盖套叠——崉（山重貌）、濌（濌濌，无贤不肖之辨；渍厚也，堆积很厚）、鞜（革履，皮鞋）、𡌩（塔，物堕声；累土也）、𤄥（物湿附着也）、𩭣（发也）、錔（以金有所冒，贴盖器物头端的金属套）、㛥（俛伏也，俯伏；心悦诚服）、䈋（竹冒，竹制覆盖物）、㭼（柱斗，柱上支承大梁的方木）、䍝（罔也；罯䍝，覆也）、䵬（黑也；猥茸貌）、𢃕（帐上覆）、𤿽（同㿴，皮瘦宽貌）、𧌏（生在米里的小黑甲虫）、𨌭（车毂内的包铁）、𨵝（卑下）、䓠（菜生水中，大叶，即泽泻）、㧺（缝指㧺，缝衣的指套即顶针；或指皮护套；冒也，摹也）。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「沓」字族三：形近「昔」之讹",
+      "statement": "③形近字「昔」之讹——𩷽（鱕鱼，鼻有横骨如鐇，海船逢之必断；鲨鱼之类）。",
+      "boundary": "源自《系统汉语》第252部「水部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「彖」的本义：象鬃毛突出的野猪形",
+      "statement": "「彖」象鬃毛突出的野猪形。shǐ，《集韵》「豕属」，即《说文》所解「㣇」：「修豪兽，一曰河内名豕也。」野猪是中型哺乳动物，家猪即由其驯化而来：整体毛色深褐或黑色，顶层由较硬的刚毛组成，底层下有柔软细毛，背上披有刚硬稀疏的针毛即鬃毛（意思是象棕一样）；躯体健壮，头与前部较大、后部较小，四肢粗短，头较长，耳小直立，吻部突出似圆锥体，顶端为裸露的软骨垫，坚韧有力，可以掘洞或推动四五十千克重物，或当武器，嗅觉十分灵敏；每脚四趾且硬蹄，仅中间二趾着地，善奔跑；尾细短，眼小视力极差；犬齿发达，雄性有两对不断生长的外露獠牙，向上翻转。野猪夜行，清晨与傍晚最活跃，白天睡觉，喜泥浴；雄兽还花许多时间在树桩、岩石和坚硬河岸上摩擦身体两侧，把皮肤磨成坚硬保护层，以免发情期搏斗受重伤。河姆渡猪纹陶钵（七千年前）可为其证。",
+      "boundary": "源自《系统汉语》第253部「彖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「彖」的转义：脱、判断",
+      "statement": "野猪性凶猛、善奔，故引申指脱，tuàn，《类篇》「豕走也」；或引申指判断，《集韵》「《易》断卦辞」。",
+      "boundary": "源自《系统汉语》第253部「彖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「彖」的辩证：彖、㣇、𧰲本即一字",
+      "statement": "「彖、㣇、𧰲」本即一字，《说文》误释为三：《六书故》「𧰲与彖一字，《说文》分为二，非」，《正字通》「彖、㣇、𧰧一字而音义有三也」。同时《说文》另析出「彑（豕之头，象其锐而上见也）」，其实「彑」与「彖」或「㣇」是一体的，并不单独表意。",
+      "boundary": "源自《系统汉语》第253部「彖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「彖」的音源：源自野猪叫声，义音同兌",
+      "statement": "「彖」是音源字，源自野猪的叫声。因其鼻坚韧有力，可用来挖掘或撩物，故义音同「兌」：《礼记·玉藻》「士褖衣」郑玄注「褖，或为税」，《大丧记》「士妻以税衣」郑玄注《周礼·内司服》引作「褖」。",
+      "boundary": "源自《系统汉语》第253部「彖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「彖」字族一二三：硬壳边缘、啄刻刺斫、逐窜遁",
+      "statement": "①指彖皮的硬实，表示硬壳、边缘、光秃——椽（榱也，安在檩子上承接屋面和瓦片的木条；《释名》「桷，确坚而直也」）、櫞（枸橼，似橘，佛手柑）、蝝（复陶；蚍蜉子、蝗子，即蝗虫幼虫）、𢐄（弓缘）、瑑（圭璧上起兆瑑，在圭璧上起兆文的凸形雕刻）、腞（篆也，雕俎；拖着脚跟走；肥也）、墬（籀文地字）、緣（衣纯，装饰衣边；弓有缘者谓之弓，即用生丝缠绕后漆饰）、褖（黑衣，王后之服，有边饰的衣服）、䧘（道边庳垣，路旁矮墙）、堟（耕土卷，耕田翻土；田边的土垄）、𧑝（兔罥）、𩔂（秃也）、攭（无毛羽貌；分判也）、㒩（倮、躶、臝并通）、𢷻（把也；菓名）；②指彖鼻或彖牙，表示啄、刻、刺、斫——鶨（勾嘴鸟，亦称痴鸟；雉）、喙（口也，尖嘴；叹息）、篆（引书，运笔书写；印亦曰篆，文盘曲貌）、㥟（怨恨也，彖既有刻义故音义如契）、剶（削也，去枝也）、䛹（散也；相责）、𩽵（鮦也，黑鱼，嘴阔牙尖性凶猛）、䂕（短小貌）、䤸（矛也；矟小者）、䱲（俗魨字）、𠠂（刀刺）、𣂵（斫也）、𦧫（同舓，舔食）、𧳩（貒，野豕，貛猪，善打洞）；③指彖的善奔，表示逐、窜、遁——掾（缘也，佐助；公府掾史）、猭（兔走貌；兽走草；兽发情）、䞼（与窜同）、𠭣（小豕，从彖省，象形，从又持肉以给祀祠）、𦑙（飞貌）、𦺛（兽走草）、𨂦（行也）、𩘐（疾风）。",
+      "boundary": "源自《系统汉语》第253部「彖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「彖」字族四五：困倦、渣滓水器煨染",
+      "statement": "④指彖的贪睡，表示困倦——𤸁（困极，亦作喙）、𣨶（殢𣨶，极也；倦也）；⑤指彖的泥浴，表示渣滓、水器、煨染——䤙（酪滓）、𩄖（小雨也）、湪（水名；热水，特指洗过澡的水即污水，《周礼》「湪濯」郑注「湪，古文作渜」）、餯（饭臭）、蠡（虫啮木中，蛀虫；器物因腐蚀或磨损而将断；瓠瓢；蚌属）、㼖（瓠勺）、𦪶（大舟；俗呼瓢曰蠡故小舟）、欚（江中大船名，疑本指刳木为独木舟；捕鸟兽的网）、盠（以瓢为饮器；簞也）、𤊺（曝也，煨也）、𧅮（赤草，朱草可以染绛、别尊卑）。",
+      "boundary": "源自《系统汉语》第253部「彖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「肙」的本义：有口的肉，即小虫",
+      "statement": "「肙」从口从肉，其义有二：或指有口的肉，即小虫，yuān，《广韵》「小虫也」，或专指「蜎」——《集韵》「井中小赤虫」，即摇蚊的幼虫血红虫，俗称沙虫，形态正如肉丝一般；或指口衔肉、表示不想吃、满足，是「猒」的初文（《玉篇》「足也」），或表示捐献、厌弃，是「捐」的初文（《玉篇》「弃也」）。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「肙」的辩证：口、囗形近致《说文》析形不确",
+      "statement": "因「口、囗」形近，《说文》「小虫也，从肉，囗声，一曰空也」析形不确。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「肙」的音源：借音字，义音同彖或回",
+      "statement": "「肙」是借音字。小虫会钻，战国古文「口」或作「占」，应表声，故义音同「彖」：《史记·樗里子甘茂列传》「楚王问于范蜎」索隐「蜎，《战国策》作蝝也」。或义音同「回」：《鬼谷子·揣篇》「蜎飞蠕动」，《韩诗外传》作「蝖」。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「肙」字族一：虫的钻、咬",
+      "statement": "指虫的钻、咬：悁（忿也，一曰忧也，即心里如有虫子在咬之意；躁急）、蜎（虫类爬动的样子；井中小蛣蟩，赤虫，一名孑孓）、剈（挑取也，剜取；小割而深也）、狷（褊急也，胸心狭窄，即钻牛角尖之意）、瓹（瓮底下的滤孔，从瓮底孔下取酒）、琄（佩玉貌；钻有孔的小玉块）、䧎（坑也）、䣺（滤酒，从小孔里滤出）、㾓（骨节疼，骨酸，烦郁）。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「肙」字族二三四：白里透青、纤小扭动、蜷缩成环",
+      "statement": "②指虫身的白里透青之色——絹（缯如麦䅌，丝织品象麦茎的青色）、䅌（麦茎，麦秆白而薄如虫）、駽（青骊马，青黑色马）、焆（烟貌；火始然；明也）；③指虫的纤小、扭动——娟（婵娟，秀丽）、涓（小流）、睊（视貌，侧目相视）、埍（徒隶所居，一曰女牢；住的人多）、弲（角弓，洛阳名弩曰弲）、裐（衣小）；④指虫的蜷缩成环形——鞙（大车缚轭靼，牛车上悬缚车轭的柔软皮带；刀鞘；马勒）、鋗（小盆；铜铫；车鐶）、羂（同罥，挂网）、㘣（规也，圆规）、梋（椀谓之梋，盂属；车环）。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「肙」字族五：吐出，表示满足、抛弃",
+      "statement": "⑤指吐出，表示满足、抛弃：䬼（猒也，餍饱）、捐（弃也，舍弃；除去也、损也）、鵑（杜鹃鸟，出蜀中，状如雀鷂而色惨黑，赤口有小冠，春暮即鸣、夜啼达旦，鸣必向北，其声哀切，田家候之以兴农事，惟食虫蠹，不能为巢，居他巢生子，指将自己的卵丢弃在别的鸟巢里）、𦮻（𦮻明草；祭以为藉）。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「猒」的本义：犬衔肉以献给主人",
+      "statement": "「猒」从犬从肙，肙亦声，象犬衔肉以献给主人，与「捐」意同。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「猒」的转义：饱足、厌弃、封口掩盖",
+      "statement": "由犬的捐献猎物引申指饱足、厌弃，《玉篇》「足也」；又由厌弃引申指封口、掩盖，yā，《集韵》「本作厌，或作压」。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「猒」的辩证：小篆讹「口」为「甘」",
+      "statement": "因小篆讹「口」为「甘」，故《说文》「饱也，从甘，从肰」析形不确。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「猒」的音源：本肙声，义音同今",
+      "statement": "「猒」本「肙」声，因有掩盖义而义音同「今」：《书·禹贡》「厥篚檿丝」之「檿」，《史记·夏本纪》作「酓」；《淮南子·说林训》「使工厌窍」之「厌」，《文子·上德》作「撚」。「今」义本指嘴含住、合拢。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「猒」的字族：掩盖、压住",
+      "statement": "字族多指掩盖、压住：厭（笮也；合也；沈溺意；与黶同，与掩藏之掩同音；魅也，别作魘；禳也、当也）、懕（安也，安乐貌；足也）、嬮（好也，安详美好）、檿（山桑，叶尖而长如鸡爪故或称鸡桑）、魘（梦惊，梦中觉得有什么东西压住不能动弹）、黶（中黑也，脸上的黑痣、黑斑）、靨（姿也，酒窝；脸上的黑痣）、擪（一指按也）、壓（坏也，一曰塞补；伏也、合也）、𣚕（叶动貌，叶子相覆掩貌）、厴（蟹脐，蟹腹下面的薄壳；蝸螺类介壳口圆片状的盖）、饜（饱也、足也）、𧞣（禳）、嚈（与咽通；译音）。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「然」的本义：掩留火种",
+      "statement": "「然」从火（或亦）肰声，「肰」指掩盖，从「火」象掩留火种。古代取火不易，需保留火种：一般烧完后利用柴灰将火的余烬掩盖起来，俗称「熰火」，柴灰能略微透气，可使余烬在里面缓慢暗燃一段时间而不出现明火；如需时间长些，还可在里面放块木炭或木柴。rán，《说文》「烧也」。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「然」的转义：肯定、接续",
+      "statement": "由保留火种引申表示肯定、接续之意。《玉篇》「许也，如是也，应言也」。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「然」的辩证：「肰」为「猒」之省",
+      "statement": "由于「肰」为「猒」之省，导致其本义扑朔迷离，迄无定论。《说文》「肰，犬肉也」若指犬肉便无实际意义，故马叙伦《说文解字六书疏证》引桂馥之说「犬当为火」；唐兰《天襄阁甲骨文存考释》则以「肰」即「猒」、与「协」一字。依桂说，则「肰」本即「炙」字，因战国古文「火、犬」形近而误作「肰」；依唐说，「肰」本即「猒」，但作「协」解未免牵强——「猒」从肙、犬，即犬衔肉献主，故有厌弃、满足之意，本「厌」的初文，比较符合「然」表示肯定的语意。另据《说文》所引，「然」或作「䕼」，根据春秋金文实当为「㸐」，从火从难，难本从堇，堇有掩义，由此也可证「然」指掩留火种的解释是合理的。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-45-zhui",
+      "title": "「然」的字族：暗红与肯定接续",
+      "statement": "字族两路：①多指色如火种的暗红——繎（丝劳也，丝萦结难理；红色之尤深，言若火之然）、橪（酸小枣）、𤡮（猓𤡮，兽名如猿，白质黑文；好理髥，爱其类，生相聚死相赴）、䔳（野豆，疑指赤小豆）、䳿（鸟名）、燃（俗然字，燃烧）、𥳚（竹名）、㬗（与晛同，日光）、㦓（意难也，脸红不好意思之状）；②指肯定、接续——嘫（语声，表示肯定应答之声）、㒄（意膬也，意志不坚定随声附和）、㜣（人姓；女姿态貌）、撚（执也；蹂也，用手指搓转；续也）、蹨（蹂蹨，蹈也、逐也；续也；紧也）、𥊶（形状乖戾）。",
+      "boundary": "源自《系统汉语》第254部「肙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
