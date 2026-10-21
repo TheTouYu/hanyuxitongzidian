@@ -1,0 +1,1139 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷七十 亥（418.亥部至426.虤部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥部的音源字是旱獭",
+      "statement": "卷七十的音源字是「亥」，象旱獭（土拨鼠）形，读音来自旱獭的叫声，或作「犮」；旱獭古名「鼥」，《正字通》说它生于西番山泽、穴土为窠、形似獭，蒙古人名「答剌不花」。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/70a-hai.md",
+      "topic_title": "卷七十·亥",
+      "topic_summary": "《系统汉语》卷七十「亥」第418–426部（p1199–p1218）：418 亥部（p1201）、419 戒部（p1206）、420 革部（p1207）、421 克部（p1209）、422 癹部（p1210）、423 伐部（p1213）、424 鬲部（p1214）、425 秝部（p1216）、426 虤部（p1218）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "中国旱獭的四种",
+      "statement": "中国主要有四种旱獭：蒙古旱獭（体重4.5—5千克、背褐腹草黄）、长尾旱獭（尾约占体长一半、毛红色）、喜马拉雅旱獭（最大体长67厘米、可达10千克、背有黑色小斑点）、阿勒泰旱獭（背沙黄、腹鲜红或褐红）；分市于黑龙江、新疆、内蒙古、青海、西藏等地。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "旱獭的形态与警觉",
+      "statement": "旱獭体短身粗、无颈、耳壳退化为皮褶、上唇豁唇、上下各一对门齿露于唇外、前足4趾后足5趾；性情机警、视听敏锐，遇狼熊狐猞猁雕鹰等天敌即直立发出尖锐鸣叫，平时也常后肢直立四处瞭望。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "旱獭的洞系",
+      "statement": "旱獭是挖洞高手，洞系分越冬洞、夏季洞、临时洞三类；越冬洞结构复杂、洞口5—10多个、洞口间有浮土平整出的「瞭望台」、窝巢距地面110—300厘米；一个家族通常同住一个洞系。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "旱獭的冬眠",
+      "statement": "旱獭是冬眠动物，气温降至10摄氏度左右的金秋十月入眠，至翌年4月惊蛰醒来，长达半年；入眠时用碎石和土堵塞多数洞口只留一个进出，寒露前后用粪泥塞住洞口彻底冬眠。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "旱獭的经济价值",
+      "statement": "旱獭是集毛皮、肉用、药用多种用途的经济动物：毛皮坚实耐磨、保温性好，是制裘皮衣帽披肩的上等原料；肉属高蛋白；油脂是高级化妆品原料、外用治关节炎烧伤、内服化瘀止血；心肝胆爪皆可入药。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "旱獭之害与「魃」",
+      "statement": "旱獭每日啃食大量优良牧草、尤其喜食带露水的嫩草茎叶与草根，挖洞的土掩埋植被，是草原沙化的元凶之一，故名前冠「旱」、或名「魃」；《山海经·大荒北经》所记穿青衣的黄帝女魃「所居不雨」，其实就是旱獭的样子。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "旱獭与鼠疫、黄帝战蚩尤",
+      "statement": "旱獭特别容易感染鼠疫杆菌，引起肺鼠疫与腹股沟淋巴结炎瘟疫（黑死病）；从亥的「痎」《说文》训「二日一发疟」、从犮的「祓」训「除恶祭」，所指可能即此病；传说黄帝借「魃」之力战胜蚩尤，可能即是利用鼠疫。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "世界三次大鼠疫",
+      "statement": "世界上曾暴发三次大鼠疫：公元6世纪从地中海传入欧洲、死亡近1亿人；14世纪波及欧亚非；18世纪传播32个国家；1793年云南师道南《死鼠行》「东死鼠，西死鼠，人见死鼠如见虎」记当时我国疫情。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "卷七十八部皆由旱獭直立之姿借音",
+      "statement": "由旱獭警戒时直立的姿态，引申出惊骇、挺拔、拔除、警戒诸义；「戒、革、克、癹、伐、鬲、秝、虤」八部都是因此而借音。",
+      "boundary": "源自《系统汉语》卷七十「亥」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥的本义是直立的旱獭",
+      "statement": "亥的甲骨文象直立的旱獭形，是「鼥」的初文；头顶部位扁平故作「兀」字形，尾巴短、能用后腿长时间直立，故金文或作「上」表示直立向上。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥的转义",
+      "statement": "旱獭喜掘食草根，故引申指草根（荄）；直立是为了放哨观察，故引申指警惕防备（该）、依靠（《玉篇》「亥，依也」）、动物受惊而立（骇）；爪尖利善掘土故引申指刻镂（刻）；传播鼠疫症状似疟疾故引申指痎；又借指十二地支末位（纪年、纪月十月、纪时21—23点、生肖豕）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥的辨证",
+      "statement": "《说文》析亥为「从二（古文上）、一人男一人女、从乙象褢子咳咳之形」，并引《春秋传》「亥有二首六身」，析形不确；亥与「豕」字形相近又恰对应生肖豕，故或混同；「孩」其实也取直立之意，即「而」（四肢著地爬行）之后幼儿刚能站起的阶段，约一周岁。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥的音源是旱獭叫声",
+      "statement": "亥是音源字，读音来自旱獭的叫声；因有直挺义而义音同「介」，《左传·昭公二十年》「齐侯疥」孔颖达疏「疥，当为痎」。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥字族：牙尖爪利表示刻镂",
+      "statement": "亥部字族第一路取旱獭牙尖爪利：刻（《说文》「镂也」，又剥、画、割、刻薄、惨核）、荄（草根，《方言》东齐曰杜或曰茇）、核（《说文》蛮夷以木皮为箧、状如奁尊，又果中实）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥字族：直立表示惊起竖立",
+      "statement": "亥部字族第二路取旱獭直立：骇（马受惊抬前腿站立）、豥（豕四蹄皆白、指猪受惊）、骸（胫骨、骨骼、身体）、胲（足大指长毛处的肉，又脸颊）、颏（丑、下巴）、郂、陔（階次、台阶、田埂）、垓（高台、中心地带、数字十经为垓）、晐（阳光普照、兼备）、劾（定罪审判、检举）、赅（完备）、㚊、㧡、𥩲（竖𥩲神人）、絯（拘束）、峐（无草木的山）、姟（数字）、輆（不平、碍）、𩠚（首）、𥞨（同秸）、𦈲、𦷷、𧊏、𩰶、烗（炽盛）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥字族：警惕表示碍止",
+      "statement": "亥部字族第三路取警惕碍止：㤥（苦、愁畏）、该（军中警戒的条约，引申备、咸、兼、皆、应当）、閡（从外面关的门，即耳门栅栏，只挡大门下部三分之一、门闩在外，防小孩外出鸡鸭犬进入）、咳（小儿笑，古文从子即孩；又咳嗽）、欬（胃气上逆、打饱嗝）、䬵（饴糖、打嗝、食物变味）、痎（二日一发疟）、侅（非常、噎）、硋（碍，止）、䀭（目大、众相视）、㱾（大刚卯、正月卯日作以逐精鬼）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "亥部的音译字",
+      "statement": "亥部还有音译字：氦（极轻无色惰性气态元素He）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "犮与亥同源",
+      "statement": "「犮」与「亥」同源，商代晚期金文象直立的旱獭正面形、足部加一丿表示抬起前肢；「髮」的西周金文所从则与甲骨文「亥」相似，为直立的旱獭侧面形；犮即「鼥」的初文。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "犮的转义",
+      "statement": "由旱獭直立之状引申指挺拔、抽引（拔）、往前扑（跋）；毛皮细软光泽面积不大适作蔽膝（袚）；穴居掘草根造成地表塌陷水土流失故引申指旱灾（魃）、用火驱疫的仪式（祓）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "犮的辨证",
+      "statement": "犮的字形与「犬」相似，故《说文》释为「走犬貌，从犬而丿之，曳其足则剌犮也」，但旱灾之义与犬无关，且其衍生字「茇」训草根与「荄」完全相同，故作「犬」应是形近而误。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "犮字族：直立表示抽引挺出",
+      "statement": "犮部字族第一路取直立：拔（《说文》「擢也」，连根拽出，又出、挺、尽、回、辅）、祓（除恶祭、除灾求福）、跋（蹎跋、仆倒、踩踏、火炬、书后曰跋）、𨈩、𧺺（行貌、猝然，同魃）、䮂（蕃中马、汗血马）、菝（菝葜，金刚藤）、鲅（鱣鲔鲅鲅、鱼掉尾而游）、柭（棓、拐杖；又击禾连枷）、䳁、詙、秡、𥬒（罩鱼竹器）、䯋、沷（寒、疏浚）、茇（草根）、发（头发，《释名》「发，拔也，拔擢而出也」）、胈（肤毳皮、股上小毛）、吠、𦍱、𧲯、𩂔、𩠷、𩃶、炦（火气）、馛（大香）、䣮（酒气）、㤄（怒）、𣧧（腐气）、颰（小风、疾风，疑指龙卷风）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "犮字族：粗短而硬",
+      "statement": "犮部字族第二路取旱獭之状、粗短而硬：鼥（土拨鼠，皮可为裘、湿不能透）、袚（蛮夷衣、蔽膝、小儿抱裙）、帗（一幅巾、乐舞执全羽祀社稷）、韍（即巿，上古蔽前之衣，天子朱巿、诸侯赤巿、大夫葱衡，取旱獭四色毛皮别身份）、黻（黑与青相次文、礼服花纹）、𢇷（草舍）、钹（铜钹，南齐穆士素所造，唐燕乐相和）、盋（钵，食器）、瞂（盾）、冹（寒冰貌）、𤤒、𤵬、𥎱（短人）、蛂（金龟子、甲壳硬）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "犮字族：为害表示旱与掘土",
+      "statement": "犮部字族第三路取旱獭为害：妭（美妇，又同魃为旱鬼）、翇（乐舞执全羽祀社稷，即万舞执羽洒水模拟下雨以求雨驱旱魃）、坺（治田、臿土、尘土）、軷（出军祭路神、堆土建坛树茅依神、车从牺牲上辗过）、魃（旱鬼，《诗》「旱魃为虐」）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "犮部的形近讹字",
+      "statement": "犮部末尾收形近字「夭」之讹：𡲁（履属）。",
+      "boundary": "源自《系统汉语》第418部「亥部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "戒的本义是武装防范",
+      "statement": "戒的甲骨文为双手持戈状、或作大持戈形，象意武装防范；《说文》训「警也，从廾持戈，以戒不虞」。",
+      "boundary": "源自《系统汉语》第419部「戒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "戒的转义",
+      "statement": "由警戒引申指谨慎、准备（《广韵》「慎也、具也、备也」）；由警告引申指告诉、命令（《字汇》「敕也」）；或引申指界限（与「界」义同）。",
+      "boundary": "源自《系统汉语》第419部「戒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "戒的音源",
+      "statement": "戒是借音字，义音同「亥」，取防备之意；古戒、亥可通，《周礼·大司马》「鼓皆駴」《释文》「駴，本亦作骇」。",
+      "boundary": "源自《系统汉语》第419部「戒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "戒字族：戒备表示束缚约止",
+      "statement": "戒部字族第一路取戒备约束：悈（戒饬、掩饰慌张强作镇定）、械（桎梏、器械、持、盛物之器）、祴（宗庙奏祴乐，堂下阶前砖砌的路）、裓（衣襟、堂涂）、尬（尴尬）、𢂵（头巾）、𢧧、𢬿（持）。",
+      "boundary": "源自《系统汉语》第419部「戒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "戒字族：警告表示警示凶暴",
+      "statement": "戒部字族第二路取警告：诫（敕也，告戒规劝）、㖑（吆喝呵斥、诋毁）、駴（击鼓声如疾雷，同骇）、㑘（善、大，或与介同指介绍）、㳦（水名）、烗（炽盛）。",
+      "boundary": "源自《系统汉语》第419部「戒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革的本义是剖剥摊开的兽皮",
+      "statement": "革的甲骨文象被剖剥下来摊开的整张兽皮形，头、身、尾仍相连；《广韵》「兽皮也」。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革的转义",
+      "statement": "皮作用途时一般要去毛并鞣制，故引申指去毛（《玉篇》「去毛也」），进而指更改、改换、除掉；去毛用火燎或开水烫后趁热快刮，故引申指急；兽皮用处多，或代指皮制之物（《尔雅》「辔首谓之革」、皮制缰绳、甲胄盾兵车、皮蒙的鼓）；由剥下之皮枯干皱褶引申指老迈；由展开的皮革之状引申指翅膀（《诗·小雅》「如鸟斯革」毛传「革，翼也」）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革的辨证",
+      "statement": "《说文》据小篆把上面看作「廿」（二十）、下面看作「十」，析为「兽皮治去其毛，革更之，象古文革之形……从三十，三十年为一世而道更也，𦥑声」，析形不确。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革的音源",
+      "statement": "革是借音字，由兵革的防御之意而义音同「戒」，《易·小过》「往厉必戒」之「戒」马王堆帛书本作「革」。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革字族：皮制用具",
+      "statement": "革部字族第一路指皮制用具：𪔨（皮蒙鼓）、䩧（用皮绳捆缚）、𢃲（缝补，一作缂）、𩩸（马头络衔，与肋通用）、㮖（鼓、搁置）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革字族：整治皮革表示改变刻镂烧碾",
+      "statement": "革部字族第二路指整治皮革：諽（饰、更改、整治）、𢯹（改治）、缂（织纬，花纹如刻镂故亦称刻丝）、煂（烧）、𨍝（车轮碾压，同轹）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革字族：皮革状表示宽扁薄",
+      "statement": "革部字族第三路取皮革之状：𦑜（翅、羽）、𩔈（面大丑陋）、㴖（湖泊、古国名）、䐙（胸膈）、鞂（禾稿去皮祭天为席，同秸）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "革字族的象声字",
+      "statement": "革部第四路为象声：㗆（鸟鸣，或作嗝；又作助词相当于「的」）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "䨣的本义是用皮革挡雨",
+      "statement": "「䨣」从雨从革，表示用皮革挡雨；《说文》「雨濡革也，读若膊」。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "䨣的转义与霸",
+      "statement": "皮革挡雨不能持久，久了会渗漏并使濡湿部分发胀凸起（段注「雨濡革则虚起，今俗语若朴」），此义分化作「霸」；霸又指农历每月初始所见的月亮（月始生，古作𣍸、屰），此时月只微露一弯、大部分仍黑暗，故也指月体黑暗的部分（《增韵》「月体黑者亦谓之魄，或作霸」）；由新月一抹白亮引申指把控（bà，霸王）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "霸字族：把持把控",
+      "statement": "霸字族第一路取把持：霸（诸侯联盟的首领）、坝（堰，截住河流的建筑物）、欛（器物之柄）、把（把持）、怕（因害怕而抚胸、脸色发白）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "霸字族：雨水",
+      "statement": "霸字族第二路取雨水：䨰（雨、陂泽、古国名）、灞（水名，出蓝田县蓝田谷，通作霸）。",
+      "boundary": "源自《系统汉语》第420部「革部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "克的本义是脱去油脂的皮革",
+      "statement": "克从革从由（「由」与「革」都从口，故省掉一个口）：革指剥下的生皮，由指油；加工生皮除去毛外还得脱去油脂，否则干燥后会变硬，古法用盐和矾的粉末擦在皮张上揉搓以脱出皮细胞中的油脂，故本义指脱掉油脂的皮革；皮革完成脱脂鞣制染色后为恢复柔软弹性又要加油润滑纤维，故也可解作给干燥皮革加油。",
+      "boundary": "源自《系统汉语》第421部「克部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "克的转义是制服获胜",
+      "statement": "由给皮革脱脂或加油使之柔软，引申指制服、获胜（《玉篇》「能也、获也、胜也」）。",
+      "boundary": "源自《系统汉语》第421部「克部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "克的辨证",
+      "statement": "由于「革」下面的皮形跟「人」形相近，故《说文》释为「肩也，象屋下刻木之形」，徐锴以「肩，任也，负何之名，与人肩膊之义通，能胜此物谓之克」，所析形义皆不确。",
+      "boundary": "源自《系统汉语》第421部「克部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "克的音源",
+      "statement": "克本为「革」声，因现字形已看不出革的痕迹故单立一部；义音同「亥」，《书·吕刑》「其审克之」之「克」《汉书·刑法志》引作「核」。",
+      "boundary": "源自《系统汉语》第421部「克部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "克字族：脱脂表示制服刻削",
+      "statement": "克部字族第一路取脱脂制服：勀（极其尽力辛劳、胜、自强）、克（克己、必、杀、急、克期，又打骂申斥）、𢭪（拿）。",
+      "boundary": "源自《系统汉语》第421部「克部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "克字族：皮革状表示皱缩发抖",
+      "statement": "克部字族第二路取皮革皱缩：娔（骂老女）、殑（殑㱡，欲死貌、掣缩；又鬼出）、𠗌（寒貌）。",
+      "boundary": "源自《系统汉语》第421部「克部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "克部的音译字",
+      "statement": "克部第三路为音译：𠳭（象声词，罗𠳭即啰嗦）、氪（无色惰性气体元素Kr）、㳳（𠳭介子即K介子）。",
+      "boundary": "源自《系统汉语》第421部「克部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癶的本义是两足相背",
+      "statement": "癶象两足相背之形，表示两脚交叉、行走不顺；《说文》「足剌癶也，从止𣥂，读若拨」。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癶与舛是一字",
+      "statement": "「癶、舛」应是一字：动物正常脚印相对，交错则走不好；《说文》另释「舛」为「对卧也，从夊𡕒相背」，两人对卧无论相向、相挨还是相背于理皆不通，除非指脚印杂乱（《增韵》「舛，错也」）；故癶、舛要么指两足并立，要么指两足交错。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癶的音源",
+      "statement": "癶是借音字，义音或如「乘」（作登字声符）、或如「背」（作癹字声符），本可属相背迭体字。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癶字族",
+      "statement": "癶部字族取相背：荈（茶叶老者、茶晚取者，有悖时令之意）、𥬫（竹以贯物，义音同串）、曻（同昇）。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癹的本义是以足除草",
+      "statement": "癹从癶从攴，象柱杖而立、双脚轮换踩踏之状，故脚有交错而成癶形，指中耕时田间除草（俗称徕田）；《说文》「以足蹋夷艸，从癶从殳」，引《春秋传》「癹夷蕴崇之」。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癹与发的初文",
+      "statement": "「癶」也可指棍子的移动（用棍挑拨）或手持棍棒投掷，此义后来分化作「发」；「发」的初文本不从癹，一期甲骨文将弓弦写成独立的一点表示箭射出后弦颤动的样子，或加攴表声指投射、或加止表示站立，遂演变成从弓癹声、象一手持弓一手拔弦射箭之形。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癹的转义",
+      "statement": "由发射时箭的飞出，引申指离去、派遣、生发、启动、发布、呈现、发扬等；bō则形容疾风或鱼跃的声音（《集韵》「鲅，《说文》鱣鲔鲅鲅」或作发）。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癹的音源",
+      "statement": "癹是借音字，柱杖而立故义音同「犮」：《诗·豳风·七月》「一之日觱发」《说文》「㓖」字条引作「㓖冹」；《礼记·檀弓下》郑玄注「卫文子名拔，或作发」，《左传·襄公二十九年》作「公叔发」；《易·困》「朱绂方来」之「绂」马王堆帛书本作「发」。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癹字族：除草割草",
+      "statement": "癹部字族第一路取除草：𢯸（除草，同拨）、𦳠（除艸）、鏺（两刃木柄可刈草的镰刀，《释名》「杀也，言杀草也」）。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癹字族：脚运行表示划动分拨",
+      "statement": "癹部字族第二路取癹草时脚的运行：拨（《说文》「治也」，今指用手指或棍子推动挑起，本义即癹）、橃（海中大船，同筏；又木似柚、屋栋头）、癈（顽固不治的病、残疾）、废（《说文》「屋顿也」，房屋由立而突然垮下，又退、灭、止、放置）、鲅（鱼游摆尾）、蹳（用脚拔开、踢）、泼（水漏、弃水、液体倒掉使散开，引申胡乱蛮横）、𠷑（妄说）、墢（耕起的土，通作伐、坺）、𤼺（赋敛）。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "癹字族：发射表示张起竖立",
+      "statement": "癹部字族第三路取发射：发（《说文》「䠶发也，从弓癹声」）、襏（襏襫，蓑衣雨衣；又蛮夷衣、蔽膝）、𩯌（鬓多毛、胡须怒张）、醱（酒再酿、发酵）、𩞽（餺饦，饼）、蕟（草名、粗竹席）、櫠（柚属果树、木材坚硬；椵即枷）、𢠺（心起）、𤗳（挡风版）、驋（马走、马怒、马摇首）、鼥（土拨鼠，常抬起前肢竖立）、䚨（射鸟时收回箭上系绳的器具，即线槔如辘轳）、𧬋（出言）。",
+      "boundary": "源自《系统汉语》第422部「癹部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "伐的本义是砍人头颈",
+      "statement": "伐象以戈击人头颈之形，表示砍杀、击刺；《广雅》「杀也」、《集韵》「击也」。",
+      "boundary": "源自《系统汉语》第423部「伐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "伐的转义",
+      "statement": "由砍人引申指惩罚、征伐（《广韵》「征也」）；或引申指砍伐树木（「斩木也」）；或引申指夸耀功劳（《玉篇》「又自矜曰伐」）。",
+      "boundary": "源自《系统汉语》第423部「伐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "伐的辨证",
+      "statement": "春秋金文以后戈与人形分开，故《说文》「击也，从人持戈，一曰败也」析形不确。",
+      "boundary": "源自《系统汉语》第423部「伐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "伐的音源",
+      "statement": "伐是借音字，伐必举戈故义音同「犮」：《诗·秦风·小戎》「蒙伐有苑」《玉篇·盾》引作「瞂」云「本亦作伐」；《楚辞·九辩》「左朱雀之茇茇兮」朱熹集注「茇，一作茷」。",
+      "boundary": "源自《系统汉语》第423部「伐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "伐字族：支撑攀附",
+      "statement": "伐部字族第一路取戈加诸人之状：茷（草叶多；木枝叶盘纡；茇即草根，或指白色凌霄花借气生根攀援）、栰（同筏）、𥩱（伫立）、䣹（酒初酿会胀起来）、筏（编竹渡水之器）。",
+      "boundary": "源自《系统汉语》第423部「伐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "伐字族：斩伐夸耀",
+      "statement": "伐部字族第二路取斩伐夸耀：垡（耕起土）、𨀳（伐的俗字）、𠲎（同吠）、阀（仕宦人家自序功状树立于门外的柱子，即杀伐之功，引申指有权势的家族；又控制水流的装置）。",
+      "boundary": "源自《系统汉语》第423部「伐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "伐部的形近讹字",
+      "statement": "伐部第三路收形近「戉、代」之讹：䤦（钺之讹，斧）、𤇰（烕之讹）、𥅩（眓之讹，视高貌）、𥑼（支撑倾斜房屋）。",
+      "boundary": "源自《系统汉语》第423部「伐部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "鬲的本义是古代炊具",
+      "statement": "鬲象古代炊具鬲形，分陶制与金属两种，一般侈口（口沿外翻）、有三个中空的足、兼具灶与锅的功能，类似今日的火锅；《说文》「鼎属，实五觳，斗二升曰觳，象腹交文，三足」。",
+      "boundary": "源自《系统汉语》第424部「鬲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "鬲的转义",
+      "statement": "由鬲盛煮食物引申指阻隔（《韵会》「隔，通作鬲」）；由鬲足的弯曲之状引申指轭（系在车辕前架于牛马颈的部件），或引申把握、困厄。",
+      "boundary": "源自《系统汉语》第424部「鬲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "鬲的音源",
+      "statement": "鬲是音源字，源自敲击鬲所发出的声音；因有隔开义而义音同「亥」：《文选·蜀都赋》「肴槅四陈」李善注引《毛诗》「肴核维旅」，段玉裁注《说文》「核」字云「左思作肴槅，槅即核也」。",
+      "boundary": "源自《系统汉语》第424部「鬲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "鬲字族：相关器具",
+      "statement": "鬲部字族第一路指鬲及器具：䰜（鬲的或体，象熟饪五味气上出）、𨢌（滤酒）、镉（金属制的鬲；今指锡白色有毒二价金属元素Cd，弯曲时发出破裂声，元素符号音译）。",
+      "boundary": "源自《系统汉语》第424部「鬲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "鬲字族：阻隔间隔",
+      "statement": "鬲部字族第二路取阻隔：隔（《说文》「障也」，阻塞、限界，同膈；又击、与融通）、𩱘（皮衣里子）、膈（胸膈，体腔中分隔胸腹两腔的膜状肌肉，《释名》「塞也，管上下使气与谷不相乱也」；又钟磬格；膈应即讨厌腻味）、嗝（雉鸣、鸡鸣、打嗝，从胸膈发出的声音）、𥴩（竹障）、𥉅（目不正）、滆（水名、湖名在常州宜兴）。",
+      "boundary": "源自《系统汉语》第424部「鬲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "鬲字族：坚厚有纹",
+      "statement": "鬲部字族第三路取鬲表坚厚有纹：䃒（石、恶、地多石、土地贫瘠）、塥（沙土之次曰五塥，土地坚硬瘠恶）、䩹（补履、履头，同鞹即皮去毛）、𩹺（黄颡鱼，身尾似鲇、腹黄背青、腮下二横骨、群游作声轧轧然；又鰅鱼皮有文）、䣓（戎国名、县名、姓）、䮥（马色）、鷊（吐绶鸡，项有嗉囊内藏肉绶，春夏晴明则向日摆之，顶上先出两翠角，徐舒项下绶长阔近尺、采色焕烂）。",
+      "boundary": "源自《系统汉语》第424部「鬲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "鬲字族：弯曲中空",
+      "statement": "鬲部字族第四路取鬲足弯曲中空：槅（大车轭，扼牛颈；又食器、门窗木格、房屋器物隔板——鬲底必漏文如交疏故从鬲）、翮（羽茎，取中空之意）、搹（把、扼）、𢡍（智，通䛿）、蒚（山蒜；蒲蒚即蒲黄、山蒿）。",
+      "boundary": "源自《系统汉语》第424部「鬲部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "秝的本义有二解",
+      "statement": "秝从二禾，象意有二：一表示禾苗排列的样子（《说文》「稀疏适也，读若历」），一表示秸秆的堆积（此义分化作「厤」，甲骨文从亼从秝，亼指汇集聚拢）；《说文》「治也」、《玉篇》「理也，亦作秝」。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "秝的转义",
+      "statement": "由禾苗的排列引申指禾的春种秋收，从而表示经过（分化作「历」，《说文》「过也」）；秸秆轻软柔韧易燃、古代用途很广，故引申出多种含义：可编结为绳故引申缠束（𧝏）、可用于过滤故引申过滤渗漏（沥）、可编成稿荐帘子故引申并联夹持（兼）、可作柴火故引申陶器鬲（㽁）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "秝的音源",
+      "statement": "秝是借音字，由秸秆承托谷粒而义音同「鬲」：《说文》「㽁，汉令鬲」；《史记·滑稽列传》「铜历为棺」司马贞索隐「历即釜鬲也」。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "秝字族：禾苗秸秆之状",
+      "statement": "秝部字族第一路取禾苗秸秆之状：𪅼（鸟似鹰而大）、𪙪（齿病）、𡐰（坑）、𡮰（小劣）、磿（石声）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "秝字族：处理使用秸秆",
+      "statement": "秝部字族第二路取对秸秆的处理或使用：厤（磨治，与历同、经涉、理）、𡓸（积）、𠟄（割）、㻺（玉名，大约指用秸秆抛光玉器）、㷴（火貌）、㽁（瓦器，今作鬲）、𩄞（霖靋，雨不止貌，取用秸秆过滤之意）、𧝏（缠裹，编结秸秆为绳或蓑衣）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "秝字族：种禾表示经过历法",
+      "statement": "秝部字族第三路取种禾经过历法：历（推算岁时节气的方法，《正字通》「历以日为主，故从日；其从厤者，推其所经二十八舍、正日躔也」；黄帝、容成、羲和造历之说）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "秝部的形近讹字",
+      "statement": "秝部第四路收形近「𣏟、祘」之讹：𩴣（鬼名，魔字之讹）、𠪺（分，𪎕字之讹）、䔉（草木疏貌，蒜之俗字，形近祘之讹）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "历的本义是经过",
+      "statement": "「历」甲骨文从止秝声：止指行走，秝可指禾苗的分蘖生长，象意经过的时间如同庄稼的生长周期；《说文》「过也，从止厤声」；秝也可指禾苗排列之状，从止则象意列次、稀疏、分明、附着。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "历的转义",
+      "statement": "作物生长有季节规律，为指导生产而产生历法，故引申指历法；由秸秆的用途引申指过滤（分化作「沥」，《说文》「浚也」）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "历字族：过滤表示淅沥不断",
+      "statement": "历部字族第一路取用秸秆过滤：沥（过滤、液体一滴滴下落）、疬（瘰疬，颈腋淋巴结慢性感染，后期自溃脓汁稀薄如陈秝漏雨，故从秝）、讈（言不明）、爏（火貌）、雳（霹雳，雷之急激者）、呖（象声，鸟类叫声）、𩽏（䱀䰲，无鳞小鱼，身尾似鲇，群游作声轧轧然，即黄颡鱼）、䟐（踮起脚尖快步走）、苈（葶苈，性急善逐水走泄，虚者忌之）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "历字族：行列表示夹持并列",
+      "statement": "历部字族第二路取禾的行列：枥（夹手指的刑具即拶指，又马槽马房、蚕箔、橡树）、轣（缫丝车，赵魏之间谓之轣辘车；又车辙）、攊（击口）、𡳸（鞋底多层）、壢（坑）、䥶（鬲）、䍽（羖䍽，山羊，多毛者）、𥌮（视明貌）、𪙽（齿病）、儮（人名）。",
+      "boundary": "源自《系统汉语》第425部「秝部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "虤的本义是两虎相争",
+      "statement": "虤的甲骨文象两虎一倒一顺之形，二叠既可象两虎相争、也可象十分凶猛愤怒；《说文》「虎怒也，从二虎」。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "虤的音源",
+      "statement": "虤是音源字，源自两虎相争时发出的吼声，义音同「亥」；《集韵》「劾，勤力也，一曰勉也，或作勓」。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "虤字族：相争",
+      "statement": "虤部字族取相争：䖜（两虎争声，《说文》从虤从曰，曰为口气出）、贙（分别、对争贝；《尔雅·释兽》「贙，有力」，郭璞注西海大秦国所养似狗多力犷恶；凡争财物亦曰贙，又怒声与䖐通）。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "皆的本义是两虎抬前肢直立相抗",
+      "statement": "「皆」从口从虤，虤所从虎上面为虍（虎头）、下面与「亢」相同表示两足挺立，二叠表示两虎抬起前肢直立相抗之状，或省口、或省一虎意思相同；实即「䖜」字；西周金文或省从「比」，比本有相较量之意，《敦煌变文·叶净能诗》「造化之内，无人可皆」即比的意思。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "皆的转义",
+      "statement": "由两虎相抗表示同时、普遍、都（《小尔雅》「同也」、《正字通》「咸也，俱也」）；老虎发威气势夺人故引申指强（《广雅》「嘉也」），此义分化如「偕」（《说文》「强也」）。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "皆的辨证",
+      "statement": "小篆把「曰」讹写作「白」，故《说文》「皆，俱词也，从比从白」析形不确。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "皆字族：同都俱",
+      "statement": "皆部字族第一路取两虎相抗：喈（鸟鸣声、凤皇鸣喈喈，引申钟铃声哭声风雨声之大）、湝（水流湝湝、寒冷，风雨不止）、谐（和谐，《文心雕龙》「谐之言皆也，辞浅会俗，皆悦笑也」）、龤（乐声和谐）、鶛（雄鹌鹑，好斗）、𩤠（马性和善，疑本指马嘶鸣或几马同车的同步性）、阶（台阶、登堂道、缘由）、稭（禾稿去皮编席、农作物茎秆）、𤭧（牡瓦）、𥻄（米别名）、揩（摩拭、磨；又鼓名通作戛）、䡡（登车）、𩋧（鞋；又鼓名）。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "皆字族：虎威表示强壮硬实",
+      "statement": "皆部字族第二路取虎的威猛：偕（强壮、共同）、锴（九江谓铁曰锴，白铁，坚）、瑎（黑石似玉）、䃈（山名石名）、𡺓、媘（女字）、𢝷（人名用字）、煯（用火烘干）、𩘅（疾风）、𢔡（徘𢔡，行恶）、勓（勤力、勉）、㾬（痎疟，老疟发作无时即妖疟）、蝔（虫名，大如笔管长三寸，知天雨则藏身草木下）、𥏪（桂林谓人短为矲雉）、𦎥（羊名）、𧳧（兽名）、𦂄（大丝）、𦝨（瘦而露出肋骨）、𩩰（同瘦、同骸）、楷（黄连木，孔子冢盖树之者，木质黄色坚硬细致耐久；又楷模法式）。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-70-hai",
+      "title": "皆部的音译与讹字",
+      "statement": "皆部第三路为音译：蒈（有机化合物蒈烷的简称，分子式C10H18）；第四路收形近「习、茸」之讹：𧚻（褶的讹字）、𥍾（矛也，讹字）。",
+      "boundary": "源自《系统汉语》第426部「虤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
