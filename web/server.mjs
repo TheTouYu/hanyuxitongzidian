@@ -5,9 +5,11 @@
 import { createServer } from 'node:http';
 import { spawn } from 'node:child_process';
 import { readFile } from 'node:fs/promises';
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, extname, normalize, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { randomBytes, timingSafeEqual } from 'node:crypto';
+import { Shop, TIERS, TRIAL_LIMIT, DAILY_CAP, readCookie } from './member.mjs';
 
 const WEB = fileURLToPath(new URL('.', import.meta.url));
 const ROOT = normalize(join(WEB, '..'));
@@ -15,8 +17,40 @@ const PUBLIC = join(WEB, 'public');
 const PYEXE = join(ROOT, '.runtime', 'python', 'python.exe');
 const BRIDGE = join(WEB, 'pkc-bridge.py');
 
+// ---------- 会员 / 订单 ----------
+
+const shop = new Shop(join(WEB, 'data'));
+
+const ADMIN_FILE = join(WEB, 'data', 'admin.key');
+let ADMIN_PW = process.env.ADMIN_PASSWORD || '';
+if (!ADMIN_PW) {
+  if (existsSync(ADMIN_FILE)) ADMIN_PW = readFileSync(ADMIN_FILE, 'utf8').trim();
+  else {
+    ADMIN_PW = randomBytes(9).toString('base64url');
+    writeFileSync(ADMIN_FILE, ADMIN_PW);
+  }
+}
+
+function isAdmin(req) {
+  return shop.verifyNamed('sh_admin', readCookie(req, 'sh_admin')) === 'ok';
+}
+
+function publicMember(m) {
+  return {
+    id: m.id,
+    tier: m.tier,
+    tier_name: m.tier_name,
+    started_at: m.started_at,
+    expires_at: m.expires_at,
+    gift: m.gift,
+    gift_sent: m.gift_sent,
+    active: shop.memberStatus(m).active,
+  };
+}
+
+
 const PORT = Number(process.env.PORT || 8080);
-const HOST = '127.0.0.1';
+const HOST = process.env.HOST || '127.0.0.1';
 const KEY_FILE = 'C:\\Users\\萧磊\\.dsh\\secrets\\deepseek.key';
 const BASE_URL = process.env.DEEPSEEK_BASE || 'https://api.deepseek.com';
 const MODEL = process.env.DEEPSEEK_MODEL || 'deepseek-chat';
@@ -27,6 +61,24 @@ const MAX_QUESTION = 200;
 const MAX_BODY = 64 * 1024;
 const RATE_MAX = 20;
 const RATE_WINDOW = 60_000;
+
+// ---------- 成本闸门 ----------
+// 按 deepseek-flash 的「高峰价」保守计价（实际多数时候是空闲价的一半），
+// 这样算出来的上限只会偏大，不会让客户的真实花费超过预算。
+// 输入（缓存未命中）2 元/百万 token，输出 8 元/百万 token。
+const PRICE_IN_YUAN_PER_M = 2;
+const PRICE_OUT_YUAN_PER_M = 8;
+const TRIAL_BUDGET_YUAN = Number(process.env.TRIAL_BUDGET_YUAN || 1);      // 每个设备免费体验最多花 1 元
+const MEMBER_DAILY_YUAN = Number(process.env.MEMBER_DAILY_YUAN || 3);      // 会员每天最多花 3 元，防滥用
+const MIN_CALL_YUAN = 0.004;   // 一次回答预计要花的最低成本，余额低于它就不再放行
+const MAX_ANSWER_TOKENS = 600; // 单次回答输出上限
+
+function usageCost(usage, inChars, outChars) {
+  const inTok = usage && usage.prompt_tokens ? usage.prompt_tokens : Math.round((inChars || 0) / 1.5) + 400;
+  const outTok = usage && usage.completion_tokens ? usage.completion_tokens : Math.round((outChars || 0) / 1.2);
+  const yuan = (inTok / 1e6) * PRICE_IN_YUAN_PER_M + (outTok / 1e6) * PRICE_OUT_YUAN_PER_M;
+  return { yuan: Math.round(yuan * 1e6) / 1e6, inTok, outTok };
+}
 
 // ---------- 基础工具 ----------
 
@@ -216,10 +268,21 @@ function photoList(list) {
 }
 
 // 字族表：原稿字头行冒号后面那串（牡 社 仕…），按原稿顺序，各自带上自己的配图
+// 只有自己能点出一张有内容的字卡（有独立条目或能落到字族条）的，才做成可点；否则只列名不链接
 function familyInfo(ch) {
   const idx = loadGlyphIndex();
   const fam = (idx.families && idx.families[ch]) || [];
-  return fam.map((c) => ({ char: c, photos: [] }));
+  const ci = claimIdx().byChar || {};
+  const vmap = loadVariantMap();
+  return fam.map((c) => {
+    const alt = vmap[c];
+    const hasEntry = !!(
+      (ci[c] && ci[c].length) ||
+      (alt && ci[alt] && ci[alt].length) ||
+      ((idx.chars && idx.chars[c]) || (alt && idx.chars && idx.chars[alt]))
+    );
+    return { char: c, photos: [], linked: hasEntry };
+  });
 }
 
 function glyphInfo(ch) {
@@ -324,7 +387,7 @@ const CARD_PROMPT = `你是《系统汉语》字卡的编辑。只依据下面�
 0. 分级：字卡最前面「分级」一栏由系统按全书结构判好（一级字根＝部名；部内能再滋生新字者为二级、三级字根；其余为谐声字），你不得改动、不得另立级别。填「字根」一栏时先交代该字属于哪一级、由哪个字根衍生，再讲字根义如何进入这个字。
 0b. 声母义：该字所属部的声母拟态义与一致度也由系统附上（「声母义」一栏），你不得改写、不得另拟声母义；讲字根时可以引用它的结论。引用时必须把这个拟态义落到本字所指之物上讲透（如「莼」只取 ch 的「刺」：芽尖刺破土层而出），不得只报「某母、某义、某一致度」了事。**拟态义本是相对的两面（t 涂突、ch 刺持、l 拢离…），释一个字一般只讲合于它的那一面，不必两面都解说**；只有引申链确实横跨两面时才写两面（如「柳」编束为拢、折别为离）。**不得因一致度弱、部内分歧、或该部未收而断言「与声母义无关」**：古音 zh、ch、sh 从 d、t 分化，齿音与舌音同源，须循声源分化链贯通解释；确实相违时也要说明为何相违（异读、假借音、方言），不许轻易说不相关。
 1. 字形：该字在甲骨文、金文里的形体如何象形或构形；条目没讲字形，就填空字符串。
-2. 字根：这个字由哪个字根构成（条目里「从某从某」「从某，某声」说的那个字），并说清字根与这个字的关系——会意还是形声、字根的意义怎么进到这个字里。**取字根义时优先用字根的本义；本义讲不通，才降一级用转义**（如「疚」从久，久的本义是灸灼、灼病，故疚＝灼痛之病，不可取「久」的引申义「时间长」；字书「疚，久也」是声训，不是义源）。**声旁给义的方式是比喻，要写成「象……一样」**：疚＝象被灸灼一样疼痛，玖＝象被烧灼一样色黑；形符只定其类与落点。**但比喻只给「形旁＋声旁」的合成谐声字；解释字根本身一律本义直释**：舆的本义就是两人对举抬车之状，追的本义就是跟在屁股后面跑——这是直释，不是比喻；象意兼声字（车＋舁、鼎＋𦥑）同理只说明声旁兼义，不套「象……一样」。**不要轻易判作「象声、不取义」**——声旁几乎都有实义，实义与比喻义两层并存（如「轰」＝三车象意众车，实义「众车」，比喻「声大如众车行驶之声」）。**若是谐声字，必须做横向对照**：取条目里同声符的兄弟字至少 3 个，按「字｜取义面｜形符｜落到什么义」比较，说明同一取义面在不同形符下怎样落到不同字义，再定这个字的落点（如吾部：梧＝木＋相对→树上下相当，晤＝日＋相对→人相见，鼯＝鼠＋相对→高下相对、只能从高赴下）。**对照要覆盖全族、按义类分表**：把全族兄弟字先按意义归类（取本义／取转义／只借声），每类一张表，最后总收「声符给义、形符定落点」，只借声那一类也要列出；可对照的兄弟字不足 3 个就写明「可对照者仅 N 字」。**同一动物有异名异体而声符不同者更可互证**——鼫从石（象掷石下落），与鼯的高下相对同指「由高向下滑降」。写成「字根：说明」，例如「士：仕从人从士，士是音源字，本义指雄性，引申为读书人、官员，所以「仕」表任事、学习政事」。若条目分「字根条目」单列，用它们说明字根本身的意义，并分别标注出处。字根必须是另一个字，不能把这个字自己写进去；条目只说它是借音字、没有构形分析的，填空字符串。
+2. 字根：这个字由哪个字根构成（条目里「从某从某」「从某，某声」说的那个字），并说清字根与这个字的关系——会意还是形声、字根的意义怎么进到这个字里。**取字根义时优先用字根的本义；本义讲不通，才降一级用转义**（如「疚」从久，久的本义是灸灼、灼病，故疚＝灼痛之病，不可取「久」的引申义「时间长」；字书「疚，久也」是声训，不是义源）。**声旁给义的方式是比喻，要写成「象……一样」**：疚＝象被灸灼一样疼痛，玖＝象被烧灼一样色黑；形符只定其类与落点。**但比喻只给「形旁＋声旁」的合成谐声字；解释字根本身一律本义直释**：舆的本义就是两人对举抬车之状，追的本义就是跟在屁股后面跑——这是直释，不是比喻；象意兼声字（车＋舁、鼎＋𦥑）同理只说明声旁兼义，不套「象……一样」。**声符链有两级以上时（如 㠯→台→始、匃→曷→渴），要逐级说明每一级字根各给的是哪一面义，再落到这个字上**——不能只写最后一级。****不要轻易判作「象声、不取义」**——声旁几乎都有实义，实义与比喻义两层并存（如「轰」＝三车象意众车，实义「众车」，比喻「声大如众车行驶之声」）。**若是谐声字，必须做横向对照**：取条目里同声符的兄弟字至少 3 个，按「字｜取义面｜形符｜落到什么义」比较，说明同一取义面在不同形符下怎样落到不同字义，再定这个字的落点（如吾部：梧＝木＋相对→树上下相当，晤＝日＋相对→人相见，鼯＝鼠＋相对→高下相对、只能从高赴下）。**对照要覆盖全族、按义类分表**：把全族兄弟字先按意义归类（取本义／取转义／只借声），每类一张表，最后总收「声符给义、形符定落点」，只借声那一类也要列出；可对照的兄弟字不足 3 个就写明「可对照者仅 N 字」。**同一动物有异名异体而声符不同者更可互证**——鼫从石（象掷石下落），与鼯的高下相对同指「由高向下滑降」。写成「字根：说明」，例如「士：仕从人从士，士是音源字，本义指雄性，引申为读书人、官员，所以「仕」表任事、学习政事」。若条目分「字根条目」单列，用它们说明字根本身的意义，并分别标注出处。字根必须是另一个字，不能把这个字自己写进去；条目只说它是借音字、没有构形分析的，填空字符串。
 3. 本义：**开头必须先写一句六书判语，格式「六书：……」**，再讲造字之初的意义。六书用班固名目，不用「形声」一词。判法（按条目原文判断）：条目说它是「音源字」、或读音「源自……声」＝象声；条目说「从某从某」而两字各有独立意义＝象意；条目说「从某，某声」、某字是声根、这个字是加形旁分化来的＝转注；独体、字形如画＝象形；在象形字上加一个无义符号＝象事；因义借声＝假借。复合的照绪论六种组合报，如「象意＋转注」「象意＋象声」。只要条目里有「从某声」「音源字」「从某从某」这类线索就必须判；一条线索都没有才不写判语。若字表构形之外另有条目说它是「音源字」、读音「源自……声」，判语要合成两截（如「象意＋象声」「象形＋象声」），不要只写构形那一截。
 4. 转义：引申义、假借义。
 5. 衍生：由它分化、加注形旁或用它作声符的字，写成「字：意义；字：意义」，最多 6 个字；条目里说「同组」「属……类」的那些字也算，一个都别漏。
@@ -583,6 +646,45 @@ async function shengmuOf(ch, chain) {
   return null;
 }
 
+// 没有独立条目的字（如「銀」「海」「莼」）：到字族条里找它被解释的那一条，整段作为「字族条目」栏
+let claimIdxCache = null;
+function claimIdx() {
+  if (claimIdxCache) return claimIdxCache;
+  try {
+    claimIdxCache = JSON.parse(readFileSync(join(PUBLIC, 'claims-index.json'), 'utf8'));
+  } catch (e) {
+    claimIdxCache = { byChar: {} };
+  }
+  return claimIdxCache;
+}
+
+async function familyClaimFor(ch) {
+  const alt = loadVariantMap()[ch];
+  const chars = [ch, alt].filter(Boolean);
+  const idx = claimIdx();
+  const seen = new Set();
+  for (const c of chars) {
+    const hits = (idx.byChar || {})[c] || [];
+    for (const h of hits) {
+      if (seen.has(h.claim)) continue;
+      seen.add(h.claim);
+      if (!/字族|部[：:]/.test(h.title || '')) continue;
+      let cl = null;
+      try {
+        cl = JSON.parse(await pkc(['show-claim', h.claim, '--format', 'json'])).claim;
+      } catch (e) {
+        continue;
+      }
+      if (!cl || !cl.statement) continue;
+      const text = String(cl.statement).split('#### 适用边界')[0].trim();
+      if (!text) continue;
+      if (!chars.some((x) => text.includes(x))) continue;
+      return { claim: cl.id, title: cl.title, text };
+    }
+  }
+  return null;
+}
+
 async function levelOf(ch, direct) {
   const z = loadZigenIndex();
   // 原稿按繁体立字头，用户多按简体提问：先映射到繁体再判级，
@@ -719,7 +821,7 @@ function zigenFallback(info, rootClaims) {
   };
 }
 
-async function askModelForCard(ch, question, context) {
+async function askModelForCard(ch, question, context, meter) {
   const messages = [
     { role: 'system', content: CARD_PROMPT },
     { role: 'user', content: `字：${ch}\n用户问题：${question}\n\n知识条目：\n\n${context}` },
@@ -736,11 +838,18 @@ async function askModelForCard(ch, question, context) {
   }
   const j = await r.json();
   const content = j.choices && j.choices[0] && j.choices[0].message ? j.choices[0].message.content : '';
+  if (meter) {
+    const c = usageCost(j.usage, CARD_PROMPT.length + context.length + 60, String(content || '').length);
+    meter.yuan += c.yuan;
+    meter.inTok += c.inTok;
+    meter.outTok += c.outTok;
+    log(`字卡成本 ${c.yuan} 元（入 ${c.inTok} / 出 ${c.outTok} token）`);
+  }
   log('字卡模型原文:', String(content || '').replace(/\s+/g, ' ').slice(0, 400));
   return extractJson(content);
 }
 
-async function handleCard(emit, res, question, ch, ip) {
+async function handleCard(emit, res, question, ch, ip, meter) {
   let glyph = glyphInfo(ch);
   let glyphFrom = null;
   emit({ type: 'card-start', char: ch, glyph: null });
@@ -805,7 +914,7 @@ async function handleCard(emit, res, question, ch, ip) {
   } else if (MODE === 'model') {
     try {
       const ctx = cardContext(ch, direct, rootInfo && rootInfo.root, rootClaims);
-      const obj = await askModelForCard(ch, question, ctx.context);
+      const obj = await askModelForCard(ch, question, ctx.context, meter);
       if (obj) {
         const built = CARD_SECTIONS.map((def) => {
           const raw = obj[def.field] ?? obj[def.label] ?? obj[def.key];
@@ -836,6 +945,18 @@ async function handleCard(emit, res, question, ch, ip) {
     }
   }
   if (!sections) sections = [];
+
+  // 这个字没有独立条目时，把解释它的那条字族整段附上（网页也看得到释字时用的原文）
+  if (!direct.length) {
+    try {
+      const fam = await familyClaimFor(ch);
+      if (fam) {
+        sections.push({ key: 'zuyu', label: '字族条目', text: fam.text, cites: [fam.claim] });
+      }
+    } catch (e) {
+      log('字族兜底失败:', e.message);
+    }
+  }
 
   // 分级放最前：先定性，再看字形与字义；判出的字根只要有字形图，就一并附上
   let rootGlyphs = [];
@@ -874,10 +995,10 @@ async function handleCard(emit, res, question, ch, ip) {
       question,
       mode,
       note,
-      // 实物图只留在后端作参考（web/public/glyphs/photos/ + index.json 的 photos），
-      // 不进字卡：配图不参与分级，也不必占版面。glyphInfo() 仍可返回 photos 供离线引用。
+      // 原稿实物图（web/public/glyphs/photos/ + index.json 的 photos）随卡输出，
+      // 让网页也能看到释字时用的那批图；配图不参与分级，只作参考。
       glyph: glyph
-        ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: [], from: glyphFrom }
+        ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: glyph.photos, from: glyphFrom }
         : null,
       family: familyInfo(ch),
       root: rootInfo ? rootInfo.root : null,
@@ -947,7 +1068,7 @@ function readBody(req) {
 
 const NO_EVIDENCE = '知识库里还没有这方面的内容。';
 
-async function handleAsk(req, res, ip) {
+async function handleAsk(req, res, ip, meter) {
   const emit = sse(res);
   const controller = new AbortController();
   res.on('close', () => controller.abort());
@@ -971,7 +1092,7 @@ async function handleAsk(req, res, ip) {
 
   // 问的是某一个字 → 走字卡（除非用户明确要普通问答）
   const asked = detectChar(question);
-  if (asked && mode !== 'chat') return await handleCard(emit, res, question, asked, ip);
+  if (asked && mode !== 'chat') return await handleCard(emit, res, question, asked, ip, meter);
 
   let evidence;
   try {
@@ -1025,7 +1146,14 @@ async function handleAsk(req, res, ip) {
         'content-type': 'application/json',
         authorization: `Bearer ${API_KEY}`,
       },
-      body: JSON.stringify({ model: MODEL, messages, stream: true, temperature: 0.2, max_tokens: 800 }),
+      body: JSON.stringify({
+        model: MODEL,
+        messages,
+        stream: true,
+        temperature: 0.2,
+        max_tokens: MAX_ANSWER_TOKENS,
+        stream_options: { include_usage: true },
+      }),
       signal: controller.signal,
     });
   } catch (e) {
@@ -1044,6 +1172,8 @@ async function handleAsk(req, res, ip) {
   const reader = upstream.body.getReader();
   const decoder = new TextDecoder();
   let buffer = '';
+  let answerChars = 0;
+  let usage = null;
   try {
     for (;;) {
       const { done, value } = await reader.read();
@@ -1058,8 +1188,12 @@ async function handleAsk(req, res, ip) {
         if (!payload || payload === '[DONE]') continue;
         try {
           const json = JSON.parse(payload);
+          if (json.usage) usage = json.usage;
           const delta = json.choices?.[0]?.delta?.content;
-          if (delta) emit({ type: 'delta', text: delta });
+          if (delta) {
+            answerChars += delta.length;
+            emit({ type: 'delta', text: delta });
+          }
         } catch {
           /* 忽略心跳等非 JSON 行 */
         }
@@ -1070,6 +1204,14 @@ async function handleAsk(req, res, ip) {
       log('流式读取中断:', e.message);
       emit({ type: 'error', message: '回答中断了，请重试。' });
     }
+  }
+  if (meter) {
+    const inChars = messages[0].content.length + messages[1].content.length;
+    const c = usageCost(usage, inChars, answerChars);
+    meter.yuan += c.yuan;
+    meter.inTok += c.inTok;
+    meter.outTok += c.outTok;
+    log(`问答成本 [${ip}] ${c.yuan} 元（入 ${c.inTok} / 出 ${c.outTok} token）`);
   }
   emit({ type: 'done' });
   res.end();
@@ -1098,6 +1240,7 @@ async function serveStatic(res, pathname) {
     rel = pathname;
   }
   rel = rel === '/' ? 'index.html' : rel.replace(/^\/+/, '');
+  if (rel === 'admin' || rel === 'admin/') rel = 'admin.html';
   const target = normalize(join(PUBLIC, rel));
   if (!target.startsWith(PUBLIC + sep) && target !== join(PUBLIC, 'index.html')) {
     res.writeHead(403).end('forbidden');
@@ -1114,6 +1257,39 @@ async function serveStatic(res, pathname) {
   } catch {
     res.writeHead(404, { 'content-type': 'text/plain; charset=utf-8' }).end('404');
   }
+}
+
+// 免费试用 / 会员权益的闸门：只有这里能决定一次提问算不算数
+function gateAsk(req, res) {
+  const mid = shop.verifyNamed('sh_mid', readCookie(req, 'sh_mid'));
+  const m = shop.memberOf(mid);
+  if (m && shop.memberStatus(m).active) {
+    if (shop.usageToday(m.id) >= DAILY_CAP) {
+      return { ok: false, status: 429, body: { ok: false, error: '今天的提问已达每日上限，明天再来。' } };
+    }
+    if (shop.spendToday(m.id) >= MEMBER_DAILY_YUAN) {
+      return { ok: false, status: 429, body: { ok: false, error: '今天的用量已达上限，明天再来。' } };
+    }
+    return {
+      ok: true,
+      mode: 'member',
+      settle: (cost = 0) => {
+        shop.bumpUsage(m.id);
+        if (cost > 0) shop.addSpend(m.id, cost);
+      },
+    };
+  }
+  const dev = shop.deviceId(req, res);
+  const t = shop.trialOf(dev);
+  const exhausted = {
+    ok: false,
+    status: 402,
+    body: { ok: false, error: '免费体验额度已用完，开通会员后可不限次查询。', need_membership: true, trial: { ...t, budget_yuan: TRIAL_BUDGET_YUAN } },
+  };
+  if (t.left <= 0) return exhausted;
+  // 次数没到，但这一设备已经花掉的钱快到 1 元了，也拦住
+  if (t.spent_yuan + MIN_CALL_YUAN > TRIAL_BUDGET_YUAN) return exhausted;
+  return { ok: true, mode: 'trial', settle: (cost = 0) => shop.consumeTrial(dev, cost) };
 }
 
 const server = createServer(async (req, res) => {
@@ -1157,12 +1333,146 @@ const server = createServer(async (req, res) => {
       });
     }
 
+    // ---------- 会员 / 试用 / 兑换码 ----------
+
+    if (path === '/api/pricing') {
+      return sendJson(res, 200, {
+        ok: true,
+        trial_limit: TRIAL_LIMIT,
+        trial_budget_yuan: TRIAL_BUDGET_YUAN,
+        daily_cap: DAILY_CAP,
+        tiers: Object.values(TIERS),
+      });
+    }
+
+    if (path === '/api/me') {
+      const dev = shop.deviceId(req, res);
+      const mid = shop.verifyNamed('sh_mid', readCookie(req, 'sh_mid'));
+      const m = shop.memberOf(mid);
+      const st = shop.memberStatus(m);
+      const t = shop.trialOf(dev);
+      return sendJson(res, 200, {
+        ok: true,
+        trial: { ...t, budget_yuan: TRIAL_BUDGET_YUAN, remaining_yuan: Math.max(0, Math.round((TRIAL_BUDGET_YUAN - t.spent_yuan) * 1e6) / 1e6) },
+        member: m
+          ? { ...publicMember(m), reason: st.reason, used_today: shop.usageToday(m.id), spent_today: shop.spendToday(m.id) }
+          : null,
+      });
+    }
+
+    if (path === '/api/redeem' && req.method === 'POST') {
+      let body = {};
+      try {
+        body = JSON.parse((await readBody(req)) || '{}');
+      } catch {
+        body = {};
+      }
+      const r = shop.redeem(body.code, body.phone);
+      if (!r.ok) return sendJson(res, 400, { ok: false, error: r.error });
+      shop.deviceId(req, res);
+      res.appendHeader('Set-Cookie', shop.cookie('sh_mid', r.member.id, 365 * 24 * 3600));
+      return sendJson(res, 200, { ok: true, member: publicMember(r.member) });
+    }
+
+    if (path === '/api/admin/login' && req.method === 'POST') {
+      let body = {};
+      try {
+        body = JSON.parse((await readBody(req)) || '{}');
+      } catch {
+        body = {};
+      }
+      const a = Buffer.from(String(body.password || ''));
+      const b = Buffer.from(ADMIN_PW);
+      const ok = a.length === b.length && timingSafeEqual(a, b);
+      if (!ok) {
+        await new Promise((r) => setTimeout(r, 400));
+        return sendJson(res, 401, { ok: false, error: '密码不对' });
+      }
+      res.appendHeader('Set-Cookie', shop.cookie('sh_admin', 'ok', 7 * 24 * 3600));
+      return sendJson(res, 200, { ok: true });
+    }
+
+    if (path === '/api/admin/logout' && req.method === 'POST') {
+      res.appendHeader('Set-Cookie', shop.cookie('sh_admin', '', 0));
+      return sendJson(res, 200, { ok: true });
+    }
+
+    if (path.startsWith('/api/admin/')) {
+      if (!isAdmin(req)) return sendJson(res, 401, { ok: false, error: '请先登录' });
+      const sub = path.slice('/api/admin/'.length);
+      let body = {};
+      if (req.method === 'POST') {
+        try {
+          body = JSON.parse((await readBody(req)) || '{}');
+        } catch {
+          body = {};
+        }
+      }
+      if (sub === 'stats') return sendJson(res, 200, { ok: true, stats: shop.stats() });
+      if (sub === 'codes' && req.method === 'GET') {
+        return sendJson(res, 200, { ok: true, codes: shop.listCodes(url.searchParams.get('status') || '') });
+      }
+      if (sub === 'codes' && req.method === 'POST') {
+        try {
+          return sendJson(res, 200, { ok: true, codes: shop.addCodes(body.tier, body.count, body.note || '') });
+        } catch (e) {
+          return sendJson(res, 400, { ok: false, error: e.message });
+        }
+      }
+      if (sub === 'orders' && req.method === 'GET') {
+        const list = Object.values(shop.db.orders)
+          .sort((a, b) => b.created_at.localeCompare(a.created_at))
+          .slice(0, 500);
+        return sendJson(res, 200, { ok: true, orders: list });
+      }
+      if (sub === 'orders' && req.method === 'POST') {
+        try {
+          return sendJson(res, 200, { ok: true, ...shop.recordOrder(body) });
+        } catch (e) {
+          return sendJson(res, 400, { ok: false, error: e.message });
+        }
+      }
+      if (sub === 'members' && req.method === 'GET') {
+        const list = Object.values(shop.db.members)
+          .sort((a, b) => b.created_at.localeCompare(a.created_at))
+          .slice(0, 500)
+          .map((m) => ({
+            ...m,
+            active: shop.memberStatus(m).active,
+            used_today: shop.usageToday(m.id),
+            spent_today: shop.spendToday(m.id),
+          }));
+        return sendJson(res, 200, { ok: true, members: list });
+      }
+      if (sub === 'revoke' && req.method === 'POST') {
+        const ok = shop.revokeMember(body.member_id);
+        return sendJson(res, ok ? 200 : 404, { ok, error: ok ? undefined : '没有这个会员' });
+      }
+      if (sub === 'gift' && req.method === 'POST') {
+        const ok = shop.markGiftSent(body.member_id);
+        return sendJson(res, ok ? 200 : 404, { ok, error: ok ? undefined : '没有这个会员' });
+      }
+      return sendJson(res, 404, { ok: false, error: 'no such admin api' });
+    }
+
     if (path === '/api/ask' && req.method === 'POST') {
       if (rateLimited(ip)) {
         res.writeHead(429, { 'content-type': 'application/json; charset=utf-8' });
         return res.end(JSON.stringify({ ok: false, error: '问得太快了，歇一分钟再来。' }));
       }
-      return await handleAsk(req, res, ip);
+      const g = gateAsk(req, res);
+      if (!g.ok) return sendJson(res, g.status, g.body);
+      let failed = false;
+      const meter = { yuan: 0, inTok: 0, outTok: 0 };
+      const origWrite = res.write.bind(res);
+      res.write = (chunk, ...rest) => {
+        if (typeof chunk === 'string' && chunk.includes('"type":"error"')) failed = true;
+        return origWrite(chunk, ...rest);
+      };
+      res.on('finish', () => {
+        if (!failed) g.settle(meter.yuan);
+      });
+      return await handleAsk(req, res, ip, meter);
     }
 
     if (req.method === 'GET') return await serveStatic(res, path);
