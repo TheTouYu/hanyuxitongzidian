@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》第九章至第十二章章首（大、卝、兄、老）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-9-da",
+      "title": "「大」为人跨立之形，象小孩能站立行动，更象骑跨之状",
+      "statement": "「大」为人跨立起来的样子，象意小孩子能够站立起来独立行动，长大了。这一般发生在小孩子两岁以后，「孩」指的就是此一阶段，大约到十一二岁时为止；因此它实质上跟第八章是重合的，只是意义的侧重有所不同。「亥」为动物直立的样子，可视为「大」的异体，跟指爬行的「而」一脉相承；「亥」的另体为「犮」，挺拔之意。而根据游牧民族的情况，孩子三四岁时就能骑上马背，因此「大」字与其说是人站立的样子，更象是骑跨之状——事实上其衍生字如「奇、夲、驮、达」中的「大」都是指骑马。",
+      "boundary": "源自《系统汉语》第九章「大」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch9-da.md",
+      "topic_title": "第九章·大",
+      "topic_summary": "《系统汉语》第九章「大」章首：「大」为人跨立之形，象小孩能站立独立行动（两岁以后至总角前），更象骑跨之状，基本义为站立行走的姿态与骑马；本章辖卷七十至卷七十三（第418–442部，25部：亥9、聿4、馬3、釆9）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-9-da",
+      "title": "本章基本义项：站立行走的姿态与骑马；「八」亦其异体",
+      "statement": "这阶段不再是幼儿期，而是总角之前的儿童期，故「八」也可视为其异体，指分开、分别的意思。因此，跟「大、亥、八」音义可通的字根一般都属此章。其基本义项，一是小孩站立与行走的姿态，一是骑马的样子。",
+      "boundary": "源自《系统汉语》第九章「大」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-9-da",
+      "title": "与亥、犮、八音义可通的字根",
+      "statement": "跟「亥」音义可通的有：丌、己、戒、牛、又、敫、克、鬲、介。跟「犮」音义可通的有：癶、拜、伐、吠、别、罚、八、毕、弗、沛。跟「八」音义可通的有：犮、伐、别、班、分、豩。",
+      "boundary": "源自《系统汉语》第九章「大」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-9-da",
+      "title": "「大」的音源为「马」，与马音义可通者：马、白、各、皿",
+      "statement": "由于「大」的音源是「马」，而跟「马」音义可通的有：马、白、各、皿。",
+      "boundary": "源自《系统汉语》第九章「大」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-9-da",
+      "title": "归章例证：旱獭「鼥」、聿、马、簸筛「釆」",
+      "statement": "具体有关联的事物为：旱獭能够长时间双足站立，故称作「鼥」；聿，笔直立而行走自如的样子，故音义同「立」（《集韵》「𥓎，硉本字」，《广韵》「𨁸，行不进也」，而「𨁸」从戾声、戾本立声）；马本骑乘对象；簸筛为「釆」，「釆、八」本音义相通（《荀子·君道篇》「善藩饰人者也」，「藩」《韩诗外传》卷五作「粉」，藩从釆声、粉从八声）。不过「儿童」本并称，因此与第七章、第八章或相混杂。",
+      "boundary": "源自《系统汉语》第九章「大」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-10-kuang",
+      "title": "「卝」象少年梳双发髻之形，即总角，八岁起；总角时行典礼",
+      "statement": "「卝」本象少年梳双发髻之形，古称「总角」，一般是八岁开始，俗称「娃」的时候。唐孙位所画《高逸图》中书童所梳的发型即为总角。《诗·卫风·氓》「总角之宴，言笑晏晏」、《齐风·甫田》「婉兮娈兮，总角丱兮」，说明总角时还会举行隆重的典礼。",
+      "boundary": "源自《系统汉语》第十章「卝」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch10-kuang.md",
+      "topic_title": "第十章·卝",
+      "topic_summary": "《系统汉语》第十章「卝」章首：「卝」象少年梳双发髻（总角，八岁起）之形，实指整个少年阶段至冠礼、笄礼，义项多与「冠」相关；本章辖卷七十四至卷八十（第443–494部，52部：雈7、叀13、又3、蛙10、夒5、彗10、干4）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-10-kuang",
+      "title": "少年阶段终于冠礼、笄礼，故本章义项多与「冠」相关",
+      "statement": "同样，此阶段结束时还要举行隆重的成人仪式：男子二十称「冠礼」，女子十五称「笄礼」，可以进行婚嫁了。因此该章所指实为整个少年阶段，其义项除了与「卝」紧密相关外，更多的是跟「冠」相关。",
+      "boundary": "源自《系统汉语》第十章「卝」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-10-kuang",
+      "title": "与卝可通的字根多含圆转、全、光头、锤锻惩戒之义",
+      "statement": "该章字根音义跟「卝」可通，如：黄、卵、元、袁、昆、连、亘、奂、癸、丸、于、吴、䌸、毌、夗、卷、害。多含圆转之意，大抵指少儿已发育成熟、成为完全之人，故有「全」义；或指少年时期的剃光头。同时，少年时期正是成长阶段、比较调皮，故或有锤锻、惩戒之意。",
+      "boundary": "源自《系统汉语》第十章「卝」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-10-kuang",
+      "title": "归章例证：雚、钻、蛙、锤锻、猴、帚、鸦、蝉",
+      "statement": "与《雚》——「雚」指鹭，有羽冠，故声从「卝」。与《钻》——古元、卝可通，《墨子·号令》「门有吏，主者门里，筦闭」，孙诒让《闲诂》引苏时学「筦、关古通用」。与《蛙》——古癸、卝可通，《易·睽》马王堆帛书本「睽」作「乖」，《庄子·天运》「下睽山川之精」《释文》「睽，乖也」，而「乖」从卝声。与《锤锻》——古𠂤、卝可通，《礼记·月令》「慎管籥」，「管」《吕氏春秋·孟冬纪》作「关」；《墨子·耕柱》「周公旦非关叔」，「关叔」《逸周书·作雒解》作「管叔」。与《猴》——古袁、卝可通，《战国纵横家书·虞卿谓春申君章》「关甲于燕」，整理者注「关，通擐」。与《帚》——《帚》跟以上诸卷关联紧密，如古叀、彗可通（《说文》「轊，軎或从彗」；《易本命》「食谷者智惠而巧」，「惠」《淮南子·坠形训》作「慧」），古危、彗可通（《周礼·轮人》「欲其微至也」郑玄注引郑司农「微至，书或作危至」；《荀子·劝学篇》「淖约微达」，「微」《大戴礼记·劝学》作「危」），况且「彗、𥝩」本状似总角，故也当归入。与《鸦》——古元、兀可通，《诗·小雅·正月》「胡为虺蜴」，「虺」《尔雅》刘歆注引作「蚖」；《说文》「髡，剪发也，从髟兀声，髨，或从元」。与《蝉》——可能因蝉的触须如总角，故当属《卝》，古元、干可通（《说文》「睆，睅或从完」）。但《锤锻》的捶击义跟《杵》《琢》或可通，故移归《屰》。",
+      "boundary": "源自《系统汉语》第十章「卝」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-11-xiong",
+      "title": "「兄」从人从口，指有话事权的青壮年，基本义为强壮",
+      "statement": "「兄」从人从口，即开始有话语权的时候，指青壮年时期——昂扬向上、充满阳光、充满创造力的时期。因此「强壮」是其基本义项。",
+      "boundary": "源自《系统汉语》第十一章「兄」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch11-xiong.md",
+      "topic_title": "第十一章·兄",
+      "topic_summary": "《系统汉语》第十一章「兄」章首：「兄」从人从口，指开始有话事权的青壮年时期，基本义为强壮；本章辖卷八十一至卷八十九（第495–539部，45部：釘5、工9、鼎2、心3、匚7、良2、羊2、昜8、象7）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-11-xiong",
+      "title": "狼、羊、象三种叫声不同的动物音义相通：良与襄、两、昜、刅通",
+      "statement": "狼、羊、象本来都是叫声明显不同的几种动物，但在音义上它们之间却存在相通的现象。象、羊是明显不过的象形字，但它们却存在相通的关系（《说文》「样，栩实」，《玉篇》「样，栩实也，橡同上」；《吕氏春秋·恃君》「冬日则食橡栗」；《楚辞·远游》「沛𣶈瀁而自浮」朱熹集注「𣶈瀁，一作罔象」）。「狼」所从「良」应该也是狼牙呲出的嘴部象形，虽然没有直接跟象、羊相通，但它跟襄、两、昜、刅相通：古良、昜可通（《山海经·海内北经》「名曰吉量」郭璞注「量，一作良」；《诗·大雅·公刘》「乃裹糇粮」《释文》「粮，本亦作粮」，而「量」本昜声）；古羊、昜通用（《吕氏春秋·本味》「汤汤乎若流水」，《列子·汤问》作「洋洋」；《诗·鄘风·墙有茨》「不可详也」《释文》「详，《韩诗》作扬」；《说文》「痒，疡也」）；古象、昜也通（《淮南子·说山训》「名不可得而扬」高诱注「扬，或作象」；《庄子·达生》「水有罔象」《释文》「罔象，司马本作无伤」）。",
+      "boundary": "源自《系统汉语》第十一章「兄」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-11-xiong",
+      "title": "昜本义为昂头对日，相通之由是仰头嚎叫、叫声相近与成群活动",
+      "statement": "「昜」的甲骨文从日从丂，本义是指昂着头对着太阳的样子，本应属「丂」声。它之所以跟狼、羊、象存在音义关系，主要应是仰头嚎叫的样子——动物嚎叫时一般都会这样，但这几种动物的叫声本身也有些近似，这就构成了相通的另一个因素；而且这几种动物一般都是成群结队地活动。因此「成群而强」可说是它们共有的音义项。",
+      "boundary": "源自《系统汉语》第十一章「兄」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-11-xiong",
+      "title": "「两」训「再也」指结对；罔两、蝄蜽、罔象皆成群之状，与「汪洋」同",
+      "statement": "「两」《说文》「再也」，指的就是结对之意。古两、良通用（《庄子·齐物论》「罔两问景曰」《释文》「罔两，崔本作罔浪」；《国语·鲁语下》「木石之怪曰夔、蝄蜽」，「蝄蜽」《史记·孔子世家》作「罔阆」）。罔两、罔浪、蝄蜽、魍魉，以及罔象、无伤、𣶈瀁，应该都是一个意思，指的是成群结队之状，跟「汪洋」其实也同。同时，成群而成灾的为蝗，「蝗」所从「王」正是汪洋之「汪」所从；「昜」之昂头向日也可当作是咒日，诅咒太阳的酷烈造成旱灾，而旱灾往往伴随蝗灾而来——传说中的蝄蜽，其实可能就是指蝗虫。",
+      "boundary": "源自《系统汉语》第十一章「兄」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-11-xiong",
+      "title": "皇、羊相通，心、羊可通；属《象》的「兄」与工、亡、光、皇、黄、京、畕通",
+      "statement": "古皇、羊即可相通（《庄子·逍遥游》「彷徨乎无为其侧」《释文》「彷徨，崔本作方羊」；《淮南子·原道训》「而仿洋于三峡之旁」，「仿洋」《水经注·江水》引作「彷徨」）。大约是因为心的跳荡不止，故古心、羊可通（《汉书·扬雄传上》「庆夭顇而丧荣」颜师古注「庆，读与羌同」；《马王堆汉墓帛书·五十二病方·痂》「寿（捣）庆良」「取庆良一斗」，「庆良」即《神农本草经》的「蜣螂」，庆从心、蜣从羊）。属《象》的「兄」，跟「象」一样，跟其音义可通的有：工、亡、光、皇、黄、京、畕——如兄、光可通（《史记·司马相如列传》「听惝恍而无闻」，「恍」《汉书·司马相如传》作「怳」）。",
+      "boundary": "源自《系统汉语》第十一章「兄」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-11-xiong",
+      "title": "归章例证：钉（丁、兄通）、鼎通丁随《丁》归类",
+      "statement": "与《钉》——丁、兄可通，《战国纵横家书·朱己谓魏王章》「而谅逐之」，「谅」《战国策·魏策》作「竟」，而「京」本丁声、「竟」本兄声；不过由于钉子尖锐，故或通《士》。与《鼎》——鼎通丁，《说文》「顶，颠也，颠，籀文从鼎」，故随《丁》归类。",
+      "boundary": "源自《系统汉语》第十一章「兄」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-12-lao",
+      "title": "「老」象人拄杖之状，指精力不济的老年阶段",
+      "statement": "「老」象人拄杖之状，指老年阶段。此阶段人已精力不济，处于休养生息时期，犹如进入秋季、万物萧疏：头发斑白甚至脱落，形态猥琐、弯腰驼背。",
+      "boundary": "源自《系统汉语》第十二章「老」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch12-lao.md",
+      "topic_title": "第十二章·老",
+      "topic_summary": "《系统汉语》第十二章「老」章首：「老」象人拄杖之状，指老年阶段，基本义含佝偻、穹隆与粗糙黯淡；本章辖卷九十至卷一百（第540–609部，70部：秋10、火6、辛6、廌5、七11、離4、雀9、殸6、銿2、且3、壽8）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-12-lao",
+      "title": "与老可通的字根集中在《蟋蟀》卷；《雀》归《老》因「焦」义与老人身小",
+      "statement": "与「老」音义可通的字根有：翏、九、丂、孝、口、丩、休、畜、交、久、丘、卯，主要集中在《蟋蟀》卷。并且由于「老」有佝偻义，跟《冓》章多可通，如丩、口、交即是；因此《雀》卷究竟应归入《冓》还是《老》颇令人疑惑。但「雀」除小义外还有「焦」义，如小、秋即可通（《方言》「臿，赵魏之间谓之喿」郭璞注「喿，字亦作锹」；《经音义》卷一一引《方言》「赵魏之间谓臿为锹」；《释名》「锸或曰销」），故还是归入《老》。况且人老因骨钙的流失，身子会有所变小。",
+      "boundary": "源自《系统汉语》第十二章「老」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-12-lao",
+      "title": "《刻》《黄鹂》归《老》：字根多含粗粝、色褐黄，与老人皮肤相符",
+      "statement": "《刻》《黄鹂》是关联紧密的两卷，但其归属问题难以确定。以「丯」为例，跟其音义可通的字有儿、解、折、制、世、𥜽、介、吉、戈、辛、虎、夺、干、官、厂、爰、卝、盍、屰等，分属于《士》《谷》《屰》《儿》《卝》。这可能是因：①刻画所用的器具为尖利之物，故音义或通《士》；②刻画造成间隙、空洞，故或通《谷》；③刻画本有缺义，故或通《屰》；④刻画的对象一般是硬挺之物，故或通《儿》《卝》。但综合来看，其相关字根多含粗粝、色褐黄之意，这跟因年老而皮肤变得粗糙、黯淡的特征相符；古「力」可通「旨」（《史记·周本纪》「明年败耆国」，「耆」通「𨛫」；《书·商书·西伯戡黎》「周人乘黎」《释文》「黎，《尚书大传》作耆」），「栗」可通「翏」（《诗·豳风·东山》「烝在栗薪」《释文》「栗，《韩诗》作蓼」；「翏」本通求、九），可见栗、求音义紧密相关，而「死」本从「歺」声，故还是置于《老》。",
+      "boundary": "源自《系统汉语》第十二章「老」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-12-lao",
+      "title": "钟、鼓、磬音义多可通（皆具穹隆义），《钟》因「冬」终义归《老》",
+      "statement": "《钟》《鼓》《磬》都是古乐器，它们之间的音义多可通。从与其相应的字根相通的情况看，《钟》多通《兄》所属，如「用」可通羊、乡、井、工、公、共、虎、丙、亡、尚、亢、光、黄、谷、龙等；《鼓》多通《孕》，如「田」可通乘、申、朕，「东」可通申、辰等；《磬》多通《孕》，如「殸」可通壬、生、臣、旦等。这可能是因为钟、鼓、磬均有穹隆义，故可通《孕》。但考虑到《钟》所属「冬」有终义，且从「冬」的「螽」本也是指蟋蟀，而「老」本有佝偻、穹隆义，故还是将其归入《老》。",
+      "boundary": "源自《系统汉语》第十二章「老」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-12-lao",
+      "title": "《铸》归《老》：壽既指长寿，「且、久」亦可通",
+      "statement": "《铸》：从其音义上来说可归入《士》或《谷》——「寿」可通之、又、寸、鸟、酉、舟、周、受、毒、祝、舀、朱、矢、州等。但「寿」既指长寿，「且、久」也可通（《晏子春秋·外篇》「公作色太息」，「作」银雀山汉墓竹简本作「组」；《说文》「𣨐，古文殂，从歺从作」，而「作」本久声），故也归于《老》。",
+      "boundary": "源自《系统汉语》第十二章「老」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}

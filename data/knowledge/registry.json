@@ -1444,6 +1444,42 @@
       "summary": "《系统汉语》第七章「兒」章首：「兒」指婴儿囟门未闭阶段（一岁左右），义项分哺乳、羸弱、奉承；本章辖卷五十八至卷六十三（第328–382部，55部）。",
       "keywords": [],
       "permission": "public"
+    },
+    {
+      "id": "topic-chapter-9-da",
+      "node_id": "hanzi-yinyuan",
+      "title": "第九章·大",
+      "path": "knowledge/hanzi-yinyuan/ch9-da.md",
+      "summary": "《系统汉语》第九章「大」章首：「大」为人跨立之形，象小孩能站立独立行动（两岁以后至总角前），更象骑跨之状，基本义为站立行走的姿态与骑马；本章辖卷七十至卷七十三（第418–442部，25部：亥9、聿4、馬3、釆9）。",
+      "keywords": [],
+      "permission": "public"
+    },
+    {
+      "id": "topic-chapter-10-kuang",
+      "node_id": "hanzi-yinyuan",
+      "title": "第十章·卝",
+      "path": "knowledge/hanzi-yinyuan/ch10-kuang.md",
+      "summary": "《系统汉语》第十章「卝」章首：「卝」象少年梳双发髻（总角，八岁起）之形，实指整个少年阶段至冠礼、笄礼，义项多与「冠」相关；本章辖卷七十四至卷八十（第443–494部，52部：雈7、叀13、又3、蛙10、夒5、彗10、干4）。",
+      "keywords": [],
+      "permission": "public"
+    },
+    {
+      "id": "topic-chapter-11-xiong",
+      "node_id": "hanzi-yinyuan",
+      "title": "第十一章·兄",
+      "path": "knowledge/hanzi-yinyuan/ch11-xiong.md",
+      "summary": "《系统汉语》第十一章「兄」章首：「兄」从人从口，指开始有话事权的青壮年时期，基本义为强壮；本章辖卷八十一至卷八十九（第495–539部，45部：釘5、工9、鼎2、心3、匚7、良2、羊2、昜8、象7）。",
+      "keywords": [],
+      "permission": "public"
+    },
+    {
+      "id": "topic-chapter-12-lao",
+      "node_id": "hanzi-yinyuan",
+      "title": "第十二章·老",
+      "path": "knowledge/hanzi-yinyuan/ch12-lao.md",
+      "summary": "《系统汉语》第十二章「老」章首：「老」象人拄杖之状，指老年阶段，基本义含佝偻、穹隆与粗糙黯淡；本章辖卷九十至卷一百（第540–609部，70部：秋10、火6、辛6、廌5、七11、離4、雀9、殸6、銿2、且3、壽8）。",
+      "keywords": [],
+      "permission": "public"
     }
   ],
   "relationships": [],
@@ -27539,6 +27575,106 @@
       ]
     },
     "clm_080F55C02BBD00B3CA769A3C21": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_DC6DE1B67A2D43216803B5637B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B079C501492967B40180CBE831": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E67E431D8085268093755CD7E6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C74B25F35EC50E635F42482764": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6C2A03F3CADB1E320A9D9B0775": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A7D23D940FDB0ECBC966CFB003": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_D168510EA5BF26B6E4BD15AC5B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6DF020A911218B85A54345DC83": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_38FE908A3EDDB25ABEC5081247": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_BDCECA78E75B25FFC86ED76AEC": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_6CE536A3D4EB157B295B1DECE3": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3A44278CEF62A0B575EEAE19AC": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_E8774F4E01FFA0192CB4DEDC05": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0487E8BB9B2E1CB545CD4926A4": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3505265A15E0295564B049BA73": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_48A78D98B52F5EEEE7949BA99A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_3C6D60DDC7B772846B3C3959CD": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_B9E76322F0EF586A52A4A6F29E": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_A46E540B7EFDEBF46CA0730E7B": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_0F9306A42BA123B7A3DBA97B98": {
       "fact_classes": [
         "evidence_scope"
       ]
