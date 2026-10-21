@@ -1,0 +1,1151 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷五十 豕（281.豕部–285.會部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "卷音源字「豕」象豬形，音源豬叫聲",
+      "statement": "本卷音源字是「豕」，象猪形，其音源自猪叫声。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/50a-shi.md",
+      "topic_title": "卷五十·豕",
+      "topic_summary": "《系统汉语》卷五十「豕」，音源字为「豕」象猪形、音源猪叫声；卷首讲猪的称呼与驯化史（河姆渡、甑皮岩）、野猪习性、圈养积肥（圂）、商周阉猪术、猪崇拜与北斗彘星及杀猪民俗；辖第281–285部：281 豕部（p825）、282 囗部（p825，含圂、困、囷、㘝、韋、囿、畜、胃、囚、𥁕、因）、283 𣶒部（p837）、284 皿部（p838，含孟、寧）、285 會部（p841）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "豬在農耕民族的意義：屋下有豬即「家」、豬音同「儲」為儲錢罐；《齊民要術》載養肥一豬需一年多",
+      "statement": "猪在农耕民族中有着十分重要的意义，屋子养有猪就是「家」，猪是财富的象征，「猪」音同「储」，是农民的储钱罐。北魏的《齐民要术》载：「圈不厌小，圈小肥疾；处不厌秽，泥秽得避暑。亦须小厂以避雨雪。春夏草生，随时放牧，糟糠之属，当日别与。八、九、十月放而不饲，所有糟糠，则畜待穹冬春初。」可见古代养肥一条猪，大致需要一年多时间。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "豬的稱呼：彘、豕、豚、豭、豨、豝、豶、豵；「亥」非豬（己亥三豕之辨）",
+      "statement": "猪的称呼很多，大致有「彘、豕、豚、豭、豨、豝、豶、豵」等，也有人把「亥」也算进去，应该是错的，「亥」指的是旱獭直立样子；《吕氏春秋·察传》：「有读史者曰：『晋师三豕涉河。』子夏曰：『非也，是己亥也。夫己与三相似，亥与豕相似』。」子夏明白指出「亥、豕」所指不是一回事：晋国的军队是在「己亥」这一天渡河，而不是三只猪渡过了河。造成这种误解的，除了字形相似之外，可能还有十二属相的关系，「亥」属猪。实际上，十二属相与十二时辰之间所指的东西不是一回事：「子」也不是鼠，「午」跟马也不相干。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "豬稱呼辨：「彘」从矢指豬牙如矢、「豕」借矢為聲指獵獲野豬、「豚」从肉从豕才是豬的本來哼聲",
+      "statement": "综合分析猪的称呼，「豭、豨、豝、豶、豵」等是以「豕」作为形符，指猪这一类别；统称猪的只有「彘、豕、豚」三个字。而「彘」的音从「矢」，有说是指野猪很刚猛，近距离猎取是很危险的，一般只能采用射猎的方式；我怀疑不是，而是指猪牙如矢。「豕」音近「彘」，实际上还是借「矢」为声，指的当是猎获的野猪。猪的哼声大致为 ngen 声，所以真正以猪的本來哼声为音的字，只有「豚」字相近：「豚」从「肉」从「豕」，因为猪肉是肉类食品中最肥美的。因此，我们厘定猪为汉语的音义元素之一的话，只能认定为与「豚」相同或相近的音。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "家豬的馴化：河姆渡與羅家角（公元前5000–前4000年）、裴李崗與磁山（約前6000年）、甑皮岩（距今約九千年）",
+      "statement": "家猪无疑是驯化野猪而得来的。我国养猪的历史悠久，可以追溯到新石器时代。据考古工作者的发掘：在长江下游地区的浙江余姚河姆渡遗址和桐乡罗家角遗址，发现许多动物骨骼，其中家猪骨骼占很大一部分，并有出土陶猪，证实饲养家猪约在公元前5000～前4000年，距今约有六、七千年的历史。在中原地区的河南新郑裴李岗和河北武安磁山遗址，同属早于仰韶文化的新石器时代，都发现有很多猪骨，说明约公元前6000年左右，中原地区养猪已经盛行。在华南地区的广西桂林甑皮岩，发现新石器时代早期的猪骨骼，经测定，距今约九千年的时间。由上述出土文物证明，我国南北各地，早在六、七千年以前，随着生产的发展，已将猎获的野猪逐渐驯养成为家猪，出现了原始的养猪业。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "野豬的生物學特徵：偶蹄目豬科、體軀健壯、四趾僅中二趾著地、雄豬上犬齒外露呈獠牙、鬃毛長而硬",
+      "statement": "野猪是偶蹄目猪科猪属的一种，又称山猪。体躯健壮，四肢粗短，头较长，耳小并直立，吻部突出似圆锥体，其顶端为裸露的软骨垫（拱鼻）；每脚有4趾，具硬蹄，仅中间2趾着地；尾细短；犬齿发达，雄性上犬齿外露，并向上翻转，呈獠牙状；野猪耳披有刚硬而稀疏的针毛，背脊鬃毛较长而硬；整个体色棕褐或灰黑色，因地区而略有差异。皮肤灰色，且被粗糙的暗褐色或者黑色鬃毛所覆盖，在激动时竖立在脖子上形成一绺鬃毛，这些鬃毛可能发展成17厘米长。雄性比雌性大。猪崽带有条状花纹，毛粗而稀，鬃毛几乎从颈部直至臀部，耳尖而小，嘴尖而长，头和腹部较小，脚高而细，蹄黑色。背直不凹，尾比家猪短，雄性野猪具有尖锐发达的牙齿。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "野豬的習性：晨昏覓食、集群4–10頭、泥浴、摩擦樹樁、領地約10平方公里、以哼哼聲交流",
+      "statement": "野猪一般在早晨和黄昏时分活动觅食，中午时分进入密林中躲避阳光，大多集群活动，4～10头一群是较为常见的，野猪喜欢在泥水中洗浴。雄兽还要花好多时间在树桩、岩石和坚硬的河岸上，摩擦它的身体两侧，这样就把皮肤磨成了坚硬的保护层，可以避免在发情期的搏斗中受到重伤。野猪身上的鬃毛具有像毛衣那样的保暖性，到了夏天，它们就把一部分鬃毛脱掉以降温。活动范围一般8～12平方公里，大多数时间在熟知的地段活动。会在领地中央的固定地点排泄，粪便的高度可达1.1米。每群的领地大约10平方公里，在与其它群体发生冲突时，公猪负责守卫群体。公猪打斗时，互相从20～30米远的距离开始突袭，胜利者用打磨牙齿来庆祝，并排尿来划分领地，失败者翘起尾巴逃走，也有的造成头骨骨折或被杀。常通过哼哼的叫声来进行远近距离的交流。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "野豬的食性、繁殖與生長：食性雜（草、蠕蟲、鳥卵、兔、鼠、蠍、蛇）、一夫多妻、懷孕4個月產4–12仔、頭一年體重增百倍",
+      "statement": "野猪的食物很杂，只要能吃的东西都吃。青草、蠕虫，甚至鸟卵都是它的取食对象，不仅善于捕食兔、老鼠等，还能捕食蝎子和蛇。野猪是「一夫多妻」制，发情期雄兽之间要发生一番争斗，胜者自然占据统治地位。雌兽通常在将要分娩的几天前就开始寻找合适的位置做「产房」，位置一般选在隐蔽处，它叼来树枝和软草，铺垫成一个松软舒适的「产床」。幼仔刚出生的时候就有4个长牙，两个星期后便能够咬吃东西。雌兽在前面开路，幼仔紧跟在它的后面，在雌兽挖成的沟里寻找食物。野猪在出生的头一年中，体重能增加100倍，这种生长速度在脊椎动物中是很少的。野猪的繁殖率和幼仔的存活率都很高，怀孕期只有4个月，一胎就能生4-12头小仔，而且在繁殖旺盛期的雌兽，一年竟然能生两胎。幼仔出生后，身上的颜色随年龄而变化：从出生到6个月期间，身上有土黄色条纹；在2个月到1岁期间，身上是红色的；而1岁以后，便进入成年期，身上的颜色也变成了黑色，常被人们称做「黑野猪」。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "從野豬到家豬：捕獲的小豬圈養、人工飼養與世代挑選，性情馴服、牙短腰長臀圓腿粗",
+      "statement": "远古时代，人类靠采集和打猎生活，野猪就是当时猎捕的野兽之一。起初，由于打猎的工具很落后，多是木棒、石块等，捉到的野猪很少，人们经常饿肚子。后来，随着打猎工具的进步，有了长矛、弓箭等武器，捉到的野猪越来越多，一时吃不完，就把活着的小野猪养在木头或石块围成的圈里，供给它们食物，让它们继续活着，留作以后缺少食物时再吃；另外，还可以让它们长大后繁殖小野猪，不必再冒着危险到森林里去捕捉。就这样，野猪被人们一代代地饲养起来。在人工饲养条件下，野猪不能到处乱跑，只能在圈里活动，人供给它们充足的食物，不需要它们自己去捕食。时间久了，它们的性情和形态都有所变化，例如变得比较肥了，不像以前那么凶猛了。人们发现生下来的小野猪在形态和性情方面与它们的双亲关系很大，因此总是选择那些性情比较温驯、体肥肉多的野猪繁殖后代。这样，经过人工饲养和世世代代的挑选，饲养的野猪发生了很大变化：首先，它们凶猛的性情被驯服了；另外，身体的形态也发生了变化，牙齿变短了，腰变长了，臀变圆了，腿变粗了。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「圂」與養豬積肥：豬圈墊稻草秸稈土、屎尿發酵作肥料；許慎釋「廁也」說明東漢豬圈與廁所合一",
+      "statement": "汉字「圂」表现的就是圈养猪的情况。由于猪的屎尿多，又喜欢在泥水里滚打，所以人们遵循它的习性，对于圈养猪是很简单的：猪圈里面都是用稻草、秸秆、土来垫的，猪的屎尿都拉在圈里，任其发酵，实在是盛不下了，就再清理出来作肥料。所以，猪的财富不只是体现在肉上，还体现它的造肥价值，故有农谚「养猪不赚钱，回头看看田」之说。许慎解「圂」为「厕也」，说明东汉时期的猪圈跟厕所还是在一起的。事实上，今天还有不少农民家里是这样的。我们现在的养猪场，用的是水泥地坪，不垫土和稻草，脏了就用水冲洗，猪圈是干净了，但却污染了周围的环境，同时也违背了猪的本性。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "商周閹豬技術：《易經》「豶豕之牙吉」、豕曰剛鬣豚曰腯肥、「家」从豭省聲因所養為已閹之豬",
+      "statement": "商、周时代养猪技术方面的另一项创新是阉猪技术的发明。据《易经》记载：「豶豕之牙吉」，意即阉割了的猪，性子就会变得驯顺，虽有犀利的牙，必不足为害。《礼记》上提到：「豕曰刚鬣，豚日腯肥」，意即未阉割的猪皮厚、毛粗，叫「豕」；阉割后的猪长得膘满臀圆，叫「豚」。而「腯肥」这个名词早在《左传》中已有提到，这是养猪史上的一件大事。《说文》解「家」为「居也。从宀，豭省声」，「家」音不从「豚」而同「豭」，就是因为人们所养的猪都是已经被阉割的「假」猪了。因此，自古以来，围绕养猪产生了几个专门的职业：一为「阉猪公」，专门是阉割猪的，这类人往往兼作兽医；一为「赶猪浪子」，养有公猪，专门为人给母猪配种；一为屠户，是杀猪的，同时也卖猪肉。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "豬崇拜與北斗彘星：紅山玉豬龍、河姆渡陶缽刻豬與星象、良渚玉璧豬身斗魁四星、《春秋說題辭》「斗星散精為彘」",
+      "statement": "黄守愚《中国人是猪之传人——猪灵崇拜考证》说先民所崇拜的「龙」实际上是猪，所据主要是《庄子·大宗师》「豨韦氏得之，以挈天地」等语。陈久金在《北斗星的故事》中阐述：「枓为盛酒之器，只有在发明酒之后，才会出现这个器皿，故在石器时代，人们虽然用北斗星定季节，但并不把它称为北斗星，而是称之为彘星。『彘』即猪。」陆思贤、李迪《天文考古通论》和冯时《天文考古学》均指出在中国新石器时代的三大遗址（辽宁红山文化、山东大汶口文化、浙江河姆渡文化）中，曾普遍地发现有猪崇拜和北斗崇拜的现象。出土于河姆渡遗址第四期文化层中的长方形陶钵，经碳14测年为公元前5000年～前4500年间，钵外壁各刻一猪，猪身上就刻有圆形星象，反映出以猪星定季节的关系；良渚文化遗址出土的玉璧猪象，猪身上明显的刻有呈斗魁形的四颗星，便是猪身应合斗魁四星的象征，斗柄则对应于长长的猪尾巴。冯时找到上古文献中「斗为彘星」的直接记载，《初学记》引《春秋说题辞》曰：「斗星，时散精为彘，四月生，应天理。」猪怀孕四月而生产，这个数字对应于四季，故曰应天理；古代天文学家还将斗魁中的四颗小星命名为天理星。《山海经·海内经》有「司彘之国」的记载，义即为观测彘星定季节的国家。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "殺豬民俗與豬膽卦：湖南臘月殺豬喝豬血、浙江「一刀清」、天津「肥豬拱門」窗花、陝西送豬蹄、布朗族分肉、打母豬鬼、佤族豬膽卦",
+      "statement": "时至今日，不少地方还保留着崇奉猪的一些遗存：湖南农民杀猪一般集中在腊月廿四日左右，廿六日为封刀日，就不能再动刀了，平时一家杀猪，一般都要请亲邻来家喝猪血；浙江一带杀猪讲究「一刀清」，即一刀杀死，否则认为不吉利，进刀时屠户要讲一句「出世入身」的话，小孩妇女不能观看，杀后要将粘有猪血的利市纸压在室角或猪栏内以示猪未死，猪毛要用吹火筒盛（开水倒入桶后，把吹火筒的下端浸入汤桶、上端用口吹气、沿桶吹一圈，表示以后养猪长得又快又大），退猪毛时要在猪头和猪尾各留一块毛，意为「有头有尾」。天津、河北等地有「肥猪拱门」的节日窗花，用黑色蜡光纸剪成，猪背上驮一聚宝盆，张贴时左右各贴一张，表示招财进宝之意。陕西一带有送猪蹄的婚俗：结婚前一天男方要送四斤猪肉、一对猪蹄，称「礼吊」，女方将「礼吊」留下后还要将猪前蹄退回；婚后第二天夫妻要带双份挂面及猪后蹄回娘家，留下挂面、后蹄退回，俗称「蹄蹄来，蹄蹄去」，表示今后往来密切。云南西双版纳的布朗族在婚礼当天男女两家要杀猪请客，并将猪肉切成小块用竹竿串起来分送各家，以示「骨肉之亲」。过去汉族有一种「打母猪鬼」的民间驱邪活动：凡家中有病灾不幸之事，家中长者便设香案以打母猪鬼来祭，选黄道吉日杀老母猪，取肚、蹄、肝、肠、肺等放在一个筐里摆在堂屋中间，巫师燃香祝拜，祭完后将内脏煮熟分吃，民间认为「杀死一母猪鬼，驱除一个邪」。云南佤族有「猪胆卦」的占卜风俗：杀猪后根据猪胆判断吉凶，如果胆纹上下行、胆内水份多为吉卦，胆纹左右行、胆内水份少为隐卦。至于基督教、伊斯兰教的不吃猪肉，倒不是因为对猪的崇拜，而是认为猪喜污秽，所以肉也会不洁。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "豬的借音：豬叫聲含混、獨立性不強多為借音字；「豚」音義同「盾」（盾牌撞擊重濁聲）",
+      "statement": "可能因为猪的叫声含混，或者是猪的驯化比较晚，可能在汉语形成之前，作为汉语的音义元素之一，独立性不强，多为借音字或形声字。其衍生字「豚」的音义即同「盾」：「盾」的甲骨文本象盾牌形，也应是音源字，源自用盾牌撞击时所发出的重浊声；因其肥厚而音义与「豚」同，两者难解难分。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「圂」从囗从豕：囗指豬圈，作借音字時音義同「回」（封閉空間的回音）；「邕、旋、𣶒、會」等均歸入本卷",
+      "statement": "「圂」从「囗」从「豕」，「囗」指猪圈，作借音字时音义同「回」；但也未尝不可以为音源字，源自封闭空间里的回音。野猪野性十足，而且会打栏，远古驯养时需要挖个很深的地坑进行圈养才行，环境十分昏暗。因此，将「囗」及其借音字「邕、旋、𣶒、会」等均归入本卷。",
+      "boundary": "源自《系统汉语》卷五十「豕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「豕」象豬形：豬豨之總名，竭其尾、象毛足而後有尾",
+      "statement": "豕（shǐ）象猪形。《玉篇》：「猪豨之总名。」《说文》：「彘也。竭其尾，故谓之豕。象毛足而后有尾。读与豨同。凡豕之属皆从豕。」",
+      "boundary": "源自《系统汉语》第281部「豕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「豕」音源：音源字，源自豬的叫聲；豬不大叫而喜泥濕、與屎尿為伍，故義音同「屎、糞、穢」",
+      "statement": "豕为音源字，源自猪的叫声。但猪不大叫，而喜欢泥湿的环境，与屎尿为伍，故义音同「屎、粪、秽」。",
+      "boundary": "源自《系统汉语》第281部「豕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "豕部字族①指豬肥碩的樣子：甤（緌）、蕤、㯻",
+      "statement": "甤（緌，ruí）《说文》：「草木实甤甤也。从生，豨省声，读若绥。」草木果实垂垂的样子。《礼记·玉藻》「缁布冠缋緌」，郑玄注：「緌，或作蕤。」《正韵》：「华橤之生，有类豕豪。会意。」《集韵》：「艸秀不实。」艸只开花不结果实。蕤（ruí）《说文》：「艸木华垂皃。」草木花朵垂垂的样子，《玉篇》：「葳蕤，草木实垂皃。」㯻（gǔn、hùn）《说文》：「橐也。从束圂声。」大袋子，取猪肥硕义。",
+      "boundary": "源自《系统汉语》第281部「豕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "豕部字族②指豬鼻拱地：䖶（䝅、鼿）",
+      "statement": "䖶（䝅、鼿，huī）《集韵》：「豕发土也。或作䝅、鼿。」猪用鼻拱物。《炙毂子》：「刺端分两岐者猬，如棘针者䖶。」",
+      "boundary": "源自《系统汉语》第281部「豕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囗」象四周被圍護之形：表示封閉的空間，古「圍」字",
+      "statement": "囗（wéi、guó）象四周被围护之形，表示封闭的空间。wéi，《说文》：「回也。象回帀之形。凡囗之属皆从囗。」《玉篇》：「古围字。」《正字通》：「《同文举要》：『囗象四方畺围形。』」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囗」轉義：由封閉的空間引申指國（古作「國」字）",
+      "statement": "由封闭的空间引申指国。guó，《字汇》：「古作国字。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囗」音源：借音字，因四周封閉而義音同「回」（回、違、韋）",
+      "statement": "囗为借音字，因四周封闭而义音同「回」：《集韵》：「回，《说文》：『转也。』一曰邪也。一曰回中，地名，亦姓。古作回，或作违、韦。」「韦」本「囗」声。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "囗部字族（表封閉的空間）：𡈋（壼）、囝、𣳲、囡、𡇃、囦、囯",
+      "statement": "𡈋（壼，kǔn）《说文》：「宫中道。从囗，象宫垣道上之形。《诗》曰：『室家之壼』。」宫中的道路，外面有高墙围护，不与外界相通。囝（jiǎn/nān）《集韵》：「闽人呼儿曰囝。」吴地方言称小孩或某些动物的幼子，包裹在襁褓中之意。𣳲（jiǎn）《字汇补》：「窦也。」通水道。囡（nān/niè）小女孩，也泛指小孩；或与「㘝」讹混（私取物）。𡇃（邑，yī）《古音略》：「即邑字，与国同义。」囦（淵，yuān）《玉篇》：「古文渊字。」囯（guó）《正字通》：「俗国字。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「圂」从豕从囗：象豬圈（豕所居也、豢）",
+      "statement": "圂（hùn）从豕从囗，象意猪圈。hùn，《玉篇》：「豕所居也。」huàn，《集韵》：「豢，《说文》：『以谷圈养豕也。』或作圂。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「圂」轉義：廁所（古代廁所豬圈每在一起）、堆垃圾的地方",
+      "statement": "因古代厕所、猪圈每在一起，故或引申指厕所。hùn，《说文》：「厕也。从囗，象豕在囗中也。会意。」或由其脏污，引申指堆垃圾的地方。《正字通》：「凡污浼者皆曰囷，亦作溷。水秽也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "圂部字族①指混亂、污濁：溷、慁、𦵣",
+      "statement": "溷（hùn）《说文》：「乱也。一曰水浊皃。」混乱、浊水。慁（hùn）《说文》：「忧也。一曰扰也。」忧虑、扰乱；《集韵》：「辱也。」玷辱。𦵣（hùn）《正字通》：「毒艸也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "圂部字族②指圓實、束縛：㮯、𣠔、㨡、𦞢、𨍲",
+      "statement": "㮯（hún）《说文》：「梡木未析也。」没有劈开的木头，指猪圈栏门所用的圆木头。𣠔（gǔn、hùn）《说文》：「橐也。从束圂声。」即㮯；《集韵》：「大束。」㨡（hú、hún）《说文》：「手推之也。」钳制、胁持。𦞢（hùn）《集韵》：「肥皃。」𨍲（輥，hú/gǔn）《集韵》：「转物轴也。」《六书故》：「辊，转之速也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「困」从木从囗：象用木頭圍成之圈（牛羊圈或欄門），即「梱」（門杠）之初文",
+      "statement": "困（kùn）从木从囗，象意用木头围成的牛圈、羊圈或马厩之类；或指栏门。因猪牛等牲畜会打栏，一般的门栓不住，多是用粗圆的木头嵌在门框间，做成栏杆形式，牲畜的头可以伸出栏外吃食，但身子出不来。或作「𣏔」，即行走受限之意。「梱（kǔn）」的初文，《说文》：「门橛也。」门杠。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「困」轉義：由牲畜的被關引申指受限、被包圍、煩亂、艱難、疲乏",
+      "statement": "由牲畜的被关，引申指受限、被包围、烦乱、艰难、疲乏。kùn，《广韵》：「乱也。逃也。病之甚也。悴也。极也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「困」辯證：《說文》釋作「故廬也，从木在囗中」不確",
+      "statement": "《说文》：「故庐也，从木在囗中。」徐锴：「旧所居庐，故其木久而困獘也。」释作旧房子，不确。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "困部字族①指困木，表示圓實：悃、梱、𧋕、𨁉、𩭋、稇、硱、𢈛",
+      "statement": "悃（kǔn）《说文》：「愊也。」至诚、诚信。梱（kǔn）《说文》：「门橛也。」门杠；《集韵》：「齐等也。」𧋕（kǔn）《类篇》：「虫名。」𨁉（kǔn）《正字通》：「瘃足也。」足生冻疮。𩭋（髡，wén）《集韵》：「翦发也。」剃光头。稇（kǔn）《广韵》：「成熟。又缚衣也。」硱（kǔn）《玉篇》：「硱磳，石皃。」山石高耸貌。𢈛（kùn）《玉篇》：「仓也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "困部字族②指困住，表示束縛：綑、捆、祵、閫、裍、涃、睏、齫、𠳁、𩁩",
+      "statement": "綑（kǔn）《正字通》：「同捆。」捆（kǔn）《玉篇》：「取也。齐等也。织也。抒也。纂组也。」用绳子等编织、缠紧或打结。閫（kùn）《广韵》：「门限也。」门槛，通作梱。裍（kùn）《广韵》：「成就。」《类篇》：「韏衣也。」卷起衣服。涃（kùn）《唐韵》：「水名。」应即「溷」。睏（kùn）方言，睡，眼皮合拢之意。齫（yǔn）《集韵》：「齿起皃。一曰啮也。」𠳁（kěn）《字汇》：「口咬也。」𩁩（難，nán）《集韵》：「难，古作𩁩。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囷」从禾从囗：象糧倉，圜謂之囷、方謂之京",
+      "statement": "囷（qūn）从禾从囗，囗亦声。「禾」指谷物；从「囗」，象意粮仓。《说文》：「廪之圜者。从禾在囗中。圜谓之囷，方谓之京。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囷」轉義：由倉廩引申指聚、散、屈曲（輪囷）",
+      "statement": "由仓廪引申指聚、散、屈曲。《字汇》：「陆佃云：囷，聚也；亦散也。《国语》曰：『市无赤米，而囷鹿空虚。』先儒以为圆曰囷，方曰鹿。鹿善聚，亦善散，故囷或谓之鹿也。又轮囷，屈曲盘戾貌。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "囷部字族①指狀如囷：菌、𩓽、蜠、碅",
+      "statement": "菌（jùn/jūn）《说文》：「地蕈也。」蘑菇之类，多呈伞状，如圆形的仓廪。𩓽（kūn）《说文》：「无发也。一曰耳门也。」蜠（jùn）《尔雅·释鱼》：「蜠大而险。」大而污薄的贝。碅（jūn）《集韵》：「碅磳，石危皃。」山石层迭如囷。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "囷部字族②指聚集：箘、麕、攟、稛、㻒、䐃",
+      "statement": "箘（jùn）《说文》：「箘簬也。一曰博棊也。」一种可作箭矢的竹子。麕（麇，jūn）《说文》：「麞也。」取獐之喜群处为义（鹿性惊，又善聚散，故又名麇）。攟（捃，jùn）《说文》：「拾也。」拾取。稛（kǔn）《说文》：「絭束也。」用绳捆束。㻒（jùn）《广雅》：「赤瑕。」《集韵》：「齐等。」䐃（jiǒng）《广韵》：「肠中脂也。」兽脂聚貌。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "囷部字族③指散出：䠅、𧼐、㖥",
+      "statement": "䠅（kǔn）《说文》：「瘃足也。」脚冻裂。𧼐（䞫，yǔn）《说文》：「走意。」㖥（jùn）《广雅》：「吐也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「㘝」从又从囗：象用手圍護或攝取，即下取物而縮藏之",
+      "statement": "㘝（niǎn、niè）从又从囗，囗亦声，象意用手围护或摄取。niè，《说文》：「下取物缩藏之。从口，从又。读若聂。」《集韵》：「㘝㘝，私取物也。」《玉篇》：「手取物也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「㘝」轉義：比喻指捕魚或小鳥的帶柄小網",
+      "statement": "由手摄取之状，比喻指捕鱼或小鸟的带柄小网。《广雅》：「率也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "㘝部字族（指攝取，表示維繫、黏附）：笝、𦊔、𢇵、𣃳、𦊧、𣐏、𣲷、𥹉、𦊻、𦭁、𦸖、𧉫",
+      "statement": "笝（nà）《集韵》：「缆舟竹索。」系舟的竹索；或补篱。𦊔（lǎn）《集韵》：「鱼网。」𢇵（nà）《集韵》：「庘𢇵，隘也。」𣃳（yǎn/yè）《集韵》：「覆车罔。」手网。𦊧（hù）《奚韵》：「网也。」𣐏（niǎn）《集韵》：「木名。」𣲷（nì）《广韵》：「湿𣲷。」𥹉（nà）《集韵》：「粘也。」𦊻（fán）《字汇补》：「音烦。」𦭁（niǎn）草名。𦸖（nì）《集韵》：「艸密皃。」𧉫（zhá）《玉篇》：「斑身小蝱。」蚊虫。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「韋」从囗四周有止形：象環繞某一區域來回行走、踐踏，實為「圍」之初文",
+      "statement": "韋（韦，wéi）从囗的四周有止形，囗亦声，象意环绕某一区域来回行走、践踏，实为「圍（wéi）」的初文。《字汇补》：「韦，与围同。」《玉篇》：「围，守也、绕也、就也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「韋」轉義：由來回踩踏引申指鞣制皮革、迴旋背離",
+      "statement": "由来回踩踏，引申指鞣制皮革。《广韵》：「柔皮也。」或引申指回旋、背离。huí，《集韵》：「回，转也……古作回，或作违、韦。」《说文》：「相背也。从舛囗声。兽皮之韦，可以束枉戾相韦背，故藉以为皮韦。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "韋部字族①指包圍，表示環繞、重疊：圍、䙟、緯、幃、闈、煒、韑、韙、椲、衞、𩏬、𩏏、湋、潿、褘",
+      "statement": "圍（wéi）《说文》：「守也。」防守、环绕。䙟（wéi）《说文》：「重衣皃。」衣服重叠的样子。緯（wěi）《说文》：「织横丝也。」织横线，《释名》：「纬，围也。反复围绕，以为经也。」幃（wéi）《说文》：「囊也。」囊袋、罩帐。闈（wéi）《说文》：「宫中之门也。」宫中小门，或指父母、妇女的居室，或指考场。煒（wěi）《说文》：「盛赤也。」盛大的红色。韑（wěi）《字汇补》：「光也。」韙（wěi）《说文》：「是也。」赞美。椲（wěi）《说文》：「木也。可屈为杅者。」钉在墙上作挂衣物用的木橛。衞（wèi）《说文》：「宿卫也。」在宫中值宿、担任守卫的人，环绕巡逻之意。𩏬（wěi）《说文》：「盛也。」𩏏（wéi）《说文》：「束也。」湋（wéi）《说文》：「回也。」水流回旋。潿（wéi）《说文》：「不流浊也。」浑浊的积水。褘（huī）《说文》：「蔽厀也。」用于遮蔽胸前的佩巾，即围兜。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "韋部字族②指來回走，表示背離、踐踏：違、躛、㦣、愇、𤜂、𢾝、𧲝、𠆎、媁、諱、鍏、徫、𢯷、郼、喡、葦",
+      "statement": "違（wéi）《说文》：「离也。」背离，即避开所围。躛（wèi）《说文》：「卫也。」《字汇》：「过也；谬也。」㦣（wèi）《说文》：「㝱言不慧也。」梦里说话，含糊不清。愇（wěi）《玉篇》：「怨恨也。」𤜂（wèi）《说文》：「牛踶𤜂也。」牛来回践踏。𢾝（wéi）《说文》：「戾也。」乖戾违背。𧲝（wèi）《说文》：「豚属。」小猪一类。𠆎（wéi）《说文》：「衺也。」违邪不正。媁（wéi）《说文》：「不说皃。」不高兴的样子。諱（huì）《说文》：「誋也。」避忌，《玉篇》：「隐也、避也、忌也。」鍏（wéi）《方言》：「臿，宋魏之间谓之铧，或谓之鍏。」徫（wěi）《集韵》：「行皃。」𢯷（wěi）《正字通》：「𢯷与挥同。」郼（yī）商代的别名（殷读如衣）。喡（wéi）《玉篇》：「失声。」葦（wěi）《说文》：「大葭也。」芦苇（杆可盖屋筑墙、可编织席帘、可作绳笔、可编结成船，苇花可作枕芯、苇叶可包粽子、苇根入药），《集韵》：「织艸也。」编结前要将芦秆晒好去皮、用专门刀子一分几条，再用石碾来回滚碾至柔韧。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囿」从囗中有艸木：象有圍牆的園林或菜地，或堆漚草秸作肥料的處所",
+      "statement": "囿（yòu）从囗中有许多艸或木形，囗亦声，象意有二：一指有围墙的园林或菜地（春秋金文分化作「囿」，《说文》：「苑有垣也。一曰禽兽曰囿。」）；一指堆沤草秸、枝叶作肥料的处所（战国古文分化作「𦳊」，即糞）。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囿」轉義：由園囿引申指局限，由糞肥引申指積聚（蓄）",
+      "statement": "由园囿引申指局限。《正字通》：「识不通广曰囿，犹言拘墟也。」由粪肥引申指积聚，此义分化如「蓄（xù）」（《说文》：「积也。」）字族：𦳩（即囿）、𢜹（慁之讹）。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「畜」从玄从囿：象將禽獸拴在園囿裡豢養，即田畜",
+      "statement": "畜（chù、xù）甲骨文本从玄囿声。「玄」指拴绳子；「囿」指园囿，象意将禽兽拴在园囿里豢养。因喂养禽兽本来不全是草，或用谷米作饲料，故也可从「米」作「𡇒」。春秋金文省从「田」，应跟蓄养以田猎有关。chù，《说文》：「田畜也。《淮南子》曰：『玄田为畜。』」《广雅》：「养也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「畜」轉義：由豢養禽獸引申指養育、培育、收容、積聚，及禽獸的被養而指馴順",
+      "statement": "由豢养禽兽，引申指养育、培育、收容、积聚（xù，《玉篇》：「养也、容也。」）；由禽兽的被养，引申指驯顺（xù，《广雅》：「孝，畜也。」）。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "畜部字族①指拴繩，表示牽動、抽搐：慉、傗、㜅、搐",
+      "statement": "慉（xù）《说文》：「起也。」起、扶持，本义应指骄宠、蓄养（《诗·邶风》「不我能慉，反以我为雠」）；聚集、蓄积；chù 则牵痛。傗（xù）《集韵》：「色偾起皃。一曰傗㑉，不舒也。」抽搐、不舒展。㜅（xù）《说文》：「𡡾也。」媚悦。搐（chù）《集韵》：「牵制也。」牵动、抽搐、肌肉收缩。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "畜部字族②指蓄養，表示聚集、儲存：鄐、蓄、滀",
+      "statement": "鄐（chù）古邑名（春秋时属晋，约在今河北邢台附近）。蓄（xù）《说文》：「积也。」积聚、储藏。滀（chù）《集韵》：「水聚也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「胃」从肉从囿（𡇒）：象盛裝五穀雜糧的消化器官",
+      "statement": "胃（wèi）从肉从𡇒，𡇒亦声。「𡇒」本即「囿」，指五谷杂粮之所；从「肉」，象意盛装五谷杂粮的消化器官，即胃部。《正字通》：「胃者汇也，号为都市，五味汇聚，万物归土之义也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「胃」轉義：胃不停蠕動引申指轉運、不安（𦩝）；胃產生嗝逆引申指言說（謂）",
+      "statement": "胃的功能是储存和运化食物，因此会不停地蠕动，由此引申指转运、不安（此义分化如「𦩝」，运舟也）；胃部会经常产生嗝逆现象，由此引申指言说（此义分化如「謂」，《广韵》：「言也。告也。」）。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「胃」辯證：《說文》「穀府也。从肉，[图]象形」析形不確",
+      "statement": "《说文》：「谷府也。从肉；[图]，象形。」析形不确：所从「𡇒」本即囿，指五谷杂粮之所，非单纯的象形。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "胃部字族①指胃狀，表示質地或形態如胃：蝟、緭、𩹂",
+      "statement": "蝟（wèi）《说文》：「虫，似豪猪者。」刺猬，取其状如胃。緭（wèi）《说文》：「缯也。」缯帛类丝织品。𩹂（wèi）《集韵》：「鱼名，如蛇文。」《山海经》：「乐游之山，桃水多𩹂鱼，似蛇而四足。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "胃部字族②指胃的功能，表示運化、不安：𦩝、渭、𦳢、𢯮、䁌、𢔥、煟、㥜、媦",
+      "statement": "𦩝（wèi）《集韵》：「运舟也。」漕船。渭（wèi）水名（源出陇西首阳渭首亭南谷、东入河）；《埤苍》：「沸渭，不安貌。」𦳢（wèi）《集韵》：「艸木𢍚孛之皃。」草木盛美貌。𢯮（yù）《集韵》：「掷也。」䁌（yù）《集韵》：「暂见也。」𢔥（yù）《集韵》：「行遽皃。」煟（wèi）《玉篇》：「光皃。」火光。㥜（wèi）《广韵》：「怫㥜，心不安也。」不得志貌。媦（wèi）《说文》：「楚人谓女弟曰媦。」妹。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "胃部字族③指胃的嗝逆，表示歎息、言說：謂、䬑、喟",
+      "statement": "謂（wèi）《说文》：「报也。」《玉篇》：「信也。道也。」《广韵》：「言也。告也。」䬑（wèi/yù）《说文》：「大风也。」即裹挟一切之意。喟（kuì）《说文》：「大息也。」叹息。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囚」从人从囗：象人處於封閉之處，可表拘禁羈押或避寒保暖（分化為昷）",
+      "statement": "囚（qiú）从人从囗，象意人处于封闭之处。这可以表示多种含意：或表示拘禁、羁押（《说文》：「系也。从人在囗中。」《尔雅》：「拘也。」）；或表示避寒、保暖（此义分化如「昷」，和也）。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「囚」音源：本囗聲，義音同「拘」",
+      "statement": "囚本囗声，义音同「拘」：《正字通》：「《书》：『武成释箕子之囚。』《史记》引《书》作『拘』。注：拘音囚，与囚同。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "囚部字族①指囚禁，表示浸沒、拘系、被困：泅、𦰪、𨒊、𢘄、𣧝、鮂",
+      "statement": "泅（qiú）《说文》：「浮行水上也。」游泳，取身子为水所困、如被拘禁之意。𦰪（qiú）《集韵》：「艸名。生水田，子可食。」𨒊（qiú）《集韵》：「拘留也。」𢘄（qiú）《玉篇》：「虑也。」𣧝（qiú）《玉篇》：「残也。」禽兽所食余。鮂（qiú）《集韵》：「乌化为鱼者，颈有骨毛。」乌贼。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "囚部字族②形近字「四、囷」之訛：𧣕、苬",
+      "statement": "𧣕（qiū/sì）《玉篇》：「角也。」《正字通》：「𧣛字之讹。与柶通。」苬（xiú/jùn）《尔雅·释草》：「苬芝。」木灵芝；《正字通》疑必菌字之误。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𥁕（昷）」甲骨文與「囚」同源：从人在囗中，小篆疊加皿為聲（密不透風故有溫熱之意）",
+      "statement": "𥁕（昷，wēn）甲骨文与「囚」同源，从人在囗中，象人在封闭之处形。西周金文将「囗」演化作「函」，则封闭之意更是明了。小篆更是叠加「皿」为声，意思是跟器皿一样密不透风，所以有温热之意。《玉篇》：「和也。或作温。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𥁕」轉義：由溫熱引申指待人柔善、和藹（分化為溫）",
+      "statement": "由温热之意，引申指待人柔善、和蔼。此义分化如「溫」，《广韵》：「和也、善也、良也、柔也、暖也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𥁕」辯證：《說文》「仁也。从皿，以食囚也」析義不確",
+      "statement": "《说文》只以「囚」为囚犯之意，故释作：「仁也。从皿，以食囚也。官溥说。」析义不确。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "𥁕部字族（多取封閉、鬱積之意）：溫、揾、殟、媼、蕰、縕、轀、慍、熅、醞、嗢、瘟、榅、豱、鎾、韞、氳、馧、蒀、膃、蝹、䯠、鰮",
+      "statement": "溫（wēn）水名（今贵州遵义东边的洪江）；《广韵》：「和也、善也、良也、柔也、暖也。」揾（wèn）《说文》：「没也。」浸没；指按。殟（wēn）《说文》：「胎败也。」胎儿死在腹中。媼（ǎo）《说文》：「女老偁也。」老婆婆；地神。蕰（yùn）《说文》：「积也。」积聚，本指水草，即包含在水中之意，故指含着、藏着。縕（yùn）《说文》：「绋也。」乱麻。轀（yùn）《说文》：「卧车也。」车厢密闭、供人卧息的车。慍（yùn）《说文》：「怒也。」怨恨，即隐而未表现出来的恨。熅（yūn）《说文》：「郁烟也。」燃烧不完全而多烟。醞（yùn）《说文》：「酿也。」酿酒需保持一定温度才能发酵，发酵时里面也会发热。嗢（wà）《说文》：「咽也。」吞咽。瘟（wēn）瘟疫，其初义可能指牢瘟（牢房阴暗潮湿、空气污浊、鼠虫猖獗而致的传染病）。榅（wēn）榅桲（木梨，香气可熏衣）。豱（wēn）《尔雅·释兽》：「豕，奏者豱。」一种头短的猪。鎾（wēn）烫酒器。韞（yùn）《广雅》：「裹也。」藏。氳（yūn）氤氲（元气）。馧（yūn）香气浓烈。蒀（yūn）万年青。膃（wà）肥胖。蝹（yūn）盘曲蜿蜒行进；传说中呆在地下吃死人脑的怪物。䯠（ǎo）腰骨。鰮（wēn）沙丁鱼。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「因」从大从囗：象人在棺槨中，即「茵」（席子）之初文",
+      "statement": "因（yīn）甲骨文与「囚、昷」同源，从大从囗。「大」本也指人；从「囗」，象意人在棺槨中的样子。《战国古文》：「甲骨文作[图]。从人，从囗，会人在棺槨之意。孳乳为茵。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「因」轉義：裝殮於棺槨即埋葬，故有昏黑、掩藏、堵塞之義（㘻、堙）",
+      "statement": "装殓于棺槨，意即埋葬，故有昏黑、掩藏、堵塞之义。即「㘻（yīn）」字初文，《集韵》：「垔，或作堙、㘻。」《广韵》：「塞也。」",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「因」辯證：因與「㐁」（席子）形近相混，《說文》「就也。从囗大」所解字義皆由席子而來",
+      "statement": "由于「大」的战国古文演变作[图]形，从而导致「因」与[图]混同；而[图]本是「㐁」的甲骨文，象席子形。故或以「因」为「㐁」。《甲骨文》：「从[图]从[图]，[图]象方席，[图]为[图]之讹，象茵席编织纹，故[图]为茵之初文，与[图]（㐁）初本一字，后以形讹，遂分为二字。」所解颠倒了其关系。而且其衍生字「茵、裀、鞇」等分明也是指席子：席子为人所赖以坐卧歇息，故引申为因袭、依托之意。因此《说文》：「就也。从囗大。」徐锴：「能大者，众围就之。」《广韵》：「托也。仍也。缘也。就也。」所解字义皆是由席子而来。此外，「囷、囦」与「因」形近，或相讹混。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "因部字族①指昏黑、彌漫：姻、駰、珚、㸶、䂩、䍰、烟、氤、絪、䄄、䅰、𩟯、𩂥",
+      "statement": "姻（yīn）《说文》：「壻家也。女之所因，故曰姻。」婿家，即男方的家；「婚姻」义本相通，义即结婚生子（《白虎通》：「妇人因夫而成，故曰姻。」）。駰（yīn）《说文》：「马阴白杂毛黑。」珚（yīn）玉名（疑指烟色玉）。㸶（yān）牛尾色；黑色牛。䂩（硯，yàn）磨墨的砚池。䍰（yān）黑羊。烟（yān）《说文》：「火气也。」氤（yīn）氤氲（烟云弥漫）。絪（yīn）絪缊（元气）。䄄（禋，yīn）烧柴升烟以祭天。䅰（ěn）草名。𩟯（ēn）女字。𩂥（yìn）气流行。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "因部字族②指哽噎、堵塞：欭、咽、胭、㘻、恩、摁、煾、𠗃、嗯、𪔗、洇、𧊭",
+      "statement": "欭（yì）《说文》：「嚘也。」气因向上逆进而不顺畅。咽（yān/yàn/yè）《说文》：「嗌也。」咽喉（《释名》：「气所流通，扼要之处也。」《段注》：「咽者，因也。言食因于是以上下也。」）；吞食；哽咽。胭（yān）咽喉（咽喉部为红色，故借指红色的胭脂）。㘻（堙，yīn）《广韵》：「塞也。」恩（ēn）《说文》：「惠也。」恩惠、感谢。摁（èn）用手按压。煾（ēn）《说文》：「炮肉，以微火温肉也。」煨。𠗃（yīn）寒貌。嗯（ǹg）叹词，喉音。𪔗（yuān）鼓声（鼓是封闭的）。洇（yān）液体在纸、布及土壤中向四外散开或渗透。𧊭（yīn）蠮螉（细腰蜂）。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "因部字族③指席墊、依憑（應為「㐁」）：茵、筃、裀、栶、㧢",
+      "statement": "茵（yīn）《说文》：「车重席。」车中加垫的褥席，即用草或皮革编织成的席子。筃（yīn）竹席。裀（yīn）《玉篇》：「衣身。」内衣；同茵（垫子、褥子）。栶（yīn）木名（疑本指木板）。㧢（yīn）《说文》：「就也。」依凭、沿袭、承接。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "因部字族④音譯字：銦、蒽",
+      "statement": "銦（yīn）一种软的有延展性的易熔银白色金属元素，原子序数49，主要作飞机用的涂敷铅的银轴承的镀层[indium]——元素符号 In，译音。蒽（ēn）结晶三环烃[anthracene]的译音。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "因部字族⑤形近字「囷、囦」之訛：秵、𪊦、𠛭",
+      "statement": "秵（yīn）《正字通》：「俗字，禾叶、禾花……或曰稛字之讹。」𪊦（yīn）《正字通》：「麕字之讹。」𠛭（剈，yān/yuān）《集韵》：「剜也。」挑取。",
+      "boundary": "源自《系统汉语》第282部「囗部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𣶒（淵）」从水从囗：甲骨文象深水池；金文从河道中出泉象水流衝擊而成的深潭",
+      "statement": "𣶒（淵，yuān）甲骨文从水从囗，囗亦声。「囗」指封闭的区域；从「水」，象意深水池。《玉篇》：「水停。」西周金文写作从河道中出「泉」，即水流冲击而成的深潭，水流在其中回荡后，又再流出之意。小篆承之，故《说文》：「回水也。从水，象形。左右，岸也。中象水皃。」",
+      "boundary": "源自《系统汉语》第283部「𣶒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𣶒」轉義：由淵之狀引申指深、人或物聚集的場所、源頭（淵源）",
+      "statement": "由渊之状，引申指深。《广雅》：「深也。」或引申指人或物聚集的场所；或引申指源头，如「渊源」。",
+      "boundary": "源自《系统汉语》第283部「𣶒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𣶒」音源：本囗聲，古𣶒、因義音可通",
+      "statement": "𣶒本囗声，当属于囗部，但今文已没有痕迹，为便辨识而另立部。古𣶒、因义音可通：《诗·鲁颂·有駜》「鼓咽咽」，《释文》：「咽，本又作鼝鼝。」《说文》：「婣，籀文姻从𣶒。」《周礼·大司徒》「孝友睦婣任恤」，「婣」《孝经·序》邢昺疏引作「姻」。",
+      "boundary": "源自《系统汉语》第283部「𣶒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "𣶒部字族（多指環曲）：鼘、䨊、裫、棩、奫、婣、㘤、𢏮、𨓯、蜵",
+      "statement": "鼘（鼝，yuān）《说文》：「鼓声也。」鼓声远闻（渊取深意）。䨊（yuān）《说文》：「鸟群也。」裫（yuàn）《广韵》：「衣衿袖曲处。」衣襟和袖子接缝的部分。棩（yuān）《玉篇》：「木曲也。」树弯曲。奫（yūn）《集韵》：「奫潫，水深广皃。」婣（yīn）同姻。㘤（wān）《集韵》：「㘤潾，水势回旋皃。」𢏮（yuān）《玉篇》：「弓上下曲中。」弓隈（《释名》：「弓末曰箫，中央曰弣，箫弣之间曰𢏮。𢏮，宛也，言曲宛也。」）。𨓯（yuān）《说文》：「行皃。」蜵（yuán）《集韵》：「蜎，井中小虫。」孑孓，蚊子的幼虫。",
+      "boundary": "源自《系统汉语》第283部「𣶒部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「皿」象敞口無蓋的盛器形：飯食之器",
+      "statement": "皿（mǐn）象敞口无盖的盛器形。《说文》：「饭食之器也。象形。与豆同意。凡皿之属皆从皿。读若猛。」",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「皿」音源：音源字，源自器皿撞擊聲；因器皿相對封閉故義音同「囗」",
+      "statement": "皿为音源字，源自器皿撞击声。因器皿相对封闭，故义音同「囗」：《易·系辞下》「天地絪氳」，「絪氳」《说文》「𡈋」字条引作「壹𡈋」。",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "皿部字族（多指器皿狀）：𥥊、笽、㳑、𠰘、𡘃",
+      "statement": "𥥊（mǐng）《说文》：「北方谓地空，因以为土穴，为𥥊户。」地窖。笽（mǐn）疑指竹筒。㳑（溢，yì）《说文》：「器满也。」𠰘（嗥，hǎo）嗥的俗字，熊虎声，即张开血盆大口嚎叫。𡘃（盤，pán）同盘。",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「孟」从子在皿中：象在皿中淹死孩子，本指長子，源自上古殺首子祭祀之俗",
+      "statement": "孟（mèng）商代金文从子在皿中，象意在皿中淹死孩子。《说文》：「长也。从子皿声。」指长子。《墨子·节葬下》：「昔者越之东有核沐之国者，其长子生则解而食之，谓之宜弟。」《庄子·盗跖》：「尧杀长子，舜流母弟。」《后汉书·南蛮传》：「其西有瞰人国，生首子辄解而食之，谓之宜弟……今乌浒人也。」源自上古的一种祭祀风俗，跟收获庄稼时的将第一批献祭给神是一样的，其目的在于换取神的庇佑、保全后来的子女或庄稼的丰收（裘锡圭《杀首子解》即认同这一观点）。这种习俗不独上古的中国，世界上大多数民族在远古原始时代都有，如《圣经·出埃及记》：「要把所有头生的分别出来贡献给我。」有些父母不忍心亲手杀死，则采取遗弃的手段，如周的始祖后稷名「弃」。由于这种习俗太没人性，后来也就慢慢淹没了，只是在一些边远的少数民族部落中还有遗存。但将头茬庄稼祭神即「尝新」，还是保留着（《礼记·月令》孟夏「农乃登麦，天子乃以彘尝麦，先荐寝庙」等）；即便是现在，南方大多数农村仍有「尝新节」，每年农历六七月间新谷登场时择日举行，节前从田中摘取少许将熟的稻穗搓成米粒煮成新米饭，杀鸡宰鸭举行家宴，宴前先将饭菜供天地、祭祖先，再将新米饭喂给狗吃，然后按家中长幼次序尝新米饭，以此预祝五谷丰登。",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「孟」轉義：由長子引申指開始，或引申指輕率、冒失、粗疏（孟浪）",
+      "statement": "由长子引申指开始。《玉篇》：「始也。」或引申指轻率、冒失、粗疏。《集韵》：「孟浪，不精要皃。」",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "孟部字族①指輕率、冒失、勇猛：猛、蜢、鯭、勐、艋、掹、䁅、𢕙、𤷪、䓝",
+      "statement": "猛（měng）《说文》：「健犬也。」《玉篇》：「健也、严也、恶也、害也。」勇猛。蜢（měng）蚂蚱；蛤蟆、青蛙、蟾蜍之类（都跳行，故有勇猛之意）。鯭（měng）胡蜢，虾䗫属。勐（měng）义同猛。艋（měng）舴艋，小船。掹（mēng）拽、拔。䁅（měng）有餘视、目怒貌。𢕙（měng）人名用字。𤷪（měng）烦躁、脸色不好、说话火气大。䓝（méng）狼尾草（粟由其驯化而来）。",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "孟部字族②音譯字：𠵼、錳",
+      "statement": "𠵼（mèng）𠵼雅喇，孟加拉的旧译。錳（měng）一种灰白色多价金属元素，通常硬而脆，类似铁但无磁性，元素符号为 Mn，音译字。",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𥀿」从益从丂从皿：象皿中有水溢出、丂指脖子，即窒息而死，為「寧」之初文",
+      "statement": "𥀿（tíng）初期甲骨文本从益从丂，后简化作从丂从皿，皿亦声。「益」象皿中有水溢出的样子，表示淹毙；「丂」指脖子，或作「乎」，指呼吸，象意窒息。窒息致死是古代常用的宰杀牲畜方式，故《甲骨文》所指卜辞中的祭名，实际上就是通过沉埋、溺水、缢勒、密封于器皿等方式使牺牲窒息而死。本即「寧」的初文。没有了呼吸，故有安宁之义。《集韵》：「定息。」",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𥀿」轉義：由屏住呼吸引申指安定（寧）；窒息能保證皮毛完整，引申表示選擇",
+      "statement": "由屏住呼吸引申指安定，此义后来为衍生字「寧」所专属（「寧」从「宀」，指安居，《广韵》：「安也。」）；窒息能保证牲畜皮毛的完整、免除血污的污染，从而引申表示选择。《玉篇》：「愿词也。」",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「𥀿」辯證：𥀿、寍、寧、甯、寗音義皆同，《說文》从血甹省聲析形不確",
+      "statement": "西周金文另或从心从皿，表示内心的安定，为「寍」所从（《说文》：「寍，安也。从宀，心在皿上。人之饮食器，所以安人。」）。「寜」在商代本从「𥀿」，西周金文则从「寍」，为小篆所本。小篆将「𥀿」写成从「血」，故《说文》：「定息也。从血，甹省声。」析形不确。另外，「甯」跟「寍」其实是相同结构，所从「用」本也指容器，故义音同「甯」（《说文》：「甯，所愿也。」）；「用」或作「冉」，楷化作「寗」，「冉」应该是由[图]演变而来，是「缢」的初文，指勒毙，也是窒息。因此「𥀿𧖨𧖧寕甯寜寧甯寗」其实都是音义皆同的，其衍生字多以「寧」为声；今简化作「宁」，与「苧」所从混。",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "𥀿部字族（多指困弱、掙扎、扭曲、勉強）：寧、濘、𦺝、𧕝、矃、擰、儜、嚀、鬡、聹、檸、嬣、獰、㲰、鑏、鸋、𥣗、𧭈、䭢、𩕳、䗿、懧、㣷、𤻝",
+      "statement": "寧（níng/nìng）《说文》：「愿词也。」安宁；女子出嫁归省父母曰宁；丁宁（嘱咐，俗作叮咛）。濘（níng/nìng）《说文》：「荥泞也。」小而浅的积水；泥泞；陷在泥中。𦺝（níng）《说文》：「艸乱也。」𧕝（níng）《说文》：「虫也。」蝼蛄。矃（chēng/níng）睁眼看；耳垢。擰（níng/nǐng/nìng）扭转；控制住东西的一部分而绞转；倔强。儜（níng）《玉篇》：「困也、弱也。」嚀（níng）叮咛、嘱咐。鬡（níng）发乱貌。聹（níng）耵聹（耳屎）。檸（níng）柠檬（木皮入酒浸治风）。嬣（níng）女态舒徐。獰（níng）狰狞（长毛犬、凶猛）。㲰（níng）犬多毛。鑏（níng）刃柄（吴俗谓刀柄入处为鑏）。鸋（níng）鹪鹩、鹌鹑类的雏鸟。𥣗（níng）禾芒、谷芒长。𧭈（níng/nìng）小声；谄谀。䭢（níng）勉强地吃。𩕳（nǐng）头顶。䗿（nǐng）似蛙的虫；蝼蛄。懧（nuò）同懦。㣷（nìng）行貌。𤻝（níng）病。",
+      "boundary": "源自《系统汉语》第284部「皿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「會」从合从囦：象廚房外深挖的溝氹（灰坑）傾倒污水垃圾",
+      "statement": "會（huì）甲骨文本从合从囦，囦亦声。「囦」即「𣶒」，指深沟；从「合」，象意「沟氹」，也叫「灰坑」，一般在厨房外边，深挖一坑，用于倾倒污水和生活垃圾，跟现在的垃圾坑差不多。但古代的垃圾没有如今的塑胶之类，都是可以降解的，能够沤作肥料，因此还特意放进去草皮、树叶等。其意跟「澮（huá）」接近（《集韵》：「雨水合也。」），即收集雨水的沟氹。",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「會」轉義：由垃圾雜物的堆放引申指匯合、聚集、相遇、相對，及財務的總和總計（歲計）",
+      "statement": "由垃圾杂物的堆放，引申指汇合、聚集、相遇、相对。《玉篇》：「对也、合也。」《广雅》：「至也。聚也。」或专指财务上的总和、总计。kuài，《集韵》：「緫合也。古作㞧。」《玉篇》：「岁计也。」",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「會」辯證：《說文》「从亼，从曾省」析形不確",
+      "statement": "「會」字结构本跟「[图]（倉）」同，上下为「口」的相对，即「合」字；而中间的「囦」后来变化较多，或作「𡇒、日、田」等，故《说文》：「合也。从亼，从曾省。曾，益也。」析形不确。",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "「會」音源：本囦聲，因有掩埋之義而義音同「貴」",
+      "statement": "會本囦声，可以归入囗部。因有掩埋之义，而义音同「贵」：《书·益稷》「日月星辰山龙华虫作会」，「会」《周礼·司服》郑玄注引作「缋」；《周礼·神仕》「以禬国之凶荒」，郑玄注：「禬，读如溃痈之溃。」《周礼·考工记》「画缋之事」，「缋」《文选·景福殿赋》李善注引作「绘」。",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "會部字族①指會合、聚集：繪、薈、䢈、澮、襘、檜、儈、獪、旝、廥、䯤、鬠、噲、鄶、燴、徻、璯、瞺、癐、𢶒、譮、䶐、𡼾、𧴚",
+      "statement": "繪（huì）《说文》：「会五彩绣也。」会合五彩的刺绣。薈（huì）《说文》：「艸多皃。」草多的样子。䢈（huì、chén）《说文》：「日月合宿为辰。」《玉篇》：「日月会也。」澮（huì/kuài/huá）澮河（汾河支流）；田间水沟；雨水合。襘（guì）《说文》：「带所结也。」衣带交结的地方。檜（guì）圆柏（叶如柏、茎如松，木材桃红色有香气可作建筑材料）。儈（kuài）《新附》：「合市也。」中间人（将交易的双方召集拢来之意）、买卖人。獪（kuài）狡诈。旝（kuài）《说文》：「建大木，置石其上，发以机，以追敌也。」作战时指挥用的令旗；投石机。廥（kuài）《说文》：「刍槁之藏。」柴草储藏的处所。䯤（kuài）《说文》：「骨擿之可会发者。」骨钗。鬠（kuò）束发。噲（kuài）《说文》：「咽也。」吞咽、动物的嘴。鄶（kuài）古地名（在今河南密县东南）。燴（huì）烩（把菜放锅里炒后加浓汁烧煮或将多种食物混在一起煮）。徻（huì）屋宇高敞明亮。璯（huì）玉饰冠缝。瞺（huì）眉目之间。癐（guì）病甚、心悸。𢶒（guài）收。譮（huà）《说文》：「合会善言也。」䶐（kuài）喘息、鼾声。𡼾（kuài）沟壑宽大相连。𧴚（guài）兽。",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "會部字族②指會聚之物，表示細碎：劊、膾、𥢶、𦔦、𨗥、𩆁、䭝、鱠",
+      "statement": "劊（guì）《说文》：「断也。」砍断。膾（kuài）《说文》：「细切肉也。」细细切成的肉（《释名》：「膾，会也。细切肉令散，分其赤白异切之，已，乃会合和之也。」）。𥢶（kuài）《说文》：「穅也。」𦔦（kuài）耕具（一种弄碎土块的农具）。𨗥（huì）急走（脚步很碎之意）。𩆁（huì）雨、大雨、小雨。䭝、鱠（kuài）细切的鱼肉（《博物志》：「吴王江行食鱼膾，弃残餘于水，化为鱼，名膾残，即今银鱼。」）。",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "會部字族③指溝氹的黑色、髒汙，或表示嫌惡：嬒、䵳、禬、懀",
+      "statement": "嬒（huì）《说文》：「女黑色也。」女人肌肤黑色；《方言》：「嬒，可憎也。」䵳（wèi）《说文》：「沃黑色也。」肥润的黑色。禬（guì）《说文》：「会福祭也。」会合幸福的祭礼；除殃祭。懀（wèi）嫌恶、憎。",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-50-shi",
+      "title": "會部字族④形近字「曾」之訛：𨭗",
+      "statement": "𨭗（guó）铁器、青铜食器；《正字通》：「鏳字之讹。」",
+      "boundary": "源自《系统汉语》第285部「會部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
