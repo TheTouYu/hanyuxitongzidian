@@ -39,6 +39,8 @@
 
 **声旁取义判类的批量修订可自主入库**（2026-10-21 主人授权）：凡是在已有 Claim 正文末尾**只追加一句「判类：…」、原枚举与引文一字不改**的批量修订，不必再逐批报 `content_hash` 请批——直接 `finalize` → `bundle-approve --apply` → `bundle-apply --apply` → `rebuild` / `validate` / 一条检索 → 提交，并在批次报告里列出 bundle、hash、条数与判类要点即可。若修订超出「只追加判类句」的范围（改原文、改标题、改边界、合并拆分、增删条目），仍按常规报批。
 
+**族条横向对照可自主入库**（2026-10-21 主人授权）：给已有「字族」条末尾追加一段「横向对照（按义类分 N 组）：…」——只追加、原枚举与边界一字不改——同样不必逐批报 hash；按卷分批（每批 10–15 条族条），直接 finalize → bundle-approve/apply → `pkc rebuild`/`validate`/一条检索 → 写 CURRENT → 定向 `git add` 提交，报告列出 bundle、hash、条数与分组要点。凡改原文、标题、边界或增删条目，仍须报批。
+
 修改已有条目用 `knowledge-plan revise-claim`，移动主题用 `move-topic`，不要手改文件。
 
 **汉字知识的 fact_class 约定**：统一用 `evidence_scope`。PKC 的 Authority Ref 是给代码契约类事实用的（设计意图、实现、文档契约），汉字知识是文献证据型，用 `evidence_scope` 表示「以实际资料为界」；这样无需为每条知识伪造 Authority Ref。需要出处时，把原文摘录放进 `sources/` 并 `register-source` + `add-evidence`，走证据面。
