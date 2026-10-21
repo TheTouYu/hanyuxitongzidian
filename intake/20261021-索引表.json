@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》索引表（音源字·字根·字族·讹俗字·页码）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表：性质与列结构",
+      "statement": "《系统汉语》书末附有索引表（源文件 `D:\\修订\\索引表.doc`，2025-06-05），把全书各卷正文中出现的音源字、字根、字族、讹俗字逐一列表，并注明所在页码。表凡五列：音源、字根、字族、訛（讹）、俗字、頁碼。原表按页分组，同一页内的多个条目共用同一页码。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-origin/suoyin.md",
+      "topic_title": "索引表：音源字·字根·字族",
+      "topic_summary": "《系统汉语》书末索引表的性质、列义与规模：五列（音源、字根、字族、訛俗字、頁碼），1162 个页码分组、1742 条音源字头（去重 1694）、页码 4–1752；字根列 1620 条共 27555 字形，字族列 406 条共 1763 字，訛俗列 303 条；并记十二章分布与和目录页码的互证、以及结构化留档位置。"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表各列的含义",
+      "statement": "「音源」列记该条所属的音源字——本书以音源字为纲，卷以下分部、部以下系字；「字根」列记与音源字同音、可通假或同源的偏旁字；「字族」列记由该音源字或字根孳乳出的形声字（含连绵词用字）；「訛、俗字」列记异体、俗写与正字的对应关系（多作「正字（异体）」形式）；「頁碼」列记该条在原书中的页码。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表规模",
+      "statement": "索引表共 1162 个页码分组、1742 条音源字头（去重后 1694 个不同字头），页码自第 4 页起至第 1752 页止，覆盖全书十二章。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "字根列规模",
+      "statement": "1742 条记录中有 1620 条带「字根」，共收录 27555 个字根字形（含异体、古文字形），平均每条约 17 个字根；字根列是全书通假与同源关系的总汇。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "字族列规模与字族最多的条目",
+      "statement": "有 406 条记录带「字族」说明，共 1763 字。字族最多者依次为：互（p661，39 字）、業业（p165，31 字）、丘（p164，27 字）、束（p1077，24 字）、殸（p1698，22 字）、宗（p794，19 字）、多（p1068，19 字）、施（p1046，17 字）。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "訛、俗字列",
+      "statement": "有 303 条记录带「訛、俗字」内容，多写作「正字（异体或俗字）」的形式，如「只（隻）」「愭（𧡺）」，是整理、核对原书用字与今日规范字的重要依据。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表在十二章中的分布",
+      "statement": "按页码归属统计，十二章的音源字头数为：第一章 士 155、第二章 谷 130、第三章 冓 71、第四章 孕 264、第五章 屰 151、第六章 因 185、第七章 兒 134、第八章 子 100、第九章 大 76、第十章 卝 131、第十一章 兄 153、第十二章 老 192（合计 1742）。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "音源字头数为何多于部数",
+      "statement": "全书正编为 608 部（第223部原书缺号），而索引表的音源字头达 1742 条、去重 1694 个，原因有二：一是同一音源字常在不同部中重出（如 㠯、丁、且、丵、久、予、亥、今、兔、勹、卜、召、合、夒、少、工、巫、廌 等均两见）；二是同音而异形的音源字各自单列成条。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表页码与目录页码互证",
+      "statement": "索引表页码 4–1752 与全书目录所记各章起页吻合：第一章 p2、第二章 p143、第三章 p268、第四章 p350、第五章 p599、第六章 p760、第七章 p959、第八章 p1106、第九章 p1199、第十章 p1277、第十一章 p1413、第十二章 p1552。两表可互查，用于定位某字所属的章、卷、部。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表与卷部正文 Claim 的关系",
+      "statement": "索引表是字表级线索：给出某字归在哪个音源字之下、与哪些字根相通、孳乳出哪些字、见於第几页；本库各卷主题的 Claim 是释读级内容：给出该字的本义、转义、辨证、音源与字族分化。二者互补——索引表用于反查定位，正文 Claim 用于解释理据。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表数据留档",
+      "statement": "本库已把索引表完整解析留档：原始提取文本 `intake/20261021-索引表.txt`；结构化解析件 `intake/20261021-索引表-解析.json`，内含 `page_groups`（1162 个页码分组及其单元格序列）与 `records`（1742 条音源字头的启发式切分记录，含 head、cells、page）两组数据，可供后续按字根或音源字检索。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin",
+      "title": "索引表的使用方法",
+      "statement": "用法有二：一是按字根查字族——由字根得同音字，再由字族得孳乳字，最后按页码回目录定位卷、部，适合查「某字为何从某声」；二是按音源字查其字根集合，判断该音源的音系宽窄，适合查「某音源统摄哪些声素」。配合全书目录与篇章结构两个主题，即可完成从字到卷部的定位。",
+      "boundary": "源自《系统汉语》索引表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
