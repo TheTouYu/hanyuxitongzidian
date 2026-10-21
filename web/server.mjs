@@ -192,6 +192,22 @@ function loadGlyphIndex() {
   }
 }
 
+// 简体字头 → 原稿繁体字头。原稿以繁体立字头，用户多按简体提问；
+// 字形库、配图库按繁体建键，故此处做一次显式映射（只映射确实需要的字，宁少勿滥）。
+const VARIANT_INDEX = join(PUBLIC, 'variants.json');
+let variantCache = { at: 0, map: {} };
+
+function loadVariantMap() {
+  if (variantCache.at && Date.now() - variantCache.at < 300_000) return variantCache.map;
+  try {
+    const map = JSON.parse(readFileSync(VARIANT_INDEX, 'utf8'));
+    variantCache = { at: Date.now(), map };
+    return map;
+  } catch {
+    return {};
+  }
+}
+
 function photoList(list) {
   return (list || []).map((x) => ({
     file: '/glyphs/' + x.file.split('/').map(encodeURIComponent).join('/'),
@@ -208,8 +224,16 @@ function familyInfo(ch) {
 
 function glyphInfo(ch) {
   const idx = loadGlyphIndex();
-  const e = idx.chars && idx.chars[ch];
-  const ph = (idx.photos && idx.photos[ch]) || [];
+  let key = ch;
+  let e = idx.chars && idx.chars[key];
+  let ph = (idx.photos && idx.photos[key]) || [];
+  if ((!e || !Array.isArray(e.files) || !e.files.length) && !ph.length) {
+    const alt = loadVariantMap()[ch];
+    if (alt && alt !== ch) {
+      e = idx.chars && idx.chars[alt];
+      ph = (idx.photos && idx.photos[alt]) || [];
+    }
+  }
   const files = (e && Array.isArray(e.files) ? e.files : []).map((f) => '/glyphs/' + f.split('/').map(encodeURIComponent).join('/'));
   const photos = photoList(ph);
   if (!files.length && !photos.length) return null;
