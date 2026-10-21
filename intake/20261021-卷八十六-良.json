@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷八十六 良（521.良部至522.刅部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "音源字良：象口上下各有兩獠牙，狼之初文",
+      "statement": "本卷音源字為「良」，象口的上下各有兩獠牙形，是「狼」的初文，其音源自狼嚎聲。由於口張開時才會露出牙齒，所以「口」或寫如「日」，象口張開時露出舌頭的樣子；表示有著獠牙的動物。肉食性動物一般都長有獠牙便於撕咬，其中狼最為突出，故應為「狼」的初文（《玉篇》「獸似犬」），因其形似犬，所以或另加「犬」旁。",
+      "boundary": "源自《系统汉语》卷八十六「良」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/86a-liang.md",
+      "topic_title": "卷八十六·良",
+      "topic_summary": "《系统汉语》卷八十六「良」第521–522部（p1502–p1506）：音源字良象口上下各有兩獠牙形、狼之初文，音源狼嚎聲；卷首講狼的形態分佈、群居等級與狼王、牙與反哺育兒、狼窩、狼嚎，及匈奴—突厥的狼崇拜（白光黑狼、狼頭旗、狼聲傳令、《草原帝國》）、狼牙狼髀石辟邪；521 良部（狼、浪、踉、硠、琅、榔、桹、蜋、郎、廊、朗、莨、稂、娘等六路字族）；522 刅部（刅為荊之初文，枝葉對生，荊條編筐架橋、作刑具，故分創造與創傷二系；㓝从井从刅，荊刱㓝刑同源，分化形、型、鉶、硎諸字）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "狼的形態與棲息範圍",
+      "statement": "狼外形與狗、豺相似：上顎骨尖長，嘴巴寬大彎曲，耳豎立不曲，胸部略微窄小，尾挺直狀下垂夾于兩後腿之間，多數毛色棕黃或灰黃色。棲息範圍廣、適應性強，山地、林區、草原以至凍原均有狼群生存，我國除臺灣、海南以外各省區均有；既耐熱又不畏嚴寒，夜間活動多，嗅覺敏銳、聽覺很好；腿細長強壯，善跑、耐力強，常採用窮追的方式獲得獵物；屬食肉動物，主要以鹿、羚羊、兔為食，也會食用昆蟲、老鼠，能耐饑。",
+      "boundary": "源自《系统汉语》卷八十六「良」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "狼的群居、等級與狼王",
+      "statement": "狼群居性極高，一群大約5到12只，冬天寒冷時最多可到40只左右；通常以家庭為單位，由一對優勢對偶領導，以兄弟姐妹為一群的則以最強一頭狼為領導。狼群有領域性，領域通常也是其活動範圍，群內個體數量若增加領域範圍會縮小，群與群之間的領域不重疊，會以嚎聲向其它群宣告範圍。幼狼成長後會留在群內照顧弟妹，也可能繼承群內優勢地位，有的則會遷移出去（大多為雄狼）；還有一些情況下會出現遷徙狼，以百來頭為一群，各小團體原狼首領成為頭狼，頭狼中最出眾的則成為狼王。地位高的狼往往尾部縱向捲曲朝背部，且可能一直盯著唯唯諾諾的地位低下的狼。",
+      "boundary": "源自《系统汉语》卷八十六「良」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "狼的牙、壽命、反哺與窩",
+      "statement": "狼的嘴長而窄，長著42顆牙，最突出的是犬齒，上下各兩個、能有2.8釐米長，足以刺破獵物的皮以造成巨大傷害。狼的壽命大約十二到十四年；在群體中成長的小狼非但父母呵護備至，族群其它份子也會愛護有加。狼和非洲土狼會將殺死的獵物撕咬成碎片吃下腹內，待回到小狼身邊時再吐出食物反哺；赤狼有時也會在族群中造一育兒所，將小狼集中養育，由母赤狼輪流撫育，毫無怨尤，可見狼的家庭觀念極強。狼窩通常在夏季為幼狼所建，母狼利用天然的掩蔽物（岩石裂縫、突出的岩石下、河濱、有茂密植物遮蔽的洞穴），有時利用狐狸、獾、旱獺等小型動物的棲息所加寬修改，少數會自己挖窩（短而小，有一到三個出口）；窩通常距水源500米以內，是幼狼休息玩樂的所在，剩餘食物在狼窩附近時常可見，狼尿液和獵物腐敗的氣味常會吸引喜鵲、烏鴉等清道夫型鳥類。",
+      "boundary": "源自《系统汉语》卷八十六「良」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "狼嚎的功能與狼崇拜",
+      "statement": "狼善於嚎叫：通常在獵食前及獵捕後用狼嚎聚集狼群，也用來傳達警告（特別是在狼穴附近）；呼叫配偶獵食的狼嚎長而平順，像雕鴞叫聲開始的那部份，追逐獵物時發出高頻嚎聲、追逐終了時發出短吠聲與嚎聲混和的聲音；群聚狼嚎時此起彼落而非同時一起，會建立錯覺以為有更多的狼在附近；獨行中的狼身處其它狼群領域時會避免嚎叫；狼在雨天和滿足時都不會回應其它狼的嚎聲。狼崇拜最早來源于中國西部和北部的匈奴（傳說匈奴是夏桀妻妾之後代，《史記·匈奴列傳》載其子獯粥妻桀之眾妾避之北野，乃匈奴之始祖；狄者即狼與人雜交後才出現的居于西部的民族），隨著漢朝對匈奴的戰爭，匈奴被迫西遷與蒙古人雜居混血而產生突厥人。突厥人自稱是狼的後代：匈奴信薩滿教、非常重視敬天（匈奴語天是撐犁，故第一位有記載的單于即撐犁單于），一次單于祭天時天空出現極強白光，白光中走出一隻黑色雄狼，單于認為是神降臨，遂將女兒進獻給黑狼，黑狼帶其向西而去，然後產生了突厥人。突厥軍隊的旗幟即黑色狼頭圖案，兵器上往往用金銀鑄成狼頭形狀；因古代通訊簡陋，突厥人在戰場上以狼聲傳遞命令（此發音方式尚保留在哈薩克族等民族的歌曲中，謂之「拖音」），象狼聲這種拖音綿長幽遠的聲音在開闊地與山嶽丘陵都傳得最遠，效果比鑼鼓好得多，且低沉震撼使敵人恐懼；法國勒內·格魯塞《草原帝國》即明確指出蒙古—突厥人進攻時，其身材、體味還有那象惡鬼發出的狼嚎聲讓騎士們渾身發抖。薩滿教指出狼是黑夜的精靈，在黑夜中靜靜注視、吞噬一切危害人間的邪魔與惡鬼，而它本身也是黑夜中最可怕的魔怪；漢族人對狼更多是畏懼，但隨著與匈奴、突厥、蒙古的交融，狼也成為漢族特別是北方漢族的圖騰。因狼的集體觀念、團結協作，蒙古或突厥人特別看重髀石（狼的蹄腕骨）和狼牙：髀石是狼靈魂的棲息地、是信用和勇氣的象徵，狼牙是狼殺戮的武器，故薩滿教認為佩戴狼牙可以祛除邪魔惡鬼，這也是現在蒙古、哈薩克、柯爾克孜、烏茲別克等民族喜歡在家裡掛狼皮、佩戴狼牙與狼髀石的原因。至今藏族、蒙古族人都有佩帶狼牙的習俗，認為它有神秘強大的力量，不僅可以辟邪保平安，而且可以帶給人無窮的力量。",
+      "boundary": "源自《系统汉语》卷八十六「良」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "卷首借音總說：腥臊故刅借音，羊象叫聲亦近",
+      "statement": "狼的體味腥臊，故指荊的初文「刅」借以為音。不過動物氣味腥臊比較濃的還有羊、象，而且它們的叫聲也近似，因此《狼》《羊》《象》都存在音義相通的情況，如古刅、羊也可通用：《史記·范睢蔡澤列傳》「成荊、孟賁、王慶忌、夏育之勇焉而死」，裴駰集解引徐廣曰「荊，一作羌」。",
+      "boundary": "源自《系统汉语》卷八十六「良」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良本義：象有獠牙之口，狼之初文",
+      "statement": "良本義：甲骨文象口的上下各有兩獠牙形，表示有著獠牙的動物，為「狼」的初文（《玉篇》「獸似犬」），因其形似犬，所以或另加「犬」旁。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良轉義：善、好",
+      "statement": "狼是兇猛頑強的動物，尖利的獠牙令人膽寒，因此古人尤其遊牧民族都有過狼崇拜，故引申指善、好，liáng，《廣韻》「賢也、善也、首也、長也」。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良辯證：牙形與亡形近故小篆訛从亡",
+      "statement": "牙形跟「亡」相近，小篆演變作「亡」，故《說文》「良，善也。从亯省，亡聲」析形不確（徐鍇曰「良，甚也。故从畗」亦非）。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良音源：狼的嚎叫聲",
+      "statement": "良為音源字，源自狼的嚎叫聲。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良字族①：狼的行為，遊蕩、善跳",
+      "statement": "①指狼的行為，表示遊蕩、善跳：狼（似犬，銳頭白頰高前廣後；《埤雅》「狼大如狗，靑色，作聲諸竅皆沸，善逐獸」，里語「狼卜食」謂狼將遠逐食必先倒立以卜所向，故獵師遇狼輒喜；古之烽火用狼糞，取其煙直而聚雖風吹之不斜）、浪（滄浪水，漢水下游；液體滴落皃）、踉（踉䠙，欲行皃；跳踉，跳躍；踉蹡，行不正）。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良字族②：狼的嚎叫，大聲",
+      "statement": "②指狼的嚎叫，表示大聲：硠（石聲；硠硠，堅也）、悢（悢悢，悲、惆悵；懭悢，意不得皃）、哴（號極無聲曰唴哴；兒啼不止；哴吭，吹皃）、欴（欴㰠，貪皃）、誏（與朗同，言之明也；閑言、謔）、啷（粗心馬虎；象聲詞）。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良字族③：獠牙狀，銳長之物",
+      "statement": "③指狼的獠牙狀，表示銳長之物：琅（琅玕，似珠者；琅邪郡）、俍（良工、擅長；俍偒，長皃）、躴（身長皃）、䯖（股骨、股肉）、𩝢、𥍫（矛屬、短矛）、勆（有力）、𣂞（柯擊、相砍擊）、𨬅（曳釣；榔頭，錘子）、榔（榔榆，木質堅密；檳榔）、桹（高木；桄桹；船板，鳴桹以毆魚——拴在船舷上敲打作響以趕魚入網的長木棍）、𩷕（雄蠏、魚脂）、𪁜（鳩，喙尖而曲）、𠻡（唇垂皃）、鋃（鋃鏜，鎖鏈；鍾聲）、蜋（螳螂；蜣蜋，屎殼郎，前肢尖銳有鉤）。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良字族④：呲牙咧嘴狀，空闊",
+      "statement": "④指狼的呲牙咧嘴狀，表示空闊：筤（籃、車蓋竹骨架、幼竹；華蓋）、㝗（屋宇空闊、空虛）、郎（魯亭、君、男子之稱）、廊（中堂兩旁的牆、堂下四周的廊屋、走廊）、閬（門高；閬中縣；爣閬，寬明皃）、䡙（兵車；臥車）、埌（墦埌，冢；壙埌，原野迥皃）、崀（山空；崀山，在湖南）、艆（海中大船）、塱（江湖邊的低窪地）、蓢（南蓢，廣東村鎮名）、嫏（玉京嫏嬛，天帝藏書處，張華夢遊之）。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良字族⑤：眼露凶光，明亮",
+      "statement": "⑤指狼的眼露凶光，表示明亮：䀶（目病、目斜視病；狼的眼睛傾斜向上，夜晚會放出綠光）、朗（明也）、烺（爣烺，火皃）、㫰（明；曝曬）。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "良字族⑥：狼尾狀，相似的物體",
+      "statement": "⑥指狼尾狀，表示相似的物體：莨（狼尾艸，似茅，可覆屋；毛莨有毒，誤食狂亂而死；莨菪一名天仙子，其子服之令人狂浪放蕩，故名）、稂（秕穀、狼尾草）、蒗（蒗蕩渠，亦稱狼湯渠）、𦵧（𦵧毒艸，《山海經》「服之不夭，可以為腹病」）、粮（穀也）、駺（馬尾白；吉駺）、娘（少女之號，亦稱母；疑指髮型如狼尾，跟「媽」的指如馬尾同）。",
+      "boundary": "源自《系统汉语》第521部「良部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "刅本義：象枝葉對生，荊之初文",
+      "statement": "刅本義：西周金文象枝葉對生形。一般樹木的枝葉多是交互而生，但荊卻是對生的，故專指荊，是「荊（jīng）」的初文：《說文》「楚木也」、《廣韻》「木名，可染」。荊為馬鞭草科牡荊屬落葉灌木，種類很多（黃荊、紫荊、灰毛牡荊、石梓等），常見的為黃荊，也稱荊條、楚、蔓荊；嫩枝呈四方形，葉對生，掌狀複葉，小葉全緣、背面被灰白色絨毛，花冠淡紫色二唇形，核果球形；在我國有廣泛分佈，多見于兩湖，故舊稱兩湖地區為荊楚。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "刅轉義：創造、懲罰創傷、荊楚",
+      "statement": "荊的枝條柔韌、有香氣，在古代生活中十分重要：可編筐籃甚至架橋；莖葉有藥用價值（能治久痢，葉子摩擦皮膚可驅蚊，種子為清涼性鎮靜鎮痛藥，根可驅蟯蟲）。古代稱自己的妻子為「荊」，就是因為當時一般婦女常用其作髮釵、做家什，故引申指創造（此義分化如刱/創，《廣韻》「初也。《說文》曰：『造法刱業也』」）；由於荊條柔軟似鞭，打人不會傷其筋骨且傷處不會潰爛，自古以來可能就是父母教訓小孩子的工具，以至於被政府也作為刑具鞭打犯人，所以又引申指懲罰、創傷、痛楚（此義分化如𠛂/創，《集韻》「傷也」）；荊主要生長于兩湖區域，故古稱兩湖地域為「荊」（《廣韻》「荊楚」）。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "刅辯證與音源：从刃从一不確，義音同良",
+      "statement": "辯證：由于其字形似「刀」，故《說文》「刅，刅傷也。从刃，从一」析形不確。音源：借音字，因其氣味如狼，故義音同「良」：《戰國策·魏策》「因索蔡皋梁于趙」，「梁」《趙策》作「狼」；《孟子·滕文公上》「樂歲粒米狼戾」，「狼戾」《鹽鐵論·未通》作「梁厲」；《左傳·桓公六年》「季梁在」，「季梁」《漢書·古今人表》作「季良」；《老子》「強梁者不得其死」，「梁」馬王堆帛書《老子》甲本作「良」（「梁」本「刅」聲）。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "刅字族①：以刅為器用，梁或梁狀物",
+      "statement": "①指以刅為器用，表示梁或梁狀物：梁（水橋，當指用荊木相連接而架成的索橋；堤謂之梁、屋脊柱曰棟負棟曰梁、楣謂之梁、冠梁；彊梁，掠奪）、𨎛（車梁）、墚（黃土高原上呈條狀延伸的嶺岡，頂面較平緩，兩側為狹深溝谷）、簗（築的訛字，疑指用荊條編成安放在河梁上的捕魚竹簍，魚能進而不能出）、𨄈（跳𨄈，走也）。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "刅字族②：刅實，粱",
+      "statement": "②指刅實或類似物：粱（米名，《篇海》「似粟而大，有黃靑白三種，又有赤黑色者」；《本草》「白粱味甘，微寒，無毒，主除熱益氣」，黃粱出青、冀），指其粒如荊實；荊實本也可食，《金匱錄》載「以九月采蔓荊實……壽二千歲」，大約因為味苦才沒有被人所常食。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "刅字族③④：抽打創傷、形近刃之訛",
+      "statement": "③指用刅抽打，表示創傷：䘐（衄字之譌，本作衄，鼻出血；依《篇韻》應非訛字）、𢞤（同惄，心之飢、憂、思）、𠛂（創傷；創，懲也）。④形近字「刃」之訛：𥾠（紉字之譌；凡韌、訒皆从刃，刅與刃別，刅音創、與創通，刃从刀加鉅為鋒刃）。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "㓝本義：从井从刅，編結器物或抽打傷痕",
+      "statement": "㓝本義：西周金文从井从刅——「刅」指荊條，「井」象交叉的紋路。象意有二：或象意用荊條編結器物；或象意用荊條抽打的傷痕，即「㓝（xíng）」（《說文》「罰罪也」）。（用荊條編筐）",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "㓝轉義與辯證：創造、創傷，荊刱㓝刑同源",
+      "statement": "轉義：由用荊條編結器物引申指創造（chuàng，《說文》「刱造法刱業也……讀若創」），或指起初、開始（《廣韻》「初也」）；由荊條抽打造成的傷痕引申指創傷（chuāng，《正字通》「刱，傷也」）。辯證：「荊、刱、㓝、𠛬、刑」本同源：「井、幵、开、並」形近，故而誤作四寫；「刅、刀、刃」形近，故而誤作三寫，從而分化出「刱、㓝」兩大音義系列（所从「井」本交織的紋路：若指抽打後的傷痕則指刑罰、創傷，若指荊條編織器物的紋路則指模型、創造；不管讀chuāng還是xíng都有這兩層意思）。因此《說文》「㓝，罰罪也。从井，从刀」析形不確，「𠛬，剄也。从刀，幵聲」形、義皆不確。又由於「刱」或省「刅」而徑作「井」，而「井」又誤作「幵、开」（如「𠛬/刑」），因此一些从「井、幵、开」的字應視其音義，或當為「从刱省聲」。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "㓝字族①：用荊條編結，器形",
+      "statement": "①指用荊條編結，表示器形：形（象形；《正字通》「體也、容也、象也，又現也」；依宋夏竦《古文四聲韻》所收古老子、華嶽碑字形，「形」顯然是从「井」，隸定的正確寫法當作「𡌒」即「型」，指用荊條編結的鑄件模型，引申指物體的形狀）、型（鑄器之法；「𡌒」的春秋金文从田从刱，指用荊條編成的用于鑄造的模型——製作時先用荊條編織成所鑄器物的樣子故為「形」，然後在上面糊以泥故从「田」或「土」；凡鑄式以土曰型、以木曰模、以金曰範；「型𡌑𡌒𡌁」都是訛字）、鉶（盛羹用的小鼎、祭器）、侀（成也，即形字）、㭢（小几）、娙（好也，女身長謂之娙）、𧊞（蟲名）、郉（周公子所封，今河北邢臺市）、銒（似鐘而頸長，盛羹之器，狀如荊條編的簍子）、𡶭（山名）。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-86-liang",
+      "title": "㓝字族②③：用荊條抽打磨治、形近欮之訛",
+      "statement": "②指用荊條抽打，表示磨治：𤏾（煮魚煎肉，即在肉、魚表面用刀劃成「井」字形以便入味然後油煎）、硎（砥石，磨刀石；阬，壍也）、𩃋（義不詳，疑指雨水的沖刷）、𧨘（𧨘笑，同「形笑」即嘲笑）、㣜（行貌）。③形近字「欮」的訛字：𨴸（俗闕字；闕，門觀也、缺也、門兩旁闕然為道也，又去也、過也、失也、不供也）。",
+      "boundary": "源自《系统汉语》第522部「刅部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
