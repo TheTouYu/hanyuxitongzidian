@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷五十六 燕（319.燕部至323.焉部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "卷五十六音源字燕",
+      "statement": "卷五十六以「燕」为音源字。燕象燕子形，其音源自燕子的叫声。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/56a-yan.md",
+      "topic_title": "卷五十六·燕",
+      "topic_summary": "《系统汉语》卷五十六「燕」第319–323部（p939–p948）：319 燕部（p942）、320 妟部（p942）、321 弇部（p945）、322 奄部（p946）、323 焉部（p948）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕子的形态与种类",
+      "statement": "燕子是雀形目燕科的1属，有楼燕、白腰雨燕、家燕、岩燕、灰沙燕、金腰燕、毛脚燕等种类；体型小（体长130–180毫米），翅尖长、尾叉形，背羽辉蓝黑色故古称玄鸟；嘴短弱而嘴裂宽，为典型食虫鸟类的嘴型；脚短小而爪较强。世界有20种，中国有4种，以家燕和金腰燕最常见。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕子的迁徙习性",
+      "statement": "燕是典型的迁徙鸟，秋季成群由北方飞向南方，因它以昆虫为食且习惯在空中捕食飞虫，北方冬季无飞虫可供捕食，故每年秋去春来南北大迁徙，成为鸟类中的游牧民族；家燕总在夜深人静、明月当空时迁飞，飞行很快，并有惊人记忆力，能靠记忆返回故乡。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "家燕的筑巢与繁殖",
+      "statement": "家燕4–7月繁殖，在农家屋檐下营巢：衔来泥土、草茎，混以唾液粘结，内铺细软杂草、羽毛、破布和青蒿叶，巢为皿状；每年繁殖2窝，每窝产卵4–6枚（第二窝2–5枚），雌雄共同孵卵，14–15天幼鸟出壳，约20天出飞。麻雀常强占燕窝，家燕群起而攻之，赶不走时便衔泥土树枝封死巢穴。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕子与人类的亲密关系",
+      "statement": "燕子是动物中唯一未经驯化却与人类保持最自然最亲密接触、并受到人类保护和尊重的动物：它本筑巢于洞穴悬崖高处，较早与洞居人类接触；人类发明房屋后，它随人类进入各地，在房檐屋梁建巢；它以虫类为食，客观上帮助了人类；其物候性为人类掌握天时提供方便；其故园观念更具人性化。家燕体态轻盈、飞行如离弦之箭，几个月能吃掉25万只昆虫，是著名的益鸟。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "玄鸟生商与燕子始祖神",
+      "statement": "在远古商人看来燕子不只是朋友，且被供奉为神祇：《诗经》《国语》《礼纬》《史记》等记载，殷商时代燕子被认为是始祖神。《诗经·商颂》叙述殷商始祖契为其母简狄吞燕卵而生；《诗经·玄鸟》「天命玄鸟，降而生商」；《史记·殷本纪》称简狄为帝喾次妃，三人行浴见玄鸟堕其卵，取吞之因孕生契。殷商人认为始祖契是上天派玄鸟送来的天之子投生，遂以燕子为祖先神并发展为部族图腾，「妟」字很可能就是其燕生神话的演变。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕的异名",
+      "statement": "古代燕子又称玄鸟、鸟乙、燕乙、乙等。《说文》「燕，玄鸟也，籋口、布翅、枝尾象形，齐鲁谓之乙，取其鸣自呼」；《广韵》「鸟乙，燕，燕乙」；《尔雅·释鸟》「燕燕，鸟乙」。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "商族对玄鸟的尊称",
+      "statement": "由于对玄鸟的特别崇拜，商殷后人以之作为对所崇敬帝王的尊称：称契为玄王，称汤为天乙。《诗·商颂·长发》「玄王桓拨」毛传「玄王，契也」；《史记·殷本纪索隐》引谯周语「殷人尊汤，故曰天乙」；《国语·周语下》「玄王勤商，十四代兴」——契十四世孙商汤为商族领袖、商朝创建者，族人称之天乙，意即视为上天派来的「乙」（燕子）降生。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "怀集的燕崇拜与敬燕节日",
+      "statement": "粤西北怀集保留了典型的燕崇拜：常见家燕与金丝燕（后者集中于桥头镇燕岩一带），人们认为燕子是幸福吉祥之兆（「燕子到，喜临头」），在堂屋两壁装钉木板等待燕子垒窝——堂屋是敬奉祖先神灵的圣洁场所，让燕子在堂屋垒窝即视其为神灵；人们认定燕子是祖先神、雷神之子，世代告诫不可捕捉。节日有农历二月初二艾糍节（燕子是九天玄女化身，担负衔糍补天职责，人们抛掷圆饼状艾糍供奉）、三月初一祀雷节（敬燕节，禁忌下田劳作、洗头洗衣，恐燕子喝洗头水而亵渎神灵）、六月初六敬燕节（黄帝忌日，黄帝乘燕翼归天）。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "怀集的燕俗与太极图",
+      "statement": "怀集民间喜庆礼品油糍模仿燕窝而制，以「燕窝」相赠寓意「燕贺之喜」、幸福美满多子多福；过去农村妇女个个都是油糍制作能手。人们认为燕子的黑色最吉祥，婚嫁、新居入宅时主人礼服须为传统黑衣黑裤，黑色又有驱邪功用，小孩远行须以锅灰在额上抹黑点。民间解释道教太极图是仿两只孵卵的燕子而创制，称「双燕图」或「双鸟图」。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "古诗中的燕子意象",
+      "statement": "古诗词中燕子是歌咏对象，主要表现五类内容：春光美好与惜春（晏殊「燕子来时新社，梨花落后清明」）；爱情美好与思念（晏几道「落花人独立，微雨燕双飞」）；时事变迁、盛衰兴亡（刘禹锡「旧时王谢堂前燕，飞入寻常百姓家」）；代人传书、幽诉离情（郭绍兰「殷勤凭燕翼，寄于薄情夫」）；羁旅情愁、漂泊之苦（周邦彦「年年如新燕，飘流瀚海，来寄修椽」）。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕与婴通假及借音字",
+      "statement": "燕子的叫声独特纯正，但与「儿」关联紧密，古燕、婴可通用：《诗·邶风·燕燕》「燕燕于飞」，马王堆汉墓帛书《五行》引作「婴婴」，原因一方面与商人燕生神话有关，另一方面因燕子呢喃如婴儿低语，故既可归《因》也可归《儿》。其借音字或与燕子泥穴于屋檐梁上而引申覆掩义有关，如弇、奄；焉则与其为候鸟有关。",
+      "boundary": "源自《系统汉语》卷五十六「燕」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕的构形与本义",
+      "statement": "燕象燕子形。《说文》「玄鸟也。籋口，布翅，枝尾，象形」。",
+      "boundary": "源自《系统汉语》第319部「燕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕的转义",
+      "statement": "因燕子喜欢筑巢于人的居室，故引申指安闲、安息（《集韵》引《尔雅》「宴宴，居息也」，或作燕；《字汇》「安也、喜也」）；或指一种身形羽色象燕子一般的鸟（《尔雅》「白脰鸟」，即白颈乌）。",
+      "boundary": "源自《系统汉语》第319部「燕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕的音源",
+      "statement": "燕为音源字，源自燕子的叫声。",
+      "boundary": "源自《系统汉语》第319部「燕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕字族：燕身腹白咽红",
+      "statement": "此路指燕身，表示腹白、咽红。驠：马白州（马窍白），马有着白色的臀部如燕尾，或指马的轻捷。臙：臙喉、胭脂，取燕咽部为红色义。𥷀：竹名。𩽒：鱼名。",
+      "boundary": "源自《系统汉语》第319部「燕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕字族：燕巢高悬仰视",
+      "statement": "此路指燕巢，表示高悬、仰视。酀：地名（齐有高酀即高偃）。㬫（曣）：星无云，晴朗无云；《玉篇》「日出」，《正字通》与晏通。𧔦（蠮、蝘）：蠮螉为细腰蜂（土蜂），如燕子般衔泥为巢；蝘为壁虎，如燕子般栖于人屋。𥍂（䁙）：视也，目相戏（《诗》「䁙婉之求」），一曰仰视。𨇟：𨇟蹀，踏步。",
+      "boundary": "源自《系统汉语》第319部「燕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "燕字族：燕处和顺宴饮",
+      "statement": "此路指燕处，表示和顺、宴饮。嬿：女子名字，嬿婉为安顺貌。讌：合语，相聚叙谈，讌会本亦作醼。觾：鸟名，《吕氏春秋·本味》「肉之美者，隽觾之翠」。醼：合饮、宴饮。嚥：吞也，亦作咽。",
+      "boundary": "源自《系统汉语》第319部「燕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "妟的构形与本义",
+      "statement": "妟从日从女，象意太阳之母。「天命玄鸟，降而生商」，商人以玄鸟（燕子）为始祖神，故妟实际上指的就是燕子。汉画像石有太阳之母图。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "妟的转义",
+      "statement": "燕为候鸟，秋去春来，燕子来临意味着春天，故引申指晴明（《集韵》「日出清明也」）；或引申指安（《说文》「安也，从女、日」，《诗》「以妟父母」）。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "妟与燕通用",
+      "statement": "妟本女声，义音同燕，古燕、妟通用：《诗·邶风·谷风》「宴尔新昏」，《释文》「宴，本又作燕」，《列女传》引作嬿；《小雅·南有嘉鱼》「嘉宾式燕以衎」，《玉篇》引作宴；《北山》「或燕燕居息」，《汉书·五行志》引作宴宴；《左传·昭公二十六年》「私降昵宴」，《说文》引作燕；《史记·留侯世家》「及燕新酒」，《汉书·张良传》作宴；《国语·鲁语下》「彻俎不宴」，《列女传》作燕。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "妟字族：隐匿俯身",
+      "statement": "此路多与燕子隐身于梁间泥穴有关，指隐匿、俯身。匽：隐匿，又读 yàn 为路边厕所。宴：安息貌，又合饮、喜、闲。偃：仰卧、倒伏、息。鶠：凤的别称。鰋：鲶鱼，身上有黏液如涎，取音义于燕子以涎黏巢；一说身圆白额、性好偃、腹平着地故名。郾：颍川县（今河南郾城南），yān 同燕，古燕国自称为郾或匽。褗：衣领，取燕巢圆而上之意。蝘：在壁曰蝘蜓、在草曰蜥易，即壁虎，象燕子一样栖居檐间，又为蝉。愝：愝惼，性狭。鼹：鼹鼠，白天隐藏土穴；又河狸善筑堰捕鱼。躽：身向前、驼背，又怒腹、怒目。椻：积木为障，又拔草心。䞁：价值相当。堰：障水之堤坝，或指池塘（都江堰）。隁：山坡，又同堰。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "妟字族：仰视燕巢",
+      "statement": "此路指仰看燕巢，表示仰视。揠：拔引，仰取之意，《广韵》「拔草心也」。𥈔：䁙，《说文》「目相戏」，一曰仰视。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "安的构形与本义",
+      "statement": "据早期甲骨文，安本即宴字，从宀妟声。由于「日」或省中间一点可看作人头形，妟遂演变为女；宀指屋舍，象意燕子筑巢于檐间梁上的样子。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "安的转义",
+      "statement": "相对其他鸟类筑巢于林木中，燕子的巢居方式安全得多，故引申安定、安全（《玉篇》「安定也」，《释名》「晏也，晏晏然和喜无动惧也」）；或引申安静、止息（《说文》「静也，从女在宀下」）。燕巢筑在檐梁间呈悬空状而能不坠，故或引申表疑问，与「不」取义类似，表现出对倒悬而不坠的惊异（《正字通》「又何也」）。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "安的音源",
+      "statement": "安本妟声，古安、燕可通用：《诗·小雅·鹿鸣》「嘉宾式燕以敖」，《中论·艺纪》引作晏；《左传·昭公二十五年》「明日晏饮酒乐」，《汉书·五行志》引作燕。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "安字族：下压与悬起",
+      "statement": "此路表示下压、悬起。按（遏）：用手压使向下，又抑、止、据、控、察行、考、验、抚，读 è 与遏同。䅁：轹禾，碾轧禾穗取谷。鞍：马鞁具。荌：草名，疑指苔藓之类。頞（齃）：鼻梁，《释名》「頞，鞍也，偃折如鞍也」。鴳：麻雀（雇也），也喜安巢于屋檐，又鸟声、兽名。䁙：目相戏，眉目传情，又仰视。峖：山名，大约指马鞍形山。晏：天清，又柔、晚、鲜盛、日气温。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "安字族：安适平稳",
+      "statement": "此路表示安适、平稳。洝：温水，又湿润、水名。侒：宴也、安逸安适，侒侒为不惧。咹：止、小语、口吃、声止。案（桉）：进食用的短足木盘，又食器、盂、察行考验证、官府成例及狱讼论定者亦称案、盌案，又木名。䀂：䀂𥂫，大盂。䢿：当阳里名。暥：广远。鼹：同鼴。鮟：俗字，鰋一作𩷑、鮟即𩷑之讹，即鲶鱼；鮟鱇头大扁平、体软无鳞、口宽牙锐、尾细小、能发出像老人咳嗽的声音，栖息海底匍行。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "安字族：音译字",
+      "statement": "此路为音译字。氨：氮和氢的化合物 NH3，音译。胺：肉败臭（《广雅》「胺，败也」），又氨分子中氢原子被烃基取代而成的有机化合物，英语 amine 的音译。铵：化学中一种阳性复根即铵离子、铵根，英文 ammonium 的音译。",
+      "boundary": "源自《系统汉语》第320部「妟部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "弇的构形与本义",
+      "statement": "弇从合从𠬞，象意双手合掌。《说文》「盖也，从𠬞从合」，古文弇。",
+      "boundary": "源自《系统汉语》第321部「弇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "弇的转义",
+      "statement": "由合掌之状引申指器物上下狭小而中部宽大（《集韵》「钟形中央宽也」，《周礼》「弇声郁」）；或引申指狭窄（《集韵》「弇中，隘道」）；由合掌引申指共同（《广韵》「同也」）。",
+      "boundary": "源自《系统汉语》第321部「弇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "弇的音源",
+      "statement": "弇本𠬞声，因有覆盖义而义音同「掩」（《集韵》「揜，覆取也，或从奄」）。",
+      "boundary": "源自《系统汉语》第321部「弇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "弇字族：合掌掩藏浸没",
+      "statement": "此路指合掌，表示掩藏、浸没。揜（掩）：自关以东谓取曰揜，一曰覆也；《方言》「灭也，吴扬曰揜」；《广雅》「藏也」。媕：女有心媕媕（眉目传情、遮遮掩掩），又媕娿不决。鞥：马缰绳、马笼头，一曰龙头绕者。葊（菴）：菴䕡草名，古同庵（草覆盖的小屋）。𠝢：阉割之刑。𦝡（腤）：烹也，把盐豉葱与肉或鱼一起煮。渰（淹、醃、淊）：云雨貌、云兴起貌，又没、渍、与淹通。𢜰（㤿）：快、爱、甘心。𧩸（谙）：熟悉、知晓、熟记、背诵。",
+      "boundary": "源自《系统汉语》第321部「弇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "弇字族：合掌状昏暗不清",
+      "statement": "此路指合掌状，表示昏暗、不清。黭：果实黭黯黑（黑坏），又深黑色、卒至貌（忽、乍）。啽：寐声（《列子》「眠中啽呓呷呼」），说梦话、含糊不清，又啽默不言。崦：崦嵫山名，日所入处。𥚫（𩳢、殗、䄋）：污触。𧍬：虫名。鵪（䨄、𪁟、鶕、𪂻）：鹌鹑，羽色暗淡、性善隐匿，往往昼伏夜出、喜夜间迁徙群飞。",
+      "boundary": "源自《系统汉语》第321部「弇部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "奄的构形与本义",
+      "statement": "奄从申从大：申指闪电，大指跨步表示遮蔽，象意乌云覆盖、电光闪动的情形，为「𩃗」（yǎn）的初文（《集韵》「云气盛也」）。白居易《伤远行赋》「云雷作而风雨晦，忽霉霭兮不见旸」即描绘此景。",
+      "boundary": "源自《系统汉语》第322部「奄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "奄的转义",
+      "statement": "由乌云的聚集引申指覆盖、掩藏、关闭（《玉篇》「覆也、息也」，《广韵》「藏也」）；或引申指包括、拥有（《广韵》「取也」）；或引申指宦官、停留（yān，《集韵》「精气闭藏也」，《广韵》「止也」，《正字通》「久也」）；由闪电的闪耀引申指迅速（《方言》「遽也，吴扬曰芒，陈颍曰奄」）。",
+      "boundary": "源自《系统汉语》第322部「奄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "奄字形的辨正",
+      "statement": "由于《说文》对「申」的本义所解不确，故《说文》「奄，覆也，大有馀也，又欠也，从大从申，申，展也」所解也不确，《正字通》谓「奄无欠义」。",
+      "boundary": "源自《系统汉语》第322部「奄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "奄的音源",
+      "statement": "奄本大声，与「盇（盍）」所从同；因有覆盖义而义音同「弇」：《山海经·西山经》「西南三百六十里曰崦嵫之山」，「崦嵫」《穆天子传》作「弇兹」；《易·困·彖传》「困，刚揜也」，《释文》「揜，本又作掩」。",
+      "boundary": "源自《系统汉语》第322部「奄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "奄字族：乌云汇聚覆盖浸没敛藏",
+      "statement": "此路指乌云的汇聚，表示覆盖、浸没、敛藏。𩃗（渰）：云状、云气盛。罨：从上掩覆而捕取的网，又以网鱼、鸟网。𤗎：屋𤗎雀、屋檐端版、户坏。菴：菴闾（一种蒿草，老茎可盖屋），草舍曰菴，又菴蔼（翳荟、木茂貌）。裺：褗谓之裺（衣领），又小儿涎衣、衣缝缘边、被子、衣宽。𩋊（𨌧）：车具、车上具。㡋：古代男子束发用的头巾（《释名》「绡头，齐人谓之㡋」），又饲马用的口袋。硽：山岩、山岩两相合，又石名。掩（揜）：敛也，小上曰掩；又遮、抚、打、覆取；《方言》「止也、同也，江淮南楚之间曰掩」；读 yàn 为缫丝以手振出绪。醃（腌）：渍肉、盐渍鱼、渍藏物、葅属，用盐酒浸渍肉鱼。淹：《说文》水名（今金沙江自发源地至攀枝花一段），又渍、滞、久留、败、没、水涯、缫丝出绪。䣍：周公所诛䣍国（在鲁，今山东曲阜旧城东），又邑名（淹城，今江苏常州武进，三重城墙三道护城河的古城）。㤿：甘心、爱、多意气、忘。𦑎：敛羽。䛳：匿、言轻、谤、拏。䁆：目、闭目、眸子陷坏目阖不开。庵（蓭）：草圆屋、小草舍、僧尼奉佛的小寺庙、书斋，又忽然、豕屋、低。埯（垵）：泥坑、挖小坑点种后掩土、小坑、土覆。痷（殗、㞄）：痷婪（浮泛）、痷殜（半卧半起之病）、瘦病、跛疾。馣（唵、䅖）：馣馤（香气）。匎：匎刍，不奢侈。唵：含、手进食，释咒多用唵字，又叹词表应答。㞄：蹇跛之貌。䎨（㽢）：犁种、种田。閹（剦）：宫中的门童（晚上负责关闭门户的仆人），因被阉割而指阉割，又男无势精闭者、宦人、掩闭；《尔雅·释天》「太岁在戌曰阉茂」；读 yǎn 为曲媚。",
+      "boundary": "源自《系统汉语》第322部「奄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "奄字族：乌云状暗黑不明",
+      "statement": "此路指乌云之状，表示暗黑、不明。黤（黯）：青黑、深黑色。崦（𡹮、嶖）：崦嵫山，山下有虞泉、日所入处；即齐寿山，位于甘肃天水秦城区东南60里，海拔1951米，为西汉水源头、长江黄河分水岭，传说山西南有虞渊为太阳所落处。晻（隌、暗）：不明，又晻蔼（暗、冥）、晻晻（日无光），通渰（云起貌）、通奄（覆盖、重合）。俺：大也，又「我」的自称，应含自谦如愚、不才之意。㛪：诬挐（诬谤、造谣），又婢、女貌。㭺（𣚖）：㭺柰（柰即海棠果），或指死树、木名。鵪：鹌鹑（《本草纲目》谓鹌与鹑为两物，形状相似俱黑色，无斑者为鹌），头小尾短、羽毛赤褐色杂暗黄条纹、雄性好斗；又鸭（水鸟）。",
+      "boundary": "源自《系统汉语》第322部「奄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "焉的构形与本义",
+      "statement": "据周武王《封比干墓铜盘》铭文，焉本象某种大鸟之形，后从鸟从正——正，古以黄色为五色中的正色，故指黄鸟。《说文》「焉鸟，黄色，出于江淮，象形」，并谓朋为羽虫之属、乌为日中之禽、舄知太岁之所在、燕为请子之候（作巢避戊己），所贵者故皆象形，焉亦是也；《禽经》「黄凤谓之焉」。",
+      "boundary": "源自《系统汉语》第323部「焉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "黄鸟的形态与文献",
+      "statement": "黄鸟也叫黄雀、金雀、芦花黄雀，为雀科金翅雀属鸟类，全身羽毛以黄绿色为主，羽色漂亮、歌声婉转；除繁殖期成对生活外常集结成几十只的群，春秋迁徙时集成大群，性不大怯疑而繁殖期非常隐蔽，平常喜落于茂密树顶，常一鸟先飞而群体跟随，飞行快速直线前进。最早记载见于《山海经·大荒南经》「有巫山者，西有黄鸟，帝药八斋，黄鸟于巫山司此玄蛇」；《北山经》「有鸟焉，其状如枭而白首，其名曰黄鸟，其鸣自詨，食之不妒」，与常见黄鸟不同。",
+      "boundary": "源自《系统汉语》第323部「焉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "焉的转义",
+      "statement": "黄鸟善鸣，故引申作语气词（《广韵》「语助也」）；但其叫声不怎麼独特，跟燕子等鸟的叫声近似而又善于模仿其他鸟鸣，从而引申表疑问（《广韵》「安也、又不言也、何也」）。",
+      "boundary": "源自《系统汉语》第323部「焉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "焉的音源",
+      "statement": "焉为音源字，本源自黄鸟的叫声，但其叫声跟燕子相近，作为音义元素的特征不显；其字本音同燕又为候鸟，故附于燕音类。古妟、焉可通：《史记·苏秦列传》「南有鸿沟、陈、汝南、许、郾、昆阳、召陵、舞阳、新都、新郪」，司马贞索隐「郾，《战国策》作鄢」。",
+      "boundary": "源自《系统汉语》第323部「焉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "焉字族：焉鸟形细长",
+      "statement": "此路指焉鸟形，表示细长貌。嫣：长貌、长美貌（女子身材修长），又巧笑态、与延通、好貌、颜色浓艳。墕（堰）：与堰同（汉王景有墕流法）。䗡：䗡䘎虫名（虫曲息），又地名（崇吾之山东望䗡渊）。㯊：平量木，即「概」，用于刮平斗斛的木块。",
+      "boundary": "源自《系统汉语》第323部「焉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "焉字族：焉鸟聚集与活跃地区",
+      "statement": "此路指焉鸟的聚集，表示喧哗或其活跃地区。鄢：南郡县，孝惠三年改名宜城（今湖北宜城）。傿（㒚）：引为贾（夸大其价、哄抬物价），又依止、鄢陵县名及姓。漹：《说文》水名（出西河中阳北沙南入河），《水经注》认为是汾水支流；或说山西孝义一带有漹水，当地有一种鸟名叫焉鸟，是古人的图腾；四川青衣江贯穿夹江县境的河段别称漹水、漹江，滨临江畔的县城称漹城。",
+      "boundary": "源自《系统汉语》第323部「焉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-56-yan",
+      "title": "焉字族：焉鸟羽色黄黑",
+      "statement": "此路指焉鸟的羽色，表示黄或黑。蔫：菸也（物不鲜、食物餲），不新鲜、草黄了之意，又臭草。篶：黑竹。",
+      "boundary": "源自《系统汉语》第323部「焉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
