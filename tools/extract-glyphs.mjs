@@ -27,7 +27,8 @@ function arg(name, fallback) {
 }
 const SRC = arg('src', 'D:\\字谱智能体');
 const OUT = arg('out', join(process.cwd(), 'web', 'public', 'glyphs'));
-const MAX_PER_CHAR = Number(arg('max', '16'));
+// 每字图数上限；0 = 一张不漏
+const MAX_PER_CHAR = Number(arg('max', '0'));
 const MAX_BYTES = Number(arg('maxbytes', String(300 * 1024)));
 // --only 吉：只抽这几个字（补抽用，不清空输出目录）
 let ONLY = new Set();
@@ -389,7 +390,7 @@ function main() {
         files.push(`${ch}/${name}`);
         report.files += 1;
         report.bytes += data.length;
-        if (files.length >= MAX_PER_CHAR) break;
+        if (MAX_PER_CHAR > 0 && files.length >= MAX_PER_CHAR) break;
       }
       if (!files.length) continue;
       const docTitle = docTitleOf(docName, parsed);
