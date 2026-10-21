@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷九十九 且（599.且部至601.麤部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "音源字且与俎",
+      "statement": "卷九十九的音源字为「且」，象俎形；音源为在俎上切割肉食时发出的砍斫声。",
+      "boundary": "源自《系统汉语》卷九十九「且」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/99a-qie.md",
+      "topic_title": "卷九十九·且",
+      "topic_summary": "《系统汉语》卷九十九「且」第599–601部（p1731–p1739）：599 且部（p1732）、600 巨部（p1736）、601 麤部（p1739）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "俎的用途与祭祀流程",
+      "statement": "俎在古代相当于今天的案板、砧板、供台、餐桌，是先秦贵族祭祀、设宴时用于切割、陈列肉食的重要礼器，几乎与鼎的使用相始终。使用过程大致为：先将洗净的牲畜放在俎上宰割切块；再把生肉块放入鼎中烹熟；而后捞出投入保温调味的升鼎中调制；接着再取出放到俎上切成小块，请诸神享用。",
+      "boundary": "源自《系统汉语》卷九十九「且」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "俎豆之事与孔子的礼乐观",
+      "statement": "俎作为祭祀的重要工具，一般与食器「豆」并称，「俎豆之事」即祭祀时的仪式、规矩、过程，象征对神灵和祖先的崇敬。主张「克己复礼」的孔子从小就熟谙俎豆之事，认为它不仅是形式上的仪式，更是道德化的载体。《论语》记卫灵公问阵，孔子对曰：「俎豆之事，则尝闻之矣；军旅之事，未之学也。」体现其反对战争、崇尚和平，主张以俎豆之事代替军旅之事，通过俎豆之事的道德教化功能培养责任感和敬畏之心，实现对礼仪文明的传承。",
+      "boundary": "源自《系统汉语》卷九十九「且」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "汉代以后俎为供台所取代",
+      "statement": "汉代以后随着时代发展，鼎作为食器逐渐退出历史舞台，与之配合使用的俎也就被供台所取代。如今乡间的堂屋仍保留这一传统：其「天地国亲师」神位下的供台用于放置香烛、贡品之类，有些就仍呈俎形。",
+      "boundary": "源自《系统汉语》卷九十九「且」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "俎形粗大故麤、巨借音",
+      "statement": "俎虽然功能跟现在的几案差不多，但因专门用于祭祀时放置大块甚至整只牺牲，其形制特别粗大。故而引申指粗大之义，「麤、巨」因此而借其为音。",
+      "boundary": "源自《系统汉语》卷九十九「且」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "且：本义",
+      "statement": "且甲骨文象案板形，中间两横表示凹槽、纹饰，甚或镂空的格子；西周金文在左侧加「爿」，表示其样子象床形。是「俎」的初文，《字汇》：「壮五切，音阻。祭器，以杌盛牲体者。」",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "且：转义",
+      "statement": "由俎作为荐牲的祭祀神器，引申指开始、根本（分化如「祖」，《广韵》「祖祢。又始也、法也、本也、上也」）；或引申指多（《集韵》「多貌」）；或表示连续、接着、将要。随着时代发展，俎有形制变化（木俎、陶俎、石俎、青铜俎），但因要宰杀牲畜、切割肉食，都十分粗大笨重，从而引申指粗疏、笨拙（分化如「伹」）；或引申指阻隔、封闭（分化如「阻」）；或引申指不前（趑趄）。俎的作用在于放置肉食，引申指凭借、姑且、暂且，或指相合、相依（分化如「㡹」）；在俎上切割熟肉块时又烫又流汤汁，故设置有凹槽或镂空以滤汁，由此引申指暑热（《尔雅》「六月曰且」）、低湿潴留（分化如「沮」）。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "且：辨证与音源",
+      "statement": "《说文》：「荐也。从几，足有二横，一其下地也。」认为其为俎的立面形，貌似有理；但从二「肉」的「宜」，明显是指将肉块摆在其上，若是立面的就说不通，故析形不确。另有神主说（强运开《说文古籀三补》「盖象木主之形」）、男性生殖器说（陈仁涛《金匮论古初集》「且非直接象生殖器之形，而为间接象业也神主化之生殖器之形」）、坟冢说、亭子说、祖庙说等，不一而足；作者原作铸范说，今予订正。音源为在俎上切割时发出的砍斫声。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "且：字族（开始、凭借、佐助）",
+      "statement": "①指俎用，表示开始、凭借、佐助：祖为奉祀祖先的宗庙，又指父之父、道祭、始、法、本、上、盘旋而上、远；姐为蜀地称母（淮南谓之社），又指弟呼女兄、娇、色白好、女态；租为田赋、按田亩收谷、积聚、包裹；蒩（藉）为茅藉、草席、鱼腥草；助为佐辅；耡为商时税法名、耕耡；锄（鉏）为立薅所用即站着除草之锄，《释文》「助也，去秽助苗也」，又指诛、鉏铻（相距貌）、鉏牙（物旁出、参差不齐）；㡹为人相依。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "且：字族（粗疏、宽长、阻隔）",
+      "statement": "②指俎形大，表示粗疏：豠为豕属；驵为公马、配种马、马匹交易经纪人（《玉篇》「驵犹麤也」）、骏马、丝带、阻；伹为笨拙迟钝、浅；俎为行礼时盛放牲体的器具（金文从且从爿或几）；粗（麤、觕）为糙米、粗粮、大、疏、物不精、略；麆为幼獐，关中谓小儿为麆子；飷为食无味；䔃为菜即鱼腥草；𤿚为皮肤粗糙皲裂。③指俎面宽，表示宽而长：鴡（雎）为王鴡即鱼鹰（好在江渚食鱼、翅宽大如俎）；组为宽而薄的丝带（作佩印佩玉之绶）、海带；抯为挹取（南楚取物沟泥中谓之抯，五指俱往叉取）；𪆷为白鹭（《尔雅》作舂鉏）。④指俎的高大沉重，表示阻隔、支撑：柤（查、樝）为木栅、行马、水堰等拦阻物，又指山楂、药滓、渣滓；岨（砠、阻）为石山戴土、险阻、山形；趄为徘徊不前；诅为求神加祸于人（《释名》「阻也，使人行事阻限于言也」）、盟誓；阻（础、跙）为险峻、地势不平、隔、止、难；笡为斜柱；怚为骄、妒、心不精（通粗）、剧、阻塞；䢸为地名（今陕西户县）；跙为行不进、足利、行不正、侧脚而立；䃊为磨。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "且：字族（纹饰、盛肉）",
+      "statement": "⑤指俎的纹饰，表示凸起的花纹、美好：珇为琮玉上的浮雕花纹（《字汇》「珪琮之瑑凸起也」），又指美好、玉文、玉名；靻为马笼头、马笼头上当额的金饰；袓为爱好、爱美、色白；𡎬为好貌。⑥指俎的盛肉状，表示蕴含肉或食物在其中：䏣为苍蝇生卵在肉中即「蛆」；蛆为蝇类幼虫，又指蜈蚣（蝍蛆，能食蛇脑）、水蛆、雪蛆；殂为往死；䢐（徂）为往；坥为蚯蚓的粪便、堤塘；疽为深陷的块状恶疮；沮为河名（出汉中房陵东入江）、止、非、败、坏、疑、沮洳（渐湿）、小流、县名；咀为含味、咀嚼、㕮咀（配药方、商量斟酌）；龃（䶥）为龃龉（齿不相值）、啮、嚼、齿不正；罝为兔网（《尔雅》「兔罟谓之罝」，郭注「罝犹遮也」）；𧗎为肉酱；狙为猕猴一类、犬伺机猝出咬人、窥视伏击；苴为鞋中草垫、麻、麻之有子者、苞苴、苴杖、水中浮草、枯草、猎场、糟魄、不真物、酢菜、藉；菹（葅）为腌菜（《释名》「阻也，生酿之，遂使阻于寒温之间，不得烂也」）、泽生草。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "虘：本义与转义",
+      "statement": "虘从虍从且：且指俎，虍指虎口，象意用虎纹装饰的俎；或指俎面的形制如张开的虎口，疑指周代的房俎。《礼记·明堂位》：「俎，有虞氏以梡，夏后氏以嶡，殷以椇，周以房俎。」郑玄注：「房谓足下跗也，上下两间，有似于堂房。」孔颖达疏：「其制，足间有横，下有跗，似乎堂后有房。」案上有两块竖立的面板象墙壁，故称房俎。由于虘也是指一种俎，与且基本上可以通用（如樝通柤、㜘或作怚、诅或作謯）；这种俎装饰华丽，故引申指华丽的色彩（分化如「𪓐」，《说文》「合五采鲜色」）。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "虘：辨证与音源",
+      "statement": "《说文》：「虘，虎不柔不信也。从虍且声。」虍本指俎的形制，《说文》误解其为虎的样子，故析义不确，实际运用以及衍生字的用义中也与虎没有关系。另外由于「且」与「旦」形相近，指木俎的「柤」或讹写作「查」（《正字通》「柤，俗作查」），因此如「樝」也或写作「楂」；「查」又指树木砍伐后留下的残桩，或指树上挂着红日一般的圆果即山楂，故其字族须据字义辨析区分。音源上，所从「虍」应跟「虚、卢」一样为声符，不是指老虎，而是表示象虎一样张开血盆大口而已；本应归入《虍部》，为便于与其它从且的字比较故置于此。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "虘：字族",
+      "statement": "①指虘足状，表示抓取、布指、背曲：𠭯为从高处用手向下取物、伸开拇指中指或食指量长度；𤹡为疮或伤口的结痂、驼背；𣻐为东沮水（源出陕西黄陵西子午岭、洛河支流）；䣜为县名（今河南永城西南）。②指虘上竖板状，表示相觑、相妒、相咒：覰为不细致周密、相互窥视偷看；𡳆同覰、行前却；㜘（怚）为骄矜、嫉妒、女名；謯为娽、古诅字（《前汉·孝成许皇后传》「祝謯后宫有身者」颜师古注「謯，古诅字」）、咏、言戾、诃貌。③指虘用，表示凭借：蔖为蓾蔖（草名，可苴履，即蒯类）、草死、水芹。④指虘的装饰华丽，表示鲜明：𪓐为合五采鲜色（《玉篇》「今作楚」）、鲜明整洁貌。⑤形近字「查」之讹：䶥为牙齿不整齐、龃龉、五彩鲜明（应为𪓐之讹）；樝（楂）为山楂（果红有白点、味酸涩、树皮粗糙）；齇为鼻上红色小疮即酒渣鼻；𥡧为红稻。",
+      "boundary": "源自《系统汉语》第599部「且部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "巨：本义与转义",
+      "statement": "巨西周金文从大（人）持壬：壬指经纱，经纱直，以一手持之，故不是指据织，而是指手持线绳测量，故指规矩（《说文》「规巨也」）。用线绳来测量之物，自然是因为所量物体太大或太长、不便尺量，故引申指大义（《玉篇》「大也」），或引申指没有尽头（《集韵》「未央也，通作腒」）。",
+      "boundary": "源自《系统汉语》第600部「巨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "巨：辨证与音源",
+      "statement": "由于「壬、工」形近，故《说文》以其从「工」。巨为借音字：因有周绕意，而义音同「丩」——《庄子·田子方》「履句屦者知地形」，《释文》「句，音矩，李云：方也」；因有大义，或音义同「且」——《史记·孔子世家》「宦者雍渠参乘出」之「雍渠」，《韩非子》作「雍鉏」、《战国策·卫策》作「痈疽」、《说苑·至公》作「雍雎」。",
+      "boundary": "源自《系统汉语》第600部「巨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "巨：字族（距离、抵拒）",
+      "statement": "①指测量时的由此及彼，表示距离、抵拒：距为鸡腿后面突出象脚趾的部分（斗则用距），凡刀锋倒刺皆曰距，又指鬓曲头（《释名》「距，拒也，言其曲似拒也」）、至、违、困、与拒同；𧣒（𧣻）同距，又指角似鸡距的兽；鮔为鱼名、鸡距；讵为岂、怎、不料、哪知、止、至、格；歫为止、抵拒、支撑、跳跃、违、戾；矩（榘）为画直角或方形用的曲尺、法、直角；拒为抵挡抵抗、方阵；姖为吴姖山名、黄姖之尸；怇为恐惧、傲慢；𧺹为行貌。",
+      "boundary": "源自《系统汉语》第600部「巨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "巨：字族（环状缠束）",
+      "statement": "②指测量时的周绕，表示环状、缠束：䶙为牙龈肿大、齿不固；蚷为商蚷即马陆（北燕谓之马蚿，多足、常圈成车轮状）；粔（𪌖）为粔籹即膏环，象环钏形（类似今天的麻花、馓子）；㷡为目惊貌；𥄷（𥈋、䀠）为惊视貌；䣰（醵）为合钱饮酒；𤦲（璩、鐻）为环属、戎夷贯耳、耳环；苣为束苇烧即火炬，又指莴苣、白苣、苦苣、巨胜（黑胡麻）；炬为火把；柜为柜柳（枫杨，树皮柔韧可作绳编筐），今作「櫃」的简化字；昛为暗、明；洰为水中物多、同渠、水名；𦊐为渔网；煚（煛）为火名、日光；菃为人名；𧲽为蟪蛄（一种蝉）；𩉸为马鞍。",
+      "boundary": "源自《系统汉语》第600部「巨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "巨：字族（大与形近之讹）",
+      "statement": "③指大：钜为坚硬的铁、巨大（今作巨）、尊者通称、钩钜、岂；駏为駏驉（騾为牝马为牡所生，比驴大比马强壮但不能繁殖）；秬为黑黍（一稃二米、以酿）、言其巨大意；岠为大山；䢹为亭名、聚名；奆为甚大；弡为强勇、古文张字；𩿝为鸟名、鸠。④形近字「匡、臣、㠯、呈」之讹：𨳽（𨴑）为门框（从巨者乃匡之讹）；𢼑（𢼳）为圃之四围；䋌（䋗）为绢（其丝䋌厚而疏）；𧩆（𧭅）为责；耟（耜）疑指锄耜之类农具；𣵹（浧、塣）为沉、涂泥、通、殿。",
+      "boundary": "源自《系统汉语》第600部「巨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "渠：本义与转义",
+      "statement": "渠从水从巨从木，巨亦声：巨、木即大木，从水象意泄水的木槽。由水槽引申指人工开凿或修建的水道（《说文》「水所居」、《广雅·释水》「坑也」）；或引申同巨指大（渠帅、渠魁）；或指彼、他（渠辈、渠侬）；或作代词表疑问反问（同讵）；由渠水的周绕引申指圆形的东西（《周礼·冬官考工记》「谓车辋为渠」，车轮的外圈），或指荷叶为「夫渠」。",
+      "boundary": "源自《系统汉语》第600部「巨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "渠：字族",
+      "statement": "①指与水渠有关：𪆫（𪆂、𪆺）为𪄉𪆫即鹡鸰（飞则鸣、行则摇），或指池鹭（栖息渠边）；𧕎（蟝、螶）为蜉蝣（朝生暮死、猪好啖之）。②指相距：㣄为弓力强貌、弓弰（弓的末梢）；𠍲（佢）为吴人呼彼之称，他。③指环、圆状：𦄽（𦂘）为彩色丝织品、鞋缘装饰；蕖为荷（芙蕖）、石蕖、芋；璖（璩、𤦲）为耳环，或同磲。④指大：䝣为䝣獀（食猛兽之兽）；磲为砗磲（软体动物，比蛤蜊大、介壳略呈三角形，可做器物装饰，亦作「车渠」）；𣯸（氍）为织毛蓐即地毯；𡡥为女字。",
+      "boundary": "源自《系统汉语》第600部「巨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "麤：本义",
+      "statement": "麤甲骨文本从鹿的二叠。鹿较之一般动物有三大特点：一是雄鹿的角呈枝杈状、常相角斗；二是腿细长、善于奔跑；三是作为体量较小的食草动物为防备天敌十分小心。二叠表示极致，故象意有三：一表示跑得快而远（《说文》「行超远也。从三鹿」）；二表示角的特别粗大（《玉篇》「大也、疏也」）；三表示十分警惕（《广韵》引《字统》「警防也，鹿之性相背而食，虑人兽之害也，故从三鹿」）。同时也可象意鹿的多，指鹿群。",
+      "boundary": "源自《系统汉语》第601部「麤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "麤：转义与音源",
+      "statement": "由鹿角的粗大引申指粗糙、粗劣（《玉篇》「不精也」）。麤为借音字：因有粗大义，而音义同「粗」（《六书正讹》「麤，俗作麄、觕，通用粗」）。",
+      "boundary": "源自《系统汉语》第601部「麤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-99-qie",
+      "title": "麤：字族",
+      "statement": "字族多指粗糙、粗劣：𧆓为草鞋；𪋻（尘）为鹿行扬土即尘土（义音同「尽」，《玉篇》「埃𪋻也，今作尘」）；麁为疏、大、物不精；𥼡为米不精。",
+      "boundary": "源自《系统汉语》第601部「麤部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
