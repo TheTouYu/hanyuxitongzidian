@@ -371,17 +371,27 @@ function detectChar(question) {
 }
 
 const CARD_SECTIONS = [
-  { key: 'zixing', field: '字形', label: '字形' },
-  { key: 'zigen', field: '字根', label: '字根' },
+  { key: 'jielun', field: '结论', label: '结论' },
+  { key: 'zigen', field: '字根', label: '先释字根' },
   { key: 'benyi', field: '本义', label: '本义' },
   { key: 'zhuanyi', field: '转义', label: '转义' },
   { key: 'yansheng', field: '衍生', label: '衍生字义' },
+  { key: 'duizhao', field: '对照', label: '横向对照（按义类分组）' },
+  { key: 'zixing', field: '字形', label: '字形' },
+  { key: 'xiaojie', field: '小结', label: '一句总结' },
 ];
+
+// 固定栏序：结论 → 分级 → 声母义 → 先释字根 → 本义 → 转义 → 衍生字义 → 横向对照 → 字形 → 一句总结
+const CARD_ORDER = ['jielun', 'fenji', 'shengmu', 'zigen', 'benyi', 'zhuanyi', 'yansheng', 'duizhao', 'zixing', 'xiaojie', 'zuyu', 'other'];
 
 const CARD_PROMPT = `你是《系统汉语》字卡的编辑。只依据下面给出的知识条目填写字卡，条目以外的内容一个字都不许加。
 
 只输出严格 JSON，不要代码块标记，不要解释：
-{"字形":"…","字根":"…","本义":"…","转义":"…","衍生":"…"}
+{"结论":"…","字根":"…","本义":"…","转义":"…","衍生":"…","对照":"…","字形":"…","小结":"…"}
+栏序与写法（按此顺序填）：结论 → 字根 → 本义 → 转义 → 衍生 → 对照 → 字形 → 小结。
+- 结论：两三句，先回答「这个字是什么字、本义是什么」，让读者不往下看也得到答案；不要复述栏目名。
+- 对照：把条目里已有的「横向对照（按义类分…）」原句整理成分组串写，按 ①②③ 分行；组内写「字（形符）落点」；没有对照材料就写「暂无」。
+- 一句总结：一句话收拢这个字的声符给义、形符定落点的关系，不要重复结论。
 
 填写要求：
 0. 分级：字卡最前面「分级」一栏由系统按全书结构判好（一级字根＝部名；部内能再滋生新字者为二级、三级字根；其余为谐声字），你不得改动、不得另立级别。填「字根」一栏时先交代该字属于哪一级、由哪个字根衍生，再讲字根义如何进入这个字。
@@ -462,8 +472,8 @@ function briefOf(claim) {
 
 // 没有模型（或模型失败）时的确定性字卡：按条目原文归类
 // 字根一栏不在这里分桶，由 zigenFallback() 单独拼，避免出现两个「字根」
-function fallbackSections(claims) {
-  const defs = CARD_SECTIONS.filter((d) => d.key !== 'zigen');
+function fallbackSections(claims, ch) {
+  const defs = CARD_SECTIONS.filter((d) => !['zigen', 'jielun', 'duizhao', 'xiaojie'].includes(d.key));
   const buckets = new Map(defs.map((s) => [s.key, []]));
   const other = [];
   for (const c of claims) {
@@ -491,6 +501,28 @@ function fallbackSections(claims) {
       text: rest.map((c) => `**${c.title}** [${c.id}]`).join('\n\n'),
       cites: rest.map((c) => c.id),
     });
+  }
+
+  // 结论：把这个字自己的本义条的第一句提出来，不读下文也能得到答案
+  const bc = claims.find((c) => String(c.title || '').startsWith(ch)) || null;
+  if (bc) {
+    const body = String(bc.statement || '')
+      .split('#### 适用边界')[0]
+      .replace(/^#+\s*/gm, '')
+      .replace(/^\s*[^\n：:]{0,30}[：:]\s*(?=\S)/m, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const first = (body.split(/(?<=[。；])/)[0] || body).slice(0, 130);
+    if (first) secs.unshift({ key: 'jielun', label: '结论', text: first, cites: [bc.id] });
+  }
+  // 横向对照：条目正文里已经写好的「横向对照（…）」原句，摘出来单独成栏
+  const dz = [];
+  for (const c of claims) {
+    const m = String(c.statement || '').match(/横向对照（[^）]*）：[^\n]+/);
+    if (m) dz.push(m[0].trim());
+  }
+  if (dz.length) {
+    secs.push({ key: 'duizhao', label: '横向对照（按义类分组）', text: dz.slice(0, 3).join('\n\n') });
   }
   return secs;
 }
@@ -934,7 +966,7 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   }
 
   if (!sections && direct.length) {
-    sections = fallbackSections(direct);
+    sections = fallbackSections(direct, ch);
     mode = 'fallback';
     if (rootInfo) {
       const zi = zigenFallback(rootInfo, rootClaims);
@@ -988,6 +1020,12 @@ async function handleCard(emit, res, question, ch, ip, meter) {
     log('判级失败:', e.message);
   }
 
+  // 栏序固定：结论 → 分级 → 声母义 → 字根 → 本义 → 转义 → 衍生 → 对照 → 字形 → 小结
+  const rank = (k) => (CARD_ORDER.indexOf(k) === -1 ? 99 : CARD_ORDER.indexOf(k));
+  sections = sections
+    .map((s, i) => ({ s, i }))
+    .sort((a, b) => rank(a.s.key) - rank(b.s.key) || a.i - b.i)
+    .map((x) => x.s);
   emit({
     type: 'card',
     card: {
@@ -1341,6 +1379,7 @@ const server = createServer(async (req, res) => {
         trial_limit: TRIAL_LIMIT,
         trial_budget_yuan: TRIAL_BUDGET_YUAN,
         daily_cap: DAILY_CAP,
+        site_url: process.env.SITE_URL || '',
         tiers: Object.values(TIERS),
       });
     }
@@ -1451,6 +1490,14 @@ const server = createServer(async (req, res) => {
       if (sub === 'gift' && req.method === 'POST') {
         const ok = shop.markGiftSent(body.member_id);
         return sendJson(res, ok ? 200 : 404, { ok, error: ok ? undefined : '没有这个会员' });
+      }
+      if (sub === 'rebind' && req.method === 'POST') {
+        try {
+          const out = shop.bindCode(body.member_id);
+          return sendJson(res, 200, { ok: true, ...out });
+        } catch (e) {
+          return sendJson(res, 400, { ok: false, error: e.message });
+        }
       }
       return sendJson(res, 404, { ok: false, error: 'no such admin api' });
     }
