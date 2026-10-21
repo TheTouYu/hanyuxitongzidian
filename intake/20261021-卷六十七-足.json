@@ -1,0 +1,1307 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷六十七 足（407.足部至411.㝵部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "「足」象整条腿形，含脚、掌、趾，音源足踏声",
+      "statement": "本卷音源字为「足」，象整条腿形，包括脚、掌、趾；音源字，其音源自足踏声。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/67a-zu.md",
+      "topic_title": "卷六十七·足",
+      "topic_summary": "《系统汉语》卷六十七「足」第407–411部（p1161–p1182）：407 足部（p1162）、408 步部（p1165）、409 止部（p1170）、410 之部（p1178）、411 㝵部（p1182）；第八章「子」内。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足是负重与运动器官，「充足」「满足」义源于足虽小而托起全身",
+      "statement": "足是人和某些动物身体最下部接触地面的部分，是重要的负重器官和运动器官。「足」在汉语中之所以有充足、满足、值当的含义，就是因为足虽小，而能托起并移动全身。同时，凡在下面起着承重作用的物体结构，包括植物的根部，都被称之为足。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "双足承重能力惊人：一生触地超千万次，50 公斤者每日累积承受数百吨",
+      "statement": "据研究统计：现代人类一生之中，双足平均触地次数超越 1000 万次以上；双足具有惊人的承重能力，一个 50 公斤体重的人，双足每日累积承受的总压力竟在几百吨上下。仅中国汉字与「足」关联的字就有一百多个（跃、跌、蹠、踩、跑、跳、跪、踌、踢、躥、躑、踹、踴、蹈、蹺、蹲、蹭等），大多具备动势感及寓意；有关足的连续行走记录是 6 天行走 574 公里，连续奔跑记录是 5 天跑完 568 公里。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足的生理结构完美服务于承重与运动：弓形脚板、可抓挠足趾、厚脚垫、坚硬脚胫",
+      "statement": "在生理结构上，足的结構完美地服务于承重与运动：弓形的脚板，平稳而富有弹性；足趾可以自由运动，能够抓挠；厚厚的脚垫，能够减轻体重的压力，产生反弹，避免地面物质的伤害；坚硬的脚胫能够承担庞大的躯体；粗壮的大腿肌肉厚实，能够提供充足的运﻿动能量；灵活的踝关节、膝关节、胯关节将它们连为一体。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "每足 26 块骨、33 关节、20 肌肉、114 韧带，足底为「第二心脏」",
+      "statement": "人的每只足上具有 26 块骨头、33 个关节、20 条大小不同的肌肉，并有 114 条坚强的韧带，以及无数灵敏的神经与丰富的血管。人的足底存在着几乎所有体内脏器官的反射区，连结着人体 12 条经络中最重要的 6 条（脾经、胃经、膀胱经、肾经、肝经、胆经），故有「足底是反映全身的镜子」之说；足底处于人体末端，因远离心脏而供血不足，反复刺激按摩足底可促进血液流畅，故足又被称作人的「第二心脏」，中国自古便形成独特的「濯足」习俗，除医疗养护外亦有净礼仪式含义。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "手足分工：前肢靠近头嘴、在猎食中作用大，终成直立动物",
+      "statement": "手与脚本来都承担着足的功能，前肢因靠近头部嘴边，相对于后腿而言在猎食过程中所起的直接作用要大。人类最初大约跟猴类差不多，以采集果木为食，前肢多用于猎食和采集，很少起到承重的作用，从而最终实现了手足的分工，成为直立动物。因此跟「足」相关意义的字根如「之、止」等，其字族所指除承重、支撑、移行等义外，仍或跟握持等指手的行为重合。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足声受地面、鞋质与运动方式影响，又与杵的捶击声、扫帚的打扫声近似",
+      "statement": "但足只有在走动时才会发出声音，且其声音受被踩的地面以及足所穿鞋子的质地、和足运动方式的影响，声音都会有差异；同时还跟「杵」的捶击声、扫帚的打扫声等近似，自然也会因此重合。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "鸟足尖锐者音义同「矢」，古之、矢可通，本可归《矢》而并入《足》",
+      "statement": "另外，一些动物如鸟类的足以及指头则是尖锐的，因此音义同「矢」。古之、矢可通：《诗·小雅·采薇》「莫知我哀」，「知」《盐铁论·备胡》引作「之」；《诗·邶风·静女》「搔首踟躕」，「踟躕」《说文系传》引作「歭」。则本可归入《矢》，但为了方便辨析，故归并在《足》。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "「止、之、足」皆与足直接相关，「㝵」因有碍止义音义同「止」",
+      "statement": "因此本卷的字根「止、之、足」都跟足直接相关；而「㝵」因有碍止之义，故音义同「止」：《集韵》「特，《说文》：『朴特，牛父也。一曰独也。』或作犆、𤙰」。",
+      "boundary": "源自《系统汉语》卷六十七「足」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足本义：甲骨文象人的整条腿形，包括大腿、脚、掌、趾",
+      "statement": "足（𠯁𤴕）本义：甲骨文象人的整条腿形，包括大腿、脚、掌、趾，后来腿、脚部分写如「口」形。zú，《说文》「人之足也，在下，从止口」；徐锴曰「口象股胫之形」。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足转义：器物之脚、植物之根、事物基础",
+      "statement": "足起支撑、基础作用，从而引申指类似的器物的脚、植物的根茎、事物的基础，如鼎足、葵足、山足。《尔雅》「二足而毛谓之禽，四足而毛谓之兽」「款足者谓之鬲」，分别指鸟脚、兽脚、器物的脚。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足转义：足够、满足、增益过分（足恭）",
+      "statement": "相对于整个躯体而言，足为小部分而能承载大部分，故引申指足够、满足（《广韵》「满也。止也」），或引申指使足够，即增益、过分（jù，《集韵》「足恭，便僻也」；《广韵》「足添物也」，增加、接连）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足转义：两足等齐（珿）、迫促（促）",
+      "statement": "由两足的一样长短、并拢之状，引申指等齐，此义分化如「珿（chù）」（《玉篇》「等也、齐也」）；或引申指迫促，此义分化如「促（cù）」（《说文》「迫也」）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足音源：源自足踏声；字族①两足距离，表示迫促、催促",
+      "statement": "音源：音源字，源自足踏声。字族①指两足距离，表示迫促、催促、急促：促（急迫、近、短、催）、趗（趢趗，局小貌、小步）、𤗁（迫）、㹱（宋良犬）、䛤（言急）、𥞺（今年稻死来年自生，即由根部再生之意）、齪（齷齪，局促拘谨，今指不干净，疑本指牙缝的藏垢）、娖（谨慎）、捉（握持，使相促及）、哫（哫訾，以言求媚）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足字族②两足长度，表示齐整相等；③足之大小，表示小",
+      "statement": "字族②指两足长度，表示齐整、相等：𩈤（齐）、䎌（羽齐貌）、珿（等也、齐也）、䇍（齐谨）、𡷿（山名）。③指足的大小，表示小：𧯩（小豆）、𥒭（小石）、𪕝（𪕝鼩，小鼠）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "足字族④与足相关的行为：浞、踀、踑、躓、蹴、鋜等",
+      "statement": "字族④指与足相关的行为：𥷼（掌子）、莡（行草声）、浞（沾湿）、踀（绊足；谨小慎微）、踑（居、踞之或体）、躓（绊倒）、蹴（踢、踏）、鋜（锁足、足钤）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疋本义：「疋、足」本同源",
+      "statement": "疋（匹疏雅𤴓𨑜）本义：「疋、足」本同源。shū，《集韵》「足，古作疋」；《说文》「疋，足也。上象腓肠，下从止。《弟子职》曰：『问疋何止。』古文以为《诗·大疋》字，亦以为足字，或曰胥字。一曰疋，记也」。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疋转义：走脚的小吏；站立（雅）；正；匹配（匹）",
+      "statement": "转义：足是行走的器官，故引申指走脚、做事的小吏（《段注》「此亦谓同音叚借，如府史、胥徒之胥，径作疋可也」）；足是动物得以站立的器官，故引申指站立（yǎ，《广韵》「待也」），故或引申指正（《尔雅》「雅本作疋」，《字汇》「𤴓，正也」）；正常的两足大小长短相当，故引申指匹配（pǐ，《广韵》「匹，俗作疋」）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疋字族①行走、疏通：疏、蔬、𤴙（窗户）、𤕟、䝪、㽰、㿿、揟、梳、疏",
+      "statement": "字族①指足的行走，表示疏通：疏（通、稀疏、阔、非亲、粗）、蔬（草菜可食者通名为蔬）、𤴙（门户疏窗，亦滤酒器具）、𤕟（通达）、䝪（送财礼占卜问神）、㽰（清疏）、㿿（酒器，通雅）、揟（滤水、取鱼）、梳、疏（条陈）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疋字族②匹配（同匹）：𦙬、𠰊；③形近「必」之讹：𧠣",
+      "statement": "字族②指匹配，同「匹」：𦙬（牡𦙬，肚肥）、𠰊（𠯔𠯔，吐唾沫的声音）。③形近字「必」之讹：𧠣（覕字之讹，视）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "楚本义：从林从疋，象牡荆（枝条横生柔韧易绊足）",
+      "statement": "楚（椘檚䠂）本义：从林从疋。「林」指林木，从「疋」指其绊足，象意牡荆。牡荆是一种落叶乔木，喜欢生长在山坡路边，而又枝条横生，柔韧性好，所以容易绊足。chǔ，《说文》「丛木。一名荆也。从林疋声」。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "楚转义：荆楚之地、杖笞痛楚、茂密、鲜明整洁（清楚）",
+      "statement": "转义：两湖地区多丘陵山地，山麓路边最常见的就是荆，故古称其为「荆」或「楚」（《书·禹贡》「荆州之域，周熊绎始封」）；荆条柔韧，古代或用其作为刑具，故引申指杖笞、痛楚之意，如捶楚、苦楚、酸楚（《礼·学记》「夏楚二物，收其威也」）；由牡荆生长繁盛之状引申指茂密（楚楚，盛密貌）；牡荆可以染黄，故引申指鲜明、整洁之意，如清楚（楚楚，鲜明貌）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "楚辨证：《本草纲目》以「疋即疏字」释楚，然荆实成丛茂密，其说不可据",
+      "statement": "辨证：或以「楚」字的从「疋」，是因为牡荆长得疏朗（《本草纲目》「其生成丛而疏爽，故又谓之楚（从林，从疋，疋即疏字也），济楚之义取此。荆楚之地，因多产此而名也」）。「疋」虽有疏义，但它是由足的行进义而引申来的，并非其本义；而且从荆的生长特点来看并不疏，而是成丛的、茂密的，应不确，录以备参。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "楚字族①绊足，表示阻碍滞涩；②笞打，表示呵斥痛楚",
+      "statement": "字族①指楚的绊足，表示阻碍、滞涩：础（柱脚石）、𨆄（行不正、马蹄痛病）、濋（大水溢出别为小水之名）、璴（似玉之石）、𨼪（斜坡）、儊（不滑）。②指楚的笞打，表示呵斥、痛楚：𠿝（呵叱人）、齼（齿伤醋，即牙根酸楚）、憷（痛、心利）、𤻇（痛楚）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "胥本义：从肉疋声，象腿部肌肉",
+      "statement": "胥（𦙃𣆁）本义：从肉疋声。「肉」指肌肉，「疋」指腿，象意腿部肌肉。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "胥转义：腿肉最精实，喻才智小吏；引申全面、辅助、观察",
+      "statement": "转义：腿部肌肉是动物身上最紧实、最精美的部分，由此比喻指富有才智而靠走脚跑腿的下层小官吏（《集韵》「胥，什长也，有才智者」）；小官吏什么事都得去亲历亲为，故引申指全面、辅助、观察（《尔雅》「皆也」「相也」，《广韵》「助也」）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "胥辨证：《说文》「蟹醢」实为腿肉义的引申，非本义",
+      "statement": "辨证：《说文》「蟹醢也。从肉疋声」，《释名》「蟹胥，取蟹藏之，使骨肉解之，胥胥然也」。螃蟹肉除了腹内的肉容易吃到外，剩下的就是腿肉（包括螯）；由于腿肉有硬壳，很不方便吃，古人便采取将其捣碎成酱的办法予以食用。因此《说文》所指的「蟹醢」，其实是「胥」的腿肉义引申，并非本义，《释名》所解应不确。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "胥字族①腿肉，表示精美才智（糈、湑、醑、諝、㥠）；②腿行（婿）；③腿状长条；④本应作楚",
+      "statement": "字族①指腿肉，表示精美、才智：蝑（蜙蝑，以翅膀摩擦发声的虫，古人以为其大腿相切摩而发声；亦指蟹醢）、糈（祭神精米）、稰（熟获、晚稻）、𧶳（送财礼卜问）、𥚩（祭品）、揟（滤取水中渣滓）、湑（滤酒去渣、疏浚、露水）、醑（滤酒、美酒）、諝（才智、欺诈）、㥠（才智）、縃（同胥）。②指腿行，表示善于走动：𨍐（车下）、婿（丈夫）、𤟠（猿属）。③指腿状，表示长条如腿的东西：䱬（黄鳝）、䈝（竹名，其节疏）、𡹲（山名）、𦠷（烟囱）、楈（椰子树、犁）。④本应从楚，指痛楚：𪙀（齿酸）、𤸀（痛病，𤻇的讹字）。",
+      "boundary": "源自《系统汉语》第407部「足部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "步本义：象一前一后两脚印形，象意徒步行走",
+      "statement": "步（歨歩）本义：象一前一后两脚印形，象意徒步行走。bù，《说文》「行也。从止𣥂相背」。也可视为「止」的二叠，表示脚印多；或作三叠为「歮」，四叠为「歰」，意思相同。或象意许多人行走，此义分化作「徙」；或象意行走艰难，此义分化作「歰」；或象意走得快，此义分化作「奔」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "步转义：六尺为步、缓慢徐行、码头（埠）、地步、追随",
+      "statement": "转义：由行走时脚步之间的距离，引申指六尺（《玉篇》「六尺为步」，《小尔雅》「跬，一举足也；被跬谓之步」，古指两足各跨一次，按今天说法实际是两步的距离）；由步行之状引申指缓慢、徐行（《释名》「徐行曰步」）；赤足之印常见于泥泞沙滩，故或引申指停船的码头（《正字通》「水际渡头曰步」）；由行走所至引申指时运、境地，如「地步」；通过脚印可以追踪对方，故引申指跟随、追随，如「步韵」「步其后尘」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "步音源：源自脚步声，义音通「甫」（酺或为步）",
+      "statement": "音源：音源字，源自脚步声。义音通「甫」：《周礼·族师》「春秋祭酺亦如之」，郑玄注「故书酺或为步」；「酺」《广韵》「大酺，饮酒作乐」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "步字族①步行，表示踩踏、徒步：荹、踄、涉、捗、埠、陟、騭等",
+      "statement": "字族①指步行，表示踩踏、徒步：荹（被牛马踩过的乱草）、踄（蹈、步行）、涉（徒步过河；经历、度过）、捗（收敛；打）、埠（码头）、𩣝（习马，今作步）、𨛒（亭名，供旅人暂时歇息处）、㻉（步摇，古代妇女附在簪钗上的首饰）、趣（疾、向）、陟（登、升、进、高）、騭（公马；定、升；乘马登山）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "步字族②一步之距；③脚印之状，表示宽扁",
+      "statement": "字族②指一步之距：㾟（病复发）、䑰（艇短而深者）。③指脚印之状，表示宽、扁：𩊶（履；鞴靫，箭室；车軾上的覆盖装饰）、𦁗（缯属）、䤮（铁；金饰）、𤫻（盛醋器）、𩷖（鱼名）、𥹴（餹餔，饵）。④形近字「乞」之讹：𣦖（乾，不湿）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "徙本义：从行从步，象大道上人来人往（徜徉徘徊），或成群迁移",
+      "statement": "徙（𢓊𡕝𡲴𨑭𨔀𨖤𨗬）本义：从行从步。「行」指大道，「步」指徒步，象意大道上人来人往，表示徜徉、徘徊（《广雅》「仿佯，徙倚也」）；或象意行人的成群结队，表示迁移。「行」或省作「彳、亍」，「步」或省作「止」，义同。《说文》「𨑭，迻也。从辵止声」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "徙转义：躲避、谪戍、流放；音源为群体行走脚步声，义音同「师」",
+      "statement": "转义：由迁移引申指躲避、谪戍、流放（《玉篇》「移也、迁也、避也」）。音源：音源字，源自群体行走的脚步声，义音同「师」：《集韵》「籭，《说文》：『竹器也，可以取粗去细。』或作簛、簁、筛」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "徙字族①迁移，表示成群移动、众多：縰、蹝、漇、褷、簁（筛）、蓰、屣等",
+      "statement": "字族①指迁移，表示成群移动、众多：縰（韬发者、縰縰众多貌）、蹝（舞履）、漇（润、流貌）、𢇌（小貌）、褷（毛羽衣貌）、㿅（癣，移徙处自广故青徐谓癣为徙）、簁（竹筛，晃动时米粒集体移动故从徙）、蓰（物数，五倍曰蓰；疑本指五倍子，其状如足）、𣯪（毛垂貌）、𣘩（肉案）、𥊂（寻视）、屣（皮鞋、拖着鞋走）、嘥（浪费、糟蹋）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "歮（歰）本义：止之三叠、四叠，象脚步纷乱杂多，表示滞缓",
+      "statement": "歮（歰𣥒）本义：「歮」与「步」本同源，但由于人有两足，因此「步」可视为独体字，「止」的叠体则三叠作「歮」、四叠作「歰」。「止」指脚印，叠体表示极致，象意脚步纷乱、杂多，既可表示人多步伐乱从而行走滞缓，sè，《说文》「歰，不滑也。从四止」；也当可表示快走（此义分化作「奔」），或来往次数多（此义分化作「频」）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "歰转义：转不动、流不畅、说不顺、咽不下",
+      "statement": "转义：由行走的滞缓，引申指转不动、流不畅、说不顺、咽不下（《玉篇》「难转也」，《博雅》「吃也」，《正字通》「水涸行艰谓之歰，味苦歰亦谓之歰」）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "歰辨证：𡿺（𡿺）古字楷化后与歮相近而混同",
+      "statement": "辨证：可能是由于𡿺（𡿺）的古字形楷化后跟「歮」相近，导致「𡿺」或混同「歮」，如「𦠊」《正字通》「俗匘字，因《考工》𠜶字而讹」，不过现已多被淘汰。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "歰音源：源自脚步移动声，因脚步相接义音同「妾」",
+      "statement": "音源：音源字，源自脚步移动声；因脚步相接，而义音同「妾」：《集韵》「歰，与翣同，棺羽饰也」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "歰字族①滞缓，表示不顺畅受阻多杂：譅、涩、馺、㒊、䔼、𢡉等",
+      "statement": "字族①指滞缓，表示不顺畅、受阻、多而杂乱：譅（言甚多、言不止、说话结巴）、涩（不滑溜、不快、说话迟钝、生锈、道路险阻）、𢕬（行貌；行不进）、㒊（不及、言不止、疾貌）、䔼（草声；香菜）、𢡉（吝啬）、𣚟（木茂貌）、𤖗（殳立貌）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "歰字族②形近「𡿺、惢」之讹：𧴎（貉）、㛴（恼）、匘（脑）、𤊲（热）、𤷻（病）、碯（玛瑙）、蕋（蕊）",
+      "statement": "字族②形近字「𡿺、惢」之讹：𧴎（貉，唯一会冬眠的犬科动物，古人称其善睡）、㛴（恼，有所恨）、匘（脑，头髓）、𤊲（热貌）、𤷻（病）、碯（玛瑙，石次玉）、𦗮、蕋（蕊）、蘃（蘂之讹）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "奔本义：从夭从歮，象人甩开臂膀狂跑、急驰",
+      "statement": "奔（犇逩）本义：从夭从歮。「夭」象人甩开臂膀在快跑之形，「歮」是「止」的三叠表示脚印杂乱，象意狂跑、急驰。bēn，《广韵》「奔走也」，《集韵》「急赴也」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "奔转义：逃跑流亡失败（奔军之将）；引申竭尽全力、走向、投靠",
+      "statement": "转义：狂跑一般是因为遇到某种紧急情况才发生的，从而引申指逃跑、流亡、失败（《释名》「奔，变也，有急变奔赴之也」；《玉篇》「以罪走出他国曰𢍃」；fèn，《集韵》「覆败也」，《诗传》「奔军之将」）；由奔跑时的全力以赴、势不可挡，引申指竭尽全力、走向、投靠，如「奔命」「投奔」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "奔辨证：「卉」与「歮」形近，战国古文讹作卉，故《说文》从賁省声不确",
+      "statement": "辨证：由于「卉」跟「歮」形近，战国古文讹作「卉」，小篆从之，故《说文》「走也。从夭，贲省声。与走同意，俱从夭」析形不确。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "奔音源：源自奔跑声，因有纷乱之义音同「分」",
+      "statement": "音源：音源字，源自奔跑声；因有纷乱之意，而义音同「分」：《淮南子·览冥训》「姮娥窃以奔月」，高诱注「奔月，或作坌肉」（张儒按「肉」乃「月」之讹）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "奔字族①奔跑，表示疾速、乱：捹、渀、逩、𪑖、喯（喷）、餴、𨁼、𩣺、錛",
+      "statement": "字族①指奔跑，表示疾速、乱：捹（手乱貌）、渀（与奔音义同）、逩（疾走）、𪑖（黑）、喯（喷）、餴（半蒸饭，煮米半熟用箕漉出再蒸熟）、𨁼（奔之或体）、𩣺（马走貌）、錛（削平木料的平头斧）。②形近字「本、𦱠、羍」之讹：倴（笨）、𡍋（同笨）、莾（莽）、𦜭（粗壮）、𣽑（澾，泥滑）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "頻本义：「頻」为「瀕」的省形，从水从步从见，象水流反复冲刷岸边",
+      "statement": "頻（瀕频）本义：「頻」实为「瀕」的省形，正确的写法当为「𩕘」。从川或水从步从见：「川」指江河湖海，「步」为「止」的二叠表示反复光顾，象意水流的反复冲刷，表示岸边；「见」指人的照水鉴，或可省，说明它最初可能是作为声符添加的（象人每天的照水鉴一样来回观照）。bīn，《集韵》「濵，水厓也，或从頻，古作𣴩、𩕨、𨽗」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "頻转义：屡次连续急迫、并列邻近、皱眉（顰）",
+      "statement": "转义：由水的反复冲击岸边，引申指屡次、连续、急迫（pín，《广韵》「数也」，《字汇》「连也」），或引申指并列、接近、邻近（《广韵》「比也」）；由于一年四季水位不同变化，对岸边的冲击程度不一，从而使岸边形成一条条水线，如人的抬头纹一般，故引申指皱眉、着急（《玉篇》「急也」，别作顰、嚬）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "頻辨证：「涉」与「瀕」皆从水从步，然止之位置不同，《说文》析形不确",
+      "statement": "辨证：由于「涉」也是从水从步，故《说文》「水厓。人所宾附，频蹙不前而止。从页从涉」。「涉」的甲骨文所从「步」，两「止」分处于「水」的两侧；而「瀕」所从只在「水」的一侧。由于战国古文讹将「水」写在「步」的中间，小篆承之而楷化作「𩕘」，故《说文》析形不确。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "頻音源：源自水的拍岸声，因反复光顾义音同「宾」",
+      "statement": "音源：音源字，源自水的拍岸声；因水的反复光顾，而义音同「宾」：《书·禹贡》「海滨广斥」，「滨」《汉书·地理志》引作「瀕」；《诗·大雅·桑柔》「国步斯频」，「频」《说文》「矉」字条引作「矉」；《庄子·天运》「故西施病心而矉」，「矉」《太平御览》卷三九二引作「嚬」。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "頻字族①岸边及相关事物：滨、蘋、𦇖；②岸边之状（皱眉或相似纹路）：檳、顰、嚬；③频数众多匹偶：𧭹、𧮝、𧔪；④音译字",
+      "statement": "字族①指岸边或相关事物：滨（水边）、蘋（大萍，今称四叶菜、田字草，取长于水滨之意；píng 指苹果）、𦇖（捣衣，取在水边进行之意）。②指岸边之状，表示皱眉或相似的纹路：檳（槟榔树，树表呈环状纹路）、顰（皱眉蹙额，忧愁不乐）、嚬（笑貌；眉蹙）。③指频数，表示众多、匹偶：𧭹（匹偶、多言）、𧮝（匹）、𧔪（蟑螂）。④音译字：𠐺（𠐺伽，梵语「加罗𠐺伽」的略译，鸟名，义为妙音鸟）。",
+      "boundary": "源自《系统汉语》第408部「步部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "止本义：象动物脚印形，表示足，为「趾」的初文",
+      "statement": "止（𣥂）本义：象动物脚印形，表示足。zhǐ，《广韵》「足也」，「趾」的初文。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "止转义：行走、到达停留静止居住；除灭完毕；基础基脚",
+      "statement": "转义：足是动物的行走器官，故引申指行走，或引申指到达、停留、静止、居住等（《玉篇》「止息也、住也、容止也」，《广韵》「停也、礼也、息也、待也、留也」）；又由止息引申指除灭、完毕（《广雅》「灭也」，《集韵》「已也」）；足在下部支撑动物身体，故引申指基础、基脚（《说文》「下基也」）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "止辨证：《说文》据小篆误以为象草木长出之形，又分释𣥂夊夂𡕒为不同行走方式",
+      "statement": "辨证：《说文》据小篆误以为其象草木长出之形（「下基也。象艸木出有址，故以止为足」），甲骨文明显是足有趾的样子，故析形不确。而《说文》另分释「𣥂（tà），蹈也。从反止」「夊（suī），行迟曳夊夊，象人两胫有所躧也」「夂（zhǐ），从后至也」「𡕒（kuǎ），跨步也，从反夂」，其实这些字都是「止」的反写或倒写，因表意不同，另立《夂部》。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "止音源：借音字，动物脚板歧出有趾，故义音同「氏」同「支」",
+      "statement": "音源：借音字。动物的脚板一般均歧出有趾，故义音同「氏」同「支」：《集韵》「芪，《说文》：『芪母也。』一曰知母，或作蝭」；《说文》「缇，帛丹黄色，从糸是声。［或体］缇或从氏」。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "止字族①停足，表示基址、停止：趾、址、祉、雌、芷、沚、杫、砋等",
+      "statement": "字族①指停足，表示基址、停止：趾（足、脚指头）、址（基脚）、祉（福，福所止不移）、䧳（古雌字；鸟所䧳，住也、止也）、芷（白芷，根粗壮如脚趾）、沚（小水洲，可以止息其上）、杫（砧板、肉案）、淽（水名）、砋（捣缯石、砺石）、䇛（竹名）、䊼（绩苎一紕）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "止字族②举足，表示行走、牵拉：企、扯、㢟、辵、咫、𧺠",
+      "statement": "字族②指举足，表示行走、牵拉：企（踮起脚跟站立、望）、扯（拉、牵）、㢟（安步㢟㢟，缓步）、辵（乍行乍止；循道疾行）、咫（同咫）、𧺠（超、行）。③俗字或形近字「心、寺」之讹：耻（俗恥字）、痔（下部病）、𣧐、㰣（嗟叹）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "是本义：甲骨文从日止声，象太阳的运行，表示时间",
+      "statement": "是（昰𣆞）本义：甲骨文从日止声，象意太阳的运行，表示时间（shí，《正字通》「与时通」）；西周金文在「日」下加「七」作「早」，指早晨、上午。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "是转义：正、直、正确、对、法则；上提移动；月边",
+      "statement": "转义：由太阳光的直射，引申指正、直（shì，《正字通》「正也、直也」），由此引申指正确、对、法则（《玉篇》「是非也」，《尔雅》「则也」）；由太阳在空中的移动状引申指上提、移动，故战国古文中间的「七」或作「又」，指日升如被提挽一般，此义分化如「提（tí）」（《说文》「挈也」）；每月阴历的上半月的下午、下半月的上午都会有日月同辉的现象出现，故或指月边（tí，《集韵》「月边也」）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "是辨证：春秋后「早」或作「旦」，下部与止合并同「正」，故《说文》从日正不确",
+      "statement": "辨证：春秋后「早」或作「旦」，下面的「一」与「止」合并同「正」字，故《说文》「直也。从日正」析形不确。「昰」所从「正」本从止从丁，表示太阳最大的时节（《集韵》「夏，古作昰」）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "是字族①日悬，表示提起悬空：提、匙、鍉、褆、题、踶（蹄）、𧡨、翨（翅）等",
+      "statement": "字族①指日悬，表示提起、悬空：提（倒持、取出、由低往高）、匙（汤勺；钥匙）、鍉（歃血器、唾器、箭镞、钥）、褆（衣厚貌、衣服端正）、题（额头、书题、署名）、踶（踢；蹏、蹄，足也）、𧡨（显、视貌）、睼（迎视、远视）、趧（趧娄，四夷之舞，踢踏之舞）、翨（鸟翅膀后缘和尾部长大的羽毛，与翅同）、𦑡（群飞貌）、惿（心怯，提心吊胆）、㖷（鸟鸣）、䈕（笙的簧；亦作笄、椸）、鯷（大鲇，其皮为冠）、碮（砧；同堤）等。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "是字族②日行，表示移动、刮削、阻滞、安稳：遈、徥、偍、䐎、㓳、舓、堤、寔、禔、媞、諟、鞮、湜",
+      "statement": "字族②指日行，表示移动、刮削、阻滞、安稳：遈（流行貌）、徥（行貌）、偍（行动缓慢）、䐎（刮油）、㓳（以刀解物）、舓（舔食）、堤（滞；筑土遏水曰堤）、寔（止息、放置；与实通）、禔（安福、安宁）、媞（审谛、妍巧聪慧；江淮之间谓母曰媞）、諟（料理、正、审谛）、鞮（皮鞋；翻译官）、尟（是少、越来越少）、湜（水清底见）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "是字族③日色，表示色赤：緹、豉、蝭（芪）、醍、蕛（稊）、䔶、䊓、瑅、騠等",
+      "statement": "字族③指日色，表示色赤：緹（橘红色的丝织品）、豉（豆豉）、蝭（蟪蛄；芪母即知母）、醍（清酒、酒红色；醍醐，酥之精液即奶油）、蕛（似稗布地生的秽草，其穗色赤）、䔶（草名）、𧀠（莎草科植物果实，子实簇生茎顶端色赤）、䊓（黏；赤米）、瑅（瑅瑭，玉名）、𣄍（赤色旗）、騠（駃騠，骡子毛色赤褐；良马，骏马生七日而超其母）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "蚩（𧈪、舝）本义：从虫从止，一侧重蛇爬行（𧈪），一侧重行走碰蛇受阻（舝）",
+      "statement": "蚩（舝𢮟𧈨𧉌𧈪）本义：甲骨文从虫从止。「虫」指蛇，「止」指足表示行走，侧重点不同所象意也有别：一类在「虫」，象意蛇的爬行貌（chǎn，《玉篇》「𧈪，虫伸行」）；一类在「止」，则象意行走时碰到了蛇，表示受到了阻碍、不能前行，此义后来繁化作「舝（xiá）」，义音同「辖」（《释名》「辖，害也，车之禁害也」，相当于现在的刹车装置）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "蚩转义：蛇行蠢笨故引申呆痴丑陋；无足能行有悖常理故引申悖乱可笑",
+      "statement": "转义：蛇爬行其状蠢笨，故引申指呆痴、丑陋（《释名》「痴也」，《集韵》「蚩蚩，敦厚貌」）；蛇无足而能行，有悖常理，故引申指悖乱、可笑（《方言》「悖也」，《广雅》「乱也」，《广韵》「轻侮」）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "蚩辨证：战国古文变化大，小篆分为𧈪、蚩、舝三字，故《说文》分释不确",
+      "statement": "辨证：由于战国古文变化较大，小篆演变成「𧈪、蚩、舝」三个字，故《说文》分别释作「𧈪，虫曳行也。从虫屮声」「蚩，虫也。从虫之声」「舝，车轴端键也。两穿相背，从舛」皆不确。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "蚩音源：本「止」声，因蛇行蜿蜒义音或同「延」；另作「虫」声本应属《它部》",
+      "statement": "音源：本「止」声，因蛇行蜿蜒，而义音或同「延」：《集韵》「㢟，安步也，或作𨖀」。另作「虫」声，本应属于《它部》，为便于理解且所属字不多，归在一起。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "蚩字族①蛇行，表示刮擦迟缓：𢾫、滍、䩶、𤚍、𨖀；②蛇状表示长；③蛇貌表示丑陋痴呆可笑；④表示阻碍",
+      "statement": "字族①指蛇行，表示刮擦、迟缓：𢾫（剌，刮擦）、滍（沙河，汝水支流，传说曾是蚩尤的封地）、䩶（骖马马具）、𤚍（牛缓）、𨖀（行）、𩺉（蚌属）。②指蛇状，表示长：䥀（长、抒长）、𠋷（人形长貌）、𩝚（长味）。③指蛇貌，表示丑陋、痴呆、可笑：妛（媸，侮、痴、丑、淫）、嗤（讥笑）、𥉍（眼屎）、㺈（犬）。④指「𤛉」，表示阻碍：𨘇（无违，即违碍；远）、𧕱（蝼蛄，俗称土狗子，好啃咬植物嫩根）、𤪍（石之似玉者，疑本指琢磨玉石的金刚砂）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疐本义：从曾从屮从止，象甑的蒸汽冒出（屮塞甑盖缝隙以密封）",
+      "statement": "疐本义：甲骨文从「曾」从屮从止，止亦声。「曾」即甑，从「止」象意甑的蒸汽冒出。甑是利用蒸汽加热食物，因此上面须盖严实使蒸汽不散失；「屮」即艸，用来塞住甑盖的缝隙以密封。但当蒸汽充满、达到一定压力时，还是会从缝隙中喷出来。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疐转义：盖住甑引申阻碍固止；蒸汽喷出引申脱落冲出（蒂、喷嚏）",
+      "statement": "转义：由盖住甑，引申指阻碍、固止（zhì，《广韵》「顿也」，《尔雅》「仆也」）；由蒸汽的喷出甑，引申指脱落、冲出（dì，《正字通》「与蒂通」，《集韵》「去本也」，指去掉瓜果的蒂，或指喷嚏）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疐辨证：因「曾、叀」形近，《说文》误从叀；又因与「𦽢」形近或讹作蒂",
+      "statement": "辨证：因「曾、叀」形近，《说文》误为「碍不行也。从叀，引而止之。叀者，如叀马之鼻。从冂，此与牵同意」；另因其字形跟「𦽢」相近，或讹作蒂解（dì，《广韵》「疐，柢也，《尔雅》『枣李曰疐之』，谓去柢也」），其字应为「𦽢」。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "疐字族①阻碍：𢷐、𨆫、䡹；②喷出：嚔（喷嚏）、懥（怒）",
+      "statement": "字族①指阻碍：𢷐（同疐，碍不行、顿、跲）、𨆫（俗𤴡字）、䡹（车前重）。②指喷出：嚔（打喷嚏，鼻子因阻塞或过敏而喷气）、懥（怒）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "此本义：从勹止声，象踩在对方背上，为「跐」的初文",
+      "statement": "此（𣥅）本义：从勹止声。「勹」指俯伏、背负，「止」指踩，象意踩在对方背上的样子，「跐（cī）」的初文（《释名》「跐，弭也，足践之使弭服也」；《广雅》「跐，履也」）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "此转义：脚下所踩引申指近处事物；击打（㧗）；瘀青（紫）；雌性（雌）；短小（啙）",
+      "statement": "转义：由脚下所踩，引申指代距离近的事物（cǐ，《尔雅》「兹，此也」）；由脚踩引申指击打，此义分化如「㧗（zǐ）」（《广韵》「捽也」「拳加人也」）；殴打会造成伤害，故引申指瘀青，此义分化如「紫（zǐ）」（《说文》「帛青赤色」）；鸟类等动物交尾时雌性一般趴伏在下、雄性站在上面，故引申指雌性，此义分化如「雌（cī）」（《说文》「鸟母也」）；由于雌性动物一般比雄性身形要小，故引申指短小，此义分化如「啙（zǐ）」（《方言》「短也」，《广韵》「弱也」）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "此辨证：「匕、勹」形近故多混同，《说文》从止从匕析形不确",
+      "statement": "辨证：「匕、勹」形近，故多被混同，《说文》「止也。从止，从匕。匕，相比次也」析形不确。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "此字族①踩使俯伏，表示相仇相斗、踩踏叠垒：眥、𡗼、呰、訿、㧗、㧘、齜、跐、觜等",
+      "statement": "字族①指踩使勹，表示相仇、相斗、踩踏、叠垒：眥（眼眶；眦睚，恨视）、𡗼（瞪大眼睛怒视）、呰（诋毁、瑕）、訿（发牢骚、诋毁指责；量也、算也）、㧗（以手击取、拳加人）、㧘（聚积；拔掉面颊上的胡须，疑本指批颊）、齜（磨牙、开口见齿；齲病）、跐（蹈、蹋、履；脚下滑动）、紪（交错的花纹）、觜（鸱旧头上的角觜；喙）、𧺼（浅渡）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "此字族②殴伤，表示青、紫色：茈、紫、玼、疵、䖪等",
+      "statement": "字族②指殴伤，表示青、紫色：茈（紫色的草，代指紫色；荸荠、慈菇，块根圆形呈紫色；柴胡）、紫（帛青赤色；紫，疵也，非正色）、玼（玉色鲜白；玉病、玉中石）、疵（病、黑斑、痣）、䖪（虫似蝉；蠀螬，金龟子的幼虫，其色青紫）、𦍧（羊名，疑本指黑山羊）、𪕊（鼠似鸡而鼠尾）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "此字族③鸟类交尾，表示雌性、短小：雌、𩢑、貲、頿（髭）、鈭、姕、柴、鮆、佌、骴、泚等",
+      "statement": "字族③指鸟类交尾，表示雌性、短小：雌（母鸟）、𩢑（疑指母马或矮种马）、貲（小罚以财自赎；财、货）、頿（口上须，甲骨文象人颊有须形，金文才加「此」为声符表示短小）、鈭（短斧）、姕（妇人柔弱的样子）、祡（烧柴祭天，通作柴）、柴（小木散材；柴池，参差；藩落）、𤿙（皮不展）、啙（窳、短、弱）、鮆（刀鱼；物生而不长大）、飺（厌食）、㠿（精美的细布）、佌（小）、骴（鸟兽残骨）、泚（清澈；汗出貌；揣度）、皉（色鲜洁）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "齒本义：甲骨文象口内露门牙形，战国古文加「止」为叠加声符",
+      "statement": "齒（齿歯）本义：甲骨文本象口内露门牙形。战国古文写成「臼」形，并加「止」，表示牙齿长到一定程度就停止的意思，为迭加声符；但「止」本指脚趾，动物的脚趾外包有角质如牙一般坚硬，同时许多动物的牙齿起着类似趾的作用，靠其获取食物或进攻敌人。chǐ，《说文》「口齗骨也。象口齿之形，止声」。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "齒转义：牙齿随成长生出脱落故引申年龄；比喻齿状物；并列次列",
+      "statement": "转义：牙齿会随着动物的成长生出和脱落，故引申指年龄（《释名》「齿，始也，少长别，始乎此也」；《广雅》「年也」）；或比喻指齿状物，如梳齿、锯齿；由牙齿的排列之状，引申指并列、次列（《集韵》「列也」）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "齒字族①牙齿，表示啃咬咀嚼：嚙（齧、咬）、𩖁、𪗨、𪗭等；②齿状；③音译",
+      "statement": "字族①指牙齿，表示啃咬、咀嚼：嚙（咬、齧）、𩖁（物残缺不齐貌；咬）、𪗨（齚齿、齿声）、𪗭（大齿；咀嚼声）、𧀤（马齿苋，叶形如马齿）。②指齿状，表示形状似牙齿：𥗊（地名用字）、鑡（金鉼，状似臼齿）。③音译字：𤁧（蛮夷酋长名，唐有渤达国王摩俱𤁧思）。",
+      "boundary": "源自《系统汉语》第409部「止部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "之本义：甲骨文从止从一，「一」指地面处所，象意往、到（足迹已到）",
+      "statement": "之（㞢𠔇𡳿）本义：甲骨文从止从一。「止」指足迹，「一」指地面、处所；有了足迹意味着已经来过、已经到达，故象意往、到，跟「至」的表意结构差不多。zhī，《玉篇》「至也、往也」，《广韵》「适也」。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "之转义：生出滋长；代指人或事物名称；虚词",
+      "statement": "转义：由足的迈出，引申指生出、滋长（《玉篇》「出也」）；不同的动物有不同的脚印，故引申指代人或事物的名称（《玉篇》「是也」），或引申作虚词表示领有、假设、连属、顺承、停顿等关系（《尔雅》「间也」）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "之辨证：小篆已看不出「止」而近「屮」，故《说文》象艸过屮析形不确",
+      "statement": "辨证：由于小篆已经看不出「止」，而跟「屮」形近，故《说文》「出也。象艸过屮，枝茎益大，有所之。一者，地也」析形不确。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "「㞢」本象灵芝、木耳等菌类轮廓，为「芝」的初文",
+      "statement": "又由于「㞢」的甲骨文跟「之」的小篆形近，后世或将「㞢」混作「之」（《集韵》「㞢，隶作之」）。「㞢」本象木耳、灵芝等菌类的轮廓形（《六书略》「隶作㞢，象芝出地」），为「芝」的初文（《广韵》「芝，芝草」）。灵芝、木耳等菌类不开花、没有茎和叶子、不含叶绿素，靠寄生生活，长在枯木等植物腐殖质上。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "「芝」本从「㞢」不从「之」，故《广韵》以「蚩」从「㞢」亦误",
+      "statement": "因此「芝」本不从「之」，而是从「㞢」；这种情况必然不是个例。《广韵》以「蚩」从「㞢」就是错误的，「蚩」本从「止」（见第409部止部）。事实上由于「㞢、之」的混同，已经导致「㞢」失去了独立性，需要对「之、㞢」相关衍生字重新进行辨析。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "灵芝无根无种凭空而生，故引申指「有」；伞状故比喻车盖",
+      "statement": "灵芝之类肉眼看无根无种、凭空而生，故引申指「有」，早期甲骨卜辞中多用同「有」（如「其㞢雨」「其㞢风」「㞢求」「旬㞢二日」）；可能是因为其字形跟「生」「之」相近，为免混淆，后期用「又」表示。灵芝呈伞状，故比喻指车盖之类东西（《汉书·扬雄传》「于是乘舆乃登乎凤皇兮翳华芝」，颜师古注「以华芝为蔽也」）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "之音源：「之」本从「止」，因与「㞢」相混故单设部；「㞢」为借音字",
+      "statement": "音源：「之」本从「止」，因或与「㞢」相混，故单设部。「㞢」为借音字，附生如「至」，故义音同：《集韵》「𣢑，或作咥、㰝」。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "之字族①本从「㞢」，指灵芝，表示多、好：芝、𦐉、詩",
+      "statement": "字族①本从「㞢」，指灵芝，表示多、好：芝（灵芝，真菌生于枯木根际，入药为强壮剂；古人以为瑞草，服之可以成仙；或指芝麻）、𦐉（飞盛貌，羽翼盛）、詩（疑本从「㞢」，指其如芝一般美好）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "之字族②本从「之」讹作「㞢」，表示行走：旹、妛、𣢑、徔；③形近「屮、朩」之讹",
+      "statement": "字族②本从「之」讹作「㞢」，表示行走：旹（时的古字）、妛（同媸，侮、痴、淫、丑）、𣢑（嬉戏讥笑的样子，同嗤）、徔（古同從）。③形近字「屮、朩」之讹：𠕓（幬帐之象，𡉉为其隶省，应为「壳」的初文）、汖（剥取苎麻的茎皮）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "志本义：从心从㞢，象心里所萌生的理想和愿望",
+      "statement": "志（𢗱𢗍𢖽）本义：从心从㞢。「心」指思想、心思，「㞢」指灵芝表示有，象意心里所萌生的理想和愿望。zhì，《玉篇》「意也、慕也」。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "志转义：标志、记号、记录；辨证因㞢之相混难定所从",
+      "statement": "转义：由心里所想，引申指标志、记号、记录（《尔雅》「骨镞不翦羽，谓之志」；《集韵》「识，记也，或作志」「旗也，或作织、旘」）。辨证：因「㞢、之」相混，而「志」缺乏战国前的字形可以参照，故难以肯定是从「㞢」还是从「之」；「之」声可谓象意心里所向往的，也通。不过其引申指标记、记号、旗帜，芝草一般都长在树上，这跟在树上作记号的特征暗合。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "志字族①标志记号记忆：誌、娡、痣、綕、鋕、䓌（远志）、幟；②芝状繁盛",
+      "statement": "字族①指标志、记号、记忆：誌（记志；史传记事之文曰志）、俧（人名用字）、娡（女子人名用字）、梽（梽木山，地名）、痣（黑子）、綕（古文织字）、鋕（铭）、䓌（远志，药草，所以从志是因其有增强记忆的作用）、覟（审视、明见）、幟（同帜）、𢙺（忘）。②指芝状，表示芝形、繁盛：𩛣（饵的俗字，耳状糕饼，其状正如芝）、𦐼（飞盛貌）、𥭡（竹名，疑指丛竹）、𪁓（鸟，疑指鸟栖于树）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "寺本义：从又从之，象手所及处，表示握持（「持」）",
+      "statement": "寺本义：从又从之。「又」或作「寸」指手，「之」指往，象意手所及处表示握持，此义分化如「持（chí）」（《说文》「握也」）。手所及处意味着脚没有动，活动的范围只是手能触及的地方，故也可表示待着不动，此义分化如「待（dài）」（《说文》「竢也」）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "寺转义：近侍、宦官、官衙寺庙；积蓄储备（庤）",
+      "statement": "转义：由站着不动引申指近侍（侍，《广韵》「近也、从也」），或引申指宦官（寺人，奄官），或引申指官衙、寺庙（sì，《广韵》「司也、嗣也、官也」，《说文》「廷也，有法度者也」；《广韵》「汉西域白马驼经来，初止于鸿胪寺，遂取寺名，创置白马寺」）；由握持引申指积蓄、储备，此义分化如「庤（zhì）」（《玉篇》「储也、具也」）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "寺字族①待着不动，表示直立挺立不进：侍、歭、特（公牛）、痔、畤、跱、峙、待、等、鼭",
+      "statement": "字族①指待着不动，表示直立、挺立、不进：侍（承奉、近、从、陪侧）、歭（躑躅不前；供具）、㭙（槌横木，搭架用的木桩）、特（公牛、雄、独、挺立、一牲）、痔（痔疮，宜站坐则疼故从寺）、畤（祭祀场所；土高处；移栽）、秲（插秧）、𦱰（草）、鼭（鼠名，疑即土拨鼠，可以直立）、跱（行不进、止、立）、峙（峻峙，屹立）、待（等候、拟、俟、遇）、等（齐简；齐、类、比、辈）、崻（山独立貌）、扽（引、撼、摩）、䦙（寺人或从门）、𥹩（用米汤浆衣使衣硬挺；储藏）、𧎬（食禾虫）、𪀔（鸟名）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "寺字族②握持，表示储备积蓄依仗：持、恃、邿、洔、偫、庤、䝰、𪗺、𨨲",
+      "statement": "字族②指握持，表示储备、积蓄、依仗：持（握持、坚持）、恃（依赖）、邿（附庸国，在今山东济宁市东南）、洔（水滞留、水中高土）、偫（积蓄储备以待用）、庤（储藏放置在屋下）、䝰（畜财）、𪗺（牛食草，牛反刍先粗咽后吐出细嚼，故有储存之意）、𨨲（梵语鍕𨨲，澡罐、净瓶）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "時本义：甲骨文从日从之，象太阳的足迹即日影，古人据影长知时辰",
+      "statement": "時（旹时）本义：甲骨文以及春秋金文本从日从之。「日」指太阳，「之」指足迹；太阳的足迹就是太阳照射物体时所形成的影子，古人根据影子的长短以知道时辰，故象意时辰。或从「寺」，「寺」指直立，指古人根据日影的移动原理发明了测量时辰的仪器——圭表。shí，《说文》「四时也。从日寺声」。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "時转义：笔直竖立；形势、机会、适时",
+      "statement": "转义：由圭表的直立之状，引申指笔直竖立（《广韵》「中也」）；不同的时令，气候、物候也会随之发生变化，故引申指形势、机会、适时（《释名》「时，期也，物之生死各应节期而至也」；《广雅》「伺也」）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "時字族：多指应时发生：塒、蒔、榯、𥻵、鰣",
+      "statement": "字族多指应时发生：塒（鸡窝，鸡能报时故从时）、蒔（移栽；树立；莳萝子即小茴香）、榯（树木立；落榯，持门枢，根据时辰而或关或开）、𥻵（餈之俗字，福建风俗逢年过节所吃的稻饼，应时节之意）、鰣（鲥鱼，春夏之交成群上溯繁殖，形成一年一度的捕鲥渔汛）。",
+      "boundary": "源自《系统汉语》第410部「之部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "㝵（得）本义：从又从贝，象拾取贝壳，也指获得钱财",
+      "statement": "㝵（䙷得䙸㝶㕌礙）本义：从又从贝，象意拾取贝壳，或从「彳」同。「贝」本指钱贝，故也指获得钱财。dé，《说文》「得，行有所得也。从彳㝵声」。",
+      "boundary": "源自《系统汉语》第411部「㝵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "得转义：拾贝时停步故引申指停止（礙）",
+      "statement": "转义：拾取贝壳时会停下脚步，故引申指停止。ài，《集韵》「礙，《说文》：『止也。』或从亥，《南史》引《浮屠书》作㝵」。",
+      "boundary": "源自《系统汉语》第411部「㝵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "得辨证：小篆将「贝」写如「见」，故《说文》从见从寸析形不确",
+      "statement": "辨证：由于小篆将「贝」写如「见」，故《说文》「䙷，取也。从见从寸。寸，度之，亦手也」析形不确。",
+      "boundary": "源自《系统汉语》第411部「㝵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "得音源：借音字，因有碍止义故义音同「寺」",
+      "statement": "音源：借音字。因有碍止义，故义音同「寺」：《集韵》「特，《说文》：『朴特，牛父也。一曰独也。』或作犆、𤙰」。",
+      "boundary": "源自《系统汉语》第411部「㝵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "得字族①贝壳状：㧹、䅞、䎪、䚟、㕌",
+      "statement": "字族①指贝壳状：㧹（拳打，取拳状如贝之意）、䅞（谷物脱粒后所剩的茎秆、稃，稃如贝壳）、䎪（槌谷具）、䚟（角心；与好歹之歹同）、㕌（张幕；石名；㝵字之讹）。",
+      "boundary": "源自《系统汉语》第411部「㝵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "得字族②拾贝时的样子，表示走走停停：㥂、𠮊、𡭂、𢕚、𣮊、𤙰、𤷙、𨁽、淂",
+      "statement": "字族②指拾贝时的样子，表示走走停停：㥂（快、动心、得、心惧）、𠮊（取）、𡭂（弱貌）、𢕚（水少）、𣮊（毛少）、𤙰（牛；钝）、𤷙（病）、𨁽（行貌）、淂（水貌；水名）。",
+      "boundary": "源自《系统汉语》第411部「㝵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-67-zu",
+      "title": "得字族③拾贝，表示阻碍：碍、𨵏、棏（蚕箔搁架横木）；④象声字：嘚、鍀、𠵨",
+      "statement": "字族③指拾贝，表示阻碍：碍（妨碍、阻止）、𨵏（以木栏门；碍、硋、閡并通）、棏（木名；槌；蚕箔搁架上的横木）、𣙵（蚕柱）、𣌏（约）。④象声字：嘚（马蹄声等）、鍀（锝，结晶状放射性金属元素 Tc，音译）、𠵨（呲𠵨，斥责）。",
+      "boundary": "源自《系统汉语》第411部「㝵部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
