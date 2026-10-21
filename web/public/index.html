@@ -192,6 +192,28 @@
   .sec p { margin: 0 0 6px; }
   .sec p:last-child { margin-bottom: 0; }
   .sec.empty p { color: #b3aa9c; }
+  .family { margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--line); }
+  .family h4 {
+    font-family: var(--serif); font-size: 14px; letter-spacing: .1em;
+    color: var(--accent); margin: 0 0 6px;
+  }
+  .family h4::before { content: "·"; margin-right: 7px; }
+  .family .fam-note { font-size: 12px; color: var(--muted); margin: 0 0 10px; line-height: 1.6; }
+  .fam-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px 16px; }
+  .fam-item { display: flex; align-items: flex-start; gap: 6px; }
+  .fam-char {
+    font-family: var(--serif); font-size: 21px; line-height: 1.25; padding: 1px 9px;
+    background: #fffdf8; border: 1px solid var(--line); border-radius: 8px;
+  }
+  .fam-photo { margin: 0; text-align: center; }
+  .fam-photo img {
+    height: 62px; width: auto; display: block; background: #fff; padding: 2px;
+    border: 1px solid var(--line); border-radius: 6px; cursor: zoom-in;
+  }
+  .fam-photo figcaption {
+    font-size: 10px; color: #a89e8e; margin-top: 3px; max-width: 132px; line-height: 1.3;
+    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden;
+  }
 
   @media (max-width: 560px) {
     .brand { font-size: 16px; white-space: nowrap; }
@@ -367,6 +389,21 @@ function renderCard(card) {
   }
   if (!card.sections || !card.sections.length) {
     html += `<div class="sec empty"><h4>本义 / 转义 / 衍生字义</h4><p>${esc(card.note || '知识库里还没有这个字的条目。')}</p></div>`;
+  }
+  if (card.family && card.family.length) {
+    html += '<div class="family"><h4>字族</h4>' +
+      `<div class="fam-note">原稿字头行收录的 ${card.family.length} 个字族成员，按原稿顺序；原稿把配图排在哪一个字头后面，这里就跟着放在那一个字后面（点图可放大）。</div>` +
+      '<div class="fam-row">';
+    for (const m of card.family) {
+      html += '<div class="fam-item">' + `<span class="fam-char">${esc(m.char)}</span>`;
+      for (const p of m.photos || []) {
+        html += '<figure class="fam-photo">' +
+          `<img src="${esc(p.file)}" alt="${esc(p.caption || m.char + '配图')}" loading="lazy">` +
+          `<figcaption>${esc(p.caption || '')}</figcaption></figure>`;
+      }
+      html += '</div>';
+    }
+    html += '</div></div>';
   }
   html += '</div>';
   return html;
@@ -576,7 +613,7 @@ if (q0) { input.value = q0; submit(); }
   };
 
   document.addEventListener('click', (e) => {
-    const img = e.target.closest && e.target.closest('.glyphs img, .photos img');
+    const img = e.target.closest && e.target.closest('.glyphs img, .photos img, .fam-photo img');
     if (!img || img.classList.contains('broken')) return;
     const fig = img.closest('figure');
     const cap = fig && fig.querySelector('figcaption');
@@ -593,7 +630,7 @@ if (q0) { input.value = q0; submit(); }
   // 图片加载失败（error 不冒泡，用捕获阶段统一兜底）
   document.addEventListener('error', (e) => {
     const img = e.target;
-    if (!img || img.tagName !== 'IMG' || !img.closest('.glyphs, .photos')) return;
+    if (!img || img.tagName !== 'IMG' || !img.closest('.glyphs, .photos, .family')) return;
     img.classList.add('broken');
     const fig = img.closest('figure');
     const cap = fig && fig.querySelector('figcaption');

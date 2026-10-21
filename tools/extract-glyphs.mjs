@@ -3,6 +3,8 @@
 //
 // 用法：
 //   node tools/extract-glyphs.mjs --src "D:\字谱智能体" --out web/public/glyphs
+//   node tools/extract-glyphs.mjs --out web/public/glyphs --families-only
+//     ↑ 只把「字族表」补进已有 index.json，不重抽图片（源文档比图库新时用）
 //
 // 文档结构（各卷一致）：
 //   字头段：  矢（𠂕𠓡𥎨𠤕𥬟）：致郅𨖹…            ← 收录该字的异体与字族
@@ -163,6 +165,7 @@ function extractChars({ paras }) {
   const heads = [];
   const entries = [];
   const photos = [];
+  const families = new Map();
   let rows = 0;
   let unmatched = 0;
   let lastHead = null;
@@ -191,14 +194,20 @@ function extractChars({ paras }) {
       const ch = onlyHan(mHead[1]);
       if (ch) {
         const at = p.text.search(/[：:]/);
+        // 冒号后是字族表；括号里是异体或交叉引用（如「鯉（參209《土部》）」），先剔掉
+        const famText = (at >= 0 ? p.text.slice(at + 1) : '').replace(/[（(][^）)]*[）)]/g, '');
         lastHead = {
           char: ch[0],
           variants: mHead[2] ? onlyHan(mHead[2]) : '',
-          // 字族表：冒号后面那串（牡（…）社（…）仕…），用来给没写异体的字形行认主
-          family: at >= 0 ? p.text.slice(at + 1) : '',
+          // 字族表：冒号后面那串（牡 社 仕…），用来给没写异体的字形行认主
+          family: famText,
         };
         heads.push(lastHead);
         partHeads.push(lastHead);
+        // 字族表：冒号后面那串字头，按原稿顺序记下来（配图要挂到各自的字头后面）
+        const famChars = [...new Set(onlyHan(famText))];
+        if (famChars.length) families.set(lastHead.char, famChars);
+        lastHead.familyChars = famChars;
         owner = lastHead.char;
         sectionOwner = lastHead.char;
         inFamily = false;
@@ -269,7 +278,7 @@ function extractChars({ paras }) {
       entries.push({ char: canonical, variants: g.label ? '' : variants, rids: g.rids });
     }
   }
-  return { entries, photos, rows, unmatched };
+  return { entries, photos, families, rows, unmatched };
 }
 
 // ---------- 主流程 ----------
@@ -290,12 +299,42 @@ function main() {
   const docs = readdirSync(SRC)
     .filter((f) => f.toLowerCase().endsWith('.docx') && !f.startsWith('~$'))
     .sort((a, b) => (a.startsWith('卷') === b.startsWith('卷') ? a.localeCompare(b, 'zh') : a.startsWith('卷') ? -1 : 1));
+
+  // --families-only：只补索引里的「字族表」，不动已抽好的图片（源文档比图库新时用）
+  if (argv.includes('--families-only')) {
+    const indexPath = join(OUT, 'index.json');
+    if (!existsSync(indexPath)) {
+      console.error('索引不存在，无法只补字族表：' + indexPath);
+      process.exit(1);
+    }
+    const idx = JSON.parse(readFileSync(indexPath, 'utf8'));
+    const fam = { ...(idx.families || {}) };
+    let added = 0;
+    for (const docName of docs) {
+      let res;
+      try {
+        res = extractChars(parseDocx(join(SRC, docName)));
+      } catch {
+        continue;
+      }
+      for (const [c, arr] of res.families) {
+        if (fam[c]) continue;
+        fam[c] = arr;
+        added += 1;
+      }
+    }
+    idx.families = fam;
+    writeFileSync(indexPath, JSON.stringify(idx));
+    console.log(JSON.stringify({ families: Object.keys(fam).length, added, chars: Object.keys(idx.chars).length }));
+    return;
+  }
+
   // 每次重建都清空，否则上一轮多出来的图会留在磁盘上（索引里已经没有它们）
   rmSync(OUT, { recursive: true, force: true });
   mkdirSync(OUT, { recursive: true });
 
-  const index = { generated: new Date().toISOString(), source: '《系统汉语》各卷 Word 原稿', chars: {}, photos: {} };
-  const report = { docs: 0, rows: 0, unmatched: 0, chars: 0, photos: 0, files: 0, bytes: 0 };
+  const index = { generated: new Date().toISOString(), source: '《系统汉语》各卷 Word 原稿', chars: {}, photos: {}, families: {} };
+  const report = { docs: 0, rows: 0, unmatched: 0, chars: 0, photos: 0, families: 0, files: 0, bytes: 0 };
 
   for (const docName of docs) {
     const file = join(SRC, docName);
@@ -311,6 +350,7 @@ function main() {
     report.docs += 1;
     report.rows += res.rows;
     report.unmatched += res.unmatched;
+    for (const [c, arr] of res.families) if (!index.families[c]) index.families[c] = arr;
 
     // 同一字的多组图合并；异体共用一份图片：落在主字目录下，其余作别名指向它
     const byChar = new Map();
@@ -374,6 +414,7 @@ function main() {
 
   report.chars = Object.keys(index.chars).length;
   report.photos = Object.values(index.photos).reduce((n, a) => n + a.length, 0);
+  report.families = Object.keys(index.families).length;
   writeFileSync(join(OUT, 'index.json'), JSON.stringify(index));
   console.log(JSON.stringify(report, null, 2));
 }

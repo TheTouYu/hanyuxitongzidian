@@ -192,15 +192,26 @@ function loadGlyphIndex() {
   }
 }
 
+function photoList(list) {
+  return (list || []).map((x) => ({
+    file: '/glyphs/' + x.file.split('/').map(encodeURIComponent).join('/'),
+    caption: x.caption || '',
+  }));
+}
+
+// 字族表：原稿字头行冒号后面那串（牡 社 仕…），按原稿顺序，各自带上自己的配图
+function familyInfo(ch) {
+  const idx = loadGlyphIndex();
+  const fam = (idx.families && idx.families[ch]) || [];
+  return fam.map((c) => ({ char: c, photos: photoList((idx.photos && idx.photos[c]) || []) }));
+}
+
 function glyphInfo(ch) {
   const idx = loadGlyphIndex();
   const e = idx.chars && idx.chars[ch];
   const ph = (idx.photos && idx.photos[ch]) || [];
   const files = (e && Array.isArray(e.files) ? e.files : []).map((f) => '/glyphs/' + f.split('/').map(encodeURIComponent).join('/'));
-  const photos = ph.map((x) => ({
-    file: '/glyphs/' + x.file.split('/').map(encodeURIComponent).join('/'),
-    caption: x.caption || '',
-  }));
+  const photos = photoList(ph);
   if (!files.length && !photos.length) return null;
   return {
     doc: (e && e.doc) || '',
@@ -838,6 +849,7 @@ async function handleCard(emit, res, question, ch, ip) {
       glyph: glyph
         ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: glyph.photos || [], from: glyphFrom }
         : null,
+      family: familyInfo(ch),
       root: rootInfo ? rootInfo.root : null,
       roots: rootGlyphs,
       sections,
