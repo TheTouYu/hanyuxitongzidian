@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》第二、三、八章章首与後記",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-2-gu",
+      "title": "谷本義：女陰的象形",
+      "statement": "「谷（𠔌）」从「𠔁、口」，「𠔁」象大小陰唇形，「口」指陰道口，本義為女陰。《老子·道德經》「谷神不死，是謂玄牝。玄牝之門，是謂天地根」已明確告訴我們「谷」就是「牝之門」。在中國很多地方仍保留有女陰崇拜的遺跡，其中雲南沙溪的石鐘寺裏，更是將一雕琢出來的女陰石供奉在神龕裏（石鐘寺八號窟）。",
+      "boundary": "源自《系统汉语》第二章「谷」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch2-gu.md",
+      "topic_title": "第二章·谷",
+      "topic_summary": "《系统汉语》第二章「谷」章首：谷从𠔁、口象女陰，本義為女陰，《老子》「谷神玄牝之門」即其證；辯「也」為蛇形、「匕（勹）」為孵化哺育非谷之異形；谷的空殼義使其音義與㫃、酉、丩、口、戎、臾、舟、六、辱、蜀、婁、殼、各相通，並舉谷與船、竹、虎、竽、車諸卷的通假例證。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-2-gu",
+      "title": "谷的本義很早失去",
+      "statement": "「谷」的本義很早就已經失去，只保留在諸如「欲、俗」等個別字裏。",
+      "boundary": "源自《系统汉语》第二章「谷」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-2-gu",
+      "title": "辯「也」非女陰",
+      "statement": "《說文》「也，女陰也」，但「也」字實同「它」，應為蛇的象形，並非女陰；女陰真正的象形字為「谷」。",
+      "boundary": "源自《系统汉语》第二章「谷」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-2-gu",
+      "title": "辯「匕（勹）」非谷之異形",
+      "statement": "甲骨文時多以「匕（勹）」表示雌性，如「牝、𡚧」；但「勹」是俯伏形，主要意義應是指孵化、哺育，而不是指雌性生殖器，因此不能算「谷」的異形字。",
+      "boundary": "源自《系统汉语》第二章「谷」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-2-gu",
+      "title": "谷的借音：空殼義",
+      "statement": "「谷」的空殼義比較明顯，故其音義跟「㫃、酉、丩、口、戎、臾、舟、六、辱、蜀、婁、殼、各」可通。",
+      "boundary": "源自《系统汉语》第二章「谷」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-2-gu",
+      "title": "谷與各章卷的通假例證",
+      "statement": "與《船》：古谷、俞可通用，《左傳·桓公二年》「下無覬覦」，《漢書·武五子傳》作「覬欲」，王念孫《廣雅疏證》「覬欲，即覬覦也」，「覦」从「俞」聲而「俞」本「舟」聲。與《竹》：竹本中空，故指竹的「殼」跟「谷」可通用（見 67《谷部》）。與《虎》：《說文》「臄，𠔌或从豦肉」，「豦」本「虍」聲。與《竽》：「于」為竽的象形字，跟「舟、虎」均可通用（《淮南子·泰族訓》「狳木而為舟」；「窬」《太平御覽》引作「刳」；《墨子·旗幟》「雩旗」《北堂書鈔》引作「虎」）。與《車》：跟「車」音義可通的只有「古」，而「古」可通「瓜、車、巨、于、戶、虎、壺、襾」（《詩·衛風·碩人》「施罛濊濊」，「罛」《說文》「濊」字條引作「罟」）。",
+      "boundary": "源自《系统汉语》第二章「谷」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-2-gu",
+      "title": "谷章的跨章字根",
+      "statement": "同《士》一樣，與「谷」音義相關的一些字根也有雜糅在其它各章中的，如「酉、戎、辱」即是；而跟《冓》的音義更是多可通，如「丩」即是。",
+      "boundary": "源自《系统汉语》第二章「谷」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-3-gou",
+      "title": "冓本義：兩性交媾",
+      "statement": "「冓」字从兩丙的對接，「丙」即「柄」，既可指插進器物中的條形柄，也可指嵌進器物的帶孔柄（見 300《丙部》），故象意男女性器官的交媾。",
+      "boundary": "源自《系统汉语》第三章「冓」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch3-gou.md",
+      "topic_title": "第三章·冓",
+      "topic_summary": "《系统汉语》第三章「冓」章首：冓从兩丙（柄）對接，象男女交媾，陰山岩畫的狩獵與交媾場面反映生殖崇拜；與丩、交、后、厚、匚、角音義相通並列六條通假例證；丩交角與冓關係最密，角通录（角里作祿里）；冓章字根多彎曲佝僂通《老》、有搗杵義通《屰》，所含卷相對。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-3-gou",
+      "title": "生殖崇拜的岩畫背景",
+      "statement": "在最能充分反映中國先民生活狀態的陰山岩畫中，大量的是狩獵場面，畫面中不乏動物以及人類兩性交媾的場景，生動地反映了先民對生殖的崇拜心理。",
+      "boundary": "源自《系统汉语》第三章「冓」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-3-gou",
+      "title": "冓的借音與通假例證",
+      "statement": "跟「冓」音義可通的有「丩、交、后、厚、匚、角」等：《詩·召南·草蟲》「亦既覯之」，「覯」馬王堆帛書《五行》引作「鉤」而「鉤」本「丩」聲；《易·姤》，《釋文》「古文作遘」而「姤」从「口」聲；《說文》「構，杜林以為椽桷字」而「桷」从「角」聲；《漢書·蕭何曹參傳》「講若畫一」顏師古引文穎「講，或作較」而「較」从「交」聲；《周禮·繕人》鄭玄注「拾謂韝扞也」，《釋文》「韝，彄字之異者」而「彄」从「匚」聲；《易·屯》「匪寇，婚媾」，「媾」馬王堆帛書本作「厚」而「厚」从「高」聲。這些字分屬《犬》、《桔槔》卷。",
+      "boundary": "源自《系统汉语》第三章「冓」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-3-gou",
+      "title": "丩交角與冓關係最密",
+      "statement": "其中的「丩、交、角」本指物相勾連、交錯形，跟「冓」的音義關係最為密切，因此跟它們音義可通的字根實際上跟「冓」也是可通的：古「角」通「录」，《史記·留侯世家》索隱「角里先生」，孔安國《祕記》作「祿里」，「祿」从「录」聲指轆轤，「录、鹿」本通（見 123《录部》）。",
+      "boundary": "源自《系统汉语》第三章「冓」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-3-gou",
+      "title": "冓章的跨章字根與所含卷的相對性",
+      "statement": "《刻》《績》所屬字根音義雖大多通《士》，如「糸」顏師古注「結，讀如系」，「丯」鄭玄注「橋，井上桔槔」，《詩·小雅·天保》「吉蠲為饎」盧辯引作「絜」；但其跟交媾行為義還是頗為密切——「七、丯」本指刻畫，「㡭」本指相連接，「己」本衍生為「配」，故也可歸屬《冓》。另外，由於該章字根多含彎曲、佝僂義，因此跟《老》多可通；此外也有搗杵義而跟《屰》可通，因此所含「卷」也是相對的。",
+      "boundary": "源自《系统汉语》第三章「冓」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-8-zi",
+      "title": "第八章「子」：幼兒階段的音源義",
+      "statement": "「子」指幼兒3到8歲階段。在古代，這個時候的小孩沒有束髮或髮髻，通常是自然垂落，故名之為「垂髫」，其甲骨文就像頭上有散亂的長髮形。這個階段的孩子已經能夠自由行動，身心都在快速成長，但又不懂得人情世故，不為俗事所累，天真爛漫，可說是人生中最自由、最快樂的時光——陶淵明《桃花源記》「黃髮垂髫，並怡然自樂」、辛棄疾《清平樂·村居》「最喜小兒無賴，溪頭臥剝蓮蓬」即其寫照。",
+      "boundary": "源自《系统汉语》第八章「子」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/ch8-zi.md",
+      "topic_title": "第八章·子",
+      "topic_summary": "《系统汉语》第八章「子」章首：子指3–8歲幼兒（垂髫、甲骨文象頭上散亂長髮）；頭髮柔軟細薄故音義與「絲」通，身體快速發育故生滋生繼續義，披散需剪而又速長故生剪裁義（采、蔡、杀、梓通宰、宰通采）；此章第一版所無，因《采》《絲》等卷無處安放而單獨成章，核心義項是由孩子頭髮狀態引申的滋長與剪裁。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-8-zi",
+      "title": "音義與「絲」相通",
+      "statement": "由於年齡較小，頭髮一般較為柔軟、細薄，且隨著身體的成長和發育頭髮會逐漸長長，因此其音義也就與「絲」可通：《詩·唐風·綢繆》「子兮子兮，如此良人」毛亨傳「子兮者，嗟茲也」；《書·堯典》「鳥獸孳尾」，「孳」《史記·五帝本紀》作「字」。",
+      "boundary": "源自《系统汉语》第八章「子」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-8-zi",
+      "title": "滋生、繼續之義",
+      "statement": "在這個階段，身體處於快速發育期，身高、體重以及骨骼結構都在不斷變化，從而生發出滋生、繼續之意。",
+      "boundary": "源自《系统汉语》第八章「子」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-8-zi",
+      "title": "剪裁之義",
+      "statement": "披散的頭髮自然是需要剪短的，同時剪後還會很快地長出，因此指採摘的「采」、割草的「蔡」、割毛的「杀」都與之存在意義上的關聯：《書·梓材》《經典釋文》「梓，本亦作杍」，「梓」从「宰」省聲，而「宰」本通「采」（《禮記·曲禮下》「有宰食力」，王引之《經義述聞》「宰，當獨為采，謂有采地也……古字采與宰通」）。",
+      "boundary": "源自《系统汉语》第八章「子」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-chapter-8-zi",
+      "title": "第八章的設立：第一版無此章",
+      "statement": "此階段也還是屬於兒童階段，因此在第一版中沒有這一章，其相關音義體系散落在其它章中。但在修訂過程中，有關字卷如《采》《絲》等總覺得放在哪章都不合適；而將其單獨歸結為一章後，終於覺得音義順暢了起來。因此本章的核心義項是由孩子的頭髮狀態，而引申指滋長與剪裁。",
+      "boundary": "源自《系统汉语》第八章「子」章首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "廿一年研究的緣起",
+      "statement": "2003年元旦，作者翻看《儀禮》以便瞭解吳起當時的社會生活狀況、搜集小說素材；讀到《士婚禮第二》《士相見禮第三》有關以雁送禮的細節時，不禁想到「宴、筵」與之同音，猜測古時可能是「無雁不成宴」。雁、宴若相關，其它同音字呢？翻開《新華字典》發現它們的確都與「雁」有關聯：「雁」是候鳥，「燕」也是；「簷」則因為燕子在屋簷上作巢，「岩」也如是。於是從元月8日起放下手頭幾乎所有事情，夜以繼日地試圖找出同音字的共同點，名之為「音源字」。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-origin/houji.md",
+      "topic_title": "後記",
+      "topic_summary": "《系统汉语》後記（2025年5月31日）：記作者廿一年研究緣起（2003年元旦讀《儀禮》雁禮而悟同音通義）、語言必然象形擬聲、音源字三原則、加入「形音義一體」第四原則、282 個字根（80 音源＋202 借音）、三百萬字書稿與出版波折、十三「章」的形成、由「圓」「線」到嬰兒發音而改書名《字譜》、2018 年出版與獲獎、六位同行評價、右文說源流與局限（王聖美、段玉裁、朱駿聲、黃承吉、陳澧、沈兼士、梁啟超），以及研究的兩大意義（漢字研究與漢字學習、608 個字根）。"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "語言必然象形擬聲",
+      "statement": "作者的指導思想很簡單：漢語是世界上僅存的、一直被連續使用的最古老的語言，它的來源必然是自然產生的；因此不管是它的字形還是讀音，一經產生就必然要做到不用讀書就能讓人明白，否則不能起到溝通作用。這就要求語言必然是象形和擬聲的，因為只有跟人們所熟知的事物直接相關，才能夠引起共鳴。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "音源字三原則",
+      "statement": "探尋同音字的音源字時秉持的原則：首先，字本身所代表的事物所產生的聲音與字的讀音相同或相似，「鵝」必然如鵝叫，「燕」必然如燕啼；其次，字本身所代表的事物所包含的意義具有廣泛的代表性，其它同音字所表示的意義都能從中找出某種關聯，「噩」從鵝叫之狀，「含」從燕之銜泥；第三，字本身所代表的事物至少是商周時代的，因為漢語的系統是在此之前建立起來的。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "從《漢字的同音通義》到第四原則",
+      "statement": "基於這三個原則花了年多時間完成《漢字的同音通義》，但結果只歸納了這樣一種現象，且前人多有論及（如王力《同源字典》）；其論證是直覺性的，經不起推敲。作者犯了致命的錯誤——脫離了漢字字形——於是添加第四個研究原則重新開始：每個漢字必然是形、音、義一體的。依《說文解字》和《新華字典》所錄的字，按字形和讀音的相似性全面整理，拋棄《說文》依形旁歸類的方式而採取依聲旁歸類，再將聲旁最早的字形找出辨析以尋其最初本義。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "282 個字根與《漢語的音義起源》",
+      "statement": "得出結論：《說文解字》所倡言的「形聲字」是一個根本的錯誤，漢字的核心在於它的表聲部分，其所謂的「形旁」才是孳乳的，如拼音文字的詞綴一般；當把所有漢字整理完時，漢語的字根系統也就昭然若揭了。到2005年10月完成初稿，確立了282個字根，其中80個為音源字根、202個為借音字根；書名改為《漢語的音義起源》，篇幅由二十萬字增至四十萬字。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "出版波折與三百萬字書稿",
+      "statement": "2006年9月作者出任朋友公司經理，書稿只能晚上進行；2009年底辭掉年薪十萬的工作，2010年元月至2011年7月整整一年半每天花十二小時以上完成書稿。由於釋義儘量採用《玉篇》《廣韻》《集韻》《字彙》《康熙字典》等古典原注，篇幅增至三百萬字。書名由《漢語元素》改為《系統漢語》並附加《字源卷》。曾聯繫好出版社、向衡陽市社會科學聯合會申報出版資助獲兩萬元，《衡陽晚報》以《李銀：十年一劍漢語夢，三百萬言溯字源》專題報導；2012年與朋友合開保健品公司虧七八萬元，出版經費成泡影；同年8月回原企業上班，2015年底企業改制終結後離職。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "十三「章」的形成",
+      "statement": "作者仍舊沒有停止探究，業餘時間全花在上面。隨著新材料的發現，特別是張儒、劉毓慶編著的《漢字通用聲素研究》和任繼昉的《漢語語源學》啟發很大；按照「漢字的通用聲素」即古漢語的通假關係對原來的字根重新歸類，並以連綿詞為突破口對「卷」與「卷」之間的關係進一步分析，從而歸納出十三「章」，2016年5月最終形成第四稿。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "由「圓」「線」到嬰兒發音、改書名《字譜》",
+      "statement": "為方便一般讀者閱讀又對該稿重新編輯，刪節引文、儘量採用簡化字。2017年2月接近完成時，感覺各章之間還存在某種關係，全部漢字似乎只有兩大概念——一為「圓」、一為「線」。21日清晨作者躺在床上冥想，突然悟到：語言本是動物天生的本能，最初的語言體系本就是依據嬰兒的發音；「字」指的不就是嬰兒的孕育？於是打亂原來的結構按這一認識再行歸類，整整一個月完成，並決定將書名改為《字譜》（因申報社科資助項目的書名為《系統漢語》，故仍採用原書名）。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "2018 年出版與獲獎",
+      "statement": "2018年5月終於付梓。2018年6月30日—7月1日在上海召開的「第二十一次漢字書同文國際學術研討會」上，該書榮獲「系統創新獎」和「漢字書同文研究鼓勵獎」；10月19日—22日受邀參加鄭州「首屆跨文化漢字國際研討會」並宣讀論文《系統漢字淺談》；10月27—28日參加中國科學院大學「新時代漢字教育創新論壇暨第三屆漢字教育科學化國際研討會」，該書被評為推薦書目；2019年7月8—10日參加馬尼拉「漢字與漢字教學國際學術研討會」並介紹如何利用《系統漢語》進行對外漢語教學；2021年參與鄭州大學李運富教授主編《課本裏的漢字探秘》第四冊編著，次年8月由語文出版社出版，列入「古文字與中華文明傳承發展工程」項目成果。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "同行評價",
+      "statement": "戴汝潛（原中央教科所研究員）：「《系統漢語》是現代漢語言文字研究人的傑作，也是古來漢語漢字研究歷史的一頁光榮。」黃亢美（南寧師範大學教授）：「是一本比較系統的現代『右文』之說」「認同者會如獲至寶」。任繼昉（中南大學教授）：「漢語字詞非一盤散沙，《系統漢語》能紅線串珠。」周金聲（湖北工業大學教授）：「這部巨著是中國語言文字研究史上的一座里程碑。」王運昌（悅讀識字法創立人）：「這樣大系統地為漢字立譜的人，李銀先生可謂中國漢字發展史上第一人。」史雙田（教育部中央電教館漢字教育技能特級導師）：「原來漢字釋義，從聲旁入手是可以這樣簡單、全面並且系統！」",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "右文說的源流",
+      "statement": "右文說是根據形聲字的聲符來推求詞義的一種學說，因形聲字的聲符多在右邊而得名。其提出始自北宋王聖美，但源頭可追溯到先秦以來的「聲訓」：漢劉熙《釋名》開右文說先河，其後經晉揚泉《物理論》、南唐徐諧《說文繋傳》、梁顧野王《玉篇》，到王聖美《字解》才正式提出。清代是訓詁學發展的總結和轉型時期，《字詁》《義府》等許多地方都是關於右文的；錢大昕、王引之、桂馥、王念孫等都曾論述，最著名者為段玉裁——他在音近義通的範圍內運用右文法，即「凡从某字皆有某之義」，並認為「古今先有聲音而後有文字」、提倡「以聲為義」。其後朱駿聲《小學識餘》、黃承吉《夢陔堂文集》、陳澧《說聞聲表》也對右文說進行了系統研究。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "右文說的局限與前人侷限",
+      "statement": "右文說的局限主要表現在兩方面：有些右文在字體結構中位置並不居右，造成名實不符；有些文字特別是在甲骨文未出土前，許多字的字形雖是錯別字卻無從知道，依據右文說自然無法理解。因此大多數語言學家對右文說持批判態度，認為「因聲求義」違背了語言音義結合的任意性原則。作者讀到沈兼士《右文說在訓詁學上之沿革及其推闡》可謂醍醐灌頂（「可以分訓詁之系統；可以察古音之變遷；可以窮語根之起源；可以朔語詞之分化」），陳寅恪也推斷「大約中國語言文字之學，以後只有此一條路可走」；但沈氏將漢字演進割裂為「先為意符字——象形、指事、會意；後為音符字——形聲、轉注、假借」兩階段，將初級階段定義為不能用語音表現的「文字畫」，終究被《說文》所累。梁啟超《從發音上研究中國文字之原》則已覺察「凡形聲之字，不惟其形有義，即其聲亦有義」，可惜未引起學界足夠重視。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-houji",
+      "title": "研究的意義",
+      "statement": "對於漢字系統尤其音源系統的全面研究，作者所做只是一個開始。其意義：在漢字研究上，使漢字諸多疑難問題特別是音韻學方面的一些問題有了新的較為科學、明確的解決方向，使漢字古音的模擬有了較為可信的參照體系，使漢字的規範化有章可循、有法可依；在漢字的學習上，使漢字的認讀變得形象生動、成為名副其實的「情景漢語」，特別是對外漢語推廣上，外語人士可以不借助任何母語、只需通過模擬自然界常見的事物就能直接學會漢字——掌握608個字根，就能通曉古今漢字，使學習漢字至少比過去少花一半時間。",
+      "boundary": "源自《系统汉语》後記。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
