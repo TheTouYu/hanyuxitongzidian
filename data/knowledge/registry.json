@@ -1858,6 +1858,15 @@
       "summary": "《系统汉语》书末《索引筆劃檢字表》的性质与结构：以「笔画数 + 起笔」为检索入口、三步查字法（本表→《索引》→正文）；16 个笔画段、105 个起笔组、2301 个单字，表内页码 29–84（索引页码）对应正文 4–1752；艹按三画、十六画以上归一段；附《疑難雜字筆劃檢字表》为补充。",
       "keywords": [],
       "permission": "public"
+    },
+    {
+      "id": "topic-suoyin-yinan",
+      "node_id": "hanzi-origin",
+      "title": "疑难杂字笔划检字表：异体·讹俗·正文页码",
+      "path": "knowledge/hanzi-origin/suoyin-yinan.md",
+      "summary": "《系统汉语》书末《疑難雜字筆劃檢字表》：《索引筆劃檢字表》的补充表，收不常用异体字、讹字、俗字与旧简体；按笔画与起笔编排，16 个笔画段、104 个起笔组、2372 条（2353 个不同字形），所附页码为正文页码 4–1753，可一跳到正文，与索引笔划检字表的两跳流程互补。",
+      "keywords": [],
+      "permission": "public"
     }
   ],
   "relationships": [],
@@ -37988,6 +37997,56 @@
       ]
     },
     "clm_3E7A8DFCA7C9369AAD5B324E07": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_DC359A2D3A00D78BBC93279528": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_626AA21C312AD7BC027A622C87": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_1B8748CD417C0ED97C1405B218": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_5BBE44034BE21AD350ADBC50B6": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_ABDD2A3CA8DD7D970630CB7DC2": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_7DB035D0B327122DBEC33CA734": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_45925684208121E9253F8BDCCF": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_F7152426401104FACE3DE6BD5A": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_32207FED2A355A8C83FBBC5510": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_554AC3757837209D336DF5CD2B": {
       "fact_classes": [
         "evidence_scope"
       ]

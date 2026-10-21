@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》疑难杂字笔划检字表（索引表的补充表）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "疑难杂字笔划检字表：性质与用途",
+      "statement": "《系统汉语》正文之后另附《疑難雜字筆劃檢字表》（源文件 `D:\\修订\\疑難雑字檢字表.doc`），是《索引筆劃檢字表》的补充表。凡不常用的异体字、讹字、俗字以及简体字，在《索引》里查不到或不易查到的，都收在这张表里；表前说明即明言「本表為《索引筆劃檢字表》的補充」。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-origin/suoyin-yinan.md",
+      "topic_title": "疑难杂字笔划检字表：异体·讹俗·正文页码",
+      "topic_summary": "《系统汉语》书末《疑難雜字筆劃檢字表》：《索引筆劃檢字表》的补充表，收不常用异体字、讹字、俗字与旧简体；按笔画与起笔编排，16 个笔画段、104 个起笔组、2372 条（2353 个不同字形），所附页码为正文页码 4–1753，可一跳到正文，与索引笔划检字表的两跳流程互补。"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "列的编排方式",
+      "statement": "列字方式与《索引筆劃檢字表》相同：先按笔画数分段（一劃至十六劃，十六划以上一律归入十六划），段内再按起笔分为【一】【丨】【丿】【丶】【乛】【𠄌】【く】七组，组内逐字排列，字后附阿拉伯数字。因异体字十分繁杂，为节省篇幅，本表主要以字根的异体字为主。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "表的规模",
+      "statement": "全表分 16 个笔画段、104 个起笔组（一划段因字少未设起笔组），共收字 2372 条，其中不重复字形 2353 个，重出的多为同字异写。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "各笔画段的收字分布",
+      "statement": "各段条数依次为：一劃 11、二劃 19、三劃 39、四劃 91、五劃 155、六劃 220、七劃 226、八劃 235、九劃 242、十劃 206、十一劃 201、十二劃 160、十三劃 142、十四劃 108、十五劃 72、十六劃 245；以十六劃最多（245），一划最少（11），四至十二划为收字密集区。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "表内页码直接是正文页码",
+      "statement": "本表字后所附的阿拉伯数字是**正文页码**，分布区间为第 4 页至第 1753 页（共 755 个不同页码），不经《索引》中转。这与《索引筆劃檢字表》不同——后者给的是《索引》自身的页码（29–84），须再经《索引》换算才到正文。故本表是「一跳到正文」，索引笔划检字表是「两跳到正文」。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "本表与索引笔划检字表的分工",
+      "statement": "两表互补：符合汉字系统规律的字（含其简化字、常见异体字）走《索引筆劃檢字表》→《索引》→正文；不合系统规律的疑难杂字、讹字、俗字走本表→正文。查字时先试索引表，查不到再来本表，这是表前说明所定的次序。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "所收疑难字的类型",
+      "statement": "表中所收主要有四类：一、异体字（同字的不同写法，尤以字根的异体为主）；二、讹字（形近而误写的字）；三、俗字（民间通行而不合正体的写法）；四、简体字（与今日规范简化字不同的旧简写）。这些字在正文中或只出现一次，或仅作为字根异写出现，故不入《索引》正表。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "使用流程",
+      "statement": "查到本表后只有一步：按所注页码直接翻到正文，在该页的音源字、部、字族范围内找到该字。若只知字形而不知其正体，可先在本表查到页码，再从正文该页的上下文回推它属于哪个音源字、哪一部，从而得到它的正体与音义来源。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "两表留档并列存放",
+      "statement": "本表与《索引筆劃檢字表》的提取件、解析件两两并列存于 `intake/`：本表为 `20261021-疑难杂字检字表.txt` 与 `20261021-疑难杂字检字表-解析.json`，索引表为 `20261021-索引笔划检字表.txt` 与 `20261021-笔画检字表-解析.json`。两份解析件采用同一 schema（`stroke_groups` → `starts` → `entries`），差别只在 `entries` 中的数字：本表是正文页码，索引表是索引页码，程序可按此字段名区分两种检索链。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-origin",
+      "topic_id": "topic-suoyin-yinan",
+      "title": "数字化时的两点失真",
+      "statement": "原表数字化后有两处失真须说明：一、约 9 行在原稿中把两个「字 + 页码」并排挤在一行（如「𠃋 510𠄎 772」），已按「字+数字」的规律拆开计数；二、少数极生僻字在原稿中以图片嵌入或留空，文本提取后只剩页码，解析件中以空字形保留其位置。",
+      "boundary": "源自《系统汉语》疑难杂字笔划检字表。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
