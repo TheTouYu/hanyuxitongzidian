@@ -153,6 +153,13 @@
   }
   .glyphs figcaption { font-size: 10px; color: #a89e8e; margin-top: 3px; }
   .glyphs .empty { font-size: 13px; color: #a89e8e; padding: 8px 0; }
+  .glyphs.wrap { flex-wrap: wrap; overflow-x: visible; }
+  .glyphs-more {
+    display: inline-block; margin: -6px 0 12px; padding: 3px 11px;
+    font: inherit; font-size: 12px; color: var(--accent); background: #fff;
+    border: 1px solid var(--line); border-radius: 999px; cursor: pointer;
+  }
+  .glyphs-more:hover { border-color: var(--accent); }
   .photos {
     display: flex; gap: 10px; overflow-x: auto; padding: 0 0 10px;
     border-bottom: 1px dashed var(--line); margin-bottom: 12px;
@@ -226,6 +233,7 @@
     .bubble { max-width: 92%; }
     .glyphs { flex-wrap: wrap; overflow-x: visible; }
     .glyphs img { height: 72px; }
+    .glyphs-more { display: none; }
     .photos { flex-wrap: wrap; overflow-x: visible; }
     .photos img { height: 84px; }
     .card-char { font-size: 36px; }
@@ -325,6 +333,10 @@ function render(text) {
   return html.split(/\n{2,}/).map((p) => `<p>${p.replace(/\n/g, '<br>')}</p>`).join('');
 }
 
+function moreBtn(n) {
+  return `<button type="button" class="glyphs-more" data-count="${n}">展开全部 ${n} 张</button>`;
+}
+
 function renderCard(card) {
   const g = card.glyph;
   const modeNote = card.mode === 'model'
@@ -345,6 +357,7 @@ function renderCard(card) {
       html += '<div class="glyphs">' + g.files.map((u, i) =>
         `<figure><img src="${esc(u)}" alt="${esc(card.char)}字形${i + 1}" loading="lazy">` +
         `<figcaption>${i === 0 ? esc(g.doc) : '·'}</figcaption></figure>`).join('') + '</div>';
+      if (g.files.length > 10) html += moreBtn(g.files.length);
     }
     if (hasPhoto) {
       html += '<div class="photos">' + g.photos.map((p, i) =>
@@ -373,6 +386,7 @@ function renderCard(card) {
       html += '<div class="glyphs">' + r.files.map((u, i) =>
         `<figure><img src="${esc(u)}" alt="字根${esc(r.char)}字形${i + 1}" loading="lazy">` +
         `<figcaption>${i === 0 ? esc(r.char) : '·'}</figcaption></figure>`).join('') + '</div>';
+      if (r.files.length > 10) html += moreBtn(r.files.length);
     }
   }
 
@@ -611,6 +625,16 @@ if (q0) { input.value = q0; submit(); }
     vimg.removeAttribute('src');
     document.body.style.overflow = '';
   };
+
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest && e.target.closest('.glyphs-more');
+    if (!btn) return;
+    const strip = btn.previousElementSibling;
+    if (!strip || !strip.classList.contains('glyphs')) return;
+    const openAll = strip.classList.toggle('wrap');
+    btn.textContent = openAll ? '收起' : `展开全部 ${btn.dataset.count} 张`;
+    if (!openAll) strip.scrollIntoView({ block: 'nearest' });
+  });
 
   document.addEventListener('click', (e) => {
     const img = e.target.closest && e.target.closest('.glyphs img, .photos img, .fam-photo img');
