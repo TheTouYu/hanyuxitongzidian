@@ -34,6 +34,8 @@
 7. 验收：`pkc rebuild` → `pkc validate` → 一条代表性 `knowledge-search` → `pkc knowledge-check`
 8. 提交：`git add` 精确路径 → `git commit`
 
+**哈希因基线变动重算时不必再问**（2026-10-21 主人定）：并行录入推进 commit 会让已批准的 plan 报 `PLAN_STALE_BASELINE`、内容一字未改而 hash 变了。此时若**正文完全相同**，视为已获批准——`knowledge-plan rebase`（或 abandon 后在当前基线上重做）→ 重新 `check --mode delta` + `finalize` → 直接 `bundle-approve` / `bundle-apply`，并在报告里同时注明**旧 hash 与新 hash**、说明只差基线。若正文有任何一个字改动，仍须重新报 hash 请批。plan 卡在 `CLAIM_TOPIC_MISSING` 而 `pkc validate` 通过时，多半是旧快照与并行提交错位，直接 abandon 重做，不要手工改 registry。
+
 修改已有条目用 `knowledge-plan revise-claim`，移动主题用 `move-topic`，不要手改文件。
 
 **汉字知识的 fact_class 约定**：统一用 `evidence_scope`。PKC 的 Authority Ref 是给代码契约类事实用的（设计意图、实现、文档契约），汉字知识是文献证据型，用 `evidence_scope` 表示「以实际资料为界」；这样无需为每条知识伪造 Authority Ref。需要出处时，把原文摘录放进 `sources/` 并 `register-source` + `add-evidence`，走证据面。
