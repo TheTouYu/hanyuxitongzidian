@@ -1,0 +1,443 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷八十五 匚（514.匚部至520.章部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "音源字匚：象槽形器，指箭杆整直器",
+      "statement": "本卷音源字為「匚」，象槽形器，指箭杆整直器；或作「黃」，作矢在匚中形，意思更明確。其音源自矯正箭杆時，在石槽中抽拉箭杆時所發出的聲音。在箭杆選材階段，木料中常常會夾雜很多彎度較大的，需要矯直後使用，「匚」就是用來矯直的工具，矯正的「矯」字裏面帶個「矢」字即來源於此。",
+      "boundary": "源自《系统汉语》卷八十五「匚」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/85a-fang.md",
+      "topic_title": "卷八十五·匚",
+      "topic_summary": "《系统汉语》卷八十五「匚」第514–520部（p1483–p1499）：音源字匚象槽形器、指箭杆整直器，音源抽拉箭杆聲，或作「黃」（矢在匚中）；卷首講箭杆矯直法（《天工開物》「箭端」）、陶寺與八千年前箭杆整直器的考古分佈；514 匚部（匡、匠）；515 黃部（黃＝橫之初文，含廣、寅、舜三系）；516 行部（十字路，含延）；517 王部（玉斧，含皇）；518 兄部（成人取字，含竟）；519 光部（火在人上）；520 章部（刀形玉璧即璋，印章之憑信、泥封、篇章、棕紅）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "箭杆矯直的方法與「箭端」",
+      "statement": "箭杆的矯直方法是：先用火烤熱彎曲的部位，然後一手持槽形器、一手持箭杆，把受熱的彎部嵌在箭端的凹槽裏，兩手用力夾，可反復多次使箭杆較直。這種工具在明代《天工開物·佳兵第十五》稱作「箭端」：「木杆則燥時必曲，削造時以數寸之木，刻槽一條，名曰箭端，將木杆逐寸戛拖而過，其身乃直。即首尾輕重亦由過端而均停也。」四千五百年前的陶寺遺址就發現有不少這種箭杆整直器（長6釐米、寬4.2釐米、厚1.3釐米），但它還不是最早的。",
+      "boundary": "源自《系统汉语》卷八十五「匚」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "箭杆整直器的考古分佈",
+      "statement": "此類石器的遺址範圍分佈極廣：內蒙古有林西白音長汗、元寶山哈喇海溝、敖漢興隆窪、趙寶溝、鄂爾多斯朱開溝；遼寧有阜新查海、長島小珠山；此外還有河北易縣北福地、山東泰安大汶口、陝西神木新華等，年代有的遠早於陶寺，大約在八千年前左右。近東地區公元前9000年的前新石器諸文化遺址中也出現此類工具；除中國以外，在整個歐亞大陸及島嶼、以至非洲甚至北美都有發現。",
+      "boundary": "源自《系统汉语》卷八十五「匚」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "「黃」的黃色義與王、光、章的借音",
+      "statement": "由於矯正箭杆時需要先對箭杆加熱，加熱後的木材顏色會發黃，故「黃」引申有黃色義，從而「王、光、章」借以為音；由抽拉箭杆的動作引申指橫、廣義，故「行」借以為音。",
+      "boundary": "源自《系统汉语》卷八十五「匚」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "匚本義：象槽器，箭杆矯正器",
+      "statement": "匚本義：甲骨文象槽器形，指箭杆矯正器。箭杆一般是細的竹木做成，去皮後要通過矯直、磨光才行，其中要用到的工具就是刻槽石器，可謂「匡（kuāng）」的初文，《廣韻》「輔助也、正也」比較接近其本義。可能因其跟「曲」字形近，造成其本義很早便已失去，後另造「矯」表示：《說文》「揉箭箝也」。",
+      "boundary": "源自《系统汉语》第514部「匚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "匚轉義：放逐、祭祀盛主之器、無蓋容器、一斗",
+      "statement": "由對箭杆的矯正引申指放逐，fàng，《集韻》「放，《說文》：『逐也。』古作匚」；甲骨卜辭中用作祭祀名稱，指匚的作為盛神主之器，當指未正式列入神主之前所放置的匣子，疑為喪期未滿、還未遷入宗廟之故，言其為「報」即報請尚待批准之意。由匚之狀引申指沒有蓋的容器，fāng，《說文》「受物之器。象形」、《六書故》「器之為方者也。又通作筐」、《通雅》「匚為古筐」；或引申指一斗，《廣韻》「一斗曰匚也」。",
+      "boundary": "源自《系统汉语》第514部「匚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "匚辯證：匚匸本一字，又與曲形近",
+      "statement": "《說文》所解「匸（xì）」與「匚」也應是同一字：《說文》「衺徯，有所俠藏也。从乚，上有一覆之」，而「衺徯」之義指傾凵而物有流出，《康典》引《精薀》「匚，受物之器也。匸，𢉀物也。匸與匚形近似而意相反」。另「匚」與「曲」形近，戰國古文或有混同（參見114《曲部》）。",
+      "boundary": "源自《系统汉语》第514部「匚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "匚音源與字族①②",
+      "statement": "音源字，源自矯正箭杆時的抽拉聲。字族衍義：①指矯正，表示整治——匠（从匚从斤，斤所以作器，指工具箱，代指工匠，《小爾雅》「治也」）、𪀘（巧婦鳥）、匞（匠本字，从工从匚）；②指矯正之狀，表示抽拉、驅使——䞪（行皃）、𩣕（與驅同）。",
+      "boundary": "源自《系统汉语》第514部「匚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "匡本義、轉義與字族①②",
+      "statement": "匡从匚从㞷（往），「匚」指石槽，「㞷」象意對亂的、不正的使之直，kuāng，《廣韻》「輔助也、正也」、《玉篇》「方正也」。轉義：由被整治之狀引申指彎曲（wāng，《正字通》「廢疾也。與尩通」，指脛骨彎曲的殘疾人），或引申指亂（分化如𩬹，亂髮）；「匚」本引申指容器故又指筐（《說文》「飲器，筥也」、《正字通》「受盛方器」）。字族：①被匚物，表示淩亂、彎曲——恇（膽怯恐懼）、誆（說大話、欺騙）、劻（急促不安）、哐（撞擊聲）、䒰、䖱（海中大蝦）、𨀕（行遽）、㑌（同尩，瘸腿）、𩬹（亂髮）、𩢼（馬耳曲）；②匚形，表示容器之類——筐（方曰筐、蠶筐）、邼（河東聞喜鄉）、框（棺門、門框）、眶（眼眶）、軭（車輪扭曲）、𢼳（圃之四圍）、𦚞（腔）、𨴑（門框）、洭（水名，兩岸高山深谷如坑）。",
+      "boundary": "源自《系统汉语》第514部「匚部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "黃本義：从矢从箭杆矯正器，橫之初文",
+      "statement": "黃本義：甲骨文从矢从（或从）——「矢」指箭，所从在箭杆位置，當為一種矯正箭杆裝置。據考古發現，古代矯正箭杆的一般為刻槽的石頭，即中間刻有箭槽的矯正器；箭杆一般用細的竹木做成，去皮後要通過矯直、磨光，而且必須要用火烤軟（煣）才能實現。為「橫（hèng）」的初文，《正字通》「木衡也」。",
+      "boundary": "源自《系统汉语》第515部「黃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "黃轉義：黃色、縱橫之橫、不順理",
+      "statement": "竹木製成的箭杆在整直之前需要煣制，會因火烤而變得焦枯，故引申指黃色（《玉篇》「中央色也、馬病色也」）；由箭杆嵌在石槽中的樣子引申指縱橫的橫（分化如「橫」，héng，《正字通》「縱之對，東西曰縱，南北曰横」）；由石槽對箭杆的強行整直引申指不順理、強制（分化如「橫」，hèng，《集韻》「不順理」）。",
+      "boundary": "源自《系统汉语》第515部「黃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "黃辯證：从田从炗不確，佩玉說亦不確",
+      "statement": "可能因「黃」與「堇」相近，或因為整直箭杆時需要用皮革束縛，西周金文或在上面加指皮革的「廿」，箭的尾部春秋金文又訛作「火」，遂形成小篆的「炗」，故《說文》「地之色也。从田从炗，炗亦聲」析形不確。或因為「矢」與「大」相近，將「黃」解為佩玉之人形（郭沫若《金文叢考·釋黃》謂黃乃玉佩之形），貌似合理，但所佩未必一定是黃色，此義無从出。",
+      "boundary": "源自《系统汉语》第515部「黃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "黃音源與字族①②③",
+      "statement": "音源字，源自矯正箭杆時的抽拉聲。字族：①煣制後箭杆之色，表示黃色——潢（積水池、染紙）、蟥（金龜子、螞蟥）、磺（銅鐵礦石、硫磺）、癀（黃疸、炭疽）、鷬（黃鸝）、鱑（黃鱔）、獚（黃狗）、穔（野穀）、黋（明皃）、䵃（大麥、麥麩）、𪏓（葛藤）、䤑（黃酒）、熿（火光、明）；②被整直的箭杆狀，表示橫置——簧（笙中簧，橫施于管中）、橫（闌木、縱之對）、璜（半璧，佩下之飾）、觵（犀角大酒杯，甲骨文以角加一橫表示）、㶇（橫木渡口、方舟）、彉（弓弩張滿）、趪（懸鍾架負重用力皃）、𨎩（車下橫木）、𧝒（小被）、𤮏（小瓦）、鐄（鐘聲、大鐘大鎌、鎖簧）；③對箭杆的整直，表示強橫——黆（武勇貌）、撗（充也）、僙（作力皃）、黌（學舍）、䬝（暴風）。",
+      "boundary": "源自《系统汉语》第515部「黃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "廣本義、轉義與字族①②",
+      "statement": "廣本義：甲骨文从宀从黃，「宀」指屋舍，从「黃」象意屋子十分寬大，表示四周無壁的大殿（「宀」西周金文演變作「厂」），guǎng，《說文》「殿之大屋也」。轉義：由屋子的寬大引申指大、寬、遠（《廣韻》「大也、闊也」、《方言》「遠也」、《廣雅》「博也」），或指擴大、拓寬，或指量寬度（guàng，《集韻》「度廣曰廣」），或指一種橫陣的兵車；由屋子的開闊比喻指心胸的開闊（kuàng，《字彙》「開泰貌」）。字族：①寬廣，表示空闊、明亮——懬（闊、大、寬、怨、虛）、曠（明、空明、遠、久）、壙（墓穴、原野遼闊）、兤（明）、爌（光明、同晃、火光）、矌（目無眹、眼瞎）、𦘅（大耳）；②拓廣，表示粗獷、擴張——礦（銅鐵樸石、粗獷強悍）、獷（狗兇悍不可附）、纊（絲綿絮）、穬（有芒刺的穀物）、鄺（姓、裂）、𠠎（解木）、懭（意不得、悍、恨）、儣（不平）、𩧉（馬旋毛在脊）、擴（引張、張大）、櫎（擱器物之具、屏風、兵器架）。",
+      "boundary": "源自《系统汉语》第515部「黃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "寅本義、轉義與字族①②",
+      "statement": "寅與「黃」本同源：甲骨文象矢穿過丙形，「矢」指箭，「丙」本有孔穴之意，指整直箭杆用的柄形器具，象意整直箭杆。轉義：將彎曲的箭杆矯正使之直，直則變長，故引申指拉引、演進（yín，《玉篇》「演也、瞚也、敬也、強也」；金文將「丙」演變作「𦥑」，拉引之意更明確，分化如「縯」）；古借以表示地支的第三位（紀年為「析木」、紀月為正月、紀時為淩晨三點到五點）。辯證：箭鏃部分小篆訛變作「宀」，故《說文》「髕也……象宀不達，髕寅于下也」析形不確，析義則指所借地支，非其本義。音源：借音字，義音同「引」（《禮記·月令》「蚯蚓出」，《淮南子·時則訓》作「螾」）。字族：①指長——夤（敬畏、連、進、大）、濥（水脈行地中、引水）、螾（蚯蚓）、演（長流、推算）、戭（長槍、長戈、長盾）、殥（偏遠之地）、𡐔（場）、璌（人名）、鏔（無刃之戟）、𦟘（夾脊肉）、縯（長、引）、蔩（王瓜）；②指拉引——瞚（開闔目數搖）、㪦（擣）、𠻤（大笑）。",
+      "boundary": "源自《系统汉语》第515部「黃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "舜（䑞）本義、轉義與字族①③",
+      "statement": "舜（䑞）本義：戰國古文本由「寅」訛變而來（「寅」所从「矢」，戰國古文即與「舜」所从十分相近），其衍生字「瞬」《玉篇》「與瞚同」，其甲骨文本从目从寅。轉義：跟「寅」一樣由拉引之義引申指長，即多年生蔓草（《說文》「艸也。楚謂之葍，秦謂之藑。蔓地連華」，俗名兔兒苗、狗兒秧、打破碗、喇叭花等，地下莖可蒸食），與「蔩」所指類似。字族：①指拉引——瞬（一眨眼）、蕣（木堇，朝華暮落）、𤯷（華榮）、䴄（鳥名）；③形近字「舛」之訛——僢（同舛，相背）、䢬（古遷字）。",
+      "boundary": "源自《系统汉语》第515部「黃部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "行本義：象交叉的十字路，四達之大道",
+      "statement": "行本義：甲骨文象交叉的十字路形，表示可以四達的大道，háng，《爾雅》「道也」。",
+      "boundary": "源自《系统汉语》第516部「行部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "行轉義：行走、行列、行業、行跡、剛強",
+      "statement": "由道路引申指行走、來、去（xíng，《釋名》「兩足進曰行。行，抗也，抗足而前也」），或指運行、流行、行為；由人在道上先後行走之狀引申指行列、次第（háng，《廣韻》「伍也、列也」）；由道路的通向某處引申指處所、行業；由道路上行走的印跡引申指事、行跡、言跡（xìng，《廣韻》「景迹。又事也，言也」）；由道路的硬實之狀引申指剛強（hǎng，《集韻》「行行，剛強皃」）。",
+      "boundary": "源自《系统汉语》第516部「行部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "行辯證：彳亍本是行的省寫",
+      "statement": "由於「行」在作偏旁表示行走時或只寫一邊作「彳」或「亍」，故《說文》「人之步趨也。从彳，从亍」將「行」視作兩字，析形不確；《說文》另釋「彳，小步也」「亍，步止也。从反彳」本是「行」的省寫形式，析義也不確。",
+      "boundary": "源自《系统汉语》第516部「行部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "行音源與字族①②",
+      "statement": "音源字，源自大道上的行走聲；由大路的縱橫狀而義音同「黃」：《史記·天官書》「言縱橫者繼踵」，「橫」《漢書·天文志》作「衡」。字族：①行路，表示流通、行走——彳（小步）、亍（步止）、荇（荇菜，葉浮水面，取四處可飄之意）、洐（溝水暢通）、烆（火炬）、鴴（千鳥）、胻（脛骨上端）、䯒（牛脊後骨、脛骨）；②道狀，表示橫設——珩（佩上橫玉、冠冕橫簪）、䚘（獸角長豎）、衡（綁在牛角上以防觸人的橫木、車軛、權衡、玉衡）、哘（地名）、桁（屋樑上的橫木、刑具、衣架）、筕（竹編粗席）、裄（衣服緣邊、粗縫）、蘅（杜蘅香草，取「衡」于身之意）。",
+      "boundary": "源自《系统汉语》第516部「行部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "延（㢟）本義、轉義、辯證與字族①②",
+      "statement": "延本義：甲骨文本與「𢓊（徙）」同源，从彳从止，但側重點不同——「𢓊」从彳止聲，表示本沒有路而踩出了路，象意遷移、逃避，此義分化作「徙」；「㢟」从止彳聲，表示沿著道路前行（chān，《說文》「安步㢟㢟也」），戰國古文在上面又加「丿」作「延」（yán，《說文》「長行也」）。轉義：由道路的延伸引申指長、遠，表示空間的伸長、鋪陳與時間的拖延、久遠（《方言》「遍也」、《廣韻》「遠也、進也、長也、陳也」）。辯證：因「延」所从與「正」形近，或以「延」與「𨒌」同（「𨒌」本「征」的異體）。字族：①指長、遠——筵（鋪地竹席，言其長）、郔（鄭地）、埏（八方之地、墓道、揉和）、𢌨（相顧視而行）、挻（用手拉長、取物而逆）、脠（生肉醬）、䘰（保溫的車蔽）、硟（用石器碾壓繒帛使之平展有光澤）、鋋（鐵柄短矛）、梴（長木）、唌（語中夾歎息）、蜒（蚰蜒、蜿蜒）、狿（似狸而長）、莚（草根連綴）、娫（女字、美好）、綖（冕前後垂覆）、鯅（魚醬）、涎（口水、連延）、䗺（蟲形）、䩥（馬帶、皮鞋）、𠈰（大）、𢚀（憐念）、𣆴（更）、𨁆（行）；②指放任——誕（詞語荒誕、虛妄誇張、誕生哇哇大哭）、蜑（南方夷、沿海漁民、蛋）、烻（光熾）、駳（沒有鞍轡的裸馬）、𦋪（同誕）、𦧝（言不正）、𩃀（雲皃）。",
+      "boundary": "源自《系统汉语》第516部「行部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "王本義：象闊刃短柄兵器，指玉斧",
+      "statement": "王本義：甲骨文象闊刃短柄的兵器形，應是指代表無上權力的某種玉斧（商代銅柄玉斧、雙龍首玉斧），從而表示首領、君主之意，wáng，《廣韻》「君也」。辯證：由于後期甲骨文的刃部或簡寫成一橫，演變作「王」字形，故《說文》引董仲舒「三畫而連其中謂之王」、孔子「一貫三為王」析形不確。",
+      "boundary": "源自《系统汉语》第517部「王部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "王轉義與音源",
+      "statement": "轉義：人多勢眾，才有所謂首領，故引申指大、盛（wàng，《廣韻》「大也、盛也」、《集韻》「興也」）。音源：借音字，因有治理義而義音同「黃」：《廣雅·釋草》「王連，黃連也」。",
+      "boundary": "源自《系统汉语》第517部「王部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "王字族：多以㞷為聲，表急、多、亂",
+      "statement": "王字族多以「㞷」為聲，指歸往，表示急、多、亂：㞷（《說文》析為艸木妄生不確，本从止从王，與往、迋同源）、迋（往、慰勞、欺）、逛（走皃）、𢓸（往，行也去也、歸嚮）、𣳫（汪，深廣、停水臭）、枉（樹木斜曲、冤抑）、尩（曲脛、尪弱）、𢼟（放逐、曲）、暀（光美、旺）、𨌂（紡車、一輪車）、抂（亂皃）、忹（邪曲）、𣢫（佞、妄）、仼（急行）、䍿（皇舞，以羽自翳其首以祀星辰，又與凰通）、蚟（蟋蟀，指其好鬥）、𤝵（瘋狗、癲癡、惑、躁）、俇（遠行、惶遽）、㤮（誤、詐、惑）、誑（欺騙）。",
+      "boundary": "源自《系统汉语》第517部「王部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "皇本義、轉義與字族①②③④",
+      "statement": "皇本義：初期甲骨文从日有光芒从丨（十），象意太陽光的猛烈（「十」或作「丰」，也是多的意思），商代金文改从「王」也是指盛大、猛烈，為「煌」的初文（《玉篇》「光明也」）。轉義：由太陽的光芒引申指天，因古代君王自稱天子故又引申指君；由輝煌引申指美麗、盛大、艸木的花；由陽光的普照大地使萬物顯現引申指匡正；猛烈的太陽往往帶來旱災，故引申指除旱之祭（《周禮·地官》皇舞），或引申指黃色（《爾雅》「黃鳥」）；旱災往往伴隨蝗災，故引申指恐慌（分化如惶）、響聲巨大（分化如喤）。辯證：因有光芒的「日」與「自」形近，小篆訛从「自」，故《說文》「大也。从自」析形不確。字族：①太陽大，表示美麗、盛大——煌（光輝）、葟（花之美、茂）、媓（母）、凰（雌鳳）、艎（大船）、篁（竹園）、鰉（鰉魚）；②太陽大，表示乾旱、色黃——隍（無水的護城壕）、堭（殿堂）、餭（乾飴糖）、崲（地名）、䅣（糜子，黃而不黏）、騜（馬黃白色）；③蝗災，表示恐慌、彷徨——楻（旗杆）、惶（恐懼）、遑（匆忙、閒暇）、湟（水名）、徨（彷徨）、偟（仿偟、暇）、蝗（食禾蟲）；④蝗災，表示響聲大——鍠（鐘鼓之聲、儀鍠）、喤（小兒嚎哭）、瑝（玉聲）、諻（大聲）、韹（樂聲）。",
+      "boundary": "源自《系统汉语》第517部「王部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "兄本義：从人上有口，象人成年",
+      "statement": "兄本義：从人上有口，象意能口呼其人，表示人的成年。古代在人成年時要舉行加冠儀式，並有了正式的名字：《禮·曲禮》「男子二十冠而字」、《儀禮·士冠禮》「冠而字之，敬其名也。君父之前稱名，他人則稱字也。又女子許嫁筓而字」。（明陳洪綬《晉爵圖》）",
+      "boundary": "源自《系统汉语》第518部「兄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "兄轉義與音源",
+      "statement": "由人的成年引申指年長、大（xiōng，《說文》「長也」、《釋名》「兄，荒也。荒，大也」）；名字為其人，也非其人，故「兄」有比況、恍惚義，其字族取義也多類此（《新甲骨文編》所錄甲骨文則象人頭上插簪形）；由人的有名字引申指增加、滋益、比附（kuàng，《集韻》「況，益也、矧也、譬也」）。音源：借音字，名之辨人如光之照，故義音同「光」（《史記·司馬相如列傳》「聽惝恍而無聞」，「恍」《漢書》作「怳」）；古兄、王亦可通（《書·秦誓》「我皇多有之」，「皇」《公羊傳·文公十二年》作「況」）。",
+      "boundary": "源自《系统汉语》第518部「兄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "兄字族：多指比擬，表示空、大、模糊",
+      "statement": "兄字族多指比擬，表示空、大、模糊：況（比擬、更加、況且）、貺（賜、贈）、怳（狂放、模糊不清、忽然、悵惘）、眖（對看）、軦（黃軦，蟲名，疑本指車輪，大抵指蝗蟲）、岲（山名）、𣍦（水名山名）、炾（爌炾，寬闊明亮）、㒭（同昆，兄弟）、㚾（嬉、美姿）、㫛（明）、𣅷（日中風）、𦬺（小風、草名、失意皃）、𪋃（麛的俗字）。",
+      "boundary": "源自《系统汉语》第518部「兄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "竟本義、轉義、辯證與字族①②",
+      "statement": "竟本義：甲骨文从辛兄聲——「兄」指成人儀式上的取字，「辛」象刻刀或髮簪形，象意成人儀式上的簪髮或紋身（古代男二十、女十八時舉行成人儀式，男子先簪髮後加冠，女子則只簪髮）。轉義：舉行完成人儀式後男子就是「夫」、女子就是「妾」，意味著童年學習時代的結束、成年時代的開始，故引申指界限（《集韻》「界也。或作境」），或指完畢、終盡（《廣韻》「窮也、終也」）。辯證：由于「兄」所从「口」與「辛」相接，小篆誤作从音从人，故《說文》「樂曲盡為竟。从音从人」析形不確；另「竞、竟」本一字，今天的「竞」本是「競」的簡寫，而「競」本「竟」的二疊，表示貼得十分緊密、沒有差別，引申指競爭（所从「竟」甲骨文即从辛从人，西周金文「辛」改成「丯」，也從側面說明「竟」應當是从辛）。字族：①界限，表示完畢、終結、緊貼——境（疆界）、鏡（照見形影）、摬（擊中）、滰（把浸泡的米濾乾）、傹（同僵、強、畢）、樈（鑿柄）、璄（玉光）、糡（漿糊）、䭗（餌、飽）、䔔（艸名）、𣩜（病貌）；②緊貼，表示相爭、相逐——競（強語、逐、爭，从「竟」的二迭，既可象意人的越來越成熟強壯，也可指人與人之間的競爭）、獍（狀如虎豹而小，始生還食其母）、𩺿（鯧魚別種）。",
+      "boundary": "源自《系统汉语》第518部「兄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "光本義：从火在卩（跪人）上，象人借火光視物",
+      "statement": "光本義：从火在卩上，「卩」為跪著的人形，从「火」在頭上，象意人借助于火的照明以看見事物，guāng，《說文》「明也。从火在人上，光明意也」。（戰國跪人銅燈）",
+      "boundary": "源自《系统汉语》第519部「光部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "光轉義與音源",
+      "statement": "轉義：由光照的明亮引申指榮耀、色彩（《廣雅》「寵也、照也」、《正字通》「蕐采也」），或指裸露、空盡；由光的映照物體表面引申指上色（guàng，《集韻》「飾色也」）。音源：借音字，火光顏色偏黃，故義音同「黃」（《左氏春秋·襄公二十年》「陳侯之弟黃出奔楚」，《公羊傳》《穀梁傳》作「光」；《書·堯典》「光被四表」，漢《成陽靈台碑》作「廣」）。",
+      "boundary": "源自《系统汉语》第519部「光部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "光字族①②",
+      "statement": "字族：①光的耀眼，表示明晃、亮堂——洸（水波動盪閃光、武）、晄（明晃）、胱（膀胱，取其薄而能透光）、茪（芵茪，其實稱決明子，有明目作用）、姯（女色姸麗）、珖（玉笛）、垙（田間小路）、熀（寬明、同晃、火光盛）、硄（石聲、石色光澤）、幌（窗簾帷幔、頭巾、酒店招子）、皝（前燕慕容皝）、絖（絮、細緜、八十縷）、銧（化學元素「鐳」的舊譯）；②光的照亮，表示明顯、盛大——輄（車下橫木）、挄（同擴，擴充）、咣（能言、言成章、撞擊聲）、恍（恍惚、模糊不清、武）、桄（充滿、織機桄、桄榔樹）、榥（讀書床、屏風、以帛明牕）、鎤（鐘聲）、䁜（目大皃、目疾）、侊（盛大，《段注》謂「小當作大」）、駫（馬盛肥）。",
+      "boundary": "源自《系统汉语》第519部「光部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "章本義：从〇从辛，象刀形玉璧，璋之初文",
+      "statement": "章本義：甲骨文由〇和辛組成，〇指玉璧，「辛」指刀，象意刀形的玉璧，為「璋」的初文：《說文》「剡上為圭，半圭為璋」，《禮》六幣「圭以馬，璋以皮，璧以帛，琮以錦，琥以繡，璜以黼」。（五璋）",
+      "boundary": "源自《系统汉语》第520部「章部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "章轉義：五璋之用、憑信、標記、篇章、紅色、阻隔、疑懼",
+      "statement": "璋是古代神聖禮器，《周禮》記載有赤璋、大璋、中璋、邊璋、牙璋五種：赤璋用于祭祀南方之神；天子巡狩時大山川用大璋、中山川用中璋、小山川用邊璋（祭山則埋玉、祭川則投玉于河）；牙璋用于軍事調兵遣將的符節。因此璋實際上是上古王公貴族身份的標誌，起著憑信的作用（見璋如見人），引申指標記、標明（《玉篇》「明也」），或指花紋、文彩。據出土文物，商代即已出現嚴格意義上的印章，而遠在9000年前的河南舞陽賈湖遺址已發現類似的陶印，故「章」所从〇也可能是印章的紋樣形，印章也可說是「章」的本義。印章之用有二：一是沾印泥蓋在文書上，蓋章意味著一篇文書的終結，故引申指詩文或音樂的段落（《廣韻》「篇章」），或指法規、章程；常規印泥多紅色，故引申指紅色（分化如樟，木質色棕紅）。二是蓋在軟的泥質上（賈湖陶印即工匠印在陶坯上作標記），古代封存文書或重要物資時在繩結或函口處封一團泥並蓋印，稱「泥封」，泥封一碎即意味著被打開過，從而引申指阻隔、遮蔽、防護（分化如墇）；蓋章時為使字劃清晰還要用力按住並來回壓實，從而引申指因為疑懼而邁不動腿的樣子（分化如慞）。",
+      "boundary": "源自《系统汉语》第520部「章部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "章辯證與音源",
+      "statement": "辯證：「章」跟「璧」可能同源，都从辛从〇，但「璧」所从「辛」指其作為信物的功用，非實指；為了區別，「章」的商周金文將〇移至辛下，演變為小篆的从音从十，故《說文》「樂竟為一章。从音，从十。十，數之終也」析形不確。音源：本「辛」聲，古章、商即可通用（《易·兌》「商兌未寧」，馬王堆帛書本作「章」；《呂氏春秋·勿躬篇》「臣不如弦章」，《韓子·外儲說左篇》作「弦商」）；因有彰明義而義音同「黃」（《爾雅·釋天》「在庚曰上章」，《史記·曆書》作「商橫」，「橫」本「黃」聲）。",
+      "boundary": "源自《系统汉语》第520部「章部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-85-fang",
+      "title": "章字族①②③④",
+      "statement": "字族：①印章的憑信作用，表示顯明——彰（錯綜複雜的花紋或色彩）、暲（明、日光上進皃）、璋（半圭）；②印章的封印，表示阻隔、遮蔽——墇（隔障、壅、防）、障（阻隔、步障、障泥）、鄣（紀邑、塞上要險處築城以為鄣蔽）、幛（以布帛題字作慶吊禮物、遮蔽）、嶂（山之高險者、峰嶂）、㢓（壅）、瞕（目生瞕瞖）、瘴（熱帶山林濕熱蒸鬱致病的氣）、𩌬（鞍飾）；③印的顏色，表示棕紅——鱆（章魚，八爪魚，本色紫紅）、𪅂（水雞）、漳（漳河，清濁二源）、樟（樟樹，木質棕紅）、鏱（同錦）、騿（馬名）、𡈠（即章）、𤍤（同炮仗）、蟑（蟑螂，體扁紅褐）、蔁（商陸，莖與熟果皆棕紅）、麞（獐，毛细短光潤微帶紅棕）；④蓋章時的按壓狀，表示張惶、疑懼——慞（慞惶，懼）、嫜（夫之父母）、傽（傽偟，驚恐貌）、遧（周遧，迃）、𢕔（𢕔徨，行不正、行遽）、𢷢（音鄣）、𧽣（走也）、𨙏（慢行）。",
+      "boundary": "源自《系统汉语》第520部「章部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
