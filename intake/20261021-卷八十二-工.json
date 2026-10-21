@@ -1,0 +1,887 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷八十二 工（500.工部至508.𠨎部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "卷八十二音源字：工",
+      "statement": "本卷音源字為「工」，象夯築用的杵形，其音源自築牆聲。「工」與「杵」本無本質的不同，但「工」不是指用杵加工糧食，而是用於築土，將土層層疊壘緊實成為路面、牆壁等，因此所用的杵自然比加工糧食的要沉重得多，多以石頭做成，俗稱作「夯」，即要花費大力氣使用之意。它是我國最為古老的建築技術，古文明遺址所留下的基本上都是這種建築。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/82a-gong.md",
+      "topic_title": "卷八十二·工",
+      "topic_summary": "《系统汉语》卷八十二「工」第500–508部（p1439–p1467）。音源字工象夯筑用的杵形、音源筑墙声；工与杵本无本质不同，但不是加工粮食而是筑土，即版筑。卷首讲版筑工序与名物（榦/栽、楨/牏、縮、築、斩板、插竿）、版筑的优点与历史、工与空（宫/用/孔）及共的借音、字形辩证（修正腰机说为夯杵）。第十一章「兄」次卷。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "版築的施工工序與名詞",
+      "statement": "古人建房造牆，很長一段時期不是用磚而是築土成牆，即「版築」，《孟子·告子下》「傅說舉于版築之間」即其證。施工時須先立擋土版：兩側的擋土版名「榦」又名「栽」，前端的擋土版名「楨」、漢代又名「牏」；為防擋土版移動，須在版外立樁並繞過樁用繩將版縛緊，此繩名「縮」；將楨、榦縛植完畢即可填土打夯，打夯的動作名「築」，打夯的工具（夯杵、夯頭）亦名「築」，其初文即「工」。夯完後砍斷縮繩、拆去牆板，這道工序稱為斬板；夯築高牆時須搭腳手架，要在夯層中安置插竿，施工完畢拆去腳手架，壓在夯土中的插竿還能起到加固作用。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "版築的優點與歷史",
+      "statement": "這種建築方式因地制宜、造價低廉，造出的房屋具有良好的保溫性能，冬季溫暖、夏季涼爽；夯土建築的材料穩定性高，可有效抵禦外部因素的影響，是一種非常實用、環保的建築方式，尤其適合在農村地區使用。因此儘管我國戰國時期就發明了磚，但直到秦漢仍只用來砌築墓室和鋪地面，用磚砌牆造房是比較後來的事且應用範圍有限，一般百姓民居仍用版築技術建造，至今在我國北方農村地區還在採用。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "工與空、宮、用、孔的借音",
+      "statement": "由於「工」是用來築牆的，故為「空」，指形成的空間，「宮、用、孔」都因此而借以為音。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "由雙手持杵之狀，共借而為音",
+      "statement": "由雙手持杵而築之狀，「共」借而為音，其字族音義多跟《黽》相通。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "工的字形辯證",
+      "statement": "對其本義莫衷一是：《說文》「巧飾也，象人有規矩也，與巫同意」，徐鍇以之為尺，但尺有直尺、曲尺，根據甲骨文字形來看都不象，應非，況且曲尺本有「曲」字。舊說或以其象織布腰機形，「口」為套在腰上的帶子與卷軸、「丅」為經軸，是最為原始的織布機具，因織時為踞坐之勢也稱「踞織機」；但綜合其字族來看，築牆之說更為合理，故作修正。",
+      "boundary": "卷首",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "工本義：夯築用的杵",
+      "statement": "象夯築用的杵形。何金松《漢字形義考源》：「甲骨文工字象築牆杵，本義是工程，除據形直觀外，並可从建築發展史及从工之字證明。」劉恒《殷契偶劄》認為「口為夯所為之石形，上端丅則象連石夯之把」。轉義：由築牆引申指工匠（《韻會》「匠也」，《禮·曲禮》天子六工：土工、金工、石工、木工、獸工、草工），由工匠引申指事務（《正韻》「事任也」、《玉篇》「官也」），或引申指技巧、精巧、擅長（《廣韻》「巧也」）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "工的音源與借音",
+      "statement": "音源字，源自築牆聲；義音同「公」：《詩·小雅·六月》「以奏膚公」，「公」《漢書·劉歆傳》作「功」；《集韻》「䰸，或从工」。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "工的字族：攻擊與堅實",
+      "statement": "①指築牆，表示攻擊、堅實、對舉：攻（攻打、進擊，《廣韻》「治也、作也、伐也」；閹割；《博雅》「堅也」，堅固精緻）、匞（匠本字，《精薀》「从工从匚，出于規矩準繩，象方正之意」）、功（《說文》「以勞定國也」，用盡力量建立和穩定國家；《釋名》「功，攻也，攻治之乃成也」；大功小功為喪服名，或作紅）、矼（石橋，聚石水中以為步度彴，通作杠）、杠（床前橫木，引申指長杆、旌旗竿、石橋、較粗的棍子）、虹（螮蝀，甲骨文象兩龍相接形，雨後日光照水珠折射而成，紅在外紫在內；顏色淡白者為霓）、扛（《說文》「橫關對舉也」，以木橫持門戶曰關，凡大物而兩手對舉之曰扛）、釭（車轂口鑲嵌的鐵圈，《釋名》「釭，空也」；又指燈、箭鏃）、𧢸（舉角）、䜫（同谼，大壑；䜫谷在南郡）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "工的字族：聲音洪大與上長下肥",
+      "statement": "②指築牆，表示聲音噪雜、洪大：羾（飛聲）、訌（因內部胡亂爭訟而導致潰敗）、䫹（風聲、大風）、𠳃（鳴聲）、渱（水聲、潰渱水沸湧）、叿（市人聲噪雜；大聲）。③指築牆杵狀，表示上長下肥：項（頭後即脖子的後部，《釋名》「項，確也，堅確受枕之處」；又冠後為項、大也）、缸（瓦器、長頸瓶，今指圓筒狀底小口大的盛物器）、屸（山形、山名）、肛（胮肛，脹大；大腸末端肛門，《六書故》「言其處似車釭，故曰釭門」）、疘（脫疘，下病，即直腸脫垂）、杢（木釘）、㓚（短鐮）、瓨（似罌長頸、受十升的長身甕壇）、鴻（鴻鵠即天鵝；蒙鴻，大水，通作澒）、𨾊（鳥肥大貌，疑與鴻雁之鴻古為一字；傭也，如大雁遷徙般帶季節性）、仜（大腹、身肥大）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "工的字族：紅色與水銀等",
+      "statement": "④指築牆之色，或由「虹」引申表示紅色：紅（《說文》「帛赤白色」；本義即「工」，指編織、刺繡、縫紉等事務，稱「女紅」，《前漢·酈食其傳》「紅女下機」；或作絳之大赤）、䉺（陳臭米，黴變發紅的陳米）、邛（邛地，在濟陰縣，在今山東成武縣東南；邛水、丘名、國名；勞也、病也）、桏（柜柳即楓楊，落葉喬木高可達18米）、魟（海魚無鱗，狀如蝙蝠，大者如車輪，尾呈鞭狀有毒刺）、澒（丹沙所化為水銀，即「汞」，室溫下唯一的液體金屬）、汞（水銀滓）、玒（玉也、大璧，疑本指紅色的玉璧）、灴（火盛、烘烤）、𧋔（甲蟲）、茳（茳蘺即江離、藺草，莖三棱、葉細長，莖可編席）、江（長江，《風俗通》「江者，貢也，出珍物可貢獻也」，《釋名》「江，共也，小江流入其中所公共也」，可能指長江水有時變為紅色）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "貢本義：進獻財物",
+      "statement": "从貝工聲。「貝」指錢貝；「工」指築杵，築時須雙手對舉，即捧奉之狀。象意進獻財物（《廣雅》「稅也」）。轉義：由進獻錢貝引申指進獻別的東西（《說文》「獻功也」，《廣雅》「上也、獻也」），或引申指薦舉（《廣韻》「薦也」）、賜予（《爾雅》「賜也」）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "貢的字族：往上或往前拱",
+      "statement": "多指進獻狀，表示往上或往前拱：幊（衣巾）、嗊（囉嗊，歌曲；推動，向上或向前推）、愩（心動、憒、煩亂、恐懼；自高；心恍惚）、篢（笠名、箱類、竹名、箱籠）、碽（擊聲；拱形石或拱形橋）、𣹟（水名，出豫章，通作贛）、𩐵（鐘聲）、𠞖（剜土；方言，用頭鑽入）、𡎴（地名）、𡟫（女字）、𡺭（山谷深貌）、𥈿（瞢𥈿，不明）、𥧡（从內向外鑽或頂）、𦩼（船名，八𦩼船）、𩌌（生皮，因乾硬而拱曲）、𩹸（鱤魚，俗稱黃鑽、水老虎，性兇猛捕食其它魚類）、𪄌（鳥讓食）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "巩（𢀜）本義：雙手築杵",
+      "statement": "从丮工聲。「丮」象人伸出雙手之形，「工」指築牆用的杵，「築（zhù）」的初文（《說文》「築，搗也」，《廣雅》「築謂之杵」）。轉義：由雙手築杵之狀引申指抱、舉（《說文》「袌也」，或加手作「㧬」）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "巩的字族：抱持與拱舉",
+      "statement": "①指抱持，表示拱、舉、曲：鞏（以韋束，《易》「鞏用黃牛之革」；固也；火乾也，凡有汁而乾謂之煎，東齊謂之鞏）、䂬（水邊石、水邊大石；用同「拱」，呈弧形的孔洞）、㧬（擁抱、舉也；堆聚或拱出，作畫的一種方法）、恐（懼也、疑也）、蛩（蛩蛩，獸名，青色狀如馬；蟬蛻；馬陸即千足蟲，受觸碰會將身體捲曲成圓環形）、銎（斧頭上裝柄的孔；戈矛之類刃下口）、𦶐（莨菪，茄科植物，種子近圓盤形，毒藥，《本草》一名天仙子，其子服之令人狂浪放蕩）、𠌖（瘦小可憎）、䅃（晚稻；收割）、𤤶（佩玉）、𥳎（姑簍即車弓、𥳎籠，古代車上的弓形車篷架）、𩬰（髪亂）、㮪（小舟，南楚江湖凡艇之小而深者謂之㮪；㮪松，可憎貌）、㼦（瓶）、𣑦（諧也）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "巩的字族：擊打與踏足",
+      "statement": "②指搗杵，表示擊打、踏足：𩢽（獸似馬而青，一走千里）、築（搗也，《廣雅》「築謂之杵」；刺也；《釋名》「堅實稱也」，今簡化作筑）、篫（以手篫物，搗也）、筑（以竹曲五弦之樂，《釋名》「筑，以竹鼓之」，《風俗通》「狀如瑟而大頭，安弦，以竹擊之，故名曰築」，今作「築」的簡化字）、茿（萹茿，赤莖節，好生道旁，可食能殺蟲）、跫（人行聲，《莊子》「足音跫然」；踏地聲）、䊄（精米，即杵去了殼的米）、䡗（車輞；車輪碾壓；曲轅）、𣽆（水名，漢有築陽縣在南陽）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "巩的字族：形近之訛",
+      "statement": "③形近字「夗、壻」之訛：𪀛（水鳥名，今指白額燕鷗，飛翔時嘴垂直朝下、頭不斷左右擺動；或為「鴛」之訛）、聓（「婿」字之訛，《正字通》「因壻之士譌為工，疋譌為丮，月譌為耳」）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "空本義：人工壘築的孔穴",
+      "statement": "从穴工聲。象意人工壘築的孔穴，包括居室、門窗、溝渠等（《說文》「竅也」）。轉義：由孔穴之狀引申指空虛、窮盡（《廣韻》「空虛」、《爾雅》「盡也」），或引申指廓大（《玉篇》「大也」）、虛位以待（《廣雅》「待也」），或引申指貧乏、缺少（《集韻》「窮也」、《正字通》「困窮空乏也」、《廣韻》「空缺」）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "空的字族：中空之器與狀",
+      "statement": "多指中空：控（《說文》「引也」，拉開弓弦；匈奴名引弓控弦；使中空之意；告也、除也、打也）、涳（直流、懸空飛流的瀑布；涳蒙，細雨）、腔（內空，動物身體中空的部分；骨體曰腔；歌曲調曰腔；羊肋、乾羊肉）、倥（倥侗，童蒙無知；倥傯，事多急迫困苦）、崆（山高峻、山深；崆峒山在今甘肅平涼，絕壁有洞）、鵼（怪鳥）、鞚（帶嚼子的馬籠頭；勒馬；鼓腔）、悾（誠心、信也、慤也；中無所有；悾惚，倏不得志）、埪（龕，供奉佛像或神像的小閣子）、䅝（稻稈，中空）、𦱇（心草）、𢃐（衣袖）、箜（箜篌，師延作，蓋空國之侯所好，《風俗通》「取其空中」；籃也）、𧌆（蟬蛻、蟲蛻）、𤗇（穿垣）、焢（火氣貌）、硿（硿青，藥石出會稽，即空青，腹中空、破之有漿，治眼疾；石落聲）、啌（喉中病；怒叱聲、咳嗽聲）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "呈本義：築牆用的夾板",
+      "statement": "甲骨文从口工聲。「工」指夯築用的杵，「口」指口狀物，象意築牆用的夾板，即「程（chéng）」的初文，指其範式作用（《玉篇》「程，法也、式也」，《正字通》「呈，與程通」）。轉義：夾板是築牆用的模子，填進土然後用杵夯緊、層層往上，因此引申指上送之意（《正字通》「下以情陳于上曰呈」），或引申指顯露、炫耀（《廣韻》「示也、見也」、《正韻》「露也」），或引申指快、通達（《集韻》「與逞同，通也」）。辯證：「呈」字初形尚不能確定，戰國古文从口从土、小篆从口从𡈼，《說文》「平也，从口壬聲」形義皆不確。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "呈的字族：法式與呈遞",
+      "statement": "①指夾板的作用，表示法式、呈遞：程（等級標準，古以禾芒為長短單位標準，十根為程；法也、式也；期限、品第、量也、銓也、課也；驛程道里）、徎（从小路疾行；雨後徑、路滑）、桯（床前几，古床較高故有几遞腳以便上下，衡陽俗稱榻凳；碓等工具的杆子；楹即柱）、郢（故楚都，在南郡江陵北十里；節氣名，十二小郢、十二中郢指白日時間見長）、脭（肉之精者）、侱（役也）、埕（瓦器、酒甕；沿海曬鹽的田、養蟶的田）、鞓（皮腰帶的帶身、綬帶）、珵（佩玉，珩謂之珵；或作珽，大圭）、䇸（筵也、竹席；可為笛的竹；笭䇸，車中筵）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "呈的字族：呈現與往夾板築土",
+      "statement": "②指用夾板築牆，表示呈現、露出：挰（擇也、舉也）、裎（《說文》「袒也」，裸體；佩帶、深衣、衣揚；對襟單衣）、酲（病酒、醉而覺，因醉酒引起的病態；醉未覺）、鋥（磨鋥出劍光、磨也）、悜（慏悜，意不盡；憂也）、睈（照視、意不盡）。③指往夾板築土，表示通達、快速、沉澱：逞（《說文》「通也」，楚謂疾行為逞；快也、極也、盡也、解也；放縱、肆行；驕矜自負）、浧（泥滓、沉也；塗泥；古文澄字；滿、通、水名、澱也）、塣（通也）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "戜本義：武器鋒利，疑為鐵之初文",
+      "statement": "从戈从呈。「戈」指武器，「呈」指快，象意武器的鋒利（《說文》「利也，一曰剔也」）。轉義：由刃口的鋒利引申指恒常（《玉篇》「常也」）。辯證：依據西周金文「𢧄」所从「呈」从口从十，但沒有甲骨文可作參照，姑且視為「呈」字的訛變；疑本為「鐵」的初文——鐵具體出現的時間不詳，目前可考最早見於春秋時期的長沙，它比當時發現的所有金屬都要堅硬，所以作「𢧄」指十倍于一般武器的刃口，其相關字族在表意上多跟「鐵」有關。音源：依據西周金文應為「十」聲，可歸入《十部》。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "戜的字族：鐵的硬與色",
+      "statement": "①指鐵的硬，表示鋒利、順達：𢧤（大也，《段注》當作秩秩，《毛詩》正作秩秩）、䟈（走也）、𢶋（捅）。②指鐵的顏色，表示赤黑色：鐵（《說文》「黑金也」，取其為器鋒利義）、驖（馬赤黑色，《詩》「四驖孔阜」）、𦸴（一种紫黑色的稗子，穗似粟有紫毛，北人呼烏禾，荒年代糧）。",
+      "boundary": "500.工部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "夅本義：兩足向下而行",
+      "statement": "象雙止向下，表示往下走或逆行之意，「降」字初文（《集韻》「降，古作夅」）。轉義：由往下引申指降服（《說文》「服也，从舛相承，不敢並也」，《玉篇》「伏也，今作降」）。音源：借音字，因有下行之義而義音同「工」：《爾雅·釋言》「虹，潰也」，《釋文》「虹，李作降」；《左傳·文公十八年》「尨降」，《路史·後紀八》作「龍江」。",
+      "boundary": "501.夅部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "夅的字族：下落與下垂",
+      "statement": "①指下行，表示下落、下垂：栙（用篾席做的船帆，栙䉶即降下來的船帆）、𢭎（䉶帆）、降（下也、落也、歸也、貶也；伏也）、䂫（石隕聲；同「夯」，夯築、砸實地基的工具，即「工」）、𡑺（同聖，通也）、𡹷（山名）、𢘸（恨也）、𥞜（禾垂）、𧊵（彩虹；同蜂）、𨋪（擊也）。",
+      "boundary": "501.夅部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "夅的字族：倒流與不服從",
+      "statement": "②指逆行，表示倒流、不服從：洚（水不遵道，《段注》「水逆行謂之洚水」；潰也；《六書故》「洚、洪實一字」）、䇨（盛杯子或筷子的容器，其形上大下小故有逆意；濾酒的竹籠）、佭（㒕佭，不伏也）、跭（跭𨇯，豎立；行不進）、逄（塞也、姓也；「逢」的俗字）、𤝷（犬不服牽）。③指腫、大：胮（胮肛，脹大、腹大）、𤵸（癃，罷病、脫肛）、舽（吳船，帆船）、𪐿（黑貌）、𩐨（鼓聲）、𠲓（大聲）、𧧭（與誇同，說大話）。④指紅色：絳（大赤，《釋名》「絳，工也，染之難得色，以得色為工也」；疑因商人尚黑故以紅色為逆）、䜶（豇豆，莢必雙生故有豇䜶䝄之名）、袶（草名，疑指可作絳色染料的草）。⑤形近字「夆」之訛：𡜠（妦，凡好而輕者趙魏燕代之間曰妦）、𥹪（糁的俗字，以米和羹、粒、摻雜）。",
+      "boundary": "501.夅部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "共本義：雙手相捧舉（𠬞）",
+      "statement": "象雙手相捧舉之狀，為「共」字初文（《說文》「𠬞，竦手也，从𠂇从又」，隸變作廾）。轉義：由兩手相合引申指共同、合計（此義分化如「共」，《玉篇》「皆也、眾也」），或引申指大（分化如「洪」，《玉篇》「大也」）；拱手或為作揖，故引申指恭敬（分化如「恭」），或引申指供奉、擺設（分化如「供」，《廣韻》「奉也、具也、設也、給也、進也」）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "共的辯證與音源",
+      "statement": "辯證：或以為「共」从雙手捧口形，疑誤，當系「弁」字初文，「口」指帽子，《類編》所錄西周金文从「卝」即總角，意為加冠于髮髻；「共」指四手，為「輿、興」等字聲符，指兩人抬舉，上面兩手遂訛變作「廿」。又「𦥑」本指兩手相捧，狀類「𠬞」，與拱手並無實質區別，實即一字，故音義多混，因音源不同而略作區別，其字根附于本部。音源：借音字，拱手之狀如弓則可謂借弓為聲，拱手為拜、拜為敬神則可謂借雷為聲，或僅指雙手同時動作如蠅之搓動前肢故借蠅為聲，古黽、𠬞可通（《詩·大雅·抑》「子孫繩繩」，《韓詩外傳》作「承承」）；或義音同「工」。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "共的字族",
+      "statement": "多指拱手之狀，表示托起、隆起：供（擺設、供給、奉獻；祭祀）、拱（斂手，執也、固也、手抱；大璧）、恭（肅也，自拱持也）、龏（愨也、恭謹，同「供」；燭蔽）、㤨（戰慄、恐也）、拲（兩手同械，《周禮》「上罪梏拲而桎」）、洪（洚水、水浪拱湧；大也，共工氏之後改洪氏）、烘（尞也、燒、火氣乾物）、鬨（鬬也）、巷（里中道，《增韻》「直曰街，曲曰巷」）、𣿑（水派、小支流）、港（水分流、可停泊大船的江海口岸）、輂（大車駕馬；人抬的轎子，禹治水山行所乘）、蛬（蟋蟀）、輁（輁軸，喪遷柩之具）、䢼（邑名；山名在彭蠡）、𤱨（韭畦）、栱（柱頭斗栱，立柱和橫樑之間成弓形的承重結構）、䳍（鳥似雉，產于美洲）、䱋（魚子；海鷂魚，蝙蝠狀的海魚）、哄（唱聲、眾聲、喧嘩；說好話奉承欺騙）、蕻（草菜心長、菜苔；雪裡蕻）、舼（船小而深者）、硔（石崩聲）、谼（大壑）、𥈄（直視，義音同闖）、篊（引水；竹木為束，以竹為魚梁）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "丞本義：從陷阱中拯救人",
+      "statement": "从臽从𠬞，𠬞亦聲。「臽」象人處陷阱中狀，从「𠬞」象意將人从陷阱中拯救出來（《集韻》引《說文》「上舉也」），「拯」的初文；「臽」或省「凵」、「𠬞」或在下作托舉形，表示捧舉、奉承，此義分化作「承」（《說文》「奉也、受也」）。轉義：由拯救、上舉引申指輔佐、幫助（《廣韻》「佐也、翊也」、副貳），由捧舉引申指承受、繼承（《玉篇》「繼也」）；上舉意味著下沉，故或引申指沒（《廣雅》「沒也」）、門限（《廣雅》「限謂之丞」）。辯證：小篆訛「凵」似「山」，故《說文》「从𠬞从卩从山，山高奉承之義」析形不確。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "丞的字族",
+      "statement": "取捧升為義：脀（癡呆，疑指軟骨病，須提起才能活動，俗稱肉佗子；升也，以牲實鼎；腫）、蒸（折麻中榦，將麻皮剝出露出麻稈，古用麻稈作燭；麤曰薪、細曰蒸；氣之上達；眾也、君也）、𨋬（小車从車後登上；副車、屬車）、烝（火氣上行；君也、進也、眾也；塵也；物興作之貌）、巹（謹身有所承，以瓢為酒器，婚禮用之，《儀禮》「四爵合巹」，破匏也，類似交杯酒）、𧯷（瓢，以瓢為酒器，婚禮用之）、拯（救也、助也、援也；「丞」之本義）、䕄（肉醬）、篜（疑指吹火以助燃的竹筒）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "奉本義：雙手捧著豐盛的物體",
+      "statement": "从丰𠬞聲，象意雙手捧著豐盛的物體（《廣韻》「承也」、《爾雅》「持也」）。轉義：由捧持之狀引申指奉獻（《廣韻》「與也、獻也」），由承接引申指奉養、俸祿（《正字通》「養也、秩祿也」）。辯證：「奉」的核心義在雙手的捧，不是指豐盛，故《說文》「从手从𠬞丰聲」析形不確。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "奉的字族",
+      "statement": "①指捧起：唪（大笑、捧腹大笑；大聲）、琫（佩刀上飾，天子以玉、諸侯以金，《釋名》「琫，捧也，捧束口也」）、俸（秩祿、官員薪金）、埲（塵起貌）、捧（掬也，《釋名》「捧，逢也，兩手相逢以執之也」）。②指豐隆：菶（艸盛、多實；艸亂貌）、淎（水也）、棒（木杖、棍子；打也）、蜯（蚌，蜃屬，一曰美珠）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "朕本義：撐船",
+      "statement": "从舟从灷。「灷」从丨从𠬞，𠬞亦聲，象意雙手撐篙的樣子，故「朕」象意撐船；或省「舟」義同，或另从「八」以篙分水之意；也可說是過渡的纜繩橫系于河兩岸，過渡時船上的人輪番拽拉，船就跟著過河。轉義：由掌篙人引申指自稱（《說文》「我也」），由撐船時用篙探知水的深淺引申指徵兆、跡象（《釋文》「朕，兆也」）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "朕的字族：細長之物",
+      "statement": "①指所撐篙，表示細長之物：塍（稻中畦、田埂，《廣雅》「隄也」）、榺（織布機上夾持經紗的竹制構件即筘）、螣（神蛇，龍類能興雲霧；蟲食苗葉者）、幐（囊也，可隨身攜帶的帶形囊袋）、栚（架著蠶箔的橫木；山樊，染者用其葉燒灰以藏所染之色）、𤮪（打獵時穿的皮褲）、縢（緘也、繩也、約也；行縢，綁腿布）、𠗲（冰淩）、藤（蔓生艸木的莖）、鰧（魚，今指瞻星魚，能伸下嘴唇紅色絲狀突起誘捕其它魚類）、籐（簬器；蔓生似竹）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "朕的字族：深青與送傳",
+      "statement": "②指船篙插入水底，表示深、青：眹（目精、眼珠、瞳仁；吉凶形兆謂之兆眹）、黱（畫眉的彩墨，義音同黛；深青色）、𧈜（黑虎）、𥉋（美目貌）、𤻴（同疼）、膡（大視、美目；雙也；目送）。③指撐篙而使船行，表示送、傳：賸（物相增加，一曰送也、副也；益也、餘也；俗作剩）、勝（任也、力所能及、能夠擔當；舉也、堪也；強也、勝負、克也）、騰（傳遞文書的驛馬、程程相送；上躍、奔也；挪移使空）、謄（輾轉寫錄、移書傳鈔）、滕（水超湧；張口騁辭貌；達也、送也；虛也）、送（遣送，《增韻》「將也」，《正韻》「贈行曰送」）、㑞（送也，古者諸侯取夫人則同姓二國㑞之，謂从嫁之男女）、媵（美女；从嫁；凡送皆曰媵；寄物為媵）、蕂（苣蕂，胡麻，節節攀升之意）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "興本義：風的興起把物抬升",
+      "statement": "甲骨文从凡从舁（yú）。「凡」指風，「舁」象兩手共抬之形，象意風的興起將物抬升了起來；後期甲骨文或加「口」表示吹起（《說文》「起也，从舁从同，同力也」）。轉義：由起風引申指升盛、舉起（《廣韻》「盛也、舉也、善也」），或引申指語言的起頭及所使用比喻、托物方法（《玉篇》「託事也」、《韻會》「比興」），或引申指喜悅（《正韻》「悅也」）。音源：本「舁」聲，因有喜悅義而義音同「欣」。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "興的字族",
+      "statement": "多指起風，表示升、起、開始：嬹（說也、悅也、喜也）、釁（血祭，以牲畜的血塗器物縫隙，實用以補縫、起膠合防漏作用；瑕隙、動也、罪也、兆也；凡坼罅謂之釁）、𦦧（支鬲的足架；舂器）、臖（腫痛、腫起、腫病）、𦢯（創肉反出；熱氣箸膚中）、舋（同釁，裂縫）、璺（玉破不離，秦晉器破而未離謂之璺，意即裂而未開、被其它未裂的部分所升舉）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "尊本義：雙手捧酒器",
+      "statement": "从酉从𠬞，象雙手捧酒器之形；或加梯級之形，不是奉獻登進之意，而是以梯級表示酒尊的等級（《周禮》六尊：犧尊、象尊、著尊、壺尊、太尊、山尊，主要按大小或質材區別，分別對應賓客身份貴賤）；金文或省而加「八」，也正有分別、區分之意。轉義：由敬酒引申指尊重、尊敬（《玉篇》「敬也、重也」），或引申指受尊敬的人（《廣韻》「尊卑、高也、貴也、君父之稱也」）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "尊的字族",
+      "statement": "①由尊的等次表示依次、聚集：遵（遵循、率也、行也、習也）、噂（聚語，相聚而談論）、僔（聚集、眾也、恭敬也）、䔿（叢艸、聚也）、墫（舞也；亦作蹲；或為樽之訛）、蹲（踞也、坐也；聚足）、樽（酒器）、譐（聚語）、罇（與尊同，陶制酒杯）、竴（喜也）、鱒（赤目魚，體側扁形略似鮭魚，夏季上溯于河產卵）、嶟（嶟嶟，竦峭貌、山銳、山高）。②由尊敬對方表示損減、貶抑自己：𠟃（減也、斷也，物朽而斷）、繜（薉貉族婦女所穿的小衣，以帛作腿管空腔、用粗絲綿裝進去，狀如襜褕；撙節貶損）、鐏（戈柄末端的銅套，可插入地中，《禮·曲禮》「進戈者前其鐏」）、撙（挫趨、抑制克制、從全部財物裡節省下一部分、卑曲退縮）、鷷（雉，西方曰鷷）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "弄本義：雙手捧玉",
+      "statement": "从玉从𠬞，𠬞亦聲，象雙手捧玉之形；或从「岳」指到山洞採玉，「玉」或作「朋」指玉串。轉義：玉是寶物，捧于手中引申指喜愛、玩耍、炫耀（玩弄、擺弄、捉弄、戲弄；《韻會》「侮也」），或引申指演奏、裝扮（《正字通》「樂曲曰弄」）；由採玉引申指做、設法得到（弄錢）；由採玉的坑洞引申指巷子、弄堂。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "弄的字族",
+      "statement": "①指採玉，表示洞穴：硦（穴也；礅硦，石聲）、㟖（山間的平地）、㢅（廈也、屏也；今江北謂長巷曰㢅）、𨲀（長也）、梇（木也，益州有梇棟縣）、𧚂（衣一襲、衣一套）、㛞（女字）。②指把玩玉，表示戲耍、撥弄：挵（弄，玩也）、𢙱（𢙱戅，愚也）、筭（長六寸的計數籌碼，《說文》「言常弄乃不誤也」）。③指把玩玉石時的相碰聲：哢（烏聲）、𩂽（雨聲）、𩄺（雷聲）、㳥（水名，疑指水流聲）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "糞本義：奉箕掃除",
+      "statement": "甲骨文从其（箕）从𠬞，𠬞亦聲。「其」即箕，撮箕俗言糞斗，中或有小點指塵土之類，象意奉箕以掃除（《廣雅》「除也」），或加「帚」。轉義：由掃除引申指被掃除的塵土、污穢、糞便（《廣韻》「穢也」、《正字通》「屎之別名」）；糞土可作肥料，故引申指施肥、沃饒、培植（《廣雅》「饒也」、《正字通》「培也」）。辯證：戰國古文訛「小」為「米」、小篆據而作「釆」，訛「其」為「𠦒」，故《說文》「从𠬞推𠦒棄釆也」析形不確。字族：瀵（水由地面下噴出漫溢，如糞池深不可見、有沼氣冒出如有泉从底下噴湧，郭璞注汾陰縣水口如車輪許、濆沸湧出）、䆏（稻紫莖不黏；施肥）、𢹔（掃除；或作拚、坋）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "棄本義：拋棄逆子",
+      "statement": "甲骨文从子从糞，或省其，象意以箕將初生嬰兒棄之于野（《說文》「捐也，从廾推𠦒棄之，从𠫓，𠫓逆子也」），《釋名》「不得埋曰棄，謂棄之于野也」；《爾雅·釋言》「忘也」。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "弁本義：雙手捧住的弁帽",
+      "statement": "甲骨文从囗从𠬞，𠬞亦聲。「囗」指某種筐狀物，从「𠬞」指雙手，象意如雙手捧住般的筐狀物即弁帽（《釋名》「弁如兩手相合抃時也，以爵韋為之謂之爵弁、以鹿皮為之謂之皮弁」，《玉篇》「所以攀持髮也」）；古禮始冠緇布冠、次加皮弁、次加爵弁，男滿二十而行加冠禮以示成年，天子諸侯則十二而冠（《詩·齊風·甫田》「未幾見兮，突而弁兮」）。轉義：由男子的始冠引申指書籍或長篇文章的序文、引言（弁言），由即加即棄喻指無用之物（弁髦），由弁的形制引申指皮制帽子（武弁、馬弁），由加弁儀式的短暫引申指急、疾速（《禮·玉藻》「弁行剡剡起屨」），由加冠禮之狀引申指喜悅。辯證：戰國古文「囗」變與「妻」的戰國古文所从同，象弁而簪髮之狀，故《說文》「从皃象形」析形不確。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "弁的字族",
+      "statement": "①指弁形，表示弁或弁狀物：𤲙（蒲器，所以盛種）、笲（盛放乾果、衣帽的竹器）、畚（盛糧器，撮土的箢箕，兩側有提手；鍬鍤）、軬（車上篷，蔽水雨）、㨧（車弓）、䪻（傾冠；面也；無髮）、𥿋（馬鬛上飾，《春秋傳》「繁纓以朝」）、桳（舟篷；車弓）。②指弁狀，表示弁飾或類似物：㺹（玉飾弁）、鴘（鷹隼二歲色赤）、閞（門柱上承托棟樑的斗拱）、䒪（雀䒪，艸名）、昪（喜樂貌、日光貌、明也）。③指脫弁，表示急速、捨棄：𨠒（酒疾熟、一宿酒、不釋米釀）、拚（拊手、用手擊；掃除；翻翻，飛也；捨棄）、𡊄（埽除，讀若糞）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "算本義：竹製的食器",
+      "statement": "从竹从具，象意竹制的食器，用來盛食物的，或加「冂」同（《史記·鄭莊傳》「其饋遺人不過算器食」，徐廣注「算，竹器」），即「篹（suǎn）」的初文（《集韻》「籩屬，通作匴」）。轉義：由盛放各類食物引申指計算、具數（《說文》「數也」）。算盤是中國的一大古老發明，但究竟始于何時缺乏明確記載，傳說為黃帝時代隸首所發明；其雛形當為算籌，「教、學」均从「爻」即算籌的交叉狀，說明當時學校學習的主要內容就是用算籌算數。目前發現最早的帶有珠算意義的算珠是西周的陶算珠：1978 年陝西岐山縣西周宮室遺址出土 90 粒陶丸（青色 20 粒、黃色 70 粒）；2002 年湖北荊州紀南城戰國楚遺址發現一枚完整的陶制穿檔算盤珠（扁鼓形，鼓腰直徑 40 毫米、上下底 35 毫米、穿檔孔 20 毫米，孔內還遺留有竹軸檔殘存物），意味著戰國時期楚國已經有了算盤。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "算的字族",
+      "statement": "①指盛裝，表示彙集、積聚：纂（似組而赤的寬薄絲帶；集也、繼也）、匴（淥米籔即淘米的溲箕；冠箱，行冠禮時裝帽子的竹器；竹盤）、籑（具食，準備或陳列飲食）、𥣚（禾積）、篹（籩屬、竹木素器；筷子籠；編撰；與饌同）。②指打算盤，表示上下撥弄圓珠狀：篡（屰而奪取曰篡）、𣀔（小舂、稍稍舂擊、除穀芒）、𨏉（用旋轉的辦法製造車軸）、䵵（黃黑而白、短黑）、𤀤（飲歃、吮也；洗馬；嘗也）、㔍（斷也；碎切為㌰）、𨰉（切草器）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "奐本義：癱瘓不能行走",
+      "statement": "从㑂从𦥑，𦥑亦聲。「㑂」所从「丙」即柄，在人腿部，人腿如柄，象意腳僵直不能行走（《正字通》「籀文仿字」、《說文》「相似也」，同彷，仿偟猶徘徊，也是指走不動）；「𦥑」可指靠別人扶助，也可指自己雙手的攀爬，故本義當指「癱瘓」，癱瘓走不動故義音同「豢」，為「瘓」的初文。轉義：由雙手的代替腳活動引申指替換（《說文》「取奐也」），由腳的不能活動引申指渙散、閒暇（《倉頡篇》「奐，散貌」）。辯證：《說文》「从𠬞，夐省」以「丙」為「穴」，析形不確。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "奐的字族",
+      "statement": "①指更換、代替：換（易也、貸也）、煥（火光、光明、明也）、瑍（玉有文采、朗也）、㪱（㪱斕，文采）、㬇（古國名；鮮明光亮）。②指行走不便：喚（叫喚）、渙（水流分散、水盛貌）、寏（周垣、圍牆，可以攀緣翻過）、瘓（癱瘓，四體麻痹不仁，皆因風寒暑濕所致）、愌（怑愌，不順也、拔扈）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "𠳋本義：使人起身離開或留下",
+      "statement": "从𠂤从𦥑。「𠂤」象屁股形，指坐、屯紮；「𦥑」指提、按。既可象意使起身、離開（「遣」的初文，《說文》「送也」，《增韻》「逐也、祛也」），也可象意使留下；或从「口」指用言語表示。辯證：因「𠂤、𨸏」形近，小篆訛「𠂤」作「𨸏」，故《說文》「𦥳商，小塊也，从𨸏从臾」形義皆不確。字族：遣（縱也、送也、祛也、逐也、發也；遣奠）、譴（謫問、責問）、儙（開也）、繾（繾綣，不相離、纏綿）、𩝡（黏也、摶也、乾餌）、䪈（皮腰帶）、𡒌（小土堆）、𧪯（小息）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "𢍱本義：煙塵上揚",
+      "statement": "从囪从舁，舁亦聲。「囪」指煙囪，「舁」指抬升，象意煙塵的上揚表示升高（《類篇》「升高也」）；「卩」指跪跽，从「𢍱」象意由跪坐而起身，故義音同「𠳋」。辯證：因「囪、囟」形近，戰國古文訛作「囟」，故《說文》「从舁囟聲」析形不確。字族：韆（鞦韆，北方戲以習輕趫者，本云千秋祝壽詞，語訛轉為秋千）、遷（登也、徙也、移也、易也、去也；謫也）、𨟦（地名）、蹮（蹁蹮，旋行、蹣跚，即象煙塵旋升之狀）、僊（長生僊去，可能跟古代火葬有關，古人認為人經火化後隨煙塵可以升天；傳說鳳凰从火中涅槃新生，跟蟬的日出而蛻殼羽化相似，故疑蟬也指鳳凰）、櫏（桾櫏木，即君遷子、黑棗，木材常作車軸，果可食亦入藥）、䉦（竹名；收稻具）、褼（褊褼，衣揚貌）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "舂本義：雙手抱杵在臼中搗粟",
+      "statement": "从臼从𠬞抱午形，象意雙手抱杵在臼中搗杵的樣子（《說文》「搗粟也，从廾持杵臨臼上，午，杵省也，古者雝父初作舂」）。轉義：由舂杵之狀引申指衝擊（《正字通》「與衝通」）。音源：音源字，源自舂杵聲。字族：樁（橛杙、樹樁，即杵；擊、刺）、㦼（捍船木，使船固定的木樁）、憃（愚也、心憨直，即莽撞之意）、䚎（視不明、直視）、摏（撞也、衝也、擣也）、𧐍（蟲名，一種蝗蟲）、蹖（蹋也）、𪄻（布穀鳥；青𪄻，蒼鷺）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "秦本義：舂杵秸稈",
+      "statement": "从秝从𠬞抱午形，可謂从「舂」省聲。「秝」指禾的秸稈，象意舂杵秸稈：除了指將秸稈上的穀粒搗脫外，還應包括對禾莖的處理，或將其搗爛作筋以增加塗泥的韌性，或編結用以蓋屋、鋪席（《說文》「伯益之後所封國，地宜禾」；一曰秦，禾名）。字族：①指舂杵秸稈，表示小而眾多：轃（大車簀、車上的竹墊；與臻同）、蓁（艸盛、眾也；木叢生曰榛）、臻（至也、達到；及也、聚也、眾也）、溱（河名；眾也）、縥（水急，疑本指紡線的如水湍急）、𥉜（淫亂者的目光）、𥱧（小竹；古樂器似箏有七弦）、𧤛（角齊多貌）、螓（似蟬而小，方頭廣額、身體綠色）、榛（落葉灌木或小喬木，結球形堅果即榛子，果仁可食、木材可做器物）、嫀（女字；有㜪，國名）、殝（死也、盡也）、𤚩（北牛，小於水牛，有黃黑赤白駁雜數色）、𣡎（荒也）。②音譯字：嗪（有機化合物 zine 的音譯）。",
+      "boundary": "502.𠬞部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "曾本義：甑的初文",
+      "statement": "从田从八或北。「田」象箅形，「八」或「北」指相背、相靠、相隔，象意箅的隔開，「甑（zèng）」的初文（《說文》「甗也」、《集韻》「炊器」）。轉義：最初的甑就是用無底的竹木桶，下面用網狀的「箅」隔開；出土的原始陶甑則在陶器底部鑽孔，既可使所盛食物不會掉落、又方便蒸汽通過，將甑體套放在燒煮的瓦鬲或鼎鍋上，利用裏面的水蒸氣將食物蒸熟，跟今天的蒸籠差不多，上面甚至可以套疊好幾層，使食物熟而不爛；後來據此用青銅器鑄出專門的甗。由甑的疊放引申指增加、多重（分化如「增」），由甑的重累引申指過去（曾經、嘗也），或表示相承（《玉篇》「則也」）。辯證：西周金文在下面增加「口」表示其中空之意，小篆承之、「田」演變成「𡆧」，故《說文》「詞之虛也，从八从曰，𡆧聲」非本義。音源：借音字，因用甑時熱氣上升故義音同「蒸」，古曾、丞可通（《儀禮·少牢饋食禮》鄭玄注「古文甑為烝」）。",
+      "boundary": "503.曾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "曾的字族：多層、高深、增加",
+      "statement": "①指甑狀，表示多層、高深、增加：甑（蒸飯食的器皿；甗無底曰䰝）、䰝（鬵屬）、𤎯（置魚筩中炙，類似用甑蒸）、增（益也、加也、重也；埋幣曰增；剩也；累也）、贈（玩好相送、使增益；助生送死；以言貽人；誥贈）、憎（惡也、恨惡；憚也、畏懼）、矰（射鳥時系著生絲繩的箭，甲骨文象矢纏絲形；短矢）、譄（誇大其詞）、竲（北地高樓無屋者，沒有頂蓋的樓台；窮高；聚薪以居）、蹭（蹭蹬，失道難行；失勢困頓）、層（重迭的樓屋、重也累也）、鄫（姒姓國，在今山東棗莊市東）、磳（碅磳，山石層迭貌）、橧（聚薪以居；豕所寢、豬圈及所墊的草，疑本指干欄式建築如湘西吊腳樓，上層住人、下層為畜圈）、𦼏（菎草即益母草，莖直立、花葉層層密佈）、䙢（短汗衫、夾衣）、𪒟（皯𪒟，面黑氣即雀斑）、嶒（崚嶒，山高峻重疊）、驓（四骹皆白，膝下白色的馬）、鬙（鬅鬙，髮短、髮長、髮亂）、䎖（舉也；飛鳥貌）、鱛（狗母魚、燈籠魚）、𠟂（割過傷，割深了割到下一層）、璔（玉貌，疑指顏色有兩層的玉）、潧（水名，即今河南新鄭市的黃水河）。",
+      "boundary": "503.曾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "曾的字族：朦朧、網狀與象聲",
+      "statement": "②指甑的熱氣蒸騰狀，表示朦朧不明：㬝（瞢㬝，日不明；白貌）、䁬（目小作態、目不明）、䒏（䒐䒏，神不爽、神亂、色惡）。③指甑箅，表示網狀物：罾（魚網，用木棍或竹竿做支架的方形魚網，俗稱扳罾）、繒（絲織品的總稱；綁、紮）。④象聲字，含有大、空意：噌（噌吰，市人聲、鐘音；泓噌，空囂意）、䆵（䆖䆵，屋深響、大屋；高深貌）、鏳（鏳鎗，玉聲；金聲）、僧（出家修行的男性佛教徒，梵語僧伽邪三合音俗取一字；僧人死後墓上多豎層級石塔，倒也有「層」意）。",
+      "boundary": "503.曾部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "亙本義：月弦的直如工",
+      "statement": "甲骨文从「月」的弦部與「工」重合，表示月弦的直如工，指上弦月或下弦月；或在外加「弓」表示月亮呈弓弦狀，其意更為明確（《正字通》「月弦也，上弦初七八向東，下弦廿三四向西」）。轉義：由月亮上下弦變化的周而復始引申指長久、固定不變（通也、遍也、竟也）。辯證：西周金文訛从月在上下之間形，表示月亮上下弦的變換意義尚通；但小篆訛「月」作「舟」，故《說文》「从心从舟，在二之間上下」析形不確；因其形義與「亘」相近或兩者混同，「亘」的甲骨文从「上」从「回」指往上迴旋，以「回」為聲也有循環往復、連綿不斷之意。音源：借音字，本「工」聲（甲骨文或以「弓」為聲），西周以後字形變化很大故失去了聲符；因有圓拱義故音義同「共」或「兢」（《老子》「木強則共」，馬王堆帛書甲本作「恆」、乙本作「兢」）。",
+      "boundary": "504.亙部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "亙的字族",
+      "statement": "多指繃直的弦狀：恆（常也、久也；又弦也，《詩·小雅》「如月之恒」，月上弦而就盈、月體正半如弓張而弦直；徧也、竟也）、㮓（竟也；古文恆）、搄（引急，急忙拉引）、縆（大索；急也、繃緊；竟也）、暅（日氣；乾燥、曝也，物曬乾而硬挺之意）、𠋧（癡貌）、𡍷（道路）、𦞌（月出也，同恆）、䱭（鯍也，鱘魚，體呈紡錘形、腹側有骨板如弦）。",
+      "boundary": "504.亙部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "从本義：人的二疊",
+      "statement": "為人的二疊，可象意有三：或指人的前後相隨表示跟从（《玉篇》「相聽也，今作從」，此義增「辵」作「從」），或指人的上下相疊表示重疊（《爾雅》「重也」），或指人數的多（此義分化作「人」的三疊或作「乑」，《廣韻》「眾立貌」）。轉義：由前後相隨引申指隨從、服從、依附（就也、順也、使也），或引申指同一宗族、堂房親屬，或引申指踪跡；由跟在後面引申指鼓勵（慫湧，勸也）；由許多的人前後相隨引申指長（東西曰衡、南北曰從）；人多必然導致行走速度變慢，故引申指舒緩、放縱（從容，休燕也；縱，緩也、舍也）；由人的上下相疊引申指高大。辯證：疊體一般表示很多，並非只指兩人，故《說文》「从二人」析形不確；跟「从」類似指人的二疊的字還有「比、奻、𠨎、尼、允、竝」等，並無本質不同，不過各有所側重。音源：借音字，因前後相隨如「送」故義音可通（《睡虎地秦墓竹簡·日書甲種》「可以送鬼」，《日書乙種》作「从」）；古从、公可通用（《禮記·學記》鄭玄注「从，或為松」）。",
+      "boundary": "505.从部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "从的字族：人眾與縱向",
+      "statement": "①指人眾，表示多、密、成群：乑（眾立也；古作攀；隸作眾）、𩂢（霖雨，南陽謂霖𩂢；雨聲）、𩀰（桂林之中謂雞曰𩀨）、𣯨（𣯨氍，罽，一種精細的毛毯）、樅（松葉柏身即冷杉，或指松，取其針葉排列密集；又撞也）、豵（生六月的豬，喜歡群居；一歲的豬）、䐫（肥病、肥也）、緃（䋐屬，如今織邊可裝飾衣物；采章、車馬飾）。②指縱向，表示撞擊、抽引、慫恿、放任：鏦（矛、短矛、矟小者；撞也；一種有方形柄孔的斧子）、瘲（瘛瘲，風病，手腳痙攣口歪眼斜）、縱（緩也、舍也；恣也、放也、置也；亂也；南北曰從）、𢠰（驚也、心跳加速；悚也、動也、敬也；慫湧，勸也）、暰（電光）、𥡬（𥡬移，治禾）、𧺣（急行貌）、熧（火行、火出穴中）、傱（疾貌；齊立貌）、摐（撞也、打鐘鼓、打也；紛錯、高聳）。",
+      "boundary": "505.从部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "从的字族：高大與蹤跡",
+      "statement": "③指相疊，表示高大、聳立：蓯（葑蓯，蕪菁；菶蓯，草茂盛；蓯蓉，藥名；衝蓯，相入貌）、嵸（巃嵸，山高峻、山孤；嵱嵷，山峰貌）、聳（聾也，生而聾陳楚江淮之間謂之聳，言無所聞常聳耳；高也；欲也、悚也）。④指跟从，表示蹤跡、跟隨、貼身：𨌰（車跡，今俗別作蹤）、䗥（螉䗥，小蜂生牛馬皮中即牛虻，隨牛而行並叮咬；細腰蜂）、踨（蹤跡，《釋名》「从也，人行从之也」）、瑽（瑽瑢，佩玉行貌、佩玉聲）、䙕（襌衣、單衣、貼身內衣）。",
+      "boundary": "505.从部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "眾本義：多而顯",
+      "statement": "甲骨文从日㐺聲。「㐺」本指多人，从「日」指日照，象意多而顯。「从」與「㐺」本同義，故「眾」與「昆」是同源字，因義而分化：「眾」側重于指多、「昆」側重于指顯。辯證：西周金文訛「日」作「目」、小篆从之，故《說文》「从乑目，眾意」析形不確。字族：𩅉（小雨）、𧑄（螽，蝗蟲，常成群為災）、䝦（獸名，如豹而角）、潨（小水入大水曰潨、河流交匯處；水聲）、𥼟（黏也）。",
+      "boundary": "505.从部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "昆本義：盛大顯明",
+      "statement": "甲骨文从日从聲，「从」與「㐺」同，都指多人相隨表示跟隨或眾多；「日」指太陽表示明亮，或象意盛大、顯明（《廣雅》「盛也」、《集韻》「明也」），或象意混同、眾多（《玉篇》「同也、并也、咸也」）。轉義：由混同引申指兄弟（《廣韻》「兄也」），由跟隨引申指後（《爾雅》「後也」），由盛明引申指廣大無垠（昆侖，天形、㫄薄大容；山名，西方之山隤肰渾敦故謂之昆侖，別作崐崘）。辯證：因「从、比」形近，故《說文》「从日从比」析形不確。音源：本「从」聲，因有同義而義音同「勻」。",
+      "boundary": "505.从部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "昆的字族",
+      "statement": "①指盛明，表示大、明：崑（昆侖山，中國最大的山脈；古島嶼名即今越南湄公河口的昆侖島；針灸穴位名）、混（豐流、盛大的水流；雜流；大也、混濁；混沌，隂陽未分；滾，大水流貌）、鵾（似雞而大）、騉（騉蹄趼，善升甗，一種蹄平正善登山的野馬）、猑（大犬；獸名）、婫（女字；江東以物蒙頭曰婫）、鯤（北溟大魚，其廣數千里；魚苗）、𪋆（鹿屬）、焜（煌也、明亮輝耀）、琨（石之美者、美玉）。②指混同，表示渾圓、捆束、混雜：䚠（木未破；角圓貌、角全也）、裩（有襠褲）、棍（木名；束木；棍棒；開線棍子即纏繞線弦的旋紐）、掍（同也、混同混合）、輥（轂齊等貌、車轂正圓勻整；轉之速；能滾動的圓柱形機件）、緄（織帶、編織的帶子；滾邊鑲邊；縫也）、䃂（鍾病聲，鐘聲不響亮；石聲；石滾即石制碾軋農具）、堒（蟲之總名，通作昆）、錕（錕鋙，鐵赤色可為劍；車釭，車轂內外口用以穿軸的鐵圈）、倱（倱伅，四凶之一，《春秋》作混沌；不慧、不開通、大而無形）、菎（薈也、香草）、惃（惛也、亂也，昏迷混亂）、餛（餛飩，用薄麪片包餡，空中裹餡類彈丸形）。③音譯字：醌（一類含兩個雙鍵的六員環狀二酮結構的有機化合物 quinone 的音譯）。",
+      "boundary": "505.从部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "雙本義：鳥的交尾",
+      "statement": "甲骨文从隹从再。「隹」指鳥，「再」指兩、重，象意鳥的交尾表示配偶（《集韻》「相偶也」）；「隹」或作「雔」，也是配偶之意；戰國古文「再」演變作「又」，故《說文》「隹二枚也，从雔，又持之」。轉義：鳥交尾時雄鳥站在雌鳥的背上，故引申指聳立（此義分化如「𨇯」，跭𨇯，竦立）。音源：借音字，因聳立之意而義音同「聳」（《左傳·昭公六年》「聳之以行」，《漢書·刑法志》引作「𢥠」）。",
+      "boundary": "506.雙部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "雙的字族",
+      "statement": "①指配偶，表示成雙成對：孇（女子人名用字）、䝄（胡豆、豇豆別名，其莢雙生兩兩下垂故呼䜶䝄）、𩆿（雨貌）、𩽧（海魚名，因比目魚名鰈而臆造）、𧕟（蟲名；或為蠼之訛）。②指鳥的交尾狀，表示聳立：𢥠（懼也，或作愯、悚，通作聳）、艭（舽艭，舟名）、欆（棹船羽；栙欆，木張帆）、䉶（帆，南海有盧頭木葉如甘蔗織以為帆；濾酒的筲箕）、𨇯（跭𨇯，竦立）、㩳（執也、推也、動也、上也、挺也）、𡾼（山聳起貌）、𧄐（草）。",
+      "boundary": "506.雙部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "祘本義：算籌縱橫佈局",
+      "statement": "从示的二疊。「示」不是指神靈之示，而是象算籌縱橫佈局之形：上橫為十位算籌、下豎為個位算籌，二疊以表示多欄之意；後來的算盤其構造原理其實跟算籌差不多，只是用串珠代替短棍（《說文》「明視以筭之，从二示」，《逸周書》「土分民之祘」即均分以祘之）。音源：義音同「筭」。",
+      "boundary": "507.祘部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "祘的字族",
+      "statement": "蒜（葷菜、大蒜，《古今注》「蒜，卵蒜也，俗謂之小蒜」；張騫使西域得大蒜胡荽，取其狀如算盤珠子意）、𧲟（與昆蟲之昆同，取其多意）。",
+      "boundary": "507.祘部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "𠨎本義：二人跪跽",
+      "statement": "甲骨文从卩的二疊。「卩」為人跪跽狀，二疊表示極致或眾多；戰國古文在下加「丌」作「巽」，故《說文》「二卩也，巽从此」。跪跽乃恭順之狀，二疊則象意十分恭順、卑下（巽，順也、柔也、卑也，又與遜同）；也可象意眾人跪跽成排——秦漢以前古人都是席地而坐，跪跽一般在歇息、吃飯或從事某種相對固定的手頭活動，從而表示備具、同時（《廣韻》「具也」、《集韻》「齊也」）。轉義：由跪跽成排之狀引申指布散（《釋名》「巽，散也，物皆生布散也」）；眾人跪跽成排意味著同時從事某項活動，引申指選取之意（可指吃飯如饌、可指教學如譔、可指編寫如撰）；由眾人跪跽著圍攏之狀引申指環繞、邊沿（分化如襈，緣也）。音源：借音字，因排列眾多而義音同「筭」（《易·巽》「巽在床下」，馬王堆帛書本作「筭」）。",
+      "boundary": "508.𠨎部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "𠨎的字族：集體從事",
+      "statement": "①指眾人跪跽，表示集體從事某項活動：𠨕（二疊跟三疊本表意近同，其義應同𠨎）、選（遣也；擇也；徧也、迅也；數也；銓官曰選；萬也）、譔（專教也、專心教導；述也；造也、為也；善言）、僎（具也、具備；數也、持也、整也；鄉飲禮輔主人者即贊禮）、撰（定也；則也；數也，天地陰陽等自然現象的變化規律；述也、著述；集也、持也、具也）、饌（備具飲食、飯食、盤饌、陳食）、𦠆（切熟肉更煮；以米糝之如膏饡）。",
+      "boundary": "508.𠨎部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-82-gong",
+      "title": "𠨎的字族：陳設與環繞",
+      "statement": "②指眾人跪跽成排，表示陳設、排列：巽（卦名，八卦之一代表木、風、東南方；順也、柔也、卑也；散也；持也）、𦧸（專也）、鐉（門框上承受門樞的鐵環；治門戶的器具；六兩也）、𤩄（珍𤩄、玉名）、㔵（器也，大約食盒或工具箱）、潠（含水噴；刷洗）、簨（簨虡，所以懸鼓者，橫曰簨、縱曰虡，簨上之版曰業刻為牙捷業如鋸齒；所以縣鐘磬）、繏（懸縋索，懸持蠶箔柱的繩索；蜀錦名）、㯢（槌之橫者）。③指眾人跪跽成圈，表示環繞、捲曲：𦌔（網也、取魚網，𦌾獸足也）、𩻝（魚名，無骨）、襈（緣也，衣裳的邊飾；有緣飾的長襦）、𥶷（竹緣、竹篾包的邊）、䍻（羊羔、未滿周歲的小羊）、蟤（蜿蟤，龍屈貌、蟲不申貌、蛇名）、㦏（愞㦏，劣弱貌；悅也）、㷷（臇，臛也，汁少的肉羹）、𡢀（勉也；譏刺之意）、𦺈（蓀，香艸）、𧂍（艸名）。",
+      "boundary": "508.𠨎部",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
