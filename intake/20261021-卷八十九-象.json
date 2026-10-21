@@ -1,0 +1,767 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷八十九 象（533.象部至539.鬯部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "音源字象：象大象形，音源大象叫聲",
+      "statement": "本卷音源字為「象」，象大象形。其音源自大象的叫聲。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/89a-xiang.md",
+      "topic_title": "卷八十九·象",
+      "topic_summary": "《系统汉语》卷八十九「象」第533–539部（p1534–p1550）：音源字象象大象形、音源大象叫聲；卷首講亞洲象形態（長鼻四萬條肌纖維、象牙大耳）、食性與活動、母系社群、繁殖（孕期18–22個月）、中國僅雲南分佈、商代服象與河南簡稱豫、傣族象崇拜（白象守護神、《巴塔麻嘎捧尚羅》《象的女兒》）、羊象音通、借音總說（爿襄囊借其龐大、長畕鬯借其長鼻）；533 象部（像蟓橡、襐、𩞧、𢠽勨、𤩪䴂）、534 爿部（爿／片、壯、將、臧、倉、葬六根）、535 襄部（升舉、幫助、卷袖、徘徊）、536 囊部（口袋斂藏）、537 長部（長髮拄杖：形態長、時間長、距離長、變長張開）、538 畕部（田界、硬挺、疆域）、539 鬯部（濾酒竹簍、醇酒、暢通）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "亞洲象的形態：長鼻、象牙、大耳",
+      "statement": "大象生物學上稱長鼻目象科，包括亞洲象和非洲象。亞洲象體長（含鼻）550～640釐米，尾長120～150釐米，肩高250～300釐米，成年象體重5000千克左右，皮膚灰色至棕色；雄象有象牙，最長可達1.5～1.8米，雌象牙較小一般不伸出口外。四肢粗壯幾乎垂直於地面，前肢5趾、後肢4趾，小跑時同側前後肢同時提起，稱「溜蹄」，故行走時有奇特的搖擺動作。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象鼻：四萬多條肌纖維組成，兼嗅覺、取食、吸水與自衛",
+      "statement": "亞洲象的鼻子是動物中最長的，實際上是鼻子和上唇的延長體，一直下垂到地面，由四萬多條肌纖維組成，裡面有豐富的神經聯繫，不僅嗅覺靈敏，而且是取食、吸水的工具和自衛的有力武器；鼻端有一個像手指一樣的突起，集中了豐富的神經細胞，使象鼻能隨意轉動彎曲，具有人手一樣的功能。耳朵寬近1米，利於收集音波，裙皺多而增大散熱面，像兩把調節體溫的大蒲扇，還能驅趕蚊蠅寄生蟲。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "亞洲象的食性與活動：日食100～150千克，奔跑時速24千米",
+      "statement": "亞洲象喜棲於氣溫較高、空氣濕潤、靠近水源、植被茂密的熱帶地區（一般海拔1000米以下），皮膚厚達3釐米但毛稀少，既畏寒冷又要避開烈日，故白天躲於林蔭、清晨與傍晚覓食；食量驚人，每天吃100～150千克新鮮植物，需佔據幾十平方公里活動領域，象群有規律地週期性遊動，奔跑時速可達24千米、一次可跑400～500米，一次飲水約60千克；喜水浴泥浴，還是游泳好手，可連續游五六個小時。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "亞洲象的社群：母系群體、受傷者被夾在中間",
+      "statement": "亞洲象通常三五成群或結成幾十頭的大群，每個群體由一個或多個「家庭」組成，彼此互相幫助、和睦相處；與其它群居動物不同的是領頭者均為成年雌獸，其它成員按年齡大小、體質強弱排列秩序，不幸受傷的個體常被夥伴們夾在中間一起前進；領頭者決定行動路線、時間安排、覓食場所、休息地點並承擔保衛群體的責任，若死亡則很快另選新首領。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "亞洲象的繁殖：孕期18～22個月，幼仔70～100千克",
+      "statement": "亞洲象沒有固定發情期，交配時雙雙躲進僻靜密林；牠是陸地上最大的動物，連睡覺也是站著，只有幼象和亞成體小象休息時趴在地上；繁殖率較低，約5～6年繁殖一次，懷孕期長達18～22個月，秋末冬初產仔、每胎一仔，初生幼仔重70～100千克，鼻子不長、無長牙、全身棕紅無毛，幾小時後即可隨群活動；哺乳期約2年，14～15歲成熟，壽命60～70歲（亦有活到100～130歲的報導）。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "中國亞洲象的分布：僅雲南西雙版納，1984年調查230～263頭",
+      "statement": "亞洲象在我國只有雲南省分佈，據1984年調查雲南境內有野象230～263頭，主要分佈在西雙版納自治州（約170頭）；由於人為活動加劇，適宜生存的空間越來越小、數量逐年減少。目前亞洲各國共有野生亞洲象37000至48000餘頭、家象15000至18000餘頭，以印度、緬甸、馬來西亞、泰國、印尼、斯里蘭卡為多。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "商代服象與河南簡稱「豫」",
+      "statement": "《呂氏春秋·古樂篇》有「殷人服象」的記載，甲骨卜辭中多有「今天晚上有雨，能擒獲大象嗎」之類獵象問訊，說明商代野生大象是商王狩獵的主要對象；正因為河南是當時大象的主要棲息地，河南又稱「豫」，豫字就是殷人服象的圖形再現。商代文物中不僅有象牙雕刻工藝品，青銅器玉器紋飾也多有表現，王陵區考古還不止一次發現用大象或幼象做犧牲的祭祀坑。但可能由於氣候變化與商人濫捕，大象在長江以北商代時就已絕跡，故沒有多少直接的崇拜證據。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "傣族象崇拜：白象為守護神，《巴塔麻嘎捧尚羅》與《象的女兒》",
+      "statement": "西雙版納是我國唯一產象地，傣族歷來把大象看成吉祥、力量的象徵甚至神物，象崇拜滲透到社會生活各領域（圖畫、雕塑、舞蹈、音樂、故事、貝葉經、賧白象）。傣族有象神話、始祖神話、守護神話三類：創世史詩《巴塔麻嘎捧尚羅》講英叭神造神象「掌月朗宛」以鼻頂天、四腳鎮地，又造象獸人身的捧麻冉劃分季節晝夜；《象的女兒》講婦人飲神象尿液而孕、生象姑娘，尋得象父、住象牙房，與獵人成婚繁衍神象後裔。白神象象徵風調雨順、五穀豐登、和平安寧，據說與穀魂同住，出現在哪裏哪裏就消災除難；从遊獵到農耕的爭戰時代，白象又是威力無比的守護神。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "羊、象音義可通，故象部之字或與羊相通",
+      "statement": "由於「羊、象」音義可通（《說文》「樣，栩實也。橡，同上」；《呂氏春秋·恃君》「冬日則食橡栗」），導致一些本來應該跟「象」相關的字卻跟「羊」相通。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "借音總說：爿、襄、囊借其龐大，長、畕、鬯借其長鼻",
+      "statement": "象是陸生哺乳動物中體形最為龐大的，故「爿、襄、囊」應都是因此而借其為音；象的長鼻子最為奇特，故「長、畕、鬯」借而為音。",
+      "boundary": "源自《系统汉语》卷八十九「象」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象本義與轉義：大象；想象、形象、仿效",
+      "statement": "象本義：象大象形，指大象（xiàng，《說文》「南越大獸，長鼻牙，三年一乳，象耳牙四足之形」）。轉義：遠古時期地處中原的殷人曾馴服大象作為家畜，但隨著氣候變化大象南遷、中原一帶已沒有大象蹤跡，故引申指想象、形象、仿效（《正字通》「又形象。又肖似也」；《廣雅》「效也」）。",
+      "boundary": "源自《系统汉语》第533部「象部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象音源與字族①：象鼻，含看似同手一樣靈活之義",
+      "statement": "音源：音源字，源自大象的叫聲。字族①指象的鼻子：像（xiàng《說文》「象也。从人从象，象亦聲」，相似、形象、摹倣；取義同「偽」，指大象的鼻子樣子看似鼻子、實際卻同手一樣靈活）、蟓（蛘𧓲，桑蠶，指蠶吐絲的樣子如象鼻一樣擺動）、橡（樣，櫟樹的果實，葉可飼柞蠶）、嶑（山名）、鱌（魚名，似魟、白鼻長）、鐌（鐌鼻，器鈕、器飾，或錦名）、潒（瀁漾，水流搖動、水大、水急之皃）。",
+      "boundary": "源自《系统汉语》第533部「象部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象字族②：象的身軀",
+      "statement": "②指象的身軀：襐（𢄵，寬大的服飾、盛裝；《廣韻》「未笄冠者之首飾也」）、𩕓（同預）。",
+      "boundary": "源自《系统汉语》第533部「象部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象字族③：象的飲食",
+      "statement": "③指象的飲食：𩞧（𩞃，午飯；即「餉」；《廣韻》「日西食」）——指大象的進食時間長，每天多達17小時左右，从早到晚都需要不斷進食。",
+      "boundary": "源自《系统汉语》第533部「象部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象字族④：象的走路",
+      "statement": "④指象的走路：𢠽（愓婸偒，放蕩）、勨（徭役寬緩；《集韻》「勉也。動也」）、𨖶（行也）。",
+      "boundary": "源自《系统汉语》第533部「象部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象字族⑤：象牙雕飾的器具",
+      "statement": "⑤指用象牙雕飾的器具：𤩪（同「象觚」，用象骨裝飾的酒器）、䴂（䴂鵰，鸏䴀別名，即冠斑犀鳥，又名越王鳥、鶴頂、海鶴、五距鳥；劉欣期《交州志》「大如孔雀，喙長尺餘，南人以為飲器」）。",
+      "boundary": "源自《系统汉语》第533部「象部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "象字族⑥：形近字「虜」之訛",
+      "statement": "⑥形近字「虜」之訛：𢊔（㢚，《海篇》「庵舍也」，即㢚字之譌）、𦺨（《玉篇》「草」，《正字通》「譌字」，疑指橡實）。",
+      "boundary": "源自《系统汉语》第533部「象部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "爿本義：象豎起的床形，牀之初文",
+      "statement": "爿本義：象豎起的床形，長豎為床板、旁為床足，是「牀（chuáng）」的初文（《說文》「安身之坐者。从木爿聲」）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "爿轉義與辯證：木片、剖開；《說文》片為判木不確",
+      "statement": "轉義：床面必須平整、系由剖開的樹木鋪成，故引申指木片，此義分化作「片（piàn）」（《廣韻》「析木也」）；由剖木引申指剖開（pán，《玉篇》「半也、判也、開坼也」），或引申指片狀物（《字彙》「瓣也」）。辯證：由於小篆看起來就像「木」的一邊，故《說文》「片，判木也。从半木」析形不確。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "爿音源：借音字，古爿、相可通",
+      "statement": "音源：借音字，古爿、相可通——《詩·小雅·楚茨》「我倉既盈」，「倉」《太平御覽》卷三三五引作「箱」。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "爿字族①：床及床狀",
+      "statement": "①指床，或指如床狀：牀（床，人所坐臥；《釋名》「牀，裝也，所以自裝載也」；甲骨文从宀爿聲）、疒（倚也，人有疾病、象倚箸之形；甲骨文本从爿人，後在人旁加小點表示血汗溺，即人有病臥床不起；多作形旁表疾病）、牕（牎窗囪，通孔也，指窗的有框有櫺、狀如床）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "爿字族②：片，表示剖開狀",
+      "statement": "②指片，表示剖開狀：戕（槍也，他國臣來弑君曰戕；殘也、殺也；zāng戕牁即繫舟、牂牁郡名）、牄（鳥獸來食聲；「倉」本指倉庫，从爿聲即敞開倉庫而無備，故鳥獸紛紛來食，本義當同「敞」或「搶」）、斨（方銎斧也）、𡸤（山高峻）、狀（犬形也，狗張嘴吠叫；描摹、陳述、書狀、類似）、妝（飾也，女子用花瓣等修飾容貌）、𧢼（角長皃，角對生如剖開一般）、䏒（胖，半體）、㸤（革中絶謂之㸤，皮革中斷，本亦作辨）、沜（泮，水流、厓也；散也、破也、泮宮）、𠯯（方言，談天閒聊）、𤖭（片也）、𩢝（與騈同）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "爿字族③：形近字「匕、卯」之訛",
+      "statement": "③形近字「匕、卯」之訛：牂（牡羊也，段注改「牝羊」；甲骨文本从匕跟牝同、指母羊，因匕爿形近、戰國古文訛从爿）、㸞（版也；mǎo𤕰字之譌，𤕰為古文卯字）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "壯本義：从匡爿聲，寬闊如床的築土筐與築土",
+      "statement": "壯本義：本从匡爿聲——「匡」指筐子，从「爿」指如床一般寬闊的筐子，這種筐子一般是在築牆、路或堤壩之類時用於填土夯實的；故戰國古文省「匡」作「土」，象意寬闊平整如床的築土（《戰國古文》「从土（或作立形），爿聲」；《淮南子·墜形》「壯土之氣」注「壯土，南方之土」，故壯之本義當與土有關，小篆土誤作士）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "壯轉義與辯證：高大盛大；从士爿聲說亦可通",
+      "statement": "轉義：由築土的闊大引申指高大、盛大（《說文》「大也」；《玉篇》「健也」；《釋名》「三十曰壯，言丁壯也」；《爾雅》「疾、齊，壯也」）。辯證：其初文不明，對其字源尚難以遽定；或以其从士爿聲——「士」本指雄性生殖器，从「爿」言其粗大、勃起，也未嘗不通（「壵」《字彙補》「同壯」，士之三疊言其十分粗壯）；戰國古文或从立爿聲，「立」指人的站立，从「爿」言其胸寬體胖，也是可以的。筆者所錄西周金文，《類編》以其為「將」，「將」本有甲骨文、與之差別甚大應非，根據其與「土」的邏輯聯繫，將其視為「壯」的初文。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "壯字族：多指大、盛",
+      "statement": "字族（多指大、盛）：莊（庄，草盛皃、莊敬、六達道曰莊；《六書正訛》「艸芽之壯也」）、奘（粗大、盛、健；zhuǎng方言身體粗大）、𤞛（妄強犬也）、裝（裹也，包裹、行囊、裝束、儲放、假裝）、匨（臧，善也；cáng藏、匿也）、銺（鈴聲）、焋（實米於甑也；今炊粉餈謂之焋糕；醫用艾灸一灼謂之一壯）、梉（木名，似豫章）、糚（妝）、㮜（木版盛物）、𡍱（收藏）、𢈜（壯立皃）、𢙳（不悅）、𣼥（同曠，空曠）、𤶜（病熱、發高燒）、𦀜（入綿）、𨌄（修車）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "將本義與轉義：𢪇，以手扶起躺者；送、請、奉養、率領",
+      "statement": "將本義：甲骨文本从雙手从爿，爿亦聲——「爿」指床、表示躺著，从雙手象意把躺著的人扶起來或使躺下去，本當隸定作「𢪇（jiāng）」（《說文》「扶也。从手爿聲」；《玉篇》「助也」）；西周金文添加「肉」，表示用肉來引誘躺著的使之起來行動（jiǎng，《集韻》「㢡，勸也，助也。或作將」）。轉義：由扶起引申指送、請（jiāng《玉篇》「行也。送也」；qiāng《廣雅》「請也」）；由扶而使躺下引申指奉養、救護（jiāng《廣雅》「養也」；《釋名》「救護之也」）；由通過肉的獎賞引申指率領（jiàng《說文》「將，帥也」），或引申指大（《爾雅》「大也」）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "將字族①：獎，表示率領、勸勉、使行走",
+      "statement": "①指獎，表示率領、勸勉、使行走：獎（𤟌㢡奬𤍵奖，嗾犬厲之也，使喚狗而獎賞它；助也、成也、譽也、勸也）、槳（㯍䒂𥶝𥷃桨，楫屬；長大曰櫓、短小曰槳，縱曰櫓、橫曰槳）、䉃（剖竹未去節謂之䉃，即剖開竹子作成的槳；去節則沒有力度，今鄉間竹扁擔即如此）、鱂（鯧，鰪鱂、青鱂，體長三至四釐米、善食孑孓；或指鯧魚狀如槳）、蹡（蹌，行皃；qiàng踉蹡行不正）、螿（寒蜩，似蟬而小色青，九月十月中鳴、聲甚凄急）、鏘（瑲創，玉聲也、樂聲；《廣雅》「鏘鏘，盛也」）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "將字族②：扶，表示硬挺、粗大、使立起",
+      "statement": "②指扶，表示硬挺、粗大、使立起：摪（𢪇，扶助；qiàng刺也）、漿（酢漿，古代釀制的一種帶酸味的飲料；水亦曰漿、米汁相將也；過去常用米湯浸布料衣服使之硬挺）、醬（肉醬；西周金文本从甾爿聲，「甾」指水浸漬，後演化从酉，表示用鹽水或醋之類醃制加工食品）、䵁（麪敗曰䵁，麪餿，應同醬）、䵼（煮也；甲骨文本从肉在鼎中，或添爿聲，應表示大塊，故義指煮肉）、蔣（菰，或稱茭白、茭兒菜、茭筍、菰米，多年生淺水草本，嫩莖稈被黑粉菌寄生而肥大）、墏（基也）、嶈（山高貌、山激聲）、𡑶（塞也）、𤖛（大也，通作駔麆）、𪙝（小齒）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "將字族③：形近字「寽」之訛",
+      "statement": "③形近字「寽」之訛：𣩗（𣨅字之譌，病）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "臧本義與轉義：从臣从戈，珍藏防盜；善、厚、贓",
+      "statement": "臧本義：甲骨文本从臣从戈——「臣」即目、指用眼睛盯著，从「戈」即用武器防著，象意珍藏起來防止盜失；春秋金文添加「爿」為聲符表示安放，或省臣或省戈，都是窩藏之意、指妥善保管（cáng《字彙》「匿也」；zàng與庫藏之藏同）。轉義：需要看守和庫藏的東西當然是珍貴的、好的，故引申指善、好、厚（zāng《說文》「善也。从臣戕聲」；《廣韻》「厚也」）；或引申指不正當的、見不得人的財物（《篇海類編》「吏賄盜貨也」）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "臧字族：多指藏匿",
+      "statement": "字族（多指藏匿）：藏（匿也，漢書通用臧字，从艸為後人所加；戰國古文本从宀醬聲即密放醬菜之所；zàng庫藏）、鑶（鈴聲）、臟（五臟，胸腔內部器官的總稱；《字彙》「臟者，藏也，精藏于腎、神藏于心、魂藏于肺、志藏于脾」）、贓（贜赃，藏也、納賄曰贓、盜所取物，凡非理所得財賄皆曰贓）、欌（收藏衣物的傢俱、衣櫃）、㵴（㶓，沒也、沉沒）、𡅆（狗叫聲——狗本是看守門戶的）、𡽴（峁𡽴，山高皃）、𤜐（牛善也）、𧕨（石高險貌）、𨤃（同藏；zā同臢不乾淨）、𩯩（𩰅鬇𩯎，鬇鬡亂髮）、𪓅（應同臢，不乾淨）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "倉本義與轉義：藏物之庫；深青、雜亂、急促",
+      "statement": "倉本義：从合爿聲——「合」象上下兩口形、表示封閉容受，从「爿」表示闊大的安放之處，象意藏物之庫（「爿」或作「戶」，表示有門戶的屋舍，含義相同；cāng《玉篇》「倉庾也」）。轉義：倉庫為了防潮防鼠一般比較密閉，空間大而又需要通風透氣，因此一般都是空闊而又昏暗的，故引申指深、青色（分化如凔《說文》「寒也」、蒼《正字通》「深青色」）；或引申指喪（chuàng《集韻》「喪也」）；由倉庫的堆物之狀引申指雜亂、急促（分化如傖《集韻》「傖囊，亂皃」）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "倉辯證：《說文》从食省、口象倉形不確",
+      "statement": "辯證：《說文》「穀藏也。倉黃取而藏之，故謂之倉。从食省，口象倉形」——「倉」本不只是儲存穀物，字本从「合」，與「食」沒有必然聯繫，故析形不確。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "倉字族①：倉的空闊，表示空洞、回聲",
+      "statement": "①指倉的空闊，表示空洞、回聲：艙（船或飛行器中載人或裝置機件貨物的空間）、𠥐（古器也）、滄（寒也；又滄海也）、凔（寒也）、鎗（鐘聲也、金聲也；鼎類、酒器；qiāng兵器；qiǎng髹漆工藝如鎗金）、愴（傷也、悲傷；chuǎng愴怳失意皃）、謒（語輕也）、𨶆（門聲也、門聲和也）、瑲（玉聲也、樂聲；chēng聲也；cāng玉色）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "倉字族②：倉的儲物，表示雜亂、堆積",
+      "statement": "②指倉的儲物，表示雜亂、堆積：賶（積貨也）、嵢（山勢）、槍（歫也，抵拒的武器、木兩頭銳也；剡木傷盜曰槍；chēng彗星為欃槍）、蹌（動也、舞皃、和鳴也；走路不穩、倉猝意）、牄（鳥獸來食聲）、獊（獊囊，亂貌，倉猝紛亂、群狗亂吠）、傖（鄙賤之稱；傖囊亂皃，粗俗鄙賤紛亂）、嗆（鳥食也、愚皃；有刺激性的氣體或細末進入呼吸器官而難受）、搶（集也、突也、拒也；qiǎng爭取也；chèng搶攘亂皃；chēng攙搶妖星即彗星）、熗（烹飪方法：沸水略煮或熱油略炒再加佐料）、戧（刅創㓝剙，傷也；qiāng逆向、言語衝突；qiàng撐、支持、在器物圖案上填嵌金銀）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "倉字族③：倉的陰暗，表示青色",
+      "statement": "③指倉的陰暗，表示青色：蒼（艸色也，本義當指穀物成熟時的樣子、其色青黃；青也、灰白色、淺青色；或指倉猝）、鶬（麋鴰也，大如鶴、青蒼色，關西呼鴰鹿、山東呼鶬鴰、南人呼鶬雞；又鶬鶊即黃鸝）、篬（箐，竹名；cāng竹色）、螥（蒼蠅）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "葬本義與字族：掩埋屍骨，二次葬習俗",
+      "statement": "葬本義：甲骨文本从歺爿聲——「歺」指屍骨，从「爿」象意掩埋屍骨；戰國古文演變作从死臧聲（據《陸建松·魂歸何處——中國古代喪葬文化》紹介，初民社會常見一次葬、二次葬、歸葬和火葬等方法，二次葬是人死後將屍體停放在某一特定地方、待肉體腐爛後再收骨正式埋葬，故又稱遷葬、洗骨葬）；或象人在棺槨中形，指棺葬，戰國古文或从死从茻、小篆从之，故《說文》「藏也。从死在茻中」。字族（指屍骨狀）：髒（脏臟，肮髒體胖；zàng抗髒伺立皃、勁直不阿附貌；zāng不清潔污穢）、𩦦（與髒同）、𠿺（方言，狗叫、嘮叨）。",
+      "boundary": "源自《系统汉语》第534部「爿部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "襄本義：象人頭頂器皿，上舉、昂起",
+      "statement": "襄本義：甲骨文象「皿」在「人」頭頂上形，表示人頭上頂著器皿。轉義：由頭頂物之狀引申指上舉、昂起（xiāng《玉篇》「上也」；《正字通》「舉也。昂也」）。",
+      "boundary": "源自《系统汉语》第535部「襄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "襄轉義：幫助成就、駕車、除去、反復、肥大、嵌藏",
+      "statement": "頭頂物為免滑落一般都需要伸手扶助，故引申指幫助、成就（《玉篇》「成也」；《正字通》「贊也。助也」）；由雙手上舉如揚鞭之狀引申指駕車（《玉篇》「駕也」）；古人衣袖比較寬大，手上舉時衣袖會往下蜷縮，故引申指除去（《玉篇》「除也」），或引申指反復、更動（《廣韻》「返也」）；由卷袖之狀引申指肥大（分化如䑋《集韻》「秦晉謂肥曰䑋」），或引申指嵌、藏（分化如䉴《說文》「袌也」）。",
+      "boundary": "源自《系统汉语》第535部「襄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "襄辯證與音源：小篆訛从衣；相助故義音同相",
+      "statement": "辯證：由於春秋金文外或加「衣」，小篆从之，故《說文》「襄，漢令解衣耕謂之襄。从衣，𤕦聲」析形不確；不過「𤕦（níng）」《說文》「亂也。从爻、工、交、吅」，「（尋）此與𤕦同意」——「尋」本為張開雙手之形，在意義上與「襄」還是有一定的聯繫，只是已由合體象形字演變成象意字、背離了原甲骨文字形。音源：借音字，因有相助之義而義音同「相」（《史記·司馬相如列傳》「招搖乎襄羊」，《楚辭·離騷》「聊逍遙以相羊」，「相羊」與「襄羊」同；《玉篇·彳部》「忀」字條引作「忀徉」）。",
+      "boundary": "源自《系统汉语》第535部「襄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "襄字族①：伸手上舉，表示升舉、推讓",
+      "statement": "①指伸手上舉，表示升舉、推讓：驤（馬之低仰也，馬頭時低時昂、馬騰躍、速也）、纕（𦅇，援臂也、捋袖露出手臂；束衣袖的繩索；xiāng佩帶、馬腹帶；sāng緗𦅇淺黃）、饟（餉，周人謂餉曰饟，進食給別人）、蠰（𧒾蠰，螳螂，前肢大而長常作上舉；shāng食桑蟲似天牛；rǎng土螽蠰谿似蝗而小）、攘（推也、推讓、揖讓；rǎng以手禦、竊也、除也、逐也、止也，揎袂出臂曰攘、擾攘）、禳（磔禳祀，除癘殃也，驅除災禍的祭祀儀式）、嚷（大聲喊叫、吵鬧、呼喚、責備）、獽（戎屬，古代對西南少數民族的蔑稱）、讓（相責讓、責備；謙讓、退讓；先人後己謂之讓）、懹（憚也、相畏也）、欀（道木也；xiāng欀木皮中有如白米屑、擣之可爲麵）、𥗝（雌黃之惡者，古代用其塗改錯別字）、蘘（蘘荷，多年生草本薑科植物，莖葉可制纖維、根入藥；其果从地裏鑽出來猶如結晶的礦物）。",
+      "boundary": "源自《系统汉语》第535部「襄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "襄字族②：卷袖狀，表示蘊含、雜亂、肥大",
+      "statement": "②指卷袖狀，表示蘊含、雜亂、肥大：鑲（作型中腸也、作鑄器模型裡頭的坯胎；xiāng鉤鑲、把東西嵌入另一物體或圍在其邊緣）、瓤（瓜實、瓜瓣，瓜果內部包著種子的肉；或指渾濁、鬆軟）、壤（柔土也，地表的鬆土、地之緩肥曰壤）、孃（煩擾也、一曰肥大也；niáng母也）、瀼（露濃皃、波浪開合皃、水淤也；rǎng澗水横通山谷間、市人謂之瀼，居人分其左右謂之瀼東瀼西）、𩆶（露盛皃）、䑋（益州鄙言人盛、諱其肥謂之䑋，豐腴肥胖）、䉴（袌也，藏物的竹器、漉米竹器）、𨟚（今南陽穰縣）、曩（向也，从前、久也）、瓖（玉名、馬帶玦；婦女釵釧加飾謂之瓖嵌）、鬤（鬡，亂髮、髮亂皃）、爙（火）、𥽬（糅也、雜也、雜米）、釀（醞也，作酒曰釀；或喻逐漸形成）、䖆（菜也；䖆葇蘇也，蘇之小者謂之䖆即香薷；䖆菜為葅即醃菜）。",
+      "boundary": "源自《系统汉语》第535部「襄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "襄字族③：襄助，表示徘徊、迅速",
+      "statement": "③指襄助，表示徘徊、迅速：忀（躟，忀徉也、逍遙、行皃；rǎng躟躟疾行）、勷（走皃；劻勷迫皃、遽皃；xiāng幫助、成全）、儴（仍、因也，因循沿襲；xiāng儴佯，徘徊、遊蕩不定皃）。",
+      "boundary": "源自《系统汉语》第535部「襄部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "囊本義與轉義：兩頭紮起的口袋；斂藏",
+      "statement": "囊本義：甲骨文象兩頭紮起來的無底口袋形（náng《廣韻》「袋也」）。轉義：由袋子的裝東西引申指斂藏（《正字通》「凡蓄藏者皆曰囊」）。",
+      "boundary": "源自《系统汉语》第536部「囊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "囊辯證與音源：小篆訛从𤕦，襄囊相混；囊鼓出故音義通襄",
+      "statement": "辯證：由於戰國古文在其中添加了所裝物形，小篆演變作「𤕦（níng）」，故《說文》「橐也。从㯻省，襄省聲」析形不確；同時這也造成「襄、囊」相混。音源：借音字，因袋子盛物而鼓出、而「襄」本有肥義，故兩者音義可通（這也可能正是小篆演變从「𤕦」的原因，不只是形近，其音義也近；如《集韻》「蠰，蟷蠰，蟲名，螗蜋也。或从囊」）。",
+      "boundary": "源自《系统汉语》第536部「囊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "囊字族①：口袋，表示裝、塞、軟",
+      "statement": "①指口袋，表示裝、塞、軟：囔（小聲說話；嘟囊、自言自語）、攮（推攮也；用刀刺戳、跌、栽倒）、灢（泱灢，水不淨、濁）、齉（鼻子不通氣、發音不清）、欜（木名；盛物器）、㚂（坱㚂，塵；土窟）、𡿝（𥗾，山隈、山角落）、𢖧（行皃）、儾（寬緩也；軟弱；同齉）、𧅺（草皃）、𦣘（𦣘巴，懦弱無能）、饢（波斯語「麵包」，維吾爾族哈薩克族烤製的麵餅；nǎng拼命往嘴裏塞食物）。",
+      "boundary": "源自《系统汉语》第536部「囊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "囊字族②：形近字「襄」之訛",
+      "statement": "②形近字「襄」之訛：𧖒（蠰，蟷蠰即螳螂，《正字通》「蠰字之譌」）、𨳆（𩰉，髮亂，也應是「鬤」字之訛）。",
+      "boundary": "源自《系统汉语》第536部「囊部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "長本義：象人長髮而拄杖，年齡大；亦可指手持權杖的首領",
+      "statement": "長本義：甲骨文象人長髮而拄杖之形，表示年齡大之意（zhǎng《廣雅》「老也」；《廣韻》「大也」）；所拄杖也可以指權杖，則表示手持權杖的首領之意（《廣雅》「君也」；《玉篇》「主也」）。",
+      "boundary": "源自《系统汉语》第537部「長部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "長轉義：久、遠、多、長處、增進、撫育；第一、尊敬",
+      "statement": "轉義：由年齡大引申指久、遠、多（cháng《玉篇》「永也、久也、常也」；zhàng《廣韻》「多也」；《集韻》「度長短曰長」），或引申指長處、優點（《廣雅》「善也」），或引申指增進（zhǎng《集韻》「進也」），或引申指撫育（《正字通》「長養之亦曰長」）；由首領引申指第一（zhǎng《集韻》「孟也」），或引申指尊敬、崇尚。",
+      "boundary": "源自《系统汉语》第537部「長部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "長辯證與音源：《說文》倒亡說不確；撫育故義音同羊",
+      "statement": "辯證：《說文》依據小篆以拄杖之形為倒「亡」——「久遠也。从兀从匕，亾聲。兀者，高遠意也，久則變化；𠤎者到亾也」——析形不確。音源：借音字，因有撫育義而義音同「羊」（《書·大誥》「民養其勸弗救」，「養」《漢書·翟方進傳》作「長」；養本羊聲）。",
+      "boundary": "源自《系统汉语》第537部「長部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "長字族①：形態長",
+      "statement": "①指形態長：韔（䩨，弓衣也，弓長袋子自然也長；《廣雅》「藏也」）、棖（杖也，斜柱、木柱、支撐；門兩傍木也）、躼（軂，軂軇，身長）、掁（𣪿撜，觸也、撞也）、鋹（利也、銳利）、𦁢（同長，絲長）、䗅（𧐊，蚰蜒也、草鞋蟲）、𩭨（鬈，髪好、胡人髪）、𡘷（套，長大也；凡物重沓者為𡘷）、𤲘（場畼，祭神道也、田不耕、治谷田也；畼田不生也）、萇（萇楚、跳弋，一名羊桃；《詩經植物圖鑒》釋為獼猴桃，藤狀果木）。",
+      "boundary": "源自《系统汉语》第537部「長部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "長字族②③：時間長（久）、距離長（遠）",
+      "statement": "②指時間長（久）：𤊞（㷃，火久也）。③指距離長（遠）：悵（望恨也，望其還而不至為恨、惆悵失志）、鼚（鼓聲）、𥇔（失志皃、望恨也；zhāng目大皃）。",
+      "boundary": "源自《系统汉语》第537部「長部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "長字族④：變長、分張、擴大、鼓起",
+      "statement": "④指變長、分張、擴大、鼓起：倀（狂也、猖狂；或指幫兇、迷茫不知所措；《正字通》虎齧人人死魂不敢它適、輒隸事虎名倀鬼，虎行求食倀必與俱為虎前導）、𩳤（江鬼醜貌；俗倀字）、帳（張也，用布或其它材料做成的帷幕；今俗會計事物之數曰帳）、賬（銀錢貨物出入的記載、債務）、張（施弓弦也，把弦繃在弓上；大也、開也；zhàng自侈大也、驕傲自大）、脹（痮瘬，痛也、脹滿、腹大也、膨脹；cháng腸）、瓺（罃，燕之東北、朝鮮洌水之間謂之瓺，一種腹大口小的瓦器）、涱（漲，大水也、水大皃）、𣺮（水灣）、㙊（㙣，沙墳起也）、䂻（鋥敞，塞也；磨也）、䛫（譸䛫，誑也、通作張；zhèng倀悙踈率）、䠆（東郡謂跪曰䠆，䠆𨂣拜也）、𨄰（方言，腳跟）、𢊜（庰，隱辟無人處也、又廁也）、𢐓（古文鏘字）、𤬅（古地名）、粻（食米也、糧也）、餦（餌曰餦餭，古代饊子之類的麵食品；餦餭餳也即糖；或同粻指糧食）。",
+      "boundary": "源自《系统汉语》第537部「長部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "畕本義：从二田，田與田之間的邊界",
+      "statement": "畕本義：「畕」从田的二疊——「田」指田地，二疊表示田與田之間，象意田與田之間的邊界（jiāng《說文》「比田也。从二田」）；可能是為了區別「畾」，西周金文在之間加上表示界劃的「一」作「畺」（《說文》「界也。从畕；三，其界畫也」）。",
+      "boundary": "源自《系统汉语》第538部「畕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "畕轉義與音源：田界直而硬實，引申硬挺；細長故義音同長",
+      "statement": "轉義：田界即田埂，一般都是直而硬實的，故引申指硬挺（jiàng《集韻》「死不朽也」；此義或分化作「彊」，qiáng《說文》「弓有力也」；《玉篇》「堅也」）。音源：借音字，因田界細長而義音同「長」（《史記·高祖功臣侯者年表》「莊侯彊瞻元年」，司馬貞索隱「《漢表》作平嚴侯張瞻」）。",
+      "boundary": "源自《系统汉语》第538部「畕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "畕字族①：硬挺，表示緊繃、僵直、硬紮",
+      "statement": "①指硬挺，表示緊繃、僵直、硬紮：畺（彊疆，界也；jiàng死不朽也）、僵（僨也、仆也、偃也，仰倒仆倒；今人語言乃謂不動不㱙爲僵，僵硬不活動）、繮（韁，馬絏也、拴馬的繩子）、橿（枋也、鉏柄名；杻檍，材中車輞、萬年木、鋤柄）、殭（死不朽也；蠶白也，凡死後不朽者皆曰殭、故蠶死而白謂之殭蠶）、䗵（蠶白死；感染白僵病而僵死的乾燥蠶體可入藥）、礓（礫石也）、𠘌（凍凝、凍僵）、𨊑（僵硬）、彊（強弜，弓有力也、硬弓、堅也；qiǎng勉強、牽彊假合；jiāng屍勁硬也）、㹔（牛長脊也，牛背脊直而硬）、麠（麖，大鹿也、牛尾一角，即大獐子；或指水鹿）、䲔（鯨，海大魚也）、㩖（扶持皃）、𠣀（𠣃勥，迫也、勉力也；力拒也）、𡾪（嵹，山也；嵹臺山、嵹川）、𥣲（擔，挑柴禾用的木棍，俗稱禾槍）。",
+      "boundary": "源自《系统汉语》第538部「畕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "畕字族②：田界，表示疆域、包括",
+      "statement": "②指田界，表示疆域、包括：壃（疅，或作疆、疅、壃、彊）、𤐀（𤒬，火煨也）、𧝿（𦇤𧟂襁，與襁同；襁褓負兒衣也，織縷爲之、廣八寸長二尺，以負兒于背上）、䕬（薑姜，禦濕之菜也、辛而不葷，塊塊相連如田）。",
+      "boundary": "源自《系统汉语》第538部「畕部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "鬯本義：从其之二疊，濾酒竹簍；上加勺為鬯即醇酒",
+      "statement": "鬯本義：「𠚍」的甲骨文本从其的二疊——「其」即箕，二疊表示極致，象意細長的箕狀物，即釀酒時用以濾酒的竹簍，中或有小點代指糟粒；釀酒時將其放置在酒糟中間，釀出的酒水會過濾到酒簍中，从而象意釀出來的醇酒（跟「酉」構型差不多）；上加「勺」為「鬯」，象意舀取醇酒（chàng《正字通》「鬯，酒名。釀秬為酒，和以鬱金」，本義應該是指濾出的醇酒，後世專用黑黍釀成並加上鬱金香，从而成為一種特殊的香酒）。",
+      "boundary": "源自《系统汉语》第539部「鬯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "鬯轉義：郁金香草、弓袋、暢通舒暢",
+      "statement": "轉義：由醇酒之香引申指郁金香草（《玉篇》「香艸」）；由酒簍之狀引申指弓袋（《詩·鄭風》「抑鬯弓忌」，孔穎達疏「鬯者，盛弓之器；鬯弓，謂弢弓而納之鬯中」）；由酒簍濾酒的通暢引申指暢通、舒暢（《漢書·郊祀志》「草木鬯茂」，師古曰「鬯與暢同」）。",
+      "boundary": "源自《系统汉语》第539部「鬯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "鬯辯證與音源：《說文》从凵象米不確；形細長故義音同長",
+      "statement": "辯證：《說文》「以秬釀𩰪艸，芬芳攸服，以降神也。从凵，凵，器也；中象米；匕，所以扱之」析形不確；不過「鬯」的本義是酒應無疑問，因為以其為形旁的字也多跟其相關（如𩰢「烈也」「香之美者」，𩰤「黑黍也、一稃二米以釀也」；小篆从鬯的「𩰥」《玉篇》「竹器，所以酌酒也，今作爵」，「鬱」《廣韻》「香草。又氣也、長也、幽也、滯也、腐臭也、悠思也」，也應該是因為跟酒有關而演變出來的）。音源：借音字，因其形細長而義音同「長」（《小雅·采綠》「言韔其弓」，《釋文》「韔，本亦作鬯」）。",
+      "boundary": "源自《系统汉语》第539部「鬯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-89-xiang",
+      "title": "鬯字族：不具表音性",
+      "statement": "字族（不具表音性）：𥠴（穧也；或从禾）、𣡎（荒也）。",
+      "boundary": "源自《系统汉语》第539部「鬯部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
