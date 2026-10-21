@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷八十三 鼎（509.鼎部至510.典部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "音源字鼎：象鼎形，音源敲鼎聲",
+      "statement": "本卷音源字為「鼎」，象鼎形，其音源自敲鼎聲。鼎作為漢語的音義元素，其音應是敲擊鼎所發出的「ding」聲；但陶鼎所發出的聲音應渾濁些，近似「li」聲。其義項主要表現在象形字「鼎、真」等字族中。但「鼎、貝」古字形相近，或有混同。",
+      "boundary": "源自《系统汉语》卷八十三「鼎」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/83a-ding.md",
+      "topic_title": "卷八十三·鼎",
+      "topic_summary": "《系统汉语》卷八十三「鼎」第509–510部（p1470–p1475）：音源字鼎象鼎形、音源敲鼎声；鼎由炊器（鬲、崧泽陶鼎、二里头青铜鼎、后母戊大方鼎）演变为王权象征（天子九鼎、定鼎、鼎革、问鼎、王子午鼎），秦以后转为寺庙焚香之器与吉祥象征（世纪宝鼎）；真为从勹鼎声的「镇」之初文，典为双手捧简册。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "鼎是我國古代最重要的炊具",
+      "statement": "鼎是我國古代最重要的炊具，兼具灶與鍋的雙重功能。最初的鼎是陶制的，或稱為「鬲」：山東省泰安市大汶口遺址（距今約7000～5000年）就有三隻足的鬲，但受材料限制不能做得太大。迄今發現最大的鬲，是上海崧澤新石器文化遺址出土的折角足盆形大陶鼎（距今約4900～5800年），也只有36釐米高、45釐米口徑、6公斤重，容量約25立升，按一般勞力攝入量計算，一次可解決二十多人的吃飯問題。",
+      "boundary": "源自《系统汉语》卷八十三「鼎」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "最早的青銅鼎",
+      "statement": "進入青銅器時代以後便出現了銅制的鼎。河南洛陽二里頭文化遺址（距今大約3800～3500年，相當于中國歷史上的夏末商初時期）所出土的，是目前發現的最早的青銅鼎。有了青銅器做材料，鼎便做得越來越大。",
+      "boundary": "源自《系统汉语》卷八十三「鼎」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "后母戊大方鼎：迄今最大的鼎",
+      "statement": "迄今所發現最大的鼎是商代的后母戊大方鼎：鼎重832.84公斤，高133釐米，口長110釐米、寬78釐米，足高46釐米，壁厚6釐米。",
+      "boundary": "源自《系统汉语》卷八十三「鼎」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "鼎的功用與使用：由炊器到王權象徵",
+      "statement": "《易經》「鼎」卦把鼎的功用及使用方法寫得很明白（「鼎顛趾，利出否」「鼎折足，覆公餗」等）：鼎較大，必須有牢實的耳以便用杠子（鉉）插進去抬開；壞了則食物不便吃，因下面有火沖人，須等涼或下雨，若驟然潑水會導致鼎炸裂，餘燼飛揚也會玷污食物；清洗時要「顛趾」，即扳倒以弄出殘渣（否）；鼎一般三足或四足以留出空間生火，弄折一隻便傾倒沒法用。原始公社時代煮食的鼎當然要大；隨著私有制和一夫一妻家庭制的建立，大鼎一般只用於祭祀或招待客人，逐漸退出食用舞臺而被賦予神聖色彩——周代有「天子九鼎，諸侯七鼎，卿大夫五鼎，元士三鼎」的使用數量規定，鼎遂成王權象徵、國家重寶。傳說夏禹收九牧之金鑄九鼎于荊山之下以象徵九州，並鐫刻魑魅魍魎圖形；其真實情況大約跟秦始皇收六國兵器鑄十二銅人差不多，而且要更殘酷（把百姓的飯鍋都收走，只允許用瓦罐，防止用銅製造兵器造反）。歷商至周，定都或建立王朝稱「定鼎」，國滅則鼎遷（夏滅鼎遷于商都亳京、商滅遷于周都鎬京），改朝換代稱「鼎革」。公元前606年楚莊王伐陸渾之戎，向周定王使者王孫滿「問鼎」大小輕重，王孫滿答「政德清明，鼎小也重；國君無道，鼎大也輕」，後遂以圖謀篡奪王位為「問鼎」。1977年河南淅川楚墓出土七件列鼎，造型紋飾相同而大小依次排列，銘文「王子午自鑄銅鼎……望子孫後代以此為準則」，即敢于問鼎中原的楚莊王之子王子午所作，世稱王子午鼎。",
+      "boundary": "源自《系统汉语》卷八十三「鼎」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "秦以後鼎的演變與當代象徵",
+      "statement": "秦代以後，鼎的王權象徵意義逐漸失去；伴隨佛教在中國的傳播，鼎的形式得以延續，後代的鼎通常安放在寺廟大殿前，既是裝飾物又是焚香的容器。現在鼎的造型主要用來象徵吉祥，家中擺設銅鼎寓意一切將有新的開始。1995年10月21日我國向聯合國贈送青銅巨鼎「世紀寶鼎」（當年國際十大重要新聞之一）：高2.1米象徵21世紀，口徑1.5米、重1.5噸，三足鼎立、雙耳高聳、滿身紋飾，內壁鑄金文「鑄贈世紀寶鼎，慶賀聯合國五十華誕」；鼎禁（底座）高0.5米、2米見方，上鑄56條夔龍紋飾象徵中華民族都是龍的傳人。",
+      "boundary": "源自《系统汉语》卷八十三「鼎」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "鼎本義：象鼎形，煮食之器",
+      "statement": "鼎本義象鼎形。鼎本是煮食之器，下面有足而空，可以生火，兼具鍋和灶的功能。在形制上跟「鬲」略有區別：鼎上面有耳，可穿杠而抬，「鬲」則一般是平的。《說文》：「三足兩耳，和五味之寶器也……《易》卦：巽木于火下煮為鼎，象析木之炊也。籀文以鼎為貞字。」《說文》所指的圓鼎，方鼎有四足。《正字通》：「圜象陽，方象隂，三足象三公，四足象四輔，黃耳象中，金鉉象斷雲雷，龍鳯、蟠虺、垂花，象物之文。」",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "鼎轉義：盛大、穩定",
+      "statement": "由于鼎大而沉重、難以移動，故引申指盛大、穩定。《方言》「維之謂之鼎」（系船之具）；《集韻》「方，且也」；《正韻》「當也」；《漢典》「顯赫；盛大」「最；頂」「抵拒」「用同『釘（dìng）』」。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "鼎音源：敲鼎聲，義音同丁",
+      "statement": "鼎為音源字，源自敲鼎聲。因有穩定義，義音同「丁」：《玉篇》「䵺，古文圢字」；《集韻》「𩕢，籀文頂字」。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "鼎字族①：指鼎形或形似物",
+      "statement": "①指鼎形或形似物：鼑（鼎貞）為鼎之古文，亦作籀文貞字；鐤同鼎；薡即薡董（長苞香蒲，葉可編織席、蒲包）；䵺（町圢𤲖）指蟻封（蟻穴外隆起的小土堆），亦通町（田踐處曰町）、町畽（鹿跡）；𩕢（頂顁𩒆）即頂（額頭）；檙（朾）為棒子、連枷；𠘋為冰貌。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "鼎字族②：指煮鼎沸騰、興起",
+      "statement": "②由煮鼎表示沸騰、興起：濎（㴿）為濎濘（水貌），《正字通》「波沸開合不定」，即波浪翻滾之狀，又濎濙為小水；𩆆（霣霆）為霆（《說文》「雷余聲也鈴鈴，所以挺出萬物」）與霣（《說文》「雨也。齊謂靁為霣」）之或體。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "真本義：从勹鼎聲，鎮之初文",
+      "statement": "真本義从勹鼎聲：「勹」象人俯伏之形，从「鼎」象意如鼎一樣使勁壓住，是「鎮（zhèn）」的初文，《廣韻》「壓也」。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "真轉義：真誠、填塞",
+      "statement": "壓在身下是為了防止失去所壓的，所以需全力以赴，從而引申指真誠、誠實（《玉篇》「不虚假也」、《廣韻》「眞僞也」、《集韻》「實也」），或引申指正（《字彙》「正也」）；由用身子覆壓，引申指用東西填塞、壓服（《字彙補》「真，又借作填」）。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "真辯證：《說文》僊人登天說不確",
+      "statement": "《說文》依據小篆釋作「僊人變形而登天也。从𠤎从目从乚；八，所乘載也」，析形不確：「𠤎」為「勹（匕）」之誤，目、乚、八本是「鼎」的演變；「僊人」之義源自道家的「真人」說，是由「不虛假」之義引申來的。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "真字族①：俯壓、壓制、倒仆",
+      "statement": "①指俯壓，表示壓制、倒仆：鎮（窴填）為廣泛地壓住，引申指市鎮、集鎮；瘨（癲𠑘）為癲癇病、腹脹；蹎為跌倒、顛仆；𧽍為奔跑時向前仆倒；𠑘（傎）為殞、仆、倒；攧為跌、摔、頓腳；鷏即蟁母（夜鷹），因白天俯伏于樹如枯樹節，故从真；槇（稹）為樹梢、樹木倒仆在地，又為羅漢松；滇（慎）為滇池（下流淺狹如倒流）。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "真字族②：壓實，真誠、填塞、密實",
+      "statement": "②指壓實，表示真誠、填塞、密實：禛為以至誠感神而獲福祐；嫃為女字；愼（昚）為謹（《金文編》錄作从亦从曰，即對著火燭說話要小心以免吹滅燈燭）；寘為安置、安放；填（窴殄陳塵）為塞、滿、穩重之貌；瑱（𦗁琠）為以玉充耳（冠冕玉飾垂于耳旁塞耳，又名充耳）；窴為填塞；齻為牙床末端最後長出的兩對磨牙（真牙）；厧為墳墓；稹（槇𥣰稨）為種植稠密、聚物，又扁豆；𩄚（𩆂資）為雨聲；鬒（㐱）為稠髮；縝（𣞟𦁄）為麻縷、密致；蒖為鳧葵（荇菜、蓴菜），密密覆蓋水面。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "真字族③：俯壓之狀，聳立、氣盛",
+      "statement": "③指俯壓之狀，表示聳立、氣盛：𩥄為馬額白（戴星馬）；䡩（軫）為車聲、車後橫木；嵮（巔）為山頂；顛（𠑘瑱）為頭頂（《六書故》「凡高之所極皆曰顛」）；闐為盛大之貌、于闐國名；嗔為盛氣、生氣責怪；謓為怒、冷笑；瞋（𥅜䀖睼）為張目、怒；䐜為肉脹起（邪氣脹肉）；搷（敒抻伸）為擊、引、揚。",
+      "boundary": "源自《系统汉语》第509部「鼎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "典本義：雙手捧簡冊",
+      "statement": "典本義：甲骨文从冊从𠬞，「冊」指書簡，从「𠬞」指雙手捧著簡冊。可象意有二：一指對簡冊的尊奉，表示簡冊的重要（《玉篇》「經籍也」）；一指捧著簡冊頌讀，表示重大的儀式，如「典禮」「大典」（《漢典》：盛大的禮儀）。",
+      "boundary": "源自《系统汉语》第510部「典部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "典轉義：常道法則、主持、典當",
+      "statement": "由經典的權威性引申指常道、法則、法令（《廣韻》「常也。法也」、《釋名》「典，鎮也，制教法所以鎮定上下」），或引申指堅韌（《集韻》「堅刃皃」）；由捧著簡冊的人引申指主持、主管（如「典試」，《廣韻》「主也」）；古代的冊為竹簡制成、比較沉重，從而引申指拿物典當、質押。",
+      "boundary": "源自《系统汉语》第510部「典部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "典辯證：《說文》从冊在丌上",
+      "statement": "由于典冊比較沉重，難以捧在手裡書寫和閱讀，須有丌可以擺放，故周代金文或省「𠬞」而加「丌」，表示大的書冊之意。故《說文》：「五帝之書也。从冊在丌上，尊閣之也。莊都說，典，大冊也。古文典从竹。」",
+      "boundary": "源自《系统汉语》第510部「典部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "典音源：本𠬞聲，義音同真",
+      "statement": "典本「𠬞」聲。因典冊的厚重，而義音同「真」：《集韻》「琠，玉也。或从真、从殿」。",
+      "boundary": "源自《系统汉语》第510部「典部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "典字族①：手捧典冊，主持、陳設、展開",
+      "statement": "①指手捧典冊，表示主持、陳設、展開：敟為主持（《六書統》「典之以治人，故从攴」）；捵（撚捻）為手伸物（拉長、扯平），又揉搓、踐踏、撐推；晪為明。",
+      "boundary": "源自《系统汉语》第510部「典部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "典字族②：手捧典冊之狀，垂重",
+      "statement": "②指手捧典冊之狀，表示垂重：腆（𣇺倎）為設膳腆腆多（厚、善、美、至、久）；琠（瑱𤩴顛）為玉名，亦通瑱（以玉充耳）；錪為朝鮮語之釜（《方言》「東齊之間曰錪，宋魯曰錘」），又重；婰為女名；賟為富；㥏為青徐謂慚（抬不起頭之狀）；覥（𧡝）為面慚、低頭不敢直視；淟為淟涊（垢濁、熱風、水濁、汩沒淪落）；唺為吐；痶為痶瘓（頭髮脫落之病）、痶腳（跛足點地、行動遲緩）；䠄（𨆁）為行跡、行貌（走路顫顫巍巍、左右扭動）。",
+      "boundary": "源自《系统汉语》第510部「典部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-83-ding",
+      "title": "典字族③：音譯字碘",
+      "statement": "③音譯字：碘（diǎn）為一種非金屬一價和多價元素，屬于鹵素，主要用于醫藥（抗菌、治療呆小病和甲狀腺腫）、照相和分析，英文為 iodine、元素符號 I。",
+      "boundary": "源自《系统汉语》第510部「典部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
