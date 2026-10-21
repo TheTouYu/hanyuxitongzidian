@@ -1,0 +1,1235 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷四十八 民（270.民部–277.秉部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "卷音源字「民」象蚊子形，音源蚊子营飞时翅膀振动的嗡嗡声",
+      "statement": "本卷音源字为「民」，象蚊子形。其音源自蚊子营飞时翅膀所发出的振动声。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/48a-min.md",
+      "topic_title": "卷四十八·民",
+      "topic_summary": "《系统汉语》卷四十八「民」，音源字为「民」象蚊子形，音源蚊子营飞振翅声；卷首系统讲蚊子的生物学、危害（疟疾、乙脑、登革热等）、二十四孝与生态教训；辖第270–277部：270 民部（p781）、271 昏部（p783）、272 文部（p784）、273 𡖀部（p787）、274 冖部（p788）、275 尨部（p797）、276 丙部（p798）、277 秉部（p807）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "蚊子的生物学：双翅目蚊科，体细足长，头前长喙，一生四阶段约十五天",
+      "statement": "蚊子属双翅目长角亚目蚊科。它们是体细足长的昆虫，头的前端有一长喙，是蚊虫的取食口器。食物包括植物汁及脊椎动物血液，因此容易传染动物之间的疾病，导致灾难性的后果。蚊子的一生分为四个阶段：卵、幼虫、蛹和成虫。前三个阶段生活在各种水域中，包括废弃的罐子、轮胎、水坑、树洞、沟渠等，成蚊则生活于陆地。卵在水中孵化为幼虫，幼虫经过四次蜕皮变为蛹，蛹羽化为成虫。在适宜的温度和环境条件下，蚊子完成一个生命周期通常只需要15天左右。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "蚊子之名与来源传说：白鸟、暑蟁、豹脚蚊子；蚊母鸟、枇杷果、蚊母草",
+      "statement": "蚊子也有不少称呼，古人曾称之为「白鸟」或「暑蟁」。据《尔雅翼·蚊子》记载：「足有文彩，吴兴号豹脚蚊子，所以从文。」其实，脚上有纹的是传播登革热、乙型脑炎的伊蚊；叮人的蚊子不独这一种，它的得名，应该是因其叮人后会在人的皮肤上留下红印如文身的缘故。对蚊子的来源，古人也认识不一：江东人以为是由池塘芦苇中的蚊母鸟（夜鹰）吐出来的；岭南人以为是由像枇杷那样的果实成熟绽裂后放出来的；塞北人以为是由生长茂盛的蚊母草变成。《尔雅翼·蚊子》的说法比较接近真实：「蚊者，恶水中孑孑所化。」",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "蚊子之害与二十四孝：黄香扇蚊温褥、吴猛恣蚊饱血，傅选《蚊赋》",
+      "statement": "蚊子小而又十分机灵，喜欢叮咬人，自古以来人民就对它深恶痛绝而又无可奈何，为了对付它更是想尽了办法：拍打它，常常被打的是自己，所以叶诚云「误愤自批颊，怅望空徘徊」。我国古代常以二十四孝来教化后人，其中有二孝与蚊子有关：后汉时九岁的黄香「扇蚊温褥孝父亲」；「恣蚊饱血」说的是晋朝八岁的吴猛，因家贫买不起蚊帐，每到夏夜总是赤身坐在父母亲床前，用自己的身体吸引蚊子，任凭蚊虫叮咬而不驱赶，免得蚊子去叮咬他的双亲。晋代文学家傅选曾写过一篇《蚊赋》，历数蚊子的罪恶：「众繁炽而无数，动群声而成雷。肆惨毒于有生，迪餐肤以疗饥。妨农工于南田，废女工于杼机。」",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "蚊子传播的疾病：疟疾、乙肝、乙脑、西尼罗河病毒、登革热、黄热病、犬心虫病",
+      "statement": "蚊子的危害主要在于传播疾病：据统计，至今仍有3至5亿人受蚊子叮咬而传染上疾病，每年有100万人以上死于这些通过蚊子传播的疾病。历史上单死于蚊子传播的疟疾的就数不胜数：法国人在云南修筑滇越铁路（今昆河铁路），所经南溪河谷一直是杳无人烟的瘴疠之地，开工第一年（1903年）从华北、两广强征的民工因疟疾死亡的有5000多人，占民工总数70%以上；1905年春南溪河谷瘟疫，死去的工人占工地总数三分之一以上，到1910年勉强竣工，留下的是「尸铺滇越线」的悲惨史实。1919年思茅城疟疾大流行，原来拥有4.5万人的县城到1950年活着的只有1000多人。1936年江苏皋县因疟疾死亡2万人左右。此外蚊子传播的常见疾病还有：乙肝（叮咬时把病毒吸入口器和唾液腺，再次吸血即完成传播）、乙型脑炎（主要媒介为库蚊，病毒可带毒过冬并代代相传）、西尼罗河病毒（1999年首次在美国出现，靠库蚊蔓延，尚无抗生素）、登革热（1906年发现埃及伊蚊为主要媒介，80年代以来迅速扩散）、黄热病（城市型主要由埃及伊蚊传播）、犬心虫病（丝虫，在中国主要由中华按蚊和高丽伊蚊传播，可致心肥大）。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「瘟」音同蚊并非偶然，是先民对蚊子之害的深刻了解",
+      "statement": "蚊子的危害，到文明高度发达的现代尚且如此猖狂，可见在原始时代对先民的危害之甚了。「瘟」字音同蚊，不是偶然的，而是基于先民对蚊子之害的深刻了解。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "雄蚊不吸血只传粉，「会叫的蚊子不咬人」",
+      "statement": "不过并不是全部的蚊子都是吸血鬼：世界上所有的雄蚊子都是不吸血的，它们全是安分守己的素食主义者，忙碌奔波于林木花草之间，替植物传播花粉，仅以植物的液汁和花蜜充饥；雌蚊在血源缺乏时也会吸取植物的液汁和花蜜，以保持个体的生存。雄蚊子令人厌恶之处是它飞行时快速扇动双翅所发出可恶的嗡嗡声，所以俗话说「会叫的蚊子不咬人」。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "蚊子给人的启示：唾液抗凝物质开发抗血栓剂、模仿蚊嘴制极细注射针头",
+      "statement": "蚊子也不是非得灭绝不可的，它还提供了许多有益的启示，如蚊子与抗血栓剂的开发：蚊子吸血时怎么让它一次慢慢吸足而不凝固呢？原来它在吸血时吐出的唾液中含有一种抗凝物质。科学家们正在抽取、研究、提炼、纯化、重组、生产这种抗凝物质，以治疗人类凝血异常所引起的血管阻塞、心肌梗塞、脑溢血等重大疾病。最近日本科学家借助摄像机把蚊子吸血瞬间的情况录了下来，模仿蚊子的嘴开发出极细的注射针头，大大减轻了注射时的疼痛感。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "生态教训：婆罗洲 DDT 灭蚊致毛虫成灾、猫死鼠横，空降 1.4 万只活猫",
+      "statement": "人类已经从「不分青红皂白、对蚊子一概灭杀」的传统措施中获得过教训。20世纪中期马来半岛婆罗洲疟蚊猖獗、疟疾流行，世界卫生组织采取大面积喷射DDT的办法，药到蚊除，其它昆虫亦同归于尽。疟疾得到控制，而以蚊子为食的壁虎等也大为减少。接着怪事发生：村中房屋坍塌，伤寒又流行起来——原来DDT也杀死了爱吃毛虫的黄蜂，毛虫失去天敌多而成灾，大啃茅草屋顶。此外DDT通过食物链富集，壁虎因吃毒死的蚊子而中毒身亡，猫又因吃死壁虎而暴毙，致使鼠辈横行，四处散布带有伤寒菌的鼠蚤；面临大规模斑疹伤寒和鼠疫的威胁，世界卫生组织又不得不向婆罗洲空降1.4万只活猫去缓解这场人为的生态灾害。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "本卷借音方式：蚊子昼伏夜出表昏暗（昏、𡖀、冖、尨、丙、皿），惟「文」取叮咬印记",
+      "statement": "蚊子作为汉语的音义元素，主要表现在蚊子的习性上：它的昼伏夜出，所以表示昏暗之意——「昏、𡖀、冖、尨、丙、皿」等都是因此而借音。只有「文」是取蚊子叮咬后的印记为义而借音。",
+      "boundary": "源自《系统汉语》卷四十八「民」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「民（蟁）」从目从七：「目」指动物，「七」指锲刻刺入，象叮咬人的动物",
+      "statement": "民（蟁）从目从七：「目」，象眼睛形，指代动物；「七」指锲刻、刺入，象意一种叮咬人的动物。「蟁（wén）」的初文，指蚊子。《说文》：「蟁，啮人飞虫。」mín。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「民」转义：象蚊子一样昼伏夜出的流民，后泛指民众",
+      "statement": "由蚊子的生活习性引申指流民。mín，《说文》：「众萌也。从古文之象。凡民之属皆从民。」甲骨卜辞中有「疾民」「卯民」之词（《殷墟甲骨刻辞类纂》207页）：「疾民」大抵是指躲避时疫的难民；「卯」本有流义（见121《卯部》），「卯民」大抵是指流民。因此「民」的初义应该是指象蚊子一样，没有正当收入和稳定工作、昼伏夜出的流民，跟「氓」义差不多。《说文》：「民也。」《杨慎·经说》：「氓从亡从民。流亡之民也。」后泛指一般的民众。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「民」辩证：郭沫若「刺目为奴」说史无所据，董来运「文面」说亦不充分",
+      "statement": "或以「民」的本义是刺目，引申指奴隶。如郭沫若《甲骨文字研究》：「（周代彝器）作一左目形，而有刃物以刺之……周人初以敌囚为民时，乃盲其左目以为奴征。」刺瞎眼睛为奴，史无所据，不足为信。或以「民」的本义为在眼睛周围刺青，如董来运《汉字的文化解释·释民》：「民字由古代文身而来，文身多文于面部。字上为目，目即面目，下为针，即文面之工具。许多民族幼儿即文面，认为这样可以获得一种巫术，保佑儿童长大成人，所以民字有人义，民即人。」虽然符合字形结构以及当时的风俗，但文身并非专针对于面部，仍嫌理由不充分。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「民」音源：音源字，源自蚊子飞翔时翅膀振动所发出的声音",
+      "statement": "民为音源字，源自蚊子飞翔时翅膀振动所发出的声音。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "民部字族①蚊子活跃的时间，表昏、闷、蒙：蟁、鴖、睯、岷、䁕、昬、眠、㱪、泯、笢、簢",
+      "statement": "蟁（蚊，wén）《说文》：「啮人飞虫。从䖵民声。蟁或从昬，以昬时出也；俗蟁从虫从文。」鴖（mín）鸟名，似翠赤喙，可以御火，疑即蛎鹬（海喜鹊，体羽黑白分明，嘴红长强，适于开启牡蛎壳），善游泳潜水；wén则指鴖母即夜莺，传说蚊子为其所吐，故称蚊母。睯（hūn）闷也。岷（mín）岷山，在四川省北部，地处中原最西即日落处，故从民。䁕（mín）视貌、俯视，通作闅。昬（hūn）同昏。眠（mián）寐也，「翕目也」，俗谓之睡；miǎn则指眠娗（不开通貌，楚谓欺为眠娗）。㱪（hūn）瞀也，一曰未名而死；mèn则气绝。泯（mǐn）灭也、乱也、尽也。笢（mǐn）竹子的表皮，又以竹篾制成用以刷拭毛发的刷子（泽发鬃刷）。簢（mǐn）簢，筡中，中空类竹，可为席。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "民部字族②蚊子叮咬，表钓、穿、吻：䪸、罠、緡、抿、呡、㗃、刡、𨍌",
+      "statement": "䪸（mín）强也、强头。罠（mín）钓鱼绳、彘网、雉网（捕鸟兽的网）。緡（mín）古代穿铜钱用的绳，或指钓鱼用的绳（《尔雅》：「緍，纶也」，江东谓之緍）；mǐn则痛也；mián则緡蛮（小鸟貌）；hún则合也盛也。抿（mín）抚也、摹也，或指稍稍合拢。呡（mín）口呡也，用嘴唇捂住吮吸；wěn则同㗃，与吻同。㗃（wěn）吻，或作㗃；hūn则㗃㗃（眼睛所看不见的）。𦝮（wěn）口边也，与吻同。刡（mín）刡削。𨍌（mǐn）车伏兔下革，通作䡑；车轭。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "民部字族③蚊子的飞舞，表扰声、混乱、勉强：䛉、𦖫、怋、敃、湣、苠、䇇",
+      "statement": "䛉（miàn）诱言也。𦖫（wén）闻，古文作䎽、𦖫、𥹢。怋（mín）怓也、乱；mén则闷也、不明。敃（mǐn）强也、勉也、同暋；mín则闷也。湣（mǐn）痛也、悲也、怜也、恤也、伤也、爱也；fēn则心乱。苠（mín）众多貌。䇇（méng）田民也、野人，同氓。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "民部字族④蚊子的样子，表纤细而有花纹：瑉、鈱、𤿕、𣱉、㢯",
+      "statement": "瑉（mín）石之美者，「瑉似玉而非也」。鈱（mín）铁叶、铁也、算税（本作鍲）；mǐn则自刎。𤿕（mǐn）皮理细𤿕𤿕。𣱉（mǐn）米也。㢯（diāo）同弴，画弓（天子弴弓）；mín则施也、旗帜，张挂旌旗的竹弓。",
+      "boundary": "源自《系统汉语》第270部「民部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「昏」从日从氐：「氐」即低，指太阳落山这段时间，即黄昏",
+      "statement": "昏（hūn）从日从氐：「氐」即低；从「日」，指太阳落山的这段时间，即黄昏之意。《说文》：「日冥也。从日，氐省。氐者，下也。一曰民声。」",
+      "boundary": "源自《系统汉语》第271部「昏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「昏」转义：光线暗、神智糊涂、黄昏相关事物（婚、勉强）",
+      "statement": "由黄昏引申指光线暗（《集韵》：「暗也。」）；由光线的不明引申指神智的糊涂（《正字通》：「暗昧也。」）；或引申指黄昏时相关的事物（《尔雅》：「强也。」黄昏继续劳作，所以勉强、勉力；《正字通》：「婚，古作昏。」古时候黄昏时举行婚礼）。",
+      "boundary": "源自《系统汉语》第271部「昏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「昏」音源：借音字，黄昏正是蚊子最猖獗之时，故义音同「民」",
+      "statement": "昏为借音字。黄昏时节正是蚊子最猖獗的时候，故义音同「民」：《汉书·地理志》「崏山之阳」，「崏」，《书·禹贡》作「岷」；《集韵》：「𣨯，莫困切，音闷。气绝也。或作㱪。」",
+      "boundary": "源自《系统汉语》第271部「昏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "昏部字族①昏暗，表夜晚、看不见：婚、閽、捪、𡼐、緍、錉、睧、棔、𪂆",
+      "statement": "婚（hūn）《说文》：「妇家也。《礼》：娶妇以昏时，妇人阴也，故曰婚。」婚姻——古掠夺婚制，乘夜掠女而婚配；《尔雅》：「妇之父为婚」；金文从𤔿（闻）。閽（hūn）《说文》：「常以昏闭门隶也。」夜晚关门的差役、守门人。捪（mín）抚也、摹也，即「抿」，指摸黑以探路知物之意。𡼐（mín）同岷。緍（mín）钓鱼绳、衣相披、穿钱绳，均有被遮盖不显之意。錉（mín）本钱、赋税，即垫没不见之意。睧（hūn）目暗也、看不见。焝（hùn）火也、火貌。涽（hūn）滑涽（未定貌）、杂乱不定；hùn则涽涽（浊水）。琘（mín）美石次玉，同瑉、玟。㖧（wěn）古文吻字；hūn则㖧㖧（目所不见）。棔（hūn）合棔，木名，朝舒夕敛，即合欢树（取婚之意，其叶夜间成对相合）。𪂆（mín）鸟也，即鴖（夜莺），因其喜欢夜晚鸣叫被传说为「吐蚊鸟」，或指可以卫火的鸟。",
+      "boundary": "源自《系统汉语》第271部「昏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "昏部字族②昏迷，表无知、糊涂：殙、惛、䫒、痻、𠉣",
+      "statement": "殙（hūn）《说文》：「瞀也。」昏眊即无知、看不见之意；《广雅》：「殙，病也。一曰未立名而死曰殙」；mèn则气绝。惛（hūn）《说文》：「不憭也。」《广韵》：「不明了也」；mèn则闷（懑也）。䫒（mén）《说文》：「系头殟也。」头痛如绳索捆系的瘟疫，即脑膜炎。痻（mín）病也、精神恍惚。𠉣（hūn）暗也；hùn则耄忘（年老健忘）。",
+      "boundary": "源自《系统汉语》第271部「昏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "昏部字族③形近字「舌」之讹（意义上似从「昏」）：諙、䄑",
+      "statement": "諙（huài）误也，同𧨥（同「话」）；xiè则譮（怒声）。䄑（huó）俗䄆，正字音活，祠也。",
+      "boundary": "源自《系统汉语》第271部「昏部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「文」甲骨文从乂从入：「乂」指交错条纹，从「入」指刺入，象刻画刺绣纹饰",
+      "statement": "文（wén）甲骨文从乂从入：「乂」指交错的条纹；从「入」，指刺入，象意刻画、刺绣纹饰。《说文》：「错画也。象交文。凡文之属皆从文。」《韵会》：「文，理也。如木有文亦名曰理。」",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「文」转义：文字图案、裂纹（兆）、美好善良",
+      "statement": "由刻画、刺绣纹饰引申指刻写的文字、图案等（《玉篇》：「文章也。」《集韵》：「饰也。」）；或引申指裂纹（《广韵》：「兆也。」）；由纹饰的美丽引申指美好、善良（《广韵》：「美也。善也。」）。",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「文」辩证：人形纹身说实为引申义，周代金文从囊从心疑为「蚊」之初文",
+      "statement": "由于字形的组合看起来象人形，故多以其象人胸前有纹饰形，表示在胸前刺画花纹之意（《甲骨文》：「象正立之人形，胸部有刻画之文饰，故以文身之纹为文。」）。但除「文」字外，表示人形的字没有写如这样的；而且一期甲骨文中间或没有纹饰，就无从体现纹身之意了，后期的纹身之意只是其引申义，不能视为本义。不过从商代金文来看，说明很早就被看作人形。但周代金文实际上没有把「文」当作「人」形，以至于写作从囊从心：「囊」指口袋，「心」即血，表示血袋之意，此义应该是指蚊子，可谓「蚊」的初文——因为蚊子的叮咬也会留下一段时间的伤痕。",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「文」音源：借音字，义音同蚊，古「文」「民」可通用",
+      "statement": "文为借音字，义音同蚊，古「文」「民」可通用：《书·禹贡》「岷嶓既艺」，「岷」《史记·夏本纪》作「汶」；《史记·封禅书》「渎山，蜀之汶山也」，「汶」《汉书·郊祀志》作「岷」；《礼记·玉藻》「士佩瓀玟而缊组绶」，「玟」《白虎通·衣裳》引作「瑉」。",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "文部字族①刺刻，表吻舔、擦拭：蚊、呅、吝、汶、炆、旼、抆、䰚",
+      "statement": "蚊（wén）《说文》：「蚊，俗蟁从虫从文。」《尔雅翼》：「蚊者，恶水中孑孑所化，噆人肌肤，其声如雷。」呅（wěn）吻，「口边也」，或作肳、㗃、呅；méi则哸呅。吝（lìn）《说文》：「恨惜也。」吝惜、舍不得。汶（wèn）水名，山东境内有四条；mín则同岷；wén则黏唾（用唾液黏贴）；mén则汶蒙（玷辱也）。炆（wén）熅也，用微火闷。旼（mín）旼旼，和也、和睦。抆（wěn）拭也，一曰拒也。䰚（wén）摩也，一曰以手拭物。",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "文部字族②花纹，表色杂、混乱：彣、馼、麐、紋、雯、妏、鳼、玟、紊、忞、旻",
+      "statement": "彣（wén）《说文》：「㦽也。」彩色的花纹（青与赤杂）。馼（wén）马赤鬣缟身、目若黄金，名曰𩢌，周文王时犬戎献之；画马也。麐（lín）牝麒也，雌的麒麟。紋（wén）绫纹、织纹。雯（wén）云文，成花纹的云彩。妏（wèn）生也，俗娩字——女子生育后腹部中间会出现妊娠纹。鳼（wén）鹌鹑之雏名鳼；一说𩾿鳼（越鸟）。玟（mín）同瑉（美石）；wěn则玉文。紊（wèn）《说文》：「乱也。」忞（mín）强也、自强；wěn则忞忞（乱也）。旻（mín）秋天，「仁闵覆下则称旻天」；《释名》：「旻，闵也。物就枯落，可闵伤也。」芠（wén）芒芠，古人指宇宙形成前的混沌状态。",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「虔」从虍文声：虎身花纹近草色，隐身草莽偷袭猎物，一击必中",
+      "statement": "虔（qián）从虍文声：「虍」，老虎；「文」，花纹，指老虎身上的花纹。老虎身上的花纹跟草色接近，因此具有很好的隐蔽性，老虎借此将自己隐身于草莽中，然后偷偷接近猎物，一击必中。《说文》：「虎行貌。从虍文声。读若矜。」",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「虔」转义：恭敬虔诚、狡慧欺诈、杀害劫掠、少亏欠",
+      "statement": "由老虎潜行之状引申指恭敬、虔诚（《玉篇》：「端正貌也、固也、敬也。」）；或引申指狡慧、欺诈（《方言》：「慧也。」「谩也。」）；老虎的伪装是为了捕猎，故引申指杀害、劫掠（《玉篇》：「杀也、椹也、强取也。」《正字通》：「截也。」）；由虎文的不易被发现引申指少、亏欠（《广韵》：「少也。」）。",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "虔部字族①虎纹表色斑如虎（𨜻、鰬）；②虎行表蹑手蹑脚（㨜、𧽐、榩、㓺、𤚳）；③形近「㪅」之讹（𩤾）",
+      "statement": "𨜻（qián）河东闻喜聚，今山西闻喜县，可能跟其为黄土地、色近虎皮有关。鰬（qián）鱼名，似鳝，一说大𩸄谓之鰬（鳢，肉食性鱼类，有乌鳢、斑鳢、月鳢三品种，乌鳢体型最大），取其凶猛而有纹如虎之意。㨜（qián）相援也，取蹑手蹑脚之意，指手相接状。𧽐（qiān）蹇行𧽐𧽐，跛着脚走。榩（qián）椹谓之榩，即砧板、斫木櫍；一说仓廪。㓺（jiān）以刀去牛势，或作犍，阉牛。𤚳（jiàn）犗牛、阉割了的牛。㗔（qiān）乐也、欢貌。𠢍（qián）负物也。𥔮（qián）柱下石础。𩤾（yù）见周宣王《石鼓文》，郑云作「驭」；一说当从「騈」为正。",
+      "boundary": "源自《系统汉语》第272部「文部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「𡖀（聞）」甲骨文象人以手附耳聆听，后演变为从耳门声",
+      "statement": "𡖀（闻，wén）甲骨文象人以手附耳仔细聆听的样子，表示聆听之意，后演变为从耳门声。《说文》：「知闻也。从耳门声。䎽，古文从昏。」东汉听琴俑即其状。",
+      "boundary": "源自《系统汉语》第273部「𡖀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「𡖀」转义：知晓见识、嗅觉、声音传播、名声名望",
+      "statement": "由听闻引申指知晓、见识（《广雅》：「智也。」）；或引申指嗅觉（如「闻香」）；或引申指声音的传播（《集韵》：「声所至也。古作䎹。」）；或引申指名声、名望（《广韵》：「名达。」《正字通》：「声誉曰闻。」）。",
+      "boundary": "源自《系统汉语》第273部「𡖀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「𡖀」音源：借音字，义音同「昏」——看不见所以凭声音分辨，后演变作「门」声",
+      "statement": "𡖀为借音字，义音同「昏」：看不见，所以凭声音分辨之意；后演变作「门」声。",
+      "boundary": "源自《系统汉语》第273部「𡖀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "𡖀部字族（多被「昏」取代，未形成字族）：𨏵、𤀳、㡪",
+      "statement": "𨏵（mǐn）《说文》：「车伏兔下革也。从车𡖀声。𡖀，古昏字。」捆绑在车伏兔下面的皮革（车伏兔是垫在车厢和车轴之间的木块，上承车厢、下呈弧形架在轴上，用于减震；因震动而会有声，故捆绑的皮革从「𡖀」）。𤀳（mǐn）与潣同（水流平貌）。㡪（nún）《说文》：「𡎰地，以巾𢵢之。」以巾抹拭漆过的地面，涂抹；一说古之善涂者。",
+      "boundary": "源自《系统汉语》第273部「𡖀部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冖（宀）」甲骨文象人字形或圆锥顶的屋子、蒙古包帐篷，本义指穹隆形覆盖物",
+      "statement": "冖（miàn、mì）：「宀」的甲骨文象人字形或圆锥形顶的屋子，也象如蒙古包一般的帐篷，其本义当指穹隆形覆盖物。《说文》：「交覆深屋也。象形。凡宀之属皆从宀。」",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冖」辩证：宀冖形近义同而混，又与冃、冂、凡相混，真正从冖的字不多",
+      "statement": "「冖」本象一（下）的两头下垂，表示覆盖之意（《说文》：「覆也。从一下垂也。」）。由于「宀、冖」两字字形相近又都有覆盖之意，因此很早就发生了混淆，如「冥」甲骨文便或从「宀」或从「冖」。另外「冖」又同「冃」「冂」形义俱近，因此也与之发生混淆，甚至还跟「凡」也发生了混淆，如「冟、鼏」在西周金文中便或写成「凡」。因此真正从「冖」的字不多，实际上变成了「巾」（见141《巾部》）。而「宀」又与「六」形近义同，因此独立表意时实际上归属于「六」，另衍生为「宋、宫、宗、宂、宷」等来表音。所以将它们都归属于《冖部》，以便比较。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冖」音源：借音字，覆盖则里头昏暗，故义音同「民」",
+      "statement": "冖为借音字：覆盖则里头昏暗，故义音同「民」。《楚辞·招魂》「致命于帝，然后得瞑些」，朱熹集注「瞑，一作眠」；《楚辞·天问》「桀伐蒙山何所得」，「蒙山」《竹书纪年》作「岷山」——「瞑、蒙」声从「冖」。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冖部字族①「冖」表覆盖（冪、冞、冚）；②形近「冂」之讹（冟、蜜、鼏、𤑺）",
+      "statement": "冪（mì）《集韵》：「冖，《说文》：『覆也。』或作冪、羃。」覆盖食物的巾。冞（mí）《说文》：「䍘，周也。从网，米声。」深入也、冒也、周行也。冚（kǎn）方言，盖。冟（shì）《说文》：「饭刚柔不调相着。」即夹生饭（火候不到或蒸饭前米没有浸透，外熟内生）——但《玉篇》所解相反（饭的软硬适中）；甲骨文不从「冖」而从「冂」，金文或从「凡」或从「冂」，应以「冂」为是（郭沫若：「冟与鼏古殆一字」，「冂」指横杠，指将饭锅抬离备食）。𧖅（蜜，mì）蜂甘饴，可以备食。鼏（mì）以木横贯鼎耳而举之，又覆樽巾、鼎盖；西周金文从「冂」指鼎杠，其意思当与「冟」同，也是指将鼎抬离火备食。𤑺（mì）𤑺蠡，干酪（将牛奶熬干水分、压缩风干而成），可以备食。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冥」甲骨文象夜幕降临：冖象帷幕地穴荫蔽，下作𠬜象两手摸索攀引，中有星月",
+      "statement": "冥（míng）甲骨文或从「冖」或从「宀」，说明是指巾幂、帷幕、地穴之类荫蔽之物；下作「𠬜」，象两手扒拉状，表示摸索、攀引；中或有星月之形，象意夜幕来临、星月呈现，表示夜晚来临。《玉篇》：「夜也。」",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冥」转义：昏暗、幽暗处所（地府阴间、大海）、神智不清、看不清",
+      "statement": "由夜晚光线的幽暗引申指昏暗的情形（《广韵》：「暗也。幽也。」《玉篇》：「窈也、草深也。」）；或指幽暗的处所，古代特指人死后所进入的地府、阴间，或指大海；或引申神智不清（mián则「颠冥，迷惑也」）；或引申指看不清（miàn则「冥眴，视不见」）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冥」辩证：《说文》「从日从六，冖声」析形不确，或以为「㝃」初文（分娩意亦当为本义）",
+      "statement": "战国文字星月形演变成「日」，「𠬜」演变作「六」，故《说文》：「幽也。从日，从六，冖声。日数十。十六日而月始亏幽也。」析形不确。或以其甲骨文为「㝃」的初文（杨树达《卜辞求义》：「盖㝃之古文」「其为生子免身之事必矣」）：商代金文本有字形结构跟「冥」相似者，「𠬜」本为两手扒拉形，也可谓接生之状，此说颇为可信；况且「晚、㝃」本是同族字，「免」既然可以因声而表两义，「冥」自然也是可以的。因此分娩之意也当属「冥」的本义，只是因为分化为「㝃」以后其本义隐没。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冥部字族①遮蔽、看不清：瞑、覭、䫤、䒌、鄍、幎、暝、凕、熐、䈿、𧜀",
+      "statement": "瞑（míng）《说文》：「翕目也。」闭眼；méng则𥉸𥌯（视不明貌）；mián则寐也，又暝眩（药物反应引起的不适）。覭（míng）《说文》：「小见也。」依稀看见，又眉目之间、草木丛生貌。䫤（míng）眉目间，即可覆盖眼睛的上眼皮。䒌（mìng）䒌靘（青黑、无色、赤黑色），又闭目，与瞑通。鄍（míng）古邑名，春秋时虞地、后属晋，在今山西平陆县东北。幎（mì）《说文》：「幔也。」以巾覆物、大巾、帘。暝（míng）幽暗、夜。凕（mǐng）凕冷（寒貌、冻貌）。熐（míng）熐蠡，古代匈奴村落。㟰（mǐng）巊㟰，山高貌。䈿（mì）车枸篓谓之䈿（车篷带）。𧜀（mì）与幦同，车覆軨（车前横木上的覆盖物）、漆布。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冥部字族②意识不清：榠、慏、䏃、酩、𨢎",
+      "statement": "榠（míng）榠楂，木叶花实酷类木瓜（蒂间别有重蒂如乳者为木瓜，无者为榠楂），即光皮木瓜，供药用；一说茗（茶晚取者），指茶老醉人之意。慏（mǐng）慏悜（意不尽），一曰忧也。䏃（mián）听也，注意而听谓之䏃。酩（mǐng）酩酊，醉甚，通作茗。𨢎（mì）𨢎䤙（酒滓、酪母），𤑺蠡（干酪）或作𨢎；yīn则䣾（醉声）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冥部字族③涂抹：塓、𩈹、𤣘、㨠、䄙、𧇻、蓂",
+      "statement": "塓（mì）《说文》：「涂也。」涂抹墙壁。𩈹（miàn）𩈹泫，污血。𤣘（líng）猪粪曰𤣘。㨠（mì）㨠培，封涂也。䄙（míng）福也。𧇻（mì）俗䖑字，白虎。蓂（mì）析蓂，大荠（或名大蓟、马辛、刺蓟、恶鸡婆，菊科植物，叶似荠、边沿有刺、球状紫花，嫩时可食、凉血止血祛瘀消肿），大约取其涂敷可以止血故从「冥」；míng则蓂荚（尧时生于庭的瑞草，月一日生一荚、十五日毕，十六日去荚，帝尧拿它当日历，故又叫「历荚」）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冥部字族④小貌：鼆、溟、嫇、猽、螟",
+      "statement": "鼆（méng）《说文》：「冥也。」měng则虫名、句鼆（鲁邑名）。溟（míng）《说文》：「小雨溟溟也。」毛毛细雨，又海；mǐng则溟涬（大水貌、自然气）。嫇（míng）《说文》：「婴嫇也。」一曰嫇嫇（小人貌）；měng则嫈嫇（新妇貌）。猽（míng）小豚。𥻩（miǎn）屑米、米屑。螟（míng）《说文》：「虫食谷叶者。」吃谷叶的小虫，指其以苗心为食、难以为人所察觉（水稻螟虫）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冡」从𠔼从豕：𠔼向下笼罩，象罩捕野猪",
+      "statement": "冡（méng）从𠔼从豕，𠔼亦声：「豕」指猪；「𠔼」从冖从一（下），指向下笼罩，象意罩捕野猪。《说文》：「覆也。从𠔼豕。」《集韵》：「通作蒙。」在使用过程中实际上多用「蒙」字。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冡」转义：遮蔽、遭受承接、飞扬、昏暗无知、欺骗、冒失莽撞",
+      "statement": "由罩捕野猪引申指遮蔽（如「蒙蔽」）；或引申指遭受、承接（如「蒙难」「承蒙」）；由覆罩之状引申指飞扬（měng则「蔑蒙，飞扬貌」）；或引申指昏暗、无知（如「灰濛濛」「蒙昧」）；或引申指欺骗（mēng，如「矇骗」「蒙哄」）；野猪被罩时拼命挣扎，引申指冒失、莽撞（如「蒙犯」「蒙冲」）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「冡」辩证：初文莫衷一是，可能多源；𠔼与「冃」同源象帽形",
+      "statement": "对于「冡」的初文仍莫衷一是，可能存在多源问题：从「豕」的近似字有「𦊽」（覆网也），读音本同「𠔼」，上面为「网」，网本是罩捕猎物最普遍、最有效的工具，且字形相近，由「网」演变成「𠔼」是完全可能的；或以其从「隹」（此字跟「䍜」表意相近，也是指罩住鸟）；或以其从「虎」（罩捕老虎，性质也差不多）。因此其核心义在于覆盖、笼罩，至于所捕捉的是什么并不重要。此外对于「𠔼（mǎo）」，一般都认为它跟「冃」是同源字，象帽子形——帽子也是由上往下覆盖在头上，也有覆盖的意思，它们间的含义肯定是相通的，因此战国古文在写法上已经将其等同于「冃」；但「冃」的初文本象帽子形，故采《说文》之说「重覆也」将其归于《冖部》。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冡部字族①蒙覆、遮蔽：蒙、饛、幪、𨢊、䴿、檬、氋、㩚、䥂",
+      "statement": "蒙（méng）《说文》：「王女也。」本指大的女萝草（菟丝别名，藤蔓繁多如盖）；《广韵》：「覆也。奄也。」饛（méng）《说文》：「盛器满貌。」食物装满盛器的样子。幪（méng）《说文》：「盖衣也。」覆盖用的布。𨢊（méng）《说文》：「𥶶生衣也。」酒药子上产生的一层霉衣；一说细屑。䴿（méng）有衣曲、女曲（长霉的酒曲），一说米麦的碎末。檬（méng）木名，黄槐。氋（méng）氋氃（毛散貌），羽毛披散往下蒙覆状。䰒（méng）马垂鬣也。㩚（méng）收敛也。䥂（méng）鏵䥂（鐅），一曰凿刃，即臿或凿前端的金属刃口（即蒙在前端之意）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冡部字族②朦胧、模糊：蠓、朦、溕、矇、礞、懞、曚、霥、靀",
+      "statement": "蠓（méng）《说文》：「蠛蠓也。」成群小飞虫的通称，或专指「鸡屎螟」，似蚊而小，黄昏时喜在人畜头顶上成柱状随飞，雌虫吸人畜血、能传染疾病。朦（méng）《说文》：「朦胧也。」月色朦胧不清。溕（méng）《说文》：「微雨也。」濛澒（大水）。矇（méng）《说文》：「童蒙也。一曰不明也。」盲人、昏暗不明。礞（méng）礞石（矿物名，有青礞石、金礞石两种，入药有祛痰、消食、镇惊等作用）。懞（měng）懵（《广雅》：「暗也。一曰心乱。」）懵懂无知；méng则悫厚貌。曚（méng）曚昽（日未明）。霥（mèng）雷声；雾。靀（méng）靀靀（雨也）、微雨。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "冡部字族③蒙冲、冒犯：鸏、𩥃、艨、獴",
+      "statement": "鸏（méng）《说文》：「水鸟也。」一说水鸟鷇未生毛也；「鸏䴀，即今鹤顶，世以此为杯」（大如孔雀，喙长尺余，南人以为饮器）。𩥃（méng）《说文》：「驴子也。」艨（méng）艨艟，古代战船（《释名》：「外狭而长曰艨艟，以冲突敌船也。」）。獴（měng）与蒙通，灵猫科一属，身体长、脚短、嘴尖、耳朵小，共14种，中国有食蟹獴和爪哇獴两种（爪哇獴为著名的食蛇动物，动作迅如闪电），亦捕食野鼠，对农林业有益。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宋」从宀从木：象搭在树上或以木为梁柱建成的居室（巢居）",
+      "statement": "宋（sòng）从宀从木，宀亦声，象意搭在树上，或以木为梁柱而建成的居室。《说文》：「居也。从宀从木。」（木者所以成室以居人也。）原始巢居即其状。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宋」转义：树随风摇动故引申摇动；收藏",
+      "statement": "树随风摇动，架在上面的屋子自然也是摇动的，故引申指摇动（此义分化如「㧲」）；或引申指收藏。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "宋部字族①摇动（㧲、俕、䫅、𢚗）；②收藏（䊉、浨、𥒬）；③形近「宗、策」之讹",
+      "statement": "㧲（sǎn）撼㧲，摇也。俕（sàn）僋俕（无仪、老无宜适，一曰痴貌）。䫅（sàn）摇首貌。𢚗（sàn）憛𢚗（忧惑也）。䊉（sǎn）蜜藏木瓜，蜜渍瓜实曰䊉。浨（lǎn）藏梨汁也。𥒬（sǎn）碎石也。𧱍（zòng）雄猪，䝋字之讹。筞（cè）俗策字。㨲（cè）同㩍，扶也、杖。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宗」从宀从示：象安放祖宗牌位之所，跟后来的祠堂差不多",
+      "statement": "宗（zōng）从宀从示，宀亦声：「示」，神主，即祖宗的牌位；从「宀」，象意安放祖宗牌位之所，跟后来的祠堂差不多。《说文》：「尊祖庙也。从宀，从示。」",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宗」转义：同一祖先的家族；众多、根本、尊崇；祭祀之所",
+      "statement": "不同姓氏有不同的祖庙，故引申指同一祖先的家族（《尔雅》：「父之党为宗族。」）；或引申指众多、根本、尊崇（《广韵》：「众也。本也。尊也。」）；宗庙既是祖先灵位的安放之所，自然也是祭祀之所（《正字通》：「凡言宗者，以祭祀为主，言人宗于此而祭祀也。」）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "宗部字族（多表示归纳、汇总、聚集）：悰、誴、賩、綜、淙、崇、鯮、鬃、琮、粽、棕、孮",
+      "statement": "悰（cóng）乐也、虑也、谋也。誴（cóng）乐也，一曰谋。賩（cóng）南蛮赋也（古南方人称赋税，义即「贡」）。綜（zòng）机缕也——织布机上持带着经线并使之交错开合而穿梭的部件；zōng则总聚、总和、归纳、整理、精通。淙（cóng）水声、水流貌、瀑布；shuàng则水冲沃。崇（chóng）嵬高也，《诗》「福禄来崇」毛注「谓积而高也」，又重也、尊也、众也、积也、高也、敬也。鯮（zōng）头尖、吻似鸭嘴、体呈亚圆筒形的青黄色鱼，大量吞噬其它鱼苗。鬃（zòng）髻高也、马鬃（马或猪脖颈上的粗毛，簇生）。琮（cóng）瑞玉，大八寸似车釭，「以黄琮礼地」（徐锴：「琮之言宗，八方所宗，故外八方，象地之形；中虚圆，以应无穷，象地之德，故以祭地」）。粽（zòng）角黍（芦叶裹米，用箬叶或芦叶包裹糯米或黏黍，蒸或煮熟后剥叶食用，多用棕叶或五彩丝扎紧）。棕（zòng）棕树，主干上有层层包裹的纤维组织，可以做绳子、蓑衣；一说木瓜树，果实聚生于树顶端。孮（cóng）子孙隆盛曰孮。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宂」从人从宀：象宅在家里，引申闲散繁杂",
+      "statement": "宂（rǒng）从人从宀，宀亦声，象意宅在家里。人在家里要么就是闲散无事，要么就是在作家务，故引申指闲散、繁杂（《增韵》：「杂也、剩也、忙也。」《说文》：「散也。从宀，人在屋下，无田事。」）。辩证：「冗」本同「宂」，所从「几」本从「儿」（《正字通》：「俗从几作宂，或作冗，非。」）；因形近「冘、穴、亢」，其衍生字又多有相混，辨析字义时需因义而区分。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宂」音源：本「宀」声，因繁多而细小义义音同「茸」",
+      "statement": "宂本「宀」声，因有繁多而细小义，义音同「茸」：《集韵》「𨒆，或作䠜」「䢇，通作茸」。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "宂部字族①众多：𪕎、䢇、𡖢、𧉡、𨋠、𨒆、𪗴；②形近穴讹：鴧、𣍥、𣲽、𨳻、抭、𧙇；③形近冘：𤘺；④形近亢：𤬽、𡊫",
+      "statement": "𪕎（rǒng）鼠属（山鼠，亦名斑鼠，以植物根茎为食，也吃粮食——言其多故从宂）。䢇（rǒng）不肖也，傝䢇（劣也），通作茸。𡖢（rǒng）𡖢𡖢，众多也。𧉡（rǒng）小虫行也。𨋠（rǒng）多也，反推车令有所付，一曰轻车。𨒆（rǒng）行也。𪗴（rǒng）疑指牙齿松动将脱而有多余之意。鴧（rǒng）鴥字之讹（鸇飞貌）。𣍥（jú）姓也（𦙮之讹）。𣲽（rǒng）𣲽𣲽（水貌）；xuè则寥空貌。𨳻（jī）门臼。抭（yǎo）舀或从手从宂，抒臼也（舀取）；tāo则挑（抒物之器）。𧙇（ròng）鬼衣、长衣；dǎn则被子的边缘（同衴）；xué则疑为「袕」之讹（衣开孔）。𤘺（rǒng）吴牛名；chén则𤘣之讹（水牛）。𤬽（gāng）大瓮（㼚之讹）。𡊫（rǒng）地名；kēng则同坑（坑字之讹）。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宷（審）」从釆从宀：釆象指爪扒拉细颗粒表分辨拣选，宀表屋里昏暗象仔细分辨",
+      "statement": "宷（审，shěn）从釆从宀，宀亦声：「釆」从又从小，象用指爪扒拉细小的颗粒形，表示分辨、拣选之意；从「宀」，表示屋子里光线昏暗，象意仔细分辨。《说文》：「悉也。知宷谛也。从宀从釆。」（徐锴：「宀，覆也。釆，别也。包覆而深别之。宷，悉也。」）",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宷」辩证：金文所从为「米」即「冞」，小篆宷、冞、審相混",
+      "statement": "由于「釆、米」形近且义也近（米也是要经过播扬、筛选才行的，所以「米」字中间的一横就表示筛的意思）。根据「審」的西周金文来看，所从不是「釆」而是从「米」，则甲骨文疑本从宀从米即「冞」字，其本义可能是指将加工好的米收藏起来，所以引申指入深之意（《广韵》：「入也。冒也。周行也。」）。「番」的西周金文本从釆从甶（表示拣选之、播扬之），金文「審」所从本不为「番」，上为「米」，下为「口」或「曰」，当象意深入地审查、盘问。因形义俱近，小篆将「宷、冞」相混，而「宷、審」相杂，不复分辨了。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「宷」音源：本「宀」声，义音同「沈」",
+      "statement": "宷本「宀」声，义音同「沈」：《礼记·檀弓下》「为榆沈」，《释文》「沈，本又作瀋」。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "宷部字族（多指难以分辨）：瀋、㰂、嬸、覾、㔤",
+      "statement": "瀋（shěn）《说文》：「汁也。」羹汁；chèn则置水于器；pàn则水回（同潘）。㰂（shěn）木名，「煮其汁，味甘，可为酒」（棯，一种枣树）；𢸙酒即㰂酒（用㰂木汁酿成）。嬸（shěn）俗呼叔母曰婶，又呼夫之弟妇。覾（shěn）见也、察视也，通作审。㔤（shěn）㔤𠢱，用力也。",
+      "boundary": "源自《系统汉语》第274部「冖部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「尨」从犬从彡：象犬属而毛长的动物（藏獒）",
+      "statement": "尨（máng）从犬从彡，象意犬属而毛长的动物。《说文》：「犬之多毛者。从犬，从彡。《诗》曰『无使尨也吠』。」徐锴：「彡，毛长也。」",
+      "boundary": "源自《系统汉语》第275部「尨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「尨」转义：乱、杂；高大（通厖）",
+      "statement": "由犬的多毛引申指乱、杂（《集韵》：「杂也」；méng则尨茸，乱貌）；或引申指高大（páng，《韵会》：「通作厖。」）。辩证：或以金文字形为「蔡」，但依战国古文看来字形颇似，故采《古籀汇编》之说归之于「尨」。",
+      "boundary": "源自《系统汉语》第275部「尨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「尨」音源：音源字，源自狗叫声；因毛深故义音同「蒙」",
+      "statement": "尨为音源字，源自狗叫声。因其毛深，故义音同「蒙」：《左传·僖公五年》「狐裘尨茸」，「尨茸」《诗·邶风·旄丘》作「蒙戎」、《史记·晋世家》作「蒙茸」；《诗·商颂·长发》「为下国骏厖」，「厖」《荀子·荣辱篇》引作「蒙」；《管子·五辅》「敦蒙纯固」，「蒙」《国语·周语上》作「厖」；《史记·司马相如列传》「湛恩濛涌」，「濛」《汉书·司马相如传》作「厖」。",
+      "boundary": "源自《系统汉语》第275部「尨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "尨部字族①毛多，表大、厚：浝、㙙、厖、娏、狵、痝、庬、硥、蛖、䏵、㟌",
+      "statement": "浝（máng）水名。㙙（máng）涂也（涂抹使增厚）。厖（máng）《说文》：「石大也。」厚也、大也、有也；páng则同庞（脸盘儿）。娏（máng）神女名。狵（máng）犬多毛；zhuó则𧱓（龙尾、东方星名）。痝（máng）病困，一曰病酒（取浮肿意）。庬（máng）丰也、有也、厚也；méng则庬澒（未分之象）。硥（máng）石貌、大石头；bàng则䂜（蜃属、一曰美珠，或作蜯、䰷、蛖）。蛖（bàng）蚌；máng则蛖蝼（蝼蛄类）。䏵（měng）丰大、肿也；mǎng则丰肉；máng则身大。㟌（máng）五㟌，山名，在蜀。",
+      "boundary": "源自《系统汉语》第275部「尨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "尨部字族②毛色杂，表杂、乱：𩭒、㤶、駹、牻、𪁪、䵨、𥆙",
+      "statement": "𩭒（máng）毛苍也、发乱也。㤶（máng）㤶懞（惛也）；màng则㤶戇（愚也）。駹（máng）《说文》：「马面颡皆白也。」牻（máng）《说文》：「白黑杂毛牛。」又乱也。𪁪（mǎng）鸟名，茅鸱也，似鹰而白。䵨（máng）《广韵》：「阴私事也。」《玉篇》：「冥暗，故曰阴私也。」𥆙（máng）目暗也。",
+      "boundary": "源自《系统汉语》第275部「尨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "尨部字族③形近字「左」之讹：𢣝",
+      "statement": "𢣝（duò）俗「惰」字（懒惰也），一说「𢞑」之讹。",
+      "boundary": "源自《系统汉语》第275部「尨部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「丙」从入从冖：象器物的柄，与「内」同源；柄有木柄钻孔与器上钻孔两式",
+      "statement": "丙（bǐng）从入从冖：「冖」指孔穴；「入」象箭尾，象意器物的柄，与「内」同源。给器物装柄本有两种形式：一是在木柄上钻孔，这一般是针对较小而易脆的器物——器物小，上面钻孔容易坏也不经力，即使能钻孔，但柄太小也不便握持；因此是将石器装在有孔的木棒上（良渚文化出土的石锛就是这种样子），故「丙」的初义是被进入而有容纳义，「冖」为柄、「入」为器（器当然是主体），故「入」表形、「冖」表声，而为「丙」，是「柄」的初文。一是在器物上钻孔，这一般是针对粗大而坚韧的器物——器物大，如果采用前一种方式柄就会更大、没法握持，因此一般在器物上钻孔；尤其是进入青铜时代以后，器物比木柄坚韧得多，柄的形制有了变化，铸造的器物先设好孔、将柄直接装进去，因此「丙」反过来成为被容纳的对象，音义也便随之发生变化：「冖」为器上装柄的孔、「入」为柄，故「冖」表形、「入」表声，而为「内」，是「枘」的初文。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「丙」转义：由有柄引申显明光明；辩证：五行说非本义，象鱼尾说甲骨文不合",
+      "statement": "由器物的有柄引申指显明（《玉篇》：「光明也。」）。「丙」的小篆在「内」上面加了一横，故《说文》析为「位南方，万物成，炳然……从一入冂」，所析字义是根据五行学说来的（丙丁对应五行中的「火」、五色的「南」、五季中的「夏」），并非其本义，析形也不确。或以「丙」象鱼尾（《尔雅》：「鱼尾谓之丙。」商代金文颇为相似，但甲骨文明显不是）。因战国古文或将「丙」写同「方」（见「病」字），故或与以「方」为声旁的字混淆（如「眪、㑂、𩬝」等）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「丙」音源：本「冖」声，可归属《冖部》；孳乳字「臱」音同「便」或「冖」",
+      "statement": "「丙」本「冖」声，可归属于《冖部》。「冖」如室，义音应同「宀」；其孳乳字「臱」或音同也是以「丙」为声的「便」（biān），或音同「冖」（mián）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "丙部字族（指器物的把柄或形状相似）：𩶁、蛃、柄、炳、眪、苪、鈵、寎、怲、邴、病、㑂",
+      "statement": "𩶁（bǐng）《说文》：「蚌也。」蚌蛤圆厚如柄；或指鳊鱼（尾细如柄）。䇤（ruì）锐也。蛃（bīng）蟫（白鱼），衣书中虫（「丙其尾形也」）。柄（bǐng）《说文》：「柯也。」器物的把，又本也、权也。炳（bǐng）《说文》：「明也。」光明、明著，亦作昺。眪（bǐng）视也、目明、亲也；fǎng则眆（微见也）。苪（bǐng）明著也，一说草名。鈵（bǐng）固也、坚固。寎（bìng）卧惊病；bǐng则「三月为窉」（春困、老想睡觉）。怲（bǐng）《说文》：「忧也。」心事重重、惧也。邴（bǐng）宋下邑、郑国的小城，又邴邴（和适貌）。病（bìng）《说文》：「疾加也。」轻病加重（战国古文或从「方」），又忧也、苦也、难也。㑂（fǎng）相似也（籀从丙），或作髣、𩬝、㧍。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「㪅（更）」从攴从丙：象梆子或手持柄，打更报告时辰",
+      "statement": "㪅（更，gēng）从攴从丙，丙亦声：「丙」即柄；「攴」，指敲击，或象意梆子（即打更的「更」，梆子如有孔的柄），或象意手持柄（《班固·西都赋》「卫以严更之署」注「督夜行鼓也」）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「㪅」转义：时辰；改变；继续、交替、轮流、愈加",
+      "statement": "打更的目的是为了报告时辰，故引申指时辰（《正字通》：「因时变易，漏刻曰㪅。」）；打更一阵意味着时辰的改变，故引申指改变（《说文》：「改也。」）；由打更的定时反复引申指继续、交替、轮流、愈加（《玉篇》：「代也、历也、复也。」gèng则再也）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "㪅部字族①柄状，表物的长而硬：梗、埂、綆、鯁、骾、郠、莄、浭、硬、稉、䢚",
+      "statement": "梗（gěng）山枌榆（其荚圆厚，剥取树皮合渍而干之，成其辛味可作酱），因刺硬而长故引申指有刺的草木、针、病害；又坚韧、直、强，或指草木的茎；由打更防火防盗引申指预防灾祸；打更报告的时辰不很准确，故引申指大概。埂（gěng）秦称坑为埂，吴指堤封，正与「丙」的两种形制相符。綆（gěng）从井里汲水的绳索，同「繘」；bǐng则车轮箄（轮辐近轴处向外突出的部分）。鯁（gěng）鱼骨，又刺在喉，同梗、哽。骾（gěng）食骨留咽中，同鲠。郠（géng）琅邪莒邑，在今山东沂水县境。莄（gěng）草茎。浭（gěng）浭水，今河北蓟运河上游。硬（yìng）坚牢、坚硬、强（亦作鞕）；gěng则峺（碍也）。稉（jīng）稻属，稻不黏者。䢚（gēng）兔径（兔子走出的道）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "㪅部字族②长硬引申指梗塞：哽、峺、㹴、挭、𢙾；③打更表改变、苏醒：甦；④形近「叟、车」之讹",
+      "statement": "哽（gěng）《说文》：「语为舌所介也。」话语被舌梗塞，咽塞。峺（gěng）碍也、山岭险阻处。㹴（gěng）兽名，又犬也。挭（gēng）搅也、挠也，挭概（大概、大略）。𢙾（gěng）恨也。甦（sū）「稣」的俗字，「死而更生曰稣」通作苏（紫苏香气浓郁，有提神醒脑的作用）。㛐（sǎo）嫂的讹字。㾘（gěng）瘦的俗字。𠫿（fàn）軬的俗字（车篷）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「便」从人更声：义取决于「更」所指（肥满、更夫、持柄便利、更易安适）",
+      "statement": "便（pián、biàn）从人更声，其意取决于「更」字所指：若指敲梆子，则指人象梆子一样，比喻肥满之状（如「大腹便便」），或指敲梆子的人（更夫）；若指手持柄状物，则指人得器物有柄之便利（biàn：《字汇》「宜也、顺也、安也、利也」）；若指更易，则指人的图便利、安适（pián，《说文》：「安也。人有不便，更之。」）。由握持之便引申指就近的、非正式的、简易的。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「便」辩证：指拉尿实为「溲」字之讹（叟、更形近）",
+      "statement": "「便」或指拉尿（《字汇》：「溲也。」）。由于「叟、更」形近，此义当为「溲」字之讹（《正字通》：「溲本作𣸈……《史记》『小溲』讹作『浭』，再误作『便』，犹王羲之书『嫂』为『㛐』也。」）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "便部字族①就近、并拢：緶、箯、鯾、楩、𧍲、㛹、𠷊、𨂯、𨩫、𨵸；②形近「叟」之讹：𣸇、𧱩、𦳄",
+      "statement": "緶（biàn）《说文》：「交枲也。」把麻交织成鞭绳，或指缝合衣裳；piàn则缝衣；biàn则褰衣（提起衣服）。箯（biān）竹舆（竹制的轿），或指盛饭用的竹器。鯾（biān）鳊鱼（似鲂而大）。楩（pián）黄楩木（似豫樟）。𧍲（pián）沙虱、恙虫（一种螨虫，幼虫刺吸鼠类或人的血，能传染恙虫病；体积不到1毫米，咬人时释放一种酶麻痹神经使人不觉疼痛，患者会出现眼睛发红、皮肤红肿、四肢发麻、恶心嗜睡等反应）。㛹（pián）㛹娟（美丽貌）。𠷊（pián）巧言也，亦作辩，通作便。𨂯（pián）行貌。𨩫（biān）兵器（古代一种金属制的较短杆状兵器）。𨵸（pián）俗骈字（骈阗，充塞）。𣸇（biàn）小便（俗字）。𧱩（pián）猪也。𦳄（pián）𦳄缕（草名，一说䕅𧃒即鹅肠草）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「鞭」初文本即「更」字，后分化成「𠓥」从手执鞭状",
+      "statement": "鞭（biān）初文本即「更」字，后逐渐分化成「𠓥」，从手执鞭之状。《说文》：「（鞭）驱也。」《玉篇》：「马策也。」或省「又」作「卞」，后世遂不知其本义。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「鞭」转义：抽鞭引申刑罚、鞭状物体、急躁、徒手搏斗",
+      "statement": "由抽鞭引申刑罚（《玉篇》：「卞，法也。」《集韵》：「扑也。」）；或比喻指鞭状物体（如「竹鞭」「鞭炮」）；由鞭打时的迅疾之状引申指急躁（《集韵》：「卞，躁疾也。」）；由手持鞭子抽打引申指徒手搏斗（《字汇》：「手搏为卞。」）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「鞭」辩证：「弁」与「卞」战国古文形近而混，鞭扑时两手握持故可通假",
+      "statement": "可能由于「弁」的战国古文跟「卞」字形相近，导致两者存在混淆的情况（pán则般、乐也，或作弁、卞，通作槃）：「弁」本为双手捧帽之形（《说文》：「弁，冕也。」），由戴帽时的两手上举引申指拍掌欢呼（《说文》：「拚，拊手也。」），跟「卞」本无联系；但鞭扑时或两手握持，故两者存在音义关联而可相通假。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "鞭部字族①鞭表相从、相击（犿、𩰍、𨳲）；②形近「弁、弄、反」之讹（忭、抃、玣、笇、飰、汴）",
+      "statement": "犿（huān）本作獾（野豚）；fān则连犿（犬宛转貌、相从貌）。𩰍（biàn）搏也、击也。𨳲（bì）闭（阖也、塞也）。忭（biàn）昪（喜乐貌），或作忭。抃（biàn）拚（拊手也），拍掌欢呼；一说犿（连犿，宛转貌）。玣（biàn）㺹（玉饰弁也）。笇（suàn）同算，一说筭字之讹。飰（fàn）饭。汴（biàn）同汳，水名，在陈留，亦州名。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「爯」从爪从丙：爪在丙上，象抓起器柄往上，表示上举",
+      "statement": "爯（chēng）从爪从丙，丙亦声：「丙」指柄；「爪」指抓持，「爪」在「丙」之上，象意抓起器物的柄往上，表示上举之意。《广韵》：「并举也。」chèn则与称同。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「爯」转义：所举之物的大；辩证：《说文》「从爪，冓省」析形不确",
+      "statement": "由举引申指所举之物的大（chèng，《集韵》：「大也。」）。「爯」所从与「丙」的确略有差异：一从「宀」一从「冖」，但并无实际不同，两字本相通，指孔穴。因此《说文》「并举也。从爪，冓省」析形不确——「冓」本从「丙」的相接，甲骨文写作如此，「爯」跟「冓」义并无联系。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "爯部字族（多指上举）：㛵、䕝、𢜻、𤌁、𧽃、𩔋、偁、稱",
+      "statement": "㛵（chēng）女字。䕝（chēng）巨䕝（药草），一说蕂（胡麻、黑芝麻，茎直立、籽实腋生于叶柄，节节攀升）。𢜻（chěng）𢜻𢟊（愚貌）。𤌁（kàng）炕的俗字（干也）。𧽃（chēng）同趁。𩔋（hàng）颉颃（昂起头）。偁（chēng）《说文》：「扬也。」飞举、称赞、表扬。稱（chēng）《说文》：「铨也。」所释是度量衡的标准，其本义当指掂量谷物轻重的秤；秤称物，故有相称、上举等义；chèng、chèn则惬意、是也、等也、铨也、度也（俗作秤，云正斤两也）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「商」从辛从丙：辛指刻刀、丙指柄，象刻在直尺或秤杆的记号即秤星",
+      "statement": "商（shāng）从辛从丙，丙亦声：「辛」指刻刀；「丙」指柄，象意刻在直尺或称杆的记号，即秤星。「商」作为除法运算的得数，跟用秤称物重量的原理正相符：除数即秤锤（砝码），以为基准假设为1000克；利用杠杆原理将秤杆分成长短两端，在短头末端钉上挂钩或盘以放置被称物体，将秤锤系绳挂到秤杆长的一端，一起提起，当秤杆处于平衡位置时便在该位置钉上提手，并以此为零刻度；然后在称物的挂钩上挂上1000克的物体，秤锤的位置便会随之前移，将移动的这段距离作十等分并刻上记号，一格便是100克，以其为标准继续往前刻满，一条秤便制成了。称物（被除数）时，随着物的重量变化，秤锤在秤杆上的位置也会随之发生变化，从而通过秤杆上的刻度（商）显示出物的实质重量。而秤杆的刻度部分实际上也就是尺子（《集韵》：「刻也。」《正字通》：「商，乃漏箭所刻之处……刻漏者，刻其痕以验水也。」《广韵》：「度也。」）。考古发现世界上最原始的秤，其实物证据（石块砝码）发现于今巴基斯坦境内的印度河文明遗址，距今三四千年；中国的甲骨文即有「商」字，可见中国秤的出现应不会比这晚。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「商」转义：生意人、商丘商星、五音金音、恒常、估量比较",
+      "statement": "秤或尺是做买卖的必备工具，故引申指生意人（《广韵》：「𧶜，行贾也。」典籍通用商）；殷人先祖契被封为商，故其地称为商丘，所对应的星宿为心宿，故也称心宿为商星；商人尚白（白在五行中对应金、五季中对应秋、五音中对应第二音），故《玉篇》：「商，五音金音也。」商的标准是规定不变的，故引申指恒常（《广韵》：「常也。」）；由度量引申指估量、比较（如「商量」「协商」）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「商」辩证：《说文》「从㕯，章省声」非本义；音源本「丙」声（更通庚、庚通商）",
+      "statement": "「商」的本义具体所指是秤杆上的刻度，故甲骨文或加二「日」即「星」之意，后来或演化作「口」而写成「㕯」，故《说文》「从外知内也。从㕯，章省声」所释非本义。音源：根据《说文》所释为「辛」声，但「更」通「庚」（《书·益稷》「乃赓载歌」，《史记·夏本纪》作「更」），「庚」通「商」（《史记·封禅书》「其西则唐中」，《汉书·郊祀志》作「商」），「更」本从「丙」，故以「丙」为声。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "商部字族（多指商量，表相对、惠及）：𧶜、墒、滳、螪、蔏、𪄲、謪、𠆘、𩝾、𩱐",
+      "statement": "𧶜（shāng）行贾也，古文商字；shǎng则同赏。墒（shāng）新耕土也（今指田地里土壤的湿度）。滳（shāng）水名（读如商）。螪（shāng）虫名（《尔雅》「蛶，螪何」），一说蜥蜴类（能断尾以逃生）。蔏（shāng）蔏藋、蔏蒌，一说白蒿（蘩、皤蒿、由胡、繁母、旁勃、白艾蒿、蓬蒿，菊科大籽蒿的全草，能治风寒湿痹、黄疸、热痢、疥癞恶疮）。𪄲（shāng）𪄲鴹（鸟舞则天大雨），一说𪄲鹒、鹂黄（黄鹂，仲春而鸣，常成对穿梭飞行于绿树丛中）。謪（shāng）度也、商量。𠆘（yī）裔（衣裾，衣服的边缘；又末也、胄也、苗裔、边地、夷狄之总名）。𢠀（shāng）与悳同。𩝾（xiǎng）饟、饷（进食于人）。𩱐（shāng）煮也（烹煮，意即烧鬲而传热于食物）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「臱」甲骨文从自从丙：丙指柄、自指鼻，象鼻孔四周的边缘",
+      "statement": "臱（mián）甲骨文从自从丙，丙亦声：「丙」指柄；「自」，指鼻子，象意鼻孔——鼻子本如带孔的柄。金文或加「方」或省「丙」（「方、丙」本可通，如「眆」或作「眪」，说明它是迭加声符），同时也说明「臱」的本义是指鼻孔的四周边缘。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「臱」转义：凡物的边缘（边之初文）；边境→距离远、看不见",
+      "statement": "由鼻孔的边缘比况指凡物的边缘（此义分化如「边（biān）」的初文，《玉篇》：「畔也，边境也。」）；由边境引申指距离远、看不见（mián，《玉篇》：「不见也。」《广韵》：「视远之貌。」）。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "臱部字族①边缘，表四周环绕、侧旁：邊、𣝼、𥌗、䰓、𥵸、𥣰、籩、𠑟、䫵、䡻、𧾫、𨇱；②边远，表看不见：𡫛、𢣔",
+      "statement": "邊（biān）《说文》：「行垂崖也。」畔也、边境、近也、厓也、方也、侧也。𣝼（mián）屋𣝼联（屋簷前绵连的木板，即屋簷边）。𥌗（mián）目旁薄致（眼簷，即眼眶边），密致貌。䰓（mián）发貌（辫子盘在头上的样子），一说烧烟画眉（给眼睛描边）。𥵸（mí）筡（竹篾）。𥣰（biǎn）篱上豆（扁豆，因是藤类故攀生在菜园边篱笆上）。籩（biān）竹豆（古代祭祀和宴会时盛果品等的竹器，似豆而盘平浅、沿直、矮圈足、有盖）。𠑟（biān）足不正、身不正，一说傍也；pián则𠑟蹮（舞容、旋转起舞，通作蹁、跰）。䫵（mián）双也、双生也，一说美也。䡻（mín）同䡑（车辋、车轮外框；《释名》：「䡑，绵也。绵连其外也。」），一说车伏兔。𧾫（biān）走意。𨇱（biān）蹁（行不正貌）。𡫛（mián）𦤝𦤝（不见也，屋里没人）。𢣔（mián）忘也。",
+      "boundary": "源自《系统汉语》第276部「丙部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「秉」从又从禾：象一把禾",
+      "statement": "秉（bǐng）从又从禾，象意一把禾。《说文》：「禾束也。从又持禾。」",
+      "boundary": "源自《系统汉语》第277部「秉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「秉」转义：拿持；操守、执掌、任用、秉赋、权柄",
+      "statement": "由手持禾引申指一般的拿、持（《尔雅》：「执也。」《广雅》：「持也。」）。禾是人们的主食，代表着美好的事物，故引申指操守、执掌、任用、秉赋、权柄：①操、用（《诗·小雅·桑柔》「君子实维，秉心无竞」「秉心，用其心也」）；②掌握、执掌（《诗·小雅·节南山》「忧心如酲，谁秉国成」）；③任用、执行（《诗·周颂·清庙》「济济多士，秉文之德」）；④禀受、禀赋（《诗·大雅·烝民》「民之秉彝，好是懿德」）；⑤权柄（《管子·小匡》「治国不失秉」）。",
+      "boundary": "源自《系统汉语》第277部「秉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "「秉」音源：借音字，因持义而义音同「丙」",
+      "statement": "秉为借音字，因持义而义音同「丙」：《左传·哀公十七年》「国子实执齐柄」，「柄」《史记·范雎蔡泽列传》司马贞索隐作「秉」；《管子·小匡》「治国不失秉」，「秉」《国语·齐语》作「柄」。",
+      "boundary": "源自《系统汉语》第277部「秉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-48-min",
+      "title": "秉部字族（取义同「丙」，指柄、握持）：棅、㨀、𤖉、𥟱、𥪕",
+      "statement": "棅（bǐng）柄，斧头的柄（《说文》：「柄，柯也。从木丙声。棅，或从秉。」）。㨀（bǐng）抦（持也，或作柄、㨀，通作秉）。𤖉（bìng）同病。𥟱（bǐng）同棅（柄）。𥪕（bǐng）公制容量单位「千升」（kilolitre）的旧译。",
+      "boundary": "源自《系统汉语》第277部「秉部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
