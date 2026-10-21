@@ -1,0 +1,1115 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷六十四 絲（383.糸部至393.启部）",
+  "risk": "medium",
+  "baseline_mode": "worktree",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "第八章「子」：幼儿阶段的音源义",
+      "statement": "「子」指幼儿 3 到 8 岁阶段。在古代，这个时候的小孩没有束发或发髻，通常是自然垂落，故名之为「垂髫」，其甲骨文就像头上有散乱的长发形。这个阶段的孩子已经能够自由行动，身心都在快速成长，但又不懂得人情世故、不为俗事所累，天真烂漫，可说是人生中最自由、最快乐的时光（陶渊明《桃花源记》「黄发垂髫，并怡然自乐」；辛弃疾《清平乐·村居》「最喜小儿无赖，溪头卧剥莲蓬」），同时也最为人所喜欢。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/64a-si.md",
+      "topic_title": "卷六十四·絲",
+      "topic_summary": "《系统汉语》第八章「子」之卷六十四「絲」，辖第383–393部（p1106–p1133）：383 糸部（p1108）、384 系部（p1109）、385 㬎部（p1110）、386 㡭部（p1112）、387 𢆶部（p1113）、388 子部（p1118）、389 己部（p1121）、390 析部（p1123）、391 丌部（p1124）、392 几部（p1131）、393 启部（p1133）。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "子与丝的相通：头发柔软细薄",
+      "statement": "由于年龄较小，头发一般较为柔软、细薄，且随着身体的成长和发育，头发会逐渐长长，因此其音义也就与「丝」可通（《诗·唐风·绸缪》「子兮子兮，如此良人」，毛亨传「子兮者，嗟兹也」；《书·尧典》「鸟兽孳尾」，「孳」《史记·五帝本纪》作「字」）；同时，这个阶段身体处于快速发育期，身高、体重以及骨骼结构都在不断变化，从而生发出滋生、继续之意。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "子与剪发：采、蔡、杀的意义关联",
+      "statement": "披散的头发自然是需要剪短的，同时剪后还会很快地长出，因此指采摘的「采」、割草的「蔡」、割毛的「杀」都与之存在意义上的关联（《书·梓材》「梓材」，《经典释文》「梓，本亦作杍」；「梓」从「宰」省声，「宰」本通「采」——《礼记·曲礼下》「有宰食力」，王引之《经义述闻》「宰，当独为采，谓有采地也……古字采与宰通」）。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "第八章的设立：第一版无此章",
+      "statement": "此阶段还是属于儿童阶段，因此在《系统汉语》第一版中没有这一章，其相关音义体系散落在其它章中。但在修订过程中，有关字卷（如《采》《丝》等）总觉得放在哪章都不合适；而将其单独归结为一章后，终于觉得音义顺畅了起来。因此本章的核心义项是由孩子的头发状态引申指滋长与剪裁。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "卷六十四的音源字：絲与咠",
+      "statement": "本卷音源字为「絲」，或省作「糸」，象多股丝拈成的纱线，其音源自拈丝声；「咠」也是音源字，象意耳语，其音源自耳语声（按：咠为卷十四咠部之音源字）。因都有相贴近义且读音近，故并为一处。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "纺织起源：骨针与缝纫",
+      "statement": "中国是世界上最早生产纺织品的国家之一。人类为了御寒，最初直接利用草叶和兽皮蔽体，由此发展编结、裁切、缝缀等技术；连缀草叶要用绳子，缝缀兽皮起初先用锥子钻孔再穿入细绳，后来演化出针线缝合的技术。北京周口店旧石器时代遗物中发现了骨针，全长 82 毫米、直径 3.1–3.3 毫米，针尖圆锐、针身略弯而滑，是刮削和磨制而成的，针孔窄小、用尖状器挖制，证明距今 3 万年左右的山顶洞人已经掌握了缝纫技术。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "线绳的获取与搓绳技术",
+      "statement": "缝纫需要线绳，最初的线绳是天然纤维（动物毛发最直接，但不长、不方便使用），后来发现分解劈细植物的茎皮纤维、或用热水泡开抽取蚕丝可以获取；但单根植物纤维不够长也不牢实，蚕丝虽长却太细、抗拉强度较差，将多根纤维撚合在一起强度便大大增强，同时还能连接成长线。人类进入渔猎社会后即已学会搓绳子：山西大同许家窑 10 万年前文化遗址出土 1000 多个石球，投石索是用绳索做成网兜、狩猎时投掷石球打击野兽，可以推断那时人们已经学会使用绳索。后来发现劈搓技术，将植物茎皮劈细为缕再搓合，利用扭转后各缕之间的摩擦力接成很长的绳索；为加大强力还学会用几股拈合，浙江河姆渡公元前 4900 年遗址出土的绳子即两股合成（纤维束经过分劈，单股加有 S 向拈回、合股加有 Z 向拈回，粗者如手指、直径约 1.2 厘米由三股植物纤维搓成，细者如铁丝、直径约 0.2–0.3 厘米由二股搓成），有的绳子出土时还穿在陶罐的耳上，可见当时绳子除捆扎外还用作汲水工具。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "纺轮（叀）与诗经「弄瓦」",
+      "statement": "最初的手工搓合是将细丝理好分成两绺，固定一端后用双掌搓动，较快的方法是一手固定一端、另一手将要搓的两绺丝线放在大腿上搓合（为避免搓伤腿一般垫瓦），因此最初表示绩的声音实际上就是搓手板所发出的，大致为 xi 或 li。后来人们发现，在一束纤维下端垂一个重物、利用重力使纤维拉直，同时转动重物，就可以利用回转惯性撚出均匀整齐的线绳——这个用以下坠转动的重物一般由石片或陶片做成圆形，称为「叀」即纺轮，中间插一短杆称为锭杆或叀杆，用以卷绕拈制纱线，纺轮和叀杆合起来称为纺叀。古代纺轮基本为陶制又称「瓦」，故《诗经·小雅·斯干》有「乃生男子，载寝之床，载衣之裳，载弄之璋」与「乃生女子，载寝之地，载衣之裼，载弄之瓦」的诗句——生女让她玩陶制纺轮，就是指女孩子从小要用纺叀学纺纱。旧石器时代晚期出土文物中已出现纺轮，全国各省市新石器时代遗址几乎都有大量纺轮出土，其中最早的是河北磁山（公元前 5300 余年），稍后为河姆渡（公元前 4900 余年），证明那时用纺叀纺线已经很普及。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "纺车与纺织的科技意义",
+      "statement": "有了又细又长的线，再在此基础上将线绳编结成布，就是最初的纺织，因此纺轮这一看似简单的机械装置却是其中最重要的一环；以后的纺纱机不过是在此基础上解决怎样使纺叀转动而已，它还深刻地影响了人类科技的发展，车轮应该跟它有直接的联系。最早的纺纱机是根据纺坠工作原理制作的单锭手摇式纺车，由一个锭、一个绳轮和手柄组成，提高了纺纱的效率和品质。纺车最早出现在什么时代目前还无法确定：文献记载最早见于西汉扬雄《方言》，叫做「繀车」和「道轨」；单锭纺车最早的图像见于山东临沂金雀山西汉帛画和汉画像石（已发现的纺织画像石不下八块，其中刻有纺车图的有四块，如 1956 年江苏铜山洪楼出土的画像石即刻有纺丝、织绸和调丝操作的图像），可见纺车在汉代已经成为普遍的纺纱工具。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "卷六十四的借音总说",
+      "statement": "由丝的多股拈成，表示出相贴、接续之意；除「㬎、㡭」等直接与纺织相关的字根外，「己、子、妾、妻、集」等也因此而借音。跟「㡭」的同时表示「继」与「断」义一样，「几、丌、启、析」等表示小、分开之意的也借以为音。",
+      "boundary": "源自《系统汉语》卷六十四「絲」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "糸的本义",
+      "statement": "糸（幺糹糸𢆯，mì）从「幺」的一头或两头出绪，象多股丝绞在一起的样子，指拈出的纱线（《说文》「细丝也，象束丝之形，凡糸之属皆从糸，读若覛」；徐锴「一蚕所吐为忽，十忽为丝，糸，五忽也」）。",
+      "boundary": "源自《系统汉语》第383部「糸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "糸的转义与音源",
+      "statement": "由纱线的细微引申指微小（《广雅》「微也」），或指蚕丝（《集韵》「丝，《说文》蚕所吐也，或省」）；由纱线的绵长引申指连绵（《广韵》「连也」）。糸为音源字，源自拈丝声。",
+      "boundary": "源自《系统汉语》第383部「糸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "糸字族：羁縻、束缚",
+      "statement": "此路指线绳之用，表示羁縻、束缚：縻（mí，牛缰绳，应从「麻」、「糸」声，本指麻绳；《广雅》「系也」，《小尔雅》「缚也、索也」；《集韵》「分也、散也、覉緤也」）、銯（sī，锔子、扒钉，即补缀陶瓷玻璃等器皿的细金属丝；纽带）、𢬡（xì，同「𢭁」，杭越之间谓换曰㨙；挟也、扶也、揭也）、𦄐（mí，縻，分也；kǔn，稇，束也）、𡱏（mò，青丝履，古代用青丝或麻制成的鞋——所从「户」应为「尸」之讹，表类别，跟「履、屦、屐」所从同，「户」声不通，应为「糸」声）。",
+      "boundary": "源自《系统汉语》第383部「糸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "糸字族：细微与形近之讹",
+      "statement": "此路指丝线，表示细微：细（xì，微也，疑从囟、糸声，指思考的具体入微；《广雅》「小也」）、𦅔（mò，丝也）、紎（zī，黑色缯，疑指长毛犬）。此路为形近字「耒」之讹：𧧈（lěi，同「诔」，叙述死者生前事迹、表示哀悼）。",
+      "boundary": "源自《系统汉语》第383部「糸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丝的本义与转义",
+      "statement": "「丝」从「糸」的二迭，本属于迭体字；但「糸」本身就是用多股丝绞成的，其迭体应是指丝线绕成的丝束或织物，或指丝线的特别细长（《说文》「蚕所吐也，从二糸」）。由丝之状比喻指状如丝般细长的东西（如「铜丝」「发丝」「血丝」「柳丝」），或比喻指极细微的东西（如「愁丝」「丝毫不差」）。",
+      "boundary": "源自《系统汉语》第383部「糸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丝字族：细长如丝",
+      "statement": "字族多指细长如丝状：鹭鸶（sī，白鹭，有冠羽如丝束）、噝（sī，象声字，一般形容尖细的长声）、𨖾（biān，振绳墨也；行不绝也）、蕬（sī，菟蕬即菟丝，或指蕬草，江南水草、叶如薤、随水深浅而生，都是指其为丝状）。",
+      "boundary": "源自《系统汉语》第383部「糸部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "系的本义",
+      "statement": "系（jì、xì）从手抓丝形，可象意手将两根或多根丝相连，表示联结（《集韵》「系，《说文》系也，或从毄处，籀作𦃟，亦作繫、结」）；也可象意拈出丝头，即丝绪（《广韵》「系，绪也，𦃟，籀文」）。",
+      "boundary": "源自《系统汉语》第384部「系部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "系的转义与辩证",
+      "statement": "由连接丝引申指继承（《字汇》「继也」；《增韵》「联属也」），或比喻指谱系、系统（《字汇》「谱系」）。所从「爪」，战国古文或省作「丿」，小篆从之，故《说文》「系也，从糸丿声」——「丿」乃「爪」之省，不能表声，故析形不确。",
+      "boundary": "源自《系统汉语》第384部「系部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "系的音源与字族",
+      "statement": "系为借音字，因有系结义而义音同「奚」（《集韵》「䙎，带也，或作𧚃」）。字族多指捆绑、束缚：係（xì，絜束也，拴结、捆绑；《集韵》「缚也」；《尔雅》「继也」；甲骨文象用绳索勒住脖子或扎束头发形，今简作「系」）、乿（zhì，理也，通「治」；luàn，古同「乱」）、𥒶（huà，石声）、𧚃（xì，衣带）、𢭁（xì，杭越之间谓换曰㨙）、𢐐（xián，同「弦」，弓弦）、𧋬（shī，同「螄」，螺蛳，其壳有纹如用线绳捆缚一般）。",
+      "boundary": "源自《系统汉语》第384部「系部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㬎的本义：日下缫丝",
+      "statement": "㬎（xiǎn、è）甲骨文象双手在「日」下弄丝之形。「日」当为蚕茧的样子，即「白」，因与「日」字相近遂混同「日」，表示缫丝之意。",
+      "boundary": "源自《系统汉语》第385部「㬎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㬎的转义与辩证",
+      "statement": "由从茧中抽出丝，引申指明显、显扬之义（《广韵》「众明也、微妙也」；《集韵》「著也、光也」）；由正在缫丝的茧之状，引申指张开的众口（《集韵》「众口皃」）。由于「㬎」从「日」十分明显，很难有准确结论，《说文》采用了三种解释：「众微杪也，从日中视丝，古文以为显字；或曰众口皃，读若唫唫；或以为茧——茧者，絮中往往有小茧也」：一为借助太阳照射看出细微的东西，故有明显之义；一为许多口的样子；一指蚕茧，缫丝过后的丝絮中还有不能缫丝的小茧。「日中视丝」也可视为「日中晒丝」，因为湅丝过程中确有这一环节——《周礼·考工记·㡆氏》「㡆氏湅丝，以涚水沤其丝，七日，去地尺暴之，昼暴诸日，夜宿诸井，七日七夜，是谓水湅」，练丝分灰练和水练两步（先用灰水浸泡绞丝七天练去部分丝胶，再在晚上用井水浸润、白天日晒，通过七日七夜练去部分丝胶）。故若「湿」所从是「㬎省声」，则「㬎」是指湅丝过程中的白天晒丝，晒丝的目的是为了漂白，故有显现义；而「絮中往往有小茧」是指缫丝完毕后剩下的渣滓（除蚕蛹尸体外，还有不能抽丝的烂絮和小茧，可分离出来做被和棉衣的上好材料）——此说事实上也是把其中的「日」当作蚕茧；若以「㬎」为缫丝，则「众口皃」也就说得通了，因为缫丝时一次都会缫许多，被缫丝的茧正如张开的许多口。",
+      "boundary": "源自《系统汉语》第385部「㬎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㬎的音源",
+      "statement": "㬎为音源字，源自缫丝声；从其字族取义来看也多与缫丝有关。",
+      "boundary": "源自《系统汉语》第385部「㬎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㬎字族：煮茧的湿义",
+      "statement": "此路指缫丝时的煮茧，表示湿义：湿（tà，即今山东徒骇河，俗名土河；shī，水沾也；xí，低湿的地方）、隰（xí，山坡下低湿的地方；xiè，人名）、㙷（zhí，低洼地；《玉篇》「垫也」，田塍埒）、灦（xiǎn，水貌；水澄深也）、㬤（qī，欲干也、欲燥、曝也）。",
+      "boundary": "源自《系统汉语》第385部「㬎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㬎字族：抽丝与牵引、茧状张口",
+      "statement": "此路指缫丝时的抽丝，表示牵引：显（xiǎn，头明饰；光也、见也、明也、著也）、𩎍（xiǎn，附着在马两腋的皮革件；《释名》「韅，经也，横经其腹下也」）、䗾（xiàn，缢女虫，一种头赤身黑、吐丝自悬的蝶类幼虫；xiǎn，小蛤）、𢷑（xiǎn，戾也；zhěn，牵引）。此路指缫丝时的蚕茧之状，表示张口、跳动：儑（án，不聪慧、灰心丧气；àn，傝儑不自安、无仪检）、䏉（shī，耳动摇之貌）、礘（è，动礘礘、石貌；qì，石声）、䝃（zhé，豆也）、歞（è，痴貌）、䥪（xiǎn，削也）、䯥（àn，首骨高貌；qì，弯曲的干肉）、𡀾（è，众声）、𣩯（yé，病）。",
+      "boundary": "源自《系统汉语》第385部「㬎部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㡭的本义：断丝与继丝同形",
+      "statement": "㡭（jué、jì）甲骨文从系从三横，甲骨文的正反每无别，「𢇍、㡭」义应相同；三横跟「畺」所从同，表示界线。因此既可象意丝的断为几截（《说文》「𢇍，古文绝，象不连体绝二丝」），也可象意丝的联结（《正字通》「继本字」；《说文》「继，续也，从糸、㡭，一曰反𢇍为继」）。",
+      "boundary": "源自《系统汉语》第386部「㡭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㡭的转义",
+      "statement": "由丝的联结引申指延续、继承、随后、系缚（《玉篇》「绍继也」；《集韵》「缚也」）；由丝的断开引申指截开、斩杀、拦截、禁止、隔绝（《释名》「段也，分为异段也」），或引申指决断、判定、治理（《集韵》「决也」），由丝被切断时的样子引申指整齐（《广雅》「齐也」）。",
+      "boundary": "源自《系统汉语》第386部「㡭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㡭的辩证：绝、绍的分化",
+      "statement": "可能是「㡭、𢇍」两义混淆不清，战国后一般都没有单独使用。为了表达准确，「断」的含义另以「糸」和「刀」表示，指用刀断丝；西周金文或将「糸」写作「叀」，表示用刀切断纺叀上的丝线。此字形后来又分化为「绝」和「绍」字：「绝」是断的意思（《说文》「绝，断丝也，从糸、从刀、从卪」），「绍」是连接的意思（《说文》「继也，从糸召声，一曰绍，紧纠也」），因此又是混淆的。",
+      "boundary": "源自《系统汉语》第386部「㡭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㡭的音源：借音",
+      "statement": "㡭为借音字：因有截成段意而义音同「段」（《仪礼·有司彻》「取糗与腶修」郑玄注「今文腶为断」；《公羊传·庄公二十四年》「腶修云乎」，《释文》作「断」）；因有连缀意或义音同「叕」（《集韵》「蝃，虫名，蜘蛛也，或从出、从𢇍」），或义音同「系」（《易·坎》「係用徽纆」，《穀梁传》范宁注引作「继」）。",
+      "boundary": "源自《系统汉语》第386部「㡭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㡭字族：接续",
+      "statement": "此路指接续：𢷖（duǎn，收丝；《广雅》「转也」）、继（jì，续也、绍继也、系结）、蠿（zhuō，蜘蛛，蜘蛛本吐丝结网故从「𢇍」，显然取「继」义，义音同「叕」）、䠪（duàn，足迹，即脚印相续之意；《玉篇》「行速也」；tuǎn，禽兽践踏的地方）、𡣦（jì，对母亲的俗称）、檵（jì，枸杞；或指桎木，枝条柔韧细长，砍柴时多作捆缚用）。",
+      "boundary": "源自《系统汉语》第386部「㡭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "㡭字族：截断",
+      "statement": "此路指截断：断（duàn，加「斤」当然是指截断，即用斧头砍断之意；《释名》「段也，分为异段也」；《玉篇》「决也」；《广雅》「齐也」）、𩠹（tuán，截断，甲金文作以刀砍头形）、籪（duàn，插在水里捕鱼蟹用的竹栅栏，多用竹或苇编成）、䜝（tuǎn，言不定）、𠤉（jué，古文绝字）、𢣎（tuǎn，心惛）、𧓓（jì，蜂属，大约指细腰蜂之类，腰细如断了一般）。",
+      "boundary": "源自《系统汉语》第386部「㡭部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "𢆶的本义",
+      "statement": "𢆶（yòu）为「幺」的二叠。「幺」指蚕丝；二幺言其极致，既可象意其蚕丝的连绵不断，也可象意其十分纤细。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "𢆶的转义与音源",
+      "statement": "由蚕丝的纤细引申指细小、微妙、幽暗（《说文》「微也，从二幺」；《广韵》「微小」；《字汇》「隐也」；《篇海类编》「妙也」）。𢆶为音源字，象抽丝声；因其纤细故义音同「幼」，或同「支」（《老子》「窈兮冥兮，其中有精」，「窈」傅奕本作「幽」；古幾、支可通；《尔雅·释鱼》「蛭，蟣」《释文》「蟣，《本草》又作蚑」）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "𢆶字族：丝之性状",
+      "statement": "字族与丝的性状相关：𨓁（běng，行急也，言快如抽丝意）、𢆸（bēng，绳以直物，通作「絣」）、𪀨（yā，音义与「鸦」同，言其羽黑，取丝的幽微不明意）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幽的本义与辩证",
+      "statement": "幽（yōu）甲骨文本从火、𢆶声，象意火光细微，表示昏暗不明的意思（《玉篇》「不明也」；《小尔雅》「冥也」）。由于古文字「火、山」形近，西周讹从「山」，小篆承之，故《说文》「隐也，从山中𢆶，𢆶亦声」析形不确；不过指山深而幽暗也通。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幽的转义与字族：幽微深邃",
+      "statement": "火光离得远就会看不清，故引申指深远、微弱（《玉篇》「深远也、微也」），或引申指隐匿（《广韵》「隐也」），或引申指黑色（《集韵》「黝，《说文》微青黑色，或作幽」）。字族①表示细长、幽微、深邃：𧍘（yōu，虫类宛转曲折的样子；一说土蜂，一说龙貌）、㗀（yōu，鹿鸣也；咿㗀，吟声）、𡺖（yōu，山深沓也）、𩡎（xiū，香气也）、䫜（āo，头凹也；大首深目貌）、𪋎（yōu，古文「麀」字，母鹿无角所以不显）、𥠃（jiū，禾初生也）、𩘈（yōu，风声）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幽字族：形近之讹",
+      "statement": "字族②为形近字「㡭、齿、伞」之讹：𢇑（jué，与「绝」同，即「𢇍」）、𢹴（duǎn，同「𢷖」，转也、转篗也）、𣠭（duǎn，同「短」，一说「檵」的讹字）、𢇕（chǐ、yōu，疑同「齿」，一说同「幽」）、𠋔（sǎn，俗「伞」字，古文作「傘」，盖也）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幾的本义：细微却重要",
+      "statement": "幾（jī）从戍、𢆶声。「𢆶」指微小，表示细微的、隐藏的事物；「戍」指持戈守卫。象意细微却十分重要的事物，表示要害、关键（《法言·先知》「为政有幾」李轨注「幾，要也」；《玉篇》「尚也」；《小尔雅》「法也」）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幾的转义与辩证",
+      "statement": "由其细微却重要，引申指细微的迹象、事情的苗头或预兆（《玉篇》「动之微也，吉凶之先见也，期也，时也」），或引申指事物的发展到了边缘处、临界点，表示危险、危机、限制、终尽（《说文》「微也，殆也，从𢆶，从戍，戍，兵守也，𢆶而兵守者，危也」；《玉篇》「危也」；《集韵》「近也」；jǐ，几多也、几何、庶几；jì，未已），或引申指细微的线条（qí，器物上的凹凸线纹）。商代金文本从威从𢆶——「威」指厉害，「𢆶」指弱小，象意细微却颇具威力，表示要害、关键；西周金文演变作「戍」，意思相同。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幾字族：细微而作用大",
+      "statement": "字族①指细微却重要、作用大、力量强：机（jī，主持发动的部分；枢机、机杼、机械、弩牙、巧术、变化、重要环节；门槛；一说木名即榿木）、鐖（jī，钩上的倒刺、弩的扣手；qí，大镰、摩也）、𪙧（qí，牙齿松动将脱落的样子，如活动的机关状）、鞿（jī，马嚼子、马笼头，牵制束缚之意）、矶（jī，水流冲击岩石；露出水面的岩石或石滩；激怒、触犯）、讥（jī，隐晦的批评，微言而大义之意；谴责、劝谏、盘问）、𦠄（jī，面颊肉，肉薄而能动之意）、𩦋（qí，马）、耭（jī，耕也，耒小而能耕之意）、蟣（jǐ、qí，虱子的卵；蚂蟥）、玑（jī，珠不圆者、小珠；浑天仪；北斗第三星）、畿（jī，京城所管辖的重地；门槛；疆域、界限）、僟（jī，精详、谨严）、𧗓（jī，划伤出血涂抹新制器物的血祭）、禨（jī，祭鬼神以求福；jì，沐酒）、𦺬（jī，菹草）、䤒（jǐ，酒浮；jì，秫酒名，应指浮有糟的酒）、𠟣（jī，切）、𢴰（qī，抽引）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幾字族：细微而连续",
+      "statement": "字族②指细微而连续：穖（jǐ，禾穗子实如成串珠玑；jì，稠也）、叽（jī，小口小口地吃；哀叹）、𥼘（qí，小食也）、䟇（jī，碎步走）、饥（jī，五谷不熟、食物缺乏，即「饑」；「飢」为饿也）、𩴪（qí，奉信鬼的风俗）、𧰙（qí，古代燕飨接近结束时所奏的乐曲；《玉篇》「且也、欲也、危也」；切近也）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "幾字族：形近奚之讹",
+      "statement": "字族③为形近字「奚」之讹：𪅹（jī，鸟；《正字通》「一说鸡字之讹，因奚、几声近误考」）、𥳏（jī，竹名；《正字通》「讹字」，疑即「𥰥」，缆绳）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "兹的本义",
+      "statement": "「兹」与「𢆶」本同源。「幺」指蚕丝，二叠指极致，或象意连续不断，或象意极端地细。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "兹的转义与辩证",
+      "statement": "由蚕丝的连续不断引申指滋长、增生（此义分化为「滋」，《说文》「益也」），由蚕丝的细小看不见表示黑（《集韵》「黑也」）。由于「玄、幺」本同源，小篆演变作从二玄的「玆」，故《说文》「玆，黑也，从二玄」；《集韵》即将「玆」「兹」混同。而《集韵》所指「蓐、此」之意则实为「茲」，从艸从𢆶（《说文》「茲，艸木多益」），由艸的繁茂引申指「蓐、此」；因此「茲」跟「兹、玆、𢆶」存在不分现象。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "兹字族：连绵滋生",
+      "statement": "字族①指连绵不断，表示滋生、增益、绵长：茲（zī，艸木滋盛；此也；草席）、滋（zī，增益；河名；长也、液也、浸也）、嗞（zī，嗟叹；忧声；笑也；啼不止）、孶（zī，日益繁衍的生育；孳产、孳息，「乳化曰孳，交接曰尾」）、慈（cí，爱也；柔也、善也、仁也）、禌（zī，息也）、糍（cí，糍粑，用糯米做成的很软而黏的粑子）、濨（cí，水名）、嬨（cí，女性宽顺）、稵（zī，禾生貌；益也，与「滋」同）、㘂（cí，愧貌）、㽧（zī，地名）、𤲸（xù，同「畜」，养也）、𧛏（zī，衣袖）、䗹（cì，毛虫，也吐丝结茧）、𡙛（zī，不正也）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "兹字族：黑、青色",
+      "statement": "字族②指细微不清，表示黑、青色：磁（cí，石名，可以引针；《本草》「山之阳产铁者，阴必有礠石，盖二物同气也」；磁石引铁；磁州）、鎡（zī，圆而向上收敛的鼎；鎡錤即大锄）、鰦（zī，黑鰦，长不逾尺、搏身椎首而肥）、嵫（zī，崦嵫，山名，日所入处）、𪑿（zī，黑也、染黑、深黑色）、䈘（cí，竹名）、鶿（cí，鸬鹚，俗称水老鸦，渔民以绳系其脖颈用以捕鱼，色黑俗称「乌鬼」）、甆（cí，同「瓷」，陶器坚致者；商初青釉尊是已知最早的瓷器，东汉狩猎纹绿釉陶壶标志瓷器的成熟）。",
+      "boundary": "源自《系统汉语》第387部「𢆶部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "子的本义",
+      "statement": "子（zǐ）像身子被包裹、双手在外的人形，指襁褓中的婴儿（《玉篇》「儿也」）。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "子的转义",
+      "statement": "由婴儿引申指后代（《正字通》「嗣也」；《玉篇》「滋也」），或泛指动物的幼儿、卵，植物的果实或种子（《广雅》「雏也」，如「鸡子（蛋）」「莲子」）。因古代是男权社会、认为男性才算继承人，故或引申专指男性（《玉篇》「男子之通称也」），古代或通称士大夫、老师（《正字通》「门人称师亦曰子」），在古代爵位中子爵位居第四；由婴儿的稚弱引申指细小的物件（《释名》「子，小称也」，如「棋子」「票子」）；由对婴儿的喜欢引申指爱护（《玉篇》「爱也」），或引申指百姓（《正字通》「人君爱养百姓曰子」），或引申指女性，或跟「汝」「尔」「而」一样作第二人称「你」；子女的长相跟父母差不多，故引申指相似（《广雅》「似也」）。古代用汉字记录时间称天干、地支，「子」排在地支第一位，对应农历十一月和夜半 11 点到 1 点（《说文》「十一月，阳气动，万物滋，人以为偁」），又对应五行之水与属相之鼠。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "子的音源：借音兹",
+      "statement": "子为借音字，因有繁殖义而义音同「茲」（《书·尧典》「鸟兽孳尾」，「孳」《史记·五帝本纪》作「字」；《书·益稷》「予思日孜孜」，「孜孜」《史记·夏本纪》作「孳孳」；《公羊传·桓公十六年》「属负子舍」何休注「天子有疾称不豫，诸侯称负兹」）。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "子字族：孕育生殖培植",
+      "statement": "字族①指生子，表示孕育、生殖、培植：字（zì，生育、孵化；爱也、养也；女子许嫁曰字；文字，字者孳也，六义相生无穷）、牸（zì，母牛）、芓（zì，麻子之母株；zǐ，给禾苗根部培土；zī，草名）、秄（zǐ，给禾麦的根部培土；禾苗杂生）、耔（zǐ，拥苗本也；拥苗器）、孳（zī，生育、繁殖，孳息、孳尾）、孜（zī，勤勉不殆）、李（lǐ，李子，味酸，孕妇喜食，喜食李意味有子，跟「梅」一样可能被先民视为婚育之神灵；zǐ，治木器曰杍，通「梓」）。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "子字族：幼儿嬉游细小",
+      "statement": "字族②指幼儿，表示嬉游、细小：汓（qiú，浮行水上也，婴儿能浮于水；yóu，同「游」）、籽（zǐ，植物的种子）、孖（zī，双生子；mā，相连成对）、吇（zǐ，鸟声；jí，与「唧」通）、仔（zī，肩任，即接续后代的责任；zǐ，幼小的；zǎi，方言小孩、小子、年轻人、细小物品）、矷（zǐ，石名）、釨（zǐ，刚也）、虸（zǐ，虸蚄，害虫）。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "季的本义",
+      "statement": "季（jì）从禾、子声。「禾」指粟，「子」指襁褓中的婴儿，象意幼禾（《玉篇》「稚也」）。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "季的转义与辩证",
+      "statement": "由幼禾引申指凡物的小（《玉篇》「小称」；《广雅》「叔、季，少也」）。「子」本可引申指植物的果实或种子；粟的生长期一般在三个月左右，因此也可引申指四时中的第三月（《正字通》「凡四时之末月曰季月；末世曰季世」）。「季」的结构跟「秀、委、年」类似，都跟人的相关状态有关：「乃」指乳汁，表示禾的灌浆；「女」指女态，表示禾穗的弯垂；「人」指成人，表示禾的成熟——「乃、女、人」在其中都兼表声，故「季」也当是以「子」为声，表示禾的抽穗；因此《说文》「少偁也，从子，从稚省，稚亦声」所解不确，应非「稚省」声。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "季字族：禾穗起伏不定",
+      "statement": "字族多指禾穗之状，表示起伏不定：痵（jì，气喘不定；病中恐也）、悸（jì，心慌而动；怒也）、㳵（jì，水名）、㻑（jì，玉名）、鯚（jì，鳜鱼，又称桂鱼、桂花鱼、胖鳜，体侧扁、背隆起、头大、口裂略倾斜，棕黄体色、腹灰白、体侧多不规则斑块，肉嫩无小刺，为分布很广的淡水肉食性鱼类）。",
+      "boundary": "源自《系统汉语》第388部「子部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "己的本义",
+      "statement": "己（jǐ）象砖石等垒叠所形成的缝隙形，表示累积、堆叠（《释名》「纪也，皆有定形，可纪识也」）。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "己的转义与辩证",
+      "statement": "由砖石之间的堆砌引申指相对的个体，表示自己、本身（《韵会》「私也」；《广韵》「身也」）；由砖石累叠之状引申倾覆、崩塌，此义分化为「圮（pǐ）」（《广韵》「岸毁，又覆也」）。《说文》「中宫也，象万物辟藏诎形也，己承戊，象人腹」析形解义皆不确；罗振玉谓象隿射之缴、郭沫若谓己当是隿之本字，叶玉森谓象纶索之形取约束之谊（按：叶说近是，郭说似无确据）。由于楷化后的「己」跟「巳、卩」形近，或将「巳、卩」讹作「己」，如「配、起、改、妃」等（详见卷八以部、卷五十九子部、卷二十三卩部）。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "己的音源：借音㡭",
+      "statement": "己为借音字，因有接续意而义音同「㡭」（《尔雅·释木》「杞，枸檵」郭璞注「今枸杞也」；《说文》「檵，枸杞」）。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "己字族：堆叠编结接续",
+      "statement": "字族①指砖缝状，表示堆叠、编结、接续：记（jì，记载、记录、记住、标记）、纪（jì，丝缕的头绪，指丝的前后相续；终、止；日月会合处；治理；纲纪、条理；古代纪年单位有十二年、一千五百二十年、一千五百年、二十五个月、三百天诸说）、杞（qǐ，枸杞；杞柳也叫红皮柳，枝黄绿色带紫色，耐湿耐碱，枝条韧，供编柳条箱筐，也为固沙保土造林树种）、屺（qǐ，光秃秃的山，指岩石裸露堆叠之状）、芑（qǐ，本指爬山虎之类攀墙植物，一说白苗嘉谷、芑菜、地黄，都好生路旁或石缝中；或同「杞」指枸杞）、邔（qǐ，汉南阳郡县，今湖北宜城，「邔无东」言其东逼汉江、其地短促）、玘（qǐ，玉也、佩玉）、圮（pǐ，毁坏、坍塌、倾覆）、忋（gǎi，依靠、仰赖）、䓽（jì，草名）、妀（jǐ，女字）、䪱（gǎi，脸颊；hái，俗「孩」字）、𢀵（hàn，「己」的二迭即裂缝多之意，疑指干旱）、𢀶（jì，真阳之气）、𥫟（qǐ，竹席，竹席的织纹也呈「己」状）。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "己字族：形近厶、尸、弓之讹",
+      "statement": "字族②为形近字「厶、尸、弓」之讹：𠮯（jǐ，「台」字之讹）、𩾠（yǐ，「鳲」字之讹，布谷鸟）、𣢇（hāi，微笑；「弞」字之讹）。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "忌的本义",
+      "statement": "忌（jì）甲骨文本从止或夂、从己，己亦声，象意跪跽——跪着时大小腿相迭，故从「己」。是「跽」的初文（《说文》「长跪也」）。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "忌的转义与辩证",
+      "statement": "跪着的行为一般是向对方表示尊敬、认罪、求告等，故引申指憎恶、忌讳、害怕、惩戒诸意（《广韵》「忌讳，又畏也、敬也、止也、憎恶也」；《广雅》「恐也」；《小尔雅》「教也」；《集韵》「戒也」）；跪跽也是古人歇息时的状态，故引申止息（《广韵》「止也」），或用作语助词放在句尾（《集韵》「语已词，《诗》叔善射忌」）。由于「止、心」字形相近，抑或因有憎恶、恭敬、恐惧诸义与心理活动相关，春秋金文改所从「止」作「心」，小篆承之，故《说文》「憎恶也，从心己声」。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "忌字族：跪跽、训诫与形近之讹",
+      "statement": "字族①指跪跽，表示上粗短而下蜷曲状：跽（jì，长跪也；《释名》「忌也，见所敬忌，不敢自安也」）、鵋（jì，鵋䳢即鸺鹠、今之角鸱，腿短而身子竖立，状如跪着一般）、𠲹（jì，食也，古人跪在席子上吃饭）、𡷞（qǐ，山高貌）、𦮼（jì，草名；qí，可作饲料的豆茎、禾秆）、䋟（jì，秤毫，秤杆上手提的部分，多以绳索或皮条制成，也称「秤纽」）。字族②指要对方跪着，表示训诫、愤怒：誋（jì，诫也、禁也；告也、信也）、𡜱（jì，怒也）。字族③为形近字「台」之讹：𥭜（jì，竹名；《正字通》「䈚字之讹」）。",
+      "boundary": "源自《系统汉语》第389部「己部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "析的本义",
+      "statement": "析（xī）从斤从木，可以象意砍伐树木，也可以指砍破木头（《说文》「破木也，一曰折也，从木从斤」）。",
+      "boundary": "源自《系统汉语》第390部「析部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "析的转义与音源",
+      "statement": "由砍开木头引申指分开、分散、割裂（《广韵》「分也」）。析为音源字，源自木裂声；因有分散之义而义音同「斯」（《集韵》「蜤，虫名，《尔雅》蜤螽、蜙蝑，通作斯」）。",
+      "boundary": "源自《系统汉语》第390部「析部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "析字族：砍伐分开",
+      "statement": "字族指砍伐，表示分开：淅（xī，淘米，即分开米和糠之意）、皙（xī，一种只开花不结果的枣树；《说文》「人色白也」，应为从「淅」省声，意即白如淘洗了的米）、晰（xī，明也、清晰）、菥（xī，菥蓂即大荠，二年生草本，叶可食、种子可榨油、全草入药，从「析」应取其叶为披针形；一说取其清肝明目之效即「晰」义）、惁（xī，憼也、忧也）、㱤（xī，㱸㱤，欲死之貌；极也）、𥮥（zhuó，同「策」，计数计算用的竹签，或占卜用的蓍草）、唽（xī，鸟声）、𩗱（xī，风声）、𪁻（zhì，猛鸟也）、蜥（xī，蜥蜴俗称四脚蛇，叉舌，遇险能断尾求生；sī，一种蝗虫）。",
+      "boundary": "源自《系统汉语》第390部「析部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丌的本义",
+      "statement": "丌（jī）象低矮平整的托盘形，可以独立为器用于端送小的物品，也可只是作为器皿的底座；因此多被作为表示平整的音义符号组合成新字（《说文》「下基也，荐物之丌，象形」；段注「平而有足，可以荐物」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丌的音源：借音己",
+      "statement": "丌为借音字，义音同「己」，表示堆叠物体之意（《诗·王风·扬之水》「彼其之子」郑玄笺「其，或作记，或作己，读声相似」；《释文》「其，音记，《诗》内皆仿此，亦作己，亦同」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丌字族：荐物、根基",
+      "statement": "字族①指丌之用，表示荐物、根基：亓（qí，从上从丌，意即上面可以荐物，本同「丌」）、㚦（jī，古文「姬」，周之姓，黄帝居姬水以为姓；根本、根基；yí，王妻别名）、䢋（jì，古代宣教之官，摇着木铎沿途采记诗歌和方言）、𢗏（qí，毒也；教也、意也；忌也、谋也）、𥘕（qí，吉祥）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丌字族：同其指箕",
+      "statement": "字族②同「其」，指箕或箕状物：箕（jī，簸箕；星名；亦姓）、𧿄（qí，迹也；jī，长踞也，古人席地而坐时伸开两脚，其形如箕）、𦨘（qí，䑴艃，舟也）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丌字族：纹路交织",
+      "statement": "字族③同「其」，指纹路的交织，表示交汇、交叉：䭶（qí，同「骐」，马身上的花纹如棋盘）、𥾎（qí，同「綦」，履饰、苍白色巾；jī，杂文也）、𦬟（qí，豆茎；一说菜似蕨，一说粱也）、𩵧（qí，同「鯕」，鳊鱼）、𣍣（qí，同「期」，会也、限也、要也）、𪊔（qí，同「麒」，仁兽，麋身牛尾一角）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "丌字族：形近斤之讹",
+      "statement": "字族④为形近字「斤」之讹：㫅（qí，与「旗」同，即「旂」）、𪗞（qí，同「䶞」，啮也、咬；《正字通》「讹字」，即「齗」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "奠的本义",
+      "statement": "奠（diàn）从酉、丌声，摆酒进行祭祀（《说文》「置祭也，从酋，酋，酒也，下其丌也」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "奠的转义与音源",
+      "statement": "由摆酒祭祀引申指进献（《广雅》「荐也」），或引申指凭借（dìng，《集韵》「假也」）；由摆酒之状引申指放置、平定（《广雅》「置也」；《玉篇》「定也」），或引申指停止（tíng，《释名》「丧祭曰奠，奠，停也，言停久也」），或引申指储存（dìng，飣，贮食）。奠本「丌」声，因有定义而义音同「丁」（《周礼·司市》「展成奠贾」郑玄注「奠，读为定」，「定」本「丁」声），或义音同「帝」（《易·姤》「羸豕孚蹢躅」，《释文》「蹢，一本作躑」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "奠字族：储备停驻、投掷",
+      "statement": "字族①指放置、平定，表示储备、停驻：㞟（diàn，储备；《正字通》「一说借，兵败居后队也，俗用殿」；dǐng，重也、展也）、郑（zhèng，京兆县，周厉王子友所封；《释名》「郑，町也，地多平町町然也」；郑重、殷勤）、橂（diàn，木理坚密）、㽀（zhèng，瓶属，盛水酒的瓦器）、躑（zhí，蹢躅，行不进也）。字族②指进献，表示投掷：擲（zhì，投、抛；搔扒；腾跃）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "𡱂（臀）的本义",
+      "statement": "𡱂（tún）甲骨文本为象事字，在人的屁股部位作一弧形或短撇标记，表示屁股之所在。西周晚期金文作象意字，由「尸」（象人蹲着的样子）、「肉」（指肌肉）、「丌」（指垫物的底座）组合，表示人坐下时所使用的那部分肌肉；小篆去掉了「肉」，在下面加上「几」，「几」指小或矮的桌子、人休息时所依靠和坐的器具，强调的还是屁股的坐（《说文》「𡱂，髀也，从尸下丌居几」；徐铉「丌、几皆所以凥止也」）；「𦞠」则以「隼」为声，也是指屁股的大。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "臀的转义与音源",
+      "statement": "由屁股的垫坐作用比喻指器物的底部（《韵会》「底也」）。臀本「丌」声，义音同「奠」，也同「定」；古𡱂、丁可通（王筠《说文句读》「澱，《释器》澱谓之垽，因之多泥之湖亦曰澱，字又作淀」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "臀字族：打屁股",
+      "statement": "字族①指打屁股：殿（diàn，打击声，即打屁股，古代常用的一种刑罚；《广韵》「军前曰启，后曰殿」；后也、大堂也）、𥴫（tún，揉制弓弩使之成形的器具；diàn，打屁股的竹板，引申指击打）、癜（diàn，风斑片也，有紫白二种，指状如被打伤造成淤血的屁股）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "臀字族：底部",
+      "statement": "字族②指底部：臀（tún，屁股）、澱（diàn，沉淀的渣滓，本义当指沉淀，取屁股下沉之意；蓝淀即用蓝叶浸水调和石灰沉淀而制成的蓝色染料；浅水的湖泊）、𪑩（diàn，沉渣，同「澱」）、壂（diàn，堂也、堂基；泥滓）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "其（箕）的本义",
+      "statement": "其（jī）商代甲骨文本象箕形；周代中期金文开始在下面加上「丌」用以表声兼表意，指其浅平如丌；战国古文或从竹从丌，表示为竹制；后或写同「几」字（《说文》「簸也，从竹𠀠，象形；下其丌也」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "其的转义",
+      "statement": "由于箕的用途很广、主要用于盛装东西，从而引申作代词，指他（他们）、它（它们）或她（她们），或那、那个、那些，或那里面的（qí，《韵会》「指物之辞」），或作语气助词（jì，《韵会》「语辞」）。箕的种类很多，有簸箕、粪箕、撮箕、筲箕、箢箕等，系用竹篾、柳条等编结而成，所编织形成的纹路呈螺旋状，故引申指周期（qī，《字汇补》「借作期」）；由箕的编结紧密引申指密谋（jī，《字汇补》「与基同，谋也」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "其字族：箕状、盘踞、面具",
+      "statement": "字族①指箕状，表示盘踞、面具：㠱（jì，盘起脚坐着；《玉篇》「长跪也，或作跽」；qǐ，古国名，与「杞」同）、踑（qí，驯迹也；jī，迹也；jì，盘腿而坐的样子如「箕」）、掑（qí，扲掑，坚勇也，即蹲马步以作抗拒的样子，其状如端箕）、䫏（qī，古代驱疫鬼时扮神的人所戴面具，其状如箕之意）、娸（qī，人姓；一说丑也）、倛（qī，同「䫏」，驱鬼时戴的面具；《荀子·非相》「仲尼面如蒙倛」，杨倞注「方相也，其首蒙茸，故曰蒙倛」；淮南祈雨土偶人曰倛；qì，倛儗，不行、迟疑不前）、旗（qí，旗帜的总称，或专指上面有熊虎图像的一种军旗；指挥、统治的号令）、淇（qí，淇河，发源于山西陵川棋子山，中段发现全国最大的天然太极图，青岩绝壁倚水向东、路窄独行人，是古代天然监狱，周文王姬昌曾羁押于此；「太极之源」）、錤（jī，鎡錤即大锄，指其宽大如箕）、䳢（qí，小雁；或指猫头鹰）、粸（qí，饼属）、蜝（qí，彭蜝，虫名，似蟹而小不可食；一说水蛭）、䑴（qí，䑴艃，舟也）、基（jī，墙始也、基脚、建筑物的根脚；据也、谋也、经也、业也、址也、始也、本也）、祺（qí，吉祥、吉利）、鯕（qí，鳊鱼）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "其字族：箕纹、周绕交会",
+      "statement": "字族②指箕纹形，表示周绕、交会：棋（qí，比赛输赢的棋具；jī，根柢、树根）、𤪌（qí，古代皮件缝合处的玉饰、皮帽上的装饰品，谓缀玉于武冠，若棋子之列布也）、琪（qí，玉属；医无闾之珣玗琪）、萁（qí，豆秆，豆粒迸出如棋子散布；jī，菜似蕨；萁服即盛箭者，萁草似荻而细，织之为服）、骐（qí，马青黑色，纹路交错如棋盘；一说驨如马一角，不角者骐）、麒（qí，麒麟，传说中的瑞兽，身上有棋状纹路；牡曰麒，牝曰麟）、稘（jī，一个周期的时间，即「期」，取禾的生长周期之意；禾秆也）、期（qī，约会；适当、适合；期望、要求；时机；契约；限度；周年）、簊（jī，竹名）、帺（qí，未嫁女所服的苍艾色帛巾；jì，系也、巾也）、綦（qí，苍艾色帛、未嫁女所服；草鞋襻，草鞋如箕；《广雅》「蹇也」，两足并连不能开步；车下铁，大者谓之綦；极也）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "其字族：博棋、欺谋",
+      "statement": "字族③指博棋，表示欺、谋：惎（jì，毒害、嫉恨；教也、意也；忌也、志也、谋也）、諅（jì，畏忌；志也；jī，谋也）、欺（qī，诈欺也）、僛（qī，醉舞貌，不能自正也）、諆（qī，欺骗；谋也）、唭（qì，唭㘈，无闻见也；欺骗；笑貌）、猉（qí，汝南谓犬子为猉）、䶞（qí，啮也）、剘（qí，克也、割截也；信也）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "斯的本义",
+      "statement": "斯（sī）从斤、其声。「斤」指斧头，「其」指箕——箕本用竹篾、柳条等细长的东西编成，以斧斫之自然会散成细条（《说文》「析也，从斤其声，《诗》曰斧以斯之」）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "斯的转义与字族",
+      "statement": "由箕的被劈开引申指分散、分开、分离（《广雅》「裂也、分也」；《尔雅》「离也」），由箕的散成一条条引申表示尽、全部（《集韵》「尽也」），或表示近指（《尔雅》「此也」）；由散开的一条条引申指束发的帛巾（《集韵》「纚，《说文》冠织也，谓以缁帛韬发，或作縰、斯」）。字族多指破裂、离析、分散：澌（sī，水索也、尽也，引申为凡物竭尽；声音沙哑；古水名）、𤺊（xī，破散之声，东齐声散曰𤺊、秦晋声变曰𤺊，器破而不殊其音亦谓之𤺊；sī，噎也）、凘（sī，冰消而流散，「冰流曰凘，冰解曰冸」）、𧪷（xī，悲痛之声，即撕心裂肺、声音嘶哑）、撕（sī，用手使东西裂开或离开附着处；xī，提撕、警觉也）、嘶（sī，噎也、马鸣也）、㯕（xī，用木套压手指；一说马厩细栅栏如指排）、燍（sī，焦气也、火焦臭）、簛（sī，竹节也；shāi，同「籭」「筛」，竹器可以除粗取细）、廝（sī，古代干劈柴、养马等粗杂活的男奴隶或小役）、蟖（sī，蛅蟖，鳞翅目昆虫，幼虫一般称毛虫，成虫称蛾或蝶，翅与体密被鳞片）、𪆁（sī，乌鸦，指其叫声嘶哑）、㽄（sī，瓮破也、瓦破声）、䔮（sī，草名，生水中，花可食）、𥕶（sī，磨也）、鐁（sī，将木头削平用的刨子）。",
+      "boundary": "源自《系统汉语》第391部「丌部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "几的本义",
+      "statement": "几（jī）象几案形，甲骨文在上面加上小点表示其体积小，或指放置小东西的（《说文》「踞几也，象形，《周礼》五几：玉几、雕几、彤几、䰍几、素几」；《字汇》「古人凭坐者」；《释名》「庪也，所以庪物也」）。几与案本不同：几是古人坐时依凭的家具，案是人们进食、读书写字时使用的家具（有铜器、漆器、陶器等多种质地）；按种类分，案有食案、书案、奏案、毡案、欹案，几有宴几、凭几、炕几、香几、蝶几、花几、茶几、案头几等；人们常把几案并称，是因为二者在形式和用途上难以划出截然不同的界限。",
+      "boundary": "源自《系统汉语》第392部「几部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "几的转义、辩证与音源",
+      "statement": "由几的凭靠、放置作用引申指安稳、盛大（《广雅》「几几，盛也」），或指偕同、一起（《太玄·亲》「宾亲于礼，饮食几几」范望注「几几，偕也」），或指差不多、接近于（如「几（jī）乎」）。「几」跟「丌」本是两种不同的东西，但由于表面都平整、可以放置东西，所以音义可通（「期」的战国古文或从「丌」、或从「几」）。几为借音字：今另将「幾」简化作「几」扩大了「几」的意义，由于「幾」有微小之意，古即与「几」可通用（《荀子·哀公》「俛视几筵」，「几」《孔子家语·五仪》作「機」；《书·舜典》「黎民阻飢」，「飢」《史记·五帝本纪》作「饑」），或义音同「己」（《山海经·中山经》「岷山之首曰女几之山」，「女几」《淮南子·天文训》作「女紀」）。",
+      "boundary": "源自《系统汉语》第392部「几部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "几字族：几状之物",
+      "statement": "字族①指几状，表示形似之物：䢳（jǐ，地名）、机（jī，木名，即榿木，落叶乔木，树皮灰褐色、鳞状开裂，叶长椭圆形、边缘有疏锯齿，喜水湿、多生于河滩低湿地，根系发达有根瘤、固氮能力强、速生，树皮果序可制栲胶，叶片嫩芽入药、叶肥田；同「几」指几案；wèi，砧板；今为「機」的简化字）、麂（jǐ，大麋鹿，脚小，其角如几）。",
+      "boundary": "源自《系统汉语》第392部「几部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "几字族：凭靠依附",
+      "statement": "字族②指凭靠几，表示附着、依止：肌（jī，肉也、肌肤；《正字通》「人身四支附骨者皆曰肌」；《释名》「肌，懻也，肤幕坚懻也」；jì，体也）、㞦（jǐ，山也，一说弱水之所出）、𤜝（jǐ，兽名，如兔喙、蛇尾，见则有蝗灾）、飢（jī，饿也，饥饿无力而须凭几之意；《尔雅》「谷不熟为飢」）、凥（jū，止息，与「居」同）、処（chǔ，止也，得几而止）。",
+      "boundary": "源自《系统汉语》第392部「几部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "启的本义",
+      "statement": "启（qǐ）从户从口，象意门被打开（《说文》「启，开也，从户从口」）；「𢼄」的甲骨文从户从又，象意用手打开门（《六书故》「开户也」），此字或作「啟、啓」。两字意义本不相同，但结果都是指开门，故合并一处；周代或从户从攴，攴或作戈，本应是「𠶶」，指打门，本义更是不同。",
+      "boundary": "源自《系统汉语》第393部「启部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "启的转义",
+      "statement": "由开门引申指开发、开始（《玉篇》「开发也」），或引申指教导、开导（《说文》「啟，教也，从攴启声，《论语》曰不愤不启」）；由门的分开引申指别、分移（《广韵》「别也、刻也」）；由门的开启有光亮引申指看、白色（《尔雅·释畜》「前右足白，啓」；《埤雅》「雨而昼晴曰啓」）；由开门进屋歇息引申指跪跽（《尔雅·释言》「啓，跪也」郭璞注「小跽」）。",
+      "boundary": "源自《系统汉语》第393部「启部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "启的音源",
+      "statement": "启为音源字，源自开门声；因有跪跽义，或义音同「己」（《论语·泰伯》「𢼄予足，𢼄予手」，《文选·叹逝赋》李善注引作「起」；《尔雅·释言》「𢼄，跪也」郭璞注「小跽」，郝懿行义疏「𢼄者，跽之叚音也」）。",
+      "boundary": "源自《系统汉语》第393部「启部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-64-si",
+      "title": "启字族：开门、打开、开始",
+      "statement": "字族指开门，表示打开、开始：䏿（qǐ，小腿肚，分张如打开的门；一说肉的连接处）、棨（qǐ，古代作通行用的一种木制符信，又名「传」，形如戟、有幡书之，吏执为信；古代官吏出行的一种仪仗，木制、形状似戟；兵栏即搁置兵器的栅台；树木的小枝条）、綮（qǐ，细密的丝织品，或指一种出入凭信；戟衣；qìng，肯綮即筋肉结节处，比喻事物的关键）、䁈（qì，省视也、察看、窥也）、晵（qǐ，雨后放晴，天开启之意）、闙（qǐ，开门也，通作「啓」）、𢩙（líng，古文「灵」字）、𨌋（qǐ，碍也；一曰至也；刹车）、肁（zhào，始开也，从户从聿；始也、谋也）、肇（zhào，击也；敏也、长也；戟属）。",
+      "boundary": "源自《系统汉语》第393部「启部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
