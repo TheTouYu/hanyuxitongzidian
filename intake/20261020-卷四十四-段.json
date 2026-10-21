@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "intent": "录入《系统汉语》卷四十四 段（244.段部）",
+  "risk": "medium",
+  "baseline_mode": "committed",
+  "claims": [
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "卷四十四以音源字「段」立卷",
+      "statement": "本卷音源字是「段」，西周金文从石从殳，象意以石为砧进行锤打，其音源取自锻打之声。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary",
+      "topic_path": "knowledge/hanzi-yinyuan/44a-duan.md",
+      "topic_title": "卷四十四·段",
+      "topic_summary": "卷四十四「段」：音源字为「段」，金文从石从殳，以石为砧锤打物体，音源锻打声；卷首述锻打、石器时代打制与磨制石器、穿孔技术、锻造与淬火，并说明「隹、𠂤、叕、坐、卒、㒸、彖、肙、兑、耑」因捶打动态相似而归入本卷；仅辖 244.段部（p706），共第244–244部。"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "锻的定义与「取厉取锻」的古老渊源",
+      "statement": "锻是一种对金属坯料施加压力、使其产生塑性变形，以获得具有一定机械性能、一定形状和尺寸锻件的加工方法。其源十分古老，《诗经·大雅·公刘》即有「取厉取锻」之句，「厉」指磨砺，「锻」指打造，最初应是指石器时代的打制石器。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "石器时代是人类的童年，前后约二三百万年",
+      "statement": "石器时代标志着人类跟其它动物的区别：人是会使用工具的动物，而最初的工具就是石头。其历史漫长，占人类历史的大部分，共约二三百万年。考古学根据人类对石头的加工手段，分为旧石器时代和新石器时代，也有人在新、旧石器时代之间列出过渡的中石器时代；实际上人类还有一个自然使用石头的阶段，即随手捡拾地上的石块作为工具，这个阶段更不知有多长时间——在此阶段，人类跟现在的猩猩和猴子差不多。因此，人类真正具备人的文明素质，从加工石头开始算起，是有道理的。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "打制石器的起源与石器、天然破碎石块的鉴别",
+      "statement": "据推测，人类在长期使用天然木棒和石块获取食物和防卫时，偶尔发现用砾石摔破后产生的锐缘来砍砸和切割东西比较省力，从而受到启示，便开始打击石头使之破碎，以制造适用的工具——就是这一简单的打击，开始了人类文明的最初时代，即旧石器时代。石器与自然力破碎的石块有别：昼夜和季节冷热变化引起岩石表面与内部不一致的膨胀收缩，故温度造成的破裂面上往往有环绕一个中心的同心圆波纹，石器则没有或破坏了这种特征；石块受水力作用冲撞岸边岩石或相互撞击而破碎会产生锥体，但这种锥体比人工石片显得平坦和散漫。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "世界最早的工具与中国的元谋人石器",
+      "statement": "就世界范围看，人类开始制造工具大约是在300万年前，那时的石器是利用石块打击而成的石核或打下的石片，加工成一定形状，种类有砍砸器、刮削器、尖状器等。1965年在中国云南元谋上那蚌村附近，发现了170万年前的人类左右门齿两颗，伴随出土的还有17件石制品，经研究鉴别属旧石器，类型包括尖状器、刮削器和砍砸器——这是已经发现的中国乃至亚洲最早的原始人类化石和石器。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "打制石器的工艺演进：敲击、修整与压制法",
+      "statement": "制作石器最原始的辦法，是把一块石头加以敲击或碰击使之形成刃口，即成石器。打制切割用的带薄刃石器则有一定方法和步骤：先从石块上打下所需的石片，再把打下的石片加以修整而成石器。初期石器用石锤敲击修整，边缘不太平齐；到中期使用木棒或骨棒修整，边缘比较平整；及至后期修整技术进一步提高，创造了压制法，压制的工具主要是骨、角或硬木，用压制法修整出来的石器已经比较精细。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "磨制石器的出现与宜川龙王辿遗址",
+      "statement": "新石器时代的标志是磨制石器，大约出现于二万年前。2006年在中国宜川壶口镇龙王辿村北发现万年前的古遗址，发掘出土了2万余件距今2万—1.5万年前后的石制品，其中有石磨盘和在刃部有磨制加工痕迹的石铲等重要遗物。专家认为其中的磨制石铲应是目前国内发现年代最早的磨制石器之一：长12.7厘米、宽9.2厘米、厚0.8厘米，以叶岩为材料，利用叶岩的层状节理剥片后琢打成舌形，顶端刃部两面磨制呈弧形刃。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "磨制石器的工序与优势",
+      "statement": "到新石器时代，石器制造技术进步很大：对石料的选擇、切割、磨制、钻孔、雕刻等工序已有一定要求。石料选定后先打制成石器的雏形，然后把刃部或整个表面放在砺石上加水和沙子磨光，这就成了磨制石器。与打制石器相比，磨制石器上下左右各部分形制更加准确合理，用途趋向专一，并增强了刃部的锋度、减少了使用时的阻力，使工具能发挥更大的作用。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "穿孔技术三法：钻穿、管穿、琢穿",
+      "statement": "穿孔技术的发明是石器制作技术上的又一重要成就，基本上可分为钻穿、管穿和琢穿三种：钻穿是用一端削尖的坚硬木棒，或在木棒一端装上石制钻头，在要穿孔的地方先加些潮湿的沙子，再用手掌或弓弦转动木棒进行钻孔；管穿是用削尖了边缘的细竹管来穿孔，具体方法与钻穿相同；琢孔即用敲琢器在大件石器上直接琢成大孔。穿孔的目的在于制成复合工具，使石制工具能比较牢固地捆缚在木柄上，便于使用和携带，以提高劳动效率。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "新石器时代石器种类大增，青铜时代仍承袭其形制",
+      "statement": "新石器时代石器种类大大增多：早期遗址中大量出土的农业、手工业和渔猎工具有斧、锛、铲、凿、镞、矛头、磨盘、网坠等，稍后又增加了犁、刀、锄、镰等。夏商时期开始进入青铜时代，但石器仍作为重要工具使用，有些地区直至18～19世纪仍在使用某些磨制石器。囿于矿体开采、溶炼、铸锻等技术水准，当时的金属工具、武器不少还是承袭磨制石器形制发展而成的：石器中的斧、锛、铲、刀、镰、镞、矛头等器形，不但是青铜器的祖型，甚至影响到铁器。因此我们现在常用的大部分工具，其基本形制实际上跟磨制石器差不多。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "锻造的分类与古代的自由锻",
+      "statement": "对金属的锤锻，根据温度分为热锻、温锻和冷锻，根据成形机理分为自由锻、模锻、碾环、特殊锻造。在古代，多以自由锻方式为主，工艺比较简单，所以《韩非子·外储说右下》说「椎锻者所以平不夷也」，《说文》说「锻，小冶也」。现代工艺多采用机械锻造方式，模锻、碾环、特殊锻造才日趋成熟起来。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "锻造的机理与淬火：「锻炼」一词的由来",
+      "statement": "锻造的特点跟揉面类似：金属经过锻造加工后能改善其组织结构和力学性能，使原来粗大的枝晶和柱状晶粒变为晶粒较细、大小均匀的等轴再结晶组织，使原有的偏析、疏松、气孔、夹渣等被压实和焊合，组织更加紧密，从而提高金属的塑性和力学性能。锻造过程中不止是简单地锤打，还要进行淬火：清陈克恕《篆刻针度》记炼刀法之一云「用菊花钢锻而为刀，刀成乃砺，砺好方炼。用楮皮灰、牛角灰、青盐、硇砂各五六分为末，将醋调涂刀口，向灯火上烧火为度，入清冷水（一法用甘草水，一法即用醋）淬之，复炼如前，药尽而止，炼后再磨」——实际上就是将烧红的器物快速放入含碳等成分的水中以沾取碳，然后通过锻打使之硬化，故也称「锻炼」。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "本卷归部的缘由与部次页码",
+      "statement": "由于「隹、𠂤、叕、坐、卒、㒸、彖、肙、兑、耑」等字，与锤锻时捶打的动态相似，故音义皆通，本书即依此把相关字归入本卷。卷四十四「段」仅辖一部：244.段部（p706）。卷首附图：冶铁汉画像石拓片、西夏壁画锻铁图。",
+      "boundary": "源自《系统汉语》卷四十四「段」卷首。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的本义：以石为砧，在上面锤打物体",
+      "statement": "段（𠪅𤖰𠩻）从石从殳：「殳」指锤子，从「石」象意以石为砧，在上面敲打别的物体。duàn，《集韵》：「《说文》：『椎物也。』亦姓。古作𠩻。」",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的转义：一截，与「断」音义相同",
+      "statement": "捶打物体时是一截一截进行的，从而引申指一截，《广韵》「分段也」，《释名》「断，段也，分为异段也」——跟「断」的音义相同。段本是为了将铁器之类锤紧实，故又有锻炼之意。",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的辩证：《说文》析形不确",
+      "statement": "《说文》：「椎物。从殳，耑省声。徒玩切。」在字形上，「段」跟「耑」并没有联系，故析形不确。",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的音源：捶打声，义音同「耑」",
+      "statement": "段是音源字，音源取自捶打声。因有捶击之义，而义音同「耑」：《睡虎地秦墓竹简·日书甲种》「以铁椎椯之」，「椯」整理者释为「段」。",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的字族一：锤锻，表示捶打",
+      "statement": "指锤锻、表示捶打的字：𠩻（duàn，《玉篇》「古文段」）、锻（煆，duàn，《说文》「小冶也，从金段声」，把金属加热然后捶打；《字彙》「煆，与锻同。打铁也，椎鍊也」）、腶（duàn，《集韵》「腶脩，捶脯施姜桂也」，经过捶捣加上生姜、肉桂制成的干肉）、𩤣（duàn，《集韵》「款𩤣，马行缓」）、𢯫（duàn，《集韵》「捶也」；wǎn，《正字通》「按《六书统》从手段声，与𢯲同，手臂节也」）。",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的字族二：锻石，表示硬实",
+      "statement": "指锻石、表示硬实的字：碫（duàn，《广韵》「砺石也」，磨刀石，《广雅》「砺也」，即锻打用的石砧）、𨺣（duàn，《集韵》「险也」，指山石耸立如碫；《玉篇》「人名，或作锻、碫」）、瑖（duàn，《集韵》「石之似玉者」）。",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的字族三：树名与地名",
+      "statement": "指树名、地名的字：椴（duàn，《尔雅·释木》「椴，柂」，邢昺疏「椴，一名柂，树似白杨，其材能湿」，木材细致，可制火柴、铅笔、蒸笼等；《尔雅·释草》「椴，木槿」；《广雅》「杙也」，木桩；或同「籪」，指插在河溪中捕鱼蟹的竹栅之类）、葮（duàn，《集韵》「木名，槿也，通作椴」）、塅（duàn，《汉典》「方言，指面积较大的平坦的地区，多用于地名」）。",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    },
+    {
+      "node": "hanzi-yinyuan",
+      "topic_id": "topic-juan-44-duan",
+      "title": "段的字族四：厚实之物",
+      "statement": "指厚实之物的字：𩏇（緞𩋦，duàn，《说文》「履后帖也，从韦段声」，鞋后跟的帮贴，很厚；现指质地厚密、一面光滑的丝织品）、毈（㱭，duàn，《说文》「卵不孚也，从卵段声」，孵不出子的卵，指其如鹅卵石；《集韵》「卵坏」）。",
+      "boundary": "源自《系统汉语》第244部「段部」。",
+      "permission": "public",
+      "fact_classes": [
+        "evidence_scope"
+      ],
+      "duplicate_resolution": "create_distinct_with_boundary"
+    }
+  ]
+}
