@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡371索部首12条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-473",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "索本義：索＝象繩索形（屮串/木串/竹串），加又表搓——草麻竹藤搓成的繩；引申單獨、搜求、法度、散、盡",
+   "statement": "索（suǒ）：索＝象繩索形（屮串/木串/竹串），加又表搓——草麻竹藤搓成的繩；引申單獨、搜求、法度、散、盡。 橫向：①索狀：索（糸）繩索｜繩（糸）繩｜糾（糸）糾。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-474",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鎍本義：鎍＝金（形旁）＋索（聲旁）",
+   "statement": "鎍（suǒ）：鎍＝金（形旁）＋索（聲旁）。《集韻》「鐵繩也」；sè「鐵丳」——烤肉鐵籤。 橫向：①索狀：鎍（金）鐵繩／鐵籤｜鍊（金）鍊｜籤（竹）籤。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-475",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溹本義：溹（𣽤洓）＝水（形旁）＋索（聲旁）",
+   "statement": "溹（suò）：溹（𣽤洓）＝水（形旁）＋索（聲旁）。《集韻》「水名，在滎陽」；sè「溹溹，雨下皃」。 橫向：①索狀：溹（水）水名／雨下｜洓（水）小雨｜雨（雨）雨。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-476",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦵫本義：𦵫＝艸（形旁）＋索（聲旁）",
+   "statement": "𦵫（suǒ）：𦵫＝艸（形旁）＋索（聲旁）。《玉篇》「艸名」。 橫向：①索狀：𦵫（艸）草名｜艸（艸）草｜藤（艸）藤。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-477",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㮦本義：㮦（梀）＝木（形旁）＋索（聲旁）",
+   "statement": "㮦（sè）：㮦（梀）＝木（形旁）＋索（聲旁）。《廣韻》「白索，木名」；《爾雅》「赤栜，或作赤㮦」——木紋可作椀。 橫向：①索狀：㮦（木）木名（紋縷）｜梀（木）梀｜栜（木）栜。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-478",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䅴本義：䅴＝禾（形旁）＋索（聲旁）",
+   "statement": "䅴（suǒ）：䅴＝禾（形旁）＋索（聲旁）。《集韻》「禾皃」；sè「禾穗」。 橫向：①索狀：䅴（禾）禾穗｜穗（禾）穗｜禾（禾）禾。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-479",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤸴本義：𤸴＝疒（形旁）＋索（聲旁）",
+   "statement": "𤸴（suǒ）：𤸴＝疒（形旁）＋索（聲旁）。《集韻》「脈動」。 橫向：①索狀：𤸴（疒）脈動（如索）｜脈（肉）脈｜動（力）動。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-480",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥰼本義：𥰼＝竹（形旁）＋索（聲旁）",
+   "statement": "𥰼（suǒ）：𥰼＝竹（形旁）＋索（聲旁）。《集韻》「竹絙也」——竹索。 橫向：①索狀：𥰼（竹）竹索｜絙（糸）絙｜索（糸）索。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-481",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩮛本義：𩮛＝髟（形旁）＋索（聲旁）",
+   "statement": "𩮛（suǒ）：𩮛＝髟（形旁）＋索（聲旁）。《集韻》「髮堅皃」；《類篇》「髮豎皃」——頭髮硬直如索。 橫向：①索狀：𩮛（髟）髮豎（如索）｜髮（髟）髮｜豎（豆）豎。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-482",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䞽本義：䞽＝走（形旁）＋索（聲旁）",
+   "statement": "䞽（suǒ）：䞽＝走（形旁）＋索（聲旁）。《廣韻》「䞦䞽，僵仆」——仆倒。 橫向：①索狀：䞽（走）僵仆｜仆（人）仆｜僵（人）僵。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-483",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧎳本義：𧎳＝虫（形旁）＋索（聲旁）",
+   "statement": "𧎳（suǒ）：𧎳＝虫（形旁）＋索（聲旁）。《玉篇》「先各切，音索，虫名」。 橫向：①索狀：𧎳（虫）蟲名｜蟲（虫）蟲｜蚓（虫）蚓。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-484",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥻨本義：𥻨＝米（形旁）＋索（聲旁）",
+   "statement": "𥻨（sè）：𥻨＝米（形旁）＋索（聲旁）。《類篇》「煑米為𥻨」；《食經》「取蒸米置沸湯……出著新籮內」——煮米多水。 橫向：①索狀：𥻨（米）煮米｜粥（米）粥｜飯（食）飯。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」（第371部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
