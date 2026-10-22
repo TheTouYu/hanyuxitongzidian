@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡世部10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-296",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "世本義：象枝葉之形，草木之葉（枼之初文）",
+   "statement": "世（shì）象枝葉之形，本義草木之葉，「枼（葉）」之初文；轉義更迭、世代、年歲、時代、一生。辯證：《說文》「三十年為一世，从卅而曳長之」析形不確。音源：風吹樹葉悉索聲。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-297",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "枼本義：木上世形，象枝葉（葉之初文）",
+   "statement": "枼（yè）从木从世，象枝葉，葉之初文；引申世系（枼从世）。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-298",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "抴本義：从手世聲，捈也（拉引）",
+   "statement": "抴（yè）从手、世聲，轉注。《說文》「捈也」拉引；shé 數也（《集韻》「揲，閱持也」）。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-299",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紲本義：从糸世聲，系也（繩索馬韁）",
+   "statement": "紲（xiè）从糸、世聲，轉注。《說文》「系也」；《玉篇》「馬韁也」；《釋名》「制也，牽制之也」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-300",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "靾本義：从革世聲，馬被具",
+   "statement": "靾（xiè）从革、世聲，轉注。《集韻》「馬被具」；《廣韻》「以馬鞍贈亡人」「系也」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-301",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袣本義：从衣世聲，衣長皃",
+   "statement": "袣（yì）从衣、世聲，轉注。《集韻》「衣長皃，一曰袖也」；《廣韻》「長被」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-302",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "枻本義：从木世聲，楫也（短槳、舵）",
+   "statement": "枻（yì）从木、世聲，轉注。《集韻》「楫謂之枻，一曰柂也」；xiè 檠枻，正弓弩之器。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-303",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "呭本義：从口世聲，多言也",
+   "statement": "呭（yì）从口、世聲，轉注。《說文》「多言也」（引《詩》「無然呭呭」）；《廣韻》「樂」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-304",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齛本義：从齒世聲，羊粻也（羊反芻）",
+   "statement": "齛（xiè）从齒、世聲，轉注。《說文》「羊粻也」；shì 同噬（咬）。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-305",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伳本義：从人世聲，侈也",
+   "statement": "伳（xiè）从人、世聲，轉注。《集韻》「侈也」奢侈。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
