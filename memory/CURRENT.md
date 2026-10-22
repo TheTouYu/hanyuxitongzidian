@@ -1,3 +1,4 @@
+- 2026-10-23：字卡逐部推进至 **715 张卡 / 715 条**（`web/public/cards/*.json`，`topic-zika-shizi`），覆盖第 346–382 部共 37 部；五步规程见 `prompts/exegesis.md`，卡由 `web/server.mjs` 的 `loadPresetCard()` 直出（mode=preset）。
 # 当前状态
 
 Primary Context: `default`
