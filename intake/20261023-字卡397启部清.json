@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡397启部清2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bte-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "綮（字卡）",
+   "statement": "綮（qǐ）：《说文》「㨖缯也；一曰幑帜，信也，有齿」，细密丝织品或出入凭信；qìng 肯綮，肋肉结处、比喻关键。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bte-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䁈（字卡）",
+   "statement": "䁈（qì）：《说文》「省视也」；《玉篇》窥也，同䁉。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bte-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晵（字卡）",
+   "statement": "晵（qǐ）：《说文》「雨而昼夝也」——雨后放晴，天开启之意。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bte-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "闙（字卡）",
+   "statement": "闙（qǐ）：《集韵》「开门也，通作啓」。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bte-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肁（字卡）",
+   "statement": "肁（zhào）：从户从聿，《说文》「始开也」；《玉篇》始也、谋也。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bte-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肇（字卡）",
+   "statement": "肇（zhào）：从攴肈省声，《说文》「击也」；《集韵》通作肈；《尔雅》肈，敏也。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bte-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨌋（字卡）",
+   "statement": "𨌋（qǐ）：《集韵》引《说文》「碍也」，一曰至也——刹车。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bte-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢩙（字卡）",
+   "statement": "𢩙（líng）：《字彙补》「古文灵字」。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
