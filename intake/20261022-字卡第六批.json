@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡妥部再六条入库 2026-10-22",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-029",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "俀本義：从人妥聲，弱也",
+   "statement": "俀（tuǐ）从人、妥聲，屬轉注，聲旁取柔弱委頹。《集韻》「弱也」，軟弱之貌。同取弱者：㞂（尢）風疾不行、㱣（歹）弱也、餒（食）饑弱、娞（女）柔弱。",
+   "boundary": "源自《系統漢語》卷六十「妥」部（第349部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-030",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "骽本義：从骨妥聲，股也，大腿胯骨",
+   "statement": "骽（tuǐ）从骨、妥聲，屬轉注，聲旁取身之下委。《集韻》「股也，或作腿」，《玉篇》「骽股也」，指大腿、胯骨。",
+   "boundary": "源自《系統漢語》卷六十「妥」部（第349部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-031",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㟎本義：从山妥聲，山高而長，委蛇堆疊",
+   "statement": "㟎（tuǐ/tuǒ）从山、妥聲，屬轉注，聲旁取委頹堆疊。《廣韻》「㟎㠑，山高皃」；tuǒ《集韻》「山長皃，或作𡽃、嶞」。",
+   "boundary": "源自《系統漢語》卷六十「妥」部（第349部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-032",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鞖本義：从革妥聲，鞌邊帶，馬鞍絛飾",
+   "statement": "鞖（suī）从革、妥聲，屬轉注，聲旁取安附。《集韻》「䪎，鞌邊帶，或作鞖」，指馬鞍上的絛飾、邊帶；帶附於鞍而使安。",
+   "boundary": "源自《系統漢語》卷六十「妥」部（第349部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-033",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "浽本義：从水妥聲，浽微小雨；又濁也",
+   "statement": "浽（suī/něi）从水、妥聲，屬轉注，聲旁取柔弱細微。《集韻》「浽微，小雨」；něi 讀「涹，《博雅》濁也，或作浽」。",
+   "boundary": "源自《系統漢語》卷六十「妥」部（第349部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-034",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㱣本義：从歹妥聲，弱也，不平也",
+   "statement": "㱣（tuǐ）从歹、妥聲，屬轉注，聲旁取柔弱委頹。《廣韻》「㱬㱣，弱也」；《玉篇》「不平也」。同取弱病者：㞂（尢）、俀（人）、餒（食）。",
+   "boundary": "源自《系統漢語》卷六十「妥」部（第349部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
