@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡易部首10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-363",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "易本義：易＝傾盞注液之象意，本義傾注（施與）；引申轉換、改變、容易",
+   "statement": "易（yì）：易＝傾盞注液之象意，本義傾注（施與）；引申轉換、改變、容易。 橫向：改易：易（皿）傾注｜益（皿）受注｜換（手）換。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-364",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痬本義：痬＝疒（形旁）＋易（聲旁）",
+   "statement": "痬（yì）：痬＝疒（形旁）＋易（聲旁）。《說文》「脈痬也」發狂之病（義即癔），陣發反復；或指傳染病。 橫向：①改易：痬（疒）狂病｜癔（疒）癔｜疫（疒）疫。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-365",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晹本義：晹＝日（形旁）＋易（聲旁）",
+   "statement": "晹（yì）：晹＝日（形旁）＋易（聲旁）。《說文》「日覆雲暫見也」；《廣韻》「日無光」——雲開暫現。 橫向：①改易：晹（日）暫見｜暘（日）日出｜昜（日）同。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-366",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "緆本義：緆（裼）＝糸（形旁）＋易（聲旁）",
+   "statement": "緆（xī）：緆（裼）＝糸（形旁）＋易（聲旁）。《說文》「細布也」細麻布；《釋名》「治也，治其麻使滑易也」——捶擊曝曬使白。 橫向：①改易：緆（糸）細布｜裼（衣）脫衣｜錫（金）白錫。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-367",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錫本義：錫＝金（形旁）＋易（聲旁）",
+   "statement": "錫（xì）：錫＝金（形旁）＋易（聲旁）。《說文》「銀鉛之間也」——熔點低、早被利用，與銅共創青銅時代；質軟延展好。 橫向：①改易：錫（金）錫｜鉛（金）鉛｜銅（金）銅。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-368",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惕本義：惕（悐）＝心（形旁）＋易（聲旁）",
+   "statement": "惕（tì）：惕（悐）＝心（形旁）＋易（聲旁）。《說文》「敬也」——指神色的改變；《玉篇》「憂也、疾也、懼也」。 橫向：①改易：惕（心）警惕｜悐（心）同｜懼（心）懼。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-369",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬄本義：鬄（髢剔）＝髟（形旁）＋易（聲旁）",
+   "statement": "鬄（dí）：鬄（髢剔）＝髟（形旁）＋易（聲旁）。《說文》「髲也」假髮；tì 剃也、與剔同。 橫向：①改易：鬄（髟）假髮／剃｜髢（髟）髢｜剃（刀）剃。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-370",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩮜本義：𩮜＝髟＋刀（形旁）＋易（聲旁）",
+   "statement": "𩮜（tì）：𩮜＝髟＋刀（形旁）＋易（聲旁）。《說文》「鬀髮也」——用刀除髮。 橫向：①改易：𩮜（髟刀）剃髮｜鬄（髟）髢｜剃（刀）剃。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-371",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䯜本義：䯜＝骨（形旁）＋易（聲旁）",
+   "statement": "䯜（tì）：䯜＝骨（形旁）＋易（聲旁）。《說文》「骨間黃汁也」——骨髓，色或紅或黃，隨年齡而變。 橫向：①改易：䯜（骨）骨髓｜髓（骨）髓｜骹（骨）骹。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-372",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賜本義：賜＝貝（形旁）＋易（聲旁）",
+   "statement": "賜（cì）：賜＝貝（形旁）＋易（聲旁）。《說文》「予也」給與；《玉篇》「惠也、施也、空盡也」——正承「傾盞倒出」之施與。 橫向：①改易：賜（貝）賜予｜施（㫃）施｜貺（貝）貺。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
