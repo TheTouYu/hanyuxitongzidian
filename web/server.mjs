@@ -913,8 +913,24 @@ async function askModelForCard(ch, question, context, meter) {
   return extractJson(content);
 }
 
+const CARD_DIR = join(PUBLIC, 'cards');
+const presetCache = new Map();
+function loadPresetCard(ch) {
+  const alias = loadVariantMap()[ch] || ch;
+  for (const key of new Set([ch, alias])) {
+    const p = join(CARD_DIR, key + '.json');
+    try { if (existsSync(p)) return JSON.parse(readFileSync(p, 'utf8')); } catch (e) { log('字卡读取失败', key, e.message); }
+  }
+  return null;
+}
+
 async function handleCard(emit, res, question, ch, ip, meter) {
   let glyph = glyphInfo(ch);
+  const preset = loadPresetCard(ch);
+  if (preset) {
+    emit({ type: 'card', card: { char: ch, mode: 'preset', sections: preset.sections || [], photos: (glyphInfo(ch) || {}).photos || [], roots: [] } });
+    return res.end();
+  }
   let glyphFrom = null;
   emit({ type: 'card-start', char: ch, glyph: null });
 
