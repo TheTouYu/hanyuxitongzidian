@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡折部12条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-411",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㿱本義：㿱＝皮（形旁）＋折（聲旁）",
+   "statement": "㿱（xué）：㿱＝皮（形旁）＋折（聲旁）。《集韻》「枯也，一曰撮取皮也」；《字彙補》「亂也」。 橫向：①折損：㿱（皮）枯／撮皮｜枯（木）枯｜剝（刀）剝。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-412",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "狾本義：狾＝犬（形旁）＋折（聲旁）",
+   "statement": "狾（zhì）：狾＝犬（形旁）＋折（聲旁）。《說文》「狂犬也」——瘋狗。《春秋傳》「狾犬入華臣氏之門」。 橫向：①折損：狾（犬）瘋狗｜狂（犬）狂｜猘（犬）猘。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-413",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逝本義：逝＝辵（形旁）＋折（聲旁）",
+   "statement": "逝（shì）：逝＝辵（形旁）＋折（聲旁）。《說文》「往也」過往；《正韻》「亡也」——一去不返。 橫向：①折損：逝（辵）往｜往（彳）往｜徂（彳）徂。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-414",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哲本義：哲（悊嚞埑）＝口（形旁）＋折（聲旁）",
+   "statement": "哲（zhé）：哲（悊嚞埑）＝口（形旁）＋折（聲旁）。《說文》「知也」——能把难事解开，即智慧。 橫向：②分明：哲（口）智｜悊（心）敬｜晢（日）明。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-415",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晢本義：晢（晣）＝日（形旁）＋折（聲旁）",
+   "statement": "晢（zhé）：晢（晣）＝日（形旁）＋折（聲旁）。《說文》「昭晣，明也」；《廣韻》「星光也」。 橫向：②分明：晢（日）明｜昭（日）昭｜晰（日）晰。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-416",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䀸本義：䀸（䀿）＝目（形旁）＋折（聲旁）",
+   "statement": "䀸（zhì）：䀸（䀿）＝目（形旁）＋折（聲旁）。《玉篇》「瞥也」；《廣韻》「目光也」；《類篇》「目美也」。 橫向：②分明：䀸（目）瞥／目明｜瞥（目）瞥｜睇（目）睇。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-417",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悊本義：悊＝心（形旁）＋折（聲旁）",
+   "statement": "悊（zhé）：悊＝心（形旁）＋折（聲旁）。《說文》「敬也」；《玉篇》「與哲同」。 橫向：②分明：悊（心）敬／智｜哲（口）哲｜敬（攴）敬。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-418",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誓本義：誓＝言（形旁）＋折（聲旁）",
+   "statement": "誓（shì）：誓＝言（形旁）＋折（聲旁）。《說文》「約束也」——斬草木為誓，相互約束。 橫向：③彎曲：誓（言）約束｜約（糸）約｜盟（皿）盟。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-419",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娎本義：娎（𡝊）＝女（形旁）＋折（聲旁）",
+   "statement": "娎（xiè）：娎（𡝊）＝女（形旁）＋折（聲旁）。《說文》「娎㛍也，洋洋自得」；《玉篇》「喜也」。 橫向：③彎曲：娎（女）自得｜喜（口）喜｜嫻（女）嫻。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-420",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䋢本義：䋢＝糸（形旁）＋折（聲旁）",
+   "statement": "䋢（biē）：䋢＝糸（形旁）＋折（聲旁）。《說文》「扁緒也，一曰弩腰鉤帶」——編繩、弓弩腰帶；《集韻》「禦左回曰䋢」。 橫向：③彎曲：䋢（糸）編繩／鉤帶｜繩（糸）繩｜結（糸）結。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-421",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䩢本義：䩢＝革（形旁）＋折（聲旁）",
+   "statement": "䩢（zhì）：䩢＝革（形旁）＋折（聲旁）。《玉篇》「刀鞞」刀鞘；dá 通「靼」，柔軟皮革。 橫向：①折損：䩢（革）刀鞘／柔皮｜鞘（革）鞘｜韃（革）韃。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-422",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "浙本義：浙＝水（形旁）＋折（聲旁）",
+   "statement": "浙（zhè）：浙＝水（形旁）＋折（聲旁）。《說文》「江，水東至會稽山陰為浙江」即錢塘江，潮湧如折；《廣韻》「浙米」淘米。 橫向：①折損：浙（水）江潮／淘米｜潮（水）潮｜折（斤木）折。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」（第369部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
