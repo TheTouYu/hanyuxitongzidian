@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡易部第二10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-373",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睗本義：睗＝目（形旁）＋易（聲旁）",
+   "statement": "睗（shì）：睗＝目（形旁）＋易（聲旁）。《說文》「目疾視也」——急速地看、眨巴眼；或同「賜」。 橫向：①改易：睗（目）疾視｜賜（貝）賜｜眴（目）眴。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-374",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踢本義：踢（迭）＝足（形旁）＋易（聲旁）",
+   "statement": "踢（tī）：踢（迭）＝足（形旁）＋易（聲旁）。《正字通》「以足蹵物」——用腳擊物；dié 更迭。 橫向：①改易：踢（足）踢｜蹵（足）蹴｜迭（辵）迭。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-375",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "掦本義：掦＝手（形旁）＋易（聲旁）",
+   "statement": "掦（tì）：掦＝手（形旁）＋易（聲旁）。《正字通》「挑掦也，亦借剔，與揚別」——挑出。 橫向：①改易：掦（手）挑｜剔（刀）剔｜揚（手）揚。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩛿本義：𩛿（餳）＝食（形旁）＋易（聲旁）",
+   "statement": "𩛿（xíng）：𩛿（餳）＝食（形旁）＋易（聲旁）。《說文》「飴和饊者也」——飴糖和糯米粉熬成；熱軟冷硬，故从易。 橫向：①改易：𩛿（食）飴糖｜餳（食）同｜飴（食）飴。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-377",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裼本義：裼＝衣（形旁）＋易（聲旁）",
+   "statement": "裼（xì）：裼＝衣（形旁）＋易（聲旁）。本義袒露（脫衣見體）；引申繈褓、狄（赤身部族）。 橫向：①改換：裼（衣）袒｜緥（糸）繈褓｜狄（犬）狄。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-378",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㑥本義：㑥＝人（形旁）＋易（聲旁）",
+   "statement": "㑥（yì）：㑥＝人（形旁）＋易（聲旁）。《說文》「輕也，一曰交㑥」——輕慢、交易。 橫向：①改換：㑥（人）輕慢／交｜易（皿）交易｜輕（車）輕。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-379",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "埸本義：埸＝土（形旁）＋易（聲旁）",
+   "statement": "埸（yì）：埸＝土（形旁）＋易（聲旁）。《說文新附》「疆也」——田界、邊境、道路。 橫向：①改換：埸（土）田界｜疆（田）疆｜畔（田）畔。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逷本義：逷＝辵（形旁）＋狄（聲旁）",
+   "statement": "逷（tì）：逷＝辵（形旁）＋狄（聲旁）。《說文》「逖，遠也」，逷為古文逖。 橫向：①改換：逷（辵）遠｜逖（辵）同｜遠（辵）遠。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-381",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剔本義：剔＝刀（形旁）＋易（聲旁）",
+   "statement": "剔（tī）：剔＝刀（形旁）＋易（聲旁）。《說文》「解骨也」——分解骨肉；《集韻》「治也」「剃也」。 橫向：①改換：剔（刀）解骨｜剃（刀）剃｜解（角）解。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-382",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩋌本義：𩋌＝韋（形旁）＋易（聲旁）",
+   "statement": "𩋌（yì）：𩋌＝韋（形旁）＋易（聲旁）。《集韻》「素𩋌，履也」——葦編草鞋，如今涼鞋。 橫向：①改換：𩋌（韋）草鞋｜屨（尸）屨｜屩（尸）屩。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
