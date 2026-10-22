@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡400才部𢦏支余再支卂支2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bzj-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儎（字卡）",
+   "statement": "儎（zài）：《汉典》「运载的货物；运载、承受」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哉（字卡）",
+   "statement": "哉（zāi）：《说文》「言之间也」——语间虚词；《尔雅》「哉，始也」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "渽（字卡）",
+   "statement": "渽（zāi）：《集韵》水名，《禹贡》大渡水入渽——今大渡河古称。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賳（字卡）",
+   "statement": "賳（zāi）：《字彙》「货也，财也」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "栽（字卡）",
+   "statement": "栽（zài）：《说文》「筑墙长版也」；又「移植也，稚曰栽，长曰树」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戴（字卡）",
+   "statement": "戴（dài）：《说文》「分物得增益曰戴」；《释名》「载也，载之于头也」——载之于头。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀻（字卡）",
+   "statement": "瀻（dài）：《集韵》「酒不清」——酒面浮糟。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襶（字卡）",
+   "statement": "襶（dài）：《集韵》「褦襶，不晓事」——暑日盛服请见，不通世故。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酨（字卡）",
+   "statement": "酨（zài）：《说文》「酢浆也」——醋、坏酒。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩯰（字卡）",
+   "statement": "𩯰（jié）：《说文》「束发少也」——剪发；又「露髻曰𩯰」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洅（字卡）",
+   "statement": "洅（zài）：《说文》「雷震洅洅也」——雷声震动。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzj-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "迅（字卡）",
+   "statement": "迅（xùn）：《说文》「疾也，从辵卂声」——疾速。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
