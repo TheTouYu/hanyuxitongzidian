@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡徹部首10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-391",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徹本義：徹＝又＋鬲之象意，本義撤去食器（吃完收鬲）；引申拆除、通達、透明",
+   "statement": "徹（chè）：徹＝又＋鬲之象意，本義撤去食器（吃完收鬲）；引申拆除、通達、透明。 橫向：撤除：徹（又鬲）撤｜撤（手）撤｜澈（水）澄。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-392",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勶本義：勶（撤）＝力＋徹（形旁），徹亦聲",
+   "statement": "勶（chè）：勶（撤）＝力＋徹（形旁），徹亦聲。《說文》「發也」——發射；《集韻》「撤，去也」。 橫向：①撤除：勶（力）發｜撤（手）撤｜發（弓）發。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-393",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轍本義：轍（軼）＝車＋徹省聲",
+   "statement": "轍（zhé）：轍（軼）＝車＋徹省聲。《說文新附》「車跡也」——車輪碾出的痕跡，亦可指道路。 橫向：②空盡：轍（車）車跡｜軌（車）軌｜迹（辵）跡。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-394",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澈本義：澈（𤁲）＝水（形旁）＋徹（聲旁）",
+   "statement": "澈（chè）：澈（𤁲）＝水（形旁）＋徹（聲旁）。《玉篇》「水澄也」水清；《正字通》「澈者，水竆也」水盡。 橫向：②空盡：澈（水）清澈｜澄（水）澄｜清（水）清。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-395",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞮本義：瞮＝目（形旁）＋徹（聲旁）",
+   "statement": "瞮（chè）：瞮＝目（形旁）＋徹（聲旁）。《集韻》「明也」——目明。 橫向：②空盡：瞮（目）目明｜㬚（日）日明｜明（日）明。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-396",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨅊本義：𨅊（𨇂）＝足（形旁）＋徹（聲旁）",
+   "statement": "𨅊（zhé）：𨅊（𨇂）＝足（形旁）＋徹（聲旁）。《集韻》「轍或从足」車跡；chè 又通「徹」。 橫向：②空盡：𨅊（足）車跡｜轍（車）轍｜跡（足）跡。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-397",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㬚本義：㬚（𦠣）＝日（形旁）＋徹（聲旁）",
+   "statement": "㬚（chè）：㬚（𦠣）＝日（形旁）＋徹（聲旁）。《集韻》「明也」——日光透亮。 橫向：②空盡：㬚（日）日明｜瞮（目）目明｜徹（彳）通。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-398",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䒆本義：䒆＝舟（形旁）＋徹（聲旁）",
+   "statement": "䒆（chè）：䒆＝舟（形旁）＋徹（聲旁）。《集韻》「船行也」；《玉篇》「舟也」。 橫向：②空盡：䒆（舟）船行｜舟（舟）舟｜航（舟）航。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-399",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠾀本義：𠾀＝口（形旁）＋轍聲",
+   "statement": "𠾀（zhé）：𠾀＝口（形旁）＋轍聲。《篇海》「語不止貌」——話說個不停。 橫向：①撤除：𠾀（口）語不止｜轍（車）轍｜喋（口）喋。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-400",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦅄本義：𦅄＝糸（形旁）＋徹聲",
+   "statement": "𦅄（zhé）：𦅄＝糸（形旁）＋徹聲。《集韻》「衣破」。 橫向：①撤除：𦅄（糸）衣破｜破（石）破｜裂（衣）裂。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」（第368部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
