@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡396几部清397启部头2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "btd-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䢳（字卡）",
+   "statement": "䢳（jǐ）：《说文》「地名」。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "机（字卡）",
+   "statement": "机（jī）：《说文》「木也」；郭注似榆，可烧以粪稻田，即榿木。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麂（字卡）",
+   "statement": "麂（jǐ）：《说文》「大麋也，狗足」；《龙龛》黄鹿；其角如几。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肌（字卡）",
+   "statement": "肌（jī）：《说文》「肉也」；《正字通》「人身四支附骨者皆曰肌」。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㞦（字卡）",
+   "statement": "㞦（jǐ）：《说文》「山也，或曰弱水之所出」。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤜝（字卡）",
+   "statement": "𤜝（jǐ）：《广韵》「兽名，如兔喙、蛇尾，见则有蝗灾」。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "飢（字卡）",
+   "statement": "飢（jī）：《说文》「饿也」；《尔雅》「谷不熟为饥」；原稿谓饥饿无力而须凭几。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凥（字卡）",
+   "statement": "凥（jū）：从尸得几而止，《说文》「处也」；《玉篇》与居同。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "処（字卡）",
+   "statement": "処（chǔ）：从几从夂，《说文》「止也，得几而止」；即处之古字。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "启（字卡）",
+   "statement": "启（qǐ）：从户从口，象意门被打开；《说文》「开也」。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䏿（字卡）",
+   "statement": "䏿（qǐ）：《说文》「肥肠也」；《广雅》腨也——小腿肚，分张如打开的门。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btd-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棨（字卡）",
+   "statement": "棨（qǐ）：《说文》「传，信也」，木制通行符信；形如戟有幡书之，吏执为信。",
+   "boundary": "源自《系統漢語》第397部「启部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
