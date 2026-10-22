@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡400才部余10字2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bch-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䴭（字卡）",
+   "statement": "䴭（cái）：《说文》「饼𥶶也。从麦才声」——酒麴，饼状发酵之块。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䊷（字卡）",
+   "statement": "䊷（zī）：《集韵》「缁，《说文》帛黑也；《周礼》七入为缁。或作䊷、纯」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釮（字卡）",
+   "statement": "釮（qí）：《字彙》「利也」——锋锐之器用。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣘥（字卡）",
+   "statement": "𣘥（bì）：《唐韵》「蒲计切，音薛。木名」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢲾（字卡）",
+   "statement": "𢲾（bì）：《字彙》「批也」——手批击。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䞗（字卡）",
+   "statement": "䞗（cāi）：《说文》「疑之，等䞗而去也」——因猜疑而迟滞以行；《广韵》「起去也」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠮹（字卡）",
+   "statement": "𠮹（cái）：《字海》「全，都」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤿋（字卡）",
+   "statement": "𤿋（què）：《字彙补》「皮皴也」——皮肤开裂。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茬（字卡）",
+   "statement": "茬（chí）：《说文》「艸貌，从艸在声」；《玉篇》「艸盛貌」；今指收割后留地的短茎根。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bch-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢙮（字卡）",
+   "statement": "𢙮（kàn）：《五音篇海》「苦陷切，音勘。忆也」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
