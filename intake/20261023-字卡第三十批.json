@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡益部10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-286",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "益本義：从皿中水滿形，水滿溢出（溢之初文）",
+   "statement": "益（yì）甲骨文从皿中水滿形，與「易」同源，象水滿溢之狀——《說文》「器滿也」，「溢」之初文；轉義富饒、增加、助益（《說文》「益，饒也」）。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-287",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溢本義：从水益聲，器滿也",
+   "statement": "溢（yì）从水、益聲，轉注。《說文》「器滿也」；《小爾雅》「沒也」水氾濫淹沒；《爾雅》「盈也」；《集韻》「米二十四分升之一」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-288",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齸本義：从齒益聲，鹿麋粻（反芻）",
+   "statement": "齸（yì）从齒、益聲，轉注。《說文》「鹿麋粻」——麋鹿反芻嚼食，意即溢出而食；亦指反芻胃（《集韻》「麋鹿受食處」）。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-289",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鎰本義：从金益聲，金之數（二十兩）",
+   "statement": "鎰（yì）从金、益聲，轉注。《玉篇》「二十兩」；《集韻》「二十四兩為鎰，通作溢」——金之滿數。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-290",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賹本義：从貝益聲，記人物也",
+   "statement": "賹（ài）从貝、益聲，轉注。《廣韻》「記人物也」；商代金文从賏（朋），成串之貝。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-291",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縊本義：从糸益聲，經也（勒死）",
+   "statement": "縊（yì）从糸、益聲，轉注。《說文》「經也」（引《春秋傳》「夷薑縊」）；《廣雅》「絞也」——用繩索勒死。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-292",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "搤本義：从手益聲，捉也",
+   "statement": "搤（è）从手、益聲，轉注。《說文》「捉也」；《集韻》「扼也，持也」；yì 拉也。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-293",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪕶本義：从鼠益聲，鼠屬（黃鼠狼）",
+   "statement": "𪕶（yì）从鼠、益聲，轉注。《說文》「鼠屬，或从豸」——疑指黃鼠狼，捕獵物先吸血如先縊之。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-294",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蠲本義：从虫益聲，馬蠲（百足蟲）",
+   "statement": "蠲（juān）从虫、益聲，轉注。《說文》「馬蠲也」百足蟲（線蟲），觸而蜷縮如鐲，故音同卷；《玉篇》「明也、除也、疾也」；《廣韻》「潔也」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-295",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷁本義：从鳥益聲，水鳥（魚鷹）",
+   "statement": "鷁（yì）从鳥、益聲，轉注。《正字通》「鶂，水鳥，高飛似鴈，色蒼白」——疑即魚鷹，漁民項系繩使不能吞魚，故有縊意。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「益部」（第364部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
