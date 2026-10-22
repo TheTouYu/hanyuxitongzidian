@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡夕部第三10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-336",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姳本義：姳＝女（形旁）＋名（聲旁）",
+   "statement": "姳（mǐng）：姳＝女（形旁）＋名（聲旁）。《集韻》引「好也」。 橫向：①朦朧：姳（女）好｜佲（人）好｜酩（酉）醉。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-337",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㚚本義：㚚＝大（形旁）＋名（聲旁）",
+   "statement": "㚚（kōng）：㚚＝大（形旁）＋名（聲旁）。《集韻》「大也」；kuāng《篇海》「犬聲也」——狗叫。 橫向：①朦朧：㚚（大）大／犬聲｜名（口）名｜吠（犬）吠。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-338",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䊅本義：䊅＝米（形旁）＋名（聲旁）",
+   "statement": "䊅（míng）：䊅＝米（形旁）＋名（聲旁）。《集韻》「漬米也」——浸米。 橫向：①朦朧：䊅（米）漬米｜𥿨（糸）細絲｜酩（酉）醉。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-339",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥿨本義：𥿨＝糸（形旁）＋名（聲旁）",
+   "statement": "𥿨（míng）：𥿨＝糸（形旁）＋名（聲旁）。《集韻》「細絲也」；《類篇》「絲也」。 橫向：①朦朧：𥿨（糸）細絲｜䊅（米）漬米｜絲（糸）絲。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-340",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銘本義：銘＝金（形旁）＋名（聲旁）",
+   "statement": "銘（míng）：銘＝金（形旁）＋名（聲旁）。《釋名》「銘，名也，記名其功也」——記載、刻鏤；《禮·檀弓》「銘，明旌也」。 橫向：②名字：銘（金）刻名｜名（口）名｜旌（㫃）明旌。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-341",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洺本義：洺＝水（形旁）＋名（聲旁）",
+   "statement": "洺（míng）：洺＝水（形旁）＋名（聲旁）。《說文新附》「水名」洺河（河北武安），季節性強；疑指水線如銘刻。 橫向：②名字：洺（水）水名｜銘（金）刻｜河（水）河。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-342",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詺本義：詺＝言（形旁）＋名（聲旁）",
+   "statement": "詺（míng）：詺＝言（形旁）＋名（聲旁）。《廣韻》「詺目」；《增韻》「辨別物名」——直言、真義。 橫向：②名字：詺（言）辨名｜名（口）名｜辨（辛）辨。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-343",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪗸本義：𪗸＝齒（形旁）＋名（聲旁）",
+   "statement": "𪗸（míng）：𪗸＝齒（形旁）＋名（聲旁）。《玉篇》「莫丁切，音名，齒也」。 橫向：②名字：𪗸（齒）齒｜齒（齒）齒｜名（口）名。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-344",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肸本義：肸＝十（形旁）＋䏌（聲旁）",
+   "statement": "肸（xì）：肸＝十（形旁）＋䏌（聲旁）。《說文》「響，布也」；《康典》「肸蠁，盛作也」——聲響散布、盛作。 橫向：行列：肸（十）聲布｜佾（人）行列｜響（音）響。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-345",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佾本義：佾＝人（形旁）＋䏌（聲旁）",
+   "statement": "佾（yì）：佾＝人（形旁）＋䏌（聲旁）。《說文新附》「舞行列也」；行數人數縱橫皆同故曰佾（《左傳》「始用六佾」）。 橫向：行列：佾（人）舞列｜肸（十）聲布｜列（刀）列。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
