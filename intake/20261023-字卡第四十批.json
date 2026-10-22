@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡易部余8条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-383",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜴本義：蜴＝虫（形旁）＋易（聲旁）",
+   "statement": "蜴（xī）：蜴＝虫（形旁）＋易（聲旁）。《廣韻》「蜥蜴」——變色龍、四腳蛇；《集韻》「楚謂欺慢為脈蜴」。 橫向：①改易：蜴（虫）蜥蜴｜蜥（虫）蜥｜蛇（虫）蛇。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-384",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鯣本義：鯣＝魚（形旁）＋易（聲旁）",
+   "statement": "鯣（yì）：鯣＝魚（形旁）＋易（聲旁）。《篇海》「鱺鯣」魚名，疑指章魚，能變色。 橫向：①改易：鯣（魚）魚名｜鰂（魚）烏賊｜魷（魚）魷。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-385",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儩本義：儩＝人（形旁）＋賜聲",
+   "statement": "儩（sì）：儩＝人（形旁）＋賜聲。 《集韻》「盡也」——人盡、物盡。 橫向：①改易：儩（人）盡｜賜（貝）賜｜盡（皿）盡。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-386",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "敡本義：敡＝攴（形旁）＋易（聲旁），易亦聲",
+   "statement": "敡（yì）：敡＝攴（形旁）＋易（聲旁），易亦聲。《說文》「侮也」輕侮怠慢；《廣韻》「輕簡為敡」；《廣雅》「轉也」改易。 橫向：②簡易：敡（攴）輕侮｜易（皿）簡易｜慢（心）慢。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-387",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "舓本義：舓（𦧇）＝舌（形旁）＋易（聲旁）",
+   "statement": "舓（shì）：舓（𦧇）＝舌（形旁）＋易（聲旁）。《說文》「以舌取食也」——用舌取食。 橫向：②簡易：舓（舌）舔食｜舐（舌）舐｜舔（舌）舔。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-388",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "焬本義：焬（焲焱）＝火（形旁）＋易（聲旁）",
+   "statement": "焬（xī）：焬（焲焱）＝火（形旁）＋易（聲旁）。《集韻》「乾皃」物被烘乾；yì 火光。 橫向：①改易：焬（火）烘乾／火光｜焲（火）火光｜炙（火）炙。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-389",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤟍本義：𤟍＝犬（形旁）＋易（聲旁）",
+   "statement": "𤟍（zhé）：𤟍＝犬（形旁）＋易（聲旁）。《說文》「犬張耳皃」——狗張耳、耳能轉動，即「惕」義。 橫向：①改易：𤟍（犬）張耳｜惕（心）警戒｜聳（耳）聳。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-390",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧀩本義：𧀩＝艸（形旁）＋賜聲",
+   "statement": "𧀩（sì）：𧀩＝艸（形旁）＋賜聲。 《說文》「艸也」。 橫向：①改易：𧀩（艸）草名｜艸（艸）草｜賜（貝）賜。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「易部」（第367部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
