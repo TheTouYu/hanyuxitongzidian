@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡400才部存支𢦏支2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bzai-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "荐（字卡）",
+   "statement": "荐（jiàn）：《说文》「荐席也，从艸存声」；《玉篇》「重也、数也、再也」——草席，引申重迭屡次。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "栫（字卡）",
+   "statement": "栫（jiàn）：《说文》「以柴木壅也」——柴木壅塞；又围也、捕鱼具。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洊（字卡）",
+   "statement": "洊（jiàn）：《玉篇》「水至也；又仍也」；《集韵》「再也」——屡次、接连。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侟（字卡）",
+   "statement": "侟（jiàn）：《正字通》「荐、荐并同」——推荐。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拵（字卡）",
+   "statement": "拵（cún）：《集韵》「据也」；又「插也」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袸（字卡）",
+   "statement": "袸（jiàn）：《类篇》「衣带」；《集韵》「衣衿」——衣襟、衣带。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臶（字卡）",
+   "statement": "臶（jiàn）：《集韵》「再至也」「重也，或作荐」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珔（字卡）",
+   "statement": "珔（jiàn）：《集韵》「玉名」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銌（字卡）",
+   "statement": "銌（zùn）：《集韵》「钻也」；《正字通》「俗鐏字」——戈柄下端的圆锥形金属套。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "截（字卡）",
+   "statement": "截（jié）：《玉篇》「𢧵，齐也、治也、断也，亦作截」。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裁（字卡）",
+   "statement": "裁（cái）：《说文》「制衣也，从衣𢦏声」；《尔雅》「节也」——剪裁、删减、度量。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzai-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "载（字卡）",
+   "statement": "载（zài）：《说文》「乘也，从车𢦏声」；《正字通》「承也、胜也」——乘坐运载，又承载。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
