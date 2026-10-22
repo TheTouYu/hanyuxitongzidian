@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡401则部+402夨部首2字2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bze-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "側（字卡）",
+   "statement": "側（cè）：《说文》「旁也，从人则声」；《字彙》「倾也、不正也、偏卧也」——旁边，又偏斜狭窄。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萴（字卡）",
+   "statement": "萴（cè）：《说文》「乌喙也，从艸则声」——附子，生于附子侧边的块根。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廁（字卡）",
+   "statement": "廁（cè）：《说文》「清也」；《玉篇》「圊溷也、杂也、次也、侧也」——厕所在正房旁，取义同侧。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰂（字卡）",
+   "statement": "鰂（zéi）：《说文》「乌鰂，鱼名」——墨鱼，见人及大鱼至则噀墨。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡍫（字卡）",
+   "statement": "𡍫（cè）：《说文》「遏遮也，从土则声」——用土阻遏遮拦，又有充塞义。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "崱（字卡）",
+   "statement": "崱（zè）：《集韵》「山连貌」「崱屴，山大貌」。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惻（字卡）",
+   "statement": "惻（cè）：《说文》「痛也，从心则声」——悲痛。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "測（字卡）",
+   "statement": "測（cè）：《说文》「深所至也，从水则声」——测量深度所到。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䈟（字卡）",
+   "statement": "䈟（chuá）：《集韵》「㔍，断也，或从斤」——割断，又割声。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍘（字卡）",
+   "statement": "鍘（zhá）：《字彙》「鍘草也」——铡刀；《集韵》「断艸刀也」。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "夨（字卡）",
+   "statement": "夨（zè）：部头本字：象人侧头之形，《说文》「倾头也，从大，象形」。",
+   "boundary": "源自《系統漢語》第402部「夨部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bze-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仄（字卡）",
+   "statement": "仄（zè）：《说文》「侧倾也，从人在厂下」，籀文从夨——狭窄倾斜，又平仄。",
+   "boundary": "源自《系統漢語》第402部「夨部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
