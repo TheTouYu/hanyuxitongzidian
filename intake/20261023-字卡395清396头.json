@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡395斯部清396几部首2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "btc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘶（字卡）",
+   "statement": "嘶（sī）：《玉篇》「噎也，马鸣也」——马鸣声嘶。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㯕（字卡）",
+   "statement": "㯕（xī）：《说文》「櫪㯕也」，用木套压手指；《正字通》谓马厩细栅如指排。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燍（字卡）",
+   "statement": "燍（sī）：《玉篇》「焦气也」，《广韵》「火焦臭也」。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簛（字卡）",
+   "statement": "簛（sī）：《集韵》「竹枝也」；shāi 即籭（筛），竹器可除粗取细。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廝（字卡）",
+   "statement": "廝（sī）：《广韵》「廝养也、役也、使也」；《集韵》「析薪养马者」。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟖（字卡）",
+   "statement": "蟖（sī）：《尔雅·释虫》「蟔，蛅蟖」——毛虫，鳞翅目幼虫。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪆁（字卡）",
+   "statement": "𪆁（sī）：《集韵》「鸒𪆁，雅乌也」——乌鸦，指其叫声嘶哑。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㽄（字卡）",
+   "statement": "㽄（sī）：《集韵》引《字林》「罋破也」；《方言》瓦破声。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䔮（字卡）",
+   "statement": "䔮（sī）：《集韵》「艸名，生水中，华可食」。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥕶（字卡）",
+   "statement": "𥕶（sī）：《集韵》引《博雅》「磨也」，通作磃。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鐁（字卡）",
+   "statement": "鐁（sī）：《集韵》「平木器名」；《释名》「鐁，鐁弥也……以此鐁弥其上而平之」——刨子。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "几（字卡）",
+   "statement": "几（jī）：象几案形，古人凭坐之具；《说文》「踞几也」。甲骨文上加小点，表示体积小或放置小物。",
+   "boundary": "源自《系統漢語》第396部「几部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
