@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡索部余+束部首 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-485",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪍟本義：𪍟＝麥（形旁）＋索（聲旁）",
+   "statement": "𪍟（suǒ）：𪍟＝麥（形旁）＋索（聲旁）。《篇海》「𪍺𪍟也」——麻花、饊子一類油炸的索狀麵食（原稿 p47 配圖「饊子」）。 橫向：①索狀：𪍟（麥）饊子（麵如索）｜饊（食）饊｜麵（麥）麵。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-486",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩄜本義：𩄜（䨛）＝雨（形旁）＋索（聲旁）",
+   "statement": "𩄜（sè）：𩄜（䨛）＝雨（形旁）＋索（聲旁）。《集韻》「䨛，雨也」；「䨛䨛，小雨，一曰霰皃」——雨絲如索。 橫向：①索狀：𩄜（雨）小雨／霰｜霰（雨）霰｜雨（雨）雨。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-487",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡩡本義：𡩡＝宀（形旁）＋索（聲旁）",
+   "statement": "𡩡（suǒ）：𡩡＝宀（形旁）＋索（聲旁）。《說文》「入家𢯱也」入室搜索；《廣韻》「盡也、散也」；《集韻》「寂寞也」——**搜尽则寂**。 橫向：②搜索：𡩡（宀）搜索／寂寞｜搜（手）搜｜索（糸）索。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-488",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢱢本義：𢱢＝手（形旁）＋索（聲旁）",
+   "statement": "𢱢（suǒ）：𢱢＝手（形旁）＋索（聲旁）。《集韻》「摸𢱢也」摸索；sè《博雅》「取也、求也」，又「擇也」。 橫向：②搜索：𢱢（手）摸索／取擇｜摸（手）摸｜索（糸）索。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-489",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩌈本義：𩌈＝革（形旁）＋索（聲旁）",
+   "statement": "𩌈（suǒ）：𩌈＝革（形旁）＋索（聲旁）。《廣韻》「𩍜履也」；《釋名》「𩌈𩍜，鞾之缺前壅者，胡中所名也」——鞋頭不加護套的靴。 橫向：①索狀：𩌈（革）靴｜鞾（革）靴｜履（履）履。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-490",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠋲本義：𠋲＝人（形旁）＋索（聲旁）",
+   "statement": "𠋲（sè）：𠋲＝人（形旁）＋索（聲旁）。《集韻》「㒀𠋲，惡也」。 橫向：②搜索：𠋲（人）惡｜惡（心）惡｜㒀（人）㒀。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-491",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䖛本義：䖛＝虎（形旁）＋索（聲旁）",
+   "statement": "䖛（suǒ）：䖛＝虎（形旁）＋索（聲旁）。《玉篇》「虎皃」——虎紋如索。 橫向：①索狀：䖛（虎）虎貌｜虎（虍）虎｜彪（虎）彪。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-492",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嗦本義：嗦＝口（形旁）＋索（聲旁）",
+   "statement": "嗦（suō）：嗦＝口（形旁）＋索（聲旁）。囉嗦、哆嗦；原稿「本義當指用嘴長吸狀」——如「嗦粉條」，索狀之物入口。 橫向：③索聲：嗦（口）長吸／囉嗦｜吸（口）吸｜嗖（口）嗖。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-493",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩘝本義：𩘝＝風（形旁）＋索（聲旁）",
+   "statement": "𩘝（suǒ）：𩘝＝風（形旁）＋索（聲旁）。《集韻》「風聲」——風如索之鳴。 橫向：③索聲：𩘝（風）風聲｜風（風）風｜颾（風）颾。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-494",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧛻本義：𧛻＝衣（形旁）＋索（聲旁）",
+   "statement": "𧛻（suǒ）：𧛻＝衣（形旁）＋索（聲旁）。《集韻》「𧛻𧛻，衣聲」——衣索之聲。 橫向：③索聲：𧛻（衣）衣聲｜衣（衣）衣｜裘（衣）裘。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「索部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-495",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "束本義：束＝从木从〇，〇象捆纏，象意把散亂木柴捆在一起",
+   "statement": "束（shù）：束＝从木从〇，〇象捆纏，象意把散亂木柴捆在一起。轉義：捆束、聚集、約束、結束。 橫向：①捆束：束（囗木）捆｜捆（手）捆｜縛（糸）縛。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「束部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-496",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "欶本義：欶（漱）＝欠（形旁）＋束（聲旁）",
+   "statement": "欶（shuò）：欶（漱）＝欠（形旁）＋束（聲旁）。《說文》「吮也」——吮吸；又漱口。 橫向：②聚集：欶（欠）吮吸／漱｜吮（口）吮｜漱（水）漱。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「束部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
