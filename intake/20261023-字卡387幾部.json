@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡387幾部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "br-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幾（字卡）",
+   "statement": "幾 jī／jǐ：部頭从戍𢆶聲，象意細微卻十分重要的事物，表要害關鍵（《法言》「為政有幾」李軌注「幾，要也」）；引申跡象、危機、近、幾何。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "機（字卡）",
+   "statement": "機 jī：从木幾聲，《說文》主發謂之機（居衣切）；樞機戶軸、機杼織具、桔槔、弩牙、變化關鍵。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鐖（字卡）",
+   "statement": "鐖 jī／qí：从金，《玉篇》鉤逆鋩（鉤上倒刺、弩之扣手）；qí 又大鐮；原稿配大河村骨魚鉤圖。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "磯（字卡）",
+   "statement": "磯 jī：从石幾聲，《說文》大石激水也；水中磧、露出水面的岩石灘，引申激怒觸犯。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譏（字卡）",
+   "statement": "譏 jī：从言幾聲，《說文》誹也，隱晦的批評——微言而大義；《廣雅》譴也諫也問也。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饑（字卡）",
+   "statement": "饑 jī：从食幾聲，《說文》穀不孰為饑，五穀不熟食物缺乏；飢則為餓。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鞿（字卡）",
+   "statement": "鞿 jī：从革幾聲，《玉篇》韁在口（馬嚼子）；《集韻》馬絡頭，牽制束縛之意。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟣（字卡）",
+   "statement": "蟣 jǐ／qí：从虫幾聲，《說文》蝨子也（蝨卵）；一曰齊謂蛭曰蟣（螞蟥）。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璣（字卡）",
+   "statement": "璣 jī：从玉幾聲，《說文》珠不圜也（小珠）；《正字通》渾天儀「璣為轉運」；亦北斗第三星。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畿（字卡）",
+   "statement": "畿 jī：从田幾省聲，《說文》天子千里地；《增韻》門限，引申疆域界限。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禨（字卡）",
+   "statement": "禨 jī／jì：从示幾聲，《集韻》祥也祅祥也，祭鬼神以求福；《正字通》祟也；jì 沐酒。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "br-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "穖（字卡）",
+   "statement": "穖 jǐ／jì：从禾幾聲，《說文》禾穖也，禾穗子實如成串珠璣；jì 稠也。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
