@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡394其部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bt9-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "其（字卡）",
+   "statement": "其（qí）：甲骨文象箕形，金文加丌表声兼意，后借作代词与语气词；《说文》「簸也」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "基（字卡）",
+   "statement": "基（jī）：《说文》「墙始也」，建筑物的根脚；《方言》「基，据也，在下，物所依据也」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祺（字卡）",
+   "statement": "祺（qí）：《说文》「吉也」，吉祥；籀文从基。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棋（字卡）",
+   "statement": "棋（qí）：《说文》「博棊也」，比赛棋具；jī 又作根柢、根基。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琪（字卡）",
+   "statement": "琪（qí）：《集韵》玉属；《尔雅》「东方之美者，有医无闾之珣玗琪」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淇（字卡）",
+   "statement": "淇（qí）：《说文》「水，出河内共北山，东入河」，即淇河。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旗（字卡）",
+   "statement": "旗（qí）：《说文》「熊旗五游，以象罚星，士卒以为期」；《释名》「熊虎为旗，军将所建」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "綦（字卡）",
+   "statement": "綦（qí）：《说文》「帛苍艾色」，未嫁女所服；《仪礼》注「綦，屦系也，所以拘止屦」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騏（字卡）",
+   "statement": "騏（qí）：《说文》「马青骊，文如博棊也」，马身纹路交错如棋盘。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "期（字卡）",
+   "statement": "期（qī）：《说文》「会也」，约会；《玉篇》当也、要也、时也、契约也。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麒（字卡）",
+   "statement": "麒（qí）：《说文》「仁兽也，麋身牛尾一角」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt9-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萁（字卡）",
+   "statement": "萁（qí）：《说文》「豆茎也」，豆秆；《韵会》菜似蕨。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
