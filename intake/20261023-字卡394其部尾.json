@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡394其部尾2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bta-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤪌（字卡）",
+   "statement": "𤪌（qí）：《说文》「弁饰，往往冒玉也」，徐锴谓「缀玉于武冠，若棊子之列布」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "稘（字卡）",
+   "statement": "稘（jī）：《说文》「复其时也」，引《虞书》「稘三百有六旬」，即「期」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簊（字卡）",
+   "statement": "簊（jī）：《玉篇》「居其切，音基」，竹名。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "帺（字卡）",
+   "statement": "帺（qí）：《集韵》引《说文》「帛苍艾色」，未嫁女所服；jì 又系也。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粸（字卡）",
+   "statement": "粸（qí）：《集韵》「饼属，亦作𪍀」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜝（字卡）",
+   "statement": "蜝（qí）：《集韵》「彭蜝，虫名，似蠏而小，不可食」；蜞为水蛭，通作蜝。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䳢（字卡）",
+   "statement": "䳢（qí）：《集韵》「小鴈」，或指鵂鶹（猫头鹰）。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錤（字卡）",
+   "statement": "錤（jī）：《广韵》「鎡錤，大鉏」——大锄，指其宽大如箕。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䑴（字卡）",
+   "statement": "䑴（qí）：《博雅》「䑴艃，舟也」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惎（字卡）",
+   "statement": "惎（jì）：《说文》「毒也」，引《周书》「来就惎惎」；《广韵》谋也。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諅（字卡）",
+   "statement": "諅（jì）：《说文》「忌也」，引《周书》「上不諅于凶德」；jī 谋也。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bta-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "欺（字卡）",
+   "statement": "欺（qī）：《说文》「诈欺也」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
