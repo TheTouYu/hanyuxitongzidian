@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡401贼族余+402夨部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bzf-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賊（字卡）",
+   "statement": "賊（zéi）：《玉篇》「盗也、伤害人也」；《说文》「败也，从戈则声」——不正当使用武力，违法犯罪。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱡（字卡）",
+   "statement": "鱡（zéi）：《集韵》「《说文》乌鰂，鱼名，或从贼、从即」——墨鱼、乌贼鱼。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蠈（字卡）",
+   "statement": "蠈（zéi）：《集韵》「蠈，蝗食禾节者，或从则」。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨆎（字卡）",
+   "statement": "𨆎（zéi）：《集韵》「践害之也」。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦽒（字卡）",
+   "statement": "𦽒（zéi）：《玉篇》「木𦽒草」；《本草纲目》「此草有节而糙涩，治木骨者用之磋擦则光净，犹云木之贼也」——木贼草。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣿐（字卡）",
+   "statement": "𣿐（zé）：《玉篇》「测也」；《正字通》「溅字之讹」。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠷌（字卡）",
+   "statement": "𠷌（jī）：《正字通》「同喞」；《字彙补》「音则」。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䶡（字卡）",
+   "statement": "䶡（shí）：《篇海》「咬声」；《正字通》「俗齰字，因声近而讹」。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠗧（字卡）",
+   "statement": "𠗧（sī）：《玉篇》「古文凘字」——解冻后流动的冰块。",
+   "boundary": "源自《系統漢語》第401部「则部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昃（字卡）",
+   "statement": "昃（zè）：《说文》「日在西方时，侧也，从日仄声」——太阳偏西。",
+   "boundary": "源自《系統漢語》第402部「夨部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "奊（字卡）",
+   "statement": "奊（xié）：《说文》「头衺骫奊态也」——头不正貌；又指胸心狭隘、性情乖戾。",
+   "boundary": "源自《系統漢語》第402部「夨部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bzf-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捑（字卡）",
+   "statement": "捑（zè）：《集韵》「攴也」——小击。",
+   "boundary": "源自《系統漢語》第402部「夨部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
