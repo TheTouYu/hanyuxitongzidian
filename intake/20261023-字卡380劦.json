@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡380劦部8字 2026-10-23",
+ "risk": "medium",
+ "claims": [
+  {
+   "id": "zk-380-01",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劦（xié）劦部字卡：力之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】劦（xié）属劦部。劦三力相叠，象三人并耕；引申同心协力、急、力不辍；古与「十」通用。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「劦」为落点：力、耒、並耕；同一并力协同之象，形符各定落点。\n\n【聲母義】三耒并插，取「合力」一面。",
+   "boundary": "字卡释字，第380部「劦部」；劦依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380-02",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "協（xié）劦部字卡：十之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】協（xié）属劦部。協从劦从十（《說文》「眾之同和也」），众口同声、众力同和；甲骨文或从㹜（两犬耦耕）。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「協」为落点：十、眾、和；同一并力协同之象，形符各定落点。\n\n【聲母義】众力合于一，取「同和」一面。",
+   "boundary": "字卡释字，第380部「劦部」；協依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380-03",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拹（xié）劦部字卡：手之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】拹（xié）属劦部。拹从手劦聲（《說文》「折也，一曰拉也」），摧折、拉折。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「拹」为落点：手、折、拉；同一并力协同之象，形符各定落点。\n\n【聲母義】以力合而折之，取「并力」一面。",
+   "boundary": "字卡释字，第380部「劦部」；拹依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380-04",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恊（xié）劦部字卡：心之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】恊（xié）属劦部。恊从劦从心（《說文》「同心之和」），亦通「協」；《博雅》「怯也」一训存异。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「恊」为落点：心、同、和；同一并力协同之象，形符各定落点。\n\n【聲母義】心同力合，取「同」一面。",
+   "boundary": "字卡释字，第380部「劦部」；恊依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380-05",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勰（xié）劦部字卡：思之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】勰（xié）属劦部。勰从劦从思（《說文》「同思之龢也」），思虑相合。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「勰」为落点：思、合、龢；同一并力协同之象，形符各定落点。\n\n【聲母義】思虑相合，取「同」一面。",
+   "boundary": "字卡释字，第380部「劦部」；勰依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380-06",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤙒（xié）劦部字卡：牛之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】𤙒（xié）属劦部。𤙒从牛劦聲，《玉篇》「牛健」，《廣韻》「𤙒犍」即阉牛。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「𤙒」为落点：牛、健、犍；同一并力协同之象，形符各定落点。\n\n【聲母義】两牛耦耕并力，取「并力」一面。",
+   "boundary": "字卡释字，第380部「劦部」；𤙒依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380-07",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢂐（xié）劦部字卡：巾之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】𢂐（xié）属劦部。𢂐从巾劦聲，《廣韻》「束帶」，束带之属。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「𢂐」为落点：巾、束、帶；同一并力协同之象，形符各定落点。\n\n【聲母義】束而合之，取「合」一面。",
+   "boundary": "字卡释字，第380部「劦部」；𢂐依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-380-08",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "脅（xié）劦部字卡：肉之協",
+   "statement": "【字根本義】劦部部头甲骨文从力之三叠，「力」为耕田之耒，三叠象三人并耕：并排插耒、同时翻土，借土壤板结性省力，故须喊号子（下或从口），引申同心协力；音源即插土之声。\n\n【字根】脅（xié）属劦部。脅从肉劦聲（《說文》「兩膀也」），两腋下之肋；引申胁迫、威逼。\n\n【形旁與聲旁】形旁定类，声旁「劦」取比喻义——象三人并耒、同时发力一样。\n\n【横向比較】以「脅」为落点：肉、腋、迫；同一并力协同之象，形符各定落点。\n\n【聲母義】两膀夹身，取「夹合」一面。",
+   "boundary": "字卡释字，第380部「劦部」；脅依原稿该条训释属协同一系。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
