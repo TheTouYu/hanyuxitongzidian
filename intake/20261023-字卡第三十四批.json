@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡夕部第二10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-326",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥝘本義：𥝘＝禾（形旁）＋夕（聲旁）",
+   "statement": "𥝘（yǒu）：𥝘＝禾（形旁）＋夕（聲旁）。《海篇》「音酉，謂穀不成也」——穀不結實。 橫向：①夜物：𥝘（禾）穀不成｜秕（禾）秕｜酉（酉）酉。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-327",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧖪本義：𧖪＝血（形旁）＋夕（聲旁）",
+   "statement": "𧖪（qíng）：𧖪＝血（形旁）＋夕（聲旁）。《字彙補》「巨靈切，音擎，見定也」。 橫向：①夜物：𧖪（血）見定｜定（宀）定｜擎（手）擎。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-328",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡖋本義：𡖋（亦掖）＝夕（形旁）＋亦",
+   "statement": "𡖋（yì）：𡖋（亦掖）＝夕（形旁）＋亦。酒官碑「南由市入為閽，北抵湖出為𡖋」；楊慎曰即古「亦」字，亦古「掖」字，通閽即掖門。 橫向：③訛變：𡖋（夕）亦｜亦（亠）亦｜掖（手）掖。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-329",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釸本義：釸（矽）＝金（形旁）＋夕（聲旁）",
+   "statement": "釸（xī）：釸（矽）＝金（形旁）＋夕（聲旁）。化學元素「硅」的舊稱，源於拉丁語 Silex（燧石、石英）音譯。 橫向：②音譯：釸（金）硅｜矽（石）同｜硒（石）硒。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-330",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢗇本義：𢗇（㣿）＝心（形旁）＋夕（聲旁）",
+   "statement": "𢗇（zhuǒ）：𢗇（㣿）＝心（形旁）＋夕（聲旁）。《龍龕》「㣿的俗字，痛病也」。 橫向：③訛變：𢗇（心）痛病｜痛（疒）痛｜㣿（心）同。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-331",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣏐本義：𣏐（杓）＝木（形旁）＋夕（聲旁）",
+   "statement": "𣏐（sháo）：𣏐（杓）＝木（形旁）＋夕（聲旁）。《龍龕》「杓誤，杓正，市若反，木杓也」——形近「勺」之訛。 橫向：③訛變：𣏐（木）木杓｜杓（木）杓｜勺（勹）勺。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-332",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芕本義：芕（芍䒘）＝艸（形旁）＋夕（聲旁）",
+   "statement": "芕（sháo）：芕（芍䒘）＝艸（形旁）＋夕（聲旁）。《本草綱目》「野芕草」；疑「芍」之訛，指荸薺、芍藥、蓮子；suī 同荽。 橫向：③訛變：芕（艸）野芕｜芍（艸）芍藥｜荽（艸）荽。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-333",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㐴本義：㐴（攀）＝乙（形旁）＋夕",
+   "statement": "㐴（pān）：㐴（攀）＝乙（形旁）＋夕。 《玉篇》「俗攀字」；疑為「反」之訛。 橫向：③訛變：㐴（乙）攀｜攀（手）攀｜反（又）反。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-334",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㶤本義：㶤＝火（形旁）＋夕",
+   "statement": "㶤（chǎo）：㶤＝火（形旁）＋夕。《龍龕》「炒的俗字」。 橫向：③訛變：㶤（火）炒｜炒（火）炒｜煼（火）同。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-335",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佲本義：佲（𠋶姳）＝人（形旁）＋名（聲旁）",
+   "statement": "佲（mǐng）：佲（𠋶姳）＝人（形旁）＋名（聲旁）。《類篇》「酩酊，醉甚，或作佲」；《正字通》「好也」。 橫向：①朦朧：佲（人）醉｜酩（酉）醉｜姳（女）好。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
