@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡折部收尾+多部首6条 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-425",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧋍本義：𧋍＝虫（形旁）＋折（聲旁）",
+   "statement": "𧋍（dì）：𧋍＝虫（形旁）＋折（聲旁）。《玉篇》同「螮」虹；xué《廣韻》「江𧋍，似蝤蛑，生海中」——似蟹的海蟲。 橫向：①折損：𧋍（虫）虹／海蟹｜虹（虫）虹｜蟹（虫）蟹。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-426",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䏳本義：䏳（𦠟）＝肉（形旁）＋折（聲旁）",
+   "statement": "䏳（zhè）：䏳（𦠟）＝肉（形旁）＋折（聲旁）。《廣韻》「脟皮也」；《博雅》「胓䏳，脂也」——牛羊脂。 橫向：①折損：䏳（肉）脂｜脂（肉）脂｜肪（肉）肪。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-427",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哳本義：哳＝口（形旁）＋折（聲旁）",
+   "statement": "哳（zhā）：哳＝口（形旁）＋折（聲旁）。《廣韻》「嘲哳，鳥鳴也」——鳥聲雜亂。 橫向：①折損：哳（口）鳥鳴｜嘲（口）嘲｜噪（口）噪。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-428",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䇽本義：䇽＝竹（形旁）＋折（聲旁）",
+   "statement": "䇽（zhì）：䇽＝竹（形旁）＋折（聲旁）。《廣韻》「簟也」；《集韻》「竹席」。 橫向：①折損：䇽（竹）竹席｜簟（竹）簟｜席（巾）席。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-429",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㝂本義：㝂＝虫（形旁）＋折（聲旁）",
+   "statement": "㝂（zhì）：㝂＝虫（形旁）＋折（聲旁）。《玉篇》「蝗也」——蝗蟲後腿折；zhè《集韻》「螟蟲子」。 橫向：①折損：㝂（虫）蝗子｜蝗（虫）蝗｜螟（虫）螟。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-430",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧻸本義：𧻸（跩跇𨒧）＝走（形旁）＋折（聲旁）",
+   "statement": "𧻸（shì）：𧻸（跩跇𨒧）＝走（形旁）＋折（聲旁）。《玉篇》「踰也」跳躍——先曲腿才能跳起。 橫向：③彎曲：𧻸（走）跳躍（先曲）｜跇（足）跇｜超（走）超。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-431",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "多本義：多＝重夕（殘月二疊），象缺口極大、張開廣大，為「哆」之初文；又重夕象月缺時多、月月重複，故為數量多；或从二肉，象肉肥美",
+   "statement": "多（duō）：多＝重夕（殘月二疊），象缺口極大、張開廣大，為「哆」之初文；又重夕象月缺時多、月月重複，故為數量多；或从二肉，象肉肥美。轉義重、大、勝、餘、歪斜。 橫向：①張大：多（夕夕）多｜哆（口）張口｜侈（人）奢侈。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-432",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㝖本義：㝖（宜冝）＝宀（形旁）＋多（組件），从二肉象肉之肥美，本為「䏧」之初文；「宜」假借為適宜",
+   "statement": "㝖（yí）：㝖（宜冝）＝宀（形旁）＋多（組件），从二肉象肉之肥美，本為「䏧」之初文；「宜」假借為適宜。 橫向：②肥美：㝖（宀）宜／肥美｜宜（宀）宜｜䏧（肉）肥美。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-433",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哆本義：哆＝口（形旁）＋多（聲旁）",
+   "statement": "哆（duō）：哆＝口（形旁）＋多（聲旁）。《說文》「張口也」——張口、唇下垂；《爾雅》「離也」離散。 橫向：①張大：哆（口）張口｜侈（人）奢侈｜㗬（多）厚唇。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-434",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㗬本義：㗬＝多＋尚（形旁）",
+   "statement": "㗬（zhā）：㗬＝多＋尚（形旁）。《說文》「厚唇皃」，徐鍇「多即厚也」。 橫向：①張大：㗬（多尚）厚唇｜哆（口）張口｜厚（厂）厚。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-435",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痑本義：痑＝疒（形旁）＋多（聲旁）",
+   "statement": "痑（duò）：痑＝疒（形旁）＋多（聲旁）。《說文》「馬病也」——《詩》「痑痑駱馬」；《玉篇》「力極也」，即打哆嗦、發抖。 橫向：①張大：痑（疒）馬病／力極｜疲（疒）疲｜抖（手）抖。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-436",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侈本義：侈＝人（形旁）＋多（聲旁）",
+   "statement": "侈（chǐ）：侈＝人（形旁）＋多（聲旁）。《說文》「掩脅也，一曰奢也」——自高自大、盛氣凌人；奢侈浪費；《廣韻》「泰也、大也」。 橫向：①張大：侈（人）奢侈｜奢（大）奢｜哆（口）張。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
