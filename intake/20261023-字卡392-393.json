@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡392奠部393𡱂部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bt8-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "奠（字卡）",
+   "statement": "奠（diàn）：从酉（酒）丌声，摆酒而祭，《说文》「置祭也」。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㞟（字卡）",
+   "statement": "㞟（diàn）：《说文》「偫也」（储备），堂练切；《广韵》待也；俗用「殿」。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄭（字卡）",
+   "statement": "鄭（zhèng）：《说文》京兆县、周厉王子友所封；《释名》「郑，町也，地多平町町然」。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橂（字卡）",
+   "statement": "橂（diàn）：《集韵》「木理坚密」。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㽀（字卡）",
+   "statement": "㽀（zhèng）：《方言》「甖，秦之旧都谓之㽀」，《集韵》瓶属，盛水酒的瓦器。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "躑（字卡）",
+   "statement": "躑（zhí）：《说文》「住足也」；《广韵》「躑躅，行不进也」。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧓸（字卡）",
+   "statement": "𧓸（zhí）：《唐韵》「直炙切，音掷」，𧓸蠋虫名；《正字通》谓俗讹。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "擲（字卡）",
+   "statement": "擲（zhì）：《广韵》「投也、搔也、振也」——投、抛、腾跃。",
+   "boundary": "源自《系統漢語》第392部「奠部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡱂（字卡）",
+   "statement": "𡱂（tún）：甲骨文在臀位作标记，金文从尸肉丌，「髀也」。",
+   "boundary": "源自《系統漢語》第393部「𡱂部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殿（字卡）",
+   "statement": "殿（diàn）：从殳𡱂声，《说文》「击声也」（打屁股之刑）；《广雅》后也、《玉篇》大堂也。",
+   "boundary": "源自《系統漢語》第393部「𡱂部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥴫（字卡）",
+   "statement": "𥴫（tún）：《说文》「榜也」（捶击之具），揉制弓弩之器；diàn 打屁股的竹板。",
+   "boundary": "源自《系統漢語》第393部「𡱂部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癜（字卡）",
+   "statement": "癜（diàn）：《正字通》「风斑片也，有紫白二种」——斑如被打伤淤血的屁股。",
+   "boundary": "源自《系統漢語》第393部「𡱂部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt8-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臀（字卡）",
+   "statement": "臀（tún）：《集韵》引《说文》「髀也」，或作𦞠、𩪡。",
+   "boundary": "源自《系統漢語》第393部「𡱂部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
