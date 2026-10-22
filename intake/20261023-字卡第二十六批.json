@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡乙部12条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-245",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鳦本義：从鳥乙聲，燕也",
+   "statement": "鳦（yǐ）从鳥、乙聲，轉注，取燕。《廣韻》「燕也」——疑源於商人燕生神話，而時見蛇吞食燕卵，故以為蛇、燕相關。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-246",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "亄本義：从乙衣省聲，嗇貪也",
+   "statement": "亄（yì）从乙、衣省聲，轉注，取吞食貪婪。《方言》「亄，嗇貪也，荊汝江湘之間凡貪而不施者謂之亄」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-247",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩚂本義：从食壹聲，飰傷濕也",
+   "statement": "𩚂（饐饖，yì）从食、壹聲，轉注。《集韻》引《說文》「飰傷濕也」——食物受濕熱而腐臭。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-248",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㲸本義：从水乙聲，水涸也",
+   "statement": "㲸（xī）从水、乙聲，轉注。《字彙補》「許泣切，音吸，水涸也」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-249",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肊本義：从肉乙聲，胷骨也；氣滿",
+   "statement": "肊（臆，yǐ）从肉、乙聲，轉注。《說文》「胷骨也」；《廣韻》「氣滿」；或从意作「臆」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-250",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪖐本義：从鼻乙聲，仰鼻也",
+   "statement": "𪖐（yà/yào）从鼻、乙聲，轉注，取蛇鼻朝上。《玉篇》「仰鼻也」；《集韻》「𪖛𪖐，仰鼻也」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-251",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䎲本義：从耳乙聲，聲耴；耳垂皃",
+   "statement": "䎲（耴，yì/zhé）从耳、乙聲，轉注。《類篇》「聲耴，魚鳥之狀」；zhé「耳垂皃，秦穆公子耳垂字之曰耴」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-252",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "礼本義：从示乙聲，曲身致敬；禮之古文",
+   "statement": "礼（禮𠃞，lǐ）从示、乙聲，轉注，取曲身致敬。《集韻》「礼，《說文》履也，所以事神致福也，古作禮、𠃞」；禮从豊（豐盛食物），礼从乙——當指曲身表示尊敬。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-253",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨦂本義：从金禮聲，連鉤釣",
+   "statement": "𨦂（𨰋，lǎi）从金、禮聲，轉注。《集韻》「連鉤釣曰𨦂，或从禮」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-254",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䯆本義：从骨乙聲，小骨",
+   "statement": "䯆（yì）从骨、乙聲，轉注。《篇海》「音弋，小骨」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-255",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧈝本義：从虫乙聲，虫聲；無角龍",
+   "statement": "𧈝（yà）从虫、乙聲，轉注。《類篇》「乙黠切，音軋，虫聲」；《龍龕》「無角龍也」。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-256",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劜本義：从力乙聲，勜劜屈強",
+   "statement": "劜（yà）从力、乙聲，轉注。《集韻》「勜劜，屈強也」——屈曲而倔强。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-257",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥃤本義：从目乙聲，目重皮（雙眼皮）",
+   "statement": "𥃤（𥄩𥆎，jiǎo）从目、乙聲，轉注，取重疊。《字彙》「居小功，音絞，目重皮也」——雙眼皮。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「乙部」（第361部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
