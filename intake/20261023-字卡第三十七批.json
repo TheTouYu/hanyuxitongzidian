@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡夕部余7条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-356",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠋱本義：𠋱（僁）＝人（形旁）＋屑（聲旁）",
+   "statement": "𠋱（xiè）：𠋱（僁）＝人（形旁）＋屑（聲旁）。《集韻》引《說文》「聲也」，一曰僁僁呻吟也——聲音小而連續。 橫向：細小：𠋱（人）細聲｜僁（人）同｜呻（口）呻。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-357",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡎮本義：𡎮＝土（形旁）＋屑（聲旁）",
+   "statement": "𡎮（sù）：𡎮＝土（形旁）＋屑（聲旁）。《正字通》「細塵」。 橫向：細小：𡎮（土）細塵｜塵（土）塵｜屑（尸）屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-358",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡟩本義：𡟩＝女（形旁）＋屑（聲旁）",
+   "statement": "𡟩（xiè）：𡟩＝女（形旁）＋屑（聲旁）。《集韻》「小皃」。 橫向：細小：𡟩（女）小貌｜小（小）小｜屑（尸）屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-359",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢞜本義：𢞜＝心（形旁）＋屑（聲旁）",
+   "statement": "𢞜（xiè）：𢞜＝心（形旁）＋屑（聲旁）。《集韻》「憂也」。 橫向：細小：𢞜（心）憂｜憂（心）憂｜屑（尸）屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-360",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤸮本義：𤸮＝疒（形旁）＋屑（聲旁）",
+   "statement": "𤸮（sù）：𤸮＝疒（形旁）＋屑（聲旁）。《集韻》「蘇骨切，音窣，𤸮𤺐，癡皃」——痴呆貌。 橫向：細小：𤸮（疒）癡｜癡（疒）癡｜屑（尸）屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-361",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧜔本義：𧜔＝衣（形旁）＋屑（聲旁）",
+   "statement": "𧜔（xiè）：𧜔＝衣（形旁）＋屑（聲旁）。《龍龕》「俗，先結、子對二反」；疑即「衱」之異體（衣領）。 橫向：細小：𧜔（衣）衣領｜衱（衣）衱｜屑（尸）屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-362",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洕本義：洕＝水（形旁）＋䏌（聲旁）",
+   "statement": "洕（yìn）：洕＝水（形旁）＋䏌（聲旁）。《玉篇》「小水」；《康典》「小水文」。 橫向：行列：洕（水）小水｜肸（十）聲布｜佾（人）舞列。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
