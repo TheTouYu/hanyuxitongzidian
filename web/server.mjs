@@ -1009,7 +1009,6 @@ async function handleCard(emit, res, question, ch, ip, meter) {
     }
   }
   if (!sections) sections = [];
-  sections = dedupeSections(sections);
 
   // 这个字没有独立条目时，把解释它的那条字族整段附上（网页也看得到释字时用的原文）
   if (!direct.length) {
@@ -1074,7 +1073,7 @@ async function handleCard(emit, res, question, ch, ip, meter) {
       family: familyInfo(ch),
       root: rootInfo ? rootInfo.root : null,
       roots: rootGlyphs,
-      sections,
+      sections: dedupeSections(sections),
       claims: direct.length + rootClaims.length,
     },
   });
