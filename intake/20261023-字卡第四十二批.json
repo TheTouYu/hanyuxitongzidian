@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡徹尾折首10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-401",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦔞本義：𦔞＝耒（形旁）＋徹聲",
+   "statement": "𦔞（zhé）：𦔞＝耒（形旁）＋徹聲。《字彙》「稅名」；《正字通》「俗徹字」。 橫向：①撤除：𦔞（耒）稅名｜徹（彳）通｜稅（禾）稅。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-402",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㯙本義：㯙＝木（形旁）＋徹聲",
+   "statement": "㯙（zhé）：㯙＝木（形旁）＋徹聲。《集韻》「楊㯙，棗木名，通作徹」——棗熟任其在樹風乾、葉盡落而棗掛枝頭之狀。 橫向：②空盡：㯙（木）棗乾｜棗（木）棗｜徹（彳）通。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「徹部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-403",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "折本義：折＝从斤从木（斷處），象意攔腰橫砍斷木",
+   "statement": "折（zhé）：折＝从斤从木（斷處），象意攔腰橫砍斷木。轉義折扣、斷而猶連（shé）、彎曲倒伏屈從、安舒（tí）。 橫向：①折損：折（斤木）斷｜析（斤木）剖｜伐（人戈）伐。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-404",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "硩本義：硩（擿）＝石（形旁）＋折（聲旁）",
+   "statement": "硩（chè）：硩（擿）＝石（形旁）＋折（聲旁）。《說文》「上摘岩空青、珊瑚墮之」——以石投擲毀巢，摘取巖上珍物。 橫向：①折損：硩（石）投擲摘取｜擲（手）擲｜墮（土）墮。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-405",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銴本義：銴＝金（形旁）＋折（聲旁）",
+   "statement": "銴（shì）：銴＝金（形旁）＋折（聲旁）。《說文》「車樘結也，一曰銅生五色」——車幔鬆緊樞紐；又銅鏽。 橫向：①折損：銴（金）車樞／銅鏽｜錮（金）錮｜結（糸）結。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-406",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜇本義：蜇（蛆）＝虫（形旁）＋折（聲旁）",
+   "statement": "蜇（zhē）：蜇（蛆）＝虫（形旁）＋折（聲旁）。《玉篇》「蟲螫也」——毒蟲叮刺，其刺常斷在肉中；又海蜇。 橫向：①折損：蜇（虫）螫刺（刺斷）｜螫（虫）螫｜蛆（虫）蛆。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-407",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧶇本義：𧶇＝貝（形旁）＋折（聲旁）",
+   "statement": "𧶇（zhá）：𧶇＝貝（形旁）＋折（聲旁）。《廣韻》「貨也」——財貨。 橫向：①折損：𧶇（貝）貨｜貨（貝）貨｜貝（貝）貝。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-408",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥍭本義：𥍭＝矛（形旁）＋折（聲旁）",
+   "statement": "𥍭（zhì）：𥍭＝矛（形旁）＋折（聲旁）。《廣韻》「矛謂之𥍭」。 橫向：①折損：𥍭（矛）矛｜矛（矛）矛｜矟（矛）矟。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-409",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䭁本義：䭁＝食（形旁）＋折（聲旁）",
+   "statement": "䭁（zhì）：䭁＝食（形旁）＋折（聲旁）。《玉篇》「臭敗之味」——食物腐敗，亦折損。 橫向：①折損：䭁（食）食敗｜腐（肉）腐｜敗（攴）敗。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-410",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "焎本義：焎（烲）＝火（形旁）＋折（聲旁）",
+   "statement": "焎（xiè）：焎（烲）＝火（形旁）＋折（聲旁）。《廣韻》「火氣也」；chè《集韻》「火然也」——火斷而復燃。 橫向：①折損：焎（火）火氣／火然｜然（火）燃｜燼（火）燼。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「折部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
