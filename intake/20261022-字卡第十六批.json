@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡囪部尾12条入库 2026-10-22",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-128",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煙本義：从火垔聲，火氣也",
+   "statement": "煙（𡨾烟，yān）从火、垔聲，轉注，屬煙狀升騰一路。《說文》「火氣也。从火垔聲，烏前切」，古文从因、籀文从宀。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-129",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禋本義：从示垔聲，潔祀也，焚柴祭天",
+   "statement": "禋（𡫻，yīn）从示、垔聲，轉注。《說文》「潔祀也，一曰精意以享為禋，从示垔聲，於眞切」；《玉篇》「敬也」；《集韻》「祀天也」——焚燒祭品、以煙祭天。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-130",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "緸本義：从糸垔聲，搖動皃",
+   "statement": "緸（yīn）从糸、垔聲，轉注，取煙之搖曳。《集韻》「緸𡨚，揺動皃」。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-131",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣱐本義：从氐垔聲，臥也",
+   "statement": "𣱐（yìn/zhì）从氐、垔聲，轉注，取煙氣下沉偃臥之狀。《說文》「臥也。从氐垔聲，於進切」；《集韻》「仆也」；zhì《廣韻》「赴也」。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-132",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黫本義：从黑垔聲，黑也",
+   "statement": "黫（𪐘黰，yān）从黑、垔聲，轉注，取煙色黑。《集韻》「黰，黒也，或作黫、𪐘」。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-133",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦎣本義：从羊垔聲，群羊相染，一曰黑羊",
+   "statement": "𦎣（yān）从羊、垔聲，轉注。《說文》「群羊相𦎸也，一曰黑羊，从羊垔聲，烏間切」；《廣雅》「黑也」——成群羊轉相傳染羊瘟，或指黑羊。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-134",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甄本義：从瓦垔聲，匋也，製陶轉輪",
+   "statement": "甄（鄄，zhēn）从瓦、垔聲，轉注。《說文》「匋也。从瓦垔聲，居延切」，燒製陶器；《廣雅》「窯也」，《博雅》「堗下謂之甄」指製陶轉輪；又「表也、明也、察也」。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-135",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薽本義：从艸甄聲，豕首（天名精）",
+   "statement": "薽（zhēn）从艸、甄聲，轉注，取煙氣濃重之味。《說文》「豕首也。从艸甄聲，側鄰切」；《爾雅》「茢薽，豕首」，郭注「地菘、蝦蟆藍、蟾蜍蘭」，天名精，菊科藥草有臭氣。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-136",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "陻本義：从阜垔聲，塞也",
+   "statement": "陻（yīn）从阜、垔聲，轉注，與堙同。《玉篇》「塞也」，堵塞。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-137",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㖶本義：从口垔聲，同咽",
+   "statement": "㖶（咽，yān/yè/yīn）从口、垔聲，轉注。《玉篇》「同咽」；《集韻》「㖶然，語聲」；yè 同噎；yīn「諲，敬也，或从口」。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-138",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籈本義：从竹垔聲，敔板止樂",
+   "statement": "籈（zhēn/jiān）从竹、垔聲，轉注。《正韻》「割木長尺，以鼓敔，所以止樂也」——古代敲敔用的木板，節制音樂，故有堵義；jiān《廣韻》「竹器」。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-139",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裀本義：从衣垔聲，衣身也，內衣、褥",
+   "statement": "裀（𧛑，yīn）从衣、垔聲，轉注。《玉篇》「衣身也」；《博雅》「複襂謂之裀」夾衣；《韻會》「通茵」褥子；《字彙》「近身衣也」內衣。",
+   "boundary": "源自《系統漢語》卷六十一「犀（屖）」部之「囪部」（第355部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
