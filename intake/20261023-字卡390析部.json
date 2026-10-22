@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡390析部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bt5-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淅（字卡）",
+   "statement": "淅（xī）：淘米即分開米與糠，以水定其落點。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "皙（字卡）",
+   "statement": "皙（xī）：白如淘洗之米；原稿謂應从淅省聲。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晰（字卡）",
+   "statement": "晰（xī）：日光剖分而物象分明。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "菥（字卡）",
+   "statement": "菥（xī）：菥蓂莢果剖分而子出。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惁（字卡）",
+   "statement": "惁（xī）：心被剖分而憂。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㱤（字卡）",
+   "statement": "㱤（xī）：氣力剖散將盡，欲死之貌。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥮥（字卡）",
+   "statement": "𥮥（zhuó）：同策，竹剖為簽以計數。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唽（字卡）",
+   "statement": "唽（xī）：鳥聲細碎如裂。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩗱（字卡）",
+   "statement": "𩗱（xī）：从風析聲，《集韻》「𩗱𩗱，風聲」。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪁻（字卡）",
+   "statement": "𪁻（zhì）：猛鳥裂物。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt5-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜥（字卡）",
+   "statement": "蜥（xī）：遇急斷尾求生，是剖分之活例。",
+   "boundary": "源自《系統漢語》第390部「析部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
