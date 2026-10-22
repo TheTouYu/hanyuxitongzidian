@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡403史部清完2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bsi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪗧（字卡）",
+   "statement": "𪗧（shǐ）：《字彙》「齿好」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡶈（字卡）",
+   "statement": "𡶈（shǐ）：《字彙》「山也」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㳏（字卡）",
+   "statement": "㳏（shì）：《集韵》「水名，在河南，或从吏」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥥥（字卡）",
+   "statement": "𥥥（shì）：《集韵》「穴也」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㤦（字卡）",
+   "statement": "㤦（lì）：《集韵》「忧也」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧨴（字卡）",
+   "statement": "𧨴（zì）：《类篇》「言入也」——言语刺入人心。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩂝（字卡）",
+   "statement": "𩂝（shài）：《汉典》「𩂃的讹字」；𩂃《集韵》「雨疾也」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧊍（字卡）",
+   "statement": "𧊍（jué）：《字彙补》「龙属」；明月之珠藏于蚌中，𧊍龙伏之——蚗之讹字。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨽄（字卡）",
+   "statement": "𨽄（shì）：《广韵》「山阜突也」；《玉篇》「𨸏䆕也」——凿开山陵的通道。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣓊（字卡）",
+   "statement": "𣓊（zì）：《玉篇》「木名」；《正字通》「讹字」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡸪（字卡）",
+   "statement": "𡸪（zì）：《字彙补》「刃也」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bsi-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥑏（字卡）",
+   "statement": "𥑏（shǐ）：《玉篇》「石名」；《正字通》「砄字之讹」。",
+   "boundary": "源自《系統漢語》第403部「史部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
