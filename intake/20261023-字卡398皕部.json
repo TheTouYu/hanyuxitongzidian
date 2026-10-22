@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡398皕部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bfu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "奭（字卡）",
+   "statement": "奭（shì）：《说文》「盛也。从大从皕，皕亦声」；《集韵》「吓，怒也。或作䓇、奭。通作赫」——鼻息急促之盛怒。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bfu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衋（字卡）",
+   "statement": "衋（xì）：《说文》「伤痛也。从血、聿，皕声」；段注血聿取披沥之意，皕指痛哭流涕之状。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bfu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襫（字卡）",
+   "statement": "襫（shì）：《唐韵》「襏襫，雨衣」；《集韵》「蓑襞也」——上小下大，披挂如鼻而沥雨如涕。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bfu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢐤（字卡）",
+   "statement": "𢐤（bì）：《龙龛》「辅也，重也，备也」，俗弼字；据西周金文应从「㐁」象席形。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bfu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "皕（字卡）",
+   "statement": "皕（bì）：部头本字：从自二叠，象鼻子很大，或反应强烈。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bfu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弼（字卡）",
+   "statement": "弼（bì）：《说文》「辅也，重也」——辅正弓弩之檠，引申辅佐。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bfu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "赫（字卡）",
+   "statement": "赫（hè）：《说文》「火赤皃」；《诗》「赫如渥赭」——火色赤盛，与奭通。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bfu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚇（字卡）",
+   "statement": "嚇（hè）：《集韵》「怒也。或作䓇、奭。通作赫」——以盛怒之状加口出声以威人。",
+   "boundary": "源自《系統漢語》第398部「皕部」（卷六十五 鼻）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
