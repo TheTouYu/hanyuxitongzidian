@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡394尾395斯部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "btb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僛（字卡）",
+   "statement": "僛（qī）：《说文》「醉舞皃」，引《诗》「屡舞僛僛」；《集韵》「不能自正也」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諆（字卡）",
+   "statement": "諆（qī）：《说文》「諆，欺也」；《广韵》谋也。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唭（字卡）",
+   "statement": "唭（qì）：《集韵》「唭㘈，无闻见也」，一曰绐也（欺），一曰笑皃。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猉（字卡）",
+   "statement": "猉（qí）：《集韵》「汝南谓犬子为猉」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䶞（字卡）",
+   "statement": "䶞（qí）：《广雅》「啮也」。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剘（字卡）",
+   "statement": "剘（qí）：《篇海》「克也，割截也」；《字彙》信也。",
+   "boundary": "源自《系統漢語》第394部「其部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "斯（字卡）",
+   "statement": "斯（sī）：从斤（斧）其（箕），以斧斫箕而散成细条，《说文》「析也」，引《诗》「斧以斯之」。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澌（字卡）",
+   "statement": "澌（sī）：《说文》「水索也」，水尽；《方言》「澌，尽也」，引申凡物竭尽。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤺊（字卡）",
+   "statement": "𤺊（xī）：《说文》「散声」；《方言》「披散也，东齐声散曰𤺊，秦晋声变曰𤺊」。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凘（字卡）",
+   "statement": "凘（sī）：《说文》「流仌也」，冰消而流散；《风俗通》「冰流曰凘，冰解曰冸」。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧪷（字卡）",
+   "statement": "𧪷（xī）：《说文》「悲声也」——撕心裂肺、声音嘶哑。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "btb-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撕（字卡）",
+   "statement": "撕（sī）：《集韵》「斯，析也。或从手」——用手使薄片裂开或离开附着处。",
+   "boundary": "源自《系統漢語》第395部「斯部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
