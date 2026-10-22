@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡404带部+405皀部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bda-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹛（字卡）",
+   "statement": "蹛（dài）：《说文》「踶也，从足带声」——踏踢；又蹛林，匈奴绕林而祭；与滞同，贮积。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "滯（字卡）",
+   "statement": "滯（zhì）：《说文》「凝也，从水带声」——凝聚积聚；《广韵》「废也、止也、凝也、久也」。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懘（字卡）",
+   "statement": "懘（chì）：《新附》「惉懘也」；《广韵》「音不和也」。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慸（字卡）",
+   "statement": "慸（zhì）：《说文》「高也，一曰极也，一曰困劣也」；《广韵》「慸芥」，细小梗塞物，喻嫌隙。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㿃（字卡）",
+   "statement": "㿃（zhì）：《玉篇》「牛头疮也，赤白痢也」；妇人下部病亦单作带。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "墆（字卡）",
+   "statement": "墆（zhì）：《广韵》「贮也，止也」；《集韵》「墆翳，障蔽也」。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螮（字卡）",
+   "statement": "螮（dì）：《说文》「螮蝀，虹也，从虫带声」——彩虹。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "遰（字卡）",
+   "statement": "遰（dì）：《说文》「去也，从辵带声」；《玉篇》「迢遰也」，高远貌。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "摕（字卡）",
+   "statement": "摕（dì）：《说文》「撮取也，从手带声」——撮取、急持。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蔕（字卡）",
+   "statement": "蔕（dì）：《说文》「瓜当也，从艸带声」——瓜蒂；又草木根。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艜（字卡）",
+   "statement": "艜（dài）：《方言》「艇长而薄者谓之艜」——长而浅的小船。",
+   "boundary": "源自《系統漢語》第404部「带部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bda-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簋（字卡）",
+   "statement": "簋（guǐ）：《说文》「黍稷方器也」；《广韵》「内圆外方曰簋」——盛食之器。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
