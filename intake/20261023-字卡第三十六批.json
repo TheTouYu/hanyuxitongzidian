@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡夕部㞕族10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-346",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㞕本義：㞕＝尸（蹲踞之人）＋夕（夜），象夜裏摸黑緩行",
+   "statement": "㞕（xiè）：㞕＝尸（蹲踞之人）＋夕（夜），象夜裏摸黑緩行。引申細小、瑣碎、恭敬、辛勞、偷偷摸摸；隸作「屑」。 橫向：細小：㞕（尸夕）碎｜屑（尸）同｜瑣（玉）瑣。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-347",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣕋本義：𣕋（柣榍楔）＝木（形旁）＋㞕（聲旁）",
+   "statement": "𣕋（xiè）：𣕋（柣榍楔）＝木（形旁）＋㞕（聲旁）。《說文》「限也」門檻；《正字通》「俗楔字」——木楔。 橫向：細小：𣕋（木）門限／楔｜閾（門）閾｜楔（木）楔。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-348",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪙑本義：𪙑＝齒（形旁）＋屑（聲旁）",
+   "statement": "𪙑（qiè）：𪙑＝齒（形旁）＋屑（聲旁）。《說文》「齒差也」上下牙相摩切；《玉篇》「治骨也」啃骨。 橫向：細小：𪙑（齒）相摩｜齧（齒）咬｜切（刀）切。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-349",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糏本義：糏（𪍛）＝米（形旁）＋屑（聲旁）",
+   "statement": "糏（xiè）：糏（𪍛）＝米（形旁）＋屑（聲旁）。《廣韻》「米麥破也」；《集韻》「米粉」「舂餘也」——碎屑。 橫向：細小：糏（米）碎米｜屑（尸）屑｜麨（麥）麥屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-350",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碿本義：碿＝石（形旁）＋屑（聲旁）",
+   "statement": "碿（sù）：碿＝石（形旁）＋屑（聲旁）。《正字通》「磨也，一曰碎石也，當讀如屑」——碎石、磨。 橫向：細小：碿（石）碎石｜砂（石）砂｜磨（石）磨。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-351",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦵱本義：𦵱＝艸（形旁）＋屑（聲旁）",
+   "statement": "𦵱（xiè）：𦵱＝艸（形旁）＋屑（聲旁）。《集韻》「艸名」。 橫向：細小：𦵱（艸）草名｜艸（艸）草｜屑（尸）屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-352",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦞚本義：𦞚（𦚡）＝肉（形旁）＋屑（聲旁）",
+   "statement": "𦞚（xiè）：𦞚（𦚡）＝肉（形旁）＋屑（聲旁）。《博雅》「脂也」，一曰臆中脂——脂肪、胸中脂。 橫向：細小：𦞚（肉）脂｜脂（肉）脂｜肪（肉）肪。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-353",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㨝本義：㨝＝手（形旁）＋屑（聲旁）",
+   "statement": "㨝（xiē）：㨝＝手（形旁）＋屑（聲旁）。《集韻》「挺出物也，一曰揲也」——挺出、數取。 橫向：細小：㨝（手）挺出｜揲（手）揲｜挾（手）挾。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-354",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㣯本義：㣯＝彳（形旁）＋屑（聲旁）",
+   "statement": "㣯（xiè）：㣯＝彳（形旁）＋屑（聲旁）。《集韻》「撇㣯，衣服婆娑皃」「㣰㣯，揺也」——衣擺婆娑、搖動。 橫向：細小：㣯（彳）婆娑｜撇（手）撇｜搖（手）搖。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-355",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㴮本義：㴮（㴽泧）＝水（形旁）＋屑（聲旁）",
+   "statement": "㴮（xiè）：㴮（㴽泧）＝水（形旁）＋屑（聲旁）。《集韻》「瀎㴽，水皃」——水流動之狀。 橫向：細小：㴮（水）細流｜瀎（水）水貌｜屑（尸）屑。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「夕部」（第366部·㞕族）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
