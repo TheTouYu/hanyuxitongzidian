@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡多部后12条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-449",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茤本義：茤（芰）＝艸（形旁）＋多（聲旁）",
+   "statement": "茤（jì）：茤（芰）＝艸（形旁）＋多（聲旁）。《說文》「芰，蔆也」，杜林說「芰从多」——菱角，狀如牛角。 橫向：①張大：茤（艸）菱角（角張）｜菱（艸）菱｜角（角）角。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-450",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧩫本義：𧩫（詫）＝言（形旁）＋奓聲",
+   "statement": "𧩫（zhā）：𧩫（詫）＝言（形旁）＋奓聲。《集韻》「譇詉，羞窮」；chà「詫，誇也」——誇張，通「侘」。 橫向：①張大：𧩫（言）誇張／羞窮｜誇（言）誇｜詫（言）詫。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-451",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扅本義：扅（𢨹）＝戶（形旁）＋多（聲旁）",
+   "statement": "扅（yí）：扅（𢨹）＝戶（形旁）＋多（聲旁）。《廣韻》「扊扅，戶扃也」——門閂；《集韻》「門闗謂之扊扅」。 橫向：①張大：扅（戶）門閂｜扊（戶）扊｜閂（門）閂。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-452",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拸本義：拸（搋柂）＝手（形旁）＋多（聲旁）",
+   "statement": "拸（yí）：拸（搋柂）＝手（形旁）＋多（聲旁）。《玉篇》「加也」施加；chǐ「析也、折也」——《莊子》「介者拸畫」；又「哆，大皃」。 橫向：①張大：拸（手）施加／析／拍拽｜搋（手）搋｜扯（手）扯。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-453",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䏧本義：䏧＝肉（形旁）＋多（聲旁）",
+   "statement": "䏧（nà）：䏧＝肉（形旁）＋多（聲旁）。《玉篇》「肥皃」；《廣韻》「膩也」；chǐ《集韻》「肉物肥美也」——**多从二肉一源的核心字**。 橫向：②肥美：䏧（肉）肥／膩｜肥（肉）肥｜膩（肉）膩。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-454",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䬷本義：䬷＝食（形旁）＋舍聲",
+   "statement": "䬷（shě）：䬷＝食（形旁）＋舍聲。《集韻》「䬼飫也，或从舍」；「饜也」——飽食。 橫向：②肥美：䬷（食）飽食｜飽（食）飽｜饜（食）饜。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-455",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "垑本義：垑＝土（形旁）＋多（聲旁）",
+   "statement": "垑（chǐ）：垑＝土（形旁）＋多（聲旁）。《說文》「恃也」——依賴土地之多；《玉篇》「治土」。 橫向：②肥大：垑（土）地多／恃｜多（夕夕）多｜恃（心）恃。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-456",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黟本義：黟＝黑（形旁）＋多（聲旁）",
+   "statement": "黟（yī）：黟＝黑（形旁）＋多（聲旁）。《說文》「黑木也」——烏木（陰沉木），長年水浸碳化，黑而重；丹陽有黟縣。 橫向：②肥大：黟（黑）烏木／黑｜黑（黑）黑｜墨（土）墨。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-457",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥿫本義：𥿫（貤）＝糸（形旁）＋多（聲旁）",
+   "statement": "𥿫（mí）：𥿫（貤）＝糸（形旁）＋多（聲旁）。《說文》「縻，牛轡也，或从多」；yì「貤，重次第物也」——重複、次第。 橫向：②肥大：𥿫（糸）牛轡／重疊｜縻（糸）縻｜轡（絲）轡。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-458",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "陊本義：陊（阤陁）＝阜（形旁）＋多（聲旁）",
+   "statement": "陊（duò）：陊（阤陁）＝阜（形旁）＋多（聲旁）。《說文》「落也」墜落；《玉篇》「壞也、小崩也」；《廣韻》「下坂皃」——**大字張開則下墜**。 橫向：①張大：陊（阜）墜落｜墮（土）墮｜崩（山）崩。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-459",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姼本義：姼（𡚼媞）＝女（形旁）＋多（聲旁）",
+   "statement": "姼（chǐ）：姼（𡚼媞）＝女（形旁）＋多（聲旁）。《說文》「美女也」；《方言》「南楚謂父考曰父姼，母妣曰母姼」。 橫向：①張大：姼（女）美／尊稱｜美（羊）美｜媞（女）安。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-460",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "移本義：移＝禾（形旁）＋多（聲旁）",
+   "statement": "移（yí）：移＝禾（形旁）＋多（聲旁）。《說文》「禾相倚移也」；《六書故》「移秧也，凡種稻先苗之後移之」——禾苗倚斜而移栽。 橫向：①張大：移（禾）移秧／遷移｜迻（辵）迻｜徙（彳）徙。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「多部」（第370部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
