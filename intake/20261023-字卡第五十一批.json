@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡束部4条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-509",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誎本義：誎＝言（形旁）＋束（聲旁）",
+   "statement": "誎（sù）：誎＝言（形旁）＋束（聲旁）。《說文》「餔旋促也」——催促人快吃；《廣雅》「促也」。 橫向：③結束：誎（言）催促｜促（人）促｜催（人）催。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「束部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-510",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梀本義：梀＝木（形旁）＋束（聲旁）",
+   "statement": "梀（sù）：梀＝木（形旁）＋束（聲旁）。《說文》「短椽也」；《唐韻》「赤梀，木名，可為車輞」。 橫向：①收縮：梀（木）短椽｜椽（木）椽｜輞（車）輞。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「束部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-511",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餗本義：餗（𩱫）＝食（形旁）＋束（聲旁）",
+   "statement": "餗（sù）：餗（𩱫）＝食（形旁）＋束（聲旁）。《說文》「鼎實，惟葦及蒲」——鼎中食物。 橫向：②聚集：餗（食）鼎實｜鼎（鼎）鼎｜食（食）食。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「束部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-512",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踈本義：踈（疎䟽疏）＝疋（形旁）＋束（聲旁）",
+   "statement": "踈（shū）：踈（疎䟽疏）＝疋（形旁）＋束（聲旁）。《玉篇》「慢也」；《廣韻》「稀踈」——疏而不密。 橫向：①收縮：踈（疋）疏稀｜疏（疋）疏｜稀（禾）稀。",
+   "boundary": "源自《系統漢語》卷六十三「索」部之「束部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
