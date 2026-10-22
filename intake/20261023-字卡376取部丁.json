@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡376取部聚最叢10字 2026-10-23",
+ "risk": "medium",
+ "claims": [
+  {
+   "id": "zk-376d-01",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "聚（jù）取部字卡：乑之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】聚（jù）属取部（或其分化之聚、最、叢诸支）。聚从乑从取（乑为人之三叠），象众人会集，村落也（《說文》「會也……邑落云聚，才句切」）。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「聚」为落点：乑、人、集；同一「取」义，形符各定落点。\n\n【聲母義】众人相贴而会，取「贴近相聚」一面。",
+   "boundary": "字卡释字，第376部「取部」；聚依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-02",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撮（cuō）取部字卡：手之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】撮（cuō）属取部（或其分化之聚、最、叢诸支）。撮从手最聲，取「割耳取一點點」之象意（《說文》「四圭也。一曰兩指撮也」），以两指撮取。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「撮」为落点：手、圭、量；同一「取」义，形符各定落点。\n\n【聲母義】以指撮取，取「抓取」一面。",
+   "boundary": "字卡释字，第376部「取部」；撮依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-03",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "冣（jù/zuì）取部字卡：宀之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】冣（jù/zuì）属取部（或其分化之聚、最、叢诸支）。冣从宀从取，象将零星之物收聚于屋中（《說文》「積也，才句切」）；《玉篇》「齊也、聚也」。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「冣」为落点：宀、屋、積；同一「取」义，形符各定落点。\n\n【聲母義】收聚于屋，取「聚集」一面。",
+   "boundary": "字卡释字，第376部「取部」；冣依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-04",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驟（zhòu）取部字卡：馬之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】驟（zhòu）属取部（或其分化之聚、最、叢诸支）。驟从馬聚聲（《說文》「馬疾步也，鉏又切」），马飞驰；《廣雅》「數也」，屡次。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「驟」为落点：馬、疾、屢；同一「取」义，形符各定落点。\n\n【聲母義】众人贴近则行促，取「迫近而疾」一面。",
+   "boundary": "字卡释字，第376部「取部」；驟依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-05",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "埾（jù）取部字卡：土之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】埾（jù）属取部（或其分化之聚、最、叢诸支）。埾从土聚聲（《說文》「土積也」），《篇海》「築也」：积土为墙。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「埾」为落点：土、積、築；同一「取」义，形符各定落点。\n\n【聲母義】土聚成垒，取「聚集」一面。",
+   "boundary": "字卡释字，第376部「取部」；埾依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-06",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藂（cóng）取部字卡：艸之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】藂（cóng）属取部（或其分化之聚、最、叢诸支）。藂即「叢」之俗（《唐韻》「俗叢字」）；《集韻》去声「艸稚也」，草初生。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「藂」为落点：艸、叢、稚；同一「取」义，形符各定落点。\n\n【聲母義】草初生即丛聚，取「聚」一面。",
+   "boundary": "字卡释字，第376部「取部」；藂依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-07",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縐（zhòu）取部字卡：糸之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】縐（zhòu）属取部（或其分化之聚、最、叢诸支）。縐从糸芻聲（《集韻》「縐，絺也。或作𦆜」），有皱纹的细葛布。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「縐」为落点：糸、絺、皺；同一「取」义，形符各定落点。\n\n【聲母義】细葛相蹙成纹，取「迫近而蹙」一面。",
+   "boundary": "字卡释字，第376部「取部」；縐依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-08",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㵵（zòu）取部字卡：水之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】㵵（zòu）属取部（或其分化之聚、最、叢诸支）。㵵从水聚聲，《集韻》「水流急也」；去声读 jù 则《篇海》「水聲」。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「㵵」为落点：水、急、聲；同一「取」义，形符各定落点。\n\n【聲母義】水聚而争流，取「聚而疾」一面。",
+   "boundary": "字卡释字，第376部「取部」；㵵依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-09",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㔌（zòu）取部字卡：刀之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】㔌（zòu）属取部（或其分化之聚、最、叢诸支）。㔌从刀取聲，《玉篇》「斷也，細切也」；《集韻》「析薪也」。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「㔌」为落点：刀、斷、切；同一「取」义，形符各定落点。\n\n【聲母義】切割即从整体上取下一块，取「取」一面。",
+   "boundary": "字卡释字，第376部「取部」；㔌依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-376d-10",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䝒（zhù）取部字卡：豕之取",
+   "statement": "【字根本義】取部部头从耳从又，象手取耳而获；一字兼抓耳、获取、贴耳三象意，故其字族分三条衍义。\n\n【字根】䝒（zhù）属取部（或其分化之聚、最、叢诸支）。䝒从豕聚聲，《集韻》「牝豕也」，《玉篇》「小母猪」；齊徐以小猪为䝒。\n\n【形旁與聲旁】形旁定其物类，声旁「取」取比喻义——象伸手攫取一样；表实义者则为象意字。\n\n【横向比較】以「䝒」为落点：豕、牝、小；同一「取」义，形符各定落点。\n\n【聲母義】猪群聚而育，取「聚」一面。",
+   "boundary": "字卡释字，第376部「取部」；䝒依原稿该条训释分属聚/最/叢三支之一。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
