@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡391丌部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bt6-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "丌（字卡）",
+   "statement": "丌（jī）：象低矮平整的托盘，荐物之器，《说文》「下基也」。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "亓（字卡）",
+   "statement": "亓（qí）：丌上加一横，本同丌，兼作虚词「其」。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㚦（字卡）",
+   "statement": "㚦（jī）：古文姬——黄帝居姬水以为姓；《广雅》「基也」，根本根基。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䢋（字卡）",
+   "statement": "䢋（jì）：古之遒人摇木铎沿途采记诗言，荐而进之于上。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢗏（字卡）",
+   "statement": "𢗏（qí）：即惎，《说文》「毒也」，一曰教也、意也；《广韵》谋也。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥘕（字卡）",
+   "statement": "𥘕（qí）：即祺，《说文》「吉也」，一曰祥也；籀文从基。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥫶（字卡）",
+   "statement": "𥫶（jī）：即箕，《说文》「簸也」，一曰星名。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧿄（字卡）",
+   "statement": "𧿄（qí）：即踑，《集韵》「迹也」；又㠱「长踞也」，席地伸脚如箕。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦨘（字卡）",
+   "statement": "𦨘（qí）：《博雅》「䑴艃，舟也」，舟形中凹如箕。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt6-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䭶（字卡）",
+   "statement": "䭶（qí）：即騏，《说文》「马青骊，文如博棊也」，马纹交织如棋盘。",
+   "boundary": "源自《系統漢語》第391部「丌部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
