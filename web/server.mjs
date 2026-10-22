@@ -45,6 +45,9 @@ function publicMember(m) {
     gift: m.gift,
     gift_sent: m.gift_sent,
     active: shop.memberStatus(m).active,
+    has_password: Boolean(m.pass_hash),
+    used_today: shop.usageToday(m.id),
+    spent_today: shop.spendToday(m.id),
   };
 }
 
@@ -485,6 +488,22 @@ function briefOf(claim) {
 
 // 没有模型（或模型失败）时的确定性字卡：按条目原文归类
 // 字根一栏不在这里分桶，由 zigenFallback() 单独拼，避免出现两个「字根」
+
+function dedupeSections(sections) {
+  const norm = (s) => String(s || '').replace(/\[clm_[0-9A-F]+\]/g, '').replace(/[\s，。；：、"'（）()【】]/g, '');
+  const grams = (s) => { const n = norm(s); const g = new Set(); for (let i = 0; i < n.length - 1; i++) g.add(n.slice(i, i + 2)); return g; };
+  const jac = (a, b) => { if (!a.size || !b.size) return 0; let inter = 0; for (const x of a) if (b.has(x)) inter++; return inter / (a.size + b.size - inter); };
+  const kept = [];
+  for (const s of sections || []) {
+    if (!s || !s.text || !String(s.text).trim()) continue;
+    const g = grams(s.text);
+    const dup = kept.some((k) => jac(g, k.g) >= 0.62);
+    if (dup) continue;
+    kept.push({ ...s, g });
+  }
+  return kept.map(({ g, ...rest }) => rest);
+}
+
 function fallbackSections(claims, ch) {
   const defs = CARD_SECTIONS.filter((d) => !['zigen', 'jielun', 'duizhao', 'xiaojie'].includes(d.key));
   const buckets = new Map(defs.map((s) => [s.key, []]));
@@ -990,6 +1009,7 @@ async function handleCard(emit, res, question, ch, ip, meter) {
     }
   }
   if (!sections) sections = [];
+  sections = dedupeSections(sections);
 
   // 这个字没有独立条目时，把解释它的那条字族整段附上（网页也看得到释字时用的原文）
   if (!direct.length) {
@@ -1065,6 +1085,9 @@ async function handleCard(emit, res, question, ch, ip, meter) {
 // ---------- 限流 ----------
 
 const buckets = new Map();
+
+// 会员登录失败计数（IP + 手机号），10 分钟内最多 8 次
+const loginTries = new Map();
 
 function rateLimited(ip) {
   const now = Date.now();
@@ -1419,11 +1442,66 @@ const server = createServer(async (req, res) => {
       } catch {
         body = {};
       }
-      const r = shop.redeem(body.code, body.phone);
+      const r = shop.redeem(body.code, body.phone, body.password);
       if (!r.ok) return sendJson(res, 400, { ok: false, error: r.error });
       shop.deviceId(req, res);
       res.appendHeader('Set-Cookie', shop.cookie('sh_mid', r.member.id, 365 * 24 * 3600));
       return sendJson(res, 200, { ok: true, member: publicMember(r.member) });
+    }
+
+    // 账号密码登录：手机号 + 密码，登录后换设备也能用
+    if (path === '/api/login' && req.method === 'POST') {
+      let body = {};
+      try {
+        body = JSON.parse((await readBody(req)) || '{}');
+      } catch {
+        body = {};
+      }
+      const key = `${ip}:${String(body.phone || '').trim()}`;
+      const tries = loginTries.get(key) || { n: 0, t: Date.now() };
+      if (Date.now() - tries.t > 10 * 60 * 1000) {
+        tries.n = 0;
+        tries.t = Date.now();
+      }
+      if (tries.n >= 8) return sendJson(res, 429, { ok: false, error: '密码错误次数太多，请 10 分钟后再试' });
+      const r = shop.login(body.phone, body.password);
+      if (!r.ok) {
+        tries.n += 1;
+        loginTries.set(key, tries);
+        await new Promise((rr) => setTimeout(rr, 300));
+        return sendJson(res, 401, { ok: false, error: r.error });
+      }
+      loginTries.delete(key);
+      res.appendHeader('Set-Cookie', shop.cookie('sh_mid', r.member.id, 365 * 24 * 3600));
+      return sendJson(res, 200, { ok: true, member: publicMember(r.member) });
+    }
+
+    if (path === '/api/logout' && req.method === 'POST') {
+      res.appendHeader('Set-Cookie', shop.cookie('sh_mid', '', 0));
+      return sendJson(res, 200, { ok: true });
+    }
+
+    // 已登录会员改密码
+    if (path === '/api/password' && req.method === 'POST') {
+      const mid = shop.verifyNamed('sh_mid', readCookie(req, 'sh_mid'));
+      const m = shop.memberOf(mid);
+      if (!m) return sendJson(res, 401, { ok: false, error: '请先登录' });
+      let body = {};
+      try {
+        body = JSON.parse((await readBody(req)) || '{}');
+      } catch {
+        body = {};
+      }
+      if (m.pass_hash) {
+        const old = shop.login(m.phone, body.old_password);
+        if (!old.ok) return sendJson(res, 400, { ok: false, error: '原密码不对' });
+      }
+      try {
+        shop.setPassword(m.id, body.new_password);
+        return sendJson(res, 200, { ok: true });
+      } catch (e) {
+        return sendJson(res, 400, { ok: false, error: e.message });
+      }
     }
 
     if (path === '/api/admin/login' && req.method === 'POST') {
@@ -1466,7 +1544,9 @@ const server = createServer(async (req, res) => {
       }
       if (sub === 'codes' && req.method === 'POST') {
         try {
-          return sendJson(res, 200, { ok: true, codes: shop.addCodes(body.tier, body.count, body.note || '') });
+          // price: 0 = 补开/赠送，不记收入；不传则按档位原价
+          const price = body.free || body.price === 0 ? 0 : undefined;
+          return sendJson(res, 200, { ok: true, codes: shop.addCodes(body.tier, body.count, body.note || '', price) });
         } catch (e) {
           return sendJson(res, 400, { ok: false, error: e.message });
         }
@@ -1489,7 +1569,11 @@ const server = createServer(async (req, res) => {
           .sort((a, b) => b.created_at.localeCompare(a.created_at))
           .slice(0, 500)
           .map((m) => ({
-            ...m,
+            id: m.id, phone: m.phone, tier: m.tier, tier_name: m.tier_name,
+            started_at: m.started_at, expires_at: m.expires_at, code: m.code,
+            gift: m.gift, gift_sent: m.gift_sent, gift_sent_at: m.gift_sent_at,
+            revoked: m.revoked, revoked_at: m.revoked_at, created_at: m.created_at,
+            has_password: Boolean(m.pass_hash),
             active: shop.memberStatus(m).active,
             used_today: shop.usageToday(m.id),
             spent_today: shop.spendToday(m.id),
@@ -1508,6 +1592,14 @@ const server = createServer(async (req, res) => {
         try {
           const out = shop.bindCode(body.member_id);
           return sendJson(res, 200, { ok: true, ...out });
+        } catch (e) {
+          return sendJson(res, 400, { ok: false, error: e.message });
+        }
+      }
+      if (sub === 'reset-password' && req.method === 'POST') {
+        try {
+          shop.setPassword(body.member_id, body.password);
+          return sendJson(res, 200, { ok: true });
         } catch (e) {
           return sendJson(res, 400, { ok: false, error: e.message });
         }
