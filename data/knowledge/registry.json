@@ -1939,6 +1939,19 @@
       "summary": "《说物解字》卷七「人文」16 篇的字理解读：官（馆舍）、皇（日之光芒与旱蝗）、国（从戈从囗）、胡（下巴垂肉与胡服）、静（从争青声）、市（从止从示之庙会）、约（从糸久声）、豖（阉割与宫刑）、孜（小子持杖嬉戏）、明（日月目月囧月窗月四体）、颐（叩齿咽津与梳头）、休沐（五日一洗）、毅（野猪冲撞）、义（羊角饰我之仪仗）、荤（辛味菜与五荤）、贞（贝卦卜问与自省）。",
       "keywords": [],
       "permission": "public"
+    },
+    {
+      "id": "topic-zika-shizi",
+      "node_id": "hanzi-yinyuan",
+      "title": "字卡（释字五步）",
+      "path": "knowledge/hanzi-yinyuan/02y-zika.md",
+      "summary": "按释字五步规程逐字成稿的字卡条目：字根本義、形旁聲旁、横向比較、聲母義。",
+      "keywords": [
+        "五步",
+        "字卡",
+        "释字"
+      ],
+      "permission": "public"
     }
   ],
   "relationships": [],
@@ -38824,6 +38837,36 @@
       ]
     },
     "clm_90840BDD55F53FFECE4C737185": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_C7809DD3D443E1DEA95920D566": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_CAF2781B58540A8180DD569026": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_08819A56A1218109C45116FA50": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_219E0B44B1BDF0B44D9B262346": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_97007CA3FD0D2700E7B38BDBCB": {
+      "fact_classes": [
+        "evidence_scope"
+      ]
+    },
+    "clm_475D6D2F4DCF0EC6B6A724A933": {
       "fact_classes": [
         "evidence_scope"
       ]
