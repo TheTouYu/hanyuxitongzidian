@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡世部余10条入库 2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "zk-306",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貰本義：貰＝貝（形旁）＋世（聲旁）",
+   "statement": "貰（shì）：貰＝貝（形旁）＋世（聲旁）。《說文》「貸也」賒借；《篇海》「恕也」赦免寬縱。 橫向：③改易：貰（貝）賒借｜賒（貝）賒｜貸（貝）貸。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-307",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勩本義：勩＝力（形旁）＋貰（聲旁）",
+   "statement": "勩（yì）：勩＝力（形旁）＋貰（聲旁）。《說文》「勞也」（《詩》「莫知我勩」）；《段注》「凡物久用而勞敝曰勩」——磨損失稜。 橫向：③改易：勩（力）勞敝｜敝（攴）敝｜疲（疒）疲。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-308",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跇本義：跇（𧻸跩𨒧迣）＝足（形旁）＋世（聲旁）",
+   "statement": "跇（yì）：跇（𧻸跩𨒧迣）＝足（形旁）＋世（聲旁）。《說文》「述也」超越；《集韻》「超逾也」；chì 跳也踰也。 橫向：③改易：跇（足）超越｜踰（足）逾｜跳（足）跳。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-309",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "迣本義：迣（迾）＝辵（形旁）＋世（聲旁）",
+   "statement": "迣（zhì）：迣（迾）＝辵（形旁）＋世（聲旁）。《說文》「迾也，晉趙曰迣」遮攔；《集韻》「車駕清道」；《廣韻》「度也」。 橫向：③改易：迣（辵）遮攔｜迾（辵）清道｜越（走）逾。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-310",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髰本義：髰（鬄剃𩬲髢）＝髟（形旁）＋世（聲旁）",
+   "statement": "髰（tì）：髰（鬄剃𩬲髢）＝髟（形旁）＋世（聲旁）。《集韻》「髲也」假髮；《字彙補》「古文剃字」。 橫向：③改易：髰（髟）假髮｜剃（刀）剃｜髢（髟）髢。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-311",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鉪本義：鉪＝金（形旁）＋世（聲旁）",
+   "statement": "鉪（dì）：鉪＝金（形旁）＋世（聲旁）。《釋名》「殺也，言殺草也」——金屬農具除草。 橫向：③改易：鉪（金）殺草｜刈（刀）刈｜銍（金）銍。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-312",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "泄本義：泄（洩）＝水（形旁）＋世（聲旁）",
+   "statement": "泄（yì）：泄（洩）＝水（形旁）＋世（聲旁）。《說文》「水，受九江博安洵波，北入氐」——今安徽汲河；引申洩漏、宣洩。 橫向：④洩漏：泄（水）漏｜洩（水）同｜漏（水）漏。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-313",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "怈本義：怈（𢘽𢖪）＝心（形旁）＋世（聲旁）",
+   "statement": "怈（yì）：怈（𢘽𢖪）＝心（形旁）＋世（聲旁）。《集韻》引《說文》「習也」，一曰明也——心竅透亮。 橫向：④光明：怈（心）明｜習（羽）習｜惺（心）惺。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-314",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "屜本義：屜＝尸（形旁）＋世（聲旁）",
+   "statement": "屜（tì）：屜＝尸（形旁）＋世（聲旁）。《字彙》「鞌屜」馬鞍墊；今指抽屜、窗櫺——取葉之層層疊疊。 橫向：②層疊：屜（尸）抽屜｜屟（尸）屟｜笹（竹）同屜。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "zk-315",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "笹本義：笹＝竹（形旁）＋世（聲旁）",
+   "statement": "笹（tì）：笹＝竹（形旁）＋世（聲旁）。《字海》同「屜」；yè 甲骨文从竹从世，當指竹葉。 橫向：②層疊：笹（竹）竹葉｜屜（尸）屜｜葉（艸）葉。",
+   "boundary": "源自《系統漢語》卷六十二「蛇」部之「世部」（第365部）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
