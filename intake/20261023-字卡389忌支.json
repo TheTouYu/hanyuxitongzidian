@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡389忌支2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bt4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忌（字卡）",
+   "statement": "忌：由跪而畏而諱而止：己象跪時腿之相迭，心定其落點。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跽（字卡）",
+   "statement": "跽：忌之本字加足，跪之形顯；《釋名》「見所敬忌，不敢自安也」。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鵋（字卡）",
+   "statement": "鵋：腿短身豎、狀如跪著，故以鳥定落點（鵋䳢即鵂鶹）。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠲹（字卡）",
+   "statement": "𠲹：跪在席上吃飯，以口定其落點。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡷞（字卡）",
+   "statement": "𡷞：山勢上聳而根腳蜷曲如跪者之股，以山定落點。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦮼（字卡）",
+   "statement": "𦮼：莖稈曲而下垂，通萁（豆莖禾稈可飼），以艸定落點。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䋟（字卡）",
+   "statement": "䋟：繩索交結成紐（秤紐），與己之編結相合，以糸定落點。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誋（字卡）",
+   "statement": "誋：要對方跪著而告誡之，以言定落點。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡜱（字卡）",
+   "statement": "𡜱：與誋同取訓誡憤怒，以女定落點。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥭜（字卡）",
+   "statement": "𥭜：形近台之訛，記作讹變借形，不涉取義。",
+   "boundary": "源自《系統漢語》第389部「己部」忌支；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
