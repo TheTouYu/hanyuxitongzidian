@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡399余+400才部首6字2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bci-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踩（字卡）",
+   "statement": "踩（cǎi）：《篇韵》「音葵，跳也。又音劣，义同」；cǎi 践踏。",
+   "boundary": "源自《系統漢語》第399部「采部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睬（字卡）",
+   "statement": "睬（cǎi）：《字彙补》「偢睬，俗言也」——理会、答理。",
+   "boundary": "源自《系統漢語》第399部「采部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "採（字卡）",
+   "statement": "採（cǎi）：《正韵》「同采。摘也、取也、揽也」——采加手之累增字。",
+   "boundary": "源自《系統漢語》第399部「采部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "啋（字卡）",
+   "statement": "啋（cǎi）：《汉典》「幸运，喜幸；理睬、理会」；《篇海》「諠也、大也、动也」。",
+   "boundary": "源自《系統漢語》第399部「采部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼒（字卡）",
+   "statement": "鼒（zī）：《说文》「鼎之圜掩上者」；《玉篇》「小鼎也」——小口圆顶之鼎。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "閉（字卡）",
+   "statement": "閉（bì）：《说文》「阖门也。从门；才，所以歫门也」——门闩。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "財（字卡）",
+   "statement": "財（cái）：《说文》「人所宝也。从贝才声」——物资与货币的总称。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "材（字卡）",
+   "statement": "材（cái）：《说文》「木梃也。从木才声」——大树干，入于用者曰材。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦬁（字卡）",
+   "statement": "𦬁（cái）：《类篇》引《博雅》「蘱、𦬁，𦳋也」——蒯草，可编席。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bci-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "豺（字卡）",
+   "statement": "豺（chái）：《说文》「狼属，狗声。从豸才声」——豺狗，性凶残、好成群。",
+   "boundary": "源自《系統漢語》第400部「才部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
