@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡387幾部餘7字2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bs-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僟（字卡）",
+   "statement": "僟 jī：从人幾聲，《說文》精謹也（巨衣切），精詳謹嚴；《集韻》深練於事曰僟。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bs-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧗓（字卡）",
+   "statement": "𧗓 jī：从血幾聲，《說文》以血有所刏塗祭也（渠稀切），割傷出血塗於新器之血祭。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bs-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘰（字卡）",
+   "statement": "嘰 jī：从口幾聲，《說文》小食也（居衣切），小口小口地吃；《集韻》唏也、哀歎。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bs-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥼘（字卡）",
+   "statement": "𥼘 qí：从米，《集韻》小食也，或从口。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bs-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䟇（字卡）",
+   "statement": "䟇 jī／xī：从走幾聲，《說文》走也，當指碎步走。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bs-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩴪（字卡）",
+   "statement": "𩴪 qí：从鬼幾聲，《說文》鬼俗也；《淮南傳》「吳人鬼，越人𩴪」，奉信鬼之風俗。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bs-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧰙（字卡）",
+   "statement": "𧰙 qí：从豈幾聲，《說文》㡮也、訖事之樂也；古代燕饗將畢所奏之樂。",
+   "boundary": "源自《系統漢語》第387部「幾部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
