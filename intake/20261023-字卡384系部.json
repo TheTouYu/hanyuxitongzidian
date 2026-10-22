@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡383絲384系2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bn-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絲（字卡）",
+   "statement": "絲 sī：从糸之二迭，本屬迭體字，指絲線繞成的絲束或織物，或指絲線特別細長（《說文》蠶所吐也，从二糸）。",
+   "boundary": "源自《系統漢語》第383部「糸部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷥（字卡）",
+   "statement": "鷥 sī：从鳥絲省聲，鷺鷥即白鷺，頭上冠羽似絲束（郭璞注「頭上毛似絲」），取細長如絲。",
+   "boundary": "源自《系統漢語》第383部「糸部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "噝（字卡）",
+   "statement": "噝 sī：象聲字，形容尖細的長聲；與絲同取「細長」之狀以定聲。",
+   "boundary": "源自《系統漢語》第383部「糸部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨖾（字卡）",
+   "statement": "𨖾 biān：从辵，振繩墨也（《玉篇》布千切），行不絕也（《字彙》）；繩墨之線長而振，行如線不絕。",
+   "boundary": "源自《系統漢語》第383部「糸部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕬（字卡）",
+   "statement": "蕬 sī：从艸絲聲，菟蕬即菟絲（《爾雅》女蘿菟絲），或指蕬草（江南水草葉如薤）；二物皆絲狀。",
+   "boundary": "源自《系統漢語》第383部「糸部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "系（字卡）",
+   "statement": "系 xì：从手抓絲形，象意手將多根絲相連表示聯結，亦可象拈出絲頭即絲緒；轉義繼承、譜系。",
+   "boundary": "源自《系統漢語》第384部「系部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "係（字卡）",
+   "statement": "係 xì：从人从系，系亦聲，拴結捆綁；甲骨文象用繩索勒住脖子，或紮束頭髮形，今簡化作系。",
+   "boundary": "源自《系統漢語》第384部「系部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "乿（字卡）",
+   "statement": "乿 zhì／luàn：从糸，《集韻》理也（或作𦠋𠩺，通作治），luàn 古同亂；一繩之收緒則治、棼緒則亂。",
+   "boundary": "源自《系統漢語》第384部「系部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥒶（字卡）",
+   "statement": "𥒶 huà：从石，《字彙補》聲也，石聲；系部旁支，以石定類。",
+   "boundary": "源自《系統漢語》第384部「系部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bn-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧚃（字卡）",
+   "statement": "𧚃 xì：从衣，《集韻》䙎帶也或作𧚃𦃝，即衣帶；《正字通》謂俗系字，與系、係同取繫。",
+   "boundary": "源自《系統漢語》第384部「系部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
