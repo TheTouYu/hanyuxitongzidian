@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡388子部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bt-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "字（字卡）",
+   "statement": "字 zì：从子在宀下，子亦聲，《說文》乳也（疾置切）；生育孵化、女子許嫁曰字、文字者孳也六義相生無窮。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牸（字卡）",
+   "statement": "牸 zì：从牛字聲，《廣韻》牝牛（母牛）；《廣雅》雌也。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芓（字卡）",
+   "statement": "芓 zì／zǐ：从艸子聲，《說文》麻母也（疾吏切），麻子之母株；zǐ 通秄，壅禾本。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秄（字卡）",
+   "statement": "秄 zǐ／zì：从禾子聲，《說文》壅禾本（卽裡切），給禾麥根部培土；俗謂禾猥生曰秄。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耔（字卡）",
+   "statement": "耔 zǐ：从耒子聲，《廣韻》擁苗本也；《龍龕》擁苗器也。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孳（字卡）",
+   "statement": "孳 zī：从子茲聲，《說文》汲汲生也（子之切），生育繁殖；《廣韻》孳息、《廣雅》孿也。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孜（字卡）",
+   "statement": "孜 zī：从攴子聲，《說文》汲汲也，勤勉不殆；《周書》「孜孜無怠」。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "李（字卡）",
+   "statement": "李 lǐ：从木子聲，《說文》果也；味酸而孕婦喜食，喜食李意味著有子，與梅同例，或為婚育之神靈。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汓（字卡）",
+   "statement": "汓 qiú／yóu：从水从子，《說文》浮行水上也（似由切），嬰兒能浮於水；亦作泅、遊。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籽（字卡）",
+   "statement": "籽 zǐ：从米子聲，某些植物的種子；果中有子，與字之生殖同源。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孖（字卡）",
+   "statement": "孖 zī／mā：从二子，《廣韻》雙生子也；《玉篇》亦作滋、蕃長也，相連成對。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bt-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吇（字卡）",
+   "statement": "吇 zǐ／jí：从口子聲，《集韻》吇吇鳥聲；《正字通》又與唧通。",
+   "boundary": "源自《系統漢語》第388部「子部」；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
