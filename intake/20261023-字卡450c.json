@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡450c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbs-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潓（字卡·huì）",
+   "statement": "潓，huì：《说文》「水，出廬江，入淮」——水名。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "韢（字卡·suì）",
+   "statement": "韢，suì：《说文》「櫜紐也」——扎口袋的皮绳；一说盛敌人首级的口袋。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繐（字卡·suì）",
+   "statement": "繐，suì：《说文》「細疏布也」——细而疏的麻布，古作丧服；亦指穗状饰物。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏸（字卡·huì）",
+   "statement": "鏸，huì：《广韵》「銳也，又三隅矛」；suì 大鼎；ruì 侍臣所执兵。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憓（字卡·huì）",
+   "statement": "憓，huì：《玉篇》「愛也、羡也」；《集韵》「怒也」——爱羡，亦怒。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譓（字卡·huì）",
+   "statement": "譓，huì：《集韵》「辨察也」；《广韵》「多謀智曰譓，又順也」——明察多谋。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦒎（字卡·huì）",
+   "statement": "𦒎，huì：《集韵》「翮末」——《玉篇》「六翮之末」：鸟翅羽茎的末端。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘒（字卡·huì）",
+   "statement": "嘒，huì：《说文》「小聲也」——《诗》「嘒彼小星」：细小之声、微明。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕙（字卡·huì）",
+   "statement": "蕙，huì：《玉篇》「香草，生下濕地」——一干数花而香不足者蕙，古以避疫。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "軎（字卡·wèi）",
+   "statement": "軎，wèi：从口从叀：象纺轮之形，亦象拈纱时纺轮转动的细索之声。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轡（字卡·pèi）",
+   "statement": "轡，pèi：《说文》「馬轡也，从絲从軎」——《诗》「六轡如絲」：驾驭牲口的缰绳。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繫（字卡·xì）",
+   "statement": "繫，xì：《玉篇》「子孫相繋也，与系同」——联属、拴缚。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
