@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡523a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羊（字卡·yáng）",
+   "statement": "羊（yáng）本部字根：角為標誌，溫順群處，引申美善。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洋（字卡·yáng）",
+   "statement": "洋（yáng）从水羊聲：廣大——言羊毛多而厚；又海洋。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徉（字卡·yáng）",
+   "statement": "徉（yáng）从彳羊聲：仿徉、徘徊——羊走路較慢。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "样（字卡·yàng）",
+   "statement": "样（yàng）从木羊聲：榜樣、模樣——群羊有領頭羊，為標準。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翔（字卡·xiáng）",
+   "statement": "翔（xiáng）从羽羊聲：迴飛（《說文》），取羊毛飛揚之狀。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詳（字卡·xiáng）",
+   "statement": "詳（xiáng）从言羊聲：審議、詳細（《說文》「審議也」），取羊性溫順可細察。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恙（字卡·yàng）",
+   "statement": "恙（yàng）从心羊聲：病——羊哀聲如呻吟；又無恙。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佯（字卡·yáng）",
+   "statement": "佯（yáng）从人羊聲：假裝——羊眼小而似假寐。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痒（字卡·yǎng）",
+   "statement": "痒（yǎng）从疒羊聲：皮膚癢——羊毛貼膚而刺癢。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祥（字卡·xiáng）",
+   "statement": "祥（xiáng）从示羊聲：吉凶之兆、福善——羊為祭祀之牲。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "烊（字卡·yáng）",
+   "statement": "烊（yáng）从火羊聲：熔化、炙——羊脂遇火而融。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氧（字卡·yǎng）",
+   "statement": "氧（yǎng）从氣羊聲：化學元素（氧氣），取羊之溫順無害。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
