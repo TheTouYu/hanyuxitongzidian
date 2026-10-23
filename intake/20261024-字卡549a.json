@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡549a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lliao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戮·lù",
+   "statement": "戮：从戈翏聲：殺也（《說文》「殺也」），刑戮、戮力（并力）。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "寥·liáo",
+   "statement": "寥：从宀翏聲：空虛也，寥廓、寂寥。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膠·jiāo",
+   "statement": "膠：从肉翏聲：胾也（《說文》「胾也」，用動物膠），膠黏。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謬·miù",
+   "statement": "謬：从言翏聲：狂者之妄言（《說文》「狂者之妄言也」），謬誤。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繆·miù",
+   "statement": "繆：从糸翏聲：枲之十絜（《說文》），綢繆、紕繆。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勠·lù",
+   "statement": "勠：从力翏聲：并力也（《說文》「并力也」），戮力同。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瘳·chōu",
+   "statement": "瘳：从疒翏聲：疾瘉也（《說文》「疾瘉也」），病癒。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏐·liú",
+   "statement": "鏐：从金翏聲：美金也（《說文》「美金也」），紫磨金。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷚·liù",
+   "statement": "鷚：从鳥翏聲：天鸙（《說文》「天鸙也」），雲雀一類。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漻·liáo",
+   "statement": "漻：从水翏聲：清深也（《說文》「清深也」）。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熮·liáo",
+   "statement": "熮：从火翏聲：火貌（《說文》「火貌」）。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "好·hǎo",
+   "statement": "好：从女从子（婦人抱子）：美也（《說文》）；引申美好、喜愛、友好。",
+   "boundary": "源自《系統漢語》第548－549部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
