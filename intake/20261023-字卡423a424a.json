@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡423a424a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癶（字卡）",
+   "statement": "癶（bō）：本部部首字——两足相背、交叉，行走不顺。",
+   "boundary": "源自《系統漢語》第423部「癶部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "舛（字卡）",
+   "statement": "舛（chuǎn）：与癶一字——两足相背、交错；引申违背、错乱。",
+   "boundary": "源自《系統漢語》第423部「癶部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "荈（字卡）",
+   "statement": "荈（chuǎn）：《集韵》「茶叶老者」——《类篇》「茶晚取者名荈」，即悖时令。",
+   "boundary": "源自《系統漢語》第423部「癶部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥬫（字卡）",
+   "statement": "𥬫（chuǎn）：《集韵》「竹以贯物也」——义音同「串」。",
+   "boundary": "源自《系統漢語》第423部「癶部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曻（字卡）",
+   "statement": "曻（shēng）：同「昇」——上升。",
+   "boundary": "源自《系統漢語》第423部「癶部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癹（字卡）",
+   "statement": "癹（bá）：本部部首字——以足踏草、中耕除草（徕田）。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢯸（字卡）",
+   "statement": "𢯸（bá）：《集韵》「癹，以足蹋夷艸，或从足、从手」——除草。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦳠（字卡）",
+   "statement": "𦳠（bá）：《集韵》「癹，除草也，或从艸」。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏺（字卡）",
+   "statement": "鏺（pō）：《说文》「两刃，木柄，可以刈草」——长柄两刃镰刀。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撥（字卡）",
+   "statement": "撥（bō）：《说文》「治也」——治理；今义用手指或棍子推动挑起，本义即癹。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
