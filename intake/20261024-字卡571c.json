@@ -1,0 +1,228 @@
+{
+ "schema_version": 1,
+ "intent": "字卡571c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llei-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喃·nán",
+   "statement": "喃：从口南聲：呢喃，小聲說話（《集韻》語聲）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡇨·nān",
+   "statement": "𡇨：（囝）从囗从子：兒也（《漢典》「同囝」）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧋱·zhān",
+   "statement": "𧋱：从蟲占聲：音詀（《字彙補》），疑指蟲飛聲。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耒·lěi",
+   "statement": "耒：从木从丯（丯指刻）：手耕曲木（《說文》），木製犁具，耒耜之柄。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誄·lěi",
+   "statement": "誄：从言耒聲：諡也（《說文》），累列行跡以作諡號（祭文）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䒹·lèi",
+   "statement": "䒹：从艸耒聲：耕多艸（《說文》），果實下垂皃。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頛·lèi",
+   "statement": "頛：从頁从耒：頭不正也（《說文》），耒，頭傾也。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㑍·lèi",
+   "statement": "㑍：从人耒聲：俹也（《集韻》），倚靠。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㼍·lěi",
+   "statement": "㼍：从瓜耒聲：㼍㼏，瓜名（《集韻》），一曰傷熟瓜。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䋘·zhuì",
+   "statement": "䋘：从糸耒聲：以繩有所縣也（《說文》縋），自上放物。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠱤·lěi",
+   "statement": "𠱤：从口耒聲：以言相遮（《篇海類編》），言語相阻。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥑶·lěi",
+   "statement": "𥑶：从石耒聲：礧，大石皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨀤·lèi",
+   "statement": "𨀤：从足耒聲：足跌（《集韻》）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耤·jí",
+   "statement": "耤：从耒从昔（昔為甾之訛）：象人持耒耕作，引申借助、賦稅、踐踏、狼藉。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籍·jí",
+   "statement": "籍：从竹耤聲：簿書也（《說文》），戶籍、門籍；引申登記、徵稅。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-016",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藉·jiè",
+   "statement": "藉：从艸耤聲：祭藉也（《說文》），祭祀陳列之墊；引申憑借、踐踏、狼藉。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei-017",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䣢·jí",
+   "statement": "䣢：从邑耤聲：蜀地也（《說文》）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
