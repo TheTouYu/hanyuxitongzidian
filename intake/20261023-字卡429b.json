@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡429b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lb2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粒（字卡·lì）",
+   "statement": "粒，lì：《说文》「糂也」——米粒；分散成颗。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拉（字卡·lā）",
+   "statement": "拉，lā：《说文》「摧也」——折断、败；又招邀同行，拽离原处。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柆（字卡·lā）",
+   "statement": "柆，lā：《说文》「折木也」——折断树木。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㕇（字卡·lā）",
+   "statement": "㕇，lā：《说文》「石声也」——石头崩裂之声。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "泣（字卡·qì）",
+   "statement": "泣，qì：《说文》「无声出涕曰泣」——不出声而流泪。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "垃（字卡·lā）",
+   "statement": "垃，lā：垃圾——尘土与弃物。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "啦（字卡·lá）",
+   "statement": "啦，lá：助词，作用略同「了」。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "砬（字卡·lā）",
+   "statement": "砬，lā：《广韵》「砬礘，石声」；一曰石药能制药毒。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鞡（字卡·lɑ）",
+   "statement": "鞡，lɑ：靰鞡——东北垫靰鞡草的暖鞋。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戾（字卡·lì）",
+   "statement": "戾，lì：犬立而欲扑，引申乖张背谬、凶残；字族指立而不稳。",
+   "boundary": "源自《系統漢語》第429－430部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
