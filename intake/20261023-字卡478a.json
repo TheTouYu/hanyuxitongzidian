@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡478a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcf-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袁（字卡·yuán）",
+   "statement": "袁，yuán：本部部首字：脫衣之人／猿之初文；引申攀援、遙遠、姓氏。",
+   "boundary": "源自《系統漢語》第478部袁部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcf-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "遠（字卡·yuǎn）",
+   "statement": "遠，yuǎn：从辵袁聲：路遥為遠，取猿攀之遠。",
+   "boundary": "源自《系統漢語》第478部袁部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcf-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "園（字卡·yuán）",
+   "statement": "園，yuán：从囗袁聲：四周有垣的菜果林木之地，取袁之圍合。",
+   "boundary": "源自《系統漢語》第478部袁部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcf-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猿（字卡·yuán）",
+   "statement": "猿，yuán：从犬袁聲：與猴相比體大、無頰囊、無尾，更像人。",
+   "boundary": "源自《系統漢語》第478部袁部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcf-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睘（字卡·qióng）",
+   "statement": "睘，qióng：从目袁聲：猴面鷹（草鴞），臉盤如猿、目不能轉須轉頸270°；引申驚視、憂愁孤獨。",
+   "boundary": "源自《系統漢語》第478部袁部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
