@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡410此部c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頾（字卡）",
+   "statement": "頾（zī）：《说文》「口上须也」；甲骨文象人颊有须形，西周金文才加「此」作声符。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鈭（字卡）",
+   "statement": "鈭（zī）：《说文》「鈭錍，釜也」——短斧；一说小釜。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姕（字卡）",
+   "statement": "姕（zī）：《说文》「妇人小物也」（严可均校：物当作弱）——妇人柔弱貌；《集韵》「舞也」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祡（字卡）",
+   "statement": "祡（chái）：《说文》「烧祡焚燎以祭天神」——烧柴祭天；通作柴。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柴（字卡）",
+   "statement": "柴（chái）：《说文》「小木散材」；《广韵》「薪也」；又「柴池，参差也」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤿙（字卡）",
+   "statement": "𤿙（zhì）：《广韵》「𤿙皱，皮不展也」——皮皱不展；又赖皮。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "啙（字卡）",
+   "statement": "啙（zǐ）：《说文》「窳也」；《方言》「短也」；《广韵》「弱也」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鮆（字卡）",
+   "statement": "鮆（jì）：《说文》「饮而不食，刀鱼也」；《方言》「凡物生而不长大，亦谓之鮆」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "飺（字卡）",
+   "statement": "飺（cí）：《玉篇》「嫌食貌」；《集韵》「歉食也」「恶食也」——厌食。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㠿（字卡）",
+   "statement": "㠿（zī）：《玉篇》「布也」；《类篇》「布名」——精美的细布。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佌（字卡）",
+   "statement": "佌（cǐ）：《尔雅·释训》「佌佌，小也」；《玉篇》「小舞貌」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "呲（字卡）",
+   "statement": "呲（cī）：《集韵》「嫌食也」「无食也」；又同「龇」，露齿。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
