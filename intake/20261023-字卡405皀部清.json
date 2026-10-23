@@ -1,0 +1,189 @@
+{
+ "schema_version": 1,
+ "intent": "字卡405皀部清2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "冟（字卡）",
+   "statement": "冟（xì）：《说文》「飯剛柔不調相箸也」——饭软硬不匀而黏着。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤈥（字卡）",
+   "statement": "𤈥（dí）：《广韵》「𤈥，餠屬」——饼类食物。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鵖（字卡）",
+   "statement": "鵖（bī）：《广韵》「鵖，鳥名」；《尔雅》「鵖鴔，戴鵀」——戴胜鸟。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡇠（字卡）",
+   "statement": "𡇠（zǎi）：《集韵》「𡇠，出也」，一曰「聚也」。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孂（字卡）",
+   "statement": "孂（jiǎo）：《说文》「竦身也，从女簋聲」；《广雅》「材也」，轻劲有材力。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "食（字卡）",
+   "statement": "食（shí）：《玉篇》「飯食」，《广韵》「飲食」；从亼皀声，象意享用食物。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧐂（字卡）",
+   "statement": "𧐂（shí）：《说文》「敗創也，从虫、人、食，食亦聲」——皮肉败坏生疮，凡物侵蠹皆曰蝕。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "飤（字卡）",
+   "statement": "飤（sì）：《说文》「糧也，从人、食」；《玉篇》「食也」——喂饲。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湌（字卡）",
+   "statement": "湌（cān）：《集韵》「餐，《說文》『吞也』，或从水」——吞食。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䬤（字卡）",
+   "statement": "䬤（zhān）：《集韵》「饘，《說文》『糜也，周謂之饘，宋謂之糊』」——稠粥。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠩸（字卡）",
+   "statement": "𠩸（kuì）：《集韵》「饋，《說文》『餉也』，古作𠩸」——馈赠食物。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "飭（字卡）",
+   "statement": "飭（chì）：《说文》「致堅也，从人从力，食聲」——人力整治使坚牢。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "飾（字卡）",
+   "statement": "飾（shì）：《说文》「㕞也，从巾从人，食聲」——刷拭、饰物。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdb-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籂（字卡）",
+   "statement": "籂（shì）：古人名用字。",
+   "boundary": "源自《系統漢語》第405部「皀部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
