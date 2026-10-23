@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡438c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbl-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㪵（字卡·bàn）",
+   "statement": "㪵，bàn：《说文》「量物分半也，从斗从半」——用斗量物、分其半；升五十谓之㪵。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畔（字卡·pàn）",
+   "statement": "畔，pàn：《说文》「田界也，从田半声」——田地的界限；又借为背叛、离开。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "泮（字卡·pàn）",
+   "statement": "泮，pàn：《说文》「诸侯乡射之宫，西南为水，东北为墙」——泮宫，一半有水；又冰释（泮涣）。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "怑（字卡·bàn）",
+   "statement": "怑，bàn：《集韵》「怑愌，不顺也」——不随心。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柈（字卡·pán）",
+   "statement": "柈，pán：《集韵》「槃，承槃也，或作柈」——盛物的盘；又木名。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鉡（字卡·bàn）",
+   "statement": "鉡，bàn：《集韵》「锹也」——铁锹；又同槃。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩢔（字卡·bàn）",
+   "statement": "𩢔，bàn：《集韵》「𩢔䮗，马行貌」——马行之状。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溿（字卡·pàn）",
+   "statement": "溿，pàn：《正字通》「沜、溿，并俗字，泮，涯也」——水岸。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詊（字卡·pàn）",
+   "statement": "詊，pàn：《集韵》「巧言」——巧言。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牉（字卡·pàn）",
+   "statement": "牉，pàn：《玉篇》「半也，分也」；《广韵》「牉合，夫妇也」——半、分；合婚为牉合。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧺾（字卡·pǎn）",
+   "statement": "𧺾，pǎn：《集韵》「走貌」——行走之状。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨒃（字卡·pàn）",
+   "statement": "𨒃，pàn：《集韵》「去也」——离去。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
