@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡572c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lsii-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桚·zā",
+   "statement": "桚：从木𡿪聲：笮也（《集韻》），狹迫、擠壓。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拶·zā",
+   "statement": "拶：从手𡿪聲：逼拶也（《玉篇》），擠壓；拶指為酷刑具。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣴖·zá",
+   "statement": "𣴖：从水𡿪聲：水濺也（《集韻》），或从賛。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨀨·zuǒ",
+   "statement": "𨀨：从足𡿪聲：蹙𨀨，行貌（《集韻》），行相迫蹙。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠡝·yì",
+   "statement": "𠡝：从力𡿪聲：動也（《字彙補》）。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "死·sǐ",
+   "statement": "死：从歺从人：生命終結（《說文》「澌也，人所離也」），引申死板、極甚。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "屍·shī",
+   "statement": "屍：从尸死聲：屍體（《說文》「終主」），死屍。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餐·cān",
+   "statement": "餐：从食𣦼聲：吞也（《說文》「吞也」），進食、飯食。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㛑·càn",
+   "statement": "㛑：从女𣦼聲：三女為㛑，美也（《說文》），指女膚色白。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䱗·cān",
+   "statement": "䱗：从魚𣦼聲：魚名（《集韻》），即鱎魚。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粲·càn",
+   "statement": "粲：从米𣦼聲：稻餅也（《說文》），又鮮明、露齒笑。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsii-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燦·càn",
+   "statement": "燦：从火粲聲：燦爛（《集韻》），光彩鮮明。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
