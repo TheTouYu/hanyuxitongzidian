@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡561a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyi2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "乂·yì",
+   "statement": "乂：象交叉傷痕：芟艸也（《說文》「芟艸也」），割取；引申治理、懲戒、賢才。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刈·yì",
+   "statement": "刈：从刀乂聲：芟艸也（《說文》），取也、殺也，收割。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艾·ài",
+   "statement": "艾：从艸乂聲：冰臺也（《說文》「冰臺也」），艾草；引申止、養、美。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䢃·yì",
+   "statement": "䢃：从辟乂聲：治也（《說文》「治也」），治理、安定。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㣻·yì",
+   "statement": "㣻：从心乂聲：懲也（《說文》「懲也」），困患為戒。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䖊·yì",
+   "statement": "䖊：从虎乂聲：虎皃（《說文》「虎皃」），虎呲牙之狀。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㲼·chà",
+   "statement": "㲼：从水乂聲：同汊，水歧流（《集韻》）。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠮣·wú",
+   "statement": "𠮣：从口乂聲：同「吾」，自我之稱（《集韻》）。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤴧·yì",
+   "statement": "𤴧：从疒乂聲：病也（《集韻》），瘡痍。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴱·ài",
+   "statement": "鴱：从鳥艾聲：鳥名（《說文》「鴱，鳥也」），巧婦鳥。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餀·hài",
+   "statement": "餀：从食艾聲：食臭也（《說文》「食臭也」）。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哎·āi",
+   "statement": "哎：从口艾聲：歎詞（《集韻》），哎喲。",
+   "boundary": "源自《系統漢語》第561部「乂部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
