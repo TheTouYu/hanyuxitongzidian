@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "intent": "字卡569b2026-10-24",
+ "intent": "字卡569b5-2026-10-24",
  "risk": "low",
  "claims": [
   {
@@ -9,32 +9,6 @@
    "topic_id": "topic-zika-shizi",
    "title": "利·lì",
    "statement": "利：从禾从勿（崩口之刀＝犁）：犂之初文（《玉篇》「耕具也」），引申鋒利、順遂、美好。",
-   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
-   "permission": "public",
-   "fact_classes": [
-    "evidence_scope"
-   ],
-   "duplicate_resolution": "create_distinct_with_boundary"
-  },
-  {
-   "id": "lli-002",
-   "node": "hanzi-yinyuan",
-   "topic_id": "topic-zika-shizi",
-   "title": "犂·lí",
-   "statement": "犂：从牛利聲：耕也（《說文》「耕也」），墾田器；亦指雜色牛。",
-   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
-   "permission": "public",
-   "fact_classes": [
-    "evidence_scope"
-   ],
-   "duplicate_resolution": "create_distinct_with_boundary"
-  },
-  {
-   "id": "lli-003",
-   "node": "hanzi-yinyuan",
-   "topic_id": "topic-zika-shizi",
-   "title": "𨛫·lí",
-   "statement": "𨛫：从邑利聲：殷諸侯國（《說文》），西伯戡𨛫。",
    "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
    "permission": "public",
    "fact_classes": [
