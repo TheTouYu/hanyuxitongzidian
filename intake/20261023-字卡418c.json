@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡418c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㤥（字卡）",
+   "statement": "㤥（hài）：《说文》「苦也」——愁苦、患苦、愁畏。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "該（字卡）",
+   "statement": "該（gāi）：《说文》「军中约也」——军中警戒条约，引申备、咸、兼、皆。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "閡（字卡）",
+   "statement": "閡（ài）：《说文》「外闭也」——从外面关门，即耳门、栅栏。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "咳（字卡）",
+   "statement": "咳（hái）：《说文》「小儿笑也」，古文从子作「孩」；ké/kài 同「欬」，嗽也。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "欬（字卡）",
+   "statement": "欬（kài）：《说文》「屰气也」——胃气上逆，今谓咳嗽；又謦欬言笑。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䬵（字卡）",
+   "statement": "䬵（gāi）：《集韵》「饴也」——饴糖；ài 读通食气、打嗝、食久而变味。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痎（字卡）",
+   "statement": "痎（jiē）：《说文》「二日一发疟」——疟疾；旱獭易染鼠疫，症状近似。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侅（字卡）",
+   "statement": "侅（gāi）：《说文》「奇侅，非常也」——不平常；又饮食至咽曰侅（噎）。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "硋（字卡）",
+   "statement": "硋（ài）：《集韵》「碍，止也」——阻碍；《玉篇》「止石」。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䀭（字卡）",
+   "statement": "䀭（gāi）：《集韵》「目大貌」——䀭瞩，众相视貌。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㱾（字卡）",
+   "statement": "㱾（gāi）：《说文》「㱾改，大刚卯也，以逐精鬼」——汉代正月卯日所佩驱邪饰。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氦（字卡）",
+   "statement": "氦（hài）：极轻无色惰性气体元素 He——音译字。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
