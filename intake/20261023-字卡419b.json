@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡419b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祓（字卡）",
+   "statement": "祓（fú）：《说文》「除恶祭也」——除灾求福、洁也。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨈩（字卡）",
+   "statement": "𨈩（bó）：《字汇》「行急也」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䮂（字卡）",
+   "statement": "䮂（bó）：《广韵》「䮂䮧，蕃中马也」——汗血马。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "菝（字卡）",
+   "statement": "菝（bá）：《广韵》「菝葀，瑞草」；菝葜俗称金刚刺、金刚藤——《本草》「茎蔓坚强短小，故名」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鮁（字卡）",
+   "statement": "鮁（bō）：《说文》「鳣鲔鲅鲅」——鱼掉尾而游貌；又鲅鱼。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柭（字卡）",
+   "statement": "柭（bā）：《说文》「棓也」——拐杖；拄杖以挺立，故有拔义；又连枷。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䳁（字卡）",
+   "statement": "䳁（bó）：《说文》「鸟也」——大鸟；似凫、似雉。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詙（字卡）",
+   "statement": "詙（bá）：古人名用字；bó 读「评詙」——评论、估量。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秡（字卡）",
+   "statement": "秡（bó）：《玉篇》「禾伤」——粃谷，禾穗直立状。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥬒（字卡）",
+   "statement": "𥬒（pō）：《类篇》「䈇也」——罩鱼的竹器。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䯋（字卡）",
+   "statement": "䯋（bó）：《集韵》「䯋𩨮，骨高貌」——肩髆骨；又骨端。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沷（字卡）",
+   "statement": "沷（fā）：《玉篇》「寒也」；《正字通》「渫也，通流也」——疏浚。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
