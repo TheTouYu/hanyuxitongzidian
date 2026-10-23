@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407奔部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdk-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "奔（字卡）",
+   "statement": "奔（bēn）：《广韵》「奔走也」——从夭从歮，人甩臂狂跑、脚印杂乱。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捹（字卡）",
+   "statement": "捹（bèn）：《集韵》「手亂皃」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "渀（字卡）",
+   "statement": "渀（bēn）：《字彙補》「與奔音義同」；又入水貌。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逩（字卡）",
+   "statement": "逩（bēn）：《正字通》「疾走，義同𢍃」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪑖（字卡）",
+   "statement": "𪑖（bēn）：《集韵》「黑也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喯（字卡）",
+   "statement": "喯（pèn）：《龍龕》「俗，正作噴」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餴（字卡）",
+   "statement": "餴（fēn）：《玉篇》「半蒸飯也」——米半熟再蒸。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨁼（字卡）",
+   "statement": "𨁼（bēn）：《集韵》「奔，《說文》『走也』」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩣺（字卡）",
+   "statement": "𩣺（bēn）：《玉篇》「馬走皃」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錛（字卡）",
+   "statement": "錛（bēn）：《集韵》「平木器」——锛子。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "倴（字卡）",
+   "statement": "倴（bèn）：《龍龕》「俗音奔」；又用同「笨」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdk-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡍋（字卡）",
+   "statement": "𡍋（bèn）：《漢典》「同笨」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根奔部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
