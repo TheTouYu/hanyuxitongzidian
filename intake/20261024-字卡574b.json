@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡574b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llai-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癩·lài",
+   "statement": "癩：从疒賴聲：惡疾（《集韻》），麻風、疥癩。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籟·lài",
+   "statement": "籟：从竹賴聲：三孔籥也（《說文》），簫；引申天籟、萬籟。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懶·lǎn",
+   "statement": "懶：从心賴聲：怠也（《集韻》），懈怠、懶惰。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "獺·tǎ",
+   "statement": "獺：从犬賴聲：如小狗，水居食魚（《說文》），水獺。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攋·là",
+   "statement": "攋：从手賴聲：把攋，棄也（《集韻》），毀裂、毀壞。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襰·lài",
+   "statement": "襰：从衣賴聲：墮壞也（《集韻》），衣壞。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䲚·lài",
+   "statement": "䲚：从魚賴聲：魚名（《集韻》）。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嬾·lǎn",
+   "statement": "嬾：从女賴聲：懈也（《說文》「懈也，怠也」），懶惰（俗作懶）。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䠭·lài",
+   "statement": "䠭：从足賴聲：跛行（《集韻》），行不正。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䄤·lài",
+   "statement": "䄤：从示賴聲：祭名（《集韻》），禱祭。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠘝·lài",
+   "statement": "𠘝：从冫賴聲：寒也（《集韻》），寒凍。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶒·chì",
+   "statement": "鶒：从鳥剌聲：鸂鶒（《集韻》），水鳥，形似鴛鴦而稍大。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
