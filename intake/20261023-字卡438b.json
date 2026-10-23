@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡438b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbk-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絆（字卡·bàn）",
+   "statement": "絆，bàn：《说文》「马絷也，从糸半声」——绊马足的绳索；《释名》「半也，拘使半行不得自纵」。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拌（字卡·pān）",
+   "statement": "拌，pān：《玉篇》「弃也」——舍弃不顾；又分剖、搅拌（bàn）。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秚（字卡·bàn）",
+   "statement": "秚，bàn：《集韵》「物之相和，通作伴」——物相和合。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "靽（字卡·bàn）",
+   "statement": "靽，bàn：《集韵》「驾牛具，在后曰靽」——套在牲口后部的皮带。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跘（字卡·pán）",
+   "statement": "跘，pán：《集韵》「蹒跚，跛行貌」；又交足坐、跌倒。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䉽（字卡·bǎn）",
+   "statement": "䉽，bǎn：《集韵》「屑米饼也」——米粉饼（粄）。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "胖（字卡·pàn）",
+   "statement": "胖，pàn：《说文》「半体肉也，一曰广肉，从半从肉」——从脊柱分开的全牲；又夹脊肉。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "坢（字卡·pǎn）",
+   "statement": "坢，pǎn：《集韵》「平坦也」；又尘埃、堤防；粪肥。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衅（字卡·xìn）",
+   "statement": "衅，xìn：《玉篇》「牲血涂器祭也，亦作釁」——血祭；又缝隙、松动、罪兆。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袢（字卡·fàn）",
+   "statement": "袢，fàn：《说文》「无色也，从衣半声」——白色细葛夏衣；袢延，衣热。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姅（字卡·bàn）",
+   "statement": "姅，bàn：《说文》「妇人污也」——月经、分娩、流产见血。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbk-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "判（字卡·pàn）",
+   "statement": "判，pàn：《说文》「分也，从刀半声」——分开、剖分；又断、分辨。",
+   "boundary": "源自《系統漢語》第438部「半部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
