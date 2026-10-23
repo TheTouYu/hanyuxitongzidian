@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡471a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lby-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甄（字卡·zhēn）",
+   "statement": "甄，zhēn：从瓦垔声：《說文》「陶也」，陶人作瓦器；引申甄别、选拔。",
+   "boundary": "源自《系統漢語》第470－471部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甑（字卡·zèng）",
+   "statement": "甑，zèng：从瓦曾声：蒸飯瓦器，甑算其底。",
+   "boundary": "源自《系統漢語》第470－471部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甓（字卡·pì）",
+   "statement": "甓，pì：从瓦辟声：《說文》「瓴甓也」，砖。",
+   "boundary": "源自《系統漢語》第470－471部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㽉（字卡·hǎn）",
+   "statement": "㽉，hǎn：从瓦臽声：大盆，可盛水。",
+   "boundary": "源自《系統漢語》第470－471部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬼（字卡·guǐ）",
+   "statement": "鬼，guǐ：本部部首字：戴面具者→死後魂魄、鬼方；轉指機靈、詭異。",
+   "boundary": "源自《系統漢語》第470－471部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畏（字卡·wèi）",
+   "statement": "畏，wèi：从攴从鬼：擊打亡魂——雖失活性仍具能力，故懼；引申歸罪、威脅。",
+   "boundary": "源自《系統漢語》第470－471部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魁（字卡·kuí）",
+   "statement": "魁，kuí：从鬼斗声：羹斗之大者，引申首領、魁偉、魁星。",
+   "boundary": "源自《系統漢語》第470－471部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
