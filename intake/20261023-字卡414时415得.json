@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡414时415得2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "时（字卡）",
+   "statement": "时（shí）：甲骨文从日从之——太阳的足迹即影子，据此知时；或从寺，取圭表直立。",
+   "boundary": "源自《系統漢語》第414部「时部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "塒（字卡）",
+   "statement": "塒（zhì）：《说文》「鸡栖垣为塒」——鸡窝；鸡能报时，故从时。",
+   "boundary": "源自《系統漢語》第414部「时部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蒔（字卡）",
+   "statement": "蒔（shì）：《说文》「更别种」——移栽；《广雅》「立也」。",
+   "boundary": "源自《系統漢語》第414部「时部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "榯（字卡）",
+   "statement": "榯（shí）：《玉篇》「树木立也」；《类篇》「落榯，持门枢」——应时而或关或开。",
+   "boundary": "源自《系統漢語》第414部「时部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥻵（字卡）",
+   "statement": "𥻵（cí）：福建风俗逢年过节所吃的稻饼（餈之俗字），冬至收𥻵泥于门前，应时节之意。",
+   "boundary": "源自《系統漢語》第414部「时部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰣（字卡）",
+   "statement": "鰣（shí）：《正韵》「鱼名，似鲂肥美，江东四月有之」——鲥鱼，春夏之交溯河而上，应时而来。",
+   "boundary": "源自《系統漢語》第414部「时部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "得（字卡）",
+   "statement": "得（dé）：《说文》「行有所得也」——拾取贝壳而得财。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㧹（字卡）",
+   "statement": "㧹（tè）：《玉篇》「拳打」——取拳状如贝之意。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䅞（字卡）",
+   "statement": "䅞（nè）：《集韵》「谷穰也」——谷物脱粒后所剩的茎秆、稃，形如贝壳。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䎪（字卡）",
+   "statement": "䎪（nè）：《字汇》「谷䎪」；《正字通》「当是槌谷具」——打谷的槌。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䚟（字卡）",
+   "statement": "䚟（dǎi）：《玉篇》「角也」；《字汇》「角心」——与好歹之歹同。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㕌（字卡）",
+   "statement": "㕌（ài）：《玉篇》「张幕也，又石名」；《正字通》「㝵字之讹」。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
