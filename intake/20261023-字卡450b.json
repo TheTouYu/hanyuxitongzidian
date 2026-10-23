@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡450b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbt-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傳（字卡·chuán）",
+   "statement": "傳，chuán：《说文》「遽也，从人專聲」——驿传、传递；zhuàn 传记。纺线相续，故传。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轉（字卡·zhuǎn）",
+   "statement": "轉，zhuǎn：《玉篇》「迴也、轉運也」——纺轮旋转，引申转运、转变。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "團（字卡·tuán）",
+   "statement": "團，tuán：《玉篇》「團圓也」——纱线绕成团，引申团聚、圆形。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "摶（字卡·tuán）",
+   "statement": "摶，tuán：《说文》「圜也，从手專聲」——把散物捏聚成团。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "磚（字卡·zhuān）",
+   "statement": "磚，zhuān：《集韵》「甎，或作磚」——黏土抟成方坯烧硬，如线之拈合成块。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膞（字卡·zhuān）",
+   "statement": "膞，zhuān：《说文》「切肉也」；《集韵》「腓腸也」——切肉成块，形圆。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱄（字卡·zhuān）",
+   "statement": "鱄，zhuān：《说文》「魚也，从魚專聲」——《吕氏春秋》「魚之美者，洞庭之鱄」。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縳（字卡·zhuàn）",
+   "statement": "縳，zhuàn：《说文》「白鮮色也，从糸專聲」；《集韵》「束也」——束缚。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剸（字卡·tuán）",
+   "statement": "剸，tuán：《说文》「切也，从刀專聲」——切断、割。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惠（字卡·huì）",
+   "statement": "惠，huì：《说文》「仁也，从心从叀」——徐锴「爲惠者，心專也」：用心专一，引申恩惠、柔顺。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟪（字卡·huì）",
+   "statement": "蟪，huì：《说文》新附「蟪蛄，蟬也」——小青紫蝉，吻长身短，取叀之短尖。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橞（字卡·huì）",
+   "statement": "橞，huì：《说文》「木也，从木惠聲」；《广韵》「小棺」——木名，亦小棺。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
