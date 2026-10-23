@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡516a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxing-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "行（字卡·xíng）",
+   "statement": "行（xíng）本部字根：四達之大道，引申行走、行列、行業。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彳（字卡·chì）",
+   "statement": "彳（chì）小步（《說文》「象人脛三屬相連」），與亍合而為行。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "亍（字卡·chù）",
+   "statement": "亍（chù）步止（《說文》从反彳），左步為彳、右步為亍。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "荇（字卡·xìng）",
+   "statement": "荇（xìng）从艸杏聲（或从行）：荇菜，葉浮水面，取四處可飄之意。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洐（字卡·xíng）",
+   "statement": "洐（xíng）从水从行：溝水暢行（《說文》）。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珩（字卡·héng）",
+   "statement": "珩（héng）从玉行聲：佩上之橫玉（《說文》），所以節行止。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衡（字卡·héng）",
+   "statement": "衡（héng）从角从大、行聲：綁牛角之橫木（《說文》），引申衡量、平衡。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桁（字卡·héng）",
+   "statement": "桁（héng）从木行聲：屋樑上橫木（《玉篇》），今稱檁；又加頸之械。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裄（字卡·háng）",
+   "statement": "裄（háng）从衣行聲：衣之緣邊（《集韻》「緣也」），以針粗縫綴絮。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "延（字卡·yán）",
+   "statement": "延（yán）从㢟加丿：道路延伸，引申長遠、鋪陳、拖延。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筵（字卡·yán）",
+   "statement": "筵（yán）从竹延聲：鋪地竹席（《說文》）、席位；言其長。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxing-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誕（字卡·dàn）",
+   "statement": "誕（dàn）从言延聲：詞語荒誕誇張（《說文》「詞誕也」），引申誕生。",
+   "boundary": "源自《系統漢語》第516部「行部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
