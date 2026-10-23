@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡羕系2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lqing-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羕（字卡·yàng）",
+   "statement": "羕（yàng）＝从永从羊：水長也（《說文》引《詩》「江之羕矣」）；引申長大。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤡀（字卡·yàng）",
+   "statement": "𤡀（yàng）＝从犬羕聲：獸名，如狻猊，食熊羆，即「㺊」（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩞭（字卡·yàng）",
+   "statement": "𩞭（yàng）＝从食羕聲：餌也、糕餅（《集韻》引《方言》）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㨾（字卡·yàng）",
+   "statement": "㨾（yàng）＝从手羕聲：式㨾，法也，眾从之意；今「榜樣」正作此（《類篇》）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樣（字卡·xiàng）",
+   "statement": "樣（xiàng）＝从木羕聲：栩實、橡實，葉可飼柞蠶（《說文》）；借為式樣。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漾（字卡·yàng）",
+   "statement": "漾（yàng）＝从水羕聲：河名（西漢水），又水搖動貌、蕩漾（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠍵（字卡·yàng）",
+   "statement": "𠍵（yàng）＝从人羕聲：立動貌（《集韻》音㨾）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡡂（字卡·yàng）",
+   "statement": "𡡂（yàng）＝从女羕聲：女字（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢟣（字卡·yàng）",
+   "statement": "𢟣（yàng）＝从心羕聲：悵恨也，與「怏」通（《正字通》）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧫛（字卡·yàng）",
+   "statement": "𧫛（yàng）＝从言羕聲：聲變也（《集韻》音漾）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨖌（字卡·yàng）",
+   "statement": "𨖌（yàng）＝从辵羕聲：走也（《字彙》音漾）。",
+   "boundary": "源自《系統漢語》第524部「永部」·羕系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
