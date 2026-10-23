@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡416c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "措（字卡）",
+   "statement": "措（cuò）：《说文》「置也」——放置、举投、施布；又通「刺」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "厝（字卡）",
+   "statement": "厝（cuò）：《说文》「厉石也」——磨刀石；又「置也」安置、归葬。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惜（字卡）",
+   "statement": "惜（xī）：《说文》「痛也」——哀痛、可惜；《玉篇》「吝也」、爱惜。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醋（字卡）",
+   "statement": "醋（zuò）：《说文》「客酌主人也」——客以酒回敬主人；后指酸酒、醯。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "腊（字卡）",
+   "statement": "腊（xī）：《集韵》「乾肉也，从残肉，日以晞之」——乾肉；今为臘之简化。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "借（字卡）",
+   "statement": "借（jiè）：《说文》「假也」——暂时使用他人财物；又助也、凭藉。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜡（字卡）",
+   "statement": "蜡（qù）：《说文》「蝇䏣也」——蛆；又水母（䖳）、年终祭名（䄍）。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㳻（字卡）",
+   "statement": "㳻（sè）：《说文》「所以壅水也」——堵水的土坝，抬高水位而水从上游漫流。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨛳（字卡）",
+   "statement": "𨛳（xí）：《广韵》「乡名」——乡名用字。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "葘（字卡）",
+   "statement": "葘（zī）：《说文》「不耕田也」——一年不耕之田，草塞其中；亦作菑、灾。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錙（字卡）",
+   "statement": "錙（zī）：《说文》「六铢也」——古重量单位，四锱为一两，借指微小（锱铢）。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "緇（字卡）",
+   "statement": "緇（zī）：《说文》「帛黑色」；《释名》「缁，滓也，泥缁黑色者曰滓」——黑帛。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
