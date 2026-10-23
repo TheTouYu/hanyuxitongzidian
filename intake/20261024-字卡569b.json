@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡569b2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lli-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "利·lì",
+   "statement": "利：从禾从勿（崩口之刀＝犁）：犂之初文（《玉篇》「耕具也」），引申鋒利、順遂、美好。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "犂·lí",
+   "statement": "犂：从牛利聲：耕也（《說文》「耕也」），墾田器；亦指雜色牛。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨛫·lí",
+   "statement": "𨛫：从邑利聲：殷諸侯國（《說文》），西伯戡𨛫。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䬆·lì",
+   "statement": "䬆：从風利聲：風雨暴疾也（《說文》），暴風驟雨。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鋓·chān",
+   "statement": "鋓：从金利聲：銳也（《集韻》），剡物使薄。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏫·lí",
+   "statement": "鏫：从金利聲：𨪏鏫，鐵撾（《集韻》），前端如蒺藜之垂錘。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棃·lí",
+   "statement": "棃：从木利聲：果名（《說文》），梨樹；枝幹彎曲可作犁轅。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剓·lí",
+   "statement": "剓：从刀利聲：剝也（《集韻》），割裂。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟍·lí",
+   "statement": "蟍：从蟲利聲：螏蟍，蝍蛆、蜈蚣（《廣韻》）。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鯬·lí",
+   "statement": "鯬：从魚利聲：魚名（《埤倉》），鰣魚別稱，肥美多刺。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "俐·lì",
+   "statement": "俐：从人利聲：伶俐（《字彙》「黠慧曰伶俐」），靈活、乾淨。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猁·lì",
+   "statement": "猁：从犬利聲：猞猁（《漢典》），似貓而大、耳尖叢毛、善爬樹。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
