@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡482a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lci-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彗（字卡·huì）",
+   "statement": "彗，huì：本部部首字：草穗兩疊→掃帚、彗星（拖如帚尾）。",
+   "boundary": "源自《系統漢語》第481－482部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lci-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "雪（字卡·xuě）",
+   "statement": "雪，xuě：从雨彗聲：雪花如葦絮，故从彗；《釋名》「綏綏然下」。",
+   "boundary": "源自《系統漢語》第481－482部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lci-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "帚（字卡·zhǒu）",
+   "statement": "帚，zhǒu：本部部首字：草穗紮成的掃帚。",
+   "boundary": "源自《系統漢語》第481－482部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lci-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "掃（字卡·sǎo）",
+   "statement": "掃，sǎo：从手帚聲（或作埽）：持帚除穢，引申掃蕩、掃興。",
+   "boundary": "源自《系統漢語》第481－482部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lci-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "婦（字卡·fù）",
+   "statement": "婦，fù：从女持帚：執箕帚之婦，本指主灑掃之事者，引申妻、婦人。",
+   "boundary": "源自《系統漢語》第481－482部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
