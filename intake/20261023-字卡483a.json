@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡483a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lck-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "龖（字卡·dá）",
+   "statement": "龖，dá：本部部首字：二龍→電閃雷鳴之極。",
+   "boundary": "源自《系統漢語》第483部龖部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lck-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襲（字卡·xí）",
+   "statement": "襲，xí：从衣龖省聲：衣上加衣為重衣，引申因襲、襲擊、沿襲。",
+   "boundary": "源自《系統漢語》第483部龖部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lck-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慴（字卡·shè）",
+   "statement": "慴，shè：从心習聲：恐惧、慑服（同「懾」）。",
+   "boundary": "源自《系統漢語》第483部龖部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lck-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懾（字卡·shè）",
+   "statement": "懾，shè：从心聶聲：恐惧、威懾，取雷震之懾人。",
+   "boundary": "源自《系統漢語》第483部龖部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
