@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡492a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcn-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "干（字卡·gān）",
+   "statement": "干，gān：本部部首字：樹杈叉具→干犯、求取、扞衛、干祿。",
+   "boundary": "源自《系統漢語》第491－492部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcn-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旱（字卡·hàn）",
+   "statement": "旱，hàn：从日干聲：久晴不雨致旱，取干之乾燥義。",
+   "boundary": "源自《系統漢語》第491－492部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcn-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "竿（字卡·gān）",
+   "statement": "竿，gān：从竹干聲：竹之直而長者，取干之主干義。",
+   "boundary": "源自《系統漢語》第491－492部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcn-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "單（字卡·dān）",
+   "statement": "單，dān：【492 單部】象在干杈端另綁兩塊石頭之形——前端為杈、面寬，宜於投擲擊倒奔跑動物（《集韻》「單至，輕發之皃」）；音源本干聲，因「單、嘼」相混而轉以蟬鳴為聲。",
+   "boundary": "源自《系統漢語》第491－492部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
