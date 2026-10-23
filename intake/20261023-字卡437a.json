@@ -1,0 +1,189 @@
+{
+ "schema_version": 1,
+ "intent": "字卡437a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbf-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩡩（字卡·bā）",
+   "statement": "𩡩，bā：《说文》「马八岁也，从马从八」——八岁马。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣎵（字卡·pō）",
+   "statement": "𣎵，pō：《说文》「草木盛𣎵𣎵然，象形，八声」——枝叶茂盛、因风舒散之貌。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠔯（字卡·bān）",
+   "statement": "𠔯，bān：《说文》「赋事也，从菐从八，八亦声」——分配工作。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汃（字卡·bīn）",
+   "statement": "汃，bīn：《说文》「西极之水也，从水八声」——西极之水；又波相激声。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠔁（字卡·bié）",
+   "statement": "𠔁，bié：《说文》「分也，从重八，八亦声」——分开；古文别字。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扒（字卡·bā）",
+   "statement": "扒，bā：《集韵》「破也、击也」——扒开；又拔也、救也（通拜）。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "朳（字卡·bā）",
+   "statement": "朳，bā：《玉篇》「无齿杷也」——扫除用的无齿耙。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仈（字卡·bā）",
+   "statement": "仈，bā：《字汇》「姓也」——姓氏用字。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釟（字卡·bā）",
+   "statement": "釟，bā：《玉篇》「治金也」——冶炼金属。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玐（字卡·bā）",
+   "statement": "玐，bā：《集韵》「玉声」；又玉名。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趴（字卡·pā）",
+   "statement": "趴，pā：肚子向下卧倒；身体前靠——指爪覆伏紧贴之状，取意类「扒」。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪗔（字卡·pà）",
+   "statement": "𪗔，pà：《广韵》「齿声」——牙齿相击声。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥐙（字卡·pā）",
+   "statement": "𥐙，pā：《广韵》「石破声」；又玉声。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "叭（字卡·pā）",
+   "statement": "叭，pā：《集韵》「声也」；《字汇》「口开貌」；又军号（号筒）。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
