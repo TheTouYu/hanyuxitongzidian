@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡419d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "炦（字卡）",
+   "statement": "炦（bá）：《说文》「火气也」——柴薪已尽、火将熄，以手拨治，惟稍存火气。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "馛（字卡）",
+   "statement": "馛（bó）：《玉篇》「大香」——香气浓烈。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䣮（字卡）",
+   "statement": "䣮（pò）：《广韵》「酒气」——酒的气味。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢘀（字卡）",
+   "statement": "𢘀（pèi）：《广雅》「怒也」——愤怒。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣧧（字卡）",
+   "statement": "𣧧（bó）：《集韵》「腐气」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "颰（字卡）",
+   "statement": "颰（bá）：《集韵》「小风谓之颰，一曰疾风」——疑指龙卷风。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤝜（字卡）",
+   "statement": "𤝜（fèi）：《说文》「犬鸣也」——犬吠；或作犻、𤝜。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦍱（字卡）",
+   "statement": "𦍱（gāo）：《五音篇海》「音羔」——羊羔。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧲯（字卡）",
+   "statement": "𧲯（bō）：《玉篇》「豸」——长脊兽。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩂔（字卡）",
+   "statement": "𩂔（fú）：《集韵》「雨貌」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩠷（字卡）",
+   "statement": "𩠷（fú）：《玉篇》「妇人首饰也」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩃶（字卡）",
+   "statement": "𩃶（bó）：《广韵》「云气」；《集韵》「云貌」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
