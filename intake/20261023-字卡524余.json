@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡524余2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyong2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "栐（字卡·yǒng）",
+   "statement": "栐（yǒng）＝从木永聲：木可用為笏，記事之版（《玉篇》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㭛（字卡·pài）",
+   "statement": "㭛（pài）＝从木𠂢聲：榺屬，一曰木皮，蜀人以為布（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥯠（字卡·pài）",
+   "statement": "𥯠（pài）＝从竹𠂢聲：竹片也（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤖼（字卡·pò）",
+   "statement": "𤖼（pò）＝从片𠂢聲：破物也、分也，通「劈」（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
