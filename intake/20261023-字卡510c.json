@@ -1,0 +1,189 @@
+{
+ "schema_version": 1,
+ "intent": "字卡510c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcz-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "敟（字卡·diǎn）",
+   "statement": "敟字，音diǎn，从攴典聲：主也、常也，為典之加攴分化字。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捵（字卡·chěn）",
+   "statement": "捵字，音chěn，从手典聲：伸也、扯也，取典之引申。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晪（字卡·tiǎn）",
+   "statement": "晪字，音tiǎn，从日典聲：明也（《集韻》「明也」）。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琠（字卡·tiǎn）",
+   "statement": "琠字，音tiǎn，从玉典聲：玉名；又通「瑱」，充耳之玉。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錪（字卡·tiǎn）",
+   "statement": "錪字，音tiǎn，从金典聲：小釜（《說文》「朝鮮謂釜曰錪」）。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "婰（字卡·diǎn）",
+   "statement": "婰字，音diǎn，从女典聲：女子名用之字。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賟（字卡·tiǎn）",
+   "statement": "賟字，音tiǎn，从貝典聲：富也（《說文》「富也」）。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㥏（字卡·tiǎn）",
+   "statement": "㥏字，音tiǎn，从心典聲：慚愧（《說文》「青徐謂慙曰㥏」）。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "覥（字卡·tiǎn）",
+   "statement": "覥字，音tiǎn，从見典聲：面慚（「覥顏」），取㥏之慚義。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淟（字卡·tiǎn）",
+   "statement": "淟字，音tiǎn，从水典聲：「淟涊」，污濁（《說文》「垢濁也」）。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唺（字卡·tiǎn）",
+   "statement": "唺字，音tiǎn，从口典聲：吞也、吐舌。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痶（字卡·tiǎn）",
+   "statement": "痶字，音tiǎn，从疒典聲：「痶瘓」，病貌。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䠄（字卡·tiǎn）",
+   "statement": "䠄字，音tiǎn，从足典聲：行跡、蹈也。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcz-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碘（字卡·diǎn）",
+   "statement": "碘字，音diǎn，从石典聲：化學元素，取典之聲（今字）。本部从典諸字同取厚重、豐滿、羞慚之一面，形符定其落點。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
