@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡425b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bl2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "歷（字卡·lì）",
+   "statement": "歷，lì：甲骨文从止秝声，象经过的时间如同庄稼的生长周期；《说文》「过也」——经历、经过，亦作历、曆。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀝（字卡·lì）",
+   "statement": "瀝，lì：《说文》「浚也，一曰水下滴沥」——过滤、液体一滴一滴下落。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癧（字卡·lì）",
+   "statement": "癧，lì：《集韵》「瘰疬，病也」——颈部腋下淋巴结结核，累累成串。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "讈（字卡·lì）",
+   "statement": "讈，lì：《集韵》「䜍讈，言不明」——说话含混不清。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爏（字卡·lì）",
+   "statement": "爏，lì：《集韵》「火貌」——火光闪烁。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "靂（字卡·lì）",
+   "statement": "靂，lì：《集韵》「霹雳，雷之急激者」——雷声震动。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚦（字卡·lì）",
+   "statement": "嚦，lì：《集韵》「呖呖，声也」——象声，多形容鸟鸣。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䟐（字卡·lì）",
+   "statement": "䟐，lì：《集韵》「䟐𧻕，盗行」——踮脚快走，行步轻捷。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藶（字卡·lì）",
+   "statement": "藶，lì：《集韵》「葶苈，草名」，性急善逐水走泄。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "櫪（字卡·lì）",
+   "statement": "櫪，lì：《说文》「櫪㯕，椑指也」——夹手指的刑具；又马槽、马房、蚕箔。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
