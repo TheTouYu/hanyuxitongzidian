@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡453a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbg-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "丸（字卡·wán）",
+   "statement": "丸，wán：《说文》「圜也，傾側而轉者，从反仄」——小而圆、可转之物。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紈（字卡·wán）",
+   "statement": "紈，wán：《说文》「素也，从糸丸聲」——细白绢，取圆润洁白。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芄（字卡·wán）",
+   "statement": "芄，wán：《说文》「芄蘭，莞也」——《诗》「芄蘭之支」：蔓生草。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汍（字卡·wán）",
+   "statement": "汍，wán：《集韵》「汍瀾，泣也」——泪流圆转。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肒（字卡·huán）",
+   "statement": "肒，huán：《集韵》「疹也」——皮肤肿起如水泡圆。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忨（字卡·wàn）",
+   "statement": "忨，wàn：《说文》「貪也，从心元聲」——贪求。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玩（字卡·wán）",
+   "statement": "玩，wán：《说文》「弄也，从玉元聲」——把弄玉器，引申玩赏、戏弄。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翫（字卡·wán）",
+   "statement": "翫，wán：「玩」的异体，从羽——习玩、轻慢。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刓（字卡·wán）",
+   "statement": "刓，wán：《说文》「剓也」——刻削使圆。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "岏（字卡·wán）",
+   "statement": "岏，wán：《集韵》「巑岏，山高銳皃」——山锐而圆。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "园（字卡·yuán）",
+   "statement": "园，yuán：「園」的简化字：种蔬果树木、四周有篱的地方。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "元（字卡·yuán）",
+   "statement": "元，yuán：《说文》「始也，从一从兀」——人首为元，引申始、善、大。",
+   "boundary": "源自《系統漢語》第453－454部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
