@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡411之部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芝（字卡）",
+   "statement": "芝（zhī）：《说文》「神艸也」；徐锴《系传》作「从艸，㞢声」——灵芝，生于枯木根际，入药；古人以为瑞草，服之可仙；或指芝麻。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦐉（字卡）",
+   "statement": "𦐉（chī）：《说文》「飞盛貌」——羽翼盛；《类篇》「𦐉𦐉，羽翼盛也」。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧥳（字卡）",
+   "statement": "𧥳（shī）：《说文》「诗，志也」，古文诗省；《释名》「之也，志之所之也」。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旹（字卡）",
+   "statement": "旹（shí）：《集韵》「时，古作旹」——四时；一曰伺也、是也。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "妛（字卡）",
+   "statement": "妛（chī）：《集韵》同「媸」——侮也、痴也、丑也。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣢑（字卡）",
+   "statement": "𣢑（xī）：《说文》「𣢑𣢑，戏笑貌」；《广韵》「喜笑」——嬉戏讥笑，同「嗤」。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徔（字卡）",
+   "statement": "徔（cóng）：《汉典》「古同從」——随行。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠕓（字卡）",
+   "statement": "𠕓（qiāng）：《说文》「帱帐之象，从𠔼，㞢其饰也」；《正字通》「峕，𠕓字之讹」。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汖（字卡）",
+   "statement": "汖（pìn）：《字汇》「分枲皮也」——剥取苧麻茎皮；《字汇补》「此为朩字之讹」。",
+   "boundary": "源自《系統漢語》第411部「之部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
