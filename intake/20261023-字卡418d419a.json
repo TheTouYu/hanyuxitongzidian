@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡418d419a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩠚（字卡）",
+   "statement": "𩠚（hái）：《字汇》「首也」——人的头。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥞨（字卡）",
+   "statement": "𥞨（jiē）：同「秸」——农作物收割后的茎。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦈲（字卡）",
+   "statement": "𦈲（kāi）：《集韵》「器名」；又藏也。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦷷（字卡）",
+   "statement": "𦷷（hài）：《直音》「蒿也」——蒿草。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧊏（字卡）",
+   "statement": "𧊏（gāi）：《玉篇》「虫名」；《正字通》以为讹字。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩰶（字卡）",
+   "statement": "𩰶（hái）：《集韵》「麧也，一曰糜中块」——粥中的块。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "烗（字卡）",
+   "statement": "烗（kài）：《广韵》「炽也、盛也」——火盛。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拔（字卡）",
+   "statement": "拔（bá）：《说文》「擢也」——连根拽出；引申挺、攻取、尽。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跋（字卡）",
+   "statement": "跋（bá）：《说文》「蹎跋也」——往前扑、踏行；跋涉、跋尾。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袚（字卡）",
+   "statement": "袚（bá）：《广韵》「蛮夷蔽膝」——旱獭毛皮面小宜作蔽膝。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魃（字卡）",
+   "statement": "魃（bá）：《说文》「旱鬼也」——旱獭掘根致草原沙化，故引申旱灾。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髮（字卡）",
+   "statement": "髮（fà）：《说文》「根也」——头发；西周金文所从与甲骨文「亥」相似（直立旱獭侧面形）。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "胈（字卡）",
+   "statement": "胈（bá）：《说文》「股肉也」——腿上的肉。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
