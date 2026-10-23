@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡517a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lwang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "王（字卡·wáng）",
+   "statement": "王（wáng）本部字根：玉斧之形，引申君主、大盛。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "皇（字卡·huáng）",
+   "statement": "皇（huáng）本部二級字根：日光猛烈，引申天、君、美。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "往（字卡·wǎng）",
+   "statement": "往（wǎng）从彳㞷聲：之也、去也（《說文》），引申歸嚮。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汪（字卡·wāng）",
+   "statement": "汪（wāng）从水㞷聲：深廣（《說文》），池水所歸往會聚。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "枉（字卡·wǎng）",
+   "statement": "枉（wǎng）从木㞷聲：樹木斜曲（《說文》），引申冤抑、曲法。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旺（字卡·wàng）",
+   "statement": "旺（wàng）从日往聲：光明旺盛（《說文》「光美也」），俗作旺。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "狂（字卡·kuáng）",
+   "statement": "狂（kuáng）从犬㞷聲：瘋狗（《說文》「狾犬也」），引申狂放、迷惑。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誑（字卡·kuáng）",
+   "statement": "誑（kuáng）从言狂聲：欺騙（《說文》「欺也」）。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煌（字卡·huáng）",
+   "statement": "煌（huáng）从火皇聲：光輝（《說文》「煌，輝也」）。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "篁（字卡·huáng）",
+   "statement": "篁（huáng）从竹皇聲：竹田（《說文》），竹園。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惶（字卡·huáng）",
+   "statement": "惶（huáng）从心皇聲：恐懼（《說文》「恐也」）——蝗災起而人心惶惶。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徨（字卡·huáng）",
+   "statement": "徨（huáng）从彳皇聲：彷徨往來、心神不安。",
+   "boundary": "源自《系統漢語》第517部「王部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
