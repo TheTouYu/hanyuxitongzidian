@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡578b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lban2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㮿·bì",
+   "statement": "㮿：从木畢聲：木名（《集韻》），可為器。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤹝·bì",
+   "statement": "𤹝：从疒畢聲：病也（《集韻》），腳氣之疾。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡻞·bì",
+   "statement": "𡻞：从山畢聲：山貌（《集韻》），山勢連延。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥛘·bì",
+   "statement": "𥛘：从示畢聲：祭名（《集韻》），禱祀。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏎·bì",
+   "statement": "鏎：从金畢聲：鐵也（《集韻》），金屬器。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡠚·bì",
+   "statement": "𡠚：从女畢聲：女字（《集韻》），女子名用字。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襅·bì",
+   "statement": "襅：从衣畢聲：蔽膝之衣（《集韻》），與韠同。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㻫·bì",
+   "statement": "㻫：从玉畢聲：佩刀下飾（《說文》作「珌」），玉飾。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷝·bì",
+   "statement": "鷝：从鳥畢聲：鳥名（《集韻》），似雉。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熚·bì",
+   "statement": "熚：从火畢聲：火貌（《集韻》），火光。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "滭·bì",
+   "statement": "滭：从水畢聲：泉湧出貌（《集韻》），滭沸。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饆·bì",
+   "statement": "饆：从食畢聲：饆饠（《集韻》），餅屬。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lban2-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彃·bì",
+   "statement": "彃：从弓畢聲：射也（《說文》「彃，射也」），弓射。",
+   "boundary": "源自《系統漢語》第578部「𠦒部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
