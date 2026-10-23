@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡437c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbh-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紛（字卡·fēn）",
+   "statement": "紛，fēn：《说文》「马尾韬也，从糸分声」——包藏马尾的套子（取纷聚义）；引申纷纭、众多、杂乱。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頒（字卡·fén）",
+   "statement": "頒，fén：《说文》「大头也，从页分声」——大头；又鬓。bān，布也、赐也（颁赐）。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忿（字卡·fèn）",
+   "statement": "忿，fèn：《说文》「悁也，从心分声」——气不平、恨怒。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棼（字卡·fēn）",
+   "statement": "棼，fēn：《说文》「复屋栋也，从林分声」——重屋的栋；林木棼错、乱也。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
