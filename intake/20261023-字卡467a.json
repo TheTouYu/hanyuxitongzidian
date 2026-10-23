@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡467a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbv-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "圭（字卡·guī）",
+   "statement": "圭，guī：本部部首字：玉圭→标准、洁净、圭田。",
+   "boundary": "源自《系統漢語》第467部圭部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吉（字卡·jí）",
+   "statement": "吉，jí：从口圭声：捧圭对鬼神说祈福之语，吉礼为五礼之首，引申吉祥。",
+   "boundary": "源自《系統漢語》第467部圭部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壹（字卡·yī）",
+   "statement": "壹，yī：从壺吉声：塞口的壶，引申闭塞、专一。",
+   "boundary": "源自《系統漢語》第467部圭部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姞（字卡·jí）",
+   "statement": "姞，jí：从女吉声——《说文》「黃帝之後百䱔姓，后稷妃家也」，古姓。",
+   "boundary": "源自《系統漢語》第467部圭部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詰（字卡·jié）",
+   "statement": "詰，jié：从言吉声——《说文》「問也」，追问、责问；引申诘屈。",
+   "boundary": "源自《系統漢語》第467部圭部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劼（字卡·jié）",
+   "statement": "劼，jié：从力吉声——《说文》「愼也」；《廣韻》「用力也」，勤谨用力。",
+   "boundary": "源自《系統漢語》第467部圭部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
