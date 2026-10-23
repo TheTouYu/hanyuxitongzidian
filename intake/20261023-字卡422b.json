@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡422b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勀（字卡）",
+   "statement": "勀（kè）：《说文》「尤极也」——极其尽力辛劳；又胜也、自强。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剋（字卡）",
+   "statement": "剋（kè）：《广韵》「剋己，又必也、杀也、急也」；剋期＝约定期日；与克同。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢭪（字卡）",
+   "statement": "𢭪（kē）：《字海》「拿」——握持。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娔（字卡）",
+   "statement": "娔（kè）：《广韵》「骂女老」——詈骂老妇。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殑（字卡）",
+   "statement": "殑（qíng）：《集韵》「殑㱡，欲死貌」；《玉篇》「掣缩也」。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠗌（字卡）",
+   "statement": "𠗌（jìng）：《集韵》「𠗌冼，寒貌」。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠳭（字卡）",
+   "statement": "𠳭（kè）：象声词——罗𠳭，啰嗦。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氪（字卡）",
+   "statement": "氪（kè）：无色惰性气体元素 Kr——音译。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㳳（字卡）",
+   "statement": "㳳（kè）：㳳介子（原子），介子的一种，符号 K——音译。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
