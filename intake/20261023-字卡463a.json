@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡463a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbz-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "又（字卡·yòu）",
+   "statement": "又，yòu：本部部首字，象手形，作偏旁或写作「扌」，表手所从事的动作；本义分化为左、右、手。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤴨（字卡·yòu）",
+   "statement": "𤴨，yòu：从疒又声——手抖之疾（帕金森），头亦摇，《玉篇》「頭搖也」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "右（字卡·yòu）",
+   "statement": "右，yòu：本同「又」，指右手；金文加口为增饰或象以手助食；转为助、保、尚右、右侧、西方。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祐（字卡·yòu）",
+   "statement": "祐，yòu：从示右声——神助、保佑；《方言》又训「治」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佑（字卡·yòu）",
+   "statement": "佑，yòu：《广韵》「佐也、助也」——辅佐、帮助、庇护。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "宥（字卡·yòu）",
+   "statement": "宥，yòu：从宀有声——《说文》「寬也」，宽仁、宽待；《类篇》「空也」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "友（字卡·yǒu）",
+   "statement": "友，yǒu：又之二迭（迭体字），会意手牵手或加倍呵护；引申平等亲密，《说文》「同志為友」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伖（字卡·tǎng）",
+   "statement": "伖，tǎng：与「帑」同——金币所藏；又通「孥」，指儿女。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "苃（字卡·yǒu）",
+   "statement": "苃，yǒu：草名；据音义当是「茇」之俗、「犮」之讹——形近致误之例。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "有（字卡·yǒu）",
+   "statement": "有，yǒu：从肉从又，手持肉——或指掌状之肾，或指持肉；转为获取、拥有、赠送、零头、椭圆、青紫。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䵋（字卡·wěi）",
+   "statement": "䵋，wěi：从黄有声——《说文》「靑黃色也」，青黄色（手掌肉色之引申）。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珛（字卡·xiù）",
+   "statement": "珛，xiù：从玉有声——有瑕疵的玉，《说文》「朽玉也」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
