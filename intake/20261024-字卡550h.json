@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡550h2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lhuo8-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦵸·gěng",
+   "statement": "𦵸：从艸耿聲：芋莖也（《玉篇》「芋莖也」），芋莖皮薄呈蜂窩狀可透光。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo8-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥉔·gěng",
+   "statement": "𥉔：从目耿聲：𥉔䁅，有餘視也，一曰喜也（《玉篇》）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo8-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤓐·gěng",
+   "statement": "𤓐：从火耿聲：音義同耿（《字彙補》「音義同耿」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo8-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢞚·gěng",
+   "statement": "𢞚：从心耿聲：憂也（《集韻》「憂也」），耿介不安。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo8-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㷦·xù",
+   "statement": "㷦：从火耿聲：同「𤋀」，《龍龕》「正作瞁，驚視也」，形近「犬」之訛。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
