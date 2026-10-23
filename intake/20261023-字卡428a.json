@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡428a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "yb8-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曰（字卡·yuē）",
+   "statement": "曰，yuē：从口上一，象张口说话；引申为、叫作，又作语端之词。",
+   "boundary": "源自《系統漢語》第428部「曰部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb8-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汩（字卡·gǔ）",
+   "statement": "汩，gǔ：《说文》「治水也」——治水；又乱也、汩没（淹没）、疾行。",
+   "boundary": "源自《系統漢語》第428部「曰部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb8-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "欥（字卡·yú）",
+   "statement": "欥，yú：《说文》「诠词也」——表示诠释的虚词；又辞、喜。",
+   "boundary": "源自《系統漢語》第428部「曰部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb8-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡿯（字卡·yù）",
+   "statement": "𡿯，yù：《说文》「水流也」——水行貌。",
+   "boundary": "源自《系統漢語》第428部「曰部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb8-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢪏（字卡·hú）",
+   "statement": "𢪏，hú：《广韵》「牵物动转也」；《集韵》「裂也」，或同掘、滑。",
+   "boundary": "源自《系統漢語》第428部「曰部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb8-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩒳（字卡·huì）",
+   "statement": "𩒳，huì：《说文》「昧前也」——实为「湏」之讹字。",
+   "boundary": "源自《系統漢語》第428部「曰部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
