@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡450a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "叀（字卡·zhuān）",
+   "statement": "叀，zhuān：象纺专之形：拈线时悬垂旋转、把多股纤维合成一缕；引申专一、悬挂、旋转、成团、谨慎。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "專（字卡·zhuān）",
+   "statement": "專，zhuān：《玉篇》「自是也、小謹也、擅也、獨也、業也、壹也。今作專」——纺叀拈线成一根，故专一、专擅。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嫥（字卡·zhuān）",
+   "statement": "嫥，zhuān：《说文》「壹也，从女專聲」——专一；《玉篇》「可愛之皃」；tuán 美。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "囀（字卡·zhuàn）",
+   "statement": "囀，zhuàn：《集韵》「聲轉也」——鸟婉转地啼叫，如线之旋转曲折。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慱（字卡·tuán）",
+   "statement": "慱，tuán：《尔雅》「慱慱，憂也」；《字彙》「古作團字」——忧思团团、圆满。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "竱（字卡·zhuǎn）",
+   "statement": "竱，zhuǎn：《说文》「等也，从立專聲」——《国语》「竱本肇末」：齐等、相当。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡭐（字卡·shuàn）",
+   "statement": "𡭐，shuàn：《说文》「小巵有耳蓋者，从巵專聲」——有耳有盖的小圆酒器。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "篿（字卡·tuán）",
+   "statement": "篿，tuán：《说文》「圜竹器也」——圆形竹器；zhuān 楚人折竹占卜曰篿。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漙（字卡·tuán）",
+   "statement": "漙，tuán：《说文》新附「露皃」——露水团团；zhuān 通「湍」。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄟（字卡·zhuān）",
+   "statement": "鄟，zhuān：《玉篇》「邾婁之邑」——春秋鲁附庸小国，在今山东郯城东北。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏄（字卡·tuán）",
+   "statement": "鏄，tuán：《集韵》「塊鐵」——圆形铁块。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "檲（字卡·tuán）",
+   "statement": "檲，tuán：《集韵》「大木」——大木，取圆团之状。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
