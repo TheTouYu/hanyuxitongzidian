@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡527g2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldang2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壋（字卡·dǎng）",
+   "statement": "壋（dǎng）＝橫築河中或低窪田地擋水的小堤；或同「凼」，塘、水坑。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儅（字卡·dāng）",
+   "statement": "儅（dāng）＝《廣韻》「止也」；又「不中」、正中、倜儅不羈。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簹（字卡·dāng）",
+   "statement": "簹（dāng）＝《廣韻》「篔簹，竹名」；《玉篇》「車簹管」，車前後屏蔽。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澢（字卡·dǎng）",
+   "statement": "澢（dǎng）＝《玉篇》「水也」，水氹。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艡（字卡·dāng）",
+   "statement": "艡（dāng）＝《集韻》「𦨢艡，舟也」，大船。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "礑（字卡·dàng）",
+   "statement": "礑（dàng）＝《正字通》「底也」，凡物有底者皆曰當，加石為贅。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "闣（字卡·tāng）",
+   "statement": "闣（tāng）＝《五音集韻》「盛皃」；又鼓聲（鼞之或體）、閃闣人。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㼕（字卡·dāng）",
+   "statement": "㼕（dāng）＝《玉篇》「瓜中實」；《正字通》「瓜底曰㼕」。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劏（字卡·tāng）",
+   "statement": "劏（tāng）＝方言，宰殺——剖開之意。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㽆（字卡·dāng）",
+   "statement": "㽆（dāng）＝《集韻》「甌屬」，或指瓦當。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螳（字卡·táng）",
+   "statement": "螳（táng）＝从虫當聲：螳螂，前足如鐮，捕蟬為食。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟷（字卡·dāng）",
+   "statement": "蟷（dāng）＝从虫當聲：蟷蠰，即螳螂（《爾雅》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，當系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
