@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡416a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "災（字卡）",
+   "statement": "災（zāi）：象三水横流，洪水泛滥；加「才」为声，与卂同源表覆盖。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昔（字卡）",
+   "statement": "昔（xī）：从日𡿧声——太阳入水为夜，亦波光映日；引申过去、以往。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錯（字卡）",
+   "statement": "錯（cuò）：《说文》「金涂也」——错金：先铸槽、錾麻点，嵌金丝，再以厝石磨错使平。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逪（字卡）",
+   "statement": "逪（cuò）：《说文》「迹逪也」——交错；《玉篇》「乱也」，今为「错」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
