@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡443a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbv-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "卝（字卡·guàn）",
+   "statement": "卝，guàn：《集韻》「丱，束髪皃」；《周禮》注「卝之言礦也，金玉未成器曰礦」——总角少年；未炼矿石。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "乖（字卡·guāi）",
+   "statement": "乖，guāi：《广韵》「睽也、離也、戾也、背也」；《广雅》「差也」——十分幼稚顽皮，引申乖违、奇异。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨥑（字卡·kuàng）",
+   "statement": "𨥑，kuàng：《集韻》「銅鐵樸石也，或作礦、鑛、𨥑」——未冶炼的铜铁矿。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芇（字卡·mián）",
+   "statement": "芇，mián：《说文》「相當也」；《廣韻》「今人賭物相折謂之芇」——等值、相当。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㭉（字卡·huá）",
+   "statement": "㭉，huá：《说文》「兩刃臿也，从木，𦫳象形」；《康典》「鏵本字」——两刃锹，刀叉。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢇅（字卡·guān）",
+   "statement": "𢇅，guān：《说文》「織絹从糸貫杼也，从絲省，卝聲」——丝线穿入梭中。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "聯（字卡·lián）",
+   "statement": "聯，lián：《说文》「連也，从耳，从絲」——连接、联句、对联。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "關（字卡·guān）",
+   "statement": "關，guān：《说文》「以木橫持門戶也，从門𢇅聲」——门闩；引申閉、机关、关系、通。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪚁（字卡·lián）",
+   "statement": "𪚁，lián：《说文》「齒見皃，从齒䏈聲」——牙齿相连成排。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡠒（字卡·guān）",
+   "statement": "𡠒，guān：《集韻》「女字」——女子名用字。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢠶（字卡·huàn）",
+   "statement": "𢠶，huàn：《集韻》「患，或作𢤒」——忧患。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㾩（字卡·guāi）",
+   "statement": "㾩，guāi：《廣韻》「惡瘡」；《集韻》「疥疾」——恶疮、疥。",
+   "boundary": "源自《系統漢語》第443部「卝部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
