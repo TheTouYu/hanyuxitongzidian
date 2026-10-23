@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡409蚩部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢾫（字卡）",
+   "statement": "𢾫（zhǐ）：《说文》「剌也，从攴蚩聲」——刮擦。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "滍（字卡）",
+   "statement": "滍（zhì）：《说文》「水，出南陽魯陽堯山，東北入汝」——沙河，汝水支流。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䩶（字卡）",
+   "statement": "䩶（chěng）：《说文》「驂具也，从革𧈪聲」——骖马的马具；《集韵》「收丝器」。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤚍（字卡）",
+   "statement": "𤚍（chǎn）：《集韵》「牛緩謂之𤚍」——牛行迟缓。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨖀（字卡）",
+   "statement": "𨖀（chǎn）：《玉篇》「行也」，《集韵》「㢟，安步也，或作𨖀」。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩺉（字卡）",
+   "statement": "𩺉（hàn）：《字彙》「𩹀𩹑，蚌屬」——蚌类。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䥀（字卡）",
+   "statement": "䥀（chǎn）：《博雅》「䥀，抒長也」——把物拉长。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠋷（字卡）",
+   "statement": "𠋷（chǎn）：《集韵》「人形長皃」——人形长貌。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩝚（字卡）",
+   "statement": "𩝚（chǎn）：《集韵》「長味」——味长。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䧝（字卡）",
+   "statement": "䧝（chī）：《集韵》地名；zhì 山名。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "妛（字卡）",
+   "statement": "妛（chī）：《集韵》「侮也，痴也，或作媸，通作蚩」——丑陋、痴呆。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嗤（字卡）",
+   "statement": "嗤（chī）：《玉篇》「笑皃」——讥笑。",
+   "boundary": "源自《系統漢語》第409部「蚩部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
