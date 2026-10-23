@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡416b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趞（字卡）",
+   "statement": "趞（què）：《说文》「趞趞也，一曰行貌」——行轻貌；侧行、践。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踖（字卡）",
+   "statement": "踖（jí）：《说文》「长胫行也，一曰踧踖」；《广韵》「践也」；《尔雅》「踖踖，敏也」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齰（字卡）",
+   "statement": "齰（zé）：《说文》「啮也」——咬嚼；又「齿相值」「上下齿不齐」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "斮（字卡）",
+   "statement": "斮（zhuó）：《说文》「斩也」；《尔雅》「鱼则斮之」，郭注「削鳞也」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "矠（字卡）",
+   "statement": "矠（zé）：《说文》「矛属」；《广韵》「以矛叉取物也」——刺取。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簎（字卡）",
+   "statement": "簎（cè）：《说文》「刺也」；《周礼》「簎鱼鳖」——以竹钉器具夜照叉鱼。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䇎（字卡）",
+   "statement": "䇎（què）：《说文》「惊貌」；《集韵》「竦也、敬也」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碏（字卡）",
+   "statement": "碏（què）：《左传》卫大夫石碏；《广韵》「敬也」；《集韵》「碍也」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剒（字卡）",
+   "statement": "剒（cuò）：《尔雅》「犀谓之剒」，治朴之名；《玉篇》「亦作错」，锉磨之义。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䱜（字卡）",
+   "statement": "䱜（cuò）：《集韵》「鱼名，出东海」；一说鼻前有骨如斧斤；鱕䱜即鲨鱼。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鵲（字卡）",
+   "statement": "鵲（què）：喜鹊；《本草》「以音感而孕，以视而抱，季冬始巢」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諎（字卡）",
+   "statement": "諎（zé）：《说文》「大声也」；又「酬言」「说话快」「诱言」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
