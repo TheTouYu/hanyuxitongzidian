@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡570b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lhai-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "害·hài",
+   "statement": "害：从入（刮刀）从丯（刀割）：割之初文（《廣韻》「剥也、斷也」），引申傷、禍、妨。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "割·gē",
+   "statement": "割：从刀害聲：剥也（《說文》「剥也」），斷也、裂也。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轄·xiá",
+   "statement": "轄：从車害聲：車軸端之鍵（《說文》「車聲也」一曰鍵），引申管轄、統轄。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鎋·xiá",
+   "statement": "鎋：从金害聲：車軸頭鐵（《說文》或體），同轄。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "搳·huá",
+   "statement": "搳：从手害聲：擘也（《集韻》），劃開、拳擊。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "犗·jiè",
+   "statement": "犗：从牛害聲：騬牛也（《說文》「騬牛也」），去勢之牛。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "磍·xiá",
+   "statement": "磍：从石害聲：磍磍，石聲（《集韻》），石相擊。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螛·xiá",
+   "statement": "螛：从蟲害聲：蟲名（《集韻》），螛螳之類。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "豁·huō",
+   "statement": "豁：从谷害聲：通谷也（《說文》「通谷也」），開闊、豁然、裂開。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嗐·hài",
+   "statement": "嗐：从口害聲：嘆詞（《字彙》），表惋惜、懊悔。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞎·xiā",
+   "statement": "瞎：从目害聲：目盲（《字彙》「目盲也」），引申盲目、亂。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhai-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶷·xiá",
+   "statement": "鶷：从鳥害聲：鶷𪆰，鳥名（《集韻》），似鸕鶿。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
