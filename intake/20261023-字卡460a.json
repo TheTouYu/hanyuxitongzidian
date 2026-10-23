@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡460a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "卷（字卡·juǎn）",
+   "statement": "卷，juǎn：《说文》「厀曲也」——膝弯屈曲；引申卷曲、书卷、卷帙。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捲（字卡·juǎn）",
+   "statement": "捲，juǎn：《集韵》「斂也」——把物卷起、收拢。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬈（字卡·quán）",
+   "statement": "鬈，quán：《说文》「髮好也」——头发卷曲美好。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "菤（字卡·quán）",
+   "statement": "菤，quán：《说文》「菤耳，卷耳也」——卷耳草，实如鼠耳。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "婘（字卡·quán）",
+   "statement": "婘，quán：《集韵》「美也」——美好，取卷曲柔媚。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惓（字卡·quán）",
+   "statement": "惓，quán：《集韵》「惓惓，謹也」——恳切、谨慎。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錈（字卡·juǎn）",
+   "statement": "錈，juǎn：《集韵》「屈金也」——把金属屈卷。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬳（字卡·yàn）",
+   "statement": "鬳，yàn：《说文》「鬲屬」——陶鬲一类，取卷曲之形。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "川（字卡·chuān）",
+   "statement": "川，chuān：《说文》「貫穿通流水也」——三画象水流贯穿。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "州（字卡·zhōu）",
+   "statement": "州，zhōu：《说文》「水中可居曰州」——水中陆地，古九州。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "順（字卡·shùn）",
+   "statement": "順，shùn：《说文》「理也，从頁从巛」——头顺水流，引申顺从、顺利。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巡（字卡·xún）",
+   "statement": "巡，xún：《说文》「視行也，从辵川聲」——巡视、往来查看。",
+   "boundary": "源自《系統漢語》第460－461部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
