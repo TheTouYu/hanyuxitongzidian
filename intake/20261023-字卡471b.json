@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡471b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbz-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魂（字卡·hún）",
+   "statement": "魂，hún：从鬼云声：《說文》「陽气也」，魂為陽神，遊於天。",
+   "boundary": "源自《系統漢語》第471部鬼部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魄（字卡·pò）",
+   "statement": "魄，pò：从鬼白声：《說文》「陰神也」，魄為陰神，附於形。",
+   "boundary": "源自《系統漢語》第471部鬼部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魏（字卡·wèi）",
+   "statement": "魏，wèi：从鬼委声：本義魏然高大，引申魏國；今作姓。",
+   "boundary": "源自《系統漢語》第471部鬼部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巍（字卡·wēi）",
+   "statement": "巍，wēi：从山魏声：山高巍峩，取魏之高大。",
+   "boundary": "源自《系統漢語》第471部鬼部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "愧（字卡·kuì）",
+   "statement": "愧，kuì：从女鬼声：《說文》「慙也」，愧怍、惭愧。",
+   "boundary": "源自《系統漢語》第471部鬼部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魅（字卡·mèi）",
+   "statement": "魅，mèi：从鬼未声：《說文》「老物精也」，魑魅、魅惑。",
+   "boundary": "源自《系統漢語》第471部鬼部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
