@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡494b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcp-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "担（字卡·dān）",
+   "statement": "担，dān：从手旦聲：以肩荷物（本作儋、擔），引申承當。",
+   "boundary": "源自《系統漢語》第494部旦部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcp-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "倝（字卡·gàn）",
+   "statement": "倝，gàn：本部内字根：依西周金文與「雗」甲骨文，本同「㫃」，象「中」形旗幟；方框演作旦，象意旗幟輝煌，或指九旗之「大常」（日月為常）。",
+   "boundary": "源自《系統漢語》第494部旦部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcp-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翰（字卡·hàn）",
+   "statement": "翰，hàn：从羽倝聲：赤羽、高飛之羽，引申文翰、翰墨。",
+   "boundary": "源自《系統漢語》第494部旦部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcp-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "雗（字卡·hàn）",
+   "statement": "雗，hàn：从隹倝聲：白雉（《爾雅》「雗雉」），取倝之聲。",
+   "boundary": "源自《系統漢語》第494部旦部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcp-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茬（字卡·chá）",
+   "statement": "茬，chá：从木旦聲：樹木砍伐後留下的殘樁（《集韻》「邪斫木也」）。",
+   "boundary": "源自《系統漢語》第494部旦部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
