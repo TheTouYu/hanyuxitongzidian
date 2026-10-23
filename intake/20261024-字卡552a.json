@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡552a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lliao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尞·liáo",
+   "statement": "尞：从木从火：柴祭天也（《說文》「柴祭天也」），即燎；焚柴祭天。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燎·liáo",
+   "statement": "燎：从火尞聲：放火也（《說文》「放火也」），燎原、庭燎。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僚·liáo",
+   "statement": "僚：从人尞聲：好貌（《說文》「好皃」），同官曰僚。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "寮·liáo",
+   "statement": "寮：从宀尞聲：穿也（《說文》「穿也」），小屋、同官。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "療·liáo",
+   "statement": "療：从疒尞聲：治也（《說文》「治也」），醫治。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "遼·liáo",
+   "statement": "遼：从辵尞聲：遠也（《說文》「遠也」）。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞭·liǎo",
+   "statement": "瞭：从目尞聲：目明也（《說文》「目明也」）。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撩·liáo",
+   "statement": "撩：从手尞聲：理也（《說文》「理也」），撩撥。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘹·liáo",
+   "statement": "嘹：从口尞聲：嘹喨（《集韻》），聲清遠。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潦·lǎo",
+   "statement": "潦：从水尞聲：雨水大貌（《說文》「雨水大皃」），積水。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憭·liǎo",
+   "statement": "憭：从心尞聲：慧也（《說文》「慧也」）。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lliao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繚·liáo",
+   "statement": "繚：从糸尞聲：纏也（《說文》「纏也」），繚繞。",
+   "boundary": "源自《系統漢語》第552部「尞部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
