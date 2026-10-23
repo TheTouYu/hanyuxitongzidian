@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡410此部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眥（字卡）",
+   "statement": "眥（zì）：《说文》「目匡也」——眼眶；《集韵》「眦睚，恨视」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡗼（字卡）",
+   "statement": "𡗼（xiè）：《说文》「瞋大也」——瞪大眼睛怒视。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "呰（字卡）",
+   "statement": "呰（zǐ）：《说文》「苛也」——诋毁、口毁；又「些」之语辞。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訿（字卡）",
+   "statement": "訿（zǐ）：《说文》「不思称意也」——发牢骚、指责。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㧗（字卡）",
+   "statement": "㧗（zǐ）：《说文》「捽也」——以手击取；《广韵》「拳加人也」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㧘（字卡）",
+   "statement": "㧘（zì）：《说文》「积也」——聚积；又拔颊须、批颊。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齜（字卡）",
+   "statement": "齜（chái）：《说文》「齿相齗也，一曰开口见齿之皃」——磨牙、龇牙。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧺼（字卡）",
+   "statement": "𧺼（cǐ）：《说文》「浅渡也」——从浅水中走过。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跐（字卡）",
+   "statement": "跐（cǐ）：《集韵》「蹈也、蹋也、履也」；《释名》「弭也，足践之使弭服也」——踩、踏。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紪（字卡）",
+   "statement": "紪（cī）：《集韵》「缇，帛文，或从此」——交错的花纹。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "觜（字卡）",
+   "statement": "觜（zī）：《说文》「鸱旧头上角觜也」——猫头鹰头上的角状毛；又鸟嘴。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茈（字卡）",
+   "statement": "茈（zǐ）：《说文》「茈艸也」——紫色的草，代指紫色。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
