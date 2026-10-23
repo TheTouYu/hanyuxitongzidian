@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡425a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bl-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秝（字卡·lì）",
+   "statement": "秝，lì：《说文》「稀疏適也。从二禾」——禾苗排列稀疏、株距分明；亦象秸秆堆积。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪅼（字卡·lì）",
+   "statement": "𪅼，lì：《玉篇》「鸟似鹰而大」。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪙱（字卡·lì）",
+   "statement": "𪙱，lì：《集韵》「齿病」；齿稀疏之病。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡐰（字卡·lì）",
+   "statement": "𡐰，lì：《集韵》「坑也」；亦作壢。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡮰（字卡·lì）",
+   "statement": "𡮰，lì：《集韵》「㝺𡮰，小劣也」——细小鄙劣。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "磿（字卡·lì）",
+   "statement": "磿，lì：《说文》「石声也。从石厤声」——石相击的细声。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "厤（字卡·lì）",
+   "statement": "厤，lì：《说文》「治也。从厂秝声」——治理；与歷同，经历，亦作曆。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡓸（字卡·lì）",
+   "statement": "𡓸，lì：《集韵》「积也」——堆叠。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠠝（字卡·lì）",
+   "statement": "𠠝，lì：《集韵》「割也」；刀割秸秆。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㻺（字卡·lì）",
+   "statement": "㻺，lì：《集韵》「玉名」；疑以秸秆抛光玉器。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
