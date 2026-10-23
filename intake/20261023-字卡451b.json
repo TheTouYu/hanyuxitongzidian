@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡451b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbp-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茴（字卡·huí）",
+   "statement": "茴，huí：《玉篇》「茴香，草名」——大茴香（八角）、小茴香，皆取香浓；《集韵》「藥艸，防風葉也」。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恛（字卡·huí）",
+   "statement": "恛，huí：《集韵》「昏亂皃」——神志昏乱，如回旋不安。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佪（字卡·huí）",
+   "statement": "佪，huí：《玉篇》「佪佪，惛也」；huái「俳佪」即徘徊——来回走动。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廻（字卡·huí）",
+   "statement": "廻，huí：《正字通》「同回」——回旋、环绕。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絗（字卡·hú）",
+   "statement": "絗，hú：《集韵》「縷縈也」——丝缕萦绕。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㻁（字卡·guī）",
+   "statement": "㻁，guī：《说文》「玫瑰，一曰圜好」，俗从回——圆润美好之玉。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䛛（字卡·huì）",
+   "statement": "䛛，huì：《集韵》「膽气滿聲，一曰胡市也，一曰決後悔也」——高声、转手倒卖、决而后悔。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䤧（字卡·huì）",
+   "statement": "䤧，huì：《玉篇》「金䤧」——金名。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䨓（字卡·léi）",
+   "statement": "䨓，léi：「雷」之古文：籀文靁间有回，回象雷声回旋。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠲛（字卡·huí）",
+   "statement": "𠲛，huí：象声字：念咒语声。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡏁（字卡·huì）",
+   "statement": "𡏁，huì：《集韵》「地形回屈」——地势回环屈曲。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡹯（字卡·huì）",
+   "statement": "𡹯，huì：《集韵》「山無草木也」——秃山，取回环之状。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
