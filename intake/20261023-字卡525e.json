@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡525e2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyang7-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氱（字卡·yǎng）",
+   "statement": "氱（yǎng）＝从气昜聲：氧氣之舊譯。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "輰（字卡·yáng）",
+   "statement": "輰（yáng）＝从車昜聲：輰䡵，柳車（喪車）（《博雅》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鸉（字卡·yáng）",
+   "statement": "鸉（yáng）＝从鳥昜聲：白鷢，似鷹而尾上白（《爾雅》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "量（字卡·liáng）",
+   "statement": "量（liáng）＝从東（斗）昜聲：用斗稱量，引申稱輕重、度量。",
+   "boundary": "源自《系統漢語》第525部「昜部」·量系（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糧（字卡·liáng）",
+   "statement": "糧（liáng）＝从米量聲：穀米；廩祿之穀，以酌量功次。",
+   "boundary": "源自《系統漢語》第525部「昜部」·量系（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤎲（字卡·hū）",
+   "statement": "𤎲（hū）＝从火：火煨也（《篇海》）；原象以斗量物入鬲而炊。",
+   "boundary": "源自《系統漢語》第525部「昜部」·量系（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪋥（字卡·jīng）",
+   "statement": "𪋥（jīng）＝同「麠」：大麃，牛尾一角（《爾雅》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」·量系（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡑆（字卡·jiāng）",
+   "statement": "𡑆（jiāng）＝同「疆」：田界、疆土。",
+   "boundary": "源自《系統漢語》第525部「昜部」·量系（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昌（字卡·chāng）",
+   "statement": "昌（chāng）＝从日从口：對日呼唱，引申昌盛、倡始。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唱（字卡·chàng）",
+   "statement": "唱（chàng）＝从口昌聲：導也、發歌（《說文》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "倡（字卡·chàng）",
+   "statement": "倡（chàng）＝从人昌聲：樂也、倡優、倡導（《說文》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang7-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娼（字卡·chāng）",
+   "statement": "娼（chāng）＝从女昌聲：倡女、娼妓。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
