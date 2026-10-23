@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡534z2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhuang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壯（字卡·zhuàng）",
+   "statement": "字卡（第534部壯系）：从士爿聲：大也（《說文》），人體高大、年富力強。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莊（字卡·zhuāng）",
+   "statement": "字卡（第534部壯系）：从艸从壯：草盛貌（《玉篇》），引申莊敬、六達之道（莊／庄）。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "奘（字卡·zàng）",
+   "statement": "字卡（第534部壯系）：从大从壯，壯亦聲：駔大也（《說文》），粗大、健。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裝（字卡·zhuāng）",
+   "statement": "字卡（第534部壯系）：从衣壯聲：裹也（《說文》），包裹、行囊、裝束、假裝。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匨（字卡·zāng）",
+   "statement": "字卡（第534部壯系）：臧之古作：善也（《說文》），又通藏（匿也）。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銺（字卡·zàng）",
+   "statement": "字卡（第534部壯系）：《集韻》「鈴聲」；《正字通》以为譌字。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "焋（字卡·zhuàng）",
+   "statement": "字卡（第534部壯系）：《集韻》「實米于甑」；今炊粉餈謂之焋糕。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梉（字卡·zhuāng）",
+   "statement": "字卡（第534部壯系）：《集韻》「木名，似豫章」，其小似桃，生七年乃知。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糚（字卡·zhuāng）",
+   "statement": "字卡（第534部壯系）：妝之或作：飾也（《說文》），粉饰。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㮜（字卡·zāng）",
+   "statement": "字卡（第534部壯系）：《字彙》「木版盛物也」，木板做成的盛器。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "狀（字卡·zhuàng）",
+   "statement": "字卡（第534部壯系）：从犬爿聲：犬形也（《說文》），狗的样子；引申描摹、陳述、文書。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "妝（字卡·zhuāng）",
+   "statement": "字卡（第534部壯系）：从女牀省聲：飾也（《說文》），女子以花飾容。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
