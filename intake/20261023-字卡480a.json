@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡480a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lch-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝯（字卡·yuán）",
+   "statement": "蝯，yuán：从虫爰聲：《集韻》「蝯，《說文》：善援，禺屬」，即猿的本字。",
+   "boundary": "源自《系統漢語》第479－480部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lch-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍰（字卡·huán）",
+   "statement": "鍰，huán：从金爰聲：古重量單位（六兩為鍰），引申罰金之錢。",
+   "boundary": "源自《系統漢語》第479－480部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lch-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楥（字卡·xuàn）",
+   "statement": "楥，xuàn：从木爰聲：履法（鞋楦），取牽援使成形。",
+   "boundary": "源自《系統漢語》第479－480部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lch-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煖（字卡·nuǎn）",
+   "statement": "煖，nuǎn：从火爰聲：與暖同，火氣溫熱。",
+   "boundary": "源自《系統漢語》第479－480部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lch-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥆞（字卡·juàn）",
+   "statement": "𥆞，juàn：本部部首字：目圍黑圈→疲勞、醜；古文借為「醜」。",
+   "boundary": "源自《系統漢語》第479－480部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
