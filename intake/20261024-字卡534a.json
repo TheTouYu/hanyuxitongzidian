@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡534a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lpanc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩕓（字卡·yù）",
+   "statement": "字卡（第533－534部）：同「預」（《字彙》）。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨖶（字卡·xiàng）",
+   "statement": "字卡（第533－534部）：《集韻》「行也」。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤩪（字卡·xiàng）",
+   "statement": "字卡（第533－534部）：𤩪柧，同「象觚」，象骨裝飾的酒器。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䴂（字卡·xiàng）",
+   "statement": "字卡（第533－534部）：䴂鵰，鸏䴀別名，即冠斑犀鳥（越王鳥）。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢊔（字卡·lǔ）",
+   "statement": "字卡（第533－534部）：《海篇》「庵舍也」，疑㢚字之譌。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦺨（字卡·xiàng）",
+   "statement": "字卡（第533－534部）：《玉篇》「草」，疑指橡實（櫟實）。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爿（字卡·chuáng）",
+   "statement": "字卡（第533－534部）：象竖起的床形，牀之初文；引申木片、剖开。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牀（字卡·chuáng）",
+   "statement": "字卡（第533－534部）：从木爿聲：安身之坐者（《說文》），人所坐臥。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疒（字卡·nè）",
+   "statement": "字卡（第533－534部）：甲骨文从爿、人，後加點表血汗，人有病臥床不起。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牕（字卡·chuāng）",
+   "statement": "字卡（第533－534部）：从穴爨（囪）聲：通孔也（《正韻》），窗有框櫺狀如床。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戕（字卡·qiāng）",
+   "statement": "字卡（第533－534部）：从戈爿聲：殘也、殺也（《說文》）。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lpanc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牄（字卡·qiāng）",
+   "statement": "字卡（第533－534部）：从倉爿聲：鳥獸來食聲（《說文》）；又空也。",
+   "boundary": "源自《系統漢語》第533－534部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
