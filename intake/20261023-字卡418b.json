@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡418b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "郂（字卡）",
+   "statement": "郂（gāi）：《说文》「陈留乡」——乡名；又邑名。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "陔（字卡）",
+   "statement": "陔（gāi）：《说文》「阶次也」——台阶、殿阶次序；又田埂、重也。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "垓（字卡）",
+   "statement": "垓（gāi）：《说文》「兼垓八极地也」——本义当指高台，引申中心地带；垓下即其例。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晐（字卡）",
+   "statement": "晐（gāi）：《说文》「兼晐也」——日光普照，引申兼备、咸、兼。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劾（字卡）",
+   "statement": "劾（hé）：《说文》「法有罪也」——定罪审判、检举罪状；又勤力。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賅（字卡）",
+   "statement": "賅（gāi）：《广韵》「赡也」——完备；《玉篇》「奇也，非常也」。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㚊（字卡）",
+   "statement": "㚊（kāi）：《玉篇》「多也、大也」。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㧡（字卡）",
+   "statement": "㧡（hài）：《玉篇》「撼动也」；又担也。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絯（字卡）",
+   "statement": "絯（gāi）：《集韵》「拘束也」——拘束约束；又挂也、大丝。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "峐（字卡）",
+   "statement": "峐（gāi）：《尔雅》「无草木峐」——草木不生的山。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姟（字卡）",
+   "statement": "姟（gāi）：《集韵》「十经曰姟」——古代一万万为垓，同垓之数。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "輆（字卡）",
+   "statement": "輆（kǎi）：《集韵》「輆軩，不平也」——车行不平；又碍也。",
+   "boundary": "源自《系統漢語》第418部「亥部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
