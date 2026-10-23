@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡537a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lnang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "囊·náng",
+   "statement": "囊：象两头扎起的无底口袋；引申敛藏、装塞。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "囔·nāng",
+   "statement": "囔：从口囊聲：小聲說話，嘟囔自語。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攮·nǎng",
+   "statement": "攮：从手囊聲：推攮、刺；又攮包（暗藏）。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灢·nǎng",
+   "statement": "灢：从水囊聲：水濁貌（《集韻》）。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齉·nàng",
+   "statement": "齉：从鼻囊聲：鼻塞不通、語音不清。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "欜·náng",
+   "statement": "欜：从木囊聲：木名（《集韻》）。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㚂·nǎng",
+   "statement": "㚂：从土囊聲：㚂，土穴／塵起貌。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儾·nàng",
+   "statement": "儾：从人囊聲：怯懦、寬緩（《集韻》）。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饢·náng",
+   "statement": "饢：从食囊聲：饢，麵餅；又食不飽貌。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "韔·chàng",
+   "statement": "韔：从韋長聲：《說文》「弓衣也」，藏弓之袋。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棖·chéng",
+   "statement": "棖：从木長聲：門兩旁木（門楔）；又觸也。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lnang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "張·zhāng",
+   "statement": "張：从弓長聲：施弓弦也（《說文》），引申張開、陳設、張望。",
+   "boundary": "源自《系統漢語》第536－537部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
