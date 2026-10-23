@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡554a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lying-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熒·yíng",
+   "statement": "熒：从焱冂（宀内火）：屋下燈燭之光（《說文》「屋下燈燭之光」），引申閃爍、眩惑、螢火。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螢·yíng",
+   "statement": "螢：从虫熒省聲：螢火蟲（《字彙》「蟲名」）。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑩·yíng",
+   "statement": "瑩：从玉熒省聲：玉色（《說文》「玉色」），光潔。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "營·yíng",
+   "statement": "營：从宮熒省聲：市居也（《說文》「市居也」），四周壘土為營。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縈·yíng",
+   "statement": "縈：从糸熒省聲：收捲也（《說文》「收捲也」），縈繞。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "塋·yíng",
+   "statement": "塋：从土熒省聲：墓也（《說文》「墓也」），墓地。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "榮·róng",
+   "statement": "榮：从木𤇾聲：桐木也（《說文》「桐木也」），引申花榮、榮耀。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勞·láo",
+   "statement": "勞：从力𤇾聲：劇也（《說文》「劇也」），用力辛苦。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶯·yīng",
+   "statement": "鶯：从鳥榮省聲：鳥也（《說文》引《詩》「有鶯其羽」），黃鸝（嘴紅如燭）。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謍·yíng",
+   "statement": "謍：从言熒省聲：小聲也（《說文》引《詩》「謍謍青蠅」）。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鎣·yíng",
+   "statement": "鎣：从金熒省聲：器也（《說文》「器也」），磨拭使光。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lying-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禜·yíng",
+   "statement": "禜：从示榮省聲：設綿蕝為營（《說文》），禳災之祭。",
+   "boundary": "源自《系統漢語》第554部「𤇾部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
