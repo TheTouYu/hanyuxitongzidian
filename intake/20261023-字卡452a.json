@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡452a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澐（字卡·yún）",
+   "statement": "澐，yún：《说文》「江水大波謂之澐」——大浪回旋。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "篔（字卡·yún）",
+   "statement": "篔，yún：《集韵》「篔簹，竹名」——大竹，节长。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耘（字卡·yún）",
+   "statement": "耘，yún：《说文》「除苗間穢也」——除草，往复周遍。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芸（字卡·yún）",
+   "statement": "芸，yún：《说文》「艸也，似苜蓿」——芸香草，可辟蠹。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紜（字卡·yún）",
+   "statement": "紜，yún：《集韵》「紛紜，亂也」——丝绪纷乱回绕。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曇（字卡·tán）",
+   "statement": "曇，tán：《集韵》「雲布也」——云气密布；昙花一现。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "妘（字卡·yún）",
+   "statement": "妘，yún：《说文》「祝融之後姓也」——古姓。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕓（字卡·yún）",
+   "statement": "蕓，yún：《集韵》「蕓薹，菜名」——油菜（芸薹）。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "全（字卡·quán）",
+   "statement": "全，quán：《说文》「完也，从入从工」——纯玉为全；引申完备、保全。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仝（字卡·tóng）",
+   "statement": "仝，tóng：「同」的古字，从人从工——共同、齐同。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痊（字卡·quán）",
+   "statement": "痊，quán：《集韵》「病瘳也」——病愈复原。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筌（字卡·quán）",
+   "statement": "筌，quán：《庄子》「得魚而忘筌」——捕鱼的竹器。",
+   "boundary": "源自《系統漢語》第451－452部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
