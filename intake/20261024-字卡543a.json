@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡543a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氿·guǐ",
+   "statement": "氿：从水九聲：水厓枯土也（《說文》）；又氿泉（側出泉）。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尻·kāo",
+   "statement": "尻：从尸九聲：脽也（《說文》），臀部、尾骨。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訄·qiú",
+   "statement": "訄：从言九聲：迫也（《說文》），逼迫。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "馗·kuí",
+   "statement": "馗：从首九聲：九達之道（《說文》「九達道也」），四通之路。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艽·jiāo",
+   "statement": "艽：从艸九聲：艽，秦艽（藥草）；又獸蓐。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼽·qiú",
+   "statement": "鼽：从鼻九聲：病寒鼻窒也（《說文》），鼻塞。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玉·yù",
+   "statement": "玉：象玉串形；引申玉制品、瑞玉、美稱、磨煉。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玊·sù",
+   "statement": "玊：从王有点：朽玉也（《說文》），玉工。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璞·pú",
+   "statement": "璞：从玉菐聲：玉未治者（《說文》），璞玉需琢。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璧·bì",
+   "statement": "璧：从玉辟聲：瑞玉，圓形中有孔（《說文》「瑞玉圜也」）。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑾·jǐn",
+   "statement": "瑾：从玉堇聲：瑾瑜，美玉（《說文》「瑾瑜，美玉也」）。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑜·yú",
+   "statement": "瑜：从玉俞聲：瑾瑜，美玉；又玉之光澤。",
+   "boundary": "源自《系統漢語》第542－543部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
