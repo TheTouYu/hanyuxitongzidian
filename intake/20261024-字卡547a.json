@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡547a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyou-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桕·jiù",
+   "statement": "桕：从木臼聲：烏桕，木名，子可榨油。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "舊·jiù",
+   "statement": "舊：从萑臼聲：舊，鴟舊（貓頭鷹）；借為新舊之舊。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "舅·jiù",
+   "statement": "舅：从男臼聲：母之兄弟（《說文》「母之兄弟」）。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匶·jiù",
+   "statement": "匶：从匚舊聲：棺也（《說文》「棺也」），柩之或体。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䊆·jiù",
+   "statement": "䊆：从米臼聲：舂糗也（《說文》），炒米粉。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚿·jiù",
+   "statement": "嚿：从口舊聲：嚿，聲也（《集韻》）。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酉·yǒu",
+   "statement": "酉：象尖底酒瓶（插火塘保温），酒之初文；引申地支、八月、成熟、雞。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酒·jiǔ",
+   "statement": "酒：从水酉聲：就也（《說文》「就也，所以就人性之善惡」），釀米成酒。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酋·qiú",
+   "statement": "酋：从酉从八（酒熟分派）：繹酒也（《說文》「繹酒也」），酋長（分酒者）。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醜·chǒu",
+   "statement": "醜：从鬼酉聲：可惡也（《說文》「可惡也」），醜陋。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猶·yóu",
+   "statement": "猶：从犬酋聲：玃屬（《說文》「玃屬」），猴類；借為尚且、猶豫。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逎·qiú",
+   "statement": "逎：从辵酉聲：迫也（《說文》「迫也」），遒之或体。",
+   "boundary": "源自《系統漢語》第546－547部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
