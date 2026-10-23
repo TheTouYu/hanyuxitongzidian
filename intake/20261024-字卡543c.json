@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡543c2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyu3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玫·méi",
+   "statement": "玫：从玉攵聲：玫瑰，火齊珠（《說文》「火齊，玫瑰也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玡·yá",
+   "statement": "玡：从玉牙聲：琅玡，地名／玉名。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珉·mín",
+   "statement": "珉：从玉民聲：石之美者（《說文》「石之美者」），似玉之石。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琮·cóng",
+   "statement": "琮：从玉宗聲：瑞玉，大八寸似車釭（《說文》）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琰·yǎn",
+   "statement": "琰：从玉炎聲：璧上起美色（《說文》「璧上起美色也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑀·yǔ",
+   "statement": "瑀：从玉禹聲：石之似玉者（《說文》）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璆·qiú",
+   "statement": "璆：从玉翏聲：美玉（《說文》「玉也」），可為磬。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璠·fán",
+   "statement": "璠：从玉番聲：璵璠，魯之寶玉（《說文》）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璣·jī",
+   "statement": "璣：从玉幾聲：珠不圜者（《說文》「珠不圜也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琪·qí",
+   "statement": "琪：从玉其聲：美玉（《集韻》「玉名」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琳·lín",
+   "statement": "琳：从玉林聲：美玉（《說文》「美玉也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琬·wǎn",
+   "statement": "琬：从玉宛聲：圭有琬者（《說文》），琬圭。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
