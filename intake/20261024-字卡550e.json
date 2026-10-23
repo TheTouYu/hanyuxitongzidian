@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡550e2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lhuo5-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熯·hàn",
+   "statement": "熯：从火堇聲：乾皃（《說文》「乾皃」），以火烘乾。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傼·hàn",
+   "statement": "傼：从人堇聲：人也（《說文》「人也」），姓。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艱·jiān",
+   "statement": "艱：从堇艮聲：土難治也（《說文》「土難治也」），艱難。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "暵·hàn",
+   "statement": "暵：从日堇聲：乾也（《說文》「乾也」），晒乾。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漢·hàn",
+   "statement": "漢：从水堇聲：漾也（《說文》「漾也」），水名、漢族。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "歎·tàn",
+   "statement": "歎：从欠堇聲：吟也（《說文》「吟也」），嘆息。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "難·nán",
+   "statement": "難：从鳥堇聲：鳥也（《說文》「鳥也」），借為艱難。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攤·tān",
+   "statement": "攤：从手難聲：開也（《集韻》），攤開、攤派。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癱·tān",
+   "statement": "癱：从疒難聲：風病（《集韻》），癱瘓。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灘·tān",
+   "statement": "灘：从水難聲：水灘（《集韻》），水淺多石。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儺·nuó",
+   "statement": "儺：从人難聲：行人節也（《說文》「行人節也」），驅疫之儺。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo5-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戁·nǎn",
+   "statement": "戁：从心難聲：敬也（《說文》「敬也」），恐懼。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
