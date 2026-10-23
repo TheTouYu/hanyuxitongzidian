@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "intent": "字卡496a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lct-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "公（字卡·gōng）",
+   "statement": "公，gōng：本部部首字：分私為公→公平、公共、公侯。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翁（字卡·wēng）",
+   "statement": "翁，wēng：从羽公聲：鳥頸上之毛（《說文》「頸毛也」），引申老翁、泛指老者。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袞（字卡·gǔn）",
+   "statement": "袞，gǔn：从衣公聲：天子祭祀所服袞衣，龍紋卷曲。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "松（字卡·sōng）",
+   "statement": "松，sōng：从木公聲：松樹，取公之聲。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訟（字卡·sòng）",
+   "statement": "訟，sòng：从言公聲：爭辯於公（《說文》「爭也」），引申訴訟。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頌（字卡·sòng）",
+   "statement": "頌，sòng：从頁公聲：本義容貌（《說文》「皃也」），引申稱頌。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓮（字卡·wèng）",
+   "statement": "瓮，wèng：从瓦公聲：小口大腹之陶器。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "船（字卡·chuán）",
+   "statement": "船，chuán：从舟，鉛省聲（一說公聲）：水上之舟。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伀（字卡·zhōng）",
+   "statement": "伀，zhōng：从人公聲：志及眾人之貌，引申驚懼。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蚣（字卡·gōng）",
+   "statement": "蚣，gōng：从虫公聲：「蜈蚣」，百足之蟲。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忪（字卡·zhōng）",
+   "statement": "忪，zhōng：从心公聲：「怔忪」，驚懼不安。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "妐（字卡·zhōng）",
+   "statement": "妐，zhōng：从女公聲：夫之兄（兄公）。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彸（字卡·zhōng）",
+   "statement": "彸，zhōng：从彳公聲：「征彸」，行遽之貌。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衳（字卡·zhōng）",
+   "statement": "衳，zhōng：从衣公聲：小袴（《玉篇》「小袴也」）。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lct-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蓊（字卡·wěng）",
+   "statement": "蓊，wěng：从艸公聲：草木茂盛（「蓊鬱」）。",
+   "boundary": "源自《系統漢語》第496部公部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
