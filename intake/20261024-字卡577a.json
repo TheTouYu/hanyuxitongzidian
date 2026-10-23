@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡577a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剬·zhì",
+   "statement": "剬：从刀耑聲：斷也（《說文》「剬，斷也」），裁斷。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䱥·zhì",
+   "statement": "䱥：从魚制聲：魚名（《廣韻》），可為醬，閩之鯽魚。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痸·chì",
+   "statement": "痸：从疒制聲：癡病（《字彙補》），抽風、痙攣。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猘·zhì",
+   "statement": "猘：从犬制聲：狂犬（《集韻》本作狾），瘋狗。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㫼·zhì",
+   "statement": "㫼：从日制聲：明也（《集韻》），日光昭明。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡝧·xì",
+   "statement": "𡝧：从女制聲：凶恣也（《集韻》），婦人凶橫。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢛁·dá",
+   "statement": "𢛁：从心制聲：驚也（《玉篇》），驚恐；又心動。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤙲·zhì",
+   "statement": "𤙲：从牛制聲：牛名（《集韻》），牛之別稱。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥇕·zhì",
+   "statement": "𥇕：从目制聲：目明（《集韻》），視之審。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦜋·zhì",
+   "statement": "𦜋：从肉制聲：腶也（《集韻》），肉脯。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧨰·zhì",
+   "statement": "𧨰：从言制聲：言也（《集韻》），言語。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨧳·zhì",
+   "statement": "𨧳：从金制聲：鐵也（《集韻》），金屬。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
