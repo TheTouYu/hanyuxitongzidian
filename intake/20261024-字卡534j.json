@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡534j2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljiang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "將（字卡·jiāng）",
+   "statement": "字卡（第534部將系）：从寸从醬省：帥也（《說文》），持肉献祭→扶助、率领、将要。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "獎（字卡·jiǎng）",
+   "statement": "字卡（第534部將系）：从犬將聲：《說文》「嗾犬厲之也」，嗾犬使前；引申勸勉、褒賞。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "槳（字卡·jiǎng）",
+   "statement": "字卡（第534部將系）：从木將聲：楫屬（《玉篇》），長大曰櫓、短小曰槳。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䉃（字卡·jiǎng）",
+   "statement": "字卡（第534部將系）：从竹將聲：剖竹未去節謂之䉃（《說文》），即竹槳；去節則無力。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱂（字卡·jiāng）",
+   "statement": "字卡（第534部將系）：从魚將聲：鰪鱂，小魚，善食孑孓。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹡（字卡·qiāng）",
+   "statement": "字卡（第534部將系）：从足將聲：行貌（《說文》）；踉蹡，行不正。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螿（字卡·jiāng）",
+   "statement": "字卡（第534部將系）：从虫將聲：寒蜩，似蟬而小色青（《方言》注）。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏘（字卡·qiāng）",
+   "statement": "字卡（第534部將系）：从金將聲：玉聲／樂聲（《說文》瑲），鏘鏘，盛也。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "摪（字卡·jiāng）",
+   "statement": "字卡（第534部將系）：从手將聲：扶也（《說文》𢪇），扶助；通作將。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漿（字卡·jiāng）",
+   "statement": "字卡（第534部將系）：从水將省聲：酢漿也（《說文》），帶酸味的飲料；米汁。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醬（字卡·jiàng）",
+   "statement": "字卡（第534部將系）：从肉从酉爿聲：盬也（《說文》），以鹽醋醃製的肉醬。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蔣（字卡·jiǎng）",
+   "statement": "字卡（第534部將系）：从艸將聲：苽蔣也（《說文》），即菰（茭白）。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
