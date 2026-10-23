@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡579a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䍜·zhào",
+   "statement": "䍜：从网从隹：覆鳥令不飛走也（《說文》），罩鳥之網籠。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羅·luó",
+   "statement": "羅：从网从維：以絲罟鳥也（《說文》），羅網→羅列、羅綺、姓。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邏·luó",
+   "statement": "邏：从辵羅聲：巡也（《說文》），巡察、遮也、山色環繞。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蘿·luó",
+   "statement": "蘿：从艸羅聲：莪也（《說文》），女蘿托松而生。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "罹·lí",
+   "statement": "罹：从网：心憂也（《說文新附》），遭遇（古多通離）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "纙·luò",
+   "statement": "纙：从糸羅聲：錢緡也（《集韻》），穿錢之繩。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儸·luó",
+   "statement": "儸：从人羅聲：健而不德（《玉篇》），僂儸＝幹練機靈。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鑼·luó",
+   "statement": "鑼：从金羅聲：鈔鑼，銅器（《集韻》），銅鑼（面有圈紋）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攞·luó",
+   "statement": "攞：从手羅聲：裂也（《集韻》），撕裂、向上捋。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籮·luó",
+   "statement": "籮：从竹羅聲：竹器（《玉篇》），籮筐（篾編螺旋狀）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "囉·luó",
+   "statement": "囉：从口羅聲：歌詞、嘍囉（《廣韻》），又句末助詞。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤄷·luó",
+   "statement": "𤄷：从水羅聲：汨𤄷，水名（《廣韻》），汨羅江（屈原沉處）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
