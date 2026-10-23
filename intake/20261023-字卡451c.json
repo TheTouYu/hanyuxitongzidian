@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡451c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbo-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢙍（字卡·xī）",
+   "statement": "𢙍，xī：《五音集韵》「同悉」——《说文》古文「悉」之讹。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩢱（字卡·huí）",
+   "statement": "𩢱，huí：《玉篇》「馬名」；《正字通》疑「駟」之讹。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣑩（字卡·yīn）",
+   "statement": "𣑩，yīn：《植物名实图考》「𣑩樹」——木质坚重，造船者取以为舵。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥔯（字卡·huì）",
+   "statement": "𥔯，huì：《集韵》「石皃」——石貌，取回屈之状。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦂆（字卡·huì）",
+   "statement": "𦂆，huì：《类篇》「衣領緣皃」——衣领缘边之貌。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪀟（字卡·huí）",
+   "statement": "𪀟，huí：《玉篇》「鳥長一尺，五色文」——五色文鸟。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠬸（字卡·mò）",
+   "statement": "𠬸，mò：《说文》「入水有所取也，从又在回下」——手入回水之中取物，即「没」之初文。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沒（字卡·mò）",
+   "statement": "沒，mò：《说文》「湛也，从水𠬸聲」——沉没水中；引申终尽、隐没。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殁（字卡·mò）",
+   "statement": "殁，mò：《玉篇》「死也」——终没、死亡，与「沒」通。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "圽（字卡·mò）",
+   "statement": "圽，mò：《集韵》「埋也」——埋没于土。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莈（字卡·mò）",
+   "statement": "莈，mò：《集韵》「草名」——草名，取没入草丛之状。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbo-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩑦（字卡·mò）",
+   "statement": "𩑦，mò：《集韵》「頭前也」——头向前俯入水之状。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
