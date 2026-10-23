@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡521a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "liang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "良（字卡·liáng）",
+   "statement": "良（liáng）本部字根：露獠牙之獸，引申善美、良善。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "狼（字卡·láng）",
+   "statement": "狼（láng）从犬良聲：似犬銳頭白頰，善逐獸（《說文》）。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "浪（字卡·làng）",
+   "statement": "浪（làng）从水良聲：滄浪之水（《說文》），引申波浪、放浪。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踉（字卡·liáng）",
+   "statement": "踉（liáng）从足良聲：跳踉、踉蹡，行不迅。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "硠（字卡·láng）",
+   "statement": "硠（láng）从石良聲：石聲（《說文》），硠硠堅也。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琅（字卡·láng）",
+   "statement": "琅（láng）从玉良聲：琅玕，似珠之玉（《說文》）。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "俍（字卡·liáng）",
+   "statement": "俍（liáng）从人良聲：良工（《集韻》），善於其事；又長貌。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桹（字卡·láng）",
+   "statement": "桹（láng）从木良聲：高木（《說文》），桄桹似椶櫚。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "榔（字卡·láng）",
+   "statement": "榔（láng）从木郎聲：榔榆木質堅密，又檳榔。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜋（字卡·láng）",
+   "statement": "蜋（láng）从虫良聲：堂蜋即螳螂，前肢尖銳有鉤（《說文》）。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鋃（字卡·láng）",
+   "statement": "鋃（láng）从金良聲：鋃鏜，鎖鏈（《說文》），又鐘聲。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
