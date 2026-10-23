@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡415得部b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㥂（字卡）",
+   "statement": "㥂（tè）：《广韵》「㥂㥂，快也」；《字汇》「动心，得也」；《集韵》「心惧」。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠮊（字卡）",
+   "statement": "𠮊（dé）：《广韵》「取也」——取。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡭂（字卡）",
+   "statement": "𡭂（dé）：《玉篇》「弱貌」——弱小貌。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢕚（字卡）",
+   "statement": "𢕚（dí）：《集韵》「𢕚滴，水少」——水少。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣮊（字卡）",
+   "statement": "𣮊（dé）：《玉篇》「毛少也」——毛少。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤙰（字卡）",
+   "statement": "𤙰（tè）：《玉篇》「牛也」；《集韵》「特，牛父也，或作犆、𤙰」——公牛。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤷙（字卡）",
+   "statement": "𤷙（dé）：《集韵》「病也」——病。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨁽（字卡）",
+   "statement": "𨁽（dé）：《玉篇》「行𨁽𨁽也」——行走貌。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淂（字卡）",
+   "statement": "淂（dé）：《集韵》「水貌，一曰水名」——水貌、水名。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碍（字卡）",
+   "statement": "碍（ài）：《正字通》「俗碍字」——妨碍、阻止。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨵏（字卡）",
+   "statement": "𨵏（ài）：《正字通》「以木栏门」，碍、硋、閡并通。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棏（字卡）",
+   "statement": "棏（dé）：《唐韵》「木名」；《集韵》「㭙，槌也，或作棏」——蚕箔搁架上的横木。",
+   "boundary": "源自《系統漢語》第415部「得部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
