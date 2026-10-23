@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡498a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcq-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爭（字卡·zhēng）",
+   "statement": "爭，zhēng：本部部首字：兩手爭一器→爭奪、爭執、競爭。",
+   "boundary": "源自《系統漢語》第498部爭部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcq-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "靜（字卡·jìng）",
+   "statement": "靜，jìng：从青爭聲：《說文》「審也」，丹青明審故為靜；引申安靜。",
+   "boundary": "源自《系統漢語》第498部爭部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcq-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淨（字卡·jìng）",
+   "statement": "淨，jìng：从水爭聲：清潔（《說文》「魯北城門池也」，借為潔淨）。",
+   "boundary": "源自《系統漢語》第498部爭部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcq-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "箏（字卡·zhēng）",
+   "statement": "箏，zhēng：从竹爭聲：弦樂器，取爭之聲。",
+   "boundary": "源自《系統漢語》第498部爭部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcq-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諍（字卡·zhèng）",
+   "statement": "諍，zhèng：从言爭聲：直言諫止（《廣韻》「諫諍也，止也」）。",
+   "boundary": "源自《系統漢語》第498部爭部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcq-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睜（字卡·zhēng）",
+   "statement": "睜，zhēng：从目爭聲：張目直視。",
+   "boundary": "源自《系統漢語》第498部爭部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
