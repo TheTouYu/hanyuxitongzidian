@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡576a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llai2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "來·lái",
+   "statement": "來：象麥形（《說文》「周所受瑞麥來麰」），假借為行來之來。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麥·mài",
+   "statement": "麥：从來从夊：芒穀，秋種夏熟（《玉篇》），麥子。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猌·yìn",
+   "statement": "猌：从犬來聲：犬張齦怒也（《說文》），犬怒。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憖·yìn",
+   "statement": "憖：从心來聲：問也、敬謹也（《說文》），肯從；又且也。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猍·lái",
+   "statement": "猍：从犬來聲：貍之或體（《集韻》），野貓。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶆·lái",
+   "statement": "鶆：从鳥來聲：鶆鳩（《集韻》），鷹類。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "婡·lái",
+   "statement": "婡：从女來聲：女字（《集韻》），女子名用字。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "箂·lái",
+   "statement": "箂：从竹來聲：竹名（《集韻》）。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "崍·lái",
+   "statement": "崍：从山來聲：崍山（《集韻》），邛崍山。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淶·lái",
+   "statement": "淶：从水來聲：淶水（《說文》「淶水，起代郡」），河北淶源。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "郲·lái",
+   "statement": "郲：从邑來聲：地名（《集韻》），萊之或體。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睞·lài",
+   "statement": "睞：从目來聲：目瞳子不正也（《說文》），旁視、睞盼。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
