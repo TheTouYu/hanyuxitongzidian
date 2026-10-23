@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡425d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bl4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攊（字卡·lì）",
+   "statement": "攊字，lì。《广韵》「击口也」——以手击打口部，使张开。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡳸（字卡·lì）",
+   "statement": "𡳸字，lì。《说文》「履下也」——鞋底；多层布叠纳而成，故字从歷。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壢（字卡·lì）",
+   "statement": "壢字，lì。《集韵》「坑也」——地面陷下成坑。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䥶（字卡·lì）",
+   "statement": "䥶字，lì。《集韵》「鬲，鼎属」——三足炊器；秝部以秸秆作柴烧陶器，故鬲从秝声。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䍽（字卡·lì）",
+   "statement": "䍽字，lì。《集韵》「羖䍽，山羊」；《本草纲目》「多毛曰羖䍽」，或指阉割之羊。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥌮（字卡·lì）",
+   "statement": "𥌮字，lì。《广韵》「𥌮𥉶，视明貌」——目光清亮，看物分明。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儮（字卡·lì）",
+   "statement": "儮字，lì。《集韵》「人名」——专名用字，借秝之音。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
