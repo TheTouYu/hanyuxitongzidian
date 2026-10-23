@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡451e2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbm-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喛（字卡·huàn）",
+   "statement": "喛，huàn：《集韵》「哀也」——哀声回绕；同「唤」。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䚙（字卡·xuān）",
+   "statement": "䚙，xuān：《集韵》「角皃，一曰牛角」——牛角回曲。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧻚（字卡·yuán）",
+   "statement": "𧻚，yuán：《集韵》「走也」——行走回绕。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡘍（字卡·gèn）",
+   "statement": "𡘍，gèn：《集韵》「大也」——广大绵亘。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝖（字卡·xuān）",
+   "statement": "蝖，xuān：《集韵》「蟲名」——虫名，善盘旋。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煊（字卡·xuān）",
+   "statement": "煊，xuān：《集韵》「光明也」——火光盛大、光明温暖。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萱（字卡·xuān）",
+   "statement": "萱，xuān：《说文》「藼，令人忘憂艸也」，或作萱——萱草（忘忧草）。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揎（字卡·xuān）",
+   "statement": "揎，xuān：《集韵》「手發衣也」——捋袖露手，取舒展之状。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旬（字卡·xún）",
+   "statement": "旬，xún：《说文》「徧也，十日為旬，从勹，日」——十日一周，周遍回环。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詢（字卡·xún）",
+   "statement": "詢，xún：《说文》「謀也，从言旬聲」——咨询、问谋。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "荀（字卡·xún）",
+   "statement": "荀，xún：《说文》「艸也，从艸旬聲」；亦国名、姓。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbm-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洵（字卡·xún）",
+   "statement": "洵，xún：《说文》「渦中水也，从水旬聲」——《诗》「洵美且都」：水旋；引申信实。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
