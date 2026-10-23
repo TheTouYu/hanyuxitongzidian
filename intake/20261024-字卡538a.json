@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡538a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lchang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悵·chàng",
+   "statement": "悵：从心長聲：望恨也（《說文》），失意惆悵。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "倀·chāng",
+   "statement": "倀：从人長聲：倀鬼（傳說為虎作倀），又狂也。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "帳·zhàng",
+   "statement": "帳：从巾長聲：帷幕、帳篷（張之分化）。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賬·zhàng",
+   "statement": "賬：从貝長聲：帳之俗字，記財物出入。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "脹·zhàng",
+   "statement": "脹：从肉長聲：肌膚鼓脹（張之分化）。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "腸·cháng",
+   "statement": "腸：从肉長聲：腸道，迂長如帶。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漲·zhǎng",
+   "statement": "漲：从水長聲：水漲（張之分化）。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萇·cháng",
+   "statement": "萇：从艸長聲：萇楚，即羊桃（《說文》）。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼚·chāng",
+   "statement": "鼚：从鼓長聲：鼓聲（《說文》「鼓聲也」）。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓺·chàng",
+   "statement": "瓺：从瓦長聲：瓶也（《說文》）。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粻·zhāng",
+   "statement": "粻：从米長聲：糧米（《說文》「食米也」）。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畕·jiāng",
+   "statement": "畕：从二田：比田也（《說文》），田界相邻，疆之初文。",
+   "boundary": "源自《系統漢語》第537－538部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
