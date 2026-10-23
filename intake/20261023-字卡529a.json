@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡529a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiang4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "相（字卡·xiāng）",
+   "statement": "相（xiāng）＝从目从木：观木度材；引申省视、形貌、共与交互、辅助教导。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "想（字卡·xiǎng）",
+   "statement": "想（xiǎng）＝从心相聲：冀思也（《說文》），物未至而意之。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "箱（字卡·xiāng）",
+   "statement": "箱（xiāng）＝从竹相聲：大車牝服（《說文》），車內容物處，引申箱籠。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廂（字卡·xiāng）",
+   "statement": "廂（xiāng）＝从广相聲：廊也（《說文》），堂屋東西序、正房兩側之屋。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湘（字卡·xiāng）",
+   "statement": "湘（xiāng）＝从水相聲：湘江（《說文》），疑取憑河道放木排之義。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霜（字卡·shuāng）",
+   "statement": "霜（shuāng）＝从雨相聲：霜（《說文》「喪也，成物者」），物遇霜而喪。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孀（字卡·shuāng）",
+   "statement": "孀（shuāng）＝从女霜聲：寡婦（《玉篇》），如霜之孤冷。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灀（字卡·shuāng）",
+   "statement": "灀（shuāng）＝从水霜聲：水名，又水寒之意。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鸘（字卡·shuāng）",
+   "statement": "鸘（shuāng）＝从鳥霜聲：鸘鳥（鷫鸘），雁屬。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驦（字卡·shuāng）",
+   "statement": "驦（shuāng）＝从馬霜聲：驦馬（驌驦），良馬名。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "葙（字卡·xiāng）",
+   "statement": "葙（xiāng）＝从艸相聲：青葙，草名，子黑光亮。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "緗（字卡·xiāng）",
+   "statement": "緗（xiāng）＝从糸相聲：帛淺黃色（《說文》「帛淺黃色也」）。",
+   "boundary": "源自《系統漢語》第529部「相部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
