@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡570c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxian-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憲·xiàn",
+   "statement": "憲：从目从害聲：懸法示民（《說文》「敏也」），引申憲法、高起、興盛。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幰·xiǎn",
+   "statement": "幰：从巾憲聲：車幔（《集韻》），車上張帷。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩍹·xiǎn",
+   "statement": "𩍹：从革憲聲：革履、靴（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "櫶·xiǎn",
+   "statement": "櫶：从木憲聲：木名（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀗·xiàn",
+   "statement": "瀗：从水憲聲：水名、水聲（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萱·xuān",
+   "statement": "萱：从艸憲聲：藼省，忘憂草（《說文》「令人忘憂」），萱堂指母。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㦥·xiǎn",
+   "statement": "㦥：从心憲聲：敬畏、黠慧（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戟·jǐ",
+   "statement": "戟：从戈倝聲：有枝兵也（《說文》），長柄直刃加橫刃，兼矛戈；引申雄強。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撠·jǐ",
+   "statement": "撠：从手戟聲：持也、拘持（《集韻》），抓住。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橶·jǐ",
+   "statement": "橶：从木戟聲：木名；戟柄（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦺩·jǐ",
+   "statement": "𦺩：从艸戟聲：草名（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
