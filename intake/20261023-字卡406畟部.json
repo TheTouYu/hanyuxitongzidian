@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡406畟部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畟（字卡）",
+   "statement": "畟（cè）：《说文》「治稼畟畟進也」；《集韵》「畟畟，耜利也」——耒耜锋利入土。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "稷（字卡）",
+   "statement": "稷（jì）：《说文》「𪗉也，五穀之長」——糜子、甜高粱；又五谷总名、谷神。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禝（字卡）",
+   "statement": "禝（jì）：《集韵》「堯臣能播五穀，有功于民，祀之，通作稷」——后稷。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㮨（字卡）",
+   "statement": "㮨（jì）：《说文》「細理木也，从木畟聲」——水松。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謖（字卡）",
+   "statement": "謖（sù）：《尔雅》「起也」；《世说》「謖謖如勁松」——峻挺貌。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠞅（字卡）",
+   "statement": "𠞅（jī）：《集韵》「畟畟，耜利也，或从耒、从刀」——锋利入土。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢱩（字卡）",
+   "statement": "𢱩（sù）：《集韵》「㩋，擊也，或作𢱩」。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦃩（字卡）",
+   "statement": "𦃩（sù）：《字海》「勁拔有力的樣子」。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溭（字卡）",
+   "statement": "溭（zé）：《集韵》「溭淢，奔湍」——水势奔涌。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㹄（字卡）",
+   "statement": "㹄（jì）：《集韵》「牛名，犤也」；《本草》「果下牛，形最卑小」。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤠎（字卡）",
+   "statement": "𤠎（jí）：《玉篇》「犬生三子」。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠋻（字卡）",
+   "statement": "𠋻（jī）：《集韵》「音積，小也」。",
+   "boundary": "源自《系統漢語》第406部「畟部」（卷六十六 采）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
