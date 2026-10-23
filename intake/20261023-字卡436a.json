@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡436a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䳙（字卡·xǐng）",
+   "statement": "䳙，xǐng：《集韵》「鸧䳙，水鸟，似鹭，色苍」——苍色水鸟。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦶊（字卡·píng）",
+   "statement": "𦶊，píng：《集韵》「水中浮草」——浮萍（俗蓱字）。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦰝（字卡·píng）",
+   "statement": "𦰝，píng：《集韵》「荓蜂，𢊏曳也，通作甹」；又草名马帚。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䀻（字卡·pìn）",
+   "statement": "䀻，pìn：《玉篇》「视也」——视看。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧮹（字卡·pìn）",
+   "statement": "𧮹，pìn：郭璞注《穆天子传》「有鸟𧮹人」——音义未详，疑鸟名。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥭢（字卡·pīng）",
+   "statement": "𥭢，pīng：《集韵》「舟车篷」——舟车上的篷盖。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦀔（字卡·pīng）",
+   "statement": "𦀔，pīng：《集韵》「吴人数絮」；《字汇》「敝絮」——旧絮。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩩍（字卡·pīng）",
+   "statement": "𩩍，pīng：《集韵》「肋骨」——肋骨分列如篦。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騁（字卡·chěng）",
+   "statement": "騁，chěng：《说文》「直驰也，从马甹声」——径直奔驰，引申放任。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "涄（字卡·pīng）",
+   "statement": "涄，pīng：《集韵》「水貌」——水之貌。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥪁（字卡·pīng）",
+   "statement": "𥪁，pīng：《类篇》「使也」——使令。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樊（字卡·fán）",
+   "statement": "樊，fán：《说文》「鸷不行也，从棥，棥亦声」——马负过重止而不前；樊篱、樊笼、纷杂、边缘。",
+   "boundary": "源自《系統漢語》第435－436部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
