@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡558a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxian-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "先·xiān",
+   "statement": "先：从止在人上：前進也（《說文》「前進也」），走在前；引申時間次序在前、祖先、已死。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "駪·shēn",
+   "statement": "駪：从馬先聲：馬眾多皃（《說文》「馬眾多皃」），群行疾而欲先。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侁·shēn",
+   "statement": "侁：从人先聲：行皃（《說文》「行皃」），往來侁侁，眾多齊整。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詵·shēn",
+   "statement": "詵：从言从先，先亦聲：致言也（《說文》「致言也」），詵詵眾多。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "毨·xiǎn",
+   "statement": "毨：从毛先聲：仲秋鳥獸毛盛可選取為器用（《說文》），毛更生、整理。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㭠·xiǎn",
+   "statement": "㭠：从木先聲：㭠木，子赤如大豆（《玉篇》），俗云雷鳴子；又棗木。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筅·xiǎn",
+   "statement": "筅：从竹先聲：洗帚飯具（《廣韻》），竹刷帚；狼筅為兵器。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姺·shēn",
+   "statement": "姺：从女先聲：殷諸侯為亂疑姓也（《說文》「商有姺邳」），古國名。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "冼·shěng",
+   "statement": "冼：从冫先聲：𠗌冼，寒皃（《集韻》）；又姓。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跣·xiǎn",
+   "statement": "跣：从足先聲：足親地也（《說文》「足親地也」），赤腳貼地。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "烍·xiǎn",
+   "statement": "烍：从火先聲：熂也（《集韻》「熂也」），火燒雜草，蔓延迅速。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxian-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洗·xǐ",
+   "statement": "洗：从水先聲：洒足也（《說文》「洒足也」），洗滌。",
+   "boundary": "源自《系統漢語》第558部「先部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
