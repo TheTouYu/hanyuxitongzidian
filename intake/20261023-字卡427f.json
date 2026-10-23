@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡427f2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "yb6-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橚（字卡·sù）",
+   "statement": "橚，sù：《说文》「长木貌」——长木；《集韵》「橚矗，行木貌」；qiū 通楸。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㩋（字卡·sù）",
+   "statement": "㩋，sù：《集韵》「击也」；《广韵》「击声」「打也」，xiāo「把也」。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彇（字卡·xiāo）",
+   "statement": "彇，xiāo：《集韵》「弓弭头也」——弓末弯曲处，绷弦之意。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繡（字卡·xiù）",
+   "statement": "繡，xiù：《说文》「五采备也」——刺绣；《释名》「修也，文修修然」；指刺绣时小心刺针之状。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀟（字卡·xiāo）",
+   "statement": "瀟，xiāo：《水经注》「潇者，水清深也」——潇水，湘江上游；又潇潇风雨暴疾。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潚（字卡·sù）",
+   "statement": "潚，sù：《说文》「深清也」——水深且清；sōu 同溲，淘米。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩙚（字卡·xiāo）",
+   "statement": "𩙚，xiāo：《玉篇》「北风也」；《集韵》「凉风谓之𩙚」。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩘹（字卡·sù）",
+   "statement": "𩘹，sù：《广韵》「风声」；《广雅》「风也」，寒风。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘯（字卡·xiào）",
+   "statement": "嘯，xiào：《说文》「吹声也」——蹙口出声，长啸；又叱喝。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "歗（字卡·xiào）",
+   "statement": "歗，xiào：《说文》「吟也」——《诗》「其歗也歌」；蹙口出声。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熽（字卡·xiào）",
+   "statement": "熽，xiào：《玉篇》「火炽也」——火盛。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb6-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷫（字卡·sù）",
+   "statement": "鷫，sù：《说文》「鹔鷞也，五方神鸟」——西方神鸟，色青。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
