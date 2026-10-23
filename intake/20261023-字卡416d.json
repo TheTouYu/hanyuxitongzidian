@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡416d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䎩（字卡）",
+   "statement": "䎩（zī）：《玉篇》「耕也，亦田一岁也」；通作葘——一年不耕之田。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "輜（字卡）",
+   "statement": "輜（zī）：《说文》「軿车前，衣车后也」——有帷盖的车；輜重即行军所携器械粮草。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶅（字卡）",
+   "statement": "鶅（zī）：《广韵》「东方雉名」；《尔雅》「鶅鵵轨」——猫头鹰。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡸟（字卡）",
+   "statement": "𡸟（zī）：《集韵》「𡸟嶷，不齐貌」——参差不齐。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "椔（字卡）",
+   "statement": "椔（zī）：《广韵》「木立死」——直立的枯木（水淹草死后直立之状）。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鯔（字卡）",
+   "statement": "鯔（zī）：《本草》「鲻鱼，似鲤，身圆头扁，骨软」——生于江海浅水，背黑绿腹白。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淄（字卡）",
+   "statement": "淄（zī）：《水经》「淄水，出泰山莱芜县原山」——淄河，在山东；俗传禹理水功毕，土石黑，波若漆。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
