@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡530a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshuang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧡮（字卡·shǎng）",
+   "statement": "𧡮（shǎng）＝《字彙補》「信也」。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠷹（字卡·shuǎng）",
+   "statement": "𠷹（shuǎng）＝同「爽」（《漢典》）；《廣雅》「爽，敗也」。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤭪（字卡·shuǎng）",
+   "statement": "𤭪（shuǎng）＝㼽之或體：半瓦（《集韻》）；又用碎瓦石沖刷去垢。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤷼（字卡·xiāng）",
+   "statement": "𤷼（xiāng）＝《玉篇》「𤷼疾也」。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪂼（字卡·xiāng）",
+   "statement": "𪂼（xiāng）＝《玉篇》音相，鳥名；《正字通》「鸉字之譌」。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爽（字卡·shuǎng）",
+   "statement": "爽（shuǎng）＝象人兩手提大器：孔武豪爽／器空粗疏；引申明亮、傷損。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷞（字卡·shuāng）",
+   "statement": "鷞（shuāng）＝从鳥爽聲：鷫鷞，西方候鳥，來時桑落霜降（《說文》）。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慡（字卡·shuǎng）",
+   "statement": "慡（shuǎng）＝从心爽聲：性明也（《集韻》），性格爽朗。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漺（字卡·shuǎng）",
+   "statement": "漺（shuǎng）＝从水爽聲：淨也、冷也（《玉篇》），水清皃。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "塽（字卡·shuǎng）",
+   "statement": "塽（shuǎng）＝从土爽聲：地髙明處（《字彙》），通作爽。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騻（字卡·shuǎng）",
+   "statement": "騻（shuǎng）＝从馬爽聲：驌驦，良馬名（《集韻》）。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshuang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㼽（字卡·chuǎng）",
+   "statement": "㼽（chuǎng）＝从瓦爽聲：用瓦石搓磨去垢（《說文》）；又半瓦。",
+   "boundary": "源自《系統漢語》第529－530部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
