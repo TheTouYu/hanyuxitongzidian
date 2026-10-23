@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡463b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lby-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "為（字卡·wéi）",
+   "statement": "為，wéi：从象又声——「又」在象鼻处，象鼻灵活如人手，故引申做、作、充当、代替、伪装。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "偽（字卡·wěi）",
+   "statement": "偽，wěi：从人为声——《说文》「詐也」，假装、虚假；「为」之比拟义所生。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譌（字卡·é）",
+   "statement": "譌，é：从言为声——《说文》「譌言也」，无中生有之言；或作訛。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撝（字卡·huī）",
+   "statement": "撝，huī：从手为声——《说文》「裂也」，一曰手指、指挥、挥动。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "媯（字卡·guī）",
+   "statement": "媯，guī：从女为声——虞舜居妫汭因以为氏；又《方言》「媯媞，慢也」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄬（字卡·guī）",
+   "statement": "鄬，guī：从邑为声——春秋郑地，在今河南鲁山境；亦作「䧦」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灰（字卡·huī）",
+   "statement": "灰，huī：从手从火——手拨火后之余烬；引申灰色、消沉。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恢（字卡·huī）",
+   "statement": "恢，huī：从心灰声——《说文》「大也」，广大、恢复。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盔（字卡·kuī）",
+   "statement": "盔，kuī：从皿灰声——头盔，覆首如皿；本作「鍐」「盔」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詼（字卡·huī）",
+   "statement": "詼，huī：从言灰声——《广韵》「詼諧，調戲也」，诙谐调笑。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "守（字卡·shǒu）",
+   "statement": "守，shǒu：从宀从又（寸）——以手守持官署；引申守候、操守。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "狩（字卡·shòu）",
+   "statement": "狩，shòu：从犬守声——《说文》「犬田也」，冬猎曰狩；甲骨文从犬从干（猎具）。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
