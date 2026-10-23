@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡466a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眔（字卡·dà）",
+   "statement": "眔，dà：本部部首字：蟾蜍的局部象形；转义为蟾蜍、蟾酥、蟾衣。",
+   "boundary": "源自《系統漢語》第466部眔部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "褱（字卡·huái）",
+   "statement": "褱，huái：从衣眔声：衣如蟾蜍之皮，鼓鼓囊囊，故指怀挟、囊袋；后作「懷」。",
+   "boundary": "源自《系統漢語》第466部眔部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沓（字卡·tà）",
+   "statement": "沓，tà：从水眔声（《说文》「語多沓沓也」）：水流重叠相及，引申繁多、重复、合沓。",
+   "boundary": "源自《系統漢語》第466部眔部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "遝（字卡·tà）",
+   "statement": "遝，tà：从辵眔声（《说文》「䢔也」）：行而相及，杂沓而来。",
+   "boundary": "源自《系統漢語》第466部眔部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰥（字卡·guān）",
+   "statement": "鰥，guān：从魚眔声（《说文》「魚也」）：大鱼；借指无妻之男（鰥夫），取鱼独行不偶。",
+   "boundary": "源自《系統漢語》第466部眔部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䓠（字卡·tà）",
+   "statement": "䓠，tà：从艸眔声（《集韵》「菜名，生水中，大葉」）：水中大叶菜，或作𦵺。",
+   "boundary": "源自《系統漢語》第466部眔部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
