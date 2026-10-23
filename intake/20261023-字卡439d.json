@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡439d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbr-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝙（字卡·biān）",
+   "statement": "蝙，biān：《说文》「蝙蝠也，从虫扁聲」——蝙蝠，体扁如门牌而善飞。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猵（字卡·biān）",
+   "statement": "猵，biān：《说文》「獺屬，从犬扁聲」——水獭；猵狙，似猿之兽。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甂（字卡·biān）",
+   "statement": "甂，biān：《说文》「似小瓿，大口而卑」——扁形盆盂。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艑（字卡·biàn）",
+   "statement": "艑，biàn：《正字通》「艑艖，舟名」；《通雅》「形扁，故呼為扁子」——浅船。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萹（字卡·biān）",
+   "statement": "萹，biān：《说文》「萹茿也，从艸扁聲」；《爾雅》「竹萹蓄」——萹竹，布地而生。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍽（字卡·biān）",
+   "statement": "鍽，biān：《玉篇》「金鍽」——金饰之名。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鯿（字卡·biān）",
+   "statement": "鯿，biān：《玉篇》「鯾，魴魚也」；《集韻》「似魴」——鳊鱼，身扁。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徧（字卡·biàn）",
+   "statement": "徧，biàn：《说文》「帀也，从彳扁聲」——周匝一遍，即「遍」。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揙（字卡·biàn）",
+   "statement": "揙，biàn：《说文》「撫也，从手扁聲」；《玉篇》「搏也、擊也」——抚摩、击打。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "偏（字卡·piān）",
+   "statement": "偏，piān：《说文》「頗也，从人扁聲」——偏斜不平；旁侧、半、属。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翩（字卡·piān）",
+   "statement": "翩，piān：《说文》「疾飛也，从羽扁聲」——轻举疾飞；翩跹。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諞（字卡·piǎn）",
+   "statement": "諞，piǎn：《说文》「便巧言也，从言扁聲」——巧言。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
