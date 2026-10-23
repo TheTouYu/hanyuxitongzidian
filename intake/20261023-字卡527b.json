@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡527b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiang2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥥩（字卡·xiàng）",
+   "statement": "𥥩（xiàng）＝《韻海》與向同；俗音阿（《正字通》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥀾（字卡·xiàng）",
+   "statement": "𥀾（xiàng）＝《篇海類編》音嚮，應指鼓聲。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤍀（字卡·xiǎng）",
+   "statement": "𤍀（xiǎng）＝《龍龕》俗音嚮。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銄（字卡·xiǎng）",
+   "statement": "銄（xiǎng）＝《正字通》「餉字之譌」，饋贈；或同扃。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晑（字卡·xiǎng）",
+   "statement": "晑（xiǎng）＝《篇海》明也；又𣅻音扃。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逈（字卡·jiǒng）",
+   "statement": "逈（jiǒng）＝同「迥」，遠也（《廣韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥿧（字卡·xiǎng）",
+   "statement": "𥿧（xiǎng）＝《字彙》綿也；《正字通》疑「絅」之訛。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䚁（字卡·chēn）",
+   "statement": "䚁（chēn）＝「舟譌从向」，「𧡬」之訛，私出頭視（《廣韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧥁（字卡·xī）",
+   "statement": "𧥁（xī）＝「觹」之俗，角錐，童子佩以解結（《龍龕》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧙹（字卡·hè）",
+   "statement": "𧙹（hè）＝《龍龕》「《舊藏》作禍」，「禍」之訛。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尚（字卡·shàng）",
+   "statement": "尚（shàng）＝从八向聲：開窗，敞之初文；引申推崇、佐助、庶幾、主宰。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
