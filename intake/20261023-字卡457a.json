@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡457a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbd-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旋（字卡·xuán）",
+   "statement": "旋，xuán：《说文》「周旋，旌旗之指麾也」——举旗回旋；引申旋转、旋即。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漩（字卡·xuán）",
+   "statement": "漩，xuán：《集韵》「漩澴，水回皃」——漩涡，水回旋成涡。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璇（字卡·xuán）",
+   "statement": "璇，xuán：《说文》「美玉也」——璇玑玉衡，北斗星名。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "還（字卡·huán）",
+   "statement": "還，huán：《说文》「復也，从辵睘聲」——返回、归还；hái 犹、更。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澴（字卡·huán）",
+   "statement": "澴，huán：《集韵》「水回旋也」——水势回环。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏇（字卡·xuàn）",
+   "statement": "鏇，xuàn：《说文》「圜鑪也」——旋转的车床；《集韵》「温器」。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嫙（字卡·xuán）",
+   "statement": "嫙，xuán：《集韵》「好也」——美好，取回旋柔美之状。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縼（字卡·xuàn）",
+   "statement": "縼，xuàn：《集韵》「繩也」——绳索，取缠绕回旋。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玄（字卡·xuán）",
+   "statement": "玄，xuán：《说文》「幽遠也，黑而有赤色者為玄」——幽深黑赤；引申玄妙。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弦（字卡·xián）",
+   "statement": "弦，xián：《说文》「弓弦也，从弓，象絲軫之形」——弓上之丝，取紧绷回弹。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "舷（字卡·xián）",
+   "statement": "舷，xián：《集韵》「船邊也」——船的两侧，如弓之弦。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbd-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "泫（字卡·xuàn）",
+   "statement": "泫，xuàn：《说文》「湝流也」——《礼记》「其泣矣，其涕泫然」：泪流回旋。",
+   "boundary": "源自《系統漢語》第457－458部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
