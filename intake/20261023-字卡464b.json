@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡464b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩑣（字卡·yòu）",
+   "statement": "𩑣，yòu：从頁尤声——《说文》「顫也」，头不停摇动之病。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肬（字卡·yóu）",
+   "statement": "肬，yóu：从肉尤声——《说文》「贅也」，肉瘤，出皮上聚如丘。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蚘（字卡·yóu）",
+   "statement": "蚘，yóu：从虫尤声——蚩尤之「尤」通作蚘；又读 huí，即蛔虫。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訧（字卡·yóu）",
+   "statement": "訧，yóu：从言尤声——《说文》「罪也」，《周书》「報以庶訧」。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忧（字卡·yòu）",
+   "statement": "忧，yòu：从心尤声——《说文》「不動也」；今为「憂」之简化字，发愁。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤘜（字卡·yóu）",
+   "statement": "𤘜，yóu：从牛尤声——《字彙》「不動也」，牛静而不动。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧰰（字卡·yóu）",
+   "statement": "𧰰，yóu：从豕尤声——《玉篇》「豕也」，当指疣猪（眼下有疣）。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㞃（字卡·jí）",
+   "statement": "㞃，jí：从尢尤声——倦㞃；《正字通》以为「谻」之讹。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣏞（字卡·yóu）",
+   "statement": "𣏞，yóu：从木尤声——樟属、梓属；《正字通》疑为「杅」之讹。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㕱（字卡·yóu）",
+   "statement": "㕱，yóu：从口尤声——《玉篇》「犬吠也」，疑为「吠」之讹。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
