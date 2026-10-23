@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡527i2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiangz-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥤗（字卡·dǎng）",
+   "statement": "𥤗（dǎng）＝《集韻》「頓𥤗，黃穀名」。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥸈（字卡·dǎng）",
+   "statement": "𥸈（dǎng）＝《集韻》「竹名」；《正字通》「與欓同，盛物之器」。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩽳（字卡·dǎng）",
+   "statement": "𩽳（dǎng）＝𩽳魟魚，背厚長有足；又名钂魚，尾上有刺如欓樹刺。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪇁（字卡·dāng）",
+   "statement": "𪇁（dāng）＝《字彙補》音當，鳥名。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㿩（字卡·tǎng）",
+   "statement": "㿩（tǎng）＝《玉篇》「明也」，或作曭；白色。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣎲（字卡·tǎng）",
+   "statement": "𣎲（tǎng）＝《廣韻》「月不明也」。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥳶（字卡·zhǎng）",
+   "statement": "𥳶（zhǎng）＝《集韻》音掌，竹名。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩞦（字卡·chēng）",
+   "statement": "𩞦（chēng）＝《字彙》「飽也」。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢿦（字卡·chéng）",
+   "statement": "𢿦（chéng）＝《集韻》引《說文》「橦也」——撞、觸。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "礃（字卡·zhǎng）",
+   "statement": "礃（zhǎng）＝礃子（掌子），採礦或隧道掘進的工作面。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣾦（字卡·zhǎng）",
+   "statement": "𣾦（zhǎng）＝《搜眞玉鏡》音掌，水名。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangz-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦺡（字卡·zhǎng）",
+   "statement": "𦺡（zhǎng）＝《正字通》虎掌、射干、仙人掌諸草，葉如人掌。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
