@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡440b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbp-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑟（字卡·sè）",
+   "statement": "瑟，sè：《说文》「庖牺所作弦乐也」——弦乐；引「瑟缩」「瑟琴」。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珌（字卡·bì）",
+   "statement": "珌，bì：《说文》「佩刀下饰，天子以玉」——刀鞘末端玉饰。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "閟（字卡·bì）",
+   "statement": "閟，bì：《说文》「闭门也」——闭门深藏；幽闭、谨慎。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柲（字卡·bì）",
+   "statement": "柲，bì：《说文》「欑也」——兵器的柄；引申弓檠。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "密（字卡·mì）",
+   "statement": "密，mì：《说文》「山如堂者」——山形如堂屋；引申稠密、秘密、亲密。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜜（字卡·mì）",
+   "statement": "蜜，mì：《说文》「蠭甘飴也」——蜂酿甜饴。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謐（字卡·mì）",
+   "statement": "謐，mì：《说文》「静语也」——安静。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "颒（字卡·huì）",
+   "statement": "颒，huì：《说文》「洒面也」——洗面。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴓（字卡·mì）",
+   "statement": "鴓，mì：《玉篇》「鸟如鹊」——《集韵》鴓鸔，鸟名。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蔤（字卡·mì）",
+   "statement": "蔤，mì：《说文》「芙蕖本」——荷花地下茎（藕）。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "宓（字卡·mì）",
+   "statement": "宓，mì：《说文》「安也」——安宁；伏羲亦作宓羲，借为「伏」。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbp-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汨（字卡·mì）",
+   "statement": "汨，mì：《说文》「长沙汨罗渊也」——水名，屈原所沉；又汩没。",
+   "boundary": "源自《系統漢語》第440部「必部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
