@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡521b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "liang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㝗（字卡·lǎng）",
+   "statement": "㝗（lǎng）从宀良聲：屋宇空闊（《說文》「㝩也」）。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "郎（字卡·láng）",
+   "statement": "郎（láng）从邑良聲：魯亭（《說文》），引申男子之稱、郎君。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廊（字卡·láng）",
+   "statement": "廊（láng）从广郎聲：中堂兩旁之牆、堂下周屋（《說文》「東西序也」），引申走廊。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "閬（字卡·làng）",
+   "statement": "閬（làng）从門良聲：門高（《說文》），又空曠、寬明。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "朗（字卡·lǎng）",
+   "statement": "朗（lǎng）从月良聲：明也（《說文》）——狼眼夜放綠光，故取明亮。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "烺（字卡·lǎng）",
+   "statement": "烺（lǎng）从火良聲：爣烺，火貌（《集韻》）。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莨（字卡·láng）",
+   "statement": "莨（láng）从艸良聲：狼尾艸，似茅可覆屋（《說文》「艸也」）；又莨菪。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "稂（字卡·láng）",
+   "statement": "稂（láng）从禾良聲：秕穀、惡草似莠（《說文》），穗如狼尾。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粮（字卡·liáng）",
+   "statement": "粮（liáng）从米良聲：穀也（《集韻》），糧之或作——穗如狼尾。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娘（字卡·niáng）",
+   "statement": "娘（niáng）从女良聲：少女之號（《集韻》），引申母親（娘娘）。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "駺（字卡·láng）",
+   "statement": "駺（láng）从馬良聲：馬尾白（《玉篇》），吉駺文馬。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "liang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "埌（字卡·làng）",
+   "statement": "埌（làng）从土良聲：墦埌為冢，壙埌為原野迥貌（《集韻》）。",
+   "boundary": "源自《系統漢語》第521部「良部」（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
