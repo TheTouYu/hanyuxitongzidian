@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡513a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lco-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悤（字卡·cōng）",
+   "statement": "悤（cōng）本部字根：心跳十倍而急，引申匆忙；又統束（總）。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "總（字卡·zǒng）",
+   "statement": "總（zǒng）从糸悤聲：聚束（《說文》「聚束也」），引申總領、皆。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "聰（字卡·cōng）",
+   "statement": "聰（cōng）从耳悤聲：聽而能審（《說文》「察也」），取心跳靈敏。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蔥（字卡·cōng）",
+   "statement": "蔥（cōng）从艸悤聲：菜也（《說文》）；其初文从中有，象氣味沖鼻，故蔥味沖鼻。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏓（字卡·zǒng）",
+   "statement": "鏓（zǒng）从金悤聲：大鑿、平木之器（《說文》「鎗鏓也」）。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏦（字卡·cōng）",
+   "statement": "鏦（cōng）《廣韻》「鏦，短矛也」——短矛，取蔥形之尖直。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謥（字卡·cōng）",
+   "statement": "謥（cōng）《廣韻》「𧩪詷，言急」——言語嗆人，取蔥氣沖人。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楤（字卡·zōng）",
+   "statement": "楤（zōng）《廣韻》「尖頭擔也」——兩頭尖的禾槍，取其狀如蔥。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璁（字卡·cōng）",
+   "statement": "璁（cōng）从玉悤聲：石之似玉者（《說文》），中空如蔥、色如蔥。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驄（字卡·cōng）",
+   "statement": "驄（cōng）从馬悤聲：馬青白雜毛（《說文》）——色如蔥之青白。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "窻（字卡·chuāng）",
+   "statement": "窻（chuāng）从穴悤聲：通孔（《說文》「通孔也」），即窗之初文。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熜（字卡·zǒng）",
+   "statement": "熜（zǒng）从火悤聲：麻莖束成的火炬（《說文》「然麻蒸也」），麻莖中空如蔥。",
+   "boundary": "源自《系統漢語》第513部「悤部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
