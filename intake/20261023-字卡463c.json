@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡463c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbx-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "囿（字卡·yòu）",
+   "statement": "囿，yòu：从囗有声——苑有垣、放养禽兽；引申区域、局限（囿于成见）。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蛕（字卡·huí）",
+   "statement": "蛕，huí：从虫有声——《说文》「腹中長蟲也」，蛔虫。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銪（字卡·yǒu）",
+   "statement": "銪，yǒu：金属元素铕（Eu）的译名用字，取「有」之音。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賄（字卡·huì）",
+   "statement": "賄，huì：从贝有声——《说文》「財也」，财物；引申贿赂。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洧（字卡·wěi）",
+   "statement": "洧，wěi：从水有声——古水名，今双洎河，颍水支流。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絠（字卡·gǎi）",
+   "statement": "絠，gǎi：从糸有声——弓两端系弦处（弓弭），又训解绳。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姷（字卡·yòu）",
+   "statement": "姷，yòu：从女有声——《说文》「耦也」，相助；或从人作侑。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酭（字卡·yòu）",
+   "statement": "酭，yòu：从酉有声——《玉篇》「報也」，酬酒、回报，通「侑」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䞥（字卡·yòu）",
+   "statement": "䞥，yòu：从走有声——《说文》「走也」，走路时手的摆动。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "迶（字卡·yòu）",
+   "statement": "迶，yòu：从辵有声——《玉篇》「行」，行走。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戫（字卡·yù）",
+   "statement": "戫，yù：从戈有声——《玉篇》「有文章也」，同「彧」；又训疾貌。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䆜（字卡·yòu）",
+   "statement": "䆜，yòu：从穴有声——《玉篇》「空也」，空。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
