@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡436c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbe-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "開（字卡·kāi）",
+   "statement": "開，kāi：从门从𠬜，象双手打开门；引申舒张、开放、通达、裂开、释张、开列。",
+   "boundary": "源自《系統漢語》第436部「𠬜部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "闢（字卡·pì）",
+   "statement": "闢，pì：《说文》「开也，从门辟声」——开辟、开列、条陈。",
+   "boundary": "源自《系統漢語》第436部「𠬜部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥳐（字卡·qiǎn）",
+   "statement": "𥳐，qiǎn：《玉篇》「𥳐䉳，户籍也」——户板。",
+   "boundary": "源自《系統漢語》第436部「𠬜部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鐦（字卡·kuí）",
+   "statement": "鐦，kuí：同「魁」——汤勺；又译元素 Cf（锎）。",
+   "boundary": "源自《系統漢語》第436部「𠬜部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤡲（字卡·kāi）",
+   "statement": "𤡲，kāi：《玉篇》「兽也」，疑为𤜵之讹。",
+   "boundary": "源自《系統漢語》第436部「𠬜部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
