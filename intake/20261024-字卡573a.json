@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡573a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lwan-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萬·wàn",
+   "statement": "萬：象蠍子形（《說文》「蟲也」），引申十千、極多、大。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "贎·wàn",
+   "statement": "贎：从貝萬聲：貨也（《說文》），財貨多。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勱·mài",
+   "statement": "勱：从力萬聲：勉力也（《說文》引《周書》），努力盡力。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩧃·lì",
+   "statement": "𩧃：从馬萬聲：次第馳也（《說文》），一曰馴。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "噧·xiè",
+   "statement": "噧：从口蠆省聲：高氣多言也（《說文》引《春秋傳》），聲音高而話多。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䜕·mài",
+   "statement": "䜕：从言萬聲：譀也（《說文》），誇大、言過其實。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢤆·lì",
+   "statement": "𢤆：从心萬聲：驚也（《集韻》），驚恐；又惡。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癘·lì",
+   "statement": "癘：从疒蠆省聲：惡疾也（《說文》），麻風病，又瘟疫。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禲·lì",
+   "statement": "禲：从示萬聲：鬼災曰禲（《集韻》），厲鬼之災。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曞·lì",
+   "statement": "曞：从日萬聲：日光盛（《集韻》）。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱱·lì",
+   "statement": "鱱：从魚萬聲：魚名（《集韻》），即鱧（黑魚、烏魚）。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lwan-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爄·lì",
+   "statement": "爄：从火萬聲：止火（《集韻》），以瓦石蓋火；又火斷。",
+   "boundary": "源自《系統漢語》第573部「萬部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
