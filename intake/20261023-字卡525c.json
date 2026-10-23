@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡525c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyang5-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "敭（字卡·yáng）",
+   "statement": "敭（yáng）＝从手昜聲：飛舉也（《說文》），即「揚」之古文。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑒（字卡·chàng）",
+   "statement": "瑒（chàng）＝从玉昜聲：圭尺二寸有瓚，祠宗廟灌地之器（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕩（字卡·dàng）",
+   "statement": "蕩（dàng）＝从水𦳝聲：河名湯河；又蕩滌、搖動（《釋名》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踼（字卡·tàng）",
+   "statement": "踼（tàng）＝从足昜聲：跌踼，跌倒、抵拒（《說文》）；行不正。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "愓（字卡·dàng）",
+   "statement": "愓（dàng）＝从心昜聲：放也、平也（《說文》）；放逸不憂。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盪（字卡·dàng）",
+   "statement": "盪（dàng）＝从皿湯聲：滌器之皿（《說文》），引申搖動、行。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥯕（字卡·dàng）",
+   "statement": "𥯕（dàng）＝从竹昜聲：大竹筩，笙簫之屬，可盛酒（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簜（字卡·dàng）",
+   "statement": "簜（dàng）＝从竹湯聲：大竹，可為幹（《說文》引《夏書》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碭（字卡·dàng）",
+   "statement": "碭（dàng）＝从石昜聲：文石、有花紋之石（《說文》）；又蕩溢振盪。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "腸（字卡·cháng）",
+   "statement": "腸（cháng）＝从肉昜聲：大小腸（《說文》）；《釋名》「暢也」，通暢胃氣。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧀄（字卡·chàng）",
+   "statement": "𧀄（chàng）＝从艸畼聲：艸茂也（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang5-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諹（字卡·yáng）",
+   "statement": "諹（yáng）＝从言昜聲：譽也、讙也（《玉篇》）；又謹也。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
