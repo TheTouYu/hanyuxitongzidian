@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407胥部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdf-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "胥（字卡）",
+   "statement": "胥（xū）：从肉疋声，象意腿部肌肉；《集韵》「胥，什長也，有才智者」——小吏、全面、辅助。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝑（字卡）",
+   "statement": "蝑（xū）：《说文》「蜙蝑也，从虫胥声」——蟖螽，大腿相切摩而发声。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糈（字卡）",
+   "statement": "糈（xǔ）：《说文》「糧也」；《玉篇》「祠神米」——祭神精米。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "稰（字卡）",
+   "statement": "稰（xǔ）：《字彙》「熟獲曰稰，即今晚稻」；《韻會補》「祭神米」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧶳（字卡）",
+   "statement": "𧶳（shǔ）：《類篇》「䝪，或作𧶳」——送财礼卜问。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥚩（字卡）",
+   "statement": "𥚩（xǔ）：《说文》「祭具也，从示胥声」——祭品。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揟（字卡）",
+   "statement": "揟（xū）：《说文》「取水沮也，从手胥声」——滤取水中渣滓。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湑（字卡）",
+   "statement": "湑（xǔ）：《说文》「莤酒也，一曰浚也，一曰露皃」——滤酒、疏浚、露水。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醑（字卡）",
+   "statement": "醑（xǔ）：《集韵》「釃酒也」；《玉篇》「美酒也」——滤过的美酒。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諝（字卡）",
+   "statement": "諝（xū）：《说文》「知也，从言胥声」；《正字通》「詐也」——才智、欺诈。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㥠（字卡）",
+   "statement": "㥠（xū）：《说文》「知也，从心胥声」——才智。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdf-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縃（字卡）",
+   "statement": "縃（xū）：《漢典》「同胥」；《釋名》「絮，胥也，胥久故解落也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根胥部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
