@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡567a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lqi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "七·qī",
+   "statement": "七：从一加指示符（丁山「象當中切斷形」），切割之初文，借為數詞七；《說文》「陽之正也」不確。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "切·qiē",
+   "statement": "切：从刀七聲：刌也（《說文》「刌也」），割、截、迫近。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "砌·qì",
+   "statement": "砌：从石切聲：階甃也（《說文》「階甃也」），台階→壘砌。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沏·jiě",
+   "statement": "沏：从水切聲：流皃（《玉篇》），水聲、疾流；又音 qī，沸水沖泡。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䀙·qì",
+   "statement": "䀙：从目切聲：視也（《玉篇》「視也」），察也、衺視。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦕀·qì",
+   "statement": "𦕀：从耳切聲：䏅也，聦也（《集韻》）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "苆·qiē",
+   "statement": "苆：从艸切聲：麻刀（刮麻皮器具）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䟙·qiè",
+   "statement": "䟙：从足切聲：跌也（《集韻》「跌也」）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袃·chài",
+   "statement": "袃：从衣切聲：𧀱芥，刺鯁也（《集韻》），或作蔕。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢪃·cù",
+   "statement": "𢪃：从手切聲：摩也（《玉篇》「摩也」），磨也。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "叱·chì",
+   "statement": "叱：从口七聲：訶也（《說文》「訶也」），大聲呵斥。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柒·qī",
+   "statement": "柒：从木桼聲：漆之俗字（《集韻》），七的大寫。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
