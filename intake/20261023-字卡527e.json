@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡527e2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ltang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "堂（字卡·táng）",
+   "statement": "堂（táng）＝从土尚聲：用土築成的高臺、空闊高大的殿堂；引申顯明、高大。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼞（字卡·tāng）",
+   "statement": "鼞（tāng）＝从鼓堂聲：鼓聲（《說文》引《詩》「擊鼓其鼞」）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏜（字卡·tāng）",
+   "statement": "鏜（tāng）＝从金堂聲：鐘鼓之聲；又以鐵貫物、鏜孔。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘡（字卡·tāng）",
+   "statement": "嘡（tāng）＝象聲詞，形容打鐘、敲鑼一類的聲音。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膛（字卡·táng）",
+   "statement": "膛（táng）＝《玉篇》「肥皃」；今指胸腔、體腔或器物中空處。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樘（字卡·chēng）",
+   "statement": "樘（chēng）＝从木堂聲：衺柱也（《說文》），斜柱支撐，即「撐」；又音 táng，車樘、門窗框。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹚（字卡·tāng）",
+   "statement": "蹚（tāng）＝从足堂聲：行不正皃；又距也（撐）、蹚水、趟。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憆（字卡·chēng）",
+   "statement": "憆（chēng）＝从心堂聲：直視也（《集韻》瞠之或體），瞠目。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "摚（字卡·chēng）",
+   "statement": "摚（chēng）＝从手堂聲：距也、撐拒（《集韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漟（字卡·táng）",
+   "statement": "漟（táng）＝从水堂聲：溪也（《玉篇》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "隚（字卡·tàng）",
+   "statement": "隚（tàng）＝从阜堂聲：殿基（《廣韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饄（字卡·táng）",
+   "statement": "饄（táng）＝从食堂聲：同「餹」，糖（《正字通》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，堂系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
