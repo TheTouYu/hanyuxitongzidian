@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡408是部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdn-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "是（字卡）",
+   "statement": "是（shì）：从日止声，象太阳运行表示时间；引申正、直、正确、法则。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "提（字卡）",
+   "statement": "提（tí）：《说文》「挈也，从手是聲」——由低往高、由后向前。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匙（字卡）",
+   "statement": "匙（chí）：《说文》「匕也，从匕是聲」——汤勺；又钥匙。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍉（字卡）",
+   "statement": "鍉（dī）：《集韵》「歃血器」；又唾器、箭镞、钥匙。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "褆（字卡）",
+   "statement": "褆（tí）：《说文》「衣厚褆褆，从衣是聲」——衣厚貌。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "題（字卡）",
+   "statement": "題（tí）：《说文》「頟也，从頁是聲」——额头；又题署。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踶（字卡）",
+   "statement": "踶（dì）：《说文》「躛也，从足是聲」——踢。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧡨（字卡）",
+   "statement": "𧡨（tí）：《说文》「顯也，从見是聲」——显明。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睼（字卡）",
+   "statement": "睼（tiàn）：《说文》「迎視也，从目是聲」——迎着看。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趧（字卡）",
+   "statement": "趧（tí）：《说文》「趧婁，四夷之舞，从走是聲」——踢踏之舞。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翨（字卡）",
+   "statement": "翨（chì）：《说文》「鳥之強羽猛者，从羽是聲」——翅。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdn-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痔（字卡）",
+   "statement": "痔（zhì）：《字彙》「下部病」——痔疮。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
