@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡548a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyou2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梄·yǒu",
+   "statement": "梄：从木酉聲：積薪燒之也（《說文》「積木燎之也」）。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "庮·yǒu",
+   "statement": "庮：从广酉聲：久屋朽木（《說文》「久屋朽木」），臭也。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莤·sù",
+   "statement": "莤：从艸酉聲：束茅縮酒（《說文》「《禮》祭束茅加於祼圭而灌鬯酒」）。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糟·zāo",
+   "statement": "糟：从米曹聲：酒滓也（《說文》「酒滓也」），糟粕。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "綇·xū",
+   "statement": "綇：从糸酉聲：繒也（《說文》「繒也」）。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揂·jiū",
+   "statement": "揂：从手酋聲：聚也（《說文》「聚也」）。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楢·yóu",
+   "statement": "楢：从木酋聲：柔木也（《說文》「柔木也」），可為薪。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "崷·qiú",
+   "statement": "崷：从山酋聲：崷崪，山高貌。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕕·yóu",
+   "statement": "蕕：从艸酋聲：水邊草（《說文》「蕕，水邊艸也」），臭草。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰌·qiū",
+   "statement": "鰌：从魚酋聲：泥鰍（鰍之或体），善鑽泥。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝤·qiú",
+   "statement": "蝤：从虫酋聲：蝤蛴（木中蠹蟲），天牛幼蟲。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyou2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翏·liù",
+   "statement": "翏：从羽㐱聲：高飛也（《說文》），風聲、空寥。",
+   "boundary": "源自《系統漢語》第547－548部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
