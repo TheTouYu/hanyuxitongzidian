@@ -29,7 +29,8 @@ const SRC = arg('src', 'D:\\字谱智能体');
 const OUT = arg('out', join(process.cwd(), 'web', 'public', 'glyphs'));
 // 每字图数上限；0 = 一张不漏
 const MAX_PER_CHAR = Number(arg('max', '0'));
-const MAX_BYTES = Number(arg('maxbytes', String(300 * 1024)));
+// 实物照片常存成 PNG（无损），几百 KB 很常见；300 KB 的老默认值会把「漢簡」这类配图漏掉
+const MAX_BYTES = Number(arg('maxbytes', String(900 * 1024)));
 // --only 吉：只抽这几个字（补抽用，不清空输出目录）
 let ONLY = new Set();
 
