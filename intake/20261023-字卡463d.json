@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡463d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbw-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥁓（字卡·yòu）",
+   "statement": "𥁓，yòu：从皿右声——《说文》「䀁，小甌也」，舀水器，有柄如手。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醢（字卡·hǎi）",
+   "statement": "醢，hǎi：从酉𥁓——肉酱，盛于瓯器；甲骨文又象人置臼中捣，指酷刑。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩑲（字卡·yòu）",
+   "statement": "𩑲，yòu：从頁又声——颤抖之疾，头摇，《字彙》「顫疾」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喐（字卡·yù）",
+   "statement": "喐，yù：从口有声——《集韵》「㖪，聲也」，或从郁，状声。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哊（字卡·yòu）",
+   "statement": "哊，yòu：从口有声——《玉篇》「吐也」，《广韵》「吐聲」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詴（字卡·wēi）",
+   "statement": "詴，wēi：从言有声——《玉篇》「呼人也」，《集韵》「呼聲」。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㤑（字卡·yōu）",
+   "statement": "㤑，yōu：从心右声——《正字通》「俗憂字」，忧之俗体。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩲾（字卡·yù）",
+   "statement": "𩲾，yù：从鬼有声——《字彙》「鬼皃」，鬼之状。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䳑（字卡·yǒu）",
+   "statement": "䳑，yǒu：从鳥有声——《玉篇》「白鵫也」，白鹇。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䒴（字卡·yǒu）",
+   "statement": "䒴，yǒu：从艸有声——《集韵》「艸也」，草名。",
+   "boundary": "源自《系統漢語》第463部又部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
