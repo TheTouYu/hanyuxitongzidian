@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407步部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdh-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "步（字卡）",
+   "statement": "步（bù）：《说文》「行也，从止𣥂相背」——象一前一后两脚印；《玉篇》「六尺為步」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "荹（字卡）",
+   "statement": "荹（bù）：《说文》「亂艸，从艸步聲」——牛马踩过的乱草。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踄（字卡）",
+   "statement": "踄（bù）：《说文》「蹈也，从足步聲」——步行践踏。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "涉（字卡）",
+   "statement": "涉（shè）：《说文》「徒行厲水也，从沝从步」——徒步过河；又经历。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捗（字卡）",
+   "statement": "捗（bù）：《集韵》「捗攎，收斂也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "埗（字卡）",
+   "statement": "埗（bù）：同「埠」，方言指码头。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩣝（字卡）",
+   "statement": "𩣝（bù）：《玉篇》「習馬，今作步」——遛马。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㻉（字卡）",
+   "statement": "㻉（bù）：《篇海》「㻉瑤，美玉」；又步摇首饰（步则摇动）。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "陟（字卡）",
+   "statement": "陟（zhì）：《说文》「登也，从𨸏从步」——登升，与降相对。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騭（字卡）",
+   "statement": "騭（zhì）：《说文》「牡馬也，从馬陟聲」；《六书统》「乘馬登山也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㾟（字卡）",
+   "statement": "㾟（bù）：《集韵》「復病」——病复发。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdh-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䑰（字卡）",
+   "statement": "䑰（bù）：《方言》「艇短而深謂之䑰」——短而深的小船。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根步部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
