@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡567c2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lqi3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦾏·xiá",
+   "statement": "𦾏：从艸甲聲：花葉重多皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢘉·xiá",
+   "statement": "𢘉：从心甲聲：樂也、喜也（《玉篇》《廣韻》）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣢗·xiā",
+   "statement": "𣢗：从欠甲聲：鼻息（《集韻》「𣢗𣢗，鼻息」）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䛅·xiá",
+   "statement": "䛅：从言甲聲：多言也（《玉篇》），或作嗑。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "笚·dā",
+   "statement": "笚：从竹甲聲：竹相擊也（《玉篇》）；或省作筪，竹名。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翈·xiá",
+   "statement": "翈：从羽甲聲：翮上短羽（《廣韻》），羽瓣。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "閘·yā",
+   "statement": "閘：从門甲聲：開閉門也（《說文》）；今指船閘（水門）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "庘·yā",
+   "statement": "庘：从广甲聲：壞屋（《集韻》）；一曰豕屋。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "舺·xiá",
+   "statement": "舺：从舟甲聲：䒀舺，舟也（《集韻》）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "胛·jiǎ",
+   "statement": "胛：从肉甲聲：背胛（《廣韻》），肩胛骨。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "岬·jiǎ",
+   "statement": "岬：从山甲聲：山旁也（《玉篇》），兩山之間；今指突入海之尖形陸地。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䆘·yā",
+   "statement": "䆘：从穴甲聲：入衇刺穴（《說文》），針刺穴位。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
