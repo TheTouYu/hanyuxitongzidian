@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡497a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcr-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "生（字卡·shēng）",
+   "statement": "生，shēng：本部部首字：草木出土→生長、生育、生命。",
+   "boundary": "源自《系統漢語》第497部生部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcr-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "星（字卡·xīng）",
+   "statement": "星，xīng：从晶生聲（本作曐）：夜空中發光的天體，取生之聲。",
+   "boundary": "源自《系統漢語》第497部生部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcr-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "青（字卡·qīng）",
+   "statement": "青，qīng：《說文》「東方色也，木生火，从生丹」：青為木生之色，引申青綠、年輕。",
+   "boundary": "源自《系統漢語》第497部生部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcr-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牲（字卡·shēng）",
+   "statement": "牲，shēng：从牛生聲：祭祀所用牛羊豕，取所生之畜。",
+   "boundary": "源自《系統漢語》第497部生部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcr-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "性（字卡·xìng）",
+   "statement": "性，xìng：从心生聲：生之質曰性（《說文》「人之陽氣性善者也」）。",
+   "boundary": "源自《系統漢語》第497部生部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcr-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姓（字卡·xìng）",
+   "statement": "姓，xìng：从女生聲：人所生也，因生以賜姓。",
+   "boundary": "源自《系統漢語》第497部生部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
