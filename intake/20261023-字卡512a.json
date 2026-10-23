@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡512a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lji-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "囧（字卡·jiǒng）",
+   "statement": "囧（jiǒng）本部字根：象剖開的心臟，引申坦白、彰明；《說文》析為窗牖不確。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lji-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莔（字卡·méng）",
+   "statement": "莔（méng）从艸朙省聲：貝母（《說文》「貝母也」），鱗莖狀如心形，亦如貝如女陰。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lji-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥭮（字卡·méng）",
+   "statement": "𥭮（méng）《集韻》「竹名，或作䈍」——竹之一種。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lji-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㴄（字卡·yǐng）",
+   "statement": "㴄（yǐng）《集韻》「水洄皃，或从景」——取心臟泵血之狀為意，水迴旋。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lji-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢚊（字卡·xī）",
+   "statement": "𢚊（xī）《說文》「古文悉」——明瞭於心。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lji-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "朙（字卡·míng）",
+   "statement": "朙（míng）从囧从月：心明白如月照（《廣韻》「通也」）；或从日从月取明亮，从田从月取月光透窗。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lji-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萌（字卡·méng）",
+   "statement": "萌（méng）从艸明聲：艸芽初露（《說文》「艸芽也」），引申始生。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lji-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橗（字卡·méng）",
+   "statement": "橗（méng）《集韻》「木名」；《玉篇》「木心」——木之心。",
+   "boundary": "源自《系統漢語》第512部「囧部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
