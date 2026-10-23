@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡476a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcd-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "夒（字卡·náo）",
+   "statement": "夒，náo：本部部首字：長臂猿形的獼猴，善攀援；後作「猱」「蝚」。",
+   "boundary": "源自《系統漢語》第476部夒部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcd-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "夔（字卡·kuí）",
+   "statement": "夔，kuí：从夒从攵：象有角、手、人面的一足神獸（神魖），音源取雷聲。",
+   "boundary": "源自《系統漢語》第476部夒部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcd-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猱（字卡·náo）",
+   "statement": "猱，náo：从犬夒聲：獼猴，善攀援，取其敏捷。",
+   "boundary": "源自《系統漢語》第476部夒部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcd-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝚（字卡·róu）",
+   "statement": "蝚，róu：从虫夒聲：蛭蝚，即水蛭，爬附如猿攀。",
+   "boundary": "源自《系統漢語》第476部夒部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
