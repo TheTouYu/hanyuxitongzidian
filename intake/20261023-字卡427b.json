@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡427b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "yb2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侓（字卡·lù）",
+   "statement": "侓，lù：《集韵》「侓魁，大貌」——魁伟高大。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "垏（字卡·lǜ）",
+   "statement": "垏，lǜ：《集韵》「埂埒也」——田埂、堤埒。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "律（字卡·lǜ）",
+   "statement": "律，lǜ：《说文》「均布也，从彳聿声」——普遍施行的条例；本指竹管定音之器，《集韵》「阳管谓之律」，十二律管长短定音高。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "峍（字卡·lù）",
+   "statement": "峍，lù：《集韵》「峍矻，山崖也」——山崖高耸。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㡽（字卡·zhào）",
+   "statement": "㡽，zhào：《字汇》「言说卑也」；《正字通》疑讹字，据形当同肇，指门杠。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嵂（字卡·lǜ）",
+   "statement": "嵂，lǜ：《集韵》「崒嵂，山高貌」——山势高峻。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "箻（字卡·lǜ）",
+   "statement": "箻，lǜ：《集韵》「竹管，以射鸟」——竹筒吹箭。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "葎（字卡·lǜ）",
+   "statement": "葎，lǜ：《说文》「艸也」——葎草，茎有细刺，善勒人肤，故名勒草，讹为葎。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䮇（字卡·yù）",
+   "statement": "䮇，yù：《集韵》「驪马白跨也」——股间白色的黑马。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧊐（字卡·lǜ）",
+   "statement": "𧊐，lǜ：《集韵》「虫名」——疑指钻木虫。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
