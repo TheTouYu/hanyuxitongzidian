@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡461a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lba-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "圳（字卡·zhèn）",
+   "statement": "圳，zhèn：《集韵》「溝也」——田间水沟；粤语「圳」即水沟。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釧（字卡·chuàn）",
+   "statement": "釧，chuàn：《集韵》「釧，臂環也」——手镯，取贯穿腕上。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訓（字卡·xùn）",
+   "statement": "訓，xùn：《说文》「說教也，从言川聲」——以言疏导，如川之贯穿。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "馴（字卡·xùn）",
+   "statement": "馴，xùn：《说文》「馬順也，从馬川聲」——马顺从人意。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紃（字卡·xún）",
+   "statement": "紃，xún：《说文》「圜采也」——圆形绦带、饰绳。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汌（字卡·chuàn）",
+   "statement": "汌，chuàn：《集韵》「水名」——水名。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鮮（字卡·xiān）",
+   "statement": "鮮，xiān：《说文》「魚名，出貉國」——鲜鱼；引申新鲜、鲜明、鲜少。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱻（字卡·xiān）",
+   "statement": "鱻，xiān：三鱼为鱻——新鲜之极，同「鮮」。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尟（字卡·xiǎn）",
+   "statement": "尟，xiǎn：《说文》「是少也」——少，同「鮮少」之鲜。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癬（字卡·xuǎn）",
+   "statement": "癬，xuǎn：《集韵》「乾瘍也」——癣，皮肤干痒如鱼鳞。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蘚（字卡·xiǎn）",
+   "statement": "蘚，xiǎn：《集韵》「苔蘚也」——苔藓，贴石而生如鱼鳞。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燹（字卡·xiǎn）",
+   "statement": "燹，xiǎn：《玉篇》「野火也」——野火焚烧。",
+   "boundary": "源自《系統漢語》第461－462部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
