@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡556c2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxin3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鋅·xīn",
+   "statement": "鋅：从金辛聲：剛也（《集韻》「剛也」），《玉篇》同「釨」；今指鋅（Zn）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "觪·xīng",
+   "statement": "觪：从角辛聲：角弓調利也（《玉篇》「角弓調利也」），用角便也。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "辤·cí",
+   "statement": "辤：从辛从受：不受也（《說文》「不受也」），受辛宜辭之；籀文从台。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䅸·shēn",
+   "statement": "䅸：从禾莘聲：穀名（《集韻》「穀名」）；又草木叢生（音 zú）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莘·xīn",
+   "statement": "莘：从艸辛聲：細莘，藥艸（《集韻》），味辛辣故从辛；引申細長而眾多（shēn）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䢄·xǐ",
+   "statement": "䢄：从朩台聲：枲，麻也（《說文》「麻也」），籀文从𣏟从辝，指麻生茂密如榛。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儭·chèn",
+   "statement": "儭：从人親聲：裏也（《廣韻》「裏也」），襯托、陪襯，與襯通。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㜪·shēn",
+   "statement": "㜪：从女莘聲：有㜪，國名（《集韻》），鯀妃有㜪氏女，生禹；或作姺。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "觲·xīng",
+   "statement": "觲：从角辛聲：角弓調利也（《玉篇》），觪之俗體，見《字彙》。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
