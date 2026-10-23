@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡575b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ltiao2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逌·yóu",
+   "statement": "逌：从辵𠧴聲：氣行皃（《說文》），悠然自得；與「由」通。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "由·yóu",
+   "statement": "由：从𠧴省：從也、自也（《說文》無，經典通「逌」），原因、緣由。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤪎·yóu",
+   "statement": "𤪎：从玉𠧴聲：玉名（《集韻》），美玉。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨛕·yóu",
+   "statement": "𨛕：从邑𠧴聲：亭名（《集韻》），邮之或體。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麜·lì",
+   "statement": "麜：从鹿栗聲：麋屬（《說文》「似麋」），鹿類。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "搮·lì",
+   "statement": "搮：从手栗聲：以手理物（《集韻》）。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠞉·lì",
+   "statement": "𠞉：从刀栗聲：割也（《集韻》）。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㗚·lì",
+   "statement": "㗚：从口栗聲：聲也（《集韻》），言語聲。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傈·lì",
+   "statement": "傈：从人栗聲：傈僳（《正字通》），族名；又謹也。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "篥·lì",
+   "statement": "篥：从竹栗聲：觱篥（《集韻》），胡人吹管。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨍫·lì",
+   "statement": "𨍫：从車栗聲：車名（《集韻》），車行聲。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "塛·lì",
+   "statement": "塛：从土栗聲：土塊（《集韻》），墳塛。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
