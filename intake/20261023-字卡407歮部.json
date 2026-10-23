@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407歮部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdj-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "歮（字卡）",
+   "statement": "歮（sè）：《字彙補》「歮，與澀同」——止之三叠，象脚印杂乱、行走艰难。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譅（字卡）",
+   "statement": "譅（sè）：《玉篇》「言甚多也」；《正字通》「訓語難」——话多而拗口。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澀（字卡）",
+   "statement": "澀（sè）：《说文》「不滑也」——不滑溜、语言艰难、道路险阻。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢕬（字卡）",
+   "statement": "𢕬（sà）：《说文》「行皃，从彳歰聲」；《集韵》「行不進也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㒊（字卡）",
+   "statement": "㒊（sè）：《玉篇》「不及也」；《广韵》「言不止也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䔼（字卡）",
+   "statement": "䔼（sè）：《集韵》「䔼䔼，艸聲」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢡉（字卡）",
+   "statement": "𢡉（sè）：《集韵》「慳也」——吝啬。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣚟（字卡）",
+   "statement": "𣚟（sè）：《集韵》「木茂皃」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧴎（字卡）",
+   "statement": "𧴎（nǎo）：《集韵》「獸名，似狐善睡」——貉。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㛴（字卡）",
+   "statement": "㛴（nǎo）：《集韵》「㛴，《說文》『有所恨也』，或作惱」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匘（字卡）",
+   "statement": "匘（nǎo）：《集韵》「匘，《說文》『頭𩪦也』」——脑。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdj-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕋（字卡）",
+   "statement": "蕋（ruǐ）：《字彙》「蕊，與蘂同，又草木叢生貌，又聚也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根歮部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
