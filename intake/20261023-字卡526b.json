@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡526b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lchang2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "焻（字卡·chàng）",
+   "statement": "焻（chàng）＝从火昌聲：氣也、火氣（《字彙補》）；《舊藏》作「煱」音瓜，俗訛。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢛝（字卡·jiān）",
+   "statement": "𢛝（jiān）＝「惷」字之譌（《正字通》），舊音姦，非。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣮑（字卡·jié）",
+   "statement": "𣮑（jié）＝睫毛；大約「𣯥」字之訛。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥛼（字卡·cáo）",
+   "statement": "𥛼（cáo）＝祭也、佑也，一曰祭豕先（《集韻》）；「䄚」字之訛。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "向（字卡·xiàng）",
+   "statement": "向（xiàng）＝从宀从口：屋之窗，引申朝向、方向。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
