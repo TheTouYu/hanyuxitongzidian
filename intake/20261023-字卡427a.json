@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡427a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "yb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "聿（字卡·yù）",
+   "statement": "聿，yù：从又持半竹，象手持竹为书写之具（笔之初文）；转义轻捷、讲述、依循。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䢖（字卡·yù）",
+   "statement": "䢖，yù：《玉篇》「分布也，又行貌」——分布、行走之状。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "冿（字卡·jiān）",
+   "statement": "冿，jiān：《字汇补》「进也」；《篇海》「志也，息进也」——上进。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨁸（字卡·lù）",
+   "statement": "𨁸，lù：《集韵》「䠈𨁸，不进」，走路摇摆不进；又跛足。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠜈（字卡·lǜ）",
+   "statement": "𠜈，lǜ：《篇海类编》音绿；刀刻之字，其义未详。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦘓（字卡·yì）",
+   "statement": "𦘓，yì：《集韵》「勩，劳也」——劳苦（《诗》「莫知我勩」）。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䋖（字卡·yù）",
+   "statement": "䋖，yù：《玉篇》「长貌」，《篇海》「长衣貌」——细长。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銉（字卡·yù）",
+   "statement": "銉，yù：《集韵》「针也」；sì 古同肆（编悬乐器，钟十六枚为一肆）。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茟（字卡·yù）",
+   "statement": "茟，yù：《广雅》「藜也」——灰菜；wěi 通芛，草木花初生。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥱂（字卡·nú）",
+   "statement": "𥱂，nú：《字汇补》「机𥱂」——织机部件。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
