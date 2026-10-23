@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡451a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbq-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "回（字卡·huí）",
+   "statement": "回，huí：《说文》「轉也，从囗，中象回轉形」——回旋、环绕；引申返回、回报、邪曲。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbq-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "迴（字卡·huí）",
+   "statement": "迴，huí：「回」的后起分别字，专表回旋、绕行、回避。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbq-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徊（字卡·huái）",
+   "statement": "徊，huái：《集韵》「徘徊，不进皃」——来回踱步、迟疑不进。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbq-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洄（字卡·huí）",
+   "statement": "洄，huí：《说文》「溯洄也，从水从回」——《诗》「溯洄从之」：逆流而上。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbq-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蛔（字卡·huí）",
+   "statement": "蛔，huí：《说文》「腹中長蟲也，从虫回聲」——蛔虫，盘曲如回。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbq-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痐（字卡·huí）",
+   "statement": "痐，huí：《集韵》「腹中長蟲」——同蛔，腹疾。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
