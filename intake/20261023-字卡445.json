@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡4452026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbw-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "串（字卡·chuàn）",
+   "statement": "串，chuàn：象串珠形，泛指物之连成串；引申穿过、串通、亲近，亦指贯串与积习。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "患（字卡·huàn）",
+   "statement": "患，huàn：《说文》「憂也，从心上貫串，串亦聲」——串珠悬心，忧患之状。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "槵（字卡·huàn）",
+   "statement": "槵，huàn：《集韻》「木名」——《本草》无患子（槵子），子可浣垢，核可作念珠。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漶（字卡·huàn）",
+   "statement": "漶，huàn：《集韻》「漫漶，不可分别」——水浸纸而字迹模糊。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞣（字卡·huàn）",
+   "statement": "瞣，huàn：《集韻》「目病」——眼病视乱，与漫漶同类。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䍺（字卡·huàn）",
+   "statement": "䍺，huàn：《集韻》「羊名」——羊名，或指细角羊。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤡟（字卡·huàn）",
+   "statement": "𤡟，huàn：《集韻》「獸名」——兽名。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨫑（字卡·huàn）",
+   "statement": "𨫑，huàn：《集韻》「金銀銅鐵璞」——同「鋛」，未冶之矿。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鋛（字卡·kuàng）",
+   "statement": "鋛，kuàng：《字彙》「古猛切，音礦：金銀銅鐵璞也」——未经冶炼的矿石。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠁷（字卡·chǎn）",
+   "statement": "𠁷，chǎn：同「丳」，炙肉具——烤肉串的签子，正中一签、左右各一签。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢈢（字卡·lǒu）",
+   "statement": "𢈢，lǒu：《篇韻》「草室也」——以草串编而成的草屋。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "贃（字卡·wàn）",
+   "statement": "贃，wàn：《集韻》「鋌也」——金属坯；《正字通》「餘財」——余财。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
