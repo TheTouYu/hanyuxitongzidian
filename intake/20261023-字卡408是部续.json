@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡408是部续2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bds-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "遈（字卡）",
+   "statement": "遈（shí）：《广韵》「流行皃」，《集韵》「行也」——行走貌。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徥（字卡）",
+   "statement": "徥（shì）：《说文》「徥徥，行皃」；tǐ 止也。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡰖（字卡）",
+   "statement": "𡰖（dī）：《说文》「𤿑不能行，為人所引」——脚跛被牵引。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "偍（字卡）",
+   "statement": "偍（tí）：《荀子》「難進曰偍」——行动迟缓。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䐎（字卡）",
+   "statement": "䐎（tí）：《集韵》「𦠓䐎，強脂也」——刮油。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㓳（字卡）",
+   "statement": "㓳（dī）：《广韵》「剅㓳，以刀解物」——以刀割开。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦧧（字卡）",
+   "statement": "𦧧（shì）：《类篇》「与舓同」——舔食。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "堤（字卡）",
+   "statement": "堤（dī）：《说文》「滯也，从土是聲」——筑土遏水；shí 堤封、总括。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "寔（字卡）",
+   "statement": "寔（shí）：《说文》「止也，从宀是聲」——止息；通「实」。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㼵（字卡）",
+   "statement": "㼵（dì）：《玉篇》「小盆也」，《广韵》「小甕」。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禔（字卡）",
+   "statement": "禔（zhī）：《说文》「安福也，从示是聲」——安宁。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bds-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "媞（字卡）",
+   "statement": "媞（shì）：《说文》「諦也，一曰妍黠也」——审谛、妍巧；又母亲。",
+   "boundary": "源自《系統漢語》第408部「止部」内二级字根是部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
