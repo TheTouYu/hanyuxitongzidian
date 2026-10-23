@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡559a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcan-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戔·cán",
+   "statement": "戔：从二戈：賊也（《說文》「賊也」），兩兵相對；轉義淺少、棚構。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賤·jiàn",
+   "statement": "賤：从貝戔聲：賈少也（《說文》「賈少也」），價格低、卑下。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "箋·jiān",
+   "statement": "箋：从竹戔聲：表識書也（《說文》「表識書也」），注釋、公文体裁。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餞·jiàn",
+   "statement": "餞：从食戔聲：送去也（《說文》「送去也」），餞行、以酒送別。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諓·jiàn",
+   "statement": "諓：从言戔聲：善言也（《說文》「善言也」），巧言、諓諓。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "俴·jiàn",
+   "statement": "俴：从人戔聲：淺也（《說文》「淺也」），淺薄。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淺·qiǎn",
+   "statement": "淺：从水戔聲：不深也（《說文》「不深也」），水淺、淺薄。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錢·qián",
+   "statement": "錢：从金戔聲：銚也，古田器（《說文》「銚也，古田器」），錢之初文；貨泉。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盞·zhǎn",
+   "statement": "盞：从皿戔聲：小杯也，玉爵之屬（《集韻》），酒盞。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "線·xiàn",
+   "statement": "線：从糸戔聲：縷也（《說文》「縷也」），絲線。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殘·cán",
+   "statement": "殘：从歹戔聲：賊也（《說文》「賊也」），殘害、剩餘。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcan-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踐·jiàn",
+   "statement": "踐：从足戔聲：履也（《說文》「履也」），踐踏、實行。",
+   "boundary": "源自《系統漢語》第559部「戔部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
