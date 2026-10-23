@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡539a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljiang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疆·jiāng",
+   "statement": "疆：从土彊聲：界也（《說文》），田界、疆域。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彊·qiáng",
+   "statement": "彊：从弓畺聲：弓有力也（《說文》）；引申強盛、強迫。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僵·jiāng",
+   "statement": "僵：从人畺聲：僨也（《說文》），倒地不動，僵硬。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繮·jiāng",
+   "statement": "繮：从糸畺聲：馬韁（繫馬之繩）。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "韁·jiāng",
+   "statement": "韁：从革畺聲：馬韁，皮製繫馬繩。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薑·jiāng",
+   "statement": "薑：从艸畺聲：生薑，辛辣之菜。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畺·jiāng",
+   "statement": "畺：从田从三（界画）：界也（《說文》），田界，畕之繁。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "礓·jiāng",
+   "statement": "礓：从石畺聲：礓礫，小石。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疅·jiāng",
+   "statement": "疅：从田畺聲：界也（《說文》），田邊。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㹔·jiāng",
+   "statement": "㹔：从牛畺聲：白牛（《說文》「牛白脊也」）。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬯·chàng",
+   "statement": "鬯：象器盛黑黍香草酒以祭；引申暢通、抒發（暢之本字）。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秬·jù",
+   "statement": "秬：从禾巨聲：黑黍也（《說文》），釀鬯所用。",
+   "boundary": "源自《系統漢語》第538－539部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
