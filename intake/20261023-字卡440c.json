@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡440c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbt-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玨（字卡·jué）",
+   "statement": "玨，jué：《说文》「二玉相合為一玨」——双玉为信；亦作瑴。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "班（字卡·bān）",
+   "statement": "班，bān：《说文》「分瑞玉，从玨从刀」——以刀分瑞玉，各持为凭；引申分列、班次、分给、回返。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨌥（字卡·fú）",
+   "statement": "𨌥，fú：《说文》「車笭間皮篋，古者使奉玉以藏之」——车栏皮匣，装玉亦装弓矢。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢴬（字卡·bàn）",
+   "statement": "𢴬，bàn：《集韵》「絆也，引擊也」——牵绊、击打。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "斑（字卡·bān）",
+   "statement": "斑，bān：《集韵》「辬，駁文也，或作斑」；《韻會》「雜色曰斑」——色驳杂。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癍（字卡·bān）",
+   "statement": "癍，bān：《汉典》「皮膚上生的斑點」——皮肤斑点。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤡰（字卡·bān）",
+   "statement": "𤡰，bān：《集韵》「逋還切，音班，獸名」——兽名。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩔮（字卡·bān）",
+   "statement": "𩔮，bān：《搜眞玉鏡》「音班」，疑同「頒」——头半白；颁，大头。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪄕（字卡·bān）",
+   "statement": "𪄕，bān：《汉典》「斑鳩」——羽色斑驳之鸟。",
+   "boundary": "源自《系統漢語》第440部「玨部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
