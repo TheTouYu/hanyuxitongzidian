@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡410此部b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紫（字卡）",
+   "statement": "紫（zǐ）：《说文》「帛青赤色」；《释名》「紫，疵也，非正色，五色之疵瑕，以惑人者也」——青赤相间的间色。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦺱（字卡）",
+   "statement": "𦺱（zī）：《玉篇》「𦺱菜，生水中」；《集韵》「菜名，芜菁也」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玼（字卡）",
+   "statement": "玼（cǐ）：《说文》「玉色鲜也」；又「玉病」「玉中石」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣐑（字卡）",
+   "statement": "𣐑（cí）：《广韵》「无𣐑木，一名楡」——小樟木，即棆。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴜（字卡）",
+   "statement": "鴜（cí）：《说文》「𪈁鴜也」；《玉篇》「水鸟，似鱼虎，苍黑色」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疵（字卡）",
+   "statement": "疵（cī）：《说文》「病也」——黑斑、痣；《集韵》「毁也」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䖪（字卡）",
+   "statement": "䖪（cí）：《集韵》「虫，似蝉」；又「蠀螬」虫名。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦍧（字卡）",
+   "statement": "𦍧（cǐ）：《说文》「羊名，蹏皮可以割桼」——疑指黑山羊。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪕊（字卡）",
+   "statement": "𪕊（zī）：《说文》「鼠，似鸡，鼠尾」；《玉篇》「似鸡而鼠毛，见即大旱」。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "雌（字卡）",
+   "statement": "雌（cī）：《说文》「鸟母也」；甲骨文从「止」——鸟交尾时雌伏于下。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩢑（字卡）",
+   "statement": "𩢑（cǐ）：《说文》「马名」——疑指母马或矮种马。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貲（字卡）",
+   "statement": "貲（zī）：《说文》「小罚以财自赎也」；《玉篇》「财也、货也」——以财赎罪。",
+   "boundary": "源自《系統漢語》第410部「此部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
