@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡465a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbt-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "就（字卡·jiù）",
+   "statement": "就，jiù：本部部首字：高坛→靠近、迁就、成就、只仅；《说文》「高也」。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㠇（字卡·jiù）",
+   "statement": "㠇，jiù：从山就声——《广韵》「嶺名」，山岭之名。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪆩（字卡·jiù）",
+   "statement": "𪆩，jiù：从鳥就声——即「鷲」，秃鹫，头颈裸出，争食时面色变红。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僦（字卡·jiù）",
+   "statement": "僦，jiù：从人就声——《说文》新附「賃也」，租赁。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹴（字卡·cù）",
+   "statement": "蹴，cù：从足就声——《说文》「躡也」，踢、踏；《集韵》「蹴然，敬皃」。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "噈（字卡·cù）",
+   "statement": "噈，cù：从口就声——《广韵》「歍噈，口相就也」，口相就。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥳛（字卡·cù）",
+   "statement": "𥳛，cù：从竹就声——笡也，竹器相抵。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憱（字卡·cù）",
+   "statement": "憱，cù：从心就声——与「蹙」同，忧愁蹙眉。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㩆（字卡·jiù）",
+   "statement": "㩆，jiù：从手就声——《集韵》「攬也」，又读 zú，「極擊也」。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦠢（字卡·jiù）",
+   "statement": "𦠢，jiù：从肉就声——《漢典》「下痕」，肌痕。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧫾（字卡·jiù）",
+   "statement": "𧫾，jiù：从言就声——《集韵》「諛也」，谄媚、靠近献殷勤。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbt-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧑙（字卡·zú）",
+   "statement": "𧑙，zú：从虫就声——《唐韵》「蝍𧑙，尺蠖也」，尺蠖爬行头尾相就。",
+   "boundary": "源自《系統漢語》第465部就部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
