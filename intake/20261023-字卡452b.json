@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡452b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbh-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牷（字卡·quán）",
+   "statement": "牷，quán：《说文》「牛純色」——祭祀用的纯色全牛。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "荃（字卡·quán）",
+   "statement": "荃，quán：《说文》「芥𦷵也」；《庄子》「得魚忘荃」——香草，亦通「筌」。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詮（字卡·quán）",
+   "statement": "詮，quán：《说文》「具也，从言全聲」——详尽解释、具列其义。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銓（字卡·quán）",
+   "statement": "銓，quán：《说文》「衡也，从金全聲」——衡量轻重、铨选人才。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跧（字卡·quán）",
+   "statement": "跧，quán：《集韵》「跧伏，蜷曲也」——蜷伏在地。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佺（字卡·quán）",
+   "statement": "佺，quán：《说文》「偓佺，仙人也」——仙人名。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "栓（字卡·shuān）",
+   "statement": "栓，shuān：《集韵》「木釘也」——木钉、门栓，取全木一段。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拴（字卡·shuān）",
+   "statement": "拴，shuān：《集韵》「揀也」；俗「繫也」——用绳系住。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洤（字卡·quán）",
+   "statement": "洤，quán：《集韵》「水名」——水名。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbh-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "烇（字卡·quán）",
+   "statement": "烇，quán：《集韵》「火也」——火貌。",
+   "boundary": "源自《系統漢語》第452部「全部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
