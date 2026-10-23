@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡444b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lby-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壦（字卡·xūn）",
+   "statement": "壦，xūn：《集韻》「塤，或从雚」——陶制吹奏乐器（埙）。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢑆（字卡·quán）",
+   "statement": "𢑆，quán：《说文》「弓曲也，从弓雚聲」——弓弯曲。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䠰（字卡·quán）",
+   "statement": "䠰，quán：《廣韻》「曲脊行也」——驼背而行。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "顴（字卡·quán）",
+   "statement": "顴，quán：《集韻》「輔骨曰顴」——颧骨，面颊突起如鹭喙。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巏（字卡·quán）",
+   "statement": "巏，quán：《集韻》「巏嵍，山名」——山名。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䑏（字卡·quán）",
+   "statement": "䑏，quán：《集韻》「䑏，肥也」——肥貌。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓘（字卡·guàn）",
+   "statement": "瓘，guàn：《说文》「玉也，从玉雚聲」——玉名。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䚭（字卡·xuān）",
+   "statement": "䚭，xuān：《集韻》「角皃」——角貌。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤼐（字卡·huàn）",
+   "statement": "𤼐，huàn：《集韻》「病也」——病名。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酄（字卡·huān）",
+   "statement": "酄，huān：《说文》「魯下邑，从邑雚聲」——在今山东肥城西。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦼉（字卡·huán）",
+   "statement": "𦼉，huán：《说文》「薍也，从艸萑聲」——初生之荻，细苇。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lby-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䟒（字卡·quán）",
+   "statement": "䟒，quán：《集韻》「行曲也」——行走弯绕。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
