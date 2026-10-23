@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡485a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcl-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尾（字卡·wěi）",
+   "statement": "尾，wěi：本部部首字：人後之尾→末端、尾隨、尾數。",
+   "boundary": "源自《系統漢語》第484－485部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcl-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娓（字卡·wěi）",
+   "statement": "娓，wěi：从女尾聲：《說文》「順也」，娓娓而談、柔順。",
+   "boundary": "源自《系統漢語》第484－485部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcl-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "毀（字卡·huǐ）",
+   "statement": "毀，huǐ：本部部首字：搗杵擊打→破壞、缺損、毀謗。",
+   "boundary": "源自《系統漢語》第484－485部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcl-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燬（字卡·huǐ）",
+   "statement": "燬，huǐ：从火毀聲：火焚、燒毀（《詩》「王室如燬」）。",
+   "boundary": "源自《系統漢語》第484－485部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcl-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "隳（字卡·huī）",
+   "statement": "隳，huī：从阜毀聲：毀壞城郭牆垣，引申隳敗。",
+   "boundary": "源自《系統漢語》第484－485部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
