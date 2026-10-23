@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡477a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lce-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侯（字卡·hóu）",
+   "statement": "侯，hóu：本部部首字：石箭鏃→箭之核心→君主、君侯、美。",
+   "boundary": "源自《系統漢語》第477部侯部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lce-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "候（字卡·hòu）",
+   "statement": "候，hòu：从人侯聲：伺望、等候；引申時候、氣候、徵候。",
+   "boundary": "源自《系統漢語》第477部侯部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lce-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喉（字卡·hóu）",
+   "statement": "喉，hóu：从口侯聲：咽喉，聲氣出入之要道，取箭鏃當中之位。",
+   "boundary": "源自《系統漢語》第477部侯部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lce-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猴（字卡·hóu）",
+   "statement": "猴，hóu：从犬侯聲：獼猴；其頰囊鼓如箭鏃，故侯為聲。",
+   "boundary": "源自《系統漢語》第477部侯部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lce-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "堠（字卡·hòu）",
+   "statement": "堠，hòu：从土侯聲：記里程的土堆，又斥堠（瞭望敵情）。",
+   "boundary": "源自《系統漢語》第477部侯部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lce-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍭（字卡·hóu）",
+   "statement": "鍭，hóu：从金侯聲：《說文》「矢金鏃翦羽」，金屬箭鏃即侯之初文本義。",
+   "boundary": "源自《系統漢語》第477部侯部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
