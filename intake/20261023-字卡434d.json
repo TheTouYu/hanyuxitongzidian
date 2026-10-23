@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡434d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lba-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憣（字卡·fān）",
+   "statement": "憣，fān：《正字通》「心变动」——心思翻动不宁。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襎（字卡·fán）",
+   "statement": "襎，fán：《广韵》「襎裷，幭也」——拭物或盖物的布帕；又长袖。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤳖（字卡·fān）",
+   "statement": "𤳖，fān：《玉篇》「却也」；《集韵》「番，更次也，或作𤳖」——更替轮值。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤺏（字卡·pān）",
+   "statement": "𤺏，pān：《集韵》「病死」；《广韵》「弃𤺏」——弃置病亡。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㽃（字卡·pān）",
+   "statement": "㽃，pān：《玉篇》「㽃瓳，大㼾甎也」——大砖；开封城火器迸发时「㽃瓳飞鸣」。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嶓（字卡·bō）",
+   "statement": "嶓，bō：《尚书·禹贡》「嶓冢导漾」——梁州嶓山，形如冢，故名。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藩（字卡·fān）",
+   "statement": "藩，fān：《说文》「屏也，从艸潘声」——篱笆、屏障；藩国屏卫。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕃（字卡·fán）",
+   "statement": "蕃，fán：《说文》「艸茂也，从艸番声」——茂盛、滋生繁殖。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橎（字卡·fán）",
+   "statement": "橎，fán：《说文》「木也，读若樊」；《集韵》「坚木，不华而实」——坚木。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䪤（字卡·fán）",
+   "statement": "䪤，fán：《说文》「小蒜也，从韭番声」——小蒜、百合蒜，重瓣之意。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹯（字卡·fán）",
+   "statement": "蹯，fán：《集韵》引《说文》「兽足谓之番」——兽足掌、兽迹（番之足印义的分化）。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lba-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僠（字卡·bō）",
+   "statement": "僠，bō：《集韵》「番番，勇也，或从人」——勇壮之貌。",
+   "boundary": "源自《系統漢語》第434部「釆部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
