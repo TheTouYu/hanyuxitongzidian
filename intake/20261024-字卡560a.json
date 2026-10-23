@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡560a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhuan-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孨·zhuǎn",
+   "statement": "孨：从三子：謹也（《說文》「謹也」），孤露可憐、懦弱。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孖·zī",
+   "statement": "孖：从二子：一產二子（《集韻》「一產二子」），通作孳，蕃長。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孱·chán",
+   "statement": "孱：从孨在尸下：迮也，一曰呻吟（《說文》），狹窄、孱弱。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孴·nì",
+   "statement": "孴：从三子：聚皃（《集韻》「聚皃」），眾多聚集。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驏·zhàn",
+   "statement": "驏：从馬孱聲：馬名（《說文》），不施鞍轡之馬。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僝·chán",
+   "statement": "僝：从人孱聲：具也（《說文》「具也」），僝僽、折磨。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轏·zhàn",
+   "statement": "轏：从車孱聲：竹木之車曰棧（《韻會》），臥車。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剗·chǎn",
+   "statement": "剗：从刀戔聲：削也、平也（《廣韻》），剗削。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樼·zhēn",
+   "statement": "樼：从木孱聲：木也（《說文》），同榛，叢木。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潺·chán",
+   "statement": "潺：从水孱聲：潺湲，水聲（《說文》「水聲」）。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㵫·nì",
+   "statement": "㵫：从水孴聲：水聲（《集韻》），水沸。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhuan-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤂇·zī",
+   "statement": "𤂇：从水孳聲：同滋，蕃長也（《玉篇》），滋長。",
+   "boundary": "源自《系統漢語》第560部「孨部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
