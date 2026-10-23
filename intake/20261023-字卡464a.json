@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡464a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbv-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尤（字卡·yóu）",
+   "statement": "尤，yóu：本部部首字：六指（枝指）→特异→过失、怨恨；《玉篇》「過也、責也、多也、怨也」。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "优（字卡·yóu）",
+   "statement": "优，yóu：从人尤声——五谷精白如人发白；今为「優」之简化字，美好、特出。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魷（字卡·yóu）",
+   "statement": "魷，yóu：从魚尤声——鱿鱼，有触须如手。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沋（字卡·yóu）",
+   "statement": "沋，yóu：从水尤声——沋河，渭河支流，出秦岭北麓。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "駀（字卡·yóu）",
+   "statement": "駀，yóu：从馬尤声——马名；又训马行。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紌（字卡·qiú）",
+   "statement": "紌，qiú：从糸尤声——蜀锦之名，《蜀都赋》「紌繏𦃄䋶」。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㚭（字卡·yóu）",
+   "statement": "㚭，yóu：从女尤声——女字（人名用字）。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦬓（字卡·yóu）",
+   "statement": "𦬓，yóu：从艸尤声——草名，或作「𦸙」。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨇳（字卡·cù）",
+   "statement": "𨇳，cù：从足尤声——《龙龛》「俗；蹙，正」，迫、急、近。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨑫（字卡·yóu）",
+   "statement": "𨑫，yóu：从辵尤声——《集韵》「經過也」，俗「由」字。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩾵（字卡·jiù）",
+   "statement": "𩾵，jiù：从鳥尤声——即「鷲」，大型猛禽，头颈裸出。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧌌（字卡·xiū）",
+   "statement": "𧌌，xiū：从虫尤声——《玉篇》「蜘蛛也」，蜘蛛八足，多于昆虫。",
+   "boundary": "源自《系統漢語》第464部尤部（卷七十六 又）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
