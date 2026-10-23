@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡514a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lfa-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匚（字卡·fāng）",
+   "statement": "匚（fāng）本部字根：石槽矯箭之器，引申匡正、方器、筐。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匠（字卡·jiàng）",
+   "statement": "匠（jiàng）从匚从斤：木工（《說文》「木工也」），斤所以作器。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪀘（字卡·jiàng）",
+   "statement": "𪀘（jiàng）《玉篇》「巧婦也」——工雀（鷦鷯），取其巧於營巢如匠。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匞（字卡·jiàng）",
+   "statement": "匞（jiàng）《正字通》「匠本字」——从工从匚，規矩準繩方正之意。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䞪（字卡·jiàng）",
+   "statement": "䞪（jiàng）从走匠聲：《說文》「行皃」——行之狀，取抽拉而行。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驅（字卡·qū）",
+   "statement": "驅（qū）《字彙補》「與驅同」——驅使，取矯正時抽拉驅趕之勢。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匡（字卡·kuāng）",
+   "statement": "匡（kuāng）从匚从㞷（往）：對不正者使之直（《廣韻》「輔助也。正也」）。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恇（字卡·kuāng）",
+   "statement": "恇（kuāng）从心匡聲：《說文》「怯也」——膽怯恐懼，取被矯正之不安。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誆（字卡·kuāng）",
+   "statement": "誆（kuāng）从言匡聲：《玉篇》「狂言也」——說大話、欺騙。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劻（字卡·kuāng）",
+   "statement": "劻（kuāng）《集韻》「劻勷，遽也」——急促不安之狀。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哐（字卡·kuāng）",
+   "statement": "哐（kuāng）象聲詞，多形容撞擊聲——取器物相擊之聲。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfa-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筐（字卡·kuāng）",
+   "statement": "筐（kuāng）从竹匡聲：《說文》「飲器，筥也」——受盛方器，匚引申為容器。",
+   "boundary": "源自《系統漢語》第514部「匚部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
