@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡535b2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiangb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "讓·ràng",
+   "statement": "讓：从言襄聲：責讓（《說文》「相責讓」），引申推辭、謙讓。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鑲·xiāng",
+   "statement": "鑲：从金襄聲：《說文》「作型中腸也」，鑄器內模；引申鑲嵌。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壤·rǎng",
+   "statement": "壤：从土襄聲：柔土也（《說文》）；引申土地、疆域。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孃·niáng",
+   "statement": "孃：从女襄聲：少女之稱，又母親（孃／娘）。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀼·ráng",
+   "statement": "瀼：从水襄聲：《說文》「露濃貌」；水流貌。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曩·nǎng",
+   "statement": "曩：从日襄聲：曩，向也（《說文》），從前、昔日。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釀·niàng",
+   "statement": "釀：从酉襄聲：釀酒，以穀麥發酵成酒。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忀·xiāng",
+   "statement": "忀：从彳襄聲：忀徉，徘徊不進。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勷·ráng",
+   "statement": "勷：从力襄聲：劻勷，急促不安貌。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓤·ráng",
+   "statement": "瓤：从瓜襄聲：瓜內之肉（瓜瓤）。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬤·ráng",
+   "statement": "鬤：从髟襄聲：毛髮雜亂貌。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiangb-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爙·rǎng",
+   "statement": "爙：从火襄聲：火貌（《集韻》）。",
+   "boundary": "源自《系統漢語》第535部「襄部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
