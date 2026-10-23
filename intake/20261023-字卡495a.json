@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "intent": "字卡495a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcs-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "丁（字卡·dīng）",
+   "statement": "丁，dīng：本部部首字：象釘形→釘子、壯丁、天干丁、當值。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "正（字卡·zhèng）",
+   "statement": "正，zhèng：从止从囗（邑）：象向城邑行進，征伐之「征」初文，引申正當、糾正、端正。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "定（字卡·dìng）",
+   "statement": "定，dìng：从宀从正：居室安定（《說文》「安也」），引申決定、必定。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "成（字卡·chéng）",
+   "statement": "成，chéng：从戊从一：象斧劈物而使析離，本義成就、完成（《說文》「就也」）。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "城（字卡·chéng）",
+   "statement": "城，chéng：从土成聲：築土為牆以成邑，取成之成就義。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誠（字卡·chéng）",
+   "statement": "誠，chéng：从言成聲：言實無偽曰誠，取成之實義。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頂（字卡·dǐng）",
+   "statement": "頂，dǐng：从頁丁聲：頭之最上（《說文》「顛也」），引申頂戴、頂替。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訂（字卡·dìng）",
+   "statement": "訂，dìng：从言丁聲：平議、評議（《說文》「平議也」），引申訂立。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釘（字卡·dīng）",
+   "statement": "釘，dīng：从金丁聲：丁之加金者，本字作丁，後增金旁。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "叮（字卡·dīng）",
+   "statement": "叮，dīng：从口丁聲：反覆囑咐，取丁之當值、盯住義。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "打（字卡·dǎ）",
+   "statement": "打，dǎ：从手丁聲：擊也（本義撞擊），取丁之當值。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "朾（字卡·chéng）",
+   "statement": "朾，chéng：从木丁聲：木柱、撞擊（《說文》「撞也」）。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疔（字卡·dīng）",
+   "statement": "疔，dīng：从疒丁聲：形小而根深如釘之惡瘡。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酊（字卡·dǐng）",
+   "statement": "酊，dǐng：从酉丁聲：「酩酊」，醉甚。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcs-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耵（字卡·dīng）",
+   "statement": "耵，dīng：从耳丁聲：「耵聹」，耳中垢。",
+   "boundary": "源自《系統漢語》第495部丁部（卷八十一 釘）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
