@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡562a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廌·zhì",
+   "statement": "廌：象獨角仙形：角鬥掀翻定勝負（《廣雅》「灋也」），引申律法決訟。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薦·jiàn",
+   "statement": "薦：从廌从艸：獸之所食艸（《說文》），金文从舁（共舉），引申推舉、進獻。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥤆·jiàn",
+   "statement": "𥤆：从禾薦聲：獸之所食草（《集韻》），即黍蓬，草高之貌。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥴱·jiàn",
+   "statement": "𥴱：从竹薦聲：楚謂筏上居曰𥴱（《集韻》），水上竹筏之屋。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨷓·jiàn",
+   "statement": "𨷓：从門薦聲：門次（《廣韻》「門次」），門閥之等第。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀳·jiàn",
+   "statement": "瀳：从水薦聲：水至也（《說文》「水至也」），水涌而至。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "韉·jiān",
+   "statement": "韉：从革薦聲：鞍也（《說文》「鞍也」），馬鞍之墊。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灋·fǎ",
+   "statement": "灋：从水从廌去：刑也（《說文》「刑也。平之如水」），廌觸不直者去之，法之初文。",
+   "boundary": "源自《系統漢語》第562部「廌部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
