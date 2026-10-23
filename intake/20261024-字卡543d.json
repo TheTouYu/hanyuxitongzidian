@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡543d2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyu4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑄·xuān",
+   "statement": "瑄：从玉宣聲：璧大六寸謂之瑄（《說文》）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑋·wěi",
+   "statement": "瑋：从玉韋聲：玉名（《廣韻》），珍奇。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑗·yuàn",
+   "statement": "瑗：从玉爰聲：大孔璧（《說文》「大孔璧」），瑗玉。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璉·liǎn",
+   "statement": "璉：从玉連聲：瑚璉，宗廟盛黍稷之器（《說文》「瑚璉也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璟·jǐng",
+   "statement": "璟：从玉景聲：玉光（《集韻》「玉光也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璜·huáng",
+   "statement": "璜：从玉黃聲：半璧曰璜（《說文》），佩玉。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璘·lín",
+   "statement": "璘：从玉粦聲：璘玢，玉文（《集韻》）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璲·suì",
+   "statement": "璲：从玉遂聲：瑞玉（《說文》「瑞玉也」），佩璲。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑱·tiàn",
+   "statement": "瑱：从玉真聲：以玉充耳（《說文》「以玉充耳也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璩·qú",
+   "statement": "璩：从玉豦聲：環屬（《說文》「環屬」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓊·qióng",
+   "statement": "瓊：从玉敻聲：赤玉（《說文》「赤玉也」），瓊瑤。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓔·yīng",
+   "statement": "瓔：从玉嬰聲：瓔珞，似玉之飾。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
