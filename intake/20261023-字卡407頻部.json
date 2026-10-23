@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407頻部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdl-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頻（字卡）",
+   "statement": "頻（pín）：《广韵》「數也」；《字彙》「連也」——从川从步，水反复冲岸，引申屡次、邻近、皱眉。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨽗（字卡）",
+   "statement": "𨽗（bīn）：《集韵》「濵，水厓也，或从頻」——水边。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蘋（字卡）",
+   "statement": "蘋（pín）：《玉篇》「大萍也」——四叶菜、田字草，生水滨。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦇖（字卡）",
+   "statement": "𦇖（pín）：《玉篇》「擣衣」——水边捣衣。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㰋（字卡）",
+   "statement": "㰋（pín）：《说文》「木也，从木𩔤聲」——槟榔树，树表环纹。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "顰（字卡）",
+   "statement": "顰（pín）：《说文》「涉水顰蹙，从頻卑聲」——皱眉。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚬（字卡）",
+   "statement": "嚬（pín）：《玉篇》「笑皃」；《正字通》「眉蹙也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧭹（字卡）",
+   "statement": "𧭹（pín）：《说文》「匹也，从言頻聲」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧮝（字卡）",
+   "statement": "𧮝（pín）：《说文长笺》「匹也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧔪（字卡）",
+   "statement": "𧔪（pín）：《类篇》「蟲名，負盤也」——蟑螂。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠐺（字卡）",
+   "statement": "𠐺（pín）：音译字，梵语「加羅𠐺伽」略译，妙音鸟。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdl-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨏞（字卡）",
+   "statement": "𨏞（pín）：《正字通》「顰字之訛」；《集韵》「車也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根頻部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
