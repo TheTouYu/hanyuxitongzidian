@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡571a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lli2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "力·lì",
+   "statement": "力：象耒形（曲木加橫木）：耒之初文，引申功勞、力量、能力、費力。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勒·lè",
+   "statement": "勒：从革力聲：馬頭絡銜也（《說文》），約束、鐫刻；引申以法令控制。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扐·lè",
+   "statement": "扐：从手力聲：筮法以蓍草奇零之數夾指間（《說文》），指間、餘數。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肋·lèi",
+   "statement": "肋：从肉力聲：脅骨也（《說文》），《釋名》「肋，勒也，檢勒五臟」。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "竻·lè",
+   "statement": "竻：从竹力聲：竹根（《集韻》），在地橫鑽如犁地；又刺竹可作藩籬。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劫·jié",
+   "statement": "劫：从力从去：以力脅止曰劫（《說文》）；本指犁地前拉後扶如爭奪。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筋·jīn",
+   "statement": "筋：从力从肉从竹：肉之力也（《說文》），附骨之韌帶；疑本指竹索。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "阞·lè",
+   "statement": "阞：从阜力聲：地理也（《說文》），地的脈理、裂開。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "朸·lè",
+   "statement": "朸：从木力聲：木之理也（《說文》），樹木紋理；又縣名。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "泐·lè",
+   "statement": "泐：从水从阞：水石之理也（《說文》），石因風化遇水而裂。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玏·lè",
+   "statement": "玏：从玉力聲：玪𤨙，石之次玉者（《說文》）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰳·lè",
+   "statement": "鰳：从魚勒聲：鰳魚（《正字通》），狀如鰣魚、腹下有硬刺。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
