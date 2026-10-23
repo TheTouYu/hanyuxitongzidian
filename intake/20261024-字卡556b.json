@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡556b2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxin2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霅·zhá",
+   "statement": "霅：从雨言聲：霅霅，震電皃（《說文》「霅霅，震電皃」）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "圁·yín",
+   "statement": "圁：从囗言聲：圁水，地名（《說文》「圁水」）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琂·yán",
+   "statement": "琂：从玉言聲：石之似玉者（《說文》「石之似玉者」）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䇾·yán",
+   "statement": "䇾：从竹言聲：大簫也（《說文》「大簫也」），管樂器。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "狺·yín",
+   "statement": "狺：从犬言聲：犬吠聲（《說文》「犬吠聲」），狺狺。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瘖·yīn",
+   "statement": "瘖：从疒音聲：不能言也（《說文》「不能言也」），失聲。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "寴·qīn",
+   "statement": "寴：从宀親聲：至也（《說文》「至也」），同「親」，親密。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀙·qìn",
+   "statement": "瀙：从水親聲：瀙水（《說文》「瀙水」），水名。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襯·chèn",
+   "statement": "襯：从衣親聲：近身衣也（《說文》「近身衣也」），襯衣、襯托。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚫·chèn",
+   "statement": "嚫：从口親聲：嚫施（《集韻》），梵語布施。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "豙·yì",
+   "statement": "豙：从豕从辛：豕怒毛豎也（《說文》「豕怒毛豎」），一曰殘艾。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "顡·ài",
+   "statement": "顡：从頁豙聲：癡不聰明也（《說文》「癡不聰明也」）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
