@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡474a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "危（字卡·wēi）",
+   "statement": "危，wēi：本部部首字：翻覆自回的禮器→傾倒、不正、不安、高峻。",
+   "boundary": "源自《系統漢語》第474部危部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桅（字卡·wéi）",
+   "statement": "桅，wéi：从木危聲：船上高竿，取危之高；又與「危」通。",
+   "boundary": "源自《系統漢語》第474部危部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "跪（字卡·guì）",
+   "statement": "跪，guì：从足危聲：曲膝拜跪，取危之傾側不安。",
+   "boundary": "源自《系統漢語》第474部危部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詭（字卡·guǐ）",
+   "statement": "詭，guǐ：从言危聲：《說文》「責也」，又奇異、詭詐。",
+   "boundary": "源自《系統漢語》第474部危部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
