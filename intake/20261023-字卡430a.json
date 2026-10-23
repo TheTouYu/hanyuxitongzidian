@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡430a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lb3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜧（字卡·lún）",
+   "statement": "蜧，lún：《说文》「蛇属，黑色，潜于神渊，能兴风雨」——神蛇，或作蜦。",
+   "boundary": "源自《系統漢語》第430部「戾部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唳（字卡·lì）",
+   "statement": "唳，lì：《说文》「鹤鸣也」——鹤雁高亢鸣叫，含惊惧意。",
+   "boundary": "源自《系統漢語》第430部「戾部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淚（字卡·lèi）",
+   "statement": "淚，lèi：《正韵》「目液也」——眼泪；取义同泣，泪挂眼睑之状。",
+   "boundary": "源自《系統漢語》第430部「戾部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棙（字卡·lì）",
+   "statement": "棙，lì：《集韵》「琵琶，其拨曰棙」——弹拨弦的木片。",
+   "boundary": "源自《系統漢語》第430部「戾部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
