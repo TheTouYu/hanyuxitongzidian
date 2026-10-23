@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡437b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbg-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "份（字卡·bīn）",
+   "statement": "份，bīn：《说文》「文质僣也，从人分声」——文质相半，份份（彬彬）；又整体之一部分。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粉（字卡·fěn）",
+   "statement": "粉，fěn：《说文》「傅面者也，从米分声」——研米使分散，故粉为碎屑通称。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼢（字卡·fén）",
+   "statement": "鼢，fén：《说文》「地行鼠，伯劳所作也」——鼢鼠，地下打洞损根。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "枌（字卡·fén）",
+   "statement": "枌，fén：《说文》「榆也」——白榆，皮捣成粉可充饥（榆面）。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "坋（字卡·fèn）",
+   "statement": "坋，fèn：《说文》「尘也，一曰大防也」——灰尘；大堤。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "魵（字卡·fén）",
+   "statement": "魵，fén：《说文》「鱼名，出薉邪头国」——斑鱼；小鱼曰𩸂。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羒（字卡·fèn）",
+   "statement": "羒，fèn：《说文》「牂羊也」；《尔雅》「羊牡羒」——白色公羊。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盼（字卡·pàn）",
+   "statement": "盼，pàn：《说文》「美目盼兮，从目分声」——眸子黑白分明；顾视。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攽（字卡·bān）",
+   "statement": "攽，bān：《说文》「分也，从攴分声」——使分开；减也。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貧（字卡·pín）",
+   "statement": "貧，pín：《说文》「财分少也，从贝从分」——缺钱、穷困。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "掰（字卡·bāi）",
+   "statement": "掰，bāi：用手把东西分开或折断；撕开、揭穿。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbg-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氛（字卡·fēn）",
+   "statement": "氛，fēn：《说文》「祥气也，从气分声」——预示吉凶的云气；凶气。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
