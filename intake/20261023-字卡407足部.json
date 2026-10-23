@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407足部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdd-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "足（字卡）",
+   "statement": "足（zú）：《说文》「人之足也，在下，从止口」——甲骨文象整条腿；《尔雅》「二足而毛謂之禽，四足而毛謂之獸」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "促（字卡）",
+   "statement": "促（cù）：《说文》「迫也，从人足聲」——急迫、催促。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趗（字卡）",
+   "statement": "趗（cù）：《集韵》「趢趗，局小皃」；《類篇》「小步」——迫促小步。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤗁（字卡）",
+   "statement": "𤗁（cù）：《广韵》「迫也」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㹱（字卡）",
+   "statement": "㹱（què）：《玉篇》「宋良犬」；《廣韻》「韓獹宋㹱」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䛤（字卡）",
+   "statement": "䛤（cù）：《等韻》「音促，言急也」——言语急促。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥞺（字卡）",
+   "statement": "𥞺（zhuō）：《字彙補》「今年稻死，來年自生也」——再生稻。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齪（字卡）",
+   "statement": "齪（chuò）：《集韵》「齷齪，迫也」——局促拘谨；今指不洁，疑本指牙缝藏垢。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娖（字卡）",
+   "statement": "娖（chuò）：《玉篇》「辯也」；《集韵》「謹也」——谨慎。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捉（字卡）",
+   "statement": "捉（zhuō）：《说文》「搤也，从手足聲，一曰握也」——握持。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "哫（字卡）",
+   "statement": "哫（zú）：《集韵》「哫訾，以言求媚也」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdd-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩈤（字卡）",
+   "statement": "𩈤（chù）：《篇海》「音促，齊也」——齐整。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
