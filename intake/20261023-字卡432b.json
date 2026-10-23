@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡432b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lb6-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棣（字卡·dì）",
+   "statement": "棣，dì：《说文》「白棣也，从木隶声」——棣棠，花黄色；萼片花瓣彼此相附，故从隶。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殔（字卡·yì）",
+   "statement": "殔，yì：《说文》「瘗也，从歺隶声」——临时浅埋在路旁的假葬。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "埭（字卡·dài）",
+   "statement": "埭，dài：《正韵》「以土堰水也」——堵水的土坝，船过以绠系舟尾挽之。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "靆（字卡·dài）",
+   "statement": "靆，dài：《玉篇》「不明貌」；《集韵》「叆叇，云盛貌」——云相堆积。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曃（字卡·dài）",
+   "statement": "曃，dài：《广韵》「暖曃，不明貌」——昏暗。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肆（字卡·sì）",
+   "statement": "肆，sì：春秋金文从金从隶，隶亦声；本指编钟一堵二十六枚（全为銉），引申穷极、陈列、恣意、放肆。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢘶（字卡·tuì）",
+   "statement": "𢘶，tuì：《玉篇》「肆也、忘也、忽也」——放肆无拘、遗忘、舒缓、惆怅。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕼（字卡·sì）",
+   "statement": "蕼，sì：《说文》「赤蕼也」——赤色草；《字汇补》与肆同，宽舒貌。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩬶（字卡·sì）",
+   "statement": "𩬶，sì：《玉篇》「与肆同」；《篇海》「毫毛也」——长毛兽。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb6-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤝽（字卡·sì）",
+   "statement": "𤝽，sì：《集韵》「本作𧳙」；《尔雅》「貄，修毫」——幼小的野猫。",
+   "boundary": "源自《系統漢語》第432－433部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
