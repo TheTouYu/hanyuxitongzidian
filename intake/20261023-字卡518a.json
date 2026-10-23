@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡518a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiong-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "兄（字卡·xiōng）",
+   "statement": "兄（xiōng）本部字根：口呼其名，成人取字，引申年長。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "況（字卡·kuàng）",
+   "statement": "況（kuàng）从水兄聲：寒水（《說文》），借表比擬、況且、更加。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貺（字卡·kuàng）",
+   "statement": "貺（kuàng）从貝兄聲：賜、贈（《說文》「賜也」）。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "怳（字卡·huǎng）",
+   "statement": "怳（huǎng）从心況省聲：狂放、模糊不清（《說文》「狂之皃」）、怳忽。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眖（字卡·kuàng）",
+   "statement": "眖（kuàng）从目兄聲：視也、對看（《玉篇》）。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "竟（字卡·jìng）",
+   "statement": "竟（jìng）本部二級字根：簪髮成人，引申界限、終盡。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "境（字卡·jìng）",
+   "statement": "境（jìng）从土竟聲：疆界（《新附》「疆也」），經典通用竟。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏡（字卡·jìng）",
+   "statement": "鏡（jìng）从金竟聲：照形之鏡（《說文》「景也」），《釋名》「鏡，景也」。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "競（字卡·jìng）",
+   "statement": "競（jìng）从誩从二人：強語、相逐（《說文》），為竟之二疊，表緊貼相爭。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiong-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "獍（字卡·jìng）",
+   "statement": "獍（jìng）从犬竟聲：獸名，狀如虎豹而小，生而食母（《述異記》）。",
+   "boundary": "源自《系統漢語》第518部「兄部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
