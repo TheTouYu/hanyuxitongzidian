@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡450d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbr-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "毄（字卡·jī）",
+   "statement": "毄，jī：《说文》「相擊中也，从車从攴」——车辖相碰；本义纺叀缠线时相击之声。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轚（字卡·jí）",
+   "statement": "轚，jí：《说文》「車轄相擊也，从車毄聲」——《周礼》「舟輿擊互者」，路窄车船相碰。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "擊（字卡·jī）",
+   "statement": "擊，jī：《说文》「攴也，从手毄聲」——攻打、碰撞。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "礊（字卡·kè）",
+   "statement": "礊，kè：《说文》「堅也，从石毄聲」——坚硬；huò 鞭声。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟿（字卡·qì）",
+   "statement": "蟿，qì：《集韵》「蟲名，似𧌻蝑細長」——蝗类，善弹腿跳跃，故有击打义。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "罊（字卡·qì）",
+   "statement": "罊，qì：《说文》「器中盡也，从缶毄聲」——器中空尽。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "墼（字卡·jī）",
+   "statement": "墼，jī：《说文》「瓴適也，一曰未燒也」——砖坯、土砖。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤪢（字卡·lì）",
+   "statement": "𤪢，lì：《说文》「玉也，从玉毄聲，讀若鬲」——玉名；疑「瑴」之讹。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣤢（字卡·xì）",
+   "statement": "𣤢，xì：《说文》「且唾聲，一曰小笑」——唾声、轻笑；疑「嗀」之异体。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "檕（字卡·jì）",
+   "statement": "檕，jì：《说文》「繘耑木也，从木毄聲」——汲水绳端的木辘轳。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蘻（字卡·jì）",
+   "statement": "蘻，jì：《说文》「狗毒也，从艸毄聲」——狗毒草（有毒之草）。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbr-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣫦（字卡·xì）",
+   "statement": "𣫦，xì：《玉篇》「子孫相繋也」——同「系」，联属不绝。",
+   "boundary": "源自《系統漢語》第450部「叀部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
