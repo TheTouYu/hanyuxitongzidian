@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡527h2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldang3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黨（字卡·dǎng）",
+   "statement": "黨（dǎng）＝从黑尚聲：色暗不鮮（《說文》「不鮮也」），引申朋黨、黨與。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "钂（字卡·tǎng）",
+   "statement": "钂（tǎng）＝古兵器，形如半月，當中有槍尖，兩邊出翅。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儻（字卡·tǎng）",
+   "statement": "儻（tǎng）＝从人黨聲：倜儻，卓異、豁達、大志；或然之詞。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "讜（字卡·dǎng）",
+   "statement": "讜（dǎng）＝从言黨聲：直言也（《說文》）；又中理、美言。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攩（字卡·dáng）",
+   "statement": "攩（dáng）＝从手黨聲：朋群也（《說文》），結成朋黨；俗用為抵攩、遮遏。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "欓（字卡·dǎng）",
+   "statement": "欓（dǎng）＝茱萸類、越椒（《玉篇》），莖有刺故有「擋」義。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爣（字卡·tǎng）",
+   "statement": "爣（tǎng）＝爣朗，火光寬明（《廣韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曭（字卡·tǎng）",
+   "statement": "曭（tǎng）＝日無光也（《集韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灙（字卡·dǎng）",
+   "statement": "灙（dǎng）＝漭灙，水皃；又水名（灙水）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "矘（字卡·tǎng）",
+   "statement": "矘（tǎng）＝从目黨聲：目無精直視也（《說文》），茫然直視。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "掌（字卡·zhǎng）",
+   "statement": "掌（zhǎng）＝从手尚聲：手掌（《說文》「手中也」），引申掌管；掌之平展→支撐。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldang3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撐（字卡·chēng）",
+   "statement": "撐（chēng）＝从手掌聲：柱也（《集韻》），斜柱支撐；橕、撐、牚、𣥺音義同。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜，黨系／掌系）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
