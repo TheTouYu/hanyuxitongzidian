@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡525b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyang4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鐊（字卡·yáng）",
+   "statement": "鐊（yáng）＝从金陽聲：馬頭飾（《說文》引《詩》「鉤膺鏤鐊」），經典作「鍚」。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畼（字卡·chàng）",
+   "statement": "畼（chàng）＝从田昜聲：不生也、田不耕（《說文》），借為通畼。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥏫（字卡·shāng）",
+   "statement": "𥏫（shāng）＝从矢昜聲：傷也，箭傷（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慯（字卡·shāng）",
+   "statement": "慯（shāng）＝从心殤省聲：憂也、念也（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䵮（字卡·yàng）",
+   "statement": "䵮（yàng）＝从黑昜聲：赤黑色（《說文》讀若煬）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰑（字卡·yáng）",
+   "statement": "鰑（yáng）＝从魚昜聲：鮦也、赤鱺，俗名烏魚（《博雅》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煬（字卡·yàng）",
+   "statement": "煬（yàng）＝从火昜聲：炙燥、烘烤（《說文》）；向火、熔化。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬺（字卡·shāng）",
+   "statement": "鬺（shāng）＝从鬲昜聲：煮也（《說文》），或作䵼。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餳（字卡·xíng）",
+   "statement": "餳（xíng）＝从食昜聲：飴和饊，糯米熬成之糖（《玉篇》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璗（字卡·dàng）",
+   "statement": "璗（dàng）＝从玉湯聲：金之美者，與玉同色（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "崵（字卡·yáng）",
+   "statement": "崵（yáng）＝从山昜聲：崵山在遼西，一曰嵎銕崵谷（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霷（字卡·yáng）",
+   "statement": "霷（yáng）＝从雨昜聲：十月為霷，通作陽（《集韻》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
