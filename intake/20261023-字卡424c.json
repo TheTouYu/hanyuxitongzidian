@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡424c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醱（字卡）",
+   "statement": "醱（pō）：《集韵》「酘谓之醱」——酒再酿；又醱酵（发酵）。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩯌（字卡）",
+   "statement": "𩯌（bō）：《玉篇》「𩯌䰖，鬓多毛」——胡须怒张。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩞽（字卡）",
+   "statement": "𩞽（bó）：同「餺」——餺饦，饼也。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕟（字卡）",
+   "statement": "蕟（fà）：《集韵》「草名」；又粗竹席（䉬）。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "櫠（字卡）",
+   "statement": "櫠（fèi）：《尔雅》「櫠，椵，柚属」——柚子一类，木材坚硬。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢠺（字卡）",
+   "statement": "𢠺（bó）：《集韵》「心起也」。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤗳（字卡）",
+   "statement": "𤗳（bō）：《字汇》「𤗳风版」——挡风板。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驋（字卡）",
+   "statement": "驋（bō）：《玉篇》「马走」；《广韵》「马怒」；《集韵》「马摇首」。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠷑（字卡）",
+   "statement": "𠷑（pō）：《玉篇》「妄说也」——胡说。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
