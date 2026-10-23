@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡576b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llai3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "脊·jǐ",
+   "statement": "脊：从𠦬从肉：背呂也（《說文》），背脊；引申山脊、條理。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膌·jí",
+   "statement": "膌：从肉脊聲：瘦也（《說文》「膌，瘦也」），瘦瘠。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鯽·jì",
+   "statement": "鯽：从魚脊聲：魚名（《說文》），鯽魚。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "塉·jí",
+   "statement": "塉：从土脊聲：薄土也（《說文》「塉，薄土也」），瘠薄之地。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嵴·jí",
+   "statement": "嵴：从山脊聲：山脊（《集韻》），山頂脊線。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹐·jí",
+   "statement": "蹐：从足脊聲：小步也（《說文》引《詩》「不敢不蹐」）。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶺·jí",
+   "statement": "鶺：从鳥脊聲：鶺鴒（《集韻》），水鳥。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釐·lí",
+   "statement": "釐：从里𠩺聲：家福也（《說文》），理也、福也；又度量單位。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嫠·lí",
+   "statement": "嫠：从女𠩺聲：無夫也（《說文》「無夫也」），寡婦。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剺·lí",
+   "statement": "剺：从刀𠩺聲：剝也（《說文》「剺，剝也」），劃開。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漦·chí",
+   "statement": "漦：从水𠩺聲：順流也（《說文》），魚涎、唾沫。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llai3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "犛·lí",
+   "statement": "犛：从牛𠩺聲：牛名（《說文》），犛牛（牦牛）。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
