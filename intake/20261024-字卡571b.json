@@ -1,0 +1,189 @@
+{
+ "schema_version": 1,
+ "intent": "字卡571b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lli3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劣·liè",
+   "statement": "劣：从力从少：弱也（《說文》），力少則弱，引申鄙薄、不足。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仂·lè",
+   "statement": "仂：从人力聲：數之餘也（《正字通》），稅什一、勤勞。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㔹·lè",
+   "statement": "㔹：从十力聲：材十人也（《說文》），材力十倍於人。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忇·lè",
+   "statement": "忇：从心力聲：功大也（《玉篇》），又思也。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艻·lè",
+   "statement": "艻：从艸力聲：蘿艻、香菜（《玉篇》）；又艻木可為柵。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "牞·jiū",
+   "statement": "牞：从牛力聲：牛大力（《玉篇》），古國名。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劽·liè",
+   "statement": "劽：从列力聲：有力也（《集韻》）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘞·lei",
+   "statement": "嘞：从口勒聲：語氣詞（《漢典》），表提醒；又嘮叨。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "叻·lè",
+   "statement": "叻：从口力聲：石叻（馬來語，即新加坡），象聲字。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氻·lè",
+   "statement": "氻：从水力聲：泉聲也（《玉篇》），水聲。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "男·nán",
+   "statement": "男：从田从力：丈夫也（《說文》「言男用力于田也」），成年男子；引申兒子、勝任、男爵。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莮·nán",
+   "statement": "莮：从艸男聲：萓莮（《玉篇》），萱草，即宜男，妊婦佩之求生男。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侽·nán",
+   "statement": "侽：从人男聲：男子（《集韻》），亦作男。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娚·nán",
+   "statement": "娚：从女男聲：女字（《集韻》），又稱姊妹。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
