@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡540a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lqiu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秋·qiū",
+   "statement": "秋：本象蟋蟀（促織），借為秋季；又造从禾之秋表禾穀成熟。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楸·qiū",
+   "statement": "楸：从木秋聲：楸樹，木理如梓，古人植於墓。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萩·qiū",
+   "statement": "萩：从艸秋聲：萩，蒿類（《說文》「蕭也」）；又菽。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶖·qiū",
+   "statement": "鶖：从鳥秋聲：禿鶖，水鳥，頭禿。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䨂·qiū",
+   "statement": "䨂：从雨秋聲：雨貌（《集韻》）。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰍·qiū",
+   "statement": "鰍：从魚秋聲：泥鰍，善鑽泥。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "愁·chóu",
+   "statement": "愁：从心秋聲：憂也（《說文》），秋氣蕭瑟而生愁。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "愀·qiǎo",
+   "statement": "愀：从心秋聲：色變也（《說文》），憂懼變容。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揪·jiū",
+   "statement": "揪：从手秋聲：揫之俗，抓住不放。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬮·jiū",
+   "statement": "鬮：从鬥龜聲：鬮，取物之紙團（抓鬮）。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "啾·jiū",
+   "statement": "啾：从口秋聲：啾唧，小聲；又啾啾（鳥鳴）。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湫·qiū",
+   "statement": "湫：从水秋聲：水潭（《說文》「隘下也」）；又湫隘。",
+   "boundary": "源自《系統漢語》第540部「秋部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
