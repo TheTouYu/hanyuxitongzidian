@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡426c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "jb3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢝷（字卡·xié）",
+   "statement": "𢝷，xié：人名用字。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢔡（字卡·kāi）",
+   "statement": "𢔡，kāi：《广韵》「徘𢔡，行恶」——行步邪僻。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勓（字卡·kài）",
+   "statement": "勓，kài：《集韵》「劾，勤力也，一曰勉也」——勉力、勤力。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㾬（字卡·jiē）",
+   "statement": "㾬，jiē：《正字通》同痎——老疟发作无时名㾬疟；痎为二日一发之疟。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝔（字卡·jiē）",
+   "statement": "蝔，jiē：《广韵》「虫名」；《淮南子》「蝔知雨至」，虫大如笔管、长三寸，俗名猥狗，天雨则藏草木下。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥏪（字卡·kǎi）",
+   "statement": "𥏪，kǎi：《集韵》「桂林谓人短为矲雉，或作𥏪」——身材短小。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦎥（字卡·qiān）",
+   "statement": "𦎥，qiān：《集韵》「羟，羊名」——羊名。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧳧（字卡·xiē）",
+   "statement": "𧳧，xiē：《集韵》「兽名」。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦂄（字卡·kāi）",
+   "statement": "𦂄，kāi：《说文》「大丝也」——粗大之丝。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦝨（字卡·jiē）",
+   "statement": "𦝨，jiē：《说文》「臞也」——瘦而肋骨外露，如阶之级级；一说当为肥。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩩰（字卡·jiē）",
+   "statement": "𩩰，jiē：《篇海类编》「同𦝨，瘦也」；hái 同骸，胫骨。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
