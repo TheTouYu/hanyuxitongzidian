@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡437d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汾（字卡·fén）",
+   "statement": "汾，fén：《说文》「水，出太原晋阳山，西南入河」——汾河，山西第一大河。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鳻（字卡·fén）",
+   "statement": "鳻，fén：《说文》「鸟聚貌，一曰飞貌」——鸟群聚飞。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梤（字卡·fén）",
+   "statement": "梤，fén：《说文》「香木也」——香树。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衯（字卡·fēn）",
+   "statement": "衯，fēn：《说文》「长衣貌」——长衣，俗言披风。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黺（字卡·fěn）",
+   "statement": "黺，fěn：《说文》「画粉也」——衮衣上山龙华虫之纹；或指绘画的粉。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扮（字卡·fěn）",
+   "statement": "扮，fěn：《说文》「握也，读若粉」——握持、鼓动；又打扮。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盆（字卡·pén）",
+   "statement": "盆，pén：《说文》「盎也，从皿分声」——盛物洗涤的圆口大底小器。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邠（字卡·bīn）",
+   "statement": "邠，bīn：《说文》「周太王国，在右扶风美阳」——同豳，周先祖公刘所居。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釁（字卡·xìn）",
+   "statement": "釁，xìn：《说文》「血祭也，象祭灶」——以牲血涂器祭祀；引申缝隙、松动、罪、兆。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芬（字卡·fēn）",
+   "statement": "芬，fēn：《说文》「草初生，其香分布」——花草香气；又和也。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吩（字卡·fēn）",
+   "statement": "吩，fēn：《集韵》「喷，吒也」；今吩咐，反复叮嘱。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbi-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翂（字卡·fēn）",
+   "statement": "翂，fēn：《集韵》「翂翂，飞也」——鸟飞之貌。",
+   "boundary": "源自《系統漢語》第437部「八部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
