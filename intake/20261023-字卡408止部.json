@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡408止部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdm-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "止（字卡）",
+   "statement": "止（zhǐ）：象动物脚印（趾之初文）；《广韵》「足也」——行走、停留、基础。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趾（字卡）",
+   "statement": "趾（zhǐ）：《尔雅》「趾，足也」——脚趾。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "阯（字卡）",
+   "statement": "阯（zhǐ）：《说文》「基也，从𨸏止聲」——基脚。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祉（字卡）",
+   "statement": "祉（zhǐ）：《说文》「福也，从示止聲」，徐铉「福所止不移」。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芷（字卡）",
+   "statement": "芷（zhǐ）：《本草》「白芷，一名芳香」——根粗壮如脚趾。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沚（字卡）",
+   "statement": "沚（zhǐ）：《说文》「小渚曰沚」——《释名》「可以止息其上」。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "企（字卡）",
+   "statement": "企（qì）：《说文》「举踵也，从人止聲」——踮脚而望。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扯（字卡）",
+   "statement": "扯（chě）：《正字通》「俗撦字」——拉、牵。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㢟（字卡）",
+   "statement": "㢟（chān）：《说文》「安步㢟㢟也，从廴从止」——缓步。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "辵（字卡）",
+   "statement": "辵（chuò）：《说文》「乍行乍止也，从彳从止」——走走停停（辶旁）。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "咫（字卡）",
+   "statement": "咫（zhǐ）：《说文》「中妇人手长八寸谓之咫」——八寸为咫。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdm-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耻（字卡）",
+   "statement": "耻（chǐ）：俗「恥」字——辱也。",
+   "boundary": "源自《系統漢語》第408部「止部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
