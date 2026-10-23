@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡420a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戒（字卡）",
+   "statement": "戒（jiè）：本部部首字——双手持戈，武装防范。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悈（字卡）",
+   "statement": "悈（jiè）：《说文》「饰（饬）也」——戒饬，即掩饰慌张强作镇定；又疾也、老也。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "械（字卡）",
+   "statement": "械（xiè）：《说文》「桎梏也」——木制束缚手脚的刑具；引申器械、用具。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祴（字卡）",
+   "statement": "祴（gāi）：《说文》「宗庙奏祴乐」——祴夏之乐，客醉而出奏之，以为行步之节。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裓（字卡）",
+   "statement": "裓（gé）：《类篇》「衣裾」——衣襟；又堂涂（堂下阶前砖路）。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誡（字卡）",
+   "statement": "誡（jiè）：《说文》「敕也」——告诫、规劝；警也、命也、告也。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㖑（字卡）",
+   "statement": "㖑（xiè）：《玉篇》「喝㖑也」——吆喝呵斥；又诋毁非议。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "駴（字卡）",
+   "statement": "駴（hài）：《玉篇》「雷击鼓也」——击鼓声如疾雷；与骇同。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㑘（字卡）",
+   "statement": "㑘（jiè）：《说文》「善也」——善、大；或与介同，指介绍。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤈪（字卡）",
+   "statement": "𤈪（kài）：《集韵》「烗，炽也」——炽盛之火。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
