@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡574a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lla-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剌·là",
+   "statement": "剌：从刀从𥞥亦聲：戾也（《說文》），以秸稈刮擦拋光→乖違不正、灼痛。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楋·là",
+   "statement": "楋：从木剌聲：木也（《說文》），樹可放蠟、煎汁為燭（水㯿樹）。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢃴·là",
+   "statement": "𢃴：从巾剌聲：刜也（《說文》），拂拭。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揦·là",
+   "statement": "揦：从手剌聲：撥攋，手披也（《集韻》），撥開、毀裂。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揧·là",
+   "statement": "揧：从手𥞥聲：揅也（《博雅》），研破（《廣韻》）。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥈙·là",
+   "statement": "𥈙：从目剌聲：目子不正也（《玉篇》），眸子不正。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溂·là",
+   "statement": "溂：从水剌聲：瀨之或體（《集韻》），水流激石。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "辣·là",
+   "statement": "辣：从辛剌聲：辛痛（《正字通》），薑蒜之辛辣刺痛。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瘌·là",
+   "statement": "瘌：从疒剌聲：楚人謂藥毒曰痛瘌（《方言》），惡疾、禿瘡。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蝲·là",
+   "statement": "蝲：从蟲剌聲：蝲蟿（《集韻》），蟲名。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喇·lǎ",
+   "statement": "喇：从口剌聲：喇叭（《集韻》），吹器之聲。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lla-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賴·lài",
+   "statement": "賴：从貝剌聲：贏也（《說文》），依靠、利；字族 癩／籟／懶／獺。",
+   "boundary": "源自《系統漢語》第574部「剌部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
