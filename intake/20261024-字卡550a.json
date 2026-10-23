@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡550a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lhuo-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "火·huǒ",
+   "statement": "火：象火焰上騰之形；引申燃燒、火氣、怒、急速。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邩·huǒ",
+   "statement": "邩：从火阝聲：地名（《說文》「地名」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疢·chèn",
+   "statement": "疢：从疒火聲：熱病也（《說文》「熱病也」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吙·huō",
+   "statement": "吙：从口火聲：吐氣聲（《集韻》）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "炅·jiǒng",
+   "statement": "炅：从日火聲：見也（《說文》「見也」）；又光也。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煛·jiǒng",
+   "statement": "煛：从目火聲：大目也（《說文》「大目也」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煚·jiǒng",
+   "statement": "煚：从火日聲：日光也（《說文》「日光也」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伙·huǒ",
+   "statement": "伙：从人火聲：同伴、伙伴（火之分化，古兵制十人為火）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灶·zào",
+   "statement": "灶：从火土聲：炊竈（竈之简化）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鈥·huǒ",
+   "statement": "鈥：从金火聲：稀土金屬元素（新造字）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耿·gěng",
+   "statement": "耿：从耳从火：耳著頰也（《說文》「耳箸頰也」），光明、耿直。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煩·fán",
+   "statement": "煩：从頁从火：熱頭痛也（《說文》「熱頭痛也」），煩躁、繁雜。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
