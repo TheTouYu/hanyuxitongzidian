@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡535a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髒·zāng",
+   "statement": "髒：从骨葬聲：骨間之肉；今通「脏」，不淨。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩦦·zāng",
+   "statement": "𩦦：从馬葬聲：《集韻》馬名。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠿺·guài",
+   "statement": "𠿺：《集韻》「聲也」，疑譌字。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襄·xiāng",
+   "statement": "襄：象人头顶皿、双手上举扶物；引申上舉、扶助、駕車、除去、肥大。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驤·xiāng",
+   "statement": "驤：从馬襄聲：馬之低卬也（《說文》），馬騰躍昂首；後右足白亦曰驤。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "纕·xiāng",
+   "statement": "纕：从糸襄聲：《說文》「援臂也」，佩帶、束袖之繩。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饟·xiǎng",
+   "statement": "饟：从食襄聲：饋也（《說文》），送飯與人；同「餉」。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蠰·xiāng",
+   "statement": "蠰：从虫襄聲：《爾雅》「蠰，齧桑」，蟲名。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攘·rǎng",
+   "statement": "攘：从手襄聲：推也（《說文》），捋袖出臂、排斥、侵奪。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禳·ráng",
+   "statement": "禳：从示襄聲：磔禳，祀除殃也（《說文》），祭以去災。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚷·rǎng",
+   "statement": "嚷：从口襄聲：吆喝、喧鬧。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "獽·ráng",
+   "statement": "獽：从犬襄聲：《集韻》獸名，似犬。",
+   "boundary": "源自《系統漢語》第534－535部（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
