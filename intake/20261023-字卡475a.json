@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡475a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "毳（字卡·cuì）",
+   "statement": "毳，cuì：本部部首字：三毛重叠→细绒毛、毳衣、毳毛；引申脆弱柔美。",
+   "boundary": "源自《系統漢語》第475部毳部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "脆（字卡·cuì）",
+   "statement": "脆，cuì：从肉毳省聲：《說文》「小耎易斷也」，脆嫩、脆弱。",
+   "boundary": "源自《系統漢語》第475部毳部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膬（字卡·cuì）",
+   "statement": "膬，cuì：从肉毳聲：《說文》「耎易破也」，与脆同。",
+   "boundary": "源自《系統漢語》第475部毳部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橇（字卡·qiāo）",
+   "statement": "橇，qiāo：从木毳聲：泥行乘橇，木板滑行於泥雪之上。",
+   "boundary": "源自《系統漢語》第475部毳部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
