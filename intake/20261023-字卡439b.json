@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡439b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbn-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潎（字卡·pì）",
+   "statement": "潎，pì：《说文》「于水中击絮也，从水敝声」——水中漂击丝絮；又清也。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹩（字卡·bié）",
+   "statement": "蹩，bié：《说文》「踶也，一曰跛也」——踢、跛；蹩𨇨，旋行之貌。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撇（字卡·piē）",
+   "statement": "撇，piē：《说文》「别也，一曰击也，从手敝声」——用手分开、抽打；又撇捺。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蔽（字卡·bì）",
+   "statement": "蔽，bì：《说文》「蔽蔽，小艸也」——遮蔽、掩覆、障隐。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幣（字卡·bì）",
+   "statement": "幣，bì：《说文》「帛也」——束帛为礼，泛指车马皮帛玉器；今货币。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞥（字卡·piē）",
+   "statement": "瞥，piē：《说文》「过目也，又目翳也」——眼光掠过；一瞥。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "獘（字卡·bì）",
+   "statement": "獘，bì：《说文》「顿仆也，从犬敝声」——如磕头般前倒，憋气而死。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄨（字卡·bì）",
+   "statement": "鄨，bì：《说文》「䍧牱县，从邑敝声」——古县名，今贵州遵义西。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "龞（字卡·biē）",
+   "statement": "龞，biē：《说文》「甲虫也」——鳖；取义于「憋」，外壳封闭而缩头缩脚。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鐅（字卡·piě）",
+   "statement": "鐅，piě：《说文》「河内谓锸头金也」——锹类刃口；又煮盐浅锅。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弊（字卡·bì）",
+   "statement": "弊，bì：《玉篇》俗「𡚁」字——倒毙、仆倒；困、恶；又作弊。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbn-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟞（字卡·bié）",
+   "statement": "蟞，bié：《集韵》「蟞蜉，虫名，蚁也」——大蚂蚁；又鱼鳖俗字。",
+   "boundary": "源自《系統漢語》第439部「㡀部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
