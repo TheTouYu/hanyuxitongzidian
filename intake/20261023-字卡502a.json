@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "intent": "字卡502a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcw-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "夅（字卡·jiàng）",
+   "statement": "夅，jiàng：本部部首字：二人相承→降服、下降、貶抑。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "降（字卡·jiàng）",
+   "statement": "降，jiàng：从阜夅聲：从高處下來（《說文》「下也」）。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洚（字卡·jiàng）",
+   "statement": "洚，jiàng：从水夅聲：大水泛溢（《說文》「水不遵道」）。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絳（字卡·jiàng）",
+   "statement": "絳，jiàng：从糸夅聲：大紅之色，取夅之聲。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "隆（字卡·lóng）",
+   "statement": "隆，lóng：从生降聲：豐大、高起（《說文》「豐大也」）。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廾（字卡·gǒng）",
+   "statement": "廾，gǒng：本部部首字：兩手竦舉→拱手、共舉。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "奉（字卡·fèng）",
+   "statement": "奉，fèng：从廾从丰：兩手承物曰奉（《說文》「承也」），引申奉獻。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弄（字卡·nòng）",
+   "statement": "弄，nòng：从廾从玉：兩手玩玉曰弄，引申戲弄。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "具（字卡·jù）",
+   "statement": "具，jù：从廾从貝省：兩手具辦器物（《說文》「共置也」）。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戒（字卡·jiè）",
+   "statement": "戒，jiè：从廾持戈：兩手警戒（《說文》「警也」），引申戒除。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "兵（字卡·bīng）",
+   "statement": "兵，bīng：从廾持斤：兩手執斧，本義兵器、士卒。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弈（字卡·yì）",
+   "statement": "弈，yì：从廾亦聲：兩人對局下棋（「博弈」）。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弊（字卡·bì）",
+   "statement": "弊，bì：从廾敝聲：仆也、困也（《說文》「頓仆也」）。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "舁（字卡·yú）",
+   "statement": "舁，yú：从廾从?：四手共舉（《說文》「共舉也」）。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcw-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弃（字卡·qì）",
+   "statement": "弃，qì：从廾从?（倒子）：兩手棄子，本義拋棄。",
+   "boundary": "源自《系統漢語》第501－502部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
