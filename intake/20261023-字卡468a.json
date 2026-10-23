@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡468a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbw-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "規（字卡·guī）",
+   "statement": "規，guī：本部部首字：圓規→正圓之器、法度、規規（驚視貌）。",
+   "boundary": "源自《系統漢語》第468部規部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞁（字卡·xù）",
+   "statement": "瞁，xù：从目規声——《集韵》「驚視皃」，驚而圓睜兩眼。",
+   "boundary": "源自《系統漢語》第468部規部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "窺（字卡·kuī）",
+   "statement": "窺，kuī：从穴規声——从小孔偷看，引申窥伺、窥测。",
+   "boundary": "源自《系統漢語》第468部規部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbw-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "闚（字卡·kuī）",
+   "statement": "闚，kuī：从門規声——与窺同，自门隙窥看。",
+   "boundary": "源自《系統漢語》第468部規部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
