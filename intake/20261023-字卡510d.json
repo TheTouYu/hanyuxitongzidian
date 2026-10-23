@@ -1,0 +1,189 @@
+{
+ "schema_version": 1,
+ "intent": "字卡510d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lda-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "敟（字卡·diǎn）",
+   "statement": "敟（diǎn）从攴典聲，主也、常也，為典之加攴分化字。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捵（字卡·chěn）",
+   "statement": "捵（chěn）从手典聲，伸也、扯也，取典之引申。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晪（字卡·tiǎn）",
+   "statement": "晪（tiǎn）从日典聲，明也（《集韻》「明也」）。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琠（字卡·tiǎn）",
+   "statement": "琠（tiǎn）从玉典聲，玉名；又通「瑱」，充耳之玉。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錪（字卡·tiǎn）",
+   "statement": "錪（tiǎn）从金典聲，小釜（《說文》「朝鮮謂釜曰錪」）。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "婰（字卡·diǎn）",
+   "statement": "婰（diǎn）从女典聲，女子名用之字。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賟（字卡·tiǎn）",
+   "statement": "賟（tiǎn）从貝典聲，富也（《說文》「富也」）。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㥏（字卡·tiǎn）",
+   "statement": "㥏（tiǎn）从心典聲，慚愧（《說文》「青徐謂慙曰㥏」）。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "覥（字卡·tiǎn）",
+   "statement": "覥（tiǎn）从見典聲，面慚（「覥顏」），取㥏之慚義。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淟（字卡·tiǎn）",
+   "statement": "淟（tiǎn）从水典聲，「淟涊」，污濁（《說文》「垢濁也」）。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唺（字卡·tiǎn）",
+   "statement": "唺（tiǎn）从口典聲，吞也、吐舌。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痶（字卡·tiǎn）",
+   "statement": "痶（tiǎn）从疒典聲，「痶瘓」，病貌。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䠄（字卡·tiǎn）",
+   "statement": "䠄（tiǎn）从足典聲，行跡、蹈也。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lda-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碘（字卡·diǎn）",
+   "statement": "碘（diǎn）从石典聲，化學元素，取典之聲（今字）。",
+   "boundary": "源自《系統漢語》第510部典部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
