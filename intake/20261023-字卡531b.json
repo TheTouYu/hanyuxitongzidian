@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡531b2026-10-23x",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lsangB-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樉（字卡·shuǎng）",
+   "statement": "字卡（第530部）：樉（shuǎng）＝《集韻》「木名，一曰木茂皃」。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏯（字卡·shuǎng）",
+   "statement": "字卡（第530部）：鏯（shuǎng）＝同「鐵」；疑即鋾銼之類，與磢、㼽功用同，用金屬製成。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦄍（字卡·shuǎng）",
+   "statement": "字卡（第530部）：𦄍（shuǎng）＝《集韻》「緉𦄍，絞也」，一曰履底繩。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䫪（字卡·shuǎng）",
+   "statement": "字卡（第530部）：䫪（shuǎng）＝《玉篇》「醜也、滿也」。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傸（字卡·chuǎng）",
+   "statement": "字卡（第530部）：傸（chuǎng）＝《集韻》「惡也」。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠞮（字卡·chuǎng）",
+   "statement": "字卡（第530部）：𠞮（chuǎng）＝《集韻》「皮傷也」，擦傷。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桑（字卡·sāng）",
+   "statement": "字卡（第531部）：桑（sāng）＝甲骨文象枝葉繁茂的桑樹；引申圓韌之物、蠶事之狀。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "顙（字卡·sǎng）",
+   "statement": "字卡（第531部）：顙（sǎng）＝从頁桑聲：頟也（《說文》），額頭——如桑之鼓出。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嗓（字卡·sǎng）",
+   "statement": "字卡（第531部）：嗓（sǎng）＝从口桑聲：喉也（《集韻》），喉嚨。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "磉（字卡·sǎng）",
+   "statement": "字卡（第531部）：磉（sǎng）＝从石桑聲：柱下石（《集韻》），柱礎。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䡦（字卡·sǎng）",
+   "statement": "字卡（第531部）：䡦（sǎng）＝从車桑聲：車輞也（《集韻》），車輪外周。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsangB-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "搡（字卡·sǎng）",
+   "statement": "字卡（第531部）：搡（sǎng）＝从手桑聲：搷也（《集韻》），用力推——如蠶吐絲時左右搖擺。",
+   "boundary": "源自《系統漢語》第530－531部（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
