@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407足部二2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bde-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䎌（字卡）",
+   "statement": "䎌（cù）：《集韵》「羽齊皃」；《類篇》「羽高皃」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珿（字卡）",
+   "statement": "珿（chù）：《玉篇》「等也，齊也」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䇍（字卡）",
+   "statement": "䇍（chù）：《集韵》「齊謹也」；《篇海》「等也」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡷿（字卡）",
+   "statement": "𡷿（zhuó）：《篇海類編》「山名」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧯩（字卡）",
+   "statement": "𧯩（chù）：《广韵》「小豆也」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥒭（字卡）",
+   "statement": "𥒭（chù）：《集韵》「小石」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪕝（字卡）",
+   "statement": "𪕝（cù）：《集韵》「𪕝鼩，小鼠」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥷼（字卡）",
+   "statement": "𥷼（cù）：《玉篇》「笡，逆槍也」——掌子。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莡（字卡）",
+   "statement": "莡（cuò）：《玉篇》「行草聲」；《集韵》「草名」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "浞（字卡）",
+   "statement": "浞（zhuó）：《说文》「濡也，从水足聲」——沾湿。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bde-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踀（字卡）",
+   "statement": "踀（cù）：《龍龕》「絆足也」；《集韵》「齊謹也」。",
+   "boundary": "源自《系統漢語》第407部「足部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
