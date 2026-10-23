@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡563a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhi2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臸·zhī",
+   "statement": "臸：从二至：到也（《說文》「到也。从二至」），箭紛至；引申一致、前往、插。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晉·jìn",
+   "statement": "晉：从日从臸：進也，日出萬物進（《說文》「進也」），象日光四射如萬箭；引申按抑、插進。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "榗·jiàn",
+   "statement": "榗：从木晉聲：木也（《說文》「木也」），可作箭，箭竹。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡺽·jìn",
+   "statement": "𡺽：从山晉聲：山名（《集韻》「山名」）。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "箭·jiàn",
+   "statement": "箭：从竹前聲：矢也（《說文》「矢也」），竹高一丈可為矢。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨍬·zhēn",
+   "statement": "𨍬：从車秦聲：車聲（《集韻》），車行聲。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧎽·jìn",
+   "statement": "𧎽：从虫晉聲：蛤類（《集韻》「蛤類」），似蛤而扁有毛。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戩·jiǎn",
+   "statement": "戩：从戈晉聲：滅也（《說文》「滅也」），戩穀、福祿。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄑·zī",
+   "statement": "鄑：从邑晉聲：地名（《說文》「地名」），鄑城。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溍·jìn",
+   "statement": "溍：从水晉聲：水名（《說文》「水名」）。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縉·jìn",
+   "statement": "縉：从糸晉聲：帛赤色也（《說文》「帛赤色也」），薦紳（縉紳）。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhi2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "搢·jìn",
+   "statement": "搢：从手晉聲：插也（《說文》「插也」），搢笏。",
+   "boundary": "源自《系統漢語》第563部「臸部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
