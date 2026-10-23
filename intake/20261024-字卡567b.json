@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡567b2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lqi2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甲·jiǎ",
+   "statement": "甲：象護身硬殼（龜甲、甲蟲之甲）：鎧甲、甲胄；引申首位（天干第一）、指甲狀逼窄之物。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "狎·xiá",
+   "statement": "狎：从犬甲聲：犬可習也（《說文》「犬可習也」），親近、輕忽。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴨·yā",
+   "statement": "鴨：从鳥甲聲：鶩也，俗謂之鴨（《說文》），嘴扁腳矮、趾間有蹼。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "呷·xiá",
+   "statement": "呷：从口甲聲：吸呷也（《說文》「吸呷也」），吸食聲；甲有斂藏義。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "押·yā",
+   "statement": "押：从手甲聲：署也、按也（《玉篇》《集韻》），簽署、壓按、拘禁。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "匣·xiā",
+   "statement": "匣：从匚甲聲：匱也（《說文》「匱也」），收藏器物之箱。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柙·xiá",
+   "statement": "柙：从木甲聲：檻也，以藏虎兕（《說文》），關養禽獸之木籠。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鉀·jiǎ",
+   "statement": "鉀：从金甲聲：鎧屬（《廣韻》「鎧屬」），鎧甲；盛酒銅扁壺。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桼·qī",
+   "statement": "桼：从木兩側加點：割樹皮取汁（與「朱」同源），漆之初文（《說文》「木汁」）；引申赤黑、塗漆。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漆·qī",
+   "statement": "漆：从水桼聲：水名（《說文》漆水），因岸盛產漆樹得名；又通「桼」，塗漆。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膝·xī",
+   "statement": "膝：从卩桼聲：脛頭卩也（《說文》），膝蓋；指其有窩如割漆之口（《釋名》「膝，伸也」）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqi2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "皂·zào",
+   "statement": "皂：从白从七：橡實之房（𠧪訛為白），櫟實曰皂斗；引申黑色（可染帛）。",
+   "boundary": "源自《系統漢語》第567部「七部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
