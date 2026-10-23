@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡525a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyang3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昜（字卡·yáng）",
+   "statement": "昜（yáng）＝从日从丂：日初升、對日呼號；引申飛舉、乾旱。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "暘（字卡·yáng）",
+   "statement": "暘（yáng）＝从日昜聲：日出也（《說文》引《虞書》「暘谷」），明、日乾物。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "陽（字卡·yáng）",
+   "statement": "陽（yáng）＝从𨸏昜聲：高、明也（《說文》）；山南水北為陽。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "場（字卡·cháng）",
+   "statement": "場（cháng）＝从土昜聲：祭神之平地，或田不耕、治穀之田（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湯（字卡·tāng）",
+   "statement": "湯（tāng）＝从水昜聲：熱水、沸水（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傷（字卡·shāng）",
+   "statement": "傷（shāng）＝从人𥏻省聲：創傷，皮肉破損（《說文》）；未成人曰殤。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瘍（字卡·yáng）",
+   "statement": "瘍（yáng）＝从疒昜聲：頭瘡，盛夏熱毒，先膿後潰（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殤（字卡·shāng）",
+   "statement": "殤（shāng）＝从歺傷省聲：未成人而死，分長中下殤（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禓（字卡·yáng）",
+   "statement": "禓（yáng）＝从示昜聲：道上之祭，大約為橫死青壯（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楊（字卡·yáng）",
+   "statement": "楊（yáng）＝从木昜聲：楊樹，白花成毛球，四處飛散（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "颺（字卡·yáng）",
+   "statement": "颺（yáng）＝从風昜聲：風所飛揚（《說文》）；舟徐行、簸颺去糠。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "觴（字卡·shāng）",
+   "statement": "觴（shāng）＝从角𥏻省聲：盛滿酒的角杯，「觶實曰觴」（《說文》）。",
+   "boundary": "源自《系統漢語》第525部「昜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
