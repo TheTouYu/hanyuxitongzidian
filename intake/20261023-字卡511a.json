@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡511a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "心（字卡·xīn）",
+   "statement": "心（xīn）本部部首字：心臟→心思、感情、中心。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慶（字卡·qìng）",
+   "statement": "慶（qìng）从心从夂从鹿省：以鹿皮為贄而行賀（《說文》「行賀人也」），本義慶賀、福。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "應（字卡·yìng）",
+   "statement": "應（yìng）从心䧹聲：本義應當（《說文》「當也」），引申應對、感應。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沁（字卡·qìn）",
+   "statement": "沁（qìn）从水心聲：水名（沁水）；又滲入（「沁人心脾」）。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芯（字卡·xīn）",
+   "statement": "芯（xīn）从艸心聲：草名；又燈芯、物之中心。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訫（字卡·xìn）",
+   "statement": "訫（xìn）从言心聲：「信」之異體，取心之誠。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孞（字卡·xìn）",
+   "statement": "孞（xìn）从子心聲：「信」之古文異體。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吢（字卡·qìn）",
+   "statement": "吢（qìn）从口心聲：「吣」之本字，貓犬嘔吐。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "杺（字卡·xīn）",
+   "statement": "杺（xīn）从木心聲：木名；又車闌。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伈（字卡·xǐn）",
+   "statement": "伈（xǐn）从人心聲：「伈伈」，恐懼貌。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鈊（字卡·xīn）",
+   "statement": "鈊（xīn）从金心聲：金名，取心之聲。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldb-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "応（字卡·yìng）",
+   "statement": "応（yìng）从心雁聲：「應」之異體（日本略字）。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
