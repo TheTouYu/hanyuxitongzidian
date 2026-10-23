@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡564a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljin-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "進·jìn",
+   "statement": "進：从止从隹：象鳥行進，前也、升也、登也（《玉篇》），引申呈獻。",
+   "boundary": "源自《系統漢語》第564部「進部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "暹·xiān",
+   "statement": "暹：从日進聲：日光升也（《集韻》「日光升也」）。",
+   "boundary": "源自《系統漢語》第564部「進部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䗯·jìn",
+   "statement": "䗯：从虫進聲：蛤類（《集韻》），似蛤而扁有毛。",
+   "boundary": "源自《系統漢語》第564部「進部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧔷·jìn",
+   "statement": "𧔷：从虫晉聲：𧍧𧔷，似蛤而扁（《字彙補》），同䗯。",
+   "boundary": "源自《系統漢語》第564部「進部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璡·jīn",
+   "statement": "璡：从玉進聲：石之似玉者（《說文》「石之似玉者」）。",
+   "boundary": "源自《系統漢語》第564部「進部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥳟·jiǎn",
+   "statement": "𥳟：从竹進聲：竹名（《集韻》「竹名」）。",
+   "boundary": "源自《系統漢語》第564部「進部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "擓·kuǎi",
+   "statement": "擓：从手淮聲：揩摩也（《集韻》），形近「淮」之訛。",
+   "boundary": "源自《系統漢語》第564部「進部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "兟·shēn",
+   "statement": "兟：从二先：進也（《說文》「進也。从二先」），象人牽引前行；又眾多皃。",
+   "boundary": "源自《系統漢語》第565部「兟部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "兓·qīn",
+   "statement": "兓：从二旡：旡本與欠同（張口），二疊表大聲、會說。",
+   "boundary": "源自《系統漢語》第565部「兟部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㚘·bàn",
+   "statement": "㚘：从二夫：竝行也（《說文》「竝行也」），讀若伴侶之伴。",
+   "boundary": "源自《系統漢語》第565部「兟部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "贊·zàn",
+   "statement": "贊：从貝从兟：贊禮司儀（《周禮·司儀》），引導賓客、導引；引申分散、稱頌、聚集。",
+   "boundary": "源自《系統漢語》第565部「兟部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljin-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攢·zǎn",
+   "statement": "攢：从手贊聲：聚也（《集韻》「聚也」），攢聚。",
+   "boundary": "源自《系統漢語》第565部「兟部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
