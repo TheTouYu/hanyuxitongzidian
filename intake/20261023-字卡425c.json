@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡425c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bl3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攊（字卡·lì）",
+   "statement": "攊，lì：《广韵》「击口也」——击打口部。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡳸（字卡·lì）",
+   "statement": "𡳸，lì：《说文》「履下也」——鞋底，多层相叠。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壢（字卡·lì）",
+   "statement": "壢，lì：《集韵》「坑也」——地陷为坑。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䥶（字卡·lì）",
+   "statement": "䥶，lì：《集韵》「鬲，鼎属」——三足炊器；秸稿为柴以烧陶。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䍽（字卡·lì）",
+   "statement": "䍽，lì：《集韵》「羖䍽，山羊」；多毛曰羖䍽，或指阉羊。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥌮（字卡·lì）",
+   "statement": "𥌮，lì：《广韵》「𥌮𥉶，视明貌」——目光分明。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪙽（字卡·lì）",
+   "statement": "𪙽，lì：《集韵》「齿病」；齿疏之病。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bl3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儮（字卡·lì）",
+   "statement": "儮，lì：《集韵》「人名」——专名用字。",
+   "boundary": "源自《系統漢語》第425部「秝部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
