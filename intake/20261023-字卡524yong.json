@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡524yong2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyong-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "永（字卡·yǒng）",
+   "statement": "永（yǒng）＝从人从彳（行亦聲）：人行於道，表長遠；加水為泳。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詠（字卡·yǒng）",
+   "statement": "詠（yǒng）＝从言永聲：歌吟、長言（《說文》），禽鳥鳴亦曰詠（《正字通》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昶（字卡·chǎng）",
+   "statement": "昶（chǎng）＝从日从永：日長也，白天時間長（《新附》），引申通、明、舒。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昹（字卡·ǎi）",
+   "statement": "昹（ǎi）＝从日永聲：星名，又同昶（《金鏡》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨠕（字卡·yòng）",
+   "statement": "𨠕（yòng）＝从酉永聲：酗酒，同「醟」（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩶙（字卡·yǒng）",
+   "statement": "𩶙（yǒng）＝从魚永聲：蜀江之魚，鱗黑膚理似玉，可作鱠（《益部方物略記》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥙎（字卡·mò）",
+   "statement": "𥙎（mò）＝从示永聲：神也（《玉篇》音陌）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥿯（字卡·pài）",
+   "statement": "𥿯（pài）＝从糸𠂢聲：散絲、未緝之麻（《說文》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霢（字卡·mài）",
+   "statement": "霢（mài）＝从雨脈聲：霢霂，小雨，如人沐頭僅沾上枝（《釋名》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眽（字卡·mò）",
+   "statement": "眽（mò）＝从目𠂢聲：目財視，斜眼餘光瞥視（《說文》）。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "派（字卡·pài）",
+   "statement": "派（pài）＝从水从𠂢：別水，分支水流（《說文》）；物均分亦曰派。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "覛（字卡·mì）",
+   "statement": "覛（mì）＝从𠂢从見：衺視，斜眼略視（《說文》），覓之籀文。",
+   "boundary": "源自《系統漢語》第524部「永部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
