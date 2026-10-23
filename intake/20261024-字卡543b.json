@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡543b2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyu2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓏·lóng",
+   "statement": "瓏：从玉龍聲：玉聲（《說文》「玉聲也」），玲瓏。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑩·yíng",
+   "statement": "瑩：从玉熒聲：玉色（《說文》「玉色也」），明淨。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璽·xǐ",
+   "statement": "璽：从玉爾聲：王者印（《說文》「王者印也」），璽印。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "環·huán",
+   "statement": "環：从玉睘聲：璧屬（《說文》「璧也」），圓環、環繞。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "理·lǐ",
+   "statement": "理：从玉里聲：治玉也（《說文》），順理剖析→條理。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珍·zhēn",
+   "statement": "珍：从玉㐱聲：寶也（《說文》），珍寶、珍重。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玩·wán",
+   "statement": "玩：从玉元聲：弄也（《說文》），把玩、玩好。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "班·bān",
+   "statement": "班：从玨从刀：分瑞玉也（《說文》），分班、班次。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑞·ruì",
+   "statement": "瑞：从玉耑聲：以玉為信也（《說文》），瑞玉、祥瑞。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琢·zhuó",
+   "statement": "琢：从玉�豕聲：治玉也（《說文》），雕琢。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玟·mín",
+   "statement": "玟：从玉文聲：玉名（《說文》「玉也」）；又玟瑰。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyu2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琇·xiù",
+   "statement": "琇：从玉秀聲：玉名（《說文》「玉也」）。",
+   "boundary": "源自《系統漢語》第543部「玉部」（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
