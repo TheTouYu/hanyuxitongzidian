@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡551a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "亦·yì",
+   "statement": "亦：从大（正面人形）腋下加两点，指腋下（《说文》「人之臂亦也」）；借为副词「也」。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "夜·yè",
+   "statement": "夜：从夕亦聲：舍也（《說文》「夜，舍也。天下休舍也」），與「夕」同源。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "腋·yè",
+   "statement": "腋：从肉夜聲：人之臂亦也（《說文》「臂下也」），胳肢窩。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "掖·yè",
+   "statement": "掖：从手夜聲：以手持人臂（《說文》「以手持人臂投地也」），扶掖、掖門。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "液·yè",
+   "statement": "液：从水夜聲：津也（《說文》「津也」），流體。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "奕·yì",
+   "statement": "奕：从大亦聲：大也（《說文》「大也」），美盛、奕奕。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "帟·yì",
+   "statement": "帟：从巾亦聲：在上曰帟（《說文》「在上曰帟」），小幕。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弈·yì",
+   "statement": "弈：从廾亦聲：圍棋也（《說文》「圍棊也」）。",
+   "boundary": "源自《系統漢語》第551部「亦部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
