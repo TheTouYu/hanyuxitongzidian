@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡569c1-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshu2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痢·lì",
+   "statement": "痢：从疒利聲：瀉痢也（《玉篇》），痢疾，濕熱積滯所致。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黧·lí",
+   "statement": "黧：从黑利聲：黑而黃也（《廣韻》），面色黧黑。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睝·lí",
+   "statement": "睝：从目黎聲：目閉也（《集韻》）。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䴻·lí",
+   "statement": "䴻：从麥黎聲：𪌈䴻，餅也（《廣韻》），乾糧。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬁·lì",
+   "statement": "鬁：从髟利聲：鬎鬁（《漢典》），禿髮瘡，狀如被犁過之地。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鋫·lí",
+   "statement": "鋫：从金利聲：鑗，黑金也（《集韻》），或作鋫。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琍·lí",
+   "statement": "琍：从玉利聲：同「璃」（《篇海類編》），玻璃。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唎·lì",
+   "statement": "唎：从口利聲：聲也（《玉篇》），梵書呪語多唎字。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "峲·lǐ",
+   "statement": "峲：从山利聲：峛字之譌（《正字通》），山逐行也。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筣·lì",
+   "statement": "筣：从竹利聲：笓筣，織竹為障（《集韻》），籬笆。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢤂·lí",
+   "statement": "𢤂：从心黎聲：恨也（《說文》），一曰怠也。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠠍·lí",
+   "statement": "𠠍：从刀黎聲：直破也（《玉篇》）。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu2-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧬠·chī",
+   "statement": "𧬠：从言黎聲：䜉之譌（《字彙補》），相問不知答曰誺。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
