@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡445b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbv-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "竄（字卡·cuàn）",
+   "statement": "竄，cuàn：《说文》「匿也，从鼠在穴中」——鼠窜入穴，引申逃匿、放逐、改易文字。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "窜（字卡·cuàn）",
+   "statement": "窜，cuàn：「竄」的简化字，义同：逃匿、奔逃、删改。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠌼（字卡·huàn）",
+   "statement": "𠌼，huàn：《集韻》「患，或作𠌼」——忧患之异体。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡠛（字卡·huàn）",
+   "statement": "𡠛，huàn：《集韻》「女字」——女子名用字。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbv-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤶱（字卡·huàn）",
+   "statement": "𤶱，huàn：《集韻》「病也」——病名。",
+   "boundary": "源自《系統漢語》第445部「串部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
