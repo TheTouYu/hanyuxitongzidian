@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡520a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "章（字卡·zhāng）",
+   "statement": "章（zhāng）本部字根：刀形玉璧，引申標記、篇章。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彰（字卡·zhāng）",
+   "statement": "彰（zhāng）从彡从章：錯綜的花紋色彩（《說文》「文彰也」），引申顯明。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璋（字卡·zhāng）",
+   "statement": "璋（zhāng）从玉章聲：半圭為璋（《說文》），禮器、憑信。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "障（字卡·zhàng）",
+   "statement": "障（zhàng）从𨸏章聲：阻隔（《說文》「隔也」），步障、屏障。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "墇（字卡·zhàng）",
+   "statement": "墇（zhàng）从土章聲：壅塞、隔障（《說文》「擁也」）。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幛（字卡·zhàng）",
+   "statement": "幛（zhàng）从巾章聲：以布帛題字的慶弔禮物，又遮蔽。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嶂（字卡·zhàng）",
+   "statement": "嶂（zhàng）从山章聲：高險如屏之山峰（《集韻》）。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瘴（字卡·zhàng）",
+   "statement": "瘴（zhàng）从疒章聲：山林濕熱蒸鬱之癘氣（《玉篇》「瘴癘也」）。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漳（字卡·zhāng）",
+   "statement": "漳（zhāng）从水章聲：漳河（《說文》），清濁二源。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樟（字卡·zhāng）",
+   "statement": "樟（zhāng）从木章聲：樟樹，香氣而木質棕紅（印泥之色）。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱆（字卡·zhāng）",
+   "statement": "鱆（zhāng）从魚章聲：章魚，八足，能變色，本色紫紅。",
+   "boundary": "源自《系統漢語》第520部「章部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
