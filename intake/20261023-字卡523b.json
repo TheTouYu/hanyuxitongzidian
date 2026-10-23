@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡523b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "庠（字卡·xiáng）",
+   "statement": "庠（xiáng）从广羊聲：禮官養老之所，夏校殷庠周序（《說文》），即學校。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羋（字卡·mǐ）",
+   "statement": "羋（mǐ）从羊象聲氣上出：羊鳴也（《說文》），與「牟」同意。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蛘（字卡·yǎng）",
+   "statement": "蛘（yǎng）从虫羊聲：搔蛘（《說文》），本指叮咬致癢之蟎蝨。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩰱（字卡·shāng）",
+   "statement": "𩰱（shāng）从鬲羊聲：烹煮（《說文》「煑也」）。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "葁（字卡·jiāng）",
+   "statement": "葁（jiāng）从艸姜聲：生薑（俗䕬字），佐料去羊肉臊味。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䭐（字卡·yàng）",
+   "statement": "䭐（yàng）从食羊聲：餌也、糕餅（《玉篇》）。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姜（字卡·jiāng）",
+   "statement": "姜（jiāng）从女羊聲：神農居姜水以為姓（《說文》），借為女子美稱。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "垟（字卡·yáng）",
+   "statement": "垟（yáng）从土羊聲：土精、墳垟土怪（《玉篇》）。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眻（字卡·yáng）",
+   "statement": "眻（yáng）从目羊聲：眉間曰眻，一曰目美（《集韻》）。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴹（字卡·yáng）",
+   "statement": "鴹（yáng）从鳥羊聲：𪄲鴹一足，舞則天下雨（《字統》）。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦭵（字卡·yáng）",
+   "statement": "𦭵（yáng）从艸羊聲：𦭵葲，蜀羊泉，蔓生白毛，漿果紅（藥名）。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㺊（字卡·yàng）",
+   "statement": "㺊（yàng）从犬羊聲：獸如師子，咋人則疾，即「恙」（《神異經》）。",
+   "boundary": "源自《系統漢語》第523部「羊部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
