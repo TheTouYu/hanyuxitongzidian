@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡550b2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lhuo2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "褧·jiǒng",
+   "statement": "褧：从衣耿聲：檾也（《說文》「檾也」），罩衣（裯）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薠·fán",
+   "statement": "薠：从艸煩聲：青薠，草名（《說文》引《詩》）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熲·jiǒng",
+   "statement": "熲：从火頃聲：火光也（《說文》「火光也」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "赦·shè",
+   "statement": "赦：从攴赤聲：置也（《說文》「置也」），赦免、寬宥。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "郝·hǎo",
+   "statement": "郝：从邑赤聲：右扶風鄠盩厔鄉（《說文》），地名、姓。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "赫·hè",
+   "statement": "赫：从二赤：火赤貌（《說文》「火赤皃」），顯赫。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚇·xià",
+   "statement": "嚇：从口赫聲：以口拒人（《說文》「以口距人」），恐嚇。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "赧·nǎn",
+   "statement": "赧：从赤𡰥聲：面慚赤也（《說文》「面慚赤也」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "赩·xì",
+   "statement": "赩：从赤色：赤色（《說文》「赤色也」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "浾·chēng",
+   "statement": "浾：从水赤聲：赤汁（《說文》「赤汁」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螫·shì",
+   "statement": "螫：从虫赦聲：毒蟲刺人（《說文》「蟲行毒也」）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "焃·hè",
+   "statement": "焃：从火赫聲：火赤貌（《集韻》）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
