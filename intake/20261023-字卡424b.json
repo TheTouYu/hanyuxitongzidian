@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡424b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橃（字卡）",
+   "statement": "橃（fá）：《说文》「海中大船」——同「筏」。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癈（字卡）",
+   "statement": "癈（fèi）：《说文》「固病也」——顽固不治之病、残疾；又废弃。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廢（字卡）",
+   "statement": "廢（fèi）：《说文》「屋顿也」——房屋由立而突然垮下；引申退、灭、止。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱍（字卡）",
+   "statement": "鱍（bō）：《集韵》「鱼游貌」；《广韵》「鱼掉尾也」。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹳（字卡）",
+   "statement": "蹳（bō）：《集韵》「足跋物」——用脚拨开、踢。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潑（字卡）",
+   "statement": "潑（pō）：《玉篇》「水漏也」；《集韵》「弃水也」——液体倒掉使散开，引申胡乱蛮横。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠷑（字卡）",
+   "statement": "𠷑（pō）：《玉篇》「妄说也」——胡说。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "墢（字卡）",
+   "statement": "墢（fá）：《集韵》「垡，耕起土也」——耕地翻起的土块。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "發（字卡）",
+   "statement": "發（fā）：《说文》「射发也」——箭离弦；引申明、进、行、驾车。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襏（字卡）",
+   "statement": "襏（bó）：《广韵》「襏襫，蓑，雨衣也」。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
