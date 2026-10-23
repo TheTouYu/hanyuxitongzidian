@@ -1,0 +1,72 @@
+{
+ "schema_version": 1,
+ "intent": "字卡479a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcg-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爰（字卡·yuán）",
+   "statement": "爰，yuán：本部部首字：兩手牽藤相引→攀援、援助、於是。",
+   "boundary": "源自《系統漢語》第479部爰部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcg-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "援（字卡·yuán）",
+   "statement": "援，yuán：从手爰聲：《說文》「引也」，攀引、援救、援引。",
+   "boundary": "源自《系統漢語》第479部爰部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcg-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "媛（字卡·yuán）",
+   "statement": "媛，yuán：从女爰聲：美女，《詩》「邦之媛也」。",
+   "boundary": "源自《系統漢語》第479部爰部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcg-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "緩（字卡·huǎn）",
+   "statement": "緩，huǎn：从糸爰聲：繩鬆則緩，引申舒緩、寬緩。",
+   "boundary": "源自《系統漢語》第479部爰部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcg-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "暖（字卡·nuǎn）",
+   "statement": "暖，nuǎn：从日爰聲：日氣溫和，暖如相援而近。",
+   "boundary": "源自《系統漢語》第479部爰部（卷七十八 夒）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
