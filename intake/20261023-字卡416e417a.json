@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡416e417a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䐉（字卡）",
+   "statement": "䐉（zì）：《玉篇》「腊䐉也」；《正字通》「讹字，《说文》无䐉字」，大约即「腦」之讹。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䣎（字卡）",
+   "statement": "䣎（zī）：《集韵》「乡名」；《正字通》「讹字」。",
+   "boundary": "源自《系統漢語》第416部「𡿧部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "宰（字卡）",
+   "statement": "宰（zǎi）：从宀从辛——屋下主刀之人，屠夫、分祭肉者。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "榟（字卡）",
+   "statement": "榟（zǐ）：《说文》「楸也」——梓树，主干通直平滑高大，号称「百木长」「木王」。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縡（字卡）",
+   "statement": "縡（zài）：《说文》「事也」；《玉篇》「载也」；又同「缯」，丝织品总名。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㱰（字卡）",
+   "statement": "㱰（zǎi）：《集韵》「灭也」——灭绝。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣪮（字卡）",
+   "statement": "𣪮（zǎi）：《集韵》「杀也，通作宰」——宰之或体。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤌊（字卡）",
+   "statement": "𤌊（zǎi）：《集韵》「烹也」——烹煮。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "滓（字卡）",
+   "statement": "滓（zǐ）：《说文》「淀也」——沉淀下来的渣滓；疑本指用溺水法宰杀牲畜。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䔂（字卡）",
+   "statement": "䔂（zǐ）：《说文》「羹菜也」——菜肉作的羹汁，取「滓」意。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦞤（字卡）",
+   "statement": "𦞤（zǐ）：《集韵》「食所遗也」——剩余食物；或带骨肉酱；又「囟」之或体。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䏁（字卡）",
+   "statement": "䏁（zǎi）：《说文》「聋也，秦晋听而不闻谓之䏁」——半聋，取「滓」意：耳被堵住。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
