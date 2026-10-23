@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡473a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lca-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢌳（字卡·kuí）",
+   "statement": "𢌳，kuí：本部部首字：顴骨→弓弩柄（持弩拊）。",
+   "boundary": "源自《系統漢語》第472－473部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lca-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頯（字卡·kuí）",
+   "statement": "頯，kuí：从頁𢌳聲：《說文》「權也」，顴骨；《莊子》「其顙頯」。",
+   "boundary": "源自《系統漢語》第472－473部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lca-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癸（字卡·guǐ）",
+   "statement": "癸，guǐ：本部部首字：測影畫線（揆之初文）；天干第十，借為序數。",
+   "boundary": "源自《系統漢語》第472－473部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lca-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揆（字卡·kuí）",
+   "statement": "揆，kuí：从手癸聲：《說文》「葵也」，《廣雅》「度也」，揆度、揆理。",
+   "boundary": "源自《系統漢語》第472－473部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
