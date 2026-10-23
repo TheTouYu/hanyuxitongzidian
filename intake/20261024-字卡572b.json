@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡572b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llie-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "列·liè",
+   "statement": "列：从刀从𡿪：分解也（《說文》），切開如散架骸骨；引申行列、位序、陳布。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裂·liè",
+   "statement": "裂：从衣列聲：繒餘也（《說文》），裁衣剩餘之邊角；引申坼破、分裂。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蛚·liè",
+   "statement": "蛚：从蟲列聲：蜻蛚（《說文》），蟋蟀之類。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "栵·liè",
+   "statement": "栵：从木列聲：栭也（《說文》「栭也」），小栗；又行次。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "烈·liè",
+   "statement": "烈：从火列聲：火猛也（《說文》「火猛也」），引申剛正、功業。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "颲·liè",
+   "statement": "颲：从風列聲：烈風也（《說文》「烈風也」），暴風。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "咧·liě",
+   "statement": "咧：从口列聲：咧開（《集韻》），嘴角向兩旁伸展。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴷·liè",
+   "statement": "鴷：从鳥列聲：啄木也（《說文》），啄木鳥。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "冽·liè",
+   "statement": "冽：从水列聲：寒也（《說文》「寒也」），水寒、清冽。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "迾·liè",
+   "statement": "迾：从辵列聲：遮也（《說文》「遮也」），列隊遮止。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茢·liè",
+   "statement": "茢：从艸列聲：苕帚（《說文》），葦花可掃除。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "例·lì",
+   "statement": "例：从人列聲：比也（《說文》「比也」），條例、例證。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
