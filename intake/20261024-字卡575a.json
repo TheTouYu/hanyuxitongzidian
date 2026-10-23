@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡575a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ltiao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠧪·tiáo",
+   "statement": "𠧪：象草木子實垂𠧪𠧪然（《說文》），籀文三𠧪為𠧪。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "卣·yǒu",
+   "statement": "卣：从皿从𠧪：中樽器也（《玉篇》），古代盛酒器（商代青銅卣）。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦵵·yóu",
+   "statement": "𦵵：从艸𠧴聲：艸也（《說文》），或作莤（以茅束灌鬯酒）。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢈞·yóu",
+   "statement": "𢈞：从广𠧴聲：檐㮰謂之庮（《集韻》），久屋朽木。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧡹·yòu",
+   "statement": "𧡹：从見𠧴聲：下視深也（《說文》），向下看幽深處。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "栗·lì",
+   "statement": "栗：从木从𠧪：栗木（《說文》「栗木也」），果實；假借戰栗。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粟·sù",
+   "statement": "粟：从米从𠧪：穀實（《說文》「嘉穀實也」），去殼即小米。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑮·lì",
+   "statement": "瑮：从玉栗聲：玉英華相帶如瑟弦（《說文》）。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷅·lì",
+   "statement": "鷅：从鳥栗聲：鷅鶹（《集韻》），鳥名，似鷂。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凓·lì",
+   "statement": "凓：从冫栗聲：寒也（《說文》「凓，寒也」），寒氣逼人。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慄·lì",
+   "statement": "慄：从心栗聲：懼也（《廣韻》），戰慄、恐懼。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ltiao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溧·lì",
+   "statement": "溧：从水栗聲：水名（《說文》「溧水，出丹陽」），溧陽。",
+   "boundary": "源自《系統漢語》第575部「𠧪部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
