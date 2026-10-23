@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡532a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxunj-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨛜（字卡·xiàng）",
+   "statement": "字卡（第532部𨛜）：甲骨文从两跪跽之人相对，象相向，嚮之初文；引申亲密、乡党。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄉（字卡·xiāng）",
+   "statement": "字卡（第532部𨛜）：从𨛜皀聲：本指共同飲食的氏族部落，引申行政單位（萬二千五百家為鄉）。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "卿（字卡·qīng）",
+   "statement": "字卡（第532部𨛜）：从卯皀聲：古代高級官員之稱（《說文》「章也」），秦漢後君呼臣、夫呼妻。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巷（字卡·xiàng）",
+   "statement": "字卡（第532部𨛜）：从𨛜从共：里中道（《說文》），直為街、曲為巷。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚮（字卡·xiàng）",
+   "statement": "字卡（第532部𨛜）：从鄉从向：面也，與向通用；又響應、享受。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饗（字卡·xiǎng）",
+   "statement": "字卡（第532部𨛜）：从食从鄉：鄉人相聚宴飲（《說文》），設盛禮飯賓。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薌（字卡·xiāng）",
+   "statement": "字卡（第532部𨛜）：从艸鄉聲：穀氣（《說文》），亦作香。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曏（字卡·xiàng）",
+   "statement": "字卡（第532部𨛜）：从日鄉聲：不久以前（《說文》）；又頃刻，即「晌」。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膷（字卡·xiāng）",
+   "statement": "字卡（第532部𨛜）：从肉鄉聲：牛羹（《廣韻》），牛之美者、香也。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "響（字卡·xiǎng）",
+   "statement": "字卡（第532部𨛜）：从音鄉聲：聲也（《說文》），回聲相應。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蠁（字卡·xiǎng）",
+   "statement": "字卡（第532部𨛜）：从虫鄉聲：知聲蟲（《說文》），即地蛹、蠛蠓。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxunj-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤩬（字卡·xiǎng）",
+   "statement": "字卡（第532部𨛜）：从玉鄉聲：珦之或體，玉也（《集韻》）。",
+   "boundary": "源自《系統漢語》第532部「𨛜部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
