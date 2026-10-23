@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "intent": "字卡500a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "工（字卡·gōng）",
+   "statement": "工，gōng：本部部首字：規矩之器→工匠、工巧、工程、擅長。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巨（字卡·jù）",
+   "statement": "巨，jù：象人手持矩之形：矩所以為方，引申巨大、豈。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巧（字卡·qiǎo）",
+   "statement": "巧，qiǎo：从工丂聲：工之善者曰巧（《說文》「技也」）。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攻（字卡·gōng）",
+   "statement": "攻，gōng：从攴工聲：擊也（《說文》「擊也」），引申攻治。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "功（字卡·gōng）",
+   "statement": "功，gōng：从力工聲：以力成事曰功，取工之成就。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扛（字卡·káng）",
+   "statement": "扛，káng：从手工聲：以肩舉物（《說文》「橫關對舉也」）。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "江（字卡·jiāng）",
+   "statement": "江，jiāng：从水工聲：長江、大川，取工之聲。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "空（字卡·kōng）",
+   "statement": "空，kōng：从穴工聲：穴中空虛（《說文》「竅也」），引申虛、天。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孔（字卡·kǒng）",
+   "statement": "孔，kǒng：从乙从子：象乳子之形，本義通、甚；借為孔竅。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "項（字卡·xiàng）",
+   "statement": "項，xiàng：从頁工聲：頸後曰項，引申條目、款項。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汞（字卡·gǒng）",
+   "statement": "汞，gǒng：从水工聲：水銀，其性流走而固。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貢（字卡·gòng）",
+   "statement": "貢，gòng：从貝工聲：獻功於上曰貢（《說文》「獻功也」）。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邛（字卡·qióng）",
+   "statement": "邛，qióng：从邑工聲：地名（邛崍），又「邛邛」獸名。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釭（字卡·gāng）",
+   "statement": "釭，gāng：从金工聲：車轂中鐵（《說文》「車轂中鐵也」），又燈。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcu-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仝（字卡·tóng）",
+   "statement": "仝，tóng：从人工聲：「同」之異體，取工之聲。",
+   "boundary": "源自《系統漢語》第500部工部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
