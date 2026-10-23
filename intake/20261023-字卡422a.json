@@ -1,0 +1,20 @@
+{
+ "schema_version": 1,
+ "intent": "字卡422a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "克（字卡）",
+   "statement": "克（kè）：本部部首字——从革从由，脱脂加油使皮柔软；引申制服、战胜。",
+   "boundary": "源自《系統漢語》第422部「克部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
