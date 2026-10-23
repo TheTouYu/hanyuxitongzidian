@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡419c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茇（字卡）",
+   "statement": "茇（bá）：《说文》「草根也」——春草根枯，引之而发土为拨；又草之白华为茇、荜茇（柴门草舍）。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髮（字卡）",
+   "statement": "髮（fà）：《说文》「根也」；《释名》「髮，拔也，拔擢而出也」——头发。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "胈（字卡）",
+   "statement": "胈（bá）：《正字通》「肤毳皮，又股上小毛」；《集韵》「白肉也」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼥（字卡）",
+   "statement": "鼥（bá）：《集韵》「鼠肥者」——旱獭本名；皮可为裘，甚暖、湿不能透。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袚（字卡）",
+   "statement": "袚（bò）：《说文》「蛮夷衣，一曰蔽膝」——系在衣前的大巾，如今围兜。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "帗（字卡）",
+   "statement": "帗（bō）：《说文》「一幅巾也」——帛幅二尺四寸；又乐舞所执。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "韍（字卡）",
+   "statement": "韍（fú）：《说文》「巿，韠也——上古衣蔽前而已，巿以象之」；天子朱巿、诸侯赤巿。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黻（字卡）",
+   "statement": "黻（fú）：《说文》「黑与青相次文」——礼服上黑青相间的花纹，其色正如蒙古旱獭。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢇷（字卡）",
+   "statement": "𢇷（bá）：《说文》「舍也」——屋舍；《玉篇》「草舍也，今作茇」。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鈸（字卡）",
+   "statement": "鈸（bó）：《玉篇》「铃也」——铜钹，南齐穆士素所造，相击以和乐。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盋（字卡）",
+   "statement": "盋（bō）：《新附》「盋器，盂属」——即钵，食器。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞂（字卡）",
+   "statement": "瞂（fá）：《说文》「盾也」——盾牌。",
+   "boundary": "源自《系統漢語》第419部「犮部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
