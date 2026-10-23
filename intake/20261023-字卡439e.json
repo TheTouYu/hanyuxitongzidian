@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡439e2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbs-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹁（字卡·pián）",
+   "statement": "蹁，pián：《说文》「足不正也」；一曰拖后足马；又蹁跹，旋行貌。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碥（字卡·biǎn）",
+   "statement": "碥，biǎn：《玉篇》收为石名，指水中沙洲、崖岸之石（原稿仅列字族，未另立专条）。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惼（字卡·biǎn）",
+   "statement": "惼，biǎn：《玉篇》「急也」——心气褊急。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "媥（字卡·piān）",
+   "statement": "媥，piān：《广韵》「身轻便也」——体轻貌。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煸（字卡·biān）",
+   "statement": "煸，biān：《集韵》「火干也」——以火烘烤使干。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶣（字卡·piān）",
+   "statement": "鶣，piān：《集韵》「鶣鷃，鸟名」——小鸟。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糄（字卡·biān）",
+   "statement": "糄，biān：《集韵》「米也」——米屑。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "犏（字卡·piān）",
+   "statement": "犏，piān：《集韵》「犏牛，出西番」——牦牛与黄牛杂交之牛。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騗（字卡·piàn）",
+   "statement": "騗，piàn：《字彙》「躍而上馬」——骗马；今「骗」本字，引申欺骗。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "褊（字卡·biǎn）",
+   "statement": "褊，biǎn：《说文》「衣小也」——衣狭；引申狭隘、褊急。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪉱（字卡·biàn）",
+   "statement": "𪉱，biàn：《玉篇》「鹽也」——盐。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbs-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦄒（字卡·biān）",
+   "statement": "𦄒，biān：《集韵》「編也」——编联。",
+   "boundary": "源自《系統漢語》第439部「扁部」（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
