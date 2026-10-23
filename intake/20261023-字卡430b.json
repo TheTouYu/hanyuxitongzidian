@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡430b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lb4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悷（字卡·lì）",
+   "statement": "悷，lì：《集韵》「懔悷，悲貌」——悲痛欲哭之状。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錑（字卡·lèi）",
+   "statement": "錑，lèi：《玉篇》「平版具也」；《集韵》「钻也」——凿子一类工具。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䓞（字卡·lì）",
+   "statement": "䓞，lì：《说文》「艸也，可以染留黄」——即狗尾巴草，一名戾草，可染黄。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "綟（字卡·lì）",
+   "statement": "綟，lì：《说文》「帛戾艸染色」——帛色黑而黄；东海有草名䓞，染此色因名綟。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㑦（字卡·lì）",
+   "statement": "㑦，lì：《广韵》「怒也，又很㑦也」——本作戾，俗作㑦。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥓎（字卡·lù）",
+   "statement": "𥓎，lù：《广韵》「硉矹，石崖不稳貌」——石崖高危不稳。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㪐（字卡·lù）",
+   "statement": "㪐，lù：《玉篇》「㪐㩿，不滑利」——不顺畅、不稳。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "捩（字卡·liè）",
+   "statement": "捩，liè：《正韵》「琵琶拨也，或作棙」；《增韵》「紾也」，拗折。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨁸（字卡·lù）",
+   "statement": "𨁸，lù：《广韵》「𨁸䠈，行不进也」；又跛足。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翊（字卡·yì）",
+   "statement": "翊，yì：从羽立声，羽毛支起、展翅欲飞——翼之初文；转义辅助。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥡪（字卡·yì）",
+   "statement": "𥡪，yì：《集韵》「黍稷蕃芜貌」，亦作翼——禾稼繁盛如展翅。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熤（字卡·yì）",
+   "statement": "熤，yì：《集韵》「人名」——后魏有张熤。",
+   "boundary": "源自《系統漢語》第430－431部（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
