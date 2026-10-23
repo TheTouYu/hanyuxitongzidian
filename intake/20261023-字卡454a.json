@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡454a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbf-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沅（字卡·yuán）",
+   "statement": "沅，yuán：《说文》「水，出牂牁故且蘭，東北入江」——沅江。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芫（字卡·yán）",
+   "statement": "芫，yán：《说文》「魚毒也」——芫花（毒鱼）、芫荽（香菜）。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "冠（字卡·guān）",
+   "statement": "冠，guān：《说文》「絭也，所以絭髮，弁冕之總名」——帽子；guàn 加冠、居首。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼋（字卡·yuán）",
+   "statement": "鼋，yuán：《说文》「大鼈也」——大鳖，元有大义。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頑（字卡·wán）",
+   "statement": "頑，wán：《说文》「㨡頭也」——头钝难劈，引申愚钝、顽固。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "完（字卡·wán）",
+   "statement": "完，wán：《说文》「全也，从宀元聲」——屋宇完好，引申完整、完毕。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "阮（字卡·ruǎn）",
+   "statement": "阮，ruǎn：《说文》「代郡五阮關也」——关名；后为姓、乐器名（阮咸）。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "杬（字卡·wán）",
+   "statement": "杬，wán：《说文》「木也」——木名，皮可煎汁藏果。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邧（字卡·yuán）",
+   "statement": "邧，yuán：《说文》「地名」——邑名。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbf-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "坃（字卡·yuán）",
+   "statement": "坃，yuán：《集韵》「地名」——地名用字。",
+   "boundary": "源自《系統漢語》第454部「元部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
