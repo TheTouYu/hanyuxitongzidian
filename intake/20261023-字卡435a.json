@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡435a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嬏（字卡·fān）",
+   "statement": "嬏，fān：《集韵》「女字」——女子人名用字。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥢌（字卡·fán）",
+   "statement": "𥢌，fán：《集韵》「稻名」——稻之一种。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢐲（字卡·fán）",
+   "statement": "𢐲，fán：《玉篇》「养生也」；《集韵》「生育也」——生育蕃衍。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䮳（字卡·fán）",
+   "statement": "䮳，fán：《正字通》「生养蕃也，经传通作蕃」——马蕃息。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㢖（字卡·pān）",
+   "statement": "㢖，pān：《玉篇》「峙屋也」——积储之屋；又储物。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娉（字卡·pìn）",
+   "statement": "娉，pìn：《说文》「问也，从女甹声」——媒人问名、邀约婚嫁；娉婷美貌。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "聘（字卡·pìn）",
+   "statement": "聘，pìn：《说文》「访也，从耳甹声」——访问、聘问。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠷓（字卡·xīn）",
+   "statement": "𠷓，xīn：《说文》「声也，从只甹声，读若声」——语气助词。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梬（字卡·yǐng）",
+   "statement": "梬，yǐng：《说文》「枣也，似柿」——黑枣，柿树砧木。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䛣（字卡·pīng）",
+   "statement": "䛣，pīng：《集韵》「言也」；又「䛣譠，不决」——言语不决。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "俜（字卡·pīng）",
+   "statement": "俜，pīng：《说文》「使也，从人甹声」——放任、任侠。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbb-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢖊（字卡·pīng）",
+   "statement": "𢖊，pīng：《说文》「使也，从彳䛣声」——使令、放任而行。",
+   "boundary": "源自《系統漢語》第434－435部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
