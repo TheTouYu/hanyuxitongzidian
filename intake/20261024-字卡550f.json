@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡550f2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lhuo6-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷦·jiāo",
+   "statement": "鷦：从鳥焦聲：鷦鷯也（《說文》「鷦鷯也」），巧婦鳥。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕉·jiāo",
+   "statement": "蕉：从艸焦聲：生枲也（《說文》「生枲也」），芭蕉、蕉麻。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燋·jiāo",
+   "statement": "燋：从火焦聲：所以然持火也（《說文》「所以然持火也」），火把；又灼焦。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "顦·qiáo",
+   "statement": "顦：从頁焦聲：顦顇也（《說文》「顦顇也」），枯瘦憔悴。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嫶·qiáo",
+   "statement": "嫶：从女焦聲：憔悴（《集韻》），面瘦弱。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟭·jiāo",
+   "statement": "蟭：从虫焦聲：蟭螟，螳螂卵房（《集韻》）。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樵·qiáo",
+   "statement": "樵：从木焦聲：散木也（《說文》「散木也」），采薪、樵夫。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醮·jiào",
+   "statement": "醮：从酉焦聲：冠娶禮祭也（《說文》「冠娶禮祭也」），再醮。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潐·jiào",
+   "statement": "潐：从水焦聲：盡也（《說文》「盡也」），水盡。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "噍·jiào",
+   "statement": "噍：从口焦聲：齧也（《說文》「齧也」），嚼食。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鐎·jiāo",
+   "statement": "鐎：从金焦聲：鐎斗也（《說文》「鐎斗也」），溫器。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhuo6-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譙·qiào",
+   "statement": "譙：从言焦聲：嬈譙也（《說文》），責讓；譙樓。",
+   "boundary": "源自《系統漢語》第550部「火部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
