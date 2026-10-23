@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡510a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcx-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼎（字卡·dǐng）",
+   "statement": "鼎，dǐng：本部部首字：三足兩耳之煮器→寶器、權威、鼎立。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貞（字卡·zhēn）",
+   "statement": "貞，zhēn：从卜貝（一說从鼎省）：卜問吉凶曰貞（《說文》「卜問也」），假借為正、堅。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "偵（字卡·zhēn）",
+   "statement": "偵，zhēn：从人貞聲：暗中察看（「偵察」），取貞之察問。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楨（字卡·zhēn）",
+   "statement": "楨，zhēn：从木貞聲：築牆時立的木柱（《說文》「剛木也」），引申楨幹。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禎（字卡·zhēn）",
+   "statement": "禎，zhēn：从示貞聲：吉祥（《說文》「祥也」）。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幀（字卡·zhēn）",
+   "statement": "幀，zhēn：从巾貞聲：畫幅（「裝幀」），取貞之正、定。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湞（字卡·zhēn）",
+   "statement": "湞，zhēn：从水貞聲：水名（湞水）。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "典（字卡·diǎn）",
+   "statement": "典，diǎn：本部部首字：兩手捧簡冊→典籍、常法、典禮。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcx-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "腆（字卡·tiǎn）",
+   "statement": "腆，tiǎn：从肉典聲：豐厚（《說文》「設膳腆腆也」），引申靦腆。",
+   "boundary": "源自《系統漢語》第509－510部（卷八十三 鼎）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
