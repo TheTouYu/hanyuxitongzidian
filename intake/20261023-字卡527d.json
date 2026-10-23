@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡527d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshang2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橖（字卡·táng）",
+   "statement": "橖（táng）＝《唐韻》「車橖也」、《集韻》「車木」；又音 chēng，柱也。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嫦（字卡·cháng）",
+   "statement": "嫦（cháng）＝《正字通》「俗姮字」，人名用字（嫦娥）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䉎（字卡·táng）",
+   "statement": "䉎（táng）＝《廣韻》「罩也」，竹製罩具。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鞝（字卡·zhǎng）",
+   "statement": "鞝（zhǎng）＝《玉篇》「扇安皮也」，扇形鞍皮；或指縫合鞋幫。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "償（字卡·cháng）",
+   "statement": "償（cháng）＝《說文》「還也」；《廣韻》「報也、當也、復也」。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "埫（字卡·chǒng）",
+   "statement": "埫（chǒng）＝《廣韻》「埫塎，不安」；又音 shǎng，十畝為一埫。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪄹（字卡·cháng）",
+   "statement": "𪄹（cháng）＝《集韻》「䳯𪄹，鳥名，或从隹」。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徜（字卡·cháng）",
+   "statement": "徜（cháng）＝《玉篇》「徜徉，猶徘徊也」，自由往來。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惝（字卡·tǎng）",
+   "statement": "惝（tǎng）＝《玉篇》「惝怳，失志不悅皃」，失意無所適從。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "倘（字卡·tǎng）",
+   "statement": "倘（tǎng）＝《集韻》「止皃，一曰自失皃」，驚疑欲止；又音 cháng，倘佯＝徜徉。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趟（字卡·tāng）",
+   "statement": "趟（tāng）＝《廣韻》「䞴趟，躍跳」；今音 tāng 從淺水走過、tàng 走動次數。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshang2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淌（字卡·tǎng）",
+   "statement": "淌（tǎng）＝《玉篇》「大波」；今義流出、流下。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
