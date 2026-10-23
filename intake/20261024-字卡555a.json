@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡555a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyue-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樂·lè/yuè",
+   "statement": "樂：从絲从木：絲弦繃木為琴瑟（羅振玉說），五聲八音總名；又指柞樹（櫟之初文）。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藥·yào",
+   "statement": "藥：从艸樂聲：治病艸（《說文》「治病艸」），藥物。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤻲·liáo",
+   "statement": "𤻲：从疒樂聲：治也（《說文》「治也」），即療。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚛·hù",
+   "statement": "嚛：从口樂聲：食辛也（《說文》「食辛也」）。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "纅·yào",
+   "statement": "纅：从糸樂聲：絲色也（《說文》「絲色也」）。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓅·lì",
+   "statement": "瓅：从玉樂聲：玉光（《集韻》），玓瓅。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鑠·shuò",
+   "statement": "鑠：从金樂聲：銷金也（《說文》「銷金也」），光明、閃爍。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爍·shuò",
+   "statement": "爍：从火樂聲：灼爍，光也（《說文》「灼爍，光也」）。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "皪·lì",
+   "statement": "皪：从白樂聲：白皃（《集韻》），鮮明。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "櫟·lì",
+   "statement": "櫟：从木樂聲：木也（《說文》「木也」），柞樹、橡實。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "礫·lì",
+   "statement": "礫：从石樂聲：小石也（《說文》「小石也」）。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyue-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轢·lì",
+   "statement": "轢：从車樂聲：車所踐也（《說文》「車所踐也」），碾壓。",
+   "boundary": "源自《系統漢語》第555部「樂部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
