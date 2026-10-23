@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡470a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbx-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "龜（字卡·guī）",
+   "statement": "龜，guī：本部部首字：靈龜→貨幣、進獻；龜甲亦占卜之具。",
+   "boundary": "源自《系統漢語》第469－470部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓦（字卡·wǎ）",
+   "statement": "瓦，wǎ：本部部首字：屋瓦→陶器總名。",
+   "boundary": "源自《系統漢語》第469－470部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓶（字卡·píng）",
+   "statement": "瓶，píng：从缶并声（瓦部字）：汲水器，小口大腹，取并合之意。",
+   "boundary": "源自《系統漢語》第469－470部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甌（字卡·ōu）",
+   "statement": "甌，ōu：从瓦區声：小盆，取區藏之意。",
+   "boundary": "源自《系統漢語》第469－470部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓴（字卡·líng）",
+   "statement": "瓴，líng：从瓦令声：盛水瓶，屋上仰瓦承溜亦曰瓴。",
+   "boundary": "源自《系統漢語》第469－470部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓮（字卡·wèng）",
+   "statement": "瓮，wèng：从瓦公声：大腹敛口陶器，取公（中空）之意。",
+   "boundary": "源自《系統漢語》第469－470部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbx-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓷（字卡·cí）",
+   "statement": "瓷，cí：从瓦次声：以高嶺土燒成，堅致似瓦而細。",
+   "boundary": "源自《系統漢語》第469－470部（卷七十七 蛙）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
