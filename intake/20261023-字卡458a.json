@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡458a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "炫（字卡·xuàn）",
+   "statement": "炫，xuàn：《说文》「燿也」——火光炫耀；引申炫示。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眩（字卡·xuàn）",
+   "statement": "眩，xuàn：《说文》「目無常主也」——眼花缭乱、眩惑。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鉉（字卡·xuàn）",
+   "statement": "鉉，xuàn：《说文》「舉鼎也」——《易》「鼎黃耳金鉉」：举鼎的横杠。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昡（字卡·xuàn）",
+   "statement": "昡，xuàn：《集韵》「日光也」——日光炫耀。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玅（字卡·miào）",
+   "statement": "玅，miào：「妙」之异体——微妙、美妙，取幽玄难测。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袨（字卡·xuàn）",
+   "statement": "袨，xuàn：《说文》「盛服也」——黑色盛服。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盷（字卡·xuán）",
+   "statement": "盷，xuán：《集韵》「目大也」——目大而转。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "員（字卡·yuán）",
+   "statement": "員，yuán：《说文》「物數也，从貝口聲」——本象鼎圆口（圆之初文），引申员数。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "圓（字卡·yuán）",
+   "statement": "圓，yuán：《说文》「圜全也」——圆形、圆满。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "隕（字卡·yǔn）",
+   "statement": "隕，yǔn：《说文》「從高下也」——从高处坠落。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "損（字卡·sǔn）",
+   "statement": "損，sǔn：《说文》「減也」——减少、损失。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殞（字卡·yǔn）",
+   "statement": "殞，yǔn：《集韵》「歿也」——死亡、陨落。",
+   "boundary": "源自《系統漢語》第458－459部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
