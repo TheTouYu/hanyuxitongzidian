@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡570a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljie-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "丯·jiè",
+   "statement": "丯：从七上下各刻一橫：鍥刻紋路之形（《釋名》「契，刻也」），刻識其數。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡕗·hài",
+   "statement": "𡕗：从夂丯聲：相遮要害也（《說文》），要害處立柵欄為障。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "砉·xū",
+   "statement": "砉：从石丯聲：物相離聲（《廣韻》「砉然」），刻石之聲→迅疾、豁然。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湱·huò",
+   "statement": "湱：从水丯聲：漰湱大波相激聲（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騞·huō",
+   "statement": "騞：从馬丯聲：刀解牛聲（《集韻》），馬行疾貌。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剨·huò",
+   "statement": "剨：从刀丯聲：破聲（《集韻》）。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢝇·huò",
+   "statement": "𢝇：从心丯聲：心驚皃（《集韻》），聞裂聲而驚。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤊴·huò",
+   "statement": "𤊴：从火丯聲：火光（《集韻》），刻石火星四濺。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㓞·qià",
+   "statement": "㓞：从刀丯聲：巧㓞也（《說文》「巧㓞也」），象用刀刻畫。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "契·qì",
+   "statement": "契：从大从㓞：大約也（《說文》），刻木為券、分持為憑；引申契合、割斷。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍥·qiè",
+   "statement": "鍥：从金契聲：鐮也（《說文》），又刻也、斷絕。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljie-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "挈·qiè",
+   "statement": "挈：从手㓞聲：縣持也（《說文》「縣持也」），提挈、牽引。",
+   "boundary": "源自《系統漢語》第570部「丯部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
