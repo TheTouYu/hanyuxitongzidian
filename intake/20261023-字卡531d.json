@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡531d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lsang2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喪（字卡·sàng）",
+   "statement": "字卡（第531部桑）：从吅从桑：群蠶食桑，如白衣哭喪；引申失去、死亡、喪事。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "染（字卡·rǎn）",
+   "statement": "字卡（第531部桑）：从水从桑：以桑汁染布；引申染色、玷污、薰陶。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣞙（字卡·sǎng）",
+   "statement": "字卡（第531部桑）：《廣韻》「鼓匡木也」、《玉篇》「鼓材也」。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鎟（字卡·sǎng）",
+   "statement": "字卡（第531部桑）：《集韻》「鈴聲」；或同䡦，轂中受軸之空。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡠏（字卡·sāng）",
+   "statement": "字卡（第531部桑）：商代地名，在今河南寧陵南（《漢典》）。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩺞（字卡·sǎng）",
+   "statement": "字卡（第531部桑）：黃顙魚，頭部堅硬——如桑之結節。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣉕（字卡·sàng）",
+   "statement": "字卡（第531部桑）：《集韻》「㫰𣉕，暴熭也」，暴曬。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縔（字卡·shuǎng）",
+   "statement": "字卡（第531部桑）：《集韻》「𡳭中繭」，繭中蠶絲。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "褬（字卡·sǎng）",
+   "statement": "字卡（第531部桑）：《集韻》「𧚅褬，衣敝」——衣爛如蠶吃過的桑葉。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤸯（字卡·sǎng）",
+   "statement": "字卡（第531部桑）：《集韻》「馬病」——疑馬吐沫如蠶吐絲。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䮣（字卡·sǎng）",
+   "statement": "字卡（第531部桑）：《集韻》「馬色黃尾白」，馬色如蠶。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lsang2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨢆（字卡·sāng）",
+   "statement": "字卡（第531部桑）：《玉篇》「乳酒」。",
+   "boundary": "源自《系統漢語》第531部「桑部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
