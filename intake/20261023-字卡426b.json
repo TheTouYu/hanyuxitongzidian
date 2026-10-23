@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡426b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "jb2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "偕（字卡·xié）",
+   "statement": "偕，xié：《说文》「强也」——《诗》「偕偕士子」，强壮；一曰俱也，共同。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍇（字卡·kǎi）",
+   "statement": "鍇，kǎi：《说文》「九江谓铁曰锴」——好铁、白铁；《方言》「坚也」。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瑎（字卡·xié）",
+   "statement": "瑎，xié：《说文》「黑石似玉者」——黑玉、黑石。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䃈（字卡·jiē）",
+   "statement": "䃈，jiē：《玉篇》「山名」，《集韵》「石名」；一说同瑎，黑石似玉。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "揩（字卡·kāi）",
+   "statement": "揩，kāi：《玉篇》「摩拭也」，《广雅》「磨也」——揩擦；又敔（止乐之器）。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䡡（字卡·xié）",
+   "statement": "䡡，xié：《字汇》「登车」——登车。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩋧（字卡·xié）",
+   "statement": "𩋧，xié：《玉篇》「履也」——鞋；又鼓名，通作揩。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "媘（字卡·jiē）",
+   "statement": "媘，jiē：《集韵》「女字」——女子名用字。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煯（字卡·jiē）",
+   "statement": "煯，jiē：《字汇补》「煏也」——用火烘干。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩘅（字卡·jiē）",
+   "statement": "𩘅，jiē：《玉篇》「疾风也」——急风。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
