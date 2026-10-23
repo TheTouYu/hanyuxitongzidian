@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡420b421a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡯰（字卡）",
+   "statement": "𡯰（gà）：《汉典》「尴𡯰，同尴尬」——行不正。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢂵（字卡）",
+   "statement": "𢂵（jiè）：《玉篇》「㠹，帻也」——头巾。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢧧（字卡）",
+   "statement": "𢧧（gé）：《玉篇》「病也」；𢧧𡭂，草生也。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢬿（字卡）",
+   "statement": "𢬿（xiè）：《集韵》「持也」。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㳦（字卡）",
+   "statement": "㳦（xiè）：《集韵》「水名」。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧇑（字卡）",
+   "statement": "𧇑（bào）：《集韵》「虣，强侵也，《周官》有司虣」——强横侵夺，通作暴。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡲁（字卡）",
+   "statement": "𡲁（chū）：《广韵》「履属」——鞋类。",
+   "boundary": "源自《系統漢語》第420部「戒部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "革（字卡）",
+   "statement": "革（gé）：本部部首字——剖剥摊开之整张兽皮；去毛为革。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
