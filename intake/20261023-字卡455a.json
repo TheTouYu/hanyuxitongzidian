@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡455a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbe-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "兀（字卡·wù）",
+   "statement": "兀，wù：《说文》「高而上平也，从一在儿上」——高而平秃；引申突兀、兀自。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "杌（字卡·wù）",
+   "statement": "杌，wù：《说文》「木也」；《集韵》「樹無枝也」——无枝之木；杌陧，不安。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "軏（字卡·yuè）",
+   "statement": "軏，yuè：《说文》「車轅耑持衡者」——辕端与衡相接的销钉。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "阢（字卡·wù）",
+   "statement": "阢，wù：《集韵》「阢隉，不安也」——危而不安。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "卼（字卡·wù）",
+   "statement": "卼，wù：《集韵》「卼臲，危也」——危动不安。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扤（字卡·wù）",
+   "statement": "扤，wù：《说文》「動也，从手兀聲」——摇动。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "矹（字卡·wù）",
+   "statement": "矹，wù：《集韵》「矹硉，石崖皃」——石崖高耸。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼿（字卡·wù）",
+   "statement": "鼿，wù：《集韵》「鼻也」——鼻，兀然高起。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "泉（字卡·quán）",
+   "statement": "泉，quán：《说文》「水原也，象水流出成川形」——泉水源头。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "線（字卡·xiàn）",
+   "statement": "線，xiàn：《说文》「縷也，从糸泉聲」——线，取泉流细长不断。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "腺（字卡·xiàn）",
+   "statement": "腺，xiàn：《玉篇》「腺，肉也」——腺体，取泉流分泌。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbe-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湶（字卡·quán）",
+   "statement": "湶，quán：《集韵》「泉水也」——同泉。",
+   "boundary": "源自《系統漢語》第455－456部（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
