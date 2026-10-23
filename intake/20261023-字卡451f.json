@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡451f2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbl-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恂（字卡·xún）",
+   "statement": "恂，xún：《说文》「信心也，从心旬聲」——《论语》「恂恂如也」：信实恭顺；亦恐惧。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㰬（字卡·xún）",
+   "statement": "㰬，xún：《集韵》「气也」——气息周流。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "峋（字卡·xún）",
+   "statement": "峋，xún：《集韵》「嶙峋，山厓重深皃」——山石层叠深峻。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "郇（字卡·xún）",
+   "statement": "郇，xún：《说文》「周武王子所封國，在晉地」——古国名（今山西临猗）。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珣（字卡·xún）",
+   "statement": "珣，xún：《说文》「醫無閭珣玗琪，《周書》所謂夷玉」——美玉名。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筍（字卡·sǔn）",
+   "statement": "筍，sǔn：《说文》「竹胎也，从竹旬聲」——竹笋，旬日而长。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殉（字卡·xùn）",
+   "statement": "殉，xùn：《说文》「用人從葬也」——以人从葬；引申为道义献身。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徇（字卡·xùn）",
+   "statement": "徇，xùn：《说文》「行示也」——巡行示众；引申曲从、营求。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訇（字卡·hōng）",
+   "statement": "訇，hōng：《说文》「騃言聲」；《广韵》「匉訇，大聲」——大声轰响，周遍震动。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "渹（字卡·hōng）",
+   "statement": "渹，hōng：《集韵》「水石聲」——水激石之声。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "輷（字卡·hōng）",
+   "statement": "輷，hōng：《集韵》「車聲」——车行轰响。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbl-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鍧（字卡·hōng）",
+   "statement": "鍧，hōng：《集韵》「鏗鍧，鐘鼓聲相雜」——钟鼓相杂之声。",
+   "boundary": "源自《系統漢語》第451部「回部」（卷七十五 叀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
