@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡養系补条2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ly3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癢（字卡·yǎng）",
+   "statement": "癢（yǎng）＝疒＋養。皮膚欲搔，取羊患疥癬、蹭樁牆之一面。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧓲（字卡·yǎng）",
+   "statement": "𧓲（yǎng）＝虫＋養。蛘之或体，指叮咬致癢的蟎蝨一類小蟲。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懩（字卡·yǎng）",
+   "statement": "懩（yǎng）＝心＋養。心中有所欲求而騷動不定，取羊求牝之躁。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攁（字卡·yǎng）",
+   "statement": "攁（yǎng）＝手＋養。動手發動，取牧人驅羊之勢。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀁（字卡·yàng）",
+   "statement": "瀁（yàng）＝水＋養。水漫無涯、蕩漾不定，取羊群散行之狀。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩜒（字卡·nǎng）",
+   "statement": "𩜒（nǎng）＝食＋養。近在咫尺、忽然而見，取羊就近就食。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥶑（字卡·qiǎng）",
+   "statement": "𥶑（qiǎng）＝竹＋養。竹之一種，取羊角挺出之形。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㔦（字卡·yǎng）",
+   "statement": "㔦（yǎng）＝力＋養。勸勉用力，取牧者呼羊使前。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䑆（字卡·yǎng）",
+   "statement": "䑆（yǎng）＝肉＋養。胸中泛惡欲吐，取羊反芻上涌。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱶（字卡·xiǎng）",
+   "statement": "鱶（xiǎng）＝魚＋養。剖而晾乾之魚腊，取羊腊同法。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ly3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䭥（字卡·yàng）",
+   "statement": "䭥（yàng）＝食＋養。糕餅之屬，取羊脂和麵。",
+   "boundary": "源自《系統漢語》第523部「羊部」·養系（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
