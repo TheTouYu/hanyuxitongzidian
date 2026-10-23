@@ -1,0 +1,189 @@
+{
+ "schema_version": 1,
+ "intent": "字卡572a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llei2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䣂·lèi",
+   "statement": "䣂：从邑耒聲：今桂陽耒陽縣（《說文》），湖南耒陽市，傳說神農在此創耒。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洡·lěi",
+   "statement": "洡：从水耒聲：耒陽縣（《集韻》），又浸染。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銇·lèi",
+   "statement": "銇：从金耒聲：鑽也（《廣韻》），平版具。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠛨·chì",
+   "statement": "𠛨：从刀丯聲：割聲（《篇海》），剨之或體（耒本从丯）。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥨱·qiè",
+   "statement": "𥨱：从穴竊省：俗竊字（《正字通》），偷竊。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筙·lái",
+   "statement": "筙：从竹來聲：古同箂（《漢典》），竹名，疑訛字。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥅦·lèi",
+   "statement": "𥅦：从目耒聲：目不正也（《集韻》），俗睞字。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤁏·zī",
+   "statement": "𤁏：从水耤聲：同資（《漢典》），水名。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤅔·jù",
+   "statement": "𤅔：从水沮聲：同沮（《字海》），濕潤。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "躤·jí",
+   "statement": "躤：从足耤聲：踐也（《集韻》），踐踏。",
+   "boundary": "源自《系統漢語》第571部「力部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "歺·è",
+   "statement": "歺：从半冎：中空破裂之殘骨（《說文》「𠛱骨之殘也」），引申垂死、不好（俗作歹）、死亡。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣧻·càn",
+   "statement": "𣧻：从歺从肉：禽獸所食餘也（《說文》），殘餘。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣧚·shí",
+   "statement": "𣧚：从歺从十：義闕（《字彙補》），同𣧻。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llei2-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㱛·chuǎn",
+   "statement": "㱛：从歺从歹：殘也、盡也（《字彙》），古布字。",
+   "boundary": "源自《系統漢語》第572部「歺部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
