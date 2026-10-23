@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡444c2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbz-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "寬（字卡·kuān）",
+   "statement": "寬，kuān：《说文》「屋寬大也，从宀萈聲」——房屋宽大；引申宽宏、舒缓、宽恕。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髖（字卡·kuān）",
+   "statement": "髖，kuān：《说文》「髀上也，从骨寬聲」——胯骨、髋部。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鑧（字卡·kuān）",
+   "statement": "鑧，kuān：《集韻》「器名」——器名，疑即宽口器。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦏊（字卡·quán）",
+   "statement": "𦏊，quán：《集韻》「羊名」——羊名。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦆼（字卡·wǎn）",
+   "statement": "𦆼，wǎn：《集韻》「綰，或从萈」——系结、盘绕。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪈻（字卡·quán）",
+   "statement": "𪈻，quán：《玉篇》「𪈻鵒，亦鴝鵒也」——八哥鸟。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦒨（字卡·qí）",
+   "statement": "𦒨，qí：《集韻》「羽盛皃」——羽毛丰盛。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡅻（字卡·huàn）",
+   "statement": "𡅻，huàn：《集韻》「叫呼也」——呼叫。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡚊（字卡·huān）",
+   "statement": "𡚊，huān：《集韻》「奢也」——奢侈。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbz-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萈（字卡·huán）",
+   "statement": "萈，huán：《说文》「山羊細角者，从兔足，萈聲」——細角山羊（原稿字形析为萈声）。",
+   "boundary": "源自《系統漢語》第444部「雈部」（卷七十四 雈）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
