@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡421b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪔨（字卡）",
+   "statement": "𪔨（gǔ）：鼓之或体——用皮蒙鼓（《说文》「郭也，春分之音」）。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䩧（字卡）",
+   "statement": "䩧（xiè）：《玉篇》「急系也」——用皮绳捆缚。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢃲（字卡）",
+   "statement": "𢃲（è）：《玉篇》「紩也，一作缂」——缝补。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩩸（字卡）",
+   "statement": "𩩸（lé）：即「勒」——马头络衔；有衔曰勒，无曰羁；又抑勒、刊也。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㮖（字卡）",
+   "statement": "㮖（jiá）：《集韵》「鼓也」；《广雅》「攱也」——搁置。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諽（字卡）",
+   "statement": "諽（gé）：《说文》「饰也，一曰更也」——整治、改变；又谨也。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢯹（字卡）",
+   "statement": "𢯹（gé）：《玉篇》「改也」；《集韵》「改治也」——整治皮革。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "緙（字卡）",
+   "statement": "緙（kè）：《广韵》「紩也，又织纬」——刻丝，花纹如刻镂而成。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "煂（字卡）",
+   "statement": "煂（hè）：《集韵》「烧也」——火燎去毛。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨍝（字卡）",
+   "statement": "𨍝（gé）：《释名》「复也，重复非一之言」；同「轹」，车轮碾压。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦑜（字卡）",
+   "statement": "𦑜（gé）：《说文》「翅也」；《玉篇》「羽也」——皮革展开如翼（《诗》「如鸟斯革」）。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䐙（字卡）",
+   "statement": "䐙（gé）：《集韵》「膈，肓也」——胸膈，分隔胸腹两腔的膜状肌肉。",
+   "boundary": "源自《系統漢語》第421部「革部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
