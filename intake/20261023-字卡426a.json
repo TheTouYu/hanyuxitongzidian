@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡426a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "jb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "皆（字卡·jiē）",
+   "statement": "皆，jiē：二虎直立相抗而齐，表示同时、普遍、都（《小尔雅》「同也」）。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喈（字卡·jiē）",
+   "statement": "喈，jiē：《说文》「鸟鸣声」，凤凰鸣喈喈；又钟铃声、哭声、风雨声之大。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湝（字卡·jiē）",
+   "statement": "湝，jiē：《说文》「水流湝湝也」，水流众多；又寒。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "諧（字卡·xié）",
+   "statement": "諧，xié：《说文》「詥也」——和谐；《文心雕龙》「谐之言皆也，辞浅会俗，皆悦笑也」。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "龤（字卡·xié）",
+   "statement": "龤，xié：《说文》「乐和龤也」——《虞书》「八音克龤」，乐声和谐。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶛（字卡·jiē）",
+   "statement": "鶛，jiē：《尔雅》「鹩鹑其雄鶛」——雄鹌鹑，好斗（原稿有明版画《斗鹑图》）。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩤠（字卡·xié）",
+   "statement": "𩤠，xié：《说文》「马和也」——马性温和，疑本指马嘶鸣相和。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "階（字卡·jiē）",
+   "statement": "階，jiē：《说文》「陛也」——台阶；又缘由、梯级、上进。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "稭（字卡·jiē）",
+   "statement": "稭，jiē：《说文》「禾稾去其皮，祭天以为席」——去穗去皮的禾茎，可编席。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "jb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤭧（字卡·jiē）",
+   "statement": "𤭧，jiē：《广韵》「牡瓦」——俯盖的瓦；瓦片相次相合。",
+   "boundary": "源自《系統漢語》第426部「皆部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
