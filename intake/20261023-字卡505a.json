@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "intent": "字卡505a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcv-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曾（字卡·zēng）",
+   "statement": "曾，zēng：本部部首字：蒸器→曾經、重疊、曾祖。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "增（字卡·zēng）",
+   "statement": "增，zēng：从土曾聲：加多曰增，取曾之重疊義。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憎（字卡·zēng）",
+   "statement": "憎，zēng：从心曾聲：厭惡（《說文》「惡也」）。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "贈（字卡·zèng）",
+   "statement": "贈，zèng：从貝曾聲：以物送人（《說文》「玩好相送也」）。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "層（字卡·céng）",
+   "statement": "層，céng：从尸曾聲：重屋曰層，取曾之重疊。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僧（字卡·sēng）",
+   "statement": "僧，sēng：从人曾聲：梵語「僧伽」之省，眾比丘。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "亙（字卡·gèn）",
+   "statement": "亙，gèn：本部部首字：迴環終竟→延續、普遍。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恆（字卡·héng）",
+   "statement": "恆，héng：从心亙聲：常也、久也（《說文》「常也」）。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "垣（字卡·yuán）",
+   "statement": "垣，yuán：从土亙聲：牆也（《說文》「牆也」），取亙之環繞。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "宣（字卡·xuān）",
+   "statement": "宣，xuān：从宀亙聲：天子居曰宣室，引申宣布、疏通。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "从（字卡·cóng）",
+   "statement": "从，cóng：本部部首字：二人相隨→跟隨、順從、自。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "從（字卡·cóng）",
+   "statement": "從，cóng：从辵从聲：隨行（《說文》「隨行也」），从之加辵。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "叢（字卡·cóng）",
+   "statement": "叢，cóng：从丵取聲：草木聚生曰叢，取从之聚義。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縱（字卡·zòng）",
+   "statement": "縱，zòng：从糸從聲：緩也、放也（《說文》「緩也」）。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcv-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹤（字卡·zōng）",
+   "statement": "蹤，zōng：从足從聲：足跡（「蹤跡」），取從之隨行。",
+   "boundary": "源自《系統漢語》第503－505部（卷八十二 工）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
