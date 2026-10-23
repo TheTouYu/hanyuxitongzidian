@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡515a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lhu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黃（字卡·huáng）",
+   "statement": "黃（huáng）本部字根：矢在石槽中矯直，引申黃色、橫、強橫。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潢（字卡·huáng）",
+   "statement": "潢（huáng）从水黃聲：積水池（《說文》），又染潢（染紙）；水深廣貌。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟥（字卡·huáng）",
+   "statement": "蟥（huáng）从虫黃聲：金龜子、螞蟥，色皆黃。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簧（字卡·huáng）",
+   "statement": "簧（huáng）从竹黃聲：笙中振動之薄葉（《說文》），《釋名》「簧，橫也」——橫施於管中。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璜（字卡·huáng）",
+   "statement": "璜（huáng）从玉黃聲：半璧（《說文》），佩下之飾，作牙形相擊。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "觥（字卡·gōng）",
+   "statement": "觥（gōng）从角黃聲：兕牛角鏤空為大杯（《說文》），取其橫置。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橫（字卡·héng）",
+   "statement": "橫（héng）从木黃聲：闌木（《說文》），引申縱橫之橫、不順理。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廣（字卡·guǎng）",
+   "statement": "廣（guǎng）本部二級字根：屋大而空，引申廣闊、擴充。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "曠（字卡·kuàng）",
+   "statement": "曠（kuàng）从日廣聲：明也、空明（《說文》），引申久遠。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壙（字卡·kuàng）",
+   "statement": "壙（kuàng）从土廣聲：墓穴（《說文》「塹穴也」），野外空曠處。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "礦（字卡·kuàng）",
+   "statement": "礦（kuàng）从石廣聲：銅鐵樸石（《說文》），未成器之礦；又粗獷強悍。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "獷（字卡·guǎng）",
+   "statement": "獷（guǎng）从犬廣聲：犬兇悍不可附（《說文》），引申獷悍。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lhu-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "寅（字卡·yín）",
+   "statement": "寅（yín）本部二級字根：象矢穿丙矯箭，引申拉引、長；借為地支第三位。",
+   "boundary": "源自《系統漢語》第515部「黃部」（卷八十五 匚）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
