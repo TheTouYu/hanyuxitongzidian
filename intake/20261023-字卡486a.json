@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡486a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcm-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "美（字卡·měi）",
+   "statement": "美，měi：本部部首字：頭戴羽角裝飾→好看、美善、甘美。",
+   "boundary": "源自《系統漢語》第486部美部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcm-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "媄（字卡·měi）",
+   "statement": "媄，měi：从女美聲：《說文》「色好也」，女子貌美。",
+   "boundary": "源自《系統漢語》第486部美部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcm-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "媺（字卡·měi）",
+   "statement": "媺，měi：从女微聲：美善（同「媄」），取微之細好。",
+   "boundary": "源自《系統漢語》第486部美部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcm-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羨（字卡·xiàn）",
+   "statement": "羨，xiàn：从羊从㳄（涎）：見羊肉而垂涎，本義貪欲、羨慕，引申有餘。",
+   "boundary": "源自《系統漢語》第486部美部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
