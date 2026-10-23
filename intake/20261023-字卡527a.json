@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡527a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餉（字卡·xiǎng）",
+   "statement": "餉（xiǎng）＝从食向聲：饟也，以酒食款待（《說文》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥹝（字卡·xiàng）",
+   "statement": "𥹝（xiàng）＝从米向聲：餉之或體，饟也（《集韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珦（字卡·xiàng）",
+   "statement": "珦（xiàng）＝从玉向聲：玉也（《說文》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恦（字卡·xiàng）",
+   "statement": "恦（xiàng）＝从心向聲：念也、想也（《集韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "姠（字卡·xiàng）",
+   "statement": "姠（xiàng）＝从女向聲：女字（《集韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晌（字卡·shǎng）",
+   "statement": "晌（shǎng）＝从日向聲：日向明也，半晌、晌午（《正字通》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䖮（字卡·xiǎng）",
+   "statement": "䖮（xiǎng）＝从虫向聲：蠁，知聲蟲（《說文》司馬相如作䖮）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚮（字卡·xiàng）",
+   "statement": "嚮（xiàng）＝从鄉从向：面也、與向通用，又嚮往（《集韻》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩐢（字卡·xiǎng）",
+   "statement": "𩐢（xiǎng）＝从音向聲：或作「響」，回音、大聲（《龍龕》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤵼（字卡·shāng）",
+   "statement": "𤵼（shāng）＝从疒向聲：憂疾（《集韻》），或从商。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣂝（字卡·xiàng）",
+   "statement": "𣂝（xiàng）＝从斤向聲：斤之所向，對砍之意（《五音篇海》）。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扄（字卡·xiàng）",
+   "statement": "扄（xiàng）＝从戶向聲：戶耳也、門耳（《玉篇》）；俗作扃。",
+   "boundary": "源自《系統漢語》第527部「向部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
