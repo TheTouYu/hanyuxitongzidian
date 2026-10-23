@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡534zang2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臧（字卡·zāng）",
+   "statement": "字卡（第534部臧倉系）：从臣从戈：善也（《說文》），以戈守臣→善；通藏。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藏（字卡·cáng）",
+   "statement": "字卡（第534部臧倉系）：从艸臧聲：《說文》「匿也」，戰國古文从宀醬聲（密放醬菜之所）。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臟（字卡·zàng）",
+   "statement": "字卡（第534部臧倉系）：从肉臧聲：五臟也（《正字通》），胸內器官總稱，藏精藏神。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "贓（字卡·zāng）",
+   "statement": "字卡（第534部臧倉系）：从貝臧聲：納賄曰贓（《廣韻》），非理所得財物。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㵴（字卡·cáng）",
+   "statement": "字卡（第534部臧倉系）：从水臧聲：沒也（《集韻》），沉沒。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "倉（字卡·cāng）",
+   "statement": "字卡（第534部臧倉系）：象穀倉形：穀藏也（《說文》）；引申藏、寒、聲。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "艙（字卡·cāng）",
+   "statement": "字卡（第534部臧倉系）：从舟倉聲：船中載人貨的空間。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "滄（字卡·cāng）",
+   "statement": "字卡（第534部臧倉系）：从水倉聲：寒也（《說文》），又滄海。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凔（字卡·cāng）",
+   "statement": "字卡（第534部臧倉系）：从仌倉聲：寒也（《說文》）。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鎗（字卡·chēng）",
+   "statement": "字卡（第534部臧倉系）：从金倉聲：鐘聲也（《說文》），又鼎類、酒器、兵器。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "愴（字卡·chuàng）",
+   "statement": "字卡（第534部臧倉系）：从心倉聲：傷也（《說文》），悲傷。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戧（字卡·qiāng）",
+   "statement": "字卡（第534部臧倉系）：从戈倉聲：傷也（《說文》），又撑也、逆也。",
+   "boundary": "源自《系統漢語》第534部「爿部」（卷八十九 象）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
