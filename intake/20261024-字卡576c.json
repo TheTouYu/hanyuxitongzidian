@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡576c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lmai-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麳·lái",
+   "statement": "麳：从麥來聲：小麥（《說文》「麳，小麥」），或作䅘。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麩·fū",
+   "statement": "麩：从麥夫聲：小麥皮屑（《說文》「麩，小麥屑皮也」）。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麵·miàn",
+   "statement": "麵：从麥丏聲：麥屑（《說文》作「麪」），麵食。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麷·fēng",
+   "statement": "麷：从麥豐聲：煮麥也（《說文》「麷，煮麥也」）。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "萊·lái",
+   "statement": "萊：从艸來聲：蔓華也（《說文》），藜；又萊田（荒地）。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賚·lài",
+   "statement": "賚：从貝來聲：賜也（《說文》「賚，賜也」），賞賜。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "棶·lái",
+   "statement": "棶：从木來聲：木名（《集韻》），棶木。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騋·lái",
+   "statement": "騋：从馬來聲：馬七尺為騋（《說文》），高壯之馬。",
+   "boundary": "源自《系統漢語》第576部「來部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "制·zhì",
+   "statement": "制：从刀从未：裁也（《說文》），整枝→禁止、約束、法度、決斷。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "製·zhì",
+   "statement": "製：从衣制聲：裁衣也（《說文》「製，裁也」），制作。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淛·zhè",
+   "statement": "淛：从水制聲：江名（《集韻》），浙江，取潮曲折倒流。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lmai-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "掣·chè",
+   "statement": "掣：从手制聲：掣曳也（《爾雅》），牽引、抽掣。",
+   "boundary": "源自《系統漢語》第577部「制部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
