@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡427d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "yb4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢴩（字卡·bì）",
+   "statement": "𢴩，bì：《广韵》引《方言》「刺也」，亦作㧙——以手刺入。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潷（字卡·bì）",
+   "statement": "潷，bì：《玉篇》「笮去汁也」，《博雅》「𥂖也」——滤出液体、去渣。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㻶（字卡·bǐ）",
+   "statement": "㻶，bǐ：《玉篇》「青白玉琯也」——青白玉制的管。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠽩（字卡·bì）",
+   "statement": "𠽩，bì：《集韵》「鸣也」——鸣叫之声。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晝（字卡·zhòu）",
+   "statement": "晝，zhòu：从日从聿，竖竿测日影以计时——白天；与夜为界。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣻱（字卡·zhòu）",
+   "statement": "𣻱，zhòu：《字汇补》「水名」——《水经注》「俗以𣻱水为宿留水」。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肅（字卡·sù）",
+   "statement": "肅，sù：从𣶒从聿，持篙撑船渡深水旋流；严峻、谨慎、恭敬引进、飞。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕭（字卡·xiāo）",
+   "statement": "蕭，xiāo：《说文》「艾蒿也」——艾蒿；艾灸为古代治病要法。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簫（字卡·xiāo）",
+   "statement": "簫，xiāo：《说文》「参差管乐，象凤之翼」——长短不齐的排箫。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䐹（字卡·sōu）",
+   "statement": "䐹，sōu：《说文》「干鱼尾䐹䐹也」——干鱼；又肉羹、炒碎肉。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蟰（字卡·xiāo）",
+   "statement": "蟰，xiāo：《说文》「蟰蛸，长股者」——长脚小蜘蛛。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱐（字卡·sū）",
+   "statement": "鱐，sū：《集韵》「鱼腊」——干鱼。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
