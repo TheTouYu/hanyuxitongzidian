@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡511e2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢛓（字卡·lán）",
+   "statement": "𢛓（lán）《廣韻》「地名」。",
+   "boundary": "源自《系統漢語》第511部「心部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訫（字卡·xìn）",
+   "statement": "訫（xìn）《集韻》「信，《說文》：誠也。古作㐰、訫」——言而有信。",
+   "boundary": "源自《系統漢語》第511部「心部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孞（字卡·xìn）",
+   "statement": "孞（xìn）《字彙補》「同信」——信之異體。",
+   "boundary": "源自《系統漢語》第511部「心部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吢（字卡·qìn）",
+   "statement": "吢（qìn）《集韻》「唚，犬吐。或作𢙈，亦書作吣」——貓狗嘔吐；反胃在心窩，常誤作心痛。",
+   "boundary": "源自《系統漢語》第511部「心部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沁（字卡·qìn）",
+   "statement": "沁（qìn）《說文》「水。出上黨羊頭山，東南入河。从水心聲」——沁水；引申滲入、清涼。",
+   "boundary": "源自《系統漢語》第511部「心部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "抋（字卡·qìn）",
+   "statement": "抋（qìn）《集韻》「𢱶，挿也。或从心」；《字彙》「播也」——插入、播散。",
+   "boundary": "源自《系統漢語》第511部「心部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠖶（字卡·qìn）",
+   "statement": "𠖶（qìn）《集韻》「㓎，冷氣。或从心」——寒氣侵人。",
+   "boundary": "源自《系統漢語》第511部「心部」（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
