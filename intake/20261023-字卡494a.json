@@ -1,0 +1,85 @@
+{
+ "schema_version": 1,
+ "intent": "字卡494a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lco-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "善（字卡·shàn）",
+   "statement": "善，shàn：本部部首字：有角獸頭→美好、善良、擅長。",
+   "boundary": "源自《系統漢語》第493－494部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膳（字卡·shàn）",
+   "statement": "膳，shàn：从肉善聲：食之精美者，取善之美義。",
+   "boundary": "源自《系統漢語》第493－494部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繕（字卡·shàn）",
+   "statement": "繕，shàn：从糸善聲：修補使之完善（《說文》「補也」）。",
+   "boundary": "源自《系統漢語》第493－494部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱔（字卡·shàn）",
+   "statement": "鱔，shàn：从魚善聲：黃鱔，《正字通》「鱔，俗鱓字」，所从單本同干。",
+   "boundary": "源自《系統漢語》第493－494部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旦（字卡·dàn）",
+   "statement": "旦，dàn：本部部首字：日出海面而見倒影→早晨、天明。",
+   "boundary": "源自《系統漢語》第493－494部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lco-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "但（字卡·dàn）",
+   "statement": "但，dàn：从人旦聲：本義脫衣露身（通「袒」），引申只、僅。",
+   "boundary": "源自《系統漢語》第493－494部（卷八十 干）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
