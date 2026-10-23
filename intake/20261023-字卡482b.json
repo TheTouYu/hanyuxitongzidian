@@ -1,0 +1,59 @@
+{
+ "schema_version": 1,
+ "intent": "字卡482b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcj-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "微（字卡·wēi）",
+   "statement": "微，wēi：本部内字：戴穗偽裝而隱行，本義隱蔽、微細、衰微。",
+   "boundary": "源自《系統漢語》第482部帚部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcj-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徵（字卡·zhēng）",
+   "statement": "徵，zhēng：从微省：行於微而文達者即徵之，故為徵召、徵驗；引申懲戒（分化作懲）。",
+   "boundary": "源自《系統漢語》第482部帚部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcj-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懲（字卡·chéng）",
+   "statement": "懲，chéng：从心徵聲：戒止、懲創，取徵之懲戒義。",
+   "boundary": "源自《系統漢語》第482部帚部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcj-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "敱（字卡·ái）",
+   "statement": "敱，ái：从豆上有彐：以草穗刷洗食器，本義有所治也。",
+   "boundary": "源自《系統漢語》第482部帚部（卷七十九 彗）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
