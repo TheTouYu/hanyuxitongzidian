@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡544a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓄·dú",
+   "statement": "瓄：从玉賣聲：玉名（《集韻》）。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璪·zǎo",
+   "statement": "璪：从玉澡聲：玉飾如水藻之文（《說文》「玉飾如水藻之文」）。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璫·dāng",
+   "statement": "璫：从玉當聲：耳珠也（《說文》「華飾也」），今婦人耳飾。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璵·yú",
+   "statement": "璵：从玉與聲：璵璠，魯寶玉（《說文》）。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "老·lǎo",
+   "statement": "老：象人长发拄杖，七十曰老；引申年长、衰暮、久旧。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "考·kǎo",
+   "statement": "考：从老省从丂：老也（《說文》「老也」），父考、考核（借义）。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孝·xiào",
+   "statement": "孝：从老省从子：善事父母者（《說文》「善事父母者」）。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耆·qí",
+   "statement": "耆：从老省旨聲：老也（《說文》「老也」），六十曰耆。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耄·mào",
+   "statement": "耄：从老省毛聲：年九十曰耄（《說文》「年九十曰耄」）。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耋·dié",
+   "statement": "耋：从老省至聲：年八十曰耋（《說文》「年八十曰耋」）。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耇·gǒu",
+   "statement": "耇：从老省句聲：老人面凍黎若垢（《說文》），壽耇。",
+   "boundary": "源自《系統漢語》第543－544部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
