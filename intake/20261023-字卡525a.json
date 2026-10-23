@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡525a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lqiang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羌（字卡·qiāng）",
+   "statement": "羌（qiāng）：从人从羊：西方牧羊之族；引申強（《廣雅》）、紅色（《玉篇》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猐（字卡·qiāng）",
+   "statement": "猐（qiāng）：从犬羌聲：同「羌」（《廣韻》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡬎（字卡·qiāng）",
+   "statement": "𡬎（qiāng）：从宀羌聲：音羌，義同（《五侯鯖字海》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唴（字卡·qiàng）",
+   "statement": "唴（qiàng）：从口羌聲：秦晉謂兒泣不止曰唴（《說文》），如羊叫。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥇉（字卡·liǎng）",
+   "statement": "𥇉（liǎng）：从目良聲：䀶，目病，斜視（《集韻》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㳾（字卡·qiāng）",
+   "statement": "㳾（qiāng）：从水羌聲：水名，本作羌（《正字通》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琷（字卡·què）",
+   "statement": "琷（què）：从玉羌聲：音闕，人名（《字彙補》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦏱（字卡·yǎng）",
+   "statement": "𦏱（yǎng）：从羊養聲：音癢；又與瘥同（疾愈）（《海篇》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蜣（字卡·qiāng）",
+   "statement": "蜣（qiāng）：从虫羌聲：蜣蜋，啖糞蟲，所推糞球如羊屎（《玉篇》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㛨（字卡·qiǎng）",
+   "statement": "㛨（qiǎng）：从女羌聲：亂貌（《字彙》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥓌（字卡·qiǎng）",
+   "statement": "𥓌（qiǎng）：从石羌聲：𥓌礰石，薑石，鈣質結核似乾薑（《本草綱目》）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqiang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪁸（字卡·qiāng）",
+   "statement": "𪁸（qiāng）：从鳥羌聲：鳥名；《正字通》謂「䳀」之譌（形近失）。",
+   "boundary": "源自《系統漢語》第525部「羌部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
