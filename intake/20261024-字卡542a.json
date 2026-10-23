@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡542a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljiu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梂·qiú",
+   "statement": "梂：从木求聲：櫟實（橡子），《說文》「櫟實也」。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "觩·qiú",
+   "statement": "觩：从角求聲：角曲貌（《說文》「角貌」）。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絿·qiú",
+   "statement": "絿：从糸求聲：急也（《說文》「急也」）。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銶·qiú",
+   "statement": "銶：从金求聲：鑿屬（《說文》），鑿一類工具。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賕·qiú",
+   "statement": "賕：从貝求聲：以財物枉法相謝（《說文》），行賄。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "莍·qiú",
+   "statement": "莍：从艸求聲：椒樧實（《說文》），茱萸子聚生。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "九·jiǔ",
+   "statement": "九：象臂屈曲（肘之初文），借为数词九；转义究尽极数。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "究·jiū",
+   "statement": "究：从穴九聲：窮也（《說文》），推極到底。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "軌·guǐ",
+   "statement": "軌：从車九聲：車轍（《說文》「車轍也」），引申法度。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鳩·jiū",
+   "statement": "鳩：从鳥九聲：鳩，鳥名（《說文》「鶻鵃也」）；又聚（鳩合）。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仇·qiú",
+   "statement": "仇：从人九聲：讎也（《說文》），匹配（公侯好仇）、仇敵。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljiu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "宄·guǐ",
+   "statement": "宄：从宀九聲：姦也（《說文》「姦也，外為盜，內為宄」）。",
+   "boundary": "源自《系統漢語》第541－542部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
