@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡522a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lchuang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刅（字卡·chuāng）",
+   "statement": "刅（chuāng）本部字根：荊枝對生，引申創傷。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "荊（字卡·jīng）",
+   "statement": "荊（jīng）从艸刑聲：楚木（《說文》），枝條柔韌可編、可作鞭，故古稱兩湖為荊。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "創（字卡·chuàng）",
+   "statement": "創（chuàng）从刀倉聲：刅傷之分化，引申創造、開始。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梁（字卡·liáng）",
+   "statement": "梁（liáng）从木从水、刅聲：水橋（《說文》），以荊木連接架成；引申屋梁。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粱（字卡·liáng）",
+   "statement": "粱（liáng）从米梁省聲：米名（《說文》），似粟而大（白粱、青粱）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㓝（字卡·xíng）",
+   "statement": "㓝（xíng）本部字根：荊條編結或抽打，引申法度、刑罰。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刑（字卡·xíng）",
+   "statement": "刑（xíng）从刀幵聲：罰罪（《說文》），實為㓝之分化。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "形（字卡·xíng）",
+   "statement": "形（xíng）从彡幵聲：象形、體貌（《說文》），取荊條編結之器形。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "型（字卡·xíng）",
+   "statement": "型（xíng）从土刑聲：鑄器之法（《說文》），先用荊條編成器模。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "硎（字卡·xíng）",
+   "statement": "硎（xíng）从石刑聲：砥石、磨刀石（《集韻》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銒（字卡·xíng）",
+   "statement": "銒（xíng）从金幵聲：似鐘而頸長之盛羹器（《說文》），狀如荊條編簍。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "郉（字卡·xíng）",
+   "statement": "郉（xíng）从邑幵聲：周公所封，今河北邢臺（《說文》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
