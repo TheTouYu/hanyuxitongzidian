@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡438a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lbj-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訜（字卡·fēn）",
+   "statement": "訜，fēn：《集韵》「訜𧥼，语不定」——言语含糊不决。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玢（字卡·bīn）",
+   "statement": "玢，bīn：《广韵》「文采状也」——玉的纹理；又玻璃纸（赛璐玢）。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昐（字卡·fēn）",
+   "statement": "昐，fēn：《玉篇》「日光」——日光照耀。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "砏（字卡·bīn）",
+   "statement": "砏，bīn：《广韵》「水名，又石」；砏磤，大雷、石声。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "炃（字卡·fén）",
+   "statement": "炃，fén：《集韵》「焚，火灼物也，或作燓、炃、燌」——焚烧。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "馚（字卡·fēn）",
+   "statement": "馚，fēn：《集韵》「馩馧，香也」——香气。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "弅（字卡·fèn）",
+   "statement": "弅，fèn：《集韵》「隐弅，丘高起貌」——高丘之状。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秎（字卡·fèn）",
+   "statement": "秎，fèn：《广韵》「穧秎，获也」——收割，禾束。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "葐（字卡·pén）",
+   "statement": "葐，pén：《集韵》「蒛葐，草名」；葐蒕，盛貌。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "湓（字卡·pén）",
+   "statement": "湓，pén：水名在浔阳；一曰水溢，形如盆。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酚（字卡·fēn）",
+   "statement": "酚，fēn：有机化合物，羟基直接连于芳香环（苯环）者——酚类。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "半（字卡·bàn）",
+   "statement": "半，bàn：从牛八声，宰杀牲体而分剖（判之初文）；《说文》「物中分也，从八从牛，牛为物大，可以分也」。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lbj-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伴（字卡·bàn）",
+   "statement": "伴，bàn：《说文》「大貌，从人半声」；又伴侣、依随。",
+   "boundary": "源自《系統漢語》第437－438部（卷七十三 釆）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
