@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡413寺部b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "持（字卡）",
+   "statement": "持（chí）：《说文》「握也」——握持、坚持。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恃（字卡）",
+   "statement": "恃（shì）：《说文》「赖也」——依赖；「心不明」亦作恃。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邿（字卡）",
+   "statement": "邿（shī）：《说文》「附庸国，在东平亢父邿亭」——古国名，在今山东济宁东南。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "洔（字卡）",
+   "statement": "洔（zhǐ）：《说文》「水暂益，且止，未减也」——水滞留；《集韵》「水中高土」。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "偫（字卡）",
+   "statement": "偫（zhì）：《说文》「待也」——积蓄储备以待用；《玉篇》「与庤同」。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "庤（字卡）",
+   "statement": "庤（zhì）：《说文》「储置屋下也」——储藏放置在屋下。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䝰（字卡）",
+   "statement": "䝰（zhì）：《类篇》「畜财也」——蓄积财物。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪗺（字卡）",
+   "statement": "𪗺（chī）：《字汇》「牛食草也」——牛反刍：先粗咽，卧时吐出细嚼，故有储存意。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨨲（字卡）",
+   "statement": "𨨲（chí）：《字汇》「梵语鍕𨨲，此云双口澡灌」——净瓶（军持）。",
+   "boundary": "源自《系統漢語》第413部「寺部」（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
