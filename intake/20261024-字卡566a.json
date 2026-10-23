@@ -1,0 +1,98 @@
+{
+ "schema_version": 1,
+ "intent": "字卡566a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljian-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尖·jiān",
+   "statement": "尖：从小下大：象錐形（《玉篇》「銳也」），末銳也；引申先行、拔尖、刺入、尖刻。",
+   "boundary": "源自《系統漢語》第566部「尖部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧗰·gá",
+   "statement": "𧗰：（尜）小兒戲物（《字彙補》），兩頭尖中間大之玩具。",
+   "boundary": "源自《系統漢語》第566部「尖部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢬅·pū",
+   "statement": "𢬅：古壯字，相當於「拔」（壯語借字）。",
+   "boundary": "源自《系統漢語》第566部「尖部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥧤·níng",
+   "statement": "𥧤：从宀？大也、明也（《玉篇》「大也。明也。」）。",
+   "boundary": "源自《系統漢語》第566部「尖部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡙑·zhǐ",
+   "statement": "𡙑：出《釋藏·疑字函》（《字彙補》），佛經譯字。",
+   "boundary": "源自《系統漢語》第566部「尖部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣴒·tài",
+   "statement": "𣴒：水沖洗（《字彙補》「音義與汏同」），或作汱，墜也、伏水也。",
+   "boundary": "源自《系統漢語》第566部「尖部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡙚·zài",
+   "statement": "𡙚：武則天所制「載」字（《字彙補》），从大从車省。",
+   "boundary": "源自《系統漢語》第566部「尖部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
