@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡528a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshangt-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "上（字卡·shàng）",
+   "statement": "上（shàng）＝从「一」上加指示符號，指物體的上面（《說文》「高也」）；引申往上、登升、君上、尊崇。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨑗（字卡·shàng）",
+   "statement": "𨑗（shàng）＝疑「上」之繁文（《戰國古文》），鄂君舟節讀上。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "圵（字卡·dàng）",
+   "statement": "圵（dàng）＝《海篇》音蕩，高田；與南北字不同。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仩（字卡·cháng）",
+   "statement": "仩（cháng）＝《字彙補》與「長」同，帶頭的人、孟也進也。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忐（字卡·tǎn）",
+   "statement": "忐（tǎn）＝《五音集韻》忐忑，心虛、怯懼——提心吊膽。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忑（字卡·tè）",
+   "statement": "忑（tè）＝忐忑連文，心上下不定、怯懼。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠮵（字卡·màng）",
+   "statement": "𠮵（màng）＝《篇海》「問而不答」。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠮳（字卡·yīng）",
+   "statement": "𠮳（yīng）＝應喚語也，同「應」，呼應聲（《字彙補》）。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠧕（字卡·hé）",
+   "statement": "𠧕（hé）＝《字彙補》音和。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠧛（字卡·bó）",
+   "statement": "𠧛（bó）＝同「百」，古字；地名（《字彙補》）。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshangt-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣥌（字卡·huàn）",
+   "statement": "𣥌（huàn）＝同「幻」（《字彙補》）。",
+   "boundary": "源自《系統漢語》第528部「上部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
