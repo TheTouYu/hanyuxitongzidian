@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡546a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "休·xiū",
+   "statement": "休：从人依木而息；引申止、完成（死亦曰休）。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "茠·hāo",
+   "statement": "茠：从艸休聲：茠，除草（薅之或体）。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鵂·xiū",
+   "statement": "鵂：从鳥休聲：鵂鶹，鴟鵂（貓頭鷹一類）。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貅·xiū",
+   "statement": "貅：从豸休聲：貔貅，猛獸名。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "庥·xiū",
+   "statement": "庥：从广休聲：庇也（《說文》「庇也」），蔭庇。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髹·xiū",
+   "statement": "髹：从髟休聲：赤黑漆（《說文》「桼也」），以漆飾物。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "咻·xiū",
+   "statement": "咻：从口休聲：噢咻，病痛之聲（《說文》「嚾也」）。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "烋·xiāo",
+   "statement": "烋：从火休聲：炰烋，氣健自矜貌（《說文》引《詩》）。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恘·qiū",
+   "statement": "恘：从心休聲：戾也（《集韻》），恘戾。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銝·xiū",
+   "statement": "銝：从金休聲：銝，鐵之耎者（《集韻》）。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臼·jiù",
+   "statement": "臼：象坎穴形，掘地為臼，後穿木石；引申舂具、陷穴。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齨·jiù",
+   "statement": "齨：从齒臼聲：齨，老人齒（《說文》「老人齒」）。",
+   "boundary": "源自《系統漢語》第545－546部（卷九十 秋）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
