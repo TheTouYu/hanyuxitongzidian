@@ -1,0 +1,176 @@
+{
+ "schema_version": 1,
+ "intent": "字卡522b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lchuangb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨎛（字卡·liáng）",
+   "statement": "𨎛（liáng）从車梁省聲：車梁（《集韻》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "墚（字卡·liáng）",
+   "statement": "墚（liáng）从土梁省聲：黃土高原條狀嶺岡（《漢典》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簗（字卡·zhù）",
+   "statement": "簗（zhù）从竹梁省聲：築之訛；疑為荊條編的魚簍，魚入而不能出。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨄈（字卡·liáng）",
+   "statement": "𨄈（liáng）从足梁聲：跳𨄈，走也（《集韻》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粱（字卡·liáng）",
+   "statement": "粱（liáng）从米梁省聲：似粟而大（《說文》「米名也」）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䘐（字卡·nǜ）",
+   "statement": "䘐（nǜ）从血从刅：衄之或作，鼻出血（《正字通》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢞤（字卡·nì）",
+   "statement": "𢞤（nì）从心刅聲：同惄，心之飢、憂思（《廣韻》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠛂（字卡·chuāng）",
+   "statement": "𠛂（chuāng）从刀从刅：創傷（《集韻》「刅，《說文》傷也」）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "侀（字卡·xíng）",
+   "statement": "侀（xíng）从人刑聲：成也，即「形」字（《廣韻》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娙（字卡·xíng）",
+   "statement": "娙（xíng）从女刑聲：好也，女身長謂之娙（《集韻》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㭢（字卡·xīn）",
+   "statement": "㭢（xīn）从木刑聲：小几（《字彙》「机也」）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤏾（字卡·zhēng）",
+   "statement": "𤏾（zhēng）从火刑聲：煮魚煎肉曰𦙫，肉上劃井字以便入味（《集韻》）。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchuangb-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧨘（字卡·xíng）",
+   "statement": "𧨘（xíng）从言刑聲：𧨘笑，同「形笑」，即嘲笑。",
+   "boundary": "源自《系統漢語》第522－523部（卷八十六 良）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
