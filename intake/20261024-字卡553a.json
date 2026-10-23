@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡553a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llie-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巤·liè",
+   "statement": "巤：从毛从㲋（獸足）：毛巤也（《說文》「毛巤也」），獸長毛；獵之初文。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "獵·liè",
+   "statement": "獵：从犬巤聲：放獵逐禽也（《說文》「放獵逐禽也」），田獵。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臘·là",
+   "statement": "臘：从肉巤聲：冬至後三戌臘祭百神（《說文》），年終大祭。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蠟·là",
+   "statement": "蠟：从虫巤聲：蜜滓也（《說文》「蜜滓也」），蜂蠟。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邋·lā",
+   "statement": "邋：从辵巤聲：邋遢，行不謹（《廣韻》）。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬣·liè",
+   "statement": "鬣：从髟巤聲：髮鬣鬣也（《說文》「髮鬣鬣也」），馬鬃。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儠·liè",
+   "statement": "儠：从人巤聲：長壯儠儠也（《說文》）。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "擸·liè",
+   "statement": "擸：从手巤聲：理持也（《說文》「理持也」），折斷、整理。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "躐·liè",
+   "statement": "躐：从足巤聲：踐也（《說文》「踐也」），逾越、躐等。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llie-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攦·lì",
+   "statement": "攦：从手麗聲：折也（《說文》「折也」）；或作攦。",
+   "boundary": "源自《系統漢語》第553部「巤部」（卷九十一 火）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
