@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "intent": "字卡511d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lde-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慕（字卡·mù）",
+   "statement": "慕（mù）从心莫聲：習也、思慕（《說文》「習也」），莫有日暮不見之義。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憲（字卡·xiàn）",
+   "statement": "憲（xiàn）从心从目，害省聲：敏也（《說文》「敏也」），引申法憲。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "愆（字卡·qiān）",
+   "statement": "愆（qiān）从心衍聲：過也（《說文》「過也」），衍有漫衍過度之義。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懲（字卡·chéng）",
+   "statement": "懲（chéng）从心徵聲：㣻也、止也（《說文》「㣻也」），懲前毖後。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憊（字卡·bèi）",
+   "statement": "憊（bèi）从心備聲：疲極（《說文》「𢢞也」）。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惕（字卡·tì）",
+   "statement": "惕（tì）从心易聲：敬也、懼也（《說文》「敬也」）。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悚（字卡·sǒng）",
+   "statement": "悚（sǒng）从心束聲：懼也（《說文》「懼也」），束而心緊。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惋（字卡·wǎn）",
+   "statement": "惋（wǎn）从心宛聲：驚歎、悵恨。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懣（字卡·mèn）",
+   "statement": "懣（mèn）从心滿聲：煩也（《說文》「煩也」），氣滿而懣。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懃（字卡·qín）",
+   "statement": "懃（qín）从心勤聲：勉也、勞也。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "愍（字卡·mǐn）",
+   "statement": "愍（mǐn）从心敃聲：痛也（《說文》「痛也」），同「憫」。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憫（字卡·mǐn）",
+   "statement": "憫（mǐn）从心閔聲：憐也、憂也，取閔之惜。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憨（字卡·hān）",
+   "statement": "憨（hān）从心敢聲：愚也、癡也。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懇（字卡·kěn）",
+   "statement": "懇（kěn）从心貇聲：誠也、懇切。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lde-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "戀（字卡·liàn）",
+   "statement": "戀（liàn）从心䜌聲：思也、愛戀（《說文》「思也」）。",
+   "boundary": "源自《系統漢語》第511部心部（卷八十四 心）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
