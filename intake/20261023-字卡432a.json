@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡432a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lb5-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逮（字卡·dài）",
+   "statement": "逮，dài：《说文》「唐逮，及也，从辵隶声」——到、及；捉拿。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb5-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨽿（字卡·dài）",
+   "statement": "𨽿，dài：《说文》「及也，从隶枲声」——赶上；枲为麻无实者，夏麻宜衣，或取其音。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb5-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㥆（字卡·tuì）",
+   "statement": "㥆，tuì：《说文》「肆也，从心隶声」——放纵；《广雅》「忘也」。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb5-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齂（字卡·xiè）",
+   "statement": "齂，xiè：《说文》「卧息也，从鼻隶声，读若虺」——鼾声。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb5-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "隸（字卡·lì）",
+   "statement": "隸，lì：《说文》「附箸也，从隶柰声」——附着、奴仆（后世隶仆义）。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb5-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣟌（字卡·lì）",
+   "statement": "𣟌，lì：《说文》「木也」；络丝车的摇把——手抓握并转动之处。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb5-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥶾（字卡·lì）",
+   "statement": "𥶾，lì：《广韵》「笘也」——古代小孩写字用的简牍。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb5-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䇐（字卡·lì）",
+   "statement": "䇐，lì：《说文》「临也，从立从隶」——看视；与莅、涖同。",
+   "boundary": "源自《系統漢語》第432部「隶部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
