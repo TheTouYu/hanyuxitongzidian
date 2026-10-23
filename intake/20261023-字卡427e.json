@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡427e2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "yb5-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "盡（字卡·jìn）",
+   "statement": "盡，jìn：刷洗器皿，器空为尽；引申完毕、竭尽、极端、悉皆。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "贐（字卡·jìn）",
+   "statement": "贐，jìn：《说文》「会礼也」——《孟子》「行者必以赆」，送行之赠礼。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燼（字卡·jìn）",
+   "statement": "燼，jìn：《说文》「火余也」——燃烧后的余烬、薪柴。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚍（字卡·jìn）",
+   "statement": "嚍，jìn：《集韵》「愤也」——愤怒，即言尽辞穷之意。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壗（字卡·jìn）",
+   "statement": "壗，jìn：《广韵》「石似玉」——疑本指琢玉时产生的灰尘。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璶（字卡·jìn）",
+   "statement": "璶，jìn：《说文》「石之似玉者」——疑指玉加工后的下脚料。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "濜（字卡·jìn）",
+   "statement": "濜，jìn：《集韵》「水名，在襄阳」；《广韵》「濜溳，水流急貌」。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嬧（字卡·jìn）",
+   "statement": "嬧，jìn：古女子人名用字。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儘（字卡·jǐn）",
+   "statement": "儘，jǐn：《字汇》「与尽同，皆也」——尽管、尽量。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孻（字卡·nái）",
+   "statement": "孻，nái：《菽园杂记》「广东谓老人所生幼子曰孻」——幼子。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㯸（字卡·jǐn）",
+   "statement": "㯸，jǐn：《玉篇》「盂也」——痰盂。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "yb5-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣃏（字卡·zhuó）",
+   "statement": "𣃏，zhuó：《字汇补》「与斵同」——砍、剁碎。",
+   "boundary": "源自《系統漢語》第427部「聿部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
