@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡579b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhao2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "欏·luó",
+   "statement": "欏：从木羅聲：檖木也（《玉篇》），桫欏；又籬格。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㦬·luǒ",
+   "statement": "㦬：从心羅聲：懡㦬，慙也（《集韻》），慚愧。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧟌·luò",
+   "statement": "𧟌：从衣羅聲：女人上衣也（《玉篇》）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㿚·luò",
+   "statement": "㿚：从疒羅聲：病也（《集韻》），瘦病。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "玀·luó",
+   "statement": "玀：从犬羅聲：玀玀（《龍龕》），元明清史籍對彝族的蔑稱。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤓓·luó",
+   "statement": "𤓓：从火羅聲：糊味（《漢典》），燒焦氣味。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥗴·luǒ",
+   "statement": "𥗴：从石羅聲：眾石貌（《集韻》），磊砢。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥗿·luó",
+   "statement": "𥗿：从石羅聲：𥗿砢，山貌（《集韻》）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦣇·luó",
+   "statement": "𦣇：从肉羅聲：驢腹下肉（《集韻》）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧹐·luò",
+   "statement": "𧹐：从貝羅聲：貝殼也（《五侯鯖字海》）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨇽·luò",
+   "statement": "𨇽：从足羅聲：𨇽䟶，猶蹭蹬也（《集韻》），失意、原地打轉。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩽰·luó",
+   "statement": "𩽰：从魚羅聲：魚名，一身十首（《集韻》），八帶魚（章魚）。",
+   "boundary": "源自《系統漢語》第579部「䍜部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
