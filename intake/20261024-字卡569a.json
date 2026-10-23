@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡569a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshu-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黍·shǔ",
+   "statement": "黍：从禾加點：穗長粒散（《六書精薀》「象細粒散垂之形」），糜子；黏可釀酒。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黎·lí",
+   "statement": "黎：从黍从勿：履黏也（《說文》），以黍米作糊黏鞋；引申黑色、眾多、老。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邌·lí",
+   "statement": "邌：从辵黎聲：徐也（《說文》「徐也」），徐緩。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潻·shǔ",
+   "statement": "潻：从水黍聲：水名（《玉篇》「水名」），非指黍。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黐·chī",
+   "statement": "黐：从黍離聲：黏也（《玉篇》），木膠可黏鳥。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "犂·lí",
+   "statement": "犂：从牛黎聲：耕也（《說文》「耕也」），墾田器。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨞃·lí",
+   "statement": "𨞃：从邑黎聲：殷諸侯國（《說文》），西伯戡𨛫之國。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䊍·lí",
+   "statement": "䊍：从米黎聲：𪐅，饘也（《集韻》），厚粥。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧑓·shǔ",
+   "statement": "𧑓：从蟲黍聲：蟲名（《博雅》），鼠婦蟲（俗稱潮蟲）。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩁟·lí",
+   "statement": "𩁟：从隹黎聲：𩁟黃也（《說文》），即黃鸝，色黎黑而黃。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藜·lǐ",
+   "statement": "藜：从艸黎聲：艸也（《說文》），嫩葉可食、老莖可杖。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshu-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瓈·lí",
+   "statement": "瓈：从玉黎聲：玻瓈（《玉篇》），寶玉、玻璃。",
+   "boundary": "源自《系統漢語》第569部「黍部」（卷九十四 七）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
