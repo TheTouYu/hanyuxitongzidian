@@ -1,0 +1,46 @@
+{
+ "schema_version": 1,
+ "intent": "字卡417b2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdc-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥻮（字卡）",
+   "statement": "𥻮（cuì）：《字汇补》「粉𥻮也」；又「𩝪，饵也」——糕饼，两字同义，取渣滓细末意。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䮨（字卡）",
+   "statement": "䮨（zǎi）：《集韵》「马杂毛骢色」——青白相间，正字通以为讹字；取「滓」意，指色如淤泥。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdc-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧪹（字卡）",
+   "statement": "𧪹（xià）：《字汇补》「诳也」——欺骗迷惑；所从「卒」本应为「乎」。",
+   "boundary": "源自《系統漢語》第417部「宰部」（卷六十九 舄）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
