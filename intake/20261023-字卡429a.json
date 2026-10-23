@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡429a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lb-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "立（字卡·lì）",
+   "statement": "立，lì：人跨立地面，站立、到临、占据；引申即刻、成、粒、位。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "笠（字卡·lì）",
+   "statement": "笠，lì：《说文》「簦无柄也」——斗笠；南宋李迪《风雨牧归图》中即此。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "位（字卡·wèi）",
+   "statement": "位，wèi：《说文》「列中庭之左右谓之位」——人立之处、位置；《篇海》古「位」字从立。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴗（字卡·lì）",
+   "statement": "鴗，lì：《说文》「天狗也」——翠鸟，又名山鴗、鱼狗、叼鱼郎，喙极长而尾短。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "颯（字卡·sà）",
+   "statement": "颯，sà：《说文》「翔风也」——回旋之风。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蒞（字卡·lì）",
+   "statement": "蒞，lì：《韵会》「临也」——到、临视。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鉝（字卡·lì）",
+   "statement": "鉝，lì：《集韵》「食器」，林邑王献流离苏鉝——古扶南国食器。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "岦（字卡·lì）",
+   "statement": "岦，lì：《广韵》「岦岌，山貌」——山势高立。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "菈（字卡·lā）",
+   "statement": "菈，lā：《方言》东鲁呼芦菔（萝卜）为菈𦾽子——块茎常长出地表，故从立。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lb-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "苙（字卡·lì）",
+   "statement": "苙，lì：《方言》「苙，圂也」——垫猪栏的草（已脱粒秸秆）；又白芷、白及。",
+   "boundary": "源自《系統漢語》第429部「立部」（卷七十一 聿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
