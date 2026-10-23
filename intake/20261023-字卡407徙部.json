@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡407徙部2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "bdi-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徙（字卡）",
+   "statement": "徙（xǐ）：从行从步——大道上人来人往（徜徉）或成群迁移；引申躲避流放。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縰（字卡）",
+   "statement": "縰（xǐ）：《集韵》「纚，《說文》『冠織也』，或作縰」——束发之帛；又众多貌。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蹝（字卡）",
+   "statement": "蹝（xǐ）：《集韵》「躧，《說文》『舞履也』」——舞鞋。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漇（字卡）",
+   "statement": "漇（xǐ）：《集韵》「潤也」；《正字通》「流貌」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢇌（字卡）",
+   "statement": "𢇌（cǐ）：《集韵》「𠈈，《說文》『小皃』」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "褷（字卡）",
+   "statement": "褷（shī）：《广韵》「襹，毛羽衣皃」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥛨（字卡）",
+   "statement": "𥛨（shī）：《龙龛》「襳𥛨，毛羽入也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㿅（字卡）",
+   "statement": "㿅（xuǎn）：《集韵》「癬，《說文》『乾瘍也』」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢊚（字卡）",
+   "statement": "𢊚（xǐ）：《玉篇》「移也」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "簁（字卡）",
+   "statement": "簁（shāi）：《说文》「簁箄，竹器也，从竹徙聲」——筛子。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蓰（字卡）",
+   "statement": "蓰（xǐ）：《集韵》「五倍曰蓰」；艸名，疑五倍子。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "bdi-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣯪（字卡）",
+   "statement": "𣯪（xǐ）：《字彙》「毛垂貌」。",
+   "boundary": "源自《系統漢語》第407部「足部」内二级字根徙部（卷六十七 足）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
