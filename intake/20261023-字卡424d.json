@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡424d2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "fg-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醱（字卡·pō）",
+   "statement": "醱字，pō。酒再酿谓之「酦」，今作「发酵」的「酦」；本义是酒液再次酝酿而起的变化。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fg-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩯌（字卡·bō）",
+   "statement": "𩯌字，bō。鬃毛纷张之貌——「𩯌䰖，鬓多毛」；取拨动时毛发被分张的样子。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fg-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩞽（字卡·bó）",
+   "statement": "𩞽字，bó。同「餺」，餺饦即饼；本义是麦粉分张压成片再蒸熟的面食。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fg-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蕟（字卡·fà）",
+   "statement": "蕟字，fà。一名草，又指粗竹席（籧篨）；草茎分张而编成席。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fg-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "櫠（字卡·fèi）",
+   "statement": "櫠字，fèi。《尔雅》「櫠、椵，柚属」——柚子一类果树，木材坚硬。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fg-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢠺（字卡·bó）",
+   "statement": "𢠺字，bó。心起也——心动而起伏；取拨动之义落在心上。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fg-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤗳（字卡·bō）",
+   "statement": "𤗳字，bō。挡风版；版片分张而立，以遮风。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fg-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驋（字卡·bō）",
+   "statement": "驋字，bō。马走、马怒、马摇首——马蹄拨地、鬃毛分张之状。",
+   "boundary": "源自《系統漢語》第424部「癹部」（卷七十 亥）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
