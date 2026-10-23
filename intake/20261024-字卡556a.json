@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡556a2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxin-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "辛·xīn",
+   "statement": "辛：象小刻刀形：上柄、下刃、中為護手（郭沫若《甲骨文字研究》），用於刻字紋身；引申辛辣、辛苦、新生。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "言·yán",
+   "statement": "言：从口从辛：以辛刀刻口所出（直言曰言，《說文》「直言曰言，論難曰語」）。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唁·yàn",
+   "statement": "唁：从口言聲：弔生也（《說文》「弔生也」），弔唁。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誾·yín",
+   "statement": "誾：从言門聲：和說而諍也（《說文》「和說而諍也」），誾誾。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "信·xìn",
+   "statement": "信：从人从言：誠也（《說文》「誠也」），人言為信。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詈·lì",
+   "statement": "詈：从网从言：罵也（《說文》「罵也」），网罪人而詈。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "這·zhè",
+   "statement": "這：从辵言聲：迎也（《說文》「迎也」），借為指示詞。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "親·qīn",
+   "statement": "親：从見𣓀聲：至也（《說文》「至也」），親近、親屬。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "櫬·chèn",
+   "statement": "櫬：从木親聲：棺也（《說文》「棺也」），近身之棺。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "新·xīn",
+   "statement": "新：从斤从木：取木也（《說文》「取木也」），析木為新，引申新旧。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薪·xīn",
+   "statement": "薪：从艸新聲：蕘也（《說文》「蕘也」），柴薪。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxin-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "毅·yì",
+   "statement": "毅：从殳豙聲：有決也（《說文》「有決也」），剛毅。",
+   "boundary": "源自《系統漢語》第556部「辛部」（卷九十二 辛）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
