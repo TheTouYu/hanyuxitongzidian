@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "intent": "字卡526a2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lchang-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鯧（字卡·chāng）",
+   "statement": "鯧（chāng）＝从魚昌聲：鯧鯸，似鯿，頭突起連背，身圓肉厚（《集韻》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䅛（字卡·chāng）",
+   "statement": "䅛（chāng）＝从禾昌聲：穅也，穀之空殼（《集韻》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䗉（字卡·chāng）",
+   "statement": "䗉（chāng）＝从虫昌聲：小蠃、小螺（《集韻》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪂇（字卡·chāng）",
+   "statement": "𪂇（chāng）＝从鳥昌聲：廣𪂇，鳳皇之屬（《集韻》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䮖（字卡·chāng）",
+   "statement": "䮖（chāng）＝从馬昌聲：馬名（《字彙》音昌）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "猖（字卡·chāng）",
+   "statement": "猖（chāng）＝从犬昌聲：狂駭也、猖狂（《玉篇》），放肆。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪉨（字卡·chāng）",
+   "statement": "𪉨（chāng）＝从鹵昌聲：鹵漬，以酒醋醬油浸漬（《玉篇》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "閶（字卡·chāng）",
+   "statement": "閶（chāng）＝从門昌聲：天門也，楚人名門曰閶闔（《說文》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "菖（字卡·chāng）",
+   "statement": "菖（chāng）＝从艸昌聲：菖蒲，蒲類之昌盛者（《本草》），葉長根白。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琩（字卡·chāng）",
+   "statement": "琩（chāng）＝从玉昌聲：耳璫，懸垂耳旁之玉（《廣韻》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淐（字卡·chāng）",
+   "statement": "淐（chāng）＝从水昌聲：水名（《集韻》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "錩（字卡·chāng）",
+   "statement": "錩（chāng）＝从金昌聲：器名（《漢典》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "裮（字卡·chāng）",
+   "statement": "裮（chāng）＝从衣昌聲：披衣不帶（《玉篇》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晿（字卡·chāng）",
+   "statement": "晿（chāng）＝从日昌聲：人名（《字彙補》）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchang-015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥫅（字卡·chāng）",
+   "statement": "𥫅（chāng）＝从竹昌聲：出《釋典》（《字彙補》音昌）。",
+   "boundary": "源自《系統漢語》第526部「昌部」（卷八十八 昜）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
