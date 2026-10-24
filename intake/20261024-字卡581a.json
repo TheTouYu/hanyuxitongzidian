@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "字卡581a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lli3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "豊·lǐ",
+   "statement": "豊：从壴从朋：行禮之器也（《玉篇》），禮物堆疊；引申眾而有序。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "體·tǐ",
+   "statement": "體：从骨豊聲：總十二屬也（《說文》），身體；《釋名》「體，第也」（骨肉毛血大小相次第）。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禮·lǐ",
+   "statement": "禮：从示从豊（豊亦聲）：履也，所以事神致富（《說文》），祭神求福→禮儀、禮物。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥴡·lǐ",
+   "statement": "𥴡：从竹豊聲：竹名（《廣韻》），似苦竹而細軟，肌薄有文理。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䪆·tǐ",
+   "statement": "䪆：从韋豊聲：䪆𩋪，軟貌（《廣韻》），柔軟。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醴·lǐ",
+   "statement": "醴：从酉豊聲：酒一宿孰也（《說文》），甜酒；醴泉（美泉可養老）。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澧·lǐ",
+   "statement": "澧：从水豊聲：水名（《說文》「出南陽雉衡山」），湖南澧水。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱧·lǐ",
+   "statement": "鱧：从魚豊聲：鱯也（《說文》），烏鱧（黑魚）；古人謂其夜仰首向北斗「有自然之禮」。",
+   "boundary": "源自《系統漢語》第581部「豊部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
