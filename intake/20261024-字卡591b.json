@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡591b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lqing2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漀·qǐng",
+   "statement": "漀：从水殸聲：側出泉也（《說文》「側出泉也」），旁出如醡；又傾水漿。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謦·qǐng",
+   "statement": "謦：从言殸聲：欬也（《說文》「欬也」），咳嗽清喉；謦欬，言笑。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㷫·qǐng",
+   "statement": "㷫：从火殸聲：火乾出也（《集韻》），火氣乾物。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "罄·qìng",
+   "statement": "罄：从缶殸聲：器中空也（《說文》「器中空也」），陶器中空敲如磬聲，引申盡、用盡。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䅽·gǔ",
+   "statement": "䅽：从禾殸聲：同穀（《漢典》），糧食作物總稱；今讀與馨同。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螜·hú",
+   "statement": "螜：从虫殸聲：同螜，天螻（《爾雅》「螜，天螻」），螻蛄。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撀·gòu",
+   "statement": "撀：从手殸聲：取牛羊乳也（《篇海》「古鬬切，音遘」），擠奶。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彀·gòu",
+   "statement": "彀：从弓殸聲：張弓也（《字彙補》「張弓也，亦作彀」），張弩。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瞉·kòu",
+   "statement": "瞉：从目殸聲：瞉瞀，無睱也（《奚韻》），目不明；又久視。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩌊·huò",
+   "statement": "𩌊：从革殸聲：緊束（《漢典》），疑即觳（盛觵巵、射具、盡）。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧹲·hù",
+   "statement": "𧹲：从赤殸聲：日出赤貌（《字彙補》「與𧹲同」）。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lqing2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨢋·hú",
+   "statement": "𨢋：从酉殸聲：濁酒（《集韻》）。",
+   "boundary": "源自《系統漢語》第591部「殸部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
