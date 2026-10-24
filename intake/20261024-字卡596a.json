@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡596a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshou1-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殲·jiān",
+   "statement": "殲：从歺韱聲：微盡也（《說文》「微盡也」），殲滅，纖微都盡。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㡨·jiān",
+   "statement": "㡨：从巾韱聲：拭也（《說文》「拭也」），揩拭細微；又 摽識（標籤）。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䤘·chǎn",
+   "statement": "䤘：从酉韱聲：酢也（《說文》「酢也」），醋味濃厚。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀸·jiān",
+   "statement": "瀸：从水韱聲：漬也（《說文》「漬也」），成捆浸漬漚之；《爾雅》「泉一見一否為瀸」。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懺·chàn",
+   "statement": "懺：从心韱聲：自陳悔也（《廣韻》），懺悔；梵文 kṣama（懺摩）音譯之省。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠠃·qiān",
+   "statement": "𠠃：从刀韱聲：割也（《廣韻》），切也（《集韻》）。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䑎·chǎn",
+   "statement": "䑎：从肉韱聲：臉䑎，以豬腸屑椒芥醯鹽為之（《集韻》），肉羹。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡄑·jiān",
+   "statement": "𡄑：从口韱聲：嚱㖩，不廉（《玉篇》），貪食無節。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羴·shān",
+   "statement": "羴：从三羊（或二疊、四疊）：羊臭也（《說文》「羊臭也」），羶之初文；群羊、溫順、鮮美三面。",
+   "boundary": "源自《系統漢語》第596部「羴部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羼·chàn",
+   "statement": "羼：从羊在尸下（羊相廁）：羊相廁也（《說文》），夾雜、插入；轉義 爭先恐後。",
+   "boundary": "源自《系統漢語》第596部「羴部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠠮·chǎn",
+   "statement": "𠠮：从刀羼聲：剗之異體，平滅、剷除。",
+   "boundary": "源自《系統漢語》第596部「羴部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshou1-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢺟·chàn",
+   "statement": "𢺟：从手羼聲：插入、攙入（《集韻》），以手廁入。",
+   "boundary": "源自《系統漢語》第596部「羴部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
