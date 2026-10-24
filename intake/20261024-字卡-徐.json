@@ -1,0 +1,20 @@
+{
+ "schema_version": 1,
+ "intent": "徐卡-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxu001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "徐·xú",
+   "statement": "徐：从彳余聲，余取划槳舒緩有次第之義，本義為安適地行走（《說文》「安行也」），引申緩、遲、從容；余字族①同取舒緩次第一面。",
+   "boundary": "源自《系統漢語》第54部「余部」余字族①（卷九 舟）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
