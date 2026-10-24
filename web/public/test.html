@@ -37,6 +37,10 @@ main{overflow:auto;padding:20px 26px}
 .glyphs figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:8px;padding:4px}
 .glyphs img{height:78px;display:block}
 .tag{display:inline-block;font-size:11px;color:var(--mut);border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-right:6px}
+.ct{width:100%;border-collapse:collapse;margin:4px 0 10px;font-size:14.5px}
+.ct th,.ct td{border:1px solid var(--line);padding:6px 9px;text-align:left;vertical-align:top}
+.ct th{background:#f4ecdf;font-weight:600;color:#5c4a37;font-size:13px}
+.ct td.zc{font-size:20px;width:56px;text-align:center}
 </style>
 </head>
 <body>
@@ -80,7 +84,11 @@ async function open(ch){
   try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json')).json(); }
   catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
-  const secs=(d.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3><p>${esc(s.text)}</p>${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`).join('');
+  const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
+  const head='<tr><th>字</th><th>形旁</th><th>取义落点</th></tr>';
+  return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
+};
+const secs=(d.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3>${tbl(s)}<p>${esc(s.text)}</p>${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`).join('');
   const glyph=g.length?`<div class="glyphs">${g.map(f=>`<figure><img loading="lazy" src="glyphs/${encodeURIComponent(ch)}/${encodeURIComponent(f)}" alt="${esc(ch)}"></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
   const b=(d.bus||[])[0]||{};
   main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${secs}<div class="sec"><h3>古文字字形</h3>${glyph}</div></div>`;
