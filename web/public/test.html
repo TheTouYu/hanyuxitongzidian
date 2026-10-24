@@ -76,7 +76,7 @@ window.addEventListener('unhandledrejection',function(e){var d=document.createEl
 const $=s=>document.querySelector(s);
 let IDX=[], GLYPH={}, cur='';
 const norm=s=>(s||'').toLowerCase();
-fetch('cards/index.json').then(r=>r.json()).then(d=>{IDX=d;$('#hint').textContent=`共 ${d.length} 张卡`;render('');}).catch(e=>$('#hint').textContent='索引加载失败：'+e);
+fetch('cards/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{IDX=d;$('#hint').textContent=`共 ${d.length} 张卡`;render('');}).catch(e=>$('#hint').textContent='索引加载失败：'+e);
 fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(()=>{});
 fetch('glyphs/photos/index.json').then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{});
 function match(q){
@@ -99,7 +99,7 @@ async function open(ch){
   cur=ch; render($('#q').value);
   const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
   let d;
-  try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json')).json(); }
+  try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now())).json(); }
   catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
   const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
@@ -118,7 +118,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).map(s=>{ if(isZX(s)) hasZX=true;
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
   const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
-      const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json'); if(!pr.ok) return '';
+      const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
       const p=await pr.json();
       const inner=(p.sections||[]).map(s=>secHTML(s,d.parent)).join('');
       return `<div class="sec rootbox"><h3>字理分析·字根「${esc(d.parent)}」</h3>${inner}</div>`;
