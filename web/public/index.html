@@ -141,7 +141,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'谐声字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
-  const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;if(!P.length&&d.level===3&&d.parent){P=(window.PHOTO||{})[d.parent]||[];own=false;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(ch)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
+  const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
 
   return `${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}${d.simp?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${photoBlock}${parentBlock}</div>`;
 }
