@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡597c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyong3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "唐·táng",
+   "statement": "唐：从口庚聲：大言也（《說文》「大言也」），引申空大荒唐；借為朝代名。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "塘·táng",
+   "statement": "塘：从土唐聲：隄也（《說文》「隄也」），池塘、堤岸。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糖·táng",
+   "statement": "糖：从米唐聲：飴也（後起字），以米麥熬成之甘。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "搪·táng",
+   "statement": "搪：从手唐聲：張也、抵也（《集韻》），搪塞、抵拒。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螗·táng",
+   "statement": "螗：从虫唐聲：蜩螗，小蟬（《詩》「如蜩如螗」）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "榶·táng",
+   "statement": "榶：从木唐聲：木名（《爾雅》「唐棣」亦作榶棣）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "康·kāng",
+   "statement": "康：从庚从米：穀皮也（《說文》「穀皮也」），中空故安樂、康莊；轉義 健康、安寧。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糠·kāng",
+   "statement": "糠：从米康聲：穀皮也（《說文》「穀皮也」），米糠。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慷·kāng",
+   "statement": "慷：从心康聲：慷慨，激昂；心氣空大。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漮·kāng",
+   "statement": "漮：从水康聲：水虛也（《說文》「水虛也」），水空處。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繭·jiǎn",
+   "statement": "繭：从糸从虫：蠶衣也（《說文》「蠶衣也」），蠶所結之殼，中空而藏蛹。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襺·jiǎn",
+   "statement": "襺：从衣繭聲：袍衣也（《說文》「袍衣也」），以絮充衣如繭。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
