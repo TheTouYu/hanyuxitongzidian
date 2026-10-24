@@ -90,10 +90,10 @@ async function open(ch){
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
   const grp=s=>{ if(!s.groups||!s.groups.length) return '';
   return s.groups.map(g=>`<div class="grp"><h4>${esc(g.title)}</h4><p class="gnote">${esc(g.note||'')}</p>
-  <table class="ct"><thead><tr><th>字</th><th>读音</th><th>形旁</th><th>取义落点</th></tr></thead><tbody>${g.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');
+  <table class="ct"><thead><tr><th>字</th><th>读音</th><th>类属</th><th>取义落点</th></tr></thead><tbody>${g.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');
 };
 const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
-  const head='<tr><th>字</th><th>形旁</th><th>取义落点</th></tr>';
+  const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';
   return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
 };
 const secs=(d.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`).join('');
