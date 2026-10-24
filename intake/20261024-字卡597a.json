@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡597a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyong1-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "用·yòng",
+   "statement": "用：象蟲蛹形：蛹之初文（《說文》「繭蟲也」）；引申施行、使用、器物、憑藉、花費。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甬·yǒng",
+   "statement": "甬：中空之甬：甬道、鐘柄；本取蛹之中空，與「同」義音可通。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "桶·tǒng",
+   "statement": "桶：从木甬聲：木桶（《說文》「木方受六升」），中空之器。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "筩·tǒng",
+   "statement": "筩：从竹甬聲：竹筒，斷竹之中空者。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "俑·yǒng",
+   "statement": "俑：从人甬聲：木偶人（《說文》「痛也」一曰偶人），殉葬之偶。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "通·tōng",
+   "statement": "通：从辵甬聲：達也（《說文》「達也」），中空故通。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痛·tòng",
+   "statement": "痛：从疒甬聲：病也（《說文》「病也」），痛楚。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "涌·yǒng",
+   "statement": "涌：从水甬聲：水往上冒（《說文》「滕也」），洶湧。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勇·yǒng",
+   "statement": "勇：从力甬聲：气也（《說文》「气也」），勇力；甬之中空故有力。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "誦·sòng",
+   "statement": "誦：从言甬聲：諷也（《說文》「諷也」），朗讀背誦。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蛹·yǒng",
+   "statement": "蛹：从虫甬聲：繭蟲也（《說文》「繭蟲也」），昆蟲過渡之形。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong1-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "踊·yǒng",
+   "statement": "踊：从足甬聲：跳也（《說文》「跳也」），踴躍。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
