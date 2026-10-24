@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "fill-0-12-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lf001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騱·xí",
+   "statement": "騱：屬第2部「奚部」字族，騱xí《說文》：“驒騱馬也。从馬奚聲。胡雞切。”野馬。《爾雅·釋畜》：“前足皆白，騱。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼷·xī",
+   "statement": "鼷：屬第2部「奚部」字族，鼷xī《說文》：“小鼠也。从鼠奚聲。胡雞切。” 《玉篇》：“小鼠也。螫毒，食人及鳥獸，皆不痛。今之甘口鼠也。”《漢典》：",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "豯·xī",
+   "statement": "豯：屬第2部「奚部」字族，豯xī《方言》：“豬，其子或謂之豯。”《說文》：“生三月豚，腹豯豯皃也。从豕奚聲。胡雞切。”出生三個月的豬，大肚的樣子。",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "貕·xī",
+   "statement": "貕：屬第2部「奚部」字族，貕xī《揚子·方言》：“豬子或謂之豚，或謂之貕。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤳤·qī",
+   "statement": "𤳤：屬第2部「奚部」字族，𤳤qī《廣韻》：“小畚。”小畚箕。《集韻》：“《博雅》：‘𤳤𤱾、筲，𥰠也’。”盛飯用的竹器。",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謑·xǐ",
+   "statement": "謑：屬第2部「奚部」字族，謑（䜁）xǐ《說文》：“恥也。从言奚聲。，謑或从奊。胡禮切。”《玉篇》：“謑詬，恥辱也。”《集韻》：“謑詬，小人怒。”x",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慀·xié",
+   "statement": "慀：屬第2部「奚部」字族，慀xié《集韻》：“戸佳切，音諧。𢠼慀，心不平也。”xì，《廣韻》：“恨走皃。”《集韻》：“恨也。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螇·xī",
+   "statement": "螇：屬第2部「奚部」字族，螇（𧕉𧋉）xī《說文》：“螇鹿，蛁蟟也。从虫奚聲。胡雞切。”知了。qī，《集韻》：“與𧕉、𧋉同。土蜂也。”《爾雅》：“蟿",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㜎·xī",
+   "statement": "㜎：屬第2部「奚部」字族，㜎xī《說文》：“女隶也。从女奚聲。胡雞切。”女奴。xì，《集韻》：“怯也。一曰妒也。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪓷·xí",
+   "statement": "𪓷：屬第2部「奚部」字族，𪓷xí《說文》：“水蟲也。薉貉之民食之。从黽奚聲。胡雞切。”《段注》：“葢猶中國之食鼃，謂之水雞也。”田雞。蛙類。",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦫬·xī",
+   "statement": "𦫬：屬第2部「奚部」字族，𦫬（䒊）xī《玉篇》：“同䒊。”䒊，《廣韻》：“黃病色。”即黃疸病。一般系肝病或營養不良引起，面黃而腹鼓。",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lf012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "脂·zhī",
+   "statement": "脂：屬第3部「旨部」字族，脂zhī《說文》：“戴角者脂，無角者膏。从肉旨聲。旨夷切。”有角動物的脂肪叫脂，無角動物的脂肪叫膏。《玉篇》：“脂膏。”",
+   "boundary": "源自《系統漢語》第3部「旨部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
