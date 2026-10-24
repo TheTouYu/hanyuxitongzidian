@@ -51,6 +51,9 @@ main{overflow:auto;padding:20px 26px}
 .grp{margin:8px 0 14px}
 .grp h4{margin:8px 0 4px;font-size:14px;color:#5c4a37}
 .grp .gnote{font-size:12.5px;color:var(--mut);margin:0 0 6px}
+.vbox{margin:8px 0;padding:8px 10px;background:#f6f0e4;border:1px solid #e2d4b8;border-radius:6px;font-size:14px}
+.vbtn{margin:0 4px;padding:2px 8px;border:1px solid #c9a86a;background:#fff;border-radius:4px;cursor:pointer}
+.vnote{color:#8a7a5c;font-size:12px}
 </style>
 </head>
 <body>
@@ -95,6 +98,16 @@ function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':
 const GGRP=s=>{if(!s.groups||!s.groups.length)return '';return s.groups.map(g=>`<div class="grp"><h4>${esc(g.title)}</h4><p class="gnote">${esc(g.note||'')}</p><table class="ct"><thead><tr><th>字</th><th>读音</th><th>类属</th><th>取义落点</th></tr></thead><tbody>${g.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');};
 const TTBL=s=>{if(!s.rows||s.rows.length<3)return '';const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;};
 const secHTML=(s,ch2)=>{const g2=(GLYPH[ch2]&&(GLYPH[ch2].files||[]))||[];const st=g2.length?`<div class="gscroll">${g2.map((f,i)=>`<figure><img loading="lazy" src="${encodeURI('glyphs/'+ch2+'/'+(String(f).startsWith(ch2+'/')?String(f).slice(ch2.length+1):f))}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';const zx=(s.key==='zixing'||/字形|古文字/.test(s.label||''))?st:'';return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${GGRP(s)}${TTBL(s)}<p>${esc(s.text)}</p>${zx}</div>`;};
+let VARIANT_MAP=null;
+async function variantsFor(ch){
+  if(!VARIANT_MAP){
+    try{VARIANT_MAP=await (await fetch('cards/variants.json?v='+Date.now())).json();}catch(e){VARIANT_MAP={};}
+  }
+  const list=VARIANT_MAP[ch]||[];
+  if(!list.length) return '';
+  const btns=list.map(v=>`<button class="vbtn" onclick="open('${v}')">${v}</button>`).join(' ');
+  return `<div class="vbox"><span>对应繁体/借字：</span>${btns}<span class="vnote">（分卡各释本义，勿混）</span></div>`;
+}
 async function open(ch){
   cur=ch; render($('#q').value);
   const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
