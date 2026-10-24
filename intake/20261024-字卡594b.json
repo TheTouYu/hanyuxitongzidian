@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡594b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshan2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "診·zhěn",
+   "statement": "診：从言㐱聲：視也（《說文》「視也」），診視、診斷。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "畛·zhěn",
+   "statement": "畛：从田㐱聲：井田間陌也（《說文》「井田間陌也」），田間小路。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趁·chèn",
+   "statement": "趁：从走㐱聲：𧾍也（《說文》「𧾍也」），趁逐、趕趁。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "珍·zhēn",
+   "statement": "珍：从玉㐱聲：寶也（《說文》「寶也」），珍寶。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昣·zhěn",
+   "statement": "昣：从日㐱聲：明也（《集韻》），日明。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "聄·zhěn",
+   "statement": "聄：从耳㐱聲：視也（《集韻》），耳聽。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "胗·zhēn",
+   "statement": "胗：从肉㐱聲：脣瘍也（《說文》「脣瘍也」），唇瘡；又 鳥獸胃。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沴·lì",
+   "statement": "沴：从水㐱聲：水不利也（《說文》「水不利也」），水氣不和、災氣。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眕·zhěn",
+   "statement": "眕：从目㐱聲：目有所恨而止也（《說文》），目重而止。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紾·zhěn",
+   "statement": "紾：从糸㐱聲：轉也（《說文》「轉也」），糾轉；又 單衣。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "軫·zhěn",
+   "statement": "軫：从車㐱聲：車後橫木也（《說文》「車後橫木也」），轉義 哀痛（軫念）。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殄·tiǎn",
+   "statement": "殄：从歺㐱聲：盡也（《說文》「盡也」），滅絕。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
