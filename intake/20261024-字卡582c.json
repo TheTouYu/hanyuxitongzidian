@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡582c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiao3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "截·jié",
+   "statement": "截：从戈雀聲：斷也（《說文》「截，斷也」），截斷、齊平。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚼·jiáo",
+   "statement": "嚼：从口爵聲（雀支）：咀嚼（《說文》「齧也」），以牙磨碎。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "穧·jì",
+   "statement": "穧：从禾齊聲（雀支）：穫禾聚把（《說文》「穫禾聚把也」）。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "節·jié",
+   "statement": "節：从竹即聲：竹約也（《說文》「竹約也」），竹節→節制、符節。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巀·jié",
+   "statement": "巀：从山截聲：巀嶭，山高峻（《說文》「巀嶭，山也」）。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癤·jiē",
+   "statement": "癤：从疒節聲：癤子（《集韻》），皮膚腫結。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蠘·jié",
+   "statement": "蠘：从虫截聲：梭子蟹（《集韻》），甲殼尖利。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蠽·jié",
+   "statement": "蠽：从虫雀聲：蟬屬（《說文》「蠽，蟬屬」）。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籖·qiān",
+   "statement": "籖：从竹韱聲：驗也（《說文》作「籤」），竹簽、籤驗。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熦·jué",
+   "statement": "熦：从火雀聲：炬火（《集韻》），小火。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "噍·jiào",
+   "statement": "噍：从口焦聲：齧也（《說文》「噍，齧也」），咀嚼；又聲。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "擮·jié",
+   "statement": "擮：从手截聲：拔也（《集韻》），拔取。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
