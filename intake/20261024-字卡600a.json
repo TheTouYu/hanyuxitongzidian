@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡600a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lju-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詛·zǔ",
+   "statement": "詛：从言且聲：詶也（《說文》「詶也」），詛咒。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "砠·jū",
+   "statement": "砠：从石且聲：石戴土也（《說文》「石戴土也」）。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蛆·qū",
+   "statement": "蛆：从虫且聲：蠅之子（《玉篇》），蠅蛆。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沮·jǔ",
+   "statement": "沮：从水且聲：止也（《說文》「止也」），沮止、沮喪。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "咀·jǔ",
+   "statement": "咀：从口且聲：含味也（《說文》「含味也」），咀嚼。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "苴·jū",
+   "statement": "苴：从艸且聲：履中艸（《說文》「履中艸」），包裹、麻之有子者。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "殂·cū",
+   "statement": "殂：从歺且聲：往死也（《說文》「往死也」），崩殂。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "罝·jū",
+   "statement": "罝：从网且聲：兔网也（《說文》「兔网也」）。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巨·jù",
+   "statement": "巨：象矩之形：規巨也（《說文》「規巨也」），工字尺；引申大。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "矩·jǔ",
+   "statement": "矩：从矢巨聲：規矩（《說文》引「規巨」），法度。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拒·jù",
+   "statement": "拒：从手巨聲：拒也（《說文》「拒也」），抵拒。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "距·jù",
+   "statement": "距：从足巨聲：雞距也（《說文》「雞距也」），距離。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且／卷一百 巨）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
