@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡602a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhou3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壽·shòu",
+   "statement": "壽：𠃬部字族：由鑄件經久耐用引申長久，《集韻》「乆也。古作𠷎」；壽命、壽考。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醻·chóu",
+   "statement": "醻：从酉𠷎聲：主人進客也（《說文》「主人進客也」），主客應酬，後作「酬」。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禱·dǎo",
+   "statement": "禱：从示壽聲：告事求福也（《說文》「告事求福也」），祈禱。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鑄·zhù",
+   "statement": "鑄：从金壽聲：銷金也（《說文》「銷金也」），冶金寫之範中以為器，甲骨文本象捧熔液倒入範中。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "濤·táo",
+   "statement": "濤：从水壽聲：大波也（《說文》「大波也」），波濤。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幬·chóu",
+   "statement": "幬：从巾𠷎聲：禪帳也（《說文》「禪帳也」），單層帳幕；dào，覆也。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燾·dào",
+   "statement": "燾：从火壽聲：溥覆照也（《說文》「溥覆照也」），覆照、覆蓋。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "儔·chóu",
+   "statement": "儔：从人壽聲：翳也（《說文》「翳也」），華蓋；伴侶、同輩。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籌·chóu",
+   "statement": "籌：从竹壽聲：壺矢也（《說文》「壺矢也」），投壺之箭；籌碼、計謀。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "翿·dào",
+   "statement": "翿：从羽𣪐聲：翳也，所以舞也（《說文》），羽舞葬禮所用旌旗（羽葆幢）。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薵·chóu",
+   "statement": "薵：从艸壽聲：薵藸，葱名（《集韻》）。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疇·chóu",
+   "statement": "疇：从田壽聲：田疇，耕治之田（𠃬之初文，象田間溝畔形）。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
