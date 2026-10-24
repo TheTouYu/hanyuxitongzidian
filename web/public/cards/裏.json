@@ -1,8 +1,8 @@
 {
  "char": "裏",
  "pinyin": "lǐ",
- "level": 0,
- "parent": "",
+ "level": 3,
+ "parent": "衣",
  "bus": [
   {
    "num": 0,
@@ -11,33 +11,15 @@
  ],
  "sections": [
   {
-   "key": "benyi",
-   "label": "本义",
+   "key": "shiyi",
+   "label": "释义",
    "text": "裏，lǐ：从衣里聲，衣物的内层（《說文》「衣內也」）。",
-   "cites": []
-  },
-  {
-   "key": "zhuanyi",
-   "label": "转义",
-   "text": "引申为内部、里面。",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "l「拢离」取「拢」：衣裹而拢（推）。",
-   "cites": []
-  },
-  {
-   "key": "jiezi",
-   "label": "借字说明",
-   "text": "今「里」借作「裏」之简化，属同音借用：「里」本为乡里（从田从土），非本字，故裏、里分卡。",
-   "cites": []
-  },
-  {
-   "key": "buzhu",
-   "label": "部属待核",
-   "text": "部号待核，暂记「衣」部。",
    "cites": []
   }
  ]

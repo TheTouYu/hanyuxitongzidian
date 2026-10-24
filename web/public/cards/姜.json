@@ -1,8 +1,8 @@
 {
  "char": "姜",
  "pinyin": "jiāng",
- "level": 0,
- "parent": "",
+ "level": 3,
+ "parent": "羊",
  "bus": [
   {
    "num": 523,
@@ -11,27 +11,15 @@
  ],
  "sections": [
   {
-   "key": "benyi",
-   "label": "本义",
+   "key": "shiyi",
+   "label": "释义",
    "text": "姜（jiāng）从女羊聲：神農居姜水以為姓（《說文》），借為女子美稱（原稿字卡條）。",
-   "cites": []
-  },
-  {
-   "key": "zhuanyi",
-   "label": "转义",
-   "text": "姓姜；又为女子美称。",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "j「聚决」取「聚」：族聚而决（推）。",
-   "cites": []
-  },
-  {
-   "key": "jiezi",
-   "label": "借字说明",
-   "text": "今「姜」又借作「薑」（生姜）之简化，属同音借用，非本字，须另立薑卡。",
    "cites": []
   }
  ]

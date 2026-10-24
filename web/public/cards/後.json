@@ -1,8 +1,8 @@
 {
  "char": "後",
  "pinyin": "hòu",
- "level": 0,
- "parent": "",
+ "level": 3,
+ "parent": "夂",
  "bus": [
   {
    "num": 0,
@@ -11,33 +11,15 @@
  ],
  "sections": [
   {
-   "key": "benyi",
-   "label": "本义",
+   "key": "shiyi",
+   "label": "释义",
    "text": "後，hòu：从彳从幺从夂，象足被绳系而落后（原稿以「𡰿」为据：「从夂𡱂聲，行促迫，緊隨人後」），本义为落在后面。",
-   "cites": []
-  },
-  {
-   "key": "zhuanyi",
-   "label": "转义",
-   "text": "引申为时间较晚、后代、后妃。",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "h「豁活」取「活」：行迟而活（推）。",
-   "cites": []
-  },
-  {
-   "key": "jiezi",
-   "label": "借字说明",
-   "text": "「后」本为君王（后妃、皇后），今借作「後」之简化，属同音借用，非本字，故後、后分卡。",
-   "cites": []
-  },
-  {
-   "key": "buzhu",
-   "label": "部属待核",
-   "text": "部号待核，暂记「夂」部。",
    "cites": []
   }
  ]

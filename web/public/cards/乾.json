@@ -1,8 +1,8 @@
 {
  "char": "乾",
  "pinyin": "gān",
- "level": 0,
- "parent": "",
+ "level": 3,
+ "parent": "乙",
  "bus": [
   {
    "num": 361,
@@ -11,33 +11,15 @@
  ],
  "sections": [
   {
-   "key": "benyi",
-   "label": "本义",
+   "key": "shiyi",
+   "label": "释义",
    "text": "乾，gān：《說文》「上出也。从乙，乙，物之達也；倝聲」；本义为向上冒出，引申为干燥。",
-   "cites": []
-  },
-  {
-   "key": "zhuanyi",
-   "label": "转义",
-   "text": "干燥（干湿之干）；qián 为卦名（乾坤）。",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "g「隔估」取「隔」：水隔而干（推）。",
-   "cites": []
-  },
-  {
-   "key": "jiezi",
-   "label": "借字说明",
-   "text": "今「干」借作「乾」（干燥）与「幹」（枝干）之简化，皆同音借用，非本字；干本树杈猎具。",
-   "cites": []
-  },
-  {
-   "key": "buzhu",
-   "label": "部属待核",
-   "text": "暂记第361部「乙」部，部号待核。",
    "cites": []
   }
  ]

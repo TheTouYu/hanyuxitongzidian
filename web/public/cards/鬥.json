@@ -1,8 +1,8 @@
 {
  "char": "鬥",
  "pinyin": "dòu",
- "level": 0,
- "parent": "",
+ "level": 3,
+ "parent": "鬥",
  "bus": [
   {
    "num": 468,
@@ -11,27 +11,15 @@
  ],
  "sections": [
   {
-   "key": "benyi",
-   "label": "本义",
+   "key": "shiyi",
+   "label": "释义",
    "text": "鬥，dòu：象两人徒手相搏之形，本义为争斗（《說文》「兩士相對，兵杖在後」象鬥之形）。",
-   "cites": []
-  },
-  {
-   "key": "zhuanyi",
-   "label": "转义",
-   "text": "引申为竞赛、拼合（斗榫）。",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "d「囤动」取「动」：相搏而动（推）。",
-   "cites": []
-  },
-  {
-   "key": "jiezi",
-   "label": "借字说明",
-   "text": "「斗」本为量器（十升），今借作「鬥」之简化，属同音借用，非本字，故鬥、斗分卡。",
    "cites": []
   }
  ]

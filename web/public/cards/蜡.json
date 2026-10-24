@@ -1,8 +1,8 @@
 {
  "char": "蜡",
  "pinyin": "zhà",
- "level": 0,
- "parent": "",
+ "level": 3,
+ "parent": "蟲",
  "bus": [
   {
    "num": 194,
@@ -11,27 +11,15 @@
  ],
  "sections": [
   {
-   "key": "benyi",
-   "label": "本义",
+   "key": "shiyi",
+   "label": "释义",
    "text": "蜡，zhà：从虫昔聲，《說文》「蠅膽也」；古又为年终大祭之名（蜡祭，合聚百物而祭）。",
-   "cites": []
-  },
-  {
-   "key": "zhuanyi",
-   "label": "转义",
-   "text": "蜡祭；后借为「蠟」（蜂蜡、蜡烛）之简化。",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "zh「凿总」取「总」：合聚百物而总（推）。",
-   "cites": []
-  },
-  {
-   "key": "jiezi",
-   "label": "借字说明",
-   "text": "今「蜡」兼作「蠟」之简化，属同音借用：蜡本蝇胆/祭名，蠟本蜂蜡，非本字。",
    "cites": []
   }
  ]

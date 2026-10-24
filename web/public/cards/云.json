@@ -1,8 +1,8 @@
 {
  "char": "云",
  "pinyin": "yún",
- "level": 0,
- "parent": "",
+ "level": 3,
+ "parent": "回",
  "bus": [
   {
    "num": 451,
@@ -11,27 +11,15 @@
  ],
  "sections": [
   {
-   "key": "benyi",
-   "label": "本义",
+   "key": "shiyi",
+   "label": "释义",
    "text": "云，yún：象云气回转之形，云气回转（卷九十四「回」部云支）；后加「雨」繁化為「雲」，二字本一字。",
-   "cites": []
-  },
-  {
-   "key": "zhuanyi",
-   "label": "转义",
-   "text": "引申为言说（「云」借为曰）；古书「云」多作「曰」用。",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "y 为零声母一系（今读 yún），绪论七组未列，不系（照实）。",
-   "cites": []
-  },
-  {
-   "key": "jiezi",
-   "label": "借字说明",
-   "text": "云与雲本为一字（加雨分化），非同音借用；今「云」兼作「雲」之简化。",
    "cites": []
   }
  ]
