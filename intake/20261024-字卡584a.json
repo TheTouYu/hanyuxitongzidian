@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡584a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喿·zào",
+   "statement": "喿：从品从木：蟲鳥獸眾口在樹上鳴叫（《玉篇》「呼噪也」），噪之初文；轉義 雜亂、焦躁。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譟·zào",
+   "statement": "譟：从言喿聲：擾也（《說文》），群呼煩擾、喧嘩。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "噪·zào",
+   "statement": "噪：从口喿聲：譟之或體（《集韻》），蟲鳥鳴叫、喧噪。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幧·qiāo",
+   "statement": "幧：从巾喿聲：斂髮也（《說文》），束髮巾（幧頭）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤒕·cāo",
+   "statement": "𤒕：从火喿聲：欲沸（《集韻》「水將沸，冒泡」）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僺·qiào",
+   "statement": "僺：从人喿聲：僥俏，長皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氉·sào",
+   "statement": "氉：从毛喿聲：毛也（《玉篇》）；毷氉，煩躁不安。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧴜·sāo",
+   "statement": "𧴜：从豸喿聲：貉𧴜胡，即絡腮鬍（《字海》）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "躁·zào",
+   "statement": "躁：从足喿聲：動也（《廣韻》），急進不安靜（《正字通》）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澡·zǎo",
+   "statement": "澡：从水喿聲：灑手也（《說文》），洗滌、整治。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "操·cāo",
+   "statement": "操：从手喿聲：把持也（《說文》），握持；又節操、操練。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "臊·sāo",
+   "statement": "臊：从肉喿聲：豕膏臭也（《說文》），腥臊；又臊子（細剁肉）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
