@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡583a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lchao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "巢·cháo",
+   "statement": "巢：从木上有西（西＝鳥窩）：鳥在木上曰巢（《說文》）；轉義 高（《小爾雅》）、笙（《爾雅》「大笙謂之巢」）、棧道；音源借音同「少」。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "樔·cháo",
+   "statement": "樔：从木巢聲：澤中守艸樓（《說文》）；又罺之或體，捕魚抄網。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繅·sāo",
+   "statement": "繅：从糸巢聲：繹繭為絲（《說文》），抽繭出絲（繭如鳥窩）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漅·cháo",
+   "statement": "漅：从水巢聲：湖名（《廣韻》「音剿，湖名」）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "薻·zǎo",
+   "statement": "薻：从艸从水巢聲：水艸也（《說文》引《詩》「于以采薻」），水藻（浮出水面如巢）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "窼·chāo",
+   "statement": "窼：从穴巢聲：鳥穴中也（《集韻》）；俗作窠（窟也、巢窠）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏁·suǒ",
+   "statement": "鏁：从金巢聲：鎖之俗字（《廣韻》「鎖，鐵鎖也。俗作鏁」）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "轈·cháo",
+   "statement": "轈：从車巢聲：兵高車加巢以望敵（《說文》引《春秋傳》「楚子登轈車」），巢車。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄛·cháo",
+   "statement": "鄛：从邑巢聲：南陽棗陽鄉（《說文》），漢代鄉名。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "罺·cháo",
+   "statement": "罺：从网巢聲：抄網（《爾雅》「罺謂之汕」），撩罟（水中撈魚）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "摷·jiǎo",
+   "statement": "摷：从手巢聲：拘擊也（《說文》）；又取也（《廣雅》），水中撈物、抄取。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "勦·jiǎo",
+   "statement": "勦：从力巢聲：勞也（《說文》引《春秋傳》「安用勦民」）；又輕捷、竊取抄襲。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
