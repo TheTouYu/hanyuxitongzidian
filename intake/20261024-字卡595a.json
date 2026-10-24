@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡595a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljian1-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㦰·jiān",
+   "statement": "㦰：从戈割从之足：全部割取，收割、滅盡；引申纖細。古文讀若咸，讀若「攕攕女手」。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "韱·xiān",
+   "statement": "韱：从韭㦰聲：山韭也（《說文》「山韭也」），割韭；引申細。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩃔·jiān",
+   "statement": "𩃔：从雨㦰聲：微雨也（《說文》「微雨也」），毛毛細雨，浸漬。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "纖·xiān",
+   "statement": "纖：从糸韱聲：細也（《說文》「細也」），繒帛之細者，凡微細曰纖。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孅·xiān",
+   "statement": "孅：从女韱聲：銳細也（《說文》「銳細也」），指尖細；孅趨，巧佞。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攕·xiān",
+   "statement": "攕：从手韱聲：好手皃（《說文》引《詩》「攕攕女手」），手指細長。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "櫼·jiān",
+   "statement": "櫼：从木韱聲：楔也（《說文》「楔也」），上大下小之木尖。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鑯·jiān",
+   "statement": "鑯：从金韱聲：鐵器也（《說文》），鋼釺、刻；俗作尖。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籤·qiān",
+   "statement": "籤：从竹韱聲：驗也，一曰銳也、貫也（《說文》），標識、刺入。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "讖·chèn",
+   "statement": "讖：从言韱聲：驗也（《說文》「驗也」），預言徵驗之書；《釋名》「纖也，其義纖微」。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襳·jiān",
+   "statement": "襳：从衣韱聲：圭表飾、小襦、襌襦（《玉篇》），婦女上衣長帶。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljian1-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "虃·jiān",
+   "statement": "虃：从艸韱聲：艸名，百足也（《集韻》），地蜈蚣草。",
+   "boundary": "源自《系統漢語》第595部「㦰部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
