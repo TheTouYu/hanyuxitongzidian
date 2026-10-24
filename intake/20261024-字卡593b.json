@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡593b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llin2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "槮·sēn",
+   "statement": "槮：从木參聲：木長皃（《說文》「木長皃」），樹高森然。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禁·jìn",
+   "statement": "禁：从示林聲：吉凶之忌也（《說文》「吉凶之忌也」），禁忌、禁止。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "噤·jìn",
+   "statement": "噤：从口禁聲：口閉也（《說文》「口閉也」），噤若寒蟬。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凚·jìn",
+   "statement": "凚：从仌禁聲：寒戰（《集韻》「寒極而戰」），凜冽。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襟·jīn",
+   "statement": "襟：从衣禁聲：交衽也（《說文》「交衽也」），衣襟、胸懷。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齽·jìn",
+   "statement": "齽：从齒禁聲：齽齘，切齒（《集韻》），咬牙。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "散·sàn",
+   "statement": "散：从肉从㪔：分離也（《說文》「分離也」），分散、散漫。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饊·sǎn",
+   "statement": "饊：从食散聲：熬稻粻饘也（《說文》），饊子，油炸麵食。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傘·sǎn",
+   "statement": "傘：从人从繖省：蓋也（《集韻》「傘，蓋也」），雨傘。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撒·sā",
+   "statement": "撒：从手散聲：散布也（《集韻》），撒開、撒手。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潸·shān",
+   "statement": "潸：从水散省聲：涕流皃（《詩》「潸焉出涕」），淚下。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霰·xiàn",
+   "statement": "霰：从雨散聲：稷雪也（《說文》「稷雪也」），雪珠。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
