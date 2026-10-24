@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡586d0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhao4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㕚·zhǎo",
+   "statement": "㕚：从又指間小點：象以手抓撓（《玉篇》「刮也」），搔之初文；《說文》「手足甲也」析形不確。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥄗·wò",
+   "statement": "𥄗：从目从㕚：捾目也（《說文》「捾目也」），挖眼。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢯲·wàn",
+   "statement": "𢯲：从手𥄗聲：手𢯲也（《說文》引揚雄「𢯲，握也」），手腕。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "骱·jiè",
+   "statement": "骱：从骨介聲：䯦骱，小骨（《集韻》）；又堅也。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䯰·jiè",
+   "statement": "䯰：从髟介聲：簪髻（《正字通》「䯰、紒通」），束髮簪。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齘·xiè",
+   "statement": "齘：从齒介聲：齒相切也（《說文》），咬牙；一曰怒也。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芥·jiè",
+   "statement": "芥：从艸介聲：芥本字（《正字通》），芥菜；又菜名生水中。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衸·jiè",
+   "statement": "衸：从衣介聲：衣裾也（《玉篇》），刺膝、衣長皃。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡰫·niǎn",
+   "statement": "𡰫：从尸从又：柔皮也（《說文》「从申尸之後」），使皮革柔軟（搓揉）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨋚·niǎn",
+   "statement": "𨋚：从車㞋聲：轢也（《說文》），車輪輾壓；又軟（柔也）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䁊·wò",
+   "statement": "䁊：从目𥄗聲：短深目皃（《說文》），眼眶短而眼珠深陷。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhao4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤭲·nà",
+   "statement": "𤭲：从瓦叉聲：牡瓦（《廣韻》），房上俯蓋之瓦。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
