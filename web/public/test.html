@@ -54,6 +54,7 @@ main{overflow:auto;padding:20px 26px}
 .vbox{margin:8px 0;padding:8px 10px;background:#f6f0e4;border:1px solid #e2d4b8;border-radius:6px;font-size:14px}
 .vbtn{margin:0 4px;padding:2px 8px;border:1px solid #c9a86a;background:#fff;border-radius:4px;cursor:pointer}
 .vnote{color:#8a7a5c;font-size:12px}
+.ph{display:flex;gap:10px;align-items:baseline;margin:6px 0 10px}.ph .ch{font-size:40px;line-height:1}
 </style>
 </head>
 <body>
@@ -134,7 +135,13 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).map(s=>{ if(isZX(s)) hasZX=true;
   const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
       const p=await pr.json();
-      const inner=(p.sections||[]).map(s=>secHTML(s,d.parent)).join('');
+      const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
+      const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
+      const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
+      const pb=(p.bus||[])[0]||{};
+      const inner=`<div class="ph"><span class="ch">${esc(p.char||d.parent)}</span><span class="py">${esc(p.pinyin||'')}</span><span class="bu">第${esc(String(pb.num||'?'))}部 ${esc(pb.name||'')}</span></div>${pstrip}`
+        +(p.sections||[]).filter(x=>!(x.key==='zigen'||x.key==='zixing'||/字形/.test(x.label||'')))
+           .map(x=>`<div class="sec"><h3>${esc(x.label||x.key)}</h3>${GGRP(x)}${TTBL(x)}<p>${esc(x.text)}</p></div>`).join('');
       return `<div class="sec rootbox"><h3>字根「${esc(d.parent)}」</h3>${inner}</div>`;
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'谐声字'}</span>`:'';
