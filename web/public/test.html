@@ -42,6 +42,9 @@ main{overflow:auto;padding:20px 26px}
 .ct th{background:#f4ecdf;font-weight:600;color:#5c4a37;font-size:13px}
 .ct td.zc{font-size:20px;width:56px;text-align:center}
 .rootbox{background:#f7f1e6;border:1px dashed #d9c9b2;border-radius:10px;padding:10px 14px}
+.grp{margin:8px 0 14px}
+.grp h4{margin:8px 0 4px;font-size:14px;color:#5c4a37}
+.grp .gnote{font-size:12.5px;color:var(--mut);margin:0 0 6px}
 </style>
 </head>
 <body>
@@ -85,11 +88,15 @@ async function open(ch){
   try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json')).json(); }
   catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
-  const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
+  const grp=s=>{ if(!s.groups||!s.groups.length) return '';
+  return s.groups.map(g=>`<div class="grp"><h4>${esc(g.title)}</h4><p class="gnote">${esc(g.note||'')}</p>
+  <table class="ct"><thead><tr><th>字</th><th>读音</th><th>形旁</th><th>取义落点</th></tr></thead><tbody>${g.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');
+};
+const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
   const head='<tr><th>字</th><th>形旁</th><th>取义落点</th></tr>';
   return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
 };
-const secs=(d.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3>${tbl(s)}<p>${esc(s.text)}</p>${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`).join('');
+const secs=(d.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`).join('');
   const glyph=g.length?`<div class="glyphs">${g.map(f=>`<figure><img loading="lazy" src="glyphs/${encodeURIComponent(ch)}/${encodeURIComponent(f)}" alt="${esc(ch)}"></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
 
   const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
