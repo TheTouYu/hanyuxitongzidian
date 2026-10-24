@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡592b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldong2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柊·zhōng",
+   "statement": "柊：从木冬聲：木名（《廣韻》），柊葉寬大如葵，可作粽葉，故从冬。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "終·zhōng",
+   "statement": "終：从糸冬聲：絿絲也（《說文》「絿絲也」），纏緊絲；引申 極、窮、死、竟、盡。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣧩·zhōng",
+   "statement": "𣧩：从歹冬聲：歿也（《玉篇》「歿也，今作終」），竟也。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴤·dōng",
+   "statement": "鴤：从鳥冬聲：䳉鳥，好入水食，似鳧形小（《廣韻》）；又鴆，毒鳥。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧲴·dōng",
+   "statement": "𧲴：从豸冬聲：獸似豹有角（《玉篇》），疑即猞猁，斑紋如豹、兩耳聳立如角。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "螽·zhōng",
+   "statement": "螽：从蟲冬聲：蝗類（《詩》「五月斯螽動股」），股鳴、繁殖成群。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼨·zhōng",
+   "statement": "鼨：从鼠冬聲：鼠名（《說文》「豹文鼠也」）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䶱·zhōng",
+   "statement": "䶱：从龜冬聲：龜名（《說文》「龜名」）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩂓·dōng",
+   "statement": "𩂓：从雨冬聲：雨貌（《集韻》），冬日雨雪。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼕·dōng",
+   "statement": "鼕：从鼓冬聲：鼕鼕，鼓聲（《廣韻》），象冬冬之聲。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汷·zhōng",
+   "statement": "汷：从水冬聲：水名（《集韻》「汷，水名」）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
