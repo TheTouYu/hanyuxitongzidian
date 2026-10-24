@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡585a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ljue-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爵·jué",
+   "statement": "爵：象酒器爵形（三足兩柱有鋬）：禮器也（《說文》）；轉義 酒（《易》「我有好爵」）、舀酒器、爵位（貴者獻爵）。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "斝·jiǎ",
+   "statement": "斝：从吅从斗、冂象形：玉爵也（《說文》「夏曰琖，殷曰斝，周曰爵」），三足兩柱、圓口而大。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "爝·jiào",
+   "statement": "爝：从火爵聲：苣火，祓也（《說文》引呂不韋），火炬（束葦燒之以除惡）。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥷮·zhuó",
+   "statement": "𥷮：从竹爵聲：䇇也（《集韻》），魚罩；又罺之或體，撩罟。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䂃·jiào",
+   "statement": "䂃：从目爵聲：瞋目也（《集韻》），怒目；一曰目冥。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釂·jiào",
+   "statement": "釂：从酉爵聲：㱃酒盡也（《說文》「㱃酒盡也」），用爵乾杯。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灂·zhuó",
+   "statement": "灂：从水爵聲：水小聲（《說文》「水小聲」），水聲雨聲。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嚼·jiáo",
+   "statement": "嚼：从口爵聲：噍之或體，齧也（《說文》），咀嚼；又飲酒乾杯。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㩱·jué",
+   "statement": "㩱：从手爵聲：擇也（《博雅》）；一曰捎也、掆也；又削也。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "皭·jiào",
+   "statement": "皭：从白爵聲：白色（《集韻》）；一曰淨皃。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "穱·zhuō",
+   "statement": "穱：从禾爵聲：小也（《玉篇》），又早熟；刈稻之地種麥。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ljue-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢥚·jiào",
+   "statement": "𢥚：从心爵聲：性急也（《集韻》「音醮，性急」）。",
+   "boundary": "源自《系統漢語》第585部「爵部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
