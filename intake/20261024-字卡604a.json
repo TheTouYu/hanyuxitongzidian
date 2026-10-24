@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡604a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刀·dāo",
+   "statement": "刀：象砍刀形：兵也（《說文》「兵也。象形」），切削之器。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "初·chū",
+   "statement": "初：从刀从衣：裁衣之始也（《說文》「始也。从刀从衣。裁衣之始也」），開始；未形成字族，附於刀部。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "絕·jué",
+   "statement": "絕：从糸从刀从卩：斷絲也（《說文》「絕，斷絲也」），象不連體、絕二絲。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剛·gāng",
+   "statement": "剛：从刀岡聲：彊斷也（《說文》「彊斷也」），剛強。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剄·jǐng",
+   "statement": "剄：从刀巠聲：刑也（《說文》「刑也」），割頸。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刎·wěn",
+   "statement": "刎：从刀勿聲：剄也（《說文》「剄也」），刎頸。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "判·pàn",
+   "statement": "判：从刀半聲：分也（《說文》「分也」），判分、判斷。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刺·cì",
+   "statement": "刺：从刀朿聲：直傷也（《說文》「直傷也」），刺擊。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "副·fù",
+   "statement": "副：从刀畐聲：判也（《說文》「判也」），副貳、剖開。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剖·pōu",
+   "statement": "剖：从刀咅聲：判也（《說文》「判也」），剖開。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剡·yǎn",
+   "statement": "剡：从刀炎聲：銳利也（《說文》「銳利也」），剡木為矢。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "券·quàn",
+   "statement": "券：从刀𢍏聲：契也（《說文》「契也」），契券、券書。",
+   "boundary": "源自《系統漢語》第604部「刀部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
