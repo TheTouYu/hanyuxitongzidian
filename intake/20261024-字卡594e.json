@@ -1,0 +1,124 @@
+{
+ "schema_version": 1,
+ "intent": "字卡594e3-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshan5-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "參·shēn",
+   "statement": "參：从簪满珠玉之跪人：插簪；转义 参谒、参预、参差、众多；借为三、参宿（三星并列）。音源本「三」声，义音同「兓」（憯/惨）。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㺑·shān",
+   "statement": "㺑：从犬參聲：犬容頭進也（《說文》「犬容頭進也」），一曰賊疾。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "穇·shān",
+   "statement": "穇：从禾參聲：禾穗不實，禾短曰𥤇；穇子生水田下濕地。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏒·sǎn",
+   "statement": "鏒：从金參聲：金鏒，金器細碎；一曰 鐵之軟者。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "摻·shǎn",
+   "statement": "摻：从手參聲：執也（《說文》「執也」）；摻摻，纖美之貌（《詩》「摻摻女手」）。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傪·cān",
+   "statement": "傪：从人參聲：好貌（《集韻》「好皃」），人美好。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "犙·sān",
+   "statement": "犙：从牛參聲：牛名（《集韻》），三歲牛。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㜗·cān",
+   "statement": "㜗：从女參聲：婪也（《集韻》），貪而多欲。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan5-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瘮·shèn",
+   "statement": "瘮：从疒參聲：寒病（《集韻》），寒慄。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
