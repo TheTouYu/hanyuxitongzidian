@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>查字测试台 · 系统汉语</title>
+<style>
+:root{--ink:#1f1b16;--mut:#8a7f70;--line:#e6ddd0;--bg:#fbf7f0;--card:#fffdf8;--acc:#8c2f1e}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Noto Serif SC","Songti SC","SimSun",serif}
+header{padding:18px 22px 10px;border-bottom:1px solid var(--line);background:linear-gradient(#fffdf8,#fbf7f0)}
+h1{margin:0;font-size:20px;letter-spacing:.08em}
+.sub{color:var(--mut);font-size:13px;margin-top:4px}
+.wrap{display:grid;grid-template-columns:320px 1fr;gap:0;height:calc(100vh - 74px)}
+aside{border-right:1px solid var(--line);display:flex;flex-direction:column;min-height:0}
+.search{padding:12px}
+.search input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:#fff;font-size:15px;font-family:inherit}
+.hint{color:var(--mut);font-size:12px;margin:8px 2px 0}
+.list{overflow:auto;flex:1}
+.item{padding:9px 14px;border-bottom:1px dashed var(--line);cursor:pointer;display:flex;gap:10px;align-items:baseline}
+.item:hover{background:#f6efe2}
+.item b{font-size:20px;min-width:26px}
+.item .m{color:var(--mut);font-size:12px}
+.item.on{background:#efe3d2;box-shadow:inset 3px 0 0 var(--acc)}
+main{overflow:auto;padding:20px 26px}
+.empty{color:var(--mut);margin-top:40px;text-align:center}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;max-width:980px;margin:0 auto}
+.chead{display:flex;align-items:flex-end;gap:14px;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:14px}
+.chead .ch{font-size:64px;line-height:1}
+.chead .py{color:var(--mut);font-size:15px;letter-spacing:.06em}
+.chead .bu{margin-left:auto;color:var(--mut);font-size:13px}
+.sec{margin:14px 0 18px}
+.sec h3{margin:0 0 6px;font-size:15px;color:var(--acc);letter-spacing:.06em;font-weight:600}
+.sec p{margin:0;font-size:15.5px;line-height:1.95;white-space:pre-wrap}
+.cites{margin-top:6px;font-size:11px;color:var(--mut)}
+.glyphs{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.glyphs figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:8px;padding:4px}
+.glyphs img{height:78px;display:block}
+.tag{display:inline-block;font-size:11px;color:var(--mut);border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-right:6px}
+</style>
+</head>
+<body>
+<header>
+  <h1>查字测试台 · 系统汉语</h1>
+  <div class="sub">按字、拼音或卡片正文检索；点左侧结果看五步卡。数据来自 <code>/cards/&lt;字&gt;.json</code> 与 <code>/glyphs/</code>。</div>
+</header>
+<div class="wrap">
+  <aside>
+    <div class="search">
+      <input id="q" placeholder="输入字 / 拼音 / 关键词，如 申、shēn、闪电" autocomplete="off">
+      <div class="hint" id="hint">加载索引…</div>
+    </div>
+    <div class="list" id="list"></div>
+  </aside>
+  <main id="main"><div class="empty">← 输入一个字开始</div></main>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+let IDX=[], GLYPH={}, cur='';
+const norm=s=>(s||'').toLowerCase();
+fetch('cards/index.json').then(r=>r.json()).then(d=>{IDX=d;$('#hint').textContent=`共 ${d.length} 张卡`;render('');}).catch(e=>$('#hint').textContent='索引加载失败：'+e);
+fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(()=>{});
+function match(q){
+  q=norm(q.trim()); if(!q) return IDX.slice(0,200);
+  const exact=IDX.filter(x=>x.c===q);
+  if(exact.length) return exact.concat(IDX.filter(x=>x.c!==q&&(norm(x.p).startsWith(q)||x.t.some(t=>norm(t).includes(q)))).slice(0,80));
+  return IDX.filter(x=>norm(x.c).includes(q)||norm(x.p).includes(q)||x.t.some(t=>norm(t).includes(q))).slice(0,120);
+}
+function render(q){
+  const rows=match(q);
+  $('#list').innerHTML=rows.map(x=>`<div class="item${x.c===cur?' on':''}" data-c="${x.c}"><b>${x.c}</b><span class="m">${x.p||''}</span><span class="m">第${x.b||'?'}部 ${x.n||''}</span></div>`).join('')||'<div class="empty">无结果</div>';
+  $('#hint').textContent=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
+  $('#list').querySelectorAll('.item').forEach(el=>el.onclick=()=>open(el.dataset.c));
+}
+function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+async function open(ch){
+  cur=ch; render($('#q').value);
+  const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
+  let d;
+  try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json')).json(); }
+  catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
+  const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
+  const secs=(d.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3><p>${esc(s.text)}</p>${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`).join('');
+  const glyph=g.length?`<div class="glyphs">${g.map(f=>`<figure><img loading="lazy" src="glyphs/${encodeURIComponent(ch)}/${encodeURIComponent(f)}" alt="${esc(ch)}"></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
+  const b=(d.bus||[])[0]||{};
+  main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${secs}<div class="sec"><h3>古文字字形</h3>${glyph}</div></div>`;
+}
+$('#q').addEventListener('input',e=>render(e.target.value));
+</script>
+</body>
+</html>
