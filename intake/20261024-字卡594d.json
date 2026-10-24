@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡594d0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshan4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㐱·zhěn",
+   "statement": "㐱：从人从彡，彡亦聲：人身上細微生理特徵；或楷作𠘱，「新生羽而飛」，《說文》所釋亦非；與「尿」从三點形近，或同源。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "駗·zhěn",
+   "statement": "駗：从馬㐱聲：馬載重難也（《說文》「馬載重難也」），負重難行。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䪾·zhěn",
+   "statement": "䪾：从頁㐱聲：顏色䪾䫰，慎事也（《說文》），面容審慎。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "袗·zhěn",
+   "statement": "袗：从衣㐱聲：玄服也（《說文》「玄服」），單衣、華美之衣。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "飻·tiè",
+   "statement": "飻：从食㐱聲：貪也（《說文》「貪也」），貪食。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "餮·tiè",
+   "statement": "餮：从食殄省聲：貪食也；饕餮，貪財貪食之獸。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髟·biāo",
+   "statement": "髟：从長从彡：長髮猋猋也（《說文》「長髮猋猋也」），凡髮屬皆从髟。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髮·fà",
+   "statement": "髮：从髟犮聲：根也（《說文》「根也」），人髮、毛髮。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髴·fú",
+   "statement": "髴：从髟弗聲：鬕也（《說文》），首飾；通「仿佛」，隱約相似。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬢·bìn",
+   "statement": "鬢：从髟賓聲：頰髮也（《說文》「頰髮也」），耳前之髮。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬟·huán",
+   "statement": "鬟：从髟睘聲：總髮也（《說文》「總髮也」），環形髮髻。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肜·róng",
+   "statement": "肜：从舟彡聲：商祭名（《爾雅》「繹，又祭也」），祭之明日又祭曰肜。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
