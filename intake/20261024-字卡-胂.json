@@ -1,0 +1,20 @@
+{
+ "schema_version": 1,
+ "intent": "胂卡-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshen001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "胂·shēn",
+   "statement": "胂：从肉申聲，申取閃電伸展直長之象，指夾在脊骨兩旁的長條肉（《說文》「夾脊肉也」）；shèn 為化學借音。",
+   "boundary": "源自《系統漢語》第114部「申部」申字族一；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
