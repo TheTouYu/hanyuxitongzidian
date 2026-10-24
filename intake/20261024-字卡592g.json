@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡592g0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldong7-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襢·tǎn",
+   "statement": "襢：从衣亶聲：肉袒也（《玉篇》「袒，肉袒也，或作襢」），去上服；襢衣，坦然正白無文采。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䡀·zhǎn",
+   "statement": "䡀：从亶（倮）：裸形，無可蔽也（《廣韻》），倮也；又 體搖。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繵·dàn",
+   "statement": "繵：从糸亶聲：束腰大帶（《廣韻》「束𦝫大帶」）；又 繩、紫色、繞。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "憻·tǎn",
+   "statement": "憻：从心亶聲：同坦（《字彙》），寬也、明也、平安；又 誠。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譠·tán",
+   "statement": "譠：从言亶聲：譠謾，欺也、慢言也（《玉篇》《方言》），緩語。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢋃·dǎn",
+   "statement": "𢋃：从广亶聲：偏舍（《廣韻》），簡陋的偏房。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤮜·shàn",
+   "statement": "𤮜：从瓦亶聲：器縁也（《玉篇》），瓦器之緣。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䕊·tán",
+   "statement": "䕊：从艸亶聲：艸名（《集韻》），艸蔓布地。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璮·tǎn",
+   "statement": "璮：从玉亶聲：玉名（《集韻》「音坦」）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "旜·zhān",
+   "statement": "旜：从㫃亶聲：旃之或體（《說文》「旃，或从亶」），通帛為旜，曲柄紅旗。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣋊·dàn",
+   "statement": "𣋊：从日亶聲：曛也（《集韻》），日暗。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong7-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膻·dàn",
+   "statement": "膻：从肉亶聲：肉膻也（《說文》），脫衣露上身（同但）；又 羊臭（羶）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
