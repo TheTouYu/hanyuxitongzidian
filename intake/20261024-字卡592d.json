@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡592d0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldong4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "啚·bǐ",
+   "statement": "啚：从㐭从丁：象釘物挂牆，嗇也（《說文》）；轉義 圖畫、偏鄙。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡳄·bǐ",
+   "statement": "𡳄：从尸从啚：臀也（《玉篇》「𡲀𡳄也，臀也」），懸垂於身後。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥀜·zī",
+   "statement": "𥀜：从皮从啚：手足生堅皮也（《廣韻》），即繭，如釘牆風乾之皮革。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "圖·tú",
+   "statement": "圖：从囗从啚：畫計難也（《說文》），規畫、謀劃；又 畫形、河圖。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鄙·bǐ",
+   "statement": "鄙：从邑啚聲：五酇為鄙（《說文》），五百家；小邑不能遠通（《釋名》「鄙，否也」）；又 鄙吝。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痞·pǐ",
+   "statement": "痞：从疒否聲（啚之通）：腸中結病（《集韻》「音鄙」），痞塊、痞塞。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "稟·bǐng",
+   "statement": "稟：从米㐭聲：賜穀也（《說文》），穀倉；轉義 敬、稟報；又 領受。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廩·lǐn",
+   "statement": "廩：从广稟聲：穀所振入（《說文》「㐭，穀所振入」），倉廩。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "檁·lǐn",
+   "statement": "檁：从木稟聲：屋橫木（《集韻》），桁檁。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凜·lǐn",
+   "statement": "凜：从仌稟聲：寒也（《玉篇》「凜凜，寒也」），淒清。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懍·lǐn",
+   "statement": "懍：从心稟聲：敬也、危懼（《集韻》「懍懍，危懼」）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癛·lǐn",
+   "statement": "癛：从疒稟聲：寒病（《集韻》「癛，寒病」），凜冽。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
