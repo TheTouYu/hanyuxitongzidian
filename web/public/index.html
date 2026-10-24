@@ -111,7 +111,7 @@ async function variantsFor(ch){
 }
 const SEC_ORDER=['benyi','benyi2','zhuanyi','bianzheng','yinyuan','shiyi','shengmu','zizu','zigen'];
 const secRank=k=>{const i=SEC_ORDER.indexOf(k);return i<0?99:i;};
-async function cardBody(ch,d){
+async function cardBody(ch,d,opt){
   const vhtml=await variantsFor(ch);
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
   const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
@@ -136,14 +136,14 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
       const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
       const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
       const pb=(p.bus||[])[0]||{};
-      const inner=await cardBody(d.parent,p);
+      const inner=await cardBody(d.parent,p,{noPhoto:true});
       return `<div class="sec rootbox"><h3>字根「${esc(d.parent)}」</h3>${inner}</div>`;
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'谐声字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
   const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
 
-  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}${d.simp?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${photoBlock}${parentBlock}</div>`;
+  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}${d.simp?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${parentBlock}</div>`;
 }
 async function open(ch){
   cur=ch; render($('#q').value);
