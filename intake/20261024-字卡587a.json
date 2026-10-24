@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡587a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幺·yāo",
+   "statement": "幺：象蠶所吐細絲（兩股相交）：小也（《說文》）；轉義 幼小、排行最小；音源借音同「交」。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吆·yāo",
+   "statement": "吆：从口幺聲：吆吆，聲也（《集韻》），大聲呼喊。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢆴·diǎo",
+   "statement": "𢆴：从幺：𠄏之或體，懸也（《集韻》「趙魏之間曰𠄏」），懸掛。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢩼·yí",
+   "statement": "𢩼：从手幺聲：持救（《漢典》）。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㭃·gāng",
+   "statement": "㭃：从糸：綱之古文（《說文》「綱，維紘繩也」），網之大繩。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幼·yòu",
+   "statement": "幼：从幺从力：少也（《說文》「幼，少也」），年幼。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黝·yǒu",
+   "statement": "黝：从黑幼聲：微青黑（《說文》「黝，微青黑色」）。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "泑·yōu",
+   "statement": "泑：从水幼聲：澤名（《說文》「泑澤」），水聚。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "呦·yōu",
+   "statement": "呦：从口幼聲：鹿鳴聲（《詩》「呦呦鹿鳴」）。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "窈·yǎo",
+   "statement": "窈：从穴幼聲：深遠也（《說文》「窈，深遠也」），幽靜。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "拗·ǎo",
+   "statement": "拗：从手幼聲：折也（《集韻》），拗折；又違。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眑·yǎo",
+   "statement": "眑：从目幼聲：深目皃（《集韻》），視。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
