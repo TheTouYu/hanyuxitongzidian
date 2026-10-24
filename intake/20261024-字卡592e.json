@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡592e0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldong5-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "亶·dǎn",
+   "statement": "亶：从㐭从旦：多穀也（《說文》「多穀也」），穀倉堆滿；轉義 誠然、信、厚。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "壇·tán",
+   "statement": "壇：从土亶聲：祭壇（《說文》「祭場也」），土築高臺。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "檀·tán",
+   "statement": "檀：从木亶聲：木名（《說文》「檀，木也」），材堅。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "顫·chàn",
+   "statement": "顫：从頁亶聲：頭不正也（《說文》「頭不正也」），顫動、戰慄。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "氈·zhān",
+   "statement": "氈：从毛亶聲：撚毛也（《說文》「撚毛也」），毛氈。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "羶·shān",
+   "statement": "羶：从羊亶聲：羊臭也（《說文》「羊臭也」），羶腥；又通馨。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "擅·shàn",
+   "statement": "擅：从手亶聲：專也（《說文》「專也」），擅長、獨斷。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "禪·shàn",
+   "statement": "禪：从示亶聲：祭天也（《說文》「祭天也」）；又 靜、禪讓。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嬋·chán",
+   "statement": "嬋：从女亶聲：嬋娟，美貌（《集韻》）；嬋連，牽連。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嬗·shàn",
+   "statement": "嬗：从女亶聲：緩也（《說文》「緩也」），更替、傳遞。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱣·zhān",
+   "statement": "鱣：从魚亶聲：鯉屬（《說文》「鱣，鯉屬」），鱘鰉。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong5-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澶·chán",
+   "statement": "澶：从水亶聲：澶淵，地名（《說文》「澶淵，在宋」），水漫。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
