@@ -129,7 +129,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
   const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
-  const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
+  const parentBlock = (d.level>1 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
       const p=await pr.json();
       const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);

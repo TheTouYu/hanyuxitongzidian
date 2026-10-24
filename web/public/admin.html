@@ -1,0 +1,540 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>系统汉字 · 后台</title>
+<style>
+  :root {
+    --paper: #f7f4ec;
+    --card: #fffdf8;
+    --ink: #23201c;
+    --muted: #7a7266;
+    --line: #e2dcce;
+    --accent: #8c3f2b;
+    --accent-soft: #f0e4dc;
+    --ok: #2f6b3f;
+    --warn: #8a5a12;
+    --serif: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", Georgia, serif;
+    --sans: "PingFang SC", "Microsoft YaHei", system-ui, -apple-system, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans);
+    -webkit-font-smoothing: antialiased; padding-bottom: 40px;
+  }
+  header {
+    display: flex; align-items: center; gap: 12px; padding: 14px 20px;
+    border-bottom: 1px solid var(--line); background: rgba(255, 253, 248, .9);
+    position: sticky; top: 0; z-index: 10; backdrop-filter: blur(8px);
+  }
+  .brand { font-family: var(--serif); font-size: 18px; letter-spacing: .06em; }
+  .brand b { color: var(--accent); font-weight: 600; }
+  .brand small { color: var(--muted); font-size: 12px; margin-left: 6px; letter-spacing: 0; }
+  .spacer { flex: 1; }
+  button { font: inherit; cursor: pointer; }
+  .btn {
+    font-size: 13px; padding: 7px 14px; border-radius: 9px; border: 1px solid var(--line);
+    background: #fff; color: var(--ink);
+  }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .btn.primary:hover { opacity: .9; color: #fff; }
+  .btn.mini { font-size: 12px; padding: 3px 9px; border-radius: 7px; }
+  .btn.danger { color: #a33; border-color: #e6c9c9; }
+  .btn.danger:hover { background: #fbf0f0; border-color: #c98; color: #a33; }
+  .btn:disabled { opacity: .5; cursor: default; }
+
+  main { max-width: 1040px; margin: 0 auto; padding: 22px 16px; }
+  .login { max-width: 360px; margin: 12vh auto 0; }
+  .login h1 { font-family: var(--serif); font-size: 22px; margin: 0 0 4px; }
+  .login p { color: var(--muted); font-size: 13px; margin: 0 0 18px; line-height: 1.7; }
+  .login input { width: 100%; font: inherit; font-size: 15px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+  .login input:focus { outline: none; border-color: var(--accent); }
+  .login .btn { width: 100%; margin-top: 10px; padding: 10px; font-size: 15px; }
+  .login .err { color: #a33; font-size: 13px; margin-top: 10px; min-height: 18px; }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-bottom: 20px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
+  .stat .k { font-size: 12px; color: var(--muted); }
+  .stat .v { font-family: var(--serif); font-size: 24px; margin-top: 2px; }
+  .stat .v small { font-size: 12px; color: var(--muted); margin-left: 3px; font-family: var(--sans); }
+
+  .tabs { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px; }
+  .tabs button {
+    font-size: 13px; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line);
+    background: #fff; color: var(--muted);
+  }
+  .tabs button.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  section.tab { display: none; }
+  section.tab.on { display: block; }
+  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px; margin-bottom: 16px; }
+  .panel h2 { font-family: var(--serif); font-size: 16px; margin: 0 0 4px; }
+  .panel .hint { font-size: 12px; color: var(--muted); line-height: 1.7; margin: 0 0 14px; }
+
+  .tier-pick { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-bottom: 14px; }
+  .tier-card {
+    border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; background: #fffefb;
+    cursor: pointer; transition: .12s;
+  }
+  .tier-card:hover { border-color: var(--accent); }
+  .tier-card.on { border-color: var(--accent); background: var(--accent-soft); }
+  .tier-card .t { font-family: var(--serif); font-size: 15px; }
+  .tier-card .p { font-family: var(--serif); font-size: 20px; color: var(--accent); }
+  .tier-card .p small { font-size: 12px; }
+  .tier-card .d { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+  .form-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+  .field { display: flex; flex-direction: column; gap: 5px; }
+  .field label { font-size: 12px; color: var(--muted); }
+  .field input, .field select {
+    font: inherit; font-size: 14px; padding: 8px 10px; border: 1px solid var(--line);
+    border-radius: 9px; background: #fff; color: var(--ink); min-width: 120px;
+  }
+  .field input:focus, .field select:focus { outline: none; border-color: var(--accent); }
+
+  .codes-out { margin-top: 14px; }
+  .code-line {
+    display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 9px;
+    background: #fff; border: 1px dashed var(--line); margin-bottom: 6px; flex-wrap: wrap;
+  }
+  .code-line code { font-family: ui-monospace, Consolas, monospace; font-size: 15px; letter-spacing: .04em; }
+
+  .list { display: flex; flex-direction: column; gap: 8px; }
+  .row-item {
+    background: #fff; border: 1px solid var(--line); border-radius: 11px; padding: 10px 12px;
+    display: flex; gap: 10px 16px; flex-wrap: wrap; align-items: center; font-size: 13px;
+  }
+  .row-item .grow { flex: 1; min-width: 180px; }
+  .row-item .phone { font-family: ui-monospace, Consolas, monospace; }
+  .row-item .muted { color: var(--muted); }
+  .tag { font-size: 11px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); }
+  .tag.on { color: var(--ok); border-color: #cfe3d4; background: #f1f8f3; }
+  .tag.off { color: #a33; border-color: #e6c9c9; background: #fbf2f2; }
+  .tag.warn { color: var(--warn); border-color: #ecd9b6; background: #fdf6e8; }
+  .empty { color: #b3aa9c; font-size: 13px; padding: 12px 0; }
+  .toast {
+    position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%);
+    background: #2b2620; color: #fff; font-size: 13px; padding: 9px 16px; border-radius: 10px;
+    opacity: 0; pointer-events: none; transition: .2s; z-index: 50;
+  }
+  .toast.show { opacity: 1; }
+  @media (max-width: 560px) {
+    main { padding: 16px 12px; }
+    .brand small { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div id="loginView" class="login" hidden>
+  <h1>系统汉字 · 后台</h1>
+  <p>输入管理密码。密码存在 <code>web/data/admin.key</code>，只有你自己能看。</p>
+  <input id="pw" type="password" placeholder="管理密码" autocomplete="current-password">
+  <button class="btn primary" id="loginBtn">进入</button>
+  <div class="err" id="loginErr"></div>
+</div>
+
+<div id="appView" hidden>
+  <header>
+    <div class="brand">系统<b>汉字</b><small>后台</small></div>
+    <div class="spacer"></div>
+    <button class="btn mini" id="logoutBtn">退出</button>
+  </header>
+
+  <main>
+    <div class="stats" id="stats"></div>
+
+    <div class="tabs" id="tabs">
+      <button data-tab="open" class="on">开通会员</button>
+      <button data-tab="codes">兑换码</button>
+      <button data-tab="members">会员</button>
+      <button data-tab="orders">订单</button>
+    </div>
+
+    <section class="tab on" id="tab-open">
+      <div class="panel">
+        <h2>生成开通码，发给客户</h2>
+        <p class="hint">你收款后在这里生成一个码，把「码 + 手机号」发给客户。客户在网页里点「开通会员」→ 填手机号和码，就开通了。每次生成都记一笔订单，收入算在这里。</p>
+        <div class="tier-pick" id="tierPick"></div>
+        <div class="form-row">
+          <div class="field">
+            <label>生成几个</label>
+            <input id="codeCount" type="number" min="1" max="200" value="1">
+          </div>
+          <div class="field">
+            <label>备注（可空，比如客户微信名）</label>
+            <input id="codeNote" type="text" placeholder="张三" style="min-width:220px">
+          </div>
+          <label style="display:flex;align-items:center;gap:6px;font-size:13px;color:#6b6259">
+            <input id="codeFree" type="checkbox">
+            补开/赠送（不记收入）
+          </label>
+          <button class="btn primary" id="genBtn">生成开通码</button>
+        </div>
+        <div class="codes-out" id="codesOut"></div>
+      </div>
+    </section>
+
+    <section class="tab" id="tab-codes">
+      <div class="panel">
+        <h2>兑换码</h2>
+        <p class="hint">「未使用」的码可以发给客户；「已使用」的码在生效中。码一年内有效。</p>
+        <div class="form-row" style="margin-bottom:12px">
+          <div class="field">
+            <label>筛选</label>
+            <select id="codeFilter">
+              <option value="">全部</option>
+              <option value="unused">未使用</option>
+              <option value="used">已使用</option>
+            </select>
+          </div>
+        </div>
+        <div class="list" id="codeList"></div>
+      </div>
+    </section>
+
+    <section class="tab" id="tab-members">
+      <div class="panel">
+        <h2>会员</h2>
+        <p class="hint">长期会员（500 元）带赠书，寄出后点「标记已寄」。撤销后客户立即不能再用。</p>
+        <div class="form-row" style="margin-bottom:12px">
+          <div class="field">
+            <label>按手机号查找</label>
+            <input id="mSearch" type="search" placeholder="输入手机号或会员号" style="min-width:220px">
+          </div>
+        </div>
+        <div class="codes-out" id="rebindOut"></div>
+        <div class="list" id="memberList"></div>
+      </div>
+    </section>
+
+    <section class="tab" id="tab-orders">
+      <div class="panel">
+        <h2>订单</h2>
+        <p class="hint">客户兑换开通码时自动记账；线下收款也走开通码这条路。</p>
+        <div class="list" id="orderList"></div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const fmt = (s) => {
+  if (!s) return '—';
+  const d = new Date(s);
+  if (Number.isNaN(d.getTime())) return String(s);
+  const p = (n) => String(n).padStart(2, '0');
+  return d.getFullYear() + '-' + p(d.getMonth() + 1) + '-' + p(d.getDate()) + ' ' + p(d.getHours()) + ':' + p(d.getMinutes());
+};
+const day = (s) => fmt(s).slice(0, 10);
+
+let tiers = [];
+let siteUrl = '';
+let picked = 'y16';
+let codes = [];
+let members = [];
+let orders = [];
+const tierName = (id) => (tiers.find((t) => t.id === id) || {}).name || id;
+
+function toast(msg) {
+  const t = $('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(toast._t);
+  toast._t = setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+async function api(path, opts = {}) {
+  const res = await fetch(path, {
+    ...opts,
+    headers: { 'content-type': 'application/json', ...(opts.headers || {}) },
+  });
+  if (res.status === 401) {
+    showLogin();
+    throw new Error('请先登录');
+  }
+  const j = await res.json().catch(() => ({}));
+  if (!res.ok || j.ok === false) throw new Error(j.error || ('请求失败 ' + res.status));
+  return j;
+}
+
+function showLogin() {
+  $('appView').hidden = true;
+  $('loginView').hidden = false;
+  $('pw').focus();
+}
+
+function showApp() {
+  $('loginView').hidden = true;
+  $('appView').hidden = false;
+}
+
+async function copyText(text) {
+  try {
+    await navigator.clipboard.writeText(text);
+    toast('已复制：' + text);
+  } catch {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    document.body.append(ta);
+    ta.select();
+    document.execCommand('copy');
+    ta.remove();
+    toast('已复制：' + text);
+  }
+}
+
+$('loginBtn').onclick = async () => {
+  const pw = $('pw').value.trim();
+  $('loginErr').textContent = '';
+  if (!pw) { $('loginErr').textContent = '请输入密码'; return; }
+  $('loginBtn').disabled = true;
+  try {
+    const res = await fetch('/api/admin/login', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ password: pw }),
+    });
+    const j = await res.json().catch(() => ({}));
+    if (!res.ok || !j.ok) throw new Error(j.error || '密码不对');
+    $('pw').value = '';
+    showApp();
+    await boot();
+  } catch (e) {
+    $('loginErr').textContent = e.message || '登录失败';
+  } finally {
+    $('loginBtn').disabled = false;
+  }
+};
+$('pw').addEventListener('keydown', (e) => { if (e.key === 'Enter') $('loginBtn').click(); });
+
+$('logoutBtn').onclick = async () => {
+  try { await fetch('/api/admin/logout', { method: 'POST' }); } catch { /* 忽略 */ }
+  showLogin();
+};
+
+document.querySelectorAll('#tabs button').forEach((b) => {
+  b.onclick = () => {
+    document.querySelectorAll('#tabs button').forEach((x) => x.classList.toggle('on', x === b));
+    document.querySelectorAll('section.tab').forEach((s) => s.classList.toggle('on', s.id === 'tab-' + b.dataset.tab));
+  };
+});
+
+function renderStats(s) {
+  const money = (n) => (Math.round((Number(n) || 0) * 100) / 100).toFixed(2);
+  const items = [
+    ['累计收入', money(s.revenue), '元'],
+    ['有效会员', s.active, ''],
+    ['会员总数', s.members, ''],
+    ['未用开通码', s.codes_unused, ''],
+    ['订单', s.orders, ''],
+    ['试用人数', s.trials, ''],
+  ];
+  $('stats').innerHTML = items.map(([k, v, u]) =>
+    '<div class="stat"><div class="k">' + k + '</div><div class="v">' + v +
+    (u ? '<small>' + u + '</small>' : '') + '</div></div>').join('');
+}
+
+function renderTierPick() {
+  $('tierPick').innerHTML = tiers.map((t) =>
+    '<div class="tier-card' + (t.id === picked ? ' on' : '') + '" data-tier="' + t.id + '">' +
+    '<div class="t">' + esc(t.name) + '</div>' +
+    '<div class="p">' + t.price + '<small> 元</small></div>' +
+    '<div class="d">' + esc(t.label || '') + (t.gift ? ' · 赠《系统汉语》一套' : '') + '</div>' +
+    '</div>').join('');
+  document.querySelectorAll('.tier-card').forEach((c) => {
+    c.onclick = () => { picked = c.dataset.tier; renderTierPick(); };
+  });
+}
+
+function inviteText(code) {
+  const url = siteUrl || location.origin;
+  return [
+    '系统汉字 · 开通会员',
+    '1）打开：' + url,
+    '2）点页面上的「开通会员」',
+    '3）手机号填你自己的，兑换码填：' + code,
+    '提交后立即生效，会员期内不限次数提问。兑换码只能使用一次，请勿转发。',
+  ].join('\n');
+}
+
+function codeRow(c, showActions) {
+  const used = c.status === 'used';
+  return '<div class="row-item">' +
+    '<div class="grow"><code>' + esc(c.code) + '</code>' +
+    ' <span class="tag ' + (used ? 'on' : 'warn') + '">' + (used ? '已使用' : '未使用') + '</span></div>' +
+    '<div class="muted">' + esc(tierName(c.tier)) + ' · ' + esc(day(c.created_at)) + (c.note ? ' · ' + esc(c.note) : '') + '</div>' +
+    (used && c.member_id ? '<div class="muted">会员 ' + esc(c.member_id) + '</div>' : '') +
+    (showActions ? '<button class="btn mini" data-copy="' + esc(c.code) + '">复制码</button>' +
+      '<button class="btn mini" data-invite="' + esc(c.code) + '">复制开通话术</button>' : '') +
+    '</div>';
+}
+
+function renderCodes() {
+  const list = $('codeList');
+  if (!codes.length) { list.innerHTML = '<div class="empty">还没有生成过兑换码。</div>'; return; }
+  list.innerHTML = codes.map((c) => codeRow(c, c.status === 'unused')).join('');
+  list.querySelectorAll('[data-copy]').forEach((b) => {
+    b.onclick = () => copyText(b.dataset.copy);
+  });
+  list.querySelectorAll('[data-invite]').forEach((b) => {
+    b.onclick = () => copyText(inviteText(b.dataset.invite));
+  });
+}
+
+function renderMembers() {
+  const list = $('memberList');
+  if (!members.length) { list.innerHTML = '<div class="empty">还没有会员。生成一个开通码，发给客户兑换后就出现在这里。</div>'; return; }
+  const q = ($('mSearch').value || '').trim();
+  const shown = q ? members.filter((m) => m.phone.includes(q) || m.id.includes(q)) : members;
+  if (!shown.length) { list.innerHTML = '<div class="empty">没有匹配「' + esc(q) + '」的会员。</div>'; return; }
+  list.innerHTML = shown.map((m) => {
+    const active = !m.revoked && m.expires_at && Date.parse(m.expires_at) > Date.now();
+    const status = m.revoked ? '<span class="tag off">已撤销</span>'
+      : active ? '<span class="tag on">有效</span>'
+      : '<span class="tag off">已过期</span>';
+    const leftDays = active ? Math.max(0, Math.ceil((Date.parse(m.expires_at) - Date.now()) / 86400000)) : 0;
+    return '<div class="row-item">' +
+      '<div class="grow"><span class="phone">' + esc(m.phone) + '</span> ' + status +
+      (m.has_password ? ' <span class="tag on">已设密码</span>' : ' <span class="tag warn">未设密码</span>') +
+      (m.gift ? (m.gift_sent ? ' <span class="tag on">书已寄</span>' : ' <span class="tag warn">待寄书</span>') : '') + '</div>' +
+      '<div class="muted">' + esc(m.tier_name || m.tier) + ' · 至 ' + esc(day(m.expires_at)) +
+      (active ? '（还有 ' + leftDays + ' 天）' : '') + '</div>' +
+      '<div class="muted">今日 ' + (m.used_today || 0) + ' 次 · ' + ((m.spent_today || 0)).toFixed(4) + ' 元</div>' +
+      (m.gift && !m.gift_sent ? '<button class="btn mini" data-gift="' + esc(m.id) + '">标记已寄</button>' : '') +
+      (active ? '<button class="btn mini" data-rebind="' + esc(m.id) + '">换设备补发码</button>' : '') +
+      '<button class="btn mini" data-reset="' + esc(m.id) + '">重置密码</button>' +
+      (active ? '<button class="btn mini danger" data-revoke="' + esc(m.id) + '">撤销</button>' : '') +
+      '</div>';
+  }).join('');
+  list.querySelectorAll('[data-rebind]').forEach((b) => {
+    b.onclick = async () => {
+      try {
+        const j = await api('/api/admin/rebind', { method: 'POST', body: JSON.stringify({ member_id: b.dataset.rebind }) });
+        $('rebindOut').innerHTML = '<div class="hint">给 ' + esc(j.phone) + ' 的补发码（换手机/换浏览器时用，不重复记账）：</div>' +
+          '<div class="code-line"><code>' + esc(j.code) + '</code>' +
+          '<button class="btn mini" data-copy="' + esc(j.code) + '">复制码</button>' +
+          '<button class="btn mini" data-invite="' + esc(j.code) + '">复制开通话术</button></div>';
+        document.querySelectorAll('#rebindOut [data-copy]').forEach((x) => { x.onclick = () => copyText(x.dataset.copy); });
+        document.querySelectorAll('#rebindOut [data-invite]').forEach((x) => { x.onclick = () => copyText(inviteText(x.dataset.invite)); });
+        toast('已生成补发码');
+      } catch (e) {
+        toast(e.message || '补发失败');
+      }
+    };
+  });
+  list.querySelectorAll('[data-reset]').forEach((b) => {
+    b.onclick = async () => {
+      const pw = prompt('给这个会员设一个新密码（至少 6 位），设好后告诉客户：');
+      if (!pw) return;
+      try {
+        await api('/api/admin/reset-password', { method: 'POST', body: JSON.stringify({ member_id: b.dataset.reset, password: pw }) });
+        toast('密码已重置');
+        await loadMembers();
+      } catch (e) {
+        toast(e.message || '重置失败');
+      }
+    };
+  });
+  list.querySelectorAll('[data-gift]').forEach((b) => {
+    b.onclick = async () => { await api('/api/admin/gift', { method: 'POST', body: JSON.stringify({ member_id: b.dataset.gift }) }); toast('已标记赠书寄出'); await loadMembers(); };
+  });
+  list.querySelectorAll('[data-revoke]').forEach((b) => {
+    b.onclick = async () => {
+      if (!confirm('确定撤销这个会员？撤销后客户立即不能再用。')) return;
+      await api('/api/admin/revoke', { method: 'POST', body: JSON.stringify({ member_id: b.dataset.revoke }) });
+      toast('已撤销');
+      await Promise.all([loadMembers(), loadStats()]);
+    };
+  });
+}
+
+function renderOrders() {
+  const list = $('orderList');
+  if (!orders.length) { list.innerHTML = '<div class="empty">还没有订单。</div>'; return; }
+  list.innerHTML = orders.map((o) =>
+    '<div class="row-item">' +
+    '<div class="grow"><span class="phone">' + esc(o.phone) + '</span> <span class="muted">' + esc(o.id) + '</span></div>' +
+    '<div>' + (Number(o.amount) || 0).toFixed(2) + ' 元</div>' +
+    '<div class="muted">' + esc(tierName(o.tier)) + ' · ' + esc(o.channel) + ' · ' + esc(fmt(o.created_at)) + '</div>' +
+    '</div>').join('');
+}
+
+async function loadStats() {
+  const j = await api('/api/admin/stats');
+  renderStats(j.stats);
+}
+
+async function loadCodes() {
+  const status = $('codeFilter').value;
+  const j = await api('/api/admin/codes' + (status ? '?status=' + status : ''));
+  codes = j.codes || [];
+  renderCodes();
+}
+
+async function loadMembers() {
+  const j = await api('/api/admin/members');
+  members = j.members || [];
+  renderMembers();
+}
+
+async function loadOrders() {
+  const j = await api('/api/admin/orders');
+  orders = j.orders || [];
+  renderOrders();
+}
+
+$('genBtn').onclick = async () => {
+  const count = Math.max(1, Math.min(200, Number($('codeCount').value) || 1));
+  const note = $('codeNote').value.trim();
+  $('genBtn').disabled = true;
+  try {
+    const j = await api('/api/admin/codes', { method: 'POST', body: JSON.stringify({ tier: picked, count, note, free: $('codeFree').checked }) });
+    const made = j.codes || [];
+    const tierName = (tiers.find((t) => t.id === picked) || {}).name || picked;
+    $('codesOut').innerHTML = '<div class="hint">刚生成 ' + made.length + ' 个「' + esc(tierName) + '」开通码。点「复制开通话术」把整段说明发给客户，客户照着做就开通了：</div>' +
+      made.map((c) => '<div class="code-line"><code>' + esc(c) + '</code>' +
+        '<button class="btn mini" data-copy="' + esc(c) + '">复制码</button>' +
+        '<button class="btn mini" data-invite="' + esc(c) + '">复制开通话术</button></div>').join('');
+    document.querySelectorAll('#codesOut [data-copy]').forEach((b) => { b.onclick = () => copyText(b.dataset.copy); });
+    document.querySelectorAll('#codesOut [data-invite]').forEach((b) => { b.onclick = () => copyText(inviteText(b.dataset.invite)); });
+    $('codeNote').value = '';
+    $('codeFree').checked = false;
+    await Promise.all([loadCodes(), loadStats()]);
+  } catch (e) {
+    toast(e.message || '生成失败');
+  } finally {
+    $('genBtn').disabled = false;
+  }
+};
+
+$('codeFilter').onchange = () => loadCodes().catch((e) => toast(e.message));
+$('mSearch').oninput = () => renderMembers();
+
+async function boot() {
+  const j = await api('/api/pricing');
+  tiers = j.tiers || [];
+  siteUrl = j.site_url || '';
+  renderTierPick();
+  await Promise.all([loadStats(), loadCodes(), loadMembers(), loadOrders()]);
+}
+
+(async () => {
+  try {
+    await api('/api/admin/stats');
+    showApp();
+    await boot();
+  } catch {
+    showLogin();
+  }
+})();
+</script>
+</body>
+</html>
