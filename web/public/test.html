@@ -115,7 +115,8 @@ const secs=(d.sections||[]).map(s=>{ if(s.key==='zixing'||/古文字字形/.test
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'字根衍生字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
-  main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${secs}${parentBlock}${(()=>{const P=(window.PHOTO||{})[ch]||[];return P.length?`<div class="sec"><h3>插图</h3><div class="gscroll">${P.map(f=>`<figure><img loading="lazy" src="glyphs/photos/${encodeURIComponent(ch)}/${encodeURIComponent(f)}" alt="${esc(ch)}"><figcaption>${esc(f.replace(/\.[a-z]+$/i,''))}</figcaption></figure>`).join('')}</div></div>`:'';})()}${hasZX?'':'<div class="sec"><h3>古文字字形</h3>'+strip+'</div>'}</div>`;
+  const photoBlock=(()=>{const P=(window.PHOTO||{})[ch]||[];if(!P.length)return '';return '<div class="sec"><h3>插图</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(ch)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
+main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${secs}${parentBlock}${photoBlock}${hasZX?'':'<div class="sec"><h3>古文字字形</h3>'+strip+'</div>'}</div>`;
 }
 $('#q').addEventListener('input',e=>render(e.target.value));
 async function tryDirect(ch){
