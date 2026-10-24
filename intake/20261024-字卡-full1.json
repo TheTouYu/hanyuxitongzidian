@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "full1-0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lfull-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嵠·xī",
+   "statement": "嵠：屬第2部「奚部」字族，嵠xī《玉篇》：“溪谷名。亦與溪同。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "榽·xī",
+   "statement": "榽：屬第2部「奚部」字族，榽xī《玉篇》：“榽橀，木細葉似檀，今江東有之。又山榽也。”《廣韻》：“榽棱。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蒵·xí",
+   "statement": "蒵：屬第2部「奚部」字族，蒵xí《玉篇》：“蘩，菟蒵也。”款冬。《本草經考注》：“菟奚者，款冬花未開之際，顆東然似兔之大腹，故名。”xì，《廣韻》",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傒·xī",
+   "statement": "傒：屬第2部「奚部」字族，傒（𧧹）xī《集韻》：“𧧹，《說文》：‘待也。’或作徯、蹊、𥪦、傒。”《廣韻》：“東北夷名。”蹊，《廣韻》：“徑路。”x",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縘·xì",
+   "statement": "縘：屬第2部「奚部」字族，縘（繫）xì《集韻》：“繫，《說文》：‘繫𦃇也。’今惡絮。或作縘。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㨙·xié",
+   "statement": "㨙：屬第2部「奚部」字族，㨙（𢭁）xié《玉篇》：“挾也、扶也。”《廣韻》：“挾物。”xì，《集韻》：“揭也。”“杭越之間謂換曰㨙。或从系。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "膎·xié",
+   "statement": "膎：屬第2部「奚部」字族，膎xié《說文》：“脯也。从肉奚聲。戶皆切。”乾肉。《廣韻》：“肉食肴也。”《集韻》：“吳人謂醃魚為膎脼。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鞵·xié",
+   "statement": "鞵：屬第2部「奚部」字族，鞵（鞋）xié《說文》：“革生鞮也。从革奚聲。戶佳切。”生皮革做成的鞋子。《玉篇》：“革鞮也。革底麻枲。”《集韻》：“或",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡰄·xí",
+   "statement": "𡰄：屬第2部「奚部」字族，𡰄（𡰖）xí《玉篇》：“不能行，爲人所引。”《集韻》：“𡰖，𡰖𡰢，行跛。或从奚。”《正字通》：“𡰖字之譌。”應是音義相同",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "雞·jī",
+   "statement": "雞：屬第2部「奚部」字族，雞（鷄鸡）jī《說文》：“知時畜也。从隹奚聲。，籀文雞从鳥。古兮切。”甲骨文本象雞形，後加“奚”為聲，疑指古代用繩子拴著",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥰥·xì",
+   "statement": "𥰥：屬第2部「奚部」字族，𥰥（𦩶）xì《集韻》：“所以安船。或从舟。”",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfull-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥉐·qī",
+   "statement": "𥉐：屬第2部「奚部」字族，𥉐qī《集韻》：“牽奚切，音溪。目動也。”眼珠如有所系之意。",
+   "boundary": "源自《系統漢語》第2部「奚部」字族；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
