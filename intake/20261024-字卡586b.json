@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡586b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcha-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "叉·chā",
+   "statement": "叉：从又（手）拇指食指间一点，象虎口：手指相错（《说文》）；转义 分叉之物、叉取。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釵·chāi",
+   "statement": "釵：从金叉聲：笄屬（《新附》「本只作叉，此字後人所加」），婦人歧笄（《釋名》「釵，叉也，象叉之形」）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "杈·chā",
+   "statement": "杈：从木叉聲：枝也（《說文》），枝杈；杈杷（平田具）；行馬（官府門前障礙）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "汊·chà",
+   "statement": "汊：从水叉聲：水岐流也（《集韻》），河流分岔。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衩·chǎ",
+   "statement": "衩：从衣叉聲：衣衩（《玉篇》），衣裙下側開口；褲衩。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訍·chài",
+   "statement": "訍：从言叉聲：疑也（《集韻》），又訍持人短（攻訐）；插話。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "扠·chāi",
+   "statement": "扠：从手叉聲：以拳加人（《廣韻》「亦作搋」），打、挾取；又拃（張指量尺寸）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "靫·chá",
+   "statement": "靫：从革叉聲：箭室也（《玉篇》），盛箭器。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䑡·chá",
+   "statement": "䑡：从舟叉聲：艖之或體，舟名（《集韻》）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肞·chā",
+   "statement": "肞：从肉叉聲：䐤之俗，腶肞，脯也（《龍龕》），乾肉。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "芆·chāi",
+   "statement": "芆：从艸叉聲：鬼芆，草名（《廣韻》）；又草芽（《玉篇》）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcha-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䂘·chāi",
+   "statement": "䂘：从石叉聲：小石（《集韻》）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
