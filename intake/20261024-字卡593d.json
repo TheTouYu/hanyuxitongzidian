@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡593d1-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llin4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䫴·jìn",
+   "statement": "䫴：从頁禁聲：齘也，癢搔之齒䫴齘（《釋名》），閉口切齒。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凚·jìn",
+   "statement": "凚：从冫禁聲：寒極（《玉篇》），寒戰貌。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "僸·jìn",
+   "statement": "僸：从人禁聲：仰頭也（《集韻》）；北夷之樂。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襟·jīn",
+   "statement": "襟：从衣禁聲：袍襦前袂（《廣韻》），衣的交領→胸懷、前面。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "齽·jìn",
+   "statement": "齽：从齒禁聲：鉤齒內曲謂之齽（《集韻》），牙齒酸噤。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㦗·jìn",
+   "statement": "㦗：从心禁聲：心㦗皃（《廣韻》），心堅固。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㩒·qín",
+   "statement": "㩒：从手禁聲：持也（《廣韻》），急持衣衿（《說文》捦）。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㯲·jìn",
+   "statement": "㯲：从木禁聲：格也（《方言》），竹木格，所以扞門。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䌝·jīn",
+   "statement": "䌝：从糸禁聲：絲也（《玉篇》）；青色，藍染䌝碧所用。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "散·sàn",
+   "statement": "散：从攴从林：敲擊林木，果葉紛墜四散（《玉篇》「分離也、放也」）；轉義 鬆散、細碎、徘徊；音源 㪔、鱻通用。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "饊·sǎn",
+   "statement": "饊：从食散聲：熬稻粻䅣（《說文》），糯米煮熟乾煎，分散不黏。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
