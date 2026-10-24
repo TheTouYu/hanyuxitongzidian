@@ -99,7 +99,8 @@ async function open(ch){
   try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json')).json(); }
   catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
-  const strip=g.length?`<div class="gscroll">${g.map((f,i)=>`<figure><img loading="lazy" src="glyphs/${encodeURIComponent(String(f).startsWith(ch+'/')?f:ch+'/'+f)}" alt="${esc(ch)}" title="${esc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
+  const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
+const strip=g.length?`<div class="gscroll">${g.map((f,i)=>`<figure><img loading="lazy" src="${gsrc(f)}" alt="${esc(ch)}" title="${esc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
   const grp=s=>{ if(!s.groups||!s.groups.length) return '';
   return s.groups.map(g=>`<div class="grp"><h4>${esc(g.title)}</h4><p class="gnote">${esc(g.note||'')}</p>
   <table class="ct"><thead><tr><th>字</th><th>读音</th><th>类属</th><th>取义落点</th></tr></thead><tbody>${g.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');
