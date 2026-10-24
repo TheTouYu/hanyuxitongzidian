@@ -92,6 +92,9 @@ function render(q){
   $('#list').querySelectorAll('.item').forEach(el=>el.onclick=()=>open(el.dataset.c));
 }
 function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+const GGRP=s=>{if(!s.groups||!s.groups.length)return '';return s.groups.map(g=>`<div class="grp"><h4>${esc(g.title)}</h4><p class="gnote">${esc(g.note||'')}</p><table class="ct"><thead><tr><th>字</th><th>读音</th><th>类属</th><th>取义落点</th></tr></thead><tbody>${g.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');};
+const TTBL=s=>{if(!s.rows||s.rows.length<3)return '';const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;};
+const secHTML=(s,ch2)=>{const g2=(GLYPH[ch2]&&(GLYPH[ch2].files||[]))||[];const st=g2.length?`<div class="gscroll">${g2.map((f,i)=>`<figure><img loading="lazy" src="${encodeURI('glyphs/'+ch2+'/'+(String(f).startsWith(ch2+'/')?String(f).slice(ch2.length+1):f))}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';const zx=(s.key==='zixing'||/字形|古文字/.test(s.label||''))?st:'';return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${GGRP(s)}${TTBL(s)}<p>${esc(s.text)}</p>${zx}</div>`;};
 async function open(ch){
   cur=ch; render($('#q').value);
   const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
@@ -117,7 +120,7 @@ const secs=(d.sections||[]).map(s=>{ if(s.key==='zixing'||/古文字字形/.test
   const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json'); if(!pr.ok) return '';
       const p=await pr.json();
-      const inner=(p.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3><p>${esc(s.text)}</p></div>`).join('');
+      const inner=(p.sections||[]).map(s=>secHTML(s,d.parent)).join('');
       return `<div class="sec rootbox"><h3>字理分析·字根「${esc(d.parent)}」</h3>${inner}</div>`;
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'字根衍生字'}</span>`:'';
