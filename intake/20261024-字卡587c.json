@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡587c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyao3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㶭·yǒu",
+   "statement": "㶭：从火幼聲：㶭炄，欲乾（《集韻》）；半乾而蜷曲。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠢢·yǒu",
+   "statement": "𠢢：从力幼聲：𠢢𥍳，輭也（《集韻》），柔弱。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡛙·yǎo",
+   "statement": "𡛙：从女幼聲：偠㒟，美皃（《集韻》）；𡛙嫪，不順。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣧥·yǒu",
+   "statement": "𣧥：从歹幼聲：𣧥𣧊，欲死（《集韻》），扭曲掙扎。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥁒·yào",
+   "statement": "𥁒：从皿幼聲：器中不平（《集韻》）。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥑑·ào",
+   "statement": "𥑑：从石幼聲：石不平也（《正字通》），通作凹。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "坳·ào",
+   "statement": "坳：从土幼聲：地不平也（《說文新附》），地窊下；轉角處亦名坳。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥬓·yào",
+   "statement": "𥬓：从竹幼聲：竹節（《篇海》）。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩈏·yǒu",
+   "statement": "𩈏：从面幼聲：𩈏𩈸，面醜（《集韻》）；又面曲。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩑴·yào",
+   "statement": "𩑴：从頁幼聲：頸不隨也（《集韻》），頸項轉動不自如。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩢒·yǎo",
+   "statement": "𩢒：从馬幼聲：馬驂也（《字彙》），駕在車兩旁的馬。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𪊛·yōu",
+   "statement": "𪊛：从鹿幼聲：同麀（《字彙》），牝鹿。",
+   "boundary": "源自《系統漢語》第587部「幺部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
