@@ -1,0 +1,137 @@
+{
+ "schema_version": 1,
+ "intent": "字卡593c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llin3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀮·lián",
+   "statement": "瀮：从水林聲：久雨（《字海》）。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "菻·lǐn",
+   "statement": "菻：从艸林聲：蒿屬（《說文》「蒿屬」），䕲蒿（莪蒿），叢生。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㯬·liǎn",
+   "statement": "㯬：从木林聲：功勤之稱（《廣韻》），功勞之記。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㣩·lín",
+   "statement": "㣩：从彳林聲：林鐘，古樂十二律之一（《集韻》「㣩鐘」）。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "晽·lín",
+   "statement": "晽：从日林聲：晽晽，欲所知之貌（《淮南子》注），林中微光。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "箖·lín",
+   "statement": "箖：从竹林聲：箖箊竹，葉薄而廣（《竹譜》）；又 翳也。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "漤·lǎn",
+   "statement": "漤：从水林聲：鹽漬果（《廣韻》），水淹濡（《六書故》「濫，水淹濡也」），果漿。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "啉·lán",
+   "statement": "啉：从口林聲：貪也（《玉篇》）；酒巡匝曰啉；又 聒噪。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "碄·lín",
+   "statement": "碄：从石林聲：碄碄，深皃（《集韻》），石深。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "惏·lán",
+   "statement": "惏：从心林聲：河內之北謂貪曰惏（《說文》），貪多；又 惏慄，寒。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
