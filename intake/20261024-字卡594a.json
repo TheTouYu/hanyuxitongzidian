@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡594a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshan1-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繖·sǎn",
+   "statement": "繖：从糸散聲：蓋也（《說文》「蓋也」），傘蓋，《集韻》或从巾作傘。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䉈·sǎn",
+   "statement": "䉈：从竹散聲：桃枝竹，節短而葉如小棕櫚（《桂海虞衡志》）。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏾·sǎn",
+   "statement": "鏾：从金散聲：弩也（《玉篇》），弩牙鬆弛；俗謂去勢曰鏾。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "撒·sǎ",
+   "statement": "撒：从手散聲：播撒、散佈，放開、張開；俗㪔字，撒手、撒潑。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潸·shān",
+   "statement": "潸：从水散省聲：淚流皃（《說文》引《詩》「潸焉出涕」）。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霰·xiàn",
+   "statement": "霰：从雨散聲：稷雪也（《說文》），雨雪雜下之粒。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潵·sàn",
+   "statement": "潵：从水散聲：水散也（《集韻》），灑水、撒落。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩀼·sàn",
+   "statement": "𩀼：从隹散聲：繳以取鳥（《說文》），群鳥飛散。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "三·sān",
+   "statement": "三：三＝三根算籌的排列（《說文》「天地人之道也。从三數」），表數三，亦可視「一」之三疊表多、連續。从三數：算籌三劃，數字三；義音同「參」。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "衫·shān",
+   "statement": "衫：从衣彡聲：衣之通稱，短袖單衣，取彡之細薄。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彪·biāo",
+   "statement": "彪：从虎彡聲：虎文，取彡之紋理細多。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan1-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彤·tóng",
+   "statement": "彤：从丹彡聲：丹飾，取彡之畫紋。",
+   "boundary": "源自《系統漢語》第593部「林部」／第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
