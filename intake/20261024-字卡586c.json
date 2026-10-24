@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡586c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzao6-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蚤·zǎo",
+   "statement": "蚤：从虫从又（又即爪）：齧人跳蟲（《說文》），跳蚤；借為早暮字；又抓撓。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "搔·sāo",
+   "statement": "搔：从手蚤聲：刮也（《玉篇》），以指甲抓撓。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "騷·sāo",
+   "statement": "騷：从馬蚤聲：擾也（《說文》），騷動；又《離騷》之騷（憂）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慅·cǎo",
+   "statement": "慅：从心蚤聲：動也（《說文》「一曰起也」），騷動；又憂愁。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "溞·sāo",
+   "statement": "溞：从水蚤聲：溞溞，淅米聲（《集韻》），淘米聲。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糔·xiǔ",
+   "statement": "糔：从米蚤聲：溲也（《說文》「糔，溲也」），以水調粉。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瘙·sào",
+   "statement": "瘙：从疒蚤聲：疥瘙（《玉篇》），疥瘡奇癢。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鼜·qì",
+   "statement": "鼜：从壴蚤聲：夜戒守鼓也（《說文》引《禮》「夜半三通為戒晨」），夜間警戒擂鼓。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠋺·sāo",
+   "statement": "𠋺：从人蚤聲：驕也（《說文》），驕傲；又夭也。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鰠·sāo",
+   "statement": "鰠：从魚蚤聲：魚似鱣（《玉篇》）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢔳·sáo",
+   "statement": "𢔳：从彳蚤聲：𢔳𢔇，緩行皃（《集韻》）；又跳也。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao6-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦃐·sāo",
+   "statement": "𦃐：从糸蚤聲：繅之或體，繹繭為絲（繭因抽絲而跳動）。",
+   "boundary": "源自《系統漢語》第586部「爪部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
