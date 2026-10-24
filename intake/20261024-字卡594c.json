@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡594c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshan3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "槮·shēn",
+   "statement": "槮：从木參聲：木長皃（《說文》「木長皃」）；又 積柴水中取魚（罧）。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "糝·sǎn",
+   "statement": "糝：从米參聲：以米和羹也（《說文》），米粒、飯粒。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "滲·shèn",
+   "statement": "滲：从水參聲：下漉也（《說文》「下漉也」），水滲透。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "黲·cǎn",
+   "statement": "黲：从黑參聲：淺青黑色（《說文》「淺青黑也」），黯暗。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "慘·cǎn",
+   "statement": "慘：从心參聲：毒也（《說文》「毒也」），慘毒、悲慘。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "謲·cǎn",
+   "statement": "謲：从言參聲：相怒也（《說文》），言語相責。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "墋·chěn",
+   "statement": "墋：从土參聲：土也（《說文》「土也」），沙土。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "磣·chěn",
+   "statement": "磣：从石參聲：食有沙（《集韻》），牙磣。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "醦·chěn",
+   "statement": "醦：从酉參聲：酢也（《集韻》），酸味。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏒·sǎn",
+   "statement": "鏒：从金參聲：金鏒（《集韻》），金器細碎。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "驂·cān",
+   "statement": "驂：从馬參聲：駕三馬也（《說文》「駕三馬也」），驂乘。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "篸·zān",
+   "statement": "篸：从竹參聲：綴衣針（《說文》「差也」一曰針），簪之初文。",
+   "boundary": "源自《系統漢語》第594部「彡部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
