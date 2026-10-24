@@ -114,6 +114,7 @@ async function open(ch){
   let d;
   try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now())).json(); }
   catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
+  const vhtml=await variantsFor(ch);
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
   const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
 const strip=g.length?`<div class="gscroll">${g.map((f,i)=>`<figure><img loading="lazy" src="${gsrc(f)}" alt="${esc(ch)}" title="${esc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
@@ -139,7 +140,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).map(s=>{ if(isZX(s)) hasZX=true;
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'字根衍生字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
   const photoBlock=(()=>{const P=(window.PHOTO||{})[ch]||[];if(!P.length)return '';return '<div class="sec"><h3>插图</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(ch)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
-main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${parentBlock}${photoBlock}${hasZX?'':'<div class="sec"><h3>古文字字形</h3>'+strip+'</div>'}</div>`;
+main.innerHTML=`${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${parentBlock}${photoBlock}${hasZX?'':'<div class="sec"><h3>古文字字形</h3>'+strip+'</div>'}</div>`;
 }
 $('#q').addEventListener('input',e=>render(e.target.value));
 async function tryDirect(ch){
