@@ -143,7 +143,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
   const b=(d.bus||[])[0]||{};
   const photoBlock=(()=>{const P=(window.PHOTO||{})[ch]||[];if(!P.length)return '';return '<div class="sec"><h3>插图</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(ch)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
 
-  return in.innerHTML=`${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${parentBlock}${photoBlock}</div>`;
+  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${parentBlock}${photoBlock}</div>`;
 }
 async function open(ch){
   cur=ch; render($('#q').value);
