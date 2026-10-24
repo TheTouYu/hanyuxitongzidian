@@ -38,6 +38,8 @@ main{overflow:auto;padding:20px 26px}
 .glyphs img{height:78px;display:block}
 .gscroll{display:flex;gap:8px;overflow-x:auto;padding:6px 0;scroll-behavior:smooth}
 .gscroll img{height:96px;display:block;background:#fff;border:1px solid var(--line);border-radius:6px;padding:2px}
+.gscroll figure{margin:0;text-align:center;flex:0 0 auto}
+.gscroll figcaption{font-size:11px;color:var(--mut);margin-top:2px;letter-spacing:.5px}
 .tag{display:inline-block;font-size:11px;color:var(--mut);border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-right:6px}
 .ct{width:100%;border-collapse:collapse;margin:4px 0 10px;font-size:14.5px}
 .ct th,.ct td{border:1px solid var(--line);padding:6px 9px;text-align:left;vertical-align:top}
@@ -102,7 +104,7 @@ let hasZX=false;
 const secs=(d.sections||[]).map(s=>{ if(s.key==='zixing'||/古文字字形/.test(s.label||'')) hasZX=true;
   const zx=(s.key==='zixing'||/古文字字形/.test(s.label||''))?strip:'';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
-  const strip=g.length?`<div class="gscroll">${g.map(f=>`<img loading="lazy" src="glyphs/${encodeURIComponent(ch)}/${encodeURIComponent(f)}" alt="${esc(ch)}" title="${esc(f)}">`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
+  const strip=g.length?`<div class="gscroll">${g.map((f,i)=>`<figure><img loading="lazy" src="glyphs/${encodeURIComponent(ch)}/${encodeURIComponent(f)}" alt="${esc(ch)}" title="${esc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
 
   const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json'); if(!pr.ok) return '';
