@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡597b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyong2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "庚·gēng",
+   "statement": "庚：象有柄之鐘（甬鐘形），借為天干第七，又 更也（庚、更通）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "賡·gēng",
+   "statement": "賡：从貝庚聲：續也（《說文》「續也」），賡續。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶊·gēng",
+   "statement": "鶊：从鳥庚聲：鶬鶊，黃鳥（黃鸝）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "庸·yōng",
+   "statement": "庸：从庚从用：大鐘之用，引申 用也、常也（平庸）、雇也（庸保）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "傭·yōng",
+   "statement": "傭：从人庸聲：均也、雇也（《說文》「均也」），傭工。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鏞·yōng",
+   "statement": "鏞：从金庸聲：大鐘也（《說文》「大鐘」），懸於架。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "墉·yōng",
+   "statement": "墉：从土庸聲：城垣也（《說文》「城垣也」），高牆。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "容·róng",
+   "statement": "容：从宀从谷：容受也（《說文》「盛也」），容貌、容納。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "熥·tōng",
+   "statement": "熥：从火甬聲：以火煖物也（《集韻》），烘烤、蒸。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "埇·yǒng",
+   "statement": "埇：从土甬聲：地名，在淮泗；一曰道上加土（《集韻》）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "恿·yǒng",
+   "statement": "恿：从心甬聲：勸也（《說文》「勸也」），慫恿。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悀·yǒng",
+   "statement": "悀：从心甬聲：怒也、滿也（《集韻》），心滿而出。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
