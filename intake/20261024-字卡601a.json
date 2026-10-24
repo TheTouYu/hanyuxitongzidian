@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡601a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lju2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鉅·jù",
+   "statement": "鉅：从金巨聲：大剛也（《說文》「大剛也」），巨鐵；引申巨大。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "詎·jù",
+   "statement": "詎：从言巨聲：詎猶豈也（《廣韻》），反詰詞；不可、至。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "柜·jǔ",
+   "statement": "柜：从木巨聲：柜柳，木名（《爾雅》），杞柳之一種。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "岠·jù",
+   "statement": "岠：从山巨聲：大山（《集韻》），山名。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "歫·jù",
+   "statement": "歫：从止巨聲：止也（《說文》「止也」），歫止、距離。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蚷·jù",
+   "statement": "蚷：从虫巨聲：馬蚷，蟲名（《莊子》「馬蚷」），即馬陸。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粔·jù",
+   "statement": "粔：从米巨聲：粔籹，環餅（《說文》），以蜜和米煎之。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秬·jù",
+   "statement": "秬：从禾巨聲：黑黍也（《說文》「黑黍也」），黑黍。",
+   "boundary": "源自《系統漢語》第600部「巨部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麤·cū",
+   "statement": "麤：从三鹿：行超遠也（《說文》「行超遠也」）；又角粗大、相背而食（《字統》「警防也」）；引申粗糙。",
+   "boundary": "源自《系統漢語》第601部「麤部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧆓·cū",
+   "statement": "𧆓：从艸麤聲：艸履也（《說文》「艸履也」），草鞋。",
+   "boundary": "源自《系統漢語》第601部「麤部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麁·cū",
+   "statement": "麁：从鹿从昔？《廣韻》：「踈也、大也、物不精也。本亦作麤」。",
+   "boundary": "源自《系統漢語》第601部「麤部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lju2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥼡·cū",
+   "statement": "𥼡：从米麤聲：米不精也（《廣韻》「米不精也」），糙米。",
+   "boundary": "源自《系統漢語》第601部「麤部」（卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
