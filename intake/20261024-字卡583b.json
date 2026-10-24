@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡583b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lchao2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣝞·jiāo",
+   "statement": "𣝞：从木巢聲：蒜束（《玉篇》），蒜苔（頂端花苞鼓如巢）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡏮·cháo",
+   "statement": "𡏮：从土巢聲：𡏮陽，地名（《康典》），傍有巢父墓。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥕘·cháo",
+   "statement": "𥕘：从石巢聲：壘石為巢而居（《集韻》），附國之民。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩍀·suǒ",
+   "statement": "𩍀：从革巢聲：革鎖也（《集韻》）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡻝·cháo",
+   "statement": "𡻝：从山巢聲：嶚𡻝，山高皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䟁·xiāo",
+   "statement": "䟁：从走巢聲：起也（《玉篇》）；又競走（《集韻》）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩫥·cáo",
+   "statement": "𩫥：从高巢聲：高足（《玉篇》）、高皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㑿·zhào",
+   "statement": "㑿：从人巢聲：長皃（《廣韻》）；又小也（《康典》）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨢪·chào",
+   "statement": "𨢪：从酉巢聲：醉𨢪也（《玉篇》），醉態。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨄓·cháo",
+   "statement": "𨄓：从足巢聲：行捷也（《集韻》）。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦸛·cháo",
+   "statement": "𦸛：从艸巢聲：𦸛麥，艸名（《集韻》）；一說巢菜即野豌豆。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lchao2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤍒·zhāo",
+   "statement": "𤍒：从火巢聲：然也（《集韻》），燃燒。",
+   "boundary": "源自《系統漢語》第583部「巢部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
