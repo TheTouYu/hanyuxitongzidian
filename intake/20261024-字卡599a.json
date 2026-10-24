@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡599a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lkang2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "坑·kēng",
+   "statement": "坑：从土亢聲：壍也（《玉篇》「壍也」），坑陷、土坑；引伸坑害。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "沆·hàng",
+   "statement": "沆：从水亢聲：莽沆，大水也（《說文》）；沆瀣，清露之氣。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肮·āng",
+   "statement": "肮：从肉亢聲：頸也（《廣韻》「頸也」）；又骯髒，高亢貶人。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "航·háng",
+   "statement": "航：从舟亢聲：船行（《廣韻》）。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "頏·háng",
+   "statement": "頏：从頁亢聲：頡頏，鳥飛上下（《詩》「頡之頏之」）。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "炕·kàng",
+   "statement": "炕：从火亢聲：乾也（《說文》「乾也」），以火乾物；北方臥具。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "且·qiě",
+   "statement": "且：象俎（肉案）之形：薦也（《說文》「薦也」），陳列祭肉之器；引申陳列、將近、暫且。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "祖·zǔ",
+   "statement": "祖：从示且聲：始廟也（《說文》「始廟也」），祖廟、祖先。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "組·zǔ",
+   "statement": "組：从糸且聲：綬屬（《說文》「綬屬」），絲帶；組織、編組。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "租·zū",
+   "statement": "租：从禾且聲：田賦也（《說文》「田賦也」），地租、租借。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "粗·cū",
+   "statement": "粗：从米且聲：疏也（《說文》「疏也」），粗疏、粗大。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lkang2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "阻·zǔ",
+   "statement": "阻：从阜且聲：險也（《說文》「險也」），阻隔、險阻。",
+   "boundary": "源自《系統漢語》第599部「且部」（卷九十八 銿／卷九十九 且）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
