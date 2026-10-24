@@ -1339,7 +1339,7 @@ async function serveStatic(res, pathname) {
     const data = await readFile(target);
     res.writeHead(200, {
       'content-type': MIME.get(extname(target).toLowerCase()) || 'application/octet-stream',
-      'cache-control': 'no-cache',
+      'cache-control': (extname(target).toLowerCase()==='.html'?'no-store':'no-cache'),
       'content-length': data.length,
     });
     res.end(data);
