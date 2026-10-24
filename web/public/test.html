@@ -109,12 +109,7 @@ async function variantsFor(ch){
   const btns=list.map(v=>`<button class="vbtn" onclick="open('${v}')">${v}</button>`).join(' ');
   return `<div class="vbox"><span>对应繁体/借字：</span>${btns}<span class="vnote">（分卡各释本义，勿混）</span></div>`;
 }
-async function open(ch){
-  cur=ch; render($('#q').value);
-  const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
-  let d;
-  try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now())).json(); }
-  catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
+async function cardBody(ch,d){
   const vhtml=await variantsFor(ch);
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
   const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
@@ -139,15 +134,22 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).map(s=>{ if(isZX(s)) hasZX=true;
       const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
       const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
       const pb=(p.bus||[])[0]||{};
-      const inner=`<div class="ph"><span class="ch">${esc(p.char||d.parent)}</span><span class="py">${esc(p.pinyin||'')}</span><span class="bu">第${esc(String(pb.num||'?'))}部 ${esc(pb.name||'')}</span></div>${pstrip}`
-        +(p.sections||[]).filter(x=>!(x.key==='zigen'||x.key==='zixing'||/字形/.test(x.label||'')))
-           .map(x=>`<div class="sec"><h3>${esc(x.label||x.key)}</h3>${GGRP(x)}${TTBL(x)}<p>${esc(x.text)}</p></div>`).join('');
+      const inner=await cardBody(d.parent,p);
       return `<div class="sec rootbox"><h3>字根「${esc(d.parent)}」</h3>${inner}</div>`;
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'谐声字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
   const photoBlock=(()=>{const P=(window.PHOTO||{})[ch]||[];if(!P.length)return '';return '<div class="sec"><h3>插图</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(ch)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
-main.innerHTML=`${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${parentBlock}${photoBlock}</div>`;
+
+  return in.innerHTML=`${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${parentBlock}${photoBlock}</div>`;
+}
+async function open(ch){
+  cur=ch; render($('#q').value);
+  const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
+  let d;
+  try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now())).json(); }
+  catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
+main.innerHTML = await cardBody(ch,d);
 }
 $('#q').addEventListener('input',e=>render(e.target.value));
 async function tryDirect(ch){
