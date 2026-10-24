@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡592a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "ldong-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "冬·dōng",
+   "statement": "冬：象冰淩形：四時之末（《廣韻》），結冰時節；轉義 終盡。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "昸·dōng",
+   "statement": "昸：从日冬聲：同冬（《字彙補》「與冬同」），冬日。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "苳·dōng",
+   "statement": "苳：从艸冬聲：艸也（《說文》），苣苳，冬生。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "赨·tóng",
+   "statement": "赨：从赤冬聲：赤色也（《說文》），凍得通紅之狀。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鉖·tóng",
+   "statement": "鉖：从金冬聲：釣鉖（《玉篇》），本作筒、筩，俗作鉖。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㤏·tóng",
+   "statement": "㤏：从心冬聲：憂也（《玉篇》），恎㤏，惶遽。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "炵·tōng",
+   "statement": "炵：从火冬聲：火焱也（《玉篇》），火色盛。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "佟·tóng",
+   "statement": "佟：从人冬聲：姓也（《廣韻》）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㚵·dōng",
+   "statement": "㚵：从女冬聲：女字（《集韻》）。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䈺·zhōng",
+   "statement": "䈺：从竹冬聲：竹名（《玉篇》）；戎人呼篋曰䈺。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "疼·téng",
+   "statement": "疼：从疒冬聲：痛也（《廣韻》），氣疼疼然煩（《釋名》）；或指愛憐。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "ldong-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蔠·zhōng",
+   "statement": "蔠：从艸冬聲：蔠葵，蘩露（《爾雅》），落葵，纏繞草本，嫩葉可食。",
+   "boundary": "源自《系統漢語》第592部「冬部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
