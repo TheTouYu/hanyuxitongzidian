@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡588a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyao588-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "杳·yǎo",
+   "statement": "杳：从日在木下：冥也（《說文》），象日落夜晚；轉義 幽深寬廣；音源借音同「幺」。",
+   "boundary": "源自《系統漢語》第588部「杳部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨓳·yāo",
+   "statement": "𨓳：从辵杳聲：遠皃（《集韻》「音要，遠皃」）。",
+   "boundary": "源自《系統漢語》第588部「杳部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬐·qí",
+   "statement": "鬐：从髟耆聲：馬鬣（《漢典》）；此條為形近字「耆」之訛。",
+   "boundary": "源自《系統漢語》第588部「杳部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "香·xiāng",
+   "statement": "香：从黍从甘：黍稷馨香；此條為形近字「香」之訛（《字彙補》「與香同」）。",
+   "boundary": "源自《系統漢語》第588部「杳部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "要·yāo",
+   "statement": "要：甲骨文从𦥑从妟：象雙手叉腰、抱腰，腰之初文（《玉篇》「腰，骻也，本作要」）；轉義 重要、關鍵、簡略；又 請求、索要、約束。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "腰·yāo",
+   "statement": "腰：从肉要聲：身中也（《說文》）；約結而小（《釋名》「腰，約也，在體之中」）。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "偠·yǎo",
+   "statement": "偠：从人要聲：偠紹，舒緩皃（《集韻》）；偠㒟，細腰也（《玉篇》）。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "楆·yāo",
+   "statement": "楆：从木要聲：要棗（《爾雅》「邊，要棗」），子細腰，今鹿盧棗。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "崾·yǎo",
+   "statement": "崾：从山要聲：山名（《集韻》），疑本指半山腰。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䙅·yào",
+   "statement": "䙅：从衣要聲：衣襻（《集韻》「衣襻」），衣之束腰處。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "闄·yǎo",
+   "statement": "闄：从門要聲：門要（《集韻》），門之要處。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyao588-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "喓·yāo",
+   "statement": "喓：从口要聲：喓喓，蟲鳴聲（《詩》「喓喓草蟲」）。",
+   "boundary": "源自《系統漢語》第589部「要部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
