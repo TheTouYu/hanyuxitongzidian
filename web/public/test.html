@@ -41,6 +41,7 @@ main{overflow:auto;padding:20px 26px}
 .ct th,.ct td{border:1px solid var(--line);padding:6px 9px;text-align:left;vertical-align:top}
 .ct th{background:#f4ecdf;font-weight:600;color:#5c4a37;font-size:13px}
 .ct td.zc{font-size:20px;width:56px;text-align:center}
+.rootbox{background:#f7f1e6;border:1px dashed #d9c9b2;border-radius:10px;padding:10px 14px}
 </style>
 </head>
 <body>
@@ -90,8 +91,16 @@ async function open(ch){
 };
 const secs=(d.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3>${tbl(s)}<p>${esc(s.text)}</p>${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`).join('');
   const glyph=g.length?`<div class="glyphs">${g.map(f=>`<figure><img loading="lazy" src="glyphs/${encodeURIComponent(ch)}/${encodeURIComponent(f)}" alt="${esc(ch)}"></figure>`).join('')}</div>`:'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>';
+
+  const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
+      const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json'); if(!pr.ok) return '';
+      const p=await pr.json();
+      const inner=(p.sections||[]).map(s=>`<div class="sec"><h3>${esc(s.label||s.key)}</h3><p>${esc(s.text)}</p></div>`).join('');
+      return `<div class="sec rootbox"><h3>字理分析·字根「${esc(d.parent)}」</h3>${inner}</div>`;
+    }catch(e){ return ''; } })() : '';
+  const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'字根衍生字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
-  main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${secs}<div class="sec"><h3>古文字字形</h3>${glyph}</div></div>`;
+  main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${secs}${parentBlock}<div class="sec"><h3>古文字字形</h3>${glyph}</div></div>`;
 }
 $('#q').addEventListener('input',e=>render(e.target.value));
 async function tryDirect(ch){
