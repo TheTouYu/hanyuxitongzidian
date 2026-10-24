@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡582d0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiao4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "抄·chāo",
+   "statement": "抄：从手少聲：叉取也（《集韻》），掠取、謄寫。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "炒·chǎo",
+   "statement": "炒：从火少聲：熬也（《集韻》），火乾、炒製。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "秒·miǎo",
+   "statement": "秒：从禾少聲：禾芒也（《說文》「秒，禾芒也」），引申時間單位。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "眇·miǎo",
+   "statement": "眇：从目少聲：一目小也（《說文》「眇，一目小也」），又微小、精微。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "妙·miào",
+   "statement": "妙：从女少聲：美也（《廣雅》），精微、神妙。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "渺·miǎo",
+   "statement": "渺：从水眇聲：渺茫（《集韻》），水遠無際。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "杪·miǎo",
+   "statement": "杪：从木少聲：木標末也（《說文》「杪，木標末也」），樹梢。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劣·liè",
+   "statement": "劣：从力少：弱也（《說文》「劣，弱也」），少力、劣弱。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尟·xiǎn",
+   "statement": "尟：从是少：鮮少（《說文》「尟，是少也」），稀少。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "觘·chào",
+   "statement": "觘：从角少聲：角上也（《說文》「觘，角匕也」），角上曲。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "耖·chào",
+   "statement": "耖：从耒少聲：重耕田也（《集韻》），耖田。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "麨·chǎo",
+   "statement": "麨：从麥少聲：糗也（《說文》「麨，糗也」），炒米粉。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
