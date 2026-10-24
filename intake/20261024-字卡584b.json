@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡584b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzao2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦗵·jiǎo",
+   "statement": "𦗵：从耳喿聲：耳鳴（《集韻》「音劋，耳鳴」）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤢖·sāo",
+   "statement": "𤢖：从犬喿聲：山𤢖（山魈），《神異經》「西方深山有人長丈餘……名山𤢖」。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩙈·sāo",
+   "statement": "𩙈：从風喿聲：颾之或體，風聲（《集韻》）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橾·shū",
+   "statement": "橾：从木喿聲：車轂中空也（《說文》），貫軸之空腔（轉動有聲）；又鍬之或體。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩯟·sān",
+   "statement": "𩯟：从髟喿聲：鬖之或體，髮亂皃（《集韻》）；又長毛皃。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥼾·sǎn",
+   "statement": "𥼾：从米喿聲：糝之或體，以米和羹（《說文》「以米和羹也」）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥽹·cào",
+   "statement": "𥽹：从米喿聲：米穀雜也（《字彙補》），雜亂。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "璪·zǎo",
+   "statement": "璪：从玉喿聲：玉飾如水藻之文（《說文》引《虞書》「璪火黺米」）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䵲·qiāo",
+   "statement": "䵲：从麻喿聲：麻苦雨生壞也（《集韻》），生麻；又雀斑。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "繰·zǎo",
+   "statement": "繰：从糸喿聲：帛如紺色（《說文》「帛如紺色」），黑紅；又繅絲。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧂈·jiǎo",
+   "statement": "𧂈：从艸喿聲：似薺菜（《玉篇》），山薺（多葉碎米薺）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "藻·zǎo",
+   "statement": "藻：从艸从水喿聲：水艸也（《說文》），水藻；又文辭（文采如藻布列）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
