@@ -109,6 +109,8 @@ async function variantsFor(ch){
   const btns=list.map(v=>`<button class="vbtn" onclick="open('${v}')">${v}</button>`).join(' ');
   return `<div class="vbox"><span>对应繁体/借字：</span>${btns}<span class="vnote">（分卡各释本义，勿混）</span></div>`;
 }
+const SEC_ORDER=['benyi','benyi2','zhuanyi','bianzheng','yinyuan','shengmu','zizu','zigen'];
+const secRank=k=>{const i=SEC_ORDER.indexOf(k);return i<0?99:i;};
 async function cardBody(ch,d){
   const vhtml=await variantsFor(ch);
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
@@ -123,7 +125,7 @@ const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
   return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
 };
 let hasZX=false;const isZX=s=>s.key==='zigen'||s.key==='zixing'||/字形/.test(s.label||'');
-const secs=(d.sections||[]).filter(s=>!isZX(s)).map(s=>{ if(isZX(s)) hasZX=true;
+const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRank(b.key)).map(s=>{ if(isZX(s)) hasZX=true;
   const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
