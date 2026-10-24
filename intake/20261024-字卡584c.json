@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡584c0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzao3-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢤁·sào",
+   "statement": "𢤁：从心喿聲：情性踈皃（《廣韻》），性情疏放。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㿋·sào",
+   "statement": "㿋：从疒喿聲：瘙之或體，疥瘙（《廣韻》），疥瘡奇癢。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "劋·jiǎo",
+   "statement": "劋：从刀喿聲：絕也（《說文》引《周書》「天用劋絕其命」），滅絕、剁碎；又狡猾。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㩰·jiǎo",
+   "statement": "㩰：从手喿聲：剽截也（《玉篇》），摷之或體，拘擊。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧒮·zǎo",
+   "statement": "𧒮：从虫喿聲：同蚤（跳蚤），叮咬致瘙癢。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "趮·zào",
+   "statement": "趮：从走喿聲：疾也（《說文》）；又矢傍掉（箭飛搖擺）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱢·sāo",
+   "statement": "鱢：从魚喿聲：鮏臭也（《說文》引《周禮》「膳膏鱢」），腥味。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懆·cǎo",
+   "statement": "懆：从心喿聲：愁不安也（《說文》引《詩》「念子懆懆」），憂愁。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嬠·cān",
+   "statement": "嬠：从女喿聲：婪也（《龍龕》），貪婪。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "矂·sào",
+   "statement": "矂：从目喿聲：眊矂，失意、煩惱（《漢典》）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "髞·sāo",
+   "statement": "髞：从高喿聲：髝髞，麤急皃（《廣韻》）、高皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzao3-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "燥·zào",
+   "statement": "燥：从火喿聲：乾也（《說文》），乾枯；焦、焦急。",
+   "boundary": "源自《系統漢語》第584部「喿部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
