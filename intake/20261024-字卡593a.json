@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡593a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "llin-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "林·lín",
+   "statement": "林：从二木：平土有叢木曰林（《說文》）；轉義 眾多、匯聚。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "森·sēn",
+   "statement": "森：从三木：木多皃（《說文》「木多皃」），繁密陰森。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "淋·lín",
+   "statement": "淋：从水林聲：以水沃也（《說文》「以水沃也」），澆淋。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霖·lín",
+   "statement": "霖：从雨林聲：雨三日以往為霖（《說文》「雨三日以往為霖」），久雨。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痳·lín",
+   "statement": "痳：从疒林聲：疝病（《說文》「疝病」），小便不通；又 麻痺。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "郴·chēn",
+   "statement": "郴：从邑林聲：桂陽縣（《說文》「桂陽縣」），今郴州。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "綝·chēn",
+   "statement": "綝：从糸林聲：止也（《說文》「止也」），又 綝纚，衣裳毛羽垂皃。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "罧·shèn",
+   "statement": "罧：从网林聲：積柴水中以取魚（《說文》「積柴水中以取魚」）。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "崊·lín",
+   "statement": "崊：从山林聲：山名（《集韻》），山深。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潹·chán",
+   "statement": "潹：从水林聲：水聲（《集韻》）。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "焚·fén",
+   "statement": "焚：从火林聲：燒田也（《說文》「燒田也」），焚燒。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "llin-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "婪·lán",
+   "statement": "婪：从女林聲：貪也（《說文》「貪也」），婪酣。",
+   "boundary": "源自《系統漢語》第593部「林部」（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
