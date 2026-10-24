@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡603a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lzhou4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "譸·zhōu",
+   "statement": "譸：从言壽聲：詶也（《說文》「詶也」），譸張，誑也。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𠷎·chóu",
+   "statement": "𠷎：从口𢏚聲：咨也、誰也（《廣韻》《說文》），嗟歎聲。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤾊·chóu",
+   "statement": "𤾊：从白𢏚聲：詞也（《說文》「詞也」），發語詞。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䮻·dǎo",
+   "statement": "䮻：从馬壽聲：禱牲馬祭也（《說文》引《詩》「既禡既禂」），為牲馬祭。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢶈·dǎo",
+   "statement": "𢶈：从手𠷎聲：手推也，一曰築也（《說文》），搗。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣪐·chóu",
+   "statement": "𣪐：从殳𠃬聲：懸物𣪐擊（《說文》），懸物搗擊。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢿟·chóu",
+   "statement": "𢿟：从攴𠷎聲：棄也（《說文》「棄也」），《周書》以為討。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䬞·táo",
+   "statement": "䬞：从風壽聲：風大聲（《玉篇》「風大聲」），大風。",
+   "boundary": "源自《系統漢語》第602部「𠃬部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "周·zhōu",
+   "statement": "周：象方格內刻畫紋飾之形：雕刻，「彫」之初文（《說文》「琢文也」）；引申周密、周遍、周旋。",
+   "boundary": "源自《系統漢語》第603部「周部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彫·diāo",
+   "statement": "彫：从彡周聲：琢文也（《說文》「琢文也」），雕飾。",
+   "boundary": "源自《系統漢語》第603部「周部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "雕·diāo",
+   "statement": "雕：从隹周聲：鷻也（《說文》「鷻也」），大型猛禽；借為雕飾、雕琢。",
+   "boundary": "源自《系統漢語》第603部「周部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lzhou4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "凋·diāo",
+   "statement": "凋：从仌周聲：半傷也（《說文》「半傷也」），凋零、凋敝。",
+   "boundary": "源自《系統漢語》第603部「周部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
