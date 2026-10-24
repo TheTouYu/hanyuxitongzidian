@@ -113,8 +113,8 @@ const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
   return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
 };
 let hasZX=false;const isZX=s=>s.key==='zigen'||s.key==='zixing'||/字形/.test(s.label||'');
-const secs=(d.sections||[]).map(s=>{ if(isZX(s)) hasZX=true;
-  const zx=(isZX(s)&&!s.__s)?strip:''; if(zx) s.__s=1;
+const secs=(d.sections||[]).filter(s=>!isZX(s)).map(s=>{ if(isZX(s)) hasZX=true;
+  const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
   const parentBlock = (d.level===3 && d.parent) ? await (async()=>{ try{
@@ -126,7 +126,7 @@ const secs=(d.sections||[]).map(s=>{ if(isZX(s)) hasZX=true;
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'字根衍生字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
   const photoBlock=(()=>{const P=(window.PHOTO||{})[ch]||[];if(!P.length)return '';return '<div class="sec"><h3>插图</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(ch)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
-main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${secs}${parentBlock}${photoBlock}${hasZX?'':'<div class="sec"><h3>古文字字形</h3>'+strip+'</div>'}</div>`;
+main.innerHTML=`<div class="card"><div class="chead"><div class="ch">${esc(ch)}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}第${esc(String(b.num||'?'))}部 ${esc(b.name||'')}</div></div>${strip}${secs}${parentBlock}${photoBlock}${hasZX?'':'<div class="sec"><h3>古文字字形</h3>'+strip+'</div>'}</div>`;
 }
 $('#q').addEventListener('input',e=>render(e.target.value));
 async function tryDirect(ch){
