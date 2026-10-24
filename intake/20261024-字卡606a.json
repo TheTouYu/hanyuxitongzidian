@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡606a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lcun-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "寸·cùn",
+   "statement": "寸：象事字：又（手）下加指示符，指寸口脈位；引申長度單位、短小。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "酎·zhòu",
+   "statement": "酎：从酉从肘省：三重醇酒也（《說文》），多次重釀之醇酒。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "討·tǎo",
+   "statement": "討：从言从寸：治也（《說文》「治也」），整治、聲討（反復申述）。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨥇·zhòu",
+   "statement": "𨥇：同「鑄」，鑄造（《五音篇海》）。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "忖·cǔn",
+   "statement": "忖：从心寸聲：度也（《說文》「度也」），揣度、思量。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尋·xún",
+   "statement": "尋：从又从寸（《字彙補》「與尋同」）：尋繹、探尋，八尺曰尋。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "刌·cǔn",
+   "statement": "刌：从刀寸聲：切也（《說文》「切也」），細切、割截。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吋·cùn",
+   "statement": "吋：英寸舊稱（《字彙》「叱也」另義）。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "籿·cùn",
+   "statement": "籿：公制長度單位，分米之舊譯。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肘·zhǒu",
+   "statement": "肘：从肉从寸：臂節也（《說文》「臂節也」），上臂下臂交接可彎處；甲骨文作「九」象曲臂。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "紂·zhòu",
+   "statement": "紂：从糸肘省聲：馬緧也（《說文》「馬緧也」），駕車馬後之皮帶。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lcun-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "村·cūn",
+   "statement": "村：从邑屯聲（俗作村）：聚落也（《集韻》「聚也」），村莊。",
+   "boundary": "源自《系統漢語》第606部「寸部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
