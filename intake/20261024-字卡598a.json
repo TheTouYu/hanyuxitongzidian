@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡598a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyong4-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "甯·nìng",
+   "statement": "甯：从用寧聲：所願也（《說文》「所願也」），寧願、安寧；通「寧」。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "澝·nìng",
+   "statement": "澝：从水寧聲：同「濘」，淤積的泥水氹（《字海》）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "橣·nìng",
+   "statement": "橣：从木寧聲：木名（《集韻》），檸檬，味澀。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧑗·nìng",
+   "statement": "𧑗：从虫寧聲：蟲名，似蟬（《集韻》），觸之腹脹。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩕋·nǐng",
+   "statement": "𩕋：从頁寧聲：頂顚也（《集韻》），頭頂。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𤢆·nìng",
+   "statement": "𤢆：从犬寧聲：同「獰」，猙獰，犬毛；一曰惡也（《集韻》）。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𡛾·nǎi",
+   "statement": "𡛾：从女寧聲：乳也（《龍龕》），通「妳/嬭」，乳房、奶。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𦕘·tīng",
+   "statement": "𦕘：从耳寧聲：正作「聽」（《龍龕》），聆也。",
+   "boundary": "源自《系統漢語》第597部「用部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "亢·kàng",
+   "statement": "亢：象人頸之形：人頸也（《說文》「人頸也」），頸喉；引申高、抗、亢旱。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "抗·kàng",
+   "statement": "抗：从手亢聲：扞也（《說文》「扞也」），抵抗、高抗。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伉·kàng",
+   "statement": "伉：从人亢聲：匹也（《說文》「匹也」），伉儷；伉直。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyong4-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "吭·háng",
+   "statement": "吭：从口亢聲：喉嚨（《廣韻》「鳥喉」），引吭高歌。",
+   "boundary": "源自《系統漢語》第598部「亢部」（卷九十八 銿）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
