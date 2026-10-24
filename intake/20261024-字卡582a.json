@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡582a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "小·xiǎo",
+   "statement": "小：象雀三趾腳印（《說文》「物之微也」），引申細微、微小。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㭂·jiǎo",
+   "statement": "㭂：从木小聲：相高也（《說文》），木忽高；樹梢。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釥·qiǎo",
+   "statement": "釥：从金小聲：美金也（《玉篇》），好、淨；又利。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩵖·xiǎo",
+   "statement": "𩵖：从魚小聲：魚名（《玉篇》），細小魚。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䒕·xiǎo",
+   "statement": "䒕：从艸小聲：葽䒕，艸名（《集韻》），即遠志（莖葉纖細）。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "仦·miáo",
+   "statement": "仦：从人小：小兒也（《字彙補》引《說略》），幼小。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尕·gǎ",
+   "statement": "尕：从小：小也（《字彙補》），西北方言「尕娃」。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尘·chén",
+   "statement": "尘：从小从土：塵之俗字（《字彙補》），飛塵細微。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尛·mó",
+   "statement": "尛：从三小：麼之古字（《字彙補》），細小。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "肖·xiào",
+   "statement": "肖：从肉小聲：骨肉相似也（《說文》），像、似；不肖＝子不似父。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "宵·xiāo",
+   "statement": "宵：从宀肖聲：夜也（《說文》「宵，夜也」），夜晚。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "消·xiāo",
+   "statement": "消：从水肖聲：盡也（《說文》「消，盡也」），融化、消滅。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
