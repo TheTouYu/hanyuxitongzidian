@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡582b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lxiao2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "銷·xiāo",
+   "statement": "銷：从金肖聲：鑠金也（《說文》「銷，鑠金也」），熔化、消歇。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "霄·xiāo",
+   "statement": "霄：从雨肖聲：雨䨘也（《說文》），雲霄、高空。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "悄·qiǎo",
+   "statement": "悄：从心肖聲：憂也（《說文》「悄，憂也」），又悄然（靜）。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "逍·xiāo",
+   "statement": "逍：从辵肖聲：逍遙（《集韻》），優游自得。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "硝·xiāo",
+   "statement": "硝：从石肖聲：硝石（《集韻》），硝石、芒硝。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "琑·suǒ",
+   "statement": "琑：从玉肖聲：瑣之或體（《集韻》），細碎、鎖。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "娋·shào",
+   "statement": "娋：从女肖聲：小娋（《集韻》），女小而美。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "睄·qiáo",
+   "statement": "睄：从目肖聲：小視也（《集韻》），瞧之或體。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "潲·shào",
+   "statement": "潲：从水肖聲：雨濺也（《集韻》），潲水、雨斜打。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "痟·xiāo",
+   "statement": "痟：从疒肖聲：酸痟，頭痛（《說文》「痟，酸痟，頭痛」），消渴病。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "削·xiāo",
+   "statement": "削：从刀肖聲：析也（《說文》「削，析也」），削刮、刪削。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lxiao2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鞘·qiào",
+   "statement": "鞘：从革肖聲：刀室也（《集韻》），刀鞘、鞭鞘。",
+   "boundary": "源自《系統漢語》第582部「小部」（卷九十六 雀）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
