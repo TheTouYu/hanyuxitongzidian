@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡608a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lfinal-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "褭·niǎo",
+   "statement": "褭：从馬从衣：以組帶馬也（《說文》「以組帶馬也」），絲帶系馬；騕褭，良馬。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㒟·niǎo",
+   "statement": "㒟：从人褭聲：偠㒟，舞者㒟身若環（《玉篇》），細腰。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䃵·niáo",
+   "statement": "䃵：从石褭聲：山曲曰䃵（《集韻》），山曲處。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𢴶·niǎo",
+   "statement": "𢴶：从手褭聲：摘也、搦也（《廣韻》《字彙》）。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨽖·niǎo",
+   "statement": "𨽖：从阜褭聲：偃低皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㠡·niǎo",
+   "statement": "㠡：从山褭聲：岰㠡，山皃（《集韻》）。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𣟊·niǎo",
+   "statement": "𣟊：从木褭聲：木長弱皃（《集韻》），柔長之木。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𨳀·niǎo",
+   "statement": "𨳀：从門褭聲：柔長也（《集韻》）。",
+   "boundary": "源自《系統漢語》第607部「褭部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "雔·chóu",
+   "statement": "雔：从二隹相對：雙鳥也（《說文》「雙鳥也」），兩鳥相鬥或相和鳴，讎之初文。",
+   "boundary": "源自《系統漢語》第608部「雔部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "讎·chóu",
+   "statement": "讎：从言雔聲：對答也（《說文》「猶𧭭也」），匹偶、仇怨、校讎、償付。",
+   "boundary": "源自《系統漢語》第608部「雔部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "犨·chōu",
+   "statement": "犨：从牛雔聲：牛息聲（《說文》「牛息聲」），牛喘息、牛名。",
+   "boundary": "源自《系統漢語》第608部「雔部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lfinal-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㘜·chóu",
+   "statement": "㘜：雔之俗字：雙鳥也（《五音集韻》），《正字通》以為讎字之訛。",
+   "boundary": "源自《系統漢語》第608部「雔部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
