@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡605a0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lniao-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鳥·niǎo",
+   "statement": "鳥：象鳥形：飛禽緫名也（《玉篇》），長尾禽總名。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "梟·xiāo",
+   "statement": "梟：从鳥在木上：不孝鳥也（《說文》「不孝鳥也」），食母；惡聲之鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鳴·míng",
+   "statement": "鳴：从口从鳥：鳥聲也（《說文》「鳥聲也」），鳥叫、鳴響。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶉·chún",
+   "statement": "鶉：从鳥享聲：鷯鶉也（《說文》），鵪鶉。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鳳·fèng",
+   "statement": "鳳：从鳥凡聲：神鳥也（《說文》「神鳥也」），鳳凰。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鶴·hè",
+   "statement": "鶴：从鳥隺聲：鶴，長頸高足之鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鵲·què",
+   "statement": "鵲：从鳥昔聲：喜鵲，知來之鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴉·yā",
+   "statement": "鴉：从鳥牙聲：烏鴉，純黑之鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷗·ōu",
+   "statement": "鷗：从鳥區聲：海鷗，水鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鷹·yīng",
+   "statement": "鷹：从鳥从人：鷹隼，猛鷙之鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴟·chī",
+   "statement": "鴟：从鳥氐聲：鴟鴞，鴟鴞惡鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lniao-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鴦·yāng",
+   "statement": "鴦：从鳥央聲：鴛鴦，匹鳥。",
+   "boundary": "源自《系統漢語》第605部「鳥部」（卷一百 壽）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
