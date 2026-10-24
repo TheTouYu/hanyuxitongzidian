@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡594f0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lshan6-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "篸·cēn",
+   "statement": "篸：从竹參聲：差也（《說文》「差也」），參差不齊；zān 所以綴衣，縫衣針（簪之初文）。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鬖·sān",
+   "statement": "鬖：从髟參聲：亂髮也（《集韻》），䰐鬖毛垂、鬖髿髮美。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "毿·sān",
+   "statement": "毿：从毛參聲：毛長皃（《集韻》），與鬖通。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嵾·cēn",
+   "statement": "嵾：从山參聲：嵾差，不齊皃（《廣韻》），嵾嵳山不齊；嵾嶺即武當山。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蔘·shēn",
+   "statement": "蔘：从艸參聲：人蔘，藥也（《本草》「根如人形」），浸漸長成。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "縿·shān",
+   "statement": "縿：从糸參聲：旌旗之斿也（《說文》「旌旗之斿也」），旗正幅垂飾。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "幓·shān",
+   "statement": "幓：从巾參聲：旌旗之游也（《集韻》引《說文》），一曰正幅；襂纚，衣裳毛羽垂皃。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩌰·shān",
+   "statement": "𩌰：从革參聲：旌旗旒也（《玉篇》），鞍𩌰垂皃。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鯵·shēn",
+   "statement": "鯵：从魚參聲：鱢字之訛（《字彙》），腥臭。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "剼·shān",
+   "statement": "剼：从刀參聲：刈也（《集韻》）；《正字通》謂「劋」之訛，絶也。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "嘇·shān",
+   "statement": "嘇：从口參聲：口臽嘇物也（《玉篇》），唅嘇，物在口中。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lshan6-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "贂·chěn",
+   "statement": "贂：从貝參聲：賭也（《字彙》），以財相賭。",
+   "boundary": "源自《系統漢語》第594部「彡部」·參系（卷九十七 殸）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
