@@ -1,0 +1,163 @@
+{
+ "schema_version": 1,
+ "intent": "字卡580b0-2026-10-24",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lli2-001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "邐·lǐ",
+   "statement": "邐：从辵麗聲：迤邐（《集韻》），道路曲折連延。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "躧·xǐ",
+   "statement": "躧：从足麗聲：舞履也（《說文》「躧，舞履也」），躧履、躧步。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "孋·lí",
+   "statement": "孋：从女麗聲：女字（《集韻》），戎狄名；又美。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "廲·lí",
+   "statement": "廲：从广麗聲：廲廔，綺窗（《集韻》），窗欞交疏。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "彲·chī",
+   "statement": "彲：从鹿麗聲：若龍而黃（《說文》引《周書》），螭之或體。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鸝·lí",
+   "statement": "鸝：从鳥麗聲：黃鸝（《集韻》），黃鶯。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱺·lí",
+   "statement": "鱺：从魚麗聲：魚名（《集韻》），鰻鱺。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㿛·lì",
+   "statement": "㿛：从疒麗聲：癧之或體（《集韻》），瘰癧、惡疾。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "襹·shī",
+   "statement": "襹：从衣麗聲：襳襹，衣長貌（《集韻》），羽毛衣。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "矖·xǐ",
+   "statement": "矖：从目麗聲：索視也（《集韻》），視察。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "灑·sǎ",
+   "statement": "灑：从水麗聲：洒也（《說文》「灑，汛也」），灑水、散落。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lli2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "囇·lì",
+   "statement": "囇：从日麗聲：曬之或體（《集韻》），日光曝物。",
+   "boundary": "源自《系統漢語》第580部「麗部」（卷九十五 離）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
