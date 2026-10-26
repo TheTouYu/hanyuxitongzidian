@@ -1,0 +1,40 @@
+{
+ "char": "指",
+ "trad": "指",
+ "simp": "指",
+ "pinyin": "zhǐ",
+ "level": 3,
+ "parent": "旨",
+ "bus": [
+  {
+   "num": 3,
+   "name": "旨"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "指，zhǐ：《說文》「手指也。从手旨聲」；《廣韻》「又示也、斥也」（原稿字族表摘要）",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取一面：與本義相協（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷一雞",
+     "label": "卷一雞"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "char": "枱",
+ "trad": "枱",
+ "simp": "枱",
+ "pinyin": "sì",
+ "level": 3,
+ "parent": "台",
+ "bus": [
+  {
+   "num": 8,
+   "name": "㠯"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "枱，sì：《說文》「耒端也」，同「耜」——耒端挺出如男根，故从木（原稿字族表摘要）",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "s「失收」取一面：與本義相協（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "char": "墅",
+ "trad": "墅",
+ "simp": "墅",
+ "pinyin": "shù",
+ "level": 3,
+ "parent": "野",
+ "bus": [
+  {
+   "num": 9,
+   "name": "士"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "墅，shù：別墅、田廬；野省聲（原稿字族表摘要）",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "sh「失收」取一面：與本義相協（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
+    }
+   ]
+  }
+ ]
+}
