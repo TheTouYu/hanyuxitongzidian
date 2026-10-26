@@ -1,0 +1,77 @@
+{
+ "char": "貍",
+ "trad": "貍",
+ "simp": "",
+ "pinyin": "lí",
+ "level": 2,
+ "parent": "士",
+ "bus": [
+  {
+   "num": 9,
+   "name": "士"
+  }
+ ],
+ "sections": [
+  {
+   "key": "benyi",
+   "label": "本义",
+   "text": "貍：野貓、貓屬，《說文》「伏獸，似貙」。",
+   "cites": []
+  },
+  {
+   "key": "zhuanyi",
+   "label": "转义",
+   "text": "引申為伏匿、隱藏。",
+   "cites": []
+  },
+  {
+   "key": "bianzheng",
+   "label": "辩证",
+   "text": "从豸里聲，里為士部二級；非从里土之里。",
+   "cites": []
+  },
+  {
+   "key": "yinyuan",
+   "label": "音源",
+   "text": "本里聲。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l 取拢离（推）。",
+   "cites": []
+  },
+  {
+   "key": "zizu",
+   "label": "字族衍义",
+   "text": "字族衍义",
+   "groups": [
+    {
+     "title": "①同族",
+     "note": "",
+     "header": [
+      "字",
+      "读音",
+      "类属",
+      "取义落点"
+     ],
+     "rows": [
+      [
+       "薶",
+       "mái",
+       "艸",
+       "埋藏；貍聲記音"
+      ],
+      [
+       "霾",
+       "mái",
+       "雨",
+       "風雨土也、霧霾；貍聲記音"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
