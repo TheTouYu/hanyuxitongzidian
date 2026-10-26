@@ -1,7 +1,12 @@
 {
  "char": "貞",
  "pinyin": "zhēn",
- "bus": [],
+ "bus": [
+  {
+   "num": 137,
+   "name": "貞"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -34,5 +39,6 @@
    "cites": []
   }
  ],
- "simp": "贞"
+ "simp": "贞",
+ "level": 1
 }

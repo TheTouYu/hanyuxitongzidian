@@ -1,7 +1,12 @@
 {
  "char": "龜",
  "pinyin": "guī",
- "bus": [],
+ "bus": [
+  {
+   "num": 469,
+   "name": "龜"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -34,5 +39,6 @@
    "cites": []
   }
  ],
- "simp": "龟"
+ "simp": "龟",
+ "level": 1
 }

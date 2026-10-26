@@ -1,7 +1,12 @@
 {
  "char": "規",
  "pinyin": "guī",
- "bus": [],
+ "bus": [
+  {
+   "num": 468,
+   "name": "規"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -34,5 +39,6 @@
    "cites": []
   }
  ],
- "simp": "规"
+ "simp": "规",
+ "level": 1
 }

@@ -1,7 +1,12 @@
 {
  "char": "爭",
  "pinyin": "zhēng",
- "bus": [],
+ "bus": [
+  {
+   "num": 498,
+   "name": "爭"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -34,5 +39,6 @@
    "cites": []
   }
  ],
- "simp": "争"
+ "simp": "争",
+ "level": 1
 }
