@@ -84,17 +84,38 @@ let IDX=[], GLYPH={}, cur='';
 const norm=s=>(s||'').toLowerCase();
 fetch('cards/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{IDX=d;$('#hint').textContent=`共 ${d.length} 张卡`;render('');}).catch(e=>$('#hint').textContent='索引加载失败：'+e);
 fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(()=>{});
-fetch('glyphs/photos/index.json').then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{});
+fetch('glyphs/photos/index.json').then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{}); fetch('glyphs/photos/captions.json?v='+Date.now()).then(r=>r.json()).then(d=>{window.CAPS=d;}).catch(()=>{});
 function match(q){
   q=norm(q.trim()); if(!q) return IDX.slice(0,200);
   const exact=IDX.filter(x=>x.c===q||((x.a||[]).includes(q)));
   if(exact.length) return exact.concat(IDX.filter(x=>x.c!==q&&!((x.a||[]).includes(q))&&(norm(x.p).startsWith(q)||x.t.some(t=>norm(t).includes(q)))).slice(0,80));
   return IDX.filter(x=>norm(x.c).includes(q)||((x.a||[]).some(t=>norm(t).includes(q)))||norm(x.p).includes(q)||x.t.some(t=>norm(t).includes(q))).slice(0,120);
 }
+window.fillFam=(ch)=>{fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()).then(r=>r.json()).then(d=>{const seen=new Set(),names=[];(d.sections||[]).forEach(s=>(s.groups||[]).forEach(g=>(g.rows||[]).forEach(r=>{let c=String(r[0]||'').replace(/（.*?）|\(.*?\)/g,'').trim();if(c&&!seen.has(c)){seen.add(c);names.push(c);}})));const sp=document.getElementById('famspan');if(!names.length){kh=IDX.filter(x=>x.pr===ch).map(x=>x.c);kh.forEach(c=>names.push(c));}
+if(sp&&names.length){sp.innerHTML='　<label>字族</label>　'+names.map(famln).join('');bindHint();}}).catch(()=>{});};
+const famln=(ch)=>{const it=IDX.find(x=>x.c===ch||((x.a||[]).includes(ch)));const al=(it&&it.a&&it.a.length)?('（'+it.a.join('/')+'）'):'';const lab=(it?it.c:ch)+al;return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)}</a>`;};
+window.bindHint=()=>{document.querySelectorAll('#hint a[data-c]').forEach(a=>a.onclick=()=>open(a.dataset.c));};
 function render(q){
   const rows=match(q);
   $('#list').innerHTML=rows.map(x=>`<div class="item${x.c===cur?' on':''}" data-c="${x.c}"><b>${x.c}</b><span class="m">${x.p||''}</span><span class="m">${x.ch?(function(){var L='第'+x.ch+'章'+(x.cn?' '+x.cn:'');return (x.cc?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+x.cc+'\')">'+L+'</a>'):L);}()):('第'+(x.b||'?')+'部')} ${x.ch?'':(x.n||'')}</span></div>`).join('')||'<div class="empty">无结果</div>';
-  $('#hint').textContent=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
+  const base=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
+  let rel='';
+  if(q){
+    const byChar=ch=>IDX.find(x=>x.c===ch||((x.a||[]).includes(ch)));
+    let t=byChar(q)||rows.find(r=>r.lv>0)||rows[0];
+    if(t){
+      const chain=[];let p=t.pr;let guard=0;
+      while(p&&guard++<5){chain.push(p);const pc=byChar(p);p=pc?pc.pr:'';}
+      const kids=IDX.filter(x=>x.pr===t.c).map(x=>x.c);
+      const ln=(ch)=>{const it=IDX.find(x=>x.c===ch||((x.a||[]).includes(ch)));const al=(it&&it.a&&it.a.length)?('（'+it.a.join('/')+'）'):'';const lab=(it?it.c:ch)+al;return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)}</a>`;};
+      const rl=chain.length?chain.slice().reverse().map(ln).join(' → '):'—';
+      const fam='';
+      if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
+      if(!(t.chapter||t.ch)) window.fillFam(t.c);
+    }
+  }
+  $('#hint').innerHTML=base+rel;
+  bindHint();
   $('#list').querySelectorAll('.item').forEach(el=>el.onclick=()=>open(el.dataset.c));
 }
 function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
@@ -144,7 +165,7 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'谐声字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
-  const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
+  const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map((f,i)=>{const CP=(window.CAPS||{})[who]||[];const cap=CP[i]||'';return '<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'">'+(cap?'<figcaption>'+esc(cap)+'</figcaption>':'')+'</figure>';}).join('')+'</div></div>';})();
 
   return `${vhtml}<div class="card"><div class="chead"><div class="ch">${d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">第'+(d.chapter||'')+'章 '+esc(d.chapterName||'')+'</a>'):esc(d.cname||ch)}${(d.bus&&d.bus[0]&&(d.bus[0].name||'').indexOf('卷')===0)?(' · '+esc(d.cname||ch)):''}${(d.simp&&!d.cname)?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${d.chapterCard?'':('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${rootLink}${parentBlock}${ss?'<div class="sec"><h3>所属卷</h3>'+LKR(ss)+'</div>':''}</div>`;
 }
