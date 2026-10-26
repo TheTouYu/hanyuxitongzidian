@@ -128,7 +128,7 @@ let hasZX=false;const isZX=s=>s.key==='zigen'||s.key==='zixing'||/字形/.test(s
 const LKR=(s)=>((s&&s.links&&s.links.length)?("<p class=\"lks\">"+s.links.map(l=>"<a href=\"javascript:void(0)\" onclick=\"open('"+l.ch+"')\">"+esc(l.label)+"</a>").join(" · ")+"</p>"):"");
 const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRank(b.key)).map(s=>{ if(isZX(s)) hasZX=true;
   const zx='';
-  return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
+  return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${LKR(s)}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
   const parentBlock = (d.level>1 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
