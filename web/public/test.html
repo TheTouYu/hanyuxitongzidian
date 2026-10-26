@@ -92,7 +92,16 @@ function match(q){
 function render(q){
   const rows=match(q);
   $('#list').innerHTML=rows.map(x=>`<div class="item${x.c===cur?' on':''}" data-c="${x.c}"><b>${x.c}</b><span class="m">${x.p||''}</span><span class="m">第${x.b||'?'}部 ${x.n||''}</span></div>`).join('')||'<div class="empty">无结果</div>';
-  $('#hint').textContent=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
+  const base=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
+  let rel='';
+  if(q){const t=IDX.find(x=>x.c===q||x.a===q)||rows[0];
+    if(t){const kids=IDX.filter(x=>x.pr===t.c).map(x=>x.c);
+      const ln=(ch)=>`<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #c8a#;margin:0 2px;cursor:pointer">${esc(ch)}</a>`;
+      rel=`<span style="margin-left:14px">字根　${t.pr?ln(t.pr):'—'}`+(kids.length?`　字族　${kids.map(ln).join('')}`:'')+`</span>`;
+    }}
+  }
+  $('#hint').innerHTML=base+rel;
+  document.querySelectorAll('#hint a[data-c]').forEach(a=>a.onclick=()=>open(a.dataset.c));
   $('#list').querySelectorAll('.item').forEach(el=>el.onclick=()=>open(el.dataset.c));
 }
 function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
