@@ -110,7 +110,7 @@ function render(q){
       const ln=(ch)=>{const it=IDX.find(x=>x.c===ch||((x.a||[]).includes(ch)));const al=(it&&it.a&&it.a.length)?('（'+it.a.join('/')+'）'):'';const lab=(it?it.c:ch)+al;return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)}</a>`;};
       const rl=chain.length?chain.slice().reverse().map(ln).join(' → '):'—';
       const fam='';
-      rel=(t.chapter||t.ch)?' ':`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;
+      if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
       if(!(t.chapter||t.ch)) window.fillFam(t.c);
     }
   }
