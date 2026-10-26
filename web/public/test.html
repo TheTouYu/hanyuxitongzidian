@@ -28,7 +28,7 @@ main{overflow:auto;padding:20px 26px}
 .empty{color:var(--mut);margin-top:40px;text-align:center}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;max-width:980px;margin:0 auto}
 .chead{display:flex;align-items:flex-end;gap:14px;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:14px}
-.chead .ch{font-size:64px;line-height:1}
+.chead .ch{font-size:26px;line-height:1}
 .chead .py{color:var(--mut);font-size:15px;letter-spacing:.06em}
 .chead .bu{margin-left:auto;color:var(--mut);font-size:13px}
 .sec{margin:14px 0 18px}
@@ -161,7 +161,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
   const b=(d.bus||[])[0]||{};
   const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
 
-  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}${d.simp?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${b.num===0?(function(){var L='第'+(d.chapter||'一')+'章'+(d.chapterName?' '+esc(d.chapterName):'');return (d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">'+L+'</a>'):L)+((b.name||'').indexOf('卷')===0?' · '+esc(b.name):'');}()):('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${parentBlock}</div>`;
+  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${esc(ch)}${d.simp?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${b.num===0?(function(){var L='第'+(d.chapter||'一')+'章'+(d.chapterName?' '+esc(d.chapterName):'');return (d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">'+L+'</a>'):L);}()):('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${parentBlock}</div>`;
 }
 async function open(ch){
   cur=ch; render($('#q').value);
