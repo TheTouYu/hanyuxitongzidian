@@ -84,7 +84,7 @@ let IDX=[], GLYPH={}, cur='';
 const norm=s=>(s||'').toLowerCase();
 fetch('cards/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{IDX=d;$('#hint').textContent=`共 ${d.length} 张卡`;render('');}).catch(e=>$('#hint').textContent='索引加载失败：'+e);
 fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(()=>{});
-fetch('glyphs/photos/index.json').then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{});
+fetch('glyphs/photos/index.json').then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{}); fetch('glyphs/photos/captions.json').then(r=>r.json()).then(d=>{window.CAPS=d;}).catch(()=>{});
 function match(q){
   q=norm(q.trim()); if(!q) return IDX.slice(0,200);
   const exact=IDX.filter(x=>x.c===q||((x.a||[]).includes(q)));
@@ -165,7 +165,7 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'谐声字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
-  const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
+  const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map((f,i)=>{const CP=(window.CAPS||{})[who]||[];const cap=CP[i]||'';return '<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'">'+(cap?'<figcaption>'+esc(cap)+'</figcaption>':'')+'</figure>';}).join('')+'</div></div>';})();
 
   return `${vhtml}<div class="card"><div class="chead"><div class="ch">${d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">第'+(d.chapter||'')+'章 '+esc(d.chapterName||'')+'</a>'):esc(d.cname||ch)}${(d.bus&&d.bus[0]&&(d.bus[0].name||'').indexOf('卷')===0)?(' · '+esc(d.cname||ch)):''}${(d.simp&&!d.cname)?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${d.chapterCard?'':('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${rootLink}${parentBlock}${ss?'<div class="sec"><h3>所属卷</h3>'+LKR(ss)+'</div>':''}</div>`;
 }
