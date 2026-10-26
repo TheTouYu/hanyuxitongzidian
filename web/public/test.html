@@ -165,7 +165,7 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
     }catch(e){ return ''; } })() : '';
   const lvlTag = d.level?`<span class="tag">${d.level===1?'一級字根':d.level===2?'二級字根':'谐声字'}</span>`:'';
   const b=(d.bus||[])[0]||{};
-  const photoBlock=(()=>{if(!window.PHOTO)return '';const own=window.PHOTO[d.char]||[];if(!own.length)return '';return '<div class="sec"><h3>插图</h3><div class="pscroll">'+own.map((f,i)=>'<figure><img loading="lazy" src="'+encodeURI('glyphs/photos/'+d.char+'/'+f)+'"><figcaption>'+(i+1)+'</figcaption></figure>').join('')+'</div></div>';})();
+  const photoBlock=(()=>{if(!window.PHOTO)return '';const own=window.PHOTO[d.char]||[];if(!own.length)return '';const cap=(window.CAPT&&window.CAPT[d.char])||[];return '<div class="sec"><h3>插图</h3><div class="pscroll">'+own.map((f,i)=>'<figure><img loading="lazy" src="'+encodeURI('glyphs/photos/'+d.char+'/'+f)+'"><figcaption>'+esc(cap[i]||('图'+(i+1)))+'</figcaption></figure>').join('')+'</div></div>';})();
 
   return `${vhtml}<div class="card"><div class="chead"><div class="ch">${d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">第'+(d.chapter||'')+'章 '+esc(d.chapterName||'')+'</a>'):esc(d.head||d.cname||ch)}${(d.bus&&d.bus[0]&&(d.bus[0].name||'').indexOf('卷')===0)?(' · '+esc(d.head||d.cname||ch)):''}${(d.simp&&!d.cname&&!(d.head||'').includes('（'))?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${d.chapterCard?'':('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${rootLink}${d.noRoot?'':parentBlock}${ss?'<div class="sec"><h3>所属卷</h3>'+LKR(ss)+'</div>':''}</div>`;
 }
