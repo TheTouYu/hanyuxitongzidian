@@ -1321,6 +1321,7 @@ const MIME = new Map([
 ]);
 
 async function serveStatic(res, pathname) {
+  pathname = pathname.replace(/^\/glyphs\/([^\/]+)\/\1\/(.+)$/, '/glyphs/$1/$2');
   // 字形图目录是中文名，URL 里是百分号编码，必须先解码
   let rel;
   try {
