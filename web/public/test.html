@@ -98,7 +98,7 @@ function render(q){
     if(t){const kids=IDX.filter(x=>x.pr===t.c).map(x=>x.c);
       const ln=(ch)=>`<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #c8a#;margin:0 2px;cursor:pointer">${esc(ch)}</a>`;
       rel=`<span style="margin-left:14px">字根　${t.pr?ln(t.pr):'—'}`+(kids.length?`　字族　${kids.map(ln).join('')}`:'')+`</span>`;
-    }}
+    }
   }
   $('#hint').innerHTML=base+rel;
   document.querySelectorAll('#hint a[data-c]').forEach(a=>a.onclick=()=>open(a.dataset.c));
