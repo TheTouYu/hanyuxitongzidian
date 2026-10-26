@@ -1,7 +1,13 @@
 {
  "char": "𧥷",
  "trad": "𧥷",
- "simp": "",
+ "simp": "讫",
+ "head": "𧥷（訖𧪢）",
+ "aliases": [
+  "訖",
+  "𧪢",
+  "讫"
+ ],
  "pinyin": "qì",
  "level": 3,
  "parent": "乞",
@@ -13,39 +19,21 @@
  ],
  "sections": [
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "从言乞聲：《說文》「止也」言辭終止。",
+   "key": "benyi",
+   "label": "本义",
+   "text": "《說文》「止也。从言气聲。居迄切。」言辭終止。《玉篇》：「畢也。」",
    "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取一面：《說文》「止也」言辭終止（推）。",
+   "text": "q「亲缺」取「缺」：話已說盡，言辭缺而止。",
    "cites": []
   },
   {
    "key": "juan",
    "label": "所属卷",
    "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
    "cites": []
   }
  ]
