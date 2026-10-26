@@ -85,7 +85,7 @@ fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(
 fetch('glyphs/photos/index.json').then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{});
 function match(q){
   q=norm(q.trim()); if(!q) return IDX.slice(0,200);
-  const exact=IDX.filter(x=>x.c===q||x.a===q);
+  const exact=IDX.filter(x=>x.c===q||((x.a||[]).includes(q)));
   if(exact.length) return exact.concat(IDX.filter(x=>x.c!==q&&norm(x.a)!==q&&(norm(x.p).startsWith(q)||x.t.some(t=>norm(t).includes(q)))).slice(0,80));
   return IDX.filter(x=>norm(x.c).includes(q)||norm(x.a||'').includes(q)||norm(x.p).includes(q)||x.t.some(t=>norm(t).includes(q))).slice(0,120);
 }
