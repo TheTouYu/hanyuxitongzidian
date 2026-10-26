@@ -149,7 +149,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
 
   const parentBlock = (d.level>1 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
-      const p=await pr.json();
+      const p=await pr.json(); if(p&&p.sections)p.sections=p.sections.filter(s=>s.label!=='所属卷');
       const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
       const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
       const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
