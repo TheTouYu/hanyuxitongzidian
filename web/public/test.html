@@ -147,7 +147,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
   const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${LKR(s)}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
-  const parentBlock = (d.level>1 && d.parent) ? await (async()=>{ try{
+  const rootLink = (d.level===2 && d.parent) ? `<div class="sec"><h3>所属字根</h3><p class="lks"><a href="javascript:void(0)" onclick="goCard('${d.parent}')">${esc(d.parent)}</a></p></div>` : ''; const parentBlock = (d.level>2 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
       const p=await pr.json(); if(p&&p.sections)p.sections=p.sections.filter(s=>s.label!=='所属卷');
       const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
@@ -161,7 +161,7 @@ const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRa
   const b=(d.bus||[])[0]||{};
   const photoBlock=(()=>{let P=(window.PHOTO||{})[ch]||[];let own=true;let who=ch;const pm=(window.CARDS||{})[d.parent];if(!P.length&&d.level===3&&d.parent&&pm&&pm.lv===1){P=(window.PHOTO||{})[d.parent]||[];own=false;who=d.parent;}if(!P.length)return '';return '<div class="sec"><h3>插图'+(own?'':'（字根）')+'</h3><div class="gscroll">'+P.map(f=>'<figure><img loading="lazy" src="glyphs/photos/'+encodeURIComponent(who)+'/'+encodeURIComponent(f)+'" alt="'+esc(ch)+'"><figcaption>'+esc(f.replace(/\.[a-z]+$/i,''))+'</figcaption></figure>').join('')+'</div></div>';})();
 
-  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">第'+(d.chapter||'')+'章 '+esc(d.chapterName||'')+'</a>'):esc(d.cname||ch)}${(d.bus&&d.bus[0]&&(d.bus[0].name||'').indexOf('卷')===0)?(' · '+esc(d.cname||ch)):''}${(d.simp&&!d.cname)?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${d.chapterCard?'':('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${parentBlock}</div>`;
+  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">第'+(d.chapter||'')+'章 '+esc(d.chapterName||'')+'</a>'):esc(d.cname||ch)}${(d.bus&&d.bus[0]&&(d.bus[0].name||'').indexOf('卷')===0)?(' · '+esc(d.cname||ch)):''}${(d.simp&&!d.cname)?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${d.chapterCard?'':('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${rootLink}${parentBlock}</div>`;
 }
 async function open(ch){
   cur=ch; render($('#q').value);
