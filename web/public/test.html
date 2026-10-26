@@ -100,11 +100,12 @@ function render(q){
     if(t){
       const chain=[];let p=t.pr;let guard=0;
       while(p&&guard++<5){chain.push(p);const pc=byChar(p);p=pc?pc.pr:'';}
-      const root=chain.length?chain[0]:t.c;
-      const kids=IDX.filter(x=>x.pr===root).map(x=>x.c);
+      const kids=IDX.filter(x=>x.pr===t.c).map(x=>x.c);
+      const sibs=t.pr?IDX.filter(x=>x.pr===t.pr&&x.c!==t.c).map(x=>x.c):[];
       const ln=(ch)=>`<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(ch)}</a>`;
       const rl=chain.length?chain.slice().reverse().map(ln).join(' → '):'—';
-      rel=`<span style="margin-left:14px">字根　${rl}`+(kids.length?`　字族　${kids.map(ln).join('')}`:'')+`</span>`;
+      const fam=kids.length?`　字族　${kids.map(ln).join('')}`:(sibs.length?`　同族（${t.pr}）　${sibs.map(ln).join('')}`:'');
+      rel=`<span style="margin-left:14px">字根　${rl}`+fam+`</span>`;
     }
   }
   $('#hint').innerHTML=base+rel;
