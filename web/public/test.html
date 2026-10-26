@@ -123,7 +123,7 @@ async function variantsFor(ch){
   }
   const list=VARIANT_MAP[ch]||[];
   if(!list.length) return '';
-  const btns=list.map(v=>`<button class="vbtn" onclick="open('${v}')">${v}</button>`).join(' ');
+  const btns=list.map(v=>`<button class="vbtn" onclick="goCard('${v}')">${v}</button>`).join(' ');
   return `<div class="vbox"><span>对应繁体/借字：</span>${btns}<span class="vnote">（分卡各释本义，勿混）</span></div>`;
 }
 const SEC_ORDER=['benyi','benyi2','zhuanyi','bianzheng','yinyuan','shiyi','shengmu','zizu','zigen'];
@@ -142,7 +142,7 @@ const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
   return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
 };
 let hasZX=false;const isZX=s=>s.key==='zigen'||s.key==='zixing'||/字形/.test(s.label||'');
-const LKR=(s)=>((s&&s.links&&s.links.length)?("<p class=\"lks\">"+s.links.map(l=>"<a href=\"javascript:void(0)\" onclick=\"open('"+l.ch+"')\">"+esc(l.label)+"</a>").join(" · ")+"</p>"):"");
+const LKR=(s)=>((s&&s.links&&s.links.length)?("<p class=\"lks\">"+s.links.map(l=>"<a href=\"javascript:void(0)\" onclick=\"goCard('"+l.ch+"')\">"+esc(l.label)+"</a>").join(" · ")+"</p>"):"");
 const secs=(d.sections||[]).filter(s=>!isZX(s)).sort((a,b)=>secRank(a.key)-secRank(b.key)).map(s=>{ if(isZX(s)) hasZX=true;
   const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}<p>${esc(s.text)}</p>${zx}${LKR(s)}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
@@ -172,7 +172,8 @@ async function open(ch){
 main.innerHTML = await cardBody(ch,d);
 }
 $('#q').addEventListener('input',e=>render(e.target.value));
-async function tryDirect(ch){
+try{window.goCard=open;}catch(e){}
+  async function tryDirect(ch){
   try{ const r=await fetch('cards/'+encodeURIComponent(ch)+'.json'); if(!r.ok) return false; const d=await r.json(); if(!d||!d.sections) return false;
     IDX.unshift({c:ch,p:d.pinyin||'',b:((d.bus||[{}])[0]||{}).num||'',n:((d.bus||[{}])[0]||{}).name||'',t:[]}); return true; }catch(e){ return false; }
 }
