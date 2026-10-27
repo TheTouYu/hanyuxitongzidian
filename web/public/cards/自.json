@@ -9,16 +9,15 @@
  ],
  "sections": [
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "象鼻子形。zì，《說文》：“鼻也。象鼻形。凡自之屬皆从自。{{01.png}}，古文自。疾二切。”",
-   "cites": [],
-   "gdir": "inline/自/benyi"
-  },
-  {
    "key": "shengmu",
    "label": "声母拟态",
    "text": "聲母義：今讀 無；未列 02z，按緒論取一面未判（02z 未收）。",
+   "cites": []
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "共 19 形，见卡头字形带。",
    "cites": []
   },
   {
@@ -32,6 +31,13 @@
     }
    ],
    "cites": []
+  },
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "象鼻子形。zì，《說文》：“鼻也。象鼻形。凡自之屬皆从自。{{01.png}}，古文自。疾二切。”",
+   "cites": [],
+   "gdir": "inline/自/benyi"
   }
  ],
  "level": 1

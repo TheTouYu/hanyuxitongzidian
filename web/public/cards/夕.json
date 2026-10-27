@@ -11,11 +11,6 @@
  ],
  "sections": [
   {
-   "key": "zixing",
-   "label": "古文字字形",
-   "text": "字形庫：夕部字形見 web/public/glyphs/夕/（若空則未收）。"
-  },
-  {
    "key": "benyi",
    "label": "本義",
    "text": "象彎月形，指月亮。與「月」同源。《玉篇》：「太隂之精也。夜見光謂之月。月御謂之望舒。」",
@@ -49,6 +44,11 @@
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "x（續消）取「續」：月落月升、夜以繼日，一線不斷；不取「消」一面。"
+  },
+  {
+   "key": "zixing",
+   "label": "古文字字形",
+   "text": "字形庫：夕部字形見 web/public/glyphs/夕/（若空則未收）。"
   },
   {
    "key": "zizu",

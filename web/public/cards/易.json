@@ -11,11 +11,6 @@
  ],
  "sections": [
   {
-   "key": "zixing",
-   "label": "古文字字形",
-   "text": "字形庫：見 web/public/glyphs/易/（若空則未收）。"
-  },
-  {
    "key": "benyi",
    "label": "本義",
    "text": "早期甲骨文象傾盞向另一器皿灌注液體之形；後分化為傾盞倒出之「易」（施與、賜給）與受注之「益」（增益、盈滿），兩字同源。"
@@ -40,6 +35,11 @@
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "y 零聲母（喻母）：傾注無阻、改易無碍，取「無碍常流」一面（推）。"
+  },
+  {
+   "key": "zixing",
+   "label": "古文字字形",
+   "text": "字形庫：見 web/public/glyphs/易/（若空則未收）。"
   },
   {
    "key": "zizu",

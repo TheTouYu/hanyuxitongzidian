@@ -33,33 +33,9 @@
    "cites": []
   },
   {
-   "key": "buzhu",
-   "label": "部属说明",
-   "text": "本部字根在 504 亙部独立立部，此处仅作乞部二级字根存目。",
-   "cites": []
-  },
-  {
-   "key": "juan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷八十二工",
-     "label": "卷八十二工"
-    }
-   ],
+   "key": "zixing",
+   "label": "字形",
+   "text": "共 15 形，见卡头字形带。",
    "cites": []
   },
   {
@@ -93,6 +69,36 @@
      ]
     }
    ]
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ],
+   "cites": []
+  },
+  {
+   "key": "buzhu",
+   "label": "部属说明",
+   "text": "本部字根在 504 亙部独立立部，此处仅作乞部二级字根存目。",
+   "cites": []
+  },
+  {
+   "key": "juan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷一雞",
+     "label": "卷一雞"
+    }
+   ],
+   "cites": []
   }
  ],
  "aliases": [
