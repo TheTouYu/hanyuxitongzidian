@@ -61,15 +61,19 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8088 --no-
 
 | 方法 | 路径 | 说明 |
 | --- | --- | --- |
-| GET | `/api/pricing` | 三档价格 + 试用额度 `trial_budget_yuan` |
-| GET | `/api/me` | 当前设备/会员状态：`trial{used,left,budget_yuan,spent_yuan,remaining_yuan}`、`member` |
-| POST | `/api/redeem` | `{code, phone}` 兑换开通码，成功后下发 HttpOnly cookie `sh_mid` |
+| GET | `/api/pricing` | 三档价格 + 试用额度 `trial_budget_yuan` + `site_url` |
+| GET | `/api/me` | 当前会员/试用状态：`trial{used,left,budget_yuan,spent_yuan,remaining_yuan}`、`member`（含 `has_password`） |
+| POST | `/api/redeem` | `{code, phone, password}` 开通：设登录密码（≥6 位）、建会员、下发 HttpOnly cookie `sh_mid`；手机号已注册过则报错并提示直接登录 |
+| POST | `/api/login` | `{phone, password}` 账号密码登录，下发 `sh_mid`；失败 401「手机号或密码不对」，同一 ip+手机号 10 分钟最多 8 次（429） |
+| POST | `/api/logout` | 清 `sh_mid` |
+| POST | `/api/password` | 已登录改密码 `{old_password, new_password}` |
 | POST | `/api/admin/login` | 管理密码登录（cookie `sh_admin`，7 天） |
 | GET | `/api/admin/stats` | 收入 / 会员数 / 码 / 订单 / 试用人数 |
-| GET·POST | `/api/admin/codes` | 列出 / 批量生成开通码（`{tier, count, note}`） |
+| GET·POST | `/api/admin/codes` | 列出 / 批量生成开通码（`{tier, count, note}`；`free:true` = 补开/赠送，不记收入） |
 | GET·POST | `/api/admin/orders` | 列出订单 / 手工登记收款并开通（线下收钱时用） |
-| GET | `/api/admin/members` | 会员列表（含 `active`、`used_today`、`spent_today`） |
+| GET | `/api/admin/members` | 会员列表（含 `active`、`used_today`、`spent_today`、`has_password`；**不返回 `pass_hash`**） |
 | POST | `/api/admin/rebind` | 给已有会员生成「换设备补发码」（`price: 0`、绑定原会员，兑换不新建会员、不记账） |
+| POST | `/api/admin/reset-password` | 主人给会员改密码 `{member_id, password}`（客户忘记密码时用） |
 | POST | `/api/admin/revoke`·`/api/admin/gift`·`/api/admin/logout` | 撤销会员 / 标记赠书已寄 / 退出 |
 
 **闸门**：`/api/ask` 先过 `gateAsk()`——会员按当日花费（默认 3 元）与次数（300 次）封顶；非会员按设备记试用（默认 10 次、累计花费 1 元封顶），超出返回 `402 {need_membership:true}`，会员超额返回 `429`。模型调用出错时 `res.on('finish')` 会退掉本次试用次数与花费（不扣用户额度）。
@@ -98,12 +102,14 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8088 --no-
 
 三档（`member.mjs` 的 `TIERS`）：`y6` 50 元 / 6 个月、`y16` 100 元 / 16 个月（页面标「最划算」）、`life` 500 元 / 10 年并送《系统汉语》一套（248 元、2.8 公斤，`gift:true`）。
 
-- 收钱方式：**先线下收款（微信/支付宝/银行），主人核对后生成开通码发给客户**。后台「开通会员」选档 → 生成码（形如 `C16-EMX7-6AZ9`，前缀 C6/C16/TY）→ 点「复制开通话术」把整段说明发给客户 → 客户在页面「开通会员」里填手机号 + 码即开通。也可用「订单」里的手工登记（`POST /api/admin/orders`）直接建会员记录。
-- 客户换手机/换浏览器：会员身份是**浏览器 cookie**，换设备就失效。在后台会员行点「换设备补发码」，把新生成的码发给客户，在新设备上兑换即恢复原会员（不重复记账、不新建会员）。撤销或过期后不能补发。
+- 收钱方式：**先线下收款（微信/支付宝/银行），主人核对后生成开通码发给客户**。后台「开通会员」选档 → 生成码（形如 `C16-EMX7-6AZ9`，前缀 C6/C16/TY）→ 点「复制开通话术」把整段说明发给客户 → 客户在页面「开通会员 → 开通·兑换码」里填手机号 + 码 + 自己设的登录密码（≥6 位）即开通。也可用「订单」里的手工登记（`POST /api/admin/orders`）直接建会员记录。
+- **账号登录**：开通后，客户在任何设备打开页面 →「开通会员」→「登录」页签 → 手机号 + 密码即可，不再依赖浏览器 cookie。密码用 `scrypt`（N=16384 默认参、16 字节盐）存哈希，`pass_hash`/`pass_salt` 只在 `shop.json` 里，接口不返回。忘记密码 = 后台会员行「重置密码」，把新密码告诉客户。
+- 同一手机号只能注册一次；已注册的号码再拿兑换码兑换会被拒（提示直接登录），避免一个客户多份会员记录。
+- 会员身份仍靠 HttpOnly cookie `sh_mid`（签名后带 member id），登录/兑换都会重发；cookie 丢了用手机号+密码登回来即可。
 - `SITE_URL`（环境变量）用于生成话术里的链接：后台如果不是从公网地址打开的（比如从 `127.0.0.1:8099` 打开），要设 `SITE_URL=https://你的域名`，否则话术里的链接会带 127.0.0.1。
-- 试用：每台设备 10 次、累计花费上限 1 元（高峰价保守计，实际一人约 0.03–0.08 元）。设备靠 cookie `sh_dev` 记，**清 Cookie 就能重置**——正式对外前应改成手机号/微信登录 + IP 限次。
-- 数据：全在 `web/data/shop.json`（会员、码、订单、试用设备、当日花费），原子写；管理密码在 `web/data/admin.key`（首次启动自动生成，12 字节 base64url），Cookie 签名密钥在 `web/data/secret.key`。`web/data/` 已进 `.gitignore`，**含客户手机号，绝不入库、要备份**。
-- 后台：`/admin`，输 `web/data/admin.key` 里的密码。功能＝统计、生成码、看码、会员（标记赠书、撤销）、订单。
+- 试用（未开通的游客）：每台设备 10 次、累计花费上限 1 元（高峰价保守计，实际一人约 0.03–0.08 元）。游客额度靠 cookie `sh_dev` 记，**清 Cookie 就能重置**——正式对外前可再按 IP 限次或要求登录后才算试用。
+- 数据：全在 `web/data/shop.json`（会员、码、订单、试用设备、当日花费），原子写；每次保存前当天首次会另存一份 `shop-YYYY-MM-DD.json` 快照（同目录），误删可从快照恢复。管理密码在 `web/data/admin.key`（首次启动自动生成，12 字节 base64url），Cookie 签名密钥在 `web/data/secret.key`。`web/data/` 已进 `.gitignore`，**含客户手机号，绝不入库、要备份**。
+- 后台：`/admin`，输 `web/data/admin.key` 里的密码。功能＝统计、生成码（可勾「补开/赠送（不记收入）」）、看码、会员（搜索手机号、看已设密码/待寄书、标记赠书已寄、重置密码、换设备补发码、撤销）、订单、退出登录。
 - 金额口径：`PRICE_IN_YUAN_PER_M=2`、`PRICE_OUT_YUAN_PER_M=8`（高峰价），`usageCost()` 按 token 实算计费；`TRIAL_BUDGET_YUAN`、`MEMBER_DAILY_YUAN`、`MAX_ANSWER_TOKENS=600` 都可用环境变量改。
 - 服务在跑时**不要直接删/改 `shop.json`**：进程内存里还有旧数据，任何一次写都会把它写回。要清空先停服务。
 
