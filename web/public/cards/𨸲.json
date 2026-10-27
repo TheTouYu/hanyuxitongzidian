@@ -2,7 +2,8 @@
  "char": "𨸲",
  "pinyin": "shī",
  "level": 3,
- "parent": "市",
+ "parent": "",
+ "noRoot": true,
  "bus": [
   {
    "num": 10,
@@ -17,9 +18,9 @@
    "cites": []
   },
   {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "（未列，按原稿字族表照录）",
+   "key": "ezhi",
+   "label": "讹字说明",
+   "text": "③形近字「𠂔、帀、寺、巿」之訛",
    "cites": []
   }
  ]
