@@ -104,7 +104,7 @@ function render(q){
   const base=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
   let rel='';
   if(q){
-    const byChar=ch=>IDX.find(x=>x.c===ch||((x.a||[]).includes(ch)));
+    const byChar=ch=>IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));
     let t=byChar(q)||rows.find(r=>r.lv>0)||rows[0];
     if(t){
       const chain=[];let p=t.pr;let guard=0;
