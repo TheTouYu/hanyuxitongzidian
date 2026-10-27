@@ -1,0 +1,27 @@
+{
+ "char": "敵",
+ "head": "敵",
+ "pinyin": "dí",
+ "level": 3,
+ "parent": "啇",
+ "bus": [
+  {
+   "num": 11,
+   "name": "帝"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》「仇也。从攴啻聲。徒曆切。」仇敵。《爾雅·釋詁》「當也。」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d取囤：相抵而囤聚（推）",
+   "cites": []
+  }
+ ]
+}
