@@ -113,7 +113,7 @@ function render(q){
       const ln=(ch)=>{const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));const as=(it&&it.a||[]).filter(x=>x!==(it?it.c:ch));const al=as.length?('（'+as.join('/')+'）'):'';const lab=(it?it.c:ch);return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)}</a>`;};
       const rl=chain.length?chain.slice().reverse().map(ln).join(' → '):'—';
       let fam='';
-      if(t.lv===3&&t.pr){const seenS=new Set([t.c]);const sibs=[];
+      if(t.lv===3&&t.pr&&!t.rl){const seenS=new Set([t.c]);const sibs=[];
         IDX.filter(x=>x.pr===t.pr).forEach(x=>{const it=byChar(x.c)||x;const key=it.c;if(seenS.has(key))return;seenS.add(key);sibs.push(key);});
         if(sibs.length){const show=sibs.slice(0,24);fam='　同族　'+show.map(ln).join('')+(sibs.length>show.length?'…':'');}}
       if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
