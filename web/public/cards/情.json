@@ -1,7 +1,12 @@
 {
  "char": "情",
  "pinyin": "qíng",
- "bus": [],
+ "bus": [
+  {
+   "num": 497,
+   "name": "生"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「亲缺」取「亲」：色親而情。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "生"
 }

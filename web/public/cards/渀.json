@@ -1,7 +1,12 @@
 {
  "char": "渀",
  "pinyin": "bēn",
- "bus": [],
+ "bus": [
+  {
+   "num": 408,
+   "name": "步"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -48,5 +53,7 @@
   "渄",
   "漀",
   "琄"
- ]
+ ],
+ "level": 3,
+ "parent": "步"
 }

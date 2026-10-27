@@ -1,7 +1,12 @@
 {
  "char": "銓",
  "pinyin": "quán",
- "bus": [],
+ "bus": [
+  {
+   "num": 452,
+   "name": "全"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "铨",
  "aliases": [
   "铨"
- ]
+ ],
+ "level": 3,
+ "parent": "全"
 }

@@ -1,7 +1,12 @@
 {
  "char": "澐",
  "pinyin": "yún",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y「柔锐」取「锐」：波涌而锐。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

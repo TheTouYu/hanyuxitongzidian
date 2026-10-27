@@ -1,7 +1,12 @@
 {
  "char": "阮",
  "pinyin": "ruǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 454,
+   "name": "元"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "r「柔锐」取「柔」：关隘而柔。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "元"
 }

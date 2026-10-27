@@ -1,7 +1,12 @@
 {
  "char": "㤦",
  "pinyin": "lì",
- "bus": [],
+ "bus": [
+  {
+   "num": 403,
+   "name": "史"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l「攏離」取「攏」：忧攏于心。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "史"
 }

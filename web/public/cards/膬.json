@@ -1,7 +1,12 @@
 {
  "char": "膬",
  "pinyin": "cuì",
- "bus": [],
+ "bus": [
+  {
+   "num": 475,
+   "name": "毳"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "c取持：肉耎而膬。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "毳"
 }

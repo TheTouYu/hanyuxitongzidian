@@ -1,7 +1,12 @@
 {
  "char": "奊",
  "pinyin": "xié",
- "bus": [],
+ "bus": [
+  {
+   "num": 467,
+   "name": "圭"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「消」：斜而消。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "圭"
 }

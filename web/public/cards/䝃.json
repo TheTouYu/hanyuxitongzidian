@@ -1,7 +1,12 @@
 {
  "char": "䝃",
  "pinyin": "zhé",
- "bus": [],
+ "bus": [
+  {
+   "num": 385,
+   "name": "㬎"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「鑿總」取「總」：豆莢總聚。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㬎"
 }

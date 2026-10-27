@@ -1,7 +1,12 @@
 {
  "char": "拴",
  "pinyin": "shuān",
- "bus": [],
+ "bus": [
+  {
+   "num": 452,
+   "name": "全"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "sh取收：绳系而收。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "全"
 }

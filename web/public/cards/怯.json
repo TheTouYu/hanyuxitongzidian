@@ -1,7 +1,12 @@
 {
  "char": "怯",
  "pinyin": "qiè",
- "bus": [],
+ "bus": [
+  {
+   "num": 49,
+   "name": "去"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q取亲缺：去而心缺。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "去"
 }

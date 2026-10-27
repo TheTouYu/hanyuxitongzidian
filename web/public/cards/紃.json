@@ -1,7 +1,12 @@
 {
  "char": "紃",
  "pinyin": "xún",
- "bus": [],
+ "bus": [
+  {
+   "num": 461,
+   "name": "川"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x取续：绳圆而续。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "川"
 }

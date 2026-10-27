@@ -1,7 +1,12 @@
 {
  "char": "粉",
  "pinyin": "fěn",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "f「附分」取「分」：碎而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

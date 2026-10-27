@@ -1,7 +1,12 @@
 {
  "char": "𨆎",
  "pinyin": "zéi",
- "bus": [],
+ "bus": [
+  {
+   "num": 401,
+   "name": "則"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「凿」：足凿于地。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "則"
 }

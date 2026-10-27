@@ -1,7 +1,12 @@
 {
  "char": "攀",
  "pinyin": "pān",
- "bus": [],
+ "bus": [
+  {
+   "num": 436,
+   "name": "𠬜"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "一",
   "猀"
- ]
+ ],
+ "level": 3,
+ "parent": "𠬜"
 }

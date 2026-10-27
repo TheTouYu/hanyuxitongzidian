@@ -1,7 +1,12 @@
 {
  "char": "𦍱",
  "pinyin": "gāo",
- "bus": [],
+ "bus": [
+  {
+   "num": 418,
+   "name": "亥"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g「隔估」取「隔」：羔隔母而鸣。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "亥"
 }

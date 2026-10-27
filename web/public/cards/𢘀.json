@@ -1,7 +1,12 @@
 {
  "char": "𢘀",
  "pinyin": "pèi",
- "bus": [],
+ "bus": [
+  {
+   "num": 418,
+   "name": "亥"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：气辟而怒。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "亥"
 }

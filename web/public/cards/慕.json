@@ -1,7 +1,12 @@
 {
  "char": "慕",
  "pinyin": "mù",
- "bus": [],
+ "bus": [
+  {
+   "num": 302,
+   "name": "屮"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "m「蒙末」取「蒙」：心蒙而慕。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "屮"
 }

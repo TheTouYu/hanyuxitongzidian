@@ -1,7 +1,12 @@
 {
  "char": "𡿯",
  "pinyin": "yù",
- "bus": [],
+ "bus": [
+  {
+   "num": 428,
+   "name": "曰"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取锐：水流锐进。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "曰"
 }

@@ -1,7 +1,12 @@
 {
  "char": "忘",
  "pinyin": "wàng",
- "bus": [],
+ "bus": [
+  {
+   "num": 313,
+   "name": "亡"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "w?零聲母：取借聲。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "亡"
 }

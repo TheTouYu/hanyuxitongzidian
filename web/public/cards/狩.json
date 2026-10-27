@@ -1,7 +1,12 @@
 {
  "char": "狩",
  "pinyin": "shòu",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "sh取收：猎而收。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

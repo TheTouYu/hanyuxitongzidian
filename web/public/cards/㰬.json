@@ -1,7 +1,12 @@
 {
  "char": "㰬",
  "pinyin": "xún",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x取续：气周而续。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

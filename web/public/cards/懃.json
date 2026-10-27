@@ -1,7 +1,12 @@
 {
  "char": "懃",
  "pinyin": "qín",
- "bus": [],
+ "bus": [
+  {
+   "num": 116,
+   "name": "堇"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "勤",
  "aliases": [
   "勤"
- ]
+ ],
+ "level": 3,
+ "parent": "堇"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𩰟",
  "pinyin": "fēn",
- "bus": [],
+ "bus": [
+  {
+   "num": 441,
+   "name": "豩"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "f「附分」取「附」：斗而相牵。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "豩"
 }

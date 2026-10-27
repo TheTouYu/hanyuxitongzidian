@@ -1,7 +1,12 @@
 {
  "char": "腺",
  "pinyin": "xiàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 456,
+   "name": "泉"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x取续：液续而消。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "泉"
 }

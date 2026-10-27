@@ -1,7 +1,12 @@
 {
  "char": "廝",
  "pinyin": "sī",
- "bus": [],
+ "bus": [
+  {
+   "num": 391,
+   "name": "丌"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "厮",
  "aliases": [
   "厮"
- ]
+ ],
+ "level": 3,
+ "parent": "丌"
 }

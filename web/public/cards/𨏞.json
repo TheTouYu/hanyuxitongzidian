@@ -1,7 +1,12 @@
 {
  "char": "𨏞",
  "pinyin": "pín",
- "bus": [],
+ "bus": [
+  {
+   "num": 408,
+   "name": "步"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：车辟而行。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "步"
 }

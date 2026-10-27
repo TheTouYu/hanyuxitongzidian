@@ -1,7 +1,12 @@
 {
  "char": "㓳",
  "pinyin": "dī",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d「囤动」取「动」：刀动而解。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

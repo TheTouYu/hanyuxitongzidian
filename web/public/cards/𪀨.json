@@ -1,7 +1,12 @@
 {
  "char": "𪀨",
  "pinyin": "yā",
- "bus": [],
+ "bus": [
+  {
+   "num": 387,
+   "name": "𢆶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y 零聲母：本字今讀零聲母，不系擬態義。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𢆶"
 }

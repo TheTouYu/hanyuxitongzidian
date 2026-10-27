@@ -1,7 +1,12 @@
 {
  "char": "㕌",
  "pinyin": "ài",
- "bus": [],
+ "bus": [
+  {
+   "num": 411,
+   "name": "㝵"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "零声母不系（今读 ài 影母字，不列七组）。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㝵"
 }

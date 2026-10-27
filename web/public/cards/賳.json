@@ -1,7 +1,12 @@
 {
  "char": "賳",
  "pinyin": "zāi",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「总」：总聚其财。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

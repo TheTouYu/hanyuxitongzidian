@@ -1,7 +1,12 @@
 {
  "char": "揆",
  "pinyin": "kuí",
- "bus": [],
+ "bus": [
+  {
+   "num": 473,
+   "name": "癸"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "k取控：手度而控。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "癸"
 }

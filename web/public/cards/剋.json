@@ -1,7 +1,12 @@
 {
  "char": "剋",
  "pinyin": "kè",
- "bus": [],
+ "bus": [
+  {
+   "num": 421,
+   "name": "克"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "克",
   "尅"
- ]
+ ],
+ "level": 3,
+ "parent": "克"
 }

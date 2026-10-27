@@ -1,7 +1,12 @@
 {
  "char": "竿",
  "pinyin": "gān",
- "bus": [],
+ "bus": [
+  {
+   "num": 491,
+   "name": "干"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g取隔：竹節相隔。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "干"
 }

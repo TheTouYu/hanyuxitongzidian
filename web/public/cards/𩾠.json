@@ -1,7 +1,12 @@
 {
  "char": "𩾠",
  "pinyin": "yǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 389,
+   "name": "己"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y「延逾」取「延」：鳥鳴聲延。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "己"
 }

@@ -1,7 +1,12 @@
 {
  "char": "妘",
  "pinyin": "yún",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取锐：借声记姓。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

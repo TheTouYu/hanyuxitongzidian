@@ -1,7 +1,12 @@
 {
  "char": "䨰",
  "pinyin": "pò",
- "bus": [],
+ "bus": [
+  {
+   "num": 420,
+   "name": "革"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -45,5 +50,7 @@
   "銖",
   "錀",
   "铢"
- ]
+ ],
+ "level": 3,
+ "parent": "革"
 }

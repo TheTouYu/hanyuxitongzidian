@@ -1,7 +1,12 @@
 {
  "char": "綕",
  "pinyin": "zhī",
- "bus": [],
+ "bus": [
+  {
+   "num": 410,
+   "name": "之"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「凿总」取「总」：丝总而织。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "之"
 }

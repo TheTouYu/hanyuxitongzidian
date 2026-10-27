@@ -1,7 +1,12 @@
 {
  "char": "潑",
  "pinyin": "pō",
- "bus": [],
+ "bus": [
+  {
+   "num": 422,
+   "name": "癹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "泼",
  "aliases": [
   "泼"
- ]
+ ],
+ "level": 3,
+ "parent": "癹"
 }

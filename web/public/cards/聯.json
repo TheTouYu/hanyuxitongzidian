@@ -1,7 +1,12 @@
 {
  "char": "聯",
  "pinyin": "lián",
- "bus": [],
+ "bus": [
+  {
+   "num": 443,
+   "name": "卝"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "联",
  "aliases": [
   "联"
- ]
+ ],
+ "level": 3,
+ "parent": "卝"
 }

@@ -1,7 +1,12 @@
 {
  "char": "魂",
  "pinyin": "hún",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h「豁活」取「活」：氣動而活。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

@@ -1,7 +1,12 @@
 {
  "char": "捑",
  "pinyin": "zè",
- "bus": [],
+ "bus": [
+  {
+   "num": 402,
+   "name": "夨"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「凿」：侧击如凿。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "夨"
 }

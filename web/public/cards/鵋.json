@@ -1,7 +1,12 @@
 {
  "char": "鵋",
  "pinyin": "jì",
- "bus": [],
+ "bus": [
+  {
+   "num": 389,
+   "name": "己"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚決」取「聚」：斂翅而聚立。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "己"
 }

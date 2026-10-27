@@ -1,7 +1,12 @@
 {
  "char": "墢",
  "pinyin": "fá",
- "bus": [],
+ "bus": [
+  {
+   "num": 422,
+   "name": "癹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "f「附分」取「分」：土分而翻。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "癹"
 }

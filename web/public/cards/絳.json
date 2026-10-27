@@ -1,7 +1,12 @@
 {
  "char": "絳",
  "pinyin": "jiàng",
- "bus": [],
+ "bus": [
+  {
+   "num": 501,
+   "name": "夅"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "绛",
  "aliases": [
   "绛"
- ]
+ ],
+ "level": 3,
+ "parent": "夅"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𨆄",
  "pinyin": "zhù",
- "bus": [],
+ "bus": [
+  {
+   "num": 407,
+   "name": "足"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「凿总」取「凿」：足凿而滞。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "足"
 }

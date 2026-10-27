@@ -1,7 +1,12 @@
 {
  "char": "詊",
  "pinyin": "pàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p取辟：言巧而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

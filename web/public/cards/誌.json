@@ -1,7 +1,12 @@
 {
  "char": "誌",
  "pinyin": "zhì",
- "bus": [],
+ "bus": [
+  {
+   "num": 410,
+   "name": "之"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "志",
  "aliases": [
   "志"
- ]
+ ],
+ "level": 3,
+ "parent": "之"
 }

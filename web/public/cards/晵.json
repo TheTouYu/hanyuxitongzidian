@@ -1,7 +1,12 @@
 {
  "char": "晵",
  "pinyin": "qǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 393,
+   "name": "启"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「親缺」取「缺」：雲缺而見日。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "启"
 }

@@ -1,7 +1,12 @@
 {
  "char": "疔",
  "pinyin": "dīng",
- "bus": [],
+ "bus": [
+  {
+   "num": 495,
+   "name": "丁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d取囤：毒囤肉中。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "丁"
 }

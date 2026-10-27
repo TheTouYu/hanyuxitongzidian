@@ -1,7 +1,12 @@
 {
  "char": "𧊏",
  "pinyin": "gāi",
- "bus": [],
+ "bus": [
+  {
+   "num": 418,
+   "name": "亥"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g「隔估」取「隔」：虫隔于壳。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "亥"
 }

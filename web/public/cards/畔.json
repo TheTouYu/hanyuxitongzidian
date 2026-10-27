@@ -1,7 +1,12 @@
 {
  "char": "畔",
  "pinyin": "pàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：田分而界。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

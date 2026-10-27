@@ -1,7 +1,12 @@
 {
  "char": "㔞",
  "pinyin": "kuāi",
- "bus": [],
+ "bus": [
+  {
+   "num": 443,
+   "name": "卝"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "k「口控」取「控」：力聚而控。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "卝"
 }

@@ -1,7 +1,12 @@
 {
  "char": "藩",
  "pinyin": "fān",
- "bus": [],
+ "bus": [
+  {
+   "num": 434,
+   "name": "釆"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "f取分：篱分内外。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "釆"
 }

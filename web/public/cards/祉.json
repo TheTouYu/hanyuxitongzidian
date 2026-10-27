@@ -1,7 +1,12 @@
 {
  "char": "祉",
  "pinyin": "zhǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「凿总」取「总」：福总而归。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

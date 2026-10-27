@@ -1,7 +1,12 @@
 {
  "char": "姞",
  "pinyin": "jí",
- "bus": [],
+ "bus": [
+  {
+   "num": 467,
+   "name": "圭"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j取聚：姓聚而吉。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "圭"
 }

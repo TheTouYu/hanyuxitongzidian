@@ -1,7 +1,12 @@
 {
  "char": "𣟌",
  "pinyin": "lì",
- "bus": [],
+ "bus": [
+  {
+   "num": 430,
+   "name": "隶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l取拢：握而转。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "隶"
 }

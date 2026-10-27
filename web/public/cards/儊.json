@@ -1,7 +1,12 @@
 {
  "char": "儊",
  "pinyin": "chù",
- "bus": [],
+ "bus": [
+  {
+   "num": 407,
+   "name": "足"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "ch「刺持」取「持」：持而滞。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "足"
 }

@@ -1,7 +1,12 @@
 {
  "char": "芓",
  "pinyin": "zì／zǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 388,
+   "name": "子"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「鑿總」取「總」：麻子總聚。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "子"
 }

@@ -1,7 +1,12 @@
 {
  "char": "㡽",
  "pinyin": "zhào",
- "bus": [],
+ "bus": [
+  {
+   "num": 427,
+   "name": "聿"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l取离：借形记物。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "聿"
 }

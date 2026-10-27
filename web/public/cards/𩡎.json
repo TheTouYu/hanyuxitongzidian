@@ -1,7 +1,12 @@
 {
  "char": "𩡎",
  "pinyin": "xiū",
- "bus": [],
+ "bus": [
+  {
+   "num": 387,
+   "name": "𢆶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「續消」取「消」：香散而微。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𢆶"
 }

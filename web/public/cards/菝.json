@@ -1,7 +1,12 @@
 {
  "char": "菝",
  "pinyin": "bá",
- "bus": [],
+ "bus": [
+  {
+   "num": 418,
+   "name": "亥"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「剥」：蔓剥而短硬。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "亥"
 }

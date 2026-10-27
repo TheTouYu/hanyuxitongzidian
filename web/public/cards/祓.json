@@ -1,7 +1,12 @@
 {
  "char": "祓",
  "pinyin": "fú",
- "bus": [],
+ "bus": [
+  {
+   "num": 418,
+   "name": "亥"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "f「附分」取「分」：祭以分灾。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "亥"
 }

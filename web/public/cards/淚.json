@@ -1,7 +1,12 @@
 {
  "char": "淚",
  "pinyin": "lèi",
- "bus": [],
+ "bus": [
+  {
+   "num": 429,
+   "name": "立"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "泪",
  "aliases": [
   "泪"
- ]
+ ],
+ "level": 3,
+ "parent": "立"
 }

@@ -1,7 +1,12 @@
 {
  "char": "襏",
  "pinyin": "bó",
- "bus": [],
+ "bus": [
+  {
+   "num": 422,
+   "name": "癹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「剥」：皮剥而蔽雨。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "癹"
 }

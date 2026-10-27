@@ -1,7 +1,12 @@
 {
  "char": "㥆",
  "pinyin": "tuì",
- "bus": [],
+ "bus": [
+  {
+   "num": 430,
+   "name": "隶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "t「涂突」取「突」：放而突。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "隶"
 }

@@ -1,7 +1,12 @@
 {
  "char": "娡",
  "pinyin": "zhì",
- "bus": [],
+ "bus": [
+  {
+   "num": 410,
+   "name": "之"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「凿总」取「总」：名字总记。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "之"
 }

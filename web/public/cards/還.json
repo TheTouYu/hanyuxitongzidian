@@ -1,7 +1,12 @@
 {
  "char": "還",
  "pinyin": "huán",
- "bus": [],
+ "bus": [
+  {
+   "num": 478,
+   "name": "袁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "还",
  "aliases": [
   "还"
- ]
+ ],
+ "level": 3,
+ "parent": "袁"
 }

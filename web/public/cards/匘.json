@@ -1,7 +1,12 @@
 {
  "char": "匘",
  "pinyin": "nǎo",
- "bus": [],
+ "bus": [
+  {
+   "num": 258,
+   "name": "𦣻"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "n「纳弄」取「纳」：脑纳于颅。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𦣻"
 }

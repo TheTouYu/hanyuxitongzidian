@@ -1,7 +1,12 @@
 {
  "char": "釧",
  "pinyin": "chuàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 461,
+   "name": "川"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "钏",
  "aliases": [
   "钏"
- ]
+ ],
+ "level": 3,
+ "parent": "川"
 }

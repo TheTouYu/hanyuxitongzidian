@@ -1,7 +1,12 @@
 {
  "char": "怠",
  "pinyin": "dài",
- "bus": [],
+ "bus": [
+  {
+   "num": 8,
+   "name": "㠯"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d「囤动」取「囤」：氣囤而滯。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㠯"
 }

@@ -1,7 +1,12 @@
 {
  "char": "弼",
  "pinyin": "bì",
- "bus": [],
+ "bus": [
+  {
+   "num": 157,
+   "name": "弜"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「闭」：夹弓使正而不弛。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "弜"
 }

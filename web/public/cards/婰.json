@@ -1,7 +1,12 @@
 {
  "char": "婰",
  "pinyin": "diǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 510,
+   "name": "典"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d取囤：女靜而囤。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "典"
 }

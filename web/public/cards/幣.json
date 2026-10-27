@@ -1,7 +1,12 @@
 {
  "char": "幣",
  "pinyin": "bì",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "币",
  "aliases": [
   "币"
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

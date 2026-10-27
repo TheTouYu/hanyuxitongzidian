@@ -1,7 +1,12 @@
 {
  "char": "錈",
  "pinyin": "juǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 460,
+   "name": "卷"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "锩",
  "aliases": [
   "锩"
- ]
+ ],
+ "level": 3,
+ "parent": "卷"
 }

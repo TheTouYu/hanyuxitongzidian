@@ -1,7 +1,12 @@
 {
  "char": "簛",
  "pinyin": "sī",
- "bus": [],
+ "bus": [
+  {
+   "num": 391,
+   "name": "丌"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "s「失收」取「失」：粗者失而去。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "丌"
 }

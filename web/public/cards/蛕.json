@@ -1,7 +1,12 @@
 {
  "char": "蛕",
  "pinyin": "huí",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -40,5 +45,7 @@
   "蚘",
   "蛔",
   "蜖"
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

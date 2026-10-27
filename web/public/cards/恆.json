@@ -1,7 +1,12 @@
 {
  "char": "恆",
  "pinyin": "héng",
- "bus": [],
+ "bus": [
+  {
+   "num": 504,
+   "name": "亙"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "恒",
  "aliases": [
   "恒"
- ]
+ ],
+ "level": 3,
+ "parent": "亙"
 }

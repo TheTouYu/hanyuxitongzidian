@@ -1,7 +1,12 @@
 {
  "char": "𦘓",
  "pinyin": "yì",
- "bus": [],
+ "bus": [
+  {
+   "num": 427,
+   "name": "聿"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取锐：劳作磨锐。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "聿"
 }

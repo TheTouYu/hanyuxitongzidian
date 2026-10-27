@@ -1,7 +1,12 @@
 {
  "char": "均",
  "pinyin": "jūn",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚决」取「聚」：土聚而均。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

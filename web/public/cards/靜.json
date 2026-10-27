@@ -1,7 +1,12 @@
 {
  "char": "靜",
  "pinyin": "jìng",
- "bus": [],
+ "bus": [
+  {
+   "num": 497,
+   "name": "生"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "静",
  "aliases": [
   "静"
- ]
+ ],
+ "level": 3,
+ "parent": "生"
 }

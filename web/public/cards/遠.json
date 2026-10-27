@@ -1,7 +1,12 @@
 {
  "char": "遠",
  "pinyin": "yuǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 478,
+   "name": "袁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "远",
  "aliases": [
   "远"
- ]
+ ],
+ "level": 3,
+ "parent": "袁"
 }

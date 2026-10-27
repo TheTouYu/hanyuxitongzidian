@@ -1,7 +1,12 @@
 {
  "char": "奭",
  "pinyin": "shì",
- "bus": [],
+ "bus": [
+  {
+   "num": 398,
+   "name": "皕"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "sh「失收」取「失」：怒气失收而外放。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "皕"
 }

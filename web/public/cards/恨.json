@@ -1,7 +1,12 @@
 {
  "char": "恨",
  "pinyin": "hèn",
- "bus": [],
+ "bus": [
+  {
+   "num": 140,
+   "name": "勹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取豁活：氣豁而怨。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "勹"
 }

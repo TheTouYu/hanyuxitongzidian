@@ -1,7 +1,12 @@
 {
  "char": "啙",
  "pinyin": "zǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「总」：口总而小。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

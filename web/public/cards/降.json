@@ -1,7 +1,12 @@
 {
  "char": "降",
  "pinyin": "jiàng",
- "bus": [],
+ "bus": [
+  {
+   "num": 501,
+   "name": "夅"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j取聚决：阜高而决下。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "夅"
 }

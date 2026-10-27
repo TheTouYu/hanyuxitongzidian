@@ -1,7 +1,12 @@
 {
  "char": "遝",
  "pinyin": "tà",
- "bus": [],
+ "bus": [
+  {
+   "num": 466,
+   "name": "眔"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "沓",
  "aliases": [
   "沓"
- ]
+ ],
+ "level": 3,
+ "parent": "眔"
 }

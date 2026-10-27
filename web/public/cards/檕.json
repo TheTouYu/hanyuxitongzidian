@@ -1,7 +1,12 @@
 {
  "char": "檕",
  "pinyin": "jì",
- "bus": [],
+ "bus": [
+  {
+   "num": 450,
+   "name": "叀"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j取聚：木转而聚。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "叀"
 }

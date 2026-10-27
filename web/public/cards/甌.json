@@ -1,7 +1,12 @@
 {
  "char": "甌",
  "pinyin": "ōu",
- "bus": [],
+ "bus": [
+  {
+   "num": 92,
+   "name": "曲"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "瓯",
  "aliases": [
   "瓯"
- ]
+ ],
+ "level": 3,
+ "parent": "曲"
 }

@@ -1,7 +1,12 @@
 {
  "char": "橞",
  "pinyin": "huì",
- "bus": [],
+ "bus": [
+  {
+   "num": 450,
+   "name": "叀"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取活：木小而活。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "叀"
 }

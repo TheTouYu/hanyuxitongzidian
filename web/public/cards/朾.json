@@ -1,7 +1,12 @@
 {
  "char": "朾",
  "pinyin": "chéng",
- "bus": [],
+ "bus": [
+  {
+   "num": 495,
+   "name": "丁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "ch取持：木持而撞。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "丁"
 }

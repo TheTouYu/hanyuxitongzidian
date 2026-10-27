@@ -1,7 +1,12 @@
 {
  "char": "畿",
  "pinyin": "jī",
- "bus": [],
+ "bus": [
+  {
+   "num": 387,
+   "name": "𢆶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚決」取「聚」：四方聚於王畿。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𢆶"
 }

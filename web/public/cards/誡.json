@@ -1,7 +1,12 @@
 {
  "char": "誡",
  "pinyin": "jiè",
- "bus": [],
+ "bus": [
+  {
+   "num": 419,
+   "name": "戒"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "诫",
  "aliases": [
   "诫"
- ]
+ ],
+ "level": 3,
+ "parent": "戒"
 }

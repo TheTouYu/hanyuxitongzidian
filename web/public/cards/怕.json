@@ -1,7 +1,12 @@
 {
  "char": "怕",
  "pinyin": "pà",
- "bus": [],
+ "bus": [
+  {
+   "num": 432,
+   "name": "白"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：气辟而惧。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "白"
 }

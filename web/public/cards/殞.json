@@ -1,7 +1,12 @@
 {
  "char": "殞",
  "pinyin": "yǔn",
- "bus": [],
+ "bus": [
+  {
+   "num": 459,
+   "name": "員"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "殒",
  "aliases": [
   "殒"
- ]
+ ],
+ "level": 3,
+ "parent": "員"
 }

@@ -1,7 +1,12 @@
 {
  "char": "灦",
  "pinyin": "xiǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 385,
+   "name": "㬎"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「續消」取「消」：水澄則濁消。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㬎"
 }

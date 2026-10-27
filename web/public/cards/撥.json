@@ -1,7 +1,12 @@
 {
  "char": "撥",
  "pinyin": "bō",
- "bus": [],
+ "bus": [
+  {
+   "num": 422,
+   "name": "癹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "拨",
  "aliases": [
   "拨"
- ]
+ ],
+ "level": 3,
+ "parent": "癹"
 }

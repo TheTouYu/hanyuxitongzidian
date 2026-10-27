@@ -1,7 +1,12 @@
 {
  "char": "陟",
  "pinyin": "zhì",
- "bus": [],
+ "bus": [
+  {
+   "num": 408,
+   "name": "步"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「凿总」取「凿」：足凿而登。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "步"
 }

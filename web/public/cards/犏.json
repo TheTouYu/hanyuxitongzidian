@@ -1,7 +1,12 @@
 {
  "char": "犏",
  "pinyin": "piān",
- "bus": [],
+ "bus": [
+  {
+   "num": 439,
+   "name": "扁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p取辟：杂而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "扁"
 }

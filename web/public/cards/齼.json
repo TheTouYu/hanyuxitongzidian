@@ -1,7 +1,12 @@
 {
  "char": "齼",
  "pinyin": "chǔ",
- "bus": [],
+ "bus": [
+  {
+   "num": 407,
+   "name": "足"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "ch「刺持」取「刺」：酸刺而楚。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "足"
 }

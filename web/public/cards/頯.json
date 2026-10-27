@@ -1,7 +1,12 @@
 {
  "char": "頯",
  "pinyin": "kuí",
- "bus": [],
+ "bus": [
+  {
+   "num": 472,
+   "name": "𢌳"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "k取控：顙骨外控。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𢌳"
 }

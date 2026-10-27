@@ -1,7 +1,12 @@
 {
  "char": "惜",
  "pinyin": "xī",
- "bus": [],
+ "bus": [
+  {
+   "num": 416,
+   "name": "𡿧"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「消」：惜其消尽。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𡿧"
 }

@@ -1,7 +1,12 @@
 {
  "char": "該",
  "pinyin": "gāi",
- "bus": [],
+ "bus": [
+  {
+   "num": 418,
+   "name": "亥"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "该",
  "aliases": [
   "该"
- ]
+ ],
+ "level": 3,
+ "parent": "亥"
 }

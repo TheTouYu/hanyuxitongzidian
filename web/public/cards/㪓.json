@@ -1,7 +1,12 @@
 {
  "char": "㪓",
  "pinyin": "chuái",
- "bus": [],
+ "bus": [
+  {
+   "num": 443,
+   "name": "卝"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "ch「刺持」取「持」：邪曲而持。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "卝"
 }

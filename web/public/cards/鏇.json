@@ -1,7 +1,12 @@
 {
  "char": "鏇",
  "pinyin": "xuàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 457,
+   "name": "旋"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "旋",
  "aliases": [
   "旋"
- ]
+ ],
+ "level": 3,
+ "parent": "旋"
 }

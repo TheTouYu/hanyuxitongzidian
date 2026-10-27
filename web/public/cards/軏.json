@@ -1,7 +1,12 @@
 {
  "char": "軏",
  "pinyin": "yuè",
- "bus": [],
+ "bus": [
+  {
+   "num": 455,
+   "name": "兀"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y「柔锐」取「锐」：辕端而锐。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "兀"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𣢑",
  "pinyin": "xī",
- "bus": [],
+ "bus": [
+  {
+   "num": 410,
+   "name": "之"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「消」：笑气消出。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "之"
 }

@@ -1,7 +1,12 @@
 {
  "char": "㢟",
  "pinyin": "chān",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "ch「刺持」取「持」：步持而缓。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

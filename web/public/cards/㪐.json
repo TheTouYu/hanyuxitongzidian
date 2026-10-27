@@ -1,7 +1,12 @@
 {
  "char": "㪐",
  "pinyin": "lù",
- "bus": [],
+ "bus": [
+  {
+   "num": 429,
+   "name": "立"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l取离：物离而滞。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "立"
 }

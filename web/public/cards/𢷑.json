@@ -1,7 +1,12 @@
 {
  "char": "𢷑",
  "pinyin": "xiǎn／zhěn",
- "bus": [],
+ "bus": [
+  {
+   "num": 385,
+   "name": "㬎"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「續消」取「續」：引而不絕。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㬎"
 }

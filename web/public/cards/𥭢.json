@@ -1,7 +1,12 @@
 {
  "char": "𥭢",
  "pinyin": "pīng",
- "bus": [],
+ "bus": [
+  {
+   "num": 435,
+   "name": "甹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p取辟：篷分覆。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "甹"
 }

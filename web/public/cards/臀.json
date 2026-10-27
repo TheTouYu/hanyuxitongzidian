@@ -1,7 +1,12 @@
 {
  "char": "臀",
  "pinyin": "tún",
- "bus": [],
+ "bus": [
+  {
+   "num": 391,
+   "name": "丌"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -36,5 +41,7 @@
  ],
  "aliases": [
   "臋"
- ]
+ ],
+ "level": 3,
+ "parent": "丌"
 }

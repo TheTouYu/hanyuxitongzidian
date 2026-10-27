@@ -1,7 +1,12 @@
 {
  "char": "揟",
  "pinyin": "xū",
- "bus": [],
+ "bus": [
+  {
+   "num": 407,
+   "name": "足"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「续」：水续而漉。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "足"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𩺉",
  "pinyin": "hàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h「豁活」取「活」：水活而蚌生。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

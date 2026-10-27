@@ -1,7 +1,12 @@
 {
  "char": "寬",
  "pinyin": "kuān",
- "bus": [],
+ "bus": [
+  {
+   "num": 443,
+   "name": "卝"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "宽",
  "aliases": [
   "宽"
- ]
+ ],
+ "level": 3,
+ "parent": "卝"
 }

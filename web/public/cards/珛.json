@@ -1,7 +1,12 @@
 {
  "char": "珛",
  "pinyin": "xiù",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「消」：玉朽而消。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

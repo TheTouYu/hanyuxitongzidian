@@ -1,7 +1,12 @@
 {
  "char": "𥓎",
  "pinyin": "lù",
- "bus": [],
+ "bus": [
+  {
+   "num": 429,
+   "name": "立"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l取离：石危而欲坠。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "立"
 }

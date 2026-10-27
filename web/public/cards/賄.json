@@ -1,7 +1,12 @@
 {
  "char": "賄",
  "pinyin": "huì",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "贿",
  "aliases": [
   "贿"
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

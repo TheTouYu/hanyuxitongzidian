@@ -1,7 +1,12 @@
 {
  "char": "慴",
  "pinyin": "shè",
- "bus": [],
+ "bus": [
+  {
+   "num": 481,
+   "name": "彗"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "慑",
   "懾"
- ]
+ ],
+ "level": 3,
+ "parent": "彗"
 }

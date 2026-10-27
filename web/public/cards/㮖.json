@@ -1,7 +1,12 @@
 {
  "char": "㮖",
  "pinyin": "jiá",
- "bus": [],
+ "bus": [
+  {
+   "num": 420,
+   "name": "革"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚决」取「决」：鼓决而鸣。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "革"
 }

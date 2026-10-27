@@ -1,7 +1,12 @@
 {
  "char": "𥡪",
  "pinyin": "yì",
- "bus": [],
+ "bus": [
+  {
+   "num": 429,
+   "name": "立"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取锐：穗张如翼。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "立"
 }

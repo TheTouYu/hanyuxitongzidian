@@ -1,7 +1,12 @@
 {
  "char": "𩒳",
  "pinyin": "huì",
- "bus": [],
+ "bus": [
+  {
+   "num": 428,
+   "name": "曰"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取豁：借形记讹。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "曰"
 }

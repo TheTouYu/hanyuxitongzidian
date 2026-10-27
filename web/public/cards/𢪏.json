@@ -1,7 +1,12 @@
 {
  "char": "𢪏",
  "pinyin": "hú",
- "bus": [],
+ "bus": [
+  {
+   "num": 428,
+   "name": "曰"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h「豁活」取「豁」：牵而豁开。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "曰"
 }

@@ -1,7 +1,12 @@
 {
  "char": "拵",
  "pinyin": "cún",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「总」：总持之。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

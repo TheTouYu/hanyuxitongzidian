@@ -1,7 +1,12 @@
 {
  "char": "𥶾",
  "pinyin": "lì",
- "bus": [],
+ "bus": [
+  {
+   "num": 430,
+   "name": "隶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l取离：片片相离。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "隶"
 }

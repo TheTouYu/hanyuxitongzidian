@@ -1,7 +1,12 @@
 {
  "char": "等",
  "pinyin": "děng",
- "bus": [],
+ "bus": [
+  {
+   "num": 410,
+   "name": "之"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d「囤动」取「囤」：囤齐而等。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "之"
 }

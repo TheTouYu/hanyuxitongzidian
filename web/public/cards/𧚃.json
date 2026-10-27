@@ -1,7 +1,12 @@
 {
  "char": "𧚃",
  "pinyin": "xì",
- "bus": [],
+ "bus": [
+  {
+   "num": 384,
+   "name": "系"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「續消」取「續」：帶續而束衣。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "系"
 }

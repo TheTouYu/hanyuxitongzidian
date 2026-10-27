@@ -1,7 +1,12 @@
 {
  "char": "𨖾",
  "pinyin": "biān",
- "bus": [],
+ "bus": [
+  {
+   "num": 383,
+   "name": "糸"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「閉剝」取「閉」：繩墨收束取直。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "糸"
 }

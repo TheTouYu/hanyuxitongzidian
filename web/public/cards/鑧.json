@@ -1,7 +1,12 @@
 {
  "char": "鑧",
  "pinyin": "kuān",
- "bus": [],
+ "bus": [
+  {
+   "num": 443,
+   "name": "卝"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "k取控：器宽而控。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "卝"
 }

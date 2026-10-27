@@ -1,7 +1,12 @@
 {
  "char": "邛",
  "pinyin": "qióng",
- "bus": [],
+ "bus": [
+  {
+   "num": 500,
+   "name": "工"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q取亲缺：地缺而邛。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "工"
 }

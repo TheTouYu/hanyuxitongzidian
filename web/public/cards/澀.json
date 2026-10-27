@@ -1,7 +1,12 @@
 {
  "char": "澀",
  "pinyin": "sè",
- "bus": [],
+ "bus": [
+  {
+   "num": 408,
+   "name": "步"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "涩",
   "澁"
- ]
+ ],
+ "level": 3,
+ "parent": "步"
 }

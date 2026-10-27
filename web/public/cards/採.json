@@ -1,7 +1,12 @@
 {
  "char": "採",
  "pinyin": "cǎi",
- "bus": [],
+ "bus": [
+  {
+   "num": 399,
+   "name": "采"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -39,5 +44,7 @@
   "埰",
   "寀",
   "采"
- ]
+ ],
+ "level": 3,
+ "parent": "采"
 }

@@ -1,7 +1,12 @@
 {
  "char": "氛",
  "pinyin": "fēn",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -36,5 +41,7 @@
  ],
  "aliases": [
   "雰"
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

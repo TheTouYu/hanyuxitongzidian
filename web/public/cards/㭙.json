@@ -1,7 +1,12 @@
 {
  "char": "㭙",
  "pinyin": "zhé",
- "bus": [],
+ "bus": [
+  {
+   "num": 410,
+   "name": "之"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「凿总」取「凿」：木凿而立。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "之"
 }

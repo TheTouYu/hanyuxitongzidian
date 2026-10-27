@@ -1,7 +1,12 @@
 {
  "char": "詢",
  "pinyin": "xún",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "询",
  "aliases": [
   "询"
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

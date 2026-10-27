@@ -1,7 +1,12 @@
 {
  "char": "捵",
  "pinyin": "chěn",
- "bus": [],
+ "bus": [
+  {
+   "num": 510,
+   "name": "典"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "ch「刺持」取「持」：手扯而持。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "典"
 }

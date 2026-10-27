@@ -1,7 +1,12 @@
 {
  "char": "喉",
  "pinyin": "hóu",
- "bus": [],
+ "bus": [
+  {
+   "num": 477,
+   "name": "侯"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取豁：氣自喉豁。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "侯"
 }

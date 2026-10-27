@@ -1,7 +1,12 @@
 {
  "char": "𡰖",
  "pinyin": "dī",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d「囤动」取「囤」：困而不前。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

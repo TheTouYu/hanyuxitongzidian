@@ -1,7 +1,12 @@
 {
  "char": "魏",
  "pinyin": "wèi",
- "bus": [],
+ "bus": [
+  {
+   "num": 471,
+   "name": "鬼"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "w「蒙末」取「蒙」：蒙然高大。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "鬼"
 }

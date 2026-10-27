@@ -1,7 +1,12 @@
 {
  "char": "𣫦",
  "pinyin": "xì",
- "bus": [],
+ "bus": [
+  {
+   "num": 48,
+   "name": "虍"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x取续：系续而消。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "虍"
 }

@@ -1,7 +1,12 @@
 {
  "char": "儘",
  "pinyin": "jǐn",
- "bus": [],
+ "bus": [
+  {
+   "num": 427,
+   "name": "聿"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "尽",
   "盡"
- ]
+ ],
+ "level": 3,
+ "parent": "聿"
 }

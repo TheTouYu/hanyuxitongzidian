@@ -1,7 +1,12 @@
 {
  "char": "跪",
  "pinyin": "guì",
- "bus": [],
+ "bus": [
+  {
+   "num": 474,
+   "name": "危"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g「隔估」取「隔」：膝隔而跪。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "危"
 }

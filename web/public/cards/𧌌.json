@@ -1,7 +1,12 @@
 {
  "char": "𧌌",
  "pinyin": "xiū",
- "bus": [],
+ "bus": [
+  {
+   "num": 464,
+   "name": "尤"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「续」：蛛丝续。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "尤"
 }

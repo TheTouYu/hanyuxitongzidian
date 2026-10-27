@@ -1,7 +1,12 @@
 {
  "char": "㞃",
  "pinyin": "jí",
- "bus": [],
+ "bus": [
+  {
+   "num": 464,
+   "name": "尤"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚决」取「决」：倦而决。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "尤"
 }

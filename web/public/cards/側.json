@@ -1,7 +1,12 @@
 {
  "char": "側",
  "pinyin": "cè",
- "bus": [],
+ "bus": [
+  {
+   "num": 401,
+   "name": "則"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "侧",
  "aliases": [
   "侧"
- ]
+ ],
+ "level": 3,
+ "parent": "則"
 }

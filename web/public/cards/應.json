@@ -1,7 +1,12 @@
 {
  "char": "應",
  "pinyin": "yìng",
- "bus": [],
+ "bus": [
+  {
+   "num": 200,
+   "name": "𨿳"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "应",
  "aliases": [
   "应"
- ]
+ ],
+ "level": 3,
+ "parent": "𨿳"
 }

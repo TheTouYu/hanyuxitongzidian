@@ -1,7 +1,12 @@
 {
  "char": "忋",
  "pinyin": "gǎi",
- "bus": [],
+ "bus": [
+  {
+   "num": 389,
+   "name": "己"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g「隔估」取「估」：心依而估之。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "己"
 }

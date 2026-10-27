@@ -1,7 +1,12 @@
 {
  "char": "䜁",
  "pinyin": "xǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 402,
+   "name": "夨"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「消」：怨消而诟。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "夨"
 }

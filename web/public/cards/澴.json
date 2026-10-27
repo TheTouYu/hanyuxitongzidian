@@ -1,7 +1,12 @@
 {
  "char": "澴",
  "pinyin": "huán",
- "bus": [],
+ "bus": [
+  {
+   "num": 478,
+   "name": "袁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取活：水回而活。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "袁"
 }

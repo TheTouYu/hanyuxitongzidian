@@ -1,7 +1,12 @@
 {
  "char": "覥",
  "pinyin": "tiǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 510,
+   "name": "典"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "t取涂突：見人而慙。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "典"
 }

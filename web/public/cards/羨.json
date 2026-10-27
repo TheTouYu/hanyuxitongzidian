@@ -1,7 +1,12 @@
 {
  "char": "羨",
  "pinyin": "xiàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 20,
+   "name": "次"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "羡",
  "aliases": [
   "羡"
- ]
+ ],
+ "level": 3,
+ "parent": "次"
 }

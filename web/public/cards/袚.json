@@ -1,7 +1,12 @@
 {
  "char": "袚",
  "pinyin": "bò",
- "bus": [],
+ "bus": [
+  {
+   "num": 418,
+   "name": "亥"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「剥」：皮剥而为蔽。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "亥"
 }

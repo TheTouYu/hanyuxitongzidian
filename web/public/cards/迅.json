@@ -1,7 +1,12 @@
 {
  "char": "迅",
  "pinyin": "xùn",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「续」：疾行不断。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

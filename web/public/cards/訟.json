@@ -1,7 +1,12 @@
 {
  "char": "訟",
  "pinyin": "sòng",
- "bus": [],
+ "bus": [
+  {
+   "num": 496,
+   "name": "公"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "讼",
  "aliases": [
   "讼"
- ]
+ ],
+ "level": 3,
+ "parent": "公"
 }

@@ -1,7 +1,12 @@
 {
  "char": "亓",
  "pinyin": "qí",
- "bus": [],
+ "bus": [
+  {
+   "num": 391,
+   "name": "丌"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「親缺」取「親」：承物相親。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "丌"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𢣎",
  "pinyin": "tuǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 386,
+   "name": "㡭"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "t「塗突」取「突」：心突而亂。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㡭"
 }

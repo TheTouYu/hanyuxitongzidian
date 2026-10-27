@@ -1,7 +1,12 @@
 {
  "char": "紀",
  "pinyin": "jì",
- "bus": [],
+ "bus": [
+  {
+   "num": 389,
+   "name": "己"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -43,5 +48,7 @@
   "崀",
   "愀",
   "纪"
- ]
+ ],
+ "level": 3,
+ "parent": "己"
 }

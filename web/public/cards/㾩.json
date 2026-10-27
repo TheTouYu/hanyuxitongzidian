@@ -1,7 +1,12 @@
 {
  "char": "㾩",
  "pinyin": "guāi",
- "bus": [],
+ "bus": [
+  {
+   "num": 443,
+   "name": "卝"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g取隔：疮结而隔。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "卝"
 }

@@ -1,7 +1,12 @@
 {
  "char": "盼",
  "pinyin": "pàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：目分黑白。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

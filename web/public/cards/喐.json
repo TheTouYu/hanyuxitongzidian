@@ -1,7 +1,12 @@
 {
  "char": "喐",
  "pinyin": "yù",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取柔：声出而柔。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

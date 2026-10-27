@@ -1,7 +1,12 @@
 {
  "char": "孂",
  "pinyin": "jiǎo",
- "bus": [],
+ "bus": [
+  {
+   "num": 405,
+   "name": "皀"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚决」取「聚」：身聚而竦。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "皀"
 }

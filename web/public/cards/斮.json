@@ -1,7 +1,12 @@
 {
  "char": "斮",
  "pinyin": "zhuó",
- "bus": [],
+ "bus": [
+  {
+   "num": 44,
+   "name": "斤"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -39,5 +44,7 @@
   "斫",
   "斲",
   "斵"
- ]
+ ],
+ "level": 3,
+ "parent": "斤"
 }

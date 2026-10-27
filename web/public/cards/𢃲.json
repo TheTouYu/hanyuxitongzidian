@@ -1,7 +1,12 @@
 {
  "char": "𢃲",
  "pinyin": "è",
- "bus": [],
+ "bus": [
+  {
+   "num": 420,
+   "name": "革"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h「豁活」取「活」：线活而缝。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "革"
 }

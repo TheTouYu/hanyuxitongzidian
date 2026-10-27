@@ -1,7 +1,12 @@
 {
  "char": "性",
  "pinyin": "xìng",
- "bus": [],
+ "bus": [
+  {
+   "num": 497,
+   "name": "生"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x取续消：生而相續。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "生"
 }

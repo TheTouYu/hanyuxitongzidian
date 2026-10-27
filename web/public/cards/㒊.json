@@ -1,7 +1,12 @@
 {
  "char": "㒊",
  "pinyin": "sè",
- "bus": [],
+ "bus": [
+  {
+   "num": 408,
+   "name": "步"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "s「失收」取「失」：人失其及。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "步"
 }

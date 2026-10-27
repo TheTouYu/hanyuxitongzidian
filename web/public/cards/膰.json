@@ -1,7 +1,12 @@
 {
  "char": "膰",
  "pinyin": "fán",
- "bus": [],
+ "bus": [
+  {
+   "num": 434,
+   "name": "釆"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "f取分：分胙。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "釆"
 }

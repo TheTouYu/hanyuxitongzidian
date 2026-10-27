@@ -1,7 +1,12 @@
 {
  "char": "鐦",
  "pinyin": "kuí",
- "bus": [],
+ "bus": [
+  {
+   "num": 436,
+   "name": "𠬜"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "锎",
  "aliases": [
   "锎"
- ]
+ ],
+ "level": 3,
+ "parent": "𠬜"
 }

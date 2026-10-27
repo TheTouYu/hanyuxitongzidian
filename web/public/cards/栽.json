@@ -1,7 +1,12 @@
 {
  "char": "栽",
  "pinyin": "zài",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「凿」：凿土而植。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

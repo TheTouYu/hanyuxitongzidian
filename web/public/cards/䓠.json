@@ -1,7 +1,12 @@
 {
  "char": "䓠",
  "pinyin": "tà",
- "bus": [],
+ "bus": [
+  {
+   "num": 252,
+   "name": "水"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "t取涂：水生相涂。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "水"
 }

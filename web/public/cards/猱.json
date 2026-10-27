@@ -1,7 +1,12 @@
 {
  "char": "猱",
  "pinyin": "náo",
- "bus": [],
+ "bus": [
+  {
+   "num": 296,
+   "name": "矛"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "n取弄：犬猴相弄。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "矛"
 }

@@ -1,7 +1,12 @@
 {
  "char": "隆",
  "pinyin": "lóng",
- "bus": [],
+ "bus": [
+  {
+   "num": 125,
+   "name": "丰"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l「拢离」取「拢」：土拢而高。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "丰"
 }

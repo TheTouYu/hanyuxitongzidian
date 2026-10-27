@@ -1,7 +1,12 @@
 {
  "char": "卼",
  "pinyin": "wù",
- "bus": [],
+ "bus": [
+  {
+   "num": 474,
+   "name": "危"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "w取问：危动而问。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "危"
 }

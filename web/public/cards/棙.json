@@ -1,7 +1,12 @@
 {
  "char": "棙",
  "pinyin": "lì",
- "bus": [],
+ "bus": [
+  {
+   "num": 429,
+   "name": "立"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l取离：拨弦使离。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "立"
 }

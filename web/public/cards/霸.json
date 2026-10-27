@@ -1,7 +1,12 @@
 {
  "char": "霸",
  "pinyin": "pò",
- "bus": [],
+ "bus": [
+  {
+   "num": 420,
+   "name": "革"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -36,5 +41,7 @@
  ],
  "aliases": [
   "覇"
- ]
+ ],
+ "level": 3,
+ "parent": "革"
 }

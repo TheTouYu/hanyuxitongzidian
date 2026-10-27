@@ -1,7 +1,12 @@
 {
  "char": "㗆",
  "pinyin": "gé",
- "bus": [],
+ "bus": [
+  {
+   "num": 420,
+   "name": "革"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g「隔估」取「隔」：声隔而鸣。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "革"
 }

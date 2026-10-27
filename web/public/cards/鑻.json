@@ -1,7 +1,12 @@
 {
  "char": "鑻",
  "pinyin": "pàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 436,
+   "name": "𠬜"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：扣而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𠬜"
 }

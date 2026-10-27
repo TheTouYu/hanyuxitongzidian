@@ -1,7 +1,12 @@
 {
  "char": "侓",
  "pinyin": "lù",
- "bus": [],
+ "bus": [
+  {
+   "num": 427,
+   "name": "聿"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "l「拢离」取「离」：形大而舒展。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "聿"
 }

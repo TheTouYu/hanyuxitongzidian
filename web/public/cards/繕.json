@@ -1,7 +1,12 @@
 {
  "char": "繕",
  "pinyin": "shàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 493,
+   "name": "善"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "缮",
  "aliases": [
   "缮"
- ]
+ ],
+ "level": 3,
+ "parent": "善"
 }

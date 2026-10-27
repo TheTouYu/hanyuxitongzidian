@@ -1,7 +1,12 @@
 {
  "char": "机",
  "pinyin": "jī",
- "bus": [],
+ "bus": [
+  {
+   "num": 392,
+   "name": "几"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -36,5 +41,7 @@
  ],
  "aliases": [
   "機"
- ]
+ ],
+ "level": 3,
+ "parent": "几"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𤿋",
  "pinyin": "què",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「亲缺」取「缺」：皮缺而裂。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

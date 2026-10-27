@@ -1,7 +1,12 @@
 {
  "char": "慰",
  "pinyin": "wèi",
- "bus": [],
+ "bus": [
+  {
+   "num": 334,
+   "name": "尼"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "w?零聲母。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "尼"
 }

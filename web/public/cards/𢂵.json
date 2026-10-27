@@ -1,7 +1,12 @@
 {
  "char": "𢂵",
  "pinyin": "jiè",
- "bus": [],
+ "bus": [
+  {
+   "num": 419,
+   "name": "戒"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚决」取「聚」：巾聚而裹。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "戒"
 }

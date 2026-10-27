@@ -1,7 +1,12 @@
 {
  "char": "援",
  "pinyin": "yuán",
- "bus": [],
+ "bus": [
+  {
+   "num": 479,
+   "name": "爰"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取续：手引相續。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "爰"
 }

@@ -1,7 +1,12 @@
 {
  "char": "嗤",
  "pinyin": "chī",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "ch「刺持」取「刺」：笑如刺人。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

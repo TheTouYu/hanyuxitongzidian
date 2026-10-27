@@ -1,7 +1,12 @@
 {
  "char": "㥂",
  "pinyin": "tè",
- "bus": [],
+ "bus": [
+  {
+   "num": 411,
+   "name": "㝵"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "t「涂突」取「突」：心动如突。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㝵"
 }

@@ -1,7 +1,12 @@
 {
  "char": "巧",
  "pinyin": "qiǎo",
- "bus": [],
+ "bus": [
+  {
+   "num": 34,
+   "name": "丂"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「亲缺」取「缺」：巧在缺處。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "丂"
 }

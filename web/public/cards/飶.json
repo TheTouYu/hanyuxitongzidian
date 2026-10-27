@@ -1,7 +1,12 @@
 {
  "char": "飶",
  "pinyin": "bì",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b取剥：香泌而溢。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

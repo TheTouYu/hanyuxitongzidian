@@ -1,7 +1,12 @@
 {
  "char": "愚",
  "pinyin": "yú",
- "bus": [],
+ "bus": [
+  {
+   "num": 57,
+   "name": "禺"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取柔锐：性柔而鈍。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "禺"
 }

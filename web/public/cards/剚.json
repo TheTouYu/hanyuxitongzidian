@@ -1,7 +1,12 @@
 {
  "char": "剚",
  "pinyin": "zì",
- "bus": [],
+ "bus": [
+  {
+   "num": 403,
+   "name": "史"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「凿」：凿地而插。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "史"
 }

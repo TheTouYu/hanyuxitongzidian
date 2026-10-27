@@ -1,7 +1,12 @@
 {
  "char": "梬",
  "pinyin": "yǐng",
- "bus": [],
+ "bus": [
+  {
+   "num": 435,
+   "name": "甹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y「柔锐」取「柔」：果小而柔。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "甹"
 }

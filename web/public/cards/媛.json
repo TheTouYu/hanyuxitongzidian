@@ -1,7 +1,12 @@
 {
  "char": "媛",
  "pinyin": "yuán",
- "bus": [],
+ "bus": [
+  {
+   "num": 479,
+   "name": "爰"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取续：女美相牽。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "爰"
 }

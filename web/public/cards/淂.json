@@ -1,7 +1,12 @@
 {
  "char": "淂",
  "pinyin": "dé",
- "bus": [],
+ "bus": [
+  {
+   "num": 411,
+   "name": "㝵"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d「囤动」取「囤」：水囤而聚。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㝵"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𨌥",
  "pinyin": "fú",
- "bus": [],
+ "bus": [
+  {
+   "num": 440,
+   "name": "玨"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "f「附分」取「附」：匣附车而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "玨"
 }

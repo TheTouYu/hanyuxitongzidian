@@ -1,7 +1,12 @@
 {
  "char": "蝚",
  "pinyin": "róu",
- "bus": [],
+ "bus": [
+  {
+   "num": 296,
+   "name": "矛"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "r「柔锐」取「柔」：蟲柔而附。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "矛"
 }

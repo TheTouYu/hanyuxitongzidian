@@ -1,7 +1,12 @@
 {
  "char": "嬧",
  "pinyin": "jìn",
- "bus": [],
+ "bus": [
+  {
+   "num": 174,
+   "name": "尹"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j取聚：借声记名。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "尹"
 }

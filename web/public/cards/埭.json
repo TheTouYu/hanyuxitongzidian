@@ -1,7 +1,12 @@
 {
  "char": "埭",
  "pinyin": "dài",
- "bus": [],
+ "bus": [
+  {
+   "num": 430,
+   "name": "隶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d取动：挽舟而前。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "隶"
 }

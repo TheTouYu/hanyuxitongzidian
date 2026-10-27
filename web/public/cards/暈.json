@@ -1,7 +1,12 @@
 {
  "char": "暈",
  "pinyin": "yùn",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "晕",
  "aliases": [
   "晕"
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

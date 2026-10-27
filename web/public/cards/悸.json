@@ -1,7 +1,12 @@
 {
  "char": "悸",
  "pinyin": "jì",
- "bus": [],
+ "bus": [
+  {
+   "num": 388,
+   "name": "子"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚決」取「決」：心忽決而跳。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "子"
 }

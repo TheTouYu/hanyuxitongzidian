@@ -1,7 +1,12 @@
 {
  "char": "渹",
  "pinyin": "hōng",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取活：水响而活。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

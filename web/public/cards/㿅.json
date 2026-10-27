@@ -1,7 +1,12 @@
 {
  "char": "㿅",
  "pinyin": "xuǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 408,
+   "name": "步"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "x「续消」取「续」：癣续而蔓。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "步"
 }

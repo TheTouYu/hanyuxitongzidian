@@ -1,7 +1,12 @@
 {
  "char": "闚",
  "pinyin": "kuī",
- "bus": [],
+ "bus": [
+  {
+   "num": 468,
+   "name": "規"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "窥",
   "窺"
- ]
+ ],
+ "level": 3,
+ "parent": "規"
 }

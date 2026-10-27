@@ -1,7 +1,12 @@
 {
  "char": "䐉",
  "pinyin": "zì",
- "bus": [],
+ "bus": [
+  {
+   "num": 416,
+   "name": "𡿧"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「总」：肉总而肥。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𡿧"
 }

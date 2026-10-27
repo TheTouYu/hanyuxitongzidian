@@ -1,7 +1,12 @@
 {
  "char": "蕭",
  "pinyin": "xiāo",
- "bus": [],
+ "bus": [
+  {
+   "num": 427,
+   "name": "聿"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "萧",
  "aliases": [
   "萧"
- ]
+ ],
+ "level": 3,
+ "parent": "聿"
 }

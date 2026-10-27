@@ -1,7 +1,12 @@
 {
  "char": "𧡨",
  "pinyin": "tí",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "t「涂突」取「突」：光突而出。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

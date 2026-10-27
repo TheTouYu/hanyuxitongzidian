@@ -1,7 +1,12 @@
 {
  "char": "縱",
  "pinyin": "zòng",
- "bus": [],
+ "bus": [
+  {
+   "num": 505,
+   "name": "从"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "纵",
  "aliases": [
   "纵"
- ]
+ ],
+ "level": 3,
+ "parent": "从"
 }

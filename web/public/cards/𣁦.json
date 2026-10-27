@@ -1,7 +1,12 @@
 {
  "char": "𣁦",
  "pinyin": "pán",
- "bus": [],
+ "bus": [
+  {
+   "num": 442,
+   "name": "斌"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：全才而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "斌"
 }

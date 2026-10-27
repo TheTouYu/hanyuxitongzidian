@@ -1,7 +1,12 @@
 {
  "char": "䇎",
  "pinyin": "què",
- "bus": [],
+ "bus": [
+  {
+   "num": 416,
+   "name": "𡿧"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「亲缺」取「缺」：立而缺安。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𡿧"
 }

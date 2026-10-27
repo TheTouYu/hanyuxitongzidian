@@ -1,7 +1,12 @@
 {
  "char": "篇",
  "pinyin": "piān",
- "bus": [],
+ "bus": [
+  {
+   "num": 439,
+   "name": "扁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "p「拼辟」取「辟」：竹简排比。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "扁"
 }

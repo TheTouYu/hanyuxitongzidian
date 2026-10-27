@@ -1,7 +1,12 @@
 {
  "char": "汓",
  "pinyin": "qiú／yóu",
- "bus": [],
+ "bus": [
+  {
+   "num": 388,
+   "name": "子"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「親缺」取「缺」：初生不足而能浮。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "子"
 }

@@ -1,7 +1,12 @@
 {
  "char": "𤡲",
  "pinyin": "kāi",
- "bus": [],
+ "bus": [
+  {
+   "num": 436,
+   "name": "𠬜"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "k取开：兽分而奔。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𠬜"
 }

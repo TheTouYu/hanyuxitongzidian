@@ -1,7 +1,12 @@
 {
  "char": "碥",
  "pinyin": "biǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 439,
+   "name": "扁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「剥」：石扁而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "扁"
 }

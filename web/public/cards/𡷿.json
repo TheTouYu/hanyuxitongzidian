@@ -1,7 +1,12 @@
 {
  "char": "𡷿",
  "pinyin": "zhuó",
- "bus": [],
+ "bus": [
+  {
+   "num": 407,
+   "name": "足"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "zh「凿总」取「总」：群峰总立。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "足"
 }

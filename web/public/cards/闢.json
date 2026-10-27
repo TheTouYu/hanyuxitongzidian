@@ -1,7 +1,12 @@
 {
  "char": "闢",
  "pinyin": "pì",
- "bus": [],
+ "bus": [
+  {
+   "num": 152,
+   "name": "辟"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "辟",
  "aliases": [
   "辟"
- ]
+ ],
+ "level": 3,
+ "parent": "辟"
 }

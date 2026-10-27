@@ -1,7 +1,12 @@
 {
  "char": "処",
  "pinyin": "chǔ",
- "bus": [],
+ "bus": [
+  {
+   "num": 392,
+   "name": "几"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "处",
   "處"
- ]
+ ],
+ "level": 3,
+ "parent": "几"
 }

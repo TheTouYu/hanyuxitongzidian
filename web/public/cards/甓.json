@@ -1,7 +1,12 @@
 {
  "char": "甓",
  "pinyin": "pì",
- "bus": [],
+ "bus": [
+  {
+   "num": 152,
+   "name": "辟"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「闭」：砖合而闭。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "辟"
 }

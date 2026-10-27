@@ -1,7 +1,12 @@
 {
  "char": "𢺞",
  "pinyin": "bǎ",
- "bus": [],
+ "bus": [
+  {
+   "num": 420,
+   "name": "革"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「闭」：把而持之。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "革"
 }

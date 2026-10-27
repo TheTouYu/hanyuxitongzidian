@@ -1,7 +1,12 @@
 {
  "char": "䎩",
  "pinyin": "zī",
- "bus": [],
+ "bus": [
+  {
+   "num": 416,
+   "name": "𡿧"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「凿」：耕凿而田。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𡿧"
 }

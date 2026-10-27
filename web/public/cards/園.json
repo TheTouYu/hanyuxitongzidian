@@ -1,7 +1,12 @@
 {
  "char": "園",
  "pinyin": "yuán",
- "bus": [],
+ "bus": [
+  {
+   "num": 478,
+   "name": "袁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "园",
  "aliases": [
   "园"
- ]
+ ],
+ "level": 3,
+ "parent": "袁"
 }

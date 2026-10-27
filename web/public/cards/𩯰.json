@@ -1,7 +1,12 @@
 {
  "char": "𩯰",
  "pinyin": "jié",
- "bus": [],
+ "bus": [
+  {
+   "num": 582,
+   "name": "小"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚决」取「决」：决断而截。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "小"
 }

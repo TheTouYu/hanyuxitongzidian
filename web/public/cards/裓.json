@@ -1,7 +1,12 @@
 {
  "char": "裓",
  "pinyin": "gé",
- "bus": [],
+ "bus": [
+  {
+   "num": 419,
+   "name": "戒"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "g「隔估」取「隔」：衣隔而蔽。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "戒"
 }

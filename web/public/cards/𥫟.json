@@ -1,7 +1,12 @@
 {
  "char": "𥫟",
  "pinyin": "qǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 389,
+   "name": "己"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "q「親缺」取「親」：篾條相親而織。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "己"
 }

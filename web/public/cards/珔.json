@@ -1,7 +1,12 @@
 {
  "char": "珔",
  "pinyin": "jiàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j「聚决」取「决」：玉质坚而能决。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

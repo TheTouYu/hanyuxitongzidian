@@ -1,7 +1,12 @@
 {
  "char": "諍",
  "pinyin": "zhèng",
- "bus": [],
+ "bus": [
+  {
+   "num": 498,
+   "name": "爭"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "诤",
  "aliases": [
   "诤"
- ]
+ ],
+ "level": 3,
+ "parent": "爭"
 }

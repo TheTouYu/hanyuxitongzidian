@@ -1,7 +1,12 @@
 {
  "char": "耻",
  "pinyin": "chǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -36,5 +41,7 @@
  ],
  "aliases": [
   "恥"
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

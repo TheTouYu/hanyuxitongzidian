@@ -1,7 +1,12 @@
 {
  "char": "編",
  "pinyin": "biān",
- "bus": [],
+ "bus": [
+  {
+   "num": 439,
+   "name": "扁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "编",
  "aliases": [
   "编"
- ]
+ ],
+ "level": 3,
+ "parent": "扁"
 }

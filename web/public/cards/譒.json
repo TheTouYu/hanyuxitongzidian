@@ -1,7 +1,12 @@
 {
  "char": "譒",
  "pinyin": "bò",
- "bus": [],
+ "bus": [
+  {
+   "num": 434,
+   "name": "釆"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b取剥：言布而分。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "釆"
 }

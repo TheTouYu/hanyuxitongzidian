@@ -1,7 +1,12 @@
 {
  "char": "鱐",
  "pinyin": "sū",
- "bus": [],
+ "bus": [
+  {
+   "num": 427,
+   "name": "聿"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "s取收：鱼收而干。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "聿"
 }

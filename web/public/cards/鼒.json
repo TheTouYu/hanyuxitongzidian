@@ -1,7 +1,12 @@
 {
  "char": "鼒",
  "pinyin": "zī",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「凿」：铸鼎凿范而成。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

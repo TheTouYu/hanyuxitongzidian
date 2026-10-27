@@ -1,7 +1,12 @@
 {
  "char": "㧹",
  "pinyin": "tè",
- "bus": [],
+ "bus": [
+  {
+   "num": 411,
+   "name": "㝵"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "t「涂突」取「突」：突出而击。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "㝵"
 }

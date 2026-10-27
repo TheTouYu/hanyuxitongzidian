@@ -1,7 +1,12 @@
 {
  "char": "恢",
  "pinyin": "huī",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取活：心大而活。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

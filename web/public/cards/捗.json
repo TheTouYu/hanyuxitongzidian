@@ -1,7 +1,12 @@
 {
  "char": "捗",
  "pinyin": "bù",
- "bus": [],
+ "bus": [
+  {
+   "num": 408,
+   "name": "步"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b「闭剥」取「剥」：手剥而收。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "步"
 }

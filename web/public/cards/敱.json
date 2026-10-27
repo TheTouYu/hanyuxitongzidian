@@ -1,7 +1,12 @@
 {
  "char": "敱",
  "pinyin": "ái",
- "bus": [],
+ "bus": [
+  {
+   "num": 482,
+   "name": "帚"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "a零声母：器治而安。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "帚"
 }

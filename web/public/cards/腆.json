@@ -1,7 +1,12 @@
 {
  "char": "腆",
  "pinyin": "tiǎn",
- "bus": [],
+ "bus": [
+  {
+   "num": 510,
+   "name": "典"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
   "謀",
   "谋",
   "輀"
- ]
+ ],
+ "level": 3,
+ "parent": "典"
 }

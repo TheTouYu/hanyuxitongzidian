@@ -1,7 +1,12 @@
 {
  "char": "韢",
  "pinyin": "suì",
- "bus": [],
+ "bus": [
+  {
+   "num": 450,
+   "name": "叀"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "s「失收」取「收」：绳扎而收。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "叀"
 }

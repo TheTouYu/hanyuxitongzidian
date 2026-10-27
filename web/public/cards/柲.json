@@ -1,7 +1,12 @@
 {
  "char": "柲",
  "pinyin": "bì",
- "bus": [],
+ "bus": [
+  {
+   "num": 437,
+   "name": "八"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "b取剥：柄分而直。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "八"
 }

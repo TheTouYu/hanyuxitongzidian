@@ -1,7 +1,12 @@
 {
  "char": "𥒠",
  "pinyin": "huò",
- "bus": [],
+ "bus": [
+  {
+   "num": 427,
+   "name": "聿"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h「豁活」取「豁」：骨豁然而离。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "聿"
 }

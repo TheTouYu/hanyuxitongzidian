@@ -1,7 +1,12 @@
 {
  "char": "𩋧",
  "pinyin": "xié",
- "bus": [],
+ "bus": [
+  {
+   "num": 426,
+   "name": "虤"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "j取聚：皮聚为履。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "虤"
 }

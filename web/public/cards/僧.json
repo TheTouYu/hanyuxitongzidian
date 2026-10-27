@@ -1,7 +1,12 @@
 {
  "char": "僧",
  "pinyin": "sēng",
- "bus": [],
+ "bus": [
+  {
+   "num": 503,
+   "name": "曾"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "s「失收」取「收」：眾收而和。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "曾"
 }

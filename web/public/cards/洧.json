@@ -1,7 +1,12 @@
 {
  "char": "洧",
  "pinyin": "wěi",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "w「蒙末」取「末」：水末而流。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

@@ -1,7 +1,12 @@
 {
  "char": "杬",
  "pinyin": "wán",
- "bus": [],
+ "bus": [
+  {
+   "num": 454,
+   "name": "元"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "w取问：木大而问。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "元"
 }

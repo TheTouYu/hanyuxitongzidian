@@ -1,7 +1,12 @@
 {
  "char": "膳",
  "pinyin": "shàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 493,
+   "name": "善"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -36,5 +41,7 @@
  ],
  "aliases": [
   "饍"
- ]
+ ],
+ "level": 3,
+ "parent": "善"
 }

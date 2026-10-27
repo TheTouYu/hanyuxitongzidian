@@ -1,7 +1,12 @@
 {
  "char": "莡",
  "pinyin": "cuò",
- "bus": [],
+ "bus": [
+  {
+   "num": 407,
+   "name": "足"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "c「刺持」取「刺」：足刺草响。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "足"
 }

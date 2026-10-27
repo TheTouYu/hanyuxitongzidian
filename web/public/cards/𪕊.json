@@ -1,7 +1,12 @@
 {
  "char": "𪕊",
  "pinyin": "zī",
- "bus": [],
+ "bus": [
+  {
+   "num": 409,
+   "name": "止"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「凿总」取「总」：鼠聚而兆旱。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "止"
 }

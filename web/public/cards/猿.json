@@ -1,7 +1,12 @@
 {
  "char": "猿",
  "pinyin": "yuán",
- "bus": [],
+ "bus": [
+  {
+   "num": 478,
+   "name": "袁"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "aliases": [
   "猨",
   "蝯"
- ]
+ ],
+ "level": 3,
+ "parent": "袁"
 }

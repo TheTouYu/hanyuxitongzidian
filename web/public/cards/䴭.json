@@ -1,7 +1,12 @@
 {
  "char": "䴭",
  "pinyin": "cái",
- "bus": [],
+ "bus": [
+  {
+   "num": 400,
+   "name": "才"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "c「刺持」取「持」：麴持其性而发。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "才"
 }

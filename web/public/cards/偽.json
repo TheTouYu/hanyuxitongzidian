@@ -1,7 +1,12 @@
 {
  "char": "偽",
  "pinyin": "wěi",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -38,5 +43,7 @@
  "aliases": [
   "伪",
   "僞"
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

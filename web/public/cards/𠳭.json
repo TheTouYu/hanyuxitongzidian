@@ -1,7 +1,12 @@
 {
  "char": "𠳭",
  "pinyin": "kè",
- "bus": [],
+ "bus": [
+  {
+   "num": 421,
+   "name": "克"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "k「口控」取「控」：声控而絮。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "克"
 }

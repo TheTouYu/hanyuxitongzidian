@@ -1,7 +1,12 @@
 {
  "char": "蓊",
  "pinyin": "wěng",
- "bus": [],
+ "bus": [
+  {
+   "num": 496,
+   "name": "公"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "w?—零聲母。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "公"
 }

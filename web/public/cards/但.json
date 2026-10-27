@@ -1,7 +1,12 @@
 {
  "char": "但",
  "pinyin": "dàn",
- "bus": [],
+ "bus": [
+  {
+   "num": 494,
+   "name": "旦"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "d取囤：身囤而露。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "旦"
 }

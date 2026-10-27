@@ -1,7 +1,12 @@
 {
  "char": "𧰰",
  "pinyin": "yóu",
- "bus": [],
+ "bus": [
+  {
+   "num": 464,
+   "name": "尤"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "y取锐：豕突而锐。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "尤"
 }

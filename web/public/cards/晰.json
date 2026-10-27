@@ -1,7 +1,12 @@
 {
  "char": "晰",
  "pinyin": "xī",
- "bus": [],
+ "bus": [
+  {
+   "num": 390,
+   "name": "析"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -36,5 +41,7 @@
  ],
  "aliases": [
   "晳"
- ]
+ ],
+ "level": 3,
+ "parent": "析"
 }

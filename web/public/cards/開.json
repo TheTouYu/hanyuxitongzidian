@@ -1,7 +1,12 @@
 {
  "char": "開",
  "pinyin": "kāi",
- "bus": [],
+ "bus": [
+  {
+   "num": 138,
+   "name": "幵"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "开",
  "aliases": [
   "开"
- ]
+ ],
+ "level": 3,
+ "parent": "幵"
 }

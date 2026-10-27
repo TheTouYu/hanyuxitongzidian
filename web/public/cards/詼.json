@@ -1,7 +1,12 @@
 {
  "char": "詼",
  "pinyin": "huī",
- "bus": [],
+ "bus": [
+  {
+   "num": 463,
+   "name": "又"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "诙",
  "aliases": [
   "诙"
- ]
+ ],
+ "level": 3,
+ "parent": "又"
 }

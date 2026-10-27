@@ -1,7 +1,12 @@
 {
  "char": "鷥",
  "pinyin": "sī",
- "bus": [],
+ "bus": [
+  {
+   "num": 383,
+   "name": "糸"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "鸶",
  "aliases": [
   "鸶"
- ]
+ ],
+ "level": 3,
+ "parent": "糸"
 }

@@ -1,7 +1,12 @@
 {
  "char": "煂",
  "pinyin": "hè",
- "bus": [],
+ "bus": [
+  {
+   "num": 420,
+   "name": "革"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h「豁活」取「豁」：火豁而燎。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "革"
 }

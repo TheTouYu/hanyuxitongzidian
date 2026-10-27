@@ -1,7 +1,12 @@
 {
  "char": "𪀟",
  "pinyin": "huí",
- "bus": [],
+ "bus": [
+  {
+   "num": 451,
+   "name": "回"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "h取活：鸟彩而活。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "回"
 }

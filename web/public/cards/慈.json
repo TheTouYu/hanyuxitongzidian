@@ -1,7 +1,12 @@
 {
  "char": "慈",
  "pinyin": "cí",
- "bus": [],
+ "bus": [
+  {
+   "num": 387,
+   "name": "𢆶"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "c「刺持」取「持」：心持而愛。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "𢆶"
 }

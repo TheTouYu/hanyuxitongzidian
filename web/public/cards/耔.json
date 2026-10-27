@@ -1,7 +1,12 @@
 {
  "char": "耔",
  "pinyin": "zǐ",
- "bus": [],
+ "bus": [
+  {
+   "num": 388,
+   "name": "子"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -33,5 +38,7 @@
    "text": "z「鑿總」取「總」：土總而苗固。",
    "cites": []
   }
- ]
+ ],
+ "level": 3,
+ "parent": "子"
 }

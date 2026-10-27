@@ -1,7 +1,12 @@
 {
  "char": "玅",
  "pinyin": "miào",
- "bus": [],
+ "bus": [
+  {
+   "num": 582,
+   "name": "小"
+  }
+ ],
  "sections": [
   {
    "key": "bengen",
@@ -37,5 +42,7 @@
  "simp": "妙",
  "aliases": [
   "妙"
- ]
+ ],
+ "level": 3,
+ "parent": "小"
 }
