@@ -1,0 +1,39 @@
+{
+ "char": "㲍z",
+ "head": "㲍z",
+ "pinyin": "hī",
+ "level": 3,
+ "parent": "支",
+ "bus": [
+  {
+   "num": 13,
+   "name": "支"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "㲍zhī《集韻》：“《博雅》：‘㲔㲍，罽也’。”《廣韻》：“㲔㲍者，輕毛皃。”《正字通》：“俗翅字。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h：取绪论拟态义一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ]
+}

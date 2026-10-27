@@ -1,0 +1,39 @@
+{
+ "char": "吱z",
+ "head": "吱z",
+ "pinyin": "hī",
+ "level": 3,
+ "parent": "支",
+ "bus": [
+  {
+   "num": 13,
+   "name": "支"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "吱zhī《集韻》：“吱吱，聲也。”qì，《廣韻》：“行喘息皃。”zī，象聲詞。多形容小動物的叫聲。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h：取绪论拟态义一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ]
+}
