@@ -1,0 +1,40 @@
+{
+ "char": "𪒴",
+ "head": "𪒴",
+ "pinyin": "tái",
+ "level": 3,
+ "parent": "臺",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《玉篇》「黑也」；《廣韻》「𪑚𒒴，大黑之皃」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「突」：黑而突現（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

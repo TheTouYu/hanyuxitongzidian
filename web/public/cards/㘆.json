@@ -1,0 +1,40 @@
+{
+ "char": "㘆",
+ "head": "㘆",
+ "pinyin": "tǎi",
+ "level": 3,
+ "parent": "臺",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《玉篇》「㘆𠷂，言不正」；《集韻》「言舛也」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「突」：言不正而突（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
