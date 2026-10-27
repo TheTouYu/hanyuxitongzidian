@@ -1,0 +1,37 @@
+{
+ "char": "皟",
+ "pinyin": "zé",
+ "level": 3,
+ "parent": "責",
+ "bus": [
+  {
+   "num": 18,
+   "name": "朿"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》「淨也」；《字彙》「深白也」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z取「凿」：色白如刺（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

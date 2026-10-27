@@ -1,0 +1,37 @@
+{
+ "char": "襀",
+ "pinyin": "jì",
+ "level": 3,
+ "parent": "責",
+ "bus": [
+  {
+   "num": 18,
+   "name": "朿"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》「襞襀，衣間踧也」；衣裙皺褶",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j取「聚」：衣褶聚疊（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

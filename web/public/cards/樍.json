@@ -1,0 +1,37 @@
+{
+ "char": "樍",
+ "pinyin": "zé",
+ "level": 3,
+ "parent": "責",
+ "bus": [
+  {
+   "num": 18,
+   "name": "朿"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《廣韻》「檉木別名」；檉柳",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z取「凿」：檉枝細如刺（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

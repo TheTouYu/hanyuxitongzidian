@@ -1,0 +1,37 @@
+{
+ "char": "磧",
+ "pinyin": "qì",
+ "level": 3,
+ "parent": "責",
+ "bus": [
+  {
+   "num": 18,
+   "name": "朿"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》「水陼有石者。从石責聲。七跡切」；沙石積成的淺灘",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "q「亲缺」取「缺」：沙石缺處成灘（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

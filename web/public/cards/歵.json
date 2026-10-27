@@ -1,0 +1,41 @@
+{
+ "char": "歵",
+ "pinyin": "zé",
+ "level": 3,
+ "parent": "責",
+ "bus": [
+  {
+   "num": 18,
+   "name": "朿"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《正字通》「㴱也、隠也、正也、好也。亦作賾」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z取「凿」：隱正如刺（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "head": "歵（賾）",
+ "aliases": [
+  "賾"
+ ]
+}
