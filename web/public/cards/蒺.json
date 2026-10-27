@@ -1,0 +1,40 @@
+{
+ "char": "蒺",
+ "head": "蒺",
+ "pinyin": "jí",
+ "level": 3,
+ "parent": "智",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《本草》：『蒺，疾也。其刺傷人甚疾而利也。』蒺藜。有刺如箭。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：蒺藜聚刺成實（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}

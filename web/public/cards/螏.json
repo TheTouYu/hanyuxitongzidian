@@ -1,0 +1,40 @@
+{
+ "char": "螏",
+ "head": "螏",
+ "pinyin": "jí",
+ "level": 3,
+ "parent": "智",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》：『昨悉切，音疾。螏䖿，蟲名。』《爾雅·釋蟲》：『蒺藜，蝍蛆。』郭璞注：『似蝗而大腹長角，能食蛇腦。』",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：蜈蚣聚足而疾行（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}
