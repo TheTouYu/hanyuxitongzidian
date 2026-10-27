@@ -1,0 +1,37 @@
+{
+ "char": "齍",
+ "pinyin": "zī",
+ "level": 3,
+ "parent": "齊",
+ "bus": [
+  {
+   "num": 19,
+   "name": "齊"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》「黍稷在器以祀者。从皿齊聲。即夷切」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「总」：黍稷總聚器中以祀（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

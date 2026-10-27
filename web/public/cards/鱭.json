@@ -1,0 +1,41 @@
+{
+ "char": "鱭",
+ "pinyin": "jì",
+ "level": 3,
+ "parent": "齊",
+ "bus": [
+  {
+   "num": 19,
+   "name": "齊"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》「鮆，《說文》：㱃而不食，刀魚也。或从齊」；刀魚，長江四鮮之一",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：刀魚聚游（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "head": "鱭（鮆）",
+ "aliases": [
+  "鮆"
+ ]
+}

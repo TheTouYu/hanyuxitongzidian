@@ -1,0 +1,37 @@
+{
+ "char": "隮",
+ "pinyin": "jì",
+ "level": 3,
+ "parent": "齊",
+ "bus": [
+  {
+   "num": 19,
+   "name": "齊"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《玉篇》「登也」「氣也，升也」；《字彙》「墜也」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：氣聚而升（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
