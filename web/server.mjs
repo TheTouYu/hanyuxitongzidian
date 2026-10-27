@@ -48,7 +48,7 @@ function renderCard(ch){
         for (const r of (g.rows||[])) h+='<tr>'+r.map(x=>'<td>'+ext(x)+'</td>').join('')+'</tr>';
         h+='</table>';
       }
-    } else if (s.text) { h+='<p>'+ext(s.text)+((s.gimgs||[]).map(f=>'<img class="cim" src="/glyphs/'+f+'">').join(''))+'</p>'; }
+    } else if (s.text) { let tx=String(s.text).replace(/\{\{([^}]+)\}\}/g,(m,f)=>'\u0001'+((s.gdir||'')+'/'+f)+'\u0001'); h+='<p>'+ext(tx).replace(/\u0001([^\u0001]+)\u0001/g,(m,f)=>'<img class="cim" src="/glyphs/'+f+'">')+'</p>'; }
   }
   return h;
 }
