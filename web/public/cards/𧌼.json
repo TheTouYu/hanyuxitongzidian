@@ -1,0 +1,42 @@
+{
+ "char": "𧌼",
+ "head": "𧌼（蛭）",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "到",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "aliases": [
+  "蛭"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《字彙補》「本蛭字之誤」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：蛭之誤字，吸盤鑿入（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
