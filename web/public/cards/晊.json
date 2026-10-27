@@ -1,0 +1,40 @@
+{
+ "char": "晊",
+ "head": "晊",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "至",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "晊zhì《爾雅·釋詁》：“大也。”《集韻》：“明也。”太陽出來之意。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：日出而大明，鑿然可見（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}

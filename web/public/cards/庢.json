@@ -1,0 +1,40 @@
+{
+ "char": "庢",
+ "head": "庢",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "至",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "庢zhì《說文》：“礙止也。从广至聲。陟栗切。”阻礙遏止。《字彙補》：“山曲曰庢。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：礙止如鑿定（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}

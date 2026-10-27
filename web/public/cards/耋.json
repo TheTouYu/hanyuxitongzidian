@@ -1,38 +1,40 @@
 {
  "char": "耋",
+ "head": "耋",
  "pinyin": "dié",
+ "level": 3,
+ "parent": "至",
  "bus": [
   {
-   "num": 544,
-   "name": "老"
+   "num": 16,
+   "name": "矢"
   }
  ],
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤动」：老至而囤。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷九十秋",
-     "label": "卷九十秋"
-    }
-   ],
-   "cites": []
-  },
-  {
    "key": "shiyi",
    "label": "释义",
-   "text": "【第544部「老部」】老＝甲骨文象人長髮拄杖之形，七十曰老（《說文》「考也，七十曰老」）；轉義年長、衰暮、久舊；音源借音（老、考同源互通）。",
+   "text": "耋dié《說文》：“年八十曰耊。从老省，从至。徒結切。”年八十。即壽終之期。",
    "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「囤」：年八十而精氣囤聚將終（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
   }
  ],
- "level": 3,
- "parent": "老"
+ "aliases": []
 }
