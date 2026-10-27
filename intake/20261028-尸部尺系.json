@@ -1,0 +1,111 @@
+{
+ "schema_version": 1,
+ "intent": "尸部尺系20261027-210220",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "shi-01",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "尺（第17部尸部）",
+   "statement": "尺（chǐ）：從尸足部标记，指膝下至踝之尺骨；引申量尺。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "shi-02",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "蚇（第17部尸部）",
+   "statement": "蚇（chǐ）：尺蠖，行动一屈一伸如量尺。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "shi-03",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "伬（第17部尸部）",
+   "statement": "伬（chǐ）：工尺谱记音符号。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "shi-04",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "訳（第17部尸部）",
+   "statement": "訳（yì）：同「譯」。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "shi-05",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧺫（第17部尸部）",
+   "statement": "𧺫（qǐ）：同「起」。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "shi-06",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "釈（第17部尸部）",
+   "statement": "釈（shì）：同「釋」。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "shi-07",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "呎（第17部尸部）",
+   "statement": "呎（chǐ）：英尺旧称。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "shi-08",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "屍（第17部尸部）",
+   "statement": "屍（shī）：《說文》「終主。从尸从死」，屍體。",
+   "boundary": "源自《系統漢語》第17部「尸部」（卷三 矢）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
