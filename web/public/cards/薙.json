@@ -1,0 +1,40 @@
+{
+ "char": "薙",
+ "head": "薙",
+ "pinyin": "tì",
+ "level": 3,
+ "parent": "矢",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "薙tì《說文》：“除艸也。《明堂月令》曰：‘季夏燒薙。’从艸雉聲。他計切。”zhì，《廣韻》：“辛薙，辛夷別名。”又名木筆。其花苞如箭鏃。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「突」：除草如箭之突（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}

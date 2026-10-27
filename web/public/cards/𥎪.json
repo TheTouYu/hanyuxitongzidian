@@ -1,0 +1,40 @@
+{
+ "char": "𥎪",
+ "head": "𥎪",
+ "pinyin": "shěn",
+ "level": 3,
+ "parent": "矢",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥎪（矤矧訠）shěn《集韻》：“矤，矢忍切。《說文》：‘況也。詞也。从矢取詞之所之如矢也。’或作矧、𥎪、訠。”況且。長。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "sh「失收」取「失」：詞之所之如矢（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}

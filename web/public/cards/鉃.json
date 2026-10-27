@@ -1,0 +1,40 @@
+{
+ "char": "鉃",
+ "head": "鉃",
+ "pinyin": "shì",
+ "level": 3,
+ "parent": "矢",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "鉃（鏃）shì《玉篇》：“箭頭。”zú，《集韻》：“鏃，《說文》：‘利也。’一曰矢末。或省。亦作鉃。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "sh「失收」取「失」：箭鏃一發即失，鋒利收於一點（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}

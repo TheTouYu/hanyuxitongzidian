@@ -1,0 +1,40 @@
+{
+ "char": "聅",
+ "head": "聅",
+ "pinyin": "chè",
+ "level": 3,
+ "parent": "矢",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "聅chè《說文》：“軍法以矢貫耳也。从耳从矢。《司馬法》曰：‘小罪聅，中罪刖，大罪剄。’恥列切。”依照軍法，用箭貫穿耳朵。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「刺」：以箭貫耳，刺而入（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}
