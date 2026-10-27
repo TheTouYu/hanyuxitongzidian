@@ -10,7 +10,7 @@ def _alist(c,d):
         v=d.get(k) or ""
         if v and v!=c: s.add(v)
     for v in (d.get("aliases") or []): s.add(v)
-    return sorted(x for x in s if x)
+    return sorted(x for x in s if x and (x==c or x not in _OWN))
 for f in glob.glob(C+r"\*.json"):
     b=os.path.basename(f)
     if b in ("index.json","variants.json"): continue
