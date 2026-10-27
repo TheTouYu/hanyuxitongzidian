@@ -13,6 +13,46 @@ import { Shop, TIERS, TRIAL_LIMIT, DAILY_CAP, readCookie } from './member.mjs';
 
 const WEB = fileURLToPath(new URL('.', import.meta.url));
 const ROOT = normalize(join(WEB, '..'));
+
+// ---- server-side card page (no client JS needed) ----
+const CARDDIR = join(WEB, 'public', 'cards');
+function escH(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function ext(s){
+  let out='';
+  for (const ch of String(s==null?'':s)){
+    const cp=ch.codePointAt(0);
+    if (cp>=0x20000 && cp<=0x2FFFF){
+      const name=cp.toString(16)+'.png';
+      if (existsSync(join(ROOT,'web','public','glyphs','chars',name))) { out+='<img class="cim" src="/glyphs/chars/'+name+'">'; continue; }
+    }
+    out+=escH(ch);
+  }
+  return out;
+}
+function renderCard(ch){
+  const fp=join(CARDDIR, ch+'.json');
+  if (!existsSync(fp)) return null;
+  const d=JSON.parse(readFileSync(fp,'utf8'));
+  let h='<!doctype html><meta charset="utf-8"><title>'+escH(d.head||d.char)+'</title>';
+  h+='<style>body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cim{height:1.12em;vertical-align:-0.2em}small{color:#888;font-weight:400}.back{display:inline-block;margin-bottom:10px;color:#06c}</style>';
+  h+='<a class="back" href="/test.html">← 返回检索</a><h2>'+ext(d.head||d.char)+' <small>'+escH(d.pinyin||'')+'</small></h2>';
+  for (const s of (d.sections||[])){
+    if (s.label==='所属卷') continue;
+    h+='<h3>'+escH(s.label||s.key)+'</h3>';
+    if (s.groups && s.groups.length){
+      for (const g of s.groups){
+        if (g.title) h+='<p><b>'+ext(g.title)+'</b></p>';
+        if (g.note) h+='<p style="color:#666">'+ext(g.note)+'</p>';
+        const head=(String(g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||['字','读音','类属','取义落点']);
+        h+='<table><tr>'+head.map(t=>'<th>'+escH(t)+'</th>').join('')+'</tr>';
+        for (const r of (g.rows||[])) h+='<tr>'+r.map(x=>'<td>'+ext(x)+'</td>').join('')+'</tr>';
+        h+='</table>';
+      }
+    } else if (s.text) h+='<p>'+ext(s.text)+'</p>';
+  }
+  return h;
+}
+
 const PUBLIC = join(WEB, 'public');
 const PYEXE = join(ROOT, '.runtime', 'python', 'python.exe');
 const BRIDGE = join(WEB, 'pkc-bridge.py');
@@ -1386,6 +1426,12 @@ const server = createServer(async (req, res) => {
   const ip = (req.socket.remoteAddress || '0.0.0.0').replace('::ffff:', '');
   const url = new URL(req.url || '/', `http://${HOST}:${PORT}`);
   const path = url.pathname;
+  if (path.startsWith('/card/')) {
+    const ch = decodeURIComponent(path.slice(6)).replace(/\.html$/, '');
+    const html = renderCard(ch);
+    res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' });
+    return res.end(html || '<!doctype html><meta charset="utf-8"><p>没有这个字。</p>');
+  }
 
   try {
     if (path === '/api/health') {
