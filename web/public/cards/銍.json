@@ -1,0 +1,40 @@
+{
+ "char": "銍",
+ "head": "銍",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "至",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "銍zhì《說文》：“獲禾短鎌也。从金至聲。陟栗切。”《小爾雅》：“禾穗謂之穎，截穎謂之銍。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：短鎌截穎如鑿（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}

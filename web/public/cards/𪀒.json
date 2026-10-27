@@ -1,0 +1,40 @@
+{
+ "char": "𪀒",
+ "head": "𪀒",
+ "pinyin": "dié",
+ "level": 3,
+ "parent": "至",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𪀒（䳀𨾤）dié《集韻》：“䳀，鳥名。《說文》：‘鋪豉也。’或作𪀒。亦从隹。”布穀鳥。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「囤」：布穀呼而囤聚（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}
