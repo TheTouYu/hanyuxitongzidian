@@ -60,7 +60,7 @@ main{overflow:auto;padding:20px 26px}
 .ch,.card,.famln,.gscroll figcaption{font-family:"Microsoft YaHei","SimSun-ExtB","Segoe UI Symbol",sans-serif}
 @font-face{font-family:'SimSunExtB';src:url('fonts/SimSunExtB.ttf') format('truetype');font-display:swap}
 .card,.ch,.famln,.ct td,.ct th,.item b{font-family:'Microsoft YaHei','SimSunExtB','SimSun-ExtB','Segoe UI Symbol',sans-serif}
-</style>
+.gin{height:1.6em;vertical-align:-0.4em;margin:0 3px;border:1px solid #eee}</style>
 </head>
 <body>
 <script>
@@ -128,7 +128,7 @@ function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':
 function esc2(s){return esc(String(s==null?'':s)).replace(/[\u{20000}-\u{2FFFF}]/gu,c=>'@@IMG@@'+c.codePointAt(0).toString(16)+'@@').replace(/@@IMG@@([0-9a-f]+)@@/g,(m,h)=>'<img class="cim" src="glyphs/chars/'+h+'.png">');}
 const GGRP=s=>{if(!s.groups||!s.groups.length)return '';return s.groups.map(g=>`<div class="grp">${g.title?'<h4>'+esc(g.title)+'</h4>':''}<p class="gnote">${esc(g.note||'')}</p><table class="ct"><thead><tr>${(((g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||((g.rows&&g.rows[0]&&String(g.rows[0][0]).slice(-1)==='部')?['部目','字根','中心义','字族']:['字','读音','类属','取义落点']))).map(t=>'<th>'+esc(t)+'</th>').join('')}</tr></thead><tbody>${g.rows.map((r,i)=>`<tr><td class="${g.header?'':'zc'}">${(g.links&&g.links[i])?('<a href="javascript:void(0)" onclick="goCard(\''+g.links[i]+'\')">'+esc2(r[0])+'</a>'):esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');};
 const TTBL=s=>{if(!s.rows||s.rows.length<3)return '';const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;};
-const secHTML=(s,ch2)=>{const g2=(GLYPH[ch2]&&(GLYPH[ch2].files||[]))||[];const st=g2.length?`<div class="gscroll">${g2.map((f,i)=>`<figure><img loading="lazy" src="${encodeURI('glyphs/'+ch2+'/'+(String(f).startsWith(ch2+'/')?String(f).slice(ch2.length+1):f))}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';const zx=(s.key==='zixing'||/字形|古文字/.test(s.label||''))?st:'';return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${GGRP(s)}${TTBL(s)}${(s.groups&&s.groups.length)?'':`${s.text?'<p>'+esc(s.text)+'</p>':''}`}${zx}${LKR(s)}</div>`;};
+const secHTML=(s,ch2)=>{const g2=(GLYPH[ch2]&&(GLYPH[ch2].files||[]))||[];const st=g2.length?`<div class="gscroll">${g2.map((f,i)=>`<figure><img loading="lazy" src="${encodeURI('glyphs/'+ch2+'/'+(String(f).startsWith(ch2+'/')?String(f).slice(ch2.length+1):f))}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';const zx=(s.key==='zixing'||/字形|古文字/.test(s.label||''))?st:'';return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${GGRP(s)}${TTBL(s)}${(s.groups&&s.groups.length)?'':`${s.text?'<p>'+esc(s.text)+'</p>':''}`}${zx}${(s.gimgs||[]).map(f=>`<img class="gin" src="glyphs/${f}">`).join('')}${LKR(s)}</div>`;};
 let VARIANT_MAP=null;
 async function variantsFor(ch){
   if(!VARIANT_MAP){

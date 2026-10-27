@@ -48,7 +48,7 @@ function renderCard(ch){
         for (const r of (g.rows||[])) h+='<tr>'+r.map(x=>'<td>'+ext(x)+'</td>').join('')+'</tr>';
         h+='</table>';
       }
-    } else if (s.text) h+='<p>'+ext(s.text)+'</p>';
+    } else if (s.text) { h+='<p>'+ext(s.text)+((s.gimgs||[]).map(f=>'<img class="cim" src="/glyphs/'+f+'">').join(''))+'</p>'; }
   }
   return h;
 }
