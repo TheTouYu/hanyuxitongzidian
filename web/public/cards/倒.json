@@ -1,0 +1,40 @@
+{
+ "char": "倒",
+ "head": "倒",
+ "pinyin": "dǎo/dào",
+ "level": 3,
+ "parent": "到",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "倒dǎo/dào《原文》「《新附》「仆也。从人到聲。當老切。」dào，《集韻》「顛倒也」」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「囤」：仆倒而囤地（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

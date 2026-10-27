@@ -1,0 +1,40 @@
+{
+ "char": "菿",
+ "head": "菿",
+ "pinyin": "dào/dǎo",
+ "level": 3,
+ "parent": "到",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "菿dào/dǎo《原文》「《說文》「艸木倒。从艸到聲。都盜切」」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「囤」：艸木倒伏囤地（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
