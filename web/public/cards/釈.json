@@ -1,0 +1,33 @@
+{
+ "char": "釈",
+ "pinyin": "shì",
+ "level": 3,
+ "parent": "尺",
+ "rootLevel": 3,
+ "bus": [
+  {
+   "num": 17,
+   "name": "尸"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "釈shì：《漢典》「同『釋』」，尺聲記音。同「釋」。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「持」：尺量分寸，持而度之（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "卷三 矢（第17部 尸）",
+   "cites": []
+  }
+ ]
+}
