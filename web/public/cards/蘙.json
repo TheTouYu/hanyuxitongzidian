@@ -1,0 +1,40 @@
+{
+ "char": "蘙",
+ "head": "蘙",
+ "pinyin": "yì",
+ "level": 3,
+ "parent": "医",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "蘙yì《廣韻》：“蘙薈。”《集韻》：“艸名。一曰艸茂皃。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y 為零聲母一系，緒論七組未列，不系（照實）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "aliases": []
+}
