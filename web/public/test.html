@@ -58,6 +58,8 @@ main{overflow:auto;padding:20px 26px}
 
 .ct td:first-child,.ct th:first-child{white-space:nowrap;width:1%}
 .ch,.card,.famln,.gscroll figcaption{font-family:"Microsoft YaHei","SimSun-ExtB","Segoe UI Symbol",sans-serif}
+@font-face{font-family:'SimSunExtB';src:url('fonts/SimSunExtB.ttf') format('truetype');font-display:swap}
+.card,.ch,.famln,.ct td,.ct th,.item b{font-family:'Microsoft YaHei','SimSunExtB','SimSun-ExtB','Segoe UI Symbol',sans-serif}
 </style>
 </head>
 <body>
@@ -194,36 +196,5 @@ $('#q').addEventListener('keydown',async e=>{
 });
 
 </script>
-
-<style>
-img.cim{height:1.02em;vertical-align:-0.12em;margin:0 .5px}
-</style>
-<script>
-(function(){
- var M=null;
- fetch('glyphs/chars/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{M=d;fixAll(document.body);}).catch(()=>{});
- function isX(c){var p=c.codePointAt(0);return p>=0x20000&&p<=0x2FFFF;}
- function fixAll(root){
-   if(!M) return;
-   var w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,null);
-   var nodes=[],n; while(n=w.nextNode()) if(/[\u{20000}-\u{2FFFF}]/u.test(n.nodeValue)) nodes.push(n);
-   nodes.forEach(function(t){
-     var s=t.nodeValue, frag=document.createDocumentFragment(), buf='';
-     for(var ch of s){
-       if(isX(ch)&&M[ch]){ if(buf){frag.appendChild(document.createTextNode(buf));buf='';}
-         var im=document.createElement('img'); im.className='cim'; im.src='glyphs/chars/'+M[ch]; im.alt=ch; frag.appendChild(im);
-       } else buf+=ch;
-     }
-     if(buf) frag.appendChild(document.createTextNode(buf));
-     if(t.parentNode) t.parentNode.replaceChild(frag,t);
-   });
- }
- new MutationObserver(function(muts){
-   if(!M) return;
-   var t=0; muts.forEach(function(m){m.addedNodes&&m.addedNodes.forEach(function(nd){ if(nd.nodeType===1||nd.nodeType===3) fixAll(nd.nodeType===1?nd:nd.parentNode||document.body); });});
- }).observe(document.body,{childList:true,subtree:true});
-})();
-</script>
-
 </body>
 </html>
