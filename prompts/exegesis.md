@@ -179,3 +179,51 @@
 3. **服务**：`node web\server.mjs`（端口 8091，受管后台作业启动；受限沙箱直起会 `spawn EPERM`）。页面 `http://127.0.0.1:8091/test.html`，静态卡 `/cards/html/<字>.html`。
 4. 页面改动必须抽 `<script>` 跑 `node --check`（rc=0）再提交；`test.html` 与 `index.html` 两套代码须同步改，或直接以一份覆盖另一份。
 5. 缓存：`/cards/*.json` 与索引请求带 `?v=Date.now()`；`.html` 用 `no-store`。
+
+---
+
+## 十六、知识入库（PKC）与授权
+
+### 16.1 唯一正路
+`pkc knowledge-plan`：起稿 `intake/xxx.json` → `capture --preview-only`（预览）→ `capture`（定稿，出 `bundle_id` 与 64 位 `content_hash`）→ `bundle-approve --apply --content-hash …` → `bundle-apply --apply --content-hash …` → `pkc rebuild` → `pkc validate` → 一条代表性 `knowledge-search` → 写 `memory/CURRENT.md` → 定向 `git add`（知识 md、CURRENT、proposals、bundle 三件）→ `git commit`。
+每字卡 Claim：`node=hanzi-yinyuan`、`topic_id=topic-zika-shizi`、`fact_classes=["evidence_scope"]`、`permission=public`、`duplicate_resolution=create_distinct_with_boundary`，`boundary` 写「源自《系統漢語》第N部「X部」（卷…）；字卡五步规程。」
+
+### 16.2 主人授权（2026-10-21「不要再去问，一律允许」）
+以下**不必再问，直接做**，完成报告里列 bundle／hash／条数／改动范围：
+1. 只追加、不改原文与边界的修订（判类句、横向对照、声母义、六书/字形补句，`clarify`）；
+2. 草稿→preview→capture→approve→apply 全流程；
+3. 基线变动后重算 hash（正文一字未改视为已批准，报告里同时注明旧/新 hash）、`rebase`、`abandon` 重做；
+4. `pkc rebuild`／`validate`／`knowledge-search` 验收、写 `CURRENT.md`、定向提交；
+5. 起停测试用网页服务、抽原稿图、生成 `intake/` 草稿与图、清理自建临时文件。
+
+**仍须先说明、不得擅自动手的三类**：删除知识或主题；改动既有正文与适用边界；调整主题结构（`move-topic`、大范围 `revise-claim` 改文）。
+
+### 16.3 已知坑（照此处理）
+- `intent` 即计划身份：同一 `intent` 重跑报 `PLAN_ABANDONED`，重试换一句新 intent。
+- 基线推进后批准报 `PLAN_STALE_BASELINE`：`knowledge-plan rebase <pln>` → `check --mode delta` → `finalize`（得新 bundle/hash）→ 再批准应用。
+- `PLAN_DELTA_REQUIRED`：finalize 前必须先 `check --mode delta`。
+- `CLAIM_TOPIC_MISSING` 但 `validate` 通过：多为旧快照与并行提交错位，直接 `abandon` 重做，不手改 registry。
+- `--semantic-declaration correct` 会触发 `PLAN_CLAIM_AUTHORITY_INSUFFICIENT`；汉字修订一律用 `clarify`。
+- 哈希 0.88 相似度闸：新条 title+statement+boundary 与已有条过于相似即判重；句尾要落到各自物件。
+
+---
+
+## 十七、禁止事项
+
+- 不用编辑器直接改 `knowledge/**/*.md` 与 `data/knowledge/*.json`；不手工改 `registry.json`。
+- 不读、不改 `.local/`（含 SQLite），那是可丢弃的检索投影。
+- 不跳过 `validate`；不用 `bundle-create --manifest`；不绕过批准用低层命令写库。
+- 不擅自动 `project-intelligence.json` 里的身份、权限与 Authority 语义。
+- 不编造：字书出处、篇名、字形来源、拟态义；推演标「（推）」，未见附搜索范围。
+- 不用自己组织的语言替代原文（「原文！原文！原文！」）。
+
+---
+
+## 十八、交付标准：出网页才算完
+
+每整理完一部（部头六栏＋该部谐声字独立卡）必须：
+1. 重建 `web/public/cards/index.json`，重生成该批静态页 `cards/html/<字>.html`；
+2. 确认服务可访问（`node web\server.mjs`，端口 8091，受管后台作业起；`/test.html` 与 `/cards/html/<字>.html` 均 200），把可测地址交主人；
+3. 跑 `tools/check-cards.py`、`tools/check-photos.py`，通过后定向提交。
+
+没出网页、没给地址，不算交付完。
