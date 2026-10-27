@@ -1,0 +1,42 @@
+{
+ "char": "𨍀",
+ "head": "𨍀（輊）",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "到",
+ "bus": [
+  {
+   "num": 16,
+   "name": "矢"
+  }
+ ],
+ "aliases": [
+  "輊"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𨍀（輊）zhì《五音篇海》：『與輊同』。車前重。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：車前重而鑿然下（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
