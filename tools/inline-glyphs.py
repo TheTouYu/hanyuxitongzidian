@@ -41,16 +41,15 @@ for doc in sorted(glob.glob(os.path.join(r"D:\字谱智能体","*.docx"))):
             if t.startswith(lab): fld=key; break
         if not cur or not fld: continue
         for b in imgs(p._p,parts):
-            if len(b)>=20000 or b[:4]==b"\x89PNG" and False: pass
-            if len(b)<1200: continue
+            if not (80 <= len(b) < 20000): continue
             d2=os.path.join(INL,cur,fld); os.makedirs(d2,exist_ok=True)
             k=len(os.listdir(d2))+1
             ext=".png" if b[:4]==b"\x89PNG" else ".jpg"
             open(os.path.join(d2,f"{k:02d}{ext}"),"wb").write(b)
             cnt[cur]=cnt.get(cur,0)+1
-print("inline 字头",len(cnt),"图",sum(cnt.values()))
-# 卡片回填 gimgs
-LAB=re.compile(r"(^|\n)\s*(?:【[^】]*】\s*)?(?:本義|本义|轉義|转义|辯證|辩证|音源|字族衍義|字族衍义)\s*[：:]\s*")
+print("inline 字头",len(cnt),"图",sum(cnt.values()),"帝",cnt.get("帝"))
+# 回填 gimgs（先清旧）
+SRC={"benyi":"benyi","bengen":"benyi","shiyi":"benyi","bianzheng":"bianzheng","zhuanyi":"zhuanyi","yinyuan":"yinyuan"}
 n=g=0
 for p in glob.glob(os.path.join(C,"*.json")):
     b=os.path.basename(p)
@@ -59,13 +58,13 @@ for p in glob.glob(os.path.join(C,"*.json")):
     if len(ch)>1: continue
     ch2=False
     for s in d.get("sections",[]):
-        if "text" in s and s["text"]:
-            t2=LAB.sub(lambda m:(m.group(1) or "")+"",s["text"])
-            if t2!=s["text"]: s["text"]=t2; ch2=True
-        dd=os.path.join(INL,ch,s.get("key",""))
-        if os.path.isdir(dd):
-            files=sorted(os.listdir(dd))
-            if files: s["gimgs"]=[f"inline/{ch}/{s['key']}/{f}" for f in files[:8]]; g+=1; ch2=True
+        s.pop("gimgs",None)
+        src=SRC.get(s.get("key",""))
+        if src:
+            dd=os.path.join(INL,ch,src)
+            if os.path.isdir(dd):
+                files=sorted(os.listdir(dd))
+                if files: s["gimgs"]=[f"inline/{ch}/{src}/{f}" for f in files[:12]]; g+=1; ch2=True
     if ch2:
         json.dump(d,io.open(p,"w",encoding="utf-8"),ensure_ascii=False,indent=1); n+=1
 print("回填卡",n,"插图点",g)
