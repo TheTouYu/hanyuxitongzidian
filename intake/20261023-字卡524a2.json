@@ -1,0 +1,150 @@
+{
+ "schema_version": 1,
+ "intent": "字卡524a2-2026-10-23",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "lyang2-002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "癢（字卡·yǎng）",
+   "statement": "癢（yǎng）从疒養聲：膚欲搔（《集韻》），取羊病瘙癢。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𧓲（字卡·yǎng）",
+   "statement": "𧓲（yǎng）从虫養聲：蛘，蟲名，搔蛘（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "懩（字卡·yǎng）",
+   "statement": "懩（yǎng）从心養聲：心所欲也，又心憂不定（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "攁（字卡·yǎng）",
+   "statement": "攁（yǎng）从手養聲：發動也（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "瀁（字卡·yàng）",
+   "statement": "瀁（yàng）从水養聲：瀁瀁無涯際，水溢蕩貌（《玉篇》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𩜒（字卡·nǎng）",
+   "statement": "𩜒（nǎng）从食養聲：近也、忽也，咫尺見也（《五音集韻》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "𥶑（字卡·qiǎng）",
+   "statement": "𥶑（qiǎng）从竹養聲：竹名（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "㔦（字卡·yǎng）",
+   "statement": "㔦（yǎng）从力養聲：勸也、勸勉（《玉篇》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䑆（字卡·yǎng）",
+   "statement": "䑆（yǎng）从肉養聲：䑆䑆，欲吐，取羊反芻（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "鱶（字卡·xiǎng）",
+   "statement": "鱶（xiǎng）从魚養聲：魚腊，剖開晾乾之魚（《集韻》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "lyang2-012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-zika-shizi",
+   "title": "䭥（字卡·yàng）",
+   "statement": "䭥（yàng）从食養聲：餌也、糕餅（《玉篇》）。",
+   "boundary": "源自《系統漢語》第524部「養部」（卷八十七 羊）；字卡五步规程。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}

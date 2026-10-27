@@ -1,0 +1,5216 @@
+{
+ "schema_version": 1,
+ "intent": "繁简对照预检170851",
+ "risk": "low",
+ "claims": [
+  {
+   "id": "fj-0001",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "万＝萬（繁简对照·第1组）",
+   "statement": "第1组：简体「万」，繁体作「萬」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary",
+   "topic_path": "knowledge/hanzi-yinyuan/03f-fanjian-duizhao.md",
+   "topic_title": "繁简对照",
+   "topic_summary": "《汉字简体繁体对照表》3,145 组简繁对应，供字卡别名与简繁互检。",
+   "topic_keywords": [
+    "繁简对照",
+    "简体",
+    "繁体",
+    "别名"
+   ]
+  },
+  {
+   "id": "fj-0002",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "与＝與（繁简对照·第2组）",
+   "statement": "第2组：简体「与」，繁体作「與」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0003",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丐＝匃（繁简对照·第3组）",
+   "statement": "第3组：简体「丐」，繁体作「匃」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0004",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丑＝醜（繁简对照·第4组）",
+   "statement": "第4组：简体「丑」，繁体作「醜」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0005",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "专＝專（繁简对照·第5组）",
+   "statement": "第5组：简体「专」，繁体作「專」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0006",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丘＝坵（繁简对照·第6组）",
+   "statement": "第6组：简体「丘」，繁体作「坵」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0007",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "业＝業（繁简对照·第7组）",
+   "statement": "第7组：简体「业」，繁体作「業」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0008",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丛＝樷（繁简对照·第8组）",
+   "statement": "第8组：简体「丛」，繁体作「樷」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0009",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "东＝東（繁简对照·第9组）",
+   "statement": "第9组：简体「东」，繁体作「東」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0010",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丝＝絲（繁简对照·第10组）",
+   "statement": "第10组：简体「丝」，繁体作「絲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0011",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丢＝丟（繁简对照·第11组）",
+   "statement": "第11组：简体「丢」，繁体作「丟」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0012",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "两＝兩（繁简对照·第12组）",
+   "statement": "第12组：简体「两」，繁体作「兩」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0013",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "严＝嚴（繁简对照·第13组）",
+   "statement": "第13组：简体「严」，繁体作「嚴」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0014",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丧＝喪（繁简对照·第14组）",
+   "statement": "第14组：简体「丧」，繁体作「喪」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0015",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "个＝個（繁简对照·第15组）",
+   "statement": "第15组：简体「个」，繁体作「個」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0016",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丫＝枒（繁简对照·第16组）",
+   "statement": "第16组：简体「丫」，繁体作「枒」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0017",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丰＝豐（繁简对照·第17组）",
+   "statement": "第17组：简体「丰」，繁体作「豐」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0018",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "临＝臨（繁简对照·第18组）",
+   "statement": "第18组：简体「临」，繁体作「臨」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0019",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "为＝為（繁简对照·第19组）",
+   "statement": "第19组：简体「为」，繁体作「為」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0020",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "丽＝麗（繁简对照·第20组）",
+   "statement": "第20组：简体「丽」，繁体作「麗」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0021",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "举＝舉（繁简对照·第21组）",
+   "statement": "第21组：简体「举」，繁体作「舉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0022",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乃＝廼（繁简对照·第22组）",
+   "statement": "第22组：简体「乃」，繁体作「廼」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0023",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "么＝麼（繁简对照·第23组）",
+   "statement": "第23组：简体「么」，繁体作「麼」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0024",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "义＝義（繁简对照·第24组）",
+   "statement": "第24组：简体「义」，繁体作「義」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0025",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乌＝烏（繁简对照·第25组）",
+   "statement": "第25组：简体「乌」，繁体作「烏」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0026",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乐＝樂（繁简对照·第26组）",
+   "statement": "第26组：简体「乐」，繁体作「樂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0027",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乔＝喬（繁简对照·第27组）",
+   "statement": "第27组：简体「乔」，繁体作「喬」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0028",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乘＝乗（繁简对照·第28组）",
+   "statement": "第28组：简体「乘」，繁体作「乗」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0029",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "习＝習（繁简对照·第29组）",
+   "statement": "第29组：简体「习」，繁体作「習」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0030",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乡＝鄉（繁简对照·第30组）",
+   "statement": "第30组：简体「乡」，繁体作「鄉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0031",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "书＝書（繁简对照·第31组）",
+   "statement": "第31组：简体「书」，繁体作「書」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0032",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "买＝買（繁简对照·第32组）",
+   "statement": "第32组：简体「买」，繁体作「買」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0033",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乱＝亂（繁简对照·第33组）",
+   "statement": "第33组：简体「乱」，繁体作「亂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0034",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "乾＝亁（繁简对照·第34组）",
+   "statement": "第34组：简体「乾」，繁体作「亁」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0035",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "争＝爭（繁简对照·第35组）",
+   "statement": "第35组：简体「争」，繁体作「爭」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0036",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亏＝虧（繁简对照·第36组）",
+   "statement": "第36组：简体「亏」，繁体作「虧」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0037",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "云＝雲（繁简对照·第37组）",
+   "statement": "第37组：简体「云」，繁体作「雲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0038",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亘＝亙（繁简对照·第38组）",
+   "statement": "第38组：简体「亘」，繁体作「亙」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0039",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亚＝亞（繁简对照·第39组）",
+   "statement": "第39组：简体「亚」，繁体作「亞」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0040",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亡＝亾（繁简对照·第40组）",
+   "statement": "第40组：简体「亡」，繁体作「亾」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0041",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "产＝產（繁简对照·第41组）",
+   "statement": "第41组：简体「产」，繁体作「產」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0042",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亩＝畝（繁简对照·第42组）",
+   "statement": "第42组：简体「亩」，繁体作「畝」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0043",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "享＝亯（繁简对照·第43组）",
+   "statement": "第43组：简体「享」，繁体作「亯」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0044",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亲＝親（繁简对照·第44组）",
+   "statement": "第44组：简体「亲」，繁体作「親」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0045",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亵＝褻（繁简对照·第45组）",
+   "statement": "第45组：简体「亵」，繁体作「褻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0046",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "亿＝億（繁简对照·第46组）",
+   "statement": "第46组：简体「亿」，繁体作「億」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0047",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "仅＝僅（繁简对照·第47组）",
+   "statement": "第47组：简体「仅」，繁体作「僅」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0048",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "仆＝僕（繁简对照·第48组）",
+   "statement": "第48组：简体「仆」，繁体作「僕」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0049",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "从＝從（繁简对照·第49组）",
+   "statement": "第49组：简体「从」，繁体作「從」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0050",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "仑＝侖（繁简对照·第50组）",
+   "statement": "第50组：简体「仑」，繁体作「侖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0051",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "仓＝倉（繁简对照·第51组）",
+   "statement": "第51组：简体「仓」，繁体作「倉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0052",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "仙＝僊（繁简对照·第52组）",
+   "statement": "第52组：简体「仙」，繁体作「僊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0053",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "仪＝儀（繁简对照·第53组）",
+   "statement": "第53组：简体「仪」，繁体作「儀」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0054",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "们＝們（繁简对照·第54组）",
+   "statement": "第54组：简体「们」，繁体作「們」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0055",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "价＝價（繁简对照·第55组）",
+   "statement": "第55组：简体「价」，繁体作「價」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0056",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "仿＝徬（繁简对照·第56组）",
+   "statement": "第56组：简体「仿」，繁体作「徬」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0057",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "众＝眾（繁简对照·第57组）",
+   "statement": "第57组：简体「众」，繁体作「眾」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0058",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "优＝優（繁简对照·第58组）",
+   "statement": "第58组：简体「优」，繁体作「優」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0059",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "会＝會（繁简对照·第59组）",
+   "statement": "第59组：简体「会」，繁体作「會」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0060",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伛＝傴（繁简对照·第60组）",
+   "statement": "第60组：简体「伛」，繁体作「傴」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0061",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伞＝傘（繁简对照·第61组）",
+   "statement": "第61组：简体「伞」，繁体作「傘」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0062",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伟＝偉（繁简对照·第62组）",
+   "statement": "第62组：简体「伟」，繁体作「偉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0063",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "传＝傳（繁简对照·第63组）",
+   "statement": "第63组：简体「传」，繁体作「傳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0064",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伤＝傷（繁简对照·第64组）",
+   "statement": "第64组：简体「伤」，繁体作「傷」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0065",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伥＝倀（繁简对照·第65组）",
+   "statement": "第65组：简体「伥」，繁体作「倀」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0066",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伦＝倫（繁简对照·第66组）",
+   "statement": "第66组：简体「伦」，繁体作「倫」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0067",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伧＝傖（繁简对照·第67组）",
+   "statement": "第67组：简体「伧」，繁体作「傖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0068",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伪＝偽（繁简对照·第68组）",
+   "statement": "第68组：简体「伪」，繁体作「偽」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0069",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "伫＝佇（繁简对照·第69组）",
+   "statement": "第69组：简体「伫」，繁体作「佇」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0070",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "似＝佀（繁简对照·第70组）",
+   "statement": "第70组：简体「似」，繁体作「佀」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0071",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "佑＝祐（繁简对照·第71组）",
+   "statement": "第71组：简体「佑」，繁体作「祐」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0072",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "体＝躰（繁简对照·第72组）",
+   "statement": "第72组：简体「体」，繁体作「躰」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0073",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "余＝餘（繁简对照·第73组）",
+   "statement": "第73组：简体「余」，繁体作「餘」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0074",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "佛＝彿（繁简对照·第74组）",
+   "statement": "第74组：简体「佛」，繁体作「彿」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0075",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "你＝妳（繁简对照·第75组）",
+   "statement": "第75组：简体「你」，繁体作「妳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0076",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "佣＝傭（繁简对照·第76组）",
+   "statement": "第76组：简体「佣」，繁体作「傭」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0077",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "佥＝僉（繁简对照·第77组）",
+   "statement": "第77组：简体「佥」，繁体作「僉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0078",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "佩＝珮（繁简对照·第78组）",
+   "statement": "第78组：简体「佩」，繁体作「珮」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0079",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侃＝偘（繁简对照·第79组）",
+   "statement": "第79组：简体「侃」，繁体作「偘」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0080",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侄＝妷（繁简对照·第80组）",
+   "statement": "第80组：简体「侄」，繁体作「妷」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0081",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侠＝俠（繁简对照·第81组）",
+   "statement": "第81组：简体「侠」，繁体作「俠」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0082",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侣＝侶（繁简对照·第82组）",
+   "statement": "第82组：简体「侣」，繁体作「侶」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0083",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侥＝僥（繁简对照·第83组）",
+   "statement": "第83组：简体「侥」，繁体作「僥」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0084",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侦＝偵（繁简对照·第84组）",
+   "statement": "第84组：简体「侦」，繁体作「偵」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0085",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侧＝側（繁简对照·第85组）",
+   "statement": "第85组：简体「侧」，繁体作「側」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0086",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侨＝僑（繁简对照·第86组）",
+   "statement": "第86组：简体「侨」，繁体作「僑」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0087",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侩＝儈（繁简对照·第87组）",
+   "statement": "第87组：简体「侩」，繁体作「儈」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0088",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侪＝儕（繁简对照·第88组）",
+   "statement": "第88组：简体「侪」，繁体作「儕」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0089",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "侬＝儂（繁简对照·第89组）",
+   "statement": "第89组：简体「侬」，繁体作「儂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0090",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俊＝儁（繁简对照·第90组）",
+   "statement": "第90组：简体「俊」，繁体作「儁」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0091",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俟＝竢（繁简对照·第91组）",
+   "statement": "第91组：简体「俟」，繁体作「竢」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0092",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俣＝俁（繁简对照·第92组）",
+   "statement": "第92组：简体「俣」，繁体作「俁」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0093",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俦＝儔（繁简对照·第93组）",
+   "statement": "第93组：简体「俦」，繁体作「儔」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0094",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俨＝儼（繁简对照·第94组）",
+   "statement": "第94组：简体「俨」，繁体作「儼」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0095",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俩＝倆（繁简对照·第95组）",
+   "statement": "第95组：简体「俩」，繁体作「倆」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0096",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俪＝儷（繁简对照·第96组）",
+   "statement": "第96组：简体「俪」，繁体作「儷」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0097",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俭＝儉（繁简对照·第97组）",
+   "statement": "第97组：简体「俭」，繁体作「儉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0098",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "修＝脩（繁简对照·第98组）",
+   "statement": "第98组：简体「修」，繁体作「脩」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0099",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "俯＝俛（繁简对照·第99组）",
+   "statement": "第99组：简体「俯」，繁体作「俛」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0100",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "倏＝倐（繁简对照·第100组）",
+   "statement": "第100组：简体「倏」，繁体作「倐」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0101",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "倦＝勌（繁简对照·第101组）",
+   "statement": "第101组：简体「倦」，繁体作「勌」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0102",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "债＝債（繁简对照·第102组）",
+   "statement": "第102组：简体「债」，繁体作「債」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0103",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "倾＝傾（繁简对照·第103组）",
+   "statement": "第103组：简体「倾」，繁体作「傾」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0104",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "偬＝傯（繁简对照·第104组）",
+   "statement": "第104组：简体「偬」，繁体作「傯」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0105",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "偷＝偸（繁简对照·第105组）",
+   "statement": "第105组：简体「偷」，繁体作「偸」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0106",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "偻＝僂（繁简对照·第106组）",
+   "statement": "第106组：简体「偻」，繁体作「僂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0107",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "偾＝僨（繁简对照·第107组）",
+   "statement": "第107组：简体「偾」，繁体作「僨」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0108",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "偿＝償（繁简对照·第108组）",
+   "statement": "第108组：简体「偿」，繁体作「償」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0109",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "傥＝儻（繁简对照·第109组）",
+   "statement": "第109组：简体「傥」，繁体作「儻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0110",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "傧＝儐（繁简对照·第110组）",
+   "statement": "第110组：简体「傧」，繁体作「儐」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0111",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "储＝儲（繁简对照·第111组）",
+   "statement": "第111组：简体「储」，繁体作「儲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0112",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "傩＝儺（繁简对照·第112组）",
+   "statement": "第112组：简体「傩」，繁体作「儺」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0113",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "僵＝殭（繁简对照·第113组）",
+   "statement": "第113组：简体「僵」，繁体作「殭」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0114",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "儿＝兒（繁简对照·第114组）",
+   "statement": "第114组：简体「儿」，繁体作「兒」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0115",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "克＝剋（繁简对照·第115组）",
+   "statement": "第115组：简体「克」，繁体作「剋」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0116",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兑＝兌（繁简对照·第116组）",
+   "statement": "第116组：简体「兑」，繁体作「兌」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0117",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兔＝兎（繁简对照·第117组）",
+   "statement": "第117组：简体「兔」，繁体作「兎」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0118",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兖＝兗（繁简对照·第118组）",
+   "statement": "第118组：简体「兖」，繁体作「兗」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0119",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "党＝黨（繁简对照·第119组）",
+   "statement": "第119组：简体「党」，繁体作「黨」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0120",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兜＝兠（繁简对照·第120组）",
+   "statement": "第120组：简体「兜」，繁体作「兠」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0121",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兰＝蘭（繁简对照·第121组）",
+   "statement": "第121组：简体「兰」，繁体作「蘭」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0122",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "关＝関（繁简对照·第122组）",
+   "statement": "第122组：简体「关」，繁体作「関」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0123",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兴＝興（繁简对照·第123组）",
+   "statement": "第123组：简体「兴」，繁体作「興」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0124",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兹＝茲（繁简对照·第124组）",
+   "statement": "第124组：简体「兹」，繁体作「茲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0125",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "养＝養（繁简对照·第125组）",
+   "statement": "第125组：简体「养」，繁体作「養」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0126",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "兽＝獸（繁简对照·第126组）",
+   "statement": "第126组：简体「兽」，繁体作「獸」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0127",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冁＝囅（繁简对照·第127组）",
+   "statement": "第127组：简体「冁」，繁体作「囅」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0128",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "内＝內（繁简对照·第128组）",
+   "statement": "第128组：简体「内」，繁体作「內」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0129",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冈＝岡（繁简对照·第129组）",
+   "statement": "第129组：简体「冈」，繁体作「岡」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0130",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冉＝冄（繁简对照·第130组）",
+   "statement": "第130组：简体「冉」，繁体作「冄」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0131",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "册＝冊（繁简对照·第131组）",
+   "statement": "第131组：简体「册」，繁体作「冊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0132",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冒＝冐（繁简对照·第132组）",
+   "statement": "第132组：简体「冒」，繁体作「冐」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0133",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冗＝宂（繁简对照·第133组）",
+   "statement": "第133组：简体「冗」，繁体作「宂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0134",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "写＝寫（繁简对照·第134组）",
+   "statement": "第134组：简体「写」，繁体作「寫」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0135",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "军＝軍（繁简对照·第135组）",
+   "statement": "第135组：简体「军」，繁体作「軍」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0136",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "农＝農（繁简对照·第136组）",
+   "statement": "第136组：简体「农」，繁体作「農」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0137",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冢＝塚（繁简对照·第137组）",
+   "statement": "第137组：简体「冢」，繁体作「塚」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0138",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冬＝鼕（繁简对照·第138组）",
+   "statement": "第138组：简体「冬」，繁体作「鼕」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0139",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冯＝馮（繁简对照·第139组）",
+   "statement": "第139组：简体「冯」，繁体作「馮」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0140",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冰＝氷（繁简对照·第140组）",
+   "statement": "第140组：简体「冰」，繁体作「氷」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0141",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冱＝沍（繁简对照·第141组）",
+   "statement": "第141组：简体「冱」，繁体作「沍」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0142",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冲＝沖（繁简对照·第142组）",
+   "statement": "第142组：简体「冲」，繁体作「沖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0143",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "决＝決（繁简对照·第143组）",
+   "statement": "第143组：简体「决」，繁体作「決」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0144",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "况＝況（繁简对照·第144组）",
+   "statement": "第144组：简体「况」，繁体作「況」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0145",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "冻＝凍（繁简对照·第145组）",
+   "statement": "第145组：简体「冻」，繁体作「凍」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0146",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "净＝淨（繁简对照·第146组）",
+   "statement": "第146组：简体「净」，繁体作「淨」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0147",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凄＝悽（繁简对照·第147组）",
+   "statement": "第147组：简体「凄」，繁体作「悽」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0148",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "准＝準（繁简对照·第148组）",
+   "statement": "第148组：简体「准」，繁体作「準」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0149",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凉＝涼（繁简对照·第149组）",
+   "statement": "第149组：简体「凉」，繁体作「涼」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0150",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凌＝淩（繁简对照·第150组）",
+   "statement": "第150组：简体「凌」，繁体作「淩」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0151",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "减＝減（繁简对照·第151组）",
+   "statement": "第151组：简体「减」，繁体作「減」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0152",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凑＝湊（繁简对照·第152组）",
+   "statement": "第152组：简体「凑」，繁体作「湊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0153",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凛＝凜（繁简对照·第153组）",
+   "statement": "第153组：简体「凛」，繁体作「凜」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0154",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "几＝幾（繁简对照·第154组）",
+   "statement": "第154组：简体「几」，繁体作「幾」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0155",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凡＝凣（繁简对照·第155组）",
+   "statement": "第155组：简体「凡」，繁体作「凣」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0156",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凤＝鳳（繁简对照·第156组）",
+   "statement": "第156组：简体「凤」，繁体作「鳳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0157",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凫＝鳧（繁简对照·第157组）",
+   "statement": "第157组：简体「凫」，繁体作「鳧」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0158",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凭＝凴（繁简对照·第158组）",
+   "statement": "第158组：简体「凭」，繁体作「凴」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0159",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凯＝凱（繁简对照·第159组）",
+   "statement": "第159组：简体「凯」，繁体作「凱」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0160",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凳＝櫈（繁简对照·第160组）",
+   "statement": "第160组：简体「凳」，繁体作「櫈」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0161",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凶＝兇（繁简对照·第161组）",
+   "statement": "第161组：简体「凶」，繁体作「兇」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0162",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "出＝齣（繁简对照·第162组）",
+   "statement": "第162组：简体「出」，繁体作「齣」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0163",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "击＝擊（繁简对照·第163组）",
+   "statement": "第163组：简体「击」，繁体作「擊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0164",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凼＝氹（繁简对照·第164组）",
+   "statement": "第164组：简体「凼」，繁体作「氹」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0165",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "函＝圅（繁简对照·第165组）",
+   "statement": "第165组：简体「函」，繁体作「圅」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0166",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "凿＝鑿（繁简对照·第166组）",
+   "statement": "第166组：简体「凿」，繁体作「鑿」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0167",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刍＝芻（繁简对照·第167组）",
+   "statement": "第167组：简体「刍」，繁体作「芻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0168",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "划＝劃（繁简对照·第168组）",
+   "statement": "第168组：简体「划」，繁体作「劃」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0169",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刘＝劉（繁简对照·第169组）",
+   "statement": "第169组：简体「刘」，繁体作「劉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0170",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "则＝則（繁简对照·第170组）",
+   "statement": "第170组：简体「则」，繁体作「則」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0171",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刚＝剛（繁简对照·第171组）",
+   "statement": "第171组：简体「刚」，繁体作「剛」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0172",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "创＝創（繁简对照·第172组）",
+   "statement": "第172组：简体「创」，繁体作「創」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0173",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "删＝刪（繁简对照·第173组）",
+   "statement": "第173组：简体「删」，繁体作「刪」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0174",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刨＝鉋（繁简对照·第174组）",
+   "statement": "第174组：简体「刨」，繁体作「鉋」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0175",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "别＝別（繁简对照·第175组）",
+   "statement": "第175组：简体「别」，繁体作「別」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0176",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刭＝剄（繁简对照·第176组）",
+   "statement": "第176组：简体「刭」，繁体作「剄」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0177",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刮＝颳（繁简对照·第177组）",
+   "statement": "第177组：简体「刮」，繁体作「颳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0178",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "制＝製（繁简对照·第178组）",
+   "statement": "第178组：简体「制」，繁体作「製」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0179",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刽＝劊（繁简对照·第179组）",
+   "statement": "第179组：简体「刽」，繁体作「劊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0180",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "刿＝劌（繁简对照·第180组）",
+   "statement": "第180组：简体「刿」，繁体作「劌」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0181",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剀＝剴（繁简对照·第181组）",
+   "statement": "第181组：简体「剀」，繁体作「剴」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0182",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剂＝劑（繁简对照·第182组）",
+   "statement": "第182组：简体「剂」，繁体作「劑」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0183",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剃＝薙（繁简对照·第183组）",
+   "statement": "第183组：简体「剃」，繁体作「薙」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0184",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剐＝剮（繁简对照·第184组）",
+   "statement": "第184组：简体「剐」，繁体作「剮」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0185",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剑＝劍（繁简对照·第185组）",
+   "statement": "第185组：简体「剑」，繁体作「劍」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0186",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剥＝剝（繁简对照·第186组）",
+   "statement": "第186组：简体「剥」，繁体作「剝」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0187",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剧＝劇（繁简对照·第187组）",
+   "statement": "第187组：简体「剧」，繁体作「劇」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0188",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剩＝賸（繁简对照·第188组）",
+   "statement": "第188组：简体「剩」，繁体作「賸」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0189",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "剿＝勦（繁简对照·第189组）",
+   "statement": "第189组：简体「剿」，繁体作「勦」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0190",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "劝＝勸（繁简对照·第190组）",
+   "statement": "第190组：简体「劝」，繁体作「勸」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0191",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "办＝辦（繁简对照·第191组）",
+   "statement": "第191组：简体「办」，繁体作「辦」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0192",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "务＝務（繁简对照·第192组）",
+   "statement": "第192组：简体「务」，繁体作「務」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0193",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "劢＝勱（繁简对照·第193组）",
+   "statement": "第193组：简体「劢」，繁体作「勱」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0194",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "动＝動（繁简对照·第194组）",
+   "statement": "第194组：简体「动」，繁体作「動」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0195",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "劫＝刦（繁简对照·第195组）",
+   "statement": "第195组：简体「劫」，繁体作「刦」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0196",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "励＝勵（繁简对照·第196组）",
+   "statement": "第196组：简体「励」，繁体作「勵」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0197",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "劲＝勁（繁简对照·第197组）",
+   "statement": "第197组：简体「劲」，繁体作「勁」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0198",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "劳＝勞（繁简对照·第198组）",
+   "statement": "第198组：简体「劳」，繁体作「勞」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0199",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "势＝勢（繁简对照·第199组）",
+   "statement": "第199组：简体「势」，繁体作「勢」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0200",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "勋＝勛（繁简对照·第200组）",
+   "statement": "第200组：简体「勋」，繁体作「勛」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0201",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "勖＝勗（繁简对照·第201组）",
+   "statement": "第201组：简体「勖」，繁体作「勗」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0202",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "勤＝懃（繁简对照·第202组）",
+   "statement": "第202组：简体「勤」，繁体作「懃」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0203",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "匀＝勻（繁简对照·第203组）",
+   "statement": "第203组：简体「匀」，繁体作「勻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0204",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "匆＝怱（繁简对照·第204组）",
+   "statement": "第204组：简体「匆」，繁体作「怱」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0205",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "匝＝帀（繁简对照·第205组）",
+   "statement": "第205组：简体「匝」，繁体作「帀」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0206",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "匦＝匭（繁简对照·第206组）",
+   "statement": "第206组：简体「匦」，繁体作「匭」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0207",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "匮＝匱（繁简对照·第207组）",
+   "statement": "第207组：简体「匮」，繁体作「匱」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0208",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "区＝區（繁简对照·第208组）",
+   "statement": "第208组：简体「区」，繁体作「區」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0209",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "医＝毉（繁简对照·第209组）",
+   "statement": "第209组：简体「医」，繁体作「毉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0210",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "千＝韆（繁简对照·第210组）",
+   "statement": "第210组：简体「千」，繁体作「韆」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0211",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "升＝昇（繁简对照·第211组）",
+   "statement": "第211组：简体「升」，繁体作「昇」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0212",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "华＝華（繁简对照·第212组）",
+   "statement": "第212组：简体「华」，繁体作「華」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0213",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "协＝協（繁简对照·第213组）",
+   "statement": "第213组：简体「协」，繁体作「協」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0214",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "单＝單（繁简对照·第214组）",
+   "statement": "第214组：简体「单」，繁体作「單」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0215",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卖＝賣（繁简对照·第215组）",
+   "statement": "第215组：简体「卖」，繁体作「賣」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0216",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "博＝愽（繁简对照·第216组）",
+   "statement": "第216组：简体「博」，繁体作「愽」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0217",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卜＝蔔（繁简对照·第217组）",
+   "statement": "第217组：简体「卜」，繁体作「蔔」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0218",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "占＝佔（繁简对照·第218组）",
+   "statement": "第218组：简体「占」，繁体作「佔」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0219",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卢＝盧（繁简对照·第219组）",
+   "statement": "第219组：简体「卢」，繁体作「盧」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0220",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卤＝鹵（繁简对照·第220组）",
+   "statement": "第220组：简体「卤」，繁体作「鹵」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0221",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卧＝臥（繁简对照·第221组）",
+   "statement": "第221组：简体「卧」，繁体作「臥」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0222",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卫＝衛（繁简对照·第222组）",
+   "statement": "第222组：简体「卫」，繁体作「衛」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0223",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卮＝巵（繁简对照·第223组）",
+   "statement": "第223组：简体「卮」，繁体作「巵」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0224",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "却＝卻（繁简对照·第224组）",
+   "statement": "第224组：简体「却」，繁体作「卻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0225",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卷＝捲（繁简对照·第225组）",
+   "statement": "第225组：简体「卷」，繁体作「捲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0226",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "卺＝巹（繁简对照·第226组）",
+   "statement": "第226组：简体「卺」，繁体作「巹」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0227",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厂＝厰（繁简对照·第227组）",
+   "statement": "第227组：简体「厂」，繁体作「厰」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0228",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厄＝戹（繁简对照·第228组）",
+   "statement": "第228组：简体「厄」，繁体作「戹」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0229",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厅＝厛（繁简对照·第229组）",
+   "statement": "第229组：简体「厅」，繁体作「厛」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0230",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "历＝厤（繁简对照·第230组）",
+   "statement": "第230组：简体「历」，繁体作「厤」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0231",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厉＝厲（繁简对照·第231组）",
+   "statement": "第231组：简体「厉」，繁体作「厲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0232",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "压＝壓（繁简对照·第232组）",
+   "statement": "第232组：简体「压」，繁体作「壓」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0233",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厌＝厭（繁简对照·第233组）",
+   "statement": "第233组：简体「厌」，繁体作「厭」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0234",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厍＝厙（繁简对照·第234组）",
+   "statement": "第234组：简体「厍」，繁体作「厙」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0235",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厕＝厠（繁简对照·第235组）",
+   "statement": "第235组：简体「厕」，繁体作「厠」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0236",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厘＝釐（繁简对照·第236组）",
+   "statement": "第236组：简体「厘」，繁体作「釐」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0237",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厢＝廂（繁简对照·第237组）",
+   "statement": "第237组：简体「厢」，繁体作「廂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0238",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厣＝厴（繁简对照·第238组）",
+   "statement": "第238组：简体「厣」，繁体作「厴」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0239",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厦＝廈（繁简对照·第239组）",
+   "statement": "第239组：简体「厦」，繁体作「廈」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0240",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厨＝廚（繁简对照·第240组）",
+   "statement": "第240组：简体「厨」，繁体作「廚」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0241",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厩＝廄（繁简对照·第241组）",
+   "statement": "第241组：简体「厩」，繁体作「廄」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0242",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "厮＝廝（繁简对照·第242组）",
+   "statement": "第242组：简体「厮」，繁体作「廝」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0243",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "县＝縣（繁简对照·第243组）",
+   "statement": "第243组：简体「县」，繁体作「縣」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0244",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "参＝參（繁简对照·第244组）",
+   "statement": "第244组：简体「参」，繁体作「參」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0245",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "双＝雙（繁简对照·第245组）",
+   "statement": "第245组：简体「双」，繁体作「雙」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0246",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "发＝發（繁简对照·第246组）",
+   "statement": "第246组：简体「发」，繁体作「發」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0247",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "变＝變（繁简对照·第247组）",
+   "statement": "第247组：简体「变」，繁体作「變」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0248",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "叙＝敍（繁简对照·第248组）",
+   "statement": "第248组：简体「叙」，繁体作「敍」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0249",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "叠＝曡（繁简对照·第249组）",
+   "statement": "第249组：简体「叠」，繁体作「曡」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0250",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "叩＝敂（繁简对照·第250组）",
+   "statement": "第250组：简体「叩」，繁体作「敂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0251",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "只＝衹（繁简对照·第251组）",
+   "statement": "第251组：简体「只」，繁体作「衹」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0252",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "叫＝呌（繁简对照·第252组）",
+   "statement": "第252组：简体「叫」，繁体作「呌」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0253",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "台＝臺（繁简对照·第253组）",
+   "statement": "第253组：简体「台」，繁体作「臺」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0254",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "叶＝葉（繁简对照·第254组）",
+   "statement": "第254组：简体「叶」，繁体作「葉」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0255",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "号＝號（繁简对照·第255组）",
+   "statement": "第255组：简体「号」，繁体作「號」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0256",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "叹＝嘆（繁简对照·第256组）",
+   "statement": "第256组：简体「叹」，繁体作「嘆」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0257",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "叽＝嘰（繁简对照·第257组）",
+   "statement": "第257组：简体「叽」，繁体作「嘰」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0258",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吁＝訏（繁简对照·第258组）",
+   "statement": "第258组：简体「吁」，繁体作「訏」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0259",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吃＝喫（繁简对照·第259组）",
+   "statement": "第259组：简体「吃」，繁体作「喫」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0260",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "合＝閤（繁简对照·第260组）",
+   "statement": "第260组：简体「合」，繁体作「閤」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0261",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吊＝弔（繁简对照·第261组）",
+   "statement": "第261组：简体「吊」，繁体作「弔」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0262",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "同＝衕（繁简对照·第262组）",
+   "statement": "第262组：简体「同」，繁体作「衕」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0263",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "向＝嚮（繁简对照·第263组）",
+   "statement": "第263组：简体「向」，繁体作「嚮」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0264",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吓＝嚇（繁简对照·第264组）",
+   "statement": "第264组：简体「吓」，繁体作「嚇」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0265",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吕＝呂（繁简对照·第265组）",
+   "statement": "第265组：简体「吕」，繁体作「呂」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0266",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吗＝嗎（繁简对照·第266组）",
+   "statement": "第266组：简体「吗」，繁体作「嗎」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0267",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吝＝恡（繁简对照·第267组）",
+   "statement": "第267组：简体「吝」，繁体作「恡」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0268",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吟＝唫（繁简对照·第268组）",
+   "statement": "第268组：简体「吟」，繁体作「唫」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0269",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吣＝唚（繁简对照·第269组）",
+   "statement": "第269组：简体「吣」，繁体作「唚」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0270",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吨＝噸（繁简对照·第270组）",
+   "statement": "第270组：简体「吨」，繁体作「噸」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0271",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "听＝聼（繁简对照·第271组）",
+   "statement": "第271组：简体「听」，繁体作「聼」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0272",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "启＝啓（繁简对照·第272组）",
+   "statement": "第272组：简体「启」，繁体作「啓」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0273",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吴＝吳（繁简对照·第273组）",
+   "statement": "第273组：简体「吴」，繁体作「吳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0274",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "吻＝脗（繁简对照·第274组）",
+   "statement": "第274组：简体「吻」，繁体作「脗」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0275",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呆＝獃（繁简对照·第275组）",
+   "statement": "第275组：简体「呆」，繁体作「獃」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0276",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呒＝嘸（繁简对照·第276组）",
+   "statement": "第276组：简体「呒」，繁体作「嘸」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0277",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呓＝囈（繁简对照·第277组）",
+   "statement": "第277组：简体「呓」，繁体作「囈」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0278",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呕＝嘔（繁简对照·第278组）",
+   "statement": "第278组：简体「呕」，繁体作「嘔」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0279",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呖＝嚦（繁简对照·第279组）",
+   "statement": "第279组：简体「呖」，繁体作「嚦」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0280",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呗＝唄（繁简对照·第280组）",
+   "statement": "第280组：简体「呗」，繁体作「唄」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0281",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "员＝員（繁简对照·第281组）",
+   "statement": "第281组：简体「员」，繁体作「員」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0282",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呙＝咼（繁简对照·第282组）",
+   "statement": "第282组：简体「呙」，繁体作「咼」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0283",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呛＝嗆（繁简对照·第283组）",
+   "statement": "第283组：简体「呛」，繁体作「嗆」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0284",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呜＝嗚（繁简对照·第284组）",
+   "statement": "第284组：简体「呜」，繁体作「嗚」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0285",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "周＝週（繁简对照·第285组）",
+   "statement": "第285组：简体「周」，繁体作「週」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0286",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "呼＝虖（繁简对照·第286组）",
+   "statement": "第286组：简体「呼」，繁体作「虖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0287",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "和＝咊（繁简对照·第287组）",
+   "statement": "第287组：简体「和」，繁体作「咊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0288",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咏＝詠（繁简对照·第288组）",
+   "statement": "第288组：简体「咏」，繁体作「詠」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0289",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咒＝呪（繁简对照·第289组）",
+   "statement": "第289组：简体「咒」，繁体作「呪」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0290",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咔＝哢（繁简对照·第290组）",
+   "statement": "第290组：简体「咔」，繁体作「哢」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0291",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咙＝嚨（繁简对照·第291组）",
+   "statement": "第291组：简体「咙」，繁体作「嚨」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0292",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咛＝嚀（繁简对照·第292组）",
+   "statement": "第292组：简体「咛」，繁体作「嚀」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0293",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咝＝噝（繁简对照·第293组）",
+   "statement": "第293组：简体「咝」，繁体作「噝」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0294",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咩＝哶（繁简对照·第294组）",
+   "statement": "第294组：简体「咩」，繁体作「哶」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0295",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咱＝偺（繁简对照·第295组）",
+   "statement": "第295组：简体「咱」，繁体作「偺」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0296",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咳＝欬（繁简对照·第296组）",
+   "statement": "第296组：简体「咳」，繁体作「欬」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0297",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咴＝噅（繁简对照·第297组）",
+   "statement": "第297组：简体「咴」，繁体作「噅」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0298",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咸＝鹹（繁简对照·第298组）",
+   "statement": "第298组：简体「咸」，繁体作「鹹」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0299",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咽＝嚥（繁简对照·第299组）",
+   "statement": "第299组：简体「咽」，繁体作「嚥」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0300",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "咿＝吚（繁简对照·第300组）",
+   "statement": "第300组：简体「咿」，繁体作「吚」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0301",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哄＝鬨（繁简对照·第301组）",
+   "statement": "第301组：简体「哄」，繁体作「鬨」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0302",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "响＝響（繁简对照·第302组）",
+   "statement": "第302组：简体「响」，繁体作「響」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0303",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哑＝啞（繁简对照·第303组）",
+   "statement": "第303组：简体「哑」，繁体作「啞」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0304",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哒＝噠（繁简对照·第304组）",
+   "statement": "第304组：简体「哒」，繁体作「噠」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0305",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哓＝嘵（繁简对照·第305组）",
+   "statement": "第305组：简体「哓」，繁体作「嘵」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0306",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哔＝嗶（繁简对照·第306组）",
+   "statement": "第306组：简体「哔」，繁体作「嗶」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0307",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哕＝噦（繁简对照·第307组）",
+   "statement": "第307组：简体「哕」，繁体作「噦」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0308",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哗＝嘩（繁简对照·第308组）",
+   "statement": "第308组：简体「哗」，繁体作「嘩」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0309",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哙＝噲（繁简对照·第309组）",
+   "statement": "第309组：简体「哙」，繁体作「噲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0310",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哜＝嚌（繁简对照·第310组）",
+   "statement": "第310组：简体「哜」，繁体作「嚌」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0311",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哝＝噥（繁简对照·第311组）",
+   "statement": "第311组：简体「哝」，繁体作「噥」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0312",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哟＝喲（繁简对照·第312组）",
+   "statement": "第312组：简体「哟」，繁体作「喲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0313",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "哲＝喆（繁简对照·第313组）",
+   "statement": "第313组：简体「哲」，繁体作「喆」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0314",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "唇＝脣（繁简对照·第314组）",
+   "statement": "第314组：简体「唇」，繁体作「脣」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0315",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "唛＝嘜（繁简对照·第315组）",
+   "statement": "第315组：简体「唛」，繁体作「嘜」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0316",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "唠＝嘮（繁简对照·第316组）",
+   "statement": "第316组：简体「唠」，繁体作「嘮」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0317",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "唢＝嗩（繁简对照·第317组）",
+   "statement": "第317组：简体「唢」，繁体作「嗩」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0318",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "唣＝唕（繁简对照·第318组）",
+   "statement": "第318组：简体「唣」，繁体作「唕」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0319",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "唤＝喚（繁简对照·第319组）",
+   "statement": "第319组：简体「唤」，繁体作「喚」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0320",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "啖＝啗（繁简对照·第320组）",
+   "statement": "第320组：简体「啖」，繁体作「啗」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0321",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "啧＝嘖（繁简对照·第321组）",
+   "statement": "第321组：简体「啧」，繁体作「嘖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0322",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "啬＝嗇（繁简对照·第322组）",
+   "statement": "第322组：简体「啬」，繁体作「嗇」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0323",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "啭＝囀（繁简对照·第323组）",
+   "statement": "第323组：简体「啭」，繁体作「囀」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0324",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "啮＝嚙（繁简对照·第324组）",
+   "statement": "第324组：简体「啮」，繁体作「嚙」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0325",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "啸＝嘯（繁简对照·第325组）",
+   "statement": "第325组：简体「啸」，繁体作「嘯」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0326",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "啼＝嗁（繁简对照·第326组）",
+   "statement": "第326组：简体「啼」，繁体作「嗁」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0327",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "喂＝餧（繁简对照·第327组）",
+   "statement": "第327组：简体「喂」，繁体作「餧」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0328",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "喋＝啑（繁简对照·第328组）",
+   "statement": "第328组：简体「喋」，繁体作「啑」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0329",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "喑＝瘖（繁简对照·第329组）",
+   "statement": "第329组：简体「喑」，繁体作「瘖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0330",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "喧＝諠（繁简对照·第330组）",
+   "statement": "第330组：简体「喧」，繁体作「諠」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0331",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "喷＝噴（繁简对照·第331组）",
+   "statement": "第331组：简体「喷」，繁体作「噴」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0332",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "喽＝嘍（繁简对照·第332组）",
+   "statement": "第332组：简体「喽」，繁体作「嘍」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0333",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "喾＝嚳（繁简对照·第333组）",
+   "statement": "第333组：简体「喾」，繁体作「嚳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0334",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嗥＝獋（繁简对照·第334组）",
+   "statement": "第334组：简体「嗥」，繁体作「獋」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0335",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嗫＝囁（繁简对照·第335组）",
+   "statement": "第335组：简体「嗫」，繁体作「囁」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0336",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嗳＝噯（繁简对照·第336组）",
+   "statement": "第336组：简体「嗳」，繁体作「噯」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0337",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嘎＝嘠（繁简对照·第337组）",
+   "statement": "第337组：简体「嘎」，繁体作「嘠」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0338",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嘘＝噓（繁简对照·第338组）",
+   "statement": "第338组：简体「嘘」，繁体作「噓」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0339",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嘤＝嚶（繁简对照·第339组）",
+   "statement": "第339组：简体「嘤」，繁体作「嚶」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0340",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嘱＝囑（繁简对照·第340组）",
+   "statement": "第340组：简体「嘱」，繁体作「囑」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0341",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嘻＝譆（繁简对照·第341组）",
+   "statement": "第341组：简体「嘻」，繁体作「譆」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0342",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "噜＝嚕（繁简对照·第342组）",
+   "statement": "第342组：简体「噜」，繁体作「嚕」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0343",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "噪＝譟（繁简对照·第343组）",
+   "statement": "第343组：简体「噪」，繁体作「譟」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0344",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "嚣＝嚻（繁简对照·第344组）",
+   "statement": "第344组：简体「嚣」，繁体作「嚻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0345",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "回＝囘（繁简对照·第345组）",
+   "statement": "第345组：简体「回」，繁体作「囘」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0346",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "因＝囙（繁简对照·第346组）",
+   "statement": "第346组：简体「因」，繁体作「囙」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0347",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "团＝團（繁简对照·第347组）",
+   "statement": "第347组：简体「团」，繁体作「團」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0348",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "园＝園（繁简对照·第348组）",
+   "statement": "第348组：简体「园」，繁体作「園」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0349",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "困＝睏（繁简对照·第349组）",
+   "statement": "第349组：简体「困」，繁体作「睏」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0350",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "囱＝囪（繁简对照·第350组）",
+   "statement": "第350组：简体「囱」，繁体作「囪」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0351",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "围＝圍（繁简对照·第351组）",
+   "statement": "第351组：简体「围」，繁体作「圍」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0352",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "囵＝圇（繁简对照·第352组）",
+   "statement": "第352组：简体「囵」，繁体作「圇」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0353",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "国＝囯（繁简对照·第353组）",
+   "statement": "第353组：简体「国」，繁体作「囯」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0354",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "图＝圖（繁简对照·第354组）",
+   "statement": "第354组：简体「图」，繁体作「圖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0355",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "圆＝圓（繁简对照·第355组）",
+   "statement": "第355组：简体「圆」，繁体作「圓」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0356",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "圣＝聖（繁简对照·第356组）",
+   "statement": "第356组：简体「圣」，繁体作「聖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0357",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "圹＝壙（繁简对照·第357组）",
+   "statement": "第357组：简体「圹」，繁体作「壙」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0358",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "场＝塲（繁简对照·第358组）",
+   "statement": "第358组：简体「场」，繁体作「塲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0359",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "址＝阯（繁简对照·第359组）",
+   "statement": "第359组：简体「址」，繁体作「阯」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0360",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坂＝岅（繁简对照·第360组）",
+   "statement": "第360组：简体「坂」，繁体作「岅」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0361",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坎＝埳（繁简对照·第361组）",
+   "statement": "第361组：简体「坎」，繁体作「埳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0362",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坏＝壞（繁简对照·第362组）",
+   "statement": "第362组：简体「坏」，繁体作「壞」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0363",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坑＝阬（繁简对照·第363组）",
+   "statement": "第363组：简体「坑」，繁体作「阬」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0364",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "块＝塊（繁简对照·第364组）",
+   "statement": "第364组：简体「块」，繁体作「塊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0365",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坚＝堅（繁简对照·第365组）",
+   "statement": "第365组：简体「坚」，繁体作「堅」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0366",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坛＝墰（繁简对照·第366组）",
+   "statement": "第366组：简体「坛」，繁体作「墰」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0367",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坜＝壢（繁简对照·第367组）",
+   "statement": "第367组：简体「坜」，繁体作「壢」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0368",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坝＝垻（繁简对照·第368组）",
+   "statement": "第368组：简体「坝」，繁体作「垻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0369",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坞＝塢（繁简对照·第369组）",
+   "statement": "第369组：简体「坞」，繁体作「塢」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0370",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坟＝墳（繁简对照·第370组）",
+   "statement": "第370组：简体「坟」，繁体作「墳」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0371",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坠＝墜（繁简对照·第371组）",
+   "statement": "第371组：简体「坠」，繁体作「墜」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0372",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "坤＝堃（繁简对照·第372组）",
+   "statement": "第372组：简体「坤」，繁体作「堃」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0373",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垄＝壟（繁简对照·第373组）",
+   "statement": "第373组：简体「垄」，繁体作「壟」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0374",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垆＝壚（繁简对照·第374组）",
+   "statement": "第374组：简体「垆」，繁体作「壚」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0375",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垒＝壘（繁简对照·第375组）",
+   "statement": "第375组：简体「垒」，繁体作「壘」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0376",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垛＝垜（繁简对照·第376组）",
+   "statement": "第376组：简体「垛」，繁体作「垜」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0377",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垦＝墾（繁简对照·第377组）",
+   "statement": "第377组：简体「垦」，繁体作「墾」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0378",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垧＝坰（繁简对照·第378组）",
+   "statement": "第378组：简体「垧」，繁体作「坰」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0379",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垩＝堊（繁简对照·第379组）",
+   "statement": "第379组：简体「垩」，繁体作「堊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0380",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垫＝墊（繁简对照·第380组）",
+   "statement": "第380组：简体「垫」，繁体作「墊」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0381",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垭＝埡（繁简对照·第381组）",
+   "statement": "第381组：简体「垭」，繁体作「埡」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0382",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垲＝塏（繁简对照·第382组）",
+   "statement": "第382组：简体「垲」，繁体作「塏」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0383",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "垴＝堖（繁简对照·第383组）",
+   "statement": "第383组：简体「垴」，繁体作「堖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0384",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "埘＝塒（繁简对照·第384组）",
+   "statement": "第384组：简体「埘」，繁体作「塒」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0385",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "埙＝塤（繁简对照·第385组）",
+   "statement": "第385组：简体「埙」，繁体作「塤」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0386",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "埚＝堝（繁简对照·第386组）",
+   "statement": "第386组：简体「埚」，繁体作「堝」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0387",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "埯＝垵（繁简对照·第387组）",
+   "statement": "第387组：简体「埯」，繁体作「垵」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0388",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "堑＝塹（繁简对照·第388组）",
+   "statement": "第388组：简体「堑」，繁体作「塹」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0389",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "堕＝墮（繁简对照·第389组）",
+   "statement": "第389组：简体「堕」，繁体作「墮」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0390",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "堙＝陻（繁简对照·第390组）",
+   "statement": "第390组：简体「堙」，繁体作「陻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0391",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "堤＝隄（繁简对照·第391组）",
+   "statement": "第391组：简体「堤」，繁体作「隄」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0392",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "塍＝堘（繁简对照·第392组）",
+   "statement": "第392组：简体「塍」，繁体作「堘」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0393",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "塔＝墖（繁简对照·第393组）",
+   "statement": "第393组：简体「塔」，繁体作「墖」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0394",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "墉＝鄘（繁简对照·第394组）",
+   "statement": "第394组：简体「墉」，繁体作「鄘」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0395",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "墙＝墻（繁简对照·第395组）",
+   "statement": "第395组：简体「墙」，繁体作「墻」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0396",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "墩＝墪（繁简对照·第396组）",
+   "statement": "第396组：简体「墩」，繁体作「墪」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0397",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "壮＝壯（繁简对照·第397组）",
+   "statement": "第397组：简体「壮」，繁体作「壯」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0398",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "声＝聲（繁简对照·第398组）",
+   "statement": "第398组：简体「声」，繁体作「聲」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0399",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "壳＝殼（繁简对照·第399组）",
+   "statement": "第399组：简体「壳」，繁体作「殼」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  },
+  {
+   "id": "fj-0400",
+   "node": "hanzi-yinyuan",
+   "topic_id": "topic-fanjian-duizhao",
+   "title": "壶＝壺（繁简对照·第400组）",
+   "statement": "第400组：简体「壶」，繁体作「壺」。",
+   "boundary": "繁简对照表（3,145 组）之一；用于简繁互检与字卡别名。",
+   "permission": "public",
+   "fact_classes": [
+    "evidence_scope"
+   ],
+   "duplicate_resolution": "create_distinct_with_boundary"
+  }
+ ]
+}
