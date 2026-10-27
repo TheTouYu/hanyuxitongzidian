@@ -1,38 +1,41 @@
 {
  "char": "穧",
  "pinyin": "jì",
+ "level": 3,
+ "parent": "齊",
  "bus": [
   {
-   "num": 582,
-   "name": "小"
+   "num": 19,
+   "name": "齊"
   }
  ],
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚决」：禾聚而决。",
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》「獲刈也。一曰撮也。从禾齊聲。在詣切」；將禾割下整齊擺放",
    "cites": []
   },
   {
-   "key": "suoshu",
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j取「聚」：禾割而聚束（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
    "label": "所属卷",
    "text": "",
    "links": [
     {
-     "ch": "卷九十六雀",
-     "label": "卷九十六雀"
+     "ch": "卷三矢",
+     "label": "卷三 矢"
     }
-   ],
-   "cites": []
-  },
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "【第582部「小部」·雀支】雀＝小之疊體（雀之初文从雀省），其字族取「細小、截斷、節制、咀嚼」諸面；雀支字多含「截／節」聲義。",
-   "cites": []
+   ]
   }
  ],
- "level": 3,
- "parent": "小"
+ "head": "穧（䆅）",
+ "aliases": [
+  "䆅"
+ ]
 }
