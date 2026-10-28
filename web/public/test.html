@@ -61,7 +61,6 @@ main{overflow:auto;padding:20px 26px}
 @font-face{font-family:'SimSunExtB';src:url('fonts/SimSunExtB.ttf') format('truetype');font-display:swap}
 .card,.ch,.famln,.ct td,.ct th,.item b{font-family:'Microsoft YaHei','SimSunExtB','SimSun-ExtB','Segoe UI Symbol',sans-serif}
 .gin{height:1.6em;vertical-align:-0.4em;margin:0 3px;border:1px solid #eee}.cim{height:1em;width:auto;vertical-align:-.12em}.chead .ch .cim{height:.95em;width:auto;vertical-align:-.1em}
-.smalt{font-size:.72em;color:#7a6a55}
 </style>
 </head>
 <body>
@@ -200,16 +199,6 @@ $('#q').addEventListener('keydown',async e=>{
 });
 
 </script>
-<script>document.addEventListener('error',function(e){var t=e.target;if(!t||t.tagName!=='IMG')return;var f=t.closest('figure');if(f){f.parentNode.removeChild(f);}else{t.style.display='none';}},true);
-window.smAlt=(root)=>{if(!root)return;const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,null);const ns=[];while(w.nextNode())ns.push(w.currentNode);
-for(const n of ns){const t=n.nodeValue;if(!t||t.indexOf('（')<0)continue;const p=n.parentNode;if(!p||p.closest('.alt'))continue;
-const frag=document.createDocumentFragment();let i=0;const re=/（[^）]{1,8}）/g;let m;
-while((m=re.exec(t))){frag.appendChild(document.createTextNode(t.slice(i,m.index)));const s=document.createElement('span');s.className='smalt';s.textContent=m[0];frag.appendChild(s);i=m.index+m[0].length;}
-if(i<t.length)frag.appendChild(document.createTextNode(t.slice(i)));p.replaceChild(frag,n);}};
-
-
-window.smAltObs=new MutationObserver(ms=>{for(const m of ms){for(const n of m.addedNodes){if(n.nodeType===1)window.smAlt(n);}}});
-window.smAltObs.observe(document.body,{childList:true,subtree:true});
-</script>
+<script>document.addEventListener('error',function(e){var t=e.target;if(!t||t.tagName!=='IMG')return;var f=t.closest('figure');if(f){f.parentNode.removeChild(f);}else{t.style.display='none';}},true);</script>
 </body>
 </html>
