@@ -1,0 +1,42 @@
+{
+ "char": "憶",
+ "pinyin": "yì",
+ "level": 3,
+ "parent": "意",
+ "bus": [
+  {
+   "num": 22,
+   "name": "意"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《正韻》：「伊昔切，音抑。念也，思也，記也。」回想過去。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零声母」不系：零聲母，緒論七組未列（照實）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "head": "憶（忆）",
+ "aliases": [
+  "忆"
+ ],
+ "group": "②"
+}
