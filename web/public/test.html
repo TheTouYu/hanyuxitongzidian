@@ -111,7 +111,7 @@ function render(q){
       while(p&&guard++<5){chain.push(p);const pc=byChar(p);const nx=pc?pc.pr:'';if(nx===p)break;p=nx;}if(t.rc&&t.rc.length)chain.length=0,(t.rc).forEach(x=>chain.push(x));else if(t.lv===2)chain.push(t.c);
       const kids=IDX.filter(x=>x.pr===t.c).map(x=>x.c);
       const ln=(ch)=>{const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));const as=(it&&it.a||[]).filter(x=>x!==(it?it.c:ch));const al=as.length?('（'+as.join('/')+'）'):'';const lab=(it?it.c:ch);return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)}</a>`;};
-      const rl=t.rlb?esc(t.rlb):((t.rc2&&t.rc2.length)?t.rc2.map(o=>'<a data-c=\"'+esc(o.ch)+'\" style=\"color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer\">'+esc(o.label)+'</a>').join(' → '):(chain.length?chain.slice().reverse().map(ln).join(' → '):'—'));
+      const rl=t.rlb?esc(t.rlb):((t.rc2&&t.rc2.length)?t.rc2.map(o=>'<a data-c=\"'+esc(o.ch)+'\" style=\"color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer\">'+esc(o.label)+'</a>').join(' → '):(chain.length?((t.lv===2?chain:chain.slice().reverse()).map(ln).join(' → ')):'—'));
       let fam='';
       if(t.lv===3&&t.pr&&!t.rl){const seenS=new Set([t.c]);const sibs=[];
         IDX.filter(x=>x.pr===t.pr).forEach(x=>{const it=byChar(x.c)||x;const key=it.c;if(seenS.has(key))return;seenS.add(key);sibs.push(key);});
