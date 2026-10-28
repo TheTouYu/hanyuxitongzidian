@@ -1,0 +1,42 @@
+{
+ "char": "餈",
+ "pinyin": "cí",
+ "level": 3,
+ "parent": "次",
+ "bus": [
+  {
+   "num": 20,
+   "name": "次"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》「稻餅也。从食次聲。餈或从米」；糍粑，糯米蒸熟舂成，黏糯",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "c「刺持」取「刺」：米舂黏聚如刺連（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "head": "餈（粢䭣）",
+ "aliases": [
+  "粢",
+  "䭣"
+ ]
+}

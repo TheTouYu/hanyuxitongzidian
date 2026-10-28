@@ -1,0 +1,37 @@
+{
+ "char": "資",
+ "pinyin": "zī",
+ "level": 3,
+ "parent": "次",
+ "bus": [
+  {
+   "num": 20,
+   "name": "次"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》「貨也。从貝次聲。即夷切」；財貨也是逐漸積累起來的，故从次",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「总」：財貨逐漸總聚（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

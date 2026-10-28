@@ -1,0 +1,37 @@
+{
+ "char": "恣",
+ "pinyin": "zì",
+ "level": 3,
+ "parent": "次",
+ "bus": [
+  {
+   "num": 20,
+   "name": "次"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》「縱也。从心次聲」；放縱；《廣雅》「置也」放置",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「总」：心縱而總收不住（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
