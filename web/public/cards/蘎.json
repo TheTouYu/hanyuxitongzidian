@@ -1,0 +1,41 @@
+{
+ "char": "蘎",
+ "pinyin": "jì",
+ "level": 3,
+ "parent": "肥",
+ "bus": [
+  {
+   "num": 23,
+   "name": "ㄗ"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《字彙補》：「古文驥字。」千里馬。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：馬力聚而疾（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "head": "蘎（驥）",
+ "aliases": [
+  "驥"
+ ]
+}

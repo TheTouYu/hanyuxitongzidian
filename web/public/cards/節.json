@@ -1,42 +1,43 @@
 {
  "char": "節",
  "pinyin": "jié",
+ "level": 3,
+ "parent": "卽",
  "bus": [
   {
-   "num": 582,
-   "name": "小"
+   "num": 23,
+   "name": "ㄗ"
   }
  ],
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚决」：分段而决。",
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：「竹約也。从竹卽聲。子結切。」竹節；引申指節律、節制、節操、印節。",
    "cites": []
   },
   {
-   "key": "suoshu",
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：竹節聚而分（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
    "label": "所属卷",
    "text": "",
    "links": [
     {
-     "ch": "卷九十六雀",
-     "label": "卷九十六雀"
+     "ch": "卷三矢",
+     "label": "卷三 矢"
     }
-   ],
-   "cites": []
-  },
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "【第582部「小部」·雀支】雀＝小之疊體（雀之初文从雀省），其字族取「細小、截斷、節制、咀嚼」諸面；雀支字多含「截／節」聲義。",
-   "cites": []
+   ]
   }
  ],
- "level": 3,
- "parent": "小",
- "simp": "节",
+ "head": "節（节𡴺巀）",
  "aliases": [
-  "节"
+  "节",
+  "𡴺",
+  "巀"
  ]
 }

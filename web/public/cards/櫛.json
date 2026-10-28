@@ -1,0 +1,37 @@
+{
+ "char": "櫛",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "卽",
+ "bus": [
+  {
+   "num": 23,
+   "name": "ㄗ"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：「梳比之總名也。从木節聲。阻瑟切。」梳篦。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：齒密如鑿（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
