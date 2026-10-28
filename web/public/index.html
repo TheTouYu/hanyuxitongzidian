@@ -161,9 +161,9 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
   const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}${(s.groups&&s.groups.length)?'':(s.text?('<p style="text-indent:2em">'+(s.gdir?gt(s.text,s.gdir):((s.text||'').indexOf('gscroll')>=0?s.text:esc(s.text).replace(/\{\{gin:([^}]+)\}\}/g,'<img class="gin" src="$1" alt="字形">'))).replace(/\n+/g,'</p><p style="text-indent:2em">')+'</p>'):'')}${zx}${LKR(s)}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
-  const rootLink = (d.level===2 && d.parent) ? `<div class="sec"><h3>所属字根</h3><p class="lks"><a href="javascript:void(0)" onclick="goCard('${d.parent}')">${esc(d.parent)}</a></p></div>` : ''; const parentBlock = (d.level>2 && d.parent) ? await (async()=>{ try{
+  const rootLink = (d.level===2 && d.parent && !(opt&&opt.embed)) ? `<div class="sec"><h3>所属字根</h3><p class="lks"><a href="javascript:void(0)" onclick="goCard('${d.parent}')">${esc(d.parent)}</a></p></div>` : ''; const parentBlock = (d.level>2 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
-      const p=await pr.json(); if(p&&p.sections)p.sections=p.sections.filter(s=>s.label!=='所属卷');
+      const p=await pr.json(); if(p&&p.sections){p.sections=p.sections.filter(s=>s.label!=='所属卷');p.level=3;}
       const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
       const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
       const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
