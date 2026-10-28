@@ -47,7 +47,7 @@ for ch, parent in members.items():
         err.append(f"缺卡: {ch}（{parent} 族）")
         continue
     d = json.load(io.open(p, encoding="utf-8"))
-    if d.get("parent") != parent:
+    if d.get("parent") != parent and parent not in (d.get("parents") or []):
         err.append(f"{ch}: parent={d.get('parent')} 应为 {parent}")
     if d.get("level") != 3:
         err.append(f"{ch}: level={d.get('level')} 应为 3")
