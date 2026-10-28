@@ -1,0 +1,37 @@
+{
+ "char": "塮",
+ "pinyin": "xiè",
+ "level": 3,
+ "parent": "射",
+ "bus": [
+  {
+   "num": 24,
+   "name": "射"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "指用豬羊等家畜糞便漚成的肥料。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "sh「失收」取「失」：射而禽失，故從射之字多含離去義（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
