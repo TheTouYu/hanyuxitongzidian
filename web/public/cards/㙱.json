@@ -1,0 +1,38 @@
+{
+ "char": "㙱",
+ "head": "㙱",
+ "pinyin": "hào",
+ "level": 3,
+ "parent": "号",
+ "bus": [
+  {
+   "num": 34,
+   "name": "丂"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《廣韻》：「土釡也。《説文》作𧇼，土堥也。」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h「豁活」取「豁」：土釜敞口（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
