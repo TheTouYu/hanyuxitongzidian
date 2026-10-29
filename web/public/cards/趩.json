@@ -1,0 +1,39 @@
+{
+ "char": "趩",
+ "head": "趩",
+ "pinyin": "chì",
+ "level": 3,
+ "parent": "異",
+ "bus": [
+  {
+   "num": 33,
+   "name": "異"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：「行聲也。一曰不行皃。从走異聲。讀若敕。醜亦切。」疑本指不走而行，意即飛行，或被負載而行。《玉篇》：「走皃。」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「刺」：行而有聲如刺（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷四弋",
+     "label": "卷四 弋"
+    }
+   ]
+  }
+ ]
+}
