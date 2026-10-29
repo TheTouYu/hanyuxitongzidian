@@ -190,7 +190,7 @@ main.innerHTML = await cardBody(ch,d);
 $('#q').addEventListener('input',e=>render(e.target.value));
 try{window.goCard=open;}catch(e){}
   async function tryDirect(ch){
-  try{ const r=await fetch('cards/'+encodeURIComponent(ch)+'.json'); if(!r.ok) return false; const d=await r.json(); if(!d||!d.sections) return false;
+  try{ const r=await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()); if(!r.ok) return false; const d=await r.json(); if(!d||!d.sections) return false;
     IDX.unshift({c:ch,p:d.pinyin||'',b:((d.bus||[{}])[0]||{}).num||'',n:((d.bus||[{}])[0]||{}).name||'',t:[]}); return true; }catch(e){ return false; }
 }
 $('#q').addEventListener('keydown',async e=>{
