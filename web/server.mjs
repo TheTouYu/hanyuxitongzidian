@@ -340,7 +340,7 @@ function glyphInfo(ch) {
       ph = (idx.photos && idx.photos[alt]) || [];
     }
   }
-  const files = (e && Array.isArray(e.files) ? e.files : []).map((f) => '/glyphs/' + f.split('/').map(encodeURIComponent).join('/'));
+  const files = (e && Array.isArray(e.files) ? e.files : []).map((f) => '/glyphs/' + (String(f).includes('/') ? String(f) : key + '/' + String(f)).split('/').map(encodeURIComponent).join('/'));
   const photos = photoList(ph);
   if (!files.length && !photos.length) return null;
   return {
