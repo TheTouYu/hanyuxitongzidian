@@ -1,0 +1,42 @@
+{
+ "char": "織",
+ "head": "織（织𥿮）",
+ "pinyin": "zhī",
+ "level": 3,
+ "parent": "戠",
+ "bus": [
+  {
+   "num": 31,
+   "name": "戠"
+  }
+ ],
+ "aliases": [
+  "织",
+  "𥿮"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：「作布帛之緫名也。从糸戠聲。𥿮，樂浪挈令織。从糸从式。之弋切。」紡織。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「总」：絲線總聚而織（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷四弋",
+     "label": "卷四 弋"
+    }
+   ]
+  }
+ ]
+}
