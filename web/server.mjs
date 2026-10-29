@@ -38,7 +38,7 @@ function renderCard(ch){
   h+='<a class="back" href="/test.html">← 返回检索</a><h2>'+ext(d.head||d.char)+' <small>'+escH(d.pinyin||'')+'</small></h2>';
   try { const gi=glyphInfo(d.char); if (gi && gi.files && gi.files.length){ h+='<div class="gs">'+gi.files.map((u,i)=>'<figure><img src="'+u+'" alt="字形'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; } } catch(e){}
   for (const s of (d.sections||[])){
-    if (s.label==='所属卷') continue;
+    if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+((s.links||[]).map(l=>'<a href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
     if (s.groups && s.groups.length){
       for (const g of s.groups){
