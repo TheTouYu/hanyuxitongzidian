@@ -1,25 +1,26 @@
 {
  "char": "䨥",
- "head": "䨥（𩆀）",
+ "head": "䨥",
  "pinyin": "huò",
  "level": 3,
- "parent": "隻",
+ "parent": "蒦",
  "bus": [
   {
    "num": 40,
    "name": "隻"
   }
  ],
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《龍龕》：『𩆀，俗；䨥，正。胡郭反。𩂹䨥，大雨也。』"
+   "text": "《玉篇》：“𩂹䨥，大雨。”"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "h「豁活」取「豁」：大雨開豁而下（推）。"
+   "text": "h「豁活」取「豁」：䨥從指鶴飛，表示撲騰、翻滾一面取「豁」之義（推）。"
   },
   {
    "key": "suoshujuan",
@@ -31,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "𩆀"
  ]
 }
