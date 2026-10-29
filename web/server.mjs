@@ -46,7 +46,7 @@ function renderCard(ch){
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
     if (s.groups && s.groups.length){
       for (const g of s.groups){
-        if (g.title) h+='<p><b>'+ext(g.title)+'</b></p>';
+        if (g.title) h+='<p><b>'+escH(g.no||'')+ext(g.title)+'</b></p>';
         if (g.note) h+='<p style="color:#666">'+ext(g.note)+'</p>';
         const head=(String(g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||['字','读音','类属','取义落点']);
         h+='<table><tr>'+head.map(t=>'<th>'+escH(t)+'</th>').join('')+'</tr>';
