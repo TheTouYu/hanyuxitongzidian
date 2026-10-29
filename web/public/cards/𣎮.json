@@ -1,0 +1,35 @@
+{
+ "char": "𣎮",
+ "head": "𣎮",
+ "pinyin": "xī",
+ "level": 3,
+ "parent": "羲",
+ "bus": [
+  {
+   "num": 36,
+   "name": "我"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《字彙》：“月光也。”《正字通》：“曦字之譌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「续」：鵝斂翅不飛而鳴，聲氣續而不絕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
