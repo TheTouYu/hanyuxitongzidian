@@ -1,893 +1,205 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>系统汉字 · 知识问答</title>
+<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>系统汉语字典</title>
 <style>
-  :root {
-    --paper: #f7f4ec;
-    --card: #fffdf8;
-    --ink: #23201c;
-    --muted: #7a7266;
-    --line: #e2dcce;
-    --accent: #8c3f2b;
-    --accent-soft: #f0e4dc;
-    --serif: "Songti SC", "Noto Serif SC", "Source Han Serif SC", "SimSun", Georgia, serif;
-    --sans: "PingFang SC", "Microsoft YaHei", system-ui, -apple-system, sans-serif;
-  }
-  * { box-sizing: border-box; }
-  html, body { height: 100%; }
-  body {
-    margin: 0; background: var(--paper); color: var(--ink);
-    font-family: var(--sans); -webkit-font-smoothing: antialiased;
-    display: flex; flex-direction: column;
-  }
-  header {
-    display: flex; align-items: center; gap: 12px;
-    padding: 14px 20px; border-bottom: 1px solid var(--line);
-    background: rgba(255, 253, 248, .86); backdrop-filter: blur(8px);
-    position: sticky; top: 0; z-index: 5;
-  }
-  .brand { font-family: var(--serif); font-size: 19px; letter-spacing: .06em; }
-  .brand b { color: var(--accent); font-weight: 600; }
-  .spacer { flex: 1; }
-  .badge {
-    font-size: 12px; padding: 3px 9px; border-radius: 999px;
-    border: 1px solid var(--line); color: var(--muted); background: #fff;
-  }
-  .badge.live { color: #2f6b3f; border-color: #cfe3d4; background: #f1f8f3; }
-  .badge.mock { color: #8a5a12; border-color: #ecd9b6; background: #fdf6e8; }
-  button.ghost {
-    font: inherit; font-size: 13px; color: var(--muted); background: none;
-    border: 1px solid var(--line); border-radius: 8px; padding: 5px 10px; cursor: pointer;
-  }
-  button.ghost:hover { color: var(--accent); border-color: var(--accent); }
+:root{--ink:#1f1b16;--mut:#8a7f70;--line:#e6ddd0;--bg:#fbf7f0;--card:#fffdf8;--acc:#8c2f1e}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Noto Serif SC","Songti SC","SimSun",serif}
+header{padding:18px 22px 10px;border-bottom:1px solid var(--line);background:linear-gradient(#fffdf8,#fbf7f0)}
+h1{margin:0;font-size:20px;letter-spacing:.08em}
+.sub{color:var(--mut);font-size:13px;margin-top:4px}
+.wrap{display:grid;grid-template-columns:320px 1fr;gap:0;height:calc(100vh - 74px)}
+aside{border-right:1px solid var(--line);display:flex;flex-direction:column;min-height:0}
+.search{padding:12px}
+.search input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:#fff;font-size:15px;font-family:inherit}
+.hint{color:var(--mut);font-size:12px;margin:8px 2px 0}
+.list{overflow:auto;flex:1}
+.item{padding:9px 14px;border-bottom:1px dashed var(--line);cursor:pointer;display:flex;gap:10px;align-items:baseline}
+.item:hover{background:#f6efe2}
+.item b{font-size:20px;min-width:26px}
+.item .m{color:var(--mut);font-size:12px}
+.item.on{background:#efe3d2;box-shadow:inset 3px 0 0 var(--acc)}
+main{overflow:auto;padding:20px 26px}
+.empty{color:var(--mut);margin-top:40px;text-align:center}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;max-width:980px;margin:0 auto}
+.chead{display:flex;align-items:flex-end;gap:14px;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:14px}
+.chead .ch{font-size:26px;line-height:1}.smalt{font-size:.55em;color:#7a6a55;letter-spacing:0;font-weight:400}
+.chead .py{color:var(--mut);font-size:15px;letter-spacing:.06em}
+.chead .bu{margin-left:auto;color:var(--mut);font-size:13px}
+.sec{margin:14px 0 18px}
+.sec h3{margin:0 0 6px;font-size:15px;color:var(--acc);letter-spacing:.06em;font-weight:600}
+.sec p{margin:0;font-size:15.5px;line-height:1.95;white-space:pre-wrap}
+.cites{margin-top:6px;font-size:11px;color:var(--mut)}
+.glyphs{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.glyphs figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:8px;padding:4px}
+.glyphs img{height:78px;display:block}
+.gscroll{display:flex;gap:8px;overflow-x:auto;padding:6px 0;scroll-behavior:smooth}
+.gscroll img{height:96px;display:block;background:#fff;border:1px solid var(--line);border-radius:6px;padding:2px}
+.gscroll figure{margin:0;text-align:center;flex:0 0 auto}
+.gscroll figcaption{font-size:11px;color:var(--mut);margin-top:2px;letter-spacing:.5px}
+.tag{display:inline-block;font-size:11px;color:var(--mut);border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-right:6px}
+.ct{width:100%;border-collapse:collapse;margin:4px 0 10px;font-size:14.5px}
+.ct th,.ct td{border:1px solid var(--line);padding:6px 9px;text-align:left;vertical-align:top}
+.ct th{background:#f4ecdf;font-weight:600;color:#5c4a37;font-size:13px}
+.ct td.zc{font-size:20px;width:56px;text-align:center}
+.rootbox{background:#f7f1e6;border:1px dashed #d9c9b2;border-radius:10px;padding:10px 14px}
+.grp{margin:8px 0 14px}
+.grp h4{margin:8px 0 4px;font-size:14px;color:#5c4a37}
+.grp .gnote{font-size:12.5px;color:var(--mut);margin:0 0 6px}
+.vbox{margin:8px 0;padding:8px 10px;background:#f6f0e4;border:1px solid #e2d4b8;border-radius:6px;font-size:14px}
+.vbtn{margin:0 4px;padding:2px 8px;border:1px solid #c9a86a;background:#fff;border-radius:4px;cursor:pointer}
+.vnote{color:#8a7a5c;font-size:12px}
+.ph{display:flex;gap:10px;align-items:baseline;margin:6px 0 10px}.ph .ch{font-size:40px;line-height:1}
 
-  main { flex: 1; overflow-y: auto; padding: 26px 16px 8px; }
-  .wrap { max-width: 760px; margin: 0 auto; }
-
-  .hero { text-align: center; padding: 40px 8px 26px; }
-  .hero h1 { font-family: var(--serif); font-size: 26px; margin: 0 0 10px; letter-spacing: .08em; }
-  .hero p { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.8; }
-
-  .msg { display: flex; flex-direction: column; align-items: flex-start; margin: 18px 0; }
-  .msg.user { align-items: flex-end; }
-  .bubble {
-    max-width: 86%; padding: 12px 16px; border-radius: 14px;
-    font-size: 15px; line-height: 1.85;
-    background: var(--card); border: 1px solid var(--line);
-    box-shadow: 0 1px 2px rgba(60, 50, 40, .04);
-    white-space: normal; word-break: break-word;
-  }
-  .msg.user .bubble { background: var(--accent); color: #fff; border-color: var(--accent); }
-  .bubble p { margin: 0 0 8px; }
-  .bubble p:last-child { margin-bottom: 0; }
-  .bubble code { font-size: 13px; background: #f3efe4; padding: 1px 5px; border-radius: 4px; }
-  .cite {
-    display: inline-block; font-size: 11px; padding: 1px 6px; margin: 0 2px;
-    border-radius: 6px; background: var(--accent-soft); color: var(--accent);
-    cursor: pointer; vertical-align: 1px; font-family: ui-monospace, monospace;
-  }
-  .cite:hover { background: var(--accent); color: #fff; }
-  .sources { margin: 8px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
-  .src {
-    font-size: 12px; color: var(--muted); border: 1px dashed var(--line);
-    border-radius: 8px; padding: 3px 8px; cursor: pointer; background: #fffefb;
-  }
-  .src:hover { color: var(--accent); border-color: var(--accent); }
-
-  .sugg { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 22px; }
-  .sugg button {
-    font: inherit; font-size: 13px; color: var(--ink); cursor: pointer;
-    background: #fffdf8; border: 1px solid var(--line); border-radius: 999px;
-    padding: 7px 14px; transition: .15s;
-  }
-  .sugg button:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); }
-
-  footer { padding: 10px 16px calc(16px + env(safe-area-inset-bottom)); background: linear-gradient(transparent, var(--paper) 30%); }
-  .composer {
-    max-width: 760px; margin: 0 auto; display: flex; gap: 10px; align-items: flex-end;
-    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
-    padding: 10px 10px 10px 16px; box-shadow: 0 6px 20px rgba(60, 50, 40, .06);
-  }
-  textarea {
-    flex: 1; resize: none; border: none; outline: none; background: none;
-    font: inherit; font-size: 15px; line-height: 1.6; max-height: 140px;
-    padding: 6px 0; color: var(--ink);
-  }
-  textarea::placeholder { color: #b3aa9c; }
-  .send {
-    font: inherit; font-size: 14px; cursor: pointer; color: #fff; background: var(--accent);
-    border: none; border-radius: 11px; padding: 9px 18px; transition: .15s;
-  }
-  .send:disabled { opacity: .45; cursor: default; }
-  .hint { max-width: 760px; margin: 8px auto 0; font-size: 11px; color: #b3aa9c; text-align: center; }
-
-  .drawer {
-    position: fixed; inset: 0; background: rgba(30, 25, 20, .35);
-    display: none; align-items: center; justify-content: center; padding: 20px; z-index: 20;
-  }
-  .drawer.open { display: flex; }
-  .panel {
-    background: var(--card); border-radius: 16px; max-width: 640px; width: 100%;
-    max-height: 82vh; overflow: auto; padding: 22px 24px; position: relative;
-    box-shadow: 0 20px 60px rgba(30, 25, 20, .25);
-  }
-  .panel h3 { font-family: var(--serif); font-size: 18px; margin: 0 0 6px; padding-right: 30px; }
-  .panel .meta { font-size: 12px; color: var(--muted); margin-bottom: 14px; }
-  .panel .body { font-size: 15px; line-height: 1.9; white-space: pre-wrap; }
-  .panel pre { white-space: pre-wrap; font-family: inherit; margin: 0; }
-  .close {
-    position: absolute; top: 14px; right: 16px; border: none; background: none;
-    font-size: 22px; line-height: 1; color: var(--muted); cursor: pointer;
-  }
-
-  /* 试用 / 会员 */
-  .badge.trial { color: #8a5a12; border-color: #ecd9b6; background: #fdf6e8; }
-  #memberBtn { border-color: var(--accent); color: var(--accent); }
-  #memberBtn:hover { background: var(--accent); color: #fff; }
-  .member {
-    position: fixed; inset: 0; background: rgba(30, 25, 20, .35);
-    display: none; align-items: center; justify-content: center; padding: 20px; z-index: 30;
-  }
-  .member.open { display: flex; }
-  .member-card {
-    background: var(--card); border-radius: 16px; max-width: 560px; width: 100%;
-    max-height: 86vh; overflow: auto; padding: 22px 22px 18px; position: relative;
-    box-shadow: 0 20px 60px rgba(30, 25, 20, .25);
-  }
-  .member-card h3 { font-family: var(--serif); font-size: 19px; margin: 0 0 6px; }
-  .member-card .sub { font-size: 13px; color: var(--muted); margin: 0 0 14px; line-height: 1.7; }
-  .tiers { display: grid; gap: 10px; }
-  .tier {
-    border: 1px solid var(--line); border-radius: 12px; padding: 11px 14px;
-    display: flex; align-items: center; gap: 10px; background: #fffefb; flex-wrap: wrap;
-  }
-  .tier.best { border-color: var(--accent); background: #fdf4ee; }
-  .tier .t-name { font-family: var(--serif); font-size: 15px; }
-  .tier .t-price { font-family: var(--serif); font-size: 21px; color: var(--accent); }
-  .tier .t-price small { font-size: 12px; }
-  .tier .t-desc { margin-left: auto; font-size: 12px; color: var(--muted); text-align: right; line-height: 1.5; }
-  .tier .t-tag { font-size: 11px; color: #fff; background: var(--accent); border-radius: 999px; padding: 1px 8px; }
-  .redeem { margin-top: 16px; padding-top: 14px; border-top: 1px dashed var(--line); }
-  .redeem h4 { font-family: var(--serif); font-size: 14px; color: var(--accent); margin: 0 0 8px; letter-spacing: .08em; }
-  .redeem .row { display: flex; gap: 8px; margin-bottom: 8px; }
-  .redeem input {
-    flex: 1; min-width: 0; font: inherit; font-size: 14px; padding: 8px 10px;
-    border: 1px solid var(--line); border-radius: 9px; background: #fff; color: var(--ink);
-  }
-  .redeem input:focus { outline: none; border-color: var(--accent); }
-  .redeem button {
-    font: inherit; font-size: 14px; padding: 8px 18px; border: none; border-radius: 9px;
-    background: var(--accent); color: #fff; cursor: pointer; white-space: nowrap;
-  }
-  .redeem button:disabled { opacity: .5; cursor: default; }
-  .redeem .note { font-size: 12px; color: var(--muted); line-height: 1.7; margin: 8px 0 0; }
-  .rm-msg { font-size: 13px; margin: 8px 0 0; min-height: 18px; }
-  .rm-msg.ok { color: #2f6b3f; }
-  .rm-msg.err { color: #a33; }
-  @media (max-width: 560px) {
-    .tier .t-desc { width: 100%; margin-left: 0; text-align: left; }
-  }
-
-  .tree-node { margin: 14px 0; }
-  .tree-node > b { font-size: 15px; }
-  .tree-topic { font-size: 13px; color: var(--muted); padding-left: 14px; margin-top: 4px; }
-  .typing::after { content: "▍"; color: var(--accent); animation: blink 1s steps(2) infinite; }
-  @keyframes blink { 50% { opacity: 0; } }
-
-  .mode-switch {
-    display: flex; gap: 2px; border: 1px solid var(--line); border-radius: 999px;
-    padding: 2px; background: #fff;
-  }
-  .mode-switch button {
-    font: inherit; font-size: 12px; border: none; background: none; color: var(--muted);
-    padding: 4px 11px; border-radius: 999px; cursor: pointer; transition: .15s;
-  }
-  .mode-switch button.on { background: var(--accent); color: #fff; }
-
-  .card { font-size: 15px; line-height: 1.85; }
-  .card-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 12px; }
-  .card-char { font-family: var(--serif); font-size: 42px; line-height: 1; }
-  .card-note { font-size: 12px; color: var(--muted); line-height: 1.6; }
-  .glyphs {
-    display: flex; gap: 10px; overflow-x: auto; padding: 4px 0 10px;
-    border-bottom: 1px dashed var(--line); margin-bottom: 12px;
-  }
-  .glyphs figure { margin: 0; flex: 0 0 auto; text-align: center; }
-  .glyphs img {
-    height: 96px; width: auto; display: block; background: #fff;
-    border: 1px solid var(--line); border-radius: 6px; padding: 2px;
-  }
-  .glyphs figcaption { font-size: 10px; color: #a89e8e; margin-top: 3px; }
-  .glyphs .empty { font-size: 13px; color: #a89e8e; padding: 8px 0; }
-  .glyphs.wrap { flex-wrap: wrap; overflow-x: visible; }
-  .glyphs-more {
-    display: inline-block; margin: -6px 0 12px; padding: 3px 11px;
-    font: inherit; font-size: 12px; color: var(--accent); background: #fff;
-    border: 1px solid var(--line); border-radius: 999px; cursor: pointer;
-  }
-  .glyphs-more:hover { border-color: var(--accent); }
-  .photos {
-    display: flex; gap: 10px; overflow-x: auto; padding: 0 0 10px;
-    border-bottom: 1px dashed var(--line); margin-bottom: 12px;
-  }
-  .photos figure { margin: 0; flex: 0 0 auto; text-align: center; max-width: 180px; }
-  .photos img {
-    height: 104px; width: auto; display: block; background: #fff;
-    border: 1px solid var(--line); border-radius: 6px; padding: 2px; object-fit: cover;
-  }
-  .photos figcaption { font-size: 10px; color: #a89e8e; margin-top: 3px; line-height: 1.4; }
-  .glyphs img, .photos img { cursor: zoom-in; }
-  .glyphs img.broken, .photos img.broken { opacity: .3; cursor: default; }
-  #viewer {
-    position: fixed; inset: 0; z-index: 80; background: rgba(32, 26, 20, .84);
-    display: flex; align-items: center; justify-content: center; padding: 20px;
-  }
-  #viewer[hidden] { display: none; }
-  #viewer figure { margin: 0; text-align: center; max-width: min(94vw, 900px); }
-  #viewer img {
-    max-width: 100%; max-height: 78vh; background: #fff; border-radius: 8px;
-    padding: 12px; box-shadow: 0 12px 40px rgba(0, 0, 0, .35);
-  }
-  #viewer figcaption { color: #f2ece1; font-size: 13px; margin-top: 12px; line-height: 1.6; }
-  #viewer img.up { width: min(240px, 62vw); height: auto; }
-  #viewer .viewer-x {
-    position: absolute; top: 10px; right: 14px; width: 38px; height: 38px;
-    border: 0; border-radius: 50%; background: rgba(255, 255, 255, .14); color: #fff;
-    font-size: 22px; line-height: 1; cursor: pointer;
-  }
-  #viewer .viewer-x:hover { background: rgba(255, 255, 255, .26); }
-  .sec { margin: 0 0 13px; }
-  .sec h4 {
-    font-family: var(--serif); font-size: 14px; letter-spacing: .1em;
-    color: var(--accent); margin: 0 0 4px;
-  }
-  .sec h4::before { content: "·"; margin-right: 7px; }
-  .sec p { margin: 0 0 6px; }
-  .sec p:last-child { margin-bottom: 0; }
-  .sec.empty p { color: #b3aa9c; }
-  .family { margin-top: 16px; padding-top: 12px; border-top: 1px dashed var(--line); }
-  .family h4 {
-    font-family: var(--serif); font-size: 14px; letter-spacing: .1em;
-    color: var(--accent); margin: 0 0 6px;
-  }
-  .family h4::before { content: "·"; margin-right: 7px; }
-  .family .fam-note { font-size: 12px; color: var(--muted); margin: 0 0 10px; line-height: 1.6; }
-  .fam-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px 16px; }
-  .fam-item { display: flex; align-items: flex-start; gap: 6px; }
-  .fam-char {
-    font-family: var(--serif); font-size: 21px; line-height: 1.25; padding: 1px 9px;
-    background: #fffdf8; border: 1px solid var(--line); border-radius: 8px;
-  }
-  .fam-char.fam-note-char { color: var(--muted); cursor: default; border-bottom-color: transparent; }
-  .fam-photo { margin: 0; text-align: center; }
-  .fam-photo img {
-    height: 62px; width: auto; display: block; background: #fff; padding: 2px;
-    border: 1px solid var(--line); border-radius: 6px; cursor: zoom-in;
-  }
-  .fam-photo figcaption {
-    font-size: 10px; color: #a89e8e; margin-top: 3px; max-width: 132px; line-height: 1.3;
-    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden;
-  }
-
-  @media (max-width: 560px) {
-    .brand { font-size: 16px; white-space: nowrap; }
-    .brand-sub { display: none; }
-    header { gap: 8px; padding: 10px 14px; }
-    header .badge { display: none; }
-    .mode-switch button { padding: 3px 9px; font-size: 12px; }
-    header .ghost { padding: 5px 9px; font-size: 12px; }
-    .hero h1 { font-size: 22px; }
-    .bubble { max-width: 92%; }
-    .glyphs { flex-wrap: wrap; overflow-x: visible; }
-    .glyphs.many { flex-wrap: nowrap; overflow-x: auto; }
-    .glyphs img { height: 72px; }
-    .glyphs-more { display: none; }
-    .photos { flex-wrap: wrap; overflow-x: visible; }
-    .photos img { height: 84px; }
-    .card-char { font-size: 36px; }
-  }
-.gimg-grp{margin:6px 0 2px}
-.gimg-lab{font-size:13px;color:var(--acc,#8a5a2b);margin:2px 0 4px;letter-spacing:.05em}
+.ct td:first-child,.ct th:first-child{white-space:nowrap;width:1%}
+.ch,.card,.famln,.gscroll figcaption{font-family:"Microsoft YaHei","SimSun-ExtB","Segoe UI Symbol",sans-serif}
+@font-face{font-family:'SimSunExtB';src:url('fonts/SimSunExtB.ttf') format('truetype');font-display:swap}
+.card,.ch,.famln,.ct td,.ct th,.item b{font-family:'Microsoft YaHei','SimSunExtB','SimSun-ExtB','Segoe UI Symbol',sans-serif}
+.gin{height:1.6em;vertical-align:-0.4em;margin:0 3px;border:1px solid #eee}.cim{height:1em;width:auto;vertical-align:-.12em}.chead .ch .cim{height:.95em;width:auto;vertical-align:-.1em}
 </style>
 </head>
 <body>
-<header>
-  <div class="brand">系统<b>汉字</b><span class="brand-sub"> · 知识问答</span></div>
-  <div class="spacer"></div>
-  <div class="mode-switch" id="modeSwitch">
-    <button data-mode="card" class="on">字卡</button>
-    <button data-mode="chat">问答</button>
-  </div>
-  <span class="badge" id="modeBadge">连接中…</span>
-  <span class="badge trial" id="trialBadge">…</span>
-  <button class="ghost" id="memberBtn">开通会员</button>
-  <button class="ghost" id="treeBtn">知识库</button>
-
-</header>
-
-<main id="scroller">
-  <div class="wrap" id="stream">
-    <div class="hero">
-      <h1>问字，必有出处</h1>
-      <p>答案只来自「系统汉字」知识库中已公开的条目，<br>每条结论都标注具体条目编号，可点开核对原文。</p>
-      <div class="sugg" id="sugg"></div>
-    </div>
-  </div>
-</main>
-
-<footer>
-  <form class="composer" id="form">
-    <textarea id="q" rows="1" placeholder="问点什么，比如：「六书」之名最早见于哪部书？" maxlength="200"></textarea>
-    <button class="send" id="send" type="submit">发送</button>
-  </form>
-  <div class="hint"><span id="trialHint">免费体验 10 次</span> · Enter 发送 · Shift+Enter 换行 · 库里没有的，会直接说没有</div>
-
-</footer>
-
-<div class="drawer" id="drawer">
-  <div class="panel">
-    <button class="close" id="closeDrawer" aria-label="关闭">×</button>
-    <h3 id="panelTitle">知识库</h3>
-    <div class="meta" id="panelMeta"></div>
-    <div class="body" id="panelBody"></div>
-  </div>
-</div>
-
-<div class="member" id="member">
-  <div class="member-card">
-    <button class="close" id="closeMember" aria-label="关闭">×</button>
-    <h3>开通会员</h3>
-    <p class="sub" id="memberSub">会员期内不限次数查询，回答都带条目出处，可点开核对原文。</p>
-    <div class="tiers" id="tiers"><div class="tier">价格载入中…</div></div>
-    <p class="sub" style="margin:12px 0 0">微信支付正在开通中。现在可以直接找主人购买，或用兑换码自助开通。</p>
-    <div class="redeem">
-      <h4>用兑换码开通</h4>
-      <div class="row">
-        <input id="rPhone" inputmode="numeric" maxlength="11" placeholder="手机号" autocomplete="tel">
-        <input id="rCode" placeholder="兑换码，如 C16-XXXX-XXXX" autocomplete="off" spellcheck="false">
-      </div>
-      <button id="rBtn" type="button">立即兑换</button>
-      <p class="note">兑换码与手机号绑定；开通后在本设备直接生效，换设备请找主人换绑。</p>
-      <p class="rm-msg" id="rMsg"></p>
-    </div>
-  </div>
-</div>
-
 <script>
-const $ = (id) => document.getElementById(id);
-const stream = $('stream');
-const scroller = $('scroller');
-const input = $('q');
-const sendBtn = $('send');
-let busy = false;
-let askMode = 'card';
-
-function syncModeUi() {
-  const card = askMode === 'card';
-  for (const x of modeBtns) x.classList.toggle('on', x.dataset.mode === askMode);
-  input.placeholder = card
-    ? '输入一个字，比如：雞'
-    : '问点什么，比如：「六书」之名最早见于哪部书？';
-}
-
-const modeBtns = [...document.querySelectorAll('#modeSwitch button')];
-for (const b of modeBtns) {
-  b.onclick = () => {
-    askMode = b.dataset.mode;
-    syncModeUi();
-    input.focus();
-  };
-}
-syncModeUi();
-
-/* ---------- 试用次数 / 会员 ---------- */
-let me = null;
-const fmtDay = (s) => String(s || '').slice(0, 10);
-
-function paintMe() {
-  if (!me) return;
-  const badge = $('trialBadge');
-  const hint = $('trialHint');
-  const sub = $('memberSub');
-  if (me.member && me.member.active) {
-    const d = fmtDay(me.member.expires_at);
-    badge.textContent = '会员 · ' + d;
-    badge.className = 'badge live';
-    hint.textContent = '会员有效期至 ' + d + '，不限次查询';
-    sub.textContent = '会员有效期至 ' + d + '，不限次数查询，回答都带条目出处。';
-  } else {
-    const left = me.trial ? me.trial.left : 0;
-    badge.textContent = left > 0 ? '还剩 ' + left + ' 次' : '体验已用完';
-    badge.className = 'badge trial';
-    hint.textContent = left > 0
-      ? '免费体验还剩 ' + left + ' 次，开通会员不限次'
-      : '免费体验已用完，开通会员后继续查询';
-    sub.textContent = left > 0
-      ? '免费体验还剩 ' + left + ' 次。会员期内不限次数查询，回答都带条目出处。'
-      : '免费体验已用完。开通会员后可不限次数查询。';
-  }
-}
-
-async function loadMe() {
-  try {
-    const j = await (await fetch('/api/me')).json();
-    if (j && j.ok) { me = j; paintMe(); }
-  } catch { /* 读不到不影响问答 */ }
-}
-
-async function loadTiers() {
-  const box = $('tiers');
-  if (box.dataset.loaded) return;
-  try {
-    const j = await (await fetch('/api/pricing')).json();
-    const tiers = j.tiers || [];
-    box.innerHTML = tiers.map((t) => {
-      const best = t.id === 'y16';
-      const months = t.months || (t.years ? t.years * 12 : 0);
-      const per = months ? (t.price / months).toFixed(1) : '';
-      return '<div class="tier' + (best ? ' best' : '') + '">' +
-        '<span class="t-name">' + esc(t.name) + '</span>' +
-        '<span class="t-price">' + t.price + '<small> 元</small></span>' +
-        '<span class="t-desc">' + esc(t.label || '') + (t.gift ? ' · 送《系统汉语》一套' : '') +
-        (per ? '<br>约 ' + per + ' 元/月' : '') + '</span>' +
-        (best ? '<span class="t-tag">最划算</span>' : '') +
-        '</div>';
-    }).join('') || '<div class="tier">价格暂未开放。</div>';
-    box.dataset.loaded = '1';
-  } catch {
-    box.innerHTML = '<div class="tier">价格读取失败，请刷新重试。</div>';
-  }
-}
-
-function openMember() {
-  $('member').classList.add('open');
-  paintMe();
-  loadTiers();
-}
-
-$('memberBtn').onclick = openMember;
-$('closeMember').onclick = () => $('member').classList.remove('open');
-$('member').onclick = (e) => { if (e.target.id === 'member') $('member').classList.remove('open'); };
-document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') $('member').classList.remove('open');
-});
-
-$('rBtn').onclick = async () => {
-  const phone = $('rPhone').value.trim();
-  const code = $('rCode').value.trim().toUpperCase();
-  const msg = $('rMsg');
-  const btn = $('rBtn');
-  msg.className = 'rm-msg';
-  msg.textContent = '';
-  if (!/^1[3-9]\d{9}$/.test(phone)) {
-    msg.textContent = '请填写 11 位手机号';
-    msg.classList.add('err');
-    $('rPhone').focus();
-    return;
-  }
-  if (!code) {
-    msg.textContent = '请填写兑换码';
-    msg.classList.add('err');
-    $('rCode').focus();
-    return;
-  }
-  btn.disabled = true;
-  btn.textContent = '兑换中…';
-  try {
-    const r = await fetch('/api/redeem', {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ phone, code }),
-    });
-    const j = await r.json();
-    if (!j.ok) throw new Error(j.error || '兑换失败');
-    msg.textContent = '开通成功，会员有效期至 ' + fmtDay(j.member && j.member.expires_at) +
-      ((j.member && j.member.gift) ? '，赠书请找主人登记寄送' : '');
-    msg.classList.add('ok');
-    $('rCode').value = '';
-    await loadMe();
-    setTimeout(() => $('member').classList.remove('open'), 1600);
-  } catch (e) {
-    msg.textContent = e.message || '兑换失败';
-    msg.classList.add('err');
-  } finally {
-    btn.disabled = false;
-    btn.textContent = '立即兑换';
-  }
-};
-
-loadMe();
-
-const SUGGESTIONS = [
-  '「雞」的本义、转义和衍生字',
-  '「六书」之名最早见于哪部书？',
-  '班固和许慎的六书次序有什么不同？',
-  '什么是声母拟态？',
-  '字族、通假、联绵词是什么关系？'
-];
-
-for (const s of SUGGESTIONS) {
-  const b = document.createElement('button');
-  b.textContent = s;
-  b.onclick = () => { input.value = s; submit(); };
-  $('sugg').append(b);
-}
-
-function esc(s) {
-  return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-}
-
-function render(text) {
-  let html = esc(text);
-  html = html.replace(/\[(clm_[0-9A-F]{20,40})\]/g, (_, id) =>
-    `<span class="cite" data-claim="${id}">${id.slice(4, 10)}</span>`);
-  html = html.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
-  return html.split(/\n{2,}/).map((p) => `<p>${p.replace(/\n/g, '<br>')}</p>`).join('');
-}
-
-function moreBtn(n) {
-  return `<button type="button" class="glyphs-more" data-count="${n}">展开全部 ${n} 张</button>`;
-}
-
-function renderCard(card) {
-  const g = card.glyph;
-  const modeNote = card.mode === 'model'
-    ? '按字卡模板整理，每段都标了条目出处'
-    : card.mode === 'none'
-      ? '还没有这个字的字义条目'
-      : '检索到的条目原文（未经过模型整理）';
-  let html = '<div class="card">';
-  html += '<div class="card-head">' +
-    `<span class="card-char">${esc(card.char)}</span>` +
-    `<span class="card-note">${esc(modeNote)}</span>` +
-    '</div>';
-
-  const hasGlyph = g && g.files && g.files.length;
-  const hasPhoto = g && g.photos && g.photos.length;
-  if (hasGlyph || hasPhoto) {
-    if (hasGlyph) {
-      html += `<div class="glyphs${g.files.length > 10 ? ' many' : ''}">` + g.files.map((u, i) =>
-        `<figure><img src="${esc(u)}" alt="${esc(card.char)}字形${i + 1}" loading="lazy">` +
-        `<figcaption>${i === 0 ? esc(g.doc) : '·'}</figcaption></figure>`).join('') + '</div>';
-      if (g.files.length > 10) html += moreBtn(g.files.length);
-    }
-    if (hasPhoto) {
-      html += '<div class="photos">' + g.photos.map((p, i) =>
-        `<figure><img src="${esc(p.file)}" alt="${esc(p.caption)}" loading="lazy">` +
-        `<figcaption>${esc(p.caption || '原稿配图')}</figcaption></figure>`).join('') + '</div>';
-    }
-    const src = g.doc ? `取自《系统汉语》原稿 ${esc(g.doc)}` : '取自《系统汉语》原稿';
-    const tail = [
-      hasGlyph ? '字形图下的小字是原书标注的出处与分期' : '',
-      hasPhoto ? '配图是原稿里的实物图与说明' : '',
-    ].filter(Boolean).join('，');
-    if (g.from) {
-      html += `<div class="card-note" style="margin:-8px 0 12px">原稿里「${esc(card.char)}」没有独立的字形行，这里给的是它字根「${esc(g.from)}」的字形与配图：${src}${tail ? '，' + tail : ''}。知识库里「${esc(card.char)}」的字义条目见下。</div>`;
-    } else {
-      html += `<div class="card-note" style="margin:-8px 0 12px">${src}${tail ? '，' + tail : ''}。</div>`;
-    }
-  } else if (card.roots && card.roots.length) {
-    html += `<div class="card-note" style="margin:0 0 6px">原稿里「${esc(card.char)}」没有独立的字形行，下面给的是它声符字根的古文字字形。</div>`;
-  } else {
-    html += '<div class="glyphs"><span class="empty">这个字的字形图还没收进字库。</span></div>';
-  }
-
-  if (card.roots && card.roots.length) {
-    for (const r of card.roots) {
-      html += `<div class="card-note" style="margin:6px 0 4px">字根「${esc(r.char)}」的古文字字形（取自《系统汉语》原稿${esc(r.doc ? ' ' + r.doc : '')}，图下小字是原书标注的出处与分期）：</div>`;
-      html += `<div class="glyphs${r.files.length > 10 ? ' many' : ''}">` + r.files.map((u, i) =>
-        `<figure><img src="${esc(u)}" alt="字根${esc(r.char)}字形${i + 1}" loading="lazy">` +
-        `<figcaption>${i === 0 ? esc(r.char) : '·'}</figcaption></figure>`).join('') + '</div>';
-      if (r.files.length > 10) html += moreBtn(r.files.length);
-    }
-  }
-
-  for (const s of card.sections || []) {
-    html += `<div class="sec${s.missing ? ' empty' : ''}"><h4>${esc(s.label)}</h4>`;
-    if (s.missing) {
-      html += s.key === 'zixing' && hasGlyph
-        ? '<p>字形见上方原稿字形行；条目里还没有对形体演变的说明。</p>'
-        : '<p>条目里还没有这一项。</p>';
-    } else {
-      html += render(s.text);
-    }
-    if (s.gimgs && s.gimgs.length) {
-      const grp = [];
-      for (const f of s.gimgs) {
-        const lab = String(f).includes('/') ? String(f).split('/')[0] : '';
-        const last = grp[grp.length - 1];
-        if (last && last.lab === lab) last.items.push(f); else grp.push({ lab, items: [f] });
-      }
-      let k = 0;
-      html += grp.map(g =>
-        `<div class="gimg-grp">` +
-        (g.lab ? `<div class="gimg-lab">${esc(g.lab)}</div>` : '') +
-        '<div class="glyphs many">' + g.items.map(f => {
-          k += 1;
-          return `<figure><img src="glyphs/${encodeURI(f)}" alt="参证字形${k}" loading="lazy"><figcaption>${k}</figcaption></figure>`;
-        }).join('') + '</div></div>').join('');
-    }
-    html += '</div>';
-  }
-  if (!card.sections || !card.sections.length) {
-    html += `<div class="sec empty"><h4>本义 / 转义 / 衍生字义</h4><p>${esc(card.note || '知识库里还没有这个字的条目。')}</p></div>`;
-  }
-  if (card.family && card.family.length) {
-    html += '<div class="family"><h4>字族</h4>' +
-      `<div class="fam-note">原稿字头行收录的 ${card.family.length} 个字族成员，按原稿顺序；原稿把配图排在哪一个字头后面，这里就跟着放在那一个字后面（点图可放大）。</div>` +
-      '<div class="fam-row">';
-    for (const m of card.family) {
-      const canOpen = m.linked !== false;
-      html += '<div class="fam-item">' +
-        (canOpen
-          ? `<span class="fam-char" role="button" tabindex="0" data-glyph="${esc(m.char)}" title="看「${esc(m.char)}」的字卡">${esc(m.char)}</span>`
-          : `<span class="fam-char fam-note-char" title="《系统汉语》里暂无可查的条目与字形，故不作链接">${esc(m.char)}</span>`);
-      for (const p of m.photos || []) {
-        html += '<figure class="fam-photo">' +
-          `<img src="${esc(p.file)}" alt="${esc(p.caption || m.char + '配图')}" loading="lazy">` +
-          `<figcaption>${esc(p.caption || '')}</figcaption></figure>`;
-      }
-      html += '</div>';
-    }
-    html += '</div></div>';
-  }
-  html += '</div>';
-  return html;
-}
-
-function addMessage(role, text) {
-  const wrap = document.createElement('div');
-  wrap.className = 'msg ' + role;
-  const bubble = document.createElement('div');
-  bubble.className = 'bubble';
-  bubble.innerHTML = render(text || '');
-  wrap.append(bubble);
-  stream.append(wrap);
-  scrollBottom();
-  return { wrap, bubble };
-}
-
-function scrollBottom() { scroller.scrollTop = scroller.scrollHeight; }
-
-async function openClaim(id) {
-  showPanel('载入中…', '', '');
-  try {
-    const r = await fetch('/api/claim/' + encodeURIComponent(id));
-    const j = await r.json();
-    if (!j.ok) throw new Error('没找到这条');
-    showPanel(j.claim.title, `${j.claim.id} · ${j.claim.node_id} / ${j.claim.topic_id}`, j.claim.statement);
-  } catch (e) {
-    showPanel('出错了', '', String(e.message || e));
-  }
-}
-
-function showPanel(title, meta, body) {
-  $('panelTitle').textContent = title;
-  $('panelMeta').textContent = meta;
-  $('panelBody').innerHTML = body ? `<pre>${esc(body)}</pre>` : '';
-  $('drawer').classList.add('open');
-  if (!body) $('panelBody').textContent = '';
-}
-
-$('closeDrawer').onclick = () => $('drawer').classList.remove('open');
-$('drawer').onclick = (e) => { if (e.target.id === 'drawer') $('drawer').classList.remove('open'); };
-document.addEventListener('click', (e) => {
-  const chip = e.target.closest('.cite');
-  if (chip) openClaim(chip.dataset.claim);
-  const src = e.target.closest('.src');
-  if (src) openClaim(src.dataset.claim);
-});
-
-$('treeBtn').onclick = async () => {
-  showPanel('知识库结构', '', '');
-  try {
-    const j = await (await fetch('/api/tree')).json();
-    $('panelMeta').textContent = `共 ${j.claims} 条知识 · 4 个节点 / 8 个主题`;
-    $('panelBody').innerHTML = j.nodes.map((n) =>
-      `<div class="tree-node"><b>${esc(n.title)}</b>` +
-      n.topics.map((t) => `<div class="tree-topic">${esc(t.title)} · ${t.claims} 条</div>`).join('') +
-      '</div>').join('');
-  } catch (e) {
-    $('panelBody').textContent = '读取失败：' + e.message;
-  }
-};
-
-async function submit() {
-  const text = input.value.trim();
-  if (!text || busy) return;
-  input.value = '';
-  input.style.height = 'auto';
-  busy = true;
-  sendBtn.disabled = true;
-
-  const hero = stream.querySelector('.hero');
-  if (hero) hero.remove();
-
-  addMessage('user', text);
-  const { bubble } = addMessage('assistant', '');
-  bubble.classList.add('typing');
-
-  let answer = '';
-  let sourcesBox = null;
-  let gotCard = false;
-
-  try {
-    const res = await fetch('/api/ask', {
-      method: 'POST',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ question: text, mode: askMode })
-    });
-    if (res.status === 429 || res.status === 402) {
-      const j = await res.json().catch(() => ({}));
-      const err = new Error(j.error || (res.status === 402 ? '免费体验次数已用完，开通会员后可不限次查询。' : '问得太快了，歇一分钟再来。'));
-      err.needMember = res.status === 402;
-      throw err;
-    }
-    if (!res.ok || !res.body) throw new Error('服务暂时不可用（' + res.status + '）');
-
-    const reader = res.body.getReader();
-    const decoder = new TextDecoder();
-    let buffer = '';
-
-    for (;;) {
-      const { done, value } = await reader.read();
-      if (done) break;
-      buffer += decoder.decode(value, { stream: true });
-      const parts = buffer.split('\n');
-      buffer = parts.pop();
-      for (const line of parts) {
-        if (!line.startsWith('data:')) continue;
-        let evt;
-        try { evt = JSON.parse(line.slice(5).trim()); } catch { continue; }
-        if (evt.type === 'sources') {
-          if (evt.items && evt.items.length) {
-            sourcesBox = document.createElement('div');
-            sourcesBox.className = 'sources';
-            for (const it of evt.items.slice(0, 6)) {
-              const chip = document.createElement('span');
-              chip.className = 'src';
-              chip.dataset.claim = it.id;
-              chip.textContent = '《' + it.title + '》';
-              chip.title = it.id + ' · ' + it.node_id + '/' + it.topic_id;
-              sourcesBox.append(chip);
-            }
-            bubble.after(sourcesBox);
-          }
-        } else if (evt.type === 'card-start') {
-          bubble.innerHTML = '<div class="card"><div class="card-head">' +
-            `<span class="card-char">${esc(evt.char)}</span>` +
-            '<span class="card-note">正在按字卡模板整理：字形图 · 本义 · 转义 · 衍生字义</span></div></div>';
-          scrollBottom();
-        } else if (evt.type === 'card') {
-          gotCard = true;
-          bubble.innerHTML = renderCard(evt.card);
-          bubble.classList.remove('typing');
-          scrollBottom();
-        } else if (evt.type === 'delta') {
-          answer += evt.text;
-          bubble.innerHTML = render(answer);
-          scrollBottom();
-        } else if (evt.type === 'error') {
-          answer += (answer ? '\n\n' : '') + '⚠️ ' + evt.message;
-          bubble.innerHTML = render(answer);
-        }
-      }
-    }
-  } catch (e) {
-    answer += (answer ? '\n\n' : '') + '⚠️ ' + (e.message || '请求失败');
-    bubble.innerHTML = render(answer);
-    if (e.needMember) openMember();
-  }
-
-  bubble.classList.remove('typing');
-  if (!answer && !gotCard) bubble.innerHTML = render('没有拿到回答，请重试。');
-  busy = false;
-  sendBtn.disabled = false;
-  loadMe();
-  scrollBottom();
-  input.focus();
-}
-
-$('form').onsubmit = (e) => { e.preventDefault(); submit(); };
-input.addEventListener('keydown', (e) => {
-  if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); submit(); }
-});
-input.addEventListener('input', () => {
-  input.style.height = 'auto';
-  input.style.height = Math.min(input.scrollHeight, 140) + 'px';
-});
-
-fetch('/api/health').then((r) => r.json()).then((j) => {
-  const b = $('modeBadge');
-  if (j.mode === 'model') { b.textContent = '模型问答 · 已就绪'; b.className = 'badge live'; }
-  else { b.textContent = '检索模式 · 未接模型'; b.className = 'badge mock'; }
-  b.title = `知识库 ${j.claims} 条 · PKC ${j.pkc}`;
-}).catch(() => { $('modeBadge').textContent = '服务未连接'; });
-
-// 深链接：?q=台 直接出一张字卡；?q=…&mode=chat 走问答
-const params = new URLSearchParams(location.search);
-const q0 = params.get('q');
-if (params.get('mode') === 'chat') {
-  const b = modeBtns.find((x) => x.dataset.mode === 'chat');
-  if (b) b.click();
-}
-if (q0) { input.value = q0; submit(); }
+window.addEventListener('error',function(e){var d=document.createElement('div');d.style.cssText='position:fixed;top:0;left:0;right:0;background:#b00020;color:#fff;padding:8px 10px;font:13px/1.5 ui-monospace,Menlo,monospace;z-index:99999';d.textContent='[页面出错] '+(e.message||'')+' @ '+(e.filename||'')+':'+(e.lineno||'');document.body.appendChild(d);});
+window.addEventListener('unhandledrejection',function(e){var d=document.createElement('div');d.style.cssText='position:fixed;top:0;left:0;right:0;background:#8a5a00;color:#fff;padding:8px 10px;font:13px/1.5 ui-monospace,monospace;z-index:99999';d.textContent='[异步出错] '+(e.reason&&(e.reason.message||e.reason)||'');document.body.appendChild(d);});
 </script>
-<div id="viewer" hidden>
-  <figure>
-    <img id="viewerImg" alt="">
-    <figcaption id="viewerCap"></figcaption>
-  </figure>
-  <button class="viewer-x" type="button" aria-label="关闭">×</button>
+<header>
+  <h1>系统汉语字典</h1>
+  <div class="sub">按字、拼音或卡片正文检索；点左侧结果看五步卡。数据来自 <code>/cards/&lt;字&gt;.json</code> 与 <code>/glyphs/</code>。</div>
+</header>
+<div class="wrap">
+  <aside>
+    <div class="search">
+      <input id="q" placeholder="输入字 / 拼音 / 关键词，如 申、shēn、闪电" autocomplete="off">
+      <div class="hint" id="hint">加载索引…</div>
+    </div>
+    <div class="list" id="list"></div>
+  </aside>
+  <main id="main"><div class="empty">← 输入一个字开始</div></main>
 </div>
 <script>
-// 字形图 / 配图：点击放大；加载失败时降级显示，不占破图
-(() => {
-  const viewer = document.getElementById('viewer');
-  const vimg = document.getElementById('viewerImg');
-  const vcap = document.getElementById('viewerCap');
+const $=s=>document.querySelector(s);
+let IDX=[], GLYPH={}, cur='';
+const norm=s=>(s||'').toLowerCase();
+fetch('cards/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{IDX=d;$('#hint').textContent=`共 ${d.length} 张卡`;render('');}).catch(e=>$('#hint').textContent='索引加载失败：'+e);
+fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(()=>{});
+fetch('glyphs/photos/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{}); fetch('glyphs/photos/captions.json?v='+Date.now()).then(r=>r.json()).then(d=>{window.CAPS=d.captions||d;}).catch(()=>{});
+function match(q){
+  q=norm(q.trim()); if(!q) return IDX.slice(0,200);
+  const exact=IDX.filter(x=>x.c===q||((x.a||[]).includes(q))).sort((a,b)=>(b.c===q)-(a.c===q));
+  if(exact.length) return exact.concat(IDX.filter(x=>x.c!==q&&!((x.a||[]).includes(q))&&(norm(x.p).startsWith(q)||x.t.some(t=>norm(t).includes(q)))).slice(0,80));
+  return IDX.filter(x=>norm(x.c).includes(q)||((x.a||[]).some(t=>norm(t).includes(q)))||norm(x.p).includes(q)||x.t.some(t=>norm(t).includes(q))).slice(0,120);
+}
+window.fillFam=(ch)=>{fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()).then(r=>r.json()).then(d=>{const seen=new Set(),names=[];(d.sections||[]).forEach(s=>(s.groups||[]).forEach(g=>(g.rows||[]).forEach(r=>{let c=String(r[0]||'').replace(/（.*?）|\(.*?\)/g,'').trim();if(c&&!seen.has(c)){seen.add(c);names.push(c);}})));const sp=document.getElementById('famspan');if(!names.length){kh=IDX.filter(x=>x.pr===ch).map(x=>x.c);kh.forEach(c=>names.push(c));}
+if(sp&&names.length){sp.innerHTML='　<label>字族</label>　'+names.map(famln).join('');bindHint();}}).catch(()=>{});};
+const famln=(ch)=>{const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));const as=(it&&it.a||[]).filter(x=>x!==(it?it.c:ch));const al=as.length?('（'+as.join('/')+'）'):'';const lab=(it?it.c:ch);return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)+esc(al)}</a>`;};
+window.bindHint=()=>{document.querySelectorAll('#hint a[data-c]').forEach(a=>a.onclick=()=>open(a.dataset.c));};
+function render(q){
+  const rows=match(q);
+  $('#list').innerHTML=rows.map(x=>`<div class="item${x.c===cur?' on':''}" data-c="${x.c}"><b>${x.c}</b><span class="m">${x.p||''}</span><span class="m">${x.ch?(function(){var L='第'+x.ch+'章'+(x.cn?' '+x.cn:'');return (x.cc?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+x.cc+'\')">'+L+'</a>'):L);}()):('第'+(x.b||'?')+'部')} ${x.ch?'':(x.n||'')}</span></div>`).join('')||'<div class="empty">无结果</div>';
+  const base=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
+  let rel='';
+  if(q){
+    const byChar=ch=>IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));
+    let t=byChar(q)||rows.find(r=>r.lv>0)||rows[0];
+    if(t){
+      const chain=[];let p=(t.rc&&t.rc.length)?t.rc[t.rc.length-1]:((t.lv>=2&&t.pr)?t.pr:t.n);let guard=0;
+      while(p&&guard++<5){chain.push(p);const pc=byChar(p);const nx=pc?pc.pr:'';if(nx===p)break;p=nx;}if(t.rc&&t.rc.length)chain.length=0,(t.rc).forEach(x=>chain.push(x));else if(t.lv===2)chain.push(t.c);
+      const kids=IDX.filter(x=>x.pr===t.c).map(x=>x.c);
+      const ln=(ch)=>{const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));const as=(it&&it.a||[]).filter(x=>x!==(it?it.c:ch));const al=as.length?('（'+as.join('/')+'）'):'';const lab=(it?it.c:ch);return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)}</a>`;};
+      const rl=t.rlb?esc(t.rlb):((t.rc2&&t.rc2.length)?t.rc2.map(o=>'<a data-c=\"'+esc(o.ch)+'\" style=\"color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer\">'+esc(o.label)+'</a>').join(' → '):(chain.length?((t.lv===2?chain:chain.slice().reverse()).map(ln).join(' → ')):'—'));
+      let fam='';
+      if(t.lv===3&&t.pr&&!t.rl){const seenS=new Set([t.c]);const sibs=[];
+        IDX.filter(x=>x.pr===t.pr).forEach(x=>{const it=byChar(x.c)||x;const key=it.c;if(seenS.has(key))return;seenS.add(key);sibs.push(key);});
+        if(sibs.length){const show=sibs.slice(0,24);fam='　同族　'+show.map(ln).join('')+(sibs.length>show.length?'…':'');}}
+      if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
+      if(!(t.chapter||t.ch)) window.fillFam(t.c);
+    }
+  }
+  $('#hint').innerHTML=base+rel;
+  bindHint();
+  $('#list').querySelectorAll('.item').forEach(el=>el.onclick=()=>open(el.dataset.c));
+}
+function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+const gt=(t,dir)=>esc(t).replace(/\{\{([^}]+)\}\}/g,(m,f)=>`<img class="gin" src="glyphs/${dir}/${f}">`);
+function esc2(s){return esc(String(s==null?'':s)).replace(/[\u{20000}-\u{2FFFF}]/gu,c=>'@@IMG@@'+c.codePointAt(0).toString(16)+'@@').replace(/@@IMG@@([0-9a-f]+)@@/g,(m,h)=>'<img class="cim" data-t="&#x'+h+';" src="glyphs/chars/'+h+'.png" onerror="this.replaceWith(document.createTextNode(this.dataset.t))">');}
+function sm(s){return esc2(s).replace(/（[^）]{1,12}）/g,m=>'<span class="smalt">'+m+'</span>');}
+const GGRP=s=>{if(!s.groups||!s.groups.length)return '';return (s.text?'<p class="gnote">'+esc(s.text)+'</p>':'')+s.groups.map(g=>`<div class="grp">${g.title?'<h4>'+esc(g.title)+'</h4>':''}<p class="gnote">${esc(g.note||'')}</p><table class="ct"><thead><tr>${(((g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||((g.rows&&g.rows[0]&&String(g.rows[0][0]).slice(-1)==='部')?['部目','字根','中心义','字族']:['字','读音','类属','取义落点']))).map(t=>'<th>'+esc(t)+'</th>').join('')}</tr></thead><tbody>${g.rows.map((r,i)=>`<tr><td class="${g.header?'':'zc'}">${(g.links&&g.links[i])?('<a href="javascript:void(0)" onclick="goCard(\''+g.links[i]+'\')">'+esc2(r[0])+'</a>'):esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');};
+const TTBL=s=>{if(!s.rows||s.rows.length<3)return '';const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;};
+const secHTML=(s,ch2)=>{const g2=(GLYPH[ch2]&&(GLYPH[ch2].files||[]))||[];const st=g2.length?`<div class="gscroll">${g2.map((f,i)=>`<figure><img loading="lazy" src="${encodeURI('glyphs/'+ch2+'/'+(String(f).startsWith(ch2+'/')?String(f).slice(ch2.length+1):f))}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';const zx=(s.key==='zixing'||/字形|古文字/.test(s.label||''))?st:'';return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${(()=>{try{return GGRP(s)+TTBL(s)}catch(e){return '<p class="err">表格渲染失败：'+esc(String(e))+'</p>'}})()}${(s.groups&&s.groups.length)?'':`${s.text?'<p>'+(s.gdir?gt(s.text,s.gdir):((s.text||'').indexOf('gscroll')>=0?s.text:esc(s.text).replace(/\{\{gin:([^}]+)\}\}/g,'<img class="gin" src="$1" alt="字形">')))+'</p>':''}`}${zx}${(s.gimgs||[]).map(f=>`<img class="gin" src="glyphs/${f}">`).join('')}${LKR(s)}</div>`;};
+let VARIANT_MAP=null;
+async function variantsFor(ch){
+  if(!VARIANT_MAP){
+    try{VARIANT_MAP=await (await fetch('cards/variants.json?v='+Date.now())).json();}catch(e){VARIANT_MAP={};}
+  }
+  const list=VARIANT_MAP[ch]||[];
+  if(!list.length) return '';
+  const btns=list.map(v=>`<button class="vbtn" onclick="goCard('${v}')">${v}</button>`).join(' ');
+  return `<div class="vbox"><span>对应繁体/借字：</span>${btns}<span class="vnote">（分卡各释本义，勿混）</span></div>`;
+}
+const SEC_ORDER=['benyi','benyi2','zhuanyi','bianzheng','yinyuan','shiyi','shengmu','zizu','zigen'];
+const secRank=k=>{const i=SEC_ORDER.indexOf(k);return i<0?99:i;};
+async function cardBody(ch,d,opt){
+  const vhtml=await variantsFor(ch);
+  const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
+  const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
+const strip=g.length?`<div class="gscroll">${g.map((f,i)=>`<figure><img loading="lazy" src="${gsrc(f)}" alt="${esc(ch)}" title="${esc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:((d.chapter||d.level===0)?'':'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>');
+  const grp=s=>{ if(!s.groups||!s.groups.length) return '';
+  return s.groups.map(g=>`<div class="grp">${g.title?'<h4>'+esc(g.title)+'</h4>':''}<p class="gnote">${esc(g.note||'')}</p>
+  <table class="ct"><thead><tr>${((g.title||'').indexOf('部目')>=0?['部目','字根','中心义','字族']:(g.header||['字','读音','类属','取义落点'])).map(t=>'<th>'+esc(t)+'</th>').join('')}</tr></thead><tbody>${g.rows.map(r=>`<tr><td class="zc">${esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');
+};
+const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
+  const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';
+  return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
+};
+let hasZX=false;const isZX=s=>!(s.text||'').includes('gscroll')&&(s.key==='zigen'||s.key==='zixing'||/字形/.test(s.label||''));
+const LKR=(s)=>((s&&s.links&&s.links.length)?("<p class=\"lks\">"+s.links.map(l=>"<a href=\"javascript:void(0)\" onclick=\"goCard('"+l.ch+"')\">"+esc(l.label)+"</a>").join(" · ")+"</p>"):"");
+const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections||[]).filter(s=>!isZX(s)&&s.label!=='所属卷').sort((a,b)=>secRank(a.key)-secRank(b.key)).map(s=>{ if(isZX(s)) hasZX=true;
+  const zx='';
+  return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}${(s.groups&&s.groups.length)?'':(s.text?('<p style="text-indent:2em">'+(s.gdir?gt(s.text,s.gdir):((s.text||'').indexOf('gscroll')>=0?s.text:esc(s.text).replace(/\{\{gin:([^}]+)\}\}/g,'<img class="gin" src="$1" alt="字形">'))).replace(/\n+/g,'</p><p style="text-indent:2em">')+'</p>'):'')}${zx}${(s.gimgs||[]).map(f=>`<img class="gin" src="glyphs/${encodeURI(f)}" alt="参证字形">`).join('')}${LKR(s)}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
-  const open = (src, cap, alt) => {
-    vimg.classList.remove('up');
-    vimg.onload = () => vimg.classList.toggle('up', vimg.naturalWidth > 0 && vimg.naturalWidth < 240);
-    vimg.src = src;
-    vimg.alt = alt || '';
-    vcap.textContent = cap || '';
-    viewer.hidden = false;
-    document.body.style.overflow = 'hidden';
-  };
-  const close = () => {
-    viewer.hidden = true;
-    vimg.removeAttribute('src');
-    document.body.style.overflow = '';
-  };
+  const rootLink = (d.level===2 && d.parent && !(opt&&opt.embed)) ? `<div class="sec"><h3>所属字根</h3><p class="lks"><a href="javascript:void(0)" onclick="goCard('${d.parent}')">${esc(d.parent)}</a></p></div>` : ''; const parentBlock = (d.level>2 && d.parent) ? await (async()=>{ try{
+      const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
+      const p=await pr.json(); if(p&&p.sections){p.sections=p.sections.filter(s=>s.label!=='所属卷');}
+      const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
+      const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
+      const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
+      const pb=(p.bus||[])[0]||{};
+      const inner=await cardBody(d.parent,p,{noPhoto:true});
+      return `<div class="sec rootbox"><h3>字根「${esc(d.parent)}」</h3>${inner}</div>`;
+    }catch(e){ return ''; } })() : '';
+  const lvlTag = d.level?`<span class="tag">${d.rootLevel?({1:'一級字根',2:'二級字根',3:'三級字根'}[d.rootLevel]||'字根'):(d.level===1?'一級字根':d.level===2?'二級字根':'谐声字')}</span>`:'';
+  const b=(d.bus||[])[0]||{};
+  const photoBlock=(()=>{if(!window.PHOTO)return '';const own=d.photos||(window.PHOTO&&window.PHOTO[d.char])||[];if(!own.length)return '';const cap=d.captions||(window.CAPS&&window.CAPS[d.char])||[];return '<div class="sec"><h3>插图</h3><div class="pscroll">'+own.map((f,i)=>'<figure><img loading="lazy" src="'+encodeURI('glyphs/photos/'+d.char+'/'+f)+'"><figcaption>'+esc(cap[i]||('图'+(i+1)))+'</figcaption></figure>').join('')+'</div></div>';})();
 
-  document.addEventListener('click', (e) => {
-    const btn = e.target.closest && e.target.closest('.glyphs-more');
-    if (!btn) return;
-    const strip = btn.previousElementSibling;
-    if (!strip || !strip.classList.contains('glyphs')) return;
-    const openAll = strip.classList.toggle('wrap');
-    btn.textContent = openAll ? '收起' : `展开全部 ${btn.dataset.count} 张`;
-    if (!openAll) strip.scrollIntoView({ block: 'nearest' });
-  });
+  return `${vhtml}<div class="card"><div class="chead"><div class="ch">${d.chapterCard?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+d.chapterCard+'\')">第'+(d.chapter||'')+'章 '+esc(d.chapterName||'')+'</a>'):sm(d.head||d.cname||ch)}${(d.bus&&d.bus[0]&&(d.bus[0].name||'').indexOf('卷')===0)?(' · '+sm(d.head||d.cname||ch)):''}${(d.simp&&!d.cname&&!(d.head||'').includes('（'))?`（${esc(d.simp)}）`:''}</div><div class="py">${esc(d.pinyin||'')}</div><div class="bu">${lvlTag}${d.chapterCard?'':('第'+String(b.num||'?')+'部 '+esc(b.name||''))}</div></div>${strip}${secs}${(opt&&opt.noPhoto)?'':photoBlock}${rootLink}${d.noRoot?'':parentBlock}${ss?'<div class="sec"><h3>所属卷</h3>'+(LKR(ss)||(ss.text?'<p>'+esc(ss.text)+'</p>':''))+'</div>':''}</div>`;
+}
+async function open(ch){
+  cur=ch; render($('#q').value);
+  const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
+  let d;
+  try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now())).json(); }
+  catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
+main.innerHTML = await cardBody(ch,d);
+}
+$('#q').addEventListener('input',e=>render(e.target.value));
+try{window.goCard=open;}catch(e){}
+  async function tryDirect(ch){
+  try{ const r=await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()); if(!r.ok) return false; const d=await r.json(); if(!d||!d.sections) return false;
+    IDX.unshift({c:ch,p:d.pinyin||'',b:((d.bus||[{}])[0]||{}).num||'',n:((d.bus||[{}])[0]||{}).name||'',t:[]}); return true; }catch(e){ return false; }
+}
+$('#q').addEventListener('keydown',async e=>{
+  if(e.key!=='Enter') return;
+  const q=e.target.value.trim();
+  if(q.length===1 && !IDX.some(x=>x.c===q)){ if(await tryDirect(q)) open(q); else render(q); }
+});
 
-  document.addEventListener('click', (e) => {
-    const img = e.target.closest && e.target.closest('.glyphs img, .photos img, .fam-photo img');
-    if (!img || img.classList.contains('broken')) return;
-    const fig = img.closest('figure');
-    const cap = fig && fig.querySelector('figcaption');
-    open(img.currentSrc || img.src, cap ? cap.textContent : '', img.alt);
-  });
-
-  viewer.addEventListener('click', (e) => {
-    if (e.target === viewer || e.target.closest('.viewer-x')) close();
-  });
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !viewer.hidden) close();
-  });
-
-  // 图片加载失败（error 不冒泡，用捕获阶段统一兜底）
-  document.addEventListener('error', (e) => {
-    const img = e.target;
-    if (!img || img.tagName !== 'IMG' || !img.closest('.glyphs, .photos, .family')) return;
-    img.classList.add('broken');
-    const fig = img.closest('figure');
-    const cap = fig && fig.querySelector('figcaption');
-    if (cap) cap.textContent = '图加载失败：' + (img.alt || '未知');
-    img.alt = '图加载失败';
-  }, true);
-})();
-// 字族里点某个字，直接开它的字卡
-document.addEventListener('click', (e) => {
-  const el = e.target.closest('.fam-char[data-glyph]');
-  if (!el || busy) return;
-  e.preventDefault();
-  input.value = el.dataset.glyph;
-  submit();
-});</script>
+</script>
+<script>document.addEventListener('error',function(e){var t=e.target;if(!t||t.tagName!=='IMG')return;var f=t.closest('figure');if(f){f.parentNode.removeChild(f);}else{t.style.display='none';}},true);</script>
 </body>
 </html>
