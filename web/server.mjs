@@ -1446,9 +1446,15 @@ const server = createServer(async (req, res) => {
       if (!existsSync(join(CARD_DIR, ch + '.json'))) {
         const idx = JSON.parse(readFileSync(join(CARD_DIR, 'index.json'), 'utf8'));
         const items = Array.isArray(idx) ? idx : (idx.items || []);
-        const hit = items.find((it) => (it.a || []).includes(ch));
-        if (hit && hit.c && existsSync(join(CARD_DIR, hit.c + '.json'))) {
-          res.writeHead(302, { Location: '/card/' + encodeURIComponent(hit.c) }); return res.end();
+        const hits = items.filter((it) => (it.a || []).includes(ch) && it.c && existsSync(join(CARD_DIR, it.c + '.json')));
+        if (hits.length === 1) {
+          res.writeHead(302, { Location: '/card/' + encodeURIComponent(hits[0].c) }); return res.end();
+        }
+        if (hits.length > 1) {
+          const seen = new Set(); const links = [];
+          for (const h of hits) { if (seen.has(h.c)) continue; seen.add(h.c); links.push('<li><a href="/card/'+encodeURIComponent(h.c)+'">'+escH(h.c)+'</a>'+(h.h&&h.h!==h.c?'（'+escH(h.h)+'）':'')+'</li>'); }
+          res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' });
+          return res.end('<!doctype html><meta charset="utf-8"><h3>「'+escH(ch)+'」兼作多字的或体</h3><p>请选择要看的字头：</p><ul>'+links.join('')+'</ul>');
         }
       }
     } catch (e) {}
