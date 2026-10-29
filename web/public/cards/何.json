@@ -4,12 +4,10 @@
  "pinyin": "hé、hè",
  "level": 2,
  "parent": "丂",
- "bus": [
-  {
-   "num": 34,
-   "name": "丂"
-  }
- ],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
  "aliases": [],
  "sections": [
   {

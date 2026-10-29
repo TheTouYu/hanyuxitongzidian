@@ -1,12 +1,10 @@
 {
  "char": "鶉",
  "pinyin": "chún",
- "bus": [
-  {
-   "num": 605,
-   "name": "鳥"
-  }
- ],
+ "bus": {
+  "num": 605,
+  "name": "鳥"
+ },
  "sections": [
   {
    "key": "shiyi",

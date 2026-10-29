@@ -6,12 +6,10 @@
  "chapterCard": "第六章因",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷四十七"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷四十七"
+ },
  "sections": [
   {
    "key": "daoyu",

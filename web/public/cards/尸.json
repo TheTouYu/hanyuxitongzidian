@@ -3,12 +3,10 @@
  "head": "尸（𠃜𡰣）",
  "pinyin": "shī",
  "level": 1,
- "bus": [
-  {
-   "num": 17,
-   "name": "尸"
-  }
- ],
+ "bus": {
+  "num": 17,
+  "name": "尸"
+ },
  "sections": [
   {
    "key": "benyi",

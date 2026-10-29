@@ -1,12 +1,10 @@
 {
  "char": "毀",
  "pinyin": "huǐ",
- "bus": [
-  {
-   "num": 485,
-   "name": "毀"
-  }
- ],
+ "bus": {
+  "num": 485,
+  "name": "毀"
+ },
  "sections": [
   {
    "key": "bengen",

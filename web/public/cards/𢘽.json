@@ -4,12 +4,10 @@
  "pinyin": "yì",
  "level": 3,
  "parent": "曳",
- "bus": [
-  {
-   "num": 26,
-   "name": "弋"
-  }
- ],
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
  "head": "𢘽（𢖪怈）",
  "aliases": [
   "怈",

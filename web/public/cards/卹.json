@@ -3,12 +3,10 @@
  "pinyin": "xù",
  "level": 3,
  "parent": "ㄗ",
- "bus": [
-  {
-   "num": 23,
-   "name": "ㄗ"
-  }
- ],
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
  "sections": [
   {
    "key": "shiyi",

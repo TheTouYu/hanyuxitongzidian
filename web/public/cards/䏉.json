@@ -1,12 +1,10 @@
 {
  "char": "䏉",
  "pinyin": "shī",
- "bus": [
-  {
-   "num": 385,
-   "name": "㬎"
-  }
- ],
+ "bus": {
+  "num": 385,
+  "name": "㬎"
+ },
  "sections": [
   {
    "key": "shiyi",

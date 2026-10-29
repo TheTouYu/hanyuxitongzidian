@@ -1,12 +1,10 @@
 {
  "char": "討",
  "pinyin": "tǎo",
- "bus": [
-  {
-   "num": 606,
-   "name": "寸"
-  }
- ],
+ "bus": {
+  "num": 606,
+  "name": "寸"
+ },
  "sections": [
   {
    "key": "shiyi",

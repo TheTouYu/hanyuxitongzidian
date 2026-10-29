@@ -3,12 +3,10 @@
  "pinyin": "zhuǒ",
  "level": 3,
  "parent": "夕",
- "bus": [
-  {
-   "num": 366,
-   "name": "夕"
-  }
- ],
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
  "sections": [
   {
    "key": "shiyi",

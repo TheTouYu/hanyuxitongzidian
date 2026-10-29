@@ -1,12 +1,10 @@
 {
  "char": "宰",
  "pinyin": "zǎi",
- "bus": [
-  {
-   "num": 417,
-   "name": "宰"
-  }
- ],
+ "bus": {
+  "num": 417,
+  "name": "宰"
+ },
  "sections": [
   {
    "key": "bengen",

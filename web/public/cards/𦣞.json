@@ -4,12 +4,10 @@
  "pinyin": "yí",
  "level": 1,
  "parent": "",
- "bus": [
-  {
-   "num": 12,
-   "name": "𦣞"
-  }
- ],
+ "bus": {
+  "num": 12,
+  "name": "𦣞"
+ },
  "sections": [
   {
    "key": "benyi",

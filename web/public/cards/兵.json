@@ -1,12 +1,10 @@
 {
  "char": "兵",
  "pinyin": "bīng",
- "bus": [
-  {
-   "num": 312,
-   "name": "兵"
-  }
- ],
+ "bus": {
+  "num": 312,
+  "name": "兵"
+ },
  "sections": [
   {
    "key": "bengen",

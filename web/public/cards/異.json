@@ -3,12 +3,10 @@
  "head": "異（异𠔱𢄖）",
  "pinyin": "yì",
  "level": 1,
- "bus": [
-  {
-   "num": 33,
-   "name": "異"
-  }
- ],
+ "bus": {
+  "num": 33,
+  "name": "異"
+ },
  "aliases": [
   "异",
   "𠔱",

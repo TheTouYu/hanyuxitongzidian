@@ -3,12 +3,10 @@
  "pinyin": "nǐ",
  "level": 3,
  "parent": "尔",
- "bus": [
-  {
-   "num": 329,
-   "name": "人"
-  }
- ],
+ "bus": {
+  "num": 329,
+  "name": "人"
+ },
  "sections": [
   {
    "key": "shiyi",

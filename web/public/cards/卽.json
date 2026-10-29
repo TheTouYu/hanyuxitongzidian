@@ -4,12 +4,10 @@
  "level": 2,
  "parent": "ㄗ",
  "rootLevel": 2,
- "bus": [
-  {
-   "num": 23,
-   "name": "ㄗ"
-  }
- ],
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
  "head": "卽（即皍）",
  "aliases": [
   "即",

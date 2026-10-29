@@ -1,12 +1,10 @@
 {
  "char": "水",
  "pinyin": "shuǐ",
- "bus": [
-  {
-   "num": 252,
-   "name": "水"
-  }
- ],
+ "bus": {
+  "num": 252,
+  "name": "水"
+ },
  "sections": [
   {
    "key": "shengmu",

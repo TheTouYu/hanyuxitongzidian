@@ -1,12 +1,10 @@
 {
  "char": "兌",
  "pinyin": "duì",
- "bus": [
-  {
-   "num": 247,
-   "name": "兌"
-  }
- ],
+ "bus": {
+  "num": 247,
+  "name": "兌"
+ },
  "sections": [
   {
    "key": "shengmu",

@@ -3,12 +3,10 @@
  "pinyin": "pèi",
  "level": 3,
  "parent": "配",
- "bus": [
-  {
-   "num": 23,
-   "name": "ㄗ"
-  }
- ],
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
  "sections": [
   {
    "key": "shiyi",

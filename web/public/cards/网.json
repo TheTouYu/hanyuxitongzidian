@@ -1,12 +1,10 @@
 {
  "char": "网",
  "pinyin": "",
- "bus": [
-  {
-   "num": 304,
-   "name": "网"
-  }
- ],
+ "bus": {
+  "num": 304,
+  "name": "网"
+ },
  "sections": [
   {
    "key": "shengmu",

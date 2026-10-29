@@ -3,12 +3,10 @@
  "head": "夷（𡗝𡰥𡖴𢎯）",
  "pinyin": "yí",
  "level": 1,
- "bus": [
-  {
-   "num": 27,
-   "name": "夷"
-  }
- ],
+ "bus": {
+  "num": 27,
+  "name": "夷"
+ },
  "sections": [
   {
    "key": "benyi",

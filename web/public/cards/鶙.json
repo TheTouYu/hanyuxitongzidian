@@ -4,12 +4,10 @@
  "pinyin": "tí／chí",
  "level": 3,
  "parent": "帝",
- "bus": [
-  {
-   "num": 11,
-   "name": "帝"
-  }
- ],
+ "bus": {
+  "num": 11,
+  "name": "帝"
+ },
  "sections": [
   {
    "key": "shiyi",

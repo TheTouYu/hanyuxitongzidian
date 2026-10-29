@@ -1,12 +1,10 @@
 {
  "char": "炕",
  "pinyin": "kàng",
- "bus": [
-  {
-   "num": 598,
-   "name": "亢"
-  }
- ],
+ "bus": {
+  "num": 598,
+  "name": "亢"
+ },
  "sections": [
   {
    "key": "shiyi",

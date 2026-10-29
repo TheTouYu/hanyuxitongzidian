@@ -1,12 +1,10 @@
 {
  "char": "酒",
  "pinyin": "jiǔ",
- "bus": [
-  {
-   "num": 547,
-   "name": "酉"
-  }
- ],
+ "bus": {
+  "num": 547,
+  "name": "酉"
+ },
  "sections": [
   {
    "key": "shiyi",

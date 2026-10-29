@@ -6,12 +6,10 @@
  "chapterCard": "第十章卝",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷七十九"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷七十九"
+ },
  "sections": [
   {
    "key": "daoyu",

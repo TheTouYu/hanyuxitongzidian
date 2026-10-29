@@ -5,12 +5,10 @@
  "pinyin": "yǐ",
  "level": 2,
  "parent": "㠯",
- "bus": [
-  {
-   "num": 8,
-   "name": "㠯"
-  }
- ],
+ "bus": {
+  "num": 8,
+  "name": "㠯"
+ },
  "sections": [
   {
    "key": "benyi",

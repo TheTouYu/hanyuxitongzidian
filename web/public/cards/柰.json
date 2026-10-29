@@ -5,12 +5,10 @@
  "pinyin": "nài",
  "level": 2,
  "parent": "示",
- "bus": [
-  {
-   "num": 10,
-   "name": "示"
-  }
- ],
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
  "head": "柰（奈）",
  "aliases": [
   "奈"

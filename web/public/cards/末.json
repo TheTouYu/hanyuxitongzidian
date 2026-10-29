@@ -1,12 +1,10 @@
 {
  "char": "末",
  "pinyin": "mō",
- "bus": [
-  {
-   "num": 294,
-   "name": "末"
-  }
- ],
+ "bus": {
+  "num": 294,
+  "name": "末"
+ },
  "sections": [
   {
    "key": "shengmu",

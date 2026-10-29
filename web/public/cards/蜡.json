@@ -3,12 +3,10 @@
  "pinyin": "zhà",
  "level": 3,
  "parent": "蟲",
- "bus": [
-  {
-   "num": 194,
-   "name": "蟲"
-  }
- ],
+ "bus": {
+  "num": 194,
+  "name": "蟲"
+ },
  "sections": [
   {
    "key": "shiyi",

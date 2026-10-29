@@ -1,12 +1,10 @@
 {
  "char": "萩",
  "pinyin": "qiū",
- "bus": [
-  {
-   "num": 540,
-   "name": "秋"
-  }
- ],
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
  "sections": [
   {
    "key": "shiyi",

@@ -5,12 +5,10 @@
  "pinyin": "sè",
  "level": 2,
  "parent": "士",
- "bus": [
-  {
-   "num": 9,
-   "name": "士"
-  }
- ],
+ "bus": {
+  "num": 9,
+  "name": "士"
+ },
  "sections": [
   {
    "key": "benyi",

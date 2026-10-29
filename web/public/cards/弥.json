@@ -3,12 +3,10 @@
  "pinyin": "mí",
  "level": 3,
  "parent": "尔",
- "bus": [
-  {
-   "num": 329,
-   "name": "弓"
-  }
- ],
+ "bus": {
+  "num": 329,
+  "name": "弓"
+ },
  "sections": [
   {
    "key": "shiyi",

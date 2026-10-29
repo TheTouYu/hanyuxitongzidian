@@ -3,12 +3,10 @@
  "pinyin": "xiè",
  "level": 3,
  "parent": "射",
- "bus": [
-  {
-   "num": 24,
-   "name": "射"
-  }
- ],
+ "bus": {
+  "num": 24,
+  "name": "射"
+ },
  "sections": [
   {
    "key": "shiyi",

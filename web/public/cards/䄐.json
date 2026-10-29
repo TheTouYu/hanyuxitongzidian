@@ -3,12 +3,10 @@
  "pinyin": "quàn",
  "level": 3,
  "parent": "祟",
- "bus": [
-  {
-   "num": 10,
-   "name": "示"
-  }
- ],
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
  "sections": [
   {
    "key": "shiyi",

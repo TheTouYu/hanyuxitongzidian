@@ -5,12 +5,10 @@
  "pinyin": "jié",
  "level": 1,
  "parent": "",
- "bus": [
-  {
-   "num": 7,
-   "name": "桀"
-  }
- ],
+ "bus": {
+  "num": 7,
+  "name": "桀"
+ },
  "sections": [
   {
    "key": "benyi",

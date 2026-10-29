@@ -3,12 +3,10 @@
  "pinyin": "yìn",
  "level": 2,
  "parent": "ㄗ",
- "bus": [
-  {
-   "num": 23,
-   "name": "ㄗ"
-  }
- ],
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
  "head": "印（币抑𠘄）",
  "aliases": [
   "币",

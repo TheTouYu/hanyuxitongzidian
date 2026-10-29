@@ -3,12 +3,10 @@
  "head": "戠（𧧬）",
  "pinyin": "zhī",
  "level": 1,
- "bus": [
-  {
-   "num": 31,
-   "name": "戠"
-  }
- ],
+ "bus": {
+  "num": 31,
+  "name": "戠"
+ },
  "aliases": [
   "𧧬"
  ],

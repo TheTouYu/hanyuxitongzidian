@@ -1,12 +1,10 @@
 {
  "char": "煙",
  "pinyin": "yān",
- "bus": [
-  {
-   "num": 355,
-   "name": ""
-  }
- ],
+ "bus": {
+  "num": 355,
+  "name": ""
+ },
  "sources": [
   "卷六十一  犀.docx 355.囪部"
  ],

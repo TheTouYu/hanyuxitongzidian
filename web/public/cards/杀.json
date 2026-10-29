@@ -1,12 +1,10 @@
 {
  "char": "杀",
  "pinyin": "shā",
- "bus": [
-  {
-   "num": 414,
-   "name": "杀"
-  }
- ],
+ "bus": {
+  "num": 414,
+  "name": "杀"
+ },
  "sections": [
   {
    "key": "shengmu",

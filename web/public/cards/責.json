@@ -3,12 +3,10 @@
  "pinyin": "zé",
  "level": 2,
  "parent": "朿",
- "bus": [
-  {
-   "num": 18,
-   "name": "朿"
-  }
- ],
+ "bus": {
+  "num": 18,
+  "name": "朿"
+ },
  "head": "責（𧵩𧶌）",
  "aliases": [
   "责",

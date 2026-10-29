@@ -5,12 +5,10 @@
  "pinyin": "chéng",
  "level": 2,
  "parent": "桀",
- "bus": [
-  {
-   "num": 7,
-   "name": "桀"
-  }
- ],
+ "bus": {
+  "num": 7,
+  "name": "桀"
+ },
  "sections": [
   {
    "key": "benyi",

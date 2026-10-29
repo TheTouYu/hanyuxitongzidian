@@ -3,12 +3,10 @@
  "pinyin": "huáng",
  "level": 3,
  "parent": "王",
- "bus": [
-  {
-   "num": 517,
-   "name": "王"
-  }
- ],
+ "bus": {
+  "num": 517,
+  "name": "王"
+ },
  "sections": [
   {
    "key": "shiyi",

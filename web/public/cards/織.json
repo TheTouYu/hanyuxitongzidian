@@ -4,12 +4,10 @@
  "pinyin": "zhī",
  "level": 3,
  "parent": "戠",
- "bus": [
-  {
-   "num": 31,
-   "name": "戠"
-  }
- ],
+ "bus": {
+  "num": 31,
+  "name": "戠"
+ },
  "aliases": [
   "织",
   "𥿮"

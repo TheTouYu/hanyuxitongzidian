@@ -1,12 +1,10 @@
 {
  "char": "忍",
  "pinyin": "rěn",
- "bus": [
-  {
-   "num": 344,
-   "name": "刃"
-  }
- ],
+ "bus": {
+  "num": 344,
+  "name": "刃"
+ },
  "sections": [
   {
    "key": "shiyi",

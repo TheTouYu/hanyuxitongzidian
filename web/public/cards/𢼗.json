@@ -5,12 +5,10 @@
  "pinyin": "shè",
  "level": 3,
  "parent": "赦",
- "bus": [
-  {
-   "num": 10,
-   "name": "示"
-  }
- ],
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
  "aliases": [
   "赦",
   "𥘦"

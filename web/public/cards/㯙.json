@@ -1,12 +1,10 @@
 {
  "char": "㯙",
  "pinyin": "zhé",
- "bus": [
-  {
-   "num": 368,
-   "name": ""
-  }
- ],
+ "bus": {
+  "num": 368,
+  "name": ""
+ },
  "sources": [
   "卷六十二  蛇.docx 368.徹部"
  ],

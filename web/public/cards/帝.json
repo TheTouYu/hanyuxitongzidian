@@ -3,12 +3,10 @@
  "pinyin": "dì",
  "level": 1,
  "parent": "",
- "bus": [
-  {
-   "num": 11,
-   "name": "帝"
-  }
- ],
+ "bus": {
+  "num": 11,
+  "name": "帝"
+ },
  "sections": [
   {
    "key": "benyi",

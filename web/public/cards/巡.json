@@ -1,12 +1,10 @@
 {
  "char": "巡",
  "pinyin": "xún",
- "bus": [
-  {
-   "num": 461,
-   "name": "川"
-  }
- ],
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
  "sections": [
   {
    "key": "shiyi",

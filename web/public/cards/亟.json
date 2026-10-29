@@ -5,12 +5,10 @@
  "pinyin": "jí",
  "level": 2,
  "parent": "乞",
- "bus": [
-  {
-   "num": 6,
-   "name": "乞"
-  }
- ],
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
  "sections": [
   {
    "key": "benyi",

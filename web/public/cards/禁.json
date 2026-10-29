@@ -1,12 +1,10 @@
 {
  "char": "禁",
  "pinyin": "jìn",
- "bus": [
-  {
-   "num": 593,
-   "name": "林"
-  }
- ],
+ "bus": {
+  "num": 593,
+  "name": "林"
+ },
  "sections": [
   {
    "key": "shiyi",

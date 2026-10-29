@@ -4,12 +4,10 @@
  "simp": "",
  "pinyin": "chá",
  "level": 3,
- "bus": [
-  {
-   "num": 10,
-   "name": "示"
-  }
- ],
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
  "aliases": [
   "𤶠"
  ],

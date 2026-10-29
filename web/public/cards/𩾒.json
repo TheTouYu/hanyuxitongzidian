@@ -5,12 +5,10 @@
  "pinyin": "xiāo",
  "level": 3,
  "parent": "了",
- "bus": [
-  {
-   "num": 8,
-   "name": "㠯"
-  }
- ],
+ "bus": {
+  "num": 8,
+  "name": "㠯"
+ },
  "sections": [
   {
    "key": "shiyi",

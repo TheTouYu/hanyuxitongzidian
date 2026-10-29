@@ -4,12 +4,10 @@
  "pinyin": "zhī",
  "level": 1,
  "parent": "",
- "bus": [
-  {
-   "num": 13,
-   "name": "支"
-  }
- ],
+ "bus": {
+  "num": 13,
+  "name": "支"
+ },
  "sections": [
   {
    "key": "benyi",

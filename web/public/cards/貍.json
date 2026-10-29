@@ -5,12 +5,10 @@
  "pinyin": "lí（又 mái、yù）",
  "level": 2,
  "parent": "士",
- "bus": [
-  {
-   "num": 9,
-   "name": "士"
-  }
- ],
+ "bus": {
+  "num": 9,
+  "name": "士"
+ },
  "head": "貍（狸）",
  "aliases": [
   "狸"

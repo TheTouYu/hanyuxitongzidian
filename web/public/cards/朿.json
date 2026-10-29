@@ -3,12 +3,10 @@
  "pinyin": "cì",
  "level": 1,
  "parent": "",
- "bus": [
-  {
-   "num": 18,
-   "name": "朿"
-  }
- ],
+ "bus": {
+  "num": 18,
+  "name": "朿"
+ },
  "sections": [
   {
    "key": "benyi",

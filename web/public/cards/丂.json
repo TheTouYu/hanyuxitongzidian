@@ -3,12 +3,10 @@
  "head": "丂（𠀀）",
  "pinyin": "kǎo、hē",
  "level": 1,
- "bus": [
-  {
-   "num": 34,
-   "name": "丂"
-  }
- ],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
  "aliases": [
   "𠀀"
  ],

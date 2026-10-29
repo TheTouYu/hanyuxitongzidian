@@ -1,12 +1,10 @@
 {
  "char": "膳",
  "pinyin": "shàn",
- "bus": [
-  {
-   "num": 493,
-   "name": "善"
-  }
- ],
+ "bus": {
+  "num": 493,
+  "name": "善"
+ },
  "sections": [
   {
    "key": "shiyi",

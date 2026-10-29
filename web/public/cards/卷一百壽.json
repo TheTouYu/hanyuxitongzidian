@@ -6,12 +6,10 @@
  "chapterCard": "第十二章老",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷一百"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷一百"
+ },
  "sections": [
   {
    "key": "daoyu",

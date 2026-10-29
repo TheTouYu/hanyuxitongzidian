@@ -1,12 +1,10 @@
 {
  "char": "牙",
  "pinyin": "yá",
- "bus": [
-  {
-   "num": 225,
-   "name": "牙"
-  }
- ],
+ "bus": {
+  "num": 225,
+  "name": "牙"
+ },
  "sections": [
   {
    "key": "shengmu",

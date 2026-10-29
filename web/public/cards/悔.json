@@ -1,12 +1,10 @@
 {
  "char": "悔",
  "pinyin": "huǐ",
- "bus": [
-  {
-   "num": 262,
-   "name": "母"
-  }
- ],
+ "bus": {
+  "num": 262,
+  "name": "母"
+ },
  "sections": [
   {
    "key": "shiyi",

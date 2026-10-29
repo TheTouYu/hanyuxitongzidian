@@ -3,12 +3,10 @@
  "pinyin": "yā",
  "level": 3,
  "parent": "邑",
- "bus": [
-  {
-   "num": 23,
-   "name": "ㄗ"
-  }
- ],
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
  "sections": [
   {
    "key": "shiyi",

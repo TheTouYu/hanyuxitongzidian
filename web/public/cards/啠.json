@@ -4,12 +4,10 @@
  "pinyin": "zhé",
  "level": 3,
  "parent": "斦",
- "bus": [
-  {
-   "num": 15,
-   "name": "斦"
-  }
- ],
+ "bus": {
+  "num": 15,
+  "name": "斦"
+ },
  "sections": [
   {
    "key": "shiyi",

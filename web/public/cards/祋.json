@@ -5,12 +5,10 @@
  "pinyin": "duì",
  "level": 3,
  "parent": "示",
- "bus": [
-  {
-   "num": 10,
-   "name": "示"
-  }
- ],
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
  "sections": [
   {
    "key": "shiyi",

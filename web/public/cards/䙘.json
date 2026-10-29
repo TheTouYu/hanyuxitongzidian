@@ -4,12 +4,10 @@
  "pinyin": "chǔ、zú",
  "level": 3,
  "parent": "戚",
- "bus": [
-  {
-   "num": 32,
-   "name": "戚"
-  }
- ],
+ "bus": {
+  "num": 32,
+  "name": "戚"
+ },
  "aliases": [],
  "sections": [
   {

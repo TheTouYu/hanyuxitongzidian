@@ -4,12 +4,10 @@
  "pinyin": "shú",
  "level": 2,
  "parent": "弋",
- "bus": [
-  {
-   "num": 26,
-   "name": "弋"
-  }
- ],
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
  "head": "尗",
  "aliases": [],
  "sections": [

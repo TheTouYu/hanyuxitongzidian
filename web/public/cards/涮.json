@@ -4,12 +4,10 @@
  "pinyin": "shuàn",
  "level": 3,
  "parent": "㕞",
- "bus": [
-  {
-   "num": 17,
-   "name": "尸"
-  }
- ],
+ "bus": {
+  "num": 17,
+  "name": "尸"
+ },
  "aliases": [],
  "sections": [
   {

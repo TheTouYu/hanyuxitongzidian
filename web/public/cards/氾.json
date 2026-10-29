@@ -3,12 +3,10 @@
  "pinyin": "fàn",
  "level": 2,
  "parent": "ㄗ",
- "bus": [
-  {
-   "num": 23,
-   "name": "ㄗ"
-  }
- ],
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
  "head": "氾（泛汜㲹汎𣲆）",
  "aliases": [
   "㲹",

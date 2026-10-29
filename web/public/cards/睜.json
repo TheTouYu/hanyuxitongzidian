@@ -1,12 +1,10 @@
 {
  "char": "睜",
  "pinyin": "zhēng",
- "bus": [
-  {
-   "num": 498,
-   "name": "爭"
-  }
- ],
+ "bus": {
+  "num": 498,
+  "name": "爭"
+ },
  "sections": [
   {
    "key": "shiyi",

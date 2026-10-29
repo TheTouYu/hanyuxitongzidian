@@ -1,12 +1,10 @@
 {
  "char": "腺",
  "pinyin": "xiàn",
- "bus": [
-  {
-   "num": 456,
-   "name": "泉"
-  }
- ],
+ "bus": {
+  "num": 456,
+  "name": "泉"
+ },
  "sections": [
   {
    "key": "shiyi",

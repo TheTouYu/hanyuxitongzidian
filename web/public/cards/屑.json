@@ -3,12 +3,10 @@
  "pinyin": "xiè",
  "level": 2,
  "parent": "夕",
- "bus": [
-  {
-   "num": 366,
-   "name": "夕"
-  }
- ],
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
  "sections": [
   {
    "key": "benyi",

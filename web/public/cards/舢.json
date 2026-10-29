@@ -1,12 +1,10 @@
 {
  "char": "舢",
  "pinyin": "shān",
- "bus": [
-  {
-   "num": 356,
-   "name": ""
-  }
- ],
+ "bus": {
+  "num": 356,
+  "name": ""
+ },
  "sources": [
   "卷六十一  犀.docx 356.山部"
  ],

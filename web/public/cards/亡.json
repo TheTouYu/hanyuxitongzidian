@@ -1,12 +1,10 @@
 {
  "char": "亡",
  "pinyin": "wáng",
- "bus": [
-  {
-   "num": 313,
-   "name": "亡"
-  }
- ],
+ "bus": {
+  "num": 313,
+  "name": "亡"
+ },
  "sections": [
   {
    "key": "shengmu",

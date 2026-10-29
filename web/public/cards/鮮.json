@@ -1,12 +1,10 @@
 {
  "char": "鮮",
  "pinyin": "xiān",
- "bus": [
-  {
-   "num": 462,
-   "name": "鮮"
-  }
- ],
+ "bus": {
+  "num": 462,
+  "name": "鮮"
+ },
  "sections": [
   {
    "key": "bengen",

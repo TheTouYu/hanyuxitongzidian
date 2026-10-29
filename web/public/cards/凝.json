@@ -5,12 +5,10 @@
  "pinyin": "níng",
  "level": 3,
  "parent": "疑",
- "bus": [
-  {
-   "num": 5,
-   "name": "欠"
-  }
- ],
+ "bus": {
+  "num": 5,
+  "name": "欠"
+ },
  "sections": [
   {
    "key": "shiyi",

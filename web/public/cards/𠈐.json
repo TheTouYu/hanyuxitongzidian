@@ -3,12 +3,10 @@
  "head": "𠈐（伸）",
  "pinyin": "shēn",
  "noRoot": true,
- "bus": [
-  {
-   "num": 26,
-   "name": "弋"
-  }
- ],
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
  "sections": [
   {
    "key": "shiyi",

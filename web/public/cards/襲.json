@@ -1,12 +1,10 @@
 {
  "char": "襲",
  "pinyin": "xí",
- "bus": [
-  {
-   "num": 177,
-   "name": "衣"
-  }
- ],
+ "bus": {
+  "num": 177,
+  "name": "衣"
+ },
  "sections": [
   {
    "key": "shiyi",

@@ -1,12 +1,10 @@
 {
  "char": "眉",
  "pinyin": "méi",
- "bus": [
-  {
-   "num": 292,
-   "name": "眉"
-  }
- ],
+ "bus": {
+  "num": 292,
+  "name": "眉"
+ },
  "sections": [
   {
    "key": "shengmu",

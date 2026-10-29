@@ -2,12 +2,10 @@
  "char": "次",
  "pinyin": "cì",
  "level": 1,
- "bus": [
-  {
-   "num": 20,
-   "name": "次"
-  }
- ],
+ "bus": {
+  "num": 20,
+  "name": "次"
+ },
  "head": "次（㳄𣄭𠕞𠤣𦮏𣬌）",
  "aliases": [
   "㳄",

@@ -3,12 +3,10 @@
  "pinyin": "gǔ",
  "level": 3,
  "parent": "木",
- "bus": [
-  {
-   "num": 307,
-   "name": "木"
-  }
- ],
+ "bus": {
+  "num": 307,
+  "name": "木"
+ },
  "sections": [
   {
    "key": "shiyi",

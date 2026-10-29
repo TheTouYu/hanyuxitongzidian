@@ -1,12 +1,10 @@
 {
  "char": "弱",
  "pinyin": "ruò",
- "bus": [
-  {
-   "num": 340,
-   "name": "弱"
-  }
- ],
+ "bus": {
+  "num": 340,
+  "name": "弱"
+ },
  "sections": [
   {
    "key": "shengmu",

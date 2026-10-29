@@ -1,12 +1,10 @@
 {
  "char": "蜥",
  "pinyin": "xī",
- "bus": [
-  {
-   "num": 390,
-   "name": "析"
-  }
- ],
+ "bus": {
+  "num": 390,
+  "name": "析"
+ },
  "sections": [
   {
    "key": "shiyi",

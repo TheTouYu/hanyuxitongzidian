@@ -1,12 +1,10 @@
 {
  "char": "捲",
  "pinyin": "juǎn",
- "bus": [
-  {
-   "num": 460,
-   "name": "卷"
-  }
- ],
+ "bus": {
+  "num": 460,
+  "name": "卷"
+ },
  "sections": [
   {
    "key": "shiyi",

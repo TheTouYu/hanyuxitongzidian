@@ -2,12 +2,10 @@
  "char": "ㄗ",
  "pinyin": "jié",
  "level": 1,
- "bus": [
-  {
-   "num": 23,
-   "name": "ㄗ"
-  }
- ],
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
  "head": "ㄗ（㔿卪𠁾𢎛）",
  "aliases": [
   "㔿",

@@ -1,12 +1,10 @@
 {
  "char": "隼",
  "pinyin": "sǔn",
- "bus": [
-  {
-   "num": 201,
-   "name": "隼"
-  }
- ],
+ "bus": {
+  "num": 201,
+  "name": "隼"
+ },
  "sections": [
   {
    "key": "shengmu",

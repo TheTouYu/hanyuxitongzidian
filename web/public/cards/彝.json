@@ -3,12 +3,10 @@
  "head": "彝（彜彛彞𢁔𢍵𢑴𦇚𢇏𦄳𦆩𧤋𢑱𢑲）",
  "pinyin": "yí",
  "level": 1,
- "bus": [
-  {
-   "num": 30,
-   "name": "彝"
-  }
- ],
+ "bus": {
+  "num": 30,
+  "name": "彝"
+ },
  "sections": [
   {
    "key": "benyi",

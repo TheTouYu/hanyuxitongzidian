@@ -2,12 +2,10 @@
  "char": "意",
  "pinyin": "yì",
  "level": 1,
- "bus": [
-  {
-   "num": 22,
-   "name": "意"
-  }
- ],
+ "bus": {
+  "num": 22,
+  "name": "意"
+ },
  "head": "意（𢡃𠶷悥）",
  "aliases": [
   "悥",

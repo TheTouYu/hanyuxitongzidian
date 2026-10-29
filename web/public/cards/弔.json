@@ -3,12 +3,10 @@
  "head": "弔（吊𢎣𢎨𢎱）",
  "pinyin": "diào",
  "level": 1,
- "bus": [
-  {
-   "num": 29,
-   "name": "弔"
-  }
- ],
+ "bus": {
+  "num": 29,
+  "name": "弔"
+ },
  "sections": [
   {
    "key": "benyi",

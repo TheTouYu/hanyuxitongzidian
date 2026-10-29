@@ -1,12 +1,10 @@
 {
  "char": "怖",
  "pinyin": "bù",
- "bus": [
-  {
-   "num": 161,
-   "name": "父"
-  }
- ],
+ "bus": {
+  "num": 161,
+  "name": "父"
+ },
  "sections": [
   {
    "key": "shiyi",

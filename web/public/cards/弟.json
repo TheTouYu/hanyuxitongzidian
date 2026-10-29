@@ -3,12 +3,10 @@
  "head": "弟（𠂖𢦢）",
  "pinyin": "dì",
  "level": 1,
- "bus": [
-  {
-   "num": 28,
-   "name": "弟"
-  }
- ],
+ "bus": {
+  "num": 28,
+  "name": "弟"
+ },
  "sections": [
   {
    "key": "benyi",

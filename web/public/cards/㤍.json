@@ -4,12 +4,10 @@
  "pinyin": "qiāo、qiǎo",
  "level": 3,
  "parent": "丂",
- "bus": [
-  {
-   "num": 34,
-   "name": "丂"
-  }
- ],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
  "aliases": [],
  "sections": [
   {

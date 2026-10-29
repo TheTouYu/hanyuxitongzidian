@@ -6,12 +6,10 @@
  "pinyin": "",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "第八章 子"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "第八章 子"
+ },
  "sections": [
   {
    "key": "yiyuan",

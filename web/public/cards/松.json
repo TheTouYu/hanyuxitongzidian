@@ -3,12 +3,10 @@
  "pinyin": "sōng",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": ""
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": ""
+ },
  "sections": [
   {
    "key": "benyi",

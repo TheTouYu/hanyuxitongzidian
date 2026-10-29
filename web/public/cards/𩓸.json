@@ -4,12 +4,10 @@
  "pinyin": "guī",
  "level": 3,
  "parent": "支",
- "bus": [
-  {
-   "num": 13,
-   "name": "支"
-  }
- ],
+ "bus": {
+  "num": 13,
+  "name": "支"
+ },
  "sections": [
   {
    "key": "shiyi",

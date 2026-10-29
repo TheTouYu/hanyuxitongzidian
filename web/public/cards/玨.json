@@ -1,12 +1,10 @@
 {
  "char": "玨",
  "pinyin": "jué",
- "bus": [
-  {
-   "num": 440,
-   "name": "玨"
-  }
- ],
+ "bus": {
+  "num": 440,
+  "name": "玨"
+ },
  "sections": [
   {
    "key": "bengen",

@@ -1,12 +1,10 @@
 {
  "char": "汨",
  "pinyin": "mì",
- "bus": [
-  {
-   "num": 336,
-   "name": "日"
-  }
- ],
+ "bus": {
+  "num": 336,
+  "name": "日"
+ },
  "sections": [
   {
    "key": "shiyi",

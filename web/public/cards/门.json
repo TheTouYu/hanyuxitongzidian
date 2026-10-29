@@ -1,12 +1,10 @@
 {
  "char": "门",
  "pinyin": "mén",
- "bus": [
-  {
-   "num": 278,
-   "name": "門"
-  }
- ],
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
  "sections": [
   {
    "key": "shiyi",

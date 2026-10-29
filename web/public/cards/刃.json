@@ -1,12 +1,10 @@
 {
  "char": "刃",
  "pinyin": "rèn",
- "bus": [
-  {
-   "num": 344,
-   "name": "刃"
-  }
- ],
+ "bus": {
+  "num": 344,
+  "name": "刃"
+ },
  "sections": [
   {
    "key": "shengmu",

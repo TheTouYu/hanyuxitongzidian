@@ -1,12 +1,10 @@
 {
  "char": "巿",
  "pinyin": "fú",
- "bus": [
-  {
-   "num": 159,
-   "name": "巿"
-  }
- ],
+ "bus": {
+  "num": 159,
+  "name": "巿"
+ },
  "sections": [
   {
    "key": "shengmu",

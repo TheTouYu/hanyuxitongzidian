@@ -1,12 +1,10 @@
 {
  "char": "情",
  "pinyin": "qíng",
- "bus": [
-  {
-   "num": 497,
-   "name": "生"
-  }
- ],
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
  "sections": [
   {
    "key": "shiyi",

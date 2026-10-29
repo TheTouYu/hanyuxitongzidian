@@ -1,12 +1,10 @@
 {
  "char": "忘",
  "pinyin": "wàng",
- "bus": [
-  {
-   "num": 313,
-   "name": "亡"
-  }
- ],
+ "bus": {
+  "num": 313,
+  "name": "亡"
+ },
  "sections": [
   {
    "key": "shiyi",

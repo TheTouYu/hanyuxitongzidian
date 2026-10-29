@@ -1,12 +1,10 @@
 {
  "char": "瓴",
  "pinyin": "líng",
- "bus": [
-  {
-   "num": 180,
-   "name": "今"
-  }
- ],
+ "bus": {
+  "num": 180,
+  "name": "今"
+ },
  "sections": [
   {
    "key": "shiyi",

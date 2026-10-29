@@ -1,12 +1,10 @@
 {
  "char": "初",
  "pinyin": "chū",
- "bus": [
-  {
-   "num": 604,
-   "name": "刀"
-  }
- ],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
  "sections": [
   {
    "key": "shiyi",

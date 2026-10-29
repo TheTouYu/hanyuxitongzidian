@@ -1,12 +1,10 @@
 {
  "char": "月",
  "pinyin": "yuè",
- "bus": [
-  {
-   "num": 212,
-   "name": "月"
-  }
- ],
+ "bus": {
+  "num": 212,
+  "name": "月"
+ },
  "sections": [
   {
    "key": "shengmu",

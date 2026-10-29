@@ -1,12 +1,10 @@
 {
  "char": "血",
  "pinyin": "xuè",
- "bus": [
-  {
-   "num": 186,
-   "name": "血"
-  }
- ],
+ "bus": {
+  "num": 186,
+  "name": "血"
+ },
  "sections": [
   {
    "key": "shengmu",

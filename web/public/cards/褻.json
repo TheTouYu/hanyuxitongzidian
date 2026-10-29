@@ -1,12 +1,10 @@
 {
  "char": "褻",
  "pinyin": "xiè",
- "bus": [
-  {
-   "num": 473,
-   "name": "癸"
-  }
- ],
+ "bus": {
+  "num": 473,
+  "name": "癸"
+ },
  "sections": [
   {
    "key": "shiyi",

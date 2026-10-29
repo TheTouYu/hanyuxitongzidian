@@ -6,12 +6,10 @@
  "chapterCard": "第七章兒",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷六十三"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷六十三"
+ },
  "sections": [
   {
    "key": "daoyu",

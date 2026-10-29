@@ -4,12 +4,10 @@
  "level": 3,
  "parent": "",
  "noRoot": true,
- "bus": [
-  {
-   "num": 10,
-   "name": "示"
-  }
- ],
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
  "sections": [
   {
    "key": "shiyi",

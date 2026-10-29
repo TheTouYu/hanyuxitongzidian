@@ -1,12 +1,10 @@
 {
  "char": "救",
  "pinyin": "jiù",
- "bus": [
-  {
-   "num": 541,
-   "name": "求"
-  }
- ],
+ "bus": {
+  "num": 541,
+  "name": "求"
+ },
  "sections": [
   {
    "key": "shiyi",

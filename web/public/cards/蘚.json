@@ -1,12 +1,10 @@
 {
  "char": "蘚",
  "pinyin": "xiǎn",
- "bus": [
-  {
-   "num": 462,
-   "name": "鮮"
-  }
- ],
+ "bus": {
+  "num": 462,
+  "name": "鮮"
+ },
  "sections": [
   {
    "key": "shiyi",

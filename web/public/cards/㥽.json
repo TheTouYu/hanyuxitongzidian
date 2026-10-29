@@ -3,12 +3,10 @@
  "pinyin": "cè",
  "level": 3,
  "parent": "責",
- "bus": [
-  {
-   "num": 18,
-   "name": "朿"
-  }
- ],
+ "bus": {
+  "num": 18,
+  "name": "朿"
+ },
  "sections": [
   {
    "key": "shiyi",

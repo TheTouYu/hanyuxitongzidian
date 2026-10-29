@@ -4,12 +4,10 @@
  "pinyin": "jià",
  "level": 3,
  "parent": "加",
- "bus": [
-  {
-   "num": 37,
-   "name": "加"
-  }
- ],
+ "bus": {
+  "num": 37,
+  "name": "加"
+ },
  "sections": [
   {
    "key": "shiyi",

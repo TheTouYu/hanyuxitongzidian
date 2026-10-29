@@ -4,12 +4,10 @@
  "pinyin": "jí",
  "level": 3,
  "parent": "尗",
- "bus": [
-  {
-   "num": 26,
-   "name": "弋"
-  }
- ],
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
  "head": "𡧯（𧧌）",
  "aliases": [
   "𧧌"

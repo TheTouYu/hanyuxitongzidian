@@ -3,12 +3,10 @@
  "pinyin": "shī",
  "level": 3,
  "parent": "尸",
- "bus": [
-  {
-   "num": 17,
-   "name": "尸"
-  }
- ],
+ "bus": {
+  "num": 17,
+  "name": "尸"
+ },
  "sections": [
   {
    "key": "shiyi",

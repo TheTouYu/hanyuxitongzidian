@@ -4,12 +4,10 @@
  "pinyin": "jì",
  "level": 3,
  "parent": "異",
- "bus": [
-  {
-   "num": 33,
-   "name": "異"
-  }
- ],
+ "bus": {
+  "num": 33,
+  "name": "異"
+ },
  "aliases": [],
  "sections": [
   {

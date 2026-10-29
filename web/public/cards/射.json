@@ -2,12 +2,10 @@
  "char": "射",
  "pinyin": "shè",
  "level": 1,
- "bus": [
-  {
-   "num": 24,
-   "name": "射"
-  }
- ],
+ "bus": {
+  "num": 24,
+  "name": "射"
+ },
  "head": "射（䠶𨈡）",
  "aliases": [
   "䠶",

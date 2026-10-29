@@ -1,12 +1,10 @@
 {
  "char": "工",
  "pinyin": "gōng",
- "bus": [
-  {
-   "num": 500,
-   "name": "工"
-  }
- ],
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
  "sections": [
   {
    "key": "bengen",

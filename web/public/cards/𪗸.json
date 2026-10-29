@@ -1,12 +1,10 @@
 {
  "char": "𪗸",
  "pinyin": "míng",
- "bus": [
-  {
-   "num": 366,
-   "name": "夕"
-  }
- ],
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
  "sources": [
   "卷六十二  蛇.docx 366.夕部"
  ],

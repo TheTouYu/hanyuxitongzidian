@@ -1,12 +1,10 @@
 {
  "char": "乏",
  "pinyin": "fá",
- "bus": [
-  {
-   "num": 193,
-   "name": "乏"
-  }
- ],
+ "bus": {
+  "num": 193,
+  "name": "乏"
+ },
  "sections": [
   {
    "key": "shengmu",

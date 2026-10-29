@@ -5,12 +5,10 @@
  "pinyin": "mǒu",
  "level": 3,
  "parent": "罘",
- "bus": [
-  {
-   "num": 10,
-   "name": "示"
-  }
- ],
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
  "aliases": [
   "䍒",
   "罘"

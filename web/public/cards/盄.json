@@ -4,12 +4,10 @@
  "pinyin": "zhāo",
  "level": 3,
  "parent": "弔",
- "bus": [
-  {
-   "num": 29,
-   "name": "弔"
-  }
- ],
+ "bus": {
+  "num": 29,
+  "name": "弔"
+ },
  "sections": [
   {
    "key": "shiyi",

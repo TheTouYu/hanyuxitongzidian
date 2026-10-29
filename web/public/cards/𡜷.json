@@ -5,12 +5,10 @@
  "pinyin": "pín",
  "level": 3,
  "parent": "丐",
- "bus": [
-  {
-   "num": 4,
-   "name": "匃"
-  }
- ],
+ "bus": {
+  "num": 4,
+  "name": "匃"
+ },
  "sections": [
   {
    "key": "shiyi",

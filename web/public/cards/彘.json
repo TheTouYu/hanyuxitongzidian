@@ -4,12 +4,10 @@
  "pinyin": "zhì",
  "level": 2,
  "parent": "矢",
- "bus": [
-  {
-   "num": 16,
-   "name": "矢"
-  }
- ],
+ "bus": {
+  "num": 16,
+  "name": "矢"
+ },
  "aliases": [
   "𠅰",
   "𢑣",

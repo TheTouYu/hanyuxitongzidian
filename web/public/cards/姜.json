@@ -3,12 +3,10 @@
  "pinyin": "jiāng",
  "level": 3,
  "parent": "羊",
- "bus": [
-  {
-   "num": 523,
-   "name": "羊"
-  }
- ],
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
  "sections": [
   {
    "key": "shiyi",

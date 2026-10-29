@@ -4,12 +4,10 @@
  "pinyin": "tí",
  "level": 3,
  "parent": "夷",
- "bus": [
-  {
-   "num": 27,
-   "name": "夷"
-  }
- ],
+ "bus": {
+  "num": 27,
+  "name": "夷"
+ },
  "head": "荑（𦯔苐）",
  "aliases": [
   "苐",

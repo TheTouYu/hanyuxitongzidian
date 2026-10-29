@@ -3,12 +3,10 @@
  "pinyin": "lǐ",
  "level": 3,
  "parent": "衣",
- "bus": [
-  {
-   "num": 177,
-   "name": "衣"
-  }
- ],
+ "bus": {
+  "num": 177,
+  "name": "衣"
+ },
  "sections": [
   {
    "key": "shiyi",

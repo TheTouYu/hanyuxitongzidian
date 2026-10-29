@@ -6,12 +6,10 @@
  "chapterCard": "第五章屰",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷三十八"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷三十八"
+ },
  "sections": [
   {
    "key": "daoyu",

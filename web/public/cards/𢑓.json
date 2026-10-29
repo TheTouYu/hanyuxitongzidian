@@ -5,12 +5,10 @@
  "pinyin": "jiā",
  "level": 2,
  "parent": "士",
- "bus": [
-  {
-   "num": 9,
-   "name": "士"
-  }
- ],
+ "bus": {
+  "num": 9,
+  "name": "士"
+ },
  "head": "𢑓（豭猳）",
  "aliases": [
   "猳",

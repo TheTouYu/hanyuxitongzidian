@@ -1,12 +1,10 @@
 {
  "char": "冓",
  "pinyin": "gòu",
- "bus": [
-  {
-   "num": 91,
-   "name": "冓部"
-  }
- ],
+ "bus": {
+  "num": 91,
+  "name": "冓部"
+ },
  "sections": [
   {
    "key": "shengmu",

@@ -4,12 +4,10 @@
  "level": 2,
  "parent": "次",
  "rootLevel": 2,
- "bus": [
-  {
-   "num": 20,
-   "name": "次"
-  }
- ],
+ "bus": {
+  "num": 20,
+  "name": "次"
+ },
  "head": "㳄（涎𣳧𣶛𣶜𣶚𣶙）",
  "aliases": [
   "涎",

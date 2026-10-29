@@ -3,12 +3,10 @@
  "pinyin": "gān",
  "level": 3,
  "parent": "乙",
- "bus": [
-  {
-   "num": 361,
-   "name": "乙"
-  }
- ],
+ "bus": {
+  "num": 361,
+  "name": "乙"
+ },
  "sections": [
   {
    "key": "shiyi",

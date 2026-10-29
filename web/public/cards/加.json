@@ -3,12 +3,10 @@
  "head": "加",
  "pinyin": "jiā",
  "level": 1,
- "bus": [
-  {
-   "num": 37,
-   "name": "加"
-  }
- ],
+ "bus": {
+  "num": 37,
+  "name": "加"
+ },
  "aliases": [],
  "sections": [
   {

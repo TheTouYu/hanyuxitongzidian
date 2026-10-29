@@ -6,12 +6,10 @@
  "chapterCard": "第四章孕",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷二十九"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷二十九"
+ },
  "sections": [
   {
    "key": "daoyu",

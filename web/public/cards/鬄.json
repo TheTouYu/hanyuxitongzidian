@@ -3,12 +3,10 @@
  "pinyin": "dí",
  "level": 3,
  "parent": "易",
- "bus": [
-  {
-   "num": 367,
-   "name": "易"
-  }
- ],
+ "bus": {
+  "num": 367,
+  "name": "易"
+ },
  "sections": [
   {
    "key": "shiyi",

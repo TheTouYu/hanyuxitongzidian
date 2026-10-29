@@ -6,12 +6,10 @@
  "chapterCard": "第十一章兄",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷八十七"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷八十七"
+ },
  "sections": [
   {
    "key": "daoyu",

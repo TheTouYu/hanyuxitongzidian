@@ -2,12 +2,10 @@
  "head": "𦑱（𦒧）",
  "pinyin": "huò",
  "parent": "隺",
- "bus": [
-  {
-   "num": 39,
-   "name": "隺"
-  }
- ],
+ "bus": {
+  "num": 39,
+  "name": "隺"
+ },
  "sections": [
   {
    "key": "shiyi",

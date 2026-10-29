@@ -4,12 +4,10 @@
  "pinyin": "jiāo",
  "level": 3,
  "parent": "叔",
- "bus": [
-  {
-   "num": 26,
-   "name": "弋"
-  }
- ],
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
  "sections": [
   {
    "key": "shiyi",

@@ -6,12 +6,10 @@
  "chapterCard": "第八章子",
  "level": 0,
  "parent": "",
- "bus": [
-  {
-   "num": 0,
-   "name": "卷六十四"
-  }
- ],
+ "bus": {
+  "num": 0,
+  "name": "卷六十四"
+ },
  "sections": [
   {
    "key": "daoyu",

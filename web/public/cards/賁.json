@@ -1,12 +1,10 @@
 {
  "char": "賁",
  "pinyin": "bēn",
- "bus": [
-  {
-   "num": 128,
-   "name": "賁"
-  }
- ],
+ "bus": {
+  "num": 128,
+  "name": "賁"
+ },
  "sections": [
   {
    "key": "shengmu",

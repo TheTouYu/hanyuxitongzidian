@@ -1,12 +1,10 @@
 {
  "char": "黏",
  "pinyin": "nián",
- "bus": [
-  {
-   "num": 382,
-   "name": "占"
-  }
- ],
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
  "sections": [
   {
    "key": "shiyi",

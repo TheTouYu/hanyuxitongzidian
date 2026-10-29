@@ -4,12 +4,10 @@
  "pinyin": "tái",
  "level": 3,
  "parent": "至",
- "bus": [
-  {
-   "num": 16,
-   "name": "矢"
-  }
- ],
+ "bus": {
+  "num": 16,
+  "name": "矢"
+ },
  "rootLevel": 3,
  "aliases": [
   "㙜",

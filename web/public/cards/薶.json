@@ -5,12 +5,10 @@
  "pinyin": "mái",
  "level": 3,
  "parent": "貍",
- "bus": [
-  {
-   "num": 9,
-   "name": "士"
-  }
- ],
+ "bus": {
+  "num": 9,
+  "name": "士"
+ },
  "sections": [
   {
    "key": "shiyi",

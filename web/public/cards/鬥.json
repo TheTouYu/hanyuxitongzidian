@@ -2,12 +2,10 @@
  "char": "鬥",
  "pinyin": "dòu",
  "level": 1,
- "bus": [
-  {
-   "num": 468,
-   "name": "鬥"
-  }
- ],
+ "bus": {
+  "num": 468,
+  "name": "鬥"
+ },
  "sections": [
   {
    "key": "shengmu",

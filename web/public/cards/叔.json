@@ -5,12 +5,10 @@
  "level": 3,
  "parent": "尗",
  "rootLevel": 3,
- "bus": [
-  {
-   "num": 26,
-   "name": "弋"
-  }
- ],
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
  "head": "叔（𡬧）",
  "aliases": [
   "𡬧"
