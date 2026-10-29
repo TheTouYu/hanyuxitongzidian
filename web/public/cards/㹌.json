@@ -1,0 +1,35 @@
+{
+ "char": "㹌",
+ "head": "㹌",
+ "pinyin": "chǎn",
+ "level": 3,
+ "parent": "產",
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“畜牷也。从牛產聲。所簡切。”畜牲。shèng，《集韻》：“牸牛。”母牛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「持」：牸牛持育（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
