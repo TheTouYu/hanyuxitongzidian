@@ -1437,7 +1437,17 @@ const server = createServer(async (req, res) => {
   const url = new URL(req.url || '/', `http://${HOST}:${PORT}`);
   const path = url.pathname;
   if (path.startsWith('/card/')) {
-    const ch = decodeURIComponent(path.slice(6)).replace(/\.html$/, '');
+    let ch = decodeURIComponent(path.slice(6)).replace(/\.html$/, '');
+    try {
+      if (!existsSync(join(CARD_DIR, ch + '.json'))) {
+        const idx = JSON.parse(readFileSync(join(CARD_DIR, 'index.json'), 'utf8'));
+        const items = Array.isArray(idx) ? idx : (idx.items || []);
+        const hit = items.find((it) => (it.a || []).includes(ch));
+        if (hit && hit.c && existsSync(join(CARD_DIR, hit.c + '.json'))) {
+          res.writeHead(302, { Location: '/card/' + encodeURIComponent(hit.c) }); return res.end();
+        }
+      }
+    } catch (e) {}
     const html = renderCard(ch);
     res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' });
     return res.end(html || '<!doctype html><meta charset="utf-8"><p>没有这个字。</p>');
