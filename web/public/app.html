@@ -289,6 +289,8 @@
     .photos img { height: 84px; }
     .card-char { font-size: 36px; }
   }
+.gimg-grp{margin:6px 0 2px}
+.gimg-lab{font-size:13px;color:var(--acc,#8a5a2b);margin:2px 0 4px;letter-spacing:.05em}
 </style>
 </head>
 <body>
@@ -593,8 +595,20 @@ function renderCard(card) {
       html += render(s.text);
     }
     if (s.gimgs && s.gimgs.length) {
-      html += '<div class="glyphs many">' + s.gimgs.map((f, i) =>
-        `<figure><img src="glyphs/${encodeURI(f)}" alt="参证字形${i + 1}" loading="lazy"><figcaption>${i + 1}</figcaption></figure>`).join('') + '</div>';
+      const grp = [];
+      for (const f of s.gimgs) {
+        const lab = String(f).includes('/') ? String(f).split('/')[0] : '';
+        const last = grp[grp.length - 1];
+        if (last && last.lab === lab) last.items.push(f); else grp.push({ lab, items: [f] });
+      }
+      let k = 0;
+      html += grp.map(g =>
+        `<div class="gimg-grp">` +
+        (g.lab ? `<div class="gimg-lab">${esc(g.lab)}</div>` : '') +
+        '<div class="glyphs many">' + g.items.map(f => {
+          k += 1;
+          return `<figure><img src="glyphs/${encodeURI(f)}" alt="参证字形${k}" loading="lazy"><figcaption>${k}</figcaption></figure>`;
+        }).join('') + '</div></div>').join('');
     }
     html += '</div>';
   }
