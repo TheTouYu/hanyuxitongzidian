@@ -1,9 +1,10 @@
 {
  "char": "占",
  "pinyin": "zhān",
- "bus": [
-  "占部"
- ],
+ "bus": {
+  "num": 382,
+  "name": "索"
+ },
  "sections": [
   {
    "key": "shengmu",

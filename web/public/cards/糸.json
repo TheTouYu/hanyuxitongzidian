@@ -1,9 +1,10 @@
 {
  "char": "糸",
  "pinyin": "mì",
- "bus": [
-  "糸部"
- ],
+ "bus": {
+  "num": 383,
+  "name": "絲"
+ },
  "sections": [
   {
    "key": "shengmu",
