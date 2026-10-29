@@ -165,7 +165,7 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
 
   const rootLink = (d.level===2 && d.parent && !(opt&&opt.embed)) ? `<div class="sec"><h3>所属字根</h3><p class="lks"><a href="javascript:void(0)" onclick="goCard('${d.parent}')">${esc(d.parent)}</a></p></div>` : ''; const parentBlock = (d.level>2 && d.parent) ? await (async()=>{ try{
       const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
-      const p=await pr.json(); if(p&&p.sections){p.sections=p.sections.filter(s=>s.label!=='所属卷');p.level=3;}
+      const p=await pr.json(); if(p&&p.sections){p.sections=p.sections.filter(s=>s.label!=='所属卷');}
       const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
       const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
       const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
