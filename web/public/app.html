@@ -592,6 +592,10 @@ function renderCard(card) {
     } else {
       html += render(s.text);
     }
+    if (s.gimgs && s.gimgs.length) {
+      html += '<div class="glyphs many">' + s.gimgs.map((f, i) =>
+        `<figure><img src="glyphs/${encodeURI(f)}" alt="参证字形${i + 1}" loading="lazy"><figcaption>${i + 1}</figcaption></figure>`).join('') + '</div>';
+    }
     html += '</div>';
   }
   if (!card.sections || !card.sections.length) {
