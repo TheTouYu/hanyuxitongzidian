@@ -1,0 +1,35 @@
+{
+ "char": "㸕",
+ "head": "㸕",
+ "pinyin": "jué",
+ "level": 3,
+ "parent": "隻",
+ "bus": [
+  {
+   "num": 40,
+   "name": "隻"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《字彙補》：『與攫同。』"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "（按今读声母取拟态义一面，推。）"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
