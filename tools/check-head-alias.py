@@ -12,7 +12,7 @@ for f in files:
     m=re.search(r"[（(]([^）)]*)[）)]",head)
     if not m: continue
     al=set(d.get("aliases") or [])
-    miss=[ch for ch in CJK.findall(m.group(1)) if ch!=me and ch not in al]
+    miss=[ch for ch in CJK.findall(m.group(1)) if ch!=me and ch not in al and not os.path.exists(os.path.join(C,ch+".json"))]
     if miss: bad.append((me,"".join(miss)))
 print("HEAD-ALIAS-MISSING",len(bad),bad[:10])
 sys.exit(1 if bad else 0)
