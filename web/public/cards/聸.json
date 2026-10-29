@@ -1,0 +1,35 @@
+{
+ "char": "聸",
+ "head": "聸",
+ "pinyin": "dān",
+ "level": 3,
+ "parent": "詹",
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“垂耳也。从耳詹聲。南方聸耳之國。都甘切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤動」取「囤」：耳垂如囤（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}

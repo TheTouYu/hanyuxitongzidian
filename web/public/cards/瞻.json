@@ -1,0 +1,35 @@
+{
+ "char": "瞻",
+ "head": "瞻",
+ "pinyin": "zhān",
+ "level": 3,
+ "parent": "詹",
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“臨視也。从目詹聲。職廉切。”向下看。《廣韻》：“瞻視。”向上或向前看。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：目光凿凿而視（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
