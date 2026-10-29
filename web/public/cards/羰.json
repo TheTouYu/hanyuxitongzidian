@@ -1,0 +1,35 @@
+{
+ "char": "羰",
+ "head": "羰",
+ "pinyin": "tàng",
+ "level": 3,
+ "parent": "炭",
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《漢典》：“[羰基]碳氧兩種原子構成的原子團。”英文carbonyl(羰基)的音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「涂」：音譯，取炭音（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
