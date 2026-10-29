@@ -1,0 +1,35 @@
+{
+ "char": "𧱱",
+ "head": "𧱱",
+ "pinyin": "gāi",
+ "level": 3,
+ "parent": "彥",
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𧱱，俗。豥，正，古來、戶來二反。豕四蹄白。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：豕蹄四白如界隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}

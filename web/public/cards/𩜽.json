@@ -1,0 +1,35 @@
+{
+ "char": "𩜽",
+ "head": "𩜽",
+ "pinyin": "yàn",
+ "level": 3,
+ "parent": "彥",
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《酉陽雜俎》：“飴謂𩜽。”糖。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
