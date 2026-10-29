@@ -1,0 +1,40 @@
+{
+ "char": "𣵣",
+ "head": "𣵣",
+ "pinyin": "hè",
+ "level": 3,
+ "parent": "何",
+ "bus": [
+  {
+   "num": 34,
+   "name": "丂"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《字彙補》：“與菏同。《集韻》：澤名。”按：《集韻》無“𣵣”字，疑本“河”的異體，指黃河。甲骨文“河”本或从“何”。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h「豁活」取「豁」：从何之負戈义（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ],
+   "cites": []
+  }
+ ]
+}

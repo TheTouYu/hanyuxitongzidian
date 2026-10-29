@@ -1,0 +1,40 @@
+{
+ "char": "𢚨",
+ "head": "𢚨",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "何",
+ "bus": [
+  {
+   "num": 34,
+   "name": "丂"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《龍龕》：“志，意也；慕也。𢚨，俗。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：从何之負荷义（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ],
+   "cites": []
+  }
+ ]
+}
