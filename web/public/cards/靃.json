@@ -1,11 +1,12 @@
 {
  "head": "靃（霍）",
  "pinyin": "huò",
- "parent": "隺",
- "bus": {
-  "num": 39,
-  "name": "隺"
- },
+ "bus": [
+  {
+   "num": 40,
+   "name": "靃"
+  }
+ ],
  "sections": [
   {
    "key": "benyi",
@@ -236,7 +237,7 @@
   }
  ],
  "char": "靃",
- "level": 2,
+ "level": 1,
  "aliases": [
   "霍"
  ]
