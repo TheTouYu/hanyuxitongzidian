@@ -1,0 +1,59 @@
+<!doctype html><html lang="zh"><meta charset="utf-8"><title>字卡测试页 · 兮</title>
+<style>
+body{font-family:"Songti SC",SimSun,serif;background:#f7f4ec;color:#2b2b2b;margin:24px;line-height:1.9}
+h1{font-size:20px;margin:0 0 4px}.muted{color:#8a8275;font-size:13px}
+.card{background:#fff;border:1px solid #e3ddcf;border-radius:12px;padding:18px 20px;max-width:1000px;margin:16px auto}
+h2{font-size:15px;color:#8a5a2b;margin:18px 0 6px;border-bottom:1px dashed #e3ddcf;padding-bottom:4px}
+p{margin:0;white-space:pre-wrap}
+table{border-collapse:collapse;width:100%;font-size:13.5px;margin:6px 0}
+th,td{border:1px solid #e3ddcf;padding:5px 7px;vertical-align:top}th{background:#faf6ea}
+.glab{font-size:13px;color:#8a5a2b;margin:8px 0 4px}
+.grid{display:flex;flex-wrap:wrap;gap:10px}.grid figure{margin:0;text-align:center}
+.grid img{height:110px;border:1px solid #eee;border-radius:6px;background:#fff}
+.grid figcaption{font-size:11px;color:#8a8275}
+.warn{color:#b03a2e}
+</style>
+<h1>字卡测试页 · 兮</h1>
+<div class="muted">数据源：/cards/兮.json（静态）、/api/glyph?char=兮；本页只做展示与核对，不改数据。</div>
+<div class="card" id="meta"></div>
+<div id="body"></div>
+<script>
+const chars='兮';
+fetch('/cards/'+encodeURIComponent(chars)+'.json?v='+Date.now()).then(r=>r.json()).then(d=>{
+  const secs=d.sections||[];
+  const cnt={sections:secs.length,rows:0,gimgs:0,groups:0};
+  secs.forEach(s=>{cnt.gimgs+=(s.gimgs||[]).length;(s.groups||[]).forEach(g=>{cnt.groups++;cnt.rows+=(g.rows||[]).length})});
+  document.getElementById('meta').innerHTML=
+    '<h2 style="margin-top:0">元信息</h2>'+
+    '<p>字：'+esc(d.head||d.char)+'　拼音：'+esc(d.pinyin||'')+'　层级：'+esc(String(d.level||''))+
+    '　所属部：'+esc((d.bus&&d.bus[0]?d.bus[0].num+' '+d.bus[0].name:''))+'</p>'+
+    '<p>栏目 '+cnt.sections+' 个；字族分组 '+cnt.groups+' 组、共 '+cnt.rows+' 行；参证字形 '+cnt.gimgs+' 张。'+
+    '　<a href="/cards/'+encodeURIComponent(chars)+'.json" target="_blank">原始 JSON</a></p>';
+  let html='';
+  secs.forEach(s=>{
+    html+='<div class="card"><h2 style="margin-top:0">'+esc(s.label||s.key)+'</h2>';
+    if(s.text) html+='<p>'+esc(s.text)+'</p>';
+    if(s.gimgs&&s.gimgs.length){
+      const grp=[];for(const f of s.gimgs){const lab=String(f).includes('/')?String(f).split('/')[0]:'';const last=grp[grp.length-1];if(last&&last.lab===lab)last.items.push(f);else grp.push({lab,items:[f]});}
+      let k=0;grp.forEach(g=>{html+='<div class="glab">'+esc(g.lab||'')+'</div><div class="grid">'+
+        g.items.map(f=>{k++;return '<figure><img src="/glyphs/'+encodeURI(f)+'"><figcaption>'+k+'</figcaption></figure>'}).join('')+'</div>';});
+    }
+    (s.groups||[]).forEach(g=>{
+      html+='<div class="glab">'+esc(g.title)+'（'+g.rows.length+' 行）</div>'+
+        '<table><tr><th style="width:18%">字</th><th style="width:12%">读音</th><th style="width:10%">类属</th><th>取义落点</th></tr>'+
+        g.rows.map(r=>'<tr><td>'+esc(r[0])+'</td><td>'+esc(r[1])+'</td><td>'+esc(r[2])+'</td><td>'+esc(r[3])+'</td></tr>').join('')+'</table>';
+    });
+    if(s.links&&s.links.length) html+='<p class="muted">所属卷：'+s.links.map(l=>esc(l.label)).join('、')+'</p>';
+    if(!s.text&&!(s.groups||[]).length&&!(s.gimgs||[]).length) html+='<p class="warn">（本栏无内容）</p>';
+    html+='</div>';
+  });
+  document.getElementById('body').innerHTML=html;
+  fetch('/api/glyph?char='+encodeURIComponent(chars)).then(r=>r.json()).then(g=>{
+    const gg=g.glyph||{};const files=gg.files||[];
+    document.getElementById('meta').innerHTML+='<h2>字形（服务端 glyphInfo）</h2><p>'+files.length+' 张　'+
+      files.map(f=>'<a href="'+f+'" target="_blank">'+esc(f)+'</a>').join('　')+'</p>'+
+      '<div class="grid">'+files.map((f,i)=>'<figure><img src="'+f+'"><figcaption>'+(i+1)+'</figcaption></figure>').join('')+'</div>';
+  }).catch(e=>{document.getElementById('meta').innerHTML+='<p class="warn">字形接口失败：'+esc(String(e))+'</p>'});
+}).catch(e=>{document.body.innerHTML='<div class="card warn">读取卡片失败：'+esc(String(e))+'</div>'});
+function esc(s){return String(s==null?'':s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
+</script></html>
