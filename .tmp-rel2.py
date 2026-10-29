@@ -25,7 +25,7 @@ for f in glob.glob(C+r"\*.json"):
         else: nm=str(e)
     items.append({"ch":d.get("chapter"),"cc":d.get("chapterCard",""),"cn":d.get("chapterName",""),"h":d.get("head") or "",
       "c":d.get("trad") or d.get("char",""),"a":_alist(d.get("trad") or d.get("char",""),d),"p":d.get("pinyin",""),"t":[x.get("label","") for x in d.get("sections",[]) if isinstance(x,dict)],"b":num,"n":nm,"lv":d.get("level",0),"rl":d.get("rootLevel") or 0,
-      "pr":d.get("parent",""),"rc":d.get("rootChain",[]),"rlb":d.get("rootLabel",""),"rc2":d.get("rootChain2",[]),})
+      "pr":(d.get("parent") or (d.get("trad") or d.get("char","") if d.get("level")==1 else "")),"rc":d.get("rootChain",[]),"rlb":d.get("rootLabel",""),"rc2":d.get("rootChain2",[]),})
 items=[x for x in items if x["c"]]
 import os as _os, glob as _glob
 _by={}
