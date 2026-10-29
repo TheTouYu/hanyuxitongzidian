@@ -36,9 +36,26 @@ function renderCard(ch){
   let h='<!doctype html><meta charset="utf-8"><title>'+escH(d.head||d.char)+'</title>';
   h+='<style>body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cim{height:1.12em;vertical-align:-0.2em}.gs{display:flex;gap:10px;overflow-x:auto;padding:6px 0 10px}.gs figure{margin:0;text-align:center}.gs img{height:110px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gs figcaption{font-size:11px;color:#999}.pill{display:inline-block;margin:2px 0 8px;padding:1px 10px;border:1px solid #ddd;border-radius:12px;color:#666;font-size:13px}small{color:#888;font-weight:400}.back{display:inline-block;margin-bottom:10px;color:#06c}</style>';
   h+='<a class="back" href="/test.html">← 返回检索</a><h2>'+ext(d.head||d.char)+' <small>'+escH(d.pinyin||'')+'</small></h2>';
-  try { const b0=Array.isArray(d.bus)?d.bus[0]:(d.bus||null); const lv=d.level===1?'一级字根':d.level===2?'二级字根':d.level===3?'谐声字':''; let pill=lv; if(b0&&b0.num>0) pill+=' · 第'+b0.num+'部「'+(b0.name||'')+'部」'; else if(b0&&b0.name) pill+=' · 「'+b0.name+'部」'; if(pill) h+='<p class="pill">'+pill+'</p>'; } catch(e){}
+  let _b0=Array.isArray(d.bus)?d.bus[0]:(d.bus||null);
+  try { if(!_b0||!_b0.num){ let pr=d.parent, hop=0; while(pr&&hop<3){ const pf=join(CARDDIR,pr+'.json'); if(existsSync(pf)){ const pd=JSON.parse(readFileSync(pf,'utf8')); const pb=Array.isArray(pd.bus)?pd.bus[0]:pd.bus; if(pb&&pb.num){ _b0=pb; break; } pr=pd.parent; } else break; hop++; } } } catch(e){}
+  try { const b0=_b0; const lv=d.level===1?'一级字根':d.level===2?'二级字根':d.level===3?'谐声字':''; let pill=lv; if(b0&&b0.num>0) pill+=' · 第'+b0.num+'部「'+(b0.name||'')+'部」'; else if(b0&&b0.name) pill+=' · 「'+b0.name+'部」'; if(pill) h+='<p class="pill">'+pill+'</p>'; } catch(e){}
   try { const gi=glyphInfo(d.char); if (gi && gi.files && gi.files.length){ h+='<div class="gs">'+gi.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="字形'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; } } catch(e){}
   try { const gi2=glyphInfo(d.char); const ps=(gi2&&gi2.photos)||[]; if (ps.length){ h+='<h3>插图</h3><div class="gs">'+ps.map(p=>{const f=(typeof p==='string')?p:(p.file||p.name||'');const cap=(typeof p==='object'&&p.caption)?p.caption:'';return '<figure><img src="'+escH(String(f).startsWith('/')?f:('/glyphs/photos/'+encodeURIComponent(d.char)+'/'+encodeURIComponent(f))+'?v=20261029d')+'" alt="'+escH(cap||'插图')+'" style="height:170px"><figcaption>'+escH(cap||'')+'</figcaption></figure>';}).join('')+'</div>'; } } catch(e){}
+  try {
+    if (d.parent) {
+      const pf2 = join(CARDDIR, d.parent + '.json');
+      if (existsSync(pf2)) {
+        const pd2 = JSON.parse(readFileSync(pf2, 'utf8'));
+        const keep = (pd2.sections || []).filter(x => ['benyi','zhuanyi','bianzheng','yinyuan'].includes(x.key) && x.text);
+        if (keep.length) {
+          const label = '字根「' + (pd2.char || d.parent) + '」';
+          const text = keep.map(x => (x.label ? x.label + '：' : '') + String(x.text)).join('\n');
+          d.sections = (d.sections || []).concat([{ key: 'rootembed', label: label, text: text }]);
+        }
+      }
+    }
+  } catch (e) {}
+
   for (const s of (d.sections||[]).filter(x=>x.key==="ziatt")){
     h+="<p><b>"+ext(s.label||"")+"</b> "+((s.gimgs||[]).map(f=>"<img class=\"cim\" src=\"/glyphs/"+String(f).split("/").map(encodeURIComponent).join("/")+"\" style=\"height:2.2em;margin:0 6px 0 2px\">").join(""))+"</p>";
   }
@@ -1129,9 +1146,18 @@ async function handleCard(emit, res, question, ch, ip, meter) {
     .map((s, i) => ({ s, i }))
     .sort((a, b) => rank(a.s.key) - rank(b.s.key) || a.i - b.i)
     .map((x) => x.s);
+  let presetMeta = null;
+  try {
+    const pf = join(CARDDIR, ch + '.json');
+    if (existsSync(pf)) {
+      const pd = JSON.parse(readFileSync(pf, 'utf8'));
+      if (pd && !Array.isArray(pd)) presetMeta = { head: pd.head, pinyin: pd.pinyin, level: pd.level, parent: pd.parent, bus: pd.bus, aliases: pd.aliases };
+    }
+  } catch (e) {}
   emit({
     type: 'card',
     card: {
+      ...(presetMeta || {}),
       char: ch,
       question,
       mode,
