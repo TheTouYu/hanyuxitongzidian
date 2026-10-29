@@ -1,0 +1,36 @@
+{
+ "char": "𢖦",
+ "head": "𢖦",
+ "pinyin": "jué",
+ "level": 3,
+ "parent": "矍",
+ "bus": [
+  {
+   "num": 40,
+   "name": "隻"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《廣韻》：“往也。”《集韻》：“行皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：𢖦從指鶴步，表示大步一面取「聚」之義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}

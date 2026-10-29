@@ -1,0 +1,36 @@
+{
+ "char": "矡",
+ "head": "矡",
+ "pinyin": "jué",
+ "level": 3,
+ "parent": "矍",
+ "bus": [
+  {
+   "num": 40,
+   "name": "隻"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》：“矛屬。”《字彙補》：“錐也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：矡從指鶴足，表示勁健有力一面取「聚」之義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷五雁",
+     "label": "卷五 雁"
+    }
+   ]
+  }
+ ]
+}
