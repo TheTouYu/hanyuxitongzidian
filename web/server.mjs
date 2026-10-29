@@ -968,7 +968,7 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   let glyph = glyphInfo(ch);
   const preset = loadPresetCard(ch);
   if (preset) {
-    emit({ type: 'card', card: { char: ch, mode: 'preset', sections: preset.sections || [], glyph, photos: (glyph || {}).photos || [], roots: [] } });
+    emit({ type: 'card', card: { char: ch, mode: 'preset', head: preset.head || ch, pinyin: preset.pinyin || '', level: preset.level || null, parent: preset.parent || null, bus: preset.bus || [], aliases: preset.aliases || [], sections: preset.sections || [], glyph, photos: (glyph || {}).photos || [], roots: [] } });
     return res.end();
   }
   let glyphFrom = null;
