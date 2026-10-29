@@ -37,10 +37,10 @@ function renderCard(ch){
   h+='<style>body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cim{height:1.12em;vertical-align:-0.2em}.gs{display:flex;gap:10px;overflow-x:auto;padding:6px 0 10px}.gs figure{margin:0;text-align:center}.gs img{height:110px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gs figcaption{font-size:11px;color:#999}.pill{display:inline-block;margin:2px 0 8px;padding:1px 10px;border:1px solid #ddd;border-radius:12px;color:#666;font-size:13px}small{color:#888;font-weight:400}.back{display:inline-block;margin-bottom:10px;color:#06c}</style>';
   h+='<a class="back" href="/test.html">← 返回检索</a><h2>'+ext(d.head||d.char)+' <small>'+escH(d.pinyin||'')+'</small></h2>';
   try { const b0=(d.bus&&d.bus[0])||null; if (b0){ h+='<p class="pill">'+(d.level===1?'一级字根':d.level===2?'二级字根':d.level===3?'谐声字':'')+' · 第'+(b0.num||'?')+'部「'+(b0.name||'')+'部」</p>'; } } catch(e){}
+  try { const gi=glyphInfo(d.char); if (gi && gi.files && gi.files.length){ h+='<div class="gs">'+gi.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="字形'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; } } catch(e){}
   for (const s of (d.sections||[]).filter(x=>x.key==="ziatt")){
     h+="<p><b>"+ext(s.label||"")+"</b> "+((s.gimgs||[]).map(f=>"<img class=\"cim\" src=\"/glyphs/"+String(f).split("/").map(encodeURIComponent).join("/")+"\" style=\"height:2.2em;margin:0 6px 0 2px\">").join(""))+"</p>";
   }
-  try { const gi=glyphInfo(d.char); if (gi && gi.files && gi.files.length){ h+='<div class="gs">'+gi.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="字形'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; } } catch(e){}
   for (const s of (d.sections||[])){ if (s.key==="ziatt") continue;
     if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+((s.links||[]).map(l=>'<a href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
