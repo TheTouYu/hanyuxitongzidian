@@ -1,40 +1,25 @@
 {
  "char": "䒶",
- "trad": "䒶",
+ "head": "䒶",
  "pinyin": "tiān",
- "level": 3,
- "parent": "曳",
+ "noRoot": true,
  "bus": [
   {
    "num": 26,
    "name": "弋"
   }
  ],
- "head": "䒶（天）",
- "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䒶（天）tiān《玉篇》：“古文天字。”",
+   "text": "䒶 tiān 《玉篇》：“古文天字。”",
    "cites": []
   },
   {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "t「涂突」取「突」：天穹高突而覆（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
-    }
-   ],
+   "key": "ezhi",
+   "label": "讹字说明",
+   "text": "③形近字之訛（原文未列具體字）",
    "cites": []
   }
  ]
