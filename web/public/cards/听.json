@@ -1,0 +1,37 @@
+{
+ "char": "听",
+ "head": "听",
+ "pinyin": "yǐn",
+ "bus": {
+  "num": 44,
+  "name": "斤"
+ },
+ "parent": "斤",
+ "level": 3,
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "听（聽）yǐn《說文》：“笑皃。从口斤聲。宜引切。”《廣韻》：“口大皃。”《玉篇》：“仰鼻。”yí，《集韻》：“听，听嗞，口開皃。”“𠲻嗞。媿皃。或省。”tīng，《正字通》：“俗借為聽字省文。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系（照實）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    }
+   ]
+  }
+ ]
+}
