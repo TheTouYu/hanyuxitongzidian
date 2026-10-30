@@ -337,10 +337,11 @@ function loadVariantMap() {
 }
 
 function photoList(list) {
-  return (list || []).map((x) => ({
-    file: '/glyphs/' + x.file.split('/').map(encodeURIComponent).join('/'),
-    caption: x.caption || '',
-  }));
+  return (list || []).map((x) => {
+    if (typeof x === 'string') return { file: '/glyphs/photos/' + encodeURIComponent(x), caption: '' };
+    const f = String((x && (x.file || x.name)) || '');
+    return { file: f ? '/glyphs/' + f.split('/').map(encodeURIComponent).join('/') : '', caption: (x && x.caption) || '' };
+  }).filter((p) => p.file);
 }
 
 // 字族表：原稿字头行冒号后面那串（牡 社 仕…），按原稿顺序，各自带上自己的配图
