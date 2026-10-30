@@ -163,16 +163,23 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
   const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}${(s.groups&&s.groups.length)?'':(s.text?('<p style="text-indent:2em">'+(s.gdir?gt(s.text,s.gdir):((s.text||'').indexOf('gscroll')>=0?s.text:esc(s.text).replace(/\{\{gin:([^}]+)\}\}/g,'<img class="gin" src="$1" alt="字形">'))).replace(/\n+/g,'</p><p style="text-indent:2em">')+'</p>'):'')}${zx}${(s.gimgs||[]).map(f=>`<img class="gin" src="glyphs/${encodeURI(f)}" alt="参证字形">`).join('')}${LKR(s)}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
-  const rootLink = (d.level===2 && d.parent && !(opt&&opt.embed)) ? `<div class="sec"><h3>所属字根</h3><p class="lks"><a href="javascript:void(0)" onclick="goCard('${d.parent}')">${esc(d.parent)}</a></p></div>` : ''; const parentBlock = (d.level>2 && d.parent) ? await (async()=>{ try{
-      const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now()); if(!pr.ok) return '';
-      const p=await pr.json(); if(p&&p.sections){p.sections=p.sections.filter(s=>s.label!=='所属卷');}
-      const pg=((GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
-      const pgsrc=f=>encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f));
-      const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
-      const pb=(Array.isArray(p.bus)?p.bus[0]:(p.bus||{}))||{};
-      const inner=await cardBody(d.parent,p,{noPhoto:true});
-      return `<div class="sec rootbox"><h3>字根「${esc(d.parent)}」</h3>${inner}</div>`;
-    }catch(e){ return ''; } })() : '';
+  const rootLink = '';
+  let parentBlock='';
+  if (d.level>2 && d.parent) {
+    try{
+      const pr=await fetch('cards/'+encodeURIComponent(d.parent)+'.json?v='+Date.now());
+      if(pr.ok){
+        const p=await pr.json();
+        const keep=(p.sections||[]).filter(s=>['benyi','zhuanyi','bianzheng','yinyuan'].includes(s.key)&&s.text);
+        const body=keep.map(s=>'<div class="sec"><h3>'+esc(s.label||s.key)+'</h3><p style="text-indent:2em">'+esc(s.text)+'</p></div>').join('');
+        const pgs=((window.GLYPH&&GLYPH[d.parent]&&GLYPH[d.parent].files)||[]);
+        const strip=pgs.length?('<div class="gscroll">'+pgs.map((f,i)=>'<figure><img loading="lazy" src="'+encodeURI('glyphs/'+d.parent+'/'+(String(f).startsWith(d.parent+'/')?String(f).slice(d.parent.length+1):f))+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'):'';
+        const b2=(Array.isArray(p.bus)?p.bus[0]:(p.bus||{}))||{};
+        parentBlock='<div class="sec rootbox"><h3>字根「'+esc(d.parent)+'」</h3><div class="chead"><div class="ch">'+esc(p.head||p.char||d.parent)+'</div><div class="py">'+esc(p.pinyin||'')+'</div><div class="bu">'+(p.level===1?'一級字根':p.level===2?'二級字根':'谐声字')+(b2.num?' · 第'+b2.num+'部 '+esc(b2.name||''):'')+'</div></div>'+strip+body+'</div>';
+      } else { parentBlock='<div class="sec rootbox"><h3>字根「'+esc(d.parent)+'」</h3><p>父卡未找到：'+esc(d.parent)+'</p></div>'; }
+    }catch(e){ parentBlock='<div class="sec rootbox"><h3>字根「'+esc(d.parent)+'」</h3><p>父卡读取失败：'+esc(String(e&&e.message||e))+'</p></div>'; }
+  }
+
   const lvlTag = d.level?`<span class="tag">${d.rootLevel?({1:'一級字根',2:'二級字根',3:'三級字根'}[d.rootLevel]||'字根'):(d.level===1?'一級字根':d.level===2?'二級字根':'谐声字')}</span>`:'';
   const b=(Array.isArray(d.bus)?d.bus[0]:(d.bus||{}))||{};
   const photoBlock=(()=>{if(!window.PHOTO)return '';const own=d.photos||(window.PHOTO&&window.PHOTO[d.char])||[];if(!own.length)return '';const cap=d.captions||(window.CAPS&&window.CAPS[d.char])||[];return '<div class="sec"><h3>插图</h3><div class="pscroll">'+own.map((f,i)=>'<figure><img loading="lazy" src="'+encodeURI('glyphs/photos/'+d.char+'/'+f)+'"><figcaption>'+esc(cap[i]||('图'+(i+1)))+'</figcaption></figure>').join('')+'</div></div>';})();
