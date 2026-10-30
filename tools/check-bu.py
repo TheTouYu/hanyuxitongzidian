@@ -4,7 +4,7 @@ import json, io, os, re, sys
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 C = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "web", "public", "cards")
 PREFIX = re.compile(r'^(本義|本义|轉義|转义|辯證|辩证|音源)[：:]')
-SM = re.compile(r"^([a-zA-Z]{1,2}「[^」]+」(取「[^」]」：|不系：)|不取義：)")
+SM = re.compile(r"^((?:[a-zA-Z]{1,2}|零)「[^」]+」(取「[^」]」：|不系：)|不取義：)")
 bu = sys.argv[1] if len(sys.argv) > 1 else "朿"
 err = []
 head = json.load(io.open(os.path.join(C, bu + ".json"), encoding="utf-8"))
