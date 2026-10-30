@@ -1,12 +1,10 @@
 {
  "head": "霍（靃）",
  "pinyin": "huò",
- "bus": [
-  {
-   "num": 39,
-   "name": "隺"
-  }
- ],
+ "bus": {
+  "num": 39,
+  "name": "隺"
+ },
  "sections": [
   {
    "key": "benyi",

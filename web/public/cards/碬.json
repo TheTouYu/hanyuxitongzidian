@@ -5,12 +5,10 @@
  "aliases": [],
  "level": 3,
  "parent": "叚",
- "bus": [
-  {
-   "num": 45,
-   "name": "石"
-  }
- ],
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
  "sections": [
   {
    "key": "shiyi",

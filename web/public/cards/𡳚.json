@@ -4,12 +4,10 @@
  "pinyin": "xī",
  "level": 3,
  "parent": "國",
- "bus": [
-  {
-   "num": 41,
-   "name": "戈"
-  }
- ],
+ "bus": {
+  "num": 41,
+  "name": "戈"
+ },
  "aliases": [
   "㾷",
   "犀",

@@ -4,12 +4,10 @@
  "pinyin": "tuó",
  "level": 2,
  "parent": "石",
- "bus": [
-  {
-   "num": 45,
-   "name": "石"
-  }
- ],
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
  "sections": [
   {
    "key": "benyi",

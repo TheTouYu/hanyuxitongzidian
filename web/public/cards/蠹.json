@@ -4,12 +4,10 @@
  "pinyin": "dù",
  "level": 3,
  "parent": "橐",
- "bus": [
-  {
-   "num": 45,
-   "name": "石"
-  }
- ],
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
  "sections": [
   {
    "key": "shiyi",

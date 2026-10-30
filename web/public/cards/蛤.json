@@ -4,12 +4,10 @@
  "pinyin": "gé",
  "level": 3,
  "parent": "合",
- "bus": [
-  {
-   "num": 75,
-   "name": "合"
-  }
- ],
+ "bus": {
+  "num": 75,
+  "name": "合"
+ },
  "sections": [
   {
    "key": "shiyi",

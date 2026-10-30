@@ -4,12 +4,10 @@
  "pinyin": "kē",
  "level": 3,
  "parent": "科",
- "bus": [
-  {
-   "num": 42,
-   "name": "禾"
-  }
- ],
+ "bus": {
+  "num": 42,
+  "name": "禾"
+ },
  "aliases": [],
  "sections": [
   {

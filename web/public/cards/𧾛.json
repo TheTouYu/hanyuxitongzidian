@@ -4,12 +4,10 @@
  "pinyin": "guó",
  "level": 3,
  "parent": "蒦",
- "bus": [
-  {
-   "num": 40,
-   "name": "隻"
-  }
- ],
+ "bus": {
+  "num": 40,
+  "name": "隻"
+ },
  "aliases": [],
  "sections": [
   {
