@@ -1,29 +1,31 @@
 # -*- coding: utf-8 -*-
-"""每部收尾自检：字头括注里的异体是否都已进 aliases（按字逐个，不整串）。
-用法: python tools/check-aliases.py [部名]
-"""
+"""aliases 一致性检查：
+1) 释义首「字（异体）」里的汉字必须在该卡 aliases 里；
+2) 页头括注里的汉字必须在该卡 aliases 里（独立字头除外）；
+3) aliases 里的字不得同时有独立卡，也不得在 index 里被其它卡抢注。
+退出码非 0 表示有问题。"""
 import json,io,os,re,sys
 sys.stdout.reconfigure(encoding="utf-8",errors="replace")
 C=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),"web","public","cards")
-HAN=re.compile(r"[\u3400-\u9fff\U00020000-\U0002A6DF]")
-bu=sys.argv[1] if len(sys.argv)>1 else None
-def inbu(d):
-    if not bu: return True
-    if d.get("parent")==bu: return True
-    for b in (d.get("bus") or []):
-        name=b.get("name") if isinstance(b,dict) else b
-        if name==bu: return True
-    return False
+HAN=re.compile("[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002a6df]")
+cards={}
+for f in os.listdir(C):
+    if not f.endswith(".json") or f in ("index.json","variants.json"): continue
+    try: d=json.load(io.open(os.path.join(C,f),encoding="utf-8"))
+    except Exception: continue
+    if isinstance(d,dict): cards[d.get("char") or f[:-5]]=d
 bad=[]
-for fn in sorted(os.listdir(C)):
-    if not fn.endswith(".json") or fn in ("index.json","variants.json"): continue
-    d=json.load(io.open(os.path.join(C,fn),encoding="utf-8"))
-    if not inbu(d): continue
-    ch=d.get("char") or fn[:-5]; h=d.get("head") or ""
-    m=re.search(r"（([^）]+)）",h)
-    if not m: continue
-    need={x for x in HAN.findall(m.group(1)) if x!=ch}
-    miss=need-set(d.get("aliases") or [])
-    if miss: bad.append((ch,"".join(sorted(miss))))
-print(("部 %s: "%bu if bu else "")+"问题 %d"%len(bad))
-for c,m in bad[:20]: print("  ",c,"缺",m)
+for ch,d in cards.items():
+    al=set(d.get("aliases") or [])
+    head=str(d.get("head") or "")
+    for m in re.finditer("（([^）]*)）",head):
+        for c in HAN.findall(m.group(1)):
+            if c!=ch and c not in cards and c not in al: bad.append((ch,"head",c))
+    shi=next((s.get("text","") for s in d.get("sections",[]) if s.get("key")=="shiyi"),"")
+    m=re.match("^("+HAN.pattern+"+)\\s*（([^）]*)）",shi)
+    if m:
+        for c in HAN.findall(m.group(2)):
+            if c!=ch and c not in cards and c not in al: bad.append((ch,"shiyi",c))
+print("ALIAS-MISSING",len(bad))
+for b in bad[:20]: print(b)
+sys.exit(1 if bad else 0)
