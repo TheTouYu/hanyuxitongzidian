@@ -22,21 +22,6 @@
    "cites": []
   },
   {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤（第46部 乇）",
-   "links": [
-    {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
-    },
-    {
-     "ch": "乇",
-     "label": "46 乇"
-    }
-   ]
-  },
-  {
    "key": "zixing",
    "label": "字形",
    "files": [
@@ -50,6 +35,21 @@
     "08.png",
     "09.png",
     "10.png"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "乇",
+     "label": "46 乇"
+    }
    ]
   }
  ]
