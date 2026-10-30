@@ -183,7 +183,9 @@ async function open(ch){
   cur=ch; render($('#q').value);
   const main=$('#main'); main.innerHTML='<div class="empty">读取中…</div>';
   let d;
-  try{ d=await (await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now())).json(); }
+  try{ let r=await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now());
+    if(!r.ok){ const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch))); if(it&&it.c&&it.c!==ch){ ch=it.c; cur=ch; r=await fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()); } }
+    if(!r.ok) throw 0; d=await r.json(); }
   catch(e){ main.innerHTML='<div class="empty">没有这张卡：'+esc(ch)+'</div>'; return; }
 main.innerHTML = await cardBody(ch,d);
 }
