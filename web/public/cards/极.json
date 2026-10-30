@@ -1,0 +1,51 @@
+{
+ "char": "极",
+ "trad": "极",
+ "simp": "極",
+ "pinyin": "jí",
+ "level": 3,
+ "parent": "亟",
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "极jí《說文》：“驢上負也。从木及聲。或讀若急。其輒切。”驢背上負載物的木架。類似馬鞍。《廣韻》：“极插。”而“极”之今義指極端，則本是“極”的含義，簡化後混在一起了。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：木聚而載（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷一雞",
+     "label": "卷一雞"
+    }
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷一雞",
+     "label": "卷一 雞"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "極"
+ ]
+}

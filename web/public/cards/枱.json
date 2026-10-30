@@ -1,0 +1,55 @@
+{
+ "char": "枱",
+ "trad": "枱",
+ "simp": "枱",
+ "pinyin": "sì",
+ "level": 3,
+ "parent": "台",
+ "bus": {
+  "num": 8,
+  "name": "㠯"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "枱（鈶𨐠柌）sì《說文》：“枱，耒端也。从木台聲。{{gin:glyphs/inline/枱/shiyi/01.png}}，或从金。{{gin:glyphs/inline/枱/shiyi/02.png}}，籀文从辝。弋之切。”同“耜”。cí，《集韻》：“柌，《博雅》：‘柄也。’或作枱、鈶、𣙼。”柌，《廣韻》：“鎌柄。”鐮刀柄。tái，同“檯”。桌類。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "s「失收」取「失」：柌）sì枱，耒端也。从木台聲。{（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
+    }
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "柌",
+  "鈶",
+  "鈶𨐠柌",
+  "𨐠"
+ ],
+ "head": "枱（鈶𨐠柌）"
+}

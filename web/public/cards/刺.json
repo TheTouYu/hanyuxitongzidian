@@ -1,0 +1,36 @@
+{
+ "char": "刺",
+ "pinyin": "cì",
+ "level": 3,
+ "parent": "朿",
+ "bus": {
+  "num": 18,
+  "name": "朿"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "刺cì《說文》：『君殺大夫曰刺。刺，直傷也。从刀从朿，朿亦聲。』用東西穿刺、插進；《廣韻》『穿也』『針刺也』；又書姓名于奏白曰刺。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "c「刺持」取「刺」：而入（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "head": "刺"
+}

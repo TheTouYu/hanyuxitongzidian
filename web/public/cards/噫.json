@@ -1,0 +1,36 @@
+{
+ "char": "噫",
+ "pinyin": "ǎi",
+ "level": 3,
+ "parent": "意",
+ "bus": {
+  "num": 22,
+  "name": "意"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：「飽食息也。从口意聲。於介切。」即飽嗝聲。yī，嘆詞。《玉篇》：「痛傷之聲也。」《廣韻》：「恨聲。」",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ],
+ "group": "①"
+}

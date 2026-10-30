@@ -1,0 +1,56 @@
+{
+ "char": "飴",
+ "trad": "飴",
+ "simp": "饴",
+ "pinyin": "yí",
+ "level": 3,
+ "parent": "台",
+ "bus": {
+  "num": 8,
+  "name": "㠯"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "飴（𩛛飼飤）yí《說文》：“米糱煎也。从食台聲。{{gin:glyphs/inline/飴/shiyi/01.png}}，籀文飴从異省。與之切。”用米、麥芽煎熬成的糖漿。米芽即米胚。sì，《集韻》：“飤，《說文》：‘糧也。’或从司。亦作食、飴。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
+    }
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "飤",
+  "飼",
+  "饴",
+  "𩛛",
+  "𩛛飼飤"
+ ],
+ "head": "飴（𩛛飼飤）"
+}
