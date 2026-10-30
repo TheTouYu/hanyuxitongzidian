@@ -4,12 +4,10 @@
  "pinyin": "hé",
  "level": 3,
  "parent": "禾",
- "bus": [
-  {
-   "num": 42,
-   "name": "禾"
-  }
- ],
+ "bus": {
+  "num": 42,
+  "name": "禾"
+ },
  "aliases": [],
  "sections": [
   {
@@ -21,6 +19,17 @@
    "key": "shengmu",
    "label": "声母拟态",
    "text": "h「豁活」取「豁」：草葉舒展而開豁（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷六鶴",
+     "label": "卷六 鶴"
+    }
+   ]
   }
  ],
  "groups": []

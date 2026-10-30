@@ -4,12 +4,10 @@
  "pinyin": "huī",
  "level": 3,
  "parent": "隻",
- "bus": [
-  {
-   "num": 40,
-   "name": "隻"
-  }
- ],
+ "bus": {
+  "num": 40,
+  "name": "隻"
+ },
  "sections": [
   {
    "key": "shiyi",
@@ -26,10 +24,11 @@
    "label": "所属卷",
    "links": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+     "ch": "卷六鶴",
+     "label": "卷六 鶴"
     }
-   ]
+   ],
+   "text": ""
   }
  ],
  "aliases": []

@@ -4,12 +4,10 @@
  "pinyin": "huà",
  "level": 3,
  "parent": "戈",
- "bus": [
-  {
-   "num": 41,
-   "name": "戈"
-  }
- ],
+ "bus": {
+  "num": 41,
+  "name": "戈"
+ },
  "aliases": [],
  "sections": [
   {
@@ -30,7 +28,8 @@
      "ch": "卷六鶴",
      "label": "卷六 鶴"
     }
-   ]
+   ],
+   "text": ""
   }
  ]
 }
