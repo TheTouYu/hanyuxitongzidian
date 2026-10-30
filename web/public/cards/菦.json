@@ -1,0 +1,35 @@
+{
+ "char": "菦",
+ "pinyin": "qín",
+ "level": 3,
+ "parent": "斤",
+ "bus": {
+  "num": 44,
+  "name": "斤"
+ },
+ "head": "菦",
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“菜，類蒿。从艸近聲。《周禮》有‘菦菹’。巨巾切。”即“芹”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「夹卸」取「夹」：斤斫之狀（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    }
+   ]
+  }
+ ]
+}

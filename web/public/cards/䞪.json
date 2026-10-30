@@ -1,0 +1,35 @@
+{
+ "char": "䞪",
+ "pinyin": "jiàng",
+ "level": 3,
+ "parent": "斤",
+ "bus": {
+  "num": 44,
+  "name": "斤"
+ },
+ "head": "䞪",
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“行皃。从走匠聲。讀若匠。疾亮切。”應同“赾”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「夹卸」取「夹」：斤斫之狀（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    }
+   ]
+  }
+ ]
+}
