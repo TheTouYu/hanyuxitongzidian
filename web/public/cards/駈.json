@@ -1,0 +1,33 @@
+{
+ "char": "駈",
+ "head": "駈（驅）",
+ "pinyin": "qū",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“驅，丘于切。逐遣也、隨後也、驟也、奔馳也。古作敺。駈，同上。俗。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "（按今讀聲母取擬態義一面，推。）"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "char": "𡘄",
+ "head": "𡘄（奃𡗨）",
+ "pinyin": "dī",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“奃、𡘄，二或；𡗨，今。仾帝二音。大也。”大概。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "（按今讀聲母取擬態義一面，推。）"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}

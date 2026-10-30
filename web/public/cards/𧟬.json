@@ -1,0 +1,33 @@
+{
+ "char": "𧟬",
+ "head": "𧟬（虛）",
+ "pinyin": "xū",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同虛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "（按今讀聲母取擬態義一面，推。）"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "char": "䂡",
+ "head": "䂡（砥）",
+ "pinyin": "dǐ",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗砥字。”磨刀石。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "（按今讀聲母取擬態義一面，推。）"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "char": "𢇹",
+ "head": "𢇹（𢇨底）",
+ "pinyin": "zhǐ",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𢇹，俗；𢇨（底），正。旨、止二音。平也、致也、定也。又丁禮反。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "（按今讀聲母取擬態義一面，推。）"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}
