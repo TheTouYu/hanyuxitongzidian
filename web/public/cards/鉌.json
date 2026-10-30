@@ -1,0 +1,27 @@
+{
+ "char": "鉌",
+ "head": "鉌",
+ "pinyin": "hé",
+ "level": 3,
+ "parent": "禾",
+ "bus": [
+  {
+   "num": 42,
+   "name": "禾"
+  }
+ ],
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "鉌hé《玉篇》：“鈴也。”《集韻》：“鸞鈴也。通作和。”車鈴。車動則和鳴之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "（按今讀聲母取擬態義一面，推。）"
+  }
+ ],
+ "groups": []
+}
