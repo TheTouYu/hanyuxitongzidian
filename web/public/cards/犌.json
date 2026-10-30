@@ -1,0 +1,35 @@
+{
+ "char": "犌",
+ "head": "犌",
+ "pinyin": "jiā",
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
+ "parent": "叚",
+ "level": 3,
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "犌jiā《玉篇》：“牛有力。”應即公牛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：石之相聚而叚質，（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    }
+   ]
+  }
+ ]
+}
