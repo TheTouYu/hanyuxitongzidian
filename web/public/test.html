@@ -88,7 +88,7 @@ let IDX=[], GLYPH={}, cur='';
 const norm=s=>(s||'').toLowerCase();
 fetch('cards/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{IDX=d;$('#hint').textContent=`共 ${d.length} 张卡`;render('');}).catch(e=>$('#hint').textContent='索引加载失败：'+e);
 fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(()=>{});
-fetch('glyphs/photos/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{}); fetch('glyphs/photos/captions.jsonon?v=20261030aon?v='+Date.now()).then(r=>r.json()).then(d=>{window.CAPS=d.captions||d;}).catch(()=>{});
+fetch('glyphs/photos/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{}); fetch('glyphs/photos/captions.json?v=20261030aon?v='+Date.now()).then(r=>r.json()).then(d=>{window.CAPS=d.captions||d;}).catch(()=>{});
 function match(q){
   q=norm(q.trim()); if(!q) return IDX.slice(0,200);
   const exact=IDX.filter(x=>x.c===q||((x.a||[]).includes(q))||((x.v||[]).includes(q))).sort((a,b)=>(b.c===q)-(a.c===q));
