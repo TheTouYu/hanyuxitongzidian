@@ -4,12 +4,10 @@
  "pinyin": "fǎ",
  "level": 3,
  "parent": "法",
- "bus": [
-  {
-   "num": 49,
-   "name": "去"
-  }
- ],
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
  "sections": [
   {
    "key": "shiyi",

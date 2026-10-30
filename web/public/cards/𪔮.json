@@ -4,12 +4,10 @@
  "pinyin": "tà",
  "level": 3,
  "parent": "盍",
- "bus": [
-  {
-   "num": 49,
-   "name": "去"
-  }
- ],
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
  "sections": [
   {
    "key": "shiyi",

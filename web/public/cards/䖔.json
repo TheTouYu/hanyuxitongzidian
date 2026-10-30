@@ -4,12 +4,10 @@
  "pinyin": "kǎn",
  "level": 3,
  "parent": "去",
- "bus": [
-  {
-   "num": 49,
-   "name": "去"
-  }
- ],
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
  "sections": [
   {
    "key": "shiyi",

@@ -4,12 +4,10 @@
  "pinyin": "fǎ",
  "level": 2,
  "parent": "去",
- "bus": [
-  {
-   "num": 49,
-   "name": "去"
-  }
- ],
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
  "aliases": [
   "佱",
   "𢌇"
