@@ -10,8 +10,8 @@ OUT = r"D:\系统汉字\web\public\docx-index.json"
 
 HAN = r"\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\U00020000-\U0002A6DF"
 PY = "a-zA-Züāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ"
-RE_TITLE = re.compile(rf"^([{HAN}]{{1,3}})(?:（([{HAN}]{{1,8}})）)?\s*([{PY}]{{1,12}})")
-RE_FAMILY = re.compile(rf"^([{HAN}])(?:（([{HAN}]{{1,8}})）)?\s*[：:]")
+RE_TITLE = re.compile(rf"^([{HAN}]{{1,3}})(?:[（(]([{HAN}]{{1,8}})[）)])?\s*([{PY}]{{1,12}})")
+RE_FAMILY = re.compile(rf"^([{HAN}])(?:[（(]([{HAN}]{{1,8}})[）)])?\s*[：:]")
 RE_HAS = re.compile(r"《(說文|说文|玉篇|廣韻|广韵|集韻|集韵|釋名|释名|爾雅|尔雅|方言|廣雅|广雅)")
 
 def clean(t):
