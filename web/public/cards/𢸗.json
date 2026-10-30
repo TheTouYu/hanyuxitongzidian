@@ -1,0 +1,35 @@
+{
+ "id": "𢸗",
+ "char": "𢸗",
+ "head": "𢸗",
+ "pinyin": "guó",
+ "level": 3,
+ "parent": "虢",
+ "bus": {
+  "num": 48,
+  "name": "虍"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“揭開，刮掉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：以手隔物而揭刮（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ],
+ "lei": "手"
+}
