@@ -1,7 +1,16 @@
 # -*- coding: utf-8 -*-
 import json,sys,glob,os
 sys.stdout.reconfigure(encoding="utf-8",errors="replace")
-C=r"D:\系统汉字\web\public\cards"; items=[]
+C=r"D:\系统汉字\web\public\cards"; _simp={}
+try:
+    _vj=json.load(open(r"D:\系统汉字\web\public\variants.json",encoding="utf-8"))
+    _vj=_vj.get("variants",_vj) if isinstance(_vj,dict) else {}
+    for _s,_ts in _vj.items():
+        for _t in (_ts if isinstance(_ts,list) else [_ts]):
+            _simp.setdefault(_t,[]).append(_s)
+except Exception:
+    pass
+items=[]
 import os as _os
 _OWN=set(_os.path.splitext(f)[0] for f in _os.listdir(r"D:\系统汉字\web\public\cards") if f.endswith(".json"))
 def _alist(c,d):
@@ -25,7 +34,7 @@ for f in glob.glob(C+r"\*.json"):
         else: nm=str(e)
     items.append({"ch":d.get("chapter"),"cc":d.get("chapterCard",""),"cn":d.get("chapterName",""),"h":d.get("head") or "",
       "c":d.get("trad") or d.get("char",""),"a":_alist(d.get("trad") or d.get("char",""),d),"p":d.get("pinyin",""),"t":[x.get("label","") for x in d.get("sections",[]) if isinstance(x,dict)],"b":num,"n":nm,"lv":d.get("level",0),"rl":d.get("rootLevel") or 0,
-      "pr":(d.get("parent") or (d.get("trad") or d.get("char","") if d.get("level")==1 else "")),"rc":d.get("rootChain",[]),"rlb":d.get("rootLabel",""),"rc2":d.get("rootChain2",[]),})
+      "pr":(d.get("parent") or (d.get("trad") or d.get("char","") if d.get("level")==1 else "")),"rc":d.get("rootChain",[]),"rlb":d.get("rootLabel",""),"rc2":d.get("rootChain2",[]),"v":_simp.get(d.get("trad") or d.get("char",""),[]),})
 items=[x for x in items if x["c"]]
 import os as _os, glob as _glob
 _by={}
