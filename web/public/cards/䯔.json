@@ -1,0 +1,40 @@
+{
+ "char": "䯔",
+ "head": "䯔",
+ "pinyin": "zé",
+ "level": 3,
+ "parent": "宅",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "䯔（𩨛）zé《浮丘伯·相鶴經》：“䯓頰䯔耳則聽響遠。”偏轉。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「凿」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "宅",
+     "label": "二级字根 宅"
+    }
+   ]
+  }
+ ]
+}

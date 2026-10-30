@@ -1,0 +1,40 @@
+{
+ "char": "魠",
+ "head": "魠",
+ "pinyin": "tuō",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "魠tuō《說文》：“哆口魚也。从魚乇聲。他各切。”《玉篇》：“黃頰魚。”黃沙鮕。口大。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「突」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "乇",
+     "label": "46 乇"
+    }
+   ]
+  }
+ ]
+}

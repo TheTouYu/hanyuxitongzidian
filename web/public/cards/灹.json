@@ -1,0 +1,40 @@
+{
+ "char": "灹",
+ "head": "灹",
+ "pinyin": "zhà",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "灹（燠）zhà《玉篇》：“火焱也。”《廣韻》：“火聲。”yù，《集韻》：“燠，古作灹。”熱。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "乇",
+     "label": "46 乇"
+    }
+   ]
+  }
+ ]
+}

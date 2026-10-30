@@ -1,0 +1,40 @@
+{
+ "char": "姹",
+ "head": "姹",
+ "pinyin": "chà",
+ "level": 3,
+ "parent": "宅",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "姹chà《字彙補》：“誇誑之也。”《玉篇》：“美女也。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「刺」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "宅",
+     "label": "二级字根 宅"
+    }
+   ]
+  }
+ ]
+}

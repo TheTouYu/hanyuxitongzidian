@@ -1,0 +1,40 @@
+{
+ "char": "籷",
+ "head": "籷",
+ "pinyin": "zhé",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "籷zhé《集韻》：“陟格切，音磔。炊屑米為飯。”《玉篇》：“粘也。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "乇",
+     "label": "46 乇"
+    }
+   ]
+  }
+ ]
+}

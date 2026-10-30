@@ -1,0 +1,40 @@
+{
+ "char": "虴",
+ "head": "虴",
+ "pinyin": "zhè",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "虴zhè《新附》：“虴蜢，艸上蟲也。从虫乇聲。陟格切。”蚱蜢。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "乇",
+     "label": "46 乇"
+    }
+   ]
+  }
+ ]
+}

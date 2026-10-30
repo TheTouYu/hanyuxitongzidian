@@ -1,0 +1,40 @@
+{
+ "char": "𧧉",
+ "head": "𧧉",
+ "pinyin": "tuō",
+ "level": 3,
+ "parent": "宅",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧧉（託）tuō《類篇》：“毀也。”《正字通》：“俗託字。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「突」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "宅",
+     "label": "二级字根 宅"
+    }
+   ]
+  }
+ ]
+}

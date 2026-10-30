@@ -1,0 +1,40 @@
+{
+ "char": "垞",
+ "head": "垞",
+ "pinyin": "chá",
+ "level": 3,
+ "parent": "宅",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "垞chá《集韻》：“小丘名。”《揚子·方言》：“兗人呼實城中曰姹。”《玉篇》：“古文宅作垞。”",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「刺」：依聲符取義一面（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第46部 乇）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    },
+    {
+     "ch": "宅",
+     "label": "二级字根 宅"
+    }
+   ]
+  }
+ ]
+}
