@@ -57,6 +57,17 @@ for ch, parent in members.items():
     ks = [s.get("key") for s in d.get("sections", [])]
     if not ks or ks[0] != "shiyi":
         err.append(f"{ch}: 首栏应为 shiyi，实为 {ks}")
+
+    # 括注异体必须入 aliases（2026-10-30 用户三度提醒后固化为校验）
+    import re as _re
+    _han = lambda c: ("\u3400" <= c <= "\u9fff") or ("\U00020000" <= c <= "\U0002FFFF")
+    _m = _re.match(_re.escape(ch) + r"[（(]([^）)]*)[）)]", d.get("head") or "")
+    if _m:
+        _need = [c for c in _m.group(1) if _han(c) and c != ch]
+        _al = d.get("aliases") or []
+        _miss = [c for c in _need if c not in _al]
+        if _miss:
+            err.append(f"{ch}: 括注异体未入 aliases → {''.join(_miss)}")
     sm = [s for s in d.get("sections", []) if s.get("key") == "shengmu"]
     if not sm:
         err.append(f"{ch}: 缺声母拟态")
