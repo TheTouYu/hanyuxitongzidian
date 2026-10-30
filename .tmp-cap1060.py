@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+import json,io,os,sys
+sys.stdout.reconfigure(encoding="utf-8",errors="replace")
+C=r"D:\系统汉字\web\public\cards"
+cards={}
+for fn in os.listdir(C):
+    if fn.endswith(".json") and fn!="index.json":
+        try: d=json.load(io.open(os.path.join(C,fn),encoding="utf-8"))
+        except: continue
+        if isinstance(d,dict): cards[d.get("char") or fn[:-5]]=d
+roots=set()
+for ch,d in cards.items():
+    for s in d.get("sections",[]):
+        for l in (s.get("links") or []):
+            if l.get("ch"): roots.add(l["ch"])
+n=0
+for ch,d in cards.items():
+    ch2=False
+    if d.get("level")==1:
+        if d.get("rootLevel")!=1: d["rootLevel"]=1; ch2=True
+    elif ch in roots:
+        par=cards.get(d.get("parent") or "",{})
+        want=2 if par.get("level")==1 else 3
+        if d.get("rootLevel")!=want: d["rootLevel"]=want; ch2=True
+    else:
+        if "rootLevel" in d: d.pop("rootLevel"); ch2=True
+    if ch2:
+        json.dump(d,io.open(os.path.join(C,ch+".json"),"w",encoding="utf-8"),ensure_ascii=False,indent=1); n+=1
+print("字根标记修正",n,"字根集",len(roots))

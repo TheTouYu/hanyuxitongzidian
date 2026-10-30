@@ -1,0 +1,17 @@
+import docx,re,glob,os,json
+chars=set("情慍懼憾懌悔恨怖怯恭恥悉慰慷慨慕憲愆懲憊惕悚惋懣懃愍憫憨懇戀志忠忌忘忍忽怠惟惰意愚慈慧想愁心杺芯伈訫孞吢応沁鈊抋")
+res={}
+for f in sorted(glob.glob(r"D:\字谱智能体\*.docx")):
+    try: ps=[p.text.strip() for p in docx.Document(f).paragraphs if p.text.strip()]
+    except Exception: continue
+    cur=None
+    for t in ps:
+        h=re.match(r"^(\d{3})\.([^\s：]{1,6})",t)
+        if h and "部" in t[:24]: cur=(int(h.group(1)),h.group(2).replace("部",""))
+        if not cur or not t: continue
+        m=re.match(r"^([\u4e00-\u9fff])[（(]?([a-zA-Z\u0100-\u01ff\u0300-\u036f]{2,})",t)
+        if m and m.group(1) in chars and m.group(1) not in res:
+            res[m.group(1)]=(cur[0],cur[1],os.path.basename(f))
+json.dump({k:list(v) for k,v in res.items()},open(r"D:\系统汉字\.tmp-ent2.json","w",encoding="utf-8"),ensure_ascii=False)
+for c in sorted(chars): print(c, res.get(c,"—"))
+print("found",len(res),"/",len(chars))

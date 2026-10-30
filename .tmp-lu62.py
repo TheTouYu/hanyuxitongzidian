@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+import json,io,os,sys
+sys.stdout.reconfigure(encoding="utf-8",errors="replace")
+from docx import Document
+G=r"D:\系统汉字\web\public\glyphs"; P=os.path.join(G,"photos")
+doc=Document(r"D:\字谱智能体\卷八  虎.docx"); parts=doc.part.related_parts
+d=os.path.join(P,"虜"); os.makedirs(d,exist_ok=True)
+for f in os.listdir(d): os.remove(os.path.join(d,f))
+for el in doc.paragraphs[146]._p.iter():
+    if el.tag.split("}")[-1]=="blip":
+        rid=[v for a,v in el.attrib.items() if a.endswith("}embed") or a.endswith("}id")]
+        if rid:
+            b=parts[rid[0]].blob; ext="png" if b[:4]==b"\x89PNG" else "jpg"
+            open(os.path.join(d,"01."+ext),"wb").write(b); print("saved",len(b),ext); break

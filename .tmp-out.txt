@@ -1,0 +1,33 @@
+2026-10-21T14:07:17.495Z 系统汉字问答服务已启动 http://127.0.0.1:8092
+2026-10-21T14:07:17.500Z 模式: model | 模型: deepseek-chat | Key: sk-0c1…71fe
+2026-10-21T14:07:17.502Z 知识库根: D:\系统汉字
+2026-10-21T14:07:30.703Z ask [127.0.0.1] 見
+2026-10-21T14:07:31.526Z 字卡模型调用失败: fetch failed
+2026-10-21T14:07:31.531Z 处理请求出错: ReferenceError: ch is not defined
+    at file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:508:60
+    at Array.find (<anonymous>)
+    at fallbackSections (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:508:12)
+    at handleCard (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:972:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async handleAsk (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:1136:40)
+    at async Server.<anonymous> (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:1525:14)
+2026-10-21T14:07:31.564Z ask [127.0.0.1] 始
+2026-10-21T14:07:32.344Z 字卡模型调用失败: fetch failed
+2026-10-21T14:07:32.347Z 处理请求出错: ReferenceError: ch is not defined
+    at file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:508:60
+    at Array.find (<anonymous>)
+    at fallbackSections (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:508:12)
+    at handleCard (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:972:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async handleAsk (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:1136:40)
+    at async Server.<anonymous> (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:1525:14)
+2026-10-21T14:07:32.370Z ask [127.0.0.1] 海
+2026-10-21T14:07:32.970Z 字卡模型调用失败: fetch failed
+2026-10-21T14:07:32.984Z 处理请求出错: ReferenceError: ch is not defined
+    at file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:508:60
+    at Array.find (<anonymous>)
+    at fallbackSections (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:508:12)
+    at handleCard (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:972:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async handleAsk (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:1136:40)
+    at async Server.<anonymous> (file:///D:/%E7%B3%BB%E7%BB%9F%E6%B1%89%E5%AD%97/web/server.mjs:1525:14)

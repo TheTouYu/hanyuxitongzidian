@@ -1,0 +1,11 @@
+const fs=require('fs'),vm=require('vm');
+const html=fs.readFileSync('D:/系统汉字/web/public/test.html','utf8');
+const all=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m=>m[1]);
+let js=all[all.length-1]+"\n;globalThis.__api={open,glyphs:()=>({GLYPH,PHOTO})};";
+const els=new Map(); const mk=s=>{const e={_h:'',addEventListener(){},classList:{add(){},remove(){}},style:{},value:'',textContent:'',querySelectorAll:()=>[],appendChild(){},focus(){},dataset:{}};Object.defineProperty(e,'innerHTML',{get(){return e._h},set(v){e._h=v}});return e;};
+const doc={querySelector:s=>{if(!els.has(s))els.set(s,mk(s));return els.get(s)},getElementById:s=>doc.querySelector('#'+s),querySelectorAll:()=>[],addEventListener(){},createElement:()=>mk('x'),body:mk('b')};
+const f=u=>fetch('http://127.0.0.1:8089/'+u.replace(/^\//,''));
+const ctx={document:doc,location:{hash:''},history:{replaceState(){}},console,setTimeout,clearTimeout,fetch:f,encodeURIComponent,decodeURIComponent,JSON,Promise,URLSearchParams,Math,Date,String,Number,Array,Object};
+ctx.window=ctx;ctx.globalThis=ctx;
+vm.createContext(ctx); vm.runInContext(js,ctx);
+f('glyphs/index.json').then(r=>r.json()).then(d=>{ctx.GLYPH=d.chars||d; return f('glyphs/photos/index.json')}).then(r=>r.json()).then(d=>{ctx.window.PHOTO=d.photos||d; return ctx.__api.open('易')}).then(()=>{const h=els.get('#main')._h; const m=h.match(/src="([^"]+01\.png)"/); console.log('img src:',m&&m[1]); console.log('figs:',(h.match(/<figure>/g)||[]).length);}).catch(e=>console.log('ERR',e.message));

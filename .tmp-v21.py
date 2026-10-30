@@ -1,0 +1,10 @@
+import io,json,re,sys
+sys.stdout.reconfigure(encoding="utf-8",errors="replace")
+d=json.load(io.open(r"D:\系统汉字\web\public\cards\卷一雞.json",encoding="utf-8"))
+print([l for s in d["sections"] if s.get("key")=="juan" for l in s["links"]])
+idx=json.load(io.open(r"D:\系统汉字\web\public\cards\index.json",encoding="utf-8"))
+print([ (x["c"],x.get("cc")) for x in idx if x.get("ch")])
+h=io.open(r"D:\系统汉字\web\public\test.html",encoding="utf-8").read()
+b=re.findall(r"<script[^>]*>(.*?)</script>",h,re.S)
+for k,x in enumerate(b): io.open(rf"D:\系统汉字\.tmp-e{k}.js","w",encoding="utf-8").write(x)
+print("chapter link:", "class=\"chp\"" in h.replace('\\"','"'))

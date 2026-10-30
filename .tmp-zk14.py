@@ -1,0 +1,31 @@
+import json,subprocess,os,re,io
+B="源自《系統漢語》卷六十一「犀（屖）」部之「囟部」（第354部）；字卡五步规程。"
+rows=[
+("zk-104","恖本義：从心囟聲，心腦之思","恖（思，sī）从心、囟聲，會意兼聲。《說文》「容也。从心，囟聲，息茲切」，指心腦活動——古人以為心腦皆是思維器官；《集韻》「慮也」，《廣韻》「念也」。轉義：腮與囟門、心臟同能翕動，故引申指腮（sāi），或指多鬚（《集韻》「䯱䰄，多須皃，或作思」）。字族兩路：①思索，細密如絲 ②囟動，翕動不安。"),
+("zk-105","思本義：从心囟聲，恖之隸變","思（sī）＝心＋囟聲，為恖之隸變，思維、想念，同族通行體。"),
+("zk-106","緦本義：从糸思聲，十五升布，細麻如絲","緦（𢆿，sī）从糸、思聲，轉注，取細密如絲。《說文》「十五升布也，一曰兩麻一絲布也，从糸思聲，息茲切」；《釋名》「緦，絲也，績麻細如絲也」——製喪服之細麻布。"),
+("zk-107","罳本義：从网思聲，罘罳，屏也","罳（sī）从网、思聲，轉注。《說文》「罘罳，屏也，从网思聲，息茲切」；《釋名》謂臣入請事於此「複重思之」；《正字通》駁之，謂「罘，浮也；罳，絲也」，織絲輕疏浮虛之貌，即宮殿簷戶間之網。"),
+("zk-108","鰓本義：从魚思聲，魚頰也","鰓（sāi/xǐ）从魚、思聲，轉注，取翕動。《玉篇》「魚頰也」，魚腮；xǐ，畏懼貌。屬囟動翕動一路。"),
+("zk-109","腮本義：从肉思聲，兩頰下半部","腮（顋，sāi）从肉、思聲，轉注，取翕動。《廣韻》「顋頷，俗又作腮」，兩頰下半部——腮能翕動，如囟門與心。"),
+("zk-110","楒本義：从木思聲，相思樹，葉如魚鰓","楒（sī）从木、思聲，轉注。《集韻》「相楒，木名，通作思」，相思樹，實如珊瑚紅，羽狀複葉狀如魚鰓，花蝶形。"),
+("zk-111","颸本義：从風思聲，涼風也","颸（𩗮，sī）从風、思聲，轉注，取疾動。《新附》「涼風也。从風思聲，息茲切」；《集韻》「一曰颸，疾也」。"),
+("zk-112","偲本義：从人思聲，強力也，相切責","偲（𤟧，cāi/sī/sǐ）从人、思聲，轉注。《說文》「強力也。从人思聲，《詩》其人美且偲，倉才切」，強壯材力；sī《正韻》「偲偲，相切責也」，相互勸勉督責；sǐ《集韻》「𤟧，不安也」。"),
+("zk-113","禗本義：从示思聲，神不安，欲去意","禗（sī）从示、思聲，轉注，取不安。《集韻》「神不安，欲去意」，不安而想走。"),
+("zk-114","諰本義：从言从思，且思且言","諰（xǐ/shāi）＝言＋思，會意兼聲。《說文》「思之意。从言从思，胥裡切」，邊說邊想；《類篇》「直言也」；《字彙》「與葸同」，憂懼；shāi「語失」。"),
+("zk-115","䚡本義：从角思聲，角中骨也","䚡（sāi）从角、思聲，轉注。《說文》「角中骨也。从角思聲，穌來切」，角中之骨。"),
+]
+draft={"schema_version":1,"intent":"字卡恖思族12条入库 2026-10-22","risk":"low","claims":[]}
+for cid,title,stmt in rows:
+    draft["claims"].append({"id":cid,"node":"hanzi-yinyuan","topic_id":"topic-zika-shizi","title":title,"statement":stmt,
+      "boundary":B,"permission":"public","fact_classes":["evidence_scope"],"duplicate_resolution":"create_distinct_with_boundary"})
+fn="intake/20261022-字卡第十四批.json"
+io.open(fn,"w",encoding="utf-8",newline="\n").write(json.dumps(draft,ensure_ascii=False,indent=1))
+env=dict(os.environ); env["PATH"]=r"D:\系统汉字\.runtime\mingit\cmd;"+env["PATH"]
+def run(*a):
+    p=subprocess.run([r"D:\系统汉字\tools\pkc.cmd",*a],cwd=r"D:\系统汉字",capture_output=True,text=True,encoding="utf-8",errors="replace",env=env)
+    return p.stdout+p.stderr
+pid=re.search(r'pln_[0-9a-f]+',run("knowledge-plan","capture","--file",fn,"--format","json")).group(0); print("PLAN",pid)
+b=re.search(r'bnd_[0-9a-f]+',run("knowledge-plan","finalize",pid,"--format","json")).group(0); print("BUNDLE",b)
+h=re.search(r'"content_hash":\s*"([0-9a-f]{64})"',run("bundle-status",b,"--format","json")).group(1); print("HASH",h)
+run("bundle-approve",b,"--apply","--content-hash",h)
+print("applied", '"applied": true' in run("bundle-apply",b,"--apply","--content-hash",h))
