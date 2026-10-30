@@ -1,6 +1,6 @@
 {
  "char": "喥",
- "head": "喥",
+ "head": "喥（吒）",
  "pinyin": "duó",
  "bus": {
   "num": 45,
@@ -8,7 +8,9 @@
  },
  "parent": "度",
  "level": 3,
- "aliases": [],
+ "aliases": [
+  "吒"
+ ],
  "sections": [
   {
    "key": "shiyi",
