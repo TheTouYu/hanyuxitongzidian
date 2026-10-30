@@ -1,0 +1,38 @@
+{
+ "char": "驝",
+ "head": "驝",
+ "pinyin": "tuò",
+ "level": 3,
+ "parent": "橐",
+ "bus": [
+  {
+   "num": 45,
+   "name": "石"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "驝tuò《玉篇》：“驝駝有肉鞍也。行百里，負千斤，而知水行。又官名。”駱駝。駝峰如槖。",
+   "cites": []
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "（所屬部之聲母擬態取面，見本部部頭。推）",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤（第45部 石）",
+   "links": [
+    {
+     "ch": "卷七斤",
+     "label": "卷七 斤"
+    }
+   ]
+  }
+ ]
+}

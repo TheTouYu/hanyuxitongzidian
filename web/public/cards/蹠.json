@@ -2,28 +2,31 @@
  "char": "蹠",
  "head": "蹠",
  "pinyin": "zhí",
- "bus": {
-  "num": 45,
-  "name": "石"
- },
- "parent": "石",
  "level": 3,
- "aliases": [],
+ "parent": "庶",
+ "bus": [
+  {
+   "num": 45,
+   "name": "石"
+  }
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "蹠zhí《說文》：“足下也。从足石聲。之石切。”腳掌。《龍龕》：“足履踐也。”"
+   "text": "蹠zhí《說文》：“足下也。从足石聲。之石切。”腳掌。《龍龕》：“足履踐也。”",
+   "cites": []
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「收」：石質收聚而堅（推）。"
+   "text": "（所屬部之聲母擬態取面，見本部部頭。推）",
+   "cites": []
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷七 斤（第45部 石）",
    "links": [
     {
      "ch": "卷七斤",
