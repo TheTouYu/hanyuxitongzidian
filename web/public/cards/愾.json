@@ -1,8 +1,5 @@
 {
  "char": "愾",
- "trad": "愾",
- "simp": "忾",
- "pinyin": "xì",
  "level": 3,
  "parent": "乞",
  "bus": {
@@ -13,41 +10,28 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "text": "大息也。歎息。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
  ],
+ "head": "愾（忾忥）",
  "aliases": [
   "忾",
   "忥"
- ],
- "head": "愾"
+ ]
 }

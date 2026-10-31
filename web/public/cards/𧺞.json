@@ -1,8 +1,5 @@
 {
  "char": "𧺞",
- "trad": "𧺞",
- "simp": "",
- "pinyin": "yì",
  "level": 3,
  "parent": "乞",
  "bus": {
@@ -13,40 +10,27 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "text": "直行也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
  ],
+ "head": "𧺞（䞘）",
  "aliases": [
   "䞘"
- ],
- "head": "𧺞"
+ ]
 }

@@ -1,52 +1,34 @@
 {
  "char": "摡",
- "trad": "摡",
- "simp": "",
- "pinyin": "gài",
  "level": 3,
  "parent": "旡",
  "bus": {
-  "num": 6,
-  "name": "乞"
+  "num": 5,
+  "name": "欠"
  },
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "摡（𢪑）gài《說文》：“滌也。从手旣聲。《詩》曰：‘摡之釜鬵。’古代切。”洗滌。《廣雅》：“主也。”xì，《集韻》：“《博雅》：‘取也。’一曰拭也。或作𢪑。”",
-   "cites": []
+   "text": "滌也。洗滌。xì，取也、拭也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "g「隔估」取「隔」：隔而後淨（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "g「隔估」取「隔」：滌而去隔（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
  ],
- "aliases": [
-  "𢪑"
- ],
- "head": "摡（𢪑）"
+ "head": "摡（𢪑）",
+ "aliases": []
 }
