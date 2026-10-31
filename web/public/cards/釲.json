@@ -1,42 +1,30 @@
 {
  "char": "釲",
- "trad": "釲",
- "simp": "釲",
- "pinyin": "sì",
+ "head": "釲（鈻）",
  "level": 3,
  "parent": "巳",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "鈻"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "釲（鈻）sì《玉篇》：“金子也。”《集韻》：“鈻，《博雅》：‘鈻，鉿，鋌也。’或作釲。”箭頭裝入箭杆的部分。",
-   "cites": []
+   "text": "金子也；鈻，鋌也。箭頭裝入箭杆的部分。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "s「失收」取「失」：金子也。鈻，《（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "s「失收」取「收」：箭入杆而收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "鈻"
- ],
- "head": "釲（鈻）"
+ ]
 }

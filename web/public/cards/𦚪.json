@@ -1,42 +1,30 @@
 {
  "char": "𦚪",
- "trad": "𦚪",
- "simp": "𦚪",
- "pinyin": "ǎi",
+ "head": "𦚪（䑂）",
  "level": 3,
  "parent": "巳",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "䑂"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𦚪（䑂）ǎi《集韻》：“䑂，肥也。或作𦚪。”",
-   "cites": []
+   "text": "䑂，肥也。或作𦚪。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "䑂"
- ],
- "head": "𦚪（䑂）"
+ ]
 }

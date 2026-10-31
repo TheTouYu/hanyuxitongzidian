@@ -1,42 +1,30 @@
 {
  "char": "起",
- "trad": "起",
- "simp": "起",
- "pinyin": "qǐ",
+ "head": "起（𨑖）",
  "level": 3,
  "parent": "巳",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "𨑖"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "起（𨑖）qǐ《說文》：“能立也。从走巳聲。{{gin:glyphs/inline/起/shiyi/01.png}}，古文起从辵。墟裡切。”《釋名》：“起，舉也。平舉體也。”《玉篇》：“興也、發也、立也、作也。”",
-   "cites": []
+   "text": "能立也；興也、發也、立也、作也；平舉體也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：能立也。从走巳聲。{{gin（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "q「亲缺」取「亲」：挺身而起，親於地（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "𨑖"
- ],
- "head": "起（𨑖）"
+ ]
 }
