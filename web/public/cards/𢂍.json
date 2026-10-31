@@ -1,29 +1,28 @@
 {
  "char": "𢂍",
- "pinyin": "bō",
+ "head": "𢂍",
  "level": 3,
  "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《川篇》：「音缽。巾也。」應从「巿」。",
-   "cites": []
+   "text": "巾也，应从巿。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "不取義：應从「巿」，借形。",
-   "cites": []
+   "text": "b「闭剥」取「闭」：閉而束（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𢂍"
+ ]
 }

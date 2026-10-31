@@ -1,29 +1,31 @@
 {
  "char": "柹",
- "pinyin": "shì",
+ "head": "柹（杮𣏕）",
  "level": 3,
  "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
  },
+ "aliases": [
+  "杮",
+  "𣏕"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：「《說文》：『赤實果。』俗作柿，非是。」柿子。",
-   "cites": []
+   "text": "赤實果，柿子；fèi，削下的木片。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "不取義：俗作柿，形近「𣏕」而訛。",
-   "cites": []
+   "text": "ch「刺持」取「持」：持止不前（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,12 +33,5 @@
     }
    ]
   }
- ],
- "head": "柹（杮𣏕）",
- "aliases": [
-  "杮",
-  "柿",
-  "𣏕"
- ],
- "simp": "柿"
+ ]
 }

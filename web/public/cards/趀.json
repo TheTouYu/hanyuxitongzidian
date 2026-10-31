@@ -1,29 +1,30 @@
 {
  "char": "趀",
- "pinyin": "cī",
+ "head": "趀（𧺡）",
  "level": 3,
  "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
  },
+ "aliases": [
+  "𧺡"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「蒼卒也。从走𠂔聲。讀若資。取私切。」倉猝，腳步雜亂皃。",
-   "cites": []
+   "text": "蒼卒也，腳步雜亂。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "不取義：俗「𧺡」字，借形。",
-   "cites": []
+   "text": "c「刺持」取「刺」：束而刺人（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "趀（𧺡）",
- "aliases": [
-  "𧺡"
  ]
 }

@@ -1,29 +1,30 @@
 {
  "char": "㾅",
- "pinyin": "zǐ",
+ "head": "㾅（𤴹）",
  "level": 3,
  "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
  },
+ "aliases": [
+  "𤴹"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「瑕也。从疒𠂔聲。側史切。」瑕疵。《正字通》：「俗𤴹字。」疑為「㾊」之訛。",
-   "cites": []
+   "text": "瑕也，瑕疵即痣；一曰病也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "不取義：疑為「㾊」之訛。",
-   "cites": []
+   "text": "z「凿总」取「总」：草束總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "㾅（𤴹）",
- "aliases": [
-  "𤴹"
  ]
 }

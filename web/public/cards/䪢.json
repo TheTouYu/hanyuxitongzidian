@@ -1,13 +1,15 @@
 {
  "char": "䪢",
- "head": "䪢（齏）",
+ "head": "䪢（䪠䪡齏）",
  "level": 3,
- "parent": "次",
+ "parent": "𠂔",
  "bus": {
-  "num": 20,
-  "name": "次"
+  "num": 21,
+  "name": "𠂔"
  },
  "aliases": [
+  "䪠",
+  "䪡",
   "齏"
  ],
  "sections": [
@@ -19,7 +21,7 @@
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：聚而次第（推）。"
+   "text": "j「聚决」取「聚」：聚束而齊（推）。"
   },
   {
    "key": "suoshujuan",

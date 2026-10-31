@@ -1,29 +1,30 @@
 {
  "char": "𨥦",
- "pinyin": "qí",
+ "head": "𨥦（鈰）",
  "level": 3,
  "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
  },
+ "aliases": [
+  "鈰"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「利也。从金𠂔聲。讀若齊。徂奚切。」鋒利。",
-   "cites": []
+   "text": "利也，鋒利；讀若齊。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "不取義：本「鈰」之篆形，借形。",
-   "cites": []
+   "text": "x「续消」取「消」：止而消（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "𨥦（鈰𨧬）",
- "aliases": [
-  "鈰",
-  "𨧬"
  ]
 }

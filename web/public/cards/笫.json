@@ -1,29 +1,28 @@
 {
  "char": "笫",
- "pinyin": "zǐ",
+ "head": "笫",
  "level": 3,
  "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「床簀也。从竹𠂔聲。阻史切。」竹編的床墊子。《集韻》：「床格謂之笫。」",
-   "cites": []
+   "text": "床簀也，竹編的床墊；床格謂之笫。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：成簀（推）。",
-   "cites": []
+   "text": "z「凿总」取「总」：草束總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "笫"
+ ]
 }

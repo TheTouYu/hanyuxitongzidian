@@ -1,29 +1,30 @@
 {
  "char": "𠛔",
- "pinyin": "chǐ",
+ "head": "𠛔（𠚷）",
  "level": 3,
  "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
  },
+ "aliases": [
+  "𠚷"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《字彙》：「昌止切，音齒。割物也。」𠚷，《正字通》：「俗刺字。」",
-   "cites": []
+   "text": "割物也；𠚷同𠛔。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "不取義：形近「朿」之訛，記作讹变借形。",
-   "cites": []
+   "text": "ch「刺持」取「持」：持止不前（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "𠛔（𠚷刺）",
- "aliases": [
-  "刺",
-  "𠚷"
  ]
 }
