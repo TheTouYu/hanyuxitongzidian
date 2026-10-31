@@ -1,8 +1,5 @@
 {
  "char": "忔",
- "trad": "忔",
- "simp": "",
- "pinyin": "qì",
  "level": 3,
  "parent": "乞",
  "bus": {
@@ -13,38 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "忔qì《廣韻》：“喜也。”yì，《集韻》：“心不欲也。”",
-   "cites": []
+   "text": "喜也。yì，心不欲也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：而缺（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [],
- "head": "忔"
+ ]
 }

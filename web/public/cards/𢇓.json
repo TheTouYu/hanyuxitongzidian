@@ -1,8 +1,5 @@
 {
  "char": "𢇓",
- "trad": "𢇓",
- "simp": "",
- "pinyin": "jí",
  "level": 3,
  "parent": "乞",
  "bus": {
@@ -13,38 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𢇓jí《廣韻》：“𧰙也。”摩切。《集韻》：“相切近也。”《玉篇》：“危也、切磨也。”",
-   "cites": []
+   "text": "摩切；相切近也；危也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「亲」：「摩切」相切近。（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𢇓"
+ ]
 }
