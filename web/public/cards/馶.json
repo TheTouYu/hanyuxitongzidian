@@ -1,31 +1,28 @@
 {
  "char": "馶",
  "head": "馶",
- "pinyin": "zhī",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "馶zhī《說文》：“馬強也。从馬支聲。章移切。”馬強健。shì，《五音集韻》：“馬病。”",
-   "cites": []
+   "text": "馬強也；shì，馬病。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：如鑿（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：馬強而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

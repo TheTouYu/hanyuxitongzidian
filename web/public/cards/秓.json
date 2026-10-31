@@ -1,31 +1,28 @@
 {
  "char": "秓",
  "head": "秓",
- "pinyin": "zhī",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "秓zhī《玉篇》：“稈也。”秸稈。《篇海類編》：“禾名。”",
-   "cites": []
+   "text": "稈也，秸稈；禾名。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：直如鑿（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：稈直如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

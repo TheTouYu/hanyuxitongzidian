@@ -1,31 +1,28 @@
 {
  "char": "𪂅",
  "head": "𪂅",
- "pinyin": "zhī",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𪂅zhī《廣韻》：“土精。如鴈，一足，黃色，毀之殺人。”大約指某種經常單足而立的鳥。",
-   "cites": []
+   "text": "土精，如鴈一足，黃色，毀之殺人；常單足而立。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：如鑿獨立（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：單足如凿立（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

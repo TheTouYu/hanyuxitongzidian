@@ -1,31 +1,28 @@
 {
  "char": "㩻",
  "head": "㩻",
- "pinyin": "qī",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "㩻qī《說文》：“㩻䧢也。从危支聲。去其切。”崎嶇不正。guì，《廣韻》：“瘦極。”guǐ，《集韻》：“重累也。”“依也。”",
-   "cites": []
+   "text": "㩻䧢也，崎嶇不正；guì，瘦極；guǐ，重累。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：地勢缺裂（推）。",
-   "cites": []
+   "text": "q「亲缺」取「缺」：崎嶇而缺平（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,13 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "𢼮",
-  "攰",
-  "𢻪",
-  "𤿡",
-  "𢼨",
-  "佹"
  ]
 }

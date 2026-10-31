@@ -1,31 +1,28 @@
 {
  "char": "䰙",
  "head": "䰙",
- "pinyin": "yǐ",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䰙yǐ《說文》：“三足鍑也。一曰滫米器也。从鬲支聲。魚綺切。”三只脚的大口釜。或指淘米的器具。",
-   "cites": []
+   "text": "三足鍑也；或指淘米器。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

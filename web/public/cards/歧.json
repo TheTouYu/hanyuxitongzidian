@@ -1,31 +1,31 @@
 {
  "char": "歧",
  "head": "歧（跂岐）",
- "pinyin": "jì",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [
+  "跂",
+  "岐"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "歧（跂岐）jì《玉篇》：“歧路也。”岔路。《集韻》：“跂，《說文》：‘足多指也。’或作枝、歧。”《正字通》：“同岐。”",
-   "cites": []
+   "text": "歧路也；岔路。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：缺（推）。",
-   "cites": []
+   "text": "j「聚决」取「决」：路分而决（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,9 +33,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "岐",
-  "跂"
  ]
 }

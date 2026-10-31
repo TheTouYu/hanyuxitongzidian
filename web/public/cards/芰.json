@@ -1,31 +1,30 @@
 {
  "char": "芰",
  "head": "芰（茤）",
- "pinyin": "jì",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [
+  "茤"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "芰（茤）jì《說文》：“菱也。从艸支聲。茤，杜林說：芰从多。奇記切。”菱角。《本草》注：“其葉支散，故字从支。”應指菱角兩頭的尖狀。",
-   "cites": []
+   "text": "菱也；菱角，其葉支散。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：尖聚（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：葉聚而尖（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "茤"
  ]
 }

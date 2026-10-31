@@ -1,31 +1,28 @@
 {
  "char": "技",
  "head": "技",
- "pinyin": "jì",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "技jì《說文》：“巧也。从手支聲。渠綺切。”技巧，手藝，才能。qí，《集韻》：“不端也。”伎倆，不正派的手段。",
-   "cites": []
+   "text": "巧也；技巧、手藝、才能；qí，不端也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：精會神、聚巧於手而後成（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：手聚而巧（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

@@ -1,31 +1,28 @@
 {
  "char": "䚳",
  "head": "䚳",
- "pinyin": "zhì",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䚳zhì《廣韻》：“快也。”《玉篇》：“不知也。”當指說話很快，支吾不清。",
-   "cites": []
+   "text": "快也；不知也；說話很快、支吾不清。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：語如鑿出（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：語快而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

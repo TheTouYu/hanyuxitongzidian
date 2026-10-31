@@ -1,31 +1,31 @@
 {
  "char": "𢻚",
  "head": "𢻚（𢻏弜）",
- "pinyin": "qí",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [
+  "𢻏",
+  "弜"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𢻚（𢻏弜）qí《廣韻》：“弓硬皃。”《集韻》：“弓彊皃。或作𢻏、弜。”",
-   "cites": []
+   "text": "弓硬皃；弓彊皃。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：親附（推）。",
-   "cites": []
+   "text": "q「亲缺」取「缺」：弓強而缺柔（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,9 +33,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "弜",
-  "𢻏"
  ]
 }

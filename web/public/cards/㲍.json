@@ -1,31 +1,28 @@
 {
  "char": "㲍",
  "head": "㲍",
- "pinyin": "zhī",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "㲍zhī《集韻》：“《博雅》：‘㲔㲍，罽也’。”《廣韻》：“㲔㲍者，輕毛皃。”《正字通》：“俗翅字。”",
-   "cites": []
+   "text": "㲔㲍，罽也；輕毛皃；俗翅字。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：毛尖如鑿之銳（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：毛輕如翅（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

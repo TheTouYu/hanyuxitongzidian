@@ -1,31 +1,28 @@
 {
  "char": "吱",
  "head": "吱",
- "pinyin": "zhī",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "吱zhī《集韻》：“吱吱，聲也。”qì，《廣韻》：“行喘息皃。”zī，象聲詞。多形容小動物的叫聲。",
-   "cites": []
+   "text": "吱吱，聲也；qì，行喘息皃；zī，小動物叫聲。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：細而刺耳如鑿（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：聲細如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

@@ -1,31 +1,31 @@
 {
  "char": "翄",
  "head": "翄（𦐊翅）",
- "pinyin": "chì",
  "level": 3,
  "parent": "支",
  "bus": {
   "num": 13,
   "name": "支"
  },
+ "aliases": [
+  "𦐊",
+  "翅"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "翄（𦐊翅）chì《說文》：“翼也。从羽支聲。{{gin:glyphs/inline/翄/shiyi/01.png}}，翄或从氏。施智切。”翅膀。由軀幹橫生之意。《集韻》：“翄翄，飛皃。或从氏。亦書作翅。”",
-   "cites": []
+   "text": "翼也；翅膀，由軀幹橫生之意。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "ch「刺持」取「持」：持身而飛（推）。",
-   "cites": []
+   "text": "ch「刺持」取「刺」：翼展而刺空（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,9 +33,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "翅",
-  "𦐊"
  ]
 }
