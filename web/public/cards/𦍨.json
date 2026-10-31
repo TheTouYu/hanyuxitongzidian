@@ -1,10 +1,7 @@
 {
  "char": "𦍨",
- "trad": "𦍨",
- "simp": "𦍨",
- "pinyin": "jié",
  "level": 3,
- "parent": "丐",
+ "parent": "匃",
  "bus": {
   "num": 4,
   "name": "匃"
@@ -13,40 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𦍨（羯）jié《集韻》：“羯，《說文》：‘羊羖犗也。’或省。”閹割的公羊。",
-   "cites": []
+   "text": "羯，《說文》：「羊羖犗也。」或省。閹割的公羊。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「决」：其勢（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ]
+   "text": "j「聚决」取「决」：決然絕其生（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [
-  "羯"
- ],
- "head": "𦍨（羯）"
+ ]
 }

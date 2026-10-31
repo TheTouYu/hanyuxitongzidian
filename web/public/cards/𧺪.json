@@ -1,10 +1,7 @@
 {
  "char": "𧺪",
- "trad": "𧺪",
- "simp": "𧺪",
- "pinyin": "yān",
  "level": 3,
- "parent": "丐",
+ "parent": "匃",
  "bus": {
   "num": 4,
   "name": "匃"
@@ -13,40 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𧺪（𧽞）yān《龍龕》：“音焉。東夷舞。”即“𧽞”，《集韻》：“走皃。”",
-   "cites": []
+   "text": "《龍龕》：音焉。東夷舞。即「𧽞」，《集韻》：走皃。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ]
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [
-  "𧽞"
- ],
- "head": "𧺪（𧽞）"
+ ]
 }

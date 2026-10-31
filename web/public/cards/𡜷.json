@@ -1,10 +1,7 @@
 {
  "char": "𡜷",
- "trad": "𡜷",
- "simp": "𡜷",
- "pinyin": "pín",
  "level": 3,
- "parent": "丐",
+ "parent": "匃",
  "bus": {
   "num": 4,
   "name": "匃"
@@ -13,40 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𡜷（嬪）pín《玉篇》：“古文嬪字。”",
-   "cites": []
+   "text": "古文嬪字。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "p「拼辟」取「拼」：而居（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ]
+   "text": "p「拼辟」取「拼」：嬪配相拼（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [
-  "嬪"
- ],
- "head": "𡜷（嬪）"
+ ]
 }
