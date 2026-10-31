@@ -1,40 +1,28 @@
 {
  "char": "𧐓",
- "pinyin": "yě",
+ "head": "𧐓",
  "level": 3,
  "parent": "野",
  "bus": {
   "num": 9,
   "name": "士"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𧐓yě《玉篇》：“音野。蟲也。”",
-   "cites": []
+   "text": "音野。蟲也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ],
-   "cites": []
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -42,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𧐓"
+ ]
 }

@@ -1,41 +1,34 @@
 {
  "char": "𧧘",
- "trad": "𧧘",
- "simp": "",
- "pinyin": "shuì",
+ "head": "𧧘",
  "level": 3,
- "parent": "",
+ "parent": "色",
+ "bus": {
+  "num": 9,
+  "name": "士"
+ },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𧧘shuì《正字通》：“說字之訛。”",
-   "cites": []
+   "text": "說字之訛。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「豁」：》「說字之訛。」即「說」的（推）。",
-   "cites": []
+   "text": "sh「失收」取「收」：言收（推）。"
   },
   {
-   "key": "suoshu",
+   "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "noRoot": true,
- "aliases": [],
- "head": "𧧘"
+ ]
 }

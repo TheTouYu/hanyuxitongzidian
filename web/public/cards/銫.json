@@ -1,42 +1,28 @@
 {
  "char": "銫",
- "trad": "銫",
- "simp": "铯",
- "pinyin": "sè",
+ "head": "銫",
  "level": 3,
  "parent": "色",
  "bus": {
   "num": 9,
   "name": "士"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "text": "鹼金屬族的一種銀白色、質軟、易展性金屬元素（cesium）。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "s「失收」取「收」：：銫（cesium）；色聲記音（原稿——借聲（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "s「失收」取「收」：金軟而收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "铯"
- ],
- "head": "銫"
+ ]
 }

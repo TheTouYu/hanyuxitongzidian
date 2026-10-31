@@ -1,40 +1,28 @@
 {
  "char": "嘢",
- "pinyin": "yě",
+ "head": "嘢",
  "level": 3,
- "parent": "士",
+ "parent": "野",
  "bus": {
   "num": 9,
   "name": "士"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "嘢yě《漢典》：“方言，語氣詞。”語氣詞，含有貶義，相當于“東西、活兒、傢夥”。",
-   "cites": []
+   "text": "方言語氣詞，含貶義，相當於「東西、活兒、傢夥」。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ],
-   "cites": []
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -42,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "嘢"
+ ]
 }

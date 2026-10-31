@@ -1,42 +1,28 @@
 {
  "char": "漜",
- "trad": "漜",
- "simp": "漜",
- "pinyin": "yě",
+ "head": "漜",
  "level": 3,
  "parent": "野",
  "bus": {
   "num": 9,
   "name": "士"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "漜yě《玉篇》：“余瓦切。泥水皃。”《集韻》：“泥淖也。或从邪。”《字彙》：“泥出水也。”",
-   "cites": []
+   "text": "泥水皃；泥淖也；泥出水也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "𡌯"
- ],
- "head": "漜"
+ ]
 }
