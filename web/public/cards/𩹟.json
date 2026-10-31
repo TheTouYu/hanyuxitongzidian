@@ -1,0 +1,34 @@
+{
+ "char": "𩹟",
+ "head": "𩹟",
+ "level": 3,
+ "parent": "柰",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "鰶䱞，魚名。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "n「纳弄」取「纳」：魚納水（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ]
+}

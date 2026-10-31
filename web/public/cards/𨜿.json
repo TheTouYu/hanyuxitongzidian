@@ -1,40 +1,30 @@
 {
  "char": "𨜿",
- "pinyin": "xù",
+ "head": "𨜿（𨻍）",
  "level": 3,
  "parent": "祟",
  "bus": {
   "num": 10,
   "name": "示"
  },
+ "aliases": [
+  "𨻍"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𨜿（𨻍）xù《廣韻》：“頹下。”下墜。《正字通》：“𨝡字之譌。”",
-   "cites": []
+   "text": "頹下，下墜；《正字通》以為𨝡字之譌。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「豁」：「頹下。」下墜。「𨝡字之譌」（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ],
-   "cites": []
+   "text": "x「续消」取「消」：墜而消（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -42,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "𨜿（𨻍）",
- "aliases": [
-  "𨻍"
  ]
 }

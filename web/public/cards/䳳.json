@@ -1,40 +1,28 @@
 {
  "char": "䳳",
- "pinyin": "xù",
+ "head": "䳳",
  "level": 3,
  "parent": "祟",
  "bus": {
   "num": 10,
   "name": "示"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䳳xù《說文》：“鳥也。从鳥祟聲。辛聿切。”《廣韻》：“小鳥名。”",
-   "cites": []
+   "text": "鳥也，从鳥祟聲；小鳥名。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「续」：「鳥也。从鳥祟聲。辛聿切。」——借聲之字，聲（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ],
-   "cites": []
+   "text": "x「续消」取「续」：小鳥續飛（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -42,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "䳳"
+ ]
 }
