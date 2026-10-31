@@ -1,0 +1,32 @@
+{
+ "char": "餲",
+ "level": 3,
+ "parent": "曷",
+ "bus": {
+  "num": 4,
+  "name": "匃"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "飯餲也。飯經久變味。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零聲母「不系」：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
+    {
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
+    }
+   ]
+  }
+ ]
+}
