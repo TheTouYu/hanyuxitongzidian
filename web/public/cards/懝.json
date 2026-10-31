@@ -1,8 +1,5 @@
 {
  "char": "懝",
- "trad": "懝",
- "simp": "",
- "pinyin": "ài",
  "level": 3,
  "parent": "疑",
  "bus": {
@@ -13,38 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "懝ài《說文》：“騃也。从心从疑，疑亦聲。一曰惶也。五漑切。”癡呆。惶恐。",
-   "cites": []
+   "text": "騃也。癡呆；惶恐。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "零「零聲母」不系：今讀零聲母（舊讀疑母），緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [],
- "head": "懝"
+ ]
 }

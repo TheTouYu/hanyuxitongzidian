@@ -1,0 +1,32 @@
+{
+ "char": "灨（𣹟）",
+ "level": 3,
+ "parent": "贛",
+ "bus": {
+  "num": 5,
+  "name": "欠"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "水名。豫章灨縣，水出西南，北入大江；通作淦、贛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "g「隔估」取「隔」：水隔而別流（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
+    {
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
+    }
+   ]
+  }
+ ]
+}
