@@ -1,40 +1,28 @@
 {
  "char": "偨",
- "pinyin": "cī",
+ "head": "偨",
  "level": 3,
  "parent": "祡",
  "bus": {
   "num": 10,
   "name": "示"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "偨cī《集韻》：“柴，柴池，參差也。或从人。”《字彙》：“ 偨傂，不齊也。”",
-   "cites": []
+   "text": "柴池，參差也；偨傂，不齊也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：集韻》：柴，柴池，參差也。或从人。《字彙（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ],
-   "cites": []
+   "text": "c「刺持」取「刺」：參差如刺（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -42,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "偨"
+ ]
 }

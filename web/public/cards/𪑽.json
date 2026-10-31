@@ -1,0 +1,34 @@
+{
+ "char": "𪑽",
+ "head": "𪑽",
+ "level": 3,
+ "parent": "祡",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "柴買切，寨上聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：黑而凿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ]
+}

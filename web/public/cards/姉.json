@@ -1,42 +1,36 @@
 {
  "char": "姉",
- "pinyin": "zǐ",
+ "head": "姉（姊）",
  "level": 3,
- "parent": "",
- "noRoot": true,
+ "parent": "市",
  "bus": {
   "num": 10,
   "name": "示"
  },
+ "aliases": [
+  "姊"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "姉（姊）zǐ《正字通》：“女兄也。《爾雅》：‘男子謂女子先生曰姉。’《詩·𨚍風》：‘問我諸姑，遂及伯姉。’今作姊……又北齊太子稱生母為姊姊，已妻為妹妹。至宋則呼嫡母為大姊姊，妻之于嫡母亦肰。 ”",
-   "cites": []
+   "text": "姊之或體。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：總率諸妹（推）。",
-   "cites": []
+   "text": "z「凿总」取「总」：姊妹總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }
- ],
- "simp": "姊",
- "aliases": [
-  "姊"
- ],
- "head": "姉（姊）"
+ ]
 }

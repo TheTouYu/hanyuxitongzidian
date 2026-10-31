@@ -1,40 +1,28 @@
 {
  "char": "䕀",
- "pinyin": "kuǎn",
+ "head": "䕀",
  "level": 3,
  "parent": "款",
  "bus": {
   "num": 10,
   "name": "示"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䕀kuǎn《爾雅·釋草》：“菟奚，顆涷。”郭璞注：“款冬也。紫赤花，生水中。”款冬，根莖地下橫生，冬季十二月開花。",
-   "cites": []
+   "text": "款冬也，紫赤花，生水中；根莖地下橫生，冬季十二月開花。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "k「口控」取「口」：声记音——借聲之字，聲母亦摹其音（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ],
-   "cites": []
+   "text": "k「口控」取「控」：根控於地（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -42,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "䕀"
+ ]
 }

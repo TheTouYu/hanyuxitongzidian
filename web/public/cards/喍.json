@@ -1,0 +1,34 @@
+{
+ "char": "喍",
+ "head": "喍",
+ "level": 3,
+ "parent": "祡",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "啀喍也；喍啀，犬鬥皃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「刺」：犬鬥相刺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ]
+}

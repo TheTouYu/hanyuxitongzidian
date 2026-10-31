@@ -1,43 +1,37 @@
 {
  "char": "𠶴",
- "pinyin": "zā",
+ "head": "𠶴（砸𠯗）",
  "level": 3,
- "parent": "",
- "noRoot": true,
+ "parent": "市",
  "bus": {
   "num": 10,
   "name": "示"
  },
+ "aliases": [
+  "砸",
+  "𠯗"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𠶴（砸{{shiyi/01.png}}𠯗）zā《龍龕》：“𠶴、砸、{{shiyi/02.png}}，三俗；𠯗，正。子荅反。入口也。”用唇吸吮，或以指沾染而吸。",
-   "cites": [],
-   "gdir": "inline/𠶴"
+   "text": "砸之或體；𠯗，入口也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「凿」：如鑿（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：口凿而砸（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }
- ],
- "head": "𠶴（砸𠯗）",
- "aliases": [
-  "砸",
-  "𠯗"
  ]
 }
