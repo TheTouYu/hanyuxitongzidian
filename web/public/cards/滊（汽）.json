@@ -1,0 +1,32 @@
+{
+ "char": "滊（汽）",
+ "level": 3,
+ "parent": "乞",
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "鹽池；一曰以甘水和咸水為鹽曰滊。xì，河名。qì，同汽。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「消」：水化而消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
+    {
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
+    }
+   ]
+  }
+ ]
+}

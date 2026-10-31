@@ -1,0 +1,32 @@
+{
+ "char": "䩯（𩏊）",
+ "level": 3,
+ "parent": "亟",
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "急也。用皮革緊牢；皮革堅硬。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：革聚而堅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
+    {
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
+    }
+   ]
+  }
+ ]
+}
