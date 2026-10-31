@@ -1,34 +1,28 @@
 {
  "char": "擡",
  "head": "擡",
- "pinyin": "tái",
  "level": 3,
  "parent": "臺",
  "bus": {
   "num": 16,
   "name": "矢"
  },
- "aliases": [
-  "抬"
- ],
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《博雅》「擡揌，動也」；《廣韻》「擡，舉也」",
-   "cites": []
+   "text": "擡揌，動也；舉也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「突」：出（推）。",
-   "cites": []
+   "text": "t「涂突」取「突」：舉而突上（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -36,6 +30,5 @@
     }
    ]
   }
- ],
- "simp": "抬"
+ ]
 }

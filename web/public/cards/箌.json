@@ -1,7 +1,6 @@
 {
  "char": "箌",
  "head": "箌（罩䈇）",
- "pinyin": "zhào",
  "level": 3,
  "parent": "到",
  "bus": {
@@ -9,27 +8,24 @@
   "name": "矢"
  },
  "aliases": [
-  "䈇",
-  "罩"
+  "罩",
+  "䈇"
  ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "箌（罩䈇）zhào《集韻》：『罩，捕魚器，或作箌』。《正字通》：『同䈇』。捕魚的竹籠。",
-   "cites": []
+   "text": "捕魚器，或作罩；捕魚的竹籠。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：魚入而籠之（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：籠罩如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
