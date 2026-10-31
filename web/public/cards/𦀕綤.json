@@ -1,0 +1,36 @@
+{
+ "char": "𦀕",
+ "head": "𦀕綤",
+ "level": 3,
+ "parent": "邑",
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [
+  "綤"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "臭衣，穿久充滿汗臭之衣。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

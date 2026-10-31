@@ -1,0 +1,36 @@
+{
+ "char": "䱒",
+ "head": "䱒𩸆",
+ "level": 3,
+ "parent": "邑",
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [
+  "𩸆"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "鹽漬魚也；河豚、漬魚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
