@@ -1,29 +1,28 @@
 {
  "char": "裛",
- "pinyin": "yè",
+ "head": "裛",
  "level": 3,
  "parent": "邑",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「書囊也。从衣邑聲。」《集韻》：「香襲衣也。」用香熏衣。",
-   "cites": []
+   "text": "書囊也、書套；囊也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,8 +30,5 @@
     }
    ]
   }
- ],
- "group": "①",
- "aliases": [],
- "head": "裛"
+ ]
 }

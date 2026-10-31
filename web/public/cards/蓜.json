@@ -1,29 +1,28 @@
 {
  "char": "蓜",
- "pinyin": "pèi",
+ "head": "蓜",
  "level": 3,
  "parent": "配",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "蓜pèi：義未詳。疑指茅草，古祭神時用以宿酒。",
-   "cites": []
+   "text": "義未詳，疑指茅草，古祭神時用以宿酒。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "p「拼辟」取「拼」：相拼以宿酒（推）。",
-   "cites": []
+   "text": "p「拼辟」取「拼」：配匹相拼（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,8 +30,5 @@
     }
    ]
   }
- ],
- "group": "①",
- "aliases": [],
- "head": "蓜"
+ ]
 }

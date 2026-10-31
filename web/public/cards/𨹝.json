@@ -1,29 +1,28 @@
 {
  "char": "𨹝",
- "pinyin": "yì",
+ "head": "𨹝",
  "level": 3,
  "parent": "邑",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：「乙及切，音邑。𨹝𨽦，陜也。」狹窄。",
-   "cites": []
+   "text": "𨹝𨽧，陜也，狹窄。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,8 +30,5 @@
     }
    ]
   }
- ],
- "group": "①",
- "aliases": [],
- "head": "𨹝"
+ ]
 }

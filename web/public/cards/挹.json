@@ -1,29 +1,30 @@
 {
  "char": "挹",
- "pinyin": "yì",
+ "head": "挹（揖）",
  "level": 3,
  "parent": "邑",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "揖"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「抒也。从手邑聲。」《廣韻》：「酌也。」舀。",
-   "cites": []
+   "text": "抒也、酌也，舀。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "挹（揖）",
- "aliases": [
-  "揖"
- ],
- "group": "②"
+ ]
 }

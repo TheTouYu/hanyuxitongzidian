@@ -1,29 +1,30 @@
 {
  "char": "嶏",
- "pinyin": "pèi",
+ "head": "嶏（圮）",
  "level": 3,
  "parent": "配",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "圮"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "嶏pèi《說文》：「崩聲。从屵配聲。讀若費。蒲沒切。」崩塌的聲音。《集韻》：「石隕聲。」pǐ，《玉篇》：「毀也。或作圮。」相合之意。",
-   "cites": []
+   "text": "崩聲，讀若費；山摧。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "p「拼辟」取「拼」：而落（推）。",
-   "cites": []
+   "text": "p「拼辟」取「拼」：配匹相拼（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "嶏（圮）",
- "aliases": [
-  "圮"
- ],
- "group": "①"
+ ]
 }

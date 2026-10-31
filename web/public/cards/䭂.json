@@ -1,29 +1,30 @@
 {
  "char": "䭂",
- "pinyin": "yì",
+ "head": "䭂（𦤡）",
  "level": 3,
  "parent": "邑",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "𦤡"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》：「濕也。」《廣韻》：「食䭂。」吃飽。",
-   "cites": []
+   "text": "濕也、食䭂，吃飽。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,11 +32,5 @@
     }
    ]
   }
- ],
- "head": "䭂（𦤡𨜀）",
- "aliases": [
-  "𦤡",
-  "𨜀"
- ],
- "group": "②"
+ ]
 }
