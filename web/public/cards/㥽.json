@@ -1,29 +1,28 @@
 {
  "char": "㥽",
- "pinyin": "cè",
+ "head": "㥽",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》「情也」；《廣韻》「耿介也」",
-   "cites": []
+   "text": "情也；耿介也；責也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：耿介（推）。",
-   "cites": []
+   "text": "c「刺持」取「刺」：耿介如刺（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "㥽"
+ ]
 }

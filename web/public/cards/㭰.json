@@ -1,29 +1,28 @@
 {
  "char": "㭰",
- "pinyin": "zuǐ",
+ "head": "㭰",
  "level": 3,
  "parent": "朿",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "㭰zuǐ《說文》：『識也。从此朿聲。一曰藏也。』記、收藏。《玉篇》：『口也。鳥喙也。』zuī，《集韻》：『石鍼。』",
-   "cites": []
+   "text": "識也，一曰藏也；口也、鳥喙也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：記藏總收（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：喙尖如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,6 +30,5 @@
     }
    ]
   }
- ],
- "head": "㭰"
+ ]
 }

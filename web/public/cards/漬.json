@@ -1,29 +1,30 @@
 {
  "char": "漬",
- "pinyin": "zì",
+ "head": "漬（洓）",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [
+  "洓"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「漚也。从水責聲。前智切」；浸泡",
-   "cites": []
+   "text": "漚也，浸也、浸潤。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：浸漬（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：浸漬而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,11 +32,5 @@
     }
    ]
   }
- ],
- "head": "漬（洓）",
- "aliases": [
-  "洓",
-  "渍"
- ],
- "simp": "渍"
+ ]
 }

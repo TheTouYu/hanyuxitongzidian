@@ -1,29 +1,28 @@
 {
  "char": "皟",
- "pinyin": "zé",
+ "head": "皟",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》「淨也」；《字彙》「深白也」",
-   "cites": []
+   "text": "淨也；深白也；瘠也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：總聚無雜（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：白淨如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "皟"
+ ]
 }

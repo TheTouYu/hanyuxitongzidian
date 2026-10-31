@@ -1,29 +1,30 @@
 {
  "char": "積",
- "pinyin": "jī",
+ "head": "積（积）",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [
+  "积"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「聚也。从禾責聲。則曆切」；禾穗堆積",
-   "cites": []
+   "text": "聚也；本義當指禾穗，狀如穿起的貝；累也、堆疊。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：而成堆（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：禾穗聚積（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "積（积）",
- "aliases": [
-  "积"
- ],
- "simp": "积"
+ ]
 }

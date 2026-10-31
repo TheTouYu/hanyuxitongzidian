@@ -1,29 +1,28 @@
 {
  "char": "𧻕",
- "pinyin": "qì",
+ "head": "𧻕",
  "level": 3,
  "parent": "朿",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𧻕qì《說文》：『側行也。从走朿聲。』《直音篇》：『小步。』意即踮起腳尖行走。",
-   "cites": []
+   "text": "側行也，踮起腳尖行走。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：而缺步（推）。",
-   "cites": []
+   "text": "q「亲缺」取「缺」：足缺而側（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,6 +30,5 @@
     }
    ]
   }
- ],
- "head": "𧻕"
+ ]
 }

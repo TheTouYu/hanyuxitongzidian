@@ -1,29 +1,31 @@
 {
  "char": "䟄",
- "pinyin": "qì",
+ "head": "䟄（㣱𨖊）",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [
+  "㣱",
+  "𨖊"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》「立步也」；《廣韻》「倉卒也」",
-   "cites": []
+   "text": "立步也；倉卒也、悤遽也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：而相親總聚（推）。",
-   "cites": []
+   "text": "q「亲缺」取「缺」：步促而缺（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,11 +33,5 @@
     }
    ]
   }
- ],
- "head": "䟄（㣱𨖊䞰）",
- "aliases": [
-  "㣱",
-  "䞰",
-  "𨖊"
  ]
 }

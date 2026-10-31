@@ -1,29 +1,28 @@
 {
  "char": "瞔",
- "pinyin": "zé",
+ "head": "瞔",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》「側革切，音責。張目也」",
-   "cites": []
+   "text": "張目也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「凿」：張目如刺（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：張目如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "瞔"
+ ]
 }

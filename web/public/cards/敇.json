@@ -1,29 +1,28 @@
 {
  "char": "敇",
- "pinyin": "cè",
+ "head": "敇",
  "level": 3,
  "parent": "朿",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "敇cè《說文》：『擊馬也。从攴朿聲。』鞭打。《類篇》：『通作策。』",
-   "cites": []
+   "text": "擊馬也，鞭打；通作策。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：鞭策刺馬（推）。",
-   "cites": []
+   "text": "c「刺持」取「刺」：鞭刺而擊（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,6 +30,5 @@
     }
    ]
   }
- ],
- "head": "敇"
+ ]
 }

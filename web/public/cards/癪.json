@@ -1,29 +1,28 @@
 {
  "char": "癪",
- "pinyin": "jī",
+ "head": "癪",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "疳積，小兒消化不良之病",
-   "cites": []
+   "text": "疳積，小兒消化不良之病。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：不化而成疳（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：積聚成病（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "癪"
+ ]
 }

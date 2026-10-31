@@ -1,29 +1,28 @@
 {
  "char": "蓛",
- "pinyin": "cè",
+ "head": "蓛",
  "level": 3,
  "parent": "朿",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "蓛cè《說文》：『以榖萎馬，置莝中。从艸敇聲。』將穀放在鍘碎了的草料中喂馬；穀如刺，混在草料中才不會傷馬。",
-   "cites": []
+   "text": "以榖萎馬，置莝中；穀如刺混草料才不傷馬。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：料（推）。",
-   "cites": []
+   "text": "c「刺持」取「持」：穀持於草（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,6 +30,5 @@
     }
    ]
   }
- ],
- "head": "蓛"
+ ]
 }

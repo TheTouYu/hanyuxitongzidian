@@ -1,29 +1,28 @@
 {
  "char": "樍",
- "pinyin": "zé",
+ "head": "樍",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《廣韻》「檉木別名」；檉柳",
-   "cites": []
+   "text": "檉木別名；檉柳枝條細柔，花絲細密如串貝。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：總聚（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：絲密如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +30,5 @@
     }
    ]
   }
- ],
- "photos": [
-  "01.jpg"
- ],
- "aliases": [],
- "head": "樍"
+ ]
 }

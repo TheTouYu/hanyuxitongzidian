@@ -1,29 +1,28 @@
 {
  "char": "謮",
- "pinyin": "zé",
+ "head": "謮",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》「怒也。讓也。通作嘖」",
-   "cites": []
+   "text": "怒也、讓也，通作嘖。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「凿」：怒責如刺（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：讓而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "謮"
+ ]
 }

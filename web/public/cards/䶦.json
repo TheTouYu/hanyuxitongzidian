@@ -1,29 +1,28 @@
 {
  "char": "䶦",
- "pinyin": "zé",
+ "head": "䶦",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「齒相值也。一曰齧也。从齒責聲」",
-   "cites": []
+   "text": "齒相值也，一曰齧也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：聚而相對（推）。",
-   "cites": []
+   "text": "z「凿总」取「凿」：齒合如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "䶦"
+ ]
 }

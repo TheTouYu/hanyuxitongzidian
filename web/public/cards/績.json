@@ -1,29 +1,28 @@
 {
  "char": "績",
- "pinyin": "jī",
+ "head": "績",
  "level": 3,
  "parent": "責",
  "bus": {
   "num": 18,
   "name": "朿"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「緝也。从糸責聲。則曆切」；把麻搓成線",
-   "cites": []
+   "text": "緝也，把麻搓黏成線或繩；繼也、成也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：而成線（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：麻聚成線（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +30,5 @@
     }
    ]
   }
- ],
- "simp": "绩",
- "aliases": [
-  "绩"
- ],
- "head": "績"
+ ]
 }
