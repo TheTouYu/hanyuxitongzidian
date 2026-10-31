@@ -1,42 +1,28 @@
 {
  "char": "眂",
- "trad": "眂",
- "simp": "眂",
- "pinyin": "shì",
+ "head": "眂",
  "level": 3,
  "parent": "氏",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "眂shì《說文》：“眂皃。从目氏聲。承旨切。”看皃。即“盯”。",
-   "cites": []
+   "text": "眂皃。看皃，即「盯」。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：眂皃。从目氏聲。承旨切。看皃。（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "sh「失收」取「收」：盯而收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "眂"
+ ]
 }

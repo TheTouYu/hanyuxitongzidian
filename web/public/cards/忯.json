@@ -1,42 +1,28 @@
 {
  "char": "忯",
- "trad": "忯",
- "simp": "忯",
- "pinyin": "qí",
+ "head": "忯",
  "level": 3,
  "parent": "氏",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "忯qí《說文》：“愛也。从心氏聲。巨支切。”愛悅。《玉篇》：“敬也。”shì，《爾雅·釋言》：“恀、怙，恃也。”依仗。",
-   "cites": []
+   "text": "愛也。愛悅；敬也。shì，依仗。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：說文》：愛也。从心氏聲。巨支切。愛悅。《（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "q「亲缺」取「亲」：愛而相親（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "忯"
+ ]
 }

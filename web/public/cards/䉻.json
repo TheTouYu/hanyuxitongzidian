@@ -1,42 +1,30 @@
 {
  "char": "䉻",
- "trad": "䉻",
- "simp": "䉻",
- "pinyin": "qí",
+ "head": "䉻（𥸳）",
  "level": 3,
  "parent": "氏",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "𥸳"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䉻（𥸳）qí《集韻》：“赤米。或从支。”表面附著有紅色的米。",
-   "cites": []
+   "text": "赤米；表面附著有紅色的米。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：赤米。或从支。表面附著有紅（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "q「亲缺」取「亲」：米赤相親（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "𥸳"
- ],
- "head": "䉻（𥸳）"
+ ]
 }

@@ -1,42 +1,28 @@
 {
  "char": "𣏚",
- "trad": "𣏚",
- "simp": "𣏚",
- "pinyin": "shí",
+ "head": "𣏚",
  "level": 3,
  "parent": "氏",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𣏚shí《集韻》：“《字林》：‘碓衡。’一曰桃也。”碓上的橫木。附于支柱之狀。",
-   "cites": []
+   "text": "碓衡；一曰桃也。碓上的橫木，附于支柱之狀。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：‘碓衡。’一曰桃也。（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "sh「失收」取「收」：衡收而附（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𣏚"
+ ]
 }

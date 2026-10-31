@@ -1,42 +1,28 @@
 {
  "char": "疧",
- "trad": "疧",
- "simp": "疧",
- "pinyin": "qí",
+ "head": "疧",
  "level": 3,
  "parent": "氏",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "疧qí《說文》：“病也。从疒氏聲。渠支切。”《正字通》：“滯病也。”病過不停，臥床不起之意。",
-   "cites": []
+   "text": "病也；滯病也。病過不停，臥床不起之意。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：說文》：病也。从疒氏聲。渠支切。《正字通（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "q「亲缺」取「亲」：病附而不去（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "疧"
+ ]
 }

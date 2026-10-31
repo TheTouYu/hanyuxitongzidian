@@ -1,42 +1,28 @@
 {
  "char": "䟗",
- "trad": "䟗",
- "simp": "䟗",
- "pinyin": "shì",
+ "head": "䟗",
  "level": 3,
  "parent": "氏",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䟗shì《說文》：“尌也。从足氏聲。承旨切。”樹立；佇立。《廣韻》：“積聚也。”",
-   "cites": []
+   "text": "尌也。樹立、佇立；積聚也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：尌也。从足氏聲。承旨切。樹立；（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "sh「失收」取「收」：立而收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "䟗"
+ ]
 }
