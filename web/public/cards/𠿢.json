@@ -1,6 +1,5 @@
 {
  "char": "𠿢",
- "pinyin": "xián",
  "level": 3,
  "parent": "㳄",
  "bus": {
@@ -11,19 +10,17 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《篇海》：「與涎同。又去聲，與羨同。」",
-   "cites": []
+   "text": "與涎同；又去聲，與羨同。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「续」：涎續流（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：口液連續而下（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +28,5 @@
     }
    ]
   }
- ],
- "head": "𠿢（涎）",
- "aliases": [
-  "涎"
  ]
 }

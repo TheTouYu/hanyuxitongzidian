@@ -1,29 +1,30 @@
 {
  "char": "餈",
- "pinyin": "cí",
+ "head": "餈（粢䭣）",
  "level": 3,
  "parent": "次",
  "bus": {
   "num": 20,
   "name": "次"
  },
+ "aliases": [
+  "粢䭣"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「稻餅也。从食次聲。餈或从米」；糍粑，糯米蒸熟舂成，黏糯",
-   "cites": []
+   "text": "稻餅也，糍粑。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：如刺連（推）。",
-   "cites": []
+   "text": "c「刺持」取「刺」：口水如刺，牽連而下（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,12 +32,5 @@
     }
    ]
   }
- ],
- "head": "餈（粢䭣）",
- "aliases": [
-  "䭣",
-  "粢",
-  "糍"
- ],
- "simp": "糍"
+ ]
 }

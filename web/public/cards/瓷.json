@@ -1,29 +1,28 @@
 {
  "char": "瓷",
- "pinyin": "cí",
+ "head": "瓷",
  "level": 3,
  "parent": "次",
  "bus": {
   "num": 20,
   "name": "次"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《新附》「瓦器。从瓦次聲。疾茲切」；陶器之致堅者，舂泥為要工",
-   "cites": []
+   "text": "瓦器，陶器之致堅者，瓷以泥土層層疊實燒成。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：堅如刺結（推）。",
-   "cites": []
+   "text": "c「刺持」取「刺」：口水如刺，牽連而下（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "瓷"
+ ]
 }

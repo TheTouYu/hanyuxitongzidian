@@ -1,29 +1,28 @@
 {
  "char": "薋",
- "pinyin": "cí",
+ "head": "薋",
  "level": 3,
  "parent": "次",
  "bus": {
   "num": 20,
   "name": "次"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「艸多皃。从艸資聲。疾茲切」；zī，白及，地下根莖如雞頭、富黏性",
-   "cites": []
+   "text": "艸多皃，草聚生。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：草多刺列（推）。",
-   "cites": []
+   "text": "c「刺持」取「刺」：口水如刺，牽連而下（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "薋"
+ ]
 }

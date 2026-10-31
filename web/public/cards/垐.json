@@ -1,29 +1,30 @@
 {
  "char": "垐",
- "pinyin": "cí",
+ "head": "垐（堲）",
  "level": 3,
  "parent": "次",
  "bus": {
   "num": 20,
   "name": "次"
  },
+ "aliases": [
+  "堲"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「以土增大道上。从土次聲」；用土一層一層增墊在大路上",
-   "cites": []
+   "text": "以土增大道上；cí，屋上薄。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：列而增（推）。",
-   "cites": []
+   "text": "c「刺持」取「刺」：口水如刺，牽連而下（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "垐（堲）",
- "aliases": [
-  "堲"
  ]
 }

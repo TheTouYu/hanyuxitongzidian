@@ -1,6 +1,5 @@
 {
  "char": "𦅗",
- "pinyin": "chǎn",
  "level": 3,
  "parent": "㳄",
  "bus": {
@@ -11,19 +10,17 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「偏緩也。从糸羨聲。昌善切。」一部分鬆緩。yàn，《篇海》：「纏也。」",
-   "cites": []
+   "text": "偏緩也，一部分松緩；yàn，纏也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "ch「刺持」取「持」：鬆持（推）。",
-   "cites": []
+   "text": "ch「刺持」取「持」：持而不前（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +28,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𦅗"
+ ]
 }

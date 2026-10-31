@@ -1,29 +1,30 @@
 {
  "char": "𡳠",
- "pinyin": "cī",
+ "head": "𡳠（𡰾）",
  "level": 3,
  "parent": "次",
  "bus": {
   "num": 20,
   "name": "次"
  },
+ "aliases": [
+  "𡰾"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》「𡰾𡳆，盜視。与𧠵同」；偷看",
-   "cites": []
+   "text": "𡰾𡳆，盜視也，從旁偷看。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：出（推）。",
-   "cites": []
+   "text": "z「凿总」取「总」：涓滴總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "𡳠（𡰾𧠵）",
- "aliases": [
-  "𡰾",
-  "𧠵"
  ]
 }

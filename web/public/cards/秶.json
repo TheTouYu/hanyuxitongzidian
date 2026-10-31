@@ -1,29 +1,30 @@
 {
  "char": "秶",
- "pinyin": "zī",
+ "head": "秶（𪗉）",
  "level": 3,
  "parent": "次",
  "bus": {
   "num": 20,
   "name": "次"
  },
+ "aliases": [
+  "𪗉"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「稷也。从禾亝聲。秶，𪗉或从次」；粟米",
-   "cites": []
+   "text": "稷也，粟米。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：粟米總聚（推）。",
-   "cites": []
+   "text": "z「凿总」取「总」：涓滴總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "秶（𪗉）",
- "aliases": [
-  "𪗉"
  ]
 }
