@@ -1,42 +1,28 @@
 {
  "char": "㶼",
- "trad": "㶼",
- "simp": "㶼",
- "pinyin": "qī",
+ "head": "㶼",
  "level": 3,
  "parent": "矣",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "㶼qī《玉篇》：“炫也、熱也。”《廣韻》：“熱甚也。”xī，《廣韻》：“火盛。”",
-   "cites": []
+   "text": "炫也、熱也；熱甚也，火盛。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「续」：《玉篇》「炫也、熱也」——光熱相續而炫。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "x「续消」取「消」：火盛而消（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "㶼"
+ ]
 }

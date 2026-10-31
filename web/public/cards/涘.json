@@ -1,42 +1,28 @@
 {
  "char": "涘",
- "trad": "涘",
- "simp": "涘",
- "pinyin": "sì",
+ "head": "涘",
  "level": 3,
  "parent": "矣",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "涘sì《說文》：“水厓也。从水矣聲。《周書》曰：‘王出涘。’床史切。”水邊。或引申指界限、止境。",
-   "cites": []
+   "text": "水厓也。水邊；或引申指界限、止境。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "s「失收」取「失」：說文》：水厓也。从水矣聲。曰：‘王（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "s「失收」取「失」：水盡而失（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "涘"
+ ]
 }

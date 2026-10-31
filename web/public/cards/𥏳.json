@@ -1,42 +1,30 @@
 {
  "char": "𥏳",
- "trad": "𥏳",
- "simp": "𥏳",
- "pinyin": "sì",
+ "head": "𥏳（𢓪）",
  "level": 3,
  "parent": "矣",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "𢓪"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𥏳（𢓪）sì《說文》：“《詩》曰‘不𥏳’，不來。从來矣聲。{{gin:glyphs/inline/𥏳/shiyi/01.png}}，𥏳或从彳。床史切。”《爾雅·釋訓》：“不𥏳，不來也。”邢璹疏：“𥏳，待也。”等待。",
-   "cites": []
+   "text": "不來也；待也。等待。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "s「失收」取「失」：曰‘不𥏳’，不來。从來（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "s「失收」取「收」：待而不來（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "𢓪"
- ],
- "head": "𥏳（𢓪）"
+ ]
 }

@@ -1,42 +1,30 @@
 {
  "char": "竢",
- "trad": "竢",
- "simp": "俟",
- "pinyin": "sì",
+ "head": "竢（䇃）",
  "level": 3,
  "parent": "矣",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "䇃"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "竢（䇃）sì《說文》：“待也。从立矣聲。床史切。{{gin:glyphs/inline/竢/shiyi/01.png}}，或从巳。”等待。",
-   "cites": []
+   "text": "待也。等待。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "s「失收」取「失」：待也。从立矣聲。床史切。{{（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "s「失收」取「收」：立以待（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,10 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "䇃",
-  "俟"
- ],
- "head": "竢（䇃）"
+ ]
 }
