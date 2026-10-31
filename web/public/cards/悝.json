@@ -1,0 +1,34 @@
+{
+ "char": "悝",
+ "head": "悝",
+ "level": 3,
+ "parent": "里",
+ "bus": {
+  "num": 9,
+  "name": "士"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "啁也；一曰病也；憂也、悲也、疾也。詼諧嘲笑。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「离」：憂而離散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ]
+}
