@@ -1,42 +1,28 @@
 {
  "char": "跆",
- "trad": "跆",
- "simp": "跆",
- "pinyin": "tái",
+ "head": "跆",
  "level": 3,
  "parent": "台",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "跆tái《廣韻》：“蹋跆，聯手唱歌。”《正字通》：“恣踐也。”放肆踐踏。",
-   "cites": []
+   "text": "蹋跆，聯手唱歌；恣踐也，放肆踐踏。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「涂」：蹋跆，聯手唱歌。（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "t「涂突」取「突」：足突而踐（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "跆"
+ ]
 }

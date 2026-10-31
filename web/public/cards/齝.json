@@ -1,42 +1,28 @@
 {
  "char": "齝",
- "trad": "齝",
- "simp": "齝",
- "pinyin": "chī",
+ "head": "齝",
  "level": 3,
  "parent": "台",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "齝chī《說文》：“吐而噍也。从齒台聲。《爾雅》曰：‘牛曰齝’。醜之切。”牛反芻。吃過了很久，又吐出來咀嚼。",
-   "cites": []
+   "text": "吐而噍也。牛反芻。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "ch「刺持」取「刺」：吐而噍也。从齒台聲。曰：（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "ch「刺持」取「持」：反芻而持（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "齝"
+ ]
 }

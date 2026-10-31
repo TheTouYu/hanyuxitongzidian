@@ -1,42 +1,28 @@
 {
  "char": "坮",
- "trad": "坮",
- "simp": "坮",
- "pinyin": "tái",
+ "head": "坮",
  "level": 3,
  "parent": "台",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "坮tái《龍龕》：“同臺。”高臺。",
-   "cites": []
+   "text": "同臺，高臺。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「涂」：同臺。高臺。（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "t「涂突」取「突」：臺突而高（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "坮"
+ ]
 }

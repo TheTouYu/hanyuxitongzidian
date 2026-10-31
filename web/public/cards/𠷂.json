@@ -1,42 +1,28 @@
 {
  "char": "𠷂",
- "trad": "𠷂",
- "simp": "𠷂",
- "pinyin": "dài",
+ "head": "𠷂",
  "level": 3,
  "parent": "台",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𠷂dài《廣韻》：“言不止。”《集韻》：“𠷂㘆，語不正。”",
-   "cites": []
+   "text": "言不止；𠷂㘆，語不正。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：言不止。𠷂㘆，語不（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "d「囤动」取「囤」：言囤而不止（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𠷂"
+ ]
 }

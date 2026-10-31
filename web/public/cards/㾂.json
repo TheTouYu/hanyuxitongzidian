@@ -1,42 +1,28 @@
 {
  "char": "㾂",
- "trad": "㾂",
- "simp": "㾂",
- "pinyin": "hāi",
+ "head": "㾂",
  "level": 3,
  "parent": "台",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "㾂hāi《唐韻》：“病也。”久病不愈。即如懷胎十月一般。",
-   "cites": []
+   "text": "病也。久病不愈，即如懷胎十月一般。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "h「豁活」取「活」：《唐韻》「病也」——久病之人，求活而已。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "h「豁活」取「豁」：病久而豁（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "㾂"
+ ]
 }
