@@ -1,42 +1,28 @@
 {
  "char": "祁",
- "trad": "祁",
- "simp": "祁",
- "pinyin": "qí",
+ "head": "祁",
  "level": 3,
  "parent": "示",
  "bus": {
   "num": 10,
   "name": "示"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "祁qí《說文》：“太原縣。从邑示聲。巨支切。”《正韻》：“盛也。大也。”《玉篇》：“多也。”",
-   "cites": []
+   "text": "太原縣；盛也、大也、多也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：：地名、盛大；从邑示聲，取神示之盛義——借聲（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "q「亲缺」取「亲」：地親而盛（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "祁"
+ ]
 }

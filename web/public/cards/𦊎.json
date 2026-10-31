@@ -1,43 +1,37 @@
 {
  "char": "𦊎",
- "trad": "𦊎",
- "simp": "",
- "pinyin": "mǒu",
+ "head": "𦊎（罘䍒）",
  "level": 3,
- "parent": "罘",
+ "parent": "示",
  "bus": {
   "num": 10,
   "name": "示"
  },
  "aliases": [
-  "䍒",
-  "罘"
+  "罘",
+  "䍒"
  ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𦊎（罘䍒）mǒu《正字通》：“張網。或曰罘譌作𦊎，誤。與四畫䍒同。”",
-   "cites": []
+   "text": "張網；或曰罘譌作𦊎，誤。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "m「蒙末」取「豁」：或曰罘譌作𦊎，誤。與四畫䍒同（推）。",
-   "cites": []
+   "text": "m「蒙末」取「蒙」：網蒙而張（推）。"
   },
   {
-   "key": "suoshu",
+   "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "head": "𦊎（罘䍒）"
+ ]
 }
