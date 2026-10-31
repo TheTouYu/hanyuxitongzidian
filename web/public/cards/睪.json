@@ -35,15 +35,35 @@
    "key": "cankao",
    "label": "參證字形（辯證所涉，非睪之體）",
    "cimgs": [
-    "inline/睪/cankao/01.png",
-    "inline/睪/cankao/02.png",
-    "inline/睪/cankao/03.png",
-    "inline/睪/cankao/04.png",
-    "inline/睪/cankao/05.png",
-    "inline/睪/cankao/06.png",
-    "inline/睪/cankao/07.png",
-    "inline/睪/cankao/08.png",
-    "inline/睪/cankao/09.png"
+    {
+     "f": "inline/睪/cankao/01.png"
+    },
+    {
+     "f": "inline/睪/cankao/02.png"
+    },
+    {
+     "f": "inline/睪/cankao/03.png",
+     "cap": "皋"
+    },
+    {
+     "f": "inline/睪/cankao/04.png"
+    },
+    {
+     "f": "inline/睪/cankao/05.png"
+    },
+    {
+     "f": "inline/睪/cankao/06.png"
+    },
+    {
+     "f": "inline/睪/cankao/07.png"
+    },
+    {
+     "f": "inline/睪/cankao/08.png"
+    },
+    {
+     "f": "inline/睪/cankao/09.png",
+     "cap": "䀢"
+    }
    ]
   },
   {
