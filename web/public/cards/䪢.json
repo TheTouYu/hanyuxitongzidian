@@ -1,6 +1,6 @@
 {
  "char": "䪢",
- "head": "䪢（䪠䪡齏）",
+ "head": "䪢（䪠䪡𩐈齏）",
  "level": 3,
  "parent": "次",
  "bus": {
@@ -8,15 +8,14 @@
   "name": "𠂔"
  },
  "aliases": [
-  "䪠",
-  "䪡",
   "齏"
  ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "墜也，切碎的菜。"
+   "text": "《說文》：“墜也。从韭，次、𠂔皆聲。{{shiyi/01.png}}，䪢或从齊。祖雞切。”",
+   "gdir": "inline/䪢"
   },
   {
    "key": "shengmu",
