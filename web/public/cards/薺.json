@@ -1,29 +1,28 @@
 {
  "char": "薺",
- "pinyin": "cí",
+ "head": "薺",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「蒺棃也。从艸齊聲。《詩》曰：牆有薺。疾咨切」；jì，薺菜，俗稱地菜，如蒺藜般貼地而生",
-   "cites": []
+   "text": "蒺棃也；jì，甘菜也，薺菜俗稱地菜。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「刺」：布刺（推）。",
-   "cites": []
+   "text": "q「亲缺」取「亲」：貼近而齊（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +30,5 @@
     }
    ]
   }
- ],
- "simp": "荠",
- "aliases": [
-  "荠"
- ],
- "head": "薺"
+ ]
 }

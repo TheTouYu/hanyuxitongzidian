@@ -1,29 +1,31 @@
 {
  "char": "齎",
- "pinyin": "jī",
+ "head": "齎（賷赍）",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [
+  "賷",
+  "赍"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「持遺也。从貝齊聲。祖雞切」；攜帶禮物送給別人",
-   "cites": []
+   "text": "持遺也，攜帶禮物送人。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：持遺（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：聚而齊整（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,11 +33,5 @@
     }
    ]
   }
- ],
- "head": "齎（賷赍）",
- "aliases": [
-  "賷",
-  "赍"
- ],
- "simp": "赍"
+ ]
 }

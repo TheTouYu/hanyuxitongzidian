@@ -1,29 +1,28 @@
 {
  "char": "璾",
- "pinyin": "jì",
+ "head": "璾",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》「在禮切，音薺。玉病謂之璾」；zī，與齍同",
-   "cites": []
+   "text": "玉病謂之璾；zī，與齍同。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：一處（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：聚而齊整（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "璾"
+ ]
 }

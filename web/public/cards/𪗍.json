@@ -1,29 +1,28 @@
 {
  "char": "𪗍",
- "pinyin": "qí",
+ "head": "𪗍",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「等也。从亝妻聲。徂兮切」；相等",
-   "cites": []
+   "text": "等也，相等。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：而見缺（推）。",
-   "cites": []
+   "text": "q「亲缺」取「亲」：貼近而齊（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𪗍"
+ ]
 }

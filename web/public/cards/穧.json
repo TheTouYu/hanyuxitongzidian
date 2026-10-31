@@ -1,29 +1,30 @@
 {
  "char": "穧",
- "pinyin": "jì",
+ "head": "穧（䆅）",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [
+  "䆅"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「獲刈也。一曰撮也。从禾齊聲。在詣切」；將禾割下整齊擺放",
-   "cites": []
+   "text": "獲刈也，一曰撮也；zī，積禾也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：束（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：聚而齊整（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "穧（䆅）",
- "aliases": [
-  "䆅"
  ]
 }

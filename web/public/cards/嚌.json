@@ -1,29 +1,28 @@
 {
  "char": "嚌",
- "pinyin": "jì",
+ "head": "嚌",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「嘗也。从口齊聲。《周書》曰：大保受同祭嚌。在詣切」",
-   "cites": []
+   "text": "嘗也；jiē，眾聲。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「決」：口決而嘗（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：聚而齊整（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +30,5 @@
     }
    ]
   }
- ],
- "simp": "哜",
- "aliases": [
-  "哜"
- ],
- "head": "嚌"
+ ]
 }

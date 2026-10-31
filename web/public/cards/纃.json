@@ -1,29 +1,28 @@
 {
  "char": "纃",
- "pinyin": "qí",
+ "head": "纃",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《漢典》「齊縗。古代用粗麻布做的喪服」",
-   "cites": []
+   "text": "齊縗，粗麻布喪服。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：缺列而齊（推）。",
-   "cites": []
+   "text": "q「亲缺」取「亲」：貼近而齊（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "纃"
+ ]
 }

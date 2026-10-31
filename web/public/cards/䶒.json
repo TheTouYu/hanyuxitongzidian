@@ -1,29 +1,28 @@
 {
  "char": "䶒",
- "pinyin": "qí",
+ "head": "䶒",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「材也。从女齊聲。祖雞切」；《廣雅》「好也」；人材整齊、身材勻稱",
-   "cites": []
+   "text": "材也，好也，人材整齊、身材勻稱。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：者見（推）。",
-   "cites": []
+   "text": "q「亲缺」取「亲」：貼近而齊（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "䶒"
+ ]
 }

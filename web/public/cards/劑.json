@@ -1,29 +1,28 @@
 {
  "char": "劑",
- "pinyin": "jì",
+ "head": "劑",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「齊也。从刀从齊，齊亦聲。在詣切」；剪齊，《廣韻》「分劑」",
-   "cites": []
+   "text": "齊也，剪齊；分劑。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「決」：分劑（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：聚而齊整（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +30,5 @@
     }
    ]
   }
- ],
- "simp": "剂",
- "aliases": [
-  "剂"
- ],
- "head": "劑"
+ ]
 }

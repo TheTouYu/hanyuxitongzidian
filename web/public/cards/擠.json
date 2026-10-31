@@ -1,29 +1,28 @@
 {
  "char": "擠",
- "pinyin": "jǐ",
+ "head": "擠",
  "level": 3,
  "parent": "齊",
  "bus": {
   "num": 19,
   "name": "齊"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》「排也。从手齊聲。子計切」；用力捏壓、推排，使齊整之意",
-   "cites": []
+   "text": "排也，用力捏壓推排使齊整。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「決」：而後齊（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：聚而齊整（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +30,5 @@
     }
    ]
   }
- ],
- "simp": "挤",
- "aliases": [
-  "挤"
- ],
- "head": "擠"
+ ]
 }
