@@ -1,40 +1,28 @@
 {
  "char": "鎵",
- "pinyin": "jiā",
+ "head": "鎵",
  "level": 3,
- "parent": "家",
+ "parent": "𢑓",
  "bus": {
   "num": 9,
   "name": "士"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "text": "一种稀有藍白色三價金屬元素（gallium）。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：色三價金屬元素（Ga）；音譯字，金旁——借聲（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ],
-   "cites": []
+   "text": "j「聚决」取「聚」：金聚而凝（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -42,10 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "镓"
- ],
- "simp": "镓",
- "head": "鎵"
+ ]
 }
