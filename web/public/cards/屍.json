@@ -1,34 +1,28 @@
 {
  "char": "屍",
- "pinyin": "shī",
+ "head": "屍",
  "level": 3,
  "parent": "尸",
  "bus": {
   "num": 17,
   "name": "尸"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "屍shī《說文》：「終主。从尸从死。式脂切。」屍體。《玉篇》：「在牀曰屍。」shì，《集韻》：「矢利切。似皴皃。」",
-   "cites": []
+   "text": "終主；屍體，《玉篇》在牀曰屍。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：形骸收存（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "卷三 矢（第17部 尸）",
-   "cites": []
+   "text": "sh「失收」取「失」：命失而屍（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -36,10 +30,5 @@
     }
    ]
   }
- ],
- "simp": "尸",
- "aliases": [
-  "尸"
- ],
- "head": "屍"
+ ]
 }

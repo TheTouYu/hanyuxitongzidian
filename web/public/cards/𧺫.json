@@ -1,34 +1,28 @@
 {
  "char": "𧺫",
- "pinyin": "qǐ",
+ "head": "𧺫",
  "level": 3,
  "parent": "尺",
  "bus": {
   "num": 17,
   "name": "尸"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《漢典》「同『起』」，尺聲記音。同「起」。",
-   "cites": []
+   "text": "同「起」。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "ch「刺持」取「持」：持而度之（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "卷三 矢（第17部 尸）",
-   "cites": []
+   "text": "q「亲缺」取「缺」：起而缺伏（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -36,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𧺫"
+ ]
 }

@@ -1,34 +1,28 @@
 {
  "char": "呎",
- "pinyin": "chǐ",
+ "head": "呎",
  "level": 3,
  "parent": "尺",
  "bus": {
   "num": 17,
   "name": "尸"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "尺聲兼取尺量之義，从口者譯音之記號。英尺的舊稱，英美制長度單位，一呎十二英寸，約合市尺九寸一分四厘。",
-   "cites": []
+   "text": "英尺舊稱，一呎十二英寸，約合市尺九寸一分四厘。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "ch「刺持」取「持」：持而度之（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "卷三 矢（第17部 尸）",
-   "cites": []
+   "text": "ch「刺持」取「持」：度量而持（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -36,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "呎"
+ ]
 }
