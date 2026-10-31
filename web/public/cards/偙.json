@@ -1,35 +1,32 @@
 {
  "char": "偙",
  "head": "偙",
- "pinyin": "dì",
  "level": 3,
  "parent": "帝",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "偙dì《集韻》：“丁計切，音帝。㒞也。又困劣也。”傑出。或指困急不堪。瓜果之蒂一般都硬而不能吃，故指困劣。",
-   "cites": []
+   "text": "㒞也（傑出）；又困劣也——瓜果之蒂一般硬而不能吃，故指困劣。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：硬而囤結，故困劣（推）",
-   "cites": []
+   "text": "d「囤动」取「囤」：硬蒂囤結（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

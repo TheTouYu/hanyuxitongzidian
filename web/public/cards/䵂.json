@@ -1,35 +1,32 @@
 {
  "char": "䵂",
  "head": "䵂",
- "pinyin": "zhí",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䵂zhí《說文》：“麥核㞕也。十斤為三斗。从麥啻聲。直只切。”磨碎後與麩尚未篩分的麥屑。",
-   "cites": []
+   "text": "麥核㞕也，十斤為三斗；磨碎後與麩尚未篩分的麥屑。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：麥鑿碎成屑（推）",
-   "cites": []
+   "text": "zh「凿总」取「凿」：麥屑凿磨（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

@@ -1,35 +1,32 @@
 {
  "char": "嫡",
  "head": "嫡",
- "pinyin": "dí",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "嫡dí《說文》：“孎也。从女啻聲。都曆切。”謹慎。《增韻》：“正室曰嫡，正室所生之子曰嫡子。一曰嫡，敵也，言無與敵也。”",
-   "cites": []
+   "text": "孎也。謹慎；正室曰嫡，正室所生之子曰嫡子；嫡，敵也，言無與敵也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：正室聚而不貳（推）",
-   "cites": []
+   "text": "d「囤动」取「囤」：正室囤統（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

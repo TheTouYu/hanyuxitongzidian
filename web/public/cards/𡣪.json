@@ -1,35 +1,32 @@
 {
  "char": "𡣪",
  "head": "𡣪",
- "pinyin": "shì",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𡣪shì《廣韻》：“嫁也。施只切。”",
-   "cites": []
+   "text": "嫁也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失收」：嫁而收於夫家（推）",
-   "cites": []
+   "text": "sh「失收」取「收」：嫁而收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

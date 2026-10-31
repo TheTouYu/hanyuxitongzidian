@@ -1,35 +1,32 @@
 {
  "char": "蹢",
  "head": "蹢",
- "pinyin": "zhí／dí",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "蹢zhí《說文》：“住足也。从足，適省聲。或曰蹢躅。賈侍中說：足垢也。直只切。”踟躕不前。dí，《廣雅》：“足也。”足蹄。",
-   "cites": []
+   "text": "住足也，或曰蹢躅；足垢也。踟躕不前；dí，足也、足蹄。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：足鑿地而立（推）",
-   "cites": []
+   "text": "zh「凿总」取「凿」：躑躅如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

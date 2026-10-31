@@ -1,35 +1,32 @@
 {
  "char": "揥",
  "head": "揥",
- "pinyin": "tì／dì",
  "level": 3,
  "parent": "帝",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "揥tì《釋名》：“摘也。所以摘髮也。”《廣雅》：“語也。嬈也。”《集韻》：“戲也。取也。”《廣韻》：“佩飾。”dì，《集韻》：“捐也。”《廣韻》：“指也。”",
-   "cites": []
+   "text": "摘也，所以摘髮也；佩飾；戲也、取也。dì，捐也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「突」：摘髮而突出（推）",
-   "cites": []
+   "text": "t「涂突」取「突」：摘而突去（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

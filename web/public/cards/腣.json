@@ -1,35 +1,32 @@
 {
  "char": "腣",
  "head": "腣",
- "pinyin": "dì",
  "level": 3,
  "parent": "帝",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "腣dì《集韻》：“丁計切，音帝。腣胿，胅腹皃。”《玉篇》：“腣胿，大腹也。”",
-   "cites": []
+   "text": "腣胿，胅腹皃；大腹也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：腹囤然而大（推）",
-   "cites": []
+   "text": "d「囤动」取「囤」：腹囤而大（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

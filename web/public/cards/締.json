@@ -1,41 +1,34 @@
 {
  "char": "締",
  "head": "締",
- "pinyin": "dì",
  "level": 3,
  "parent": "帝",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "締dì《說文》：“結不解也。从糸帝聲。特計切。”解不開的結。即絲線聯結處。《小爾雅》：“締，閉也。”",
-   "cites": []
+   "text": "結不解也；即絲線聯結處；閉也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：結聚而不解（推）",
-   "cites": []
+   "text": "d「囤动」取「囤」：結而囤（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }
- ],
- "simp": "缔",
- "aliases": [
-  "缔"
  ]
 }

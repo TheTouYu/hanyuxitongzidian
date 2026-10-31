@@ -1,41 +1,36 @@
 {
  "char": "適",
  "head": "適（适）",
- "pinyin": "shì／dí",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [
+  "适"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "適（适）shì《說文》：“之也。从辵啻聲。適，宋魯語。施只切。”適、往。《篇海類編》：“至也。”《玉篇》：“女子出嫁。”《廣雅》：“善也。”《方言》：“牾也。”《廣韻》：“樂也。”",
-   "cites": []
+   "text": "之也、往也；至也；女子出嫁；得也、善也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失收」：往而收止（推）",
-   "cites": []
+   "text": "sh「失收」取「收」：往而收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }
- ],
- "simp": "适",
- "aliases": [
-  "适"
  ]
 }

@@ -1,35 +1,32 @@
 {
  "char": "𧝐",
  "head": "𧝐",
- "pinyin": "tì",
  "level": 3,
  "parent": "帝",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𧝐tì《說文》：“緥也。从衣啻聲。《詩》曰：‘載衣之𧝐。’他計切。”裹小兒的衣被。蒂之于瓜果的作用，也正如繈褓之于嬰兒。",
-   "cites": []
+   "text": "緥也（繈緥），裹小兒的衣被——蒂之於瓜果的作用相似。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「突」：裹兒如蒂之突裹（推）",
-   "cites": []
+   "text": "t「涂突」取「涂」：衣裹而涂（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

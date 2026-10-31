@@ -1,40 +1,36 @@
 {
  "char": "䎮",
  "head": "䎮（𦔝）",
- "pinyin": "tì",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [
+  "𦔝"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䎮（𦔝）tì《廣韻》：“他計切，音替。不耕而種。”《集韻》：“種也。或从啻。”指所插的孔剛好夠放進種子。",
-   "cites": []
+   "text": "不耕而種；種也——指所插的孔剛好夠放進種子。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「突」：掘孔突入而種（推）",
-   "cites": []
+   "text": "t「涂突」取「突」：孔突而種（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }
- ],
- "aliases": [
-  "𦔝"
  ]
 }

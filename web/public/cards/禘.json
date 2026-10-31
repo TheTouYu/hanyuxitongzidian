@@ -1,35 +1,32 @@
 {
  "char": "禘",
  "head": "禘",
- "pinyin": "dì",
  "level": 3,
  "parent": "帝",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "禘dì《說文》：“諦祭也。从示帝聲。《周禮》曰：‘五歲一禘。’特計切。”《廣雅》：“諟也。”審察。",
-   "cites": []
+   "text": "諦祭也；五歲一禘；審察。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：祭而聚審（推）",
-   "cites": []
+   "text": "d「囤动」取「囤」：祭而囤聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

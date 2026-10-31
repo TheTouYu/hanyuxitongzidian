@@ -1,41 +1,37 @@
 {
  "char": "𥕐",
  "head": "𥕐（𥐝𥖾）",
- "pinyin": "dí",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
   "name": "帝"
  },
+ "aliases": [
+  "𥐝",
+  "𥖾"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𥕐（𥐝𥖾）dí《廣雅》：“伐也。”《集韻》：“《博雅》：‘磓也。’或从適。从勺。一曰水𥕐番車。”墜落。碓。",
-   "cites": []
+   "text": "伐也；磓也；墜落；碓；一曰水𥕐番車。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：石囤而墜（推）",
-   "cites": []
+   "text": "d「囤动」取「囤」：碓囤而墜（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }
- ],
- "aliases": [
-  "𥐝",
-  "𥖾"
  ]
 }
