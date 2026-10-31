@@ -1,31 +1,28 @@
 {
  "char": "跮",
  "head": "跮",
- "pinyin": "dié",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "跮dié《集韻》：“前卻皃。”chì，《玉篇》：“跮踱，乍前乍卻。”《集韻》：“敕栗切，音抶。躌也。”“忿戾。”",
-   "cites": []
+   "text": "前卻皃；跮踱，乍前乍卻。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：囤於進退（推）。",
-   "cites": []
+   "text": "d「囤动」取「囤」：前卻而囤（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

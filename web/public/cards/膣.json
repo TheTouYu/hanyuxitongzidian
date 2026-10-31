@@ -1,31 +1,28 @@
 {
  "char": "膣",
  "head": "膣",
- "pinyin": "zhì",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "膣zhì《篇海》：“音窒。肉生也。”《漢典》：婦女陰道。",
-   "cites": []
+   "text": "音窒，肉生也；婦女陰道。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：塞如鑿（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：肉窒而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

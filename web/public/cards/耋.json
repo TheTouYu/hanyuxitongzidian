@@ -1,31 +1,28 @@
 {
  "char": "耋",
  "head": "耋",
- "pinyin": "dié",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "耋dié《說文》：“年八十曰耊。从老省，从至。徒結切。”年八十。即壽終之期。",
-   "cites": []
+   "text": "年八十曰耊，即壽終之期。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：精氣囤聚將終（推）。",
-   "cites": []
+   "text": "d「囤动」取「囤」：壽囤而盡（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

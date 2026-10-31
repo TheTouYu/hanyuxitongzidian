@@ -1,31 +1,28 @@
 {
  "char": "㗧",
  "head": "㗧",
- "pinyin": "zhì",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "㗧zhì《博雅》：“咄也。”《廣韻》：“㗧咄，吐呵也。”呵叱。dié，《集韻》：“㗧咄，語無節也。”",
-   "cites": []
+   "text": "咄也；㗧咄，吐呵也，呵叱。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：鑿然（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：呵而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

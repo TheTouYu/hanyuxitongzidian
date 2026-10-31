@@ -1,31 +1,28 @@
 {
  "char": "侄",
  "head": "侄",
- "pinyin": "zhí",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "侄zhí《集韻》：“堅固也。依也。”“癡皃。一曰侄仡，不前也。”今同“姪”。",
-   "cites": []
+   "text": "堅固也、依也；癡皃；侄仡，不前也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：鑿然不移（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：堅而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,11 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "妷",
-  "姪"
- ],
- "trad": "妷",
- "simp": "妷"
+ ]
 }

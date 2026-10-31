@@ -1,31 +1,28 @@
 {
  "char": "𠊷",
  "head": "𠊷",
- "pinyin": "zhì",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𠊷zhì《玉篇》：“會物也。”彙集眾物。",
-   "cites": []
+   "text": "會物也，彙集眾物。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：聚（推）。",
-   "cites": []
+   "text": "zh「凿总」取「总」：物總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

@@ -1,31 +1,28 @@
 {
  "char": "窒",
  "head": "窒",
- "pinyin": "zhì",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "窒zhì《說文》：“塞也。从穴至聲。陟栗切。”《廣韻》：“滿也。”dié，《集韻》：“寢門、塚前闕皆謂之窒皇。”甬道。",
-   "cites": []
+   "text": "塞也；滿也；dié，甬道。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：塞之如鑿（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：塞而凿實（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

@@ -1,31 +1,30 @@
 {
  "char": "螲",
  "head": "螲（𧍱）",
- "pinyin": "zhì",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [
+  "𧍱"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "螲（𧍱）zhì《玉篇》：“螻蛄也。”dié，《集韻》：“螲蟷，蟲名。似鼅鼄，在穴中有葢。或从室。”",
-   "cites": []
+   "text": "螻蛄也；dié，螲蟷，似鼅鼄在穴中有葢。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：如鑿（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：穴居而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "𧍱"
  ]
 }

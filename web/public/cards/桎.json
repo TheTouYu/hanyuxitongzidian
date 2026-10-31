@@ -1,31 +1,28 @@
 {
  "char": "桎",
  "head": "桎",
- "pinyin": "zhì",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "桎zhì《說文》：“足械也。从木至聲。之日切。”束縛腳的刑具。《集韻》：“礙也。”或指車轄。",
-   "cites": []
+   "text": "足械也，束縛腳的刑具；礙也；或指車轄。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：其足（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：械足如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

@@ -1,31 +1,28 @@
 {
  "char": "臷",
  "head": "臷",
- "pinyin": "dié",
  "level": 3,
  "parent": "至",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "臷dié《正韻》：“杜結切，田入聲。與耊通。”《增韻》：“年之至也。”《集韻》：“替也。”",
-   "cites": []
+   "text": "與耊通；年之至也；替也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：囤聚（推）。",
-   "cites": []
+   "text": "d「囤动」取「囤」：年至而替（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }
