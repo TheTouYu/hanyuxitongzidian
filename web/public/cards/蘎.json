@@ -1,29 +1,30 @@
 {
  "char": "蘎",
- "pinyin": "jì",
+ "head": "蘎（驥）",
  "level": 3,
  "parent": "肥",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "驥"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《字彙補》：「古文驥字。」千里馬。",
-   "cites": []
+   "text": "古文驥字，千里馬。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：疾（推）。",
-   "cites": []
+   "text": "f「附分」取「附」：附著肥厚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "蘎（驥）",
- "aliases": [
-  "驥"
  ]
 }

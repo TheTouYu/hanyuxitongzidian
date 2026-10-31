@@ -1,29 +1,30 @@
 {
  "char": "䲙",
- "pinyin": "jié",
+ "head": "䲙（鯽）",
  "level": 3,
  "parent": "卽",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "鯽"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《正字通》：「俗作鯽，譌作䲙。」一名鰟魮魚。",
-   "cites": []
+   "text": "一名鰟魮魚，俗作鯽。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：魚群聚（推）。",
-   "cites": []
+   "text": "z「凿总」取「总」：節節總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "䲙（鯽）",
- "aliases": [
-  "鯽"
  ]
 }

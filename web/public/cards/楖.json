@@ -1,29 +1,30 @@
 {
  "char": "楖",
- "pinyin": "zhì",
+ "head": "楖（櫛扻）",
  "level": 3,
  "parent": "卽",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "櫛扻"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：「櫛，《說文》：『梳比之總名也。』或作楖、扻。」梳篦；又治木工。",
-   "cites": []
+   "text": "梳比之總名。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：列（推）。",
-   "cites": []
+   "text": "z「凿总」取「总」：節節總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "楖（櫛扻）",
- "aliases": [
-  "扻",
-  "櫛"
  ]
 }

@@ -1,29 +1,28 @@
 {
  "char": "𢩒",
- "pinyin": "bǐ",
+ "head": "𢩒",
  "level": 3,
  "parent": "肥",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《字彙補》：「《字林》：『毀也。』或省作肥。」",
-   "cites": []
+   "text": "毀也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "b「闭剥」取「剥」：毀而剥落（推）。",
-   "cites": []
+   "text": "f「附分」取「附」：附著肥厚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𢩒"
+ ]
 }

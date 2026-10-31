@@ -1,29 +1,30 @@
 {
  "char": "堲",
- "pinyin": "cí",
+ "head": "堲（垐𤊵）",
  "level": 3,
  "parent": "卽",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "垐𤊵"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：「垐，《說文》：『以土増大道上。』古从土、即。」jí，燒土周棺也。",
-   "cites": []
+   "text": "以土増大道上；jí，疾也、燒土。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "c「刺持」取「持」：持（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：擦拭相續（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,10 +32,5 @@
     }
    ]
   }
- ],
- "head": "堲（垐𤊵）",
- "aliases": [
-  "垐",
-  "𤊵"
  ]
 }

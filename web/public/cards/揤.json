@@ -1,29 +1,28 @@
 {
  "char": "揤",
- "pinyin": "jí",
+ "head": "揤",
  "level": 3,
  "parent": "卽",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「捽也。从手卽聲。子力切。」抓按。《集韻》：「拭也。」",
-   "cites": []
+   "text": "捽也，抓按。《集韻》：拭也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：按（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：就食而聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "揤"
+ ]
 }

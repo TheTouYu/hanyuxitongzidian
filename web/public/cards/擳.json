@@ -1,29 +1,30 @@
 {
  "char": "擳",
- "pinyin": "zhì",
+ "head": "擳（幯）",
  "level": 3,
  "parent": "卽",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "幯"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《唐韻》：「挃擳也。」jié，《集韻》：「幯，拭也。或从手。」擦拭。",
-   "cites": []
+   "text": "挃擳也；擦拭。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：刮（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：擦拭相續（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "擳（幯）",
- "aliases": [
-  "幯"
  ]
 }

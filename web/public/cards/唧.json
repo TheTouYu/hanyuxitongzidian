@@ -1,29 +1,30 @@
 {
  "char": "唧",
- "pinyin": "jī",
+ "head": "唧（㘉）",
  "level": 3,
  "parent": "卽",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
+ "aliases": [
+  "㘉"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《廣韻》：「資悉切。啾唧聲。」細碎聲。《集韻》：「啾唧，眾聲。」",
-   "cites": []
+   "text": "啾唧聲，細碎聲、眾聲。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：啾唧（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：就食而聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "唧（㘉）",
- "aliases": [
-  "㘉"
  ]
 }
