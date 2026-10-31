@@ -1,29 +1,28 @@
 {
  "char": "檍",
- "pinyin": "yì",
+ "head": "檍",
  "level": 3,
  "parent": "意",
  "bus": {
   "num": 22,
   "name": "意"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「杶也。从木意聲。於力切。」杻樹，俗稱萬年木。《陸璣疏》：「名萬歲樹。取億萬之義。」",
-   "cites": []
+   "text": "杶也，杻樹俗稱萬年木。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,8 +30,5 @@
     }
    ]
   }
- ],
- "group": "②",
- "aliases": [],
- "head": "檍"
+ ]
 }

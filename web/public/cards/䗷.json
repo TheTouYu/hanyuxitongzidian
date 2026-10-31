@@ -1,29 +1,28 @@
 {
  "char": "䗷",
- "pinyin": "yì",
+ "head": "䗷",
  "level": 3,
  "parent": "意",
  "bus": {
   "num": 22,
   "name": "意"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》：「小蜂也。」細腰蜂（蜾蠃），以泥土作窩，捕螟蛉產卵其體內，古人誤以為它幫螟蛉養子。",
-   "cites": []
+   "text": "小蜂也，細腰蜂即蜾蠃，泥窩捕螟蛉。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,8 +30,5 @@
     }
    ]
   }
- ],
- "group": "①",
- "aliases": [],
- "head": "䗷"
+ ]
 }

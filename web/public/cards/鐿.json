@@ -1,29 +1,28 @@
 {
  "char": "鐿",
- "pinyin": "yì",
+ "head": "鐿",
  "level": 3,
  "parent": "意",
  "bus": {
   "num": 22,
   "name": "意"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "一種金屬元素，屬稀土金屬，符號 Yb，音譯字。",
-   "cites": []
+   "text": "金屬元素，稀土金屬，符號 Yb，音譯字。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,11 +30,5 @@
     }
    ]
   }
- ],
- "group": "③",
- "simp": "镱",
- "aliases": [
-  "镱"
- ],
- "head": "鐿"
+ ]
 }

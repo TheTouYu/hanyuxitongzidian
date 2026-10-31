@@ -1,29 +1,28 @@
 {
  "char": "澺",
- "pinyin": "yì",
+ "head": "澺",
  "level": 3,
  "parent": "意",
  "bus": {
   "num": 22,
   "name": "意"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《說文》：「水。出汝南上蔡黑閭澗，入汝。从水意聲。」洪河，淮河支流，易倒灌成汪洋，故有滿意。",
-   "cites": []
+   "text": "水出汝南上蔡黑閭澗入汝，今洪河。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,8 +30,5 @@
     }
    ]
   }
- ],
- "group": "②",
- "aliases": [],
- "head": "澺"
+ ]
 }
