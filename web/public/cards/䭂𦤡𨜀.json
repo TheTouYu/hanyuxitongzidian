@@ -1,0 +1,36 @@
+{
+ "char": "䭂",
+ "head": "䭂𦤡𨜀",
+ "level": 3,
+ "parent": "邑",
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [
+  "𦤡"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "濕也、食䭂，吃飽。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}
