@@ -10,3 +10,7 @@ web/.cache/
 web/node_modules/
 # 会员/订单数据、管理密码、签名密钥（含客户手机号，绝不入库）
 web/data/
+
+.tmp-*
+intake/*.json.tmp
+web/public/glyphs/photos/*/tmp*
