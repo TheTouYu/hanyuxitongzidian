@@ -1479,6 +1479,8 @@ const server = createServer(async (req, res) => {
         if (hits.length === 1) {
           res.writeHead(302, { Location: '/card/' + encodeURIComponent(hits[0].c) }); return res.end();
         }
+        const vs=(()=>{try{return JSON.parse(readFileSync(join(PUBLIC,'variants.json'),'utf8'))[ch]||null;}catch(e){return null;}})();
+        if(vs&&vs.length){ const tt=vs.find(x=>existsSync(join(CARD_DIR,x+'.json'))); if(tt){ res.writeHead(302,{Location:'/card/'+encodeURIComponent(tt)}); return res.end(); } }
         if (hits.length > 1) {
           const seen = new Set(); const links = [];
           for (const h of hits) { if (seen.has(h.c)) continue; seen.add(h.c); links.push('<li><a href="/card/'+encodeURIComponent(h.c)+'">'+escH(h.c)+'</a>'+(h.h&&h.h!==h.c?'（'+escH(h.h)+'）':'')+'</li>'); }
