@@ -1,0 +1,36 @@
+{
+ "char": "麝",
+ "head": "麝（𤚑𤠭）",
+ "level": 3,
+ "parent": "射",
+ "bus": {
+  "num": 24,
+  "name": "射"
+ },
+ "aliases": [
+  "𤚑𤠭"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "如小麋，臍有香，从鹿䠶聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「续」：謝而續消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
+    {
+     "ch": "卷三矢",
+     "label": "卷三 矢"
+    }
+   ]
+  }
+ ]
+}

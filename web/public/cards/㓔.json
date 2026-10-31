@@ -1,29 +1,28 @@
 {
  "char": "㓔",
- "pinyin": "xiè",
+ "head": "㓔",
  "level": 3,
  "parent": "射",
  "bus": {
   "num": 24,
   "name": "射"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：「祠夜切，音謝。凋也。」",
-   "cites": []
+   "text": "凋也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：故從射之字多含離去義（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：謝而續消（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "㓔"
+ ]
 }

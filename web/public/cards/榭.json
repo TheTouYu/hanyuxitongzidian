@@ -1,29 +1,30 @@
 {
  "char": "榭",
- "pinyin": "xiè",
+ "head": "榭（𢲌）",
  "level": 3,
  "parent": "射",
  "bus": {
   "num": 24,
   "name": "射"
  },
+ "aliases": [
+  "𢲌"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《新附》：「臺有屋也。从木䠶聲。」古指無室的廳堂。",
-   "cites": []
+   "text": "臺有屋也，从木䠶聲。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：故從射之字多含離去義（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：謝而續消（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "榭（𢲌）",
- "aliases": [
-  "𢲌"
  ]
 }

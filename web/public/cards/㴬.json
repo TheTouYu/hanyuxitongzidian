@@ -1,29 +1,28 @@
 {
  "char": "㴬",
- "pinyin": "xiè",
+ "head": "㴬",
  "level": 3,
  "parent": "射",
  "bus": {
   "num": 24,
   "name": "射"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《山海經》：「瞻諸之山，㴬水出焉。」水名。",
-   "cites": []
+   "text": "水名，源出河南新安，流入…"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：故從射之字多含離去義（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：謝而續消（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -31,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "㴬"
+ ]
 }
