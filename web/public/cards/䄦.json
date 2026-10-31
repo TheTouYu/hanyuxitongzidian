@@ -1,42 +1,28 @@
 {
  "char": "䄦",
- "trad": "䄦",
- "simp": "䄦",
- "pinyin": "liǎo",
+ "head": "䄦",
  "level": 3,
  "parent": "了",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䄦liǎo《字彙補》：“力夭切，音了。秀也。”穀類抽穗開花。",
-   "cites": []
+   "text": "音了。秀也。穀類抽穗開花。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "l「拢离」取「拢」：力夭切，音了。秀也。穀類抽（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "l「拢离」取「拢」：穗攏而上（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "䄦"
+ ]
 }

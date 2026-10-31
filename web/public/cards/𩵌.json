@@ -1,42 +1,31 @@
 {
  "char": "𩵌",
- "trad": "𩵌",
- "simp": "𩵌",
- "pinyin": "xiǎo",
+ "head": "𩵌（鰷䱔）",
  "level": 3,
  "parent": "了",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "鰷",
+  "䱔"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𩵌（鰷䱔）xiǎo《集韻》：“鰷，魚名。或从了。亦作䱔。”白鰷魚。體細長。",
-   "cites": []
+   "text": "鰷，魚名。白鰷魚，體細長。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「续」：）xiǎo鰷，魚名。或从了。亦作（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,10 +33,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "䱔",
-  "鰷"
- ],
- "head": "𩵌（鰷䱔）"
+ ]
 }

@@ -1,42 +1,28 @@
 {
  "char": "𣎸",
- "trad": "𣎸",
- "simp": "𣎸",
- "pinyin": "liǎo",
+ "head": "𣎸",
  "level": 3,
  "parent": "了",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𣎸liǎo《字彙》：“盧皎切，音了。次第。”xiǔ，《正字通》：“譌字。舊註音了，次弟。非。一曰朽、朾二文之譌。次第从木从了，義無所取。”",
-   "cites": []
+   "text": "音了。次第；一說為朽、朾二文之譌。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "l「拢离」取「拢」：盧皎切，音了。次第。xiǔ，（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "l「拢离」取「拢」：次第攏聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𣎸"
+ ]
 }

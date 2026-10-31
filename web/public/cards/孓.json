@@ -1,42 +1,30 @@
 {
  "char": "孓",
- "trad": "孓",
- "simp": "孓",
- "pinyin": "jué",
+ "head": "孓（孒）",
  "level": 3,
  "parent": "了",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [
+  "孒"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "孓（孒）jué《說文》：“無左臂也。从了，丿象形。居月切。”《玉篇》：“短也。”",
-   "cites": []
+   "text": "無左臂也，从了，丿象形；短也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「决」：無左臂也。从了，丿象形。居（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "j「聚决」取「决」：短臂決然（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "孒"
- ],
- "head": "孓（孒）"
+ ]
 }

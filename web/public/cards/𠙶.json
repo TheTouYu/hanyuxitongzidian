@@ -1,42 +1,28 @@
 {
  "char": "𠙶",
- "trad": "𠙶",
- "simp": "𠙶",
- "pinyin": "ǒu",
+ "head": "𠙶",
  "level": 3,
  "parent": "了",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𠙶ǒu《集韻》：“於口切，音毆。山名。山在溧陽。”《楊愼·丹鉛錄》：“𠙶山在宜興縣，漢𠙶亭侯，𠙶山卽其地。今桐城有𠙶山，讀若偶，與溧陽宜興𠙶山同名異地。”",
-   "cites": []
+   "text": "於口切，音毆。山名。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,7 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [],
- "head": "𠙶"
+ ]
 }

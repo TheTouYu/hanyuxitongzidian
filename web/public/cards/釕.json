@@ -1,42 +1,28 @@
 {
  "char": "釕",
- "trad": "釕",
- "simp": "钌",
- "pinyin": "diǎo",
+ "head": "釕",
  "level": 3,
  "parent": "了",
  "bus": {
   "num": 8,
   "name": "㠯"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "text": "釕鈌，帶頭飾；釘在門窗上可扣住者曰釕吊。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：收释义）（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
-    {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
+   "text": "d「囤动」取「囤」：扣而囤住（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -44,9 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "钌"
- ],
- "head": "釕"
+ ]
 }
