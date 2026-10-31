@@ -1,31 +1,30 @@
 {
  "char": "𧓳",
  "head": "𧓳（蛭）",
- "pinyin": "zhì",
  "level": 3,
  "parent": "斦",
  "bus": {
   "num": 15,
   "name": "斦"
  },
+ "aliases": [
+  "蛭"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𧓳（蛭）zhì《正字通》：“俗蛭字。”螞蟥。",
-   "cites": []
+   "text": "俗蛭字；螞蟥。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：如利刃刺入皮肉吸血，取斧刃鋒利一面（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：蟲吸而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "蛭"
  ]
 }

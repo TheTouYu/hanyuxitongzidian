@@ -1,31 +1,30 @@
 {
  "char": "啠",
  "head": "啠（哲）",
- "pinyin": "zhé",
  "level": 3,
  "parent": "斦",
  "bus": {
   "num": 15,
   "name": "斦"
  },
+ "aliases": [
+  "哲"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "啠（哲）zhé《龍龕》：“啠，俗；哲，正。知列反。智也。”",
-   "cites": []
+   "text": "啠，俗；哲，正。智也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：如鑿之破（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：明智凿然（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "哲"
  ]
 }

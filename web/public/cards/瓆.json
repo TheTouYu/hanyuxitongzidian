@@ -1,31 +1,28 @@
 {
  "char": "瓆",
  "head": "瓆",
- "pinyin": "zhì",
  "level": 3,
  "parent": "斦",
  "bus": {
   "num": 15,
   "name": "斦"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "瓆zhì《集韻》：“𥋏日切，音質。人名。”",
-   "cites": []
+   "text": "人名。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：人名借聲（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：玉名凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

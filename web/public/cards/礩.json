@@ -1,31 +1,28 @@
 {
  "char": "礩",
  "head": "礩",
- "pinyin": "zhì",
  "level": 3,
  "parent": "斦",
  "bus": {
   "num": 15,
   "name": "斦"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "礩zhì《新附》：“柱下石也。从石質聲。之日切。”柱下石墩。《字彙補》：“與窒義同。”",
-   "cites": []
+   "text": "柱下石也；柱下石墩，《字彙補》與窒義同。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：荷重總承於下（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：石墩凿定（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

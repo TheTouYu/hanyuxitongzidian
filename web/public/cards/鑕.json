@@ -1,31 +1,28 @@
 {
  "char": "鑕",
  "head": "鑕",
- "pinyin": "zhì",
  "level": 3,
  "parent": "斦",
  "bus": {
   "num": 15,
   "name": "斦"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "鑕zhì《玉篇》：“鐵鑕砧。”《廣韻》：“斧也。”古腰斬刑具，兩斤相合，如後之鍘刀。或指腰斬刑具的墊座。",
-   "cites": []
+   "text": "鐵鑕砧；斧也；腰斬刑具，兩斤相合如後之鍘刀。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：如鍘，合而斷之（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：斤合而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

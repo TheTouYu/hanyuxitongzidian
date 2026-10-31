@@ -1,31 +1,28 @@
 {
  "char": "櫍",
  "head": "櫍",
- "pinyin": "zhì",
  "level": 3,
  "parent": "斦",
  "bus": {
   "num": 15,
   "name": "斦"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "櫍zhì《新附》：“柎也。从木質聲。之日切。”鐘鼓架子的腳或其它器物的腳。《廣韻》：“椹，行刑用斧櫍。”《集韻》：“斫木具。”砧木或墊木。",
-   "cites": []
+   "text": "柎也；鐘鼓架子的腳或器物腳；砧木或墊木。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：力總於墊（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：木墊而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

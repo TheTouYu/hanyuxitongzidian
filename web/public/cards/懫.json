@@ -1,31 +1,28 @@
 {
  "char": "懫",
  "head": "懫",
- "pinyin": "zhì",
  "level": 3,
  "parent": "斦",
  "bus": {
   "num": 15,
   "name": "斦"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "懫zhì《集韻》：“脂利切，音至。忿戾也。”憤恨。《玉篇》：“止也、塞也、滿也。”阻止。阻塞。",
-   "cites": []
+   "text": "忿戾也；止也、塞也、滿也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：總塞於心（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：忿塞而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }
