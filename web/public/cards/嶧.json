@@ -1,42 +1,34 @@
 {
  "char": "嶧",
- "trad": "嶧",
- "pinyin": "yì",
+ "head": "嶧",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "嶧yì《說文》：“葛嶧山，在東海下邳。从山睪聲。《夏書》曰：‘嶧陽孤桐。’羊益切。”《爾雅·釋山》：“屬者嶧。”郭璞注：“言絡繹相連屬也。”",
-   "cites": []
+   "text": "葛嶧山，在東海下邳。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "simp": "峄",
- "aliases": [
-  "峄"
- ],
- "head": "嶧"
+ ]
 }

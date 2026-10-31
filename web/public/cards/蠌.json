@@ -1,39 +1,34 @@
 {
  "char": "蠌",
- "trad": "蠌",
- "pinyin": "zé",
+ "head": "蠌",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "蠌zé《集韻》：“直格切，音宅。水蟲，螖蠌。”《爾雅·釋魚》：“螖蠌，小者蟧。”郭璞注：“螖，卽蟛螖也，似蟹而小，一名蠌。”寄居蟹。形如蜘蛛，寄居在空螺殼裏，也可脫出行走。",
-   "cites": []
+   "text": "水蟲，螖蠌。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：釋放而總收（推）",
-   "cites": []
+   "text": "z「凿总」取「总」：選而總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [],
- "head": "蠌"
+ ]
 }

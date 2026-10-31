@@ -1,42 +1,34 @@
 {
  "char": "驛",
- "trad": "驛",
- "pinyin": "yì",
+ "head": "驛",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "驛yì《說文》：“置騎也。从馬睪聲。羊益切。”驛站的馬騎。《玉篇》：“道也。”“譯也。”",
-   "cites": []
+   "text": "置騎也，驛站馬騎。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "simp": "驿",
- "aliases": [
-  "驿"
- ],
- "head": "驛"
+ ]
 }

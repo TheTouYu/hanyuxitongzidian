@@ -1,39 +1,34 @@
 {
  "char": "䁺",
- "trad": "䁺",
- "pinyin": "shì",
+ "head": "䁺",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䁺shì《廣韻》：“施只切，音釋。視皃。”yì，《類篇》：“目明皃。”",
-   "cites": []
+   "text": "視皃；目明皃。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "s「凿总」取「总」：淘洗沉浮而總聚（推）",
-   "cites": []
+   "text": "sh「失收」取「失」：射發而失（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [],
- "head": "䁺"
+ ]
 }

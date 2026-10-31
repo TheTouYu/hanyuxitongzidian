@@ -1,39 +1,34 @@
 {
  "char": "鸅",
- "trad": "鸅",
- "pinyin": "zé",
+ "head": "鸅",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "鸅zé《廣韻》：“鸅鸆，卽護田也。”《集韻》：“鵜鶘也。”本稱淘河，下嘴殼與皮連成大皮囊，可以自由伸縮，捕食時，連魚、水一起納入囊中，再擠水吞魚，故如淘米一般。",
-   "cites": []
+   "text": "鸅鸆即護田；鵜鶘本稱淘河。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：淘洗沉浮而總聚（推）",
-   "cites": []
+   "text": "z「凿总」取「总」：選而總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [],
- "head": "鸅"
+ ]
 }

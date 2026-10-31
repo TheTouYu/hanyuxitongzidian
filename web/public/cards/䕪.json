@@ -1,39 +1,34 @@
 {
  "char": "䕪",
- "trad": "䕪",
- "pinyin": "zé",
+ "head": "䕪",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䕪zé《唐韻》：“䕪藛，藥草，車前別名。”車前草，好生路旁。",
-   "cites": []
+   "text": "藥草，車前別名。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "z「凿总」取「总」：抽繹如絲之總（推）",
-   "cites": []
+   "text": "z「凿总」取「总」：選而總聚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [],
- "head": "䕪"
+ ]
 }

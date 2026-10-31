@@ -1,42 +1,34 @@
 {
  "char": "譯",
- "trad": "譯",
- "pinyin": "yì",
+ "head": "譯",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "譯yì《說文》：“傳譯四夷之言者。从言睪聲。羊昔切。”翻譯語言。《揚子·方言》：“傳也。”《廣雅》：“見也。”",
-   "cites": []
+   "text": "傳譯四夷之言者。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "simp": "译",
- "aliases": [
-  "译"
- ],
- "head": "譯"
+ ]
 }

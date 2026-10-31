@@ -1,42 +1,34 @@
 {
  "char": "籜",
- "trad": "籜",
- "pinyin": "tuò",
+ "head": "籜",
  "level": 3,
  "parent": "睪",
  "bus": {
   "num": 25,
   "name": "睪"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "籜tuò《類篇》：“竹皮也。”筍殼。筍成竹後，會自然脫落。《山海經》：“甘棗之山，其下有草，葵本而杏葉，黃花而莢實，名曰籜。可以已瞢。”",
-   "cites": []
+   "text": "竹皮也，筍殼自然脫落。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「凿总」取「总」：釋放而總收（推）",
-   "cites": []
+   "text": "t「涂突」取「突」：脫落而突（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
      "label": "卷三 矢"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "simp": "箨",
- "aliases": [
-  "箨"
- ],
- "head": "籜"
+ ]
 }
