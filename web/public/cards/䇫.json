@@ -1,35 +1,32 @@
 {
  "char": "䇫",
  "head": "䇫",
- "pinyin": "jī",
  "level": 3,
  "parent": "𦣞",
  "bus": {
   "num": 12,
   "name": "𦣞"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䇫jī《說文》：“取蟣比也。从竹𦣞聲。居之切。”篦取蝨子的篦子。象牙床形。",
-   "cites": []
+   "text": "取蟣比也；篦取蝨子的篦子。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「聚」：聚而除之（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：齒密聚而梳（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

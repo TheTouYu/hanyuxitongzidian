@@ -1,35 +1,32 @@
 {
  "char": "𡁱",
  "head": "𡁱",
- "pinyin": "xī",
  "level": 3,
  "parent": "巸",
  "bus": {
   "num": 12,
   "name": "𦣞"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𡁱xī《漢典》：𡁱𡁱，嘆詞，不以為然之意。",
-   "cites": []
+   "text": "𡁱𡁱，嘆詞，不以為然之意。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「消」：為然（推）。",
-   "cites": []
+   "text": "x「续消」取「消」：嘆而氣消（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

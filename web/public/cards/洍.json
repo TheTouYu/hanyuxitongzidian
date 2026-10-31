@@ -1,35 +1,32 @@
 {
  "char": "洍",
  "head": "洍",
- "pinyin": "sì",
  "level": 3,
  "parent": "𦣞",
  "bus": {
   "num": 12,
   "name": "𦣞"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "洍sì《說文》：“水也。从水𦣞聲。《詩》曰‘江有洍。’詳裡切。”《集韻》：“汜，水決復入。或从洍。”長江的一條从主流分出又匯進主流的支流。形成的弧度如下巴之意。",
-   "cites": []
+   "text": "水也；長江分出又匯入的支流。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "s「失收」取「收」：收於江（推）。",
-   "cites": []
+   "text": "s「失收」取「收」：支流分出復收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

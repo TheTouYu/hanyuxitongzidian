@@ -1,35 +1,32 @@
 {
  "char": "摘",
  "head": "摘",
- "pinyin": "zhāi／tì",
  "level": 3,
  "parent": "啇",
  "bus": {
   "num": 11,
-  "name": "帝"
+  "name": "𦣞"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "摘zhāi《說文》：“拓果樹實也。从手啻聲。一曰指近之也。他曆切。又竹戇切。”採摘果實。《廣雅》：“取也。”《廣韻》：“發也。”揭發。tì，《廣韻》：“動也。”撥動、挑剔、擾亂。",
-   "cites": []
+   "text": "《說文》：拓果樹實也；一曰指近之也。採摘果樹的果實；取也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：指鑿而取果（推）",
-   "cites": []
+   "text": "zh「凿总」取「凿」：擘而取之如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }

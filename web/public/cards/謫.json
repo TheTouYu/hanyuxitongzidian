@@ -1,0 +1,34 @@
+{
+ "char": "謫",
+ "head": "謫",
+ "level": 3,
+ "parent": "啇",
+ "bus": {
+  "num": 11,
+  "name": "𦣞"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：罰也；《廣韻》：咎也、罪也、過也、怒也；責也。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：責之凿然（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
+    {
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
+    }
+   ]
+  }
+ ]
+}

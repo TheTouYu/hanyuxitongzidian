@@ -1,35 +1,32 @@
 {
  "char": "宧",
  "head": "宧",
- "pinyin": "yí",
  "level": 3,
  "parent": "𦣞",
  "bus": {
   "num": 12,
   "name": "𦣞"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "宧yí《說文》：“養也。室之東北隅，食所居。从宀𦣞聲。與之切。”《集韻》引李巡曰：“東北陽氣始起，育養萬物。故曰宧。”意即廚房所在地。",
-   "cites": []
+   "text": "養也；室之東北隅，食所居；廚房所在地。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷二 㠯",
    "links": [
     {
      "ch": "卷二㠯",
-     "label": "卷二㠯"
+     "label": "卷二 㠯"
     }
    ]
   }
