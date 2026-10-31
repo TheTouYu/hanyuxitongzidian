@@ -1,31 +1,28 @@
 {
  "char": "槉",
  "head": "槉",
- "pinyin": "jí",
  "level": 3,
- "parent": "智",
+ "parent": "疾",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：『昨悉切，音疾。屋枅也。』房柱上的弓形承重結構，即栱。",
-   "cites": []
+   "text": "屋枅也；房柱上的弓形承重結構即栱。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「决」：而承重（推）。",
-   "cites": []
+   "text": "j「聚决」取「聚」：木聚承拱（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

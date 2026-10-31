@@ -1,31 +1,28 @@
 {
  "char": "蒺",
  "head": "蒺",
- "pinyin": "jí",
  "level": 3,
- "parent": "智",
+ "parent": "疾",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《本草》：『蒺，疾也。其刺傷人甚疾而利也。』蒺藜。有刺如箭。",
-   "cites": []
+   "text": "本草：蒺，疾也，其刺傷人甚疾而利；蒺藜有刺如箭。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "j「聚决」取「决」：決裂肌膚（推）。",
-   "cites": []
+   "text": "j「聚决」取「决」：刺決而疾（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }
