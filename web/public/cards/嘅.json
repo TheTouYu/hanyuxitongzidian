@@ -1,52 +1,32 @@
 {
  "char": "嘅",
- "trad": "嘅",
- "simp": "慨",
- "pinyin": "kǎi",
  "level": 3,
  "parent": "旡",
  "bus": {
-  "num": 6,
-  "name": "乞"
+  "num": 5,
+  "name": "欠"
  },
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "嘅kài《說文》：“歎也。从口旣聲。《詩》曰：‘嘅其歎矣’。苦蓋切。”歎息。",
-   "cites": []
+   "text": "歎也。歎息。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：《說文》「嘆也」——氣缺於中，發而為嘆。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "k「口控」取「控」：歎自口控出（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [
-  "慨"
- ],
- "head": "嘅"
+ ]
 }

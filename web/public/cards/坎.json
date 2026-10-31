@@ -1,8 +1,5 @@
 {
  "char": "坎",
- "trad": "坎",
- "simp": "埳",
- "pinyin": "kǎn",
  "level": 3,
  "parent": "欠",
  "bus": {
@@ -13,40 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "坎kǎn《說文》：“陷也。从土欠聲。苦感切。”低陷的地方。《集韻》：“險岸也。”",
-   "cites": []
+   "text": "陷也。低陷的地方。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "k「口控」取「控」：地有坎而控水。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "k「口控」取「控」：地有口而控水（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [
-  "埳"
- ],
- "head": "坎"
+ ]
 }

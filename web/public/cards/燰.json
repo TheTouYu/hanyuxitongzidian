@@ -1,8 +1,5 @@
 {
  "char": "燰",
- "trad": "燰",
- "simp": "",
- "pinyin": "wēi",
  "level": 3,
  "parent": "㤅",
  "bus": {
@@ -13,38 +10,23 @@
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "燰wēi《篇海》：“烏灰切，音隈。煨火也。”沒有明火。",
-   "cites": []
+   "text": "煨火也，沒有明火。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零聲母：緒論七組未列，故不系擬態義（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "text": "w「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷一 鸡",
    "links": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
    ]
   }
- ],
- "aliases": [],
- "head": "燰"
+ ]
 }

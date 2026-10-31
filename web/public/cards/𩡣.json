@@ -1,0 +1,32 @@
+{
+ "char": "𩡣",
+ "level": 3,
+ "parent": "㤅",
+ "bus": {
+  "num": 5,
+  "name": "欠"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "香煙繚繞；香氣濃郁。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
+    {
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
+    }
+   ]
+  }
+ ]
+}
