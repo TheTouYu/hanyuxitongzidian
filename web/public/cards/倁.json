@@ -1,31 +1,28 @@
 {
  "char": "倁",
  "head": "倁",
- "pinyin": "zhī",
  "level": 3,
  "parent": "知",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "倁zhī《字彙》：“𨻰知切，音池。行也。”",
-   "cites": []
+   "text": "行也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：總集於一途（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：行而凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

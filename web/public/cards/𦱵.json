@@ -1,31 +1,28 @@
 {
  "char": "𦱵",
  "head": "𦱵",
- "pinyin": "shā",
  "level": 3,
  "parent": "矢",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𦱵shā《字彙補》：“矢瓜切，音沙。草也。”",
-   "cites": []
+   "text": "草也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：聲記音（推）。",
-   "cites": []
+   "text": "sh「失收」取「失」：草細而失（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

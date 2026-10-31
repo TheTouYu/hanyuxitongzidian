@@ -1,31 +1,28 @@
 {
  "char": "𩶇",
  "head": "𩶇",
- "pinyin": "shěn",
  "level": 3,
  "parent": "矢",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𩶇shěn《集韻》：“式荏切，音審。大魚。”《正字通》：“譌字。舊註音審，大魚。非。”",
-   "cites": []
+   "text": "大魚（《正字通》以為譌字）。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：借聲記音（推）。",
-   "cites": []
+   "text": "sh「失收」取「失」：魚大而失（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

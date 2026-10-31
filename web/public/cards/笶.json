@@ -1,31 +1,28 @@
 {
  "char": "笶",
  "head": "笶",
- "pinyin": "shǐ",
  "level": 3,
  "parent": "矢",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "笶shǐ《玉篇》：“俗矢字。”",
-   "cites": []
+   "text": "俗矢字。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：字，借形記音（推）。",
-   "cites": []
+   "text": "sh「失收」取「失」：竹矢而失（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

@@ -1,31 +1,30 @@
 {
  "char": "䐅",
  "head": "䐅（㕧）",
- "pinyin": "xī",
  "level": 3,
  "parent": "矢",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [
+  "㕧"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䐅（㕧）xī《玉篇》：“許梨切。臀之别名。”《廣韻》：“脽也。”《集韻》：“㕧，呻也。或作䐅。”",
-   "cites": []
+   "text": "臀之別名；脽也；呻也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「消」：臀肉消軟（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：臀續而承（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "㕧"
  ]
 }

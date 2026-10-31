@@ -1,31 +1,30 @@
 {
  "char": "聟",
  "head": "聟（壻）",
- "pinyin": "xù",
  "level": 3,
  "parent": "知",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [
+  "壻"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "聟（壻）xù《正字通》：“俗壻字。”女婿。",
-   "cites": []
+   "text": "俗壻字；女婿。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「续消」取「续」：血脈相續（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：婚姻相續（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "壻"
  ]
 }

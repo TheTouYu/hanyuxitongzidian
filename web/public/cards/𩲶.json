@@ -1,31 +1,30 @@
 {
  "char": "𩲶",
  "head": "𩲶（魑）",
- "pinyin": "chì",
  "level": 3,
  "parent": "矢",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [
+  "魑"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𩲶（魑）chì《龍龕》：“𩲶，俗；魑，正。魑魅，謂老物精怪也。”",
-   "cites": []
+   "text": "魑魅，老物精怪。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "ch「刺持」取「刺」：鬼魅刺人（推）。",
-   "cites": []
+   "text": "ch「刺持」取「刺」：精怪刺人（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "魑"
  ]
 }

@@ -1,31 +1,30 @@
 {
  "char": "𨢮",
  "head": "𨢮（䣽）",
- "pinyin": "zhī",
  "level": 3,
  "parent": "知",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [
+  "䣽"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𨢮（䣽）zhī《說文》：“酒也。从酉，𥏼省。陟離切。”《字彙》：“酒厚。”",
-   "cites": []
+   "text": "酒也；酒厚。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：酒味總厚（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：酒厚如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "䣽"
  ]
 }

@@ -1,31 +1,30 @@
 {
  "char": "𢇻",
  "head": "𢇻（知）",
- "pinyin": "zhī",
  "level": 3,
  "parent": "矢",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [
+  "知"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "𢇻（知）zhī《海篇》：“古文知字。”練習射箭時，負責報靶的。",
-   "cites": []
+   "text": "古文知字；練習射箭時負責報靶的。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：字，報靶之聲（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：報靶凿實（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,8 +32,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "知"
  ]
 }

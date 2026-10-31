@@ -1,31 +1,28 @@
 {
  "char": "㲛",
  "head": "㲛",
- "pinyin": "zhǐ",
  "level": 3,
  "parent": "知",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "㲛zhǐ《集韻》：“展裡切，音角徵之徵。獸毛多曰㲛。”",
-   "cites": []
+   "text": "獸毛多曰㲛。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "zh「凿总」取「总」：而多（推）。",
-   "cites": []
+   "text": "zh「凿总」取「凿」：毛多如凿（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }

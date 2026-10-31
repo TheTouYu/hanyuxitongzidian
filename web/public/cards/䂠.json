@@ -1,31 +1,28 @@
 {
  "char": "䂠",
  "head": "䂠",
- "pinyin": "shǐ",
  "level": 3,
  "parent": "矢",
  "bus": {
   "num": 16,
   "name": "矢"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "䂠shǐ《集韻》：“矧視切，音矢。石墮聲。”《海篇》：“石矢鏃也。”",
-   "cites": []
+   "text": "石墮聲；石矢鏃也。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "sh「失收」取「失」：如箭之逝（推）。",
-   "cites": []
+   "text": "sh「失收」取「失」：石落而失（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
-   "cites": [],
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -33,6 +30,5 @@
     }
    ]
   }
- ],
- "aliases": []
+ ]
 }
