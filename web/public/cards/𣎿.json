@@ -1,30 +1,30 @@
 {
  "char": "𣎿",
- "pinyin": "duǒ",
+ "head": "𣎿（朶）",
  "level": 3,
  "parent": "氾",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
- "group": "④",
+ "aliases": [
+  "朶"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《字彙補》：「與朶同。」「朵」的訛字。",
-   "cites": []
+   "text": "與朶同，朵之訛字。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「囤」：》：「與朶同。」「朵」的訛字。（推）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -32,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "𣎿（朶）",
- "aliases": [
-  "朶"
  ]
 }

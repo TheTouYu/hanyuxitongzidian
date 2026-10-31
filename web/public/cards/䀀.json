@@ -1,30 +1,30 @@
 {
  "char": "䀀",
- "pinyin": "fàn",
+ "head": "䀀（盕𥁷）",
  "level": 3,
  "parent": "氾",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
- "group": "②",
+ "aliases": [
+  "盕𥁷"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：「《博雅》：『杯也。』",
-   "cites": []
+   "text": "《博雅》杯也；或作盕。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "f「附分」取「附」：物成法（推）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -32,13 +32,5 @@
     }
    ]
   }
- ],
- "head": "䀀（盕𥁷𥁔𨥧釩）",
- "aliases": [
-  "盕",
-  "𥁷",
-  "𥁔",
-  "𨥧",
-  "釩"
  ]
 }

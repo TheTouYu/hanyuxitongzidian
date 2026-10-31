@@ -1,30 +1,30 @@
 {
  "char": "𡦻",
- "pinyin": "bīn",
+ "head": "𡦻（𡧍）",
  "level": 3,
  "parent": "氾",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
- "group": "④",
+ "aliases": [
+  "𡧍"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《川篇》：「音賓。疑𡧍字之訛。」",
-   "cites": []
+   "text": "疑𡧍字之訛，音賓。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "b「闭剥」取「闭」：：「音賓。疑𡧍字之訛。」（推）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -32,9 +32,5 @@
     }
    ]
   }
- ],
- "head": "𡦻（𡧍）",
- "aliases": [
-  "𡧍"
  ]
 }

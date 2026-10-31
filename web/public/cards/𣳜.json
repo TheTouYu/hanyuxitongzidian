@@ -1,30 +1,30 @@
 {
  "char": "𣳜",
- "pinyin": "fàn",
+ "head": "𣳜（窆封）",
  "level": 3,
  "parent": "氾",
  "bus": {
   "num": 23,
   "name": "ㄗ"
  },
- "group": "②",
+ "aliases": [
+  "窆封"
+ ],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：「葬下棺也。」",
-   "cites": []
+   "text": "落葬，同窆。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "f「附分」取「附」：物成法（推）。",
-   "cites": []
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷三 矢",
    "links": [
     {
      "ch": "卷三矢",
@@ -32,11 +32,5 @@
     }
    ]
   }
- ],
- "head": "𣳜（窆𥦜封）",
- "aliases": [
-  "窆",
-  "𥦜",
-  "封"
  ]
 }
