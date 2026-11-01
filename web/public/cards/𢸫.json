@@ -1,0 +1,35 @@
+{
+ "char": "𢸫",
+ "head": "𢸫",
+ "pinyin": "sū",
+ "aliases": [],
+ "bus": {
+  "num": 55,
+  "name": "魚"
+ },
+ "level": 3,
+ "parent": "𩵦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“孫租切，音蘇。摸也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：承𩵦之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

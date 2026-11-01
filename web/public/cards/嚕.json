@@ -1,0 +1,35 @@
+{
+ "char": "嚕",
+ "head": "嚕",
+ "pinyin": "lū",
+ "aliases": [],
+ "bus": {
+  "num": 55,
+  "name": "魚"
+ },
+ "level": 3,
+ "parent": "魯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“語也。”《類篇》：“諂也。”lǔ，《漢典》：嚕嗦，囉嗦。說話繁瑣，不乾脆。象聲詞。方言。訓斥。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：承魯之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

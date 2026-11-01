@@ -1,0 +1,35 @@
+{
+ "char": "䁩",
+ "head": "䁩",
+ "pinyin": "yú",
+ "aliases": [],
+ "bus": {
+  "num": 55,
+  "name": "魚"
+ },
+ "level": 3,
+ "parent": "魚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《爾雅·釋畜》：“馬二目白，䁩。”郭璞注：“似魚目也。陸佃云：今之環眼馬，馬最下者。通作魚。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}
