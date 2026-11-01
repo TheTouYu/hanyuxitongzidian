@@ -1,30 +1,29 @@
 {
  "char": "䇩",
- "head": "䇩",
- "pinyin": "yì",
  "level": 3,
  "parent": "曳",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "䇩",
+ "aliases": [],
+ "pinyin": "yì",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》：“合板際。”《廣韻》：“長也。”《集韻》：“箄也。”",
-   "cites": []
+   "text": "《玉篇》：“合板際。”《廣韻》：“長也。”《集韻》：“箄也。”yè，《集韻》：“羊列切，音拽。校縫箄也。”"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",

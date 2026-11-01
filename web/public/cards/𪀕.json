@@ -1,30 +1,29 @@
 {
  "char": "𪀕",
- "head": "𪀕",
- "pinyin": "yì",
  "level": 3,
  "parent": "曳",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "𪀕",
+ "aliases": [],
+ "pinyin": "yì",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：“鳥名，飛生也。”鼯鼠。",
-   "cites": []
+   "text": "《集韻》：“鳥名，飛生也。”鼯鼠。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",

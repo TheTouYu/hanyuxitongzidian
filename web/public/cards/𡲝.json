@@ -1,7 +1,5 @@
 {
  "char": "𡲝",
- "trad": "𡲝",
- "pinyin": "yè",
  "level": 3,
  "parent": "曳",
  "bus": {
@@ -12,30 +10,28 @@
  "aliases": [
   "拽"
  ],
+ "pinyin": "yè",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《字彙補》：“同拽。”",
-   "cites": []
+   "text": "《字彙補》：“同拽。”"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
      "label": "卷四 弋"
     }
-   ],
-   "cites": []
+   ]
   }
  ]
 }

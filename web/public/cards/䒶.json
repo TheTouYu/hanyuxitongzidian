@@ -1,41 +1,37 @@
 {
  "char": "䒶",
- "head": "䒶",
- "pinyin": "tiān",
- "noRoot": true,
+ "level": 3,
+ "parent": "曳",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "䒶（天）",
+ "aliases": [
+  "天"
+ ],
+ "pinyin": "tiān",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》：“古文天字。”",
-   "cites": []
-  },
-  {
-   "key": "ezhi",
-   "label": "讹字说明",
-   "text": "③形近字之訛（原文未列具體字）",
-   "cites": []
+   "text": "《玉篇》：“古文天字。”"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   "text": "t「涂突」取「涂」：天穹突出而在上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷四 弋",
+   "links": [
+    {
+     "ch": "卷四弋",
+     "label": "卷四 弋"
+    }
+   ]
   }
- ],
- "aliases": [
-  "具",
-  "列",
-  "原",
-  "字",
-  "文",
-  "未",
-  "體",
-  "天"
- ],
- "parent": "曳",
- "level": 3
+ ]
 }

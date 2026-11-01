@@ -1,30 +1,29 @@
 {
  "char": "𧊣",
- "head": "𧊣",
- "pinyin": "yì",
  "level": 3,
  "parent": "曳",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "𧊣",
+ "aliases": [],
+ "pinyin": "yì",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《正字通》：“音曳。蟲名。按俗以蟲相牽引為曵；一曰蟲行伸也，加虫作𧊣，非。”",
-   "cites": []
+   "text": "《正字通》：“音曳。蟲名。按俗以蟲相牽引為曵；一曰蟲行伸也，加虫作𧊣，非。”"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",

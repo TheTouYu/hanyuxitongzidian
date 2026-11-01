@@ -1,30 +1,29 @@
 {
  "char": "𩎥",
- "head": "𩎥",
- "pinyin": "xì",
  "level": 3,
  "parent": "曳",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "𩎥",
+ "aliases": [],
+ "pinyin": "xì",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：“繣也。”繣，《集韻》：“徽也。一曰結礙也。”《字彙》：“繡也。”",
-   "cites": []
+   "text": "《集韻》：“繣也。”繣（huà），《集韻》：“徽也。一曰結礙也。”《字彙》：“繡也。”"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "x「續消」取「續」：而相續（推）。",
-   "cites": []
+   "text": "x「续消」取「续」：繡線相續（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
