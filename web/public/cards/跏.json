@@ -2,26 +2,29 @@
  "char": "跏",
  "head": "跏",
  "pinyin": "jiā",
- "level": 3,
- "parent": "加",
+ "aliases": [],
  "bus": {
   "num": 37,
   "name": "加"
  },
+ "level": 3,
+ "parent": "加",
+ "bridge": "結跏趺坐，腿架如牛軛",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“居牙切，音嘉。跏趺，坐也。”《玉篇》：“結跏坐。”《集韻》：“屈曲坐也。”架起腿成牛軛狀坐著。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：軛聚束於牲口肩頸，夾持而前拉（推）。"
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

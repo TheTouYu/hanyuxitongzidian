@@ -2,26 +2,29 @@
  "char": "鉫",
  "head": "鉫",
  "pinyin": "jiā",
- "level": 3,
- "parent": "加",
+ "aliases": [],
  "bus": {
   "num": 37,
   "name": "加"
  },
+ "level": 3,
+ "parent": "加",
+ "bridge": "器也，譯音借加",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《五侯鯖字海·金部》：“器也。”器具。《漢典》：“化學元素‘鎵’的舊譯。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：軛聚束於牲口肩頸，夾持而前拉（推）。"
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

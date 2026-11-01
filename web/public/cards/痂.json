@@ -2,26 +2,29 @@
  "char": "痂",
  "head": "痂",
  "pinyin": "jiā",
- "level": 3,
- "parent": "加",
+ "aliases": [],
  "bus": {
   "num": 37,
   "name": "加"
  },
+ "level": 3,
+ "parent": "加",
+ "bridge": "瘡口硬殼，如軛所加處磨出的繭",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《說文》：“疥也。从疒加聲。古牙切。” 《正字通》：“瘡弇也。”瘡口外的硬殼。即狀如軛所加處被磨出的繭。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：軛聚束於牲口肩頸，夾持而前拉（推）。"
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

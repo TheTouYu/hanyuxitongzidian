@@ -2,26 +2,29 @@
  "char": "泇",
  "head": "泇",
  "pinyin": "jiā",
- "level": 3,
- "parent": "加",
+ "aliases": [],
  "bus": {
   "num": 37,
   "name": "加"
  },
+ "level": 3,
+ "parent": "加",
+ "bridge": "水名借加為聲，其狀如加",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“水名。”泇河，古稱“泇水”，發源于魯南山區，源頭分東、西兩支，匯合後，流入大運河。其狀如加。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：軛聚束於牲口肩頸，夾持而前拉（推）。"
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

@@ -2,26 +2,29 @@
  "char": "𢉤",
  "head": "𢉤",
  "pinyin": "jià",
- "level": 3,
- "parent": "加",
+ "aliases": [],
  "bus": {
   "num": 37,
   "name": "加"
  },
+ "level": 3,
+ "parent": "加",
+ "bridge": "屋間構架，加木於屋",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《廣韻》：“屋間也。”《集韻》：“構屋也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：軛聚束於牲口肩頸，夾持而前拉（推）。"
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

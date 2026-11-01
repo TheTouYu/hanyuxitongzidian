@@ -2,26 +2,29 @@
  "char": "㵑",
  "head": "㵑",
  "pinyin": "hè",
- "level": 3,
- "parent": "加",
+ "aliases": [],
  "bus": {
   "num": 37,
   "name": "加"
  },
+ "level": 3,
+ "parent": "加",
+ "bridge": "水名借加為聲",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“水名。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：場面豁然而開（推）。"
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：水名借加為聲（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

@@ -2,26 +2,29 @@
  "char": "伽",
  "head": "伽",
  "pinyin": "qié",
- "level": 3,
- "parent": "加",
+ "aliases": [],
  "bus": {
   "num": 37,
   "name": "加"
  },
+ "level": 3,
+ "parent": "加",
+ "bridge": "伽藍譯音，借加為聲",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《玉篇》：“伽藍也。又《後漢書》云：伽倍國在莎車西。”梵文譯音。佛教寺院。或指國名。jiā，譯音字。如：伽耶琴。gā，譯音字。如：伽馬射線。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：貼近而相合（推）。"
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
