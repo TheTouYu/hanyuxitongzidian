@@ -146,6 +146,7 @@ async function variantsFor(ch){
 const SEC_ORDER=['benyi','benyi2','zhuanyi','bianzheng','yinyuan','shiyi','shengmu','zizu','zigen'];
 const secRank=k=>{const i=SEC_ORDER.indexOf(k);return i<0?99:i;};
 async function cardBody(ch,d,opt){
+  if(d&&d.sections)d.sections.forEach(s=>{if(s.paras&&s.paras.length&&!(s.groups&&s.groups.length))s.text=s.paras.join('\n');});
   const vhtml=await variantsFor(ch);
   const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
   const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
