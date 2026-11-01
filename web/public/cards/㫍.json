@@ -1,0 +1,37 @@
+{
+ "char": "㫍",
+ "head": "㫍（㫏）yóu、",
+ "pinyin": "liú",
+ "aliases": [
+  "㫏"
+ ],
+ "bus": {
+  "num": 59,
+  "name": "攸"
+ },
+ "level": 3,
+ "parent": "攸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“旌旗之流也。从㫃攸聲。以周切。”yǎo，《集韻》：“㫏，《說文》：‘旗屬。’一曰旗皃。或从攸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：承攸之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

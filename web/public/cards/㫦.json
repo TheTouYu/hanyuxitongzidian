@@ -1,0 +1,37 @@
+{
+ "char": "㫦",
+ "head": "㫦（㫞）",
+ "pinyin": "tāo",
+ "aliases": [
+  "㫞"
+ ],
+ "bus": {
+  "num": 59,
+  "name": "攸"
+ },
+ "level": 3,
+ "parent": "攸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“日色。或从𠬢。”《正字通》：“㫞字之譌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：承攸之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

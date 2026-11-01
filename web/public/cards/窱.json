@@ -1,0 +1,37 @@
+{
+ "char": "窱",
+ "head": "窱（𡩢）",
+ "pinyin": "tiǎo",
+ "aliases": [
+  "𡩢"
+ ],
+ "bus": {
+  "num": 59,
+  "name": "攸"
+ },
+ "level": 3,
+ "parent": "条",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“杳窱也。从穴條聲。徒吊切。”深遠。小而深的洞穴。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：承条之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

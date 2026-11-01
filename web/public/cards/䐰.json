@@ -1,0 +1,38 @@
+{
+ "char": "䐰",
+ "head": "䐰（羞饈）",
+ "pinyin": "xiū",
+ "aliases": [
+  "羞",
+  "饈"
+ ],
+ "bus": {
+  "num": 59,
+  "name": "攸"
+ },
+ "level": 3,
+ "parent": "攸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“羞，《說文》：‘進獻也。’一曰致滋味為羞。或从肉、从食。亦作䐰。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：承攸之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

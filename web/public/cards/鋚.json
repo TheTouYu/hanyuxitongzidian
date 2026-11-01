@@ -1,0 +1,37 @@
+{
+ "char": "鋚",
+ "head": "鋚（鎥）",
+ "pinyin": "tiáo",
+ "aliases": [
+  "鎥"
+ ],
+ "bus": {
+  "num": 59,
+  "name": "攸"
+ },
+ "level": 3,
+ "parent": "攸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“田聊切，音條。金石。”yōu，《說文》：“鐵也。一曰轡首銅。从金攸聲。以周切。”鐵。或指帶嚼子的馬龍頭。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：承攸之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

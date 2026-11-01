@@ -1,0 +1,35 @@
+{
+ "char": "螩",
+ "head": "螩",
+ "pinyin": "dāo",
+ "aliases": [],
+ "bus": {
+  "num": 59,
+  "name": "攸"
+ },
+ "level": 3,
+ "parent": "条",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "：寄生蟲。比蛔蟲長。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：承条之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}
