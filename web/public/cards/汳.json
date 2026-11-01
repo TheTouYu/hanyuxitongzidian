@@ -1,27 +1,28 @@
 {
  "char": "汳",
- "head": "汳（汴）",
- "pinyin": "",
- "level": 3,
- "parent": "反",
+ "pinyin": "biàn",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "反",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《說文》：“水。受陳留浚儀陰溝，至蒙為雝水，東入于泗。从水反聲。皮變切。”徐鉉注曰：“今作汴，非是。”即汴水，泗水支流。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "f「附分」取「分」：離，去而復返（推）。"
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：反覆而分（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
@@ -29,8 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "汴"
  ]
 }

@@ -1,27 +1,28 @@
 {
  "char": "仮",
- "head": "仮",
- "pinyin": "",
- "level": 3,
- "parent": "反",
+ "pinyin": "fǎn",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "反",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《類篇》：“反覆也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "f「附分」取「分」：離，去而復返（推）。"
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：反覆而分（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

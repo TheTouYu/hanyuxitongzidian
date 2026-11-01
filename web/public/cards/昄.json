@@ -1,27 +1,28 @@
 {
  "char": "昄",
- "head": "昄",
- "pinyin": "",
- "level": 3,
- "parent": "反",
+ "pinyin": "bǎn",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "反",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《說文》：“大也。从日反聲。補綰切。”疑本指倒影。故或指照著地形畫出來的地圖，《康典》：“《詩·大雅》：爾土宇昄章。（朱傳）昄章，大明也。或曰昄，當作版。版章猶版圖也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "f「附分」取「分」：離，去而復返（推）。"
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：反覆而分（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
