@@ -52,7 +52,7 @@ function renderCard(ch){
         if (keep.length) {
           const label = '字根「' + (pd2.char || d.parent) + '」';
           const text = keep.map(x => (x.label ? x.label + '：' : '') + (x.paras && x.paras.length ? x.paras.join('') : String(x.text || ''))).join('\n');
-          const _i = (d.sections || []).findIndex(x => x.key === 'suoshujuan');const _fixText = String(text).replace(/src="\/glyphs\/\//g, 'src="/glyphs/' + encodeURIComponent(pd2.char || d.parent) + '/');const _sec = { key: 'rootembed', label: label, text: _fixText };if (_i >= 0) d.sections.splice(_i, 0, _sec); else d.sections = (d.sections || []).concat([_sec]);
+          const _i = (d.sections || []).findIndex(x => x.key === 'suoshujuan');let _fixText = String(text).replace(/src="\/glyphs\/\//g, 'src="/glyphs/' + encodeURIComponent(pd2.char || d.parent) + '/');const _pg = (pd2.gdir || ('inline/' + (pd2.char || d.parent)));_fixText = _fixText.replace(/\{\{([^}]+)\}\}/g, function(_m, _g){ return '{{' + _g + '}}'; });const _sec = { key: 'rootembed', label: label, text: _fixText, gdir: _pg };if (_i >= 0) d.sections.splice(_i, 0, _sec); else d.sections = (d.sections || []).concat([_sec]);
         }
       }
     }
