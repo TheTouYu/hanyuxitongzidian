@@ -1,27 +1,28 @@
 {
  "char": "嵃",
- "head": "嵃",
  "pinyin": "yǎn",
- "level": 3,
- "parent": "彥",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "彥",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“語蹇切，音讞。㟞嵃，山峻皃。”《玉篇》：“殿臺之勢也。”yàn，《集韻》：“山名。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
