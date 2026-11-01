@@ -2,32 +2,30 @@
  "char": "䒓",
  "head": "䒓（𦫼）",
  "pinyin": "kǎi",
- "level": 3,
- "parent": "丂",
+ "aliases": [
+  "𦫼"
+ ],
  "bus": {
   "num": 34,
   "name": "丂"
  },
- "aliases": [
-  "𦫼"
- ],
+ "level": 3,
+ "parent": "丂",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：「口蠏切。戾也。」曲。乖戾。《字彙補》：「𦫼，同䒓。」",
-   "cites": []
+   "label": "釋義",
+   "text": "䒓（𦫼）kǎi《集韻》：“口蠏切。戾也。”曲。乖戾。《字彙補》：“𦫼，同䒓。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "k「口控」取「控」：曲戾失控（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：曲戾如控（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
