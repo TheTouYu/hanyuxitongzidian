@@ -1,0 +1,35 @@
+{
+ "char": "隅",
+ "head": "隅",
+ "pinyin": "yú",
+ "aliases": [],
+ "bus": {
+  "num": 57,
+  "name": "禺"
+ },
+ "level": 3,
+ "parent": "禺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“陬也。从𨸏禺聲。噳俱切。”山角。《玉篇》：“廉也。角也。”旁邊。角落。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}
