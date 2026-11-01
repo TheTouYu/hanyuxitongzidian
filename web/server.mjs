@@ -74,7 +74,7 @@ function renderCard(ch){
         for (const r of (g.rows||[])) h+='<tr>'+r.map(x=>'<td>'+ext(x)+'</td>').join('')+'</tr>';
         h+='</table>';
       }
-    } else if (s.cimgs) { h+='<p><b>'+ext(s.label||'')+'</b></p><div class="ciw">'+s.cimgs.map(f=>{const o=(typeof f==='string')?{f:f}:(f||{});const src='/glyphs/'+String(o.f||'').split('/').map(encodeURIComponent).join('/');return '<span class="cibw"><img src="'+src+'"></span>'+(o.cap?'<span class="ciblab">'+o.cap+'</span>':'');}).join('')+'</div>'; } else if (s.text) { let tx=String(s.text).replace(/\{\{([^}]+)\}\}/g,(m,f)=>'\u0001'+((s.gdir||'')+'/'+f)+'\u0001'); h+='<p>'+ext(tx).replace(/\u0001([^\u0001]+)\u0001/g,(m,f)=>'<img class="cim" src="/glyphs/'+f+'">')+'</p>'; }
+    } else if (s.cimgs) { h+='<p><b>'+ext(s.label||'')+'</b></p><div class="ciw">'+s.cimgs.map(f=>{const o=(typeof f==='string')?{f:f}:(f||{});const src='/glyphs/'+String(o.f||'').split('/').map(encodeURIComponent).join('/');return '<span class="cibw"><img src="'+src+'"></span>'+(o.cap?'<span class="ciblab">'+o.cap+'</span>':'');}).join('')+'</div>'; } else if (s.paras && s.paras.length) { h+=s.paras.map(pp=>{ let tx=String(pp).replace(/\{\{([^}]+)\}\}/g,(m,f)=>'\u0001'+((s.gdir||'')+'/'+f)+'\u0001'); return '<p>'+ext(tx).replace(/\u0001([^\u0001]+)\u0001/g,(m,f)=>'<img class="cim" src="/glyphs/'+f+'">')+'</p>'; }).join(''); } else if (s.text) { let tx=String(s.text).replace(/\{\{([^}]+)\}\}/g,(m,f)=>'\u0001'+((s.gdir||'')+'/'+f)+'\u0001'); h+='<p>'+ext(tx).replace(/\u0001([^\u0001]+)\u0001/g,(m,f)=>'<img class="cim" src="/glyphs/'+f+'">')+'</p>'; }
     if (s.gimgs && s.gimgs.length){
       let cur=null;
       for (const f of s.gimgs){
