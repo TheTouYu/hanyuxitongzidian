@@ -48,11 +48,11 @@ function renderCard(ch){
       const pf2 = join(CARDDIR, d.parent + '.json');
       if (existsSync(pf2)) {
         const pd2 = JSON.parse(readFileSync(pf2, 'utf8'));
-        const keep = (pd2.sections || []).filter(x => ['benyi','zhuanyi','bianzheng','yinyuan'].includes(x.key) && x.text);
+        const keep = (pd2.sections || []).filter(x => ['benyi','zhuanyi','bianzheng','yinyuan'].includes(x.key) && (x.text || (x.paras && x.paras.length)));
         if (keep.length) {
           const label = '字根「' + (pd2.char || d.parent) + '」';
-          const text = keep.map(x => (x.label ? x.label + '：' : '') + String(x.text)).join('\n');
-          d.sections = (d.sections || []).concat([{ key: 'rootembed', label: label, text: text }]);
+          const text = keep.map(x => (x.label ? x.label + '：' : '') + (x.paras && x.paras.length ? x.paras.join('') : String(x.text || ''))).join('\n');
+          const _i = (d.sections || []).findIndex(x => x.key === 'suoshujuan');const _sec = { key: 'rootembed', label: label, text: text };if (_i >= 0) d.sections.splice(_i, 0, _sec); else d.sections = (d.sections || []).concat([_sec]);
         }
       }
     }
