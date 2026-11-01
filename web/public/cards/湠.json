@@ -1,27 +1,31 @@
 {
  "char": "湠",
- "head": "湠",
  "pinyin": "tàn",
- "level": 3,
- "parent": "炭",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "炭",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“大水也。”《廣韻》：“湠漫，水廣皃，出《字林》。”"
+   "label": "釋義",
+   "text": "《玉篇》：“大水也。”《廣韻》：“湠漫，水廣皃，出《字林》。”",
+   "paras": [
+    "《玉篇》：“大水也。”《廣韻》：“湠漫，水廣皃，出《字林》。”"
+   ]
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "t「涂突」取「涂」：塗（推）。"
+   "label": "聲母擬態",
+   "text": "t「塗突」取「突」：其狀屈曲灰暗（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
