@@ -1,41 +1,34 @@
 {
  "char": "𧨂",
- "head": "𧨂",
  "pinyin": "hè",
- "level": 3,
- "parent": "何",
+ "aliases": [],
  "bus": {
   "num": 34,
   "name": "丂"
  },
- "aliases": [
-  "哬",
-  "呵"
- ],
+ "level": 3,
+ "parent": "何",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“𧨂𧨂，眾聲。或从口。”《正字通》：“俗呵字 。”",
-   "cites": []
+   "label": "釋義",
+   "text": "《集韻》：“𧨂𧨂，眾聲。或从口。”《正字通》：“俗呵字 。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：問义（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：其形一長一短（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
      "label": "卷五 雁"
     }
-   ],
-   "cites": []
+   ]
   }
  ]
 }

@@ -1,40 +1,34 @@
 {
  "char": "𨵅",
- "head": "𨵅",
  "pinyin": "ě",
- "level": 3,
- "parent": "何",
+ "aliases": [],
  "bus": {
   "num": 34,
   "name": "丂"
  },
- "aliases": [
-  "𨵌"
- ],
+ "level": 3,
+ "parent": "何",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《龍龕》：“𨵌，或作𨵅，烏可切。俹也，門傾也。”",
-   "cites": []
+   "label": "釋義",
+   "text": "《龍龕》：“𨵌，或作𨵅，烏可切。俹也，門傾也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：其形一長一短（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
      "label": "卷五 雁"
     }
-   ],
-   "cites": []
+   ]
   }
  ]
 }
