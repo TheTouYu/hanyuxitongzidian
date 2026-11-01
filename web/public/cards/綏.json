@@ -1,9 +1,10 @@
 {
  "char": "綏",
  "pinyin": "suī / suí",
- "bus": [
-  "349.妥部"
- ],
+ "bus": {
+  "num": 349,
+  "name": "妥"
+ },
  "sections": [
   {
    "key": "shiyi",
@@ -16,6 +17,17 @@
    "label": "声母拟态",
    "text": "s「失收」取「收」：執綏而收身，使不傾側。",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六十𦟀",
+   "links": [
+    {
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
   }
  ],
  "sources": [

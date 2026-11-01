@@ -1,9 +1,10 @@
 {
  "char": "蜗",
  "pinyin": "wō",
- "bus": [
-  "347.冎部"
- ],
+ "bus": {
+  "num": 347,
+  "name": "冎"
+ },
  "sections": [
   {
    "key": "shiyi",
@@ -16,6 +17,17 @@
    "label": "声母拟态",
    "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六十𦟀",
+   "links": [
+    {
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
   }
  ],
  "sources": [

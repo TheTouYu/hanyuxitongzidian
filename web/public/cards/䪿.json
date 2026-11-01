@@ -1,9 +1,10 @@
 {
  "char": "䪿",
  "pinyin": "xìn / shěng",
- "bus": [
-  "354.囟部"
- ],
+ "bus": {
+  "num": 354,
+  "name": "囟"
+ },
  "sources": [
   "卷六十一  犀.docx 354.囟部"
  ],
@@ -19,6 +20,17 @@
    "label": "声母拟态",
    "text": "x「失收」取「收」：骨缝收合处。",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六十一犀",
+   "links": [
+    {
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
   }
  ],
  "level": 3,

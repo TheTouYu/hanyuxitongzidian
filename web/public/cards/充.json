@@ -1,9 +1,10 @@
 {
  "char": "充",
  "pinyin": "chōng",
- "bus": [
-  "358.充部"
- ],
+ "bus": {
+  "num": 358,
+  "name": "充"
+ },
  "sources": [
   "卷六十一  犀.docx 358.充部"
  ],
@@ -19,6 +20,17 @@
    "label": "声母拟态",
    "text": "ch「刺持」取「刺」：氣充而上刺。",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六十二蛇",
+   "links": [
+    {
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
   }
  ],
  "level": 3,

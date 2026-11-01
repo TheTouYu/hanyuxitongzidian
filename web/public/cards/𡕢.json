@@ -1,9 +1,10 @@
 {
  "char": "𡕢",
  "pinyin": "mǎn / wàn",
- "bus": [
-  "350.夂部"
- ],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
  "sections": [
   {
    "key": "shiyi",
@@ -16,6 +17,17 @@
    "label": "声母拟态",
    "text": "m「蒙末」取「蒙」：皮蒙於首，覆而包之。",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六十𦟀",
+   "links": [
+    {
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
   }
  ],
  "sources": [
