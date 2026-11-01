@@ -4,10 +4,12 @@
  "pinyin": "yán",
  "level": 3,
  "parent": "詹",
- "bus": {
-  "num": 35,
-  "name": "厂"
- },
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
  "sections": [
   {
    "key": "shiyi",
@@ -17,7 +19,7 @@
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",

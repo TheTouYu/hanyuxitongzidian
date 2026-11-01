@@ -4,10 +4,12 @@
  "pinyin": "chàn",
  "level": 3,
  "parent": "詹",
- "bus": {
-  "num": 35,
-  "name": "厂"
- },
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
  "sections": [
   {
    "key": "shiyi",
@@ -17,7 +19,7 @@
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "ch「刺持」取「刺」：行（推）。"
+   "text": "ch「刺持」取「刺」：蹄刺而急行（推）。"
   },
   {
    "key": "suoshujuan",

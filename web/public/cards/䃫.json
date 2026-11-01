@@ -4,10 +4,12 @@
  "pinyin": "dǎn",
  "level": 3,
  "parent": "詹",
- "bus": {
-  "num": 35,
-  "name": "厂"
- },
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
  "sections": [
   {
    "key": "shiyi",
@@ -17,7 +19,7 @@
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤動」取「囤」：如囤（推）。"
+   "text": "d「囤動」取「囤」：石中有汁如囤（推）。"
   },
   {
    "key": "suoshujuan",

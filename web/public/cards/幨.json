@@ -4,10 +4,12 @@
  "pinyin": "chān",
  "level": 3,
  "parent": "詹",
- "bus": {
-  "num": 35,
-  "name": "厂"
- },
+ "bus": [
+  {
+   "num": 35,
+   "name": "厂"
+  }
+ ],
  "sections": [
   {
    "key": "shiyi",
@@ -29,9 +31,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "襜",
-  "裧"
  ]
 }
