@@ -1,27 +1,28 @@
 {
  "char": "㷳",
- "head": "㷳",
- "pinyin": "",
- "level": 3,
- "parent": "厂",
+ "pinyin": "yàn",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "厂",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《說文》：“火色也。从火雁聲。讀若鴈。五妟切。”火本身的顏色。即色如褐雁。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：崖壁豁然（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

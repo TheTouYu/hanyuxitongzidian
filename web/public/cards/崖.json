@@ -1,27 +1,28 @@
 {
  "char": "崖",
- "head": "崖",
- "pinyin": "",
- "level": 3,
- "parent": "厂",
+ "pinyin": "yá",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "厂",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《說文》：“高邊也。从屵圭聲。五佳切。”山或高地的邊緣。應从山厓聲，指山高如圭，上部邊沿突出。《廣韻》：“崖岸。”“髙崖也。”《集韻》：“岸上也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：崖壁豁然（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

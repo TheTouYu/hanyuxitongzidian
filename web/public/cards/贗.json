@@ -1,27 +1,28 @@
 {
  "char": "贗",
- "head": "贗",
- "pinyin": "",
- "level": 3,
- "parent": "厂",
+ "pinyin": "yàn",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "厂",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“魚㵎切，音鴈。偽物。同偐。”《玉篇》：“不直也。”假的，偽造的。yán，《篇海》：“貨不好也。”指鵝看似跟大雁差不多，但味道不如大雁。所以引申指假的、不好的之意。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：崖壁豁然（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

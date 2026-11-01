@@ -1,27 +1,28 @@
 {
  "char": "厊",
- "head": "厊",
- "pinyin": "",
- "level": 3,
- "parent": "厂",
+ "pinyin": "yǎ",
+ "aliases": [],
  "bus": {
   "num": 35,
   "name": "厂"
  },
+ "level": 3,
+ "parent": "厂",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“語下切，音雅。厏厊，不相合也。”或疑同“庌”（見225《牙部》），《集韻》另釋“庌”為：“牛加切，音牙。㡸庌，不齊也。”應為“厂”聲，指上牙齙出。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：崖壁豁然（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
