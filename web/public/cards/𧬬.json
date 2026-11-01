@@ -1,0 +1,37 @@
+{
+ "char": "𧬬",
+ "head": "𧬬（諜）",
+ "pinyin": "yá",
+ "aliases": [
+  "諜"
+ ],
+ "bus": {
+  "num": 52,
+  "name": "業"
+ },
+ "level": 3,
+ "parent": "業",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䛽𧬬，語笑皃。”應即“諜”之誤。xiè，《集韻》：“䛽諜，言不定。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "char": "𧀸",
+ "head": "𧀸（𦿍）",
+ "pinyin": "pò",
+ "aliases": [
+  "𦿍"
+ ],
+ "bus": {
+  "num": 52,
+  "name": "業"
+ },
+ "level": 3,
+ "parent": "業",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“同𦿍。”筍殼。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：承業之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}

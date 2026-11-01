@@ -1,0 +1,37 @@
+{
+ "char": "曗",
+ "head": "曗（曄）",
+ "pinyin": "yè",
+ "aliases": [
+  "曄"
+ ],
+ "bus": {
+  "num": 52,
+  "name": "業"
+ },
+ "level": 3,
+ "parent": "業",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“曗卽曄之訛。”曄，《玉篇》：“震電皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}

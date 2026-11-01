@@ -1,0 +1,35 @@
+{
+ "char": "䌜",
+ "head": "䌜",
+ "pinyin": "niè",
+ "aliases": [],
+ "bus": {
+  "num": 52,
+  "name": "業"
+ },
+ "level": 3,
+ "parent": "業",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“𦀖䌜，續縫補衣。”“以繩索系縛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：承業之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}
