@@ -1,30 +1,29 @@
 {
  "char": "錖",
- "head": "錖",
- "pinyin": "dú",
  "level": 3,
  "parent": "叔",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "錖",
+ "aliases": [],
+ "pinyin": "dú",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《玉篇》：“觼舌。”古代一種有舌的環，舌用以穿過皮帶，使之固定。即皮帶扣。",
-   "cites": []
+   "text": "《玉篇》：“觼舌。”古代一種有舌的環，舌用以穿過皮帶，使之固定。即皮帶扣。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤動」取「囤」：束而固（推）。",
-   "cites": []
+   "text": "d「囤動」取「囤」：環舌囤扣而固（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
