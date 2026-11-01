@@ -2,26 +2,28 @@
  "char": "騀",
  "head": "騀",
  "pinyin": "ě",
- "level": 3,
- "parent": "我",
+ "aliases": [],
  "bus": {
   "num": 36,
   "name": "我"
  },
+ "level": 3,
+ "parent": "我",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“馬搖頭也。从馬我聲。五可切。”馬搖頭。馬頸本長，頭如鵝狀。é，《集韻》：“《博雅》：‘騀騼，馬屬’。”"
+   "label": "釋義",
+   "text": "，《集韻》：“《博雅》：‘騀騼，馬屬’。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
+   "label": "聲母擬態",
    "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

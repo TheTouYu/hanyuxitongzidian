@@ -2,27 +2,28 @@
  "char": "𧒎",
  "head": "𧒎",
  "pinyin": "é",
- "level": 3,
- "parent": "我",
+ "aliases": [],
  "bus": {
   "num": 36,
   "name": "我"
  },
+ "level": 3,
+ "parent": "我",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“蠶化飛蟲。从䖵我聲。{{shiyi/01.png}}，或从虫。五何切。”同“蛾”。",
-   "gdir": "inline/𧒎"
+   "label": "釋義",
+   "text": "《說文》：“蠶化飛蟲。从䖵我聲。，或从虫。五何切。”同“蛾”。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
+   "label": "聲母擬態",
    "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

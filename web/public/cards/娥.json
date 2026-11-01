@@ -2,26 +2,28 @@
  "char": "娥",
  "head": "娥",
  "pinyin": "é",
- "level": 3,
- "parent": "我",
+ "aliases": [],
  "bus": {
   "num": 36,
   "name": "我"
  },
+ "level": 3,
+ "parent": "我",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《說文》：“帝堯之女，舜妻娥皇字也。秦晉謂好曰娙娥。从女我聲。五何切。”《廣韻》：“美好也。”美好，美女。指女子身材修長，姿態輕盈。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
+   "label": "聲母擬態",
    "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

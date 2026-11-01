@@ -2,26 +2,28 @@
  "char": "䂀",
  "head": "䂀",
  "pinyin": "xī",
- "level": 3,
- "parent": "羲",
+ "aliases": [],
  "bus": {
   "num": 36,
   "name": "我"
  },
+ "level": 3,
+ "parent": "羲",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“虛宜切，音羲。目動也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：飛而鳴，聲氣續而不絕（推）。"
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：目動也，目光閃爍。（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

@@ -2,26 +2,28 @@
  "char": "䄉",
  "head": "䄉",
  "pinyin": "é",
- "level": 3,
- "parent": "我",
+ "aliases": [],
  "bus": {
   "num": 36,
   "name": "我"
  },
+ "level": 3,
+ "parent": "我",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“祭名。”《玉篇》：“盛皃。或作娥。”《廣韻》：“娥，美好也。又姓，後魏將軍娥淸。䄉，上同。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
+   "label": "聲母擬態",
    "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
