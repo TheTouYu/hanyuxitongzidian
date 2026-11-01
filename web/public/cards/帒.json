@@ -1,41 +1,37 @@
 {
  "char": "帒",
- "trad": "帒",
- "pinyin": "dài",
  "level": 3,
  "parent": "弋",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "帒（袋）",
+ "aliases": [
+  "袋"
+ ],
+ "pinyin": "dài",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《新附》：“囊也。从巾代聲。或从衣。徒耐切。”袋。有出而又能進物意。",
-   "cites": []
+   "text": "《新附》：“囊也。从巾代聲。或从衣。徒耐切。”袋。有出而又能進物意。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「动」：帒（袋）dài（推）。",
-   "cites": []
+   "text": "d「囤動」取「囤」：物出入而囤聚於囊（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
      "label": "卷四 弋"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [
-  "袋"
- ],
- "head": "帒（袋）"
+ ]
 }

@@ -1,39 +1,35 @@
 {
  "char": "垈",
- "trad": "垈",
- "pinyin": "dài",
  "level": 3,
  "parent": "弋",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "垈",
+ "aliases": [],
+ "pinyin": "dài",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《漢典》：地名用字。或指耕地，把土翻起來。即種而有收穫之意。",
-   "cites": []
+   "text": "《漢典》：地名用字。或指耕地，把土翻起來。即種而有收穫之意。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "d「囤动」取「动」：垈dài（推）。",
-   "cites": []
+   "text": "d「囤動」取「囤」：翻土囤種而收（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
      "label": "卷四 弋"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [],
- "head": "垈"
+ ]
 }

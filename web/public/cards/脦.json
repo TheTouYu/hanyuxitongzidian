@@ -1,39 +1,35 @@
 {
  "char": "脦",
- "trad": "脦",
- "pinyin": "tè",
  "level": 3,
  "parent": "弋",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "脦",
+ "aliases": [],
+ "pinyin": "tè",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：“肋脦，不正容止也。”邋遢。即衣冠不整貌。",
-   "cites": []
+   "text": "《集韻》：“肋脦，不正容止也。”邋遢。即衣冠不整貌。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「突」：脦tè（推）。",
-   "cites": []
+   "text": "t「涂突」取「涂」：衣冠塗抹不整（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
      "label": "卷四 弋"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [],
- "head": "脦"
+ ]
 }

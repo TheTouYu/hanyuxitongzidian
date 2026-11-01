@@ -1,42 +1,35 @@
 {
  "char": "鋱",
- "trad": "鋱",
- "pinyin": "tè",
  "level": 3,
  "parent": "弋",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "head": "鋱",
+ "aliases": [],
+ "pinyin": "tè",
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "：音譯字。一種金屬元素，符號Tb，屬稀土金屬，無色結晶的粉末，有毒。它的化合物可做殺蟲劑，亦用來治療皮膚病。",
-   "cites": []
+   "text": "：音譯字。一種金屬元素，符號Tb，屬稀土金屬，無色結晶的粉末，有毒。它的化合物可做殺蟲劑，亦用來治療皮膚病。"
   },
   {
    "key": "shengmu",
    "label": "声母拟态",
-   "text": "t「涂突」取「突」：音譯字。一種金屬（推）。",
-   "cites": []
+   "text": "t「涂突」取「突」：音譯，聲符只標音（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
      "label": "卷四 弋"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "simp": "铽",
- "aliases": [
-  "铽"
- ],
- "head": "鋱"
+ ]
 }
