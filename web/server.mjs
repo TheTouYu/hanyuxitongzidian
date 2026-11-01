@@ -64,6 +64,7 @@ function renderCard(ch){
     if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+(((s.links&&s.links.length?s.links:(d.links||[]))).map(l=>'<a href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
     if (s.groups && s.groups.length){
+        if (s.text) h+='<p>'+ext(s.text)+'</p>';
       for (const g of s.groups){
         if (g.title) h+='<p><b>'+escH(g.no||'')+ext(g.title)+'</b></p>';
         if (g.note) h+='<p style="color:#666">'+ext(g.note)+'</p>';
