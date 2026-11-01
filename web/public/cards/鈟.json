@@ -2,39 +2,37 @@
  "char": "鈟",
  "head": "鈟（釣魡）",
  "pinyin": "diào",
- "level": 3,
- "parent": "弔",
+ "aliases": [
+  "釣",
+  "魡"
+ ],
  "bus": {
   "num": 29,
   "name": "弔"
  },
+ "level": 3,
+ "parent": "弔",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙》：「同釣。」釣，《集韻》：「《說文》：『鉤魚也。』或作魡。」",
-   "cites": []
+   "label": "釋義",
+   "text": "《字彙》：“同釣。”釣，《集韻》：“《說文》：‘鉤魚也。’或作魡。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤動」取「動」：魚（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：鉤線牽動（推）。"
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "鈟"
   },
   {
    "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
-    }
-   ]
+   "label": "所屬卷",
+   "text": "卷四 弋"
   }
- ],
- "aliases": [
-  "釣",
-  "魡"
  ]
 }
