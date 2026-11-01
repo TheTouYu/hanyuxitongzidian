@@ -2,26 +2,29 @@
  "char": "蚅",
  "head": "蚅",
  "pinyin": "è",
- "level": 3,
- "parent": "戹",
+ "aliases": [],
  "bus": {
   "num": 38,
   "name": "厄"
  },
+ "level": 3,
+ "parent": "戹",
+ "bridge": "蛾蝶幼蟲吐絲自裹，如自扼",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《廣韻》：“鳥蠋，大如指，似蠶。”蛾蝶類的幼蟲，似蠶，大如指。吐絲如自扼之意。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
+   "label": "聲母擬態",
    "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

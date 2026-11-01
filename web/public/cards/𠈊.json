@@ -2,26 +2,29 @@
  "char": "𠈊",
  "head": "𠈊",
  "pinyin": "niě",
- "level": 3,
- "parent": "戹",
+ "aliases": [],
  "bus": {
   "num": 38,
   "name": "厄"
  },
+ "level": 3,
+ "parent": "戹",
+ "bridge": "皮寬鬆下垂，如曲木之弛",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《字彙》：“奴下切，拿上聲。皮寬也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "n「纳弄」取「纳」：：奴下切，拿上聲。皮寬也。（推）。"
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
