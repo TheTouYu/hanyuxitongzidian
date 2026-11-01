@@ -1,0 +1,38 @@
+{
+ "char": "𠣘",
+ "head": "𠣘（周洀）",
+ "pinyin": "zhōu",
+ "aliases": [
+  "周",
+  "洀"
+ ],
+ "bus": {
+  "num": 53,
+  "name": "舟"
+ },
+ "level": 3,
+ "parent": "舟",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“帀徧也。从勹舟聲。職流切。”環繞。《玉篇》：“或作周、洀。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：承舟之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}
