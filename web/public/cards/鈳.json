@@ -1,30 +1,28 @@
 {
  "char": "鈳",
- "head": "鈳（錒）",
  "pinyin": "ē",
- "level": 3,
- "parent": "可",
+ "aliases": [],
  "bus": {
   "num": 34,
   "name": "丂"
  },
+ "level": 3,
+ "parent": "可",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《鈳（錒）ē《集韻》：“鈳䥈，釜屬。或从阿。”大約指有柄的小釜。",
-   "cites": []
+   "label": "釋義",
+   "text": "《集韻》：“鈳䥈，釜屬。或从阿。”大約指有柄的小釜。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
@@ -32,8 +30,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "錒"
  ]
 }

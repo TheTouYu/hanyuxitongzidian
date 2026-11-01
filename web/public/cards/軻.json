@@ -1,30 +1,28 @@
 {
  "char": "軻",
- "head": "軻",
- "pinyin": "kē、kě",
- "level": 3,
- "parent": "可",
+ "pinyin": "kē",
+ "aliases": [],
  "bus": {
   "num": 34,
   "name": "丂"
  },
+ "level": 3,
+ "parent": "可",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《軻kē《說文》：“接軸車也。从車可聲。康我切。”kě，《集韻》：“轗軻，不得志。”",
-   "cites": []
+   "label": "釋義",
+   "text": "《說文》：“接軸車也。从車可聲。康我切。”kě，《集韻》：“轗軻，不得志。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "k「口控」取「控」：車軸受控（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
