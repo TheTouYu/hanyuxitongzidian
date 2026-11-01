@@ -1,7 +1,10 @@
 {
  "char": "䱜",
  "pinyin": "cuò",
- "bus": [],
+ "bus": {
+  "num": 416,
+  "name": "𡿧"
+ },
  "sections": [
   {
    "key": "shengmu",
@@ -14,6 +17,17 @@
    "label": "释义",
    "text": "（原稿未收释义）",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六十九舄",
+   "links": [
+    {
+     "ch": "卷六十九舄",
+     "label": "卷六十九舄"
+    }
+   ]
   }
  ],
  "parent": "",

@@ -1,7 +1,10 @@
 {
  "char": "魷",
  "pinyin": "yóu",
- "bus": [],
+ "bus": {
+  "num": 464,
+  "name": "尤"
+ },
  "sections": [
   {
    "key": "shengmu",
@@ -14,6 +17,17 @@
    "label": "释义",
    "text": "（原稿未收释义）",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七十六又",
+   "links": [
+    {
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
   }
  ],
  "simp": "鱿",

@@ -1,7 +1,10 @@
 {
  "char": "氪",
  "pinyin": "kè",
- "bus": [],
+ "bus": {
+  "num": 421,
+  "name": "克"
+ },
  "sections": [
   {
    "key": "shengmu",
@@ -14,6 +17,17 @@
    "label": "释义",
    "text": "（原稿未收释义）",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七十亥",
+   "links": [
+    {
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
   }
  ],
  "parent": "",

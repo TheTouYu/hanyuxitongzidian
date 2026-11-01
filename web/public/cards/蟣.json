@@ -1,7 +1,10 @@
 {
  "char": "蟣",
  "pinyin": "jǐ／qí",
- "bus": [],
+ "bus": {
+  "num": 387,
+  "name": "𢆶"
+ },
  "sections": [
   {
    "key": "shengmu",
@@ -14,6 +17,17 @@
    "label": "释义",
    "text": "（原稿未收释义）",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六十四絲",
+   "links": [
+    {
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
   }
  ],
  "simp": "虮",

@@ -1,7 +1,10 @@
 {
  "char": "偕",
  "pinyin": "xié",
- "bus": [],
+ "bus": {
+  "num": 426,
+  "name": "虤"
+ },
  "sections": [
   {
    "key": "shengmu",
@@ -14,6 +17,17 @@
    "label": "释义",
    "text": "（原稿未收释义）",
    "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七十一聿",
+   "links": [
+    {
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
   }
  ],
  "parent": "",
