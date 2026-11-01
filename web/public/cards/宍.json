@@ -1,0 +1,37 @@
+{
+ "char": "宍",
+ "head": "宍（𠕜）",
+ "pinyin": "ròu",
+ "aliases": [
+  "𠕜"
+ ],
+ "bus": {
+  "num": 51,
+  "name": "六"
+ },
+ "level": 3,
+ "parent": "六",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“肉古作宍。”應為“肉”字之訛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：承六之幽深一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}
