@@ -2,28 +2,28 @@
  "char": "韂",
  "head": "韂",
  "pinyin": "chàn",
+ "aliases": [],
+ "bus": {
+  "num": 40,
+  "name": "詹"
+ },
  "level": 3,
  "parent": "詹",
- "bus": [
-  {
-   "num": 35,
-   "name": "厂"
-  }
- ],
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《廣韻》：“鞍小障泥。”《集韻》：“馬障泥也。”馬鞍子下面墊的東西，垂在馬背兩旁可以擋泥土。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "ch「刺持」取「持」：障泥持土（推）。"
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：垂在馬背兩旁擋泥。（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

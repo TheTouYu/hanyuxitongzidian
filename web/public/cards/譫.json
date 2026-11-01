@@ -2,28 +2,30 @@
  "char": "譫",
  "head": "譫（噡）",
  "pinyin": "zhān",
+ "aliases": [
+  "噡"
+ ],
+ "bus": {
+  "num": 40,
+  "name": "詹"
+ },
  "level": 3,
  "parent": "詹",
- "bus": [
-  {
-   "num": 35,
-   "name": "厂"
-  }
- ],
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“多言。或从口。”《本草綱目》：“心病譫妄煩亂。”《集韻》：“噡噡，煩語。”病中胡言亂語。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：言語凿凿不休（推）。"
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：簷間燕雀吵雜，如病中多言。（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
@@ -31,8 +33,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "噡"
  ]
 }

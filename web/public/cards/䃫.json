@@ -2,28 +2,28 @@
  "char": "䃫",
  "head": "䃫",
  "pinyin": "dǎn",
+ "aliases": [],
+ "bus": {
+  "num": 40,
+  "name": "詹"
+ },
  "level": 3,
  "parent": "詹",
- "bus": [
-  {
-   "num": 35,
-   "name": "厂"
-  }
- ],
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《集韻》：“石䃫，藥石。”《本草綱目》：“石膽石中有汁，如膽汁，酸辛氣寒，治諸癇石淋目痛。俗作䃫。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤動」取「囤」：石中有汁如囤（推）。"
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：石中有汁，懸滴如簷。（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

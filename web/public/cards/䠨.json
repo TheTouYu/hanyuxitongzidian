@@ -2,28 +2,28 @@
  "char": "䠨",
  "head": "䠨",
  "pinyin": "chàn",
+ "aliases": [],
+ "bus": {
+  "num": 40,
+  "name": "詹"
+ },
  "level": 3,
  "parent": "詹",
- "bus": [
-  {
-   "num": 35,
-   "name": "厂"
-  }
- ],
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
+   "label": "釋義",
    "text": "《玉篇》：“馬急行。”奮蹄如懸之意。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "ch「刺持」取「刺」：蹄刺而急行（推）。"
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：馬急行，蹄奮如懸。（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
