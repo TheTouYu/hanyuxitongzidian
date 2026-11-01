@@ -1,0 +1,35 @@
+{
+ "char": "𤱒",
+ "head": "𤱒（𨸪陸）",
+ "pinyin": "lù",
+ "aliases": [],
+ "bus": {
+  "num": 51,
+  "name": "六"
+ },
+ "level": 3,
+ "parent": "𡴆",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“古文陸字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：承𡴆之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
+    {
+     "ch": "卷八虎",
+     "label": "卷八 虎"
+    }
+   ]
+  }
+ ]
+}
