@@ -1,0 +1,35 @@
+{
+ "char": "䤅",
+ "head": "䤅",
+ "pinyin": "tú",
+ "aliases": [],
+ "bus": {
+  "num": 54,
+  "name": "余"
+ },
+ "level": 3,
+ "parent": "俞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𨡭（mú）䤅也。从酉俞聲。田𠊱切。”《釋名》：“投也，味相投成也。”畢沅疏證 ：“𨡭䤅，榆醬也。”榆仁醬。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：承俞之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

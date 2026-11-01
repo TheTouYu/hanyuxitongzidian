@@ -1,0 +1,35 @@
+{
+ "char": "渝",
+ "head": "渝",
+ "pinyin": "yú",
+ "aliases": [],
+ "bus": {
+  "num": 54,
+  "name": "余"
+ },
+ "level": 3,
+ "parent": "俞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“變汙也。从水俞聲。一曰渝水，在遼西臨俞，東出塞。羊朱切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}

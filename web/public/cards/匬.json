@@ -1,0 +1,35 @@
+{
+ "char": "匬",
+ "head": "匬",
+ "pinyin": "yǔ",
+ "aliases": [],
+ "bus": {
+  "num": 54,
+  "name": "余"
+ },
+ "level": 3,
+ "parent": "俞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“甌，器也。从匚俞聲。度矦切。”《玉篇·匚部》：“器，受十六斗。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}
