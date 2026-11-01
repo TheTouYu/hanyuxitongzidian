@@ -11,7 +11,7 @@
   "num": 39,
   "name": "产"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -129,5 +129,6 @@
     }
    ]
   }
- ]
+ ],
+ "parent": "厂"
 }
