@@ -6,10 +6,10 @@
   "𦧕"
  ],
  "bus": {
-  "num": 40,
-  "name": "詹"
+  "num": 35,
+  "name": "厂"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -245,5 +245,6 @@
     }
    ]
   }
- ]
+ ],
+ "parent": "厂"
 }
