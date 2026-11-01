@@ -2,29 +2,28 @@
  "char": "㙱",
  "head": "㙱",
  "pinyin": "hào",
- "level": 3,
- "parent": "号",
+ "aliases": [],
  "bus": {
   "num": 34,
   "name": "丂"
  },
+ "level": 3,
+ "parent": "丂",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：「土釡也。《説文》作𧇼，土堥也。」",
-   "cites": []
+   "label": "釋義",
+   "text": "㙱hào《廣韻》：“土釡也。《説文》作𧇼，土堥也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：土釜敞口（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",

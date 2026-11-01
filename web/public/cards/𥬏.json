@@ -2,29 +2,30 @@
  "char": "𥬏",
  "head": "𥬏（箶）",
  "pinyin": "hú",
- "level": 3,
- "parent": "乎",
+ "aliases": [
+  "箶"
+ ],
  "bus": {
   "num": 34,
   "name": "丂"
  },
+ "level": 3,
+ "parent": "丂",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“箶，竹名。或作𥬏。”《篇海》：“同箶。𥬏簏，箭室。”",
-   "cites": []
+   "label": "釋義",
+   "text": "𥬏（箶）hú《集韻》：“箶，竹名。或作𥬏。”《篇海》：“同箶。𥬏簏，箭室。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：箭室中空（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷五 雁",
    "links": [
     {
      "ch": "卷五雁",
@@ -32,8 +33,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "箶"
  ]
 }
