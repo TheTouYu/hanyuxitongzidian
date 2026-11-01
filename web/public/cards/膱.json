@@ -2,30 +2,28 @@
  "char": "膱",
  "head": "膱",
  "pinyin": "zhí",
- "level": 3,
- "parent": "戠",
+ "aliases": [],
  "bus": {
   "num": 31,
   "name": "戠"
  },
- "aliases": [],
+ "level": 3,
+ "parent": "戠",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：「脯脡也。長尺有二寸。」乾肉。《玉篇》：「肉敗也。」《廣雅》：「臭也。」",
-   "cites": []
+   "label": "釋義",
+   "text": "《集韻》：“脯脡也。長尺有二寸。”乾肉。《玉篇》：“肉敗也。”《廣雅》：“臭也。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：如鑿痕（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：乾肉長條如鑿痕（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",

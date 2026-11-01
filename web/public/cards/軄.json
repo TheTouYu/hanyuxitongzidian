@@ -2,30 +2,28 @@
  "char": "軄",
  "head": "軄",
  "pinyin": "zhí",
- "level": 3,
- "parent": "戠",
+ "aliases": [],
  "bus": {
   "num": 31,
   "name": "戠"
  },
- "aliases": [],
+ "level": 3,
+ "parent": "戠",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：「俗職字。」身份，職業。",
-   "cites": []
+   "label": "釋義",
+   "text": "《玉篇》：“俗職字。”身份，職業。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：同職（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：職之俗字，同取鑿記（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
