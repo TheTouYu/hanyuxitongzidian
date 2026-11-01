@@ -2,30 +2,28 @@
  "char": "驥",
  "head": "驥",
  "pinyin": "jì",
- "level": 3,
- "parent": "異",
+ "aliases": [],
  "bus": {
   "num": 33,
   "name": "異"
  },
- "aliases": [],
+ "level": 3,
+ "parent": "異",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：「千里馬也，孫陽所相者。从馬冀聲。天水有驥縣。幾利切。」",
-   "cites": []
+   "label": "釋義",
+   "text": "驥jì《說文》：“千里馬也，孫陽所相者。从馬冀聲。天水有驥縣。幾利切。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：聚力而馳（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：四蹄聚而奔（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",

@@ -1,33 +1,29 @@
 {
  "char": "㔴",
- "head": "㔴（𠥦）",
+ "head": "㔴",
  "pinyin": "yì",
- "level": 3,
- "parent": "異",
+ "aliases": [],
  "bus": {
   "num": 33,
   "name": "異"
  },
- "aliases": [
-  "𠥦"
- ],
+ "level": 3,
+ "parent": "異",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：「田器也。从匚異聲。與職切。」《玉篇》：「大鼎也。」《集韻》：「或从翼。」",
-   "cites": []
+   "label": "釋義",
+   "text": "㔴（𠥦）yì《說文》：“田器也。从匚異聲。與職切。”《玉篇》：“大鼎也。”《集韻》：“或从翼。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
