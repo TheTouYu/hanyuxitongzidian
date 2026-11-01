@@ -1,39 +1,34 @@
 {
  "char": "𥅞",
- "trad": "𥅞",
- "pinyin": "shì",
+ "head": "𥅞",
  "level": 3,
  "parent": "式",
  "bus": {
   "num": 26,
   "name": "弋"
  },
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "释义",
-   "text": "《集韻》：“設職切，音式。目所記也。”指用眼睛看來看去。",
-   "cites": []
+   "text": "《集韻》：“設職切，音式。目所記也。”指用眼睛看來看去。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "sh「失收」取「失」：𥅞shì（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：目收所記（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "",
+   "text": "卷四 弋",
    "links": [
     {
      "ch": "卷四弋",
      "label": "卷四 弋"
     }
-   ],
-   "cites": []
+   ]
   }
- ],
- "aliases": [],
- "head": "𥅞"
+ ]
 }
