@@ -1,0 +1,35 @@
+{
+ "char": "嗏",
+ "head": "嗏",
+ "pinyin": "chā",
+ "aliases": [],
+ "bus": {
+  "num": 54,
+  "name": "余"
+ },
+ "level": 3,
+ "parent": "余",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“舊註初加切，音差。語辭。按經史文賦語辭不作嗏，獨今曲調有之。六書無嗏。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：承余之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
+    {
+     "ch": "卷九舟",
+     "label": "卷九 舟"
+    }
+   ]
+  }
+ ]
+}
