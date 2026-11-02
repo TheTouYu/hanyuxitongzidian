@@ -60,7 +60,8 @@ main{overflow:auto;padding:20px 26px}
 .ch,.card,.famln,.gscroll figcaption{font-family:"Microsoft YaHei","SimSun-ExtB","Segoe UI Symbol",sans-serif}
 @font-face{font-family:'SimSunExtB';src:url('fonts/SimSunExtB.ttf') format('truetype');font-display:swap}
 .card,.ch,.famln,.ct td,.ct th,.item b{font-family:'Microsoft YaHei','SimSunExtB','SimSun-ExtB','Segoe UI Symbol',sans-serif}
-.gin{height:1.6em;vertical-align:-0.4em;margin:0 3px;border:1px solid #eee}.cim{height:2.1em;vertical-align:-0.45em;margin:0 2px}.chead .ch .cim{height:2.1em;vertical-align:-0.45em;margin:0 2px}
+.gin{height:1.6em;vertical-align:-0.4em;margin:0 3px;border:1px solid #eee}.cch{height:1.05em;vertical-align:-0.12em}
+.cim{height:2.1em;vertical-align:-0.45em;margin:0 2px}.chead .ch .cim{height:2.1em;vertical-align:-0.45em;margin:0 2px}
 .cib{height:104px;margin:4px 6px 4px 0;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.cib:hover{outline:2px solid #d9c9a8}
 .ciw{align-items:flex-end}.cibw{display:inline-block;text-align:center;margin:2px 4px 10px 0}.ciblab{display:inline-block;color:#8a6d3b;font-size:15px;margin:0 14px 28px 2px}
 </style>
@@ -132,7 +133,7 @@ function render(q){
 function PX(s){const A=(s&&s.paras)||[];if(!A.length)return '';return A.map(x=>'<p>'+esc(x)+'</p>').join('');}
 function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
 const gt=(t,dir)=>esc(t).replace(/\{\{([^}]+)\}\}/g,(m,f)=>`<img class="gin" src="glyphs/${dir}/${f}">`);
-function esc2(s){return esc(String(s==null?'':s)).replace(/[\u{20000}-\u{2FFFF}]/gu,c=>'@@IMG@@'+c.codePointAt(0).toString(16)+'@@').replace(/@@IMG@@([0-9a-f]+)@@/g,(m,h)=>'<img class="cim" data-t="&#x'+h+';" src="glyphs/chars/'+h+'.png" onerror="this.replaceWith(document.createTextNode(this.dataset.t))">');}
+function esc2(s){return esc(String(s==null?'':s)).replace(/[\u{20000}-\u{2FFFF}]/gu,c=>'@@IMG@@'+c.codePointAt(0).toString(16)+'@@').replace(/@@IMG@@([0-9a-f]+)@@/g,(m,h)=>'<img class="cch" data-t="&#x'+h+';" src="glyphs/chars/'+h+'.png" onerror="this.replaceWith(document.createTextNode(this.dataset.t))">');}
 function sm(s){return esc2(s).replace(/（[^）]{1,12}）/g,m=>'<span class="smalt">'+m+'</span>');}
 const GGRP=s=>{if(!s.groups||!s.groups.length)return '';return ((s.paras&&s.paras.length)?s.paras.map(x=>'<p class="gnote">'+esc(x)+'</p>').join(''):(s.text?'<p class="gnote">'+esc(s.text)+'</p>':''))+s.groups.map(g=>`<div class="grp">${g.title?'<h4>'+esc(g.no||'')+esc(g.title)+'</h4>':''}<p class="gnote">${esc(g.note||'')}</p><table class="ct"><thead><tr>${(((g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||((g.rows&&g.rows[0]&&String(g.rows[0][0]).slice(-1)==='部')?['部目','字根','中心义','字族']:['字','读音','类属','取义落点']))).map(t=>'<th>'+esc(t)+'</th>').join('')}</tr></thead><tbody>${g.rows.map((r,i)=>`<tr><td class="${g.header?'':'zc'}">${(g.links&&g.links[i])?('<a href="javascript:void(0)" onclick="goCard(\''+g.links[i]+'\')">'+esc2(r[0])+'</a>'):esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div>`).join('');};
 const TTBL=s=>{if(!s.rows||s.rows.length<3)return '';const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;};
