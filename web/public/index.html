@@ -111,7 +111,7 @@ function render(q){
     const byChar=ch=>IDX.find(x=>x.c===ch)||IDX.filter(x=>((x.a||[]).includes(ch))).sort((p,q)=>{const s=y=>((y.a||[])[0]===ch?0:1);return s(p)-s(q);})[0];
     let t=byChar(q)||rows.find(r=>r.lv>0)||rows[0];
     if(t){
-      const chain=[];let p=(t.pr||t.n);let guard=0;
+      const chain=[];let p=(t.pr||'');let guard=0;
  while(p&&guard++<5){chain.push(p);const pc=byChar(p);const nx=pc?pc.pr:'';if(nx===p)break;p=nx;}
  if(t.rc&&t.rc.length){chain.length=0;(t.rc).forEach(x=>chain.push(x));}
  else if(t.lv>=2){if(t.lv>=3)chain.reverse();const isRoot=(t.lv===2)||!!t.grade||IDX.some(x=>x.pr===t.c);if(isRoot)chain.push(t.c);}
