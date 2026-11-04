@@ -34,7 +34,7 @@ function renderCard(ch){
   if (!existsSync(fp)) return null;
   const d=JSON.parse(readFileSync(fp,'utf8'));
   let h='<!doctype html><meta charset="utf-8"><title>'+escH(d.head||d.char)+'</title>';
-  h+='<style>.al{color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a}body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cch{height:1.05em;vertical-align:-0.12em}'+
+  h+='<style>.jl{color:inherit;text-decoration:none;border-bottom:1px dashed #c9b79a}.al{color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a}body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cch{height:1.05em;vertical-align:-0.12em}'+
   '<style>.cim{height:2.1em;vertical-align:-0.45em;margin:0 2px}.ciw{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 10px}.ciw{align-items:flex-end}.ciw .cibw{display:inline-block;text-align:center;margin:2px 4px 8px 0}.ciw .ciblab{display:inline-block;color:#8a6d3b;font-size:15px;margin:0 14px 26px 2px}.ciw img{height:104px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gs{display:flex;gap:10px;overflow-x:auto;padding:6px 0 10px}.gs figure{margin:0;text-align:center}.gs img{height:110px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gs figcaption{font-size:11px;color:#999}.pill{display:inline-block;margin:2px 0 8px;padding:1px 10px;border:1px solid #ddd;border-radius:12px;color:#666;font-size:13px}small{color:#888;font-weight:400}.back{display:inline-block;margin-bottom:10px;color:#06c}</style>';
   const _hd=String(d.head||d.char);const _m=_hd.match(/^([^（(]+)[（(]([^）)]*)[）)]\s*$/);const _hl=_m?escH(_m[1])+'（'+Array.from(_m[2]).map(a=>'<a class="al" href="/card/'+encodeURIComponent(a)+'">'+escH(a)+'</a>').join('')+'）':ext(_hd);
   h+='<a class="back" href="/test.html">← 返回检索</a><h2>'+_hl+' <small>'+escH(d.pinyin||'')+'</small></h2>';
@@ -63,7 +63,7 @@ function renderCard(ch){
     h+="<p><b>"+ext(s.label||"")+"</b> "+((s.gimgs||[]).map(f=>"<img class=\"cim\" src=\"/glyphs/"+String(f).split("/").map(encodeURIComponent).join("/")+"\" style=\"height:2.2em;margin:0 6px 0 2px\">").join(""))+"</p>";
   }
   for (const s of (d.sections||[])){ if (s.key==="ziatt") continue;
-    if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+(((s.links&&s.links.length?s.links:(d.links||[]))).map(l=>'<a href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
+    if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+(((s.links&&s.links.length?s.links:(d.links||[]))).map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
     if (s.groups && s.groups.length){
         if (s.text) h+='<p>'+ext(s.text)+'</p>';
