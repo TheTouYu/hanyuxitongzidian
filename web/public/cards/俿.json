@@ -3,7 +3,6 @@
  "head": "俿",
  "pinyin": "chí",
  "level": 3,
- "parent": "虍",
  "bus": {
   "num": 48,
   "name": "虍"
@@ -42,5 +41,6 @@
  "captions": [
   "二虎相搏，以掌相批",
   ""
- ]
+ ],
+ "noRoot": true
 }

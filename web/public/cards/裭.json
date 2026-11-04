@@ -3,7 +3,6 @@
  "head": "裭",
  "pinyin": "chǐ",
  "level": 3,
- "parent": "虍",
  "bus": {
   "num": 48,
   "name": "虍"
@@ -34,5 +33,6 @@
  "char": "裭",
  "aliases": [
   "褫"
- ]
+ ],
+ "noRoot": true
 }
