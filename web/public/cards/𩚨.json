@@ -3,7 +3,6 @@
  "head": "𩚨（䬫）",
  "pinyin": "tí",
  "level": 3,
- "parent": "丘",
  "bus": {
   "num": 50,
   "name": "丘"
@@ -32,5 +31,6 @@
  ],
  "aliases": [
   "䬫"
- ]
+ ],
+ "noRoot": true
 }

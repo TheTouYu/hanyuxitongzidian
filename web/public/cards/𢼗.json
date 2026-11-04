@@ -2,7 +2,6 @@
  "char": "𢼗",
  "head": "𢼗（𥘦赦）",
  "level": 3,
- "parent": "示",
  "bus": {
   "num": 10,
   "name": "示"
@@ -32,5 +31,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

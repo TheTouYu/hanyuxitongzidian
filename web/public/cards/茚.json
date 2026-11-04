@@ -2,7 +2,6 @@
  "char": "茚",
  "head": "茚（䒢𦯒）",
  "level": 3,
- "parent": "印",
  "bus": {
   "num": 23,
   "name": "ㄗ"
@@ -30,5 +29,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

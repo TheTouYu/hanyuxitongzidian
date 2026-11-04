@@ -2,7 +2,6 @@
  "char": "茌",
  "head": "茌（茬）",
  "level": 3,
- "parent": "士",
  "bus": {
   "num": 9,
   "name": "士"
@@ -38,5 +37,6 @@
  ],
  "captions": [
   "土地廟"
- ]
+ ],
+ "noRoot": true
 }

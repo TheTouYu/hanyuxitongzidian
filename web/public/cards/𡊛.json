@@ -3,7 +3,6 @@
  "head": "𡊛",
  "pinyin": "áo",
  "level": 3,
- "parent": "去",
  "bus": {
   "num": 49,
   "name": "去"
@@ -31,5 +30,6 @@
    ]
   }
  ],
- "aliases": []
+ "aliases": [],
+ "noRoot": true
 }

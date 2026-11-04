@@ -4,7 +4,6 @@
  "simp": "",
  "pinyin": "hán",
  "level": 3,
- "parent": "亟",
  "bus": {
   "num": 6,
   "name": "乞"
@@ -48,5 +47,6 @@
  "aliases": [
   "𢔈"
  ],
- "head": "𢔔（𢔈）"
+ "head": "𢔔（𢔈）",
+ "noRoot": true
 }

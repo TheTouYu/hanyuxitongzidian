@@ -2,7 +2,6 @@
  "char": "姊",
  "head": "姊（姉）",
  "level": 3,
- "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
@@ -32,5 +31,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

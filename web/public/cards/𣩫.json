@@ -12,7 +12,6 @@
   "name": "業"
  },
  "level": 3,
- "parent": "業",
  "sections": [
   {
    "key": "shiyi",
@@ -35,5 +34,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

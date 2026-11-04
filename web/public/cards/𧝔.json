@@ -3,7 +3,6 @@
  "head": "𧝔",
  "pinyin": "qú",
  "level": 3,
- "parent": "虛",
  "bus": {
   "num": 48,
   "name": "虎"
@@ -37,5 +36,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

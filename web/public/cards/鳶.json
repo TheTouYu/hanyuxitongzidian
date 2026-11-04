@@ -1,7 +1,6 @@
 {
  "char": "鳶",
  "level": 3,
- "parent": "弋",
  "bus": {
   "num": 26,
   "name": "弋"
@@ -41,5 +40,6 @@
  ],
  "captions": [
   ""
- ]
+ ],
+ "noRoot": true
 }

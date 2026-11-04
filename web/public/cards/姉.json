@@ -2,7 +2,6 @@
  "char": "姉",
  "head": "姉（姊）",
  "level": 3,
- "parent": "市",
  "bus": {
   "num": 10,
   "name": "示"
@@ -32,5 +31,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

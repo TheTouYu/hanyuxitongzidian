@@ -7,7 +7,6 @@
   "name": "厂"
  },
  "level": 3,
- "parent": "炭",
  "sections": [
   {
    "key": "shiyi",
@@ -33,5 +32,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

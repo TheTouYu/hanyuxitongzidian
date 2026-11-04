@@ -3,7 +3,6 @@
  "head": "𧦺（詆）",
  "pinyin": "dǐ",
  "level": 3,
- "parent": "丘",
  "bus": {
   "num": 50,
   "name": "丘"
@@ -32,5 +31,6 @@
  ],
  "aliases": [
   "詆"
- ]
+ ],
+ "noRoot": true
 }

@@ -3,7 +3,6 @@
  "head": "𩿨（鴟）",
  "pinyin": "chī",
  "level": 3,
- "parent": "丘",
  "bus": {
   "num": 50,
   "name": "丘"
@@ -38,5 +37,6 @@
  ],
  "captions": [
   "草廬             ▲六的手勢語"
- ]
+ ],
+ "noRoot": true
 }

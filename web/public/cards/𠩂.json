@@ -3,7 +3,6 @@
  "head": "𠩂",
  "pinyin": "qiè",
  "level": 3,
- "parent": "去",
  "bus": {
   "num": 49,
   "name": "去"
@@ -33,5 +32,6 @@
  ],
  "aliases": [
   "厒"
- ]
+ ],
+ "noRoot": true
 }

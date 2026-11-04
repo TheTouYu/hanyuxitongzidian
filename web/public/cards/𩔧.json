@@ -2,7 +2,6 @@
  "char": "𩔧",
  "head": "𩔧（類）",
  "level": 3,
- "parent": "𢑓",
  "bus": {
   "num": 9,
   "name": "士"
@@ -32,5 +31,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

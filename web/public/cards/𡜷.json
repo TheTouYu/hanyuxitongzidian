@@ -1,7 +1,6 @@
 {
  "char": "𡜷",
  "level": 3,
- "parent": "匃",
  "bus": {
   "num": 4,
   "name": "匃"
@@ -34,5 +33,6 @@
  ],
  "captions": [
   ""
- ]
+ ],
+ "noRoot": true
 }

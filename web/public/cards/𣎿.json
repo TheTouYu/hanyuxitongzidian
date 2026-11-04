@@ -2,7 +2,6 @@
  "char": "𣎿",
  "head": "𣎿（朶）",
  "level": 3,
- "parent": "氾",
  "bus": {
   "num": 23,
   "name": "ㄗ"
@@ -38,5 +37,6 @@
  ],
  "captions": [
   "漢畫像磚《逐鹿中原》局部"
- ]
+ ],
+ "noRoot": true
 }

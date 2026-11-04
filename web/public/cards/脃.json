@@ -2,7 +2,6 @@
  "char": "脃",
  "head": "脃（𨉆脆脺）",
  "level": 3,
- "parent": "色",
  "bus": {
   "num": 9,
   "name": "士"
@@ -33,5 +32,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

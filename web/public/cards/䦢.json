@@ -3,7 +3,6 @@
  "head": "䦢",
  "pinyin": "kuò",
  "level": 3,
- "parent": "法",
  "bus": {
   "num": 49,
   "name": "去"
@@ -33,5 +32,6 @@
  ],
  "aliases": [
   "闊"
- ]
+ ],
+ "noRoot": true
 }

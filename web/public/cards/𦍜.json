@@ -2,7 +2,6 @@
  "char": "𦍜",
  "head": "𦍜（䍨）",
  "level": 3,
- "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
@@ -30,5 +29,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

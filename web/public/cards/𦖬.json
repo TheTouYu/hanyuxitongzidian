@@ -11,7 +11,6 @@
   "name": "丂"
  },
  "level": 3,
- "parent": "兮",
  "sections": [
   {
    "key": "shiyi",
@@ -34,5 +33,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

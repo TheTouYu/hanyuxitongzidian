@@ -2,7 +2,6 @@
  "char": "𦊎",
  "head": "𦊎（罘䍒）",
  "level": 3,
- "parent": "示",
  "bus": {
   "num": 10,
   "name": "示"
@@ -38,5 +37,6 @@
  ],
  "captions": [
   "山西雲丘山一帶的“點旺火”祭天"
- ]
+ ],
+ "noRoot": true
 }

@@ -1,7 +1,6 @@
 {
  "char": "䒶",
  "level": 3,
- "parent": "曳",
  "bus": {
   "num": 26,
   "name": "弋"
@@ -33,5 +32,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }

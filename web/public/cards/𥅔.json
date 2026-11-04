@@ -3,7 +3,6 @@
  "head": "𥅔（眡眎視）",
  "pinyin": "shì",
  "level": 3,
- "parent": "丘",
  "bus": {
   "num": 50,
   "name": "丘"
@@ -34,5 +33,6 @@
   "眡",
   "眎",
   "視"
- ]
+ ],
+ "noRoot": true
 }

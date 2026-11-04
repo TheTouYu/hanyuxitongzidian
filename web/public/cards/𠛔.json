@@ -2,7 +2,6 @@
  "char": "𠛔",
  "head": "𠛔（𠚷刺）",
  "level": 3,
- "parent": "𠂔",
  "bus": {
   "num": 21,
   "name": "𠂔"
@@ -32,5 +31,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }
