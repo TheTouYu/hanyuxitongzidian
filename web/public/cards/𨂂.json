@@ -1,16 +1,14 @@
 {
  "char": "𨂂",
  "head": "𨂂",
- "pinyin": "zhí",
+ "pinyin": "",
+ "aliases": [],
  "level": 3,
  "parent": "炙",
  "bus": {
   "num": 47,
   "name": "炙"
  },
- "aliases": [
-  "蹠"
- ],
  "sections": [
   {
    "key": "shiyi",
@@ -20,7 +18,7 @@
   {
    "key": "shengmu",
    "label": "聲母擬態",
-   "text": "zh「凿总」取「凿」：足掌著地如炙之貼（推）。"
+   "text": "zh「凿总」取「凿」：足踐如鑿（推）。"
   },
   {
    "key": "suoshujuan",
@@ -28,11 +26,11 @@
    "text": "卷七 斤",
    "links": [
     {
+     "t": "卷七 斤",
      "ch": "卷七斤",
      "label": "卷七 斤"
     }
    ]
   }
- ],
- "卷": "卷七 斤（第47部 炙）"
+ ]
 }

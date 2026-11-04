@@ -1,16 +1,14 @@
 {
  "char": "䂹",
  "head": "䂹",
- "pinyin": "suǒ",
+ "pinyin": "",
+ "aliases": [],
  "level": 3,
  "parent": "炙",
  "bus": {
   "num": 47,
   "name": "炙"
  },
- "aliases": [
-  "𨹾"
- ],
  "sections": [
   {
    "key": "shiyi",
@@ -20,7 +18,7 @@
   {
    "key": "shengmu",
    "label": "聲母擬態",
-   "text": "sh「失收」取「收」：燒石聚熱以煨煮（推）。"
+   "text": "s「失收」取「收」：碎石磒落，收聚於地（推）。"
   },
   {
    "key": "suoshujuan",
@@ -28,11 +26,11 @@
    "text": "卷七 斤",
    "links": [
     {
+     "t": "卷七 斤",
      "ch": "卷七斤",
      "label": "卷七 斤"
     }
    ]
   }
- ],
- "卷": "卷七 斤（第47部 炙）"
+ ]
 }

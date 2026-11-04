@@ -1,14 +1,14 @@
 {
  "char": "𠶨",
  "head": "𠶨",
- "pinyin": "xī",
+ "pinyin": "",
+ "aliases": [],
  "level": 3,
  "parent": "炙",
  "bus": {
   "num": 47,
   "name": "炙"
  },
- "aliases": [],
  "sections": [
   {
    "key": "shiyi",
@@ -18,7 +18,7 @@
   {
    "key": "shengmu",
    "label": "聲母擬態",
-   "text": "x「續消」取「續」：和聲相續而應（推）。"
+   "text": "x「续消」取「续」：和聲相續（推）。"
   },
   {
    "key": "suoshujuan",
@@ -26,11 +26,11 @@
    "text": "卷七 斤",
    "links": [
     {
+     "t": "卷七 斤",
      "ch": "卷七斤",
      "label": "卷七 斤"
     }
    ]
   }
- ],
- "卷": "卷七 斤（第47部 炙）"
+ ]
 }
