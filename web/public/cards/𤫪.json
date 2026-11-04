@@ -3,7 +3,6 @@
  "head": "𤫪（㼊）",
  "pinyin": "tún",
  "level": 3,
- "parent": "乇",
  "bus": {
   "num": 46,
   "name": "乇"
@@ -39,5 +38,6 @@
  ],
  "aliases": [
   "㼊"
- ]
+ ],
+ "noRoot": true
 }
