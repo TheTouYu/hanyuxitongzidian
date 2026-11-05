@@ -121,7 +121,7 @@ function render(q){
       let fam='';
       if(t.lv===3&&t.pr&&!t.rl){const seenS=new Set([t.c]);const sibs=[];
         IDX.filter(x=>x.pr===t.pr).forEach(x=>{const it=byChar(x.c)||x;const key=it.c;if(seenS.has(key))return;seenS.add(key);sibs.push(key);});
-        if(sibs.length){fam='　同族　'+sibs.map(ln).join('');}}
+        if(t.pr&&sibs.length){fam='　同族　'+sibs.map(ln).join('');}}
       if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
       if(!(t.chapter||t.ch)) window.fillFam(t.c);
     }
