@@ -143,7 +143,7 @@ async function variantsFor(ch){
   if(!VARIANT_MAP){
     try{VARIANT_MAP=await (await fetch('cards/variants.json?v='+Date.now())).json();}catch(e){VARIANT_MAP={};}
   }
-  const list=VARIANT_MAP[ch]||[];
+  const _rv=VARIANT_MAP[ch];const list=Array.isArray(_rv)?_rv:(_rv?[_rv]:[]);
   if(!list.length) return '';
   const btns=list.map(v=>`<button class="vbtn" onclick="goCard('${v}')">${v}</button>`).join(' ');
   return `<div class="vbox"><span>对应繁体/借字：</span>${btns}<span class="vnote">（分卡各释本义，勿混）</span></div>`;
