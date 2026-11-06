@@ -1,0 +1,38 @@
+{
+ "char": "擧",
+ "head": "擧（舉举）",
+ "pinyin": "jǔ",
+ "aliases": [
+  "舉",
+  "举"
+ ],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "與",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“對舉也。从手與聲。居許切。”《段注》：“謂以兩手舉之。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：兩手合握，力聚而後能對舉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
+    {
+     "ch": "卷十𦥑",
+     "label": "卷十 𦥑"
+    }
+   ]
+  }
+ ]
+}
