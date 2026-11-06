@@ -1,0 +1,41 @@
+{
+ "char": "𦉏",
+ "head": "𦉏（罅）",
+ "pinyin": "xià",
+ "aliases": [
+  "罅"
+ ],
+ "bus": {
+  "num": 68,
+  "name": "于"
+ },
+ "level": 3,
+ "parent": "雩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《字彙補》：“同罅。”裂縫。"
+   ],
+   "text": "《字彙補》：“同罅。”裂縫。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：器裂則氣消，縫隙泄之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十二  于",
+     "ch": "卷十二于",
+     "label": "卷十二 于"
+    }
+   ]
+  }
+ ]
+}
