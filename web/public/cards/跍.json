@@ -1,0 +1,42 @@
+{
+ "char": "跍",
+ "head": "跍",
+ "aliases": [],
+ "pinyin": "kū",
+ "bus": {
+  "num": 74,
+  "name": "古"
+ },
+ "level": 3,
+ "parent": "古",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蹲皃。”",
+   "paras": [
+    "《集韻》：“蹲皃。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：蹲則足受身重，如被按控（推）。",
+   "paras": [
+    "k「口控」取「控」：蹲則足受身重，如被按控（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十二  于",
+     "ch": "卷十二于",
+     "label": "卷十二 于"
+    }
+   ]
+  }
+ ]
+}
