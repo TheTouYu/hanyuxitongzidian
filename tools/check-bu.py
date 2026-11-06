@@ -68,7 +68,8 @@ for ch, parent in members.items():
     if _m:
         _need = [c for c in _m.group(1) if _han(c) and c != ch]
         _al = d.get("aliases") or []
-        _miss = [c for c in _need if c not in _al]
+        # 括注字若另有独立卡，则不抢作别名（用户定则：已有独立条目者不入 aliases）
+        _miss = [c for c in _need if c not in _al and not os.path.exists(os.path.join(C, c + ".json"))]
         if _miss:
             err.append(f"{ch}: 括注异体未入 aliases → {''.join(_miss)}")
     sm = [s for s in d.get("sections", []) if s.get("key") == "shengmu"]
