@@ -1,0 +1,35 @@
+{
+ "char": "𪅉",
+ "head": "𪅉",
+ "pinyin": "tiān",
+ "aliases": [],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "𦥑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“通堅切，音天。鴨也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：鴨行水上，蹼涂水而成紋（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
+    {
+     "ch": "卷十𦥑",
+     "label": "卷十 𦥑"
+    }
+   ]
+  }
+ ]
+}

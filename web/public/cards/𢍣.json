@@ -1,0 +1,37 @@
+{
+ "char": "𢍣",
+ "head": "𢍣（𦅽）",
+ "pinyin": "jú",
+ "aliases": [
+  "𦅽"
+ ],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "𦥑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“素屬。从素𠬞聲。居玉切。”《徐灝·段注箋》：“从𠬞，蓋執素而約之也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：素帛本散，執而聚之乃成束（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
+    {
+     "ch": "卷十𦥑",
+     "label": "卷十 𦥑"
+    }
+   ]
+  }
+ ]
+}
