@@ -22,6 +22,9 @@ members = {}
 for s in head.get("sections", []):
     if s.get("key") == "zizu":
         for g in s.get("groups", []):
+            t = (g.get("title") or "")
+            if any(k in t for k in ("訛", "譌", "形近")):
+                continue  # 讹字组：只列原文，不挂 parent
             for r in g.get("rows", []):
                 if not r or not r[0]:
                     err.append(f"{bu}: 字族表有空行")
