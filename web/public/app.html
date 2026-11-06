@@ -146,7 +146,7 @@ async function variantsFor(ch){
   const btns=list.map(v=>`<button class="vbtn" onclick="goCard('${v}')">${v}</button>`).join(' ');
   return `<div class="vbox"><span>对应繁体/借字：</span>${btns}<span class="vnote">（分卡各释本义，勿混）</span></div>`;
 }
-const SEC_ORDER=['benyi','benyi2','zhuanyi','bianzheng','yinyuan','shiyi','shengmu','zizu','zigen'];
+const SEC_ORDER=['benyi','benyi2','zhuanyi','bianzheng','zixing_rong','zixing_jv','yinyuan','shiyi','shengmu','zizu','zigen'];
 const secRank=k=>{const i=SEC_ORDER.indexOf(k);return i<0?99:i;};
 async function cardBody(ch,d,opt){
   if(d&&d.sections)d.sections.forEach(s=>{if(s.paras&&s.paras.length&&!(s.groups&&s.groups.length))s.text=s.paras.join('\n');});
