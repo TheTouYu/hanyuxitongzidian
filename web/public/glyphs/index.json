@@ -1,5 +1,15 @@
 {
  "chars": {
+  "搨": {
+   "doc": "卷十三  合",
+   "variants": "㧺㩉搭",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "搨碑刻"
+    }
+   ]
+  },
   "虍": {
    "doc": "卷八 虎",
    "files": [
@@ -9,6 +19,29 @@
     "虍/04.png",
     "虍/05.png",
     "虍/06.png"
+   ]
+  },
+  "鰨": {
+   "doc": "卷十三  合",
+   "variants": "魶鰈",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "鯢魚"
+    }
+   ]
+  },
+  "𦐇": {
+   "doc": "卷十三  合",
+   "variants": "",
+   "files": [
+    "𦐇/01.png"
+   ],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "宋代的毳衣（羽絨服）"
+    }
    ]
   },
   "𧇁": {
@@ -119450,7 +119483,7 @@
   ],
   "𦐇": [
    {
-    "file": "photos/𦐇/01.png",
+    "file": "photos/𦐇/01.jpg",
     "caption": "宋代的毳衣（羽絨服）"
    }
   ],
@@ -122526,16 +122559,6 @@
    {
     "file": "photos/𩥐/01.png",
     "caption": "宋代的毳衣（羽絨服）"
-   }
-  ],
-  "𤒻": [
-   {
-    "file": "photos/𤒻/01.png",
-    "caption": "踞織分綜示意圖"
-   },
-   {
-    "file": "photos/𤒻/02.png",
-    "caption": ""
    }
   ],
   "𥍆": [
