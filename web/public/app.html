@@ -92,9 +92,9 @@ fetch('glyphs/index.json').then(r=>r.json()).then(d=>{GLYPH=d.chars||d;}).catch(
 fetch('glyphs/photos/index.json?v='+Date.now()).then(r=>r.json()).then(d=>{window.PHOTO=d.photos||d;}).catch(()=>{}); fetch('glyphs/photos/captions.json?v='+Date.now()).then(r=>r.json()).then(d=>{window.CAPS=d.captions||d;}).catch(()=>{});
 function match(q){
   q=norm(q.trim()); if(!q) return IDX.slice(0,200);
-  const exact=IDX.filter(x=>x.c===q||((x.a||[]).includes(q))).sort((a,b)=>(b.c===q)-(a.c===q));
-  if(exact.length) return exact.concat(IDX.filter(x=>x.c!==q&&!((x.a||[]).includes(q))&&(norm(x.p).startsWith(q)||x.t.some(t=>norm(t).includes(q)))).slice(0,80));
-  return IDX.filter(x=>norm(x.c).includes(q)||((x.a||[]).some(t=>norm(t).includes(q)))||norm(x.p).includes(q)||x.t.some(t=>norm(t).includes(q))).slice(0,120);
+  const exact=IDX.filter(x=>x.c===q||((x.a||[]).includes(q))||((x.v||[]).includes(q))).sort((a,b)=>(b.c===q)-(a.c===q));
+  if(exact.length) return exact.concat(IDX.filter(x=>x.c!==q&&!((x.a||[]).includes(q))&&!((x.v||[]).includes(q))&&(norm(x.p).startsWith(q)||x.t.some(t=>norm(t).includes(q)))).slice(0,80));
+  return IDX.filter(x=>norm(x.c).includes(q)||((x.a||[]).some(t=>norm(t).includes(q)))||((x.v||[]).some(t=>norm(t).includes(q)))||norm(x.p).includes(q)||x.t.some(t=>norm(t).includes(q))).slice(0,120);
 }
 window.fillFam=(ch)=>{fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()).then(r=>r.json()).then(d=>{const seen=new Set(),names=[];(d.sections||[]).forEach(s=>(s.groups||[]).forEach(g=>(g.rows||[]).forEach(r=>{let c=String(r[0]||'').replace(/（.*?）|\(.*?\)/g,'').trim();if(c&&!seen.has(c)){seen.add(c);names.push(c);}})));const sp=document.getElementById('famspan');if(!names.length){kh=IDX.filter(x=>x.pr===ch).map(x=>x.c);kh.forEach(c=>names.push(c));}
 if(sp&&names.length){sp.innerHTML='　<label>字族</label>　'+names.map(famln).join('');bindHint();}}).catch(()=>{});};
