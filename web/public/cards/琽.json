@@ -1,0 +1,36 @@
+{
+ "char": "琽",
+ "head": "琽",
+ "pinyin": "dǔ",
+ "aliases": [],
+ "bus": {
+  "num": 63,
+  "name": "者"
+ },
+ "level": 3,
+ "parent": "者",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "琽dǔ《集韻》：“玉名。”應指赭色玉。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：玉色積赭，如久囤（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

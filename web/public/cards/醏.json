@@ -1,0 +1,36 @@
+{
+ "char": "醏",
+ "head": "醏",
+ "pinyin": "dū",
+ "aliases": [],
+ "bus": {
+  "num": 63,
+  "name": "者"
+ },
+ "level": 3,
+ "parent": "者",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "醏dū《廣韻》：“𨣱醏，醬也。”醬，色赭。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：醬久醞而色赭（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

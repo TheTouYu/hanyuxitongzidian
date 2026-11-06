@@ -1,0 +1,36 @@
+{
+ "char": "瀦",
+ "head": "瀦",
+ "pinyin": "zhū",
+ "aliases": [],
+ "bus": {
+  "num": 63,
+  "name": "者"
+ },
+ "level": 3,
+ "parent": "者",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "瀦zhū《新附》：“水所亭也。从水豬聲。陟魚切。”水停聚的地方。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：水停成瀦，總聚不流（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

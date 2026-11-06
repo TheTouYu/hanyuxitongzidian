@@ -1,0 +1,36 @@
+{
+ "char": "撦",
+ "head": "撦",
+ "pinyin": "chě",
+ "aliases": [],
+ "bus": {
+  "num": 63,
+  "name": "者"
+ },
+ "level": 3,
+ "parent": "者",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "撦chě《集韻》：“裂開也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：挑之使裂，如刺而分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

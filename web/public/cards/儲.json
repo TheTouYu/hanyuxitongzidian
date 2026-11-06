@@ -1,0 +1,36 @@
+{
+ "char": "儲",
+ "head": "儲",
+ "pinyin": "chǔ",
+ "aliases": [],
+ "bus": {
+  "num": 63,
+  "name": "者"
+ },
+ "level": 3,
+ "parent": "者",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "儲chǔ《說文》：“偫也。从人諸聲。直魚切。”《正字通》：“儲與即容與，一作諸與。”等待。徜徉。今指儲蓄。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：偫物待用，持之以存（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

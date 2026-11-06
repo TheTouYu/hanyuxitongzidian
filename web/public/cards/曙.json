@@ -1,0 +1,38 @@
+{
+ "char": "曙",
+ "head": "曙（暏）",
+ "pinyin": "shǔ",
+ "aliases": [
+  "暏"
+ ],
+ "bus": {
+  "num": 63,
+  "name": "者"
+ },
+ "level": 3,
+ "parent": "者",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "曙（暏）shǔ《新附》：“曉也。从日署聲。常恕切。”《集韻》：“旦也。或省。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：曉色初開，暗者失而明（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

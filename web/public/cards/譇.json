@@ -1,0 +1,36 @@
+{
+ "char": "譇",
+ "head": "譇",
+ "pinyin": "zhā",
+ "aliases": [],
+ "bus": {
+  "num": 63,
+  "name": "者"
+ },
+ "level": 3,
+ "parent": "者",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "譇zhā《說文》：“譇拏，羞窮也。从言奢聲。陟加切。”羞澀詞窮、支支吾吾。shē，《集韻：“詩車切，音奢。譇詉，不解也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：羞窮支吾，語凿而塞（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}
