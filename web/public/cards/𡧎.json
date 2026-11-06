@@ -1,32 +1,38 @@
 {
  "char": "𡧎",
- "level": 3,
+ "head": "𡧎（賓）",
+ "aliases": [
+  "賓"
+ ],
+ "pinyin": "miàn",
  "bus": {
   "num": 4,
   "name": "匃"
  },
+ "level": 3,
+ "noRoot": true,
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "古文賓字；冥合也。「賓」本从「丏」。"
+   "label": "釋義",
+   "text": "《五音集韻》：“古文賓字。”《玉篇》：“莫見切。冥合也。”“賓”本从“丏”。"
   },
   {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "m「蒙末」取「蒙」：冥合蒙覆（推）。"
+   "key": "ezi",
+   "label": "訛字",
+   "text": "形近字“焉、丏”之訛。"
   },
   {
    "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
+   "label": "所屬卷",
+   "text": "卷一 雞",
    "links": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+     "t": "卷一 雞",
+     "ch": "卷一雞",
+     "label": "卷一 雞"
     }
    ]
   }
- ],
- "noRoot": true
+ ]
 }
