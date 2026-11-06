@@ -1,0 +1,41 @@
+{
+ "char": "𢁼",
+ "head": "𢁼（褚）",
+ "pinyin": "zhǔ",
+ "aliases": [
+  "褚"
+ ],
+ "bus": {
+  "num": 64,
+  "name": "宁"
+ },
+ "level": 3,
+ "parent": "宁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𢁼（褚）zhǔ《玉篇》：“棺衣也。亦作褚。”"
+   ],
+   "text": "𢁼（褚）zhǔ《玉篇》：“棺衣也。亦作褚。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：棺衣總裹其體（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "char": "𧟲",
+ "head": "𧟲（𧟳霸）",
+ "pinyin": "bà",
+ "aliases": [
+  "𧟳",
+  "霸"
+ ],
+ "bus": {
+  "num": 64,
+  "name": "宁"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𧟲（𧟳霸）bà《直音》：“同霸。”本从“雨”。"
+   ],
+   "text": "𧟲（𧟳霸）bà《直音》：“同霸。”本从“雨”。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字",
+   "text": "形近字“雨”之訛。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}
