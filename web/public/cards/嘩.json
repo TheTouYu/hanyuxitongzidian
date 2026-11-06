@@ -1,0 +1,39 @@
+{
+ "char": "嘩",
+ "head": "嘩",
+ "pinyin": "huá",
+ "aliases": [],
+ "bus": {
+  "num": 70,
+  "name": "𠌶"
+ },
+ "level": 3,
+ "parent": "𠌶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《集韻》：“譁，讙也。或从口。”huā，象聲詞。"
+   ],
+   "text": "《集韻》：“譁，讙也。或从口。”huā，象聲詞。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：口張聲出，氣豁然而放（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十二  于",
+     "ch": "卷十二于",
+     "label": "卷十二 于"
+    }
+   ]
+  }
+ ]
+}

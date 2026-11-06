@@ -1,0 +1,39 @@
+{
+ "char": "澕",
+ "head": "澕",
+ "pinyin": "hé",
+ "aliases": [],
+ "bus": {
+  "num": 70,
+  "name": "𠌶"
+ },
+ "level": 3,
+ "parent": "𠌶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《集韻》：“胡戈切，音和。水深皃。”"
+   ],
+   "text": "《集韻》：“胡戈切，音和。水深皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：水深則流緩而不竭，其活在水（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十二  于",
+     "ch": "卷十二于",
+     "label": "卷十二 于"
+    }
+   ]
+  }
+ ]
+}

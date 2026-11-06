@@ -1,0 +1,39 @@
+{
+ "char": "䅿",
+ "head": "䅿",
+ "pinyin": "huá",
+ "aliases": [],
+ "bus": {
+  "num": 70,
+  "name": "𠌶"
+ },
+ "level": 3,
+ "parent": "𠌶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《集韻》：“胡瓜切，音華。禾盛也。”"
+   ],
+   "text": "《集韻》：“胡瓜切，音華。禾盛也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：禾得水而活，故盛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十二  于",
+     "ch": "卷十二于",
+     "label": "卷十二 于"
+    }
+   ]
+  }
+ ]
+}
