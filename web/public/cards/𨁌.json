@@ -1,0 +1,39 @@
+{
+ "char": "𨁌",
+ "head": "𨁌",
+ "pinyin": "nuó",
+ "aliases": [],
+ "bus": {
+  "num": 65,
+  "name": "竹"
+ },
+ "level": 3,
+ "parent": "冉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《集韻》：“足跌。”"
+   ],
+   "text": "《集韻》：“足跌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：足跌而納於地（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十一 竹",
+     "ch": "卷十一竹",
+     "label": "卷十一 竹"
+    }
+   ]
+  }
+ ]
+}
