@@ -8,7 +8,6 @@
   "name": "帀"
  },
  "level": 3,
- "parent": "帀",
  "sections": [
   {
    "key": "shiyi",
@@ -38,5 +37,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }
