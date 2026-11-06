@@ -41,6 +41,18 @@
    ]
   },
   {
+   "key": "zixing_rong",
+   "label": "凥",
+   "text": "{{01.png}}{{02.png}}{{03.png}}{{04.png}}{{05.png}}{{06.png}}{{07.png}}",
+   "gdir": "凥"
+  },
+  {
+   "key": "zixing_jv",
+   "label": "㞐",
+   "text": "{{01.png}}{{02.png}}{{03.png}}{{04.png}}{{05.png}}",
+   "gdir": "㞐"
+  },
+  {
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "j「聚决」取「聚」：蹲則足股相聚，定而不移，故為居（推）。",
@@ -234,24 +246,6 @@
    ]
   },
   {
-   "key": "zixing_ju",
-   "label": "居（11形）",
-   "text": "{{01.png}}{{02.png}}{{03.png}}{{04.png}}{{05.png}}{{06.png}}{{07.png}}{{08.png}}{{09.png}}{{10.png}}{{11.png}}",
-   "gdir": "居"
-  },
-  {
-   "key": "zixing_rong",
-   "label": "凥（7形）",
-   "text": "{{01.png}}{{02.png}}{{03.png}}{{04.png}}{{05.png}}{{06.png}}{{07.png}}",
-   "gdir": "凥"
-  },
-  {
-   "key": "zixing_jv",
-   "label": "㞐（5形）",
-   "text": "{{01.png}}{{02.png}}{{03.png}}{{04.png}}{{05.png}}",
-   "gdir": "㞐"
-  },
-  {
    "key": "suoshujuan",
    "label": "所属卷",
    "text": "",
@@ -262,6 +256,12 @@
      "label": "卷十二 于"
     }
    ]
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "居"
   }
  ],
  "parent": "古",
