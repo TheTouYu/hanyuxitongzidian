@@ -1,0 +1,39 @@
+{
+ "char": "箼",
+ "head": "箼",
+ "pinyin": "wū",
+ "aliases": [],
+ "bus": {
+  "num": 66,
+  "name": "南"
+ },
+ "level": 3,
+ "parent": "屋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《玉篇》：“竹密。”意即竹因密而遮覆如帳篷。"
+   ],
+   "text": "《玉篇》：“竹密。”意即竹因密而遮覆如帳篷。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十一 竹",
+     "ch": "卷十一竹",
+     "label": "卷十一 竹"
+    }
+   ]
+  }
+ ]
+}

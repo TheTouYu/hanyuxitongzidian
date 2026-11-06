@@ -1,0 +1,39 @@
+{
+ "char": "遖",
+ "head": "遖",
+ "pinyin": "nán",
+ "aliases": [],
+ "bus": {
+  "num": 66,
+  "name": "南"
+ },
+ "level": 3,
+ "parent": "南",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "：晴、好。"
+   ],
+   "text": "：晴、好。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：晴日納暖，行旅得所（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十一 竹",
+     "ch": "卷十一竹",
+     "label": "卷十一 竹"
+    }
+   ]
+  }
+ ]
+}

@@ -24841,11 +24841,25 @@
    ]
   },
   "㱿": {
-   "doc": "卷九十七  殸",
-   "variants": "",
+   "doc": "卷十一  竹",
+   "variants": "𣪊殻壳",
    "files": [
     "㱿/01.png",
-    "㱿/02.png"
+    "㱿/02.png",
+    "㱿/03.png",
+    "㱿/04.png",
+    "㱿/05.png",
+    "㱿/06.png",
+    "㱿/07.png",
+    "㱿/08.png",
+    "㱿/09.png",
+    "㱿/10.png"
+   ],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": ""
+    }
    ]
   },
   "冬": {
@@ -80964,11 +80978,7 @@
    ],
    "photos": [
     {
-     "file": "02.jpg",
-     "caption": ""
-    },
-    {
-     "file": "02.png",
+     "file": "01.jpg",
      "caption": ""
     }
    ]
@@ -81155,7 +81165,7 @@
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "西漢帶圈陶屋模型"
     }
    ]
   },
@@ -81207,7 +81217,7 @@
   },
   "㕟": {
    "doc": "卷十一  竹",
-   "variants": "𠜐嘳欳𠣠𠷝𠿥𡃪𢼾𠣱喟",
+   "variants": "𠜐",
    "files": [
     "㕟/01.png",
     "㕟/02.png",
@@ -81216,7 +81226,7 @@
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "江西龍虎山崖墓竹編盤（東周）"
     }
    ]
   },
@@ -106471,6 +106481,61 @@
      "caption": "藜蘆"
     }
    ]
+  },
+  "罱": {
+   "doc": "卷十一  竹",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": ""
+    }
+   ]
+  },
+  "穀": {
+   "doc": "卷十一  竹",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "穀粒結構圖"
+    }
+   ]
+  },
+  "鷇": {
+   "doc": "卷十一  竹",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": ""
+    }
+   ]
+  },
+  "幄": {
+   "doc": "卷十一  竹",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "北魏墓毡帐模型"
+    }
+   ]
+  },
+  "𦳋": {
+   "doc": "卷十一  竹",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "蒯草"
+    }
+   ]
   }
  },
  "炙": {
@@ -106665,7 +106730,7 @@
   "㕟": [
    {
     "file": "photos/㕟/01.jpg",
-    "caption": ""
+    "caption": "江西龍虎山崖墓竹編盤（東周）"
    }
   ],
   "㕱": [
@@ -109331,7 +109396,7 @@
   "屋": [
    {
     "file": "photos/屋/01.jpg",
-    "caption": ""
+    "caption": "西漢帶圈陶屋模型"
    }
   ],
   "屍": [
@@ -112891,7 +112956,7 @@
   "穀": [
    {
     "file": "photos/穀/01.jpg",
-    "caption": ""
+    "caption": "穀粒結構圖"
    }
   ],
   "穇": [
@@ -113467,10 +113532,6 @@
   "罱": [
    {
     "file": "photos/罱/01.jpg",
-    "caption": "穀粒結構圖"
-   },
-   {
-    "file": "photos/罱/02.jpg",
     "caption": ""
    }
   ],
@@ -125252,11 +125313,7 @@
   ],
   "南": [
    {
-    "file": "photos/南/02.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/南/02.png",
+    "file": "photos/南/01.jpg",
     "caption": ""
    }
   ],
@@ -125668,6 +125725,12 @@
    {
     "file": "photos/冉/02.jpg",
     "caption": "藜蘆"
+   }
+  ],
+  "㱿": [
+   {
+    "file": "photos/㱿/01.jpg",
+    "caption": ""
    }
   ]
  }

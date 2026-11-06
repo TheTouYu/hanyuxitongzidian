@@ -1,0 +1,41 @@
+{
+ "char": "𥧊",
+ "head": "𥧊（窟）",
+ "pinyin": "kū",
+ "aliases": [
+  "窟"
+ ],
+ "bus": {
+  "num": 66,
+  "name": "南"
+ },
+ "level": 3,
+ "parent": "屋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《龍龕》：“舊藏作窟。”"
+   ],
+   "text": "《龍龕》：“舊藏作窟。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：窟口向天，內空如殼（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十一 竹",
+     "ch": "卷十一竹",
+     "label": "卷十一 竹"
+    }
+   ]
+  }
+ ]
+}
