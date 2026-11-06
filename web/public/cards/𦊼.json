@@ -1,0 +1,36 @@
+{
+ "char": "𦊼",
+ "head": "𦊼",
+ "pinyin": "lǜ",
+ "aliases": [],
+ "bus": {
+  "num": 62,
+  "name": "呂"
+ },
+ "level": 3,
+ "parent": "呂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“罔也。”《字彙》：“重網也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「攏離」取「攏」：網目重重相攏，一重裹一重（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

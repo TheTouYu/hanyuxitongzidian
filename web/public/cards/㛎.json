@@ -1,0 +1,38 @@
+{
+ "char": "㛎",
+ "head": "㛎（𡜅）",
+ "pinyin": "lǚ",
+ "aliases": [
+  "𡜅"
+ ],
+ "bus": {
+  "num": 62,
+  "name": "呂"
+ },
+ "level": 3,
+ "parent": "呂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“婦人醜皃。”《集韻》：“醜皃。或作𡜅。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「攏離」取「離」：肌不附骨，節節相離而外見（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

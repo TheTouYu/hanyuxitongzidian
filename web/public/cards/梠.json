@@ -1,0 +1,42 @@
+{
+ "char": "梠",
+ "head": "梠",
+ "pinyin": "lǚ",
+ "aliases": [],
+ "bus": {
+  "num": 62,
+  "name": "呂"
+ },
+ "level": 3,
+ "parent": "呂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“楣也。从木呂聲。力舉切。”屋簷。《廣韻》：“桷端連綿木名。”《博雅》：“楣、簷、欞皆謂之梠。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「攏離」取「攏」：椽桷盡攏於檐下一木，如骨節之相湊（推）。"
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "梠"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所屬卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "t": "卷十 予",
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}
