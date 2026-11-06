@@ -178,7 +178,7 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
       const pstrip=pg.length?`<div class="gscroll">${pg.map((f,i)=>`<figure><img loading="lazy" src="${pgsrc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:'';
       const pb=(Array.isArray(p.bus)?p.bus[0]:(p.bus||{}))||{};
       const inner=await cardBody(d.parent,p,{noPhoto:true});
-      return `<div class="sec rootbox"><h3>字根「${esc(d.parent)}」</h3>${inner}</div>`;
+      return `<div class="sec rootbox"><h3>字根「${esc(d.parentHead||d.parent)}」</h3>${inner}</div>`;
     }catch(e){ return '<div class="sec rootbox"><h3>字根「'+esc(d.parent)+'」</h3><p style="color:#c00">ERR '+esc(String(e&&e.stack||e))+'</p></div>'; } })() : '';
   const LVN={1:'一级字根',2:'二级字根',3:'谐声字'};
   const lvlTag=(()=>{const s=d.grade||(d.rootLevel?({1:'一级字根',2:'二级字根',3:'谐声字'}[d.rootLevel]||''):(LVN[d.level]||''));return s?`<span class="tag">${s}</span>`:'';})();
