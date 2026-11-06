@@ -1,0 +1,39 @@
+{
+ "char": "焀",
+ "head": "焀",
+ "pinyin": "hú",
+ "aliases": [],
+ "bus": {
+  "num": 67,
+  "name": "谷"
+ },
+ "level": 3,
+ "parent": "谷",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《玉篇》：“火皃。”"
+   ],
+   "text": "《玉篇》：“火皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：火炎上出，焰口豁張（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十一  竹",
+     "ch": "卷十一竹",
+     "label": "卷十一 竹"
+    }
+   ]
+  }
+ ]
+}
