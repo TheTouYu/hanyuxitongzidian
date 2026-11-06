@@ -1,0 +1,35 @@
+{
+ "char": "𨑦",
+ "head": "𨑦",
+ "pinyin": "xú",
+ "aliases": [],
+ "bus": {
+  "num": 60,
+  "name": "予"
+ },
+ "level": 3,
+ "parent": "予",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“見周宣王《石鼓文》注：𨑦，今作徐。”《正字通》：“譌字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：徐行相續不絕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

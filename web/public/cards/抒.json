@@ -1,0 +1,35 @@
+{
+ "char": "抒",
+ "head": "抒",
+ "pinyin": "shū",
+ "aliases": [],
+ "bus": {
+  "num": 60,
+  "name": "予"
+ },
+ "level": 3,
+ "parent": "予",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“挹也。从手予聲。神與切。”舀出；汲出。《廣韻》：“除也。”《揚子·方言》：“解也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：以手挹取，收水而出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}

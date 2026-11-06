@@ -1,0 +1,37 @@
+{
+ "char": "𨥤",
+ "head": "𨥤（鋅）",
+ "pinyin": "shū",
+ "aliases": [
+  "鋅"
+ ],
+ "bus": {
+  "num": 60,
+  "name": "予"
+ },
+ "level": 3,
+ "parent": "予",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“舊藏作舒。”zì，《類篇》：“祖似切，剛也。或作鋅。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：舊藏借為舒展，氣散而緩（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 予",
+   "links": [
+    {
+     "ch": "卷十予",
+     "label": "卷十 予"
+    }
+   ]
+  }
+ ]
+}
