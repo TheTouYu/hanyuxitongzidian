@@ -1,0 +1,42 @@
+{
+ "char": "惧",
+ "head": "惧",
+ "pinyin": "jù",
+ "aliases": [],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "𧇽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《戰國古文》：“从心，{{shiyi/01.png}}聲。疑懅之異文。《集韻》：‘懅，懼也’。”",
+   "gdir": "inline/惧"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：心生怯則氣聚於胸而不散（推）。"
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "惧"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
+    {
+     "ch": "卷十𦥑",
+     "label": "卷十 𦥑"
+    }
+   ]
+  }
+ ]
+}
