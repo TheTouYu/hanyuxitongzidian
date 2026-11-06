@@ -79822,7 +79822,7 @@
   },
   "合": {
    "doc": "卷十三  合",
-   "variants": "亼",
+   "variants": "合亼",
    "files": [
     "合/01.png",
     "合/02.png",
@@ -79847,13 +79847,13 @@
     },
     {
      "file": "02.jpg",
-     "caption": "牛脖子下挂的竹制鈴鐺"
+     "caption": "合歡花（小葉夜合）"
     }
    ]
   },
   "龕": {
    "doc": "卷十三  合",
-   "variants": "",
+   "variants": "龕",
    "files": [
     "龕/01.png",
     "龕/02.png",
@@ -79862,7 +79862,7 @@
   },
   "翕": {
    "doc": "卷十三  合",
-   "variants": "",
+   "variants": "翕",
    "files": [
     "翕/01.png",
     "翕/02.png",
@@ -79872,37 +79872,41 @@
    "photos": [
     {
      "file": "01.png",
-     "caption": ""
+     "caption": "斂翅俯衝的游隼"
     }
    ]
   },
   "荅": {
    "doc": "卷十三  合",
-   "variants": "答",
+   "variants": "荅答畗𣌭",
    "files": [
     "荅/01.png",
-    "荅/02.png",
-    "荅/03.png"
+    "荅/02.png"
    ],
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "牛脖子下挂的竹制鈴鐺"
     },
     {
-     "file": "02.jpg",
-     "caption": ""
+     "file": "02.png",
+     "caption": "褡褳"
     }
    ]
   },
   "答": {
    "doc": "卷十三  合",
-   "variants": "答",
-   "alias": "荅",
+   "variants": "答畣",
    "files": [
-    "荅/01.png",
-    "荅/02.png",
-    "荅/03.png"
+    "答/01.png",
+    "答/02.png",
+    "答/03.png"
+   ],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "豆莢（豌豆）"
+    }
    ]
   },
   "夾": {
@@ -108683,7 +108687,7 @@
    },
    {
     "file": "photos/合/02.jpg",
-    "caption": "牛脖子下挂的竹制鈴鐺"
+    "caption": "合歡花（小葉夜合）"
    }
   ],
   "吏": [
@@ -113755,7 +113759,7 @@
   "翕": [
    {
     "file": "photos/翕/01.png",
-    "caption": ""
+    "caption": "斂翅俯衝的游隼"
    }
   ],
   "翟": [
@@ -114323,11 +114327,11 @@
   "荅": [
    {
     "file": "photos/荅/01.jpg",
-    "caption": ""
+    "caption": "牛脖子下挂的竹制鈴鐺"
    },
    {
-    "file": "photos/荅/02.jpg",
-    "caption": ""
+    "file": "photos/荅/02.png",
+    "caption": "褡褳"
    }
   ],
   "荇": [
@@ -125870,6 +125874,12 @@
    {
     "file": "photos/夸/01.jpg",
     "caption": ""
+   }
+  ],
+  "答": [
+   {
+    "file": "photos/答/01.jpg",
+    "caption": "豆莢（豌豆）"
    }
   ]
  }
