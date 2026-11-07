@@ -30,6 +30,8 @@ for s in head.get("sections", []):
                     err.append(f"{bu}: 字族表有空行")
                     continue
                 ch = r[0].split("（")[0].split("(")[0]
+                if ch == bu:
+                    continue  # 部头自身列在族表首行（如 兜/亙/虢）：不当作族卡校验
                 members[ch] = bu
 for e in links:
     p = os.path.join(C, e + ".json")
