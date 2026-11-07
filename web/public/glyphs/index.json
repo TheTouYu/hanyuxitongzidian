@@ -78285,20 +78285,6 @@
     "句/13.png",
     "句/14.png",
     "句/15.png"
-   ],
-   "photos": [
-    {
-     "file": "01.jpg",
-     "caption": "蔞葉"
-    },
-    {
-     "file": "02.jpg",
-     "caption": "鮈"
-    },
-    {
-     "file": "03.jpg",
-     "caption": "鼱鼩"
-    }
    ]
   },
   "勾": {
@@ -107168,6 +107154,39 @@
     {
      "file": "01.jpg",
      "caption": "鵽鳩"
+    }
+   ]
+  },
+  "蒟": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "蔞葉"
+    }
+   ]
+  },
+  "鮈": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "鮈"
+    }
+   ]
+  },
+  "鼩": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "鼱鼩"
     }
    ]
   }
