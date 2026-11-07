@@ -1,0 +1,42 @@
+{
+ "char": "駶",
+ "head": "駶",
+ "aliases": [],
+ "pinyin": "jú",
+ "bus": {
+  "num": 89,
+  "name": "丩"
+ },
+ "level": 3,
+ "parent": "局",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“馬立不定。”",
+   "paras": [
+    "《廣韻》：“馬立不定。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：馬立而決然不定（推）。",
+   "paras": [
+    "j「聚决」取「决」：馬立而決然不定（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十六  犬",
+     "ch": "卷十六犬",
+     "label": "卷十六 犬"
+    }
+   ]
+  }
+ ]
+}
