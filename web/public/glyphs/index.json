@@ -80769,7 +80769,7 @@
   },
   "斬": {
    "doc": "卷十五  車",
-   "variants": "斬",
+   "variants": "",
    "files": [
     "斬/01.png",
     "斬/02.png",
@@ -80781,7 +80781,7 @@
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "雙轅銅斧車（東漢）"
     }
    ]
   },
@@ -106900,6 +106900,39 @@
      "caption": "驢背上負架"
     }
    ]
+  },
+  "蛼": {
+   "doc": "卷十五  車",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "車螯"
+    }
+   ]
+  },
+  "蓮": {
+   "doc": "卷十五  車",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "蓮"
+    }
+   ]
+  },
+  "漸": {
+   "doc": "卷十五  車",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "錢塘潮"
+    }
+   ]
   }
  },
  "炙": {
@@ -110542,7 +110575,7 @@
   "斬": [
    {
     "file": "photos/斬/01.jpg",
-    "caption": ""
+    "caption": "雙轅銅斧車（東漢）"
    }
   ],
   "斲": [
@@ -112054,7 +112087,7 @@
   "漸": [
    {
     "file": "photos/漸/01.jpg",
-    "caption": ""
+    "caption": "錢塘潮"
    }
   ],
   "潮": [
@@ -114980,7 +115013,7 @@
   "蓮": [
    {
     "file": "photos/蓮/01.jpg",
-    "caption": ""
+    "caption": "蓮"
    }
   ],
   "蓯": [
@@ -115618,7 +115651,7 @@
   "蛼": [
    {
     "file": "photos/蛼/01.jpg",
-    "caption": ""
+    "caption": "車螯"
    }
   ],
   "蛾": [
@@ -124726,11 +124759,11 @@
   "卷十五車": [
    {
     "file": "photos/卷十五車/01.jpg",
-    "caption": ""
+    "caption": "殷墟發掘出的車馬坑"
    },
    {
     "file": "photos/卷十五車/02.jpg",
-    "caption": ""
+    "caption": "軺車驂駕圖（東漢畫像磚）"
    }
   ],
   "卷三十弓": [

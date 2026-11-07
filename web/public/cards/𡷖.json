@@ -1,0 +1,42 @@
+{
+ "char": "𡷖",
+ "head": "𡷖",
+ "aliases": [],
+ "pinyin": "chē",
+ "bus": {
+  "num": 87,
+  "name": "車"
+ },
+ "level": 3,
+ "parent": "車",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“昌遮切，音車。山名。”",
+   "paras": [
+    "《集韻》：“昌遮切，音車。山名。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：山峯刺天，高而立名（推）。",
+   "paras": [
+    "ch「刺持」取「刺」：山峯刺天，高而立名（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十五  車",
+     "ch": "卷十五車",
+     "label": "卷十五 車"
+    }
+   ]
+  }
+ ]
+}
