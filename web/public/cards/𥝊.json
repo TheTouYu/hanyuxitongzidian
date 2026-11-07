@@ -1,0 +1,43 @@
+{
+ "char": "𥝊",
+ "head": "𥝊",
+ "pinyin": "fèi",
+ "aliases": [],
+ "bus": {
+  "num": 103,
+  "name": "爻"
+ },
+ "level": 3,
+ "parent": "𦥯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《龍龕》：“扶味切。獸名。”"
+   ],
+   "text": "《龍龕》：“扶味切。獸名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "f「附分」取「分」：獸名借音，義與禾分（推）。"
+   ],
+   "text": "f「附分」取「分」：獸名借音，義與禾分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十  角",
+     "ch": "卷二十角",
+     "label": "卷二十 角"
+    }
+   ]
+  }
+ ]
+}
