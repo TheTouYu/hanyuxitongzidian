@@ -67212,7 +67212,7 @@
    ]
   },
   "嗣": {
-   "doc": "卷卅二  今",
+   "doc": "卷十六  犬",
    "variants": "",
    "files": [
     "嗣/01.png",
@@ -67227,7 +67227,8 @@
     "嗣/10.png",
     "嗣/11.png",
     "嗣/12.png",
-    "嗣/13.png"
+    "嗣/13.png",
+    "嗣/14.png"
    ]
   },
   "栅": {
@@ -78422,7 +78423,7 @@
    ],
    "photos": [
     {
-     "file": "01.png",
+     "file": "01.jpg",
      "caption": "魏晉畫像磚《牽馬圖》"
     }
    ]
@@ -78455,7 +78456,7 @@
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "牛角制的珓卦"
     }
    ]
   },
@@ -78558,7 +78559,7 @@
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "老農用竹筒做的勺飼牛"
     }
    ]
   },
@@ -106990,6 +106991,86 @@
      "caption": ""
     }
    ]
+  },
+  "筘": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "布筘"
+    }
+   ]
+  },
+  "筶": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "珓（杯珓）"
+    }
+   ]
+  },
+  "鯌": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "鯌子魚"
+    }
+   ]
+  },
+  "笥": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "素漆長方笥（秦）"
+    }
+   ]
+  },
+  "蛓": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "蛓（洋辣子）"
+    }
+   ]
+  },
+  "茩": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "茩（草決明）"
+    }
+   ]
+  },
+  "骺": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "骺（骨端）"
+    }
+   ]
+  },
+  "𥒖": {
+   "doc": "卷十六  犬",
+   "variants": "",
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "𥒖麟（金翅鳥）"
+    }
+   ]
   }
  },
  "炙": {
@@ -108968,7 +109049,7 @@
   "司": [
    {
     "file": "photos/司/01.jpg",
-    "caption": ""
+    "caption": "老農用竹筒做的勺飼牛"
    }
   ],
   "各": [
@@ -109020,7 +109101,7 @@
   "告": [
    {
     "file": "photos/告/01.jpg",
-    "caption": ""
+    "caption": "牛角制的珓卦"
    }
   ],
   "周": [
@@ -110467,7 +110548,7 @@
   ],
   "扣": [
    {
-    "file": "photos/扣/01.png",
+    "file": "photos/扣/01.jpg",
     "caption": "魏晉畫像磚《牽馬圖》"
    }
   ],
@@ -113556,11 +113637,7 @@
   "筘": [
    {
     "file": "photos/筘/01.jpg",
-    "caption": "牛角制的珓卦"
-   },
-   {
-    "file": "photos/筘/02.jpg",
-    "caption": ""
+    "caption": "布筘"
    }
   ],
   "筢": [
@@ -113578,11 +113655,7 @@
   "筶": [
    {
     "file": "photos/筶/01.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/筶/02.png",
-    "caption": ""
+    "caption": "珓（杯珓）"
    }
   ],
   "箅": [
@@ -114584,7 +114657,7 @@
   "茩": [
    {
     "file": "photos/茩/01.jpg",
-    "caption": ""
+    "caption": "茩（草決明）"
    }
   ],
   "茮": [
@@ -117576,7 +117649,7 @@
   "骺": [
    {
     "file": "photos/骺/01.jpg",
-    "caption": ""
+    "caption": "骺（骨端）"
    }
   ],
   "髊": [
@@ -117834,7 +117907,7 @@
   "鯌": [
    {
     "file": "photos/鯌/01.jpg",
-    "caption": ""
+    "caption": "鯌子魚"
    }
   ],
   "鯔": [
@@ -119428,7 +119501,7 @@
   "𥒖": [
    {
     "file": "photos/𥒖/01.jpg",
-    "caption": ""
+    "caption": "𥒖麟（金翅鳥）"
    }
   ],
   "𥒠": [
@@ -126159,6 +126232,12 @@
    {
     "file": "photos/句/03.jpg",
     "caption": "鼱鼩"
+   }
+  ],
+  "蛓": [
+   {
+    "file": "photos/蛓/01.jpg",
+    "caption": "蛓（洋辣子）"
    }
   ]
  }

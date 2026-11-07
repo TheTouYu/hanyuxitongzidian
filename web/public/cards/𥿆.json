@@ -1,0 +1,42 @@
+{
+ "char": "𥿆",
+ "head": "𥿆",
+ "aliases": [],
+ "pinyin": "cí",
+ "bus": {
+  "num": 90,
+  "name": "司"
+ },
+ "level": 3,
+ "parent": "司",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“補也。”",
+   "paras": [
+    "《玉篇》：“補也。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：補者針刺而線隨（推）。",
+   "paras": [
+    "ch「刺持」取「刺」：補者針刺而線隨（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十六  犬",
+     "ch": "卷十六犬",
+     "label": "卷十六 犬"
+    }
+   ]
+  }
+ ]
+}

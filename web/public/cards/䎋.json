@@ -1,0 +1,42 @@
+{
+ "char": "䎋",
+ "head": "䎋",
+ "aliases": [],
+ "pinyin": "kào",
+ "bus": {
+  "num": 90,
+  "name": "告"
+ },
+ "level": 3,
+ "parent": "告",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“口到切，音靠。飛也。”",
+   "paras": [
+    "《字彙》：“口到切，音靠。飛也。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：飛者控翼而上（推）。",
+   "paras": [
+    "k「口控」取「控」：飛者控翼而上（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷十六  犬",
+     "ch": "卷十六犬",
+     "label": "卷十六 犬"
+    }
+   ]
+  }
+ ]
+}
