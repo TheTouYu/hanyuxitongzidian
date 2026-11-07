@@ -1,0 +1,43 @@
+{
+ "char": "虠",
+ "head": "虠（號）",
+ "pinyin": "jiāo",
+ "aliases": [
+  "號"
+ ],
+ "bus": {
+  "num": 105,
+  "name": "交"
+ },
+ "level": 3,
+ "parent": "交",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《玉篇》：“音姣。虎聲。”háo，《正字通》：“俗號字。”"
+   ],
+   "text": "《玉篇》：“音姣。虎聲。”háo，《正字通》：“俗號字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [],
+   "text": "j「聚决」取「决」：兩相絞勒而決絕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十  角",
+     "ch": "卷二十角",
+     "label": "卷二十 角"
+    }
+   ]
+  }
+ ]
+}
