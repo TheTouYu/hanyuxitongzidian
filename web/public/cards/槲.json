@@ -1,0 +1,41 @@
+{
+ "char": "槲",
+ "head": "槲（𥡿）",
+ "pinyin": "hú",
+ "aliases": [
+  "𥡿"
+ ],
+ "bus": {
+  "num": 102,
+  "name": "角"
+ },
+ "level": 3,
+ "parent": "角",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [],
+   "text": "《集韻》「槲樕，木名」——其實有斗，堅如角質。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [],
+   "text": "j「聚决」取「聚」：其實有斗，聚結如角（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十  角",
+     "ch": "卷二十角",
+     "label": "卷二十 角"
+    }
+   ]
+  }
+ ]
+}
