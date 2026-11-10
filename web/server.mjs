@@ -357,7 +357,7 @@ function familyInfo(ch) {
   const ci = claimIdx().byChar || {};
   const vmap = loadVariantMap();
   return fam.map((c) => {
-    const alt = vmap[c];
+    const alt = variantOf(c);
     const hasEntry = !!(
       (ci[c] && ci[c].length) ||
       (alt && ci[alt] && ci[alt].length) ||
@@ -373,7 +373,7 @@ function glyphInfo(ch) {
   let e = idx.chars && idx.chars[key];
   let ph = (idx.photos && idx.photos[key]) || [];
   if ((!e || !Array.isArray(e.files) || !e.files.length) && !ph.length) {
-    const alt = loadVariantMap()[ch];
+    const alt = variantOf(ch);
     if (alt && alt !== ch) {
       e = idx.chars && idx.chars[alt];
       ph = (idx.photos && idx.photos[alt]) || [];
@@ -832,7 +832,7 @@ async function levelOf(ch, direct) {
   const z = loadZigenIndex();
   // 原稿按繁体立字头，用户多按简体提问：先映射到繁体再判级，
   // 否则 zigen.json / 字形库查不到键，分级栏就空了。
-  const aliasCh = loadVariantMap()[ch];
+  const aliasCh = variantOf(ch);
   if (aliasCh && aliasCh !== ch) ch = aliasCh;
   const bu = z.byName && z.byName[ch];
   if (bu) {
@@ -995,7 +995,7 @@ async function askModelForCard(ch, question, context, meter) {
 const CARD_DIR = join(PUBLIC, 'cards');
 const presetCache = new Map();
 function loadPresetCard(ch) {
-  const alias = loadVariantMap()[ch] || ch;
+  const alias = variantOf(ch) || ch;
   for (const key of new Set([ch, alias])) {
     const p = join(CARD_DIR, key + '.json');
     try { if (existsSync(p)) return JSON.parse(readFileSync(p, 'utf8')); } catch (e) { log('字卡读取失败', key, e.message); }
