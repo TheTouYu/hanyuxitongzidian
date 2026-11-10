@@ -1,0 +1,38 @@
+{
+ "char": "艂",
+ "head": "艂（舽）",
+ "pinyin": "féng",
+ "level": 3,
+ "parent": "夆",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [
+  "舽"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“舽字之譌。”舽，《廣韻》：“舽舡（chuán），船皃。”《集韻》：“舽艭，船也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "不取義：訛字，不系於聲母擬態。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}

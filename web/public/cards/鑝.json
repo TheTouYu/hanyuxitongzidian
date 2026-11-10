@@ -1,0 +1,37 @@
+{
+ "char": "鑝",
+ "head": "鑝（纄）",
+ "pinyin": "péng",
+ "level": 3,
+ "parent": "夆",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [
+  "纄"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“首著兜鉾也。《莊子》：‘鑝頭’。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：兜鉾拼首而合，拼而後著，故鑝為兜鉾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}

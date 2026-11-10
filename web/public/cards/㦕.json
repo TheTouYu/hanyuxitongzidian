@@ -1,0 +1,35 @@
+{
+ "char": "㦕",
+ "head": "㦕",
+ "pinyin": "lóng",
+ "level": 3,
+ "parent": "㚅",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音集韻》：“力中切，音隆。意也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：意拢而中藏，拢而後高，故㦕為意（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}

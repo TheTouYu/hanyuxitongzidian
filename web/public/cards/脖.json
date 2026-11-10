@@ -1,0 +1,35 @@
+{
+ "char": "脖",
+ "head": "脖",
+ "pinyin": "bō",
+ "level": 3,
+ "parent": "孛",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“脖胦，齊也。”肚臍。今指脖子，頸、頭和軀干相連的部分。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：氣閉於臍而鼓，閉而後脖，故脖為脖胦（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}

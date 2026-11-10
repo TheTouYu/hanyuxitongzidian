@@ -1,0 +1,35 @@
+{
+ "char": "炐",
+ "head": "炐",
+ "pinyin": "pàng",
+ "level": 3,
+ "parent": "丰",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《六書故》：“完物遇火張起也。”《集韻》：“火聲。”fēng，《字彙補》：“與烽同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：完物拼火而張起，拼而後闢，故炐為火脹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}

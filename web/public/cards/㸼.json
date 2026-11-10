@@ -1,0 +1,35 @@
+{
+ "char": "㸼",
+ "head": "㸼（犎）",
+ "pinyin": "fēng",
+ "level": 3,
+ "parent": "夆",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“犎，牛名。領上肉㩧胅起如橐駝。或从夆。”單峰駝。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：牛附脊而分峰，附而後隆起，故㸼為牛名（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}

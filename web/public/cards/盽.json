@@ -1,0 +1,37 @@
+{
+ "char": "盽",
+ "head": "盽（䀱）",
+ "pinyin": "fēng",
+ "level": 3,
+ "parent": "丰",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [
+  "䀱"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䀱，目𥉻。或从丰。”察視。衺視。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：目睛附眶而分視，附而後察，故盽為察視（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}
