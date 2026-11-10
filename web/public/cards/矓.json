@@ -1,0 +1,36 @@
+{
+ "char": "矓",
+ "head": "矓",
+ "pinyin": "lóng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“矇矓”，同“朦朧”。模糊不清。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：目為翳所攏，視物昏暗（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

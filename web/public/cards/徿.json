@@ -1,0 +1,36 @@
+{
+ "char": "徿",
+ "head": "徿",
+ "pinyin": "lòng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“行不正。”lǒng，《集韻》：“徿㣚，直行。”應同“躘”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：行步偏離正道，故曰不正（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

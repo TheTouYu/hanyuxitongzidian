@@ -1,0 +1,36 @@
+{
+ "char": "䮾",
+ "head": "䮾",
+ "pinyin": "lóng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“步公切。䮾䮾，充實皃。” lòng，《集韻》：“重騎。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：馬力攏聚於身，充實而疾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

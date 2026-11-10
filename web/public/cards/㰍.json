@@ -1,0 +1,36 @@
+{
+ "char": "㰍",
+ "head": "㰍",
+ "pinyin": "lóng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“房室之疏也。从木龍聲。盧紅切。”窗櫺。《廣雅》：“牢也。”同“櫳”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：疏木相離成格，空格透光（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "贚",
+ "head": "贚",
+ "pinyin": "lòng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“貧也。又龍皃。”《集韻》：“財貧也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：財貨離散而空，家遂貧（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}
