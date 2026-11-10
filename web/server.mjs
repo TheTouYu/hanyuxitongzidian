@@ -1064,7 +1064,7 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   }
 
   // 这个字在原稿里没有独立的字形行（只是字族成员）时，退一步用字根的字形与配图
-  if (!glyph && rootInfo) {
+  if (!glyph && rootInfo && !d.noRoot) {
     const g = glyphInfo(rootInfo.root);
     if (g) {
       glyph = g;
