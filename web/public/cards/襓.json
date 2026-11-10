@@ -1,0 +1,40 @@
+{
+ "char": "襓",
+ "head": "襓",
+ "pinyin": "ráo",
+ "aliases": [],
+ "bus": {
+  "num": 111,
+  "name": "堯"
+ },
+ "level": 3,
+ "parent": "堯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《玉篇》：“劔衣也。”劍套。"
+   ],
+   "text": "《玉篇》：“劔衣也。”劍套。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：劍衣柔軟而裹堅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿一  方",
+     "ch": "卷廿一方",
+     "label": "卷廿一 方"
+    }
+   ]
+  }
+ ]
+}
