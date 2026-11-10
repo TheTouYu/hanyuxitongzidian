@@ -47,7 +47,7 @@ function renderCard(ch){
     for (const e of ex){ const g2=glyphInfo(e.char); if(!g2 || !g2.files || !g2.files.length) continue;
       h+='<p><b>'+escH(e.label||e.char)+'</b></p><div class="gs">'+g2.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="字形'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; }
   } catch(e){}
-  try { const gi2=glyphInfo(d.char); const ps=(gi2&&gi2.photos)||[]; if (ps.length){ _photosH='<h3>插图</h3><div class="gs">'+ps.map(p=>{const f=(typeof p==='string')?p:(p.file||p.name||'');const cap=(typeof p==='object'&&p.caption)?p.caption:'';return '<figure><img src="'+escH((String(f).startsWith('/')?f:('/glyphs/photos/'+encodeURIComponent(d.char)+'/'+encodeURIComponent(f)))+'?v=20261107c')+'" alt="'+escH(cap||'插图')+'" style="height:170px"><figcaption>'+escH(cap||'')+'</figcaption></figure>';}).join('')+'</div>'; } } catch(e){}
+  try { const gi2=glyphInfo(d.char); const ps=(gi2&&gi2.photos)||[]; if (ps.length){ _photosH='<h3>插图</h3><div class="gs">'+ps.map(p=>{const f=(typeof p==='string')?p:(p.file||p.name||'');const cap=(typeof p==='object'&&p.caption)?p.caption:'';return '<figure><img src="'+escH((String(f).startsWith('/')?f:('/glyphs/photos/'+encodeURIComponent(d.char)+'/'+encodeURIComponent(f)))+'?v=20261110a')+'" alt="'+escH(cap||'插图')+'" style="height:170px"><figcaption>'+escH(cap||'')+'</figcaption></figure>';}).join('')+'</div>'; } } catch(e){}
   try {
     const _hasZigen=(d.sections||[]).some(x=>['zigen','rootembed'].includes(x.key)||String(x.label||'').startsWith('字根「'));
     if (d.parent && !_hasZigen) {

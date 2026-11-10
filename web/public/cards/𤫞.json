@@ -1,0 +1,35 @@
+{
+ "char": "𤫞",
+ "head": "𤫞",
+ "pinyin": "tián",
+ "level": 3,
+ "parent": "寶",
+ "bus": {
+  "num": 124,
+  "name": "貝部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“音田。又音佃。”同“𤤦”。美玉。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：玉藏於石，剖之而突現，故𤫞為美玉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
+    {
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}
