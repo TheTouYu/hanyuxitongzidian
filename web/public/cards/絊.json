@@ -1,0 +1,36 @@
+{
+ "char": "絊",
+ "head": "絊",
+ "pinyin": "zuì",
+ "aliases": [],
+ "bus": {
+  "num": 126,
+  "name": "本部"
+ },
+ "level": 3,
+ "parent": "本",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇韻》：“音最。鮮潔也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：絲縷總束而練，練去垢膩則鮮潔，故絊為鮮潔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十四 貝",
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}

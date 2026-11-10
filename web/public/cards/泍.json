@@ -1,0 +1,39 @@
+{
+ "char": "泍",
+ "head": "泍（泎）",
+ "pinyin": "bēn",
+ "aliases": [
+  "泎"
+ ],
+ "bus": {
+  "num": 126,
+  "name": "本部"
+ },
+ "level": 3,
+ "parent": "本",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“水急。”bèn，《集韻》：“泉湧皃。”《正字通》：“泎、泍，並俗字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：泉自根隙剝土而出，湧而急，故泍為水急（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十四 貝",
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}

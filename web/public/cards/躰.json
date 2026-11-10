@@ -1,0 +1,39 @@
+{
+ "char": "躰",
+ "head": "躰（骵軆）",
+ "pinyin": "tǐ",
+ "aliases": [
+  "骵",
+  "軆"
+ ],
+ "bus": {
+  "num": 126,
+  "name": "本部"
+ },
+ "level": 3,
+ "parent": "本",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“俗軆字。”軀體。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：身之幹塗附四支，塗而後成體，故躰為軀體（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十四 貝",
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}
