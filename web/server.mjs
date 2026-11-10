@@ -1500,6 +1500,25 @@ const server = createServer(async (req, res) => {
   }
 
   try {
+    const _seg = decodeURIComponent(path.replace(/^\/+|\/+$/g, ''));
+    if (_seg && !_seg.includes('/') && !/\./.test(_seg) && Array.from(_seg).length <= 3) {
+      let _t = null;
+      if (existsSync(join(CARD_DIR, _seg + '.json'))) _t = _seg;
+      if (!_t) {
+        const idx = JSON.parse(readFileSync(join(CARD_DIR, 'index.json'), 'utf8'));
+        const items = Array.isArray(idx) ? idx : (idx.items || []);
+        const hit = items.find((it) => it.c === _seg || (it.a || []).includes(_seg));
+        if (hit && existsSync(join(CARD_DIR, hit.c + '.json'))) _t = hit.c;
+      }
+      if (!_t) {
+        const vs = (() => { try { return JSON.parse(readFileSync(join(PUBLIC, 'variants.json'), 'utf8'))[_seg] || null; } catch (e) { return null; } })();
+        if (vs) { const arr = Array.isArray(vs) ? vs : [vs]; _t = arr.find((x) => existsSync(join(CARD_DIR, x + '.json'))) || null; }
+      }
+      if (_t) { res.writeHead(302, { Location: '/card/' + encodeURIComponent(_t) }); return res.end(); }
+    }
+  } catch (e) {}
+
+  try {
     if (path === '/api/health') {
       const tree = await getTree();
       return sendJson(res, 200, { ok: true, pkc: '0.2.0rc5', claims: tree.claims, mode: MODE });
