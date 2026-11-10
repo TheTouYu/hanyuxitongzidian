@@ -1,0 +1,36 @@
+{
+ "char": "鑸",
+ "head": "鑸",
+ "pinyin": "lěi",
+ "aliases": [],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "畾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鍡鑸也。从金壘聲。洛猥切。”坎坷不平。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：車輪離地，顛簸不平（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷二十二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

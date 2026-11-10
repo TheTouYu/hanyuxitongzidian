@@ -1,0 +1,38 @@
+{
+ "char": "絫",
+ "head": "絫（累）",
+ "pinyin": "lěi",
+ "aliases": [
+  "累"
+ ],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "厽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“增也。从厽从糸。絫，十黍之重也。力軌切。”積累。或指十粒黍重。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：絲縷攏聚而增（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷二十二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

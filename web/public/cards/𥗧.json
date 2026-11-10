@@ -1,0 +1,36 @@
+{
+ "char": "𥗧",
+ "head": "𥗧",
+ "pinyin": "xiē",
+ "aliases": [],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "磊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“音蠍。”蠍子。母蠍子負子于背，密密麻麻，故引申指數字“萬”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：母蠍負子，纍纍相續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷二十二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "㜼",
+ "head": "㜼（姪）",
+ "pinyin": "zhí",
+ "aliases": [],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "疉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“姪，《說文》：‘兄之女也。’或作㜼。”兄弟之女。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：親屬總稱，兄女曰姪（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷二十二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

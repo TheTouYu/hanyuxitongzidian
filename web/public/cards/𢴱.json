@@ -1,0 +1,38 @@
+{
+ "char": "𢴱",
+ "head": "𢴱（摞）",
+ "pinyin": "léi",
+ "aliases": [
+  "摞"
+ ],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "厽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“同摞。《博雅》：‘理也’。”條理。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：物纍而離析，理之使有條（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷二十二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "蘽",
+ "head": "蘽（𣡺）",
+ "pinyin": "lěi",
+ "aliases": [
+  "𣡺"
+ ],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "畾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“木也。从木藟聲。{{shiyi/01.png}}，籀文。力軌切。”一種藤類植物。《正字通》：“同藟。”",
+   "gdir": "inline/蘽"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：藤木攏附大樹而生（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷二十二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}
