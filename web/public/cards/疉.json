@@ -17,7 +17,7 @@
   "num": 118,
   "name": "畾"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -148,5 +148,10 @@
     }
    ]
   }
+ ],
+ "parent": "厽",
+ "rootChain": [
+  "厽",
+  "疉"
  ]
 }
