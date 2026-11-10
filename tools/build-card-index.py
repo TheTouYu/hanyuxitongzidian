@@ -22,6 +22,6 @@ for fn in sorted(os.listdir(C)):
         "h":d.get("head") or c,"c":c,"a":d.get("aliases") or [],"p":d.get("pinyin") or "",
         "t":[s.get("label","") for s in d.get("sections",[])],
         "b":b,"n":n or "","lv":d.get("level") or 3,"rl":d.get("rootLevel") or 0,
-        "pr":d.get("parent") or "","rc":[],"rlb":"","rc2":[],"v":rev.get(c,[])})
+        "pr":d.get("parent") or "","rc":d.get("rootChain") or [],"rlb":d.get("rootLabel") or "","rc2":d.get("rootChain2") or [],"v":rev.get(c,[])})
 json.dump(rows,io.open(os.path.join(C,"index.json"),"w",encoding="utf-8"),ensure_ascii=False,separators=(",",":"))
 print("index",len(rows))
