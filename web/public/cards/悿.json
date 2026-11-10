@@ -1,0 +1,36 @@
+{
+ "char": "悿",
+ "head": "悿",
+ "pinyin": "tiǎn",
+ "aliases": [],
+ "bus": {
+  "num": 115,
+  "name": "天"
+ },
+ "level": 3,
+ "parent": "天",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“悿𢣎（tuǎn），心惑。”“悿𢣎，心惛。”膽怯、疑惑。《玉篇》：“弱也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：聞雷猝至，心神昏惑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "掭",
+ "head": "掭",
+ "pinyin": "tiàn",
+ "aliases": [],
+ "bus": {
+  "num": 115,
+  "name": "天"
+ },
+ "level": 3,
+ "parent": "天",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "輕輕撥動。用筆調蘸墨汁。取“舔”為義。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：筆蘸墨汁，如塗抹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}
