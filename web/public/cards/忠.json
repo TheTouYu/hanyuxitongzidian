@@ -1,0 +1,35 @@
+{
+ "char": "忠",
+ "head": "忠",
+ "pinyin": "zhōng",
+ "level": 3,
+ "parent": "中",
+ "bus": {
+  "num": 123,
+  "name": "中部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“敬也。从心中聲。陟弓切。”肅敬。《廣韻》：“無私也。直也。厚也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：心總聚於中，敬而無私，故忠（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

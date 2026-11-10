@@ -1,0 +1,35 @@
+{
+ "char": "舯",
+ "head": "舯",
+ "pinyin": "zhōng",
+ "level": 3,
+ "parent": "中",
+ "bus": {
+  "num": 123,
+  "name": "中部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "造船工程上專指船的中央部分。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：舟之中部總受載重，居中以正，故舯（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

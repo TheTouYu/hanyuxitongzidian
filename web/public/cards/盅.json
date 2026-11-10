@@ -1,0 +1,35 @@
+{
+ "char": "盅",
+ "head": "盅",
+ "pinyin": "chōng",
+ "level": 3,
+ "parent": "中",
+ "bus": {
+  "num": 123,
+  "name": "中部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“器虛也。从皿中聲。《老子》曰：‘道盅而用之’。直弓切。”器皿空虛。zhōng，《漢典》：“沒有把的小杯子。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：小杯無把，持而飲之，器中空虛，故盅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

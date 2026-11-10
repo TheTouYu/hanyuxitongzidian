@@ -1,0 +1,35 @@
+{
+ "char": "衶",
+ "head": "衶",
+ "pinyin": "zhōng",
+ "level": 3,
+ "parent": "中",
+ "bus": {
+  "num": 123,
+  "name": "中部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“袴也。”套褲。《经籍籑诂》：“衶𧝓，當爲沖澹。”語言無味。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：袴總貫兩腿之間，故从衣从中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

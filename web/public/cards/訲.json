@@ -1,0 +1,38 @@
+{
+ "char": "訲",
+ "head": "訲（𠶷）",
+ "pinyin": "yì",
+ "level": 3,
+ "parent": "中",
+ "bus": {
+  "num": 123,
+  "name": "中部"
+ },
+ "aliases": [
+  "𠶷"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《康典》：“《說文》本作𠶷。快也。从言从中。”“𠶷”的訛字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "不取義：訛字，不系於聲母擬態。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}
