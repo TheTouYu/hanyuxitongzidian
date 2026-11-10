@@ -52039,7 +52039,8 @@
      "file": "01.jpg",
      "caption": "《耕織圖》插畫（清 陳枚）"
     }
-   ]
+   ],
+   "bus": 110
   },
   "睾": {
    "doc": "卷廿一  方",
@@ -52120,23 +52121,15 @@
     "敫/03.png",
     "敫/04.png"
    ],
-   "photos": [
-    {
-     "file": "01.jpg",
-     "caption": ""
-    },
-    {
-     "file": "02.jpg",
-     "caption": ""
-    }
-   ]
+   "bus": 110
   },
   "徼": {
    "doc": "卷廿一  方",
    "variants": "",
    "files": [
     "徼/01.png"
-   ]
+   ],
+   "bus": 110
   },
   "堯": {
    "doc": "卷廿一  方",
@@ -109864,16 +109857,6 @@
     "caption": ""
    }
   ],
-  "敫": [
-   {
-    "file": "photos/敫/01.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/敫/02.jpg",
-    "caption": ""
-   }
-  ],
   "文": [
    {
     "file": "photos/文/02.png",
@@ -121146,6 +121129,12 @@
    {
     "file": "photos/鈁/01.jpg",
     "caption": "戰國銅鈁"
+   }
+  ],
+  "皋": [
+   {
+    "file": "photos/皋/01.jpg",
+    "caption": "《耕織圖》插畫（清 陳枚）"
    }
   ]
  }

@@ -1492,6 +1492,15 @@ const server = createServer(async (req, res) => {
           res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' });
           return res.end('<!doctype html><meta charset="utf-8"><h3>「'+escH(ch)+'」兼作多字的或体</h3><p>请选择要看的字头：</p><ul>'+links.join('')+'</ul>');
         }
+        // 卷卡简称/全称互通：廿一 ↔ 二十一、卅 ↔ 三十
+        const _alts = [];
+        if (/廿/.test(ch)) _alts.push(ch.replace(/廿/g, '二十'));
+        if (/卅/.test(ch)) _alts.push(ch.replace(/卅/g, '三十'));
+        if (/二十/.test(ch)) _alts.push(ch.replace(/二十/g, '廿'));
+        if (/三十/.test(ch)) _alts.push(ch.replace(/三十/g, '卅'));
+        for (const a of _alts) {
+          if (existsSync(join(CARD_DIR, a + '.json'))) { res.writeHead(302, { Location: '/card/' + encodeURIComponent(a) }); return res.end(); }
+        }
       }
     } catch (e) {}
     const html = renderCard(ch);
