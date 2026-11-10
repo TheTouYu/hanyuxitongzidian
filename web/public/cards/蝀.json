@@ -1,0 +1,35 @@
+{
+ "char": "蝀",
+ "head": "蝀",
+ "pinyin": "dōng",
+ "level": 3,
+ "parent": "東",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“螮蝀也。从虫東聲。多貢切。”虹。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤動」取「囤」：虹橫如囤帶，粗壯而垂，故蝀从東。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

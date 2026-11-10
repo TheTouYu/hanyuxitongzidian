@@ -1,0 +1,37 @@
+{
+ "char": "敶",
+ "head": "敶（𢽬）",
+ "pinyin": "chén",
+ "level": 3,
+ "parent": "陳",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "𢽬"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𠛱也。从攴陳聲。直刃切。”陳列。《集韻》：“或作𢽬。通作陳。亦作陣。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：攴列兵陳，持而有次。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

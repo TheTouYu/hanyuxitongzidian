@@ -1,0 +1,35 @@
+{
+ "char": "懂",
+ "head": "懂",
+ "pinyin": "dòng",
+ "level": 3,
+ "parent": "重",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“懵懂，心亂。”今指明白，瞭解。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「鑿總」取「鑿」：心亂鑿滯，懵而不明。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

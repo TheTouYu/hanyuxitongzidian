@@ -1,0 +1,35 @@
+{
+ "char": "螴",
+ "head": "螴",
+ "pinyin": "chén",
+ "level": 3,
+ "parent": "陳",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《可以》：“螴蜳，蟲行。一曰不安定意。”“螴蜳，氣不安定皃。徐邈說。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：蟲行持列，刺刺而進。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

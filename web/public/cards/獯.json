@@ -1,0 +1,38 @@
+{
+ "char": "獯",
+ "head": "獯（𤟤葷）",
+ "pinyin": "xūn",
+ "level": 3,
+ "parent": "熏",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "𤟤",
+  "葷"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“獯鬻，匈奴別號。或作𤟤。通作葷。”匈奴。疑指膚色如熏。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「續消」取「消」：匈奴色如熏，遠而漸消。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

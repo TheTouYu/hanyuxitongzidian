@@ -1,0 +1,37 @@
+{
+ "char": "䨯",
+ "head": "䨯（𩄛）",
+ "pinyin": "zhèn",
+ "level": 3,
+ "parent": "陳",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "𩄛"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“䨯，誤；𩄛，正，直刃反。雲𩄛也。”《玉篇》：“𩄛，雲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：雲氣持列如陣，刺空而布。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "char": "纁",
+ "head": "纁（𤪠）",
+ "pinyin": "xūn",
+ "level": 3,
+ "parent": "熏",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "𤪠"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“淺絳也。从糸熏聲。許雲切。”淺赤色。煙熏的顏色。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「續消」取「消」：淺絳如熏，色續而漸消。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

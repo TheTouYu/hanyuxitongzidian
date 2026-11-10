@@ -1,0 +1,35 @@
+{
+ "char": "諥",
+ "head": "諥",
+ "pinyin": "zhòng",
+ "level": 3,
+ "parent": "重",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“言相觸也。”《正字通》：“言謹重也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「鑿總」取「鑿」：言語相鑿，觸而不讓。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

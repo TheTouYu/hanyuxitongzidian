@@ -1,0 +1,38 @@
+{
+ "char": "燻",
+ "head": "燻（勲爋）",
+ "pinyin": "xūn",
+ "level": 3,
+ "parent": "熏",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "勲",
+  "爋"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“熏，火氣盛皃。燻，上同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「續消」取「續」：火氣續蒸，熏灼不絕。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

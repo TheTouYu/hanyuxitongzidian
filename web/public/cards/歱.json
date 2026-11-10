@@ -1,0 +1,35 @@
+{
+ "char": "歱",
+ "head": "歱（踵）",
+ "pinyin": "zhǒng",
+ "level": 3,
+ "parent": "重",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“跟也。从止重聲。之隴切。”腳後跟。《廣雅》：“迹也。”追隨；跟著走。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「鑿總」取「鑿」：止於人後，鑿其跟跡。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

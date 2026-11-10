@@ -1,0 +1,35 @@
+{
+ "char": "曛",
+ "head": "曛",
+ "pinyin": "xūn",
+ "level": 3,
+ "parent": "熏",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“日入也。又黃昏時。”《集韻》：“日入余光。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「續消」取「消」：日入光消，色赤如熏。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

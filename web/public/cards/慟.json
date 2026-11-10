@@ -1,0 +1,38 @@
+{
+ "char": "慟",
+ "head": "慟（憅恸）",
+ "pinyin": "tòng",
+ "level": 3,
+ "parent": "重",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "憅",
+  "恸"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“大哭也。从心動聲。徒弄切。”《廣韻》：“慟哭，哀過也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「鑿總」取「鑿」：哀至心動，鑿然大哭。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

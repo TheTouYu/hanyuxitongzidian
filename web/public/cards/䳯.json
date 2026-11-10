@@ -1,0 +1,37 @@
+{
+ "char": "䳯",
+ "head": "䳯（𨿿）",
+ "pinyin": "chóng",
+ "level": 3,
+ "parent": "重",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "𨿿"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“䳯𪄹鳥。”chǒng，《集韻》：“𨿿，雛飛皃。一曰雀也。或从鳥。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「鑿總」取「鑿」：雛飛相鑿，衝而後起。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}
