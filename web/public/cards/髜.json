@@ -1,0 +1,40 @@
+{
+ "char": "髜",
+ "head": "髜",
+ "pinyin": "qiǎo",
+ "aliases": [],
+ "bus": {
+  "num": 112,
+  "name": "高"
+ },
+ "level": 3,
+ "parent": "高",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《集韻》：“高也。”"
+   ],
+   "text": "《集韻》：“高也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：高處空缺，下者不能及（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿一  方",
+     "ch": "卷廿一方",
+     "label": "卷廿一 方"
+    }
+   ]
+  }
+ ]
+}

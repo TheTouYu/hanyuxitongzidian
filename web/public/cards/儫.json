@@ -1,0 +1,40 @@
+{
+ "char": "儫",
+ "head": "儫",
+ "pinyin": "háo",
+ "aliases": [],
+ "bus": {
+  "num": 112,
+  "name": "高"
+ },
+ "level": 3,
+ "parent": "豪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《字彙補》：“音義與豪同。”豪傑。"
+   ],
+   "text": "《字彙補》：“音義與豪同。”豪傑。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：豪傑意氣活躍（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿一  方",
+     "ch": "卷廿一方",
+     "label": "卷廿一 方"
+    }
+   ]
+  }
+ ]
+}
