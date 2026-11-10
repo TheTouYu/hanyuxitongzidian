@@ -1,0 +1,35 @@
+{
+ "char": "𤡭",
+ "head": "𤡭",
+ "pinyin": "bēng",
+ "level": 3,
+ "parent": "彭",
+ "bus": {
+  "num": 120,
+  "name": "壴部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》：“犬也。”péng，《正字通》：“ 犬壯貌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "b「闭剥」取「闭」：犬壯而毛閉，體肉閉束而鼓（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

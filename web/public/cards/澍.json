@@ -1,0 +1,37 @@
+{
+ "char": "澍",
+ "head": "澍（霔）",
+ "pinyin": "shù",
+ "level": 3,
+ "parent": "壴",
+ "bus": {
+  "num": 120,
+  "name": "壴部"
+ },
+ "aliases": [
+  "霔"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“時雨，澍生萬物。从水尌聲。常句切。”及時雨。zhù，同“霔”，灌注；傾瀉。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "sh「失收」取「收」：雨自天收而下注，直落收於土中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "嘭",
+ "head": "嘭",
+ "pinyin": "pēng",
+ "level": 3,
+ "parent": "彭",
+ "bus": {
+  "num": 120,
+  "name": "壴部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》：“聲也。”象聲字。一般形容敲擊聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "p「拼辟」取「辟」：物相擊而聲辟，嘭然一響破靜（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}

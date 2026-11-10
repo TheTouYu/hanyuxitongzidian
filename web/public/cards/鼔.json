@@ -1,0 +1,35 @@
+{
+ "char": "鼔",
+ "head": "鼔",
+ "pinyin": "gǔ",
+ "level": 3,
+ "parent": "壴",
+ "bus": {
+  "num": 120,
+  "name": "壴部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“擊鼓也。从攴从壴，壴亦聲。公戶切。”同“鼓”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "g「隔估」取「估」：持槌度鼓面而擊，擊處隔而聲應（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ]
+}
