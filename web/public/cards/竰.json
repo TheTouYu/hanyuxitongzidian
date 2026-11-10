@@ -1,0 +1,36 @@
+{
+ "char": "竰",
+ "head": "竰",
+ "pinyin": "li",
+ "level": 3,
+ "parent": "廛",
+ "bus": {
+  "num": 121,
+  "name": "田部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "公制容量單位“厘升”的舊譯。法文Centilitre的音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "不取義：音譯字，不系於聲母擬態。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}

@@ -1,0 +1,36 @@
+{
+ "char": "喱",
+ "head": "喱",
+ "pinyin": "lí",
+ "level": 3,
+ "parent": "廛",
+ "bus": {
+  "num": 121,
+  "name": "田部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "美英重量單位“格令”的舊譯，等于0.0648克。英文grɑin的音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "不取義：音譯字，不系於聲母擬態。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
+    {
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}
