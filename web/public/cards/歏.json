@@ -1,0 +1,36 @@
+{
+ "char": "歏",
+ "head": "歏",
+ "pinyin": "jìn",
+ "aliases": [],
+ "bus": {
+  "num": 116,
+  "name": "堇"
+ },
+ "level": 3,
+ "parent": "堇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“欠也。”打哈欠。qūn，《玉篇》：“氣盛也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：氣聚而後欠伸，力乏之狀（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ]
+}
