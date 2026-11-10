@@ -1,0 +1,55 @@
+{
+ "char": "𧌫",
+ "head": "𧌫（螴虹）",
+ "pinyin": "hóng",
+ "aliases": [
+  "螴",
+  "虹"
+ ],
+ "bus": {
+  "num": 114,
+  "name": "申"
+ },
+ "level": 3,
+ "parent": "申",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“虹，螮蝀也。狀似蟲。从虫工聲。《明堂月令》曰：‘虹始見。’{{shiyi/01.png}}，籀文虹从申。申，電也。戶工切。”《段注》：“電者，陰陽激耀也。虹似之。取以會意。”",
+   "gdir": "inline/𧌫"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：喉音開闊，虹霓橫天豁然而見（推）。"
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "𧌫",
+   "files": [
+    "01.png"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿二  雷",
+     "ch": "卷廿二雷",
+     "label": "卷廿二 雷"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "𧌫/01.jpg",
+   "caption": "彩虹"
+  }
+ ]
+}
