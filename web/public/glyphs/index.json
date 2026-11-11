@@ -50473,18 +50473,24 @@
    ]
   },
   "幵": {
-   "doc": "卷廿四  貝",
-   "variants": "开",
    "files": [
-    "幵/01.png",
-    "幵/02.png",
-    "幵/03.png",
-    "幵/04.png"
+    "01.png",
+    "02.png",
+    "03.png"
    ],
+   "bus": 138,
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "商代的骨笄"
+    },
+    {
+     "file": "02.jpg",
+     "caption": "研磨"
+    },
+    {
+     "file": "03.jpg",
+     "caption": "池鷺"
     }
    ]
   },
@@ -50499,53 +50505,47 @@
    ]
   },
   "䶬": {
-   "doc": "卷廿四  貝",
-   "variants": "",
    "files": [
-    "䶬/01.png"
-   ]
+    "01.png"
+   ],
+   "bus": 138
   },
   "𢏗": {
-   "doc": "卷廿四  貝",
-   "variants": "",
    "files": [
-    "𢏗/01.png"
-   ]
+    "01.png"
+   ],
+   "bus": 138
   },
   "汧": {
-   "doc": "卷廿四  貝",
-   "variants": "",
    "files": [
-    "汧/01.png",
-    "汧/02.png"
-   ]
+    "01.png",
+    "02.png"
+   ],
+   "bus": 138
   },
   "䀘": {
-   "doc": "卷廿四  貝",
-   "variants": "",
    "files": [
-    "䀘/01.png"
-   ]
+    "01.png"
+   ],
+   "bus": 138
   },
   "笄": {
-   "doc": "卷廿四  貝",
-   "variants": "",
    "files": [
-    "笄/01.png",
-    "笄/02.png",
-    "笄/03.png",
-    "笄/04.png"
-   ]
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png"
+   ],
+   "bus": 138
   },
   "豜": {
-   "doc": "卷廿四  貝",
-   "variants": "",
    "files": [
-    "豜/01.png",
-    "豜/02.png",
-    "豜/03.png",
-    "豜/04.png"
-   ]
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png"
+   ],
+   "bus": 138
   },
   "㠭": {
    "doc": "卷廿四  貝",
@@ -109474,7 +109474,15 @@
   "幵": [
    {
     "file": "photos/幵/01.jpg",
-    "caption": ""
+    "caption": "商代的骨笄"
+   },
+   {
+    "file": "photos/幵/02.jpg",
+    "caption": "研磨"
+   },
+   {
+    "file": "photos/幵/03.jpg",
+    "caption": "池鷺"
    }
   ],
   "庸": [
