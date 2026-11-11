@@ -1,0 +1,39 @@
+{
+ "char": "鋠",
+ "head": "鋠",
+ "pinyin": "shèn",
+ "aliases": [],
+ "level": 3,
+ "parent": "辰",
+ "bus": {
+  "num": 134,
+  "name": "辰部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "鋠shèn《玉篇》：“圓鐵。”即狀如蚌的鐵塊。",
+   "paras": [
+    "鋠shèn《玉篇》：“圓鐵。”即狀如蚌的鐵塊。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：鐵就範而收，圓成蚌狀（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿四 貝",
+     "ch": "卷二十四貝"
+    }
+   ]
+  }
+ ]
+}
