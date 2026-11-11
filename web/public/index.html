@@ -181,8 +181,8 @@ const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections
       const inner=await cardBody(d.parent,p,{noPhoto:true});
       return `<div class="sec rootbox"><h3>字根「${esc(d.parentHead||d.parent)}」</h3>${inner}</div>`;
     }catch(e){ return ''; } })() : '';
-  const LVN={1:'一级字根',2:'二级字根',3:'谐声字'};
-  const lvlTag=(()=>{const s=d.grade||(d.rootLevel?({1:'一级字根',2:'二级字根',3:'谐声字'}[d.rootLevel]||''):(LVN[d.level]||''));return s?`<span class="tag">${s}</span>`:'';})();
+  const LVN={1:'一级字根',2:'二级字根',3:'谐声字'};const _hasFam=(d.sections||[]).some(x=>x&&x.key==='zizu'&&(x.groups||[]).length);
+  const lvlTag=(()=>{const s=d.grade||(d.rootLevel?({1:'一级字根',2:'二级字根',3:'谐声字'}[d.rootLevel]||''):(d.level===3&&_hasFam?'三级字根':(LVN[d.level]||'')));return s?`<span class="tag">${s}</span>`:'';})();
   const b=(Array.isArray(d.bus)?d.bus[0]:(d.bus||{}))||{};
   const photoBlock=(()=>{let own=d.photos||(window.PHOTO&&window.PHOTO[d.char])||[];if(!own.length)return '';const cap=d.captions||(window.CAPS&&window.CAPS[d.char])||[];own=own.map((o,i)=>{const ob=(o&&typeof o==='object')?o:{file:o};let f=String(ob.file||'');if(f.startsWith(d.char+'/'))f=f.slice(d.char.length+1);const c=ob.caption||cap[i]||'';return '<figure><img src="/glyphs/photos/'+encodeURIComponent(d.char)+'/'+encodeURIComponent(f)+'?v=20261111a"><figcaption>'+esc(c||('圖'+(i+1)))+'</figcaption></figure>';});return '<div class="sec"><h3>插图</h3><div class="pscroll">'+own.join('')+'</div></div>';})();
 
