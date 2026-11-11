@@ -1,0 +1,39 @@
+{
+ "char": "𢴢",
+ "head": "𢴢",
+ "pinyin": "fén",
+ "aliases": [],
+ "bus": {
+  "num": 128,
+  "name": "賁部"
+ },
+ "level": 3,
+ "parent": "賁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“符分切，音焚。拭也。”",
+   "paras": [
+    "《集韻》：“符分切，音焚。拭也。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：拭則垢自分離而去（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十四 貝",
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}
