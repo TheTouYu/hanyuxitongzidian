@@ -1,0 +1,38 @@
+{
+ "char": "哹",
+ "head": "哹",
+ "pinyin": "fú",
+ "aliases": [],
+ "bus": {
+  "num": 141,
+  "name": "孚部"
+ },
+ "level": 3,
+ "parent": "孚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“吹也。”“吹聲。”“喉中聲。”",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：氣噓而分，浮散於空（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "孚",
+     "label": "卷廿五  孚",
+     "href": "/card/孚"
+    }
+   ]
+  }
+ ]
+}
