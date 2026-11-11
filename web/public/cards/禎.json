@@ -1,37 +1,45 @@
 {
  "char": "禎",
- "pinyin": "zhēn",
+ "head": "禎",
+ "pinyin": "zhēn、zhēng",
+ "aliases": [],
+ "level": 3,
+ "parent": "貞",
  "bus": {
   "num": 137,
-  "name": "貞"
+  "name": "貞部"
  },
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "zh「凿总」取「凿」：兆鑿而祥。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“祥也。从示，貞聲。陟盈切。”吉祥。",
+   "paras": [
+    "《說文》：“祥也。从示，貞聲。陟盈切。”吉祥。"
+   ]
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：吉兆總見，祥瑞畢集（推）。",
+   "paras": [
+    "zh「凿总」取「总」：吉兆總見，祥瑞畢集（推）。"
+   ]
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷二十四貝",
+   "text": "",
+   "paras": [
+    ""
+   ],
    "links": [
     {
-     "ch": "卷二十四貝",
-     "label": "卷二十四貝"
+     "t": "卷廿四 貝",
+     "ch": "卷廿四貝",
+     "label": "卷廿四 貝"
     }
    ]
   }
- ],
- "simp": "祯",
- "aliases": [],
- "parent": "",
- "head": "禎"
+ ]
 }

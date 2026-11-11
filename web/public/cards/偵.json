@@ -1,37 +1,45 @@
 {
  "char": "偵",
- "pinyin": "zhēn",
+ "head": "偵",
+ "pinyin": "zhēn、zhēng",
+ "aliases": [],
+ "level": 3,
+ "parent": "貞",
  "bus": {
   "num": 137,
-  "name": "貞"
+  "name": "貞部"
  },
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "zh「凿总」取「凿」：伺察如鑿。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“問也。从人貞聲。醜鄭切。”卜問。《玉篇》：“候也。”《廣韻》：“廉視。”斥候；間諜。探聽，暗中察看。",
+   "paras": [
+    "《新附》：“問也。从人貞聲。醜鄭切。”卜問。《玉篇》：“候也。”《廣韻》：“廉視。”斥候；間諜。探聽，暗中察看。"
+   ]
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：多方總問，以察其實（推）。",
+   "paras": [
+    "zh「凿总」取「总」：多方總問，以察其實（推）。"
+   ]
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷二十四貝",
+   "text": "",
+   "paras": [
+    ""
+   ],
    "links": [
     {
-     "ch": "卷二十四貝",
-     "label": "卷二十四貝"
+     "t": "卷廿四 貝",
+     "ch": "卷廿四貝",
+     "label": "卷廿四 貝"
     }
    ]
   }
- ],
- "simp": "侦",
- "aliases": [],
- "parent": "",
- "head": "偵"
+ ]
 }
