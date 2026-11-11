@@ -1,0 +1,41 @@
+{
+ "char": "𩹁",
+ "head": "𩹁（鮩）",
+ "pinyin": "bìng",
+ "aliases": [
+  "鮩"
+ ],
+ "bus": {
+  "num": 131,
+  "name": "並部"
+ },
+ "level": 3,
+ "parent": "並",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“魚名。或从并。”白魚。",
+   "paras": [
+    "《集韻》：“魚名。或从并。”白魚。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：魚群相閉而游（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷二十四 貝",
+     "ch": "卷二十四貝",
+     "label": "卷二十四 貝"
+    }
+   ]
+  }
+ ]
+}
