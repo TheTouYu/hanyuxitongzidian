@@ -8,7 +8,8 @@ SM = re.compile(r"^((?:[a-zA-Z]{1,2}|零)「[^」]+」(取「[^」]」：|不系
 bu = sys.argv[1] if len(sys.argv) > 1 else "朿"
 err = []
 head = json.load(io.open(os.path.join(C, bu + ".json"), encoding="utf-8"))
-if head.get("level") not in (1, 2):
+_hasfam=any((s.get("key")=="zizu" and (s.get("groups") or [])) for s in (head.get("sections") or []) if isinstance(s,dict))
+if head.get("level") not in (1, 2) and not (head.get("level")==3 and _hasfam):
     err.append(f"{bu}: 部头 level 应为 1（一级字根）或 2（二级字根，如 号/乎/兮/可）")
 keys = [s.get("key") for s in head.get("sections", [])]
 for need in ("benyi", "zizu"):
