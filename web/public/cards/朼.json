@@ -1,0 +1,40 @@
+{
+ "char": "朼",
+ "head": "朼（枇）",
+ "pinyin": "bǐ",
+ "aliases": [
+  "枇"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "匕",
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "朼（枇）bǐ《集韻》：“枇，所以載牲體。或省，通作匕。”大木匙。古祭祀用以挑起鼎中的牲置于俎上； 或用以盛出甑甗中的飯食。",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：枇、所以載牲體，正取「闭」之動相（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "label": "卷廿五 勹",
+     "href": "/card/勹"
+    }
+   ]
+  }
+ ]
+}

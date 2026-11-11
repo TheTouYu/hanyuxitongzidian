@@ -1,0 +1,42 @@
+{
+ "char": "𡧖",
+ "head": "𡧖（宲𢉔𢉣𡧰）",
+ "pinyin": "bǎo",
+ "aliases": [
+  "宲",
+  "𢉔",
+  "𢉣",
+  "𡧰"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "保",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𡧖（宲寶𢉔𢉣𡧰）bǎo《說文》：“藏也。从宀𡥀聲。𡥀，古文𠈃。《周書》曰：‘陳𡧖赤刀。’博袌切。”寶藏。",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：藏也，正取「闭」之動相（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "label": "卷廿五 勹",
+     "href": "/card/勹"
+    }
+   ]
+  }
+ ]
+}

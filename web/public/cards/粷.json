@@ -1,0 +1,39 @@
+{
+ "char": "粷",
+ "head": "粷（𥶶）",
+ "pinyin": "jú",
+ "aliases": [
+  "𥶶"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "匊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "粷（𥶶）jú《玉篇》：“粷粉也。”《正字通》：“同𥶶，俗省。《說文·米部》：‘𥶶，酒母也 ’。”酵母。",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：粷粉也，正取「决」之動相（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "label": "卷廿五 勹",
+     "href": "/card/勹"
+    }
+   ]
+  }
+ ]
+}

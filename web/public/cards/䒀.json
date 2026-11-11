@@ -1,0 +1,39 @@
+{
+ "char": "䒀",
+ "head": "䒀（䑧）",
+ "pinyin": "bù",
+ "aliases": [
+  "䑧"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "付",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "䒀（䑧）bù《集韻》：“《廣雅》：‘舟也。’一曰艇短而深者。或作䑧。”《廣韻》：“䒀艇，舩也。”",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：《廣雅》：‘舟也、’一曰艇短而深者，正取「闭」之動相（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "label": "卷廿五 勹",
+     "href": "/card/勹"
+    }
+   ]
+  }
+ ]
+}

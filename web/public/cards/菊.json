@@ -1,0 +1,37 @@
+{
+ "char": "菊",
+ "head": "菊",
+ "pinyin": "jú",
+ "aliases": [],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "匊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "菊jú《說文》：“大菊，蘧麥。从艸匊聲。居六切。”瞿麥。種子如燕麥。《廣韻》：“草名。《禮記》：‘季秋之月，菊有黃華’。”菊花。花盤如篩，花瓣如米。",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：大菊、蘧麥，正取「聚」之動相（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "label": "卷廿五 勹",
+     "href": "/card/勹"
+    }
+   ]
+  }
+ ]
+}

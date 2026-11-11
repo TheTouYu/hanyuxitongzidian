@@ -1,0 +1,40 @@
+{
+ "char": "俯",
+ "head": "俯（頫俛）",
+ "pinyin": "fǔ",
+ "aliases": [
+  "頫",
+  "俛"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "付",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "俯（頫俛）fǔ《集韻》：“頫，《說文》：‘低頭也。《太史卜書》：頫仰也如此。揚雄曰：人面頫。’或作俛、俯。”",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：頫、《說文》：‘低頭也，正取「分」之動相（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "label": "卷廿五 勹",
+     "href": "/card/勹"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "墾",
+ "head": "墾（垦）",
+ "pinyin": "kěn",
+ "aliases": [
+  "垦"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "艮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "墾（垦）kěn《新附》：“耕也。从土豤聲。康很切。”《廣韻》：“力也。治也。”《方言》：“司也。”《廣雅》：“均也。”",
+   "paras": []
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：耕也，正取「口」之動相（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "label": "卷廿五 勹",
+     "href": "/card/勹"
+    }
+   ]
+  }
+ ]
+}
