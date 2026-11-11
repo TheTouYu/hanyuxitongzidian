@@ -106,7 +106,7 @@ function render(q){
   const base=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
   let rel='';
   if(q){
-    const byChar=ch=>IDX.find(x=>x.c===ch)||IDX.filter(x=>((x.a||[]).includes(ch))).sort((p,q)=>{const s=y=>((y.a||[])[0]===ch?0:1);return s(p)-s(q);})[0];
+    const byChar=ch=>IDX.find(x=>x.c===ch)||IDX.filter(x=>((x.a||[]).includes(ch))).sort((p,q)=>{const s=y=>((y.a||[])[0]===ch?0:1);return ((q.b||0)-(p.b||0))||(s(p)-s(q));})[0];
     let t=byChar(q)||rows.find(r=>r.lv>0)||rows[0];
     if(t){
       const chain=[];let p=(t.pr||'');let guard=0;
