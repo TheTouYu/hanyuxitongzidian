@@ -17,7 +17,7 @@
   "num": 127,
   "name": "𠦪部"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -205,5 +205,10 @@
    "file": "奏/01.jpg",
    "caption": "扳禾"
   }
+ ],
+ "parent": "𠦪",
+ "rootChain": [
+  "𠦪",
+  "奏"
  ]
 }
