@@ -1,0 +1,39 @@
+{
+ "char": "鯓",
+ "head": "鯓",
+ "pinyin": "shēn",
+ "aliases": [],
+ "level": 3,
+ "parent": "身",
+ "bus": {
+  "num": 135,
+  "name": "身部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "鯓shēn：臺灣地名用字。疑本指有子的魚。",
+   "paras": [
+    "鯓shēn：臺灣地名用字。疑本指有子的魚。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：魚腹含子，收而孕（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷廿四 貝",
+     "ch": "卷二十四貝"
+    }
+   ]
+  }
+ ]
+}
