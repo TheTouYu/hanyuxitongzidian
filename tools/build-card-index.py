@@ -19,7 +19,7 @@ for fn in sorted(os.listdir(C)):
     b=bus.get("num") if isinstance(bus,dict) else (bus[0] if isinstance(bus,list) and bus else None)
     n=bus.get("name") if isinstance(bus,dict) else ""
     rows.append({"cc":d.get("cc",""),"cn":d.get("cn",""),
-        "h":d.get("head") or c,"c":c,"a":d.get("aliases") or [],"p":d.get("pinyin") or "",
+        "h":d.get("head") or c,"c":c,"a":d["aliasIndex"] if "aliasIndex" in d else (d.get("aliases") or []),"p":d.get("pinyin") or "",
         "t":[s.get("label","") for s in d.get("sections",[])],
         "b":b,"n":n or "","lv":d.get("level") or 3,"rl":d.get("rootLevel") or 0,
         "pr":d.get("parent") or "","rc":d.get("rootChain") or [],"rlb":d.get("rootLabel") or "","rc2":d.get("rootChain2") or [],"v":rev.get(c,[])})
