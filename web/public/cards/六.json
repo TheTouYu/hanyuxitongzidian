@@ -122,8 +122,10 @@
   }
  ],
  "photos": [
-  "六/01.jpg",
-  "六/02.jpg"
+  {
+   "file": "六/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "草廬",

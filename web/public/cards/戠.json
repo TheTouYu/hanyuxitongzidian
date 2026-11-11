@@ -147,8 +147,10 @@
   }
  ],
  "photos": [
-  "戠/01.jpg",
-  "戠/02.png"
+  {
+   "file": "戠/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "長條疤痕",

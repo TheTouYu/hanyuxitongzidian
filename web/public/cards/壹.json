@@ -23,12 +23,10 @@
  ],
  "head": "壹",
  "photos": [
-  "壹/01.jpg",
-  "壹/02.jpg",
-  "壹/03.jpg",
-  "壹/04.jpg",
-  "壹/05.jpg",
-  "壹/02.png"
+  {
+   "file": "壹/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

@@ -230,8 +230,10 @@
   }
  ],
  "photos": [
-  "責/01.jpg",
-  "責/02.jpg"
+  {
+   "file": "責/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

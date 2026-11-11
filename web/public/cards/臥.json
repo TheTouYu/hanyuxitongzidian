@@ -2,7 +2,9 @@
  "char": "臥",
  "head": "臥（卧）",
  "pinyin": "wò",
- "aliases": [],
+ "aliases": [
+  "卧"
+ ],
  "bus": {
   "num": 140,
   "name": "勹部"
@@ -85,11 +87,5 @@
    ]
   }
  ],
- "parent": "勹",
- "photos": [
-  {
-   "file": "臥/01.jpg",
-   "caption": ""
-  }
- ]
+ "parent": "勹"
 }

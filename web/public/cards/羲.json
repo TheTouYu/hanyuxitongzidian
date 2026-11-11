@@ -128,7 +128,10 @@
  ],
  "parent": "我",
  "photos": [
-  "羲/01.jpg"
+  {
+   "file": "羲/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "西周我"

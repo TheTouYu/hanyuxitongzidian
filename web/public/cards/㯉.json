@@ -43,8 +43,10 @@
   "樺"
  ],
  "photos": [
-  "㯉/01.jpg",
-  "㯉/02.jpg"
+  {
+   "file": "㯉/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "白樺樹皮",

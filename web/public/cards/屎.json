@@ -32,8 +32,10 @@
   }
  ],
  "photos": [
-  "屎/01.jpg",
-  "屎/02.jpg"
+  {
+   "file": "屎/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "骨尺（商）",

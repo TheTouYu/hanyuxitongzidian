@@ -106,8 +106,10 @@
  "parent": "",
  "head": "亙",
  "photos": [
-  "亙/01.png",
-  "亙/02.png"
+  {
+   "file": "亙/01.png",
+   "caption": ""
+  }
  ],
  "captions": [
   "月亮的上下弦變化",

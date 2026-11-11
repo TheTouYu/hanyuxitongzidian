@@ -35,9 +35,10 @@
   }
  ],
  "photos": [
-  "𧶴/01.jpg",
-  "𧶴/02.jpg",
-  "𧶴/03.jpg"
+  {
+   "file": "𧶴/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "花崗岩",

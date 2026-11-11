@@ -152,8 +152,10 @@
   }
  ],
  "photos": [
-  "隻/01.jpg",
-  "隻/02.png"
+  {
+   "file": "隻/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "（原文插圖）",

@@ -23,10 +23,10 @@
  "parent": "",
  "head": "賊",
  "photos": [
-  "賊/01.jpg",
-  "賊/02.jpg",
-  "賊/03.jpg",
-  "賊/04.jpg"
+  {
+   "file": "賊/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

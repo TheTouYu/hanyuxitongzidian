@@ -24,8 +24,10 @@
  "parent": "",
  "head": "盡",
  "photos": [
-  "盡/01.jpg",
-  "盡/02.png"
+  {
+   "file": "盡/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

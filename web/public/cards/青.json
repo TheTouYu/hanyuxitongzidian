@@ -20,9 +20,10 @@
  "aliases": [],
  "head": "青",
  "photos": [
-  "青/01.jpg",
-  "青/02.jpg",
-  "青/03.jpg"
+  {
+   "file": "青/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

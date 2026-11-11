@@ -31,8 +31,10 @@
   }
  ],
  "photos": [
-  "𧱱/01.jpg",
-  "𧱱/02.jpg"
+  {
+   "file": "𧱱/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "火炭",

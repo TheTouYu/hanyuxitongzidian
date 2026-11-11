@@ -36,8 +36,10 @@
   }
  ],
  "photos": [
-  "𥽽/01.jpg",
-  "𥽽/02.jpg"
+  {
+   "file": "𥽽/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "燕子在屋簷下築巢",

@@ -34,8 +34,10 @@
  "aliases": [],
  "head": "鷩",
  "photos": [
-  "鷩/01.jpg",
-  "鷩/02.jpg"
+  {
+   "file": "鷩/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

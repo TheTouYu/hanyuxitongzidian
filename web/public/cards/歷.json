@@ -25,9 +25,10 @@
  "parent": "",
  "head": "歷",
  "photos": [
-  "歷/01.jpg",
-  "歷/02.jpg",
-  "歷/03.jpg"
+  {
+   "file": "歷/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

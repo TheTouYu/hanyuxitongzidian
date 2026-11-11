@@ -229,8 +229,10 @@
  "parent": "或",
  "grade": "三级字根",
  "photos": [
-  "國/01.png",
-  "國/02.jpg"
+  {
+   "file": "國/01.png",
+   "caption": ""
+  }
  ],
  "captions": [
   "何尊（西周早期）",

@@ -133,8 +133,10 @@
   }
  ],
  "photos": [
-  "耆/01.jpg",
-  "耆/02.jpg"
+  {
+   "file": "耆/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",

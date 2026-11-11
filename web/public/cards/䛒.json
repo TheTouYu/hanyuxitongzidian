@@ -35,8 +35,10 @@
   }
  ],
  "photos": [
-  "䛒/01.jpg",
-  "䛒/02.jpg"
+  {
+   "file": "䛒/01.jpg",
+   "caption": ""
+  }
  ],
  "captions": [
   "",
