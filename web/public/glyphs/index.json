@@ -44865,26 +44865,26 @@
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "甫/01.png",
-    "甫/02.png",
-    "甫/03.png",
-    "甫/04.png",
-    "甫/05.png",
-    "甫/06.png",
-    "甫/07.png",
-    "甫/08.png",
-    "甫/09.png",
-    "甫/10.png",
-    "甫/11.png",
-    "甫/12.png",
-    "甫/13.png",
-    "甫/14.png",
-    "甫/15.png"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12.jpg",
+    "13.jpg",
+    "14.jpg",
+    "15.jpg"
    ],
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "蒲葵"
     }
    ]
   },
@@ -44892,47 +44892,46 @@
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "匍/01.png",
-    "匍/02.png",
-    "匍/03.png",
-    "匍/04.png",
-    "匍/05.png"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
    ]
   },
   "圃": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "圃/01.png",
-    "圃/02.png"
+    "01.jpg",
+    "02.jpg"
    ]
   },
   "浦": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "浦/01.png"
+    "01.jpg"
    ]
   },
   "痡": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "痡/01.png"
+    "01.jpg"
    ]
   },
   "簠": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "簠/01.png",
-    "簠/02.png",
-    "簠/03.png",
-    "簠/04.png"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
    ],
    "photos": [
     {
-     "file": "01.png",
+     "file": "01.jpg",
      "caption": "西周青銅簠"
     }
    ]
@@ -44941,49 +44940,50 @@
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "逋/01.png",
-    "逋/02.png"
+    "01.jpg",
+    "02.jpg"
    ]
   },
   "輔": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "輔/01.png",
-    "輔/02.png",
-    "輔/03.png"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
    ]
   },
   "𩳐": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "𩳐/01.png",
-    "𩳐/02.png"
+    "01.jpg",
+    "02.jpg"
    ]
   },
   "餔": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "餔/01.png",
-    "餔/02.png"
+    "01.jpg",
+    "02.jpg"
    ]
   },
   "鬴": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "鬴/01.png",
-    "鬴/02.png",
-    "鬴/03.png"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg"
    ]
   },
   "䝵": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "䝵/01.png"
+    "01.jpg",
+    "02.jpg"
    ]
   },
   "尃": {
@@ -110323,6 +110323,22 @@
      "caption": "陶甑（6000年前的馬家浜文化）"
     }
    ]
+  },
+  "鋪": {
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "門鋪首"
+    }
+   ]
+  },
+  "鯆": {
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "海鳐鱼"
+    }
+   ]
   }
  },
  "炙": {
@@ -114103,7 +114119,7 @@
   "甫": [
    {
     "file": "photos/甫/01.jpg",
-    "caption": ""
+    "caption": "蒲葵"
    }
   ],
   "甬": [
@@ -114646,7 +114662,7 @@
   ],
   "簠": [
    {
-    "file": "photos/簠/01.png",
+    "file": "photos/簠/01.jpg",
     "caption": "西周青銅簠"
    }
   ],
@@ -121884,6 +121900,12 @@
    {
     "file": "photos/箅/01.jpg",
     "caption": "陶甑（6000年前的馬家浜文化）"
+   }
+  ],
+  "鋪": [
+   {
+    "file": "photos/鋪/01.jpg",
+    "caption": "門鋪首"
    }
   ]
  }
