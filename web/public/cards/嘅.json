@@ -1,32 +1,32 @@
 {
- "char": "嘅",
- "level": 3,
- "parent": "旡",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "歎也。歎息。"
+  "char": "嘅",
+  "level": 3,
+  "parent": "旡",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "k「口控」取「控」：歎自口控出（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“歎也。从口旣聲。《詩》曰：‘嘅其歎矣’。苦蓋切。”歎息。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "k「口控」取「控」：歎自口控出（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

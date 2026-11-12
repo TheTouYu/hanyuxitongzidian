@@ -1,37 +1,37 @@
 {
- "char": "𡰄",
- "pinyin": "xí",
- "bus": {
-  "num": 2,
-  "name": "奚"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "不能行，為人所引；正取「牽引」。"
+  "char": "𡰄",
+  "pinyin": "xí",
+  "bus": {
+    "num": 2,
+    "name": "奚"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：不能行，為人所引，續牽而行。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡰄（𡰖）xí《玉篇》：“不能行，爲人所引。”《集韻》：“𡰖，𡰖𡰢，行跛。或从奚。”《正字通》：“𡰖字之譌。”應是音義相同，非訛字。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：不能行，為人所引，續牽而行。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "奚",
- "head": "𡰄（𡰖）",
- "aliases": [
-  "𡰖"
- ]
+  ],
+  "level": 3,
+  "parent": "奚",
+  "head": "𡰄（𡰖）",
+  "aliases": [
+    "𡰖"
+  ]
 }

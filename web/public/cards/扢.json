@@ -1,32 +1,32 @@
 {
- "char": "扢",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "摩也、取也。擦拭、塗抹；獲取。"
+  "char": "扢",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《玉篇》：“摩也、取也。”擦拭；塗抹。獲取。qì，《集韻》：“奮舞皃。一曰喜皃。”“擊也。”jié，《集韻》：“拔引也。”gē，扢搭，同“疙瘩”，結。或指忽然、立刻。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

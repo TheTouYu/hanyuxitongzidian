@@ -1,44 +1,44 @@
 {
- "char": "䩁",
- "head": "䩁（靟）",
- "pinyin": "fēi",
- "aliases": [
-  "靟"
- ],
- "bus": {
-  "num": 149,
-  "name": "北"
- },
- "level": 3,
- "parent": "非",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "毛紛紛也。从毳非聲。甫微切。",
-   "paras": [
-    "毛紛紛也。从毳非聲。甫微切。"
-   ]
+  "char": "䩁",
+  "head": "䩁（靟）",
+  "pinyin": "fēi",
+  "aliases": [
+    "靟"
+  ],
+  "bus": {
+    "num": 149,
+    "name": "北"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "f「附分」取「分」：細毛紛分（推）。",
-   "paras": [
-    "f「附分」取「分」：細毛紛分（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "非",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《說文》：“毛紛紛也。从毳非聲。甫微切。”《廣韻》：“細毛。”",
+      "paras": [
+        "《說文》：“毛紛紛也。从毳非聲。甫微切。”《廣韻》：“細毛。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "f「附分」取「分」：細毛紛分（推）。",
+      "paras": [
+        "f「附分」取「分」：細毛紛分（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

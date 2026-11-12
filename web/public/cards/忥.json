@@ -1,32 +1,32 @@
 {
- "char": "忥",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "癡皃。靜也、息也。"
+  "char": "忥",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“癡皃。从心气聲。許旣切。”癡呆的樣子。《集韻》：“一曰靜也、息也。一曰忥忥，喜也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

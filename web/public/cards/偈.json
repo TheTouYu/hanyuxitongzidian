@@ -1,32 +1,32 @@
 {
- "char": "偈",
- "level": 3,
- "parent": "曷",
- "bus": {
-  "num": 4,
-  "name": "匃"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "疾也；健也；武也。qì，息也。"
+  "char": "偈",
+  "level": 3,
+  "parent": "曷",
+  "bus": {
+    "num": 4,
+    "name": "匃"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「决」：武壯果決，疾而不容（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《廣雅》：“疾也。”“健也。”《廣韻》：“武也。”qì，《集韻》：“其例切，音堨。息也。”jì，《玉篇》：“句也。”梵語“偈陀（gāthā）”的略稱，義為“頌”，佛家唱詞。四句合為一偈。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「决」：武壯果決，疾而不容（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

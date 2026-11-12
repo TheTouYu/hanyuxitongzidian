@@ -1,32 +1,32 @@
 {
- "char": "㯯",
- "level": 3,
- "parent": "贛",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "同㔶，小杯名；格木也。jù，負戴器。dǎn，篋類。"
+  "char": "㯯",
+  "level": 3,
+  "parent": "贛",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "g「隔估」取「隔」：木隔而為器（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“同㔶。小杯名。”《集韻》：“格木也。”jù，《類篇》：“郡羽切，音窶。㯯盨，負戴器。”dǎn，《類篇》：“都感切，音黕。篋類。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "g「隔估」取「隔」：木隔而為器（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

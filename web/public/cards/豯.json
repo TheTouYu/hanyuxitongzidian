@@ -1,35 +1,35 @@
 {
- "char": "豯",
- "pinyin": "xī",
- "bus": {
-  "num": 2,
-  "name": "奚"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "生三月豚，腹豯豯皃也；出生三個月的豬，大肚之狀。"
+  "char": "豯",
+  "pinyin": "xī",
+  "bus": {
+    "num": 2,
+    "name": "奚"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：豯豯，幼小牽連（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《方言》：“豬，其子或謂之豯。”《說文》：“生三月豚，腹豯豯皃也。从豕奚聲。胡雞切。”出生三個月的豬，大肚的樣子。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：豯豯，幼小牽連（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "奚",
- "aliases": [],
- "head": "豯"
+  ],
+  "level": 3,
+  "parent": "奚",
+  "aliases": [],
+  "head": "豯"
 }

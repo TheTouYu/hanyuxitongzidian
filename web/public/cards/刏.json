@@ -1,36 +1,36 @@
 {
- "char": "刏",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "劃傷也；斷也。以血塗門。"
+  "char": "刏",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“劃傷也。从刀气聲。一曰斷也。又讀若㱯。一曰刀不利，于瓦石上刏之。古外切。”劃傷，切斷。或指將有缺口的刀在瓦石上磨快。《廣韻》：“刏刀使利。”“以血塗門。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "刏（刉）",
- "aliases": [
-  "刉"
- ]
+  ],
+  "head": "刏（刉）",
+  "aliases": [
+    "刉"
+  ]
 }

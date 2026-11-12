@@ -1,45 +1,45 @@
 {
- "char": "𣡖",
- "head": "𣡖（韛𩎻）",
- "pinyin": "bài",
- "aliases": [
-  "韛",
-  "𩎻"
- ],
- "bus": {
-  "num": 149,
-  "name": "北"
- },
- "level": 3,
- "parent": "非",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "韛，吹火韋囊也。",
-   "paras": [
-    "韛，吹火韋囊也。"
-   ]
+  "char": "𣡖",
+  "head": "𣡖（韛𩎻）",
+  "pinyin": "bài",
+  "aliases": [
+    "韛",
+    "𩎻"
+  ],
+  "bus": {
+    "num": 149,
+    "name": "北"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "b「闭剥」取「闭」：韋囊閉氣，鼓之乃張（推）。",
-   "paras": [
-    "b「闭剥」取「闭」：韋囊閉氣，鼓之乃張（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "非",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣡖（韛𩎻）bài《集韻》：“韛，吹火韋囊也。或作𩎻、𣡖。”",
+      "paras": [
+        "𣡖（韛𩎻）bài《集韻》：“韛，吹火韋囊也。或作𩎻、𣡖。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "b「闭剥」取「闭」：韋囊閉氣，鼓之乃張（推）。",
+      "paras": [
+        "b「闭剥」取「闭」：韋囊閉氣，鼓之乃張（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

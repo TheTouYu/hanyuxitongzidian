@@ -1,42 +1,42 @@
 {
- "char": "啡",
- "head": "啡",
- "pinyin": "pèi",
- "aliases": [],
- "bus": {
-  "num": 149,
-  "name": "北"
- },
- "level": 3,
- "parent": "非",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "臥息。一曰唾聲。",
-   "paras": [
-    "臥息。一曰唾聲。"
-   ]
+  "char": "啡",
+  "head": "啡",
+  "pinyin": "pèi",
+  "aliases": [],
+  "bus": {
+    "num": 149,
+    "name": "北"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「辟」：臥息辟口有聲（推）。",
-   "paras": [
-    "p「拼辟」取「辟」：臥息辟口有聲（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "非",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《集韻》：“臥息。一曰唾聲。”pái，《集韻》：“吹也。”fēi，譯音用字。如“咖啡”。",
+      "paras": [
+        "《集韻》：“臥息。一曰唾聲。”pái，《集韻》：“吹也。”fēi，譯音用字。如“咖啡”。"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「辟」：臥息辟口有聲（推）。",
+      "paras": [
+        "p「拼辟」取「辟」：臥息辟口有聲（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

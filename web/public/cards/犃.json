@@ -1,42 +1,42 @@
 {
- "char": "犃",
- "head": "犃",
- "pinyin": "pǒu",
- "aliases": [],
- "bus": {
-  "num": 150,
-  "name": "不"
- },
- "level": 3,
- "parent": "咅",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "歩后切。雄也、短頭牛。",
-   "paras": [
-    "歩后切。雄也、短頭牛。"
-   ]
+  "char": "犃",
+  "head": "犃",
+  "pinyin": "pǒu",
+  "aliases": [],
+  "bus": {
+    "num": 150,
+    "name": "不"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「拼」：頭短拼聚（推）。",
-   "paras": [
-    "p「拼辟」取「拼」：頭短拼聚（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "咅",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《玉篇》：“歩后切。雄也、短頭牛。”《廣韻》：“犃㸸，偏高。”",
+      "paras": [
+        "《玉篇》：“歩后切。雄也、短頭牛。”《廣韻》：“犃㸸，偏高。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「拼」：頭短拼聚（推）。",
+      "paras": [
+        "p「拼辟」取「拼」：頭短拼聚（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

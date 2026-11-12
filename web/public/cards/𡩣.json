@@ -1,34 +1,34 @@
 {
- "char": "𡩣",
- "head": "𡩣",
- "level": 3,
- "parent": "桀",
- "bus": {
-  "num": 7,
-  "name": "桀"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "覆也。"
+  "char": "𡩣",
+  "head": "𡩣",
+  "level": 3,
+  "parent": "桀",
+  "bus": {
+    "num": 7,
+    "name": "桀"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：覆而聚（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡩣jié《集韻》：“巨列切，音傑。覆也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：覆而聚（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

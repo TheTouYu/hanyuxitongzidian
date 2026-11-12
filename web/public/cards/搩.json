@@ -1,37 +1,37 @@
 {
- "char": "搩",
- "head": "搩（𢷒𢫰）",
- "level": 3,
- "parent": "桀",
- "bus": {
-  "num": 7,
-  "name": "桀"
- },
- "aliases": [
-  "𢷒",
-  "𢫰"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "手度物也。張開手指度量物體；jié，強暴、猛暴。"
+  "char": "搩",
+  "head": "搩（𢷒𢫰）",
+  "level": 3,
+  "parent": "桀",
+  "bus": {
+    "num": 7,
+    "name": "桀"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：張手度量如凿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "aliases": [
+    "𢷒",
+    "𢫰"
+  ],
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《集韻》：“手度物也。或作𢫰。”張開（拇指、中指或食指）度量物體。jié，《廣韻》：“強暴。”《玉篇》：“猛暴也。”《集韻》：“𢷒，擔也。或省。亦从桀。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：張手度量如凿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,39 +1,39 @@
 {
- "char": "鰭",
- "trad": "鰭",
- "pinyin": "qí",
- "level": 3,
- "parent": "耆",
- "bus": {
-  "num": 3,
-  "name": "旨"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "魚脊上骨；魚的運動器官，由薄膜和硬刺組成。"
+  "char": "鰭",
+  "trad": "鰭",
+  "pinyin": "qí",
+  "level": 3,
+  "parent": "耆",
+  "bus": {
+    "num": 3,
+    "name": "旨"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：鰭貼魚身，如親附（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《集韻》：“魚脊上骨。”魚的運動器官，由薄膜和硬刺組成。《玉篇》：“鮨，魚名。又鮓屬。鰭，同上。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「亲」：鰭貼魚身，如親附（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "simp": "鳍",
- "aliases": [
-  "鮨"
- ],
- "head": "鰭（鮨）"
+  ],
+  "simp": "鳍",
+  "aliases": [
+    "鮨"
+  ],
+  "head": "鰭（鮨）"
 }

@@ -1,35 +1,35 @@
 {
- "char": "慀",
- "pinyin": "xié",
- "bus": {
-  "num": 2,
-  "name": "奚"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "𢠼慀，心不平也；小怨積於中。"
+  "char": "慀",
+  "pinyin": "xié",
+  "bus": {
+    "num": 2,
+    "name": "奚"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：情緒纏綿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《集韻》：“戸佳切，音諧。𢠼慀，心不平也。”xì，《廣韻》：“恨走皃。”《集韻》：“恨也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：情緒纏綿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "奚",
- "aliases": [],
- "head": "慀"
+  ],
+  "level": 3,
+  "parent": "奚",
+  "aliases": [],
+  "head": "慀"
 }

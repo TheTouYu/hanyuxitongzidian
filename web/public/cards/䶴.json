@@ -1,32 +1,32 @@
 {
- "char": "䶴",
- "level": 3,
- "parent": "欠",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "音律管塤之樂也。狀如吹火筒。"
+  "char": "䶴",
+  "level": 3,
+  "parent": "欠",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "ch「刺持」取「持」：氣持於管而鳴（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“䶴音律管塤之樂也。从龠炊聲。昌垂切。”其狀當如吹火筒，故从“炊”，大抵即簫。《玉篇》：“樂人以䶴管中氣。今作吹。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "ch「刺持」取「持」：氣持於管而鳴（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

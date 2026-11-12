@@ -1,38 +1,38 @@
 {
- "id": "𤷡",
- "head": "𤷡",
- "pinyin": "xī",
- "level": 3,
- "bus": {
-  "num": 48,
-  "name": "虍"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙》：“同㾷。”㾷，《集韻》：“痠㾷，痛也。”nüè，《博雅》：“病也。”同“瘧”。"
+  "id": "𤷡",
+  "head": "𤷡",
+  "pinyin": "xī",
+  "level": 3,
+  "bus": {
+    "num": 48,
+    "name": "虍"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「续」：痠痛續而不斷（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𤷡（㾷）xī《字彙》：“同㾷。”㾷，《集韻》：“痠㾷，痛也。”nüè，《博雅》：“病也。”《漢典》：“同‘瘧’。瘧疾。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「续」：痠痛續而不斷（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "lei": "疒",
- "char": "𤷡",
- "aliases": [
-  "㾷"
- ],
- "noRoot": true
+  ],
+  "lei": "疒",
+  "char": "𤷡",
+  "aliases": [
+    "㾷"
+  ],
+  "noRoot": true
 }

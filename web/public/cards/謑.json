@@ -1,37 +1,37 @@
 {
- "char": "謑",
- "pinyin": "xǐ",
- "bus": {
-  "num": 2,
-  "name": "奚"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "恥也；謑詬，恥辱；小人怒——小而易怒。"
+  "char": "謑",
+  "pinyin": "xǐ",
+  "bus": {
+    "num": 2,
+    "name": "奚"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：在心（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“恥也。从言奚聲。，謑或从奊。胡禮切。”《玉篇》：“謑詬，恥辱也。”《集韻》：“謑詬，小人怒。”xià，《廣韻》：“怒言。”xí，《集韻》：“謑髁，不正皃。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：在心（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "奚",
- "head": "謑（䜁）",
- "aliases": [
-  "䜁"
- ]
+  ],
+  "level": 3,
+  "parent": "奚",
+  "head": "謑（䜁）",
+  "aliases": [
+    "䜁"
+  ]
 }

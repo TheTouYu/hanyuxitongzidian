@@ -1,35 +1,35 @@
 {
- "char": "䪜",
- "head": "䪜",
- "pinyin": "chān",
- "aliases": [],
- "bus": {
-  "num": 35,
-  "name": "厂"
- },
- "level": 3,
- "parent": "詹",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "，《集韻》：“衣蔽也。”"
+  "char": "䪜",
+  "head": "䪜",
+  "pinyin": "chān",
+  "aliases": [],
+  "bus": {
+    "num": 35,
+    "name": "厂"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "ch「刺持」取「刺」：蔽膝垂於膝前。（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "詹",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《廣韻》：“屏也。”《集韻》：“襜，《說文》：‘衣蔽前。’一曰襌襦謂之襜。或从韋，亦作衻、襝。”蔽膝。或指單層短衣。chǎn，《集韻》：“韍也。通作襜、幨。”古代朝覲或祭祀時遮蔽在衣服前面的一種服飾。《廣韻》：同“韂”。yǎn，《集韻》：“衣蔽也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "ch「刺持」取「刺」：蔽膝垂於膝前。（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

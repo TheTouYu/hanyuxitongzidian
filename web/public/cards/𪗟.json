@@ -1,36 +1,36 @@
 {
- "char": "𪗟",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "齧也。咬。"
+  "char": "𪗟",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪗟（齕）hé《說文》：“齧也。从齒气聲。戶骨切。”咬。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "𪗟（齕）",
- "aliases": [
-  "齕"
- ]
+  ],
+  "head": "𪗟（齕）",
+  "aliases": [
+    "齕"
+  ]
 }

@@ -1,37 +1,37 @@
 {
- "char": "概",
- "level": 3,
- "parent": "旡",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "𣏙斗斛。刮平斗斛的器具；大略。jiē，小木樁。"
+  "char": "概",
+  "level": 3,
+  "parent": "旡",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "g「隔估」取「隔」：刮平使隔（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“𣏙斗斛。从木旣聲。工代切。”量穀物時，刮平斗斛的器具。大略。即大致平整、滿之意。jiē，《集韻》：“櫭，巨列切，音竭。杙也。或省。亦楬。”小木樁。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "g「隔估」取「隔」：刮平使隔（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "概（櫭楬）",
- "aliases": [
-  "櫭",
-  "楬"
- ]
+  ],
+  "head": "概（櫭楬）",
+  "aliases": [
+    "櫭",
+    "楬"
+  ]
 }

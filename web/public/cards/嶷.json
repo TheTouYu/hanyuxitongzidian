@@ -1,41 +1,41 @@
 {
- "char": "嶷",
- "level": 3,
- "parent": "疑",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "九嶷山，舜所葬。世稱九峰相似，望而疑之，謂之九嶷。"
+  "char": "嶷",
+  "level": 3,
+  "parent": "疑",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：今讀零聲母（舊讀疑母），緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“九嶷山，舜所葬，在零陵營道。从山疑聲。語其切。”《元結·九嶷山記》：“山方二千餘里，四州各近一隅，世稱九峰相似，望而疑之，謂之九嶷。通作疑。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：今讀零聲母（舊讀疑母），緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "photos": [
-  {
-   "file": "嶷/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  ""
- ]
+  ],
+  "photos": [
+    {
+      "file": "嶷/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    ""
+  ]
 }

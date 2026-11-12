@@ -1,32 +1,32 @@
 {
- "char": "𡏲",
- "level": 3,
- "parent": "旡",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "仰塗也。昂頭向上塗抹屋頂。"
+  "char": "𡏲",
+  "level": 3,
+  "parent": "旡",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：塗而續上（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡏲（𡒖塈𡉙）xì《說文》：“仰塗也。从土旣聲。其冀切。”昂起頭向上塗抹屋頂。《釋名·釋宮室》：“猶煟煟，細澤貌也。”《廣韻》：“息也。”《集韻》：“𡒖，或省。古作𡉙。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：塗而續上（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

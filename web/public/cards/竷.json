@@ -1,46 +1,46 @@
 {
- "char": "竷",
- "level": 3,
- "parent": "贛",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "繇也舞也，樂有章。鼓聲；樂器名，箜篌。"
+  "char": "竷",
+  "level": 3,
+  "parent": "贛",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "k「口控」取「控」：鼓聲控而和（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“繇也舞也。樂有章。从章从夅从夊。《詩》曰：‘竷竷舞我。’苦感切。”《玉篇》：“和恱之響也。今作坎。”《正字通》：“鼓聲。又樂噐名，箜篌。”kàn，《集韻》：“擊鼔也。或从殳。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "k「口控」取「控」：鼓聲控而和（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "竷（𣫡坎）",
- "aliases": [
-  "𣫡",
-  "坎"
- ],
- "photos": [
-  {
-   "file": "竷/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  ""
- ]
+  ],
+  "head": "竷（𣫡坎）",
+  "aliases": [
+    "𣫡",
+    "坎"
+  ],
+  "photos": [
+    {
+      "file": "竷/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    ""
+  ]
 }

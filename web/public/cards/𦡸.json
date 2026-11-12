@@ -1,36 +1,36 @@
 {
- "char": "𦡸",
- "level": 3,
- "parent": "疑",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "肥膩；𦡸，上同，出道書。"
+  "char": "𦡸",
+  "level": 3,
+  "parent": "疑",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "n「纳弄」取「纳」：脂納而不散（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦡸（膩）nǐ《廣韻》：“膩，肥膩。𦡸，上同，出道書。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "n「纳弄」取「纳」：脂納而不散（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "𦡸（膩）",
- "aliases": [
-  "膩"
- ]
+  ],
+  "head": "𦡸（膩）",
+  "aliases": [
+    "膩"
+  ]
 }

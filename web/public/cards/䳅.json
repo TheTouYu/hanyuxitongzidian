@@ -1,35 +1,35 @@
 {
- "char": "䳅",
- "pinyin": "zhǐ",
- "level": 3,
- "parent": "只",
- "bus": {
-  "num": 1,
-  "name": "只"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《山海經》鳥如烏、赤足，即原雞；足赤而距橫生，故取「橫生而曲」。"
+  "char": "䳅",
+  "pinyin": "zhǐ",
+  "level": 3,
+  "parent": "只",
+  "bus": {
+    "num": 1,
+    "name": "只"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：赤足之距橫生如鑿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《廣韻》：“䳅䳜，鳥，如烏，赤足，可以禦火，見《山海經》。”大約即原雞。因其足色紅，故稱“可以禦火”。zhì，《集韻》：“鳥聲。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：赤足之距橫生如鑿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "䳅"
+  ],
+  "aliases": [],
+  "head": "䳅"
 }

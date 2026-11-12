@@ -1,41 +1,41 @@
 {
- "char": "謁",
- "level": 3,
- "parent": "曷",
- "bus": {
-  "num": 4,
-  "name": "匃"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "白也。告也、請也。稟告；陳述。"
+  "char": "謁",
+  "level": 3,
+  "parent": "曷",
+  "bus": {
+    "num": 4,
+    "name": "匃"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“白也。从言曷聲。於歇切。”《爾雅·釋詁》：“告也、請也。”稟告；陳述。《正字通》：“刺名也。古之門狀，今之拜帖。”ǎi，《篇海類編》：“亦作䨠，陰晦也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "photos": [
-  {
-   "file": "謁/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  "唐三彩胡人駱駝俑"
- ]
+  ],
+  "photos": [
+    {
+      "file": "謁/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    "唐三彩胡人駱駝俑"
+  ]
 }

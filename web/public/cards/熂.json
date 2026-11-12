@@ -1,32 +1,32 @@
 {
- "char": "熂",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "燎除旁草也；火焚山艸也。"
+  "char": "熂",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「消」：火焚而消（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《玉篇》：“燎除旁草也。”《廣韻》：“燹火也。”《集韻》：“火焚山艸也。”“薙艸燒之曰熂。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「消」：火焚而消（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

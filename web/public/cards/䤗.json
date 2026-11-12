@@ -1,32 +1,32 @@
 {
- "char": "䤗",
- "level": 3,
- "parent": "贛",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "酒味淫也。酒味深長；酒味苦。"
+  "char": "䤗",
+  "level": 3,
+  "parent": "贛",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "g「隔估」取「隔」：酒味隔而深（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“酒味淫也。从酉，竷省聲。讀若《春秋傳》曰‘美而豔’。古禫切。”酒味深長。《玉篇》：“酒味苦。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "g「隔估」取「隔」：酒味隔而深（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

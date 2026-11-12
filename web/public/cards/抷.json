@@ -1,42 +1,42 @@
 {
- "char": "抷",
- "head": "抷",
- "pinyin": "pī",
- "aliases": [],
- "bus": {
-  "num": 150,
-  "name": "不"
- },
- "level": 3,
- "parent": "不",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "攀悲切，音丕。披也。",
-   "paras": [
-    "攀悲切，音丕。披也。"
-   ]
+  "char": "抷",
+  "head": "抷",
+  "pinyin": "pī",
+  "aliases": [],
+  "bus": {
+    "num": 150,
+    "name": "不"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「辟」：以手辟開（推）。",
-   "paras": [
-    "p「拼辟」取「辟」：以手辟開（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "不",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《集韻》：“攀悲切，音丕。披也。”同“批”，反手批擊。pēi，《集韻》：“手掬也。”",
+      "paras": [
+        "《集韻》：“攀悲切，音丕。披也。”同“批”，反手批擊。pēi，《集韻》：“手掬也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「辟」：以手辟開（推）。",
+      "paras": [
+        "p「拼辟」取「辟」：以手辟開（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

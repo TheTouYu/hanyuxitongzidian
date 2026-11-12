@@ -1,39 +1,39 @@
 {
- "char": "㨙",
- "trad": "㨙",
- "simp": "",
- "pinyin": "xié",
- "level": 3,
- "parent": "奚",
- "bus": {
-  "num": 2,
-  "name": "奚"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "挾也、扶也；《集韻》「揭也」，杭越謂換曰㨙；皆牽引挾持。"
+  "char": "㨙",
+  "trad": "㨙",
+  "simp": "",
+  "pinyin": "xié",
+  "level": 3,
+  "parent": "奚",
+  "bus": {
+    "num": 2,
+    "name": "奚"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：挾扶而手相牽連。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《玉篇》：“挾也、扶也。”《廣韻》：“挾物。”xì，《集韻》：“揭也。”“杭越之間謂換曰㨙。或从系。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：挾扶而手相牽連。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "𢭁"
- ],
- "head": "㨙（𢭁）"
+  ],
+  "aliases": [
+    "𢭁"
+  ],
+  "head": "㨙（𢭁）"
 }

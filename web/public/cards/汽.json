@@ -1,36 +1,36 @@
 {
- "char": "汽",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "水涸也；或曰泣下。竭盡。"
+  "char": "汽",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“水涸也。或曰泣下。从水气聲。《詩》曰：‘汽可小康。’許訖切。”《廣雅》：“盡也。”竭盡。《集韻》：“水气也。”gài，《集韻》：“幾也。”將近。完成。yǐ，《集韻》：“今謂去飯水為汽。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "汽（汔）",
- "aliases": [
-  "汔"
- ]
+  ],
+  "head": "汽（汔）",
+  "aliases": [
+    "汔"
+  ]
 }

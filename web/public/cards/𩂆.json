@@ -1,42 +1,42 @@
 {
- "char": "𩂆",
- "head": "𩂆",
- "pinyin": "fǒu",
- "aliases": [],
- "bus": {
-  "num": 150,
-  "name": "不"
- },
- "level": 3,
- "parent": "不",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "匹九切，音𢜳。霧也。",
-   "paras": [
-    "匹九切，音𢜳。霧也。"
-   ]
+  "char": "𩂆",
+  "head": "𩂆",
+  "pinyin": "fǒu",
+  "aliases": [],
+  "bus": {
+    "num": 150,
+    "name": "不"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "f「附分」取「分」：霧氣分披（推）。",
-   "paras": [
-    "f「附分」取「分」：霧氣分披（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "不",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩂆fǒu《集韻》：“匹九切，音𢜳。霧也。”fù，《五音集韻》：“芳賦切，音赴。雨不止也。”",
+      "paras": [
+        "𩂆fǒu《集韻》：“匹九切，音𢜳。霧也。”fù，《五音集韻》：“芳賦切，音赴。雨不止也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "f「附分」取「分」：霧氣分披（推）。",
+      "paras": [
+        "f「附分」取「分」：霧氣分披（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

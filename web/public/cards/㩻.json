@@ -1,34 +1,34 @@
 {
- "char": "㩻",
- "head": "㩻",
- "level": 3,
- "parent": "支",
- "bus": {
-  "num": 13,
-  "name": "支"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“㩻䧢也。从危支聲。去其切。”崎嶇不正。guì，《廣韻》：“瘦極。”guǐ，《集韻》：“重累也。”“依也。”"
+  "char": "㩻",
+  "head": "㩻",
+  "level": 3,
+  "parent": "支",
+  "bus": {
+    "num": 13,
+    "name": "支"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：崎嶇而缺平（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“㩻䧢也。从危支聲。去其切。”崎嶇；傾斜不正。《廣韻》：“不正也。” guì，《廣韻》：“瘦極。”《集韻》：“疲極也。或作攰。”guǐ，《集韻》：“佹，重纍也。一曰依也。或从支。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「缺」：崎嶇而缺平（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

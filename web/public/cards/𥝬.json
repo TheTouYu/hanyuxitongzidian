@@ -1,37 +1,37 @@
 {
- "char": "𥝬",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "堅米，舂不破的米。"
+  "char": "𥝬",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥝬（𥝖籺）hé《說文》：“𥞸也。从禾气聲。居气切。”堅米。即舂不破的米。《集韻》：“舂粟不潰。”“屑米細者曰籺。或从禾。”“米粉。”“𥝬，麤屑也。或从麥。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "𥝬（𥝖籺）",
- "aliases": [
-  "𥝖",
-  "籺"
- ]
+  ],
+  "head": "𥝬（𥝖籺）",
+  "aliases": [
+    "𥝖",
+    "籺"
+  ]
 }

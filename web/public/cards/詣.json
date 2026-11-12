@@ -1,36 +1,36 @@
 {
- "char": "詣",
- "pinyin": "yì",
- "bus": {
-  "num": 3,
-  "name": "旨"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "𠋫至也；往也、到也、至也。"
+  "char": "詣",
+  "pinyin": "yì",
+  "bus": {
+    "num": 3,
+    "name": "旨"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“𠋫至也。从言旨聲。五計切。”問候。《玉篇》：“往也、到也、至也。”《小爾雅》：“進也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "旨",
- "simp": "诣",
- "aliases": [],
- "head": "詣"
+  ],
+  "level": 3,
+  "parent": "旨",
+  "simp": "诣",
+  "aliases": [],
+  "head": "詣"
 }

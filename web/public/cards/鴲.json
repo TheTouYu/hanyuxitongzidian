@@ -1,36 +1,36 @@
 {
- "char": "鴲",
- "trad": "鴲",
- "pinyin": "zhī",
- "level": 3,
- "parent": "旨",
- "bus": {
-  "num": 3,
-  "name": "旨"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "瞑鴲也；小靑雀，喙光滑如凝脂。"
+  "char": "鴲",
+  "trad": "鴲",
+  "pinyin": "zhī",
+  "level": 3,
+  "parent": "旨",
+  "bus": {
+    "num": 3,
+    "name": "旨"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：小雀喙尖如鑿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“瞑鴲也。从鳥旨聲。旨夷切。”《廣韻》：“小靑雀也。”指其喙光滑如凝脂。《玉篇》：“鳥鷇未生毛也。”剛孵出的幼鳥。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：小雀喙尖如鑿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "鴲"
+  ],
+  "aliases": [],
+  "head": "鴲"
 }

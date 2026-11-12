@@ -1,33 +1,33 @@
 {
- "char": "鬐",
- "pinyin": "qí",
- "level": 3,
- "parent": "耆",
- "bus": {
-  "num": 3,
-  "name": "旨"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "馬鬣也；馬頸長毛，硬挺。"
+  "char": "鬐",
+  "pinyin": "qí",
+  "level": 3,
+  "parent": "耆",
+  "bus": {
+    "num": 3,
+    "name": "旨"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：鬣毛貼頸而聚（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《新附》：“馬鬣也。从髟耆聲。渠脂切。”馬頸上的長毛。《字彙補》：“魚脊也。”《方言》：“尾稍盡也。”郭璞注：“毛物盡落去之名。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「亲」：鬣毛貼頸而聚（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

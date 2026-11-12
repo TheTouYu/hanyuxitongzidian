@@ -1,37 +1,37 @@
 {
- "char": "𪌇",
- "level": 3,
- "parent": "乞",
- "bus": {
-  "num": 6,
-  "name": "乞"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "堅麥也。堅硬的麥粒。"
+  "char": "𪌇",
+  "level": 3,
+  "parent": "乞",
+  "bus": {
+    "num": 6,
+    "name": "乞"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪌇（覈麧）hé《說文》：“堅麥也。从麥气聲。乎沒切。”堅硬的麥粒。《集韻》：“麥糠中不破者。或作覈。”“屑麥。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "𪌇（覈麧）",
- "aliases": [
-  "覈",
-  "麧"
- ]
+  ],
+  "head": "𪌇（覈麧）",
+  "aliases": [
+    "覈",
+    "麧"
+  ]
 }

@@ -1,32 +1,32 @@
 {
- "char": "扻",
- "level": 3,
- "parent": "欠",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "治髮也，即櫛。"
+  "char": "扻",
+  "level": 3,
+  "parent": "欠",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：梳齒如鑿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《集韻》：“側吏切，音胾。治髮也。”“櫛，《說文》：‘梳篦之總名也。’或作楖、扻。”梳頭髮。sǔn，《集韻》：“損，《說文》：‘減也。’古作扻。”kǎn，《集韻》：“竷，擊也。或作扻。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：梳齒如鑿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,32 +1,32 @@
 {
- "char": "坎",
- "level": 3,
- "parent": "欠",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "陷也。低陷的地方。"
+  "char": "坎",
+  "level": 3,
+  "parent": "欠",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "k「口控」取「控」：地有口而控水（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“陷也。从土欠聲。苦感切。”低陷的地方。《集韻》：“險岸也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "k「口控」取「控」：地有口而控水（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

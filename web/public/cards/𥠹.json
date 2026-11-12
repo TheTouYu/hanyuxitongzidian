@@ -1,36 +1,36 @@
 {
- "char": "𥠹",
- "head": "𥠹（䅥）",
- "level": 3,
- "parent": "桀",
- "bus": {
-  "num": 7,
-  "name": "桀"
- },
- "aliases": [
-  "䅥"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "禾出皃；禾舉出苗也。"
+  "char": "𥠹",
+  "head": "𥠹（䅥）",
+  "level": 3,
+  "parent": "桀",
+  "bus": {
+    "num": 7,
+    "name": "桀"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：禾聚而出（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "aliases": [
+    "䅥"
+  ],
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥠹（䅥）jié《集韻》：“禾出皃。”“䅥，《說文》：‘禾舉出苗也。’或从桀。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：禾聚而出（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

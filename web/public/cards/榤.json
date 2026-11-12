@@ -1,36 +1,36 @@
 {
- "char": "榤",
- "head": "榤（𡏝）",
- "level": 3,
- "parent": "桀",
- "bus": {
-  "num": 7,
-  "name": "桀"
- },
- "aliases": [
-  "𡏝"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "杙也。木樁；雞棲于杙。"
+  "char": "榤",
+  "head": "榤（𡏝）",
+  "level": 3,
+  "parent": "桀",
+  "bus": {
+    "num": 7,
+    "name": "桀"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：木聚而立（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "aliases": [
+    "𡏝"
+  ],
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《玉篇》：“杙也。”木樁。《廣韻》：“雞棲于杙。”雞棲息在木樁上。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：木聚而立（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

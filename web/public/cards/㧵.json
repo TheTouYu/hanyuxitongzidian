@@ -1,44 +1,44 @@
 {
- "char": "㧵",
- "head": "㧵（抔掊）",
- "pinyin": "póu",
- "aliases": [
-  "掊"
- ],
- "bus": {
-  "num": 150,
-  "name": "不"
- },
- "level": 3,
- "parent": "否",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "同抔。",
-   "paras": [
-    "同抔。"
-   ]
+  "char": "㧵",
+  "head": "㧵（抔掊）",
+  "pinyin": "póu",
+  "aliases": [
+    "掊"
+  ],
+  "bus": {
+    "num": 150,
+    "name": "不"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「拼」：兩手拼掬（推）。",
-   "paras": [
-    "p「拼辟」取「拼」：兩手拼掬（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "否",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《字彙》：“同抔。”抔，《廣韻》：“披抔。”“手掬物也。”《正字通》：“掊字之訛。”",
+      "paras": [
+        "《字彙》：“同抔。”抔，《廣韻》：“披抔。”“手掬物也。”《正字通》：“掊字之訛。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「拼」：兩手拼掬（推）。",
+      "paras": [
+        "p「拼辟」取「拼」：兩手拼掬（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

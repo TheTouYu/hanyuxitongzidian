@@ -1,35 +1,35 @@
 {
- "char": "榰",
- "pinyin": "zhī",
- "bus": {
-  "num": 3,
-  "name": "旨"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "柱砥也，古用木今以石；柱腳石，支撐。"
+  "char": "榰",
+  "pinyin": "zhī",
+  "bus": {
+    "num": 3,
+    "name": "旨"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：柱石鑿入地（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“柱砥。古用木，今以石。从木耆聲。《易》：‘榰恒凶’。章移切。”柱腳石。《玉篇》：“柱也。”支撐。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：柱石鑿入地（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "耆",
- "aliases": [],
- "head": "榰"
+  ],
+  "level": 3,
+  "parent": "耆",
+  "aliases": [],
+  "head": "榰"
 }
