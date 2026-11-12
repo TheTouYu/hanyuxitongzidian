@@ -21585,11 +21585,10 @@
    ]
   },
   "坒": {
-   "doc": "卷九十八  銿",
+   "doc": "卷廿六  飛",
    "variants": "",
    "files": [
-    "坒/01.png",
-    "坒/02.png"
+    "01.png"
    ]
   },
   "堵": {
@@ -44340,28 +44339,43 @@
   },
   "比": {
    "doc": "卷廿六  飛",
-   "variants": "夶𣬅",
+   "variants": "",
    "files": [
-    "比/01.png",
-    "比/02.png",
-    "比/03.png",
-    "比/04.png",
-    "比/05.jpg",
-    "比/06.png",
-    "比/07.png",
-    "比/08.png",
-    "比/09.png",
-    "比/10.png",
-    "比/11.png",
-    "比/12.png",
-    "比/13.jpg",
-    "比/14.png",
-    "比/15.png"
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "16.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "27.png",
+    "28.png",
+    "29.png",
+    "30.png"
    ],
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "群鳥列隊飛翔"
     }
    ]
   },
@@ -44410,27 +44424,27 @@
    "doc": "卷廿六  飛",
    "variants": "",
    "files": [
-    "妣/01.png",
-    "妣/02.png",
-    "妣/03.png",
-    "妣/04.png",
-    "妣/05.jpg",
-    "妣/06.jpg",
-    "妣/07.jpg"
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png"
    ]
   },
   "貔": {
    "doc": "卷廿六  飛",
    "variants": "",
    "files": [
-    "貔/01.png"
+    "01.png"
    ]
   },
   "𦃋": {
    "doc": "卷廿六  飛",
    "variants": "",
    "files": [
-    "𦃋/01.png"
+    "01.png"
    ]
   },
   "胃": {
@@ -110682,6 +110696,94 @@
      "caption": "《耕織圖·簸揚》局部（清 焦秉真）"
     }
    ]
+  },
+  "𣬈": {
+   "doc": "卷廿六  飛",
+   "variants": "",
+   "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png"
+   ],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "牛百葉（瓣胃）"
+    }
+   ]
+  },
+  "芘": {
+   "doc": "卷廿六  飛",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "錦葵"
+    }
+   ]
+  },
+  "琵": {
+   "doc": "卷廿六  飛",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "《韓熙載夜宴圖》局部（南唐 顧閎中）"
+    }
+   ]
+  },
+  "篦": {
+   "doc": "卷廿六  飛",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "漆篦（漢代）"
+    }
+   ]
+  },
+  "蓖": {
+   "doc": "卷廿六  飛",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "蓖麻"
+    }
+   ]
+  },
+  "𪄆": {
+   "doc": "卷廿六  飛",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "𪄆鵊"
+    }
+   ]
+  },
+  "螕": {
+   "doc": "卷廿六  飛",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "牛虱"
+    }
+   ]
   }
  },
  "炙": {
@@ -115510,7 +115612,7 @@
   "芘": [
    {
     "file": "photos/芘/01.jpg",
-    "caption": ""
+    "caption": "錦葵"
    }
   ],
   "芠": [
@@ -116527,7 +116629,7 @@
   ],
   "螕": [
    {
-    "file": "photos/螕/01.png",
+    "file": "photos/螕/01.jpg",
     "caption": "牛虱"
    }
   ],
@@ -122020,7 +122122,7 @@
   "比": [
    {
     "file": "photos/比/01.jpg",
-    "caption": ""
+    "caption": "群鳥列隊飛翔"
    }
   ],
   "匹": [
@@ -123313,6 +123415,36 @@
    {
     "file": "photos/簸/01.jpg",
     "caption": "《耕織圖·簸揚》局部（清 焦秉真）"
+   }
+  ],
+  "𣬈": [
+   {
+    "file": "photos/𣬈/01.jpg",
+    "caption": "牛百葉（瓣胃）"
+   }
+  ],
+  "琵": [
+   {
+    "file": "photos/琵/01.jpg",
+    "caption": "《韓熙載夜宴圖》局部（南唐 顧閎中）"
+   }
+  ],
+  "篦": [
+   {
+    "file": "photos/篦/01.jpg",
+    "caption": "漆篦（漢代）"
+   }
+  ],
+  "蓖": [
+   {
+    "file": "photos/蓖/01.jpg",
+    "caption": "蓖麻"
+   }
+  ],
+  "𪄆": [
+   {
+    "file": "photos/𪄆/01.jpg",
+    "caption": "𪄆鵊"
    }
   ]
  }
