@@ -34,7 +34,7 @@ function renderCard(ch){
   if (!existsSync(fp)) return null;
   const d=JSON.parse(readFileSync(fp,'utf8'));
   let h='<!doctype html><meta charset="utf-8"><title>'+escH(d.head||d.char)+'</title>';
-  h+='<style>.jl{color:inherit;text-decoration:none;border-bottom:1px dashed #c9b79a}.al{color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a}body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cch{height:1.05em;vertical-align:-0.12em}'+
+  h+='<style>.jl{color:inherit;text-decoration:none;border-bottom:1px dashed #c9b79a}.al{color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a}body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}h4.sub{color:#8a5a2b;margin:14px 0 2px;font-size:16px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cch{height:1.05em;vertical-align:-0.12em}'+
   '<style>.cim{height:2.1em;vertical-align:-0.45em;margin:0 2px}.ciw{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 10px}.ciw{align-items:flex-end}.ciw .cibw{display:inline-block;text-align:center;margin:2px 4px 8px 0}.ciw .ciblab{display:inline-block;color:#8a6d3b;font-size:15px;margin:0 14px 26px 2px}.ciw img{height:104px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gs{display:flex;gap:10px;overflow-x:auto;padding:6px 0 10px}.gs figure{margin:0;text-align:center}.gs img{height:110px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gsbar{position:relative}.gsbar .gs{padding:6px 34px}.gsnav{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:28px;height:60px;border:1px solid #e0d8c8;border-radius:6px;background:rgba(255,252,245,.92);color:#8a6d3b;font-size:20px;line-height:56px;text-align:center;cursor:pointer;user-select:none}.gsnav:hover{background:#fff}.gsl{left:0}.gsr{right:0}.gs figcaption{font-size:11px;color:#999}.pill{display:inline-block;margin:2px 0 8px;padding:1px 10px;border:1px solid #ddd;border-radius:12px;color:#666;font-size:13px}small{color:#888;font-weight:400}.back{display:inline-block;margin-bottom:10px;color:#06c}</style>';
   const _hd=String(d.head||d.char);const _m=_hd.match(/^([^（(]+)[（(]([^）)]*)[）)]\s*$/);const _hl=_m?escH(_m[1])+'（'+Array.from(_m[2]).map(a=>'<a class="al" href="/card/'+encodeURIComponent(a)+'">'+escH(a)+'</a>').join('')+'）':ext(_hd);
   h+='<a class="back" href="/test.html">← 返回检索</a><h2>'+_hl+' <small>'+escH(d.pinyin||'')+'</small></h2>';
@@ -57,8 +57,8 @@ function renderCard(ch){
         const keep = (pd2.sections || []).filter(x => ['benyi','zhuanyi','bianzheng','yinyuan'].includes(x.key) && (x.text || (x.paras && x.paras.length)));
         if (keep.length) {
           const label = '字根「' + (pd2.head || pd2.char || d.parent) + '」';
-          const text = keep.map(x => (x.label ? x.label + '：' : '') + (x.paras && x.paras.length ? x.paras.join('') : String(x.text || ''))).join('\n');
-          const _i = (d.sections || []).findIndex(x => x.key === 'suoshujuan');let _fixText = String(text).replace(/src="\/glyphs\/\//g, 'src="/glyphs/' + encodeURIComponent(pd2.char || d.parent) + '/');const _pg = (pd2.gdir || ('inline/' + (pd2.char || d.parent)));_fixText = _fixText.replace(/\{\{([^}]+)\}\}/g, function(_m, _g){ return '{{' + _g + '}}'; });const _sec = { key: 'rootembed', label: label, text: _fixText, gdir: _pg };if (_i >= 0) d.sections.splice(_i, 0, _sec); else d.sections = (d.sections || []).concat([_sec]);
+          const subs = keep.map(x => ({ label: x.label || '', paras: (x.paras && x.paras.length ? x.paras.slice() : [String(x.text || '')]).flatMap(p => String(p).split(/\n+/).filter(Boolean)) }));
+          const _i = (d.sections || []).findIndex(x => x.key === 'suoshujuan');const _pg = (pd2.gdir || ('inline/' + (pd2.char || d.parent)));const _sec = { key: 'rootembed', label: label, subs: subs, gdir: _pg };if (_i >= 0) d.sections.splice(_i, 0, _sec); else d.sections = (d.sections || []).concat([_sec]);
         }
       }
     }
@@ -70,6 +70,19 @@ function renderCard(ch){
   for (const s of (d.sections||[])){ if (s.key==="ziatt") continue;
     if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+(((s.links&&s.links.length?s.links:(d.links||[]))).map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
+    if (s.subs && s.subs.length){
+      for (const sub of s.subs){
+        if (sub.label) h+='<h4 class="sub">'+escH(sub.label)+'</h4>';
+        for (const pp of (sub.paras||[])){
+          const parts=[]; let tx=String(pp).replace(/\{\{([^}]+)\}\}/g,(m,f)=>{parts.push(((s.gdir||'')+'/'+f)); return '\u0002'+(parts.length-1)+'\u0003';});
+          tx=ext(tx);
+          tx=tx.replace(/\u0002(\d+)\u0003/g,(m,i)=>'<img class="cim" src="/glyphs/'+String(parts[+i]).split('/').map(encodeURIComponent).join('/')+'?v=20261112a">');
+          h+='<p>'+tx+'</p>';
+        }
+      }
+      if (s.gimgs && s.gimgs.length){ /* 字根块不重复列字形 */ }
+      continue;
+    }
     if (s.groups && s.groups.length){
         if (s.text) h+='<p>'+ext(s.text)+'</p>';
       for (const g of s.groups){
