@@ -1,0 +1,42 @@
+{
+ "char": "鮄",
+ "head": "鮄",
+ "pinyin": "fú",
+ "bus": {
+  "num": 156,
+  "name": "弗"
+ },
+ "level": 3,
+ "parent": "弗",
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“音佛。海魚。”魴鮄，亦稱火魚，一種底棲性魚類。體延長，略呈圓筒形，後部稍側扁。胸鳍翼状，略能飞翔。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：魚附海底而棲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十七弗",
+     "label": "卷二十七  弗"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "角魴鮄属"
+  }
+ ]
+}

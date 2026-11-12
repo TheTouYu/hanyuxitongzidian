@@ -44473,41 +44473,35 @@
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "弗/01.png",
-    "弗/02.png",
-    "弗/03.png",
-    "弗/04.png",
-    "弗/05.png",
-    "弗/06.png",
-    "弗/07.png",
-    "弗/08.png",
-    "弗/09.png",
-    "弗/10.png",
-    "弗/11.png",
-    "弗/12.png",
-    "弗/13.png",
-    "弗/14.png",
-    "弗/15.png",
-    "弗/16.png",
-    "弗/17.png",
-    "弗/18.jpg",
-    "弗/19.png",
-    "弗/20.png",
-    "弗/21.png",
-    "弗/22.png"
-   ],
-   "photos": [
-    {
-     "file": "01.jpg",
-     "caption": ""
-    }
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "16.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png"
    ]
   },
   "笰": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "笰/01.png"
+    "01.png"
    ]
   },
   "弔": {
@@ -119980,6 +119974,18 @@
    {
     "file": "photos/卷二十七弗/01.jpg",
     "caption": ""
+   },
+   {
+    "file": "photos/卷二十七弗/02.jpg",
+    "caption": "連枷"
+   },
+   {
+    "file": "photos/卷二十七弗/03.jpg",
+    "caption": "檙"
+   },
+   {
+    "file": "photos/卷二十七弗/04.jpg",
+    "caption": "打連枷（南宋樓璹《耕織圖》）"
    }
   ],
   "卷二十八卜": [
@@ -121756,6 +121762,18 @@
    {
     "file": "photos/𪄆/01.jpg",
     "caption": "𪄆鵊"
+   }
+  ],
+  "砩": [
+   {
+    "file": "photos/砩/01.jpg",
+    "caption": "螢石"
+   }
+  ],
+  "鮄": [
+   {
+    "file": "photos/鮄/01.jpg",
+    "caption": "角魴鮄属"
    }
   ]
  }
