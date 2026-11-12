@@ -43607,11 +43607,11 @@
    ],
    "photos": [
     {
-     "file": "01.jpg",
+     "file": "/glyphs/photos/北/01.jpg",
      "caption": "大雁玉雕（遼）"
     },
     {
-     "file": "02.jpg",
+     "file": "/glyphs/photos/北/02.jpg",
      "caption": "大熊座（北斗七星）與小熊座"
     }
    ]
@@ -43629,21 +43629,25 @@
    "doc": "卷廿六  飛",
    "variants": "",
    "files": [
-    "非/01.png",
-    "非/02.png",
-    "非/03.png",
-    "非/04.png",
-    "非/05.png",
-    "非/06.png",
-    "非/07.png",
-    "非/08.png",
-    "非/09.png",
-    "非/10.png",
-    "非/11.png",
-    "非/12.png",
-    "非/13.png",
-    "非/14.png",
-    "非/15.png"
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "16.png",
+    "17.png",
+    "18.png",
+    "19.png"
    ]
   },
   "排": {
@@ -43666,24 +43670,14 @@
    "doc": "卷廿六  飛",
    "variants": "飞飝𠃧𦐭𦒮𩙱",
    "files": [
-    "飛/01.png",
-    "飛/02.png",
-    "飛/03.png",
-    "飛/04.png",
-    "飛/05.png",
-    "飛/06.png",
-    "飛/07.png",
-    "飛/08.png"
-   ],
-   "photos": [
-    {
-     "file": "01.jpg",
-     "caption": ""
-    },
-    {
-     "file": "02.jpg",
-     "caption": ""
-    }
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png"
    ]
   },
   "飞": {
@@ -110663,6 +110657,22 @@
      "caption": "戴勝鳥"
     }
    ]
+  },
+  "翡": {
+   "photos": [
+    {
+     "file": "/glyphs/photos/翡/01.jpg",
+     "caption": "赤翡翠"
+    }
+   ]
+  },
+  "鯡": {
+   "photos": [
+    {
+     "file": "/glyphs/photos/鯡/01.jpg",
+     "caption": "飛魚"
+    }
+   ]
   }
  },
  "炙": {
@@ -111864,8 +111874,12 @@
   ],
   "北": [
    {
-    "file": "photos/北/02.jpg",
-    "caption": ""
+    "file": "01.jpg",
+    "caption": "大雁玉雕（遼）"
+   },
+   {
+    "file": "02.jpg",
+    "caption": "大熊座（北斗七星）與小熊座"
    }
   ],
   "匟": [
@@ -115290,8 +115304,8 @@
   ],
   "翡": [
    {
-    "file": "photos/翡/01.jpg",
-    "caption": ""
+    "file": "01.jpg",
+    "caption": "赤翡翠"
    }
   ],
   "翣": [
@@ -117537,16 +117551,6 @@
   "颫": [
    {
     "file": "photos/颫/01.png",
-    "caption": ""
-   }
-  ],
-  "飛": [
-   {
-    "file": "photos/飛/01.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/飛/02.jpg",
     "caption": ""
    }
   ],
@@ -123284,6 +123288,12 @@
    {
     "file": "photos/𪘰/01.jpg",
     "caption": ""
+   }
+  ],
+  "鯡": [
+   {
+    "file": "01.jpg",
+    "caption": "飛魚"
    }
   ]
  }
