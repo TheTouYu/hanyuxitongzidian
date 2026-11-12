@@ -1,0 +1,38 @@
+{
+ "char": "腷",
+ "head": "腷（服）",
+ "pinyin": "bì",
+ "aliases": [
+  "服"
+ ],
+ "bus": {
+  "num": 158,
+  "name": "畐"
+ },
+ "level": 3,
+ "parent": "畐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“腷臆，意不泄皃。或作服。”煩悶、積鬱。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：氣閉於胸而積鬱（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十七弗",
+     "label": "卷二十七  弗"
+    }
+   ]
+  }
+ ]
+}

@@ -44571,44 +44571,32 @@
   },
   "畐": {
    "doc": "卷廿七  弗",
-   "variants": "畗",
+   "variants": "",
    "files": [
-    "畐/01.png",
-    "畐/02.png",
-    "畐/03.png",
-    "畐/04.png",
-    "畐/05.png",
-    "畐/06.png",
-    "畐/07.png",
-    "畐/08.png",
-    "畐/09.png",
-    "畐/10.png",
-    "畐/11.png",
-    "畐/12.png",
-    "畐/13.png",
-    "畐/14.png",
-    "畐/15.png",
-    "畐/16.png",
-    "畐/17.png",
-    "畐/18.png",
-    "畐/19.png",
-    "畐/20.png",
-    "畐/21.png",
-    "畐/22.png",
-    "畐/23.png",
-    "畐/24.png",
-    "畐/25.png",
-    "畐/26.png"
-   ],
-   "photos": [
-    {
-     "file": "01.jpg",
-     "caption": ""
-    },
-    {
-     "file": "02.png",
-     "caption": ""
-    }
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12.jpg",
+    "13.jpg",
+    "14.jpg",
+    "15.jpg",
+    "16.jpg",
+    "17.jpg",
+    "18.jpg",
+    "19.jpg",
+    "20.jpg",
+    "21.jpg",
+    "22.jpg",
+    "23.jpg",
+    "24.jpg"
    ]
   },
   "畗": {
@@ -44648,41 +44636,38 @@
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "福/01.png",
-    "福/02.png",
-    "福/03.png",
-    "福/04.png",
-    "福/05.png",
-    "福/06.png"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg"
    ]
   },
   "副": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "副/01.png",
-    "副/02.png",
-    "副/03.png",
-    "副/04.png",
-    "副/05.png",
-    "副/06.png",
-    "副/07.png"
-   ],
-   "photos": [
-    {
-     "file": "01.png",
-     "caption": "商代金文“副”中的青銅刀"
-    }
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
    ]
   },
   "蝠": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "蝠/01.png",
-    "蝠/02.png",
-    "蝠/03.png",
-    "蝠/04.png"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
    ]
   },
   "巿": {
@@ -110265,6 +110250,17 @@
      "caption": ""
     }
    ]
+  },
+  "葍": {
+   "doc": "卷廿七  弗",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": ""
+    }
+   ]
   }
  },
  "炙": {
@@ -114063,11 +114059,11 @@
   "畐": [
    {
     "file": "photos/畐/01.jpg",
-    "caption": ""
+    "caption": "商代的羊首銅刀"
    },
    {
-    "file": "photos/畐/02.png",
-    "caption": ""
+    "file": "photos/畐/02.jpg",
+    "caption": "商代金文「副」中的青銅刀"
    }
   ],
   "畕": [
@@ -121807,6 +121803,12 @@
   "𢐆": [
    {
     "file": "photos/𢐆/01.jpg",
+    "caption": ""
+   }
+  ],
+  "葍": [
+   {
+    "file": "photos/葍/01.jpg",
     "caption": ""
    }
   ]

@@ -1,0 +1,48 @@
+{
+ "char": "蝠",
+ "head": "蝠",
+ "pinyin": "fú",
+ "aliases": [],
+ "bus": {
+  "num": 158,
+  "name": "畐"
+ },
+ "level": 3,
+ "parent": "畐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“蝙蝠，服翼也。从虫畐聲。方六切。”“蝠”的初文本蝙蝠的象形。蝙蝠翼薄而寬大。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：翼薄附體而飛（推）。"
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "gdir": "蝠",
+   "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十七弗",
+     "label": "卷二十七  弗"
+    }
+   ]
+  }
+ ]
+}

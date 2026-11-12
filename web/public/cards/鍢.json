@@ -1,0 +1,38 @@
+{
+ "char": "鍢",
+ "head": "鍢（鍑）",
+ "pinyin": "fù",
+ "aliases": [
+  "鍑"
+ ],
+ "bus": {
+  "num": 158,
+  "name": "畐"
+ },
+ "level": 3,
+ "parent": "畐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“同鍑。”大口鍋。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：釜附灶而炊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十七弗",
+     "label": "卷二十七  弗"
+    }
+   ]
+  }
+ ]
+}
