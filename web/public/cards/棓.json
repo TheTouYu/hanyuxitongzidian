@@ -1,0 +1,44 @@
+{
+ "char": "棓",
+ "head": "棓（㭋棒）",
+ "pinyin": "bàng",
+ "aliases": [
+  "棒"
+ ],
+ "bus": {
+  "num": 150,
+  "name": "不"
+ },
+ "level": 3,
+ "parent": "咅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "棁也。从木咅聲。步項切。",
+   "paras": [
+    "棁也。从木咅聲。步項切。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：杖閉握（推）。",
+   "paras": [
+    "b「闭剥」取「闭」：杖閉握（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十六飛",
+     "label": "卷二十六  飛"
+    }
+   ]
+  }
+ ]
+}

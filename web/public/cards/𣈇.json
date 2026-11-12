@@ -1,0 +1,42 @@
+{
+ "char": "𣈇",
+ "head": "𣈇",
+ "pinyin": "àn",
+ "aliases": [],
+ "bus": {
+  "num": 150,
+  "name": "不"
+ },
+ "level": 3,
+ "parent": "不",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "烏紺反。",
+   "paras": [
+    "烏紺反。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+   "paras": [
+    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十六飛",
+     "label": "卷二十六  飛"
+    }
+   ]
+  }
+ ]
+}
