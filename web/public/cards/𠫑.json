@@ -1,0 +1,49 @@
+{
+ "char": "𠫑",
+ "head": "𠫑",
+ "pinyin": "biāo",
+ "bus": {
+  "num": 155,
+  "name": "驫"
+ },
+ "level": 3,
+ "parent": "驫",
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：𠫑氏鍾，器名。疑即“驫”字繁文。"
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "𠫑",
+   "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：三馬閉合，攢為一字（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十六飛",
+     "label": "卷二十六  飛"
+    }
+   ]
+  }
+ ]
+}
