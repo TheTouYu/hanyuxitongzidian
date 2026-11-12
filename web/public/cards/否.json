@@ -7,7 +7,7 @@
   "num": 150,
   "name": "不"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -201,5 +201,6 @@
     }
    ]
   }
- ]
+ ],
+ "parent": "不"
 }
