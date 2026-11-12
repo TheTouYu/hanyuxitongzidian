@@ -12901,12 +12901,16 @@
    ]
   },
   "璧": {
-   "doc": "卷八十五  匚",
+   "doc": "卷廿六  飛",
    "variants": "",
    "files": [
     "璧/01.png",
     "璧/02.png",
-    "璧/03.png"
+    "璧/03.png",
+    "璧/04.png",
+    "璧/05.png",
+    "璧/06.png",
+    "璧/07.png"
    ]
   },
   "丁": {
@@ -44137,17 +44141,32 @@
     "辟/13.png",
     "辟/14.png",
     "辟/15.png",
-    "辟/16.png",
-    "辟/17.png"
+    "辟/16.png"
    ],
    "photos": [
     {
-     "file": "01.jpg",
-     "caption": "璧              ▲環"
+     "file": "photos/辟/01.jpg",
+     "caption": "璧"
     },
     {
-     "file": "02.jpg",
-     "caption": "二璜壁（齊家文化） ▲三璜璧（東周）"
+     "file": "photos/辟/02.jpg",
+     "caption": "環"
+    },
+    {
+     "file": "photos/辟/03.jpg",
+     "caption": "瑗"
+    },
+    {
+     "file": "photos/辟/04.jpg",
+     "caption": "玦"
+    },
+    {
+     "file": "photos/辟/05.jpg",
+     "caption": "二璜壁（齊家文化）"
+    },
+    {
+     "file": "photos/辟/06.jpg",
+     "caption": "三璜璧（東周）"
     }
    ]
   },
