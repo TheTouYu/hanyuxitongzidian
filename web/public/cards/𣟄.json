@@ -1,36 +1,36 @@
 {
- "char": "𣟄",
- "head": "𣟄",
- "pinyin": "tuò",
- "level": 3,
- "parent": "橐",
- "bus": {
-  "num": 45,
-  "name": "石"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“夜行所擊者。从木橐聲。《易》曰：‘重門擊𣟄’。他各切。”",
-   "cites": []
+  "char": "𣟄",
+  "head": "𣟄",
+  "pinyin": "tuò",
+  "level": 3,
+  "parent": "橐",
+  "bus": {
+    "num": 45,
+    "name": "石"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "t「涂突」取「突」：擊木之聲突突然（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𣟄tuò《說文》：“夜行所擊者。从木橐聲。《易》曰：‘重門擊𣟄’。他各切。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "t「涂突」取「突」：擊木之聲突突然（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

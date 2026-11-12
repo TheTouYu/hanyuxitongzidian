@@ -1,42 +1,42 @@
 {
- "char": "𧋏",
- "head": "𧋏",
- "aliases": [],
- "pinyin": "yì",
- "bus": {
-  "num": 86,
-  "name": "及"
- },
- "level": 3,
- "parent": "及",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“蟲行皃。”",
-   "paras": [
-    "《集韻》：“蟲行皃。”"
-   ]
+  "char": "𧋏",
+  "head": "𧋏",
+  "aliases": [],
+  "pinyin": "yì",
+  "bus": {
+    "num": 86,
+    "name": "及"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "paras": [
-    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "及",
+  "sections": [
     {
-     "t": "卷十四  咠",
-     "ch": "卷十四咠",
-     "label": "卷十四 咠"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧋏yì《集韻》：“蟲行皃。”",
+      "paras": [
+        "𧋏yì《集韻》：“蟲行皃。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+      "paras": [
+        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十四  咠",
+          "ch": "卷十四咠",
+          "label": "卷十四 咠"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

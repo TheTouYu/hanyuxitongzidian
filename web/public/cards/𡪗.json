@@ -1,42 +1,42 @@
 {
- "char": "𡪗",
- "head": "𡪗",
- "aliases": [],
- "pinyin": "è",
- "bus": {
-  "num": 75,
-  "name": "合"
- },
- "level": 3,
- "parent": "合",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“寢而首動也。”",
-   "paras": [
-    "《集韻》：“寢而首動也。”"
-   ]
+  "char": "𡪗",
+  "head": "𡪗",
+  "aliases": [],
+  "pinyin": "è",
+  "bus": {
+    "num": 75,
+    "name": "合"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "paras": [
-    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "合",
+  "sections": [
     {
-     "t": "卷十三  合",
-     "ch": "卷十三合",
-     "label": "卷十三 合"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𡪗è《集韻》：“寢而首動也。”",
+      "paras": [
+        "𡪗è《集韻》：“寢而首動也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+      "paras": [
+        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十三  合",
+          "ch": "卷十三合",
+          "label": "卷十三 合"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

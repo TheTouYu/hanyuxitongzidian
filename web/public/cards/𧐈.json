@@ -1,35 +1,35 @@
 {
- "char": "𧐈",
- "head": "𧐈",
- "pinyin": "zú",
- "aliases": [],
- "bus": {
-  "num": 58,
-  "name": "㫃"
- },
- "level": 3,
- "parent": "族",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《類篇》：“蝦蟲頭上距。”"
+  "char": "𧐈",
+  "head": "𧐈",
+  "pinyin": "zú",
+  "aliases": [],
+  "bus": {
+    "num": 58,
+    "name": "㫃"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷九 舟",
-   "links": [
+  "level": 3,
+  "parent": "族",
+  "sections": [
     {
-     "ch": "卷九舟",
-     "label": "卷九 舟"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧐈zú《類篇》：“蝦蟲頭上距。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷九 舟",
+      "links": [
+        {
+          "ch": "卷九舟",
+          "label": "卷九 舟"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

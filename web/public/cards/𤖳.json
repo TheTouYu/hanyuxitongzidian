@@ -1,47 +1,47 @@
 {
- "char": "𤖳",
- "head": "𤖳",
- "pinyin": "pèng",
- "aliases": [],
- "level": 3,
- "parent": "平",
- "rootChain": [
-  "平",
-  "平"
- ],
- "bus": {
-  "num": 133,
-  "name": "平部"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“析木聲。”",
-   "paras": [
-    "《集韻》：“析木聲。”"
-   ]
+  "char": "𤖳",
+  "head": "𤖳",
+  "pinyin": "pèng",
+  "aliases": [],
+  "level": 3,
+  "parent": "平",
+  "rootChain": [
+    "平",
+    "平"
+  ],
+  "bus": {
+    "num": 133,
+    "name": "平部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「辟」：木理相辟而裂，其聲砰然（推）。",
-   "paras": [
-    "p「拼辟」取「辟」：木理相辟而裂，其聲砰然（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "paras": [],
-   "links": [
+  "sections": [
     {
-     "t": "卷廿四  貝",
-     "ch": "卷廿四貝",
-     "label": "卷廿四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𤖳pèng《集韻》：“析木聲。”",
+      "paras": [
+        "𤖳pèng《集韻》：“析木聲。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「辟」：木理相辟而裂，其聲砰然（推）。",
+      "paras": [
+        "p「拼辟」取「辟」：木理相辟而裂，其聲砰然（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "paras": [],
+      "links": [
+        {
+          "t": "卷廿四  貝",
+          "ch": "卷廿四貝",
+          "label": "卷廿四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

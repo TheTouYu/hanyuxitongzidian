@@ -1,39 +1,39 @@
 {
- "char": "𧟨",
- "head": "𧟨",
- "pinyin": "xuán",
- "aliases": [],
- "bus": {
-  "num": 64,
-  "name": "宁"
- },
- "level": 3,
- "parent": "襾",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《類篇》：“吳王孫休子字。”人名用字。"
-   ],
-   "text": "《類篇》：“吳王孫休子字。”人名用字。"
+  "char": "𧟨",
+  "head": "𧟨",
+  "pinyin": "xuán",
+  "aliases": [],
+  "bus": {
+    "num": 64,
+    "name": "宁"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「消」：人名借音，聲從其字（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "襾",
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𧟨xuán《類篇》：“吳王孫休子字。”人名用字。"
+      ],
+      "text": "𧟨xuán《類篇》：“吳王孫休子字。”人名用字。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「消」：人名借音，聲從其字（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

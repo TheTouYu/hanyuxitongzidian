@@ -1,37 +1,37 @@
 {
- "char": "㸕",
- "head": "㸕（攫）",
- "pinyin": "jué",
- "level": 3,
- "parent": "隻",
- "bus": {
-  "num": 40,
-  "name": "隻"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：『與攫同。』"
+  "char": "㸕",
+  "head": "㸕（攫）",
+  "pinyin": "jué",
+  "level": 3,
+  "parent": "隻",
+  "bus": {
+    "num": 40,
+    "name": "隻"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：攫而聚取（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷六 鶴",
-   "links": [
+  "sections": [
     {
-     "ch": "卷六鶴",
-     "label": "卷六 鶴"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《字彙補》：“與攫同。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：攫而聚取（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷六 鶴",
+      "links": [
+        {
+          "ch": "卷六鶴",
+          "label": "卷六 鶴"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "攫"
- ]
+  ],
+  "aliases": [
+    "攫"
+  ]
 }

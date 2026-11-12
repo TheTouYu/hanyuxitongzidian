@@ -1,35 +1,35 @@
 {
- "char": "𩜃",
- "head": "𩜃",
- "pinyin": "jù",
- "aliases": [],
- "bus": {
-  "num": 61,
-  "name": "𦥑"
- },
- "level": 3,
- "parent": "具",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“寒𩜃，餅屬。”《本草綱目》：“寒具，冬春可留數月，寒食禁煙用之，故名寒具。……環餅，象環釧形也。”"
+  "char": "𩜃",
+  "head": "𩜃",
+  "pinyin": "jù",
+  "aliases": [],
+  "bus": {
+    "num": 61,
+    "name": "𦥑"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：餅環相扣而聚，一串相連（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 𦥑",
-   "links": [
+  "level": 3,
+  "parent": "具",
+  "sections": [
     {
-     "ch": "卷十𦥑",
-     "label": "卷十 𦥑"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩜃jù《集韻》：“寒𩜃，餅屬。”《本草綱目》：“寒具，冬春可留數月，寒食禁煙用之，故名寒具。……環餅，象環釧形也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：餅環相扣而聚，一串相連（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 𦥑",
+      "links": [
+        {
+          "ch": "卷十𦥑",
+          "label": "卷十 𦥑"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

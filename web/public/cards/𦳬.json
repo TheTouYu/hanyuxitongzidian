@@ -1,42 +1,42 @@
 {
- "char": "𦳬",
- "head": "𦳬",
- "aliases": [],
- "pinyin": "hé",
- "bus": {
-  "num": 75,
-  "name": "合"
- },
- "level": 3,
- "parent": "合",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《唐韻》：“侯合切，音合。草也。”",
-   "paras": [
-    "《唐韻》：“侯合切，音合。草也。”"
-   ]
+  "char": "𦳬",
+  "head": "𦳬",
+  "aliases": [],
+  "pinyin": "hé",
+  "bus": {
+    "num": 75,
+    "name": "合"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「活」：草名，春生而活，合沓成叢（推）。",
-   "paras": [
-    "h「豁活」取「活」：草名，春生而活，合沓成叢（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "合",
+  "sections": [
     {
-     "t": "卷十三  合",
-     "ch": "卷十三合",
-     "label": "卷十三 合"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𦳬hé《唐韻》：“侯合切，音合。草也。”",
+      "paras": [
+        "𦳬hé《唐韻》：“侯合切，音合。草也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「活」：草名，春生而活，合沓成叢（推）。",
+      "paras": [
+        "h「豁活」取「活」：草名，春生而活，合沓成叢（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十三  合",
+          "ch": "卷十三合",
+          "label": "卷十三 合"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

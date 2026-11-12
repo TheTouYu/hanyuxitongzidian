@@ -1,35 +1,35 @@
 {
- "char": "䲽",
- "head": "䲽",
- "pinyin": "shí",
- "bus": {
-  "num": 45,
-  "name": "石"
- },
- "parent": "石",
- "level": 3,
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“雝渠也。”《廣雅》：“䲽鳥，精列。”鶺鴒鳥，其羽黑白相間如石，或稱“石鳥”。因多活動于水邊，停息時尾上下擺動，故又稱“點水雀”。或从石鳥聲，diǎo，《集韻》：“𥗀䲽，懸石皃。”"
+  "char": "䲽",
+  "head": "䲽",
+  "pinyin": "shí",
+  "bus": {
+    "num": 45,
+    "name": "石"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "sh「失收」取「收」：石質收聚而堅（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "parent": "石",
+  "level": 3,
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《集韻》：“磟䲽，懸石皃。”shí，《集韻》：“鳥名，雝𪆂也。”《廣韻》：“䲽鳥，精列。”鹡鴒。此義為“石”聲。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "sh「失收」取「收」：石質收聚而堅（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,39 +1,39 @@
 {
- "char": "縘",
- "trad": "縘",
- "simp": "系",
- "pinyin": "xì",
- "level": 3,
- "parent": "奚",
- "bus": {
-  "num": 2,
-  "name": "奚"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "繫，《說文》「繫𦃇也」，今惡絮；繩索牽系之義。"
+  "char": "縘",
+  "trad": "縘",
+  "simp": "系",
+  "pinyin": "xì",
+  "level": 3,
+  "parent": "奚",
+  "bus": {
+    "num": 2,
+    "name": "奚"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：繫而續不斷。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《集韻》：“繫，《說文》：‘繫𦃇也。’今惡絮。或作縘。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：繫而續不斷。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "繫"
- ],
- "head": "縘（繫）"
+  ],
+  "aliases": [
+    "繫"
+  ],
+  "head": "縘（繫）"
 }

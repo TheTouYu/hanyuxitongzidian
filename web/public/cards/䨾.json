@@ -1,44 +1,44 @@
 {
- "char": "䨾",
- "head": "䨾（𩇪）",
- "pinyin": "fěi",
- "aliases": [
-  "𩇪"
- ],
- "bus": {
-  "num": 149,
-  "name": "北"
- },
- "level": 3,
- "parent": "非",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "隱也。陋也。",
-   "paras": [
-    "隱也。陋也。"
-   ]
+  "char": "䨾",
+  "head": "䨾（𩇪）",
+  "pinyin": "fěi",
+  "aliases": [
+    "𩇪"
+  ],
+  "bus": {
+    "num": 149,
+    "name": "北"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "f「附分」取「附」：隱蔽附藏（推）。",
-   "paras": [
-    "f「附分」取「附」：隱蔽附藏（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "非",
+  "sections": [
     {
-     "t": "卷",
-     "ch": "卷二十六飛",
-     "label": "卷二十六  飛"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《廣韻》：“隱也。陋也。”",
+      "paras": [
+        "《廣韻》：“隱也。陋也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "f「附分」取「附」：隱蔽附藏（推）。",
+      "paras": [
+        "f「附分」取「附」：隱蔽附藏（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷",
+          "ch": "卷二十六飛",
+          "label": "卷二十六  飛"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,35 +1,35 @@
 {
- "id": "𣘫",
- "head": "𣘫",
- "pinyin": "háo",
- "level": 3,
- "parent": "虍",
- "bus": {
-  "num": 48,
-  "name": "虍"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《說文》：“木也。从木，號省聲。乎刀切。”疑即“㯉”。指樺樹，皮開裂。"
+  "id": "𣘫",
+  "head": "𣘫",
+  "pinyin": "háo",
+  "level": 3,
+  "parent": "虍",
+  "bus": {
+    "num": 48,
+    "name": "虍"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「豁」：號叫出聲，豁然而放（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣘫háo《說文》：“木也。从木，號省聲。乎刀切。”疑即“㯉”。指樺樹，皮開裂。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「豁」：號叫出聲，豁然而放（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "lei": "木",
- "char": "𣘫"
+  ],
+  "lei": "木",
+  "char": "𣘫"
 }

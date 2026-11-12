@@ -1,39 +1,39 @@
 {
- "char": "裑",
- "head": "裑",
- "pinyin": "shēn",
- "aliases": [],
- "level": 3,
- "parent": "身",
- "bus": {
-  "num": 135,
-  "name": "身部"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "裑shēn《博雅》：“衽、裀、袾、𧘏，裑也。”衣身。",
-   "paras": [
-    "裑shēn《博雅》：“衽、裀、袾、𧘏，裑也。”衣身。"
-   ]
+  "char": "裑",
+  "head": "裑",
+  "pinyin": "shēn",
+  "aliases": [],
+  "level": 3,
+  "parent": "身",
+  "bus": {
+    "num": 135,
+    "name": "身部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「收」：衣裹其身，收而附體（推）。",
-   "paras": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "sections": [
     {
-     "t": "卷廿四 貝",
-     "ch": "卷二十四貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《博雅》：“衽、裀、袾、𧘏，裑也。”衣身。",
+      "paras": [
+        "《博雅》：“衽、裀、袾、𧘏，裑也。”衣身。"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「收」：衣裹其身，收而附體（推）。",
+      "paras": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿四 貝",
+          "ch": "卷二十四貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

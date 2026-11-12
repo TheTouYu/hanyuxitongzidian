@@ -1,40 +1,40 @@
 {
- "char": "𡦄",
- "head": "𡦄",
- "pinyin": "fú",
- "aliases": [],
- "bus": {
-  "num": 141,
-  "name": "孚部"
- },
- "level": 3,
- "parent": "孚",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“扶留切，音浮。多也。”",
-   "paras": []
+  "char": "𡦄",
+  "head": "𡦄",
+  "pinyin": "fú",
+  "aliases": [],
+  "bus": {
+    "num": 141,
+    "name": "孚部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "f「附分」取「附」：子息附族而衍，蕃息眾多（推）。",
-   "paras": [
-    "f「附分」取「附」：子息附族而衍，蕃息眾多（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "孚",
+  "sections": [
     {
-     "t": "卷二十五 勹",
-     "ch": "卷二十五勹",
-     "label": "卷二十五 勹"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𡦄fú《玉篇》：“扶留切，音浮。多也。”",
+      "paras": []
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "f「附分」取「附」：子息附族而衍，蕃息眾多（推）。",
+      "paras": [
+        "f「附分」取「附」：子息附族而衍，蕃息眾多（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十五 勹",
+          "ch": "卷二十五勹",
+          "label": "卷二十五 勹"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

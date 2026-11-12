@@ -1,34 +1,34 @@
 {
- "head": "𨢜",
- "pinyin": "què",
- "parent": "隺",
- "bus": {
-  "num": 39,
-  "name": "隺"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《漢典》：“同榷。專營，專賣。”"
+  "head": "𨢜",
+  "pinyin": "què",
+  "parent": "隺",
+  "bus": {
+    "num": 39,
+    "name": "隺"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：同榷。專營，專賣。（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷六鶴",
-     "label": "卷六 鶴"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨢜què《漢典》：“同榷。專營，專賣。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「亲」：同榷。專營，專賣。（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷六鶴",
+          "label": "卷六 鶴"
+        }
+      ],
+      "text": ""
     }
-   ],
-   "text": ""
-  }
- ],
- "char": "𨢜",
- "level": 3
+  ],
+  "char": "𨢜",
+  "level": 3
 }

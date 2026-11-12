@@ -1,48 +1,48 @@
 {
- "char": "𩡤",
- "head": "𩡤",
- "pinyin": "ài",
- "level": 3,
- "parent": "葢",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“馤，馣馤，香氣也。或从蓋。”"
+  "char": "𩡤",
+  "head": "𩡤",
+  "pinyin": "ài",
+  "level": 3,
+  "parent": "葢",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "y「零聲母」不系：香氣馣馤，零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𩡤（馤）ài《集韻》：“馤，馣馤，香氣也。或从蓋。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "y「零聲母」不系：香氣馣馤，零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "馤"
- ],
- "photos": [
-  {
-   "file": "𩡤/01.png",
-   "caption": ""
-  }
- ],
- "captions": [
-  "北宋《營造法式》中的水平儀",
-  "北宋《營造法式》中的水平儀",
-  "北宋《營造法式》中的水平儀"
- ]
+  ],
+  "aliases": [
+    "馤"
+  ],
+  "photos": [
+    {
+      "file": "𩡤/01.png",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    "北宋《營造法式》中的水平儀",
+    "北宋《營造法式》中的水平儀",
+    "北宋《營造法式》中的水平儀"
+  ]
 }

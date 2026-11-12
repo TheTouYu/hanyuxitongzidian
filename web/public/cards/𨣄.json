@@ -1,39 +1,39 @@
 {
- "char": "𨣄",
- "head": "𨣄",
- "pinyin": "huā",
- "aliases": [],
- "bus": {
-  "num": 70,
-  "name": "𠌶"
- },
- "level": 3,
- "parent": "𠌶",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《字彙》：“醇𨣄，酒。”"
-   ],
-   "text": "《字彙》：“醇𨣄，酒。”"
+  "char": "𨣄",
+  "head": "𨣄",
+  "pinyin": "huā",
+  "aliases": [],
+  "bus": {
+    "num": 70,
+    "name": "𠌶"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「活」：酒以活水釀成，飲之血脈活（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "𠌶",
+  "sections": [
     {
-     "t": "卷十二  于",
-     "ch": "卷十二于",
-     "label": "卷十二 于"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𨣄huā《字彙》：“醇𨣄，酒。”"
+      ],
+      "text": "𨣄huā《字彙》：“醇𨣄，酒。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「活」：酒以活水釀成，飲之血脈活（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十二  于",
+          "ch": "卷十二于",
+          "label": "卷十二 于"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

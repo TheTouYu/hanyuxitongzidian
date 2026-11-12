@@ -1,39 +1,39 @@
 {
- "char": "𨨯",
- "head": "𨨯",
- "pinyin": "còu",
- "aliases": [],
- "bus": {
-  "num": 127,
-  "name": "𠦪部"
- },
- "level": 3,
- "parent": "奏",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“槍屬。”zhòu，𨫒𨨯，耙的一種。 ",
-   "paras": [
-    "《集韻》：“槍屬。”zhòu，𨫒𨨯，耙的一種。 "
-   ]
+  "char": "𨨯",
+  "head": "𨨯",
+  "pinyin": "còu",
+  "aliases": [],
+  "bus": {
+    "num": 127,
+    "name": "𠦪部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "ch「刺持」取「刺」：槍刃向前刺擊，與耙齒入土同勢（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "奏",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨨯còu《集韻》：“槍屬。”zhòu，𨫒𨨯，耙的一種。",
+      "paras": [
+        "𨨯còu《集韻》：“槍屬。”zhòu，𨫒𨨯，耙的一種。"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "ch「刺持」取「刺」：槍刃向前刺擊，與耙齒入土同勢（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

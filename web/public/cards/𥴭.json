@@ -1,41 +1,41 @@
 {
- "char": "𥴭",
- "pinyin": "qià",
- "level": 3,
- "parent": "",
- "bus": {
-  "num": 4,
-  "name": ""
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“柷敔也。亦作楬。”《廣韻》：“木虎，止樂器，亦名敔也。”《集韻》：“或省。亦作搳。通作揭。”樂終時敲擊的樂器。",
-   "cites": []
+  "char": "𥴭",
+  "pinyin": "qià",
+  "level": 3,
+  "parent": "",
+  "bus": {
+    "num": 4,
+    "name": ""
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：揭）qià柷敔也。亦作楬。《廣（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 雞",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥴭（楬搳揭）qià《玉篇》：“柷敔也。亦作楬。”《廣韻》：“木虎，止樂器，亦名敔也。”《集韻》：“或省。亦作搳。通作揭。”樂終時敲擊的樂器。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「亲」：揭）qià柷敔也。亦作楬。《廣（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 雞",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一 雞"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "𥴭（楬搳揭）",
- "aliases": [
-  "楬",
-  "搳",
-  "揭"
- ]
+  ],
+  "head": "𥴭（楬搳揭）",
+  "aliases": [
+    "楬",
+    "搳",
+    "揭"
+  ]
 }

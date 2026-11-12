@@ -1,38 +1,38 @@
 {
- "char": "𥀁",
- "head": "𥀁（杜）",
- "pinyin": "dù",
- "aliases": [
-  "杜"
- ],
- "bus": {
-  "num": 63,
-  "name": "者"
- },
- "level": 3,
- "parent": "者",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“桑白皮也。今作杜。”"
+  "char": "𥀁",
+  "head": "𥀁（杜）",
+  "pinyin": "dù",
+  "aliases": [
+    "杜"
+  ],
+  "bus": {
+    "num": 63,
+    "name": "者"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤动」取「囤」：桑皮厚積，其色赭（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 予",
-   "links": [
+  "level": 3,
+  "parent": "者",
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥀁（杜）dù《玉篇》：“桑白皮也。今作杜。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤动」取「囤」：桑皮厚積，其色赭（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 予",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

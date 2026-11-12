@@ -1,34 +1,34 @@
 {
- "head": "𤌍",
- "pinyin": "hú",
- "parent": "隺",
- "bus": {
-  "num": 39,
-  "name": "隺"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“灼也。从火隺聲。胡沃切。”"
+  "head": "𤌍",
+  "pinyin": "hú",
+  "parent": "隺",
+  "bus": {
+    "num": 39,
+    "name": "隺"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：說文》：灼也。从火隺聲。胡沃切。（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷六鶴",
-     "label": "卷六 鶴"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤌍hú《說文》：“灼也。从火隺聲。胡沃切。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "h「豁活」取「豁」：說文》：灼也。从火隺聲。胡沃切。（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷六鶴",
+          "label": "卷六 鶴"
+        }
+      ],
+      "text": ""
     }
-   ],
-   "text": ""
-  }
- ],
- "char": "𤌍",
- "level": 3
+  ],
+  "char": "𤌍",
+  "level": 3
 }

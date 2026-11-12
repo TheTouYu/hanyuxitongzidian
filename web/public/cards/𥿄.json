@@ -1,49 +1,49 @@
 {
- "char": "𥿄",
- "trad": "𥿄",
- "simp": "𥿄",
- "pinyin": "dī",
- "level": 3,
- "parent": "氐",
- "bus": {
-  "num": 8,
-  "name": "㠯"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“絲滓也。从糸氐聲。都兮切。”絲的渣滓。即“紙”。"
+  "char": "𥿄",
+  "trad": "𥿄",
+  "simp": "𥿄",
+  "pinyin": "dī",
+  "level": 3,
+  "parent": "氐",
+  "bus": {
+    "num": 8,
+    "name": "㠯"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：絲滓也——絲之渣滓聚留。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥿄dī《說文》：“絲滓也。从糸氐聲。都兮切。”絲的渣滓。即“紙”。"
+    },
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：絲滓也——絲之渣滓聚留。",
+      "cites": []
+    },
+    {
+      "key": "suoshu",
+      "label": "所属卷",
+      "text": "",
+      "cites": [],
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二㠯"
+        }
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "𥿄"
+  ],
+  "aliases": [],
+  "head": "𥿄"
 }

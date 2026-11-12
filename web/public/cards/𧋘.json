@@ -1,38 +1,38 @@
 {
- "char": "𧋘",
- "head": "𧋘（蝭𧍝）",
- "pinyin": "tí",
- "aliases": [
-  "蝭",
-  "𧍝"
- ],
- "bus": {
-  "num": 28,
-  "name": "弟"
- },
- "level": 3,
- "parent": "弟",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“蝭蟧，蟲名，蟪蛄也。或作𧍝、𧋘。”《廣韻》：“小蟬也。”螗𧋘，一種蟬，形體較小，背青綠色，頭有花冠。"
+  "char": "𧋘",
+  "head": "𧋘（蝭𧍝）",
+  "pinyin": "tí",
+  "aliases": [
+    "蝭",
+    "𧍝"
+  ],
+  "bus": {
+    "num": 28,
+    "name": "弟"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "t「涂突」取「突」：鳴聲突起（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷四 弋",
-   "links": [
+  "level": 3,
+  "parent": "弟",
+  "sections": [
     {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧋘（蝭𧍝）tí《集韻》：“蝭蟧，蟲名，蟪蛄也。或作𧍝、𧋘。”《廣韻》：“小蟬也。”螗𧋘，一種蟬，形體較小，背青綠色，頭有花冠。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "t「涂突」取「突」：鳴聲突起（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷四 弋",
+      "links": [
+        {
+          "ch": "卷四弋",
+          "label": "卷四 弋"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

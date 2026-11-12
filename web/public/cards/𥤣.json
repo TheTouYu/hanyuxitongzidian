@@ -1,44 +1,44 @@
 {
- "char": "𥤣",
- "head": "𥤣（窈）",
- "level": 3,
- "parent": "了",
- "bus": {
-  "num": 8,
-  "name": "㠯"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“烏了切，音夭。深也。”《龍龕》：“同窈。”"
+  "char": "𥤣",
+  "head": "𥤣（窈）",
+  "level": 3,
+  "parent": "了",
+  "bus": {
+    "num": 8,
+    "name": "㠯"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥤣（窈）yǎo《字彙補》：“烏了切，音夭。深也。”《龍龕》：“同窈。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "photos": [
-  {
-   "file": "𥤣/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  "釕吊",
-  "釕吊"
- ]
+  ],
+  "photos": [
+    {
+      "file": "𥤣/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    "釕吊",
+    "釕吊"
+  ]
 }

@@ -1,43 +1,43 @@
 {
- "char": "𥧒",
- "head": "𥧒",
- "aliases": [],
- "pinyin": "gòu",
- "bus": {
-  "num": 91,
-  "name": "冓"
- },
- "level": 3,
- "parent": "冓",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《字彙》：“空也、穴也。”"
-   ],
-   "text": "《字彙》：“空也、穴也。”"
+  "char": "𥧒",
+  "head": "𥧒",
+  "aliases": [],
+  "pinyin": "gòu",
+  "bus": {
+    "num": 91,
+    "name": "冓"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "g「隔估」取「隔」：𥧒即穴空，土隔而中虛（推）。"
-   ],
-   "text": "g「隔估」取「隔」：𥧒即穴空，土隔而中虛（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "冓",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𥧒gòu《字彙》：“空也、穴也。”"
+      ],
+      "text": "𥧒gòu《字彙》：“空也、穴也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "g「隔估」取「隔」：𥧒即穴空，土隔而中虛（推）。"
+      ],
+      "text": "g「隔估」取「隔」：𥧒即穴空，土隔而中虛（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ],
+      "paras": []
     }
-   ],
-   "paras": []
-  }
- ]
+  ]
 }

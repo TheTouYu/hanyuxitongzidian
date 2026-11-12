@@ -1,36 +1,36 @@
 {
- "char": "𧵱",
- "head": "𧵱",
- "pinyin": "xiāo",
- "aliases": [],
- "bus": {
-  "num": 118,
-  "name": "畾"
- },
- "level": 3,
- "parent": "厽",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《篇海》：“虛矯切，音囂。煩也。”"
+  "char": "𧵱",
+  "head": "𧵱",
+  "pinyin": "xiāo",
+  "aliases": [],
+  "bus": {
+    "num": 118,
+    "name": "畾"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「续」：事煩相續不絕（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "厽",
+  "sections": [
     {
-     "t": "卷廿二  雷",
-     "ch": "卷二十二雷",
-     "label": "卷廿二 雷"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧵱xiāo《篇海》：“虛矯切，音囂。煩也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「续」：事煩相續不絕（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿二  雷",
+          "ch": "卷二十二雷",
+          "label": "卷廿二 雷"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

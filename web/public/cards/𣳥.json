@@ -1,39 +1,39 @@
 {
- "char": "𣳥",
- "head": "𣳥（渡）",
- "pinyin": "dù",
- "level": 3,
- "parent": "宅",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“渡，《說文》：‘濟也。’或作𣳥。”",
-   "cites": []
+  "char": "𣳥",
+  "head": "𣳥（渡）",
+  "pinyin": "dù",
+  "level": 3,
+  "parent": "宅",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：渡水，舟聚而濟（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𣳥（渡）dù《集韻》：“渡，《說文》：‘濟也。’或作𣳥。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：渡水，舟聚而濟（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "渡"
- ]
+  ],
+  "aliases": [
+    "渡"
+  ]
 }

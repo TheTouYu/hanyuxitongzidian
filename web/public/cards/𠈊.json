@@ -1,36 +1,36 @@
 {
- "char": "𠈊",
- "head": "𠈊",
- "pinyin": "niě",
- "aliases": [],
- "bus": {
-  "num": 38,
-  "name": "厄"
- },
- "level": 3,
- "parent": "戹",
- "bridge": "皮寬鬆下垂，如曲木之弛",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙》：“奴下切，拿上聲。皮寬也。”"
+  "char": "𠈊",
+  "head": "𠈊",
+  "pinyin": "niě",
+  "aliases": [],
+  "bus": {
+    "num": 38,
+    "name": "厄"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "戹",
+  "bridge": "皮寬鬆下垂，如曲木之弛",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠈊niě《字彙》：“奴下切，拿上聲。皮寬也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

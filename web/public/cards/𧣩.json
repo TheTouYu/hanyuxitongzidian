@@ -1,43 +1,43 @@
 {
- "char": "𧣩",
- "head": "𧣩",
- "pinyin": "xǐ",
- "aliases": [],
- "bus": {
-  "num": 103,
-  "name": "爻"
- },
- "level": 3,
- "parent": "希",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《字彙》：“虛幾切，音喜。好角。”"
-   ],
-   "text": "《字彙》：“虛幾切，音喜。好角。”"
+  "char": "𧣩",
+  "head": "𧣩",
+  "pinyin": "xǐ",
+  "aliases": [],
+  "bus": {
+    "num": 103,
+    "name": "爻"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "x「续消」取「消」：角好而銳消，溫潤可玩（推）。"
-   ],
-   "text": "x「续消」取「消」：角好而銳消，溫潤可玩（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "希",
+  "sections": [
     {
-     "t": "卷二十  角",
-     "ch": "卷二十角",
-     "label": "卷二十 角"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𧣩xǐ《字彙》：“虛幾切，音喜。好角。”"
+      ],
+      "text": "𧣩xǐ《字彙》：“虛幾切，音喜。好角。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "x「续消」取「消」：角好而銳消，溫潤可玩（推）。"
+      ],
+      "text": "x「续消」取「消」：角好而銳消，溫潤可玩（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十  角",
+          "ch": "卷二十角",
+          "label": "卷二十 角"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

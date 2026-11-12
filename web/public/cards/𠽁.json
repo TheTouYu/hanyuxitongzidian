@@ -1,44 +1,44 @@
 {
- "char": "𠽁",
- "head": "𠽁（噱）",
- "pinyin": "jué",
- "level": 3,
- "bus": {
-  "num": 48,
-  "name": "虎"
- },
- "suoshujuan": "卷八 虎（第48部 虍）",
- "links": [
-  {
-   "ch": "卷八虎",
-   "label": "卷八 虎"
-  }
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《漢典》：『同噱。』大笑。"
+  "char": "𠽁",
+  "head": "𠽁（噱）",
+  "pinyin": "jué",
+  "level": 3,
+  "bus": {
+    "num": 48,
+    "name": "虎"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：大笑氣聚於口（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "suoshujuan": "卷八 虎（第48部 虍）",
+  "links": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "ch": "卷八虎",
+      "label": "卷八 虎"
     }
-   ]
-  }
- ],
- "aliases": [
-  "噱"
- ],
- "noRoot": true
+  ],
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𠽁（噱）jué《漢典》：“同噱。”大笑。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：大笑氣聚於口（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "噱"
+  ],
+  "noRoot": true
 }

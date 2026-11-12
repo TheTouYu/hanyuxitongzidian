@@ -1,34 +1,34 @@
 {
- "char": "𢆳",
- "head": "𢆳（𢆴）",
- "level": 3,
- "parent": "了",
- "bus": {
-  "num": 8,
-  "name": "㠯"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“丁了切，音鳥。懸貌。”"
+  "char": "𢆳",
+  "head": "𢆳（𢆴）",
+  "level": 3,
+  "parent": "了",
+  "bus": {
+    "num": 8,
+    "name": "㠯"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：懸而囤垂（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢆳（𢆴）diǎo《字彙補》：“丁了切，音鳥。懸貌。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：懸而囤垂（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

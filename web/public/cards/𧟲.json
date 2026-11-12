@@ -1,50 +1,50 @@
 {
- "char": "𧟲",
- "head": "𧟲（𧟳霸）",
- "pinyin": "bà",
- "aliases": [
-  "𧟳",
-  "霸"
- ],
- "bus": {
-  "num": 64,
-  "name": "宁"
- },
- "level": 3,
- "noRoot": true,
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《直音》：“同霸。”本从“雨”。"
-   ],
-   "text": "《直音》：“同霸。”本从“雨”。"
+  "char": "𧟲",
+  "head": "𧟲（𧟳霸）",
+  "pinyin": "bà",
+  "aliases": [
+    "𧟳",
+    "霸"
+  ],
+  "bus": {
+    "num": 64,
+    "name": "宁"
   },
-  {
-   "key": "ezi",
-   "label": "訛字",
-   "text": "形近字“雨”之訛。"
-  },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "b「闭剥」取「闭」：霸者閉塞，諸侯不得通（推）。",
-   "paras": [
-    "b「闭剥」取「闭」：霸者閉塞，諸侯不得通（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "noRoot": true,
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𧟲（𧟳霸）bà《直音》：“同霸。”本从“雨”。"
+      ],
+      "text": "𧟲（𧟳霸）bà《直音》：“同霸。”本从“雨”。"
+    },
+    {
+      "key": "ezi",
+      "label": "訛字",
+      "text": "形近字“雨”之訛。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "b「闭剥」取「闭」：霸者閉塞，諸侯不得通（推）。",
+      "paras": [
+        "b「闭剥」取「闭」：霸者閉塞，諸侯不得通（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,43 +1,43 @@
 {
- "char": "𩓪",
- "head": "𩓪",
- "pinyin": "lù",
- "aliases": [],
- "bus": {
-  "num": 101,
-  "name": "彔"
- },
- "level": 3,
- "parent": "彔",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《玉篇》：“項也。”"
-   ],
-   "text": "《玉篇》：“項也。”"
+  "char": "𩓪",
+  "head": "𩓪",
+  "pinyin": "lù",
+  "aliases": [],
+  "bus": {
+    "num": 101,
+    "name": "彔"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "l「拢离」取「拢」：項承首而聚，厚肉相裹（推）。"
-   ],
-   "text": "l「拢离」取「拢」：項承首而聚，厚肉相裹（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "彔",
+  "sections": [
     {
-     "t": "卷十九  彔",
-     "ch": "卷十九彔",
-     "label": "卷十九 彔"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𩓪lù《玉篇》：“項也。”"
+      ],
+      "text": "𩓪lù《玉篇》：“項也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "l「拢离」取「拢」：項承首而聚，厚肉相裹（推）。"
+      ],
+      "text": "l「拢离」取「拢」：項承首而聚，厚肉相裹（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷十九  彔",
+          "ch": "卷十九彔",
+          "label": "卷十九 彔"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

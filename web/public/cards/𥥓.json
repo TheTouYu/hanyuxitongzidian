@@ -1,36 +1,36 @@
 {
- "char": "𥥓",
- "head": "𥥓（屁𡲩𥧔䊧）",
- "level": 3,
- "parent": "示",
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [
-  "屁"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“屁，匹寐切。《字林》：‘下出氣也。’或作𡲩、𥥓、𥧔、䊧。”"
+  "char": "𥥓",
+  "head": "𥥓（屁𡲩𥧔䊧）",
+  "level": 3,
+  "parent": "示",
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "p「拼辟」取「辟」：氣辟而出（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "屁"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥥓（屁𡲩𥧔䊧）pì《集韻》：“屁，匹寐切。《字林》：‘下出氣也。’或作𡲩、𥥓、𥧔、䊧。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "p「拼辟」取「辟」：氣辟而出（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

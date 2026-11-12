@@ -1,37 +1,37 @@
 {
- "char": "𤤺",
- "level": 3,
- "parent": "曳",
- "bus": {
-  "num": 26,
-  "name": "弋"
- },
- "head": "𤤺（玴）",
- "aliases": [
-  "玴"
- ],
- "pinyin": "yì",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“石之似玉者。从玉曳聲。餘制切。”《集韻》：“或从世。”"
+  "char": "𤤺",
+  "level": 3,
+  "parent": "曳",
+  "bus": {
+    "num": 26,
+    "name": "弋"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷四 弋",
-   "links": [
+  "head": "𤤺（玴）",
+  "aliases": [
+    "玴"
+  ],
+  "pinyin": "yì",
+  "sections": [
     {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤤺（玴）yì《說文》：“石之似玉者。从玉曳聲。餘制切。”《集韻》：“或从世。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷四 弋",
+      "links": [
+        {
+          "ch": "卷四弋",
+          "label": "卷四 弋"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

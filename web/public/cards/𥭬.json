@@ -1,36 +1,36 @@
 {
- "char": "𥭬",
- "head": "𥭬",
- "pinyin": "féi",
- "level": 3,
- "parent": "乇",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“扶微切，音肥。竹名。”",
-   "cites": []
+  "char": "𥭬",
+  "head": "𥭬",
+  "pinyin": "féi",
+  "level": 3,
+  "parent": "乇",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "f「附分」取「附」：竹名，音義無考（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥭬féi《字彙補》：“扶微切，音肥。竹名。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "f「附分」取「附」：竹名，音義無考（照實）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

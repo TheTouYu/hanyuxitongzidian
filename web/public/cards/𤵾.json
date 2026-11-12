@@ -1,39 +1,39 @@
 {
- "char": "𤵾",
- "head": "𤵾（𤶮）",
- "pinyin": "chā",
- "level": 3,
- "parent": "宅",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“抽加切，音侘。癡皃。”《正字通》：“譌字。舊註音叉，癡貌，誤。”dù，《龍龕》：“𤶮、𤵾，二俗。音度。”疑同“𢜬”。",
-   "cites": []
+  "char": "𤵾",
+  "head": "𤵾（𤶮）",
+  "pinyin": "chā",
+  "level": 3,
+  "parent": "宅",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "ch「刺持」取「刺」：癡貌，神情滯刺（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤵾（𤶮）chā《集韻》：“抽加切，音侘。癡皃。”《正字通》：“譌字。舊註音叉，癡貌，誤。”dù，《龍龕》：“𤶮、𤵾，二俗。音度。”疑同“𢜬”。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "ch「刺持」取「刺」：癡貌，神情滯刺（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "𤶮"
- ]
+  ],
+  "aliases": [
+    "𤶮"
+  ]
 }

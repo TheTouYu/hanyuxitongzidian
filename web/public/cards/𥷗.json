@@ -1,34 +1,34 @@
 {
- "char": "𥷗",
- "head": "𥷗",
- "level": 3,
- "parent": "柰",
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“劄也。”《集韻》：“《博雅》：‘笘𥷗，䉉也’。”“䉣也。”古代小孩寫字用的簡牘。《篇海》：“竹棰也。”竹鞭。"
+  "char": "𥷗",
+  "head": "𥷗",
+  "level": 3,
+  "parent": "柰",
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "l「拢离」取「拢」：簡攏而書（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥷗lì《廣韻》：“劄也。”《集韻》：“《博雅》：‘笘𥷗，䉉也’。”“䉣也。”古代小孩寫字用的簡牘。《篇海》：“竹棰也。”竹鞭。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "l「拢离」取「拢」：簡攏而書（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

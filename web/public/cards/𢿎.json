@@ -1,40 +1,40 @@
 {
- "char": "𢿎",
- "head": "𢿎",
- "pinyin": "duò",
- "aliases": [],
- "bus": {
-  "num": 110,
-  "name": "皋"
- },
- "level": 3,
- "parent": "皋",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《篇海》：“擊也。”"
-   ],
-   "text": "《篇海》：“擊也。”"
+  "char": "𢿎",
+  "head": "𢿎",
+  "pinyin": "duò",
+  "aliases": [],
+  "bus": {
+    "num": 110,
+    "name": "皋"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤动」取「动」：擊之而動，如杆石下撞（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "皋",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𢿎duò《篇海》：“擊也。”"
+      ],
+      "text": "𢿎duò《篇海》：“擊也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤动」取「动」：擊之而動，如杆石下撞（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

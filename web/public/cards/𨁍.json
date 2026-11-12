@@ -1,44 +1,44 @@
 {
- "char": "𨁍",
- "head": "𨁍",
- "pinyin": "yàn",
- "aliases": [],
- "bus": {
-  "num": 136,
-  "name": "臣部"
- },
- "level": 3,
- "parent": "見",
- "photos": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“行不正也。”指邊看邊走。"
-   ],
-   "text": "《集韻》：“行不正也。”指邊看邊走。"
+  "char": "𨁍",
+  "head": "𨁍",
+  "pinyin": "yàn",
+  "aliases": [],
+  "bus": {
+    "num": 136,
+    "name": "臣部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：邊行邊視，足與目俱前（推）。",
-   "paras": [
-    "y「零聲母」不系：邊行邊視，足與目俱前（推）。"
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "見",
+  "photos": [],
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𨁍yàn《集韻》：“行不正也。”指邊看邊走。"
+      ],
+      "text": "𨁍yàn《集韻》：“行不正也。”指邊看邊走。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：邊行邊視，足與目俱前（推）。",
+      "paras": [
+        "y「零聲母」不系：邊行邊視，足與目俱前（推）。"
+      ],
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

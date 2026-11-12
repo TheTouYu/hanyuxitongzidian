@@ -1,39 +1,39 @@
 {
- "char": "𥯪",
- "head": "𥯪",
- "pinyin": "sòu",
- "aliases": [],
- "bus": {
-  "num": 127,
-  "name": "𠦪部"
- },
- "level": 3,
- "parent": "奏",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《類篇》：“先奏切，音潄。小竹也。”",
-   "paras": [
-    "《類篇》：“先奏切，音潄。小竹也。”"
-   ]
+  "char": "𥯪",
+  "head": "𥯪",
+  "pinyin": "sòu",
+  "aliases": [],
+  "bus": {
+    "num": 127,
+    "name": "𠦪部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「收」：小竹一把收束成束，可撻可持（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "奏",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥯪sòu《類篇》：“先奏切，音潄。小竹也。”",
+      "paras": [
+        "𥯪sòu《類篇》：“先奏切，音潄。小竹也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「收」：小竹一把收束成束，可撻可持（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

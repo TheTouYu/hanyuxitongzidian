@@ -1,44 +1,44 @@
 {
- "char": "𩶈",
- "head": "𩶈",
- "pinyin": "hū",
- "aliases": [],
- "bus": {
-  "num": 34,
-  "name": "丂"
- },
- "level": 3,
- "parent": "乎",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“魚也。”蝠鱝，或稱魔鬼魚、毯魟。體似蝙蝠，呈菱形，寬大，青褐色，無鱗，口寬大。腹面有鰓裂五對。頭側有一對鰭向前突出。胸鰭呈三角形。尾細長如鞭，具尾刺。"
+  "char": "𩶈",
+  "head": "𩶈",
+  "pinyin": "hū",
+  "aliases": [],
+  "bus": {
+    "num": 34,
+    "name": "丂"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "乎",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩶈hū《玉篇》：“魚也。”蝠鱝，或稱魔鬼魚、毯魟。體似蝙蝠，呈菱形，寬大，青褐色，無鱗，口寬大。腹面有鰓裂五對。頭側有一對鰭向前突出。胸鰭呈三角形。尾細長如鞭，具尾刺。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ],
- "photos": [
-  {
-   "file": "𩶈/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  "蝠鱝（魔鬼魚）"
- ]
+  ],
+  "photos": [
+    {
+      "file": "𩶈/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    "蝠鱝（魔鬼魚）"
+  ]
 }

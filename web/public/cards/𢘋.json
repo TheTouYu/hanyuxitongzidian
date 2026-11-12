@@ -1,35 +1,35 @@
 {
- "char": "𢘋",
- "level": 3,
- "parent": "弋",
- "bus": {
-  "num": 26,
-  "name": "弋"
- },
- "head": "𢘋",
- "aliases": [],
- "pinyin": "tè",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“失常也。从心代聲。他得切。”失去常態。應同“忒”。《玉篇》：“差也。”"
+  "char": "𢘋",
+  "level": 3,
+  "parent": "弋",
+  "bus": {
+    "num": 26,
+    "name": "弋"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "t「涂突」取「突」：心失常態，猝然更變（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷四 弋",
-   "links": [
+  "head": "𢘋",
+  "aliases": [],
+  "pinyin": "tè",
+  "sections": [
     {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢘋tè《說文》：“失常也。从心代聲。他得切。”失去常態。應同“忒”。《玉篇》：“差也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "t「涂突」取「突」：心失常態，猝然更變（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷四 弋",
+      "links": [
+        {
+          "ch": "卷四弋",
+          "label": "卷四 弋"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

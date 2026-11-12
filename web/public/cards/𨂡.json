@@ -1,39 +1,39 @@
 {
- "char": "𨂡",
- "head": "𨂡",
- "pinyin": "zòu",
- "aliases": [],
- "bus": {
-  "num": 127,
-  "name": "𠦪部"
- },
- "level": 3,
- "parent": "奏",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“蹋也。”《篇海類編》：“驅而走也。”",
-   "paras": [
-    "《玉篇》：“蹋也。”《篇海類編》：“驅而走也。”"
-   ]
+  "char": "𨂡",
+  "head": "𨂡",
+  "pinyin": "zòu",
+  "aliases": [],
+  "bus": {
+    "num": 127,
+    "name": "𠦪部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "zh「凿总」取「凿」：足蹋地如鑿，一步一步向下擊實（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "奏",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨂡zòu《玉篇》：“蹋也。”《篇海類編》：“驅而走也。”",
+      "paras": [
+        "𨂡zòu《玉篇》：“蹋也。”《篇海類編》：“驅而走也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "zh「凿总」取「凿」：足蹋地如鑿，一步一步向下擊實（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

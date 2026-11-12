@@ -1,38 +1,38 @@
 {
- "char": "𥈐",
- "head": "𥈐（眥眦疵）",
- "level": 3,
- "parent": "祡",
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [
-  "眥",
-  "眦",
-  "疵"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“眦，眦睚，恨視。或作𥈐、疵。亦書作眥。”眼眶。"
+  "char": "𥈐",
+  "head": "𥈐（眥眦疵）",
+  "level": 3,
+  "parent": "祡",
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "z「凿总」取「凿」：目眶凿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "眥",
+    "眦",
+    "疵"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥈐（眥眦疵）zì《集韻》：“眦，眦睚，恨視。或作𥈐、疵。亦書作眥。”眼眶。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "z「凿总」取「凿」：目眶凿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,37 +1,37 @@
 {
- "char": "𨋋",
- "head": "𨋋（𨊱）",
- "pinyin": "yú",
- "aliases": [
-  "𨊱"
- ],
- "bus": {
-  "num": 60,
-  "name": "予"
- },
- "level": 3,
- "parent": "予",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《篇海類編》：“羽俱切，音於。車也。”或為“𨊱”之訛，《直音篇》：“𨊱，車也，輦也。𨋋，同𨊱。”"
+  "char": "𨋋",
+  "head": "𨋋（𨊱）",
+  "pinyin": "yú",
+  "aliases": [
+    "𨊱"
+  ],
+  "bus": {
+    "num": 60,
+    "name": "予"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 予",
-   "links": [
+  "level": 3,
+  "parent": "予",
+  "sections": [
     {
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨋋（𨊱）yú《篇海類編》：“羽俱切，音於。車也。”或為“𨊱”之訛，《直音篇》：“𨊱，車也，輦也。𨋋，同𨊱。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 予",
+      "links": [
+        {
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

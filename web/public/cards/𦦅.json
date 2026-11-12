@@ -1,39 +1,39 @@
 {
- "char": "𦦅",
- "head": "𦦅",
- "pinyin": "còu",
- "aliases": [],
- "bus": {
-  "num": 127,
-  "name": "𠦪部"
- },
- "level": 3,
- "parent": "奏",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“七漏切，音湊。半舂也。”",
-   "paras": [
-    "《玉篇》：“七漏切，音湊。半舂也。”"
-   ]
+  "char": "𦦅",
+  "head": "𦦅",
+  "pinyin": "còu",
+  "aliases": [],
+  "bus": {
+    "num": 127,
+    "name": "𠦪部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "ch「刺持」取「刺」：杵刺臼中，半舂之穀受擊而裂（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "奏",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𦦅còu《玉篇》：“七漏切，音湊。半舂也。”",
+      "paras": [
+        "𦦅còu《玉篇》：“七漏切，音湊。半舂也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "ch「刺持」取「刺」：杵刺臼中，半舂之穀受擊而裂（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

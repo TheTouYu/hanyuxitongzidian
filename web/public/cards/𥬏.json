@@ -1,37 +1,37 @@
 {
- "char": "𥬏",
- "head": "𥬏（箶）",
- "pinyin": "hú",
- "aliases": [
-  "箶"
- ],
- "bus": {
-  "num": 34,
-  "name": "丂"
- },
- "level": 3,
- "parent": "乎",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“箶，竹名。或作𥬏。”《篇海》：“同箶。𥬏簏，箭室。”"
+  "char": "𥬏",
+  "head": "𥬏（箶）",
+  "pinyin": "hú",
+  "aliases": [
+    "箶"
+  ],
+  "bus": {
+    "num": 34,
+    "name": "丂"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "乎",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥬏（箶）hú《集韻》：“箶，竹名。或作𥬏。”《篇海》：“同箶。𥬏簏，箭室。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

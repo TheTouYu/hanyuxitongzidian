@@ -1,45 +1,45 @@
 {
- "char": "𣚏",
- "head": "𣚏",
- "aliases": [],
- "pinyin": "xū",
- "bus": {
-  "num": 94,
-  "name": "䀠"
- },
- "level": 3,
- "parent": "䀠",
- "photos": [],
- "captions": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《說文》：“㭉，臿也。从木；入，象形；䀠聲。舉朱切。”"
-   ],
-   "text": "《說文》：“㭉，臿也。从木；入，象形；䀠聲。舉朱切。”"
+  "char": "𣚏",
+  "head": "𣚏",
+  "aliases": [],
+  "pinyin": "xū",
+  "bus": {
+    "num": 94,
+    "name": "䀠"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "x「续消」取「续」：臿入土而掘，土續續而起（推）。"
-   ],
-   "text": "x「续消」取「续」：臿入土而掘，土續續而起（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "䀠",
+  "photos": [],
+  "captions": [],
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𣚏xū《說文》：“㭉，臿也。从木；入，象形；䀠聲。舉朱切。”"
+      ],
+      "text": "𣚏xū《說文》：“㭉，臿也。从木；入，象形；䀠聲。舉朱切。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "x「续消」取「续」：臿入土而掘，土續續而起（推）。"
+      ],
+      "text": "x「续消」取「续」：臿入土而掘，土續續而起（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ],
+      "paras": []
     }
-   ],
-   "paras": []
-  }
- ]
+  ]
 }

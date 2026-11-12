@@ -1,35 +1,35 @@
 {
- "char": "𣏗",
- "head": "𣏗",
- "pinyin": "shù",
- "aliases": [],
- "bus": {
-  "num": 60,
-  "name": "予"
- },
- "level": 3,
- "parent": "予",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《說文》：“栩也。从木予聲。讀若杼。直呂切。”櫟樹。其葉可以飼柞蠶。其木宜為予。"
+  "char": "𣏗",
+  "head": "𣏗",
+  "pinyin": "shù",
+  "aliases": [],
+  "bus": {
+    "num": 60,
+    "name": "予"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「收」：採葉飼蠶，聚而收之（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 予",
-   "links": [
+  "level": 3,
+  "parent": "予",
+  "sections": [
     {
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣏗shù《說文》：“栩也。从木予聲。讀若杼。直呂切。”櫟樹。其葉可以飼柞蠶。其木宜為予。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「收」：採葉飼蠶，聚而收之（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 予",
+      "links": [
+        {
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

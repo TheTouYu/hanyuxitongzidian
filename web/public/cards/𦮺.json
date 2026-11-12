@@ -1,43 +1,43 @@
 {
- "char": "𦮺",
- "head": "𦮺",
- "level": 3,
- "parent": "厶",
- "bus": {
-  "num": 8,
-  "name": "㠯"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“茅秀也。从艸私聲。息夷切。”茅穗。還未開時，萌如筍，味甜，可食。"
+  "char": "𦮺",
+  "head": "𦮺",
+  "level": 3,
+  "parent": "厶",
+  "bus": {
+    "num": 8,
+    "name": "㠯"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "s「失收」取「失」：茅秀而失（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦮺sī《說文》：“茅秀也。从艸私聲。息夷切。”茅穗。還未開時，萌如筍，味甜，可食。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "s「失收」取「失」：茅秀而失（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "photos": [
-  {
-   "file": "𦮺/02.png",
-   "caption": ""
-  }
- ],
- "captions": [
-  ""
- ]
+  ],
+  "aliases": [],
+  "photos": [
+    {
+      "file": "𦮺/02.png",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    ""
+  ]
 }

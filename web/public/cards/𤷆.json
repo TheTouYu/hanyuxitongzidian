@@ -1,35 +1,35 @@
 {
- "char": "𤷆",
- "head": "𤷆",
- "pinyin": "dōng",
- "level": 3,
- "parent": "東",
- "bus": {
-  "num": 122,
-  "name": "東部"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“都籠切，音東。吳俗謂惡氣所傷為𤷆病。”疑同“腫”。"
+  "char": "𤷆",
+  "head": "𤷆",
+  "pinyin": "dōng",
+  "level": 3,
+  "parent": "東",
+  "bus": {
+    "num": 122,
+    "name": "東部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤動」取「囤」：惡氣囤結，肌膚脹而起。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二十三 鼓",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二十三鼓",
-     "label": "卷二十三 鼓"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𤷆dōng《集韻》：“都籠切，音東。吳俗謂惡氣所傷為𤷆病。”疑同“腫”。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤動」取「囤」：惡氣囤結，肌膚脹而起。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二十三 鼓",
+      "links": [
+        {
+          "ch": "卷二十三鼓",
+          "label": "卷二十三 鼓"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

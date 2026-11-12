@@ -1,38 +1,38 @@
 {
- "char": "𤻳",
- "head": "𤻳（𢋧瘰）",
- "pinyin": "luǒ",
- "aliases": [
-  "𢋧"
- ],
- "bus": {
-  "num": 118,
-  "name": "畾"
- },
- "level": 3,
- "parent": "磊",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“癧病。或从累。”淋巴結核。"
+  "char": "𤻳",
+  "head": "𤻳（𢋧瘰）",
+  "pinyin": "luǒ",
+  "aliases": [
+    "𢋧"
+  ],
+  "bus": {
+    "num": 118,
+    "name": "畾"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "l「拢离」取「拢」：筋結攏聚成核（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "磊",
+  "sections": [
     {
-     "t": "卷廿二  雷",
-     "ch": "卷二十二雷",
-     "label": "卷廿二 雷"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𤻳（𢋧瘰）luǒ《集韻》：“癧病。或从累。”淋巴結核。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "l「拢离」取「拢」：筋結攏聚成核（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿二  雷",
+          "ch": "卷二十二雷",
+          "label": "卷廿二 雷"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

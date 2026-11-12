@@ -1,40 +1,40 @@
 {
- "char": "𡾞",
- "head": "𡾞（巇）",
- "pinyin": "xī",
- "aliases": [
-  "巇"
- ],
- "bus": {
-  "num": 36,
-  "name": "我"
- },
- "level": 3,
- "parent": "羲",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《正字通》：“同巇。”巇，《玉篇》：“嶮巇，巓危也。”山巔高聳皃。"
+  "char": "𡾞",
+  "head": "𡾞（巇）",
+  "pinyin": "xī",
+  "aliases": [
+    "巇"
+  ],
+  "bus": {
+    "num": 36,
+    "name": "我"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「续」：同巇，山巔高聳（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "羲",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𡾞（巇）xī《正字通》：“同巇。”巇，《玉篇》：“嶮巇，巓危也。”山巔高聳皃。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「续」：同巇，山巔高聳（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ],
- "cls": "山",
- "bridge": "同巇，山巔高聳",
- "lead": "《正字通》「同巇」——同巇，山巔高聳"
+  ],
+  "cls": "山",
+  "bridge": "同巇，山巔高聳",
+  "lead": "《正字通》「同巇」——同巇，山巔高聳"
 }

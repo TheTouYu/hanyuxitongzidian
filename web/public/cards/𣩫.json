@@ -1,39 +1,39 @@
 {
- "char": "𣩫",
- "head": "𣩫（殜𣩨𣩣）",
- "pinyin": "yè",
- "aliases": [
-  "殜",
-  "𣩨",
-  "𣩣"
- ],
- "bus": {
-  "num": 52,
-  "name": "業"
- },
- "level": 3,
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“殗𣩫，病也。或作殜。”《正字通》：“𣩨、𣩣，並俗殜字。”"
+  "char": "𣩫",
+  "head": "𣩫（殜𣩨𣩣）",
+  "pinyin": "yè",
+  "aliases": [
+    "殜",
+    "𣩨",
+    "𣩣"
+  ],
+  "bus": {
+    "num": 52,
+    "name": "業"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "level": 3,
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣩫（殜𣩨𣩣）yè《集韻》：“殗𣩫，病也。或作殜。”《正字通》：“𣩨、𣩣，並俗殜字。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

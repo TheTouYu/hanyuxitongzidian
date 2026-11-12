@@ -1,37 +1,37 @@
 {
- "char": "𧪞",
- "head": "𧪞",
- "pinyin": "hé",
- "level": 3,
- "parent": "盍",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“靜也。”kē，《集韻》：“嗑，《說文》：‘多言也。’或从言。亦作䛅。”"
+  "char": "𧪞",
+  "head": "𧪞",
+  "pinyin": "hé",
+  "level": 3,
+  "parent": "盍",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：言靜而心豁（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧪞（䛅）hé《玉篇》：“靜也。”kē，《集韻》：“嗑，《說文》：‘多言也。’或从言。亦作䛅。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "h「豁活」取「豁」：言靜而心豁（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "䛅"
- ]
+  ],
+  "aliases": [
+    "䛅"
+  ]
 }

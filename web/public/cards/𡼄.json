@@ -1,38 +1,38 @@
 {
- "char": "𡼄",
- "head": "𡼄",
- "pinyin": "dié",
- "level": 3,
- "parent": "至",
- "bus": {
-  "num": 16,
-  "name": "矢"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“徒結切。𡼄𡸢，山皃。”",
-   "cites": []
+  "char": "𡼄",
+  "head": "𡼄",
+  "pinyin": "dié",
+  "level": 3,
+  "parent": "至",
+  "bus": {
+    "num": 16,
+    "name": "矢"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：山貌囤聚（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡼄dié《廣韻》：“徒結切。𡼄𡸢，山皃。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：山貌囤聚（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "cites": [],
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

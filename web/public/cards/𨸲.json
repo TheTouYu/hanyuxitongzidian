@@ -1,36 +1,36 @@
 {
- "char": "𨸲",
- "head": "𨸲（師）",
- "level": 3,
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [
-  "師"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“與師同。”"
+  "char": "𨸲",
+  "head": "𨸲（師）",
+  "level": 3,
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "sh「失收」取「收」：師眾收聚（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "師"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨸲（師）shī《字彙補》：“與師同。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "sh「失收」取「收」：師眾收聚（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

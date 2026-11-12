@@ -1,37 +1,37 @@
 {
- "char": "嘖",
- "head": "嘖（謮）",
- "level": 3,
- "parent": "責",
- "bus": {
-  "num": 18,
-  "name": "朿"
- },
- "aliases": [
-  "謮"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“大呼也。 从口責聲。{{shiyi/01.png}}，嘖或从言。士革切。”《集韻》：“嘖嘖，鳴也。”",
-   "gdir": "inline/嘖"
+  "char": "嘖",
+  "head": "嘖（謮）",
+  "level": 3,
+  "parent": "責",
+  "bus": {
+    "num": 18,
+    "name": "朿"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "z「凿总」取「凿」：呼而凿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [
+    "謮"
+  ],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“大呼也。 从口責聲。，嘖或从言。士革切。”《集韻》：“嘖嘖，鳴也。”",
+      "gdir": "inline/嘖"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "z「凿总」取「凿」：呼而凿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

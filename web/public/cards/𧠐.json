@@ -1,37 +1,37 @@
 {
- "char": "𧠐",
- "head": "𧠐（覎）",
- "pinyin": "yàn",
- "aliases": [
-  "覎"
- ],
- "bus": {
-  "num": 60,
-  "name": "予"
- },
- "level": 3,
- "parent": "予",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《五音集韻》：“於劍切，音俺。𧠐口，墟名。在富春。”或為“覎”字之訛，《廣韻》：“覎口，墟名，在富春渚上也。”"
+  "char": "𧠐",
+  "head": "𧠐（覎）",
+  "pinyin": "yàn",
+  "aliases": [
+    "覎"
+  ],
+  "bus": {
+    "num": 60,
+    "name": "予"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 予",
-   "links": [
+  "level": 3,
+  "parent": "予",
+  "sections": [
     {
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧠐（覎）yàn《五音集韻》：“於劍切，音俺。𧠐口，墟名。在富春。”或為“覎”字之訛，《廣韻》：“覎口，墟名，在富春渚上也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 予",
+      "links": [
+        {
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

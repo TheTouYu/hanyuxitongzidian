@@ -1,37 +1,37 @@
 {
- "char": "𢉥",
- "pinyin": "yè",
- "level": 3,
- "parent": "",
- "bus": {
-  "num": 4,
-  "name": ""
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“屋迫也。从广曷聲。於歇切。”",
-   "cites": []
+  "char": "𢉥",
+  "pinyin": "yè",
+  "level": 3,
+  "parent": "",
+  "bus": {
+    "num": 4,
+    "name": ""
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 雞",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢉥yè《說文》：“屋迫也。从广曷聲。於歇切。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 雞",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一 雞"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "𢉥"
+  ],
+  "aliases": [],
+  "head": "𢉥"
 }

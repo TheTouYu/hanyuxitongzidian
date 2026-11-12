@@ -1,37 +1,37 @@
 {
- "char": "𠓧",
- "head": "𠓧（𠓢）",
- "pinyin": "jiè",
- "aliases": [
-  "𠓢"
- ],
- "bus": {
-  "num": 34,
-  "name": "丂"
- },
- "level": 3,
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙補》：“音介。草卷也。” “𠓢”字之訛。《篇海》引《川篇》：“𠓢，音介。草卷也。”"
+  "char": "𠓧",
+  "head": "𠓧（𠓢）",
+  "pinyin": "jiè",
+  "aliases": [
+    "𠓢"
+  ],
+  "bus": {
+    "num": 34,
+    "name": "丂"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠓧（𠓢）jiè《字彙補》：“音介。草卷也。” “𠓢”字之訛。《篇海》引《川篇》：“𠓢，音介。草卷也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

@@ -1,43 +1,43 @@
 {
- "char": "𪇤",
- "head": "𪇤",
- "pinyin": "lù",
- "aliases": [],
- "bus": {
-  "num": 100,
-  "name": "鹿"
- },
- "level": 3,
- "parent": "鹿",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《漢典》：“穀𪇤，鳥名。”腰曲腳長。"
-   ],
-   "text": "《漢典》：“穀𪇤，鳥名。”腰曲腳長。"
+  "char": "𪇤",
+  "head": "𪇤",
+  "pinyin": "lù",
+  "aliases": [],
+  "bus": {
+    "num": 100,
+    "name": "鹿"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "l「拢离」取「离」：鳥腰曲腳長，形似鹿足（推）。"
-   ],
-   "text": "l「拢离」取「离」：鳥腰曲腳長，形似鹿足（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "鹿",
+  "sections": [
     {
-     "t": "卷十八  鹿",
-     "ch": "卷十八鹿",
-     "label": "卷十八 鹿"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𪇤lù《漢典》：“穀𪇤，鳥名。”腰曲腳長。"
+      ],
+      "text": "𪇤lù《漢典》：“穀𪇤，鳥名。”腰曲腳長。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "l「拢离」取「离」：鳥腰曲腳長，形似鹿足（推）。"
+      ],
+      "text": "l「拢离」取「离」：鳥腰曲腳長，形似鹿足（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷十八  鹿",
+          "ch": "卷十八鹿",
+          "label": "卷十八 鹿"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

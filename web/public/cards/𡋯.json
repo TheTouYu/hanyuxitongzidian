@@ -1,37 +1,37 @@
 {
- "char": "𡋯",
- "head": "𡋯（𡍧）",
- "pinyin": "bó",
- "level": 3,
- "parent": "孛",
- "bus": {
-  "num": 125,
-  "name": "丰部"
- },
- "aliases": [
-  "𡍧"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“塵皃。”《廣韻》：“塵起。”《集韻》：“或从勃。”塵土飛揚。"
+  "char": "𡋯",
+  "head": "𡋯（𡍧）",
+  "pinyin": "bó",
+  "level": 3,
+  "parent": "孛",
+  "bus": {
+    "num": 125,
+    "name": "丰部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "b「闭剥」取「闭」：塵閉而聚，閉而後騰，故𡋯為塵起（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二十四 貝",
-   "links": [
+  "aliases": [
+    "𡍧"
+  ],
+  "sections": [
     {
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𡋯（𡍧）bó《玉篇》：“塵皃。”《廣韻》：“塵起。”《集韻》：“或从勃。”塵土飛揚。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "b「闭剥」取「闭」：塵閉而聚，閉而後騰，故𡋯為塵起（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二十四 貝",
+      "links": [
+        {
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

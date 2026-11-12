@@ -1,37 +1,37 @@
 {
- "char": "𢫀",
- "head": "𢫀",
- "pinyin": "qiān",
- "level": 3,
- "parent": "去",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“音義與牽同。”"
+  "char": "𢫀",
+  "head": "𢫀",
+  "pinyin": "qiān",
+  "level": 3,
+  "parent": "去",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：牽引相親（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢫀（牽）qiān《字彙補》：“音義與牽同。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「亲」：牽引相親（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "牽"
- ]
+  ],
+  "aliases": [
+    "牽"
+  ]
 }

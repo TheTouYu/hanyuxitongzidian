@@ -1,45 +1,45 @@
 {
- "char": "𨇖",
- "head": "𨇖（𦢛臚）",
- "pinyin": "lú",
- "level": 3,
- "parent": "盧",
- "bus": {
-  "num": 48,
-  "name": "虎"
- },
- "suoshujuan": "卷八 虎（第48部 虍）",
- "links": [
-  {
-   "ch": "卷八虎",
-   "label": "卷八 虎"
-  }
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“傳也。一曰上傳語告下為𨇖。或作𦢛。通作臚。”當从“轤”省聲。"
+  "char": "𨇖",
+  "head": "𨇖（𦢛臚）",
+  "pinyin": "lú",
+  "level": 3,
+  "parent": "盧",
+  "bus": {
+    "num": 48,
+    "name": "虎"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "suoshujuan": "卷八 虎（第48部 虍）",
+  "links": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "ch": "卷八虎",
+      "label": "卷八 虎"
     }
-   ]
-  }
- ],
- "aliases": [
-  "𦢛",
-  "臚"
- ]
+  ],
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨇖（𦢛臚）lú《集韻》：“傳也。一曰上傳語告下為𨇖。或作𦢛。通作臚。”當从“轤”省聲。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "𦢛",
+    "臚"
+  ]
 }

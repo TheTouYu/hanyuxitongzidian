@@ -1,36 +1,36 @@
 {
- "char": "𩑒",
- "head": "𩑒",
- "pinyin": "duó",
- "level": 3,
- "parent": "乇",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“顱也。从頁乇聲。徒穀切。”《釋名》：“𩑒顱謂之髑髏。”《集韻》：“腦蓋。”",
-   "cites": []
+  "char": "𩑒",
+  "head": "𩑒",
+  "pinyin": "duó",
+  "level": 3,
+  "parent": "乇",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：顱骨，音義無考（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𩑒duó《說文》：“顱也。从頁乇聲。徒穀切。”《釋名》：“𩑒顱謂之髑髏。”《集韻》：“腦蓋。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：顱骨，音義無考（照實）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

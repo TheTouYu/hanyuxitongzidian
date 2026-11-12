@@ -1,35 +1,35 @@
 {
- "char": "𪁍",
- "head": "𪁍",
- "pinyin": "jié",
- "level": 3,
- "parent": "去",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“居盍切，音砝。鳥名。”《正字通》：“譌字。”"
+  "char": "𪁍",
+  "head": "𪁍",
+  "pinyin": "jié",
+  "level": 3,
+  "parent": "去",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：鳥名取音（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪁍jié《集韻》：“居盍切，音砝。鳥名。”《正字通》：“譌字。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：鳥名取音（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

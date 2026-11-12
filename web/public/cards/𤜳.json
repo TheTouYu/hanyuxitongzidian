@@ -1,44 +1,44 @@
 {
- "char": "𤜳",
- "head": "𤜳（獅）",
- "aliases": [
-  "獅"
- ],
- "pinyin": "shī",
- "bus": {
-  "num": 77,
-  "name": "帀"
- },
- "level": 3,
- "parent": "帀",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“獅，犬生二子。或省。通作師。”",
-   "paras": [
-    "《集韻》：“獅，犬生二子。或省。通作師。”"
-   ]
+  "char": "𤜳",
+  "head": "𤜳（獅）",
+  "aliases": [
+    "獅"
+  ],
+  "pinyin": "shī",
+  "bus": {
+    "num": 77,
+    "name": "帀"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「收」：鬣毛環頸而收聚（推）。",
-   "paras": [
-    "sh「失收」取「收」：鬣毛環頸而收聚（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "帀",
+  "sections": [
     {
-     "t": "卷十三  合",
-     "ch": "卷十三合",
-     "label": "卷十三 合"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𤜳（獅）shī《集韻》：“獅，犬生二子。或省。通作師。”",
+      "paras": [
+        "𤜳（獅）shī《集韻》：“獅，犬生二子。或省。通作師。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「收」：鬣毛環頸而收聚（推）。",
+      "paras": [
+        "sh「失收」取「收」：鬣毛環頸而收聚（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十三  合",
+          "ch": "卷十三合",
+          "label": "卷十三 合"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

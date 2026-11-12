@@ -1,44 +1,44 @@
 {
- "char": "㖸",
- "head": "㖸（噱）",
- "pinyin": "jué",
- "level": 3,
- "parent": "虐",
- "bus": {
-  "num": 48,
-  "name": "虎"
- },
- "suoshujuan": "卷八 虎（第48部 虍）",
- "links": [
-  {
-   "ch": "卷八虎",
-   "label": "卷八 虎"
-  }
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：『噱，極虐切。《說文》：大笑也。或作㖸。通作𧮫、𠶸、䐘。』niā，方言。語氣詞。表示直陳或命令語氣。"
+  "char": "㖸",
+  "head": "㖸（噱）",
+  "pinyin": "jué",
+  "level": 3,
+  "parent": "虐",
+  "bus": {
+    "num": 48,
+    "name": "虎"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「决」：張口大笑（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "suoshujuan": "卷八 虎（第48部 虍）",
+  "links": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "ch": "卷八虎",
+      "label": "卷八 虎"
     }
-   ]
-  }
- ],
- "aliases": [
-  "噱"
- ]
+  ],
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《集韻》：“噱，極虐切。《說文》：‘大笑也。’或作㖸。通作𧮫、𠶸、䐘。”niā，方言。語氣詞。表示直陳或命令語氣。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「决」：張口大笑（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "噱"
+  ]
 }

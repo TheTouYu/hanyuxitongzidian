@@ -1,40 +1,40 @@
 {
- "char": "𢶡",
- "head": "𢶡",
- "pinyin": "qiào、jiǎo",
- "aliases": [],
- "bus": {
-  "num": 110,
-  "name": "皋"
- },
- "level": 3,
- "parent": "敫",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《說文》：“旁擊也。从手敫聲。苦弔切。”从旁擊打。jiǎo，《集韻》：“持也。”"
-   ],
-   "text": "《說文》：“旁擊也。从手敫聲。苦弔切。”从旁擊打。jiǎo，《集韻》：“持也。”"
+  "char": "𢶡",
+  "head": "𢶡",
+  "pinyin": "qiào、jiǎo",
+  "aliases": [],
+  "bus": {
+    "num": 110,
+    "name": "皋"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "q「亲缺」取「缺」：從旁擊之，缺其正鋒（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "敫",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𢶡qiào《說文》：“旁擊也。从手敫聲。苦弔切。”从旁擊打。jiǎo，《集韻》：“持也。”"
+      ],
+      "text": "𢶡qiào《說文》：“旁擊也。从手敫聲。苦弔切。”从旁擊打。jiǎo，《集韻》：“持也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "q「亲缺」取「缺」：從旁擊之，缺其正鋒（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

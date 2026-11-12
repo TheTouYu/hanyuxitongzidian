@@ -1,36 +1,36 @@
 {
- "char": "𦘴",
- "head": "𦘴",
- "pinyin": "dū",
- "level": 3,
- "parent": "乇",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“胍𦘴，大腹皃。”《集韻》：“一曰椎之大者，故俗為仗頭大為胍𦘴。關中語訛為胍檛。”",
-   "cites": []
+  "char": "𦘴",
+  "head": "𦘴",
+  "pinyin": "dū",
+  "level": 3,
+  "parent": "乇",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：大腹囤然下垂（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦘴dū《廣韻》：“胍𦘴，大腹皃。”《集韻》：“一曰椎之大者，故俗為仗頭大為胍𦘴。關中語訛為胍檛。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：大腹囤然下垂（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,43 +1,43 @@
 {
- "char": "𦜍",
- "head": "𦜍",
- "pinyin": "pàng",
- "aliases": [],
- "bus": {
-  "num": 109,
-  "name": "方"
- },
- "level": 3,
- "parent": "方",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“滂謗切，音胖。脹也。”"
-   ],
-   "text": "《集韻》：“滂謗切，音胖。脹也。”"
+  "char": "𦜍",
+  "head": "𦜍",
+  "pinyin": "pàng",
+  "aliases": [],
+  "bus": {
+    "num": 109,
+    "name": "方"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "p「拼辟」取「拼」：皮肉拼脹而鼓起（推）。"
-   ],
-   "text": "p「拼辟」取「拼」：皮肉拼脹而鼓起（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "方",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𦜍pàng《集韻》：“滂謗切，音胖。脹也。”"
+      ],
+      "text": "𦜍pàng《集韻》：“滂謗切，音胖。脹也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "p「拼辟」取「拼」：皮肉拼脹而鼓起（推）。"
+      ],
+      "text": "p「拼辟」取「拼」：皮肉拼脹而鼓起（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

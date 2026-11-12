@@ -1,35 +1,35 @@
 {
- "char": "𢛔",
- "head": "𢛔",
- "pinyin": "dōng",
- "level": 3,
- "parent": "東",
- "bus": {
-  "num": 122,
-  "name": "東部"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“都籠切，音東。愚皃。”"
+  "char": "𢛔",
+  "head": "𢛔",
+  "pinyin": "dōng",
+  "level": 3,
+  "parent": "東",
+  "bus": {
+    "num": 122,
+    "name": "東部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤動」取「囤」：心囤不靈，愚而少慧。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二十三 鼓",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二十三鼓",
-     "label": "卷二十三 鼓"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𢛔dōng《集韻》：“都籠切，音東。愚皃。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤動」取「囤」：心囤不靈，愚而少慧。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二十三 鼓",
+      "links": [
+        {
+          "ch": "卷二十三鼓",
+          "label": "卷二十三 鼓"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

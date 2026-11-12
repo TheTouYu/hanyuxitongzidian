@@ -1,34 +1,34 @@
 {
- "char": "𣁙",
- "head": "𣁙",
- "level": 3,
- "parent": "士",
- "bus": {
-  "num": 9,
-  "name": "士"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“音義同錦。”指仕的官服。"
+  "char": "𣁙",
+  "head": "𣁙",
+  "level": 3,
+  "parent": "士",
+  "bus": {
+    "num": 9,
+    "name": "士"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：文采聚（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𣁙jǐn《字彙補》：“音義同錦。”指仕的官服。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：文采聚（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

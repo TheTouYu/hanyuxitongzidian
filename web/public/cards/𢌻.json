@@ -1,35 +1,35 @@
 {
- "char": "𢌻",
- "head": "𢌻",
- "pinyin": "yù",
- "aliases": [],
- "bus": {
-  "num": 51,
-  "name": "六"
- },
- "level": 3,
- "parent": "𡴆",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《說文》：“兩手盛也。从廾𡴆聲。餘六切。”兩手捧物。《廣韻》：“兩手捧物。”此字當為“廾”聲。"
+  "char": "𢌻",
+  "head": "𢌻",
+  "pinyin": "yù",
+  "aliases": [],
+  "bus": {
+    "num": 51,
+    "name": "六"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "level": 3,
+  "parent": "𡴆",
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𢌻yù《說文》：“兩手盛也。从廾𡴆聲。餘六切。”兩手捧物。《廣韻》：“兩手捧物。”此字當為“廾”聲。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

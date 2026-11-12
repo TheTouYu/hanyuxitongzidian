@@ -1,36 +1,36 @@
 {
- "char": "䘜",
- "head": "䘜",
- "pinyin": "jīn",
- "aliases": [],
- "bus": {
-  "num": 119,
-  "name": "巾"
- },
- "level": 3,
- "parent": "巾",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "䘜jīn《集韻》：“巾，《說文》：‘佩巾也。’一曰首飾。或从衣。”"
+  "char": "䘜",
+  "head": "䘜",
+  "pinyin": "jīn",
+  "aliases": [],
+  "bus": {
+    "num": 119,
+    "name": "巾"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：佩巾繫身，衣幅聚攏而收於腰（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "巾",
+  "sections": [
     {
-     "t": "卷廿二  雷",
-     "ch": "卷二十二雷",
-     "label": "卷廿二 雷"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《集韻》：“巾，《說文》：‘佩巾也。’一曰首飾。或从衣。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：佩巾繫身，衣幅聚攏而收於腰（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿二  雷",
+          "ch": "卷二十二雷",
+          "label": "卷廿二 雷"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,42 +1,42 @@
 {
- "char": "𡉩",
- "head": "𡉩",
- "aliases": [],
- "pinyin": "bào",
- "bus": {
-  "num": 88,
-  "name": "犬"
- },
- "level": 3,
- "parent": "犬",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙補》：“音暴。義未詳。”疑同“突”。",
-   "paras": [
-    "《字彙補》：“音暴。義未詳。”疑同“突”。"
-   ]
+  "char": "𡉩",
+  "head": "𡉩",
+  "aliases": [],
+  "pinyin": "bào",
+  "bus": {
+    "num": 88,
+    "name": "犬"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "b「闭剥」取「剥」：暴烈剥裂，如犬咬物（推）。",
-   "paras": [
-    "b「闭剥」取「剥」：暴烈剥裂，如犬咬物（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "犬",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𡉩bào《字彙補》：“音暴。義未詳。”疑同“突”。",
+      "paras": [
+        "𡉩bào《字彙補》：“音暴。義未詳。”疑同“突”。"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "b「闭剥」取「剥」：暴烈剥裂，如犬咬物（推）。",
+      "paras": [
+        "b「闭剥」取「剥」：暴烈剥裂，如犬咬物（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

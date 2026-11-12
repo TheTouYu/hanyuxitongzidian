@@ -1,42 +1,42 @@
 {
- "char": "壕",
- "head": "壕（𡐒）",
- "pinyin": "háo",
- "aliases": [
-  "𡐒"
- ],
- "bus": {
-  "num": 112,
-  "name": "高"
- },
- "level": 3,
- "parent": "豪",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“城下池。通作濠。” "
-   ],
-   "text": "《集韻》：“城下池。通作濠。” "
+  "char": "壕",
+  "head": "壕（𡐒）",
+  "pinyin": "háo",
+  "aliases": [
+    "𡐒"
+  ],
+  "bus": {
+    "num": 112,
+    "name": "高"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「豁」：掘地成池，豁然中陷（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "豪",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "《集韻》：“城下池。通作濠。”"
+      ],
+      "text": "《集韻》：“城下池。通作濠。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「豁」：掘地成池，豁然中陷（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,42 +1,42 @@
 {
- "char": "𦎠",
- "head": "𦎠",
- "aliases": [],
- "pinyin": "jǔ",
- "bus": {
-  "num": 74,
-  "name": "古"
- },
- "level": 3,
- "parent": "居",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《漢典》：“𦎠𦎑，一種身小角尖的山羊。”",
-   "paras": [
-    "《漢典》：“𦎠𦎑，一種身小角尖的山羊。”"
-   ]
+  "char": "𦎠",
+  "head": "𦎠",
+  "aliases": [],
+  "pinyin": "jǔ",
+  "bus": {
+    "num": 74,
+    "name": "古"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：角尖相聚而鬥（推）。",
-   "paras": [
-    "j「聚决」取「聚」：角尖相聚而鬥（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "居",
+  "sections": [
     {
-     "t": "卷十二  于",
-     "ch": "卷十二于",
-     "label": "卷十二 于"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𦎠jǔ《漢典》：“𦎠𦎑，一種身小角尖的山羊。”",
+      "paras": [
+        "𦎠jǔ《漢典》：“𦎠𦎑，一種身小角尖的山羊。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：角尖相聚而鬥（推）。",
+      "paras": [
+        "j「聚决」取「聚」：角尖相聚而鬥（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十二  于",
+          "ch": "卷十二于",
+          "label": "卷十二 于"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

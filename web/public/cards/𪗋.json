@@ -1,34 +1,34 @@
 {
- "char": "𪗋",
- "head": "𪗋",
- "level": 3,
- "parent": "齊",
- "bus": {
-  "num": 19,
-  "name": "齊"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“緶也。从衣齊聲。卽夷切。”提起衣服的下擺盛東西。故或指下衣的鎖邊，《玉篇》：“裳下緝也。”《玉篇》：“疾也。”"
+  "char": "𪗋",
+  "head": "𪗋",
+  "level": 3,
+  "parent": "齊",
+  "bus": {
+    "num": 19,
+    "name": "齊"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "z「凿总」取「凿」：齊如凿齊（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪗋zī《說文》：“緶也。从衣齊聲。卽夷切。”提起衣服的下擺盛東西。故或指下衣的鎖邊，《玉篇》：“裳下緝也。”《玉篇》：“疾也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "z「凿总」取「凿」：齊如凿齊（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

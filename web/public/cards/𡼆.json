@@ -1,44 +1,44 @@
 {
- "char": "𡼆",
- "head": "𡼆（嶇）",
- "pinyin": "qū",
- "level": 3,
- "parent": "處",
- "bus": {
-  "num": 48,
-  "name": "虎"
- },
- "suoshujuan": "卷八 虎（第48部 虍）",
- "links": [
-  {
-   "ch": "卷八虎",
-   "label": "卷八 虎"
-  }
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《漢典》：『同嶇字。』"
+  "char": "𡼆",
+  "head": "𡼆（嶇）",
+  "pinyin": "qū",
+  "level": 3,
+  "parent": "處",
+  "bus": {
+    "num": 48,
+    "name": "虎"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：山路崎嶇而缺（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "suoshujuan": "卷八 虎（第48部 虍）",
+  "links": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "ch": "卷八虎",
+      "label": "卷八 虎"
     }
-   ]
-  }
- ],
- "aliases": [
-  "嶇"
- ]
+  ],
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡼆（嶇）qū《漢典》：“同嶇字。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「缺」：山路崎嶇而缺（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "嶇"
+  ]
 }

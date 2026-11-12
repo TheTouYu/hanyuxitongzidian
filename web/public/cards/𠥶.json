@@ -1,38 +1,38 @@
 {
- "id": "𠥶",
- "head": "𠥶",
- "pinyin": "tī",
- "level": 3,
- "bus": {
-  "num": 48,
-  "name": "虍"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《正字通》：“俗㔸字。”《玉篇》：“匾㔸，薄也。”"
+  "id": "𠥶",
+  "head": "𠥶",
+  "pinyin": "tī",
+  "level": 3,
+  "bus": {
+    "num": 48,
+    "name": "虍"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "t「涂突」取「突」：薄而突起（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠥶（㔸）tī《正字通》：“俗㔸字。”《玉篇》：“匾㔸，薄也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "t「涂突」取「突」：薄而突起（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "lei": "匚",
- "char": "𠥶",
- "aliases": [
-  "㔸"
- ],
- "noRoot": true
+  ],
+  "lei": "匚",
+  "char": "𠥶",
+  "aliases": [
+    "㔸"
+  ],
+  "noRoot": true
 }

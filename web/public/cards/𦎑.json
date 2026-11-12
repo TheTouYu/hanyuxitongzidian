@@ -1,36 +1,36 @@
 {
- "char": "𦎑",
- "head": "𦎑",
- "pinyin": "lǚ",
- "aliases": [],
- "bus": {
-  "num": 62,
-  "name": "呂"
- },
- "level": 3,
- "parent": "呂",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《漢典》：“𦎠𦎑，一種身小角尖的山羊。”"
+  "char": "𦎑",
+  "head": "𦎑",
+  "pinyin": "lǚ",
+  "aliases": [],
+  "bus": {
+    "num": 62,
+    "name": "呂"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "l「拢离」取「拢」：羊群相攏而行（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 予",
-   "links": [
+  "level": 3,
+  "parent": "呂",
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𦎑lǚ《漢典》：“𦎠𦎑，一種身小角尖的山羊。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "l「拢离」取「拢」：羊群相攏而行（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 予",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

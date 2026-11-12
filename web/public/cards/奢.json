@@ -1,45 +1,45 @@
 {
- "char": "奢",
- "head": "奢（奓）",
- "pinyin": "shē",
- "aliases": [
-  "奓"
- ],
- "bus": {
-  "num": 63,
-  "name": "者"
- },
- "level": 3,
- "parent": "者",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《說文》：“張也。从大者聲。凡奢之屬皆从奢。{{shiyi/01.png}}，籀文。式車切。（注）臣鉉等曰：今俗作陟加切。以為㗬厚之㗬，非是。”張大。",
-   "gdir": "inline/奢"
+  "char": "奢",
+  "head": "奢（奓）",
+  "pinyin": "shē",
+  "aliases": [
+    "奓"
+  ],
+  "bus": {
+    "num": 63,
+    "name": "者"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「失」：張大而奢，失其節（推）。"
-  },
-  {
-   "key": "zixing",
-   "label": "字形",
-   "text": "",
-   "gdir": "奢"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 予",
-   "links": [
+  "level": 3,
+  "parent": "者",
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《說文》：“張也。从大者聲。凡奢之屬皆从奢。，籀文。式車切。（注）臣鉉等曰：今俗作陟加切。以為㗬厚之㗬，非是。”張大。",
+      "gdir": "inline/奢"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「失」：張大而奢，失其節（推）。"
+    },
+    {
+      "key": "zixing",
+      "label": "字形",
+      "text": "",
+      "gdir": "奢"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 予",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

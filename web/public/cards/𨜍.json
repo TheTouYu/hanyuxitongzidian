@@ -1,42 +1,42 @@
 {
- "char": "𨜍",
- "head": "𨜍",
- "pinyin": "qiào",
- "aliases": [],
- "bus": {
-  "num": 113,
-  "name": "杲"
- },
- "level": 3,
- "parent": "杲",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《川篇》：“去要切。縣名。”",
-   "paras": [
-    "《川篇》：“去要切。縣名。”"
-   ]
+  "char": "𨜍",
+  "head": "𨜍",
+  "pinyin": "qiào",
+  "aliases": [],
+  "bus": {
+    "num": 113,
+    "name": "杲"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "q「亲缺」取「缺」：山缺處置邑（推）。",
-   "paras": [
-    "q「亲缺」取「缺」：山缺處置邑（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "杲",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨜍qiào《川篇》：“去要切。縣名。”",
+      "paras": [
+        "𨜍qiào《川篇》：“去要切。縣名。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "q「亲缺」取「缺」：山缺處置邑（推）。",
+      "paras": [
+        "q「亲缺」取「缺」：山缺處置邑（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

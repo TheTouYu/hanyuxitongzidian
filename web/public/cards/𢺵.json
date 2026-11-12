@@ -1,34 +1,34 @@
 {
- "char": "𢺵",
- "head": "𢺵",
- "level": 3,
- "parent": "支",
- "bus": {
-  "num": 13,
-  "name": "支"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“頃也。从匕支聲。匕，頭頃也。《詩》曰：‘𢺵彼織女。’去智切。”傾斜。qǐ，《玉篇》：“顒皃。”頭仰皃。"
+  "char": "𢺵",
+  "head": "𢺵",
+  "level": 3,
+  "parent": "支",
+  "bus": {
+    "num": 13,
+    "name": "支"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：傾而缺正（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢺵qì《說文》：“頃也。从匕支聲。匕，頭頃也。《詩》曰：‘𢺵彼織女。’去智切。”傾斜。qǐ，《玉篇》：“顒皃。”頭仰皃。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「缺」：傾而缺正（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

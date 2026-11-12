@@ -1,40 +1,40 @@
 {
- "char": "䓳",
- "head": "䓳",
- "pinyin": "hěn",
- "aliases": [],
- "bus": {
-  "num": 140,
-  "name": "勹部"
- },
- "level": 3,
- "parent": "艮",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "䓳hěn《玉篇》：“草名，似蓍，花靑白。”xié，《廣韻》：“䓳菔草。”",
-   "paras": []
+  "char": "䓳",
+  "head": "䓳",
+  "pinyin": "hěn",
+  "aliases": [],
+  "bus": {
+    "num": 140,
+    "name": "勹部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「豁」：似蓍之草，青白花開而豁然散放（推）。",
-   "paras": [
-    "h「豁活」取「豁」：似蓍之草，青白花開而豁然散放（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "艮",
+  "sections": [
     {
-     "t": "卷二十五 勹",
-     "ch": "卷二十五勹",
-     "label": "卷二十五 勹"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《玉篇》：“草名，似蓍，花靑白。”xié，《廣韻》：“䓳菔草。”",
+      "paras": []
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「豁」：似蓍之草，青白花開而豁然散放（推）。",
+      "paras": [
+        "h「豁活」取「豁」：似蓍之草，青白花開而豁然散放（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十五 勹",
+          "ch": "卷二十五勹",
+          "label": "卷二十五 勹"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

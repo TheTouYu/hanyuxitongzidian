@@ -1,34 +1,34 @@
 {
- "char": "𪘿",
- "head": "𪘿",
- "level": 3,
- "parent": "祡",
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙》：“與𪗶同。又𪘿𪘲，齒不生（正）。”齙牙。𪗶，《集韻》：“𪗶𪘬，齒不齊。”“開口見齒皃。”"
+  "char": "𪘿",
+  "head": "𪘿",
+  "level": 3,
+  "parent": "祡",
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "z「凿总」取「凿」：齒凿不齊（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪘿zī《字彙》：“與𪗶同。又𪘿𪘲，齒不生（正）。”齙牙。𪗶，《集韻》：“𪗶𪘬，齒不齊。”“開口見齒皃。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "z「凿总」取「凿」：齒凿不齊（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

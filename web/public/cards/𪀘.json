@@ -1,35 +1,35 @@
 {
- "char": "𪀘",
- "pinyin": "jiàng",
- "level": 3,
- "parent": "斤",
- "bus": {
-  "num": 44,
-  "name": "斤"
- },
- "head": "𪀘",
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“巧婦也。”《廣雅》：“女𪀘，工雀也。又名鷦𪃦、鸋鴂、果鸁、桑飛、鷦𪃦或鷦𪃧。”"
+  "char": "𪀘",
+  "pinyin": "jiàng",
+  "level": 3,
+  "parent": "斤",
+  "bus": {
+    "num": 44,
+    "name": "斤"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「决」：斤刃劈木，一擊而斷（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "head": "𪀘",
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪀘jiàng《玉篇》：“巧婦也。”《廣雅》：“女𪀘，工雀也。又名鷦𪃦、鸋鴂、果鸁、桑飛、鷦𪃦或鷦𪃧。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「决」：斤刃劈木，一擊而斷（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

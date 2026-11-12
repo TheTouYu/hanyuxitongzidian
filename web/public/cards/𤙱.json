@@ -1,35 +1,35 @@
 {
- "char": "𤙱",
- "head": "𤙱",
- "pinyin": "shè",
- "aliases": [],
- "bus": {
-  "num": 54,
-  "name": "余"
- },
- "level": 3,
- "parent": "舍",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《廣雅》：“𤙱、牸、牝，雌也。”雌性牲畜。"
+  "char": "𤙱",
+  "head": "𤙱",
+  "pinyin": "shè",
+  "aliases": [],
+  "bus": {
+    "num": 54,
+    "name": "余"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「收」：承舍之取義一面（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷九 舟",
-   "links": [
+  "level": 3,
+  "parent": "舍",
+  "sections": [
     {
-     "ch": "卷九舟",
-     "label": "卷九 舟"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𤙱shè《廣雅》：“𤙱、牸、牝，雌也。”雌性牲畜。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「收」：承舍之取義一面（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷九 舟",
+      "links": [
+        {
+          "ch": "卷九舟",
+          "label": "卷九 舟"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

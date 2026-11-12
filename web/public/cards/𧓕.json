@@ -1,35 +1,35 @@
 {
- "char": "𧓕",
- "head": "𧓕",
- "pinyin": "dōng",
- "level": 3,
- "parent": "東",
- "bus": {
-  "num": 122,
-  "name": "東部"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《廣韻》：“蛞𧓕，科斗蟲也。”蝌蚪。蛙的幼體，身肥有尾。"
+  "char": "𧓕",
+  "head": "𧓕",
+  "pinyin": "dōng",
+  "level": 3,
+  "parent": "東",
+  "bus": {
+    "num": 122,
+    "name": "東部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤動」取「囤」：蝌蚪身囤尾大，蠢然欲動。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二十三 鼓",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二十三鼓",
-     "label": "卷二十三 鼓"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧓕dōng《廣韻》：“蛞𧓕，科斗蟲也。”蝌蚪。蛙的幼體，身肥有尾。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤動」取「囤」：蝌蚪身囤尾大，蠢然欲動。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二十三 鼓",
+      "links": [
+        {
+          "ch": "卷二十三鼓",
+          "label": "卷二十三 鼓"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

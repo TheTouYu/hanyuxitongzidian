@@ -1,35 +1,35 @@
 {
- "char": "𠝛",
- "head": "𠝛",
- "pinyin": "qià",
- "level": 3,
- "parent": "去",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《川篇》：“口八切。剝𠝛也。”"
+  "char": "𠝛",
+  "head": "𠝛",
+  "pinyin": "qià",
+  "level": 3,
+  "parent": "去",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：剝削成缺（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𠝛qià《川篇》：“口八切。剝𠝛也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「缺」：剝削成缺（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

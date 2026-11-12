@@ -1,42 +1,42 @@
 {
- "char": "𩈸",
- "head": "𩈸",
- "aliases": [],
- "pinyin": "qiǔ",
- "bus": {
-  "num": 394,
-  "name": "自"
- },
- "level": 3,
- "parent": "臭",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“𩈏𩈸，面醜。”",
-   "paras": [
-    "《集韻》：“𩈏𩈸，面醜。”"
-   ]
+  "char": "𩈸",
+  "head": "𩈸",
+  "aliases": [],
+  "pinyin": "qiǔ",
+  "bus": {
+    "num": 394,
+    "name": "自"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "q「亲缺」取「缺」：面醜而鼻缺，故繫臭族（推）。",
-   "paras": [
-    "q「亲缺」取「缺」：面醜而鼻缺，故繫臭族（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "臭",
+  "sections": [
     {
-     "t": "卷六十五  鼻",
-     "ch": "卷六十五鼻",
-     "label": "卷六十五 鼻"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩈸qiǔ《集韻》：“𩈏𩈸，面醜。”",
+      "paras": [
+        "𩈸qiǔ《集韻》：“𩈏𩈸，面醜。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "q「亲缺」取「缺」：面醜而鼻缺，故繫臭族（推）。",
+      "paras": [
+        "q「亲缺」取「缺」：面醜而鼻缺，故繫臭族（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷六十五  鼻",
+          "ch": "卷六十五鼻",
+          "label": "卷六十五 鼻"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

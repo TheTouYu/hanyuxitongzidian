@@ -1,35 +1,35 @@
 {
- "char": "𡲭",
- "level": 3,
- "parent": "曳",
- "bus": {
-  "num": 26,
-  "name": "弋"
- },
- "head": "𡲭",
- "aliases": [],
- "pinyin": "mèi",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙》：“彌蔽切，音袂。尾長也。”按所釋義，當為“曳”聲；但卻音似“尾”，疑切音有誤。《正字通》：“俗字。舊註音袂，㞑長，誤。”"
+  "char": "𡲭",
+  "level": 3,
+  "parent": "曳",
+  "bus": {
+    "num": 26,
+    "name": "弋"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "m「蒙末」取「末」：尾長至末（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷四 弋",
-   "links": [
+  "head": "𡲭",
+  "aliases": [],
+  "pinyin": "mèi",
+  "sections": [
     {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡲭mèi《字彙》：“音袂。尾長也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "m「蒙末」取「末」：尾長至末（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷四 弋",
+      "links": [
+        {
+          "ch": "卷四弋",
+          "label": "卷四 弋"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

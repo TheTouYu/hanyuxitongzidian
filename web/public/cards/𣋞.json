@@ -1,35 +1,35 @@
 {
- "char": "𣋞",
- "head": "𣋞",
- "pinyin": "ài",
- "level": 3,
- "parent": "葢",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“日色也。”《正字通》：“一說埃壒之壒从蓋日。从蓋，會揜蔽意。當是。日不明與晻曖同義。舊註沿《正韻》訓日色，非。”"
+  "char": "𣋞",
+  "head": "𣋞",
+  "pinyin": "ài",
+  "level": 3,
+  "parent": "葢",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "y「零聲母」不系：日色昏蔽，零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𣋞ài《玉篇》：“日色也。”《正字通》：“一說埃壒之壒从蓋日。从蓋，會揜蔽意。當是。日不明與晻曖同義。舊註沿《正韻》訓日色，非。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "y「零聲母」不系：日色昏蔽，零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

@@ -1,43 +1,43 @@
 {
- "char": "𡛘",
- "head": "𡛘",
- "pinyin": "pǐ",
- "aliases": [],
- "bus": {
-  "num": 129,
-  "name": "匹部"
- },
- "level": 3,
- "parent": "匹",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韵》：“女字。”",
-   "paras": [
-    "《集韵》：“女字。”"
-   ]
+  "char": "𡛘",
+  "head": "𡛘",
+  "pinyin": "pǐ",
+  "aliases": [],
+  "bus": {
+    "num": 129,
+    "name": "匹部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「拼」：女名取匹合，兩兩相拼（推）。",
-   "paras": [
-    "p「拼辟」取「拼」：女名取匹合，兩兩相拼（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "paras": [],
-   "links": [
+  "level": 3,
+  "parent": "匹",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𡛘pǐ《集韵》：“女字。”",
+      "paras": [
+        "𡛘pǐ《集韵》：“女字。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「拼」：女名取匹合，兩兩相拼（推）。",
+      "paras": [
+        "p「拼辟」取「拼」：女名取匹合，兩兩相拼（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "paras": [],
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

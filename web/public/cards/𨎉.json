@@ -1,42 +1,42 @@
 {
- "char": "𨎉",
- "head": "𨎉",
- "aliases": [],
- "pinyin": "zhì",
- "bus": {
-  "num": 79,
-  "name": "疌"
- },
- "level": 3,
- "parent": "疌",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《川篇》：“陟利切，音致。小車也。”",
-   "paras": [
-    "《川篇》：“陟利切，音致。小車也。”"
-   ]
+  "char": "𨎉",
+  "head": "𨎉",
+  "aliases": [],
+  "pinyin": "zhì",
+  "bus": {
+    "num": 79,
+    "name": "疌"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "zh「凿总」取「凿」：小車細巧，穿巷如鑿之疾（推）。",
-   "paras": [
-    "zh「凿总」取「凿」：小車細巧，穿巷如鑿之疾（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "疌",
+  "sections": [
     {
-     "t": "卷十三  合",
-     "ch": "卷十三合",
-     "label": "卷十三 合"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨎉zhì《川篇》：“陟利切，音致。小車也。”",
+      "paras": [
+        "𨎉zhì《川篇》：“陟利切，音致。小車也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "zh「凿总」取「凿」：小車細巧，穿巷如鑿之疾（推）。",
+      "paras": [
+        "zh「凿总」取「凿」：小車細巧，穿巷如鑿之疾（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十三  合",
+          "ch": "卷十三合",
+          "label": "卷十三 合"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

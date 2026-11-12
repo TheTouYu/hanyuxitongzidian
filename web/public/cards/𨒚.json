@@ -1,46 +1,46 @@
 {
- "char": "𨒚",
- "head": "𨒚（䢐）",
- "pinyin": "cú",
- "aliases": [
-  "䢐"
- ],
- "bus": {
-  "num": 136,
-  "name": "臣部"
- },
- "level": 3,
- "photos": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《龍龕》：“同䢐。”䢐，《韻會》：“往也。”"
-   ],
-   "text": "《龍龕》：“同䢐。”䢐，《韻會》：“往也。”"
+  "char": "𨒚",
+  "head": "𨒚（䢐）",
+  "pinyin": "cú",
+  "aliases": [
+    "䢐"
+  ],
+  "bus": {
+    "num": 136,
+    "name": "臣部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "ch「刺持」取「持」：行而前往，持志以往（推）。",
-   "paras": [
-    "ch「刺持」取「持」：行而前往，持志以往（推）。"
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "photos": [],
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𨒚（䢐）cú《龍龕》：“同䢐。”䢐，《韻會》：“往也。”"
+      ],
+      "text": "𨒚（䢐）cú《龍龕》：“同䢐。”䢐，《韻會》：“往也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "ch「刺持」取「持」：行而前往，持志以往（推）。",
+      "paras": [
+        "ch「刺持」取「持」：行而前往，持志以往（推）。"
+      ],
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

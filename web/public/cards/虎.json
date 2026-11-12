@@ -1,40 +1,40 @@
 {
- "id": "虎",
- "head": "虎",
- "pinyin": "hǔ",
- "level": 3,
- "parent": "虍",
- "bus": {
-  "num": 48,
-  "name": "虍"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《說文》：“山獸之君。从虍，虎足象人足。象形。呼古切。”《廣韻》：“惡獸也。”"
+  "id": "虎",
+  "head": "虎",
+  "pinyin": "hǔ",
+  "level": 3,
+  "parent": "虍",
+  "bus": {
+    "num": 48,
+    "name": "虍"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「豁」：張口而嘯，其聲豁然（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《說文》：“山獸之君。从虍，虎足象人足。象形。，古文虎。，亦古文虎。呼古切。”《廣韻》：“惡獸也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「豁」：張口而嘯，其聲豁然（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "lei": "虍",
- "char": "虎",
- "aliases": [
-  "𢋪",
-  "虝",
-  "𧆢"
- ]
+  ],
+  "lei": "虍",
+  "char": "虎",
+  "aliases": [
+    "𢋪",
+    "虝",
+    "𧆢"
+  ]
 }

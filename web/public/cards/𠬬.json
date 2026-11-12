@@ -1,42 +1,42 @@
 {
- "char": "𠬬",
- "head": "𠬬",
- "aliases": [],
- "pinyin": "xī",
- "bus": {
-  "num": 86,
-  "name": "及"
- },
- "level": 3,
- "parent": "及",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙補》：“行也。”",
-   "paras": [
-    "《字彙補》：“行也。”"
-   ]
+  "char": "𠬬",
+  "head": "𠬬",
+  "aliases": [],
+  "pinyin": "xī",
+  "bus": {
+    "num": 86,
+    "name": "及"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「续」：行步相續，乍起乍落（推）。",
-   "paras": [
-    "x「续消」取「续」：行步相續，乍起乍落（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "及",
+  "sections": [
     {
-     "t": "卷十四  咠",
-     "ch": "卷十四咠",
-     "label": "卷十四 咠"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠬬xī《字彙補》：“行也。”",
+      "paras": [
+        "𠬬xī《字彙補》：“行也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「续」：行步相續，乍起乍落（推）。",
+      "paras": [
+        "x「续消」取「续」：行步相續，乍起乍落（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十四  咠",
+          "ch": "卷十四咠",
+          "label": "卷十四 咠"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

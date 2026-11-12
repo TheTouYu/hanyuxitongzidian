@@ -1,35 +1,35 @@
 {
- "char": "𣝒",
- "head": "𣝒",
- "pinyin": "shè",
- "level": 3,
- "parent": "盍",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《唐韻》：“宜𣝒，善夢神。見《仙經》。”疑即“魘”的異體。"
+  "char": "𣝒",
+  "head": "𣝒",
+  "pinyin": "shè",
+  "level": 3,
+  "parent": "盍",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "g「隔估」取「隔」：神名用字，音義之聯未詳。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𣝒shè《唐韻》：“宜𣝒，善夢神。見《仙經》。”疑即“魘”的異體。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "g「隔估」取「隔」：神名用字，音義之聯未詳。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

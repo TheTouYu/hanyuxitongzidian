@@ -1,48 +1,48 @@
 {
- "char": "𨪴",
- "pinyin": "jī",
- "bus": {
-  "num": 3,
-  "name": "旨"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“堅也。”",
-   "cites": []
+  "char": "𨪴",
+  "pinyin": "jī",
+  "bus": {
+    "num": 3,
+    "name": "旨"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：而堅（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨪴jī《廣韻》：“堅也。”",
+      "cites": []
+    },
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：而堅（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshu",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一雞"
+        }
+      ],
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一 雞"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "稽",
- "aliases": [],
- "head": "𨪴"
+  ],
+  "level": 3,
+  "parent": "稽",
+  "aliases": [],
+  "head": "𨪴"
 }

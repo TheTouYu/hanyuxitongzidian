@@ -1,42 +1,42 @@
 {
- "char": "𤜡",
- "head": "𤜡",
- "aliases": [],
- "pinyin": "huí",
- "bus": {
-  "num": 88,
-  "name": "犬"
- },
- "level": 3,
- "parent": "犬",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙》：“鄉名，在睢陽。”",
-   "paras": [
-    "《字彙》：“鄉名，在睢陽。”"
-   ]
+  "char": "𤜡",
+  "head": "𤜡",
+  "aliases": [],
+  "pinyin": "huí",
+  "bus": {
+    "num": 88,
+    "name": "犬"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「豁」：鄉邑豁然，地名止存其聲（推）。",
-   "paras": [
-    "h「豁活」取「豁」：鄉邑豁然，地名止存其聲（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "犬",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𤜡huí《字彙》：“鄉名，在睢陽。”",
+      "paras": [
+        "𤜡huí《字彙》：“鄉名，在睢陽。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「豁」：鄉邑豁然，地名止存其聲（推）。",
+      "paras": [
+        "h「豁活」取「豁」：鄉邑豁然，地名止存其聲（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

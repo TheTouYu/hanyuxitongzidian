@@ -1,34 +1,34 @@
 {
- "char": "𠴼",
- "head": "𠴼",
- "level": 3,
- "parent": "到",
- "bus": {
-  "num": 16,
-  "name": "矢"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“丁套切，音到。𠴼，𠴼喇者，掐撥數唱，雜劇之名。”"
+  "char": "𠴼",
+  "head": "𠴼",
+  "level": 3,
+  "parent": "到",
+  "bus": {
+    "num": 16,
+    "name": "矢"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：唱而囤節（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𠴼dào《字彙補》：“丁套切，音到。𠴼，𠴼喇者，掐撥數唱，雜劇之名。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：唱而囤節（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

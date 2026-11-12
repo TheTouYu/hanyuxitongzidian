@@ -1,49 +1,49 @@
 {
- "char": "𤬵",
- "trad": "𤬵",
- "simp": "𤬵",
- "pinyin": "dì",
- "level": 3,
- "parent": "氐",
- "bus": {
-  "num": 8,
-  "name": "㠯"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“𤬵瓽，大甕。”"
+  "char": "𤬵",
+  "trad": "𤬵",
+  "simp": "𤬵",
+  "pinyin": "dì",
+  "level": 3,
+  "parent": "氐",
+  "bus": {
+    "num": 8,
+    "name": "㠯"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：大甕——器大而物聚其中。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤬵dì《廣韻》：“𤬵瓽，大甕。”"
+    },
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：大甕——器大而物聚其中。",
+      "cites": []
+    },
+    {
+      "key": "suoshu",
+      "label": "所属卷",
+      "text": "",
+      "cites": [],
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二㠯"
+        }
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "𤬵"
+  ],
+  "aliases": [],
+  "head": "𤬵"
 }

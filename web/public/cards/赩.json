@@ -1,34 +1,34 @@
 {
- "char": "赩",
- "head": "赩",
- "level": 3,
- "parent": "色",
- "bus": {
-  "num": 9,
-  "name": "士"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《新附》：“大赤也。从赤、色，色亦聲。許力切。”《玉篇》：“怒皃。”"
+  "char": "赩",
+  "head": "赩",
+  "level": 3,
+  "parent": "色",
+  "bus": {
+    "num": 9,
+    "name": "士"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：赤色續（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《說文》：“大赤也。从赤、色，色亦聲。許力切。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：赤色續（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

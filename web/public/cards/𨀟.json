@@ -1,39 +1,39 @@
 {
- "char": "𨀟",
- "head": "𨀟（踱）",
- "pinyin": "duó",
- "level": 3,
- "parent": "宅",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“踱，跣足。一曰乍前乍卻。或从㡯。”",
-   "cites": []
+  "char": "𨀟",
+  "head": "𨀟（踱）",
+  "pinyin": "duó",
+  "level": 3,
+  "parent": "宅",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：乍前乍卻，往復囤轉（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨀟（踱）duó《集韻》：“踱，跣足。一曰乍前乍卻。或从㡯。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：乍前乍卻，往復囤轉（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "踱"
- ]
+  ],
+  "aliases": [
+    "踱"
+  ]
 }

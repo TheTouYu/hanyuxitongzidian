@@ -1,41 +1,41 @@
 {
- "char": "𨃅",
- "head": "𨃅（跛）",
- "pinyin": "bāi",
- "aliases": [
-  "跛"
- ],
- "bus": {
-  "num": 127,
-  "name": "𠦪部"
- },
- "level": 3,
- "parent": "𠦪",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《漢典》：“同跛。”",
-   "paras": [
-    "《漢典》：“同跛。”"
-   ]
+  "char": "𨃅",
+  "head": "𨃅（跛）",
+  "pinyin": "bāi",
+  "aliases": [
+    "跛"
+  ],
+  "bus": {
+    "num": 127,
+    "name": "𠦪部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "b「闭剥」取「剥」：足偏而行，步步剥地有聲（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "𠦪",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨃅（跛）bāi《漢典》：“同跛。”",
+      "paras": [
+        "𨃅（跛）bāi《漢典》：“同跛。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "b「闭剥」取「剥」：足偏而行，步步剥地有聲（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

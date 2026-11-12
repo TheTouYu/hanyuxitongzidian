@@ -1,47 +1,47 @@
 {
- "char": "㩅",
- "head": "㩅（抽𢭆）",
- "aliases": [
-  "抽",
-  "𢭆"
- ],
- "pinyin": "chōu",
- "bus": {
-  "num": 99,
-  "name": "卯"
- },
- "level": 3,
- "parent": "留",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《說文》：“引也。从手留聲。{{shiyi/01.png}}，㩅或从由。{{shiyi/02.png}}，㩅或从秀。敕鳩切。”拉引。"
-   ],
-   "text": "《說文》：“引也。从手留聲。{{shiyi/01.png}}，㩅或从由。{{shiyi/02.png}}，㩅或从秀。敕鳩切。”拉引。",
-   "gdir": "inline/㩅"
+  "char": "㩅",
+  "head": "㩅（抽𢭆）",
+  "aliases": [
+    "抽",
+    "𢭆"
+  ],
+  "pinyin": "chōu",
+  "bus": {
+    "num": 99,
+    "name": "卯"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "ch「刺持」取「持」：以手引物，持而抽之使出（推）。"
-   ],
-   "text": "ch「刺持」取「持」：以手引物，持而抽之使出（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "留",
+  "sections": [
     {
-     "t": "卷十七  婁",
-     "ch": "卷十七婁",
-     "label": "卷十七 婁"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "《說文》：“引也。从手留聲。，㩅或从由。，㩅或从秀。敕鳩切。”拉引。"
+      ],
+      "text": "《說文》：“引也。从手留聲。，㩅或从由。，㩅或从秀。敕鳩切。”拉引。",
+      "gdir": "inline/㩅"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "ch「刺持」取「持」：以手引物，持而抽之使出（推）。"
+      ],
+      "text": "ch「刺持」取「持」：以手引物，持而抽之使出（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷十七  婁",
+          "ch": "卷十七婁",
+          "label": "卷十七 婁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

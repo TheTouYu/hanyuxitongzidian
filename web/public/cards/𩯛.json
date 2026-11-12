@@ -1,40 +1,40 @@
 {
- "char": "𩯛",
- "head": "𩯛",
- "pinyin": "yào",
- "aliases": [],
- "bus": {
-  "num": 110,
-  "name": "皋"
- },
- "level": 3,
- "parent": "敫",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“𩯛𩯛，髻高。”"
-   ],
-   "text": "《集韻》：“𩯛𩯛，髻高。”"
+  "char": "𩯛",
+  "head": "𩯛",
+  "pinyin": "yào",
+  "aliases": [],
+  "bus": {
+    "num": 110,
+    "name": "皋"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "敫",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𩯛yào《集韻》：“𩯛𩯛，髻高。”"
+      ],
+      "text": "𩯛yào《集韻》：“𩯛𩯛，髻高。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

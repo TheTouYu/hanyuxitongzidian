@@ -1,36 +1,36 @@
 {
- "char": "𩚨",
- "head": "𩚨（䬫）",
- "pinyin": "tí",
- "level": 3,
- "bus": {
-  "num": 50,
-  "name": "丘"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙》：“同䬫。”䬫餬。寄食。"
+  "char": "𩚨",
+  "head": "𩚨（䬫）",
+  "pinyin": "tí",
+  "level": 3,
+  "bus": {
+    "num": 50,
+    "name": "丘"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "t「涂突」取「涂」：寄食涂口（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩚨（䬫）tí《字彙》：“同䬫。”䬫餬。寄食。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "t「涂突」取「涂」：寄食涂口（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "䬫"
- ],
- "noRoot": true
+  ],
+  "aliases": [
+    "䬫"
+  ],
+  "noRoot": true
 }

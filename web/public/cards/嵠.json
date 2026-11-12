@@ -1,35 +1,35 @@
 {
- "char": "嵠",
- "pinyin": "xī",
- "bus": {
-  "num": 2,
-  "name": "奚"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "溪谷名，亦與溪同；山間細長水道。"
+  "char": "嵠",
+  "pinyin": "xī",
+  "bus": {
+    "num": 2,
+    "name": "奚"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：溪谷細長相連。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "《玉篇》：“溪谷名。亦與溪同。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：溪谷細長相連。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "level": 3,
- "parent": "奚",
- "aliases": [],
- "head": "嵠"
+  ],
+  "level": 3,
+  "parent": "奚",
+  "aliases": [],
+  "head": "嵠"
 }

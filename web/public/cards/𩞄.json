@@ -1,45 +1,45 @@
 {
- "char": "𩞄",
- "head": "𩞄",
- "aliases": [],
- "pinyin": "cáo",
- "bus": {
-  "num": 95,
-  "name": "㯥"
- },
- "level": 3,
- "parent": "㯥",
- "photos": [],
- "captions": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《玉篇》：“昨糟切，音曹。食餡也。”《漢典》：“饑餓。”"
-   ],
-   "text": "《玉篇》：“昨糟切，音曹。食餡也。”《漢典》：“饑餓。”"
+  "char": "𩞄",
+  "head": "𩞄",
+  "aliases": [],
+  "pinyin": "cáo",
+  "bus": {
+    "num": 95,
+    "name": "㯥"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "ch「刺持」取「刺」：餡實麵中，齒刺而破（推）。"
-   ],
-   "text": "ch「刺持」取「刺」：餡實麵中，齒刺而破（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "㯥",
+  "photos": [],
+  "captions": [],
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𩞄cáo《玉篇》：“昨糟切，音曹。食餡也。”《漢典》：“饑餓。”"
+      ],
+      "text": "𩞄cáo《玉篇》：“昨糟切，音曹。食餡也。”《漢典》：“饑餓。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "ch「刺持」取「刺」：餡實麵中，齒刺而破（推）。"
+      ],
+      "text": "ch「刺持」取「刺」：餡實麵中，齒刺而破（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ],
+      "paras": []
     }
-   ],
-   "paras": []
-  }
- ]
+  ]
 }

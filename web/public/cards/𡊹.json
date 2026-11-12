@@ -1,49 +1,49 @@
 {
- "char": "𡊹",
- "head": "𡊹（垔）",
- "pinyin": "yīn",
- "aliases": [
-  "垔"
- ],
- "bus": {
-  "num": 64,
-  "name": "宁"
- },
- "level": 3,
- "noRoot": true,
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《類篇》：“堙，同垔，塞也。”本从“囪”。"
-   ],
-   "text": "《類篇》：“堙，同垔，塞也。”本从“囪”。"
+  "char": "𡊹",
+  "head": "𡊹（垔）",
+  "pinyin": "yīn",
+  "aliases": [
+    "垔"
+  ],
+  "bus": {
+    "num": 64,
+    "name": "宁"
   },
-  {
-   "key": "ezi",
-   "label": "訛字",
-   "text": "形近字“囪”之訛。"
-  },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "paras": [
-    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "noRoot": true,
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𡊹（垔）yīn《類篇》：“堙，同垔，塞也。”本从“囪”。"
+      ],
+      "text": "𡊹（垔）yīn《類篇》：“堙，同垔，塞也。”本从“囪”。"
+    },
+    {
+      "key": "ezi",
+      "label": "訛字",
+      "text": "形近字“囪”之訛。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+      "paras": [
+        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,36 +1,36 @@
 {
- "char": "𨐁",
- "head": "𨐁",
- "pinyin": "dié",
- "aliases": [],
- "bus": {
-  "num": 118,
-  "name": "畾"
- },
- "level": 3,
- "parent": "疉",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“車聲。”"
+  "char": "𨐁",
+  "head": "𨐁",
+  "pinyin": "dié",
+  "aliases": [],
+  "bus": {
+    "num": 118,
+    "name": "畾"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤动」取「动」：車行輪動而有聲（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "疉",
+  "sections": [
     {
-     "t": "卷廿二  雷",
-     "ch": "卷二十二雷",
-     "label": "卷廿二 雷"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨐁dié《玉篇》：“車聲。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤动」取「动」：車行輪動而有聲（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿二  雷",
+          "ch": "卷二十二雷",
+          "label": "卷廿二 雷"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

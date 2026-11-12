@@ -1,35 +1,35 @@
 {
- "char": "𨝩",
- "head": "𨝩",
- "pinyin": "shān",
- "level": 3,
- "parent": "陳",
- "bus": {
-  "num": 122,
-  "name": "東部"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙補》：“師銜切，音摲。見《篇韻》。”摲，《集韻》：“芟也。”“除也。”“投版偃水曰摲。”"
+  "char": "𨝩",
+  "head": "𨝩",
+  "pinyin": "shān",
+  "level": 3,
+  "parent": "陳",
+  "bus": {
+    "num": 122,
+    "name": "東部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "ch「刺持」取「持」：邑居持列，刺然成聚。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二十三 鼓",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二十三鼓",
-     "label": "卷二十三 鼓"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨝩shān《字彙補》：“師銜切，音摲。見《篇韻》。”摲，《集韻》：“芟也。”“除也。”“投版偃水曰摲。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "ch「刺持」取「持」：邑居持列，刺然成聚。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二十三 鼓",
+      "links": [
+        {
+          "ch": "卷二十三鼓",
+          "label": "卷二十三 鼓"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

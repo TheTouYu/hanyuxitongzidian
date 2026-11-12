@@ -1,43 +1,43 @@
 {
- "char": "𥘮",
- "head": "𥘮",
- "aliases": [],
- "pinyin": "jū",
- "bus": {
-  "num": 89,
-  "name": "丩"
- },
- "level": 3,
- "parent": "句",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“禰𥘮，山名。”",
-   "paras": [
-    "《集韻》：“禰𥘮，山名。”"
-   ]
+  "char": "𥘮",
+  "head": "𥘮",
+  "aliases": [],
+  "pinyin": "jū",
+  "bus": {
+    "num": 89,
+    "name": "丩"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：山聚而成峰（推）。",
-   "paras": [
-    "j「聚决」取「聚」：山聚而成峰（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "paras": [],
-   "links": [
+  "level": 3,
+  "parent": "句",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥘮jū《集韻》：“禰𥘮，山名。”",
+      "paras": [
+        "𥘮jū《集韻》：“禰𥘮，山名。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：山聚而成峰（推）。",
+      "paras": [
+        "j「聚决」取「聚」：山聚而成峰（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "paras": [],
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

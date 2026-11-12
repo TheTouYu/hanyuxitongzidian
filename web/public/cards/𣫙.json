@@ -1,42 +1,42 @@
 {
- "char": "𣫙",
- "head": "𣫙",
- "pinyin": "yì",
- "aliases": [],
- "bus": {
-  "num": 113,
-  "name": "杲"
- },
- "level": 3,
- "parent": "杲",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙補》：“乙例切，音懿。美也。”",
-   "paras": [
-    "《字彙補》：“乙例切，音懿。美也。”"
-   ]
+  "char": "𣫙",
+  "head": "𣫙",
+  "pinyin": "yì",
+  "aliases": [],
+  "bus": {
+    "num": 113,
+    "name": "杲"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "paras": [
-    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "杲",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣫙yì《字彙補》：“乙例切，音懿。美也。”",
+      "paras": [
+        "𣫙yì《字彙補》：“乙例切，音懿。美也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+      "paras": [
+        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

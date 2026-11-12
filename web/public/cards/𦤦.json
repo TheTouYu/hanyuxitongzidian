@@ -1,41 +1,41 @@
 {
- "char": "𦤦",
- "pinyin": "hài",
- "level": 3,
- "parent": "",
- "bus": {
-  "num": 4,
-  "name": ""
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“餀，食臭。𦤦，上同。”hè，《廣韻》：“犬臭氣。”ài，《集韻》：“臭也。或作𩡔。”yè，《集韻》：“𦤪，物敗氣也。”應同“𦤦”。",
-   "cites": []
+  "char": "𦤦",
+  "pinyin": "hài",
+  "level": 3,
+  "parent": "",
+  "bus": {
+    "num": 4,
+    "name": ""
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：𦤪）hài餀，食臭。𦤦，上同。（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 雞",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦤦（餀𩡔𦤪）hài《廣韻》：“餀，食臭。𦤦，上同。”hè，《廣韻》：“犬臭氣。”ài，《集韻》：“臭也。或作𩡔。”yè，《集韻》：“𦤪，物敗氣也。”應同“𦤦”。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "h「豁活」取「豁」：𦤪）hài餀，食臭。𦤦，上同。（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 雞",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一 雞"
+        }
+      ]
     }
-   ]
-  }
- ],
- "head": "𦤦（餀𩡔𦤪）",
- "aliases": [
-  "餀",
-  "𩡔",
-  "𦤪"
- ]
+  ],
+  "head": "𦤦（餀𩡔𦤪）",
+  "aliases": [
+    "餀",
+    "𩡔",
+    "𦤪"
+  ]
 }

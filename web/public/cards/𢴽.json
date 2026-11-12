@@ -1,42 +1,42 @@
 {
- "char": "𢴽",
- "head": "𢴽（拜）",
- "pinyin": "bài",
- "aliases": [
-  "拜"
- ],
- "bus": {
-  "num": 111,
-  "name": "堯"
- },
- "level": 3,
- "parent": "堯",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《篇海》：“古文拜字。”手往上舉之意。"
-   ],
-   "text": "《篇海》：“古文拜字。”手往上舉之意。"
+  "char": "𢴽",
+  "head": "𢴽（拜）",
+  "pinyin": "bài",
+  "aliases": [
+    "拜"
+  ],
+  "bus": {
+    "num": 111,
+    "name": "堯"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "b「闭剥」取「闭」：兩手合閉而高舉（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "堯",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𢴽（拜）bài《篇海》：“古文拜字。”手往上舉之意。"
+      ],
+      "text": "𢴽（拜）bài《篇海》：“古文拜字。”手往上舉之意。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "b「闭剥」取「闭」：兩手合閉而高舉（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

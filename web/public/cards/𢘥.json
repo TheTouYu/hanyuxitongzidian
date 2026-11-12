@@ -1,36 +1,36 @@
 {
- "char": "𢘥",
- "head": "𢘥（恃㤄）",
- "level": 3,
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [
-  "恃"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“恃，《說文》：‘賴也。’或从市。”應為“寺”之訛。pèi，《龍龕》：“𢘥，俗；㤄，正。芳廢反。怒也。”"
+  "char": "𢘥",
+  "head": "𢘥（恃㤄）",
+  "level": 3,
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "sh「失收」取「收」：心恃而收（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "恃"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢘥（恃㤄）shì《集韻》：“恃，《說文》：‘賴也。’或从市。”應為“寺”之訛。pèi，《龍龕》：“𢘥，俗；㤄，正。芳廢反。怒也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "sh「失收」取「收」：心恃而收（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

@@ -1,38 +1,38 @@
 {
- "id": "俿",
- "head": "俿",
- "pinyin": "chí",
- "level": 3,
- "bus": {
-  "num": 48,
-  "name": "虍"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙補》：“車輪。”《正字通》：“傂字之譌。”傂，《廣韻》：“佌傂，參差皃。”hǔ，同“虎”。"
+  "id": "俿",
+  "head": "俿",
+  "pinyin": "chí",
+  "level": 3,
+  "bus": {
+    "num": 48,
+    "name": "虍"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "ch「刺持」取「持」：參差相持（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《字彙補》：“車輪。”《正字通》：“傂字之譌 。” 傂，《廣韻》：“佌傂，參差皃。”hǔ，同“虎”。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "ch「刺持」取「持」：參差相持（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "lei": "人",
- "char": "俿",
- "aliases": [
-  "傂"
- ],
- "noRoot": true
+  ],
+  "lei": "人",
+  "char": "俿",
+  "aliases": [
+    "傂"
+  ],
+  "noRoot": true
 }

@@ -1,43 +1,43 @@
 {
- "char": "𥛞",
- "head": "𥛞",
- "pinyin": "lù",
- "aliases": [],
- "bus": {
-  "num": 100,
-  "name": "鹿"
- },
- "level": 3,
- "parent": "鹿",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“祭名。”"
-   ],
-   "text": "《集韻》：“祭名。”"
+  "char": "𥛞",
+  "head": "𥛞",
+  "pinyin": "lù",
+  "aliases": [],
+  "bus": {
+    "num": 100,
+    "name": "鹿"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "l「拢离」取「拢」：祭鹿之禮，聚族而陳（推）。"
-   ],
-   "text": "l「拢离」取「拢」：祭鹿之禮，聚族而陳（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "鹿",
+  "sections": [
     {
-     "t": "卷十八  鹿",
-     "ch": "卷十八鹿",
-     "label": "卷十八 鹿"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𥛞lù《集韻》：“祭名。”"
+      ],
+      "text": "𥛞lù《集韻》：“祭名。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "l「拢离」取「拢」：祭鹿之禮，聚族而陳（推）。"
+      ],
+      "text": "l「拢离」取「拢」：祭鹿之禮，聚族而陳（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷十八  鹿",
+          "ch": "卷十八鹿",
+          "label": "卷十八 鹿"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

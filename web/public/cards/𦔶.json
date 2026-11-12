@@ -1,36 +1,36 @@
 {
- "char": "𦔶",
- "head": "𦔶（耶）",
- "level": 3,
- "bus": {
-  "num": 23,
-  "name": "ㄗ"
- },
- "aliases": [
-  "耶"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“音義闕。出《釋藏》，恐是耶字之訛。”"
+  "char": "𦔶",
+  "head": "𦔶（耶）",
+  "level": 3,
+  "bus": {
+    "num": 23,
+    "name": "ㄗ"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [
+    "耶"
+  ],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦔶（耶）yé《字彙補》：“音義闕。出《釋藏》，恐是耶字之訛。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

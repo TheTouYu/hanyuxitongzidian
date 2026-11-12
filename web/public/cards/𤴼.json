@@ -1,53 +1,53 @@
 {
- "char": "𤴼",
- "trad": "𤴼",
- "simp": "",
- "pinyin": "qiè",
- "level": 3,
- "parent": "欠",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“乞業切，音怯。欠氣。”困倦時張口打哈欠。cí，《集韻》：“𣳩，具𣳩，山名。在滎陽。或作茨、𤴼。”",
-   "cites": []
+  "char": "𤴼",
+  "trad": "𤴼",
+  "simp": "",
+  "pinyin": "qiè",
+  "level": 3,
+  "parent": "欠",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：：「欠氣」睏倦張口打哈欠；c——借聲之字，聲（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤴼（𣳩茨）qiè《集韻》：“乞業切，音怯。欠氣。”困倦時張口打哈欠。cí，《集韻》：“𣳩，具𣳩，山名。在滎陽。或作茨、𤴼。”",
+      "cites": []
+    },
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「亲」：：「欠氣」睏倦張口打哈欠；c——借聲之字，聲（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshu",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一雞"
+        }
+      ],
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一 雞"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "𣳩",
-  "茨"
- ],
- "head": "𤴼（𣳩茨）"
+  ],
+  "aliases": [
+    "𣳩",
+    "茨"
+  ],
+  "head": "𤴼（𣳩茨）"
 }

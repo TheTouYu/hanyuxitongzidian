@@ -1,44 +1,44 @@
 {
- "char": "𦞖",
- "head": "𦞖",
- "pinyin": "kān",
- "aliases": [],
- "bus": {
-  "num": 136,
-  "name": "臣部"
- },
- "level": 3,
- "parent": "臤",
- "photos": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“腒𦞖，坼也。”"
-   ],
-   "text": "《集韻》：“腒𦞖，坼也。”"
+  "char": "𦞖",
+  "head": "𦞖",
+  "pinyin": "kān",
+  "aliases": [],
+  "bus": {
+    "num": 136,
+    "name": "臣部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "k「口控」取「控」：肉腐而坼，口開而中空（推）。",
-   "paras": [
-    "k「口控」取「控」：肉腐而坼，口開而中空（推）。"
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "臤",
+  "photos": [],
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𦞖kān《集韻》：“腒𦞖，坼也。”"
+      ],
+      "text": "𦞖kān《集韻》：“腒𦞖，坼也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "k「口控」取「控」：肉腐而坼，口開而中空（推）。",
+      "paras": [
+        "k「口控」取「控」：肉腐而坼，口開而中空（推）。"
+      ],
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,37 +1,37 @@
 {
- "char": "𢳇",
- "head": "𢳇（捔）",
- "pinyin": "zhuó",
- "aliases": [
-  "捔"
- ],
- "bus": {
-  "num": 58,
-  "name": "㫃"
- },
- "level": 3,
- "parent": "族",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“刺也。與捔同。”zú，《字彙》：“促也。”《正字通》：“斂也。”"
+  "char": "𢳇",
+  "head": "𢳇（捔）",
+  "pinyin": "zhuó",
+  "aliases": [
+    "捔"
+  ],
+  "bus": {
+    "num": 58,
+    "name": "㫃"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "zh「凿总」取「总」：承族之取義一面（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷九 舟",
-   "links": [
+  "level": 3,
+  "parent": "族",
+  "sections": [
     {
-     "ch": "卷九舟",
-     "label": "卷九 舟"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𢳇（捔）zhuó《集韻》：“刺也。與捔同。”zú，《字彙》：“促也。”《正字通》：“斂也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "zh「凿总」取「总」：承族之取義一面（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷九 舟",
+      "links": [
+        {
+          "ch": "卷九舟",
+          "label": "卷九 舟"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

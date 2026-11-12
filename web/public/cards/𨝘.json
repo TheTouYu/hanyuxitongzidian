@@ -1,41 +1,41 @@
 {
- "char": "𨝘",
- "head": "𨝘",
- "pinyin": "hù",
- "level": 3,
- "parent": "虖",
- "bus": {
-  "num": 48,
-  "name": "虎"
- },
- "suoshujuan": "卷八 虎（第48部 虍）",
- "links": [
-  {
-   "ch": "卷八虎",
-   "label": "卷八 虎"
-  }
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“地名。从邑虖聲。呼古切。”"
+  "char": "𨝘",
+  "head": "𨝘",
+  "pinyin": "hù",
+  "level": 3,
+  "parent": "虖",
+  "bus": {
+    "num": 48,
+    "name": "虎"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：地名，取當地開豁平衍之狀（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "suoshujuan": "卷八 虎（第48部 虍）",
+  "links": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "ch": "卷八虎",
+      "label": "卷八 虎"
     }
-   ]
-  }
- ]
+  ],
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨝘hù《說文》：“地名。从邑虖聲。呼古切。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "h「豁活」取「豁」：地名，取當地開豁平衍之狀（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
+    }
+  ]
 }

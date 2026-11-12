@@ -1,42 +1,42 @@
 {
- "char": "𡨅",
- "head": "𡨅",
- "aliases": [],
- "pinyin": "jú",
- "bus": {
-  "num": 89,
-  "name": "丩"
- },
- "level": 3,
- "parent": "局",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“衢錄切，音局。不敢伸也。”",
-   "paras": [
-    "《集韻》：“衢錄切，音局。不敢伸也。”"
-   ]
+  "char": "𡨅",
+  "head": "𡨅",
+  "aliases": [],
+  "pinyin": "jú",
+  "bus": {
+    "num": 89,
+    "name": "丩"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：身屈而聚，不敢伸展（推）。",
-   "paras": [
-    "j「聚决」取「聚」：身屈而聚，不敢伸展（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "局",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𡨅jú《集韻》：“衢錄切，音局。不敢伸也。”",
+      "paras": [
+        "𡨅jú《集韻》：“衢錄切，音局。不敢伸也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：身屈而聚，不敢伸展（推）。",
+      "paras": [
+        "j「聚决」取「聚」：身屈而聚，不敢伸展（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

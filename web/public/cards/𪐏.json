@@ -1,34 +1,34 @@
 {
- "char": "𪐏",
- "head": "𪐏",
- "level": 3,
- "parent": "啇",
- "bus": {
-  "num": 11,
-  "name": "帝"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“黏飯也。”《廣韻》：“黏皃。”《廣雅》：“搏也，黏也。”zhí，《廣韻》：“黏黐。”"
+  "char": "𪐏",
+  "head": "𪐏",
+  "level": 3,
+  "parent": "啇",
+  "bus": {
+    "num": 11,
+    "name": "帝"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：黏而凿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪐏zhé《玉篇》：“黏飯也。”《廣韻》：“黏皃。”《廣雅》：“搏也，黏也。”zhí，《廣韻》：“黏黐。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：黏而凿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

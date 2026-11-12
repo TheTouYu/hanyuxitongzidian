@@ -1,38 +1,38 @@
 {
- "char": "𦥊",
- "head": "𦥊",
- "pinyin": "chì",
- "level": 3,
- "parent": "至",
- "bus": {
-  "num": 16,
-  "name": "矢"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“忿戾也。从至，至而複遜。遜，遁也。《周書》曰：‘有夏氏之民叨𦥊。’𦥊，讀若摯。醜利切。”憤怒而乖戾。",
-   "cites": []
+  "char": "𦥊",
+  "head": "𦥊",
+  "pinyin": "chì",
+  "level": 3,
+  "parent": "至",
+  "bus": {
+    "num": 16,
+    "name": "矢"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "ch「刺持」取「持」：忿戾而持（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦥊chì《說文》：“忿戾也。从至，至而複遜。遜，遁也。《周書》曰：‘有夏氏之民叨𦥊。’𦥊，讀若摯。醜利切。”憤怒而乖戾。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "ch「刺持」取「持」：忿戾而持（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "cites": [],
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

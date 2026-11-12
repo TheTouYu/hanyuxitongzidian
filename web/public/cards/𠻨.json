@@ -1,36 +1,36 @@
 {
- "char": "𠻨",
- "head": "𠻨",
- "pinyin": "qǐn",
- "aliases": [],
- "bus": {
-  "num": 116,
-  "name": "堇"
- },
- "level": 3,
- "parent": "堇",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“唇瘡。”大約指因營養不良，缺乏維生素B2等而引起的嘴唇反復發炎。《正字通》：“譌字。”"
+  "char": "𠻨",
+  "head": "𠻨",
+  "pinyin": "qǐn",
+  "aliases": [],
+  "bus": {
+    "num": 116,
+    "name": "堇"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "q「亲缺」取「缺」：食缺而養不足，唇為之瘡（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "堇",
+  "sections": [
     {
-     "t": "卷廿二  雷",
-     "ch": "卷廿二雷",
-     "label": "卷廿二 雷"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠻨qǐn《玉篇》：“唇瘡。”大約指因營養不良，缺乏維生素B2等而引起的嘴唇反復發炎。《正字通》：“譌字。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "q「亲缺」取「缺」：食缺而養不足，唇為之瘡（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿二  雷",
+          "ch": "卷廿二雷",
+          "label": "卷廿二 雷"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

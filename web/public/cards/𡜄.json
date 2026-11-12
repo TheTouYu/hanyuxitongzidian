@@ -1,37 +1,37 @@
 {
- "char": "𡜄",
- "level": 3,
- "parent": "曳",
- "bus": {
-  "num": 26,
-  "name": "弋"
- },
- "head": "𡜄（媟）",
- "aliases": [
-  "媟"
- ],
- "pinyin": "xiè",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“媟，《說文》：‘嬻也。’或作𡜄。”媟，《廣韻》：“狎也。慢也。”褻瀆。輕慢。"
+  "char": "𡜄",
+  "level": 3,
+  "parent": "曳",
+  "bus": {
+    "num": 26,
+    "name": "弋"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「消」：狎慢而消敬（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷四 弋",
-   "links": [
+  "head": "𡜄（媟）",
+  "aliases": [
+    "媟"
+  ],
+  "pinyin": "xiè",
+  "sections": [
     {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡜄（媟）xiè《集韻》：“媟，《說文》：‘嬻也。’或作𡜄。”媟，《廣韻》：“狎也。慢也。”褻瀆。輕慢。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「消」：狎慢而消敬（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷四 弋",
+      "links": [
+        {
+          "ch": "卷四弋",
+          "label": "卷四 弋"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

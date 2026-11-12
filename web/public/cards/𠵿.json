@@ -1,35 +1,35 @@
 {
- "char": "𠵿",
- "pinyin": "",
- "head": "𠵿",
- "bus": {
-  "num": 151,
-  "name": "皮"
- },
- "level": 3,
- "parent": "皮",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "字海》：“①量詞，相當于對。②撲克牌。”",
-   "paras": [
-    "字海》：“①量詞，相當于對。②撲克牌。”"
-   ]
+  "char": "𠵿",
+  "pinyin": "",
+  "head": "𠵿",
+  "bus": {
+    "num": 151,
+    "name": "皮"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「辟」：口呼而計，闢然成對（推）。",
-   "paras": [
-    "p「拼辟」取「辟」：口呼而計，闢然成對（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "paras": []
-  }
- ]
+  "level": 3,
+  "parent": "皮",
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠵿pēi《字海》：“①量詞，相當于對。②撲克牌。”",
+      "paras": [
+        "𠵿pēi《字海》：“①量詞，相當于對。②撲克牌。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「辟」：口呼而計，闢然成對（推）。",
+      "paras": [
+        "p「拼辟」取「辟」：口呼而計，闢然成對（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "paras": []
+    }
+  ]
 }

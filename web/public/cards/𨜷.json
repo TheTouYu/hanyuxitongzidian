@@ -1,43 +1,43 @@
 {
- "char": "𨜷",
- "head": "𨜷",
- "pinyin": "báng",
- "aliases": [],
- "bus": {
-  "num": 109,
-  "name": "方"
- },
- "level": 3,
- "parent": "旁",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《說文》：“汝南鮦陽亭。从邑旁聲。步光切。”"
-   ],
-   "text": "《說文》：“汝南鮦陽亭。从邑旁聲。步光切。”"
+  "char": "𨜷",
+  "head": "𨜷",
+  "pinyin": "báng",
+  "aliases": [],
+  "bus": {
+    "num": 109,
+    "name": "方"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "b「閉剥」取「閉」：邑附亭而聚，封疆閉守（推）。"
-   ],
-   "text": "b「閉剥」取「閉」：邑附亭而聚，封疆閉守（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "旁",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𨜷báng《說文》：“汝南鮦陽亭。从邑旁聲。步光切。”"
+      ],
+      "text": "𨜷báng《說文》：“汝南鮦陽亭。从邑旁聲。步光切。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "b「閉剥」取「閉」：邑附亭而聚，封疆閉守（推）。"
+      ],
+      "text": "b「閉剥」取「閉」：邑附亭而聚，封疆閉守（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,34 +1,34 @@
 {
- "char": "𧭏",
- "head": "𧭏",
- "level": 3,
- "parent": "臺",
- "bus": {
-  "num": 16,
-  "name": "矢"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“諟也。”訂正。意即在文章的擡頭空白處書寫。"
+  "char": "𧭏",
+  "head": "𧭏",
+  "level": 3,
+  "parent": "臺",
+  "bus": {
+    "num": 16,
+    "name": "矢"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "t「涂突」取「涂」：擡頭而書（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧭏tāi《集韻》：“諟也。”訂正。意即在文章的擡頭空白處書寫。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "t「涂突」取「涂」：擡頭而書（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

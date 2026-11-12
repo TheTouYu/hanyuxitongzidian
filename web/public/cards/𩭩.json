@@ -1,35 +1,35 @@
 {
- "char": "𩭩",
- "head": "𩭩",
- "pinyin": "dòng",
- "level": 3,
- "parent": "東",
- "bus": {
-  "num": 122,
-  "name": "東部"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“𩭩鬆，髪亂皃。”"
+  "char": "𩭩",
+  "head": "𩭩",
+  "pinyin": "dòng",
+  "level": 3,
+  "parent": "東",
+  "bus": {
+    "num": 122,
+    "name": "東部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤動」取「囤」：髪囤鬆而亂，蓬然如鼓之脹。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二十三 鼓",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二十三鼓",
-     "label": "卷二十三 鼓"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩭩dòng《集韻》：“𩭩鬆，髪亂皃。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤動」取「囤」：髪囤鬆而亂，蓬然如鼓之脹。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二十三 鼓",
+      "links": [
+        {
+          "ch": "卷二十三鼓",
+          "label": "卷二十三 鼓"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

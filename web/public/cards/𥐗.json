@@ -1,36 +1,36 @@
 {
- "char": "𥐗",
- "head": "𥐗（砭）",
- "level": 3,
- "parent": "氾",
- "bus": {
-  "num": 23,
-  "name": "ㄗ"
- },
- "aliases": [
-  "砭"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“砭，《說文》：‘以石刺病也。’或从㔾。”用石針紮皮肉治病。"
+  "char": "𥐗",
+  "head": "𥐗（砭）",
+  "level": 3,
+  "parent": "氾",
+  "bus": {
+    "num": 23,
+    "name": "ㄗ"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "b「闭剥」取「闭」：閉而落（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [
+    "砭"
+  ],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥐗（砭）biān《集韻》：“砭，《說文》：‘以石刺病也。’或从㔾。”用石針紮皮肉治病。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "b「闭剥」取「闭」：閉而落（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

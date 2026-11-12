@@ -1,34 +1,34 @@
 {
- "head": "𤣅",
- "pinyin": "què",
- "parent": "霍",
- "bus": {
-  "num": 39,
-  "name": "隺"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙》：“至也，高也。”"
+  "head": "𤣅",
+  "pinyin": "què",
+  "parent": "霍",
+  "bus": {
+    "num": 39,
+    "name": "隺"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「亲」：至也，高也。（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷六鶴",
-     "label": "卷六 鶴"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤣅què《字彙》：“至也，高也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「亲」：至也，高也。（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷六鶴",
+          "label": "卷六 鶴"
+        }
+      ],
+      "text": ""
     }
-   ],
-   "text": ""
-  }
- ],
- "char": "𤣅",
- "level": 3
+  ],
+  "char": "𤣅",
+  "level": 3
 }

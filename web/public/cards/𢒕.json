@@ -1,37 +1,37 @@
 {
- "char": "𢒕",
- "head": "𢒕（諸）",
- "pinyin": "zhū",
- "aliases": [
-  "諸"
- ],
- "bus": {
-  "num": 58,
-  "name": "㫃"
- },
- "level": 3,
- "parent": "旅",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“古文諸字。”"
+  "char": "𢒕",
+  "head": "𢒕（諸）",
+  "pinyin": "zhū",
+  "aliases": [
+    "諸"
+  ],
+  "bus": {
+    "num": 58,
+    "name": "㫃"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "zh「凿总」取「总」：承旅之取義一面（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷九 舟",
-   "links": [
+  "level": 3,
+  "parent": "旅",
+  "sections": [
     {
-     "ch": "卷九舟",
-     "label": "卷九 舟"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𢒕（諸）zhū《玉篇》：“古文諸字。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "zh「凿总」取「总」：承旅之取義一面（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷九 舟",
+      "links": [
+        {
+          "ch": "卷九舟",
+          "label": "卷九 舟"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

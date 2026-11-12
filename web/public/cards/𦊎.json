@@ -1,45 +1,45 @@
 {
- "char": "𦊎",
- "head": "𦊎（罘䍒）",
- "level": 3,
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [
-  "罘"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《正字通》：“張網。或曰罘譌作𦊎，誤。與四畫䍒同。”"
+  "char": "𦊎",
+  "head": "𦊎（罘䍒）",
+  "level": 3,
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "m「蒙末」取「蒙」：網蒙而張（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "罘"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦊎（罘䍒）mǒu《正字通》：“張網。或曰罘譌作𦊎，誤。與四畫䍒同。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "m「蒙末」取「蒙」：網蒙而張（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "photos": [
-  {
-   "file": "𦊎/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  "山西雲丘山一帶的“點旺火”祭天"
- ],
- "noRoot": true
+  ],
+  "photos": [
+    {
+      "file": "𦊎/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    "山西雲丘山一帶的“點旺火”祭天"
+  ],
+  "noRoot": true
 }

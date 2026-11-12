@@ -1,42 +1,42 @@
 {
- "char": "𥅪",
- "head": "𥅪",
- "aliases": [],
- "pinyin": "shōu",
- "bus": {
-  "num": 89,
-  "name": "丩"
- },
- "level": 3,
- "parent": "丩",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“屍周切，音收。𥌛𥅪，斂容視皃。”",
-   "paras": [
-    "《集韻》：“屍周切，音收。𥌛𥅪，斂容視皃。”"
-   ]
+  "char": "𥅪",
+  "head": "𥅪",
+  "aliases": [],
+  "pinyin": "shōu",
+  "bus": {
+    "num": 89,
+    "name": "丩"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「收」：斂容而視，目光收斂（推）。",
-   "paras": [
-    "sh「失收」取「收」：斂容而視，目光收斂（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "丩",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥅪shōu《集韻》：“屍周切，音收。𥌛𥅪，斂容視皃。”",
+      "paras": [
+        "𥅪shōu《集韻》：“屍周切，音收。𥌛𥅪，斂容視皃。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「收」：斂容而視，目光收斂（推）。",
+      "paras": [
+        "sh「失收」取「收」：斂容而視，目光收斂（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

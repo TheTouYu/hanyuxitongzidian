@@ -1,45 +1,45 @@
 {
- "char": "𪍣",
- "head": "𪍣",
- "aliases": [],
- "pinyin": "lǒu",
- "bus": {
-  "num": 96,
-  "name": "婁"
- },
- "level": 3,
- "parent": "婁",
- "photos": [],
- "captions": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《韻會》：“𪍴𪍣，𪍺餅也。卽今寒具。”"
-   ],
-   "text": "《韻會》：“𪍴𪍣，𪍺餅也。卽今寒具。”"
+  "char": "𪍣",
+  "head": "𪍣",
+  "aliases": [],
+  "pinyin": "lǒu",
+  "bus": {
+    "num": 96,
+    "name": "婁"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "l「拢离」取「离」：麵食碎和成餅，屑屑相離（推）。"
-   ],
-   "text": "l「拢离」取「离」：麵食碎和成餅，屑屑相離（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "婁",
+  "photos": [],
+  "captions": [],
+  "sections": [
     {
-     "t": "卷十七  婁",
-     "ch": "卷十七婁",
-     "label": "卷十七 婁"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𪍣lǒu《韻會》：“𪍴𪍣，𪍺餅也。卽今寒具。”"
+      ],
+      "text": "𪍣lǒu《韻會》：“𪍴𪍣，𪍺餅也。卽今寒具。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "l「拢离」取「离」：麵食碎和成餅，屑屑相離（推）。"
+      ],
+      "text": "l「拢离」取「离」：麵食碎和成餅，屑屑相離（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷十七  婁",
+          "ch": "卷十七婁",
+          "label": "卷十七 婁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

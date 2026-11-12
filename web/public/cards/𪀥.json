@@ -1,36 +1,36 @@
 {
- "char": "𪀥",
- "head": "𪀥",
- "pinyin": "zhá",
- "level": 3,
- "parent": "宅",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“𪀥𪁔，鳥名。毛備五色。”《集韻》：“𪀥𪁔，鳥名。錦文也。”山雞之類。",
-   "cites": []
+  "char": "𪀥",
+  "head": "𪀥",
+  "pinyin": "zhá",
+  "level": 3,
+  "parent": "宅",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：山雞錦文，羽色如鑿繪（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪀥zhá《廣韻》：“𪀥𪁔，鳥名。毛備五色。”《集韻》：“𪀥𪁔，鳥名。錦文也。”山雞之類。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：山雞錦文，羽色如鑿繪（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

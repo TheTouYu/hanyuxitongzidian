@@ -1,35 +1,35 @@
 {
- "char": "𨥟",
- "head": "𨥟",
- "pinyin": "xī",
- "aliases": [],
- "bus": {
-  "num": 34,
-  "name": "丂"
- },
- "level": 3,
- "parent": "兮",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《漢典》：絆。疑即“銒（jiān）”，《說文》：“似鐘而頸長。”"
+  "char": "𨥟",
+  "head": "𨥟",
+  "pinyin": "xī",
+  "aliases": [],
+  "bus": {
+    "num": 34,
+    "name": "丂"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「消」：口出氣而續續消散（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "兮",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨥟xī《漢典》：絆。疑即“銒（jiān）”，《說文》：“似鐘而頸長。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「消」：口出氣而續續消散（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

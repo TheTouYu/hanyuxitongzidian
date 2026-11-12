@@ -1,38 +1,38 @@
 {
- "char": "珢",
- "head": "珢",
- "pinyin": "yín",
- "aliases": [],
- "bus": {
-  "num": 140,
-  "name": "勹部"
- },
- "level": 3,
- "parent": "艮",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "珢yín《說文》：“石之似玉者。从玉艮聲。語巾切。”kèn，《字彙》：“玉有起跡曰珢。”即“硍”，有隆起痕跡的玉。",
-   "paras": []
+  "char": "珢",
+  "head": "珢",
+  "pinyin": "yín",
+  "aliases": [],
+  "bus": {
+    "num": 140,
+    "name": "勹部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "paras": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "艮",
+  "sections": [
     {
-     "t": "卷二十五 勹",
-     "ch": "卷二十五勹",
-     "label": "卷二十五 勹"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《說文》：“石之似玉者。从玉艮聲。語巾切。”kèn，《字彙》：“玉有起跡曰珢。”即“硍”，有隆起痕跡的玉。",
+      "paras": []
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+      "paras": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十五 勹",
+          "ch": "卷二十五勹",
+          "label": "卷二十五 勹"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

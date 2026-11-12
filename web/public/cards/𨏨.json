@@ -1,39 +1,39 @@
 {
- "char": "𨏨",
- "head": "𨏨",
- "pinyin": "lìng",
- "aliases": [],
- "bus": {
-  "num": 131,
-  "name": "並部"
- },
- "level": 3,
- "parent": "並",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《龍龕》：“音令。𨏨輅，漢廐名𨏨也。”",
-   "paras": [
-    "《龍龕》：“音令。𨏨輅，漢廐名𨏨也。”"
-   ]
+  "char": "𨏨",
+  "head": "𨏨",
+  "pinyin": "lìng",
+  "aliases": [],
+  "bus": {
+    "num": 131,
+    "name": "並部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "l「拢离」取「拢」：車列相攏，聚於一廐（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "並",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨏨lìng《龍龕》：“音令。𨏨輅，漢廐名𨏨也。”",
+      "paras": [
+        "𨏨lìng《龍龕》：“音令。𨏨輅，漢廐名𨏨也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "l「拢离」取「拢」：車列相攏，聚於一廐（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

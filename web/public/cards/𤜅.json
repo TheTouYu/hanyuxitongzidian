@@ -1,37 +1,37 @@
 {
- "head": "𤜅（㹊）",
- "pinyin": "yuè",
- "parent": "霍",
- "bus": {
-  "num": 39,
-  "name": "隺"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《正字通》：“俗㹊字。”㹊，《玉篇》：“白牛也。”"
+  "head": "𤜅（㹊）",
+  "pinyin": "yuè",
+  "parent": "霍",
+  "bus": {
+    "num": 39,
+    "name": "隺"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷六鶴",
-     "label": "卷六 鶴"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤜅（㹊）yuè《正字通》：“俗㹊字。”㹊，《玉篇》：“白牛也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷六鶴",
+          "label": "卷六 鶴"
+        }
+      ],
+      "text": ""
     }
-   ],
-   "text": ""
-  }
- ],
- "char": "𤜅",
- "level": 3,
- "aliases": [
-  "㹊"
- ]
+  ],
+  "char": "𤜅",
+  "level": 3,
+  "aliases": [
+    "㹊"
+  ]
 }

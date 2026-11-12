@@ -1,34 +1,34 @@
 {
- "char": "𢂍",
- "head": "𢂍",
- "level": 3,
- "bus": {
-  "num": 21,
-  "name": "𠂔"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《川篇》：“音缽。巾也。”應从“巿”。"
+  "char": "𢂍",
+  "head": "𢂍",
+  "level": 3,
+  "bus": {
+    "num": 21,
+    "name": "𠂔"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "b「闭剥」取「闭」：閉而束（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢂍bō《川篇》：“音缽。巾也。”應从“巿”。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "b「闭剥」取「闭」：閉而束（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

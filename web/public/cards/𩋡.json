@@ -1,38 +1,38 @@
 {
- "char": "𩋡",
- "head": "𩋡",
- "pinyin": "shì",
- "level": 3,
- "parent": "至",
- "bus": {
-  "num": 16,
-  "name": "矢"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“刀削謂之𩋡。通作室。”刀劍鞘。",
-   "cites": []
+  "char": "𩋡",
+  "head": "𩋡",
+  "pinyin": "shì",
+  "level": 3,
+  "parent": "至",
+  "bus": {
+    "num": 16,
+    "name": "矢"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "sh「失收」取「收」：收刃於鞘（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𩋡shì《集韻》：“刀削謂之𩋡。通作室。”刀劍鞘。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "sh「失收」取「收」：收刃於鞘（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "cites": [],
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

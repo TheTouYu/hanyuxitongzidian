@@ -1,34 +1,34 @@
 {
- "char": "𥧮",
- "head": "𥧮",
- "level": 3,
- "parent": "啇",
- "bus": {
-  "num": 11,
-  "name": "帝"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣雅》：“窟也。”《玉篇》：“兔窟也。”指洞窟狹窄，剛好能容身。"
+  "char": "𥧮",
+  "head": "𥧮",
+  "level": 3,
+  "parent": "啇",
+  "bus": {
+    "num": 11,
+    "name": "帝"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：窟凿而容（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥧮zhé《廣雅》：“窟也。”《玉篇》：“兔窟也。”指洞窟狹窄，剛好能容身。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：窟凿而容（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

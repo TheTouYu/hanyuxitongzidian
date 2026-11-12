@@ -1,48 +1,48 @@
 {
- "char": "泭",
- "head": "泭（𣻜）",
- "pinyin": "fū",
- "aliases": [
-  "𣻜"
- ],
- "bus": {
-  "num": 140,
-  "name": "勹部"
- },
- "level": 3,
- "parent": "付",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "泭（𣻜）fū《說文》：“編木以渡也。从水付聲。芳無切。”筏子。",
-   "paras": []
+  "char": "泭",
+  "head": "泭（𣻜）",
+  "pinyin": "fū",
+  "aliases": [
+    "𣻜"
+  ],
+  "bus": {
+    "num": 140,
+    "name": "勹部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "f「附分」取「附」：編木相附成筏，乘之渡水（推）。",
-   "paras": [
-    "f「附分」取「附」：編木相附成筏，乘之渡水（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "付",
+  "sections": [
     {
-     "t": "卷二十五 勹",
-     "ch": "卷二十五勹",
-     "label": "卷二十五 勹"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《說文》：“編木以渡也。从水付聲。芳無切。”筏子。",
+      "paras": []
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "f「附分」取「附」：編木相附成筏，乘之渡水（推）。",
+      "paras": [
+        "f「附分」取「附」：編木相附成筏，乘之渡水（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十五 勹",
+          "ch": "卷二十五勹",
+          "label": "卷二十五 勹"
+        }
+      ]
     }
-   ]
-  }
- ],
- "photos": [
-  {
-   "file": "泭/01.jpg",
-   "caption": "編木為筏"
-  }
- ]
+  ],
+  "photos": [
+    {
+      "file": "泭/01.jpg",
+      "caption": "編木為筏"
+    }
+  ]
 }

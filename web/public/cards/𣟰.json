@@ -1,37 +1,37 @@
 {
- "char": "𣟰",
- "head": "𣟰（𣝑）",
- "pinyin": "yú",
- "aliases": [
-  "𣝑"
- ],
- "bus": {
-  "num": 61,
-  "name": "𦥑"
- },
- "level": 3,
- "parent": "輿",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“箯輿也。”《正字通》：“同𣝑。”抬運食物的器具。"
+  "char": "𣟰",
+  "head": "𣟰（𣝑）",
+  "pinyin": "yú",
+  "aliases": [
+    "𣝑"
+  ],
+  "bus": {
+    "num": 61,
+    "name": "𦥑"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 𦥑",
-   "links": [
+  "level": 3,
+  "parent": "輿",
+  "sections": [
     {
-     "ch": "卷十𦥑",
-     "label": "卷十 𦥑"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣟰（𣝑）yú《集韻》：“箯輿也。”《正字通》：“同𣝑。”抬運食物的器具。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 𦥑",
+      "links": [
+        {
+          "ch": "卷十𦥑",
+          "label": "卷十 𦥑"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

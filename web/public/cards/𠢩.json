@@ -1,40 +1,40 @@
 {
- "char": "𠢩",
- "head": "𠢩",
- "pinyin": "yǎo",
- "aliases": [],
- "bus": {
-  "num": 111,
-  "name": "堯"
- },
- "level": 3,
- "parent": "堯",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《海篇》：“音咬。”"
-   ],
-   "text": "《海篇》：“音咬。”"
+  "char": "𠢩",
+  "head": "𠢩",
+  "pinyin": "yǎo",
+  "aliases": [],
+  "bus": {
+    "num": 111,
+    "name": "堯"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "堯",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𠢩yǎo《海篇》：“音咬。”"
+      ],
+      "text": "𠢩yǎo《海篇》：“音咬。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,43 +1,43 @@
 {
- "char": "𠗵",
- "head": "𠗵",
- "pinyin": "pāng",
- "aliases": [],
- "bus": {
-  "num": 109,
-  "name": "方"
- },
- "level": 3,
- "parent": "旁",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“𠗵𠗶，凍相著皃。”凍得連在了一起。"
-   ],
-   "text": "《集韻》：“𠗵𠗶，凍相著皃。”凍得連在了一起。"
+  "char": "𠗵",
+  "head": "𠗵",
+  "pinyin": "pāng",
+  "aliases": [],
+  "bus": {
+    "num": 109,
+    "name": "方"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "p「拼辟」取「拼」：水拼合而凍，凝結相著不開（推）。"
-   ],
-   "text": "p「拼辟」取「拼」：水拼合而凍，凝結相著不開（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "旁",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𠗵pāng《集韻》：“𠗵𠗶，凍相著皃。”凍得連在了一起。"
+      ],
+      "text": "𠗵pāng《集韻》：“𠗵𠗶，凍相著皃。”凍得連在了一起。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "p「拼辟」取「拼」：水拼合而凍，凝結相著不開（推）。"
+      ],
+      "text": "p「拼辟」取「拼」：水拼合而凍，凝結相著不開（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,37 +1,37 @@
 {
- "char": "𨒅",
- "trad": "𨒅",
- "simp": "𨒅",
- "pinyin": "qì",
- "level": 3,
- "parent": "只",
- "bus": {
-  "num": 1,
-  "name": "只"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "曲行也。避而不前，與懸距不用同類。"
+  "char": "𨒅",
+  "trad": "𨒅",
+  "simp": "𨒅",
+  "pinyin": "qì",
+  "level": 3,
+  "parent": "只",
+  "bus": {
+    "num": 1,
+    "name": "只"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：曲行避就，循缺口而行（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨒅qì《說文》：“曲行也。从辵只聲。綺戟切。”曲折行走。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「缺」：曲行避就，循缺口而行（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "𨒅"
+  ],
+  "aliases": [],
+  "head": "𨒅"
 }

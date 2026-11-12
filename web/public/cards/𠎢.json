@@ -1,37 +1,37 @@
 {
- "char": "𠎢",
- "head": "𠎢",
- "pinyin": "xīng",
- "level": 3,
- "parent": "法",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《字彙補》：“《老君碑》興字。”"
+  "char": "𠎢",
+  "head": "𠎢",
+  "pinyin": "xīng",
+  "level": 3,
+  "parent": "法",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "y「零聲母」不系：碑刻興字，零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𠎢（興）xīng《字彙補》：“《老君碑》興字。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "y「零聲母」不系：碑刻興字，零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "興"
- ]
+  ],
+  "aliases": [
+    "興"
+  ]
 }

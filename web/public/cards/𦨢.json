@@ -1,58 +1,58 @@
 {
- "char": "𦨢",
- "trad": "𦨢",
- "simp": "𦨢",
- "pinyin": "dì",
- "level": 3,
- "parent": "氐",
- "bus": {
-  "num": 8,
-  "name": "㠯"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“𦨢艡，舟也。一曰水戰船。”能撞擊對方的戰船。"
+  "char": "𦨢",
+  "trad": "𦨢",
+  "simp": "𦨢",
+  "pinyin": "dì",
+  "level": 3,
+  "parent": "氐",
+  "bus": {
+    "num": 8,
+    "name": "㠯"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「动」：舟也——舟行而動。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "cites": [],
-   "links": [
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二㠯"
-    }
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦨢dì《集韻》：“𦨢艡，舟也。一曰水戰船。”能撞擊對方的戰船。"
+    },
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「动」：舟也——舟行而動。",
+      "cites": []
+    },
+    {
+      "key": "suoshu",
+      "label": "所属卷",
+      "text": "",
+      "cites": [],
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二㠯"
+        }
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "𦨢",
- "photos": [
-  {
-   "file": "𦨢/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  ""
- ]
+  ],
+  "aliases": [],
+  "head": "𦨢",
+  "photos": [
+    {
+      "file": "𦨢/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    ""
+  ]
 }

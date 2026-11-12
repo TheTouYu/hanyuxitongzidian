@@ -1,47 +1,47 @@
 {
- "char": "𤴅",
- "head": "𤴅（𧇄𧈕𧆨𧆣）",
- "pinyin": "lú",
- "level": 3,
- "parent": "盧",
- "bus": {
-  "num": 48,
-  "name": "虎"
- },
- "suoshujuan": "卷八 虎（第48部 虍）",
- "links": [
-  {
-   "ch": "卷八虎",
-   "label": "卷八 虎"
-  }
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“𧇄，𦉈也。从甾虍聲。讀若盧同。，篆文𧇄。，籀文𧇄。洛乎切。”即“𤮧”。"
+  "char": "𤴅",
+  "head": "𤴅（𧇄𧈕𧆨𧆣）",
+  "pinyin": "lú",
+  "level": 3,
+  "parent": "盧",
+  "bus": {
+    "num": 48,
+    "name": "虎"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "suoshujuan": "卷八 虎（第48部 虍）",
+  "links": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "ch": "卷八虎",
+      "label": "卷八 虎"
     }
-   ]
-  }
- ],
- "aliases": [
-  "𧇄",
-  "𧈕",
-  "𧆨",
-  "𧆣"
- ]
+  ],
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𤴅（𧇄𧈕𧆨𧆣）lú《說文》：“𧇄，𦉈也。从甾虍聲。讀若盧同。，篆文𧇄。，籀文𧇄。洛乎切。”即“𤮧”。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "𧇄",
+    "𧈕",
+    "𧆨",
+    "𧆣"
+  ]
 }

@@ -1,34 +1,34 @@
 {
- "char": "𣘨",
- "pinyin": "ě",
- "aliases": [],
- "bus": {
-  "num": 34,
-  "name": "丂"
- },
- "level": 3,
- "parent": "可",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“𣘨橠，木盛皃。”ē，《集韻》：“𣘨橠，樹枝長弱皃。”《字彙》：“𣘨橠，柔順貌。”"
+  "char": "𣘨",
+  "pinyin": "ě",
+  "aliases": [],
+  "bus": {
+    "num": 34,
+    "name": "丂"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "可",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣘨ě《玉篇》：“𣘨橠，木盛皃。”ē，《集韻》：“𣘨橠，樹枝長弱皃。”《字彙》：“𣘨橠，柔順貌。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

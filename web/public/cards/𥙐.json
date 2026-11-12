@@ -1,53 +1,53 @@
 {
- "char": "𥙐",
- "head": "𥙐（祝）",
- "aliases": [
-  "祝"
- ],
- "pinyin": "zhù",
- "bus": {
-  "num": 90,
-  "name": "后"
- },
- "level": 3,
- "parent": "后",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《漢典》：“祝的訛字。”",
-   "paras": [
-    "《漢典》：“祝的訛字。”"
-   ]
+  "char": "𥙐",
+  "head": "𥙐（祝）",
+  "aliases": [
+    "祝"
+  ],
+  "pinyin": "zhù",
+  "bus": {
+    "num": 90,
+    "name": "后"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "zh「凿总」取「凿」：祝者以言告神，如凿之通（推）。",
-   "paras": [
-    "zh「凿总」取「凿」：祝者以言告神，如凿之通（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "后",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥙐（祝）zhù《漢典》：“祝的訛字。”",
+      "paras": [
+        "𥙐（祝）zhù《漢典》：“祝的訛字。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "zh「凿总」取「凿」：祝者以言告神，如凿之通（推）。",
+      "paras": [
+        "zh「凿总」取「凿」：祝者以言告神，如凿之通（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ]
     }
-   ]
-  }
- ],
- "photos": [
-  {
-   "file": "𥙐/01.jpg",
-   "caption": ""
-  }
- ],
- "captions": [
-  "4500年前的排水管（龍山文化）"
- ]
+  ],
+  "photos": [
+    {
+      "file": "𥙐/01.jpg",
+      "caption": ""
+    }
+  ],
+  "captions": [
+    "4500年前的排水管（龍山文化）"
+  ]
 }

@@ -1,35 +1,35 @@
 {
- "char": "麬",
- "pinyin": "",
- "head": "麬",
- "bus": {
-  "num": 151,
-  "name": "皮"
- },
- "level": 3,
- "parent": "皮",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "（麩）fū《正字通》：“俗麩字。”麥皮。",
-   "paras": [
-    "（麩）fū《正字通》：“俗麩字。”麥皮。"
-   ]
+  "char": "麬",
+  "pinyin": "",
+  "head": "麬",
+  "bus": {
+    "num": 151,
+    "name": "皮"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "f「附分」取「分」：麥皮分離而落（推）。",
-   "paras": [
-    "f「附分」取「分」：麥皮分離而落（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "paras": []
-  }
- ]
+  "level": 3,
+  "parent": "皮",
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "《正字通》：“俗麩字。”麥皮。",
+      "paras": [
+        "《正字通》：“俗麩字。”麥皮。"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "f「附分」取「分」：麥皮分離而落（推）。",
+      "paras": [
+        "f「附分」取「分」：麥皮分離而落（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "paras": []
+    }
+  ]
 }

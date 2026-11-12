@@ -1,39 +1,39 @@
 {
- "char": "𨛖",
- "head": "𨛖",
- "pinyin": "kuài",
- "aliases": [],
- "bus": {
-  "num": 66,
-  "name": "南"
- },
- "level": 3,
- "parent": "㕟",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《說文》：“汝南安陽鄉。从邑，𦳋省聲。苦怪切。”今河南洛陽縣西南。"
-   ],
-   "text": "《說文》：“汝南安陽鄉。从邑，𦳋省聲。苦怪切。”今河南洛陽縣西南。"
+  "char": "𨛖",
+  "head": "𨛖",
+  "pinyin": "kuài",
+  "aliases": [],
+  "bus": {
+    "num": 66,
+    "name": "南"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "k「口控」取「口」：鄉邑聚落，控制一方（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "㕟",
+  "sections": [
     {
-     "t": "卷十一 竹",
-     "ch": "卷十一竹",
-     "label": "卷十一 竹"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𨛖kuài《說文》：“汝南安陽鄉。从邑，𦳋省聲。苦怪切。”今河南洛陽縣西南。"
+      ],
+      "text": "𨛖kuài《說文》：“汝南安陽鄉。从邑，𦳋省聲。苦怪切。”今河南洛陽縣西南。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "k「口控」取「口」：鄉邑聚落，控制一方（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十一 竹",
+          "ch": "卷十一竹",
+          "label": "卷十一 竹"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

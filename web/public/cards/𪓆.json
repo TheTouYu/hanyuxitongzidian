@@ -1,47 +1,47 @@
 {
- "char": "𪓆",
- "head": "𪓆（𪒾）",
- "aliases": [
-  "𪒾"
- ],
- "pinyin": "dàn",
- "bus": {
-  "num": 94,
-  "name": "䀠"
- },
- "level": 3,
- "parent": "䀠",
- "photos": [],
- "captions": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《字彙補》：“𪒾，黑也。或作𪓆。”"
-   ],
-   "text": "《字彙補》：“𪒾，黑也。或作𪓆。”"
+  "char": "𪓆",
+  "head": "𪓆（𪒾）",
+  "aliases": [
+    "𪒾"
+  ],
+  "pinyin": "dàn",
+  "bus": {
+    "num": 94,
+    "name": "䀠"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "d「囤动」取「囤」：黑色屯聚曰𪓆（推）。"
-   ],
-   "text": "d「囤动」取「囤」：黑色屯聚曰𪓆（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "䀠",
+  "photos": [],
+  "captions": [],
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𪓆（𪒾）dàn《字彙補》：“𪒾，黑也。或作𪓆。”"
+      ],
+      "text": "𪓆（𪒾）dàn《字彙補》：“𪒾，黑也。或作𪓆。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "d「囤动」取「囤」：黑色屯聚曰𪓆（推）。"
+      ],
+      "text": "d「囤动」取「囤」：黑色屯聚曰𪓆（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ],
+      "paras": []
     }
-   ],
-   "paras": []
-  }
- ]
+  ]
 }

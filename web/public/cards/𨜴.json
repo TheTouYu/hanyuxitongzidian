@@ -1,35 +1,35 @@
 {
- "char": "𨜴",
- "head": "𨜴",
- "pinyin": "hé",
- "level": 3,
- "parent": "盍",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“地名。从邑盍聲。胡蠟切。”漢地名，在今山東沂水縣西北。"
+  "char": "𨜴",
+  "head": "𨜴",
+  "pinyin": "hé",
+  "level": 3,
+  "parent": "盍",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：地名用字，音義之聯未詳。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𨜴hé《說文》：“地名。从邑盍聲。胡蠟切。”漢地名，在今山東沂水縣西北。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "h「豁活」取「豁」：地名用字，音義之聯未詳。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": []
+  ],
+  "aliases": []
 }

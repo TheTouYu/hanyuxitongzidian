@@ -1,36 +1,36 @@
 {
- "char": "𢙚",
- "head": "𢙚（忚）",
- "level": 3,
- "parent": "色",
- "bus": {
-  "num": 9,
-  "name": "士"
- },
- "aliases": [
-  "忚"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《龍龕》：“忚，或作；𢙚，正。呼兮反。欺慢之皃也。”liě，《集韻》：“忚忚，心不欲。”"
+  "char": "𢙚",
+  "head": "𢙚（忚）",
+  "level": 3,
+  "parent": "色",
+  "bus": {
+    "num": 9,
+    "name": "士"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「消」：慢而氣消（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "忚"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢙚（忚）xī《龍龕》：“忚，或作；𢙚，正。呼兮反。欺慢之皃也。”liě，《集韻》：“忚忚，心不欲。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「消」：慢而氣消（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

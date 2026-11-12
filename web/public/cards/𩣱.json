@@ -1,35 +1,35 @@
 {
- "char": "𩣱",
- "head": "𩣱",
- "pinyin": "lù",
- "aliases": [],
- "bus": {
-  "num": 51,
-  "name": "六"
- },
- "level": 3,
- "parent": "陸",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“健馬。”《集韻》：“驡𩣱，良馬。”"
+  "char": "𩣱",
+  "head": "𩣱",
+  "pinyin": "lù",
+  "aliases": [],
+  "bus": {
+    "num": 51,
+    "name": "六"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "l「拢离」取「离」：承陸之取義一面（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "level": 3,
+  "parent": "陸",
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩣱lù《玉篇》：“健馬。”《集韻》：“驡𩣱，良馬。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "l「拢离」取「离」：承陸之取義一面（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

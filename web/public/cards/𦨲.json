@@ -1,34 +1,34 @@
 {
- "char": "𦨲",
- "head": "𦨲（𣔶𦨌）",
- "level": 3,
- "parent": "氾",
- "bus": {
-  "num": 23,
-  "name": "ㄗ"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“舷也。”《龍龕》：“舟也。”《集韻》：“或作𣔶。”"
+  "char": "𦨲",
+  "head": "𦨲（𣔶𦨌）",
+  "level": 3,
+  "parent": "氾",
+  "bus": {
+    "num": 23,
+    "name": "ㄗ"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "f「附分」取「分」：氾濫分溢（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦨲（𣔶𦨌）fán《玉篇》：“舷也。”《龍龕》：“舟也。”《集韻》：“或作𣔶。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "f「附分」取「分」：氾濫分溢（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

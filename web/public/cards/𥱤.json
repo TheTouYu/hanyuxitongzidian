@@ -1,35 +1,35 @@
 {
- "char": "𥱤",
- "head": "𥱤",
- "pinyin": "xiū",
- "aliases": [],
- "bus": {
-  "num": 59,
-  "name": "攸"
- },
- "level": 3,
- "parent": "攸",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《漢典》：“𥱤篁，長竹子。”"
+  "char": "𥱤",
+  "head": "𥱤",
+  "pinyin": "xiū",
+  "aliases": [],
+  "bus": {
+    "num": 59,
+    "name": "攸"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「续」：承攸之取義一面（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷九 舟",
-   "links": [
+  "level": 3,
+  "parent": "攸",
+  "sections": [
     {
-     "ch": "卷九舟",
-     "label": "卷九 舟"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥱤xiū《漢典》：“𥱤篁，長竹子。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「续」：承攸之取義一面（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷九 舟",
+      "links": [
+        {
+          "ch": "卷九舟",
+          "label": "卷九 舟"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

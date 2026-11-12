@@ -1,36 +1,36 @@
 {
- "char": "𩱾",
- "head": "𩱾",
- "pinyin": "tuò",
- "level": 3,
- "parent": "乇",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《篇海》：“他各切，音托。落魄，貧無家業。”",
-   "cites": []
+  "char": "𩱾",
+  "head": "𩱾",
+  "pinyin": "tuò",
+  "level": 3,
+  "parent": "乇",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "t「涂突」取「突」：落魄貧無家業，音義無考（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𩱾tuò《篇海》：“他各切，音托。落魄，貧無家業。”",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "t「涂突」取「突」：落魄貧無家業，音義無考（照實）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

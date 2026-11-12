@@ -1,37 +1,37 @@
 {
- "char": "𥰠",
- "head": "𥰠（筥）",
- "pinyin": "lǘ",
- "aliases": [
-  "筥"
- ],
- "bus": {
-  "num": 58,
-  "name": "㫃"
- },
- "level": 3,
- "parent": "旅",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“盛飯器也。”《揚子·方言》：“南楚謂之筲，趙魏之郊謂之𥰠。”《集韻》：“通作筥。”圓形竹筐。"
+  "char": "𥰠",
+  "head": "𥰠（筥）",
+  "pinyin": "lǘ",
+  "aliases": [
+    "筥"
+  ],
+  "bus": {
+    "num": 58,
+    "name": "㫃"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "l「拢离」取「拢」：承旅之取義一面（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷九 舟",
-   "links": [
+  "level": 3,
+  "parent": "旅",
+  "sections": [
     {
-     "ch": "卷九舟",
-     "label": "卷九 舟"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥰠（筥）lǘ《集韻》：“盛飯器也。”《揚子·方言》：“南楚謂之筲，趙魏之郊謂之𥰠。”《集韻》：“通作筥。”圓形竹筐。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "l「拢离」取「拢」：承旅之取義一面（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷九 舟",
+      "links": [
+        {
+          "ch": "卷九舟",
+          "label": "卷九 舟"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,34 +1,34 @@
 {
- "char": "𥾣",
- "head": "𥾣",
- "level": 3,
- "parent": "支",
- "bus": {
-  "num": 13,
-  "name": "支"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“縴𥾣，挽船繩也。”"
+  "char": "𥾣",
+  "head": "𥾣",
+  "level": 3,
+  "parent": "支",
+  "bus": {
+    "num": 13,
+    "name": "支"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：繩牽而凿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𥾣zhī《廣韻》：“縴𥾣，挽船繩也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：繩牽而凿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

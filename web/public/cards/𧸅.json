@@ -1,41 +1,41 @@
 {
- "char": "𧸅",
- "head": "𧸅",
- "pinyin": "zhǐ",
- "aliases": [],
- "bus": {
-  "num": 106,
-  "name": "黹"
- },
- "level": 3,
- "parent": "黹",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《玉篇》：“當也。”《類篇》：“財物相當。”"
-   ],
-   "text": "《玉篇》：“當也。”《類篇》：“財物相當。”"
+  "char": "𧸅",
+  "head": "𧸅",
+  "pinyin": "zhǐ",
+  "aliases": [],
+  "bus": {
+    "num": 106,
+    "name": "黹"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [],
-   "text": "zh「凿总」取「总」：財物相當，總而合之（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "黹",
+  "sections": [
     {
-     "t": "卷二十  角",
-     "ch": "卷二十角",
-     "label": "卷二十 角"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𧸅zhǐ《玉篇》：“當也。”《類篇》：“財物相當。”"
+      ],
+      "text": "𧸅zhǐ《玉篇》：“當也。”《類篇》：“財物相當。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [],
+      "text": "zh「凿总」取「总」：財物相當，總而合之（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十  角",
+          "ch": "卷二十角",
+          "label": "卷二十 角"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,36 +1,36 @@
 {
- "char": "𧲢",
- "head": "𧲢",
- "pinyin": "zhé",
- "level": 3,
- "parent": "乇",
- "bus": {
-  "num": 46,
-  "name": "乇"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《類篇》：“𧲢𩢷，獸名。驢父牛母。或作馲。馲𩢷或𤜤㹮，驢父馬母。”騾子。善馱物意。",
-   "cites": []
+  "char": "𧲢",
+  "head": "𧲢",
+  "pinyin": "zhé",
+  "level": 3,
+  "parent": "乇",
+  "bus": {
+    "num": 46,
+    "name": "乇"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：騾屬雜生，音義無考（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷七 斤",
-   "links": [
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧲢zhé《類篇》：“𧲢𩢷，獸名。驢父牛母。或作馲。馲𩢷或𤜤㹮，驢父馬母。”騾子。善馱物意。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：騾屬雜生，音義無考（照實）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷七 斤",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

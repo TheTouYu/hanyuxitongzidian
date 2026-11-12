@@ -1,39 +1,39 @@
 {
- "char": "𥋣",
- "head": "𥋣",
- "pinyin": "jià",
- "aliases": [],
- "bus": {
-  "num": 64,
-  "name": "宁"
- },
- "level": 3,
- "parent": "賈",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“居迓切，音駕。視也。”即估摸之狀。"
-   ],
-   "text": "《集韻》：“居迓切，音駕。視也。”即估摸之狀。"
+  "char": "𥋣",
+  "head": "𥋣",
+  "pinyin": "jià",
+  "aliases": [],
+  "bus": {
+    "num": 64,
+    "name": "宁"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：視而聚察，估摸其直（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "賈",
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𥋣jià《集韻》：“居迓切，音駕。視也。”即估摸之狀。"
+      ],
+      "text": "𥋣jià《集韻》：“居迓切，音駕。視也。”即估摸之狀。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：視而聚察，估摸其直（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

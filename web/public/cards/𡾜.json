@@ -1,34 +1,34 @@
 {
- "head": "𡾜",
- "pinyin": "jué",
- "parent": "霍",
- "bus": {
-  "num": 39,
-  "name": "隺"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《玉篇》：“山名。”《正字通》：“《爾雅》本作霍。”huò，《爾雅·釋山》：“霍山為南嶽。”陸德明釋文：“霍山，一名衡山，在荆州界。漢在長沙湘南縣。”"
+  "head": "𡾜",
+  "pinyin": "jué",
+  "parent": "霍",
+  "bus": {
+    "num": 39,
+    "name": "隺"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "j「聚决」取「聚」：山石之聚而高（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷六鶴",
-     "label": "卷六 鶴"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𡾜jué《玉篇》：“山名。”《正字通》：“《爾雅》本作霍。”huò，《爾雅·釋山》：“霍山為南嶽。”陸德明釋文：“霍山，一名衡山，在荆州界。漢在長沙湘南縣。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "j「聚决」取「聚」：山石之聚而高（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷六鶴",
+          "label": "卷六 鶴"
+        }
+      ],
+      "text": ""
     }
-   ],
-   "text": ""
-  }
- ],
- "char": "𡾜",
- "level": 3
+  ],
+  "char": "𡾜",
+  "level": 3
 }

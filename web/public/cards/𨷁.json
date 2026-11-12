@@ -1,40 +1,40 @@
 {
- "char": "𨷁",
- "head": "𨷁",
- "pinyin": "niú",
- "aliases": [],
- "bus": {
-  "num": 111,
-  "name": "堯"
- },
- "level": 3,
- "parent": "堯",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《川篇》：“語虯切，音牛。取也。”"
-   ],
-   "text": "《川篇》：“語虯切，音牛。取也。”"
+  "char": "𨷁",
+  "head": "𨷁",
+  "pinyin": "niú",
+  "aliases": [],
+  "bus": {
+    "num": 111,
+    "name": "堯"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "n「纳弄」取「纳」：門中取物，納身而入（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "堯",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𨷁niú《川篇》：“語虯切，音牛。取也。”"
+      ],
+      "text": "𨷁niú《川篇》：“語虯切，音牛。取也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "n「纳弄」取「纳」：門中取物，納身而入（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

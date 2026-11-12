@@ -1,36 +1,36 @@
 {
- "char": "𩔧",
- "head": "𩔧（類）",
- "level": 3,
- "bus": {
-  "num": 9,
-  "name": "士"
- },
- "aliases": [
-  "類"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《龍龕》：“𩔧，俗；類，正。音淚。”類，《玉篇》：“獸名、種類也、法也。”《集韻》：“偏頗也。”“似也。”"
+  "char": "𩔧",
+  "head": "𩔧（類）",
+  "level": 3,
+  "bus": {
+    "num": 9,
+    "name": "士"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "l「拢离」取「拢」：種類攏聚（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "類"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𩔧（類）lèi《龍龕》：“𩔧，俗；類，正。音淚。”類，《玉篇》：“獸名、種類也、法也。”《集韻》：“偏頗也。”“似也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "l「拢离」取「拢」：種類攏聚（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

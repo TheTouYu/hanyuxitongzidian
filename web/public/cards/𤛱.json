@@ -1,43 +1,43 @@
 {
- "char": "𤛱",
- "head": "𤛱",
- "pinyin": "zhì",
- "aliases": [],
- "bus": {
-  "num": 103,
-  "name": "爻"
- },
- "level": 3,
- "parent": "𦥯",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《玉篇》：“音秩。人姓。”"
-   ],
-   "text": "《玉篇》：“音秩。人姓。”"
+  "char": "𤛱",
+  "head": "𤛱",
+  "pinyin": "zhì",
+  "aliases": [],
+  "bus": {
+    "num": 103,
+    "name": "爻"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "zh「凿总」取「总」：姓氏總其族，借音無義（推）。"
-   ],
-   "text": "zh「凿总」取「总」：姓氏總其族，借音無義（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "𦥯",
+  "sections": [
     {
-     "t": "卷二十  角",
-     "ch": "卷二十角",
-     "label": "卷二十 角"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𤛱zhì《玉篇》：“音秩。人姓。”"
+      ],
+      "text": "𤛱zhì《玉篇》：“音秩。人姓。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "zh「凿总」取「总」：姓氏總其族，借音無義（推）。"
+      ],
+      "text": "zh「凿总」取「总」：姓氏總其族，借音無義（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷二十  角",
+          "ch": "卷二十角",
+          "label": "卷二十 角"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

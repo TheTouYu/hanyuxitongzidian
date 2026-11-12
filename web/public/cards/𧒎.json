@@ -1,38 +1,38 @@
 {
- "char": "𧒎",
- "head": "𧒎",
- "pinyin": "é",
- "aliases": [],
- "bus": {
-  "num": 36,
-  "name": "我"
- },
- "level": 3,
- "parent": "我",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《說文》：“蠶化飛蟲。从䖵我聲。，或从虫。五何切。”同“蛾”。"
+  "char": "𧒎",
+  "head": "𧒎",
+  "pinyin": "é",
+  "aliases": [],
+  "bus": {
+    "num": 36,
+    "name": "我"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "我",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧒎é《說文》：“蠶化飛蟲。从䖵我聲。，或从虫。五何切。”同“蛾”。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ],
- "cls": "虫",
- "bridge": "蠶化飛蟲，翅闊展",
- "lead": "《說文》「蠶化飛蟲」——蠶化飛蟲，翅闊展"
+  ],
+  "cls": "虫",
+  "bridge": "蠶化飛蟲，翅闊展",
+  "lead": "《說文》「蠶化飛蟲」——蠶化飛蟲，翅闊展"
 }

@@ -1,42 +1,42 @@
 {
- "char": "𠟊",
- "head": "𠟊",
- "aliases": [],
- "pinyin": "xī",
- "bus": {
-  "num": 75,
-  "name": "合"
- },
- "level": 3,
- "parent": "翕",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“迄及切，音翕。欲割也。”",
-   "paras": [
-    "《集韻》：“迄及切，音翕。欲割也。”"
-   ]
+  "char": "𠟊",
+  "head": "𠟊",
+  "aliases": [],
+  "pinyin": "xī",
+  "bus": {
+    "num": 75,
+    "name": "合"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「消」：刃合於物，割而消之（推）。",
-   "paras": [
-    "x「续消」取「消」：刃合於物，割而消之（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "翕",
+  "sections": [
     {
-     "t": "卷十三  合",
-     "ch": "卷十三合",
-     "label": "卷十三 合"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠟊xī《集韻》：“迄及切，音翕。欲割也。”",
+      "paras": [
+        "𠟊xī《集韻》：“迄及切，音翕。欲割也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「消」：刃合於物，割而消之（推）。",
+      "paras": [
+        "x「续消」取「消」：刃合於物，割而消之（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十三  合",
+          "ch": "卷十三合",
+          "label": "卷十三 合"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

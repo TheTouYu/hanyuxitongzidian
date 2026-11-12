@@ -1,37 +1,37 @@
 {
- "char": "𢜬",
- "head": "𢜬（㤞）",
- "pinyin": "duó",
- "bus": {
-  "num": 45,
-  "name": "石"
- },
- "parent": "度",
- "level": 3,
- "aliases": [
-  "㤞"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“忖𢜬也。與度同。”“㤞，忖也。一曰企也。或作𢜬。”《廣雅》：“㣻也。”懲治。"
+  "char": "𢜬",
+  "head": "𢜬（㤞）",
+  "pinyin": "duó",
+  "bus": {
+    "num": 45,
+    "name": "石"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「动」：石之動用，「指揣」（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "parent": "度",
+  "level": 3,
+  "aliases": [
+    "㤞"
+  ],
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢜬（㤞）duó《集韻》：“忖𢜬也。與度同。”“㤞，忖也。一曰企也。或作𢜬。”《廣雅》：“㣻也。”懲治。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「动」：石之動用，「指揣」（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

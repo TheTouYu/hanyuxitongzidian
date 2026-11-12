@@ -1,35 +1,35 @@
 {
- "char": "𧅰",
- "head": "𧅰",
- "pinyin": "hù",
- "level": 3,
- "parent": "蒦",
- "bus": {
-  "num": 40,
-  "name": "隻"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“艸名，神䕶也。”"
+  "char": "𧅰",
+  "head": "𧅰",
+  "pinyin": "hù",
+  "level": 3,
+  "parent": "蒦",
+  "bus": {
+    "num": 40,
+    "name": "隻"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "h「豁活」取「豁」：𧅰從指鶴姿，表示高、遠一面取「豁」之義（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷六 鶴",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷六鶴",
-     "label": "卷六 鶴"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧅰hù《集韻》：“艸名，神䕶也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "h「豁活」取「豁」：𧅰從指鶴姿，表示高、遠一面取「豁」之義（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷六 鶴",
+      "links": [
+        {
+          "ch": "卷六鶴",
+          "label": "卷六 鶴"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,42 +1,42 @@
 {
- "char": "𢀙",
- "head": "𢀙",
- "aliases": [],
- "pinyin": "jiū",
- "bus": {
-  "num": 89,
-  "name": "丩"
- },
- "level": 3,
- "parent": "丩",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《龍龕》：“居幽切。月綾也。”",
-   "paras": [
-    "《龍龕》：“居幽切。月綾也。”"
-   ]
+  "char": "𢀙",
+  "head": "𢀙",
+  "aliases": [],
+  "pinyin": "jiū",
+  "bus": {
+    "num": 89,
+    "name": "丩"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：月綾之紋如絲相糾而聚（推）。",
-   "paras": [
-    "j「聚决」取「聚」：月綾之紋如絲相糾而聚（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "丩",
+  "sections": [
     {
-     "t": "卷十六  犬",
-     "ch": "卷十六犬",
-     "label": "卷十六 犬"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𢀙jiū《龍龕》：“居幽切。月綾也。”",
+      "paras": [
+        "𢀙jiū《龍龕》：“居幽切。月綾也。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：月綾之紋如絲相糾而聚（推）。",
+      "paras": [
+        "j「聚决」取「聚」：月綾之紋如絲相糾而聚（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十六  犬",
+          "ch": "卷十六犬",
+          "label": "卷十六 犬"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

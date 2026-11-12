@@ -1,35 +1,35 @@
 {
- "char": "𩼈",
- "head": "𩼈",
- "pinyin": "ào",
- "aliases": [],
- "bus": {
-  "num": 61,
-  "name": "𦥑"
- },
- "level": 3,
- "parent": "奧",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“小鰌也。”《博雅》：“鯉也。”水底的泥鰍、鯉魚。yǒu，《漢典》：“𩼈魚，一名金鱗𩼈。”"
+  "char": "𩼈",
+  "head": "𩼈",
+  "pinyin": "ào",
+  "aliases": [],
+  "bus": {
+    "num": 61,
+    "name": "𦥑"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 𦥑",
-   "links": [
+  "level": 3,
+  "parent": "奧",
+  "sections": [
     {
-     "ch": "卷十𦥑",
-     "label": "卷十 𦥑"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩼈ào《玉篇》：“小鰌也。”《博雅》：“鯉也。”水底的泥鰍、鯉魚。yǒu，《漢典》：“𩼈魚，一名金鱗𩼈。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 𦥑",
+      "links": [
+        {
+          "ch": "卷十𦥑",
+          "label": "卷十 𦥑"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,34 +1,34 @@
 {
- "char": "𧙢",
- "head": "𧙢",
- "level": 3,
- "parent": "式",
- "bus": {
-  "num": 26,
-  "name": "弋"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《篇海》：“音識。裝也。”裝織。"
+  "char": "𧙢",
+  "head": "𧙢",
+  "level": 3,
+  "parent": "式",
+  "bus": {
+    "num": 26,
+    "name": "弋"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "sh「失收」取「收」：綫收於機而裝織（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷四 弋",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷四弋",
-     "label": "卷四 弋"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧙢shì《篇海》：“音識。裝也。”裝織。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "sh「失收」取「收」：綫收於機而裝織（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷四 弋",
+      "links": [
+        {
+          "ch": "卷四弋",
+          "label": "卷四 弋"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

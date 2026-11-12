@@ -1,34 +1,34 @@
 {
- "char": "𪄱",
- "head": "𪄱",
- "level": 3,
- "parent": "啇",
- "bus": {
-  "num": 11,
-  "name": "帝"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“雉屬，戇鳥也。从鳥，適省聲。都曆切。”大約是指鶡，因其好鬥。"
+  "char": "𪄱",
+  "head": "𪄱",
+  "level": 3,
+  "parent": "啇",
+  "bus": {
+    "num": 11,
+    "name": "帝"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "d「囤动」取「囤」：好鬥囤爭（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𪄱dí《說文》：“雉屬，戇鳥也。从鳥，適省聲。都曆切。”大約是指鶡，因其好鬥。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "d「囤动」取「囤」：好鬥囤爭（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

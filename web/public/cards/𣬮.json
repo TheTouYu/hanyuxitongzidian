@@ -1,45 +1,45 @@
 {
- "char": "𣬮",
- "head": "𣬮（髲）",
- "pinyin": "pī",
- "aliases": [
-  "髲"
- ],
- "bus": {
-  "num": 129,
-  "name": "匹部"
- },
- "level": 3,
- "parent": "匹",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《字彙補》：“義與髲同。”假髮。",
-   "paras": [
-    "《字彙補》：“義與髲同。”假髮。"
-   ]
+  "char": "𣬮",
+  "head": "𣬮（髲）",
+  "pinyin": "pī",
+  "aliases": [
+    "髲"
+  ],
+  "bus": {
+    "num": 129,
+    "name": "匹部"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "p「拼辟」取「拼」：假髮拼覆頭皮（推）。",
-   "paras": [
-    "p「拼辟」取「拼」：假髮拼覆頭皮（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "paras": [],
-   "links": [
+  "level": 3,
+  "parent": "匹",
+  "sections": [
     {
-     "t": "卷二十四 貝",
-     "ch": "卷二十四貝",
-     "label": "卷二十四 貝"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𣬮（髲）pī《字彙補》：“義與髲同。”假髮。",
+      "paras": [
+        "𣬮（髲）pī《字彙補》：“義與髲同。”假髮。"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "p「拼辟」取「拼」：假髮拼覆頭皮（推）。",
+      "paras": [
+        "p「拼辟」取「拼」：假髮拼覆頭皮（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "paras": [],
+      "links": [
+        {
+          "t": "卷二十四 貝",
+          "ch": "卷二十四貝",
+          "label": "卷二十四 貝"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

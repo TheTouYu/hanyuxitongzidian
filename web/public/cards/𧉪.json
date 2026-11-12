@@ -1,36 +1,36 @@
 {
- "char": "𧉪",
- "head": "𧉪",
- "pinyin": "jiā",
- "aliases": [],
- "bus": {
-  "num": 37,
-  "name": "加"
- },
- "level": 3,
- "parent": "加",
- "bridge": "米象長鼻如加",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“米中黑蟲。”米象蟲。有長鼻如加。"
+  "char": "𧉪",
+  "head": "𧉪",
+  "pinyin": "jiā",
+  "aliases": [],
+  "bus": {
+    "num": 37,
+    "name": "加"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷五 雁",
-   "links": [
+  "level": 3,
+  "parent": "加",
+  "bridge": "米象長鼻如加",
+  "sections": [
     {
-     "ch": "卷五雁",
-     "label": "卷五 雁"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𧉪jiā《集韻》：“米中黑蟲。”米象蟲。有長鼻如加。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷五 雁",
+      "links": [
+        {
+          "ch": "卷五雁",
+          "label": "卷五 雁"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

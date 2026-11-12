@@ -1,35 +1,35 @@
 {
- "char": "𠢈",
- "head": "𠢈",
- "pinyin": "jú",
- "aliases": [],
- "bus": {
-  "num": 61,
-  "name": "𦥑"
- },
- "level": 3,
- "parent": "𦥑",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“居許切，音舉。共輿皃。”《字彙補》：“與舁同。見《篇韻》。”"
+  "char": "𠢈",
+  "head": "𠢈",
+  "pinyin": "jú",
+  "aliases": [],
+  "bus": {
+    "num": 61,
+    "name": "𦥑"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "j「聚决」取「聚」：二人分執兩端，力聚於一點而共舉（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷十 𦥑",
-   "links": [
+  "level": 3,
+  "parent": "𦥑",
+  "sections": [
     {
-     "ch": "卷十𦥑",
-     "label": "卷十 𦥑"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠢈jú《集韻》：“居許切，音舉。共輿皃。”《字彙補》：“與舁同。見《篇韻》。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "j「聚决」取「聚」：二人分執兩端，力聚於一點而共舉（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷十 𦥑",
+      "links": [
+        {
+          "ch": "卷十𦥑",
+          "label": "卷十 𦥑"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

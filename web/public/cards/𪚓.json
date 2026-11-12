@@ -1,36 +1,36 @@
 {
- "char": "𪚓",
- "head": "𪚓",
- "pinyin": "lóng",
- "aliases": [],
- "bus": {
-  "num": 117,
-  "name": "龍"
- },
- "level": 3,
- "parent": "龍",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“獸名。”"
+  "char": "𪚓",
+  "head": "𪚓",
+  "pinyin": "lóng",
+  "aliases": [],
+  "bus": {
+    "num": 117,
+    "name": "龍"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "l「拢离」取「离」：獸行離群倏忽，閃現林間（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "龍",
+  "sections": [
     {
-     "t": "卷廿二  雷",
-     "ch": "卷廿二雷",
-     "label": "卷廿二 雷"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𪚓lóng《集韻》：“獸名。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "l「拢离」取「离」：獸行離群倏忽，閃現林間（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿二  雷",
+          "ch": "卷廿二雷",
+          "label": "卷廿二 雷"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

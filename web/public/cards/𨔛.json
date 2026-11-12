@@ -1,38 +1,38 @@
 {
- "id": "𨔛",
- "head": "𨔛",
- "pinyin": "tī",
- "level": 3,
- "bus": {
-  "num": 48,
-  "name": "虍"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《龍龕》：“同𠥶。匾𨔛，薄皃也。”《漢典》：同“遞”。交互。"
+  "id": "𨔛",
+  "head": "𨔛",
+  "pinyin": "tī",
+  "level": 3,
+  "bus": {
+    "num": 48,
+    "name": "虍"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "t「涂突」取「突」：薄而突起（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨔛（遞）tī《龍龕》：“同𠥶。匾𨔛，薄皃也。”《漢典》：同“遞”。交互。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "t「涂突」取「突」：薄而突起（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "lei": "辵",
- "char": "𨔛",
- "aliases": [
-  "遞"
- ],
- "noRoot": true
+  ],
+  "lei": "辵",
+  "char": "𨔛",
+  "aliases": [
+    "遞"
+  ],
+  "noRoot": true
 }

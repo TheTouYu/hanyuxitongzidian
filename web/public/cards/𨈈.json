@@ -1,38 +1,38 @@
 {
- "char": "𨈈",
- "head": "𨈈（蹀）",
- "pinyin": "dié",
- "aliases": [
-  "蹀"
- ],
- "bus": {
-  "num": 118,
-  "name": "畾"
- },
- "level": 3,
- "parent": "疉",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《玉篇》：“走聲也。”《廣韻》：“小走聲。”《集韻》：“走聲。”《正字通》：“俗蹀字。”"
+  "char": "𨈈",
+  "head": "𨈈（蹀）",
+  "pinyin": "dié",
+  "aliases": [
+    "蹀"
+  ],
+  "bus": {
+    "num": 118,
+    "name": "畾"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "d「囤动」取「动」：小走則足動有聲（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "疉",
+  "sections": [
     {
-     "t": "卷廿二  雷",
-     "ch": "卷二十二雷",
-     "label": "卷廿二 雷"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𨈈（蹀）dié《玉篇》：“走聲也。”《廣韻》：“小走聲。”《集韻》：“走聲。”《正字通》：“俗蹀字。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "d「囤动」取「动」：小走則足動有聲（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿二  雷",
+          "ch": "卷二十二雷",
+          "label": "卷廿二 雷"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

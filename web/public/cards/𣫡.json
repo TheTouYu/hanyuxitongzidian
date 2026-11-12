@@ -1,32 +1,32 @@
 {
- "char": "𣫡",
- "level": 3,
- "parent": "贛",
- "bus": {
-  "num": 5,
-  "name": "欠"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "同贛，擊鼓也。"
+  "char": "𣫡",
+  "level": 3,
+  "parent": "贛",
+  "bus": {
+    "num": 5,
+    "name": "欠"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "k「口控」取「控」：擊鼓控而有聲（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𣫡kǎn《集韻》：“同贛。擊鼓也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "k「口控」取「控」：擊鼓控而有聲（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

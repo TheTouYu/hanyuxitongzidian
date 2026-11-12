@@ -1,36 +1,36 @@
 {
- "char": "𥙂",
- "head": "𥙂（祗）",
- "pinyin": "zhī",
- "level": 3,
- "bus": {
-  "num": 50,
-  "name": "丘"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《龍龕》：“𥙂，俗；祗，正。音脂。敬也。又祗，承也。”"
+  "char": "𥙂",
+  "head": "𥙂（祗）",
+  "pinyin": "zhī",
+  "level": 3,
+  "bus": {
+    "num": 50,
+    "name": "丘"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "zh「凿总」取「总」：敬而總聚其心（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𥙂（祗）zhī《龍龕》：“𥙂，俗；祗，正。音脂。敬也。又祗，承也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "zh「凿总」取「总」：敬而總聚其心（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "祗"
- ],
- "noRoot": true
+  ],
+  "aliases": [
+    "祗"
+  ],
+  "noRoot": true
 }

@@ -1,41 +1,41 @@
 {
- "char": "𦼫",
- "head": "𦼫",
- "pinyin": "qú",
- "level": 3,
- "parent": "豦",
- "bus": {
-  "num": 48,
-  "name": "虎"
- },
- "suoshujuan": "卷八 虎（第48部 虍）",
- "links": [
-  {
-   "ch": "卷八虎",
-   "label": "卷八 虎"
-  }
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“菜也。似蘇者。从艸豦聲。強魚切。”《玉篇》：“今之苦𦼫，江東呼為苦蕒。”苦蕒菜，根垂直直伸，生多數鬚根；莖直立。"
+  "char": "𦼫",
+  "head": "𦼫",
+  "pinyin": "qú",
+  "level": 3,
+  "parent": "豦",
+  "bus": {
+    "num": 48,
+    "name": "虎"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "q「亲缺」取「缺」：苦蕒葉缺（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "suoshujuan": "卷八 虎（第48部 虍）",
+  "links": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "ch": "卷八虎",
+      "label": "卷八 虎"
     }
-   ]
-  }
- ]
+  ],
+  "sections": [
+    {
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦼫qú《說文》：“菜也。似蘇者。从艸豦聲。強魚切。”《玉篇》：“今之苦𦼫，江東呼為苦蕒。”苦蕒菜，根垂直直伸，生多數鬚根；莖直立。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "q「亲缺」取「缺」：苦蕒葉缺（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
+    }
+  ]
 }

@@ -1,36 +1,36 @@
 {
- "char": "𢼗",
- "head": "𢼗（𥘦赦）",
- "level": 3,
- "bus": {
-  "num": 10,
-  "name": "示"
- },
- "aliases": [
-  "赦"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《龍龕》：“𢼗，俗；赦，正。”赦免。“赦”的訛字。"
+  "char": "𢼗",
+  "head": "𢼗（𥘦赦）",
+  "level": 3,
+  "bus": {
+    "num": 10,
+    "name": "示"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "sh「失收」取「收」：赦而收（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷二 㠯",
-   "links": [
+  "aliases": [
+    "赦"
+  ],
+  "sections": [
     {
-     "ch": "卷二㠯",
-     "label": "卷二 㠯"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𢼗（𥘦赦）shè《龍龕》：“𢼗，俗；赦，正。”赦免。“赦”的訛字。"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "sh「失收」取「收」：赦而收（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷二 㠯",
+      "links": [
+        {
+          "ch": "卷二㠯",
+          "label": "卷二 㠯"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

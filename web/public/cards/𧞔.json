@@ -1,37 +1,37 @@
 {
- "char": "𧞔",
- "head": "𧞔",
- "pinyin": "jiè",
- "level": 3,
- "parent": "葢",
- "bus": {
-  "num": 49,
-  "name": "去"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“𧜅，上衣也。或从蓋。”"
+  "char": "𧞔",
+  "head": "𧞔",
+  "pinyin": "jiè",
+  "level": 3,
+  "parent": "葢",
+  "bus": {
+    "num": 49,
+    "name": "去"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "y「零聲母」不系：上衣之屬，零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧞔（𧜅）jiè《集韻》：“𧜅，上衣也。或从蓋。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "y「零聲母」不系：上衣之屬，零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [
-  "𧜅"
- ]
+  ],
+  "aliases": [
+    "𧜅"
+  ]
 }

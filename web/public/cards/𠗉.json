@@ -1,42 +1,42 @@
 {
- "char": "𠗉",
- "head": "𠗉",
- "aliases": [],
- "pinyin": "xié",
- "bus": {
-  "num": 76,
-  "name": "夾"
- },
- "level": 3,
- "parent": "夾",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“𠗉𠗨，凍相箸皃。”",
-   "paras": [
-    "《集韻》：“𠗉𠗨，凍相箸皃。”"
-   ]
+  "char": "𠗉",
+  "head": "𠗉",
+  "aliases": [],
+  "pinyin": "xié",
+  "bus": {
+    "num": 76,
+    "name": "夾"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "x「续消」取「续」：凍而相續黏箸（推）。",
-   "paras": [
-    "x「续消」取「续」：凍而相續黏箸（推）。"
-   ]
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "夾",
+  "sections": [
     {
-     "t": "卷十三  合",
-     "ch": "卷十三合",
-     "label": "卷十三 合"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𠗉xié《集韻》：“𠗉𠗨，凍相箸皃。”",
+      "paras": [
+        "𠗉xié《集韻》：“𠗉𠗨，凍相箸皃。”"
+      ]
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "x「续消」取「续」：凍而相續黏箸（推）。",
+      "paras": [
+        "x「续消」取「续」：凍而相續黏箸（推）。"
+      ]
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十三  合",
+          "ch": "卷十三合",
+          "label": "卷十三 合"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

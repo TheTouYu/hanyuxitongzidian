@@ -1,46 +1,46 @@
 {
- "char": "𩮯",
- "head": "𩮯（𩭾）",
- "pinyin": "áo",
- "aliases": [
-  "𩭾"
- ],
- "bus": {
-  "num": 109,
-  "name": "方"
- },
- "level": 3,
- "parent": "敖",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“髮皃。”《正字通》：“𩭾字之譌。”"
-   ],
-   "text": "《集韻》：“髮皃。”《正字通》：“𩭾字之譌。”"
+  "char": "𩮯",
+  "head": "𩮯（𩭾）",
+  "pinyin": "áo",
+  "aliases": [
+    "𩭾"
+  ],
+  "bus": {
+    "num": 109,
+    "name": "方"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "paras": [
-    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-   ],
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "敖",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𩮯（𩭾）áo《集韻》：“髮皃。”《正字通》：“𩭾字之譌。”"
+      ],
+      "text": "𩮯（𩭾）áo《集韻》：“髮皃。”《正字通》：“𩭾字之譌。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "paras": [
+        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+      ],
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ],
- "noRoot": true
+  ],
+  "noRoot": true
 }

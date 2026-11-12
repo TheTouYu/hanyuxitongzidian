@@ -1,39 +1,39 @@
 {
- "char": "𦱃",
- "head": "𦱃",
- "pinyin": "yú",
- "aliases": [],
- "bus": {
-  "num": 68,
-  "name": "于"
- },
- "level": 3,
- "parent": "于",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《集韻》：“葅𦱃，菜名，似韮，出塞下。”"
-   ],
-   "text": "《集韻》：“葅𦱃，菜名，似韮，出塞下。”"
+  "char": "𦱃",
+  "head": "𦱃",
+  "pinyin": "yú",
+  "aliases": [],
+  "bus": {
+    "num": 68,
+    "name": "于"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "于",
+  "sections": [
     {
-     "t": "卷十二  于",
-     "ch": "卷十二于",
-     "label": "卷十二 于"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𦱃yú《集韻》：“葅𦱃，菜名，似韮，出塞下。”"
+      ],
+      "text": "𦱃yú《集韻》：“葅𦱃，菜名，似韮，出塞下。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十二  于",
+          "ch": "卷十二于",
+          "label": "卷十二 于"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

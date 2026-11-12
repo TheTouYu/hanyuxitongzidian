@@ -1,40 +1,40 @@
 {
- "char": "𤢭",
- "head": "𤢭",
- "pinyin": "háo",
- "aliases": [],
- "bus": {
-  "num": 112,
-  "name": "高"
- },
- "level": 3,
- "parent": "豪",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《漢典》：“犬生一子。”"
-   ],
-   "text": "《漢典》：“犬生一子。”"
+  "char": "𤢭",
+  "head": "𤢭",
+  "pinyin": "háo",
+  "aliases": [],
+  "bus": {
+    "num": 112,
+    "name": "高"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "h「豁活」取「豁」：犬毛豁張（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "paras": [],
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "豪",
+  "sections": [
     {
-     "t": "卷廿一  方",
-     "ch": "卷廿一方",
-     "label": "卷廿一 方"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𤢭háo《漢典》：“犬生一子。”"
+      ],
+      "text": "𤢭háo《漢典》：“犬生一子。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "h「豁活」取「豁」：犬毛豁張（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "paras": [],
+      "text": "",
+      "links": [
+        {
+          "t": "卷廿一  方",
+          "ch": "卷廿一方",
+          "label": "卷廿一 方"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

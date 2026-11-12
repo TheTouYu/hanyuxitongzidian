@@ -1,50 +1,50 @@
 {
- "char": "𠥜",
- "trad": "𠥜",
- "simp": "",
- "pinyin": "è",
- "level": 3,
- "parent": "曷",
- "bus": {
-  "num": 4,
-  "name": "匃"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《集韻》：“大呼用力謂之𠥜。”",
-   "cites": []
+  "char": "𠥜",
+  "trad": "𠥜",
+  "simp": "",
+  "pinyin": "è",
+  "level": 3,
+  "parent": "曷",
+  "bus": {
+    "num": 4,
+    "name": "匃"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "links": [
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𠥜è《集韻》：“大呼用力謂之𠥜。”",
+      "cites": []
+    },
     {
-     "ch": "卷一雞",
-     "label": "卷一 雞"
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
+      "cites": []
+    },
+    {
+      "key": "suoshu",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一雞"
+        }
+      ],
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "links": [
+        {
+          "ch": "卷一雞",
+          "label": "卷一 雞"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "𠥜"
+  ],
+  "aliases": [],
+  "head": "𠥜"
 }

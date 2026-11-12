@@ -1,42 +1,42 @@
 {
- "char": "𦜓",
- "head": "𦜓（𤷓𤴾㾙脪）",
- "pinyin": "xìn",
- "bus": {
-  "num": 44,
-  "name": "斤"
- },
- "parent": "欣",
- "level": 3,
- "aliases": [
-  "𤷓",
-  "𤴾",
-  "㾙",
-  "脪"
- ],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《廣韻》：“香靳切。與㾙同。瘡中冷也。”《集韻》：“同脪。”傷口癒合時，新肉略微凸出。",
-   "cites": []
+  "char": "𦜓",
+  "head": "𦜓（𤷓𤴾㾙脪）",
+  "pinyin": "xìn",
+  "bus": {
+    "num": 44,
+    "name": "斤"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "x「续消」取「续」：新肉續生而微微凸起（推）。",
-   "cites": []
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "parent": "欣",
+  "level": 3,
+  "aliases": [
+    "𤷓",
+    "𤴾",
+    "㾙",
+    "脪"
+  ],
+  "sections": [
     {
-     "ch": "卷七斤",
-     "label": "卷七 斤"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𦜓（𤷓𤴾㾙脪）xìn《廣韻》：“香靳切。與㾙同。瘡中冷也。”《集韻》：“同脪。”傷口癒合時，新肉略微凸出。",
+      "cites": []
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "x「续消」取「续」：新肉續生而微微凸起（推）。",
+      "cites": []
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "ch": "卷七斤",
+          "label": "卷七 斤"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

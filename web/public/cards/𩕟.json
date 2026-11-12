@@ -1,37 +1,37 @@
 {
- "char": "𩕟",
- "head": "𩕟（𩪤）",
- "pinyin": "è",
- "aliases": [
-  "𩪤"
- ],
- "bus": {
-  "num": 52,
-  "name": "業"
- },
- "level": 3,
- "parent": "業",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "text": "《集韻》：“𩪤，𩨞𩪤，首動皃。或从頁。”"
+  "char": "𩕟",
+  "head": "𩕟（𩪤）",
+  "pinyin": "è",
+  "aliases": [
+    "𩪤"
+  ],
+  "bus": {
+    "num": 52,
+    "name": "業"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷八 虎",
-   "links": [
+  "level": 3,
+  "parent": "業",
+  "sections": [
     {
-     "ch": "卷八虎",
-     "label": "卷八 虎"
+      "key": "shiyi",
+      "label": "釋義",
+      "text": "𩕟（𩪤）è《集韻》：“𩪤，𩨞𩪤，首動皃。或从頁。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷八 虎",
+      "links": [
+        {
+          "ch": "卷八虎",
+          "label": "卷八 虎"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

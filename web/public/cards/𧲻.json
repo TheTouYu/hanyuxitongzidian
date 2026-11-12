@@ -1,35 +1,35 @@
 {
- "char": "𧲻",
- "pinyin": "zhǎi",
- "level": 3,
- "parent": "只",
- "bus": {
-  "num": 1,
-  "name": "只"
- },
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《直音篇》「豹犬」。犬之猛噬，與距之攻擊同類。"
+  "char": "𧲻",
+  "pinyin": "zhǎi",
+  "level": 3,
+  "parent": "只",
+  "bus": {
+    "num": 1,
+    "name": "只"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：豹犬猛噬，齒如鑿（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷一 鸡",
-   "links": [
+  "sections": [
     {
-     "ch": "卷一鸡",
-     "label": "卷一 鸡"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧲻zhǎi《直音篇》：“豹犬。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "zh「凿总」取「凿」：豹犬猛噬，齒如鑿（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷一 鸡",
+      "links": [
+        {
+          "ch": "卷一鸡",
+          "label": "卷一 鸡"
+        }
+      ]
     }
-   ]
-  }
- ],
- "aliases": [],
- "head": "𧲻"
+  ],
+  "aliases": [],
+  "head": "𧲻"
 }

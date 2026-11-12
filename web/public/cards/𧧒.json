@@ -1,34 +1,34 @@
 {
- "char": "𧧒",
- "head": "𧧒",
- "level": 3,
- "parent": "朿",
- "bus": {
-  "num": 18,
-  "name": "朿"
- },
- "aliases": [],
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "《說文》：“數諫也。 从言朿聲。七賜切。”數落勸諫。《廣雅》：“怨也。”“書也。”"
+  "char": "𧧒",
+  "head": "𧧒",
+  "level": 3,
+  "parent": "朿",
+  "bus": {
+    "num": 18,
+    "name": "朿"
   },
-  {
-   "key": "shengmu",
-   "label": "声母拟态",
-   "text": "c「刺持」取「刺」：言刺而諫（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "卷三 矢",
-   "links": [
+  "aliases": [],
+  "sections": [
     {
-     "ch": "卷三矢",
-     "label": "卷三 矢"
+      "key": "shiyi",
+      "label": "释义",
+      "text": "𧧒cì《說文》：“數諫也。 从言朿聲。七賜切。”數落勸諫。《廣雅》：“怨也。”“書也。”"
+    },
+    {
+      "key": "shengmu",
+      "label": "声母拟态",
+      "text": "c「刺持」取「刺」：言刺而諫（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "卷三 矢",
+      "links": [
+        {
+          "ch": "卷三矢",
+          "label": "卷三 矢"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

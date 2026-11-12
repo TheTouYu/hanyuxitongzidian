@@ -1,39 +1,39 @@
 {
- "char": "𧠂",
- "head": "𧠂",
- "pinyin": "kū",
- "aliases": [],
- "bus": {
-  "num": 64,
-  "name": "宁"
- },
- "level": 3,
- "parent": "襾",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《篇海》：“枯沃切。哀發聲。”因悲痛而哭出聲。"
-   ],
-   "text": "《篇海》：“枯沃切。哀發聲。”因悲痛而哭出聲。"
+  "char": "𧠂",
+  "head": "𧠂",
+  "pinyin": "kū",
+  "aliases": [],
+  "bus": {
+    "num": 64,
+    "name": "宁"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "k「口控」取「口」：哀哭發聲於口（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "襾",
+  "sections": [
     {
-     "t": "卷十 予",
-     "ch": "卷十予",
-     "label": "卷十 予"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𧠂kū《篇海》：“枯沃切。哀發聲。”因悲痛而哭出聲。"
+      ],
+      "text": "𧠂kū《篇海》：“枯沃切。哀發聲。”因悲痛而哭出聲。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "k「口控」取「口」：哀哭發聲於口（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十 予",
+          "ch": "卷十予",
+          "label": "卷十 予"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

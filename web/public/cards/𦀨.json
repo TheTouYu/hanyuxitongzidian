@@ -1,39 +1,39 @@
 {
- "char": "𦀨",
- "head": "𦀨",
- "pinyin": "nuò",
- "aliases": [],
- "bus": {
-  "num": 65,
-  "name": "竹"
- },
- "level": 3,
- "parent": "冉",
- "sections": [
-  {
-   "key": "shiyi",
-   "label": "釋義",
-   "paras": [
-    "《篇韻》：“音那。”綿絲紋。"
-   ],
-   "text": "《篇韻》：“音那。”綿絲紋。"
+  "char": "𦀨",
+  "head": "𦀨",
+  "pinyin": "nuò",
+  "aliases": [],
+  "bus": {
+    "num": 65,
+    "name": "竹"
   },
-  {
-   "key": "shengmu",
-   "label": "聲母擬態",
-   "text": "n「纳弄」取「纳」：絲紋納於經緯（推）。"
-  },
-  {
-   "key": "suoshujuan",
-   "label": "所属卷",
-   "text": "",
-   "links": [
+  "level": 3,
+  "parent": "冉",
+  "sections": [
     {
-     "t": "卷十一 竹",
-     "ch": "卷十一竹",
-     "label": "卷十一 竹"
+      "key": "shiyi",
+      "label": "釋義",
+      "paras": [
+        "𦀨nuò《篇韻》：“音那。”綿絲紋。"
+      ],
+      "text": "𦀨nuò《篇韻》：“音那。”綿絲紋。"
+    },
+    {
+      "key": "shengmu",
+      "label": "聲母擬態",
+      "text": "n「纳弄」取「纳」：絲紋納於經緯（推）。"
+    },
+    {
+      "key": "suoshujuan",
+      "label": "所属卷",
+      "text": "",
+      "links": [
+        {
+          "t": "卷十一 竹",
+          "ch": "卷十一竹",
+          "label": "卷十一 竹"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
