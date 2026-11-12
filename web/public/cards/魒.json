@@ -1,0 +1,43 @@
+{
+ "char": "魒",
+ "head": "魒",
+ "pinyin": "piāo",
+ "aliases": [],
+ "level": 3,
+ "parent": "票",
+ "bus": {
+  "num": 144,
+  "name": "𠬪部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“斗星名。”北斗七星中的第七顆。",
+   "paras": [
+    "《類篇》：“斗星名。”北斗七星中的第七顆。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：斗柄闢指，星位以定（推）。",
+   "paras": [
+    "p「拼辟」取「辟」：斗柄闢指，星位以定（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "ch": "票",
+     "label": "卷廿五  票",
+     "href": "/card/票"
+    }
+   ]
+  }
+ ]
+}
