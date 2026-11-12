@@ -1,45 +1,45 @@
 {
-  "char": "𦛞",
-  "head": "𦛞（腌）",
-  "level": 3,
-  "parent": "邑",
-  "bus": {
-    "num": 23,
-    "name": "ㄗ"
+ "char": "𦛞",
+ "head": "𦛞（腌）",
+ "level": 3,
+ "parent": "邑",
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [
+  "腌"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦛞（腌）yān《集韻》：“腌，乙業切。《說文》：‘漬肉也。’或从邑。”"
   },
-  "aliases": [
-    "腌"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦛞（腌）yān《集韻》：“腌，乙業切。《說文》：‘漬肉也。’或从邑。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "ch": "卷三矢",
+     "label": "卷三 矢"
     }
-  ],
-  "photos": [
-    {
-      "file": "𦛞/01.png",
-      "caption": ""
-    }
-  ],
-  "captions": [
-    "亞形印（商）"
-  ]
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ],
+ "captions": [
+  "亞形印（商）"
+ ]
 }

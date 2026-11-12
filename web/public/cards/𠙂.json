@@ -1,46 +1,46 @@
 {
-  "char": "𠙂",
-  "trad": "𠙂",
-  "simp": "𠙂",
-  "pinyin": "cóng",
-  "level": 3,
-  "parent": "只",
-  "bus": {
-    "num": 1,
-    "name": "只"
+ "char": "𠙂",
+ "trad": "𠙂",
+ "simp": "𠙂",
+ "pinyin": "cóng",
+ "level": 3,
+ "parent": "只",
+ "bus": {
+  "num": 1,
+  "name": "只"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𠙂cóng《海篇》：“音從。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "c「刺持」取「持」：獨一而持之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𠙂cóng《海篇》：“音從。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "c「刺持」取「持」：獨一而持之（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
-  ],
-  "aliases": [],
-  "head": "𠙂",
-  "photos": [
-    {
-      "file": "𠙂/02.jpg",
-      "caption": ""
-    }
-  ],
-  "captions": [
-    ""
-  ]
+   ]
+  }
+ ],
+ "aliases": [],
+ "head": "𠙂",
+ "photos": [
+  {
+   "file": "02.jpg",
+   "caption": ""
+  }
+ ],
+ "captions": [
+  ""
+ ]
 }

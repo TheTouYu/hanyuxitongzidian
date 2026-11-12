@@ -1,44 +1,44 @@
 {
-  "char": "𢬲",
-  "pinyin": "hè",
-  "aliases": [],
-  "bus": {
-    "num": 34,
-    "name": "丂"
+ "char": "𢬲",
+ "pinyin": "hè",
+ "aliases": [],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
+ "level": 3,
+ "parent": "何",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢬲（抲）hè《集韻》：“荷，《博雅》：‘儋也。’或作何、𢬲。亦省。”擔荷。"
   },
-  "level": 3,
-  "parent": "何",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：擔荷而行，口豁開喘息（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢬲（抲）hè《集韻》：“荷，《博雅》：‘儋也。’或作何、𢬲。亦省。”擔荷。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "h「豁活」取「豁」：擔荷而行，口豁開喘息（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "ch": "卷五雁",
+     "label": "卷五 雁"
     }
-  ],
-  "photos": [
-    {
-      "file": "𢬲/01.png",
-      "caption": ""
-    }
-  ],
-  "captions": [
-    "開封地段的黃河懸河",
-    "開封地段的黃河懸河"
-  ]
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ],
+ "captions": [
+  "開封地段的黃河懸河",
+  "開封地段的黃河懸河"
+ ]
 }

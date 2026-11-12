@@ -1,46 +1,46 @@
 {
-  "char": "𢳈",
-  "head": "𢳈（𢳇）",
-  "pinyin": "zú",
-  "aliases": [
-    "𢳇"
-  ],
-  "bus": {
-    "num": 58,
-    "name": "㫃"
+ "char": "𢳈",
+ "head": "𢳈（𢳇）",
+ "pinyin": "zú",
+ "aliases": [
+  "𢳇"
+ ],
+ "bus": {
+  "num": 58,
+  "name": "㫃"
+ },
+ "level": 3,
+ "parent": "族",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢳈（𢳇）zú《集韻》：“斂也。亦作𢳇。”"
   },
-  "level": 3,
-  "parent": "族",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢳈（𢳇）zú《集韻》：“斂也。亦作𢳇。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷九 舟",
-      "links": [
-        {
-          "ch": "卷九舟",
-          "label": "卷九 舟"
-        }
-      ]
+     "ch": "卷九舟",
+     "label": "卷九 舟"
     }
-  ],
-  "photos": [
-    {
-      "file": "𢳈/01.jpg",
-      "caption": ""
-    }
-  ],
-  "captions": [
-    "《出警圖》局部（明 佚名）"
-  ]
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ],
+ "captions": [
+  "《出警圖》局部（明 佚名）"
+ ]
 }

@@ -1,47 +1,47 @@
 {
-  "id": "𪘰",
-  "head": "𪘰",
-  "pinyin": "è",
-  "level": 3,
-  "parent": "虍",
-  "bus": {
-    "num": 48,
-    "name": "虍"
+ "id": "𪘰",
+ "head": "𪘰",
+ "pinyin": "è",
+ "level": 3,
+ "parent": "虍",
+ "bus": {
+  "num": 48,
+  "name": "虍"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪘰（齶）è《龍龕》：“同齶。”牙齦。"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：齒齦之義，今讀零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪘰（齶）è《龍龕》：“同齶。”牙齦。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：齒齦之義，今讀零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "lei": "齒",
-  "char": "𪘰",
-  "aliases": [
-    "齶"
-  ],
-  "photos": [
-    {
-      "file": "𪘰/01.jpg",
-      "caption": ""
-    }
-  ],
-  "captions": [
-    "虎符（戰國）"
-  ]
+   ]
+  }
+ ],
+ "lei": "齒",
+ "char": "𪘰",
+ "aliases": [
+  "齶"
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ],
+ "captions": [
+  "虎符（戰國）"
+ ]
 }
