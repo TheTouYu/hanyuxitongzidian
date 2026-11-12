@@ -44752,23 +44752,35 @@
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "卑/01.png",
-    "卑/02.png",
-    "卑/03.png",
-    "卑/04.png",
-    "卑/05.png",
-    "卑/06.png",
-    "卑/07.png",
-    "卑/08.png",
-    "卑/09.png"
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png"
+   ],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "陶榼"
+    }
    ]
   },
   "婢": {
    "doc": "卷廿七  弗",
    "variants": "",
    "files": [
-    "婢/01.png",
-    "婢/02.png"
+    "01.png",
+    "02.png"
    ]
   },
   "異": {
@@ -110267,6 +110279,47 @@
      "caption": ""
     }
    ]
+  },
+  "甶": {
+   "doc": "卷廿七  弗",
+   "variants": "",
+   "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png"
+   ],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "商代青銅面具"
+    },
+    {
+     "file": "02.jpg",
+     "caption": "貴州儺戲"
+    }
+   ]
+  },
+  "碑": {
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "西安碑林局部"
+    }
+   ]
+  },
+  "蜱": {
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "蜱蟲"
+    }
+   ]
   }
  },
  "炙": {
@@ -115960,7 +116013,7 @@
   ],
   "蜱": [
    {
-    "file": "photos/蜱/01.png",
+    "file": "photos/蜱/01.jpg",
     "caption": "蜱蟲"
    }
   ],
@@ -121068,16 +121121,12 @@
   ],
   "甶": [
    {
-    "file": "photos/甶/04.png",
-    "caption": ""
+    "file": "photos/甶/01.jpg",
+    "caption": "商代青銅面具"
    },
    {
-    "file": "photos/甶/05.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/甶/05.png",
-    "caption": ""
+    "file": "photos/甶/02.jpg",
+    "caption": "貴州儺戲"
    }
   ],
   "申": [
@@ -121812,6 +121861,18 @@
    {
     "file": "photos/葍/01.jpg",
     "caption": ""
+   }
+  ],
+  "卑": [
+   {
+    "file": "photos/卑/01.jpg",
+    "caption": "陶榼"
+   }
+  ],
+  "碑": [
+   {
+    "file": "photos/碑/01.jpg",
+    "caption": "西安碑林局部"
    }
   ]
  }
