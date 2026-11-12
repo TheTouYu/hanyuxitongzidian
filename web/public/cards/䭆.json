@@ -1,40 +1,46 @@
 {
-  "char": "䭆",
-  "head": "䭆",
-  "pinyin": "nè",
-  "aliases": [],
-  "bus": {
-    "num": 140,
-    "name": "勹部"
+ "char": "䭆",
+ "head": "䭆",
+ "pinyin": "nè",
+ "aliases": [],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "臥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“楚謂小兒懶䭆。从臥、食。尼見切。”小兒厭食。義音同“餒”。《玉篇》：“灸餅餌。”燒餅。意即躺著都可以吃。",
+   "paras": []
   },
-  "level": 3,
-  "parent": "臥",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：小兒倦臥，食至口而不納（推）。",
+   "paras": [
+    "n「纳弄」取「纳」：小兒倦臥，食至口而不納（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《說文》：“楚謂小兒懶䭆。从臥、食。尼見切。”小兒厭食。義音同“餒”。《玉篇》：“灸餅餌。”燒餅。意即躺著都可以吃。",
-      "paras": []
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "n「纳弄」取「纳」：小兒倦臥，食至口而不納（推）。",
-      "paras": [
-        "n「纳弄」取「纳」：小兒倦臥，食至口而不納（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷二十五 勹",
+     "ch": "卷二十五勹",
+     "label": "卷二十五 勹"
     }
-  ]
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "/glyphs/photos/%E4%AD%86/01.png",
+   "caption": ""
+  }
+ ]
 }
