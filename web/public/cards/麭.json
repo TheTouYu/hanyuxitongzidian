@@ -1,0 +1,40 @@
+{
+ "char": "麭",
+ "head": "麭",
+ "pinyin": "pào",
+ "aliases": [],
+ "bus": {
+  "num": 142,
+  "name": "包部"
+ },
+ "level": 3,
+ "parent": "包",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“餌也。”糕餅。",
+   "paras": [
+    "《集韻》：“餌也。”糕餅。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：麥粉拼合裹餡，圓鼓成餅（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "包",
+     "label": "卷廿五  包",
+     "href": "/card/包"
+    }
+   ]
+  }
+ ]
+}

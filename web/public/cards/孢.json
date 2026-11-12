@@ -1,0 +1,42 @@
+{
+ "char": "孢",
+ "head": "孢（佨）",
+ "pinyin": "bāo",
+ "aliases": [
+  "佨"
+ ],
+ "bus": {
+  "num": 142,
+  "name": "包部"
+ },
+ "level": 3,
+ "parent": "包",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“孕也。”",
+   "paras": [
+    "《字彙》：“孕也。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：孢子閉藏囊中，待時而裂（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "包",
+     "label": "卷廿五  包",
+     "href": "/card/包"
+    }
+   ]
+  }
+ ]
+}

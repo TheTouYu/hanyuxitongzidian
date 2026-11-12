@@ -1,0 +1,40 @@
+{
+ "char": "怉",
+ "head": "怉",
+ "pinyin": "bǎo、bào",
+ "aliases": [],
+ "bus": {
+  "num": 142,
+  "name": "包部"
+ },
+ "level": 3,
+ "parent": "包",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“悖也。”bào，《集韻》：“懷也。”懷抱。",
+   "paras": [
+    "《玉篇》：“悖也。”bào，《集韻》：“懷也。”懷抱。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：心閉藏於胸，懷而不釋（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "包",
+     "label": "卷廿五  包",
+     "href": "/card/包"
+    }
+   ]
+  }
+ ]
+}

@@ -15600,15 +15600,24 @@
    ]
   },
   "包": {
-   "doc": "卷二  㠯",
-   "variants": "",
+   "doc": "卷廿五  勹",
+   "variants": "勽勹𠣒",
    "files": [
-    "包/01.png"
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png"
    ],
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "孕婦手撫孕肚"
     }
    ]
   },
@@ -110505,6 +110514,28 @@
     "01.png",
     "02.png"
    ]
+  },
+  "麅": {
+   "doc": "卷廿五  勹",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "麅子（狍），鹿科，雄獸有短角"
+    }
+   ]
+  },
+  "鮑": {
+   "doc": "卷廿五  勹",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "鰒魚"
+    }
+   ]
   }
  },
  "炙": {
@@ -111701,7 +111732,7 @@
   "包": [
    {
     "file": "photos/包/01.jpg",
-    "caption": ""
+    "caption": "孕婦手撫孕肚"
    }
   ],
   "北": [
@@ -117572,7 +117603,7 @@
   ],
   "鮑": [
    {
-    "file": "photos/鮑/01.png",
+    "file": "photos/鮑/01.jpg",
     "caption": "鰒魚"
    }
   ],
@@ -118172,8 +118203,8 @@
   ],
   "麅": [
    {
-    "file": "photos/麅/01.png",
-    "caption": ""
+    "file": "photos/麅/01.jpg",
+    "caption": "麅子（狍），鹿科，雄獸有短角"
    }
   ],
   "麋": [

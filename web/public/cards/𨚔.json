@@ -1,0 +1,40 @@
+{
+ "char": "𨚔",
+ "head": "𨚔",
+ "pinyin": "bāo",
+ "aliases": [],
+ "bus": {
+  "num": 142,
+  "name": "包部"
+ },
+ "level": 3,
+ "parent": "包",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“地名。从邑包聲。布交切。”",
+   "paras": [
+    "《說文》：“地名。从邑包聲。布交切。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：邑居閉圍於野，聚族而藏（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "包",
+     "label": "卷廿五  包",
+     "href": "/card/包"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "char": "𢶉",
+ "head": "𢶉",
+ "pinyin": "pò",
+ "aliases": [],
+ "bus": {
+  "num": 142,
+  "name": "包部"
+ },
+ "level": 3,
+ "parent": "包",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𢶉㩧，中聲。”射中物聲。",
+   "paras": [
+    "《集韻》：“𢶉㩧，中聲。”射中物聲。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：物相拼擊，中而有聲（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "ch": "包",
+     "label": "卷廿五  包",
+     "href": "/card/包"
+    }
+   ]
+  }
+ ]
+}
