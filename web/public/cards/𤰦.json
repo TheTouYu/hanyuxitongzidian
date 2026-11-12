@@ -1,36 +1,36 @@
 {
-  "char": "𤰦",
-  "head": "𤰦",
-  "pinyin": "zhà",
-  "level": 3,
-  "parent": "乇",
-  "bus": {
-    "num": 46,
-    "name": "乇"
+ "char": "𤰦",
+ "head": "𤰦",
+ "pinyin": "zhà",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤰦zhà《五音篇海》：“音吒。”義不明。",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：音吒，義不明（照實）（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤰦zhà《五音篇海》：“音吒。”義不明。",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「凿」：音吒，義不明（照實）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "ch": "卷七斤",
+     "label": "卷七 斤"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,39 +1,39 @@
 {
-  "char": "𪐞",
-  "head": "𪐞（黗）",
-  "pinyin": "dù",
-  "level": 3,
-  "bus": {
-    "num": 46,
-    "name": "乇"
+ "char": "𪐞",
+ "head": "𪐞（黗）",
+ "pinyin": "dù",
+ "level": 3,
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𪐞（黗）dù《集韻》：“都故切，音妒。深黑色也。”《六書故》：“濁黑也。”tún，疑即“黗”，《廣韻》：“黃黑色也。”《玉篇》：“黄濁色。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「囤」：深黑濁色（照實）（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𪐞（黗）dù《集韻》：“都故切，音妒。深黑色也。”《六書故》：“濁黑也。”tún，疑即“黗”，《廣韻》：“黃黑色也。”《玉篇》：“黄濁色。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "d「囤动」取「囤」：深黑濁色（照實）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "ch": "卷七斤",
+     "label": "卷七 斤"
     }
-  ],
-  "aliases": [
-    "黗"
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "aliases": [
+  "黗"
+ ],
+ "noRoot": true
 }

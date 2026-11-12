@@ -1,37 +1,37 @@
 {
-  "char": "𧳣",
-  "head": "𧳣（湩幢）",
-  "pinyin": "dǒng",
-  "level": 3,
-  "parent": "東",
-  "bus": {
-    "num": 122,
-    "name": "東部"
+ "char": "𧳣",
+ "head": "𧳣（湩幢）",
+ "pinyin": "dǒng",
+ "level": 3,
+ "parent": "東",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [
+  "幢"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧳣（湩幢）dǒng《龍龕》：“舊藏作湩。”湩，《集韻》：“乳汁。一曰水濁。”“湩容，車幨帷也。或从巾。”"
   },
-  "aliases": [
-    "幢"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：豸形囤蠢，與湩相通（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧳣（湩幢）dǒng《龍龕》：“舊藏作湩。”湩，《集韻》：“乳汁。一曰水濁。”“湩容，車幨帷也。或从巾。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "d「囤動」取「囤」：豸形囤蠢，與湩相通。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十三 鼓",
-      "links": [
-        {
-          "ch": "卷二十三鼓",
-          "label": "卷二十三 鼓"
-        }
-      ]
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
     }
-  ]
+   ]
+  }
+ ]
 }

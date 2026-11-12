@@ -1,36 +1,36 @@
 {
-  "char": "𦬃",
-  "head": "𦬃",
-  "pinyin": "zhé",
-  "level": 3,
-  "parent": "乇",
-  "bus": {
-    "num": 46,
-    "name": "乇"
+ "char": "𦬃",
+ "head": "𦬃",
+ "pinyin": "zhé",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦬃zhé《集韻》：“陟格切，音摘。藥草也。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：藥草名，音義無考（照實）（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦬃zhé《集韻》：“陟格切，音摘。藥草也。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「凿」：藥草名，音義無考（照實）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "ch": "卷七斤",
+     "label": "卷七 斤"
     }
-  ]
+   ]
+  }
+ ]
 }

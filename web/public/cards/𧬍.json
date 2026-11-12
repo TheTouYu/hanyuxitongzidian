@@ -1,40 +1,40 @@
 {
-  "char": "𧬍",
-  "head": "𧬍（謫）",
-  "pinyin": "zhé／zé",
-  "level": 3,
-  "parent": "啇",
-  "bus": {
-    "num": 11,
-    "name": "帝"
+ "char": "𧬍",
+ "head": "𧬍（謫）",
+ "pinyin": "zhé／zé",
+ "level": 3,
+ "parent": "啇",
+ "bus": {
+  "num": 11,
+  "name": "帝"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧬍（謫）zhé《說文》：“罰也。从言啻聲。陟革切。”罰罪。《玉篇》：“咎也、罪也、過也、怒也。”《廣雅》：“責也。”zé，《方言》：“怒也。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：責而鑿定其罪（推）（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧬍（謫）zhé《說文》：“罰也。从言啻聲。陟革切。”罰罪。《玉篇》：“咎也、罪也、過也、怒也。”《廣雅》：“責也。”zé，《方言》：“怒也。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「凿」：責而鑿定其罪（推）",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "cites": [],
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二㠯"
-        }
-      ]
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ],
-  "aliases": [
-    "謫"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "謫"
+ ]
 }

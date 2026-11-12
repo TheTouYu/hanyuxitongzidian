@@ -1,50 +1,50 @@
 {
-  "char": "𧼨",
-  "trad": "𧼨",
-  "simp": "",
-  "pinyin": "jié",
-  "level": 3,
-  "parent": "曷",
-  "bus": {
-    "num": 4,
-    "name": "匃"
+ "char": "𧼨",
+ "trad": "𧼨",
+ "simp": "",
+ "pinyin": "jié",
+ "level": 3,
+ "parent": "曷",
+ "bus": {
+  "num": 4,
+  "name": "匃"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧼨jié《說文》：“趌𧼨也。从走曷聲。居謁切。”怒走貌。",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「决」：疾走果決（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧼨jié《說文》：“趌𧼨也。从走曷聲。居謁切。”怒走貌。",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「决」：疾走果決。",
-      "cites": []
-    },
-    {
-      "key": "suoshu",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一雞"
-        }
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一 雞"
-        }
-      ]
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [],
-  "head": "𧼨"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷一雞",
+     "label": "卷一 雞"
+    }
+   ]
+  }
+ ],
+ "aliases": [],
+ "head": "𧼨"
 }

@@ -1,36 +1,36 @@
 {
-  "char": "𦨎",
-  "head": "𦨎",
-  "pinyin": "tà",
-  "level": 3,
-  "parent": "乇",
-  "bus": {
-    "num": 46,
-    "name": "乇"
+ "char": "𦨎",
+ "head": "𦨎",
+ "pinyin": "tà",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦨎tà《五音集韻》：“吐盍切，音榻。舟名。”《玉篇》：“就舟也。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「突」：舟名，音義無考（照實）（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦨎tà《五音集韻》：“吐盍切，音榻。舟名。”《玉篇》：“就舟也。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "t「涂突」取「突」：舟名，音義無考（照實）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "ch": "卷七斤",
+     "label": "卷七 斤"
     }
-  ]
+   ]
+  }
+ ]
 }

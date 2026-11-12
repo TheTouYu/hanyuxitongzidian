@@ -1,35 +1,35 @@
 {
-  "char": "𨉢",
-  "head": "𨉢",
-  "pinyin": "zhòng",
-  "level": 3,
-  "parent": "重",
-  "bus": {
-    "num": 122,
-    "name": "東部"
+ "char": "𨉢",
+ "head": "𨉢",
+ "pinyin": "zhòng",
+ "level": 3,
+ "parent": "重",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨉢zhòng《廣韻》：“儲用切，音重。婦人脤也。”孕婦身子遲重，也一般腳腫。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「總」：婦身總重，胎脹而遲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨉢zhòng《廣韻》：“儲用切，音重。婦人脤也。”孕婦身子遲重，也一般腳腫。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「鑿總」取「總」：婦身總重，胎脹而遲。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十三 鼓",
-      "links": [
-        {
-          "ch": "卷二十三鼓",
-          "label": "卷二十三 鼓"
-        }
-      ]
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
     }
-  ]
+   ]
+  }
+ ]
 }

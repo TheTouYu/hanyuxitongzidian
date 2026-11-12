@@ -1,35 +1,35 @@
 {
-  "char": "𧼓",
-  "head": "𧼓",
-  "pinyin": "dōng",
-  "level": 3,
-  "parent": "東",
-  "bus": {
-    "num": 122,
-    "name": "東部"
+ "char": "𧼓",
+ "head": "𧼓",
+ "pinyin": "dōng",
+ "level": 3,
+ "parent": "東",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧼓dōng《字彙》：“德紅切，音東。狂走。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：聞鼓狂走，囤突而奔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧼓dōng《字彙》：“德紅切，音東。狂走。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "d「囤動」取「囤」：聞鼓狂走，囤突而奔。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十三 鼓",
-      "links": [
-        {
-          "ch": "卷二十三鼓",
-          "label": "卷二十三 鼓"
-        }
-      ]
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
     }
-  ]
+   ]
+  }
+ ]
 }

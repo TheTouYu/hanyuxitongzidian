@@ -1,35 +1,35 @@
 {
-  "char": "𤲚",
-  "head": "𤲚",
-  "pinyin": "dōng",
-  "level": 3,
-  "parent": "東",
-  "bus": {
-    "num": 122,
-    "name": "東部"
+ "char": "𤲚",
+ "head": "𤲚",
+ "pinyin": "dōng",
+ "level": 3,
+ "parent": "東",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤲚dōng《集韻》：“都籠切，音東。地名。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：田土囤起，因以名地（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𤲚dōng《集韻》：“都籠切，音東。地名。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "d「囤動」取「囤」：田土囤起，因以名地。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十三 鼓",
-      "links": [
-        {
-          "ch": "卷二十三鼓",
-          "label": "卷二十三 鼓"
-        }
-      ]
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
     }
-  ]
+   ]
+  }
+ ]
 }

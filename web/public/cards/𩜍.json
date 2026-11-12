@@ -1,35 +1,35 @@
 {
-  "char": "𩜍",
-  "head": "𩜍",
-  "pinyin": "dōng",
-  "level": 3,
-  "parent": "東",
-  "bus": {
-    "num": 122,
-    "name": "東部"
+ "char": "𩜍",
+ "head": "𩜍",
+ "pinyin": "dōng",
+ "level": 3,
+ "parent": "東",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩜍dōng《廣韻》：“《地理志》云：東郡館名。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：館舍食次，器囤而豐，故从東（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩜍dōng《廣韻》：“《地理志》云：東郡館名。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "d「囤動」取「囤」：館舍食次，器囤而豐，故从東。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十三 鼓",
-      "links": [
-        {
-          "ch": "卷二十三鼓",
-          "label": "卷二十三 鼓"
-        }
-      ]
+     "ch": "卷二十三鼓",
+     "label": "卷二十三 鼓"
     }
-  ]
+   ]
+  }
+ ]
 }

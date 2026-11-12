@@ -1,64 +1,64 @@
 {
-  "char": "麂",
-  "trad": "麂",
-  "pinyin": "jǐ",
-  "level": 3,
-  "parent": "旨",
-  "bus": {
-    "num": 3,
-    "name": "旨"
+ "char": "麂",
+ "trad": "麂",
+ "pinyin": "jǐ",
+ "level": 3,
+ "parent": "旨",
+ "bus": {
+  "num": 3,
+  "name": "旨"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“大麋也。狗足。从鹿旨聲。，或从几。居履切。”大麋鹿。腳小。《龍龕》：“黃鹿。”其角如几。",
+   "cites": [],
+   "paras": [
+    "《說文》：“大麋也。狗足。从鹿旨聲。，或从几。居履切。”大麋鹿。腳小。《龍龕》：“黃鹿。”其角如几。"
+   ],
+   "gdir": "inline/麂"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：鹿聚而决（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《說文》：“大麋也。狗足。从鹿旨聲。，或从几。居履切。”大麋鹿。腳小。《龍龕》：“黃鹿。”其角如几。",
-      "cites": [],
-      "paras": [
-        "《說文》：“大麋也。狗足。从鹿旨聲。，或从几。居履切。”大麋鹿。腳小。《龍龕》：“黃鹿。”其角如几。"
-      ],
-      "gdir": "inline/麂"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：鹿聚而决。",
-      "cites": []
-    },
-    {
-      "key": "suoshu",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一雞"
-        }
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一 雞"
-        }
-      ]
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [
-    "𪊨"
-  ],
-  "head": "麂（𪊨）",
-  "photos": [
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "file": "麂/01.jpg",
-      "caption": ""
+     "ch": "卷一雞",
+     "label": "卷一 雞"
     }
-  ],
-  "captions": [
-    "野生大麋鹿"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "𪊨"
+ ],
+ "head": "麂（𪊨）",
+ "photos": [
+  {
+   "file": "麂/01.jpg",
+   "caption": ""
+  }
+ ],
+ "captions": [
+  "野生大麋鹿"
+ ]
 }
