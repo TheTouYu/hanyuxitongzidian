@@ -1,0 +1,40 @@
+{
+ "char": "粀",
+ "pinyin": "zhàng",
+ "bus": {
+  "num": 161,
+  "name": "父"
+ },
+ "level": 3,
+ "parent": "丈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "粀zhàng：公制長度單位“十米”的舊譯。",
+   "paras": [
+    "粀zhàng：公制長度單位“十米”的舊譯。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：十總而為丈（推）。",
+   "paras": [
+    "zh「凿总」取「总」：十總而為丈（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十七弗",
+     "label": "卷二十七  弗"
+    }
+   ]
+  }
+ ]
+}
