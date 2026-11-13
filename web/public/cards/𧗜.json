@@ -1,37 +1,41 @@
 {
-  "char": "𧗜",
-  "level": 3,
-  "parent": "贛",
-  "bus": {
-    "num": 5,
-    "name": "欠"
+ "char": "𧗜",
+ "level": 3,
+ "parent": "贛",
+ "bus": {
+  "num": 5,
+  "name": "欠"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“䘓，羊凝血也。从血臽聲。{{shiyi/01.png}}，䘓或从贛。苦紺切。”血羹。 ",
+   "paras": [
+    "《說文》：“䘓，羊凝血也。从血臽聲。{{shiyi/01.png}}，䘓或从贛。苦紺切。”血羹。 "
+   ],
+   "gdir": "inline/𧗜"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "k「口控」取「控」：血凝而控（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧗜（䘓𧗛）kàn《說文》：“䘓，羊凝血也。从血臽聲。䘓或从贛。苦紺切。”血羹。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "k「口控」取「控」：血凝而控（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
-  ],
-  "head": "𧗜（䘓𧗛）",
-  "aliases": [
-    "䘓",
-    "𧗛"
-  ]
+   ]
+  }
+ ],
+ "head": "𧗜（䘓𧗛）",
+ "aliases": [
+  "䘓",
+  "𧗛"
+ ]
 }

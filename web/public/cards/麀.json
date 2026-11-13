@@ -1,40 +1,43 @@
 {
-  "char": "麀",
-  "head": "麀（𪋎）",
-  "pinyin": "yōu",
-  "aliases": [
-    "𪋎"
-  ],
-  "bus": {
-    "num": 140,
-    "name": "勹部"
+ "char": "麀",
+ "head": "麀（𪋎）",
+ "pinyin": "yōu",
+ "aliases": [
+  "𪋎"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "匕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“牝鹿也。从鹿，从牝省。{{shiyi/01.png}}，或从幽聲。於虯切。”母鹿。",
+   "paras": [
+    "《說文》：“牝鹿也。从鹿，从牝省。{{shiyi/01.png}}，或从幽聲。於虯切。”母鹿。"
+   ],
+   "gdir": "inline/麀"
   },
-  "level": 3,
-  "parent": "匕",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《說文》：“牝鹿也。从鹿，从牝省。或从幽聲。於虯切。”母鹿。",
-      "paras": []
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-      "paras": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷二十五 勹",
+     "ch": "卷二十五勹",
+     "label": "卷二十五 勹"
     }
-  ]
+   ]
+  }
+ ]
 }

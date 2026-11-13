@@ -1,37 +1,41 @@
 {
-  "char": "𡧯",
-  "level": 3,
-  "parent": "尗",
-  "bus": {
-    "num": 26,
-    "name": "弋"
+ "char": "𡧯",
+ "level": 3,
+ "parent": "尗",
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
+ "head": "𡧯（𧧌）",
+ "pinyin": "jí",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“無人聲。从宀尗聲。{{shiyi/01.png}}，𡧯或从言。前厯切。”",
+   "paras": [
+    "《說文》：“無人聲。从宀尗聲。{{shiyi/01.png}}，𡧯或从言。前厯切。”"
+   ],
+   "gdir": "inline/𡧯"
   },
-  "head": "𡧯（𧧌）",
-  "pinyin": "jí",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：無人聲而聚靜（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷四 弋",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𡧯（𧧌）jí《說文》：“無人聲。从宀尗聲。𡧯或从言。前厯切。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：無人聲而聚靜（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷四 弋",
-      "links": [
-        {
-          "ch": "卷四弋",
-          "label": "卷四 弋"
-        }
-      ]
+     "ch": "卷四弋",
+     "label": "卷四 弋"
     }
-  ],
-  "aliases": [
-    "𧧌"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "𧧌"
+ ]
 }
