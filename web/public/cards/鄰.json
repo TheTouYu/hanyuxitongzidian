@@ -1,0 +1,59 @@
+{
+ "char": "鄰",
+ "pinyin": "lín",
+ "aliases": [
+  "隣"
+ ],
+ "bus": {
+  "num": 171,
+  "name": "吅"
+ },
+ "level": 3,
+ "parent": "粦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“五家為鄰。从邑粦聲。”鄰，近也。",
+   "paras": [
+    "《說文》：“五家為鄰。从邑粦聲。”鄰，近也。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：五家相攏，比近而居（推）。",
+   "paras": [
+    "l「拢离」取「拢」：五家相攏，比近而居（推）。"
+   ]
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "鄰",
+   "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十九黽",
+     "label": "卷二十九  黽"
+    }
+   ]
+  }
+ ]
+}

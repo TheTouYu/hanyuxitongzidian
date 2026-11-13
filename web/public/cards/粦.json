@@ -9,7 +9,7 @@
   "num": 171,
   "name": "吅"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -421,13 +421,7 @@
     "05.jpg",
     "06.jpg",
     "07.jpg",
-    "08.jpg",
-    "09.jpg",
-    "10.jpg",
-    "11.jpg",
-    "12.jpg",
-    "13.jpg",
-    "14.jpg"
+    "08.jpg"
    ]
   },
   {
@@ -448,5 +442,6 @@
    "file": "01.jpg",
    "caption": "磷火"
   }
- ]
+ ],
+ "parent": "厸"
 }
