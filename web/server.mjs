@@ -390,8 +390,9 @@ function glyphInfo(ch) {
   let e = idx.chars && idx.chars[key];
   let ph = (idx.photos && idx.photos[key]) || [];
   if ((!e || !Array.isArray(e.files) || !e.files.length) && !ph.length) {
-    const alt = variantOf(ch);
+    const alt = variantOf(ch) || aliasOf(ch);
     if (alt && alt !== ch) {
+      key = alt;
       e = idx.chars && idx.chars[alt];
       ph = (idx.photos && idx.photos[alt]) || [];
     }
@@ -1011,9 +1012,29 @@ async function askModelForCard(ch, question, context, meter) {
 
 const CARD_DIR = join(PUBLIC, 'cards');
 const presetCache = new Map();
+
+// 别名 → 卡文件名（由 cards/alias-index.json 提供，build_card_alias_index 生成）。
+const ALIAS_FILE = join(CARD_DIR, 'alias-index.json');
+let aliasCache = { at: 0, map: {} };
+function loadAliasMap() {
+  if (aliasCache.at && Date.now() - aliasCache.at < 300_000) return aliasCache.map;
+  try {
+    const map = JSON.parse(readFileSync(ALIAS_FILE, 'utf8'));
+    aliasCache = { at: Date.now(), map };
+    return map;
+  } catch {
+    return {};
+  }
+}
+function aliasOf(ch) {
+  const m = loadAliasMap();
+  return m[ch] || '';
+}
+
 function loadPresetCard(ch) {
   const alias = variantOf(ch) || ch;
-  for (const key of new Set([ch, alias])) {
+  const names = [ch, alias, aliasOf(ch)].filter(Boolean);
+  for (const key of new Set(names)) {
     const p = join(CARD_DIR, key + '.json');
     try { if (existsSync(p)) return JSON.parse(readFileSync(p, 'utf8')); } catch (e) { log('字卡读取失败', key, e.message); }
   }

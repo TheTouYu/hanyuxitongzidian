@@ -25,3 +25,12 @@ for fn in sorted(os.listdir(C)):
         "pr":d.get("parent") or "","rc":d.get("rootChain") or [],"rlb":d.get("rootLabel") or "","rc2":d.get("rootChain2") or [],"v":rev.get(c,[])})
 json.dump(rows,io.open(os.path.join(C,"index.json"),"w",encoding="utf-8"),ensure_ascii=False,separators=(",",":"))
 print("index",len(rows))
+# 别名 → 卡文件名（服务端按别名找卡与字形）
+amap={}
+for r in rows:
+    ch=r["c"]
+    for a in (r["a"] or []):
+        a=str(a).strip()
+        if a and a!=ch: amap.setdefault(a,ch)
+json.dump(amap,io.open(os.path.join(C,"alias-index.json"),"w",encoding="utf-8"),ensure_ascii=False,separators=(",",":"))
+print("alias",len(amap))
