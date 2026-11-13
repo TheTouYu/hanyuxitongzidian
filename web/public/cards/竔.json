@@ -1,0 +1,40 @@
+{
+ "char": "竔",
+ "pinyin": "shēng",
+ "bus": {
+  "num": 168,
+  "name": "升"
+ },
+ "level": 3,
+ "parent": "升",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "竔shēng：即“升”，公制容量單位。",
+   "paras": [
+    "竔shēng：即“升”，公制容量單位。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：容量單位取聲（推）。",
+   "paras": [
+    "sh「失收」取「收」：容量單位取聲（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十九黽",
+     "label": "卷二十九  黽"
+    }
+   ]
+  }
+ ]
+}
