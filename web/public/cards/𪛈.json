@@ -1,0 +1,54 @@
+{
+ "char": "𪛈",
+ "pinyin": "líng",
+ "bus": {
+  "num": 171,
+  "name": "吅"
+ },
+ "level": 3,
+ "parent": "霝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“郞丁切，音靈。黃𪛈，龜名。”",
+   "paras": [
+    "《集韻》：“郞丁切，音靈。黃𪛈，龜名。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：龜攏而靈（推）。",
+   "paras": [
+    "l「拢离」取「拢」：龜攏而靈（推）。"
+   ]
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "𪛈",
+   "files": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十九黽",
+     "label": "卷二十九  黽"
+    }
+   ]
+  }
+ ]
+}
