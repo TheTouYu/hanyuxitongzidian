@@ -1,0 +1,40 @@
+{
+ "char": "𥓰",
+ "pinyin": "hōng",
+ "bus": {
+  "num": 172,
+  "name": "弓"
+ },
+ "level": 3,
+ "parent": "弓",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𥓰䃧，石聲。”",
+   "paras": [
+    "《集韻》：“𥓰䃧，石聲。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：石聲豁然（推）。",
+   "paras": [
+    "h「豁活」取「豁」：石聲豁然（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十弓",
+     "label": "卷三十  弓"
+    }
+   ]
+  }
+ ]
+}

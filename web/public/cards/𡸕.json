@@ -1,0 +1,40 @@
+{
+ "char": "𡸕",
+ "pinyin": "qióng",
+ "bus": {
+  "num": 172,
+  "name": "弓"
+ },
+ "level": 3,
+ "parent": "弓",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𡸕𡾈，山形。”",
+   "paras": [
+    "《集韻》：“𡸕𡾈，山形。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：山形中缺（推）。",
+   "paras": [
+    "q「亲缺」取「缺」：山形中缺（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十弓",
+     "label": "卷三十  弓"
+    }
+   ]
+  }
+ ]
+}
