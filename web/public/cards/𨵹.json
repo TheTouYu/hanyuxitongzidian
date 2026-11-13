@@ -1,37 +1,34 @@
 {
-  "char": "𨵹",
-  "head": "𨵹（開）",
-  "pinyin": "kāi",
-  "aliases": [
-    "開"
-  ],
-  "bus": {
-    "num": 61,
-    "name": "𦥑"
+ "char": "𨵹",
+ "head": "𨵹（開）",
+ "pinyin": "kāi",
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "舁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨵹（開）kāi《字彙補》：“與開同。”"
   },
-  "level": 3,
-  "parent": "舁",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：門開則成缺口，物得出入（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨵹（開）kāi《字彙補》：“與開同。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "k「口控」取「口」：門開則成缺口，物得出入（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 𦥑",
-      "links": [
-        {
-          "ch": "卷十𦥑",
-          "label": "卷十 𦥑"
-        }
-      ]
+     "ch": "卷十𦥑",
+     "label": "卷十 𦥑"
     }
-  ]
+   ]
+  }
+ ]
 }

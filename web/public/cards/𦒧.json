@@ -1,37 +1,34 @@
 {
-  "head": "𦒧（𦑱）",
-  "pinyin": "huò",
-  "parent": "霍",
-  "bus": {
-    "num": 39,
-    "name": "隺"
+ "head": "𦒧（𦑱）",
+ "pinyin": "huò",
+ "parent": "霍",
+ "bus": {
+  "num": 39,
+  "name": "隺"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦒧（𦑱）huò《玉篇》：“䎉也。”《集韻》：“𦑍𦒧，飛疾皃。或从隺。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h「豁活」取「豁」：䎉也。𦑍𦒧，（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦒧（𦑱）huò《玉篇》：“䎉也。”《集韻》：“𦑍𦒧，飛疾皃。或从隺。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "h「豁活」取「豁」：䎉也。𦑍𦒧，（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷六鶴",
-          "label": "卷六 鶴"
-        }
-      ],
-      "text": ""
+     "ch": "卷六鶴",
+     "label": "卷六 鶴"
     }
-  ],
-  "char": "𦒧",
-  "level": 3,
-  "aliases": [
-    "𦑱"
-  ]
+   ],
+   "text": ""
+  }
+ ],
+ "char": "𦒧",
+ "level": 3
 }

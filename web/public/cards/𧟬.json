@@ -1,36 +1,33 @@
 {
-  "char": "𧟬",
-  "head": "𧟬（虛）",
-  "pinyin": "xū",
-  "level": 3,
-  "parent": "丘",
-  "bus": {
-    "num": 50,
-    "name": "丘"
+ "char": "𧟬",
+ "head": "𧟬（虛）",
+ "pinyin": "xū",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧟬（虛）xū《漢典》：“同虛。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：虛而消盡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧟬（虛）xū《漢典》：“同虛。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：虛而消盡（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "aliases": [
-    "虛"
-  ]
+   ]
+  }
+ ]
 }

@@ -1,36 +1,33 @@
 {
-  "char": "𧾒",
-  "head": "𧾒（趀）",
-  "level": 3,
-  "parent": "次",
-  "bus": {
-    "num": 20,
-    "name": "次"
+ "char": "𧾒",
+ "head": "𧾒（趀）",
+ "level": 3,
+ "parent": "次",
+ "bus": {
+  "num": 20,
+  "name": "次"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧾒（趀）cī《集韻》：“趀，《說文》：‘倉卒也。’或从資。”倉卒。即因急而腳步慌亂。"
   },
-  "aliases": [
-    "趀"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "c「刺持」取「刺」：口水如刺，牽連而下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧾒（趀）cī《集韻》：“趀，《說文》：‘倉卒也。’或从資。”倉卒。即因急而腳步慌亂。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "c「刺持」取「刺」：口水如刺，牽連而下（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "ch": "卷三矢",
+     "label": "卷三 矢"
     }
-  ]
+   ]
+  }
+ ]
 }

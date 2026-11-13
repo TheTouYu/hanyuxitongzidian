@@ -1,45 +1,44 @@
 {
-  "char": "𢹍",
-  "head": "𢹍（𢶐𢸤）",
-  "pinyin": "xī",
-  "level": 3,
-  "parent": "䖒",
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𢹍",
+ "head": "𢹍（𢶐𢸤）",
+ "pinyin": "xī",
+ "level": 3,
+ "parent": "䖒",
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "suoshujuan": "卷八 虎（第48部 虍）",
+ "links": [
+  {
+   "ch": "卷八虎",
+   "label": "卷八 虎"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𢹍（𢶐𢸤）xī《集韻》：“《博雅》：‘擊也。’或作𢸤。”"
   },
-  "suoshujuan": "卷八 虎（第48部 虍）",
-  "links": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「消」：擊而使之消散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "ch": "卷八虎",
-      "label": "卷八 虎"
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𢹍（𢶐𢸤）xī《集韻》：“《博雅》：‘擊也。’或作𢸤。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「消」：擊而使之消散（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
-    }
-  ],
-  "aliases": [
-    "𢶐",
-    "𢸤"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "𢶐"
+ ]
 }

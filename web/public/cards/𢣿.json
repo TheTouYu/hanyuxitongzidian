@@ -1,45 +1,44 @@
 {
-  "char": "𢣿",
-  "head": "𢣿（悇懅）",
-  "pinyin": "chú",
-  "level": 3,
-  "parent": "慮",
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𢣿",
+ "head": "𢣿（悇懅）",
+ "pinyin": "chú",
+ "level": 3,
+ "parent": "慮",
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "suoshujuan": "卷八 虎（第48部 虍）",
+ "links": [
+  {
+   "ch": "卷八虎",
+   "label": "卷八 虎"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𢣿（悇懅）chú《集韻》：“悇，憂也。或从慮。”《正字通》：“懅字之譌 。”"
   },
-  "suoshujuan": "卷八 虎（第48部 虍）",
-  "links": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「刺」：憂思刺於心而不去（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "ch": "卷八虎",
-      "label": "卷八 虎"
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𢣿（悇懅）chú《集韻》：“悇，憂也。或从慮。”《正字通》：“懅字之譌 。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "ch「刺持」取「刺」：憂思刺於心而不去（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
-    }
-  ],
-  "aliases": [
-    "悇",
-    "懅"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "懅"
+ ]
 }

@@ -1,38 +1,37 @@
 {
-  "char": "𧟯",
-  "head": "𧟯（𧇾虧）",
-  "pinyin": "kuī",
-  "aliases": [
-    "𧇾",
-    "虧"
-  ],
-  "bus": {
-    "num": 34,
-    "name": "丂"
+ "char": "𧟯",
+ "head": "𧟯（𧇾虧）",
+ "pinyin": "kuī",
+ "aliases": [
+  "𧇾"
+ ],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
+ "level": 3,
+ "parent": "兮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧟯（𧇾虧）kuī《字彙補》：“同虧。”《集韻》：“虧，《說文》：‘氣損也。’《博雅》：‘小也。’或从兮。”"
   },
-  "level": 3,
-  "parent": "兮",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：口出氣而續續消散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧟯（𧇾虧）kuī《字彙補》：“同虧。”《集韻》：“虧，《說文》：‘氣損也。’《博雅》：‘小也。’或从兮。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：口出氣而續續消散（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "ch": "卷五雁",
+     "label": "卷五 雁"
     }
-  ]
+   ]
+  }
+ ]
 }

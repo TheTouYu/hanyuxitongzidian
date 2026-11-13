@@ -1,44 +1,41 @@
 {
-  "char": "𢢛",
-  "head": "𢢛（𢟧）",
-  "pinyin": "lǔ",
-  "level": 3,
-  "parent": "虜",
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𢢛",
+ "head": "𢢛（𢟧）",
+ "pinyin": "lǔ",
+ "level": 3,
+ "parent": "虜",
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "suoshujuan": "卷八 虎（第48部 虍）",
+ "links": [
+  {
+   "ch": "卷八虎",
+   "label": "卷八 虎"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𢢛（𢟧）lǔ《集韻》：“𢟧，𢟨𢟧，心惑。或从虜。”"
   },
-  "suoshujuan": "卷八 虎（第48部 虍）",
-  "links": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「离」：心惑而散離不定（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "ch": "卷八虎",
-      "label": "卷八 虎"
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𢢛（𢟧）lǔ《集韻》：“𢟧，𢟨𢟧，心惑。或从虜。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "l「拢离」取「离」：心惑而散離不定（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
-    }
-  ],
-  "aliases": [
-    "𢟧"
-  ]
+   ]
+  }
+ ]
 }

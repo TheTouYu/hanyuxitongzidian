@@ -1,44 +1,41 @@
 {
-  "char": "𠐳",
-  "head": "𠐳（儢）",
-  "pinyin": "lǚ",
-  "level": 3,
-  "parent": "盧",
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𠐳",
+ "head": "𠐳（儢）",
+ "pinyin": "lǚ",
+ "level": 3,
+ "parent": "盧",
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "suoshujuan": "卷八 虎（第48部 虍）",
+ "links": [
+  {
+   "ch": "卷八虎",
+   "label": "卷八 虎"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𠐳（儢）lǚ《龍龕》：“音呂。拒，心不欲為。一曰心不平也。”《康典》：“儢字之譌。”"
   },
-  "suoshujuan": "卷八 虎（第48部 虍）",
-  "links": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "ch": "卷八虎",
-      "label": "卷八 虎"
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𠐳（儢）lǚ《龍龕》：“音呂。拒，心不欲為。一曰心不平也。”《康典》：“儢字之譌。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
-    }
-  ],
-  "aliases": [
-    "儢"
-  ]
+   ]
+  }
+ ]
 }

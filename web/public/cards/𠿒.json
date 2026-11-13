@@ -1,52 +1,49 @@
 {
-  "char": "𠿒",
-  "trad": "𠿒",
-  "simp": "",
-  "pinyin": "hè",
-  "level": 3,
-  "parent": "曷",
-  "bus": {
-    "num": 4,
-    "name": "匃"
+ "char": "𠿒",
+ "trad": "𠿒",
+ "simp": "",
+ "pinyin": "hè",
+ "level": 3,
+ "parent": "曷",
+ "bus": {
+  "num": 4,
+  "name": "匃"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𠿒（𡀽）hē《玉篇》：“訶也。亦作喝。”《集韻》：“亦作𡀽。”呵斥。",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h「豁活」取「豁」：豁然（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𠿒（𡀽）hē《玉篇》：“訶也。亦作喝。”《集韻》：“亦作𡀽。”呵斥。",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "h「豁活」取「豁」：豁然（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshu",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一雞"
-        }
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一 雞"
-        }
-      ]
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [
-    "𡀽"
-  ],
-  "head": "𠿒（𡀽）"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "ch": "卷一雞",
+     "label": "卷一 雞"
+    }
+   ]
+  }
+ ],
+ "head": "𠿒（𡀽）"
 }

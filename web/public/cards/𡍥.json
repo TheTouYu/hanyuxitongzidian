@@ -1,37 +1,36 @@
 {
-  "char": "𡍥",
-  "head": "𡍥（𥓽砦𡎵寨）",
-  "level": 3,
-  "parent": "祡",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𡍥",
+ "head": "𡍥（𥓽砦𡎵寨）",
+ "level": 3,
+ "parent": "祡",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [
+  "砦"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𡍥（𥓽砦𡎵寨）zhài《集韻》：“柴，藩落也。或作砦、𡎵、𥓽、𡍥。”《正字通》：“柴卽寨本字。”"
   },
-  "aliases": [
-    "砦",
-    "寨"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「总」：柴總為寨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𡍥（𥓽砦𡎵寨）zhài《集韻》：“柴，藩落也。或作砦、𡎵、𥓽、𡍥。”《正字通》：“柴卽寨本字。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「总」：柴總為寨（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

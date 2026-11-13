@@ -1,36 +1,33 @@
 {
-  "char": "𨍀",
-  "head": "𨍀（輊）",
-  "level": 3,
-  "parent": "到",
-  "bus": {
-    "num": 16,
-    "name": "矢"
+ "char": "𨍀",
+ "head": "𨍀（輊）",
+ "level": 3,
+ "parent": "到",
+ "bus": {
+  "num": 16,
+  "name": "矢"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𨍀（輊）zhì《五音篇海》：“與輊同。”車前重。"
   },
-  "aliases": [
-    "輊"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：車重而凿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𨍀（輊）zhì《五音篇海》：“與輊同。”車前重。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「凿」：車重而凿（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "ch": "卷三矢",
+     "label": "卷三 矢"
     }
-  ]
+   ]
+  }
+ ]
 }

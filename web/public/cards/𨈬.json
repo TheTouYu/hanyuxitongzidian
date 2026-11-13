@@ -1,36 +1,33 @@
 {
-  "char": "𨈬",
-  "head": "𨈬（軀）",
-  "pinyin": "qū",
-  "level": 3,
-  "parent": "丘",
-  "bus": {
-    "num": 50,
-    "name": "丘"
+ "char": "𨈬",
+ "head": "𨈬（軀）",
+ "pinyin": "qū",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨈬（軀）qū《玉篇》：“軀，《説文》云：‘體也。’𨈬，同上，俗字。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：軀體貼合（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨈬（軀）qū《玉篇》：“軀，《説文》云：‘體也。’𨈬，同上，俗字。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "q「亲缺」取「亲」：軀體貼合（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "aliases": [
-    "軀"
-  ]
+   ]
+  }
+ ]
 }

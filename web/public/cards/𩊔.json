@@ -1,44 +1,43 @@
 {
-  "char": "𩊔",
-  "head": "𩊔（𩎦𩎔）",
-  "pinyin": "jiào",
-  "aliases": [
-    "𩎦",
-    "𩎔"
-  ],
-  "bus": {
-    "num": 105,
-    "name": "交"
+ "char": "𩊔",
+ "head": "𩊔（𩎦𩎔）",
+ "pinyin": "jiào",
+ "aliases": [
+  "𩎦"
+ ],
+ "bus": {
+  "num": 105,
+  "name": "交"
+ },
+ "level": 3,
+ "parent": "交",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𩊔（𩎦𩎔）jiào《字彙》：“囊也。”《漢典》：鮫魚皮。"
+   ],
+   "text": "𩊔（𩎦𩎔）jiào《字彙》：“囊也。”《漢典》：鮫魚皮。"
   },
-  "level": 3,
-  "parent": "交",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [],
+   "text": "j「聚决」取「聚」：交相會合，聚而為一（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𩊔（𩎦𩎔）jiào《字彙》：“囊也。”《漢典》：鮫魚皮。"
-      ],
-      "text": "𩊔（𩎦𩎔）jiào《字彙》：“囊也。”《漢典》：鮫魚皮。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [],
-      "text": "j「聚决」取「聚」：交相會合，聚而為一（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷二十  角",
+     "ch": "卷二十角",
+     "label": "卷二十 角"
     }
-  ]
+   ]
+  }
+ ]
 }

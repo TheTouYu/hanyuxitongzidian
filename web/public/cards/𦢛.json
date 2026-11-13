@@ -1,46 +1,45 @@
 {
-  "char": "𦢛",
-  "head": "𦢛（𨇖臚𦢛）",
-  "pinyin": "lú",
-  "level": 3,
-  "parent": "慮",
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𦢛",
+ "head": "𦢛（𨇖臚𦢛）",
+ "pinyin": "lú",
+ "level": 3,
+ "parent": "慮",
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "suoshujuan": "卷八 虎（第48部 虍）",
+ "links": [
+  {
+   "ch": "卷八虎",
+   "label": "卷八 虎"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦢛（𨇖臚𦢛）lú《集韻》：“𨇖，傳也。一曰上傳語告下為𨇖。或作𦢛。通作臚。”"
   },
-  "suoshujuan": "卷八 虎（第48部 虍）",
-  "links": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「离」：傳語離口而下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "ch": "卷八虎",
-      "label": "卷八 虎"
+     "ch": "卷八虎",
+     "label": "卷八 虎"
     }
-  ],
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦢛（𨇖臚𦢛）lú《集韻》：“𨇖，傳也。一曰上傳語告下為𨇖。或作𦢛。通作臚。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "l「拢离」取「离」：傳語離口而下（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
-    }
-  ],
-  "aliases": [
-    "𨇖",
-    "臚",
-    "𦢛"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "臚",
+  "𦢛"
+ ]
 }

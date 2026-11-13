@@ -1,36 +1,33 @@
 {
-  "char": "𥞑",
-  "head": "𥞑（秭）",
-  "level": 3,
-  "parent": "市",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𥞑",
+ "head": "𥞑（秭）",
+ "level": 3,
+ "parent": "市",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥞑（秭）zǐ《龍龕》：“將幾反。千億也。又𥞑㷌（歸），縣名。”《漢典》：“同秭。”"
   },
-  "aliases": [
-    "秭"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「总」：數總為秭（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥞑（秭）zǐ《龍龕》：“將幾反。千億也。又𥞑㷌（歸），縣名。”《漢典》：“同秭。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "z「凿总」取「总」：數總為秭（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

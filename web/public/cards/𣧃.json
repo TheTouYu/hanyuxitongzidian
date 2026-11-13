@@ -1,40 +1,36 @@
 {
-  "char": "𣧃",
-  "head": "𣧃（殬斁）",
-  "pinyin": "dù",
-  "level": 3,
-  "parent": "乇",
-  "bus": {
-    "num": 46,
-    "name": "乇"
+ "char": "𣧃",
+ "head": "𣧃（殬斁）",
+ "pinyin": "dù",
+ "level": 3,
+ "parent": "乇",
+ "bus": {
+  "num": 46,
+  "name": "乇"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𣧃（殬斁）dù《集韻》：“殬，《說文》：‘敗也。’引《商書》：‘彝倫攸殬。’或作𣧃、斁。亦省。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「囤」：敗也，囤積而朽敗（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𣧃（殬斁）dù《集韻》：“殬，《說文》：‘敗也。’引《商書》：‘彝倫攸殬。’或作𣧃、斁。亦省。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "d「囤动」取「囤」：敗也，囤積而朽敗（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "ch": "卷七斤",
+     "label": "卷七 斤"
     }
-  ],
-  "aliases": [
-    "殬",
-    "斁"
-  ]
+   ]
+  }
+ ]
 }

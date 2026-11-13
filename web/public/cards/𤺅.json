@@ -1,36 +1,33 @@
 {
-  "char": "𤺅",
-  "head": "𤺅（贅）",
-  "level": 3,
-  "parent": "祟",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𤺅",
+ "head": "𤺅（贅）",
+ "level": 3,
+ "parent": "祟",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤺅（贅）zhuì《集韻》：“瘤腫。通作贅。”"
   },
-  "aliases": [
-    "贅"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「总」：肉總而生瘤（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤺅（贅）zhuì《集韻》：“瘤腫。通作贅。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「总」：肉總而生瘤（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "ch": "卷二㠯",
+     "label": "卷二 㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

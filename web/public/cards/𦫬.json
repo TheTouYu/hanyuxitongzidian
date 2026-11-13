@@ -1,37 +1,34 @@
 {
-  "char": "𦫬",
-  "pinyin": "xī",
-  "bus": {
-    "num": 2,
-    "name": "奚"
+ "char": "𦫬",
+ "pinyin": "xī",
+ "bus": {
+  "num": 2,
+  "name": "奚"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦫬（䒊）xī《玉篇》：“同䒊。”䒊，《廣韻》：“黃病色。”即黃疸病。一般系肝病或營養不良引起，面黃而腹鼓。"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「续」：連綿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦫬（䒊）xī《玉篇》：“同䒊。”䒊，《廣韻》：“黃病色。”即黃疸病。一般系肝病或營養不良引起，面黃而腹鼓。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「续」：連綿（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "ch": "卷一鸡",
+     "label": "卷一 鸡"
     }
-  ],
-  "level": 3,
-  "parent": "奚",
-  "head": "𦫬（䒊）",
-  "aliases": [
-    "䒊"
-  ]
+   ]
+  }
+ ],
+ "level": 3,
+ "parent": "奚",
+ "head": "𦫬（䒊）"
 }

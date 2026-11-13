@@ -1,38 +1,37 @@
 {
-  "char": "𥯞",
-  "head": "𥯞（𥯠𥯟）",
-  "pinyin": "yóu",
-  "aliases": [
-    "𥯠",
-    "𥯟"
-  ],
-  "bus": {
-    "num": 58,
-    "name": "㫃"
+ "char": "𥯞",
+ "head": "𥯞（𥯠𥯟）",
+ "pinyin": "yóu",
+ "aliases": [
+  "𥯠"
+ ],
+ "bus": {
+  "num": 58,
+  "name": "㫃"
+ },
+ "level": 3,
+ "parent": "斿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥯞（𥯠𥯟）yóu《篇海類篇》：“于求切，音遊。竹名。”《正字通》：“𥯞、𥯠、𥯟，並俗字。”竹片。疑指竹筏。"
   },
-  "level": 3,
-  "parent": "斿",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥯞（𥯠𥯟）yóu《篇海類篇》：“于求切，音遊。竹名。”《正字通》：“𥯞、𥯠、𥯟，並俗字。”竹片。疑指竹筏。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷九 舟",
-      "links": [
-        {
-          "ch": "卷九舟",
-          "label": "卷九 舟"
-        }
-      ]
+     "ch": "卷九舟",
+     "label": "卷九 舟"
     }
-  ]
+   ]
+  }
+ ]
 }

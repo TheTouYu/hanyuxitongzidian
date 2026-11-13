@@ -1,37 +1,36 @@
 {
-  "char": "𡄙",
-  "head": "𡄙（賾𡁃嘖）",
-  "level": 3,
-  "parent": "齊",
-  "bus": {
-    "num": 19,
-    "name": "齊"
+ "char": "𡄙",
+ "head": "𡄙（賾𡁃嘖）",
+ "level": 3,
+ "parent": "齊",
+ "bus": {
+  "num": 19,
+  "name": "齊"
+ },
+ "aliases": [
+  "賾"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𡄙（賾𡁃嘖）jī《字彙補》：“古文賾字。” 賾，《集韻》：“幽深難見也。孔穎達說。或作𡁃。通作嘖。”"
   },
-  "aliases": [
-    "賾",
-    "嘖"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：聚而齊整（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𡄙（賾𡁃嘖）jī《字彙補》：“古文賾字。” 賾，《集韻》：“幽深難見也。孔穎達說。或作𡁃。通作嘖。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：聚而齊整（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "ch": "卷三矢",
+     "label": "卷三 矢"
     }
-  ]
+   ]
+  }
+ ]
 }

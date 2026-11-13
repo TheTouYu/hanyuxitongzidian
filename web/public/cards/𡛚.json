@@ -1,37 +1,34 @@
 {
-  "char": "𡛚",
-  "head": "𡛚（媩）",
-  "pinyin": "hú",
-  "aliases": [
-    "媩"
-  ],
-  "bus": {
-    "num": 34,
-    "name": "丂"
+ "char": "𡛚",
+ "head": "𡛚（媩）",
+ "pinyin": "hú",
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
+ "level": 3,
+ "parent": "乎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𡛚（媩）hú《集韻》：“媩，女字。或从乎。”人名用字。"
   },
-  "level": 3,
-  "parent": "乎",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𡛚（媩）hú《集韻》：“媩，女字。或从乎。”人名用字。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "ch": "卷五雁",
+     "label": "卷五 雁"
     }
-  ]
+   ]
+  }
+ ]
 }
