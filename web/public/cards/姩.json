@@ -1,0 +1,40 @@
+{
+ "char": "姩",
+ "pinyin": "nián",
+ "bus": {
+  "num": 169,
+  "name": "千"
+ },
+ "level": 3,
+ "parent": "秊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“女字。”niàn，《玉篇》：“美女。”",
+   "paras": [
+    "《集韻》：“女字。”niàn，《玉篇》：“美女。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：女字取聲（推）。",
+   "paras": [
+    "n「纳弄」取「纳」：女字取聲（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷二十九黽",
+     "label": "卷二十九  黽"
+    }
+   ]
+  }
+ ]
+}
