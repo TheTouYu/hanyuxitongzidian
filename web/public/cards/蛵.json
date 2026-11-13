@@ -1,0 +1,49 @@
+{
+ "char": "蛵",
+ "head": "蛵",
+ "pinyin": "xīng",
+ "bus": {
+  "num": 176,
+  "name": "壬"
+ },
+ "level": 3,
+ "parent": "巠",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》「：“丁蛵，負勞也。从虫巠聲。戶經切。”蜻蛉。」",
+   "paras": [
+    "《說文》「：“丁蛵，負勞也。从虫巠聲。戶經切。”蜻蛉。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：蟲身續長而飛（推）。",
+   "paras": [
+    "x「续消」取「续」：蟲身續長而飛（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十一尋",
+     "label": "卷三十一  尋"
+    }
+   ]
+  }
+ ],
+ "aliases": [],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "蜻蛉"
+  }
+ ]
+}

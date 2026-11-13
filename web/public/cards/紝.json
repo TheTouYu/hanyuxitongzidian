@@ -1,0 +1,46 @@
+{
+ "char": "紝",
+ "head": "紝（䋕）",
+ "pinyin": "rèn",
+ "bus": {
+  "num": 176,
+  "name": "壬"
+ },
+ "level": 3,
+ "parent": "壬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》「機縷也。从糸壬聲。{{shiyi/01.png}}，紝或从任。如甚切。」織布機上的紗縷。",
+   "paras": [
+    "《說文》「機縷也。从糸壬聲。{{shiyi/01.png}}，紝或从任。如甚切。」織布機上的紗縷。"
+   ],
+   "gdir": "inline/紝"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：紗縷柔而織（推）。",
+   "paras": [
+    "r「柔锐」取「柔」：紗縷柔而織（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十一尋",
+     "label": "卷三十一  尋"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "䋕"
+ ]
+}
