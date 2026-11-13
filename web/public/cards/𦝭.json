@@ -1,0 +1,44 @@
+{
+ "char": "𦝭",
+ "head": "𦝭",
+ "pinyin": "lǜ",
+ "bus": {
+  "num": 175,
+  "name": "尋"
+ },
+ "level": 3,
+ "parent": "帥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》「血祭肉也。」",
+   "paras": [
+    "《說文》「血祭肉也。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：肉離骨而祭（推）。",
+   "paras": [
+    "l「拢离」取「离」：肉離骨而祭（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十一尋",
+     "label": "卷三十一  尋"
+    }
+   ]
+  }
+ ],
+ "noRoot": false,
+ "aliases": []
+}

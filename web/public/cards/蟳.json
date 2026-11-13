@@ -1,0 +1,50 @@
+{
+ "char": "蟳",
+ "head": "蟳",
+ "pinyin": "xún",
+ "bus": {
+  "num": 175,
+  "name": "尋"
+ },
+ "level": 3,
+ "parent": "尋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《六書故》「靑蟳也。」",
+   "paras": [
+    "《六書故》「靑蟳也。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：蟹名取聲（推）。",
+   "paras": [
+    "x「续消」取「续」：蟹名取聲（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十一尋",
+     "label": "卷三十一  尋"
+    }
+   ]
+  }
+ ],
+ "noRoot": false,
+ "aliases": [],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "青蟳"
+  }
+ ]
+}

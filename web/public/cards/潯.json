@@ -1,0 +1,44 @@
+{
+ "char": "潯",
+ "head": "潯",
+ "pinyin": "xún",
+ "bus": {
+  "num": 175,
+  "name": "尋"
+ },
+ "level": 3,
+ "parent": "尋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》「旁深也。」",
+   "paras": [
+    "《說文》「旁深也。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：水岸續深，往復探之（推）。",
+   "paras": [
+    "x「续消」取「续」：水岸續深，往復探之（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十一尋",
+     "label": "卷三十一  尋"
+    }
+   ]
+  }
+ ],
+ "noRoot": false,
+ "aliases": []
+}

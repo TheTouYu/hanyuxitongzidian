@@ -1,0 +1,44 @@
+{
+ "char": "䫮",
+ "head": "䫮",
+ "pinyin": "chán",
+ "bus": {
+  "num": 175,
+  "name": "尋"
+ },
+ "level": 3,
+ "parent": "尋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》「俯首皃。」",
+   "paras": [
+    "《集韻》「俯首皃。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：俯首而持取（推）。",
+   "paras": [
+    "ch「刺持」取「持」：俯首而持取（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十一尋",
+     "label": "卷三十一  尋"
+    }
+   ]
+  }
+ ],
+ "noRoot": false,
+ "aliases": []
+}

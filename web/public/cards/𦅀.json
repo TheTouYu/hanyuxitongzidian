@@ -1,0 +1,44 @@
+{
+ "char": "𦅀",
+ "head": "𦅀",
+ "pinyin": "xún",
+ "bus": {
+  "num": 175,
+  "name": "尋"
+ },
+ "level": 3,
+ "parent": "尋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》「續也。」",
+   "paras": [
+    "《玉篇》「續也。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：絲縷續續相編（推）。",
+   "paras": [
+    "x「续消」取「续」：絲縷續續相編（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十一尋",
+     "label": "卷三十一  尋"
+    }
+   ]
+  }
+ ],
+ "noRoot": false,
+ "aliases": []
+}
