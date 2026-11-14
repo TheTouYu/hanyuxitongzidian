@@ -33,6 +33,8 @@ for s in head.get("sections", []):
                 ch = r[0].split("（")[0].split("(")[0]
                 if ch == bu:
                     continue  # 部头自身列在族表首行（如 兜/亙/虢）：不当作族卡校验
+                if ch in links:
+                    continue  # 二级字根亦列入部头族表首行（如 仌 族之 冰）：按二级字根校验，不作谐声字
                 members[ch] = bu
 for e in links:
     p = os.path.join(C, e + ".json")
