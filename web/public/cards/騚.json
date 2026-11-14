@@ -1,0 +1,44 @@
+{
+ "char": "騚",
+ "head": "騚",
+ "pinyin": "qián",
+ "level": 3,
+ "parent": "歬",
+ "bus": {
+  "num": 192,
+  "name": "凡"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "騚qián《玉篇》：“馬四蹄白。”踏雪馬。",
+   "paras": [
+    "騚qián《玉篇》：“馬四蹄白。”踏雪馬。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：白蹄親雪而前（推）。",
+   "paras": [
+    "q「亲缺」取「亲」：白蹄親雪而前（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卅三  風",
+     "label": "卷卅三  風"
+    }
+   ]
+  }
+ ]
+}
