@@ -70,6 +70,10 @@ function renderCard(ch){
   for (const s of (d.sections||[])){ if (s.key==="ziatt") continue;
     if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+(((s.links&&s.links.length?s.links:(d.links||[]))).map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
+    if (s.key==='erji' && s.links && s.links.length){
+      h+='<p>'+s.links.map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · ')+'</p>';
+      continue;
+    }
     if (s.subs && s.subs.length){
       for (const sub of s.subs){
         if (sub.label) h+='<h4 class="sub">'+escH(sub.label)+'</h4>';
