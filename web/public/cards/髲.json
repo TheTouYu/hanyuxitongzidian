@@ -1,35 +1,35 @@
 {
-  "char": "髲",
-  "pinyin": "",
-  "head": "髲",
-  "bus": {
-    "num": 151,
-    "name": "皮"
+ "char": "髲",
+ "pinyin": "",
+ "head": "髲",
+ "bus": {
+  "num": 151,
+  "name": "皮"
+ },
+ "level": 3,
+ "parent": "皮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鬄也。从髟皮聲。平義切。”假髮。",
+   "paras": [
+    "《說文》：“鬄也。从髟皮聲。平義切。”假髮。"
+   ]
   },
-  "level": 3,
-  "parent": "皮",
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《說文》：“鬄也。从髟皮聲。平義切。”假髮。",
-      "paras": [
-        "《說文》：“鬄也。从髟皮聲。平義切。”假髮。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「剥」：髮自他首剝取而來（推）。",
-      "paras": [
-        "b「闭剥」取「剥」：髮自他首剝取而來（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "paras": []
-    }
-  ]
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：髮自他首剝取而來（推）。",
+   "paras": [
+    "b「闭剥」取「剥」：髮自他首剝取而來（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": []
+  }
+ ]
 }

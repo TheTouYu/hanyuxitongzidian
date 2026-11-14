@@ -104,7 +104,7 @@ const famln=(ch,raw)=>{const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).in
 window.bindHint=()=>{document.querySelectorAll('#hint a[data-c]').forEach(a=>a.onclick=()=>open(a.dataset.c));};
 function render(q){
   const rows=match(q);
-  $('#list').innerHTML=rows.map(x=>`<div class="item${x.c===cur?' on':''}" data-c="${x.c}"><b>${x.c}</b><span class="m">${x.p||''}</span><span class="m">${x.ch?(function(){var L='第'+x.ch+'章'+(x.cn?' '+x.cn:'');return (x.cc?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+x.cc+'\')">'+L+'</a>'):L);}()):('第'+(x.b||'?')+'部')} ${x.ch?'':(x.n||'')}</span></div>`).join('')||'<div class="empty">无结果</div>';
+  $('#list').innerHTML=rows.map(x=>`<div class="item${x.c===cur?' on':''}" data-c="${x.c}"><b>${x.c}</b><span class="m">${x.p||''}</span><span class="m">${x.ch?(function(){var L='第'+x.ch+'章'+(x.cn?' '+x.cn:'');return (x.cc?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+x.cc+'\')">'+L+'</a>'):L);}()):(x.b?('第'+x.b+'部'):'')} ${x.ch?'':(x.n||'')}</span></div>`).join('')||'<div class="empty">无结果</div>';
   const base=q?`命中 ${rows.length} 张`:`共 ${IDX.length} 张卡`;
   let rel='';
   if(q){
