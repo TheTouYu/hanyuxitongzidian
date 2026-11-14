@@ -1,34 +1,35 @@
 {
-  "char": "𢇞",
-  "pinyin": "hàn",
-  "aliases": [],
-  "bus": {
-    "num": 35,
-    "name": "厂"
+ "char": "𢇞",
+ "pinyin": "hàn",
+ "aliases": [],
+ "bus": {
+  "num": 35,
+  "name": "厂"
+ },
+ "level": 3,
+ "parent": "厂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢇞hàn《廣韻》：“𢇞嘾，乳汁狀，出《莊子》。” 吮吸乳汁的樣子。但《莊子》無此詞。"
   },
-  "level": 3,
-  "parent": "厂",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：崖壁豁然（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢇞hàn《廣韻》：“𢇞嘾，乳汁狀，出《莊子》。” 吮吸乳汁的樣子。但《莊子》無此詞。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "h「豁活」取「豁」：崖壁豁然（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

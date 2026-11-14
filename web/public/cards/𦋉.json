@@ -1,43 +1,43 @@
 {
-  "char": "𦋉",
-  "head": "𦋉",
-  "pinyin": "bó",
-  "aliases": [],
-  "level": 3,
-  "parent": "𠬝",
-  "bus": {
-    "num": 146,
-    "name": "𠬝部"
+ "char": "𦋉",
+ "head": "𦋉",
+ "pinyin": "bó",
+ "aliases": [],
+ "level": 3,
+ "parent": "𠬝",
+ "bus": {
+  "num": 146,
+  "name": "𠬝部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦋉bó《正字通》：“網衣，人所著也。”",
+   "paras": [
+    "𦋉bó《正字通》：“網衣，人所著也。”"
+   ]
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：網衣閉覆人體（推）。",
+   "paras": [
+    "b「闭剥」取「闭」：網衣閉覆人體（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𦋉bó《正字通》：“網衣，人所著也。”",
-      "paras": [
-        "𦋉bó《正字通》：“網衣，人所著也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「闭」：網衣閉覆人體（推）。",
-      "paras": [
-        "b「闭剥」取「闭」：網衣閉覆人體（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "paras": [],
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十五勹",
+     "label": "卷二十五勹"
     }
-  ]
+   ]
+  }
+ ]
 }

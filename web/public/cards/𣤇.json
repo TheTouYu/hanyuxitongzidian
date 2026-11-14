@@ -1,37 +1,38 @@
 {
-  "head": "𣤇（塙）",
-  "pinyin": "què",
-  "parent": "隺",
-  "bus": {
-    "num": 39,
-    "name": "隺"
+ "head": "𣤇（塙）",
+ "pinyin": "què",
+ "parent": "隺",
+ "bus": {
+  "num": 39,
+  "name": "隺"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𣤇（塙）què《廣韻》：“塙，髙也。𣤇，上同。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "q「亲缺」取「亲」：塙，髙也。𣤇，上同。（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𣤇（塙）què《廣韻》：“塙，髙也。𣤇，上同。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "q「亲缺」取「亲」：塙，髙也。𣤇，上同。（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷六鶴",
-          "label": "卷六 鶴"
-        }
-      ],
-      "text": ""
+     "t": "卷",
+     "ch": "卷六鶴",
+     "label": "卷六鶴"
     }
-  ],
-  "char": "𣤇",
-  "level": 3,
-  "aliases": [
-    "塙"
-  ]
+   ],
+   "text": ""
+  }
+ ],
+ "char": "𣤇",
+ "level": 3,
+ "aliases": [
+  "塙"
+ ]
 }

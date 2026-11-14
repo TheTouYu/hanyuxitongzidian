@@ -1,50 +1,51 @@
 {
-  "char": "𦝲",
-  "trad": "𦝲",
-  "simp": "",
-  "pinyin": "jié",
-  "level": 3,
-  "parent": "曷",
-  "bus": {
-    "num": 4,
-    "name": "匃"
+ "char": "𦝲",
+ "trad": "𦝲",
+ "simp": "",
+ "pinyin": "jié",
+ "level": 3,
+ "parent": "曷",
+ "bus": {
+  "num": 4,
+  "name": "匃"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦝲yì《廣韻》：“臆。”《集韻》：“臆下也。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：起（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦝲yì《廣韻》：“臆。”《集韻》：“臆下也。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：起（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshu",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一雞"
-        }
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一 雞"
-        }
-      ]
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [],
-  "head": "𦝲"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
+    }
+   ]
+  }
+ ],
+ "aliases": [],
+ "head": "𦝲"
 }

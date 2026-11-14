@@ -1,43 +1,43 @@
 {
-  "char": "𦚼",
-  "head": "𦚼",
-  "aliases": [],
-  "pinyin": "qū",
-  "bus": {
-    "num": 92,
-    "name": "曲"
+ "char": "𦚼",
+ "head": "𦚼",
+ "aliases": [],
+ "pinyin": "qū",
+ "bus": {
+  "num": 92,
+  "name": "曲"
+ },
+ "level": 3,
+ "parent": "曲",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𦚼qū《漢典》：“𦚼䐐，膝關節。”"
+   ],
+   "text": "𦚼qū《漢典》：“𦚼䐐，膝關節。”"
   },
-  "level": 3,
-  "parent": "曲",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "q「亲缺」取「亲」：𦚼為膝，骨肉相親而屈（推）。"
+   ],
+   "text": "q「亲缺」取「亲」：𦚼為膝，骨肉相親而屈（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𦚼qū《漢典》：“𦚼䐐，膝關節。”"
-      ],
-      "text": "𦚼qū《漢典》：“𦚼䐐，膝關節。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "q「亲缺」取「亲」：𦚼為膝，骨肉相親而屈（推）。"
-      ],
-      "text": "q「亲缺」取「亲」：𦚼為膝，骨肉相親而屈（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ],
-      "paras": []
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ],
+   "paras": []
+  }
+ ]
 }

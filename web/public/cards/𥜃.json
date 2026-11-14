@@ -1,34 +1,35 @@
 {
-  "char": "𥜃",
-  "head": "𥜃",
-  "level": 3,
-  "parent": "睪",
-  "bus": {
-    "num": 25,
-    "name": "睪"
+ "char": "𥜃",
+ "head": "𥜃",
+ "level": 3,
+ "parent": "睪",
+ "bus": {
+  "num": 25,
+  "name": "睪"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥜃yì《集韻》：“夷益切，音亦。祭之明日。又祭名。經傳作繹。”《廣韻》：“重祭名。”正祭之後，第二天再接著祭。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥜃yì《集韻》：“夷益切，音亦。祭之明日。又祭名。經傳作繹。”《廣韻》：“重祭名。”正祭之後，第二天再接著祭。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

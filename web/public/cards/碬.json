@@ -1,34 +1,35 @@
 {
-  "char": "碬",
-  "pinyin": "xiá",
-  "head": "碬",
-  "aliases": [],
-  "level": 3,
-  "parent": "叚",
-  "bus": {
-    "num": 45,
-    "name": "石"
+ "char": "碬",
+ "pinyin": "xiá",
+ "head": "碬",
+ "aliases": [],
+ "level": 3,
+ "parent": "叚",
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“厲石也。从石叚聲。《春秋傳》曰：‘鄭公孫碬字子石。’乎加切。”磨刀石。《玉篇》：“磍碬，高下也。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「消」：磨石消去刀刃之鈍（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《說文》：“厲石也。从石叚聲。《春秋傳》曰：‘鄭公孫碬字子石。’乎加切。”磨刀石。《玉篇》：“磍碬，高下也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「消」：磨石消去刀刃之鈍（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ]
+   ]
+  }
+ ]
 }

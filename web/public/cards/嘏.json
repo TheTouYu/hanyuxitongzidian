@@ -1,39 +1,40 @@
 {
-  "char": "嘏",
-  "head": "嘏",
-  "pinyin": "jiǎ、gǔ",
-  "bus": {
-    "num": 45,
-    "name": "石"
+ "char": "嘏",
+ "head": "嘏",
+ "pinyin": "jiǎ、gǔ",
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
+ "parent": "叚",
+ "level": 3,
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《玉篇》：“固也。”《廣韻》：“福也。”jiǎ，《說文》：“大遠也。从古叚聲。古雅切。”"
   },
-  "parent": "叚",
-  "level": 3,
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：石之相聚而叚形，（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《玉篇》：“固也。”《廣韻》：“福也。”jiǎ，《說文》：“大遠也。从古叚聲。古雅切。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：石之相聚而叚形，（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ],
-  "parents": [
-    "石",
-    "古"
-  ]
+   ]
+  }
+ ],
+ "parents": [
+  "石",
+  "古"
+ ]
 }

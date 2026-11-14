@@ -1,44 +1,44 @@
 {
-  "char": "𥧬",
-  "head": "𥧬",
-  "pinyin": "qiǎn",
-  "aliases": [],
-  "bus": {
-    "num": 136,
-    "name": "臣部"
+ "char": "𥧬",
+ "head": "𥧬",
+ "pinyin": "qiǎn",
+ "aliases": [],
+ "bus": {
+  "num": 136,
+  "name": "臣部"
+ },
+ "level": 3,
+ "parent": "臤",
+ "photos": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𥧬qiǎn《集韻》：“不動也。”"
+   ],
+   "text": "𥧬qiǎn《集韻》：“不動也。”"
   },
-  "level": 3,
-  "parent": "臤",
-  "photos": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：穴中不動，貼地自守（推）。",
+   "paras": [
+    "q「亲缺」取「亲」：穴中不動，貼地自守（推）。"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𥧬qiǎn《集韻》：“不動也。”"
-      ],
-      "text": "𥧬qiǎn《集韻》：“不動也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "q「亲缺」取「亲」：穴中不動，貼地自守（推）。",
-      "paras": [
-        "q「亲缺」取「亲」：穴中不動，貼地自守（推）。"
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

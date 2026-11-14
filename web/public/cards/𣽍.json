@@ -1,42 +1,42 @@
 {
-  "char": "𣽍",
-  "head": "𣽍",
-  "aliases": [],
-  "pinyin": "jì",
-  "bus": {
-    "num": 394,
-    "name": "自"
+ "char": "𣽍",
+ "head": "𣽍",
+ "aliases": [],
+ "pinyin": "jì",
+ "bus": {
+  "num": 394,
+  "name": "自"
+ },
+ "level": 3,
+ "parent": "自",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𣽍jì《說文》：“水也。从水臮聲。其冀切。”",
+   "paras": [
+    "𣽍jì《說文》：“水也。从水臮聲。其冀切。”"
+   ]
   },
-  "level": 3,
-  "parent": "自",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：水聚成流，如涕不斷（推）。",
+   "paras": [
+    "j「聚决」取「聚」：水聚成流，如涕不斷（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𣽍jì《說文》：“水也。从水臮聲。其冀切。”",
-      "paras": [
-        "𣽍jì《說文》：“水也。从水臮聲。其冀切。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：水聚成流，如涕不斷（推）。",
-      "paras": [
-        "j「聚决」取「聚」：水聚成流，如涕不斷（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷六十五  鼻",
-          "ch": "卷六十五鼻",
-          "label": "卷六十五 鼻"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
     }
-  ]
+   ]
+  }
+ ]
 }

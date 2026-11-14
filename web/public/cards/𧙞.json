@@ -1,34 +1,35 @@
 {
-  "char": "𧙞",
-  "head": "𧙞",
-  "level": 3,
-  "parent": "朿",
-  "bus": {
-    "num": 18,
-    "name": "朿"
+ "char": "𧙞",
+ "head": "𧙞",
+ "level": 3,
+ "parent": "朿",
+ "bus": {
+  "num": 18,
+  "name": "朿"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧙞qì《集韻》：“𧙞膝，裙衸也。”裙子正中開衩的地方。cù，《正字通》：“又藥韻，音捉。短衣也。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "q「亲缺」取「缺」：衩缺而分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧙞qì《集韻》：“𧙞膝，裙衸也。”裙子正中開衩的地方。cù，《正字通》：“又藥韻，音捉。短衣也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "q「亲缺」取「缺」：衩缺而分（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

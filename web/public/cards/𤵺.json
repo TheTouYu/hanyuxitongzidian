@@ -1,37 +1,38 @@
 {
-  "char": "𤵺",
-  "level": 3,
-  "parent": "曳",
-  "bus": {
-    "num": 26,
-    "name": "弋"
+ "char": "𤵺",
+ "level": 3,
+ "parent": "曳",
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
+ "head": "𤵺（疶）",
+ "aliases": [
+  "疶"
+ ],
+ "pinyin": "yì",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤵺（疶）yì《集韻》：“以制切，曳去聲。病也。”xiè，《廣韻》：“疶，私列切。痢也。亦作𤵺。”"
   },
-  "head": "𤵺（疶）",
-  "aliases": [
-    "疶"
-  ],
-  "pinyin": "yì",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷四 弋",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤵺（疶）yì《集韻》：“以制切，曳去聲。病也。”xiè，《廣韻》：“疶，私列切。痢也。亦作𤵺。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷四 弋",
-      "links": [
-        {
-          "ch": "卷四弋",
-          "label": "卷四 弋"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷四弋",
+     "label": "卷四弋"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,42 +1,42 @@
 {
-  "char": "𧪩",
-  "head": "𧪩（息）",
-  "aliases": [],
-  "pinyin": "xī",
-  "bus": {
-    "num": 394,
-    "name": "自"
+ "char": "𧪩",
+ "head": "𧪩（息）",
+ "aliases": [],
+ "pinyin": "xī",
+ "bus": {
+  "num": 394,
+  "name": "自"
+ },
+ "level": 3,
+ "parent": "息",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧪩（息）xī《集韻》：“息，古作𧪩。”",
+   "paras": [
+    "𧪩（息）xī《集韻》：“息，古作𧪩。”"
+   ]
   },
-  "level": 3,
-  "parent": "息",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：息之古體，呼吸續而後止（推）。",
+   "paras": [
+    "x「续消」取「续」：息之古體，呼吸續而後止（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧪩（息）xī《集韻》：“息，古作𧪩。”",
-      "paras": [
-        "𧪩（息）xī《集韻》：“息，古作𧪩。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：息之古體，呼吸續而後止（推）。",
-      "paras": [
-        "x「续消」取「续」：息之古體，呼吸續而後止（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷六十五  鼻",
-          "ch": "卷六十五鼻",
-          "label": "卷六十五 鼻"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
     }
-  ]
+   ]
+  }
+ ]
 }

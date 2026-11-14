@@ -1,42 +1,42 @@
 {
-  "char": "𨤴",
-  "head": "𨤴",
-  "aliases": [],
-  "pinyin": "xiè",
-  "bus": {
-    "num": 79,
-    "name": "疌"
+ "char": "𨤴",
+ "head": "𨤴",
+ "aliases": [],
+ "pinyin": "xiè",
+ "bus": {
+  "num": 79,
+  "name": "疌"
+ },
+ "level": 3,
+ "parent": "疌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨤴xiè《集韻》：“斬也。”《類篇》：“漸也。”",
+   "paras": [
+    "𨤴xiè《集韻》：“斬也。”《類篇》：“漸也。”"
+   ]
   },
-  "level": 3,
-  "parent": "疌",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：刀落物消，一斬而盡（推）。",
+   "paras": [
+    "x「续消」取「消」：刀落物消，一斬而盡（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨤴xiè《集韻》：“斬也。”《類篇》：“漸也。”",
-      "paras": [
-        "𨤴xiè《集韻》：“斬也。”《類篇》：“漸也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：刀落物消，一斬而盡（推）。",
-      "paras": [
-        "x「续消」取「消」：刀落物消，一斬而盡（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

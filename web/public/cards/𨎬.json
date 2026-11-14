@@ -1,40 +1,40 @@
 {
-  "char": "𨎬",
-  "head": "𨎬",
-  "pinyin": "jiào",
-  "aliases": [],
-  "bus": {
-    "num": 111,
-    "name": "堯"
+ "char": "𨎬",
+ "head": "𨎬",
+ "pinyin": "jiào",
+ "aliases": [],
+ "bus": {
+  "num": 111,
+  "name": "堯"
+ },
+ "level": 3,
+ "parent": "堯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𨎬jiào《玉篇》：“車轊也。”車軸頭。"
+   ],
+   "text": "𨎬jiào《玉篇》：“車轊也。”車軸頭。"
   },
-  "level": 3,
-  "parent": "堯",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：車轊聚於軸端（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𨎬jiào《玉篇》：“車轊也。”車軸頭。"
-      ],
-      "text": "𨎬jiào《玉篇》：“車轊也。”車軸頭。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：車轊聚於軸端（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿一  方",
-          "ch": "卷廿一方",
-          "label": "卷廿一 方"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十一方",
+     "label": "卷二十一方"
     }
-  ]
+   ]
+  }
+ ]
 }

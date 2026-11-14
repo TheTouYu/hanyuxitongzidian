@@ -1,40 +1,40 @@
 {
-  "char": "𧢌",
-  "head": "𧢌",
-  "pinyin": "gāo",
-  "aliases": [],
-  "bus": {
-    "num": 110,
-    "name": "皋"
+ "char": "𧢌",
+ "head": "𧢌",
+ "pinyin": "gāo",
+ "aliases": [],
+ "bus": {
+  "num": 110,
+  "name": "皋"
+ },
+ "level": 3,
+ "parent": "皋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𧢌gāo《集韻》：“見也。”"
+   ],
+   "text": "𧢌gāo《集韻》：“見也。”"
   },
-  "level": 3,
-  "parent": "皋",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：隔而後見，往復乃得（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𧢌gāo《集韻》：“見也。”"
-      ],
-      "text": "𧢌gāo《集韻》：“見也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "g「隔估」取「隔」：隔而後見，往復乃得（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿一  方",
-          "ch": "卷廿一方",
-          "label": "卷廿一 方"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十一方",
+     "label": "卷二十一方"
     }
-  ]
+   ]
+  }
+ ]
 }

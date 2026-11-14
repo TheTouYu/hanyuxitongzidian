@@ -1,36 +1,36 @@
 {
-  "char": "𪎝",
-  "head": "𪎝",
-  "pinyin": "bèn",
-  "aliases": [],
-  "bus": {
-    "num": 126,
-    "name": "本部"
+ "char": "𪎝",
+ "head": "𪎝",
+ "pinyin": "bèn",
+ "aliases": [],
+ "bus": {
+  "num": 126,
+  "name": "本部"
+ },
+ "level": 3,
+ "parent": "本",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪎝bèn《集韻》：“麻蒸也。”去皮的麻稈。"
   },
-  "level": 3,
-  "parent": "本",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：麻莖剝皮去骨，稈直如榦，故𪎝為麻蒸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪎝bèn《集韻》：“麻蒸也。”去皮的麻稈。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「剥」：麻莖剝皮去骨，稈直如榦，故𪎝為麻蒸（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,41 +1,41 @@
 {
-  "char": "𦀒",
-  "head": "𦀒（冔）",
-  "pinyin": "yú",
-  "aliases": [
-    "冔"
-  ],
-  "bus": {
-    "num": 68,
-    "name": "于"
+ "char": "𦀒",
+ "head": "𦀒（冔）",
+ "pinyin": "yú",
+ "aliases": [
+  "冔"
+ ],
+ "bus": {
+  "num": 68,
+  "name": "于"
+ },
+ "level": 3,
+ "parent": "于",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𦀒（冔）yú《集韻》：“冔，商冠名。或从糸。”"
+   ],
+   "text": "𦀒（冔）yú《集韻》：“冔，商冠名。或从糸。”"
   },
-  "level": 3,
-  "parent": "于",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𦀒（冔）yú《集韻》：“冔，商冠名。或从糸。”"
-      ],
-      "text": "𦀒（冔）yú《集韻》：“冔，商冠名。或从糸。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十二  于",
-          "ch": "卷十二于",
-          "label": "卷十二 于"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十二于",
+     "label": "卷十二于"
     }
-  ]
+   ]
+  }
+ ]
 }

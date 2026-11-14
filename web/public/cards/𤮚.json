@@ -1,36 +1,36 @@
 {
-  "char": "𤮚",
-  "head": "𤮚",
-  "pinyin": "léi",
-  "aliases": [],
-  "bus": {
-    "num": 118,
-    "name": "畾"
+ "char": "𤮚",
+ "head": "𤮚",
+ "pinyin": "léi",
+ "aliases": [],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "靁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤮚léi《廣韻》：“屋棟瓦也。”屋脊上的瓦。"
   },
-  "level": 3,
-  "parent": "靁",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：屋瓦攏合，片片相壓（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𤮚léi《廣韻》：“屋棟瓦也。”屋脊上的瓦。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：屋瓦攏合，片片相壓（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷二十二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

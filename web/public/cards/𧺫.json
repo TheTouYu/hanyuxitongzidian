@@ -1,34 +1,35 @@
 {
-  "char": "𧺫",
-  "head": "𧺫",
-  "level": 3,
-  "parent": "尺",
-  "bus": {
-    "num": 17,
-    "name": "尸"
+ "char": "𧺫",
+ "head": "𧺫",
+ "level": 3,
+ "parent": "尺",
+ "bus": {
+  "num": 17,
+  "name": "尸"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧺫qi《漢典》：“同‘起’。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "q「亲缺」取「缺」：起而缺伏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧺫qi《漢典》：“同‘起’。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "q「亲缺」取「缺」：起而缺伏（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

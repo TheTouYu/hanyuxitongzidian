@@ -1,36 +1,37 @@
 {
-  "char": "𥨒",
-  "head": "𥨒（竄）",
-  "level": 3,
-  "parent": "祟",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𥨒",
+ "head": "𥨒（竄）",
+ "level": 3,
+ "parent": "祟",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [
+  "竄"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥨒（竄）cuì《玉篇》：“塞也。”《廣韻》：“塞外道也。”cuàn，《集韻》：“竄，取亂切。《說文》：‘匿也。从鼠在穴中。’古作𥨒。”藏匿。"
   },
-  "aliases": [
-    "竄"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "c「刺持」取「持」：藏而持（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥨒（竄）cuì《玉篇》：“塞也。”《廣韻》：“塞外道也。”cuàn，《集韻》：“竄，取亂切。《說文》：‘匿也。从鼠在穴中。’古作𥨒。”藏匿。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "c「刺持」取「持」：藏而持（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

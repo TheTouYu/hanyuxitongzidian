@@ -1,36 +1,36 @@
 {
-  "char": "𣇧",
-  "head": "𣇧",
-  "pinyin": "",
-  "aliases": [],
-  "level": 3,
-  "parent": "炙",
-  "bus": {
-    "num": 47,
-    "name": "炙"
+ "char": "𣇧",
+ "head": "𣇧",
+ "pinyin": "",
+ "aliases": [],
+ "level": 3,
+ "parent": "炙",
+ "bus": {
+  "num": 47,
+  "name": "炙"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𣇧zhè《集韻》：“日赫。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：日光鑿透而下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𣇧zhè《集韻》：“日赫。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「凿」：日光鑿透而下（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "t": "卷七 斤",
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,43 +1,43 @@
 {
-  "char": "𢞡",
-  "head": "𢞡",
-  "aliases": [],
-  "pinyin": "xiǎng",
-  "bus": {
-    "num": 91,
-    "name": "冓"
+ "char": "𢞡",
+ "head": "𢞡",
+ "aliases": [],
+ "pinyin": "xiǎng",
+ "bus": {
+  "num": 91,
+  "name": "冓"
+ },
+ "level": 3,
+ "parent": "冓",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𢞡xiǎng《集韻》：“慃𢞡，佷戾。”"
+   ],
+   "text": "𢞡xiǎng《集韻》：“慃𢞡，佷戾。”"
   },
-  "level": 3,
-  "parent": "冓",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "x「续消」取「消」：𢞡者佷戾，氣續而不消（推）。"
+   ],
+   "text": "x「续消」取「消」：𢞡者佷戾，氣續而不消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𢞡xiǎng《集韻》：“慃𢞡，佷戾。”"
-      ],
-      "text": "𢞡xiǎng《集韻》：“慃𢞡，佷戾。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "x「续消」取「消」：𢞡者佷戾，氣續而不消（推）。"
-      ],
-      "text": "x「续消」取「消」：𢞡者佷戾，氣續而不消（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ],
-      "paras": []
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ],
+   "paras": []
+  }
+ ]
 }

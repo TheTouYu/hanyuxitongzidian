@@ -1,37 +1,38 @@
 {
-  "char": "𢍣",
-  "head": "𢍣（𦅽）",
-  "pinyin": "jú",
-  "aliases": [
-    "𦅽"
-  ],
-  "bus": {
-    "num": 61,
-    "name": "𦥑"
+ "char": "𢍣",
+ "head": "𢍣（𦅽）",
+ "pinyin": "jú",
+ "aliases": [
+  "𦅽"
+ ],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "𦥑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢍣（𦅽）jú《集韻》：“𦅽，《說文》：‘素屬。’隷作𢍣。”本即“索”字。"
   },
-  "level": 3,
-  "parent": "𦥑",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：素帛本散，執而聚之乃成束（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢍣（𦅽）jú《集韻》：“𦅽，《說文》：‘素屬。’隷作𢍣。”本即“索”字。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：素帛本散，執而聚之乃成束（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 𦥑",
-      "links": [
-        {
-          "ch": "卷十𦥑",
-          "label": "卷十 𦥑"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

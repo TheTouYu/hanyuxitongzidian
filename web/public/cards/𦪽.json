@@ -1,36 +1,36 @@
 {
-  "char": "𦪽",
-  "head": "𦪽",
-  "pinyin": "lóng",
-  "aliases": [],
-  "bus": {
-    "num": 117,
-    "name": "龍"
+ "char": "𦪽",
+ "head": "𦪽",
+ "pinyin": "lóng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦪽lóng《廣韻》：“小船上安蓋者。”《集韻》：“扁舟蓋謂之𦪽。”lǒng，攏。"
   },
-  "level": 3,
-  "parent": "龍",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：舟上加蓋攏合，蔽風雨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𦪽lóng《廣韻》：“小船上安蓋者。”《集韻》：“扁舟蓋謂之𦪽。”lǒng，攏。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：舟上加蓋攏合，蔽風雨（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

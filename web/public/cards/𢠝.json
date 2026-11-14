@@ -1,34 +1,35 @@
 {
-  "char": "𢠝",
-  "head": "𢠝",
-  "pinyin": "xīn",
-  "level": 3,
-  "parent": "或",
-  "bus": {
-    "num": 41,
-    "name": "戈"
+ "char": "𢠝",
+ "head": "𢠝",
+ "pinyin": "xīn",
+ "level": 3,
+ "parent": "或",
+ "bus": {
+  "num": 41,
+  "name": "戈"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𢠝xīn《漢典》：“中心不二。”疑誤。本同“慖”。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「续」：𢠝於指疆域，表示惑亂、不定一面取「续」之義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𢠝xīn《漢典》：“中心不二。”疑誤。本同“慖”。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「续」：𢠝於指疆域，表示惑亂、不定一面取「续」之義（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷六鶴",
-          "label": "卷六 鶴"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六鶴",
+     "label": "卷六鶴"
     }
-  ]
+   ]
+  }
+ ]
 }

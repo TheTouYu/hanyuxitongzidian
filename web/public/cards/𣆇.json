@@ -1,37 +1,38 @@
 {
-  "char": "𣆇",
-  "head": "𣆇（㫘㸓）",
-  "level": 3,
-  "parent": "示",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𣆇",
+ "head": "𣆇（㫘㸓）",
+ "level": 3,
+ "parent": "示",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [
+  "㫘",
+  "㸓"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𣆇（㫘㸓）mì《龍龕》：“㫘，俗；𣆇，正。”《集韻》：“㫘，不見也。或作㸓。”"
   },
-  "aliases": [
-    "㫘",
-    "㸓"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "m「蒙末」取「蒙」：日光蒙蔽（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𣆇（㫘㸓）mì《龍龕》：“㫘，俗；𣆇，正。”《集韻》：“㫘，不見也。或作㸓。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "m「蒙末」取「蒙」：日光蒙蔽（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

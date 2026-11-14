@@ -1,42 +1,42 @@
 {
-  "char": "𠚨",
-  "head": "𠚨",
-  "aliases": [],
-  "pinyin": "jiū",
-  "bus": {
-    "num": 89,
-    "name": "丩"
+ "char": "𠚨",
+ "head": "𠚨",
+ "aliases": [],
+ "pinyin": "jiū",
+ "bus": {
+  "num": 89,
+  "name": "丩"
+ },
+ "level": 3,
+ "parent": "丩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠚨jiū《集韻》：“居虯切，音糾。大刀。”",
+   "paras": [
+    "𠚨jiū《集韻》：“居虯切，音糾。大刀。”"
+   ]
   },
-  "level": 3,
-  "parent": "丩",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：刀背曲而聚刃（推）。",
+   "paras": [
+    "j「聚决」取「聚」：刀背曲而聚刃（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠚨jiū《集韻》：“居虯切，音糾。大刀。”",
-      "paras": [
-        "𠚨jiū《集韻》：“居虯切，音糾。大刀。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：刀背曲而聚刃（推）。",
-      "paras": [
-        "j「聚决」取「聚」：刀背曲而聚刃（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,35 +1,36 @@
 {
-  "char": "𤅊",
-  "head": "𤅊",
-  "pinyin": "yàn",
-  "level": 3,
-  "parent": "鬳",
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𤅊",
+ "head": "𤅊",
+ "pinyin": "yàn",
+ "level": 3,
+ "parent": "鬳",
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤅊yàn《說文》：“議辠也。从水、獻。與法同意。魚列切。”評議罪過。"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤅊yàn《說文》：“議辠也。从水、獻。與法同意。魚列切。”評議罪過。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": []
+   ]
+  }
+ ],
+ "aliases": []
 }

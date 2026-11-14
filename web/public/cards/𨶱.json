@@ -1,39 +1,39 @@
 {
-  "char": "𨶱",
-  "head": "𨶱",
-  "pinyin": "huā",
-  "aliases": [],
-  "bus": {
-    "num": 70,
-    "name": "𠌶"
+ "char": "𨶱",
+ "head": "𨶱",
+ "pinyin": "huā",
+ "aliases": [],
+ "bus": {
+  "num": 70,
+  "name": "𠌶"
+ },
+ "level": 3,
+ "parent": "𠌶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𨶱huā《玉篇》：“呼瓜切，音華。開門也。”"
+   ],
+   "text": "𨶱huā《玉篇》：“呼瓜切，音華。開門也。”"
   },
-  "level": 3,
-  "parent": "𠌶",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：開門則門扇豁然放開（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𨶱huā《玉篇》：“呼瓜切，音華。開門也。”"
-      ],
-      "text": "𨶱huā《玉篇》：“呼瓜切，音華。開門也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "h「豁活」取「豁」：開門則門扇豁然放開（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十二  于",
-          "ch": "卷十二于",
-          "label": "卷十二 于"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十二于",
+     "label": "卷十二于"
     }
-  ]
+   ]
+  }
+ ]
 }

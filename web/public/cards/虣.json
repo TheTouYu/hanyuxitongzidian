@@ -1,39 +1,40 @@
 {
-  "id": "虣",
-  "head": "虣",
-  "pinyin": "bào",
-  "level": 3,
-  "parent": "虍",
-  "bus": {
-    "num": 48,
-    "name": "虍"
+ "id": "虣",
+ "head": "虣",
+ "pinyin": "bào",
+ "level": 3,
+ "parent": "虍",
+ "bus": {
+  "num": 48,
+  "name": "虍"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“虐也。急也。从虎从武。見《周禮》。薄報切。”《六書正訛》：“強侵也，虐也，猛也。”義音同“暴”。"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：強侵剝奪（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《說文》：“虐也。急也。从虎从武。見《周禮》。薄報切。”《六書正訛》：“強侵也，虐也，猛也。”義音同“暴”。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「剥」：強侵剝奪（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "lei": "虎",
-  "char": "虣",
-  "aliases": [
-    "𧇑",
-    "暴"
-  ]
+   ]
+  }
+ ],
+ "lei": "虎",
+ "char": "虣",
+ "aliases": [
+  "𧇑",
+  "暴"
+ ]
 }

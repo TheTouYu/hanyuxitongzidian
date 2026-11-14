@@ -1,37 +1,38 @@
 {
-  "char": "𥍠",
-  "head": "𥍠（𥍟）",
-  "pinyin": "xù",
-  "aliases": [
-    "𥍟"
-  ],
-  "bus": {
-    "num": 34,
-    "name": "丂"
+ "char": "𥍠",
+ "head": "𥍠（𥍟）",
+ "pinyin": "xù",
+ "aliases": [
+  "𥍟"
+ ],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
+ "level": 3,
+ "parent": "兮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥍠（𥍟）xù《玉篇》：“長矛也。”《集韻》：“𥍟，矛屬，長𥍟謂之勃盧。或作𥍠。”"
   },
-  "level": 3,
-  "parent": "兮",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：口出氣而續續消散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥍠（𥍟）xù《玉篇》：“長矛也。”《集韻》：“𥍟，矛屬，長𥍟謂之勃盧。或作𥍠。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：口出氣而續續消散（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

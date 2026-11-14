@@ -1,35 +1,36 @@
 {
-  "char": "忒",
-  "level": 3,
-  "parent": "弋",
-  "bus": {
-    "num": 26,
-    "name": "弋"
+ "char": "忒",
+ "level": 3,
+ "parent": "弋",
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
+ "head": "忒",
+ "aliases": [],
+ "pinyin": "tè",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“更也。从心弋聲。他得切。”變更。《廣韻》：“差也。”《玉篇》：“疑也。”即心意反复。tuī ，方言，太。"
   },
-  "head": "忒",
-  "aliases": [],
-  "pinyin": "tè",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "t「涂突」取「突」：心意猝變而差忒（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷四 弋",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《說文》：“更也。从心弋聲。他得切。”變更。《廣韻》：“差也。”《玉篇》：“疑也。”即心意反复。tuī ，方言，太。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "t「涂突」取「突」：心意猝變而差忒（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷四 弋",
-      "links": [
-        {
-          "ch": "卷四弋",
-          "label": "卷四 弋"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷四弋",
+     "label": "卷四弋"
     }
-  ]
+   ]
+  }
+ ]
 }

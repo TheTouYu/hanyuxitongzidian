@@ -1,36 +1,37 @@
 {
-  "char": "𩈶",
-  "head": "𩈶（𩈫赧）",
-  "level": 3,
-  "parent": "柰",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𩈶",
+ "head": "𩈶（𩈫赧）",
+ "level": 3,
+ "parent": "柰",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [
+  "赧"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𩈶（𩈫赧）nǎn《玉篇》：“䩆𩈶。又慙愧也。或爲赧。”"
   },
-  "aliases": [
-    "赧"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "n「纳弄」取「纳」：面赤納（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𩈶（𩈫赧）nǎn《玉篇》：“䩆𩈶。又慙愧也。或爲赧。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "n「纳弄」取「纳」：面赤納（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

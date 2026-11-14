@@ -1,45 +1,45 @@
 {
-  "char": "㜊",
-  "head": "㜊",
-  "pinyin": "zhǎn",
-  "aliases": [],
-  "level": 3,
-  "parent": "㠭",
-  "bus": {
-    "num": 139,
-    "name": "㠭部"
+ "char": "㜊",
+ "head": "㜊",
+ "pinyin": "zhǎn",
+ "aliases": [],
+ "level": 3,
+ "parent": "㠭",
+ "bus": {
+  "num": 139,
+  "name": "㠭部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㜊奵，好皃。”",
+   "paras": [
+    "《集韻》：“㜊奵，好皃。”"
+   ]
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：美好而眾善總聚（推）。",
+   "paras": [
+    "zh「凿总」取「总」：美好而眾善總聚（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《集韻》：“㜊奵，好皃。”",
-      "paras": [
-        "《集韻》：“㜊奵，好皃。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「总」：美好而眾善總聚（推）。",
-      "paras": [
-        "zh「凿总」取「总」：美好而眾善總聚（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "paras": [
-        ""
-      ],
-      "links": [
-        {
-          "t": "卷廿四 貝",
-          "ch": "卷廿四貝",
-          "label": "卷廿四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

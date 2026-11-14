@@ -1,32 +1,33 @@
 {
-  "char": "忔",
-  "level": 3,
-  "parent": "乞",
-  "bus": {
-    "num": 6,
-    "name": "乞"
+ "char": "忔",
+ "level": 3,
+ "parent": "乞",
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《廣韻》：“喜也。”yì，《集韻》：“心不欲也。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《廣韻》：“喜也。”yì，《集韻》：“心不欲也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "零「零聲母」不系：緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ]
+   ]
+  }
+ ]
 }

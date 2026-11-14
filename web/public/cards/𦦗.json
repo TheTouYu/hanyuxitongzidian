@@ -1,43 +1,43 @@
 {
-  "char": "𦦗",
-  "head": "𦦗",
-  "pinyin": "jiāng",
-  "aliases": [],
-  "bus": {
-    "num": 103,
-    "name": "爻"
+ "char": "𦦗",
+ "head": "𦦗",
+ "pinyin": "jiāng",
+ "aliases": [],
+ "bus": {
+  "num": 103,
+  "name": "爻"
+ },
+ "level": 3,
+ "parent": "𦥯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𦦗jiāng《川篇》：“音江。木也。”疑即“槳”。"
+   ],
+   "text": "𦦗jiāng《川篇》：“音江。木也。”疑即“槳”。"
   },
-  "level": 3,
-  "parent": "𦥯",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "j「聚决」取「聚」：木聚成舟，槳以擊水（推）。"
+   ],
+   "text": "j「聚决」取「聚」：木聚成舟，槳以擊水（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𦦗jiāng《川篇》：“音江。木也。”疑即“槳”。"
-      ],
-      "text": "𦦗jiāng《川篇》：“音江。木也。”疑即“槳”。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "j「聚决」取「聚」：木聚成舟，槳以擊水（推）。"
-      ],
-      "text": "j「聚决」取「聚」：木聚成舟，槳以擊水（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十角",
+     "label": "卷二十角"
     }
-  ]
+   ]
+  }
+ ]
 }

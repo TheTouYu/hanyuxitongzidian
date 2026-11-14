@@ -1,44 +1,44 @@
 {
-  "char": "𥆤",
-  "head": "𥆤（目）",
-  "pinyin": "mù",
-  "aliases": [],
-  "bus": {
-    "num": 136,
-    "name": "臣部"
+ "char": "𥆤",
+ "head": "𥆤（目）",
+ "pinyin": "mù",
+ "aliases": [],
+ "bus": {
+  "num": 136,
+  "name": "臣部"
+ },
+ "level": 3,
+ "parent": "目",
+ "photos": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𥆤（目）mù《字彙補》：“古文目字。”"
+   ],
+   "text": "𥆤（目）mù《字彙補》：“古文目字。”"
   },
-  "level": 3,
-  "parent": "目",
-  "photos": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：目之古文，作目形之末筆（推）。",
+   "paras": [
+    "m「蒙末」取「末」：目之古文，作目形之末筆（推）。"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𥆤（目）mù《字彙補》：“古文目字。”"
-      ],
-      "text": "𥆤（目）mù《字彙補》：“古文目字。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "m「蒙末」取「末」：目之古文，作目形之末筆（推）。",
-      "paras": [
-        "m「蒙末」取「末」：目之古文，作目形之末筆（推）。"
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

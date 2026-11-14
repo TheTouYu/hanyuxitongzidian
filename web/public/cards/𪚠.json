@@ -1,36 +1,36 @@
 {
-  "char": "𪚠",
-  "head": "𪚠",
-  "pinyin": "lóng",
-  "aliases": [],
-  "bus": {
-    "num": 117,
-    "name": "龍"
+ "char": "𪚠",
+ "head": "𪚠",
+ "pinyin": "lóng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪚠lóng《廣雅》：“巫也。”"
   },
-  "level": 3,
-  "parent": "龍",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：巫者攏聚眾神而舞，以禱雨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪚠lóng《廣雅》：“巫也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：巫者攏聚眾神而舞，以禱雨（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

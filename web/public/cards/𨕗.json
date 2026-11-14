@@ -1,42 +1,42 @@
 {
-  "char": "𨕗",
-  "head": "𨕗",
-  "pinyin": "yuán",
-  "aliases": [],
-  "bus": {
-    "num": 149,
-    "name": "北"
+ "char": "𨕗",
+ "head": "𨕗",
+ "pinyin": "yuán",
+ "aliases": [],
+ "bus": {
+  "num": 149,
+  "name": "北"
+ },
+ "level": 3,
+ "parent": "飛",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨕗yuán《龍龕》：“音緣。”音義應同遠。",
+   "paras": [
+    "𨕗yuán《龍龕》：“音緣。”音義應同遠。"
+   ]
   },
-  "level": 3,
-  "parent": "飛",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+   "paras": [
+    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨕗yuán《龍龕》：“音緣。”音義應同遠。",
-      "paras": [
-        "𨕗yuán《龍龕》：“音緣。”音義應同遠。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-      "paras": [
-        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷",
-          "ch": "卷二十六飛",
-          "label": "卷二十六  飛"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十六飛",
+     "label": "卷二十六飛"
     }
-  ]
+   ]
+  }
+ ]
 }

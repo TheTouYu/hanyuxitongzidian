@@ -1,42 +1,42 @@
 {
-  "char": "𠟌",
-  "head": "𠟌",
-  "pinyin": "fǔ",
-  "aliases": [],
-  "bus": {
-    "num": 150,
-    "name": "不"
+ "char": "𠟌",
+ "head": "𠟌",
+ "pinyin": "fǔ",
+ "aliases": [],
+ "bus": {
+  "num": 150,
+  "name": "不"
+ },
+ "level": 3,
+ "parent": "咅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠟌fǔ《篇海》：“割草也。”pǒu，《集韻》：“𠟌𦺗，艸名。魚薺也。”",
+   "paras": [
+    "𠟌fǔ《篇海》：“割草也。”pǒu，《集韻》：“𠟌𦺗，艸名。魚薺也。”"
+   ]
   },
-  "level": 3,
-  "parent": "咅",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：刀分草（推）。",
+   "paras": [
+    "f「附分」取「分」：刀分草（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠟌fǔ《篇海》：“割草也。”pǒu，《集韻》：“𠟌𦺗，艸名。魚薺也。”",
-      "paras": [
-        "𠟌fǔ《篇海》：“割草也。”pǒu，《集韻》：“𠟌𦺗，艸名。魚薺也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "f「附分」取「分」：刀分草（推）。",
-      "paras": [
-        "f「附分」取「分」：刀分草（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷",
-          "ch": "卷二十六飛",
-          "label": "卷二十六  飛"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十六飛",
+     "label": "卷二十六飛"
     }
-  ]
+   ]
+  }
+ ]
 }

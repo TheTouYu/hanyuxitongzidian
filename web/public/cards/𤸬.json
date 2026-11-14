@@ -1,39 +1,39 @@
 {
-  "char": "𤸬",
-  "head": "𤸬",
-  "pinyin": "shuāi",
-  "aliases": [],
-  "bus": {
-    "num": 65,
-    "name": "竹"
+ "char": "𤸬",
+ "head": "𤸬",
+ "pinyin": "shuāi",
+ "aliases": [],
+ "bus": {
+  "num": 65,
+  "name": "竹"
+ },
+ "level": 3,
+ "parent": "衰",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𤸬shuāi《說文》：“減也。从疒衰聲。一曰耗也。楚追切。”疾病減輕。衰弱。"
+   ],
+   "text": "𤸬shuāi《說文》：“減也。从疒衰聲。一曰耗也。楚追切。”疾病減輕。衰弱。"
   },
-  "level": 3,
-  "parent": "衰",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：病減氣失，形骸衰薾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𤸬shuāi《說文》：“減也。从疒衰聲。一曰耗也。楚追切。”疾病減輕。衰弱。"
-      ],
-      "text": "𤸬shuāi《說文》：“減也。从疒衰聲。一曰耗也。楚追切。”疾病減輕。衰弱。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "sh「失收」取「失」：病減氣失，形骸衰薾（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十一 竹",
-          "ch": "卷十一竹",
-          "label": "卷十一 竹"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十一竹",
+     "label": "卷十一竹"
     }
-  ]
+   ]
+  }
+ ]
 }

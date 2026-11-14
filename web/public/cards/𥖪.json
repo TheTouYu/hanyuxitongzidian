@@ -1,35 +1,36 @@
 {
-  "char": "𥖪",
-  "head": "𥖪",
-  "pinyin": "lè",
-  "level": 3,
-  "parent": "蒦",
-  "bus": {
-    "num": 40,
-    "name": "隻"
+ "char": "𥖪",
+ "head": "𥖪",
+ "pinyin": "lè",
+ "level": 3,
+ "parent": "蒦",
+ "bus": {
+  "num": 40,
+  "name": "隻"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥖪lè《廣韻》：“力摘切，冷入聲。𥖪礋，打草田器。出《字林》。”農具名。形似碌碡，外有齒。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「拢」：𥖪從指鶴飛，表示撲騰、翻滾一面取「拢」之義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六 鶴",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥖪lè《廣韻》：“力摘切，冷入聲。𥖪礋，打草田器。出《字林》。”農具名。形似碌碡，外有齒。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "l「拢离」取「拢」：𥖪從指鶴飛，表示撲騰、翻滾一面取「拢」之義（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷六 鶴",
-      "links": [
-        {
-          "ch": "卷六鶴",
-          "label": "卷六 鶴"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六鶴",
+     "label": "卷六鶴"
     }
-  ]
+   ]
+  }
+ ]
 }

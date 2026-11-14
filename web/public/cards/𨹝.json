@@ -1,34 +1,35 @@
 {
-  "char": "𨹝",
-  "head": "𨹝",
-  "level": 3,
-  "parent": "邑",
-  "bus": {
-    "num": 23,
-    "name": "ㄗ"
+ "char": "𨹝",
+ "head": "𨹝",
+ "level": 3,
+ "parent": "邑",
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𨹝yì《集韻》：“乙及切，音邑。𨹝𨽦，陜也。”狹窄。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𨹝yì《集韻》：“乙及切，音邑。𨹝𨽦，陜也。”狹窄。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

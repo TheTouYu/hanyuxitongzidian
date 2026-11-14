@@ -1,37 +1,38 @@
 {
-  "char": "𥍮",
-  "head": "𥍮（𥎌）",
-  "pinyin": "féng",
-  "level": 3,
-  "parent": "夆",
-  "bus": {
-    "num": 125,
-    "name": "丰部"
+ "char": "𥍮",
+ "head": "𥍮（𥎌）",
+ "pinyin": "féng",
+ "level": 3,
+ "parent": "夆",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [
+  "𥎌"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥍮（𥎌）féng《字林》：“矛有二樸曰𥍮𥎂。”一種有二柄的矛。fēng，《集韻》：“𥎌，矛屬。或从夆。”"
   },
-  "aliases": [
-    "𥎌"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：矛附柄而分刃，附而後有二樸，故𥍮為矛屬（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥍮（𥎌）féng《字林》：“矛有二樸曰𥍮𥎂。”一種有二柄的矛。fēng，《集韻》：“𥎌，矛屬。或从夆。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "f「附分」取「附」：矛附柄而分刃，附而後有二樸，故𥍮為矛屬（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十四 貝",
-      "links": [
-        {
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

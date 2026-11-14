@@ -1,42 +1,42 @@
 {
-  "char": "𥒁",
-  "head": "𥒁",
-  "aliases": [],
-  "pinyin": "kēng",
-  "bus": {
-    "num": 89,
-    "name": "丩"
+ "char": "𥒁",
+ "head": "𥒁",
+ "aliases": [],
+ "pinyin": "kēng",
+ "bus": {
+  "num": 89,
+  "name": "丩"
+ },
+ "level": 3,
+ "parent": "州",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥒁kēng《字彙補》：“口庚切，音坑。石聲也。”",
+   "paras": [
+    "𥒁kēng《字彙補》：“口庚切，音坑。石聲也。”"
+   ]
   },
-  "level": 3,
-  "parent": "州",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：石聲鏗然，如物相控（推）。",
+   "paras": [
+    "k「口控」取「控」：石聲鏗然，如物相控（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥒁kēng《字彙補》：“口庚切，音坑。石聲也。”",
-      "paras": [
-        "𥒁kēng《字彙補》：“口庚切，音坑。石聲也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "k「口控」取「控」：石聲鏗然，如物相控（推）。",
-      "paras": [
-        "k「口控」取「控」：石聲鏗然，如物相控（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

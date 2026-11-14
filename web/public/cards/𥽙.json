@@ -1,42 +1,42 @@
 {
-  "char": "𥽙",
-  "head": "𥽙",
-  "aliases": [],
-  "pinyin": "xiù",
-  "bus": {
-    "num": 394,
-    "name": "自"
+ "char": "𥽙",
+ "head": "𥽙",
+ "aliases": [],
+ "pinyin": "xiù",
+ "bus": {
+  "num": 394,
+  "name": "自"
+ },
+ "level": 3,
+ "parent": "臭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥽙xiù《集韻》：“許九切，音朽。乾飯屑也。”",
+   "paras": [
+    "𥽙xiù《集韻》：“許九切，音朽。乾飯屑也。”"
+   ]
   },
-  "level": 3,
-  "parent": "臭",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：乾飯屑散，氣隨而消（推）。",
+   "paras": [
+    "x「续消」取「消」：乾飯屑散，氣隨而消（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥽙xiù《集韻》：“許九切，音朽。乾飯屑也。”",
-      "paras": [
-        "𥽙xiù《集韻》：“許九切，音朽。乾飯屑也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：乾飯屑散，氣隨而消（推）。",
-      "paras": [
-        "x「续消」取「消」：乾飯屑散，氣隨而消（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷六十五  鼻",
-          "ch": "卷六十五鼻",
-          "label": "卷六十五 鼻"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
     }
-  ]
+   ]
+  }
+ ]
 }

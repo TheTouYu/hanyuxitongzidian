@@ -1,34 +1,35 @@
 {
-  "char": "嵥",
-  "head": "嵥",
-  "level": 3,
-  "parent": "桀",
-  "bus": {
-    "num": 7,
-    "name": "桀"
+ "char": "嵥",
+ "head": "嵥",
+ "level": 3,
+ "parent": "桀",
+ "bus": {
+  "num": 7,
+  "name": "桀"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》：“嵥𡴎，高皃。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：山聚而高（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《集韻》：“嵥𡴎，高皃。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：山聚而高（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ]
+   ]
+  }
+ ]
 }

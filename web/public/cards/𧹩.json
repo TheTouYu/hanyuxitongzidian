@@ -1,39 +1,40 @@
 {
-  "char": "𧹩",
-  "head": "𧹩",
-  "pinyin": "lín",
-  "level": 3,
-  "parent": "東",
-  "bus": {
-    "num": 122,
-    "name": "東部"
+ "char": "𧹩",
+ "head": "𧹩",
+ "pinyin": "lín",
+ "level": 3,
+ "parent": "東",
+ "bus": {
+  "num": 122,
+  "name": "東部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧹩lín《五音篇海》：“音林。”liàn，《五侯鯖字海·赤部》：“𧹩，音煉。”“煉”字之訛。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：赤石入火，聚攏而煉（推）。",
+   "paras": [
+    "l「拢离」取「拢」：赤石入火，聚攏而煉（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十三 鼓",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧹩lín《五音篇海》：“音林。”liàn，《五侯鯖字海·赤部》：“𧹩，音煉。”“煉”字之訛。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：赤石入火，聚攏而煉（推）。",
-      "paras": [
-        "l「拢离」取「拢」：赤石入火，聚攏而煉（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十三 鼓",
-      "links": [
-        {
-          "ch": "卷二十三鼓",
-          "label": "卷二十三 鼓"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十三鼓",
+     "label": "卷二十三鼓"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

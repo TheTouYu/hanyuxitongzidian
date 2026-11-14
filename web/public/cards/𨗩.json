@@ -1,37 +1,38 @@
 {
-  "char": "𨗩",
-  "head": "𨗩（𨖐）",
-  "pinyin": "záo",
-  "aliases": [
-    "𨖐"
-  ],
-  "bus": {
-    "num": 52,
-    "name": "業"
+ "char": "𨗩",
+ "head": "𨗩（𨖐）",
+ "pinyin": "záo",
+ "aliases": [
+  "𨖐"
+ ],
+ "bus": {
+  "num": 52,
+  "name": "業"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨗩（𨖐）záo《字彙》：“與鑿同。”《正字通》：“𨖐字之訛。”"
   },
-  "level": 3,
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：承業之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨗩（𨖐）záo《字彙》：“與鑿同。”《正字通》：“𨖐字之訛。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "z「凿总」取「凿」：承業之取義一面（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

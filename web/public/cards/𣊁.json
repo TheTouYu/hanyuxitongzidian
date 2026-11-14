@@ -1,43 +1,43 @@
 {
-  "char": "𣊁",
-  "head": "𣊁",
-  "pinyin": "áo",
-  "aliases": [],
-  "bus": {
-    "num": 109,
-    "name": "方"
+ "char": "𣊁",
+ "head": "𣊁",
+ "pinyin": "áo",
+ "aliases": [],
+ "bus": {
+  "num": 109,
+  "name": "方"
+ },
+ "level": 3,
+ "parent": "敖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𣊁áo《集韻》：“牛刀切，音遨。日光。”"
+   ],
+   "text": "𣊁áo《集韻》：“牛刀切，音遨。日光。”"
   },
-  "level": 3,
-  "parent": "敖",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   ],
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𣊁áo《集韻》：“牛刀切，音遨。日光。”"
-      ],
-      "text": "𣊁áo《集韻》：“牛刀切，音遨。日光。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-      ],
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿一  方",
-          "ch": "卷廿一方",
-          "label": "卷廿一 方"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十一方",
+     "label": "卷二十一方"
     }
-  ]
+   ]
+  }
+ ]
 }

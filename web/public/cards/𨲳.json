@@ -1,39 +1,40 @@
 {
-  "char": "𨲳",
-  "head": "𨲳",
-  "pinyin": "nóng",
-  "aliases": [],
-  "level": 3,
-  "parent": "農",
-  "bus": {
-    "num": 134,
-    "name": "辰部"
+ "char": "𨲳",
+ "head": "𨲳",
+ "pinyin": "nóng",
+ "aliases": [],
+ "level": 3,
+ "parent": "農",
+ "bus": {
+  "num": 134,
+  "name": "辰部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨲳nóng《廣韻》：“多也。”",
+   "paras": [
+    "𨲳nóng《廣韻》：“多也。”"
+   ]
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：物納眾多，厚而無算（推）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨲳nóng《廣韻》：“多也。”",
-      "paras": [
-        "𨲳nóng《廣韻》：“多也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "n「纳弄」取「纳」：物納眾多，厚而無算（推）。",
-      "paras": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿四 貝",
-          "ch": "卷二十四貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

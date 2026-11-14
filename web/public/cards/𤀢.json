@@ -1,37 +1,38 @@
 {
-  "char": "𤀢",
-  "head": "𤀢",
-  "pinyin": "wú",
-  "level": 3,
-  "parent": "法",
-  "bus": {
-    "num": 49,
-    "name": "去"
+ "char": "𤀢",
+ "head": "𤀢",
+ "pinyin": "wú",
+ "level": 3,
+ "parent": "法",
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤀢（無）wú《字彙補》：“武夫切。與無同。涵虛子作。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：與無同，零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤀢（無）wú《字彙補》：“武夫切。與無同。涵虛子作。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：與無同，零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": [
-    "無"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "無"
+ ]
 }

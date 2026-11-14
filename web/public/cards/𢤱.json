@@ -1,36 +1,36 @@
 {
-  "char": "𢤱",
-  "head": "𢤱",
-  "pinyin": "lǒng",
-  "aliases": [],
-  "bus": {
-    "num": 117,
-    "name": "龍"
+ "char": "𢤱",
+ "head": "𢤱",
+ "pinyin": "lǒng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢤱lǒng《廣韻》：“𢤱悷，不調。”《集韻》：“𢤱悷，多惡也。”“𢤱悷，很也。”“𢤱悷，性恨。”兇狠難以制服。"
   },
-  "level": 3,
-  "parent": "龍",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：心氣離戾不和，狠而難制（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢤱lǒng《廣韻》：“𢤱悷，不調。”《集韻》：“𢤱悷，多惡也。”“𢤱悷，很也。”“𢤱悷，性恨。”兇狠難以制服。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「离」：心氣離戾不和，狠而難制（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

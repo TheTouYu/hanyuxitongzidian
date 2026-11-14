@@ -1,36 +1,37 @@
 {
-  "char": "𩚪",
-  "head": "𩚪（𩱓㢽餌）",
-  "level": 3,
-  "parent": "示",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𩚪",
+ "head": "𩚪（𩱓㢽餌）",
+ "level": 3,
+ "parent": "示",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [
+  "餌"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𩚪（𩱓㢽餌）ěr《集韻》：“𩱓，《說文》：‘粉餅也。’或作㢽、餌、𩚪。”《玉篇》：“祭也。”"
   },
-  "aliases": [
-    "餌"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𩚪（𩱓㢽餌）ěr《集韻》：“𩱓，《說文》：‘粉餅也。’或作㢽、餌、𩚪。”《玉篇》：“祭也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "零「零聲母」不系：緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

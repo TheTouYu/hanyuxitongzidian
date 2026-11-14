@@ -1,42 +1,42 @@
 {
-  "char": "𤲍",
-  "head": "𤲍",
-  "aliases": [],
-  "pinyin": "xiá",
-  "bus": {
-    "num": 76,
-    "name": "夾"
+ "char": "𤲍",
+ "head": "𤲍",
+ "aliases": [],
+ "pinyin": "xiá",
+ "bus": {
+  "num": 76,
+  "name": "夾"
+ },
+ "level": 3,
+ "parent": "夾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤲍xiá《字彙補》：“相著也。”",
+   "paras": [
+    "𤲍xiá《字彙補》：“相著也。”"
+   ]
   },
-  "level": 3,
-  "parent": "夾",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：兩物相續而著，貼合不分（推）。",
+   "paras": [
+    "x「续消」取「续」：兩物相續而著，貼合不分（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𤲍xiá《字彙補》：“相著也。”",
-      "paras": [
-        "𤲍xiá《字彙補》：“相著也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：兩物相續而著，貼合不分（推）。",
-      "paras": [
-        "x「续消」取「续」：兩物相續而著，貼合不分（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

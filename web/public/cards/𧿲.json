@@ -1,36 +1,37 @@
 {
-  "char": "𧿲",
-  "head": "𧿲（𨒉𨓫䢡）",
-  "level": 3,
-  "parent": "𠂔",
-  "bus": {
-    "num": 21,
-    "name": "𠂔"
+ "char": "𧿲",
+ "head": "𧿲（𨒉𨓫䢡）",
+ "level": 3,
+ "parent": "𠂔",
+ "bus": {
+  "num": 21,
+  "name": "𠂔"
+ },
+ "aliases": [
+  "䢡"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧿲（𨒉𨓫䢡）zhuì《集韻》：“足不前也。或从足。亦作𨓫、䢡。”次且不前的樣子。bó，《龍龕》：“行皃也。”"
   },
-  "aliases": [
-    "䢡"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「持」：持止不前（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧿲（𨒉𨓫䢡）zhuì《集韻》：“足不前也。或从足。亦作𨓫、䢡。”次且不前的樣子。bó，《龍龕》：“行皃也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "ch「刺持」取「持」：持止不前（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

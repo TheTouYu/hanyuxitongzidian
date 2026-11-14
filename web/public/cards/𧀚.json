@@ -1,42 +1,42 @@
 {
-  "char": "𧀚",
-  "head": "𧀚",
-  "aliases": [],
-  "pinyin": "sī",
-  "bus": {
-    "num": 90,
-    "name": "司"
+ "char": "𧀚",
+ "head": "𧀚",
+ "aliases": [],
+ "pinyin": "sī",
+ "bus": {
+  "num": 90,
+  "name": "司"
+ },
+ "level": 3,
+ "parent": "司",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧀚sī《字彙補》：“音司。草也。”",
+   "paras": [
+    "𧀚sī《字彙補》：“音司。草也。”"
+   ]
   },
-  "level": 3,
-  "parent": "司",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：草葉收束而生（推）。",
+   "paras": [
+    "s「失收」取「收」：草葉收束而生（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧀚sī《字彙補》：“音司。草也。”",
-      "paras": [
-        "𧀚sī《字彙補》：“音司。草也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "s「失收」取「收」：草葉收束而生（推）。",
-      "paras": [
-        "s「失收」取「收」：草葉收束而生（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

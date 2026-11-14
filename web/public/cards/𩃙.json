@@ -1,36 +1,36 @@
 {
-  "char": "𩃙",
-  "head": "𩃙",
-  "pinyin": "gōng",
-  "aliases": [],
-  "bus": {
-    "num": 118,
-    "name": "畾"
+ "char": "𩃙",
+ "head": "𩃙",
+ "pinyin": "gōng",
+ "aliases": [],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "靁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩃙gōng《廣韻》：“吳王孫休子名。”人名用字。"
   },
-  "level": 3,
-  "parent": "靁",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：雷聲隔雲而作，其名取此（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩃙gōng《廣韻》：“吳王孫休子名。”人名用字。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "g「隔估」取「隔」：雷聲隔雲而作，其名取此（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷二十二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,41 +1,41 @@
 {
-  "char": "𪒰",
-  "head": "𪒰（𪑖）",
-  "pinyin": "bēn",
-  "aliases": [
-    "𪑖"
-  ],
-  "bus": {
-    "num": 128,
-    "name": "賁部"
+ "char": "𪒰",
+ "head": "𪒰（𪑖）",
+ "pinyin": "bēn",
+ "aliases": [
+  "𪑖"
+ ],
+ "bus": {
+  "num": 128,
+  "name": "賁部"
+ },
+ "level": 3,
+ "parent": "賁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪒰（𪑖）bēn《字彙》：“同𪑖。”黑。",
+   "paras": [
+    "𪒰（𪑖）bēn《字彙》：“同𪑖。”黑。"
+   ]
   },
-  "level": 3,
-  "parent": "賁",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：墨色深閉不透光，故黑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪒰（𪑖）bēn《字彙》：“同𪑖。”黑。",
-      "paras": [
-        "𪒰（𪑖）bēn《字彙》：“同𪑖。”黑。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「闭」：墨色深閉不透光，故黑（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

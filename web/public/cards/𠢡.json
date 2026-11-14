@@ -1,42 +1,42 @@
 {
-  "char": "𠢡",
-  "head": "𠢡",
-  "aliases": [],
-  "pinyin": "zhá",
-  "bus": {
-    "num": 75,
-    "name": "合"
+ "char": "𠢡",
+ "head": "𠢡",
+ "aliases": [],
+ "pinyin": "zhá",
+ "bus": {
+  "num": 75,
+  "name": "合"
+ },
+ "level": 3,
+ "parent": "荅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠢡zhá《集韻》：“竹洽切，音箚。勤力也。”",
+   "paras": [
+    "𠢡zhá《集韻》：“竹洽切，音箚。勤力也。”"
+   ]
   },
-  "level": 3,
-  "parent": "荅",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：勤力總事，用力相應（推）。",
+   "paras": [
+    "zh「凿总」取「总」：勤力總事，用力相應（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠢡zhá《集韻》：“竹洽切，音箚。勤力也。”",
-      "paras": [
-        "𠢡zhá《集韻》：“竹洽切，音箚。勤力也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「总」：勤力總事，用力相應（推）。",
-      "paras": [
-        "zh「凿总」取「总」：勤力總事，用力相應（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

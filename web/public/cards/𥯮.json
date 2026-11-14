@@ -1,35 +1,36 @@
 {
-  "char": "𥯮",
-  "head": "𥯮",
-  "pinyin": "yú",
-  "aliases": [],
-  "bus": {
-    "num": 61,
-    "name": "𦥑"
+ "char": "𥯮",
+ "head": "𥯮",
+ "pinyin": "yú",
+ "aliases": [],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "臾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥯮yú《集韻》：“容朱切，音兪。黑竹。”"
   },
-  "level": 3,
-  "parent": "臾",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥯮yú《集韻》：“容朱切，音兪。黑竹。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 𦥑",
-      "links": [
-        {
-          "ch": "卷十𦥑",
-          "label": "卷十 𦥑"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

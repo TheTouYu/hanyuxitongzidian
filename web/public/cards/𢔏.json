@@ -1,37 +1,38 @@
 {
-  "char": "𢔏",
-  "head": "𢔏（後）",
-  "pinyin": "hòu",
-  "aliases": [
-    "後"
-  ],
-  "bus": {
-    "num": 53,
-    "name": "舟"
+ "char": "𢔏",
+ "head": "𢔏（後）",
+ "pinyin": "hòu",
+ "aliases": [
+  "後"
+ ],
+ "bus": {
+  "num": 53,
+  "name": "舟"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢔏（後）hòu《字彙補》：“古文後字。”"
   },
-  "level": 3,
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢔏（後）hòu《字彙補》：“古文後字。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷九 舟",
-      "links": [
-        {
-          "ch": "卷九舟",
-          "label": "卷九 舟"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷九舟",
+     "label": "卷九舟"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

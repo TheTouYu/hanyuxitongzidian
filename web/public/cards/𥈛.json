@@ -1,46 +1,46 @@
 {
-  "char": "𥈛",
-  "head": "𥈛",
-  "pinyin": "lù",
-  "aliases": [],
-  "level": 3,
-  "parent": "目",
-  "parents": [
-    "目",
-    "六"
-  ],
-  "bus": {
-    "num": 136,
-    "name": "臣部"
+ "char": "𥈛",
+ "head": "𥈛",
+ "pinyin": "lù",
+ "aliases": [],
+ "level": 3,
+ "parent": "目",
+ "parents": [
+  "目",
+  "六"
+ ],
+ "bus": {
+  "num": 136,
+  "name": "臣部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥈛lù《篇海》：“盧穀切，音六。深目也。”",
+   "paras": [
+    "𥈛lù《篇海》：“盧穀切，音六。深目也。”"
+   ]
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：目眶深陷，向內攏聚（推）。",
+   "paras": [
+    "l「拢离」取「拢」：目眶深陷，向內攏聚（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥈛lù《篇海》：“盧穀切，音六。深目也。”",
-      "paras": [
-        "𥈛lù《篇海》：“盧穀切，音六。深目也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：目眶深陷，向內攏聚（推）。",
-      "paras": [
-        "l「拢离」取「拢」：目眶深陷，向內攏聚（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿四 貝",
-          "ch": "卷廿四貝",
-          "label": "卷廿四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,36 +1,37 @@
 {
-  "char": "𥚋",
-  "head": "𥚋（㞊𡰇）",
-  "level": 3,
-  "parent": "祟",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𥚋",
+ "head": "𥚋（㞊𡰇）",
+ "level": 3,
+ "parent": "祟",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [
+  "㞊"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥚋（㞊𡰇）xù《集韻》：“不能行也。”"
   },
-  "aliases": [
-    "㞊"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「消」：足消而不能行（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥚋（㞊𡰇）xù《集韻》：“不能行也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「消」：足消而不能行（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,34 +1,35 @@
 {
-  "char": "𧍙",
-  "head": "𧍙",
-  "level": 3,
-  "parent": "氾",
-  "bus": {
-    "num": 23,
-    "name": "ㄗ"
+ "char": "𧍙",
+ "head": "𧍙",
+ "level": 3,
+ "parent": "氾",
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧍙fàn《玉篇》：“蜂也。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "f「附分」取「分」：氾濫分溢（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧍙fàn《玉篇》：“蜂也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "f「附分」取「分」：氾濫分溢（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

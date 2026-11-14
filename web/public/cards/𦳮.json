@@ -1,44 +1,44 @@
 {
-  "char": "𦳮",
-  "head": "𦳮",
-  "pinyin": "zhí",
-  "aliases": [],
-  "bus": {
-    "num": 136,
-    "name": "臣部"
+ "char": "𦳮",
+ "head": "𦳮",
+ "pinyin": "zhí",
+ "aliases": [],
+ "bus": {
+  "num": 136,
+  "name": "臣部"
+ },
+ "level": 3,
+ "photos": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𦳮zhí《唐韻》：“𦳮卷。”"
+   ],
+   "text": "𦳮zhí《唐韻》：“𦳮卷。”"
   },
-  "level": 3,
-  "photos": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：草葉卷曲，總聚成束（推）。",
+   "paras": [
+    "zh「凿总」取「总」：草葉卷曲，總聚成束（推）。"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𦳮zhí《唐韻》：“𦳮卷。”"
-      ],
-      "text": "𦳮zhí《唐韻》：“𦳮卷。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「总」：草葉卷曲，總聚成束（推）。",
-      "paras": [
-        "zh「凿总」取「总」：草葉卷曲，總聚成束（推）。"
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

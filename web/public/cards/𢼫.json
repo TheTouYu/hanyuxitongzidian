@@ -1,43 +1,43 @@
 {
-  "char": "𢼫",
-  "head": "𢼫",
-  "pinyin": "jiào",
-  "aliases": [],
-  "bus": {
-    "num": 103,
-    "name": "爻"
+ "char": "𢼫",
+ "head": "𢼫",
+ "pinyin": "jiào",
+ "aliases": [],
+ "bus": {
+  "num": 103,
+  "name": "爻"
+ },
+ "level": 3,
+ "parent": "爻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𢼫jiào《五音集韻》：“古孝切，音教。交炊木也。”"
+   ],
+   "text": "𢼫jiào《五音集韻》：“古孝切，音教。交炊木也。”"
   },
-  "level": 3,
-  "parent": "爻",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "j「聚决」取「聚」：炊時木交而聚火，一舉而熟（推）。"
+   ],
+   "text": "j「聚决」取「聚」：炊時木交而聚火，一舉而熟（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𢼫jiào《五音集韻》：“古孝切，音教。交炊木也。”"
-      ],
-      "text": "𢼫jiào《五音集韻》：“古孝切，音教。交炊木也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "j「聚决」取「聚」：炊時木交而聚火，一舉而熟（推）。"
-      ],
-      "text": "j「聚决」取「聚」：炊時木交而聚火，一舉而熟（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十角",
+     "label": "卷二十角"
     }
-  ]
+   ]
+  }
+ ]
 }

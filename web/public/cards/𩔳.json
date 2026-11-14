@@ -1,34 +1,35 @@
 {
-  "char": "𩔳",
-  "head": "𩔳",
-  "level": 3,
-  "parent": "責",
-  "bus": {
-    "num": 18,
-    "name": "朿"
+ "char": "𩔳",
+ "head": "𩔳",
+ "level": 3,
+ "parent": "責",
+ "bus": {
+  "num": 18,
+  "name": "朿"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𩔳zé《廣韻》：“𩔳頗，頭不正皃。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「凿」：頭偏而凿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𩔳zé《廣韻》：“𩔳頗，頭不正皃。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "z「凿总」取「凿」：頭偏而凿（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

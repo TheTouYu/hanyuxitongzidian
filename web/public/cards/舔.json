@@ -1,36 +1,36 @@
 {
-  "char": "舔",
-  "head": "舔",
-  "pinyin": "tiǎn",
-  "aliases": [],
-  "bus": {
-    "num": 115,
-    "name": "天"
+ "char": "舔",
+ "head": "舔",
+ "pinyin": "tiǎn",
+ "aliases": [],
+ "bus": {
+  "num": 115,
+  "name": "天"
+ },
+ "level": 3,
+ "parent": "天",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“以舌舔物。”《正字通》：“俗餂字 。”tān，《漢典》：舔舕，也作䑙舕。吐蛇貌。"
   },
-  "level": 3,
-  "parent": "天",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：舌舐而取，如以舌塗物（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《字彙》：“以舌舔物。”《正字通》：“俗餂字 。”tān，《漢典》：舔舕，也作䑙舕。吐蛇貌。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "t「涂突」取「涂」：舌舐而取，如以舌塗物（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

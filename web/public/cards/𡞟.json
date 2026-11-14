@@ -1,34 +1,35 @@
 {
-  "char": "𡞟",
-  "pinyin": "pàn",
-  "aliases": [],
-  "bus": {
-    "num": 35,
-    "name": "厂"
+ "char": "𡞟",
+ "pinyin": "pàn",
+ "aliases": [],
+ "bus": {
+  "num": 35,
+  "name": "厂"
+ },
+ "level": 3,
+ "parent": "反",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𡞟pàn《集韻》：“㛶，㛶𡞟，無儀適也。”"
   },
-  "level": 3,
-  "parent": "反",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：反覆而分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𡞟pàn《集韻》：“㛶，㛶𡞟，無儀適也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "f「附分」取「分」：反覆而分（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

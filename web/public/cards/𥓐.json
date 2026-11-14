@@ -1,42 +1,42 @@
 {
-  "char": "𥓐",
-  "head": "𥓐",
-  "aliases": [],
-  "pinyin": "jié",
-  "bus": {
-    "num": 79,
-    "name": "疌"
+ "char": "𥓐",
+ "head": "𥓐",
+ "aliases": [],
+ "pinyin": "jié",
+ "bus": {
+  "num": 79,
+  "name": "疌"
+ },
+ "level": 3,
+ "parent": "疌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥓐jié《集韻》：“䃳𥓐，山連屬皃。”",
+   "paras": [
+    "𥓐jié《集韻》：“䃳𥓐，山連屬皃。”"
+   ]
   },
-  "level": 3,
-  "parent": "疌",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：石崖決然中斷，復連屬相銜（推）。",
+   "paras": [
+    "j「聚决」取「决」：石崖決然中斷，復連屬相銜（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥓐jié《集韻》：“䃳𥓐，山連屬皃。”",
-      "paras": [
-        "𥓐jié《集韻》：“䃳𥓐，山連屬皃。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「决」：石崖決然中斷，復連屬相銜（推）。",
-      "paras": [
-        "j「聚决」取「决」：石崖決然中斷，復連屬相銜（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,39 +1,39 @@
 {
-  "char": "𠦫",
-  "head": "𠦫",
-  "aliases": [],
-  "pinyin": "jí",
-  "bus": {
-    "num": 83,
-    "name": "咠"
+ "char": "𠦫",
+ "head": "𠦫",
+ "aliases": [],
+ "pinyin": "jí",
+ "bus": {
+  "num": 83,
+  "name": "咠"
+ },
+ "level": 3,
+ "parent": "咠",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠦫jí《說文》：“詞之𠦫矣。从十咠聲。秦入切。”和諧。即“輯”。",
+   "paras": [
+    "𠦫jí《說文》：“詞之𠦫矣。从十咠聲。秦入切。”和諧。即“輯”。"
+   ]
   },
-  "level": 3,
-  "parent": "咠",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：言辭相合，聚於一義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠦫jí《說文》：“詞之𠦫矣。从十咠聲。秦入切。”和諧。即“輯”。",
-      "paras": [
-        "𠦫jí《說文》：“詞之𠦫矣。从十咠聲。秦入切。”和諧。即“輯”。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：言辭相合，聚於一義（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十四  咠",
-          "ch": "卷十四咠",
-          "label": "卷十四 咠"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十四咠",
+     "label": "卷十四咠"
     }
-  ]
+   ]
+  }
+ ]
 }

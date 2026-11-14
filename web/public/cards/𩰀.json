@@ -1,36 +1,36 @@
 {
-  "char": "𩰀",
-  "head": "𩰀",
-  "pinyin": "chōng",
-  "aliases": [],
-  "bus": {
-    "num": 117,
-    "name": "龍"
+ "char": "𩰀",
+ "head": "𩰀",
+ "pinyin": "chōng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩰀chōng《漢典》：𩰀鬆，頭髮亂。"
   },
-  "level": 3,
-  "parent": "龍",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：髮本當持束，鬆則不能持（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩰀chōng《漢典》：𩰀鬆，頭髮亂。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "ch「刺持」取「持」：髮本當持束，鬆則不能持（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,35 +1,36 @@
 {
-  "char": "𩪭",
-  "head": "𩪭",
-  "pinyin": "huò",
-  "level": 3,
-  "parent": "蒦",
-  "bus": {
-    "num": 40,
-    "name": "隻"
+ "char": "𩪭",
+ "head": "𩪭",
+ "pinyin": "huò",
+ "level": 3,
+ "parent": "蒦",
+ "bus": {
+  "num": 40,
+  "name": "隻"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𩪭huò《字彙》：“骨聲。又美肉。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h「豁活」取「豁」：骨節相觸，聲豁然而響（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六 鶴",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𩪭huò《字彙》：“骨聲。又美肉。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "h「豁活」取「豁」：骨節相觸，聲豁然而響（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷六 鶴",
-      "links": [
-        {
-          "ch": "卷六鶴",
-          "label": "卷六 鶴"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六鶴",
+     "label": "卷六鶴"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,39 +1,40 @@
 {
-  "char": "𤳯",
-  "head": "𤳯（𤳐）",
-  "pinyin": "zhù",
-  "level": 3,
-  "parent": "庶",
-  "bus": {
-    "num": 45,
-    "name": "石"
+ "char": "𤳯",
+ "head": "𤳯（𤳐）",
+ "pinyin": "zhù",
+ "level": 3,
+ "parent": "庶",
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤳯（𤳐）zhù《廣韻》：“章恕切，音翥。筐𤳯。”《博雅》：“𤳯，𤲙也。”筐子。畚箕。",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「总」：筐器總收（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤳯（𤳐）zhù《廣韻》：“章恕切，音翥。筐𤳯。”《博雅》：“𤳯，𤲙也。”筐子。畚箕。",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「总」：筐器總收（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ],
-  "aliases": [
-    "𤳐"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "𤳐"
+ ]
 }

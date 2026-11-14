@@ -1,47 +1,47 @@
 {
-  "char": "煛",
-  "head": "煛（煚）",
-  "aliases": [
-    "煚"
-  ],
-  "pinyin": "jiǒng",
-  "bus": {
-    "num": 94,
-    "name": "䀠"
+ "char": "煛",
+ "head": "煛（煚）",
+ "aliases": [
+  "煚"
+ ],
+ "pinyin": "jiǒng",
+ "bus": {
+  "num": 94,
+  "name": "䀠"
+ },
+ "level": 3,
+ "parent": "䀠",
+ "photos": [],
+ "captions": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "《集韻》：“大目也。”《廣韻》：“目驚皃。”"
+   ],
+   "text": "《集韻》：“大目也。”《廣韻》：“目驚皃。”"
   },
-  "level": 3,
-  "parent": "䀠",
-  "photos": [],
-  "captions": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "j「聚决」取「聚」：目大而圓睜，光聚於一點（推）。"
+   ],
+   "text": "j「聚决」取「聚」：目大而圓睜，光聚於一點（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "《集韻》：“大目也。”《廣韻》：“目驚皃。”"
-      ],
-      "text": "《集韻》：“大目也。”《廣韻》：“目驚皃。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "j「聚决」取「聚」：目大而圓睜，光聚於一點（推）。"
-      ],
-      "text": "j「聚决」取「聚」：目大而圓睜，光聚於一點（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ],
-      "paras": []
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ],
+   "paras": []
+  }
+ ]
 }

@@ -1,42 +1,42 @@
 {
-  "char": "𩃖",
-  "head": "𩃖",
-  "aliases": [],
-  "pinyin": "xiè",
-  "bus": {
-    "num": 79,
-    "name": "疌"
+ "char": "𩃖",
+ "head": "𩃖",
+ "aliases": [],
+ "pinyin": "xiè",
+ "bus": {
+  "num": 79,
+  "name": "疌"
+ },
+ "level": 3,
+ "parent": "疌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩃖xiè《集韻》：“息葉切，音徢。雨雪皃。”下雪的樣子。",
+   "paras": [
+    "𩃖xiè《集韻》：“息葉切，音徢。雨雪皃。”下雪的樣子。"
+   ]
   },
-  "level": 3,
-  "parent": "疌",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：雪落旋消，乍有乍無（推）。",
+   "paras": [
+    "x「续消」取「消」：雪落旋消，乍有乍無（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩃖xiè《集韻》：“息葉切，音徢。雨雪皃。”下雪的樣子。",
-      "paras": [
-        "𩃖xiè《集韻》：“息葉切，音徢。雨雪皃。”下雪的樣子。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：雪落旋消，乍有乍無（推）。",
-      "paras": [
-        "x「续消」取「消」：雪落旋消，乍有乍無（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

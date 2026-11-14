@@ -1,32 +1,33 @@
 {
-  "char": "𥈂",
-  "level": 3,
-  "parent": "亟",
-  "bus": {
-    "num": 6,
-    "name": "乞"
+ "char": "𥈂",
+ "level": 3,
+ "parent": "亟",
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥈂jí《集韻》：“訖力切，音棘。張目也。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：目聚而張（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥈂jí《集韻》：“訖力切，音棘。張目也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：目聚而張（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ]
+   ]
+  }
+ ]
 }

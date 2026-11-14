@@ -1,37 +1,38 @@
 {
-  "char": "䨥",
-  "head": "䨥",
-  "pinyin": "huò",
-  "level": 3,
-  "parent": "隻",
-  "bus": {
-    "num": 40,
-    "name": "隻"
+ "char": "䨥",
+ "head": "䨥",
+ "pinyin": "huò",
+ "level": 3,
+ "parent": "隻",
+ "bus": {
+  "num": 40,
+  "name": "隻"
+ },
+ "aliases": [
+  "𩆀"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《龍龕》：“𩆀，俗；䨥，正。胡郭反。𩂹䨥，大雨也。”"
   },
-  "aliases": [
-    "𩆀"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "h「豁活」取「豁」：䨥從指鶴飛，表示撲騰、翻滾一面取「豁」之義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六 鶴",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《龍龕》：“𩆀，俗；䨥，正。胡郭反。𩂹䨥，大雨也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "h「豁活」取「豁」：䨥從指鶴飛，表示撲騰、翻滾一面取「豁」之義（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷六 鶴",
-      "links": [
-        {
-          "ch": "卷六鶴",
-          "label": "卷六 鶴"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六鶴",
+     "label": "卷六鶴"
     }
-  ]
+   ]
+  }
+ ]
 }

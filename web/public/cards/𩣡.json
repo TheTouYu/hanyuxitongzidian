@@ -1,37 +1,38 @@
 {
-  "char": "𩣡",
-  "head": "𩣡（䮀）",
-  "pinyin": "bó",
-  "level": 3,
-  "parent": "孛",
-  "bus": {
-    "num": 125,
-    "name": "丰部"
+ "char": "𩣡",
+ "head": "𩣡（䮀）",
+ "pinyin": "bó",
+ "level": 3,
+ "parent": "孛",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [
+  "䮀"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩣡（䮀）bó《集韻》：“獸名。馬形，牛尾，一角。或作䮀。”"
   },
-  "aliases": [
-    "䮀"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：獸閉而一角挺，閉而後出，故𩣡為獸名（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩣡（䮀）bó《集韻》：“獸名。馬形，牛尾，一角。或作䮀。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「闭」：獸閉而一角挺，閉而後出，故𩣡為獸名（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十四 貝",
-      "links": [
-        {
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

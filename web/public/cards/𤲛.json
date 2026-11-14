@@ -1,38 +1,38 @@
 {
-  "char": "𤲛",
-  "head": "𤲛（畚）",
-  "pinyin": "běn",
-  "aliases": [
-    "畚"
-  ],
-  "bus": {
-    "num": 118,
-    "name": "畾"
+ "char": "𤲛",
+ "head": "𤲛（畚）",
+ "pinyin": "běn",
+ "aliases": [
+  "畚"
+ ],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤲛（畚）běn《字彙補》：“與畚同。”畚，《玉篇》：“盛糧器也。”《廣韻》：“草器。”"
   },
-  "level": 3,
-  "noRoot": true,
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：畚器閉口以盛糧（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𤲛（畚）běn《字彙補》：“與畚同。”畚，《玉篇》：“盛糧器也。”《廣韻》：“草器。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「闭」：畚器閉口以盛糧（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷二十二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

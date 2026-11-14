@@ -1,39 +1,39 @@
 {
-  "char": "𩌹",
-  "head": "𩌹（𩏞韅）",
-  "pinyin": "xiǎn",
-  "aliases": [
-    "𩏞",
-    "韅"
-  ],
-  "bus": {
-    "num": 118,
-    "name": "畾"
+ "char": "𩌹",
+ "head": "𩌹（𩏞韅）",
+ "pinyin": "xiǎn",
+ "aliases": [
+  "𩏞",
+  "韅"
+ ],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩌹（𩏞韅）xiǎn《龍龕》：“𩌹，俗。韅，正。今音險。在背曰韅，在胸曰靷，在腹曰鞅，在足曰絆也。”駕車時套在牲口背部（一說腹部）的皮帶。"
   },
-  "level": 3,
-  "noRoot": true,
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：皮帶續繫於牲口背上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩌹（𩏞韅）xiǎn《龍龕》：“𩌹，俗。韅，正。今音險。在背曰韅，在胸曰靷，在腹曰鞅，在足曰絆也。”駕車時套在牲口背部（一說腹部）的皮帶。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：皮帶續繫於牲口背上（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷二十二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

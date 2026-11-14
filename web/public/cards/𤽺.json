@@ -1,43 +1,43 @@
 {
-  "char": "𤽺",
-  "head": "𤽺",
-  "pinyin": "lù",
-  "aliases": [],
-  "bus": {
-    "num": 101,
-    "name": "彔"
+ "char": "𤽺",
+ "head": "𤽺",
+ "pinyin": "lù",
+ "aliases": [],
+ "bus": {
+  "num": 101,
+  "name": "彔"
+ },
+ "level": 3,
+ "parent": "彔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𤽺lù《廣韻》：“盧穀切，音祿。白獸。”"
+   ],
+   "text": "𤽺lù《廣韻》：“盧穀切，音祿。白獸。”"
   },
-  "level": 3,
-  "parent": "彔",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "l「拢离」取「离」：白毛無雜，色散而淡（推）。"
+   ],
+   "text": "l「拢离」取「离」：白毛無雜，色散而淡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𤽺lù《廣韻》：“盧穀切，音祿。白獸。”"
-      ],
-      "text": "𤽺lù《廣韻》：“盧穀切，音祿。白獸。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "l「拢离」取「离」：白毛無雜，色散而淡（推）。"
-      ],
-      "text": "l「拢离」取「离」：白毛無雜，色散而淡（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷十九  彔",
-          "ch": "卷十九彔",
-          "label": "卷十九 彔"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十九彔",
+     "label": "卷十九彔"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,46 +1,46 @@
 {
-  "char": "𪕃",
-  "head": "𪕃（鼢）",
-  "pinyin": "fāng",
-  "aliases": [
-    "鼢"
-  ],
-  "bus": {
-    "num": 109,
-    "name": "方"
+ "char": "𪕃",
+ "head": "𪕃（鼢）",
+ "pinyin": "fāng",
+ "aliases": [
+  "鼢"
+ ],
+ "bus": {
+  "num": 109,
+  "name": "方"
+ },
+ "level": 3,
+ "parent": "方",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𪕃（鼢）fāng《集韻》：“地鼠。”《正字通》：“鼢字之譌。”"
+   ],
+   "text": "𪕃（鼢）fāng《集韻》：“地鼠。”《正字通》：“鼢字之譌。”"
   },
-  "level": 3,
-  "parent": "方",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "f「附分」取「附」：地鼠附土而穿穴，形與鼢近而訛（推）。"
+   ],
+   "text": "f「附分」取「附」：地鼠附土而穿穴，形與鼢近而訛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𪕃（鼢）fāng《集韻》：“地鼠。”《正字通》：“鼢字之譌。”"
-      ],
-      "text": "𪕃（鼢）fāng《集韻》：“地鼠。”《正字通》：“鼢字之譌。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "f「附分」取「附」：地鼠附土而穿穴，形與鼢近而訛（推）。"
-      ],
-      "text": "f「附分」取「附」：地鼠附土而穿穴，形與鼢近而訛（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿一  方",
-          "ch": "卷廿一方",
-          "label": "卷廿一 方"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十一方",
+     "label": "卷二十一方"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

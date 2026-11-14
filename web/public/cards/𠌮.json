@@ -1,36 +1,37 @@
 {
-  "char": "𠌮",
-  "head": "𠌮",
-  "pinyin": "zhē",
-  "level": 3,
-  "parent": "庶",
-  "bus": {
-    "num": 45,
-    "name": "石"
+ "char": "𠌮",
+ "head": "𠌮",
+ "pinyin": "zhē",
+ "level": 3,
+ "parent": "庶",
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𠌮zhē《玉篇》：“𠌮儸，健而不德也。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「总」：健而不德，聲義總聚（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𠌮zhē《玉篇》：“𠌮儸，健而不德也。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「总」：健而不德，聲義總聚（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ]
+   ]
+  }
+ ]
 }

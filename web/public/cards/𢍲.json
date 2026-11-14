@@ -1,37 +1,38 @@
 {
-  "char": "𢍲",
-  "head": "𢍲（遵）",
-  "pinyin": "zūn",
-  "aliases": [
-    "遵"
-  ],
-  "bus": {
-    "num": 61,
-    "name": "𦥑"
+ "char": "𢍲",
+ "head": "𢍲（遵）",
+ "pinyin": "zūn",
+ "aliases": [
+  "遵"
+ ],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "舁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢍲（遵）zūn《集韻》：“遵，《說文》：‘循也。’古作𢍲。”"
   },
-  "level": 3,
-  "parent": "舁",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：循道而行者，萬徑總歸於一（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢍲（遵）zūn《集韻》：“遵，《說文》：‘循也。’古作𢍲。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "z「凿总」取「总」：循道而行者，萬徑總歸於一（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 𦥑",
-      "links": [
-        {
-          "ch": "卷十𦥑",
-          "label": "卷十 𦥑"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

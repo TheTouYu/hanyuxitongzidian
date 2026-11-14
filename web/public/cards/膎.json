@@ -1,37 +1,38 @@
 {
-  "char": "膎",
-  "trad": "膎",
-  "simp": "",
-  "pinyin": "xié",
-  "level": 3,
-  "parent": "奚",
-  "bus": {
-    "num": 2,
-    "name": "奚"
+ "char": "膎",
+ "trad": "膎",
+ "simp": "",
+ "pinyin": "xié",
+ "level": 3,
+ "parent": "奚",
+ "bus": {
+  "num": 2,
+  "name": "奚"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“脯也。从肉奚聲。戶皆切。”乾肉。《廣韻》：“肉食肴也。”《集韻》：“吳人謂醃魚為膎脼。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「续」：繫而懸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《說文》：“脯也。从肉奚聲。戶皆切。”乾肉。《廣韻》：“肉食肴也。”《集韻》：“吳人謂醃魚為膎脼。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「续」：繫而懸（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [],
-  "head": "膎"
+   ]
+  }
+ ],
+ "aliases": [],
+ "head": "膎"
 }

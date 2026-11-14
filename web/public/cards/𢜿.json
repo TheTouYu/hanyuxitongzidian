@@ -1,34 +1,35 @@
 {
-  "char": "𢜿",
-  "head": "𢜿",
-  "level": 3,
-  "parent": "𢑓",
-  "bus": {
-    "num": 9,
-    "name": "士"
+ "char": "𢜿",
+ "head": "𢜿",
+ "level": 3,
+ "parent": "𢑓",
+ "bus": {
+  "num": 9,
+  "name": "士"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𢜿jià《集韻》：“居迓切，音嫁。心不安也。”若有所失之意。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「决」：心決而不安（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𢜿jià《集韻》：“居迓切，音嫁。心不安也。”若有所失之意。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「决」：心決而不安（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

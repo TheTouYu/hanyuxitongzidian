@@ -1,39 +1,39 @@
 {
-  "char": "𦪱",
-  "head": "𦪱",
-  "aliases": [],
-  "pinyin": "jì",
-  "bus": {
-    "num": 85,
-    "name": "妻"
+ "char": "𦪱",
+ "head": "𦪱",
+ "aliases": [],
+ "pinyin": "jì",
+ "bus": {
+  "num": 85,
+  "name": "妻"
+ },
+ "level": 3,
+ "parent": "妻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦪱jì《玉篇》：“舟也。”同“濟”。",
+   "paras": [
+    "𦪱jì《玉篇》：“舟也。”同“濟”。"
+   ]
   },
-  "level": 3,
-  "parent": "妻",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：舟聚人眾，共濟而渡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𦪱jì《玉篇》：“舟也。”同“濟”。",
-      "paras": [
-        "𦪱jì《玉篇》：“舟也。”同“濟”。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：舟聚人眾，共濟而渡（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十四  咠",
-          "ch": "卷十四咠",
-          "label": "卷十四 咠"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十四咠",
+     "label": "卷十四咠"
     }
-  ]
+   ]
+  }
+ ]
 }

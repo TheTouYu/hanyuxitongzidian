@@ -1,40 +1,40 @@
 {
-  "char": "蛝",
-  "head": "蛝",
-  "pinyin": "xián",
-  "aliases": [],
-  "bus": {
-    "num": 140,
-    "name": "勹部"
+ "char": "蛝",
+ "head": "蛝",
+ "pinyin": "xián",
+ "aliases": [],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "艮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“《爾雅》：‘蛝，馬䗃。’一曰蝮蜪也。一曰蚍蜉子。”馬陸。蝗的幼蟲。蟻卵。",
+   "paras": []
   },
-  "level": 3,
-  "parent": "艮",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：馬陸多節相續，百足連行（推）。",
+   "paras": [
+    "x「续消」取「续」：馬陸多節相續，百足連行（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《類篇》：“《爾雅》：‘蛝，馬䗃。’一曰蝮蜪也。一曰蚍蜉子。”馬陸。蝗的幼蟲。蟻卵。",
-      "paras": []
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：馬陸多節相續，百足連行（推）。",
-      "paras": [
-        "x「续消」取「续」：馬陸多節相續，百足連行（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十五勹",
+     "label": "卷二十五勹"
     }
-  ]
+   ]
+  }
+ ]
 }

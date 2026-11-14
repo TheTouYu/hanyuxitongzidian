@@ -1,34 +1,35 @@
 {
-  "char": "𩱺",
-  "head": "𩱺",
-  "level": 3,
-  "parent": "ㄗ",
-  "bus": {
-    "num": 23,
-    "name": "ㄗ"
+ "char": "𩱺",
+ "head": "𩱺",
+ "level": 3,
+ "parent": "ㄗ",
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𩱺wěi《集韻》：“𩱺𦓥，磽埆也。”土地堅硬瘠薄。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「总」：節止總聚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𩱺wěi《集韻》：“𩱺𦓥，磽埆也。”土地堅硬瘠薄。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "z「凿总」取「总」：節止總聚（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

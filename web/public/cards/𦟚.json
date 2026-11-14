@@ -1,45 +1,46 @@
 {
-  "char": "𦟚",
-  "head": "𦟚（皻皶）",
-  "pinyin": "zhā",
-  "level": 3,
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𦟚",
+ "head": "𦟚（皻皶）",
+ "pinyin": "zhā",
+ "level": 3,
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "suoshujuan": "卷八 虎（第48部 虍）",
+ "links": [
+  {
+   "ch": "卷八虎",
+   "label": "卷八 虎"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦟚（皻皶）zhā《康典》引《玉篇》：“鼻上皰也。”“皻”的訛字。《玉篇》：“皻，鼻上皰。或从鼻、从肉。亦作皶。”酒糟鼻。"
   },
-  "suoshujuan": "卷八 虎（第48部 虍）",
-  "links": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：鼻上皰，鑿然而起（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "ch": "卷八虎",
-      "label": "卷八 虎"
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦟚（皻皶）zhā《康典》引《玉篇》：“鼻上皰也。”“皻”的訛字。《玉篇》：“皻，鼻上皰。或从鼻、从肉。亦作皶。”酒糟鼻。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「凿」：鼻上皰，鑿然而起（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
-    }
-  ],
-  "aliases": [
-    "皻",
-    "皶"
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "aliases": [
+  "皻",
+  "皶"
+ ],
+ "noRoot": true
 }

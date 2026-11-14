@@ -1,35 +1,36 @@
 {
-  "char": "𥯖",
-  "head": "𥯖",
-  "pinyin": "dù",
-  "bus": {
-    "num": 45,
-    "name": "石"
+ "char": "𥯖",
+ "head": "𥯖",
+ "pinyin": "dù",
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
+ "parent": "度",
+ "level": 3,
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥯖dù《類篇》：“首筓也。”髮簪。"
   },
-  "parent": "度",
-  "level": 3,
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「动」：石之動用，「指堵」（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥯖dù《類篇》：“首筓也。”髮簪。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "d「囤动」取「动」：石之動用，「指堵」（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,34 +1,35 @@
 {
-  "char": "𢶶",
-  "head": "𢶶",
-  "level": 3,
-  "parent": "意",
-  "bus": {
-    "num": 22,
-    "name": "意"
+ "char": "𢶶",
+ "head": "𢶶",
+ "level": 3,
+ "parent": "意",
+ "bus": {
+  "num": 22,
+  "name": "意"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𢶶bàng《漢典》：“農具。連枷的別名。”同“棓”。連枷，用于拍打油菜、大豆等穀物類的脫粒。取拍打時的籠統性。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "b「闭剥」取「闭」：合閉而藏意（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𢶶bàng《漢典》：“農具。連枷的別名。”同“棓”。連枷，用于拍打油菜、大豆等穀物類的脫粒。取拍打時的籠統性。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "b「闭剥」取「闭」：合閉而藏意（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

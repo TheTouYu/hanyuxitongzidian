@@ -1,50 +1,51 @@
 {
-  "char": "𨞛",
-  "trad": "𨞛",
-  "simp": "",
-  "pinyin": "gé",
-  "level": 3,
-  "parent": "曷",
-  "bus": {
-    "num": 4,
-    "name": "匃"
+ "char": "𨞛",
+ "trad": "𨞛",
+ "simp": "",
+ "pinyin": "gé",
+ "level": 3,
+ "parent": "曷",
+ "bus": {
+  "num": 4,
+  "name": "匃"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𨞛gé《說文》：“南陽陰鄉。从邑葛聲。古達切。”今湖北省光化縣西。《正字通》：“姓。通用葛。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "g「隔估」取「隔」：之地（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𨞛gé《說文》：“南陽陰鄉。从邑葛聲。古達切。”今湖北省光化縣西。《正字通》：“姓。通用葛。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "g「隔估」取「隔」：之地（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshu",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一雞"
-        }
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一 雞"
-        }
-      ]
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [],
-  "head": "𨞛"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
+    }
+   ]
+  }
+ ],
+ "aliases": [],
+ "head": "𨞛"
 }

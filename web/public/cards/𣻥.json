@@ -1,35 +1,36 @@
 {
-  "char": "𣻥",
-  "head": "𣻥",
-  "pinyin": "fú",
-  "aliases": [],
-  "bus": {
-    "num": 61,
-    "name": "𦥑"
+ "char": "𣻥",
+ "head": "𣻥",
+ "pinyin": "fú",
+ "aliases": [],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "𦥑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𣻥fú《廣韻》：“水名。其中有神。”《漢典》以其同“㴘（mào）”，《集韻》：“水漲。”"
   },
-  "level": 3,
-  "parent": "𦥑",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：水漲則溢而分流（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𣻥fú《廣韻》：“水名。其中有神。”《漢典》以其同“㴘（mào）”，《集韻》：“水漲。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "f「附分」取「分」：水漲則溢而分流（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 𦥑",
-      "links": [
-        {
-          "ch": "卷十𦥑",
-          "label": "卷十 𦥑"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

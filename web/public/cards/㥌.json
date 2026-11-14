@@ -1,40 +1,40 @@
 {
-  "char": "㥌",
-  "head": "㥌",
-  "pinyin": "jú",
-  "aliases": [],
-  "bus": {
-    "num": 140,
-    "name": "勹部"
+ "char": "㥌",
+ "head": "㥌",
+ "pinyin": "jú",
+ "aliases": [],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "匊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“謹愼也。”",
+   "paras": []
   },
-  "level": 3,
-  "parent": "匊",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：心志收聚不散，謹愼而不敢苟（推）。",
+   "paras": [
+    "j「聚决」取「聚」：心志收聚不散，謹愼而不敢苟（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《集韻》：“謹愼也。”",
-      "paras": []
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：心志收聚不散，謹愼而不敢苟（推）。",
-      "paras": [
-        "j「聚决」取「聚」：心志收聚不散，謹愼而不敢苟（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十五勹",
+     "label": "卷二十五勹"
     }
-  ]
+   ]
+  }
+ ]
 }

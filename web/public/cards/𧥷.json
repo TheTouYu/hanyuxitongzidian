@@ -1,37 +1,38 @@
 {
-  "char": "𧥷",
-  "level": 3,
-  "parent": "乞",
-  "bus": {
-    "num": 6,
-    "name": "乞"
+ "char": "𧥷",
+ "level": 3,
+ "parent": "乞",
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧥷（訖𧪢）qì《說文》：“止也。从言气聲。居迄切。”言辭終止。《玉篇》：“畢也。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧥷（訖𧪢）qì《說文》：“止也。从言气聲。居迄切。”言辭終止。《玉篇》：“畢也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "零「零聲母」不系：緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "head": "𧥷（訖𧪢）",
-  "aliases": [
-    "訖",
-    "𧪢"
-  ]
+   ]
+  }
+ ],
+ "head": "𧥷（訖𧪢）",
+ "aliases": [
+  "訖",
+  "𧪢"
+ ]
 }

@@ -1,42 +1,42 @@
 {
-  "char": "𦹾",
-  "head": "𦹾（耄）",
-  "pinyin": "mào",
-  "aliases": [
-    "耄"
-  ],
-  "bus": {
-    "num": 112,
-    "name": "高"
+ "char": "𦹾",
+ "head": "𦹾（耄）",
+ "pinyin": "mào",
+ "aliases": [
+  "耄"
+ ],
+ "bus": {
+  "num": 112,
+  "name": "高"
+ },
+ "level": 3,
+ "parent": "毫",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𦹾（耄）mào《字彙補》：“與耄同。”"
+   ],
+   "text": "𦹾（耄）mào《字彙補》：“與耄同。”"
   },
-  "level": 3,
-  "parent": "毫",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：老壽在末（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𦹾（耄）mào《字彙補》：“與耄同。”"
-      ],
-      "text": "𦹾（耄）mào《字彙補》：“與耄同。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "m「蒙末」取「末」：老壽在末（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿一  方",
-          "ch": "卷廿一方",
-          "label": "卷廿一 方"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十一方",
+     "label": "卷二十一方"
     }
-  ]
+   ]
+  }
+ ]
 }

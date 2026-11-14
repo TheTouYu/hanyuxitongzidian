@@ -1,36 +1,36 @@
 {
-  "char": "㧆",
-  "head": "㧆",
-  "pinyin": "jīn",
-  "aliases": [],
-  "bus": {
-    "num": 119,
-    "name": "巾"
+ "char": "㧆",
+ "head": "㧆",
+ "pinyin": "jīn",
+ "aliases": [],
+ "bus": {
+  "num": 119,
+  "name": "巾"
+ },
+ "level": 3,
+ "parent": "巾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《唐韻》：“以巾覆物也。”《廣韻》：“覆巾名。”"
   },
-  "level": 3,
-  "parent": "巾",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：以巾覆物，四角聚攏而蒙之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《唐韻》：“以巾覆物也。”《廣韻》：“覆巾名。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：以巾覆物，四角聚攏而蒙之（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷二十二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,41 +1,41 @@
 {
-  "char": "𩳭",
-  "head": "𩳭（魁）",
-  "pinyin": "kuī",
-  "aliases": [
-    "魁"
-  ],
-  "bus": {
-    "num": 64,
-    "name": "宁"
+ "char": "𩳭",
+ "head": "𩳭（魁）",
+ "pinyin": "kuī",
+ "aliases": [
+  "魁"
+ ],
+ "bus": {
+  "num": 64,
+  "name": "宁"
+ },
+ "level": 3,
+ "parent": "襾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𩳭（魁）kuī《字彙補》：“音義同魁。”"
+   ],
+   "text": "𩳭（魁）kuī《字彙補》：“音義同魁。”"
   },
-  "level": 3,
-  "parent": "襾",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：魁首控引其眾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𩳭（魁）kuī《字彙補》：“音義同魁。”"
-      ],
-      "text": "𩳭（魁）kuī《字彙補》：“音義同魁。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "k「口控」取「控」：魁首控引其眾（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十 予",
-          "ch": "卷十予",
-          "label": "卷十 予"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

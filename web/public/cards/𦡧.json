@@ -1,37 +1,38 @@
 {
-  "char": "𦡧",
-  "head": "𦡧（蹼）",
-  "pinyin": "yè",
-  "aliases": [
-    "蹼"
-  ],
-  "bus": {
-    "num": 52,
-    "name": "業"
+ "char": "𦡧",
+ "head": "𦡧（蹼）",
+ "pinyin": "yè",
+ "aliases": [
+  "蹼"
+ ],
+ "bus": {
+  "num": 52,
+  "name": "業"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦡧（蹼）yè《字彙補》：“音未詳。鼠𦡧，足踝之下也。見《巢氏病源》。”即“蹼”。"
   },
-  "level": 3,
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𦡧（蹼）yè《字彙補》：“音未詳。鼠𦡧，足踝之下也。見《巢氏病源》。”即“蹼”。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

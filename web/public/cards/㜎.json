@@ -1,35 +1,36 @@
 {
-  "char": "㜎",
-  "pinyin": "xī",
-  "bus": {
-    "num": 2,
-    "name": "奚"
+ "char": "㜎",
+ "pinyin": "xī",
+ "bus": {
+  "num": 2,
+  "name": "奚"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《說文》：“女隶也。从女奚聲。胡雞切。”女奴。xì，《集韻》：“怯也。一曰妒也。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「续」：繫屬（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《說文》：“女隶也。从女奚聲。胡雞切。”女奴。xì，《集韻》：“怯也。一曰妒也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「续」：繫屬（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "level": 3,
-  "parent": "奚",
-  "aliases": [],
-  "head": "㜎"
+   ]
+  }
+ ],
+ "level": 3,
+ "parent": "奚",
+ "aliases": [],
+ "head": "㜎"
 }

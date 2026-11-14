@@ -1,35 +1,36 @@
 {
-  "id": "𧭣",
-  "char": "𧭣",
-  "head": "𧭣",
-  "pinyin": "guó",
-  "level": 3,
-  "parent": "虢",
-  "bus": {
-    "num": 48,
-    "name": "虍"
+ "id": "𧭣",
+ "char": "𧭣",
+ "head": "𧭣",
+ "pinyin": "guó",
+ "level": 3,
+ "parent": "虢",
+ "bus": {
+  "num": 48,
+  "name": "虍"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧭣guó《集韻》：“郭獲切，音虢。𧭣𧭣，多言。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：言語相隔而多（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧭣guó《集韻》：“郭獲切，音虢。𧭣𧭣，多言。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "g「隔估」取「隔」：言語相隔而多（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "lei": "言"
+   ]
+  }
+ ],
+ "lei": "言"
 }

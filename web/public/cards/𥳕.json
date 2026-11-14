@@ -1,35 +1,36 @@
 {
-  "char": "𥳕",
-  "head": "𥳕",
-  "pinyin": "shū",
-  "aliases": [],
-  "bus": {
-    "num": 60,
-    "name": "予"
+ "char": "𥳕",
+ "head": "𥳕",
+ "pinyin": "shū",
+ "aliases": [],
+ "bus": {
+  "num": 60,
+  "name": "予"
+ },
+ "level": 3,
+ "parent": "予",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥳕shū《集韻》：“商居切，音舒。竹名。”"
   },
-  "level": 3,
-  "parent": "予",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：竹節節收束而上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 予",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥳕shū《集韻》：“商居切，音舒。竹名。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "sh「失收」取「收」：竹節節收束而上（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 予",
-      "links": [
-        {
-          "ch": "卷十予",
-          "label": "卷十 予"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

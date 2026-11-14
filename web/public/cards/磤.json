@@ -1,39 +1,40 @@
 {
-  "char": "磤",
-  "head": "磤",
-  "pinyin": "yǐn",
-  "aliases": [],
-  "level": 3,
-  "parent": "殷",
-  "bus": {
-    "num": 135,
-    "name": "身部"
+ "char": "磤",
+ "head": "磤",
+ "pinyin": "yǐn",
+ "aliases": [],
+ "level": 3,
+ "parent": "殷",
+ "bus": {
+  "num": 135,
+  "name": "身部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“雷聲。”yīn，《集韻》：“砏磤，聲也。”象聲字。",
+   "paras": [
+    "《玉篇》：“雷聲。”yīn，《集韻》：“砏磤，聲也。”象聲字。"
+   ]
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+   "paras": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《玉篇》：“雷聲。”yīn，《集韻》：“砏磤，聲也。”象聲字。",
-      "paras": [
-        "《玉篇》：“雷聲。”yīn，《集韻》：“砏磤，聲也。”象聲字。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-      "paras": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿四 貝",
-          "ch": "卷二十四貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

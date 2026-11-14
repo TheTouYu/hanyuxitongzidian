@@ -1,35 +1,36 @@
 {
-  "char": "𧻖",
-  "head": "𧻖",
-  "pinyin": "zhōu",
-  "aliases": [],
-  "bus": {
-    "num": 53,
-    "name": "舟"
+ "char": "𧻖",
+ "head": "𧻖",
+ "pinyin": "zhōu",
+ "aliases": [],
+ "bus": {
+  "num": 53,
+  "name": "舟"
+ },
+ "level": 3,
+ "parent": "舟",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧻖zhōu《廣韻》：“𧻖𧽏，行不進也。”"
   },
-  "level": 3,
-  "parent": "舟",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：舟底鑿水而行，浪自分開——𧻖取鑿開一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧻖zhōu《廣韻》：“𧻖𧽏，行不進也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「凿」：舟底鑿水而行，浪自分開——𧻖取鑿開一面（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷九 舟",
-      "links": [
-        {
-          "ch": "卷九舟",
-          "label": "卷九 舟"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷九舟",
+     "label": "卷九舟"
     }
-  ]
+   ]
+  }
+ ]
 }

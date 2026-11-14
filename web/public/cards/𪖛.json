@@ -1,33 +1,34 @@
 {
-  "char": "𪖛",
-  "head": "𪖛",
-  "pinyin": "qiù",
-  "level": 3,
-  "parent": "丘",
-  "bus": {
-    "num": 50,
-    "name": "丘"
+ "char": "𪖛",
+ "head": "𪖛",
+ "pinyin": "qiù",
+ "level": 3,
+ "parent": "丘",
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪖛qiù《玉篇》：“𪖛𪖐，仰鼻也。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：仰鼻而孔空（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪖛qiù《玉篇》：“𪖛𪖐，仰鼻也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "q「亲缺」取「缺」：仰鼻而孔空（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ]
+   ]
+  }
+ ]
 }

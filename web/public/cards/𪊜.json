@@ -1,39 +1,39 @@
 {
-  "char": "𪊜",
-  "head": "𪊜（麇）",
-  "pinyin": "bèn",
-  "aliases": [
-    "麇"
-  ],
-  "bus": {
-    "num": 126,
-    "name": "本部"
+ "char": "𪊜",
+ "head": "𪊜（麇）",
+ "pinyin": "bèn",
+ "aliases": [
+  "麇"
+ ],
+ "bus": {
+  "num": 126,
+  "name": "本部"
+ },
+ "level": 3,
+ "parent": "本",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪊜（麇）bèn《集韻》：“部本切，音獖。牝麋。”《類篇》：“牡麋。”疑指麋鹿跑得快。jūn，《正字通》：“麇字之譌。”"
   },
-  "level": 3,
-  "parent": "本",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：牝麋蹄輕，剝草而奔，故𪊜為牝麋（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪊜（麇）bèn《集韻》：“部本切，音獖。牝麋。”《類篇》：“牡麋。”疑指麋鹿跑得快。jūn，《正字通》：“麇字之譌。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "b「闭剥」取「剥」：牝麋蹄輕，剝草而奔，故𪊜為牝麋（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

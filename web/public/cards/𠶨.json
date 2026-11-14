@@ -1,36 +1,36 @@
 {
-  "char": "𠶨",
-  "head": "𠶨",
-  "pinyin": "",
-  "aliases": [],
-  "level": 3,
-  "parent": "炙",
-  "bus": {
-    "num": 47,
-    "name": "炙"
+ "char": "𠶨",
+ "head": "𠶨",
+ "pinyin": "",
+ "aliases": [],
+ "level": 3,
+ "parent": "炙",
+ "bus": {
+  "num": 47,
+  "name": "炙"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠶨xī《海篇》：“音希。和聲。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：和聲相續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷七 斤",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠶨xī《海篇》：“音希。和聲。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：和聲相續（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷七 斤",
-      "links": [
-        {
-          "t": "卷七 斤",
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ]
+   ]
+  }
+ ]
 }

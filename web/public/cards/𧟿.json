@@ -1,41 +1,41 @@
 {
-  "char": "𧟿",
-  "head": "𧟿（聖）",
-  "pinyin": "shèng",
-  "aliases": [
-    "聖"
-  ],
-  "bus": {
-    "num": 64,
-    "name": "宁"
+ "char": "𧟿",
+ "head": "𧟿（聖）",
+ "pinyin": "shèng",
+ "aliases": [
+  "聖"
+ ],
+ "bus": {
+  "num": 64,
+  "name": "宁"
+ },
+ "level": 3,
+ "parent": "襾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𧟿（聖）shèng《字彙補》：“與聖同。”"
+   ],
+   "text": "𧟿（聖）shèng《字彙補》：“與聖同。”"
   },
-  "level": 3,
-  "parent": "襾",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：通達收攬眾理（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𧟿（聖）shèng《字彙補》：“與聖同。”"
-      ],
-      "text": "𧟿（聖）shèng《字彙補》：“與聖同。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "sh「失收」取「收」：通達收攬眾理（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十 予",
-          "ch": "卷十予",
-          "label": "卷十 予"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

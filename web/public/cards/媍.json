@@ -1,42 +1,42 @@
 {
-  "char": "媍",
-  "head": "媍（婦）",
-  "pinyin": "fù",
-  "aliases": [
-    "婦"
-  ],
-  "bus": {
-    "num": 140,
-    "name": "勹部"
+ "char": "媍",
+ "head": "媍（婦）",
+ "pinyin": "fù",
+ "aliases": [
+  "婦"
+ ],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "負",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“同婦。”",
+   "paras": []
   },
-  "level": 3,
-  "parent": "負",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：婦人適人，身附夫家而成室（推）。",
+   "paras": [
+    "f「附分」取「附」：婦人適人，身附夫家而成室（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《正字通》：“同婦。”",
-      "paras": []
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "f「附分」取「附」：婦人適人，身附夫家而成室（推）。",
-      "paras": [
-        "f「附分」取「附」：婦人適人，身附夫家而成室（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十五勹",
+     "label": "卷二十五勹"
     }
-  ]
+   ]
+  }
+ ]
 }

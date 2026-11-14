@@ -1,35 +1,36 @@
 {
-  "char": "𥎰",
-  "head": "𥎰",
-  "pinyin": "fǎ",
-  "level": 3,
-  "parent": "去",
-  "bus": {
-    "num": 49,
-    "name": "去"
+ "char": "𥎰",
+ "head": "𥎰",
+ "pinyin": "fǎ",
+ "level": 3,
+ "parent": "去",
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𥎰fǎ《玉篇》：“矢也。”《廣韻》：“矢皃。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "f「附分」取「分」：矢鋒分出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𥎰fǎ《玉篇》：“矢也。”《廣韻》：“矢皃。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "f「附分」取「分」：矢鋒分出（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": []
+   ]
+  }
+ ],
+ "aliases": []
 }

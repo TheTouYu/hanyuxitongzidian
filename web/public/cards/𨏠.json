@@ -1,36 +1,36 @@
 {
-  "char": "𨏠",
-  "head": "𨏠",
-  "pinyin": "lóng",
-  "aliases": [],
-  "bus": {
-    "num": 117,
-    "name": "龍"
+ "char": "𨏠",
+ "head": "𨏠",
+ "pinyin": "lóng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨏠lóng《廣韻》：“軸頭也。”《玉篇》：“轊也。”車軸頭。《小爾雅》：“車轅上者謂之𨏠。”"
   },
-  "level": 3,
-  "parent": "龍",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：鐵套攏束軸頭，中空受軸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨏠lóng《廣韻》：“軸頭也。”《玉篇》：“轊也。”車軸頭。《小爾雅》：“車轅上者謂之𨏠。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：鐵套攏束軸頭，中空受軸（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

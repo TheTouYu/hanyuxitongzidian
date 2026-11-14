@@ -1,35 +1,36 @@
 {
-  "char": "贍",
-  "head": "贍",
-  "pinyin": "shàn",
-  "aliases": [],
-  "bus": {
-    "num": 35,
-    "name": "厂"
+ "char": "贍",
+ "head": "贍",
+ "pinyin": "shàn",
+ "aliases": [],
+ "bus": {
+  "num": 35,
+  "name": "厂"
+ },
+ "level": 3,
+ "parent": "詹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“給也。从貝詹聲。時豔切。”供給，供養。《小爾雅》：“足也。”《玉篇》：“周也、假助也。”dàn，同“澹”，安定。"
   },
-  "level": 3,
-  "parent": "詹",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：燕子蝙蝠棲於簷間得所養。（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《新附》：“給也。从貝詹聲。時豔切。”供給，供養。《小爾雅》：“足也。”《玉篇》：“周也、假助也。”dàn，同“澹”，安定。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "sh「失收」取「收」：燕子蝙蝠棲於簷間得所養。（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

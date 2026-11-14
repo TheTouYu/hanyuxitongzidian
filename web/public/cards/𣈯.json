@@ -1,35 +1,36 @@
 {
-  "char": "𣈯",
-  "head": "𣈯",
-  "pinyin": "shù",
-  "aliases": [],
-  "bus": {
-    "num": 54,
-    "name": "余"
+ "char": "𣈯",
+ "head": "𣈯",
+ "pinyin": "shù",
+ "aliases": [],
+ "bus": {
+  "num": 54,
+  "name": "余"
+ },
+ "level": 3,
+ "parent": "俞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𣈯shù《廣韻》：“𠕦㒾，面衣。”"
   },
-  "level": 3,
-  "parent": "俞",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：面衣蒙面，收蔽其容（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𣈯shù《廣韻》：“𠕦㒾，面衣。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "sh「失收」取「收」：面衣蒙面，收蔽其容（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷九 舟",
-      "links": [
-        {
-          "ch": "卷九舟",
-          "label": "卷九 舟"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷九舟",
+     "label": "卷九舟"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,38 +1,39 @@
 {
-  "char": "𥅔",
-  "head": "𥅔（眡眎視）",
-  "pinyin": "shì",
-  "level": 3,
-  "bus": {
-    "num": 50,
-    "name": "丘"
+ "char": "𥅔",
+ "head": "𥅔（眡眎視）",
+ "pinyin": "shì",
+ "level": 3,
+ "bus": {
+  "num": 50,
+  "name": "丘"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥅔（眡眎視）shì《五侯鯖字海·目部》：“眎，正作視。眡，同上；𥅔，同上，俱古文。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：目收光而視（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥅔（眡眎視）shì《五侯鯖字海·目部》：“眎，正作視。眡，同上；𥅔，同上，俱古文。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "sh「失收」取「收」：目收光而視（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": [
-    "眡",
-    "眎",
-    "視"
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "aliases": [
+  "眡",
+  "眎",
+  "視"
+ ],
+ "noRoot": true
 }

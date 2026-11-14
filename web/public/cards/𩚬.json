@@ -1,36 +1,37 @@
 {
-  "char": "𩚬",
-  "head": "𩚬",
-  "pinyin": "è",
-  "aliases": [],
-  "bus": {
-    "num": 38,
-    "name": "厄"
+ "char": "𩚬",
+ "head": "𩚬",
+ "pinyin": "è",
+ "aliases": [],
+ "bus": {
+  "num": 38,
+  "name": "厄"
+ },
+ "level": 3,
+ "parent": "戹",
+ "bridge": "饑而食不下，如扼於咽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩚬è《說文》：“饑也。从食戹聲。讀若楚人言恚人。於革切。”饑餓。《玉篇》：“饑皃也。”“飽聲也。”嗝聲。"
   },
-  "level": 3,
-  "parent": "戹",
-  "bridge": "饑而食不下，如扼於咽",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩚬è《說文》：“饑也。从食戹聲。讀若楚人言恚人。於革切。”饑餓。《玉篇》：“饑皃也。”“飽聲也。”嗝聲。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

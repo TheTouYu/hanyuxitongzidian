@@ -1,44 +1,44 @@
 {
-  "char": "𩗇",
-  "head": "𩗇（𩘋）",
-  "aliases": [
-    "𩘋"
-  ],
-  "pinyin": "hòu",
-  "bus": {
-    "num": 90,
-    "name": "后"
+ "char": "𩗇",
+ "head": "𩗇（𩘋）",
+ "aliases": [
+  "𩘋"
+ ],
+ "pinyin": "hòu",
+ "bus": {
+  "num": 90,
+  "name": "后"
+ },
+ "level": 3,
+ "parent": "后",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩗇（𩘋）hòu《集韻》：“𩘋，風皃。或从后。”",
+   "paras": [
+    "𩗇（𩘋）hòu《集韻》：“𩘋，風皃。或从后。”"
+   ]
   },
-  "level": 3,
-  "parent": "后",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：風起而豁然（推）。",
+   "paras": [
+    "h「豁活」取「豁」：風起而豁然（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩗇（𩘋）hòu《集韻》：“𩘋，風皃。或从后。”",
-      "paras": [
-        "𩗇（𩘋）hòu《集韻》：“𩘋，風皃。或从后。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "h「豁活」取「豁」：風起而豁然（推）。",
-      "paras": [
-        "h「豁活」取「豁」：風起而豁然（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

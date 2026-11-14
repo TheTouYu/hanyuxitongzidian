@@ -1,34 +1,35 @@
 {
-  "char": "𪌀",
-  "head": "𪌀",
-  "level": 3,
-  "parent": "了",
-  "bus": {
-    "num": 8,
-    "name": "㠯"
+ "char": "𪌀",
+ "head": "𪌀",
+ "level": 3,
+ "parent": "了",
+ "bus": {
+  "num": 8,
+  "name": "㠯"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𪌀liǎo《篆隸萬象名義》：“麵，𪌀字。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「拢」：麵攏而成（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𪌀liǎo《篆隸萬象名義》：“麵，𪌀字。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "l「拢离」取「拢」：麵攏而成（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

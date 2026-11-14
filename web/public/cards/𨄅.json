@@ -1,43 +1,43 @@
 {
-  "char": "𨄅",
-  "head": "𨄅",
-  "aliases": [],
-  "pinyin": "qū",
-  "bus": {
-    "num": 92,
-    "name": "曲"
+ "char": "𨄅",
+ "head": "𨄅",
+ "aliases": [],
+ "pinyin": "qū",
+ "bus": {
+  "num": 92,
+  "name": "曲"
+ },
+ "level": 3,
+ "parent": "區",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𨄅qū《玉篇》：“跛行也。”"
+   ],
+   "text": "𨄅qū《玉篇》：“跛行也。”"
   },
-  "level": 3,
-  "parent": "區",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "q「亲缺」取「缺」：𨄅為跛行，足缺而曲（推）。"
+   ],
+   "text": "q「亲缺」取「缺」：𨄅為跛行，足缺而曲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𨄅qū《玉篇》：“跛行也。”"
-      ],
-      "text": "𨄅qū《玉篇》：“跛行也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "q「亲缺」取「缺」：𨄅為跛行，足缺而曲（推）。"
-      ],
-      "text": "q「亲缺」取「缺」：𨄅為跛行，足缺而曲（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ],
-      "paras": []
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ],
+   "paras": []
+  }
+ ]
 }

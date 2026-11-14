@@ -1,42 +1,42 @@
 {
-  "char": "𪃼",
-  "head": "𪃼",
-  "aliases": [],
-  "pinyin": "xī",
-  "bus": {
-    "num": 394,
-    "name": "自"
+ "char": "𪃼",
+ "head": "𪃼",
+ "aliases": [],
+ "pinyin": "xī",
+ "bus": {
+  "num": 394,
+  "name": "自"
+ },
+ "level": 3,
+ "parent": "息",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪃼xī《字彙》：“鳥食。又鳥名。”",
+   "paras": [
+    "𪃼xī《字彙》：“鳥食。又鳥名。”"
+   ]
   },
-  "level": 3,
-  "parent": "息",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：鳥食鳥名，聲續而義不系（推）。",
+   "paras": [
+    "x「续消」取「续」：鳥食鳥名，聲續而義不系（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪃼xī《字彙》：“鳥食。又鳥名。”",
-      "paras": [
-        "𪃼xī《字彙》：“鳥食。又鳥名。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：鳥食鳥名，聲續而義不系（推）。",
-      "paras": [
-        "x「续消」取「续」：鳥食鳥名，聲續而義不系（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷六十五  鼻",
-          "ch": "卷六十五鼻",
-          "label": "卷六十五 鼻"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
     }
-  ]
+   ]
+  }
+ ]
 }

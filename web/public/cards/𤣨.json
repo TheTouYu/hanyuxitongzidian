@@ -1,50 +1,51 @@
 {
-  "char": "𤣨",
-  "trad": "𤣨",
-  "simp": "",
-  "pinyin": "yì",
-  "level": 3,
-  "parent": "曷",
-  "bus": {
-    "num": 4,
-    "name": "匃"
+ "char": "𤣨",
+ "trad": "𤣨",
+ "simp": "",
+ "pinyin": "yì",
+ "level": 3,
+ "parent": "曷",
+ "bus": {
+  "num": 4,
+  "name": "匃"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤣨yì《說文》：“不成，遂急戾也。从弦省，曷聲。讀若瘞葬。於罽切。”辦事不成，於是就急躁而乖戾。",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
+   "cites": []
+  },
+  {
+   "key": "suoshu",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤣨yì《說文》：“不成，遂急戾也。从弦省，曷聲。讀若瘞葬。於罽切。”辦事不成，於是就急躁而乖戾。",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-      "cites": []
-    },
-    {
-      "key": "suoshu",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一雞"
-        }
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "links": [
-        {
-          "ch": "卷一雞",
-          "label": "卷一 雞"
-        }
-      ]
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [],
-  "head": "𤣨"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
+    }
+   ]
+  }
+ ],
+ "aliases": [],
+ "head": "𤣨"
 }

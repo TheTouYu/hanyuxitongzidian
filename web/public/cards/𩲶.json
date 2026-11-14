@@ -1,36 +1,37 @@
 {
-  "char": "𩲶",
-  "head": "𩲶（魑）",
-  "level": 3,
-  "parent": "矢",
-  "bus": {
-    "num": 16,
-    "name": "矢"
+ "char": "𩲶",
+ "head": "𩲶（魑）",
+ "level": 3,
+ "parent": "矢",
+ "bus": {
+  "num": 16,
+  "name": "矢"
+ },
+ "aliases": [
+  "魑"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𩲶（魑）chì《龍龕》：“𩲶，俗；魑，正。魑魅，謂老物精怪也。”"
   },
-  "aliases": [
-    "魑"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「刺」：精怪刺人（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𩲶（魑）chì《龍龕》：“𩲶，俗；魑，正。魑魅，謂老物精怪也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "ch「刺持」取「刺」：精怪刺人（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

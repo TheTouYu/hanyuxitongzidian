@@ -1,41 +1,41 @@
 {
-  "char": "𦛣",
-  "head": "𦛣",
-  "pinyin": "yán",
-  "aliases": [],
-  "bus": {
-    "num": 108,
-    "name": "夭"
+ "char": "𦛣",
+ "head": "𦛣",
+ "pinyin": "yán",
+ "aliases": [],
+ "bus": {
+  "num": 108,
+  "name": "夭"
+ },
+ "level": 3,
+ "parent": "走",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𦛣yán《字彙補》：“余連切，音沿。短貌。”"
+   ],
+   "text": "𦛣yán《字彙補》：“余連切，音沿。短貌。”"
   },
-  "level": 3,
-  "parent": "走",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [],
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𦛣yán《字彙補》：“余連切，音沿。短貌。”"
-      ],
-      "text": "𦛣yán《字彙補》：“余連切，音沿。短貌。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [],
-      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十角",
+     "label": "卷二十角"
     }
-  ]
+   ]
+  }
+ ]
 }

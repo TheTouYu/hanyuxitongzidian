@@ -1,42 +1,42 @@
 {
-  "char": "𨋾",
-  "head": "𨋾",
-  "aliases": [],
-  "pinyin": "xǔ",
-  "bus": {
-    "num": 72,
-    "name": "羽"
+ "char": "𨋾",
+ "head": "𨋾",
+ "aliases": [],
+ "pinyin": "xǔ",
+ "bus": {
+  "num": 72,
+  "name": "羽"
+ },
+ "level": 3,
+ "parent": "羽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨋾xǔ《漢典》：“輕快。”",
+   "paras": [
+    "𨋾xǔ《漢典》：“輕快。”"
+   ]
   },
-  "level": 3,
-  "parent": "羽",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：羽輕飄忽，行疾而逝（推）。",
+   "paras": [
+    "x「续消」取「消」：羽輕飄忽，行疾而逝（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨋾xǔ《漢典》：“輕快。”",
-      "paras": [
-        "𨋾xǔ《漢典》：“輕快。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：羽輕飄忽，行疾而逝（推）。",
-      "paras": [
-        "x「续消」取「消」：羽輕飄忽，行疾而逝（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十二  于",
-          "ch": "卷十二于",
-          "label": "卷十二 于"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十二于",
+     "label": "卷十二于"
     }
-  ]
+   ]
+  }
+ ]
 }

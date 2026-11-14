@@ -1,42 +1,42 @@
 {
-  "char": "𨻴",
-  "head": "𨻴",
-  "aliases": [],
-  "pinyin": "shàn",
-  "bus": {
-    "num": 90,
-    "name": "告"
+ "char": "𨻴",
+ "head": "𨻴",
+ "aliases": [],
+ "pinyin": "shàn",
+ "bus": {
+  "num": 90,
+  "name": "告"
+ },
+ "level": 3,
+ "parent": "告",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨻴shàn《篇海》：“士陷切，音儳。陷也。”義音同“陷”。",
+   "paras": [
+    "𨻴shàn《篇海》：“士陷切，音儳。陷也。”義音同“陷”。"
+   ]
   },
-  "level": 3,
-  "parent": "告",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：陷者失足而下墜（推）。",
+   "paras": [
+    "sh「失收」取「失」：陷者失足而下墜（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨻴shàn《篇海》：“士陷切，音儳。陷也。”義音同“陷”。",
-      "paras": [
-        "𨻴shàn《篇海》：“士陷切，音儳。陷也。”義音同“陷”。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "sh「失收」取「失」：陷者失足而下墜（推）。",
-      "paras": [
-        "sh「失收」取「失」：陷者失足而下墜（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

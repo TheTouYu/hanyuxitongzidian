@@ -1,34 +1,35 @@
 {
-  "char": "𨵅",
-  "pinyin": "ě",
-  "aliases": [],
-  "bus": {
-    "num": 34,
-    "name": "丂"
+ "char": "𨵅",
+ "pinyin": "ě",
+ "aliases": [],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
+ "level": 3,
+ "parent": "何",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨵅（𨵌）ě《龍龕》：“𨵌，或作𨵅，烏可切。俹也，門傾也。”"
   },
-  "level": 3,
-  "parent": "何",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：門扇豁開（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨵅（𨵌）ě《龍龕》：“𨵌，或作𨵅，烏可切。俹也，門傾也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "h「豁活」取「豁」：門扇豁開（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

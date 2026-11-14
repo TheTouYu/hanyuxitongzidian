@@ -1,41 +1,41 @@
 {
-  "char": "𢯴",
-  "head": "𢯴",
-  "pinyin": "jiǎo",
-  "aliases": [],
-  "bus": {
-    "num": 105,
-    "name": "交"
+ "char": "𢯴",
+ "head": "𢯴",
+ "pinyin": "jiǎo",
+ "aliases": [],
+ "bus": {
+  "num": 105,
+  "name": "交"
+ },
+ "level": 3,
+ "parent": "交",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𢯴jiǎo《集韻》：“古巧切，音絞。接物也。一曰戾也。”"
+   ],
+   "text": "𢯴jiǎo《集韻》：“古巧切，音絞。接物也。一曰戾也。”"
   },
-  "level": 3,
-  "parent": "交",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [],
+   "text": "j「聚决」取「决」：兩相絞勒而決絕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𢯴jiǎo《集韻》：“古巧切，音絞。接物也。一曰戾也。”"
-      ],
-      "text": "𢯴jiǎo《集韻》：“古巧切，音絞。接物也。一曰戾也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [],
-      "text": "j「聚决」取「决」：兩相絞勒而決絕（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十角",
+     "label": "卷二十角"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,35 +1,36 @@
 {
-  "char": "𥎗",
-  "head": "𥎗",
-  "pinyin": "xù",
-  "aliases": [],
-  "bus": {
-    "num": 61,
-    "name": "𦥑"
+ "char": "𥎗",
+ "head": "𥎗",
+ "pinyin": "xù",
+ "aliases": [],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "與",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥎗xù《集韻》：“象呂切，音敘。矛也。”"
   },
-  "level": 3,
-  "parent": "與",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：矛柄接續而長（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥎗xù《集韻》：“象呂切，音敘。矛也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：矛柄接續而長（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 𦥑",
-      "links": [
-        {
-          "ch": "卷十𦥑",
-          "label": "卷十 𦥑"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

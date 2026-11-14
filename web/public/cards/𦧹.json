@@ -1,39 +1,39 @@
 {
-  "char": "𦧹",
-  "head": "𦧹",
-  "pinyin": "huā",
-  "aliases": [],
-  "bus": {
-    "num": 70,
-    "name": "𠌶"
+ "char": "𦧹",
+ "head": "𦧹",
+ "pinyin": "huā",
+ "aliases": [],
+ "bus": {
+  "num": 70,
+  "name": "𠌶"
+ },
+ "level": 3,
+ "parent": "𠌶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𦧹huā《篇海》：“呼瓜切，音花。舌短貌。”舌如花蕊之意。"
+   ],
+   "text": "𦧹huā《篇海》：“呼瓜切，音花。舌短貌。”舌如花蕊之意。"
   },
-  "level": 3,
-  "parent": "𠌶",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：舌短則口張而豁（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𦧹huā《篇海》：“呼瓜切，音花。舌短貌。”舌如花蕊之意。"
-      ],
-      "text": "𦧹huā《篇海》：“呼瓜切，音花。舌短貌。”舌如花蕊之意。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "h「豁活」取「豁」：舌短則口張而豁（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十二  于",
-          "ch": "卷十二于",
-          "label": "卷十二 于"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十二于",
+     "label": "卷十二于"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,35 +1,36 @@
 {
-  "char": "𩋮",
-  "head": "𩋮",
-  "pinyin": "fěng",
-  "level": 3,
-  "parent": "封",
-  "bus": {
-    "num": 125,
-    "name": "丰部"
+ "char": "𩋮",
+ "head": "𩋮",
+ "pinyin": "fěng",
+ "level": 3,
+ "parent": "封",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩋮fěng《玉篇》：“軍人皮。”《字彙》：“車邊皮。”bāng，《正字通》：“按《舉要》：鞤𥀂同，皮履也。”鞋幫。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：革附車邊而分裹，附而後固，故𩋮為車邊皮（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩋮fěng《玉篇》：“軍人皮。”《字彙》：“車邊皮。”bāng，《正字通》：“按《舉要》：鞤𥀂同，皮履也。”鞋幫。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "f「附分」取「附」：革附車邊而分裹，附而後固，故𩋮為車邊皮（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十四 貝",
-      "links": [
-        {
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

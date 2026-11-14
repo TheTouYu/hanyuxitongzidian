@@ -1,34 +1,35 @@
 {
-  "char": "𧘈",
-  "head": "𧘈",
-  "level": 3,
-  "parent": "了",
-  "bus": {
-    "num": 8,
-    "name": "㠯"
+ "char": "𧘈",
+ "head": "𧘈",
+ "level": 3,
+ "parent": "了",
+ "bus": {
+  "num": 8,
+  "name": "㠯"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧘈liǎo《玉篇》：“䘨𧘈，小袴也。”《急就篇注》：“袴謂脛衣也，大者謂之倒頓，小者謂之䘨𧘈。”䘨𧘈，小套褲，捕魚時穿的服裝。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「拢」：小袴攏足（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧘈liǎo《玉篇》：“䘨𧘈，小袴也。”《急就篇注》：“袴謂脛衣也，大者謂之倒頓，小者謂之䘨𧘈。”䘨𧘈，小套褲，捕魚時穿的服裝。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "l「拢离」取「拢」：小袴攏足（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

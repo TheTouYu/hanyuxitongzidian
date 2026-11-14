@@ -1,45 +1,45 @@
 {
-  "char": "𤷎",
-  "head": "𤷎（䏨）",
-  "pinyin": "duī",
-  "aliases": [
-    "䏨"
-  ],
-  "level": 3,
-  "parent": "𨸏",
-  "bus": {
-    "num": 145,
-    "name": "阜部"
+ "char": "𤷎",
+ "head": "𤷎（䏨）",
+ "pinyin": "duī",
+ "aliases": [
+  "䏨"
+ ],
+ "level": 3,
+ "parent": "𨸏",
+ "bus": {
+  "num": 145,
+  "name": "阜部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤷎（䏨）duī《集韻》：“腫也。或作䏨。”",
+   "paras": [
+    "𤷎（䏨）duī《集韻》：“腫也。或作䏨。”"
+   ]
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：毒氣囤聚，腫起不散（推）。",
+   "paras": [
+    "d「囤动」取「囤」：毒氣囤聚，腫起不散（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𤷎（䏨）duī《集韻》：“腫也。或作䏨。”",
-      "paras": [
-        "𤷎（䏨）duī《集韻》：“腫也。或作䏨。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "d「囤动」取「囤」：毒氣囤聚，腫起不散（推）。",
-      "paras": [
-        "d「囤动」取「囤」：毒氣囤聚，腫起不散（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "paras": [],
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十五勹",
+     "label": "卷二十五勹"
     }
-  ]
+   ]
+  }
+ ]
 }

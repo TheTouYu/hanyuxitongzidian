@@ -1,43 +1,43 @@
 {
-  "char": "𥀣",
-  "head": "𥀣",
-  "pinyin": "xué",
-  "aliases": [],
-  "bus": {
-    "num": 103,
-    "name": "爻"
+ "char": "𥀣",
+ "head": "𥀣",
+ "pinyin": "xué",
+ "aliases": [],
+ "bus": {
+  "num": 103,
+  "name": "爻"
+ },
+ "level": 3,
+ "parent": "𦥯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𥀣xué《集韻》：“𥀣𤿩，乾也。”qiào，方言。黏物不熨帖。"
+   ],
+   "text": "𥀣xué《集韻》：“𥀣𤿩，乾也。”qiào，方言。黏物不熨帖。"
   },
-  "level": 3,
-  "parent": "𦥯",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "x「续消」取「消」：皮乾而澤消，黏物不附（推）。"
+   ],
+   "text": "x「续消」取「消」：皮乾而澤消，黏物不附（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𥀣xué《集韻》：“𥀣𤿩，乾也。”qiào，方言。黏物不熨帖。"
-      ],
-      "text": "𥀣xué《集韻》：“𥀣𤿩，乾也。”qiào，方言。黏物不熨帖。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "x「续消」取「消」：皮乾而澤消，黏物不附（推）。"
-      ],
-      "text": "x「续消」取「消」：皮乾而澤消，黏物不附（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十角",
+     "label": "卷二十角"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,39 +1,39 @@
 {
-  "char": "𪉮",
-  "head": "𪉮",
-  "pinyin": "còu",
-  "aliases": [],
-  "bus": {
-    "num": 127,
-    "name": "𠦪部"
+ "char": "𪉮",
+ "head": "𪉮",
+ "pinyin": "còu",
+ "aliases": [],
+ "bus": {
+  "num": 127,
+  "name": "𠦪部"
+ },
+ "level": 3,
+ "parent": "奏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪉮còu《廣韻》：“南夷名鹽。”",
+   "paras": [
+    "𪉮còu《廣韻》：“南夷名鹽。”"
+   ]
   },
-  "level": 3,
-  "parent": "奏",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：鹽粒相持而結，湊為鹵塊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𪉮còu《廣韻》：“南夷名鹽。”",
-      "paras": [
-        "𪉮còu《廣韻》：“南夷名鹽。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "ch「刺持」取「持」：鹽粒相持而結，湊為鹵塊（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

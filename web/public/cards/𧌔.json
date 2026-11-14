@@ -1,34 +1,35 @@
 {
-  "char": "𧌔",
-  "head": "𧌔",
-  "level": 3,
-  "parent": "支",
-  "bus": {
-    "num": 13,
-    "name": "支"
+ "char": "𧌔",
+ "head": "𧌔",
+ "level": 3,
+ "parent": "支",
+ "bus": {
+  "num": 13,
+  "name": "支"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𧌔zhī《集韻》：“蟲名，似蜥蜴，食人而善藏。”指其舌頭如蜥蜴般分叉。"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：舌分而凿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𧌔zhī《集韻》：“蟲名，似蜥蜴，食人而善藏。”指其舌頭如蜥蜴般分叉。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「凿」：舌分而凿（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

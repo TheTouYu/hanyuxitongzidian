@@ -1,36 +1,37 @@
 {
-  "char": "𦙺",
-  "head": "𦙺",
-  "pinyin": "jià",
-  "aliases": [],
-  "bus": {
-    "num": 37,
-    "name": "加"
+ "char": "𦙺",
+ "head": "𦙺",
+ "pinyin": "jià",
+ "aliases": [],
+ "bus": {
+  "num": 37,
+  "name": "加"
+ },
+ "level": 3,
+ "parent": "加",
+ "bridge": "瘡皮即痂，同受軛磨之義",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦙺jià《玉篇》：“𦙺䐒，不密。”jiā，《集韻》：“瘡皮。”即“痂”。"
   },
-  "level": 3,
-  "parent": "加",
-  "bridge": "瘡皮即痂，同受軛磨之義",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𦙺jià《玉篇》：“𦙺䐒，不密。”jiā，《集韻》：“瘡皮。”即“痂”。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

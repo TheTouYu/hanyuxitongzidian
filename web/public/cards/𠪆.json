@@ -1,41 +1,42 @@
 {
-  "char": "𠪆",
-  "head": "𠪆（厥）",
-  "pinyin": "jué",
-  "level": 3,
-  "parent": "封",
-  "bus": {
-    "num": 125,
-    "name": "丰部"
+ "char": "𠪆",
+ "head": "𠪆（厥）",
+ "pinyin": "jué",
+ "level": 3,
+ "parent": "封",
+ "bus": {
+  "num": 125,
+  "name": "丰部"
+ },
+ "aliases": [
+  "厥"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠪆（厥）jué《字彙補》：“居月切，音厥。短也。姓也。”《龍龕》：“𠪆，俗；厥，正。居月反。其也。亦知也。又姓。”"
   },
-  "aliases": [
-    "厥"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：物短而截，決然斷絕（推）。",
+   "paras": [
+    "j「聚决」取「决」：物短而截，決然斷絕（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二十四 貝",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠪆（厥）jué《字彙補》：“居月切，音厥。短也。姓也。”《龍龕》：“𠪆，俗；厥，正。居月反。其也。亦知也。又姓。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「决」：物短而截，決然斷絕（推）。",
-      "paras": [
-        "j「聚决」取「决」：物短而截，決然斷絕（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二十四 貝",
-      "links": [
-        {
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

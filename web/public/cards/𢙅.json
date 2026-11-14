@@ -1,42 +1,42 @@
 {
-  "char": "𢙅",
-  "head": "𢙅",
-  "aliases": [],
-  "pinyin": "xí",
-  "bus": {
-    "num": 75,
-    "name": "合"
+ "char": "𢙅",
+ "head": "𢙅",
+ "aliases": [],
+ "pinyin": "xí",
+ "bus": {
+  "num": 75,
+  "name": "合"
+ },
+ "level": 3,
+ "parent": "合",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢙅xí《集韻》：“合也。《太玄》：‘㥷而𢙅之’。”",
+   "paras": [
+    "𢙅xí《集韻》：“合也。《太玄》：‘㥷而𢙅之’。”"
+   ]
   },
-  "level": 3,
-  "parent": "合",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：心志續而相合（推）。",
+   "paras": [
+    "x「续消」取「续」：心志續而相合（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢙅xí《集韻》：“合也。《太玄》：‘㥷而𢙅之’。”",
-      "paras": [
-        "𢙅xí《集韻》：“合也。《太玄》：‘㥷而𢙅之’。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：心志續而相合（推）。",
-      "paras": [
-        "x「续消」取「续」：心志續而相合（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

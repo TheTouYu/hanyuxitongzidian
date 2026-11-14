@@ -1,47 +1,47 @@
 {
-  "char": "𦓬",
-  "head": "𦓬",
-  "pinyin": "chēng",
-  "aliases": [],
-  "level": 3,
-  "parent": "平",
-  "rootChain": [
-    "平",
-    "平"
-  ],
-  "bus": {
-    "num": 133,
-    "name": "平部"
+ "char": "𦓬",
+ "head": "𦓬",
+ "pinyin": "chēng",
+ "aliases": [],
+ "level": 3,
+ "parent": "平",
+ "rootChain": [
+  "平",
+  "平"
+ ],
+ "bus": {
+  "num": 133,
+  "name": "平部"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦓬chēng《玉篇》：“昌蠅切，音稱。耒也。”",
+   "paras": [
+    "𦓬chēng《玉篇》：“昌蠅切，音稱。耒也。”"
+   ]
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：耒入土而刺，翻土使平（推）。",
+   "paras": [
+    "ch「刺持」取「刺」：耒入土而刺，翻土使平（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𦓬chēng《玉篇》：“昌蠅切，音稱。耒也。”",
-      "paras": [
-        "𦓬chēng《玉篇》：“昌蠅切，音稱。耒也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "ch「刺持」取「刺」：耒入土而刺，翻土使平（推）。",
-      "paras": [
-        "ch「刺持」取「刺」：耒入土而刺，翻土使平（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "paras": [],
-      "links": [
-        {
-          "t": "卷廿四  貝",
-          "ch": "卷廿四貝",
-          "label": "卷廿四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

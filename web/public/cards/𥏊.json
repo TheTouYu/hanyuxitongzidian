@@ -1,42 +1,42 @@
 {
-  "char": "𥏊",
-  "head": "𥏊",
-  "aliases": [],
-  "pinyin": "zhì",
-  "bus": {
-    "num": 72,
-    "name": "羽"
+ "char": "𥏊",
+ "head": "𥏊",
+ "aliases": [],
+ "pinyin": "zhì",
+ "bus": {
+  "num": 72,
+  "name": "羽"
+ },
+ "level": 3,
+ "parent": "羽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥏊zhì《漢典》：“黑色。”疑本指有羽的箭。",
+   "paras": [
+    "𥏊zhì《漢典》：“黑色。”疑本指有羽的箭。"
+   ]
   },
-  "level": 3,
-  "parent": "羽",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：眾羽總聚，其色深黑（推）。",
+   "paras": [
+    "zh「凿总」取「总」：眾羽總聚，其色深黑（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥏊zhì《漢典》：“黑色。”疑本指有羽的箭。",
-      "paras": [
-        "𥏊zhì《漢典》：“黑色。”疑本指有羽的箭。"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「总」：眾羽總聚，其色深黑（推）。",
-      "paras": [
-        "zh「凿总」取「总」：眾羽總聚，其色深黑（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十二  于",
-          "ch": "卷十二于",
-          "label": "卷十二 于"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十二于",
+     "label": "卷十二于"
     }
-  ]
+   ]
+  }
+ ]
 }

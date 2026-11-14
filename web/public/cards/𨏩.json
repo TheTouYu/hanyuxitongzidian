@@ -1,42 +1,42 @@
 {
-  "char": "𨏩",
-  "head": "𨏩",
-  "aliases": [],
-  "pinyin": "lián",
-  "bus": {
-    "num": 87,
-    "name": "車"
+ "char": "𨏩",
+ "head": "𨏩",
+ "aliases": [],
+ "pinyin": "lián",
+ "bus": {
+  "num": 87,
+  "name": "車"
+ },
+ "level": 3,
+ "parent": "連",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨏩lián《集韻》：“𨏩，羸𨻻，縣名。在交趾。或从連。”",
+   "paras": [
+    "𨏩lián《集韻》：“𨏩，羸𨻻，縣名。在交趾。或从連。”"
+   ]
   },
-  "level": 3,
-  "parent": "連",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：村邑攏聚，連車而治（推）。",
+   "paras": [
+    "l「拢离」取「拢」：村邑攏聚，連車而治（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨏩lián《集韻》：“𨏩，羸𨻻，縣名。在交趾。或从連。”",
-      "paras": [
-        "𨏩lián《集韻》：“𨏩，羸𨻻，縣名。在交趾。或从連。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：村邑攏聚，連車而治（推）。",
-      "paras": [
-        "l「拢离」取「拢」：村邑攏聚，連車而治（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十五  車",
-          "ch": "卷十五車",
-          "label": "卷十五 車"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十五車",
+     "label": "卷十五車"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,36 +1,37 @@
 {
-  "char": "𣱤",
-  "level": 3,
-  "parent": "乞",
-  "bus": {
-    "num": 6,
-    "name": "乞"
+ "char": "𣱤",
+ "level": 3,
+ "parent": "乞",
+ "bus": {
+  "num": 6,
+  "name": "乞"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𣱤（𧆦）yì《說文》：“虎皃。从虎气聲。魚迄切。”即老虎威武的樣子。"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "零「零聲母」不系：緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𣱤（𧆦）yì《說文》：“虎皃。从虎气聲。魚迄切。”即老虎威武的樣子。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "零「零聲母」不系：緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "head": "𣱤（𧆦）",
-  "aliases": [
-    "𧆦"
-  ]
+   ]
+  }
+ ],
+ "head": "𣱤（𧆦）",
+ "aliases": [
+  "𧆦"
+ ]
 }

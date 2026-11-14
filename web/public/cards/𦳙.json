@@ -1,38 +1,39 @@
 {
-  "char": "𦳙",
-  "head": "𦳙",
-  "pinyin": "zhì",
-  "level": 3,
-  "parent": "至",
-  "bus": {
-    "num": 16,
-    "name": "矢"
+ "char": "𦳙",
+ "head": "𦳙",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "至",
+ "bus": {
+  "num": 16,
+  "name": "矢"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦳙zhì《說文》：“艸大也。从艸，致聲。陟利切。”《漢典》：“菿”的訛字。",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「总」：茂（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦳙zhì《說文》：“艸大也。从艸，致聲。陟利切。”《漢典》：“菿”的訛字。",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「总」：茂（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "cites": [],
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ],
-  "aliases": []
+   ]
+  }
+ ],
+ "aliases": []
 }

@@ -1,44 +1,44 @@
 {
-  "char": "𩫿",
-  "head": "𩫿（鬇）",
-  "aliases": [
-    "鬇"
-  ],
-  "pinyin": "zhēng",
-  "bus": {
-    "num": 77,
-    "name": "帀"
+ "char": "𩫿",
+ "head": "𩫿（鬇）",
+ "aliases": [
+  "鬇"
+ ],
+ "pinyin": "zhēng",
+ "bus": {
+  "num": 77,
+  "name": "帀"
+ },
+ "level": 3,
+ "parent": "帀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩫿（鬇）zhēng《廣韻》：“𩫿鬡，亂髮皃。鬇，上同。”",
+   "paras": [
+    "𩫿（鬇）zhēng《廣韻》：“𩫿鬡，亂髮皃。鬇，上同。”"
+   ]
   },
-  "level": 3,
-  "parent": "帀",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：亂髮總聚滿頭（推）。",
+   "paras": [
+    "zh「凿总」取「总」：亂髮總聚滿頭（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩫿（鬇）zhēng《廣韻》：“𩫿鬡，亂髮皃。鬇，上同。”",
-      "paras": [
-        "𩫿（鬇）zhēng《廣韻》：“𩫿鬡，亂髮皃。鬇，上同。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「总」：亂髮總聚滿頭（推）。",
-      "paras": [
-        "zh「凿总」取「总」：亂髮總聚滿頭（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

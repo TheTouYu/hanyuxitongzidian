@@ -1,45 +1,45 @@
 {
-  "char": "𥗫",
-  "head": "𥗫",
-  "aliases": [],
-  "pinyin": "qú",
-  "bus": {
-    "num": 94,
-    "name": "䀠"
+ "char": "𥗫",
+ "head": "𥗫",
+ "aliases": [],
+ "pinyin": "qú",
+ "bus": {
+  "num": 94,
+  "name": "䀠"
+ },
+ "level": 3,
+ "parent": "䀠",
+ "photos": [],
+ "captions": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𥗫qú《集韻》：“磫𥗫，靑礪。”質地細腻的磨刀石。"
+   ],
+   "text": "𥗫qú《集韻》：“磫𥗫，靑礪。”質地細腻的磨刀石。"
   },
-  "level": 3,
-  "parent": "䀠",
-  "photos": [],
-  "captions": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "q「亲缺」取「缺」：礪石磨刃，石面漸缺（推）。"
+   ],
+   "text": "q「亲缺」取「缺」：礪石磨刃，石面漸缺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𥗫qú《集韻》：“磫𥗫，靑礪。”質地細腻的磨刀石。"
-      ],
-      "text": "𥗫qú《集韻》：“磫𥗫，靑礪。”質地細腻的磨刀石。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "q「亲缺」取「缺」：礪石磨刃，石面漸缺（推）。"
-      ],
-      "text": "q「亲缺」取「缺」：礪石磨刃，石面漸缺（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ],
-      "paras": []
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ],
+   "paras": []
+  }
+ ]
 }

@@ -1,44 +1,44 @@
 {
-  "char": "𥧴",
-  "head": "𥧴（寐）",
-  "pinyin": "mèi",
-  "aliases": [],
-  "bus": {
-    "num": 101,
-    "name": "彔"
+ "char": "𥧴",
+ "head": "𥧴（寐）",
+ "pinyin": "mèi",
+ "aliases": [],
+ "bus": {
+  "num": 101,
+  "name": "彔"
+ },
+ "level": 3,
+ "parent": "彔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𥧴（寐）mèi《字彙補》：“莫庇切，音寐。寢也。”“寐”的訛字。"
+   ],
+   "text": "𥧴（寐）mèi《字彙補》：“莫庇切，音寐。寢也。”“寐”的訛字。"
   },
-  "level": 3,
-  "parent": "彔",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "m「蒙末」取「末」：夜氣蒙昧，寢而息，末而無所見（推）。"
+   ],
+   "text": "m「蒙末」取「末」：夜氣蒙昧，寢而息，末而無所見（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𥧴（寐）mèi《字彙補》：“莫庇切，音寐。寢也。”“寐”的訛字。"
-      ],
-      "text": "𥧴（寐）mèi《字彙補》：“莫庇切，音寐。寢也。”“寐”的訛字。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "m「蒙末」取「末」：夜氣蒙昧，寢而息，末而無所見（推）。"
-      ],
-      "text": "m「蒙末」取「末」：夜氣蒙昧，寢而息，末而無所見（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷十九  彔",
-          "ch": "卷十九彔",
-          "label": "卷十九 彔"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十九彔",
+     "label": "卷十九彔"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

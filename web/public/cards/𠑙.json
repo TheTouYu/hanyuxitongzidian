@@ -1,36 +1,36 @@
 {
-  "char": "𠑙",
-  "head": "𠑙",
-  "pinyin": "chòng",
-  "aliases": [],
-  "bus": {
-    "num": 117,
-    "name": "龍"
+ "char": "𠑙",
+ "head": "𠑙",
+ "pinyin": "chòng",
+ "aliases": [],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠑙chòng《字彙》：“丑用切，音銃。斜𠑙。”房屋傾斜。"
   },
-  "level": 3,
-  "parent": "龍",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：屋柱偏刺一旁，勢斜欲傾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠑙chòng《字彙》：“丑用切，音銃。斜𠑙。”房屋傾斜。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "ch「刺持」取「刺」：屋柱偏刺一旁，勢斜欲傾（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

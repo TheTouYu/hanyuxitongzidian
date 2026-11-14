@@ -1,42 +1,42 @@
 {
-  "char": "𩝣",
-  "head": "𩝣",
-  "aliases": [],
-  "pinyin": "dā",
-  "bus": {
-    "num": 78,
-    "name": "𦐇"
+ "char": "𩝣",
+ "head": "𩝣",
+ "aliases": [],
+ "pinyin": "dā",
+ "bus": {
+  "num": 78,
+  "name": "𦐇"
+ },
+ "level": 3,
+ "parent": "𦐇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩝣dā《集韻》：“𩝣𩚛，食皃。”",
+   "paras": [
+    "𩝣dā《集韻》：“𩝣𩚛，食皃。”"
+   ]
   },
-  "level": 3,
-  "parent": "𦐇",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：食下咽，貼喉而過（推）。",
+   "paras": [
+    "t「涂突」取「涂」：食下咽，貼喉而過（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩝣dā《集韻》：“𩝣𩚛，食皃。”",
-      "paras": [
-        "𩝣dā《集韻》：“𩝣𩚛，食皃。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "t「涂突」取「涂」：食下咽，貼喉而過（推）。",
-      "paras": [
-        "t「涂突」取「涂」：食下咽，貼喉而過（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十三  合",
-          "ch": "卷十三合",
-          "label": "卷十三 合"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十三合",
+     "label": "卷十三合"
     }
-  ]
+   ]
+  }
+ ]
 }

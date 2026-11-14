@@ -1,40 +1,40 @@
 {
-  "char": "𣝏",
-  "head": "𣝏",
-  "pinyin": "gào",
-  "aliases": [],
-  "bus": {
-    "num": 112,
-    "name": "高"
+ "char": "𣝏",
+ "head": "𣝏",
+ "pinyin": "gào",
+ "aliases": [],
+ "bus": {
+  "num": 112,
+  "name": "高"
+ },
+ "level": 3,
+ "parent": "高",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𣝏gào《集韻》：“木名，大苦也。”"
+   ],
+   "text": "𣝏gào《集韻》：“木名，大苦也。”"
   },
-  "level": 3,
-  "parent": "高",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：木高與眾木相隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𣝏gào《集韻》：“木名，大苦也。”"
-      ],
-      "text": "𣝏gào《集韻》：“木名，大苦也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "g「隔估」取「隔」：木高與眾木相隔（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿一  方",
-          "ch": "卷廿一方",
-          "label": "卷廿一 方"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十一方",
+     "label": "卷二十一方"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,37 +1,38 @@
 {
-  "char": "𠩂",
-  "head": "𠩂",
-  "pinyin": "qiè",
-  "level": 3,
-  "bus": {
-    "num": 49,
-    "name": "去"
+ "char": "𠩂",
+ "head": "𠩂",
+ "pinyin": "qiè",
+ "level": 3,
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𠩂（厒）qiè《集韻》：“厓也。或作厒。”厓岸。"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "q「亲缺」取「缺」：厓岸缺口（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𠩂（厒）qiè《集韻》：“厓也。或作厒。”厓岸。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "q「亲缺」取「缺」：厓岸缺口（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": [
-    "厒"
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "aliases": [
+  "厒"
+ ],
+ "noRoot": true
 }

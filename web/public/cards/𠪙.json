@@ -1,35 +1,36 @@
 {
-  "char": "𠪙",
-  "head": "𠪙",
-  "pinyin": "xǐ",
-  "aliases": [],
-  "bus": {
-    "num": 33,
-    "name": "異"
+ "char": "𠪙",
+ "head": "𠪙",
+ "pinyin": "xǐ",
+ "aliases": [],
+ "bus": {
+  "num": 33,
+  "name": "異"
+ },
+ "level": 3,
+ "parent": "異",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠪙xǐ《說文》：“石利也。从厂異聲。讀若枲。胥裡切。”石頭銳利。大約指礪而使石利。"
   },
-  "level": 3,
-  "parent": "異",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：礪而消石（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷四 弋",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠪙xǐ《說文》：“石利也。从厂異聲。讀若枲。胥裡切。”石頭銳利。大約指礪而使石利。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「消」：礪而消石（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷四 弋",
-      "links": [
-        {
-          "ch": "卷四弋",
-          "label": "卷四 弋"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷四弋",
+     "label": "卷四弋"
     }
-  ]
+   ]
+  }
+ ]
 }

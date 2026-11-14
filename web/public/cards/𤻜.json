@@ -1,35 +1,36 @@
 {
-  "char": "𤻜",
-  "head": "𤻜",
-  "pinyin": "kài",
-  "level": 3,
-  "parent": "葢",
-  "bus": {
-    "num": 49,
-    "name": "去"
+ "char": "𤻜",
+ "head": "𤻜",
+ "pinyin": "kài",
+ "level": 3,
+ "parent": "葢",
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𤻜kài《正字通》：“喉疾。與欬義近。”è，《字彙》：“烏合切，音遏。短氣。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "g「隔估」取「隔」：喉中生疾，氣隔而不通（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𤻜kài《正字通》：“喉疾。與欬義近。”è，《字彙》：“烏合切，音遏。短氣。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "g「隔估」取「隔」：喉中生疾，氣隔而不通（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": []
+   ]
+  }
+ ],
+ "aliases": []
 }

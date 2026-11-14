@@ -1,43 +1,43 @@
 {
-  "char": "𢏧",
-  "head": "𢏧（弲）",
-  "pinyin": "xuān",
-  "aliases": [
-    "弲"
-  ],
-  "bus": {
-    "num": 102,
-    "name": "角"
+ "char": "𢏧",
+ "head": "𢏧（弲）",
+ "pinyin": "xuān",
+ "aliases": [
+  "弲"
+ ],
+ "bus": {
+  "num": 102,
+  "name": "角"
+ },
+ "level": 3,
+ "parent": "角",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𢏧（弲）xuān《字彙》：“音喧。弓曲貌。”《正字通》：“弲字之譌。”"
+   ],
+   "text": "𢏧（弲）xuān《字彙》：“音喧。弓曲貌。”《正字通》：“弲字之譌。”"
   },
-  "level": 3,
-  "parent": "角",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [],
+   "text": "j「聚决」取「决」：弓曲而張，一發決然（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𢏧（弲）xuān《字彙》：“音喧。弓曲貌。”《正字通》：“弲字之譌。”"
-      ],
-      "text": "𢏧（弲）xuān《字彙》：“音喧。弓曲貌。”《正字通》：“弲字之譌。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [],
-      "text": "j「聚决」取「决」：弓曲而張，一發決然（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十角",
+     "label": "卷二十角"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,37 +1,38 @@
 {
-  "char": "㻧",
-  "head": "㻧（𤤸𤧮）",
-  "level": 3,
-  "bus": {
-    "num": 7,
-    "name": "桀"
+ "char": "㻧",
+ "head": "㻧（𤤸𤧮）",
+ "level": 3,
+ "bus": {
+  "num": 7,
+  "name": "桀"
+ },
+ "aliases": [
+  "𤤸",
+  "𤧮"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《龍龕》：“𤤸、𤧮、㻧，徒臥反。玉名也。”《正字通》：“𤧮㻧並譌。”"
   },
-  "aliases": [
-    "𤤸",
-    "𤧮"
-  ],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "d「囤动」取「囤」：玉名借音（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《龍龕》：“𤤸、𤧮、㻧，徒臥反。玉名也。”《正字通》：“𤧮㻧並譌。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "d「囤动」取「囤」：玉名借音（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

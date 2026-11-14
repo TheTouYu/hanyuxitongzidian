@@ -1,35 +1,36 @@
 {
-  "char": "䲽",
-  "head": "䲽",
-  "pinyin": "shí",
-  "bus": {
-    "num": 45,
-    "name": "石"
+ "char": "䲽",
+ "head": "䲽",
+ "pinyin": "shí",
+ "bus": {
+  "num": 45,
+  "name": "石"
+ },
+ "parent": "石",
+ "level": 3,
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》：“磟䲽，懸石皃。”shí，《集韻》：“鳥名，雝𪆂也。”《廣韻》：“䲽鳥，精列。”鹡鴒。此義為“石”聲。"
   },
-  "parent": "石",
-  "level": 3,
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "sh「失收」取「收」：石質收聚而堅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《集韻》：“磟䲽，懸石皃。”shí，《集韻》：“鳥名，雝𪆂也。”《廣韻》：“䲽鳥，精列。”鹡鴒。此義為“石”聲。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "sh「失收」取「收」：石質收聚而堅（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "ch": "卷七斤",
-          "label": "卷七 斤"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷七斤",
+     "label": "卷七斤"
     }
-  ]
+   ]
+  }
+ ]
 }

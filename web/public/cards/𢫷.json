@@ -1,38 +1,39 @@
 {
-  "char": "𢫷",
-  "head": "𢫷（𢬯）",
-  "pinyin": "wǒ",
-  "aliases": [
-    "𢬯"
-  ],
-  "bus": {
-    "num": 38,
-    "name": "厄"
+ "char": "𢫷",
+ "head": "𢫷（𢬯）",
+ "pinyin": "wǒ",
+ "aliases": [
+  "𢬯"
+ ],
+ "bus": {
+  "num": 38,
+  "name": "厄"
+ },
+ "level": 3,
+ "parent": "戹",
+ "bridge": "捰𢫷，摘取而握之",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢫷（𢬯）wǒ《康典》：“𢬯，𢫷字之訛。”《集韻》：“捰𢫷，摘也。”"
   },
-  "level": 3,
-  "parent": "戹",
-  "bridge": "捰𢫷，摘取而握之",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢫷（𢬯）wǒ《康典》：“𢬯，𢫷字之訛。”《集韻》：“捰𢫷，摘也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,43 +1,43 @@
 {
-  "char": "𢋔",
-  "head": "𢋔",
-  "aliases": [],
-  "pinyin": "qiān",
-  "bus": {
-    "num": 92,
-    "name": "曲"
+ "char": "𢋔",
+ "head": "𢋔",
+ "aliases": [],
+ "pinyin": "qiān",
+ "bus": {
+  "num": 92,
+  "name": "曲"
+ },
+ "level": 3,
+ "parent": "區",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𢋔qiān《集韻》：“吳人謂盛衣之櫝曰𢋔。”衣櫃。"
+   ],
+   "text": "𢋔qiān《集韻》：“吳人謂盛衣之櫝曰𢋔。”衣櫃。"
   },
-  "level": 3,
-  "parent": "區",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [
+    "q「亲缺」取「缺」：𢋔為衣櫝，木合而中缺以容衣（推）。"
+   ],
+   "text": "q「亲缺」取「缺」：𢋔為衣櫝，木合而中缺以容衣（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𢋔qiān《集韻》：“吳人謂盛衣之櫝曰𢋔。”衣櫃。"
-      ],
-      "text": "𢋔qiān《集韻》：“吳人謂盛衣之櫝曰𢋔。”衣櫃。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [
-        "q「亲缺」取「缺」：𢋔為衣櫝，木合而中缺以容衣（推）。"
-      ],
-      "text": "q「亲缺」取「缺」：𢋔為衣櫝，木合而中缺以容衣（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ],
-      "paras": []
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ],
+   "paras": []
+  }
+ ]
 }

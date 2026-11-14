@@ -1,41 +1,42 @@
 {
-  "char": "𠰄",
-  "head": "𠰄",
-  "pinyin": "yī",
-  "aliases": [],
-  "bus": {
-    "num": 60,
-    "name": "予"
+ "char": "𠰄",
+ "head": "𠰄",
+ "pinyin": "yī",
+ "aliases": [],
+ "bus": {
+  "num": 60,
+  "name": "予"
+ },
+ "level": 3,
+ "parent": "予",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠰄yī《篇海類編》：“烏兮切，音衣。呢也。”春秋金文从“言”。"
   },
-  "level": 3,
-  "parent": "予",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "𠰄"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 予",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𠰄yī《篇海類編》：“烏兮切，音衣。呢也。”春秋金文从“言”。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
-    },
-    {
-      "key": "zixing",
-      "label": "字形",
-      "text": "",
-      "gdir": "𠰄"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 予",
-      "links": [
-        {
-          "ch": "卷十予",
-          "label": "卷十 予"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

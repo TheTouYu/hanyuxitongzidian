@@ -1,34 +1,35 @@
 {
-  "char": "𥰮",
-  "pinyin": "gě",
-  "aliases": [],
-  "bus": {
-    "num": 34,
-    "name": "丂"
+ "char": "𥰮",
+ "pinyin": "gě",
+ "aliases": [],
+ "bus": {
+  "num": 34,
+  "name": "丂"
+ },
+ "level": 3,
+ "parent": "可",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥰮（𥰯）gě《廣韻》：“筍𥰮，出南中。”《集韻》：“筍葅。或作𥰯。”竹筍。或指用鹽醃制的筍乾。"
   },
-  "level": 3,
-  "parent": "可",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥰮（𥰯）gě《廣韻》：“筍𥰮，出南中。”《集韻》：“筍葅。或作𥰯。”竹筍。或指用鹽醃制的筍乾。"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

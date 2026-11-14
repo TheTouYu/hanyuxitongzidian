@@ -1,42 +1,42 @@
 {
-  "char": "𥍱",
-  "head": "𥍱",
-  "aliases": [],
-  "pinyin": "zé",
-  "bus": {
-    "num": 90,
-    "name": "告"
+ "char": "𥍱",
+ "head": "𥍱",
+ "aliases": [],
+ "pinyin": "zé",
+ "bus": {
+  "num": 90,
+  "name": "告"
+ },
+ "level": 3,
+ "parent": "告",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥍱zé《海篇》：“矛屬。”",
+   "paras": [
+    "𥍱zé《海篇》：“矛屬。”"
+   ]
   },
-  "level": 3,
-  "parent": "告",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：矛以刺，如凿之入（推）。",
+   "paras": [
+    "zh「凿总」取「凿」：矛以刺，如凿之入（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥍱zé《海篇》：“矛屬。”",
-      "paras": [
-        "𥍱zé《海篇》：“矛屬。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「凿」：矛以刺，如凿之入（推）。",
-      "paras": [
-        "zh「凿总」取「凿」：矛以刺，如凿之入（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

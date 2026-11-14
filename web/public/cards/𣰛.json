@@ -1,35 +1,36 @@
 {
-  "char": "𣰛",
-  "head": "𣰛",
-  "pinyin": "yè",
-  "level": 3,
-  "parent": "葢",
-  "bus": {
-    "num": 49,
-    "name": "去"
+ "char": "𣰛",
+ "head": "𣰛",
+ "pinyin": "yè",
+ "level": 3,
+ "parent": "葢",
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𣰛yè《玉篇》：“音謁。多毛。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：多毛之皃，零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𣰛yè《玉篇》：“音謁。多毛。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：多毛之皃，零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": []
+   ]
+  }
+ ],
+ "aliases": []
 }

@@ -1,42 +1,42 @@
 {
-  "char": "𤷹",
-  "head": "𤷹",
-  "aliases": [],
-  "pinyin": "wài",
-  "bus": {
-    "num": 86,
-    "name": "及"
+ "char": "𤷹",
+ "head": "𤷹",
+ "aliases": [],
+ "pinyin": "wài",
+ "bus": {
+  "num": 86,
+  "name": "及"
+ },
+ "level": 3,
+ "parent": "及",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤷹wài《篇海類編》：“烏外切。潔病也。”",
+   "paras": [
+    "𤷹wài《篇海類編》：“烏外切。潔病也。”"
+   ]
   },
-  "level": 3,
-  "parent": "及",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
+   "paras": [
+    "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𤷹wài《篇海類編》：“烏外切。潔病也。”",
-      "paras": [
-        "𤷹wài《篇海類編》：“烏外切。潔病也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。",
-      "paras": [
-        "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十四  咠",
-          "ch": "卷十四咠",
-          "label": "卷十四 咠"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十四咠",
+     "label": "卷十四咠"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,37 +1,38 @@
 {
-  "char": "𩥆",
-  "head": "𩥆（䮉）",
-  "pinyin": "lǜ",
-  "aliases": [
-    "䮉"
-  ],
-  "bus": {
-    "num": 58,
-    "name": "㫃"
+ "char": "𩥆",
+ "head": "𩥆（䮉）",
+ "pinyin": "lǜ",
+ "aliases": [
+  "䮉"
+ ],
+ "bus": {
+  "num": 58,
+  "name": "㫃"
+ },
+ "level": 3,
+ "parent": "旅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩥆（䮉）lǜ《廣韻》：“傳馬。”《正字通》：“驛傳有步馬急遞三等使，𩥆卽急遞也。或作䮉。”"
   },
-  "level": 3,
-  "parent": "旅",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：承旅之取義一面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷九 舟",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩥆（䮉）lǜ《廣韻》：“傳馬。”《正字通》：“驛傳有步馬急遞三等使，𩥆卽急遞也。或作䮉。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：承旅之取義一面（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷九 舟",
-      "links": [
-        {
-          "ch": "卷九舟",
-          "label": "卷九 舟"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷九舟",
+     "label": "卷九舟"
     }
-  ]
+   ]
+  }
+ ]
 }

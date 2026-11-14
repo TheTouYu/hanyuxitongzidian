@@ -1,37 +1,38 @@
 {
-  "char": "𨽈",
-  "head": "𨽈",
-  "pinyin": "ài",
-  "level": 3,
-  "parent": "葢",
-  "bus": {
-    "num": 49,
-    "name": "去"
+ "char": "𨽈",
+ "head": "𨽈",
+ "pinyin": "ài",
+ "level": 3,
+ "parent": "葢",
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𨽈（隘）ài《篇海》：“隘，一作𨽈。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：隘之或體，零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𨽈（隘）ài《篇海》：“隘，一作𨽈。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：隘之或體，零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": [
-    "隘"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "隘"
+ ]
 }

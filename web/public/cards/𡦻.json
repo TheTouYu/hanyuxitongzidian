@@ -1,34 +1,35 @@
 {
-  "char": "𡦻",
-  "head": "𡦻（𡧍）",
-  "level": 3,
-  "bus": {
-    "num": 23,
-    "name": "ㄗ"
+ "char": "𡦻",
+ "head": "𡦻（𡧍）",
+ "level": 3,
+ "bus": {
+  "num": 23,
+  "name": "ㄗ"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𡦻（𡧍）bīn《康典》引《川篇》：“音賓。疑𡧍字之訛。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "b「闭剥」取「闭」：閉而落（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𡦻（𡧍）bīn《康典》引《川篇》：“音賓。疑𡧍字之訛。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "b「闭剥」取「闭」：閉而落（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

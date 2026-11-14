@@ -1,35 +1,36 @@
 {
-  "char": "𧾰",
-  "head": "𧾰",
-  "pinyin": "yì",
-  "aliases": [],
-  "bus": {
-    "num": 33,
-    "name": "異"
+ "char": "𧾰",
+ "head": "𧾰",
+ "pinyin": "yì",
+ "aliases": [],
+ "bus": {
+  "num": 33,
+  "name": "異"
+ },
+ "level": 3,
+ "parent": "異",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧾰yì《說文》：“趨進𧾰如也。从走翼聲。與職切。”走路如飛。《玉篇》：“趨進皃。”"
   },
-  "level": 3,
-  "parent": "異",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷四 弋",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧾰yì《說文》：“趨進𧾰如也。从走翼聲。與職切。”走路如飛。《玉篇》：“趨進皃。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷四 弋",
-      "links": [
-        {
-          "ch": "卷四弋",
-          "label": "卷四 弋"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷四弋",
+     "label": "卷四弋"
     }
-  ]
+   ]
+  }
+ ]
 }

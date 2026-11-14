@@ -1,35 +1,36 @@
 {
-  "char": "𡚠",
-  "head": "𡚠",
-  "pinyin": "jué",
-  "level": 3,
-  "parent": "矍",
-  "bus": {
-    "num": 40,
-    "name": "隻"
+ "char": "𡚠",
+ "head": "𡚠",
+ "pinyin": "jué",
+ "level": 3,
+ "parent": "矍",
+ "bus": {
+  "num": 40,
+  "name": "隻"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𡚠jué《正字通》：“矍字之訛。”《玉篇》：“健皃。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "j「聚决」取「聚」：𡚠從指鶴足，表示勁健有力一面取「聚」之義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷六 鶴",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𡚠jué《正字通》：“矍字之訛。”《玉篇》：“健皃。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "j「聚决」取「聚」：𡚠從指鶴足，表示勁健有力一面取「聚」之義（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷六 鶴",
-      "links": [
-        {
-          "ch": "卷六鶴",
-          "label": "卷六 鶴"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷六鶴",
+     "label": "卷六鶴"
     }
-  ]
+   ]
+  }
+ ]
 }

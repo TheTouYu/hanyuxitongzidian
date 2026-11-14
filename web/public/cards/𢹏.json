@@ -1,38 +1,39 @@
 {
-  "char": "𢹏",
-  "head": "𢹏（舉举）",
-  "pinyin": "yú",
-  "aliases": [
-    "舉",
-    "举"
-  ],
-  "bus": {
-    "num": 61,
-    "name": "𦥑"
+ "char": "𢹏",
+ "head": "𢹏（舉举）",
+ "pinyin": "yú",
+ "aliases": [
+  "舉",
+  "举"
+ ],
+ "bus": {
+  "num": 61,
+  "name": "𦥑"
+ },
+ "level": 3,
+ "parent": "輿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢹏（舉举）yú《說文》：“對舉也。从手輿聲。以諸切。”《通訓》：“謂兩人舉之。”"
   },
-  "level": 3,
-  "parent": "輿",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷十 𦥑",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢹏（舉举）yú《說文》：“對舉也。从手輿聲。以諸切。”《通訓》：“謂兩人舉之。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "y「零聲母」不系：零聲母，緒論七組未列，無擬態可系（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷十 𦥑",
-      "links": [
-        {
-          "ch": "卷十𦥑",
-          "label": "卷十 𦥑"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十予",
+     "label": "卷十予"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,42 +1,42 @@
 {
-  "char": "𥘊",
-  "head": "𥘊",
-  "aliases": [],
-  "pinyin": "jiào",
-  "bus": {
-    "num": 89,
-    "name": "丩"
+ "char": "𥘊",
+ "head": "𥘊",
+ "aliases": [],
+ "pinyin": "jiào",
+ "bus": {
+  "num": 89,
+  "name": "丩"
+ },
+ "level": 3,
+ "parent": "丩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥘊jiào《海篇》：“祝也。”",
+   "paras": [
+    "𥘊jiào《海篇》：“祝也。”"
+   ]
   },
-  "level": 3,
-  "parent": "丩",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：祝聲聚而上達（推）。",
+   "paras": [
+    "j「聚决」取「聚」：祝聲聚而上達（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𥘊jiào《海篇》：“祝也。”",
-      "paras": [
-        "𥘊jiào《海篇》：“祝也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：祝聲聚而上達（推）。",
-      "paras": [
-        "j「聚决」取「聚」：祝聲聚而上達（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

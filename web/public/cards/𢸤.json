@@ -1,40 +1,41 @@
 {
-  "char": "𢸤",
-  "head": "𢸤（𢹍）",
-  "pinyin": "xī",
-  "aliases": [
-    "𢹍"
-  ],
-  "bus": {
-    "num": 36,
-    "name": "我"
+ "char": "𢸤",
+ "head": "𢸤（𢹍）",
+ "pinyin": "xī",
+ "aliases": [
+  "𢹍"
+ ],
+ "bus": {
+  "num": 36,
+  "name": "我"
+ },
+ "level": 3,
+ "parent": "羲",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢸤（𢹍）xī《集韻》：“𢹍，《博雅》：‘擊也。’或作𢸤。”"
   },
-  "level": 3,
-  "parent": "羲",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：擊也，聳立而擊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𢸤（𢹍）xī《集韻》：“𢹍，《博雅》：‘擊也。’或作𢸤。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：擊也，聳立而擊（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ],
-  "cls": "手",
-  "bridge": "擊也，聳立而擊",
-  "lead": "《集韻》「𢹍，《博雅》：‘擊也」——擊也，聳立而擊"
+   ]
+  }
+ ],
+ "cls": "手",
+ "bridge": "擊也，聳立而擊",
+ "lead": "《集韻》「𢹍，《博雅》：‘擊也」——擊也，聳立而擊"
 }

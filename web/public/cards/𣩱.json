@@ -1,38 +1,39 @@
 {
-  "char": "𣩱",
-  "head": "𣩱",
-  "pinyin": "ài",
-  "level": 3,
-  "parent": "葢",
-  "bus": {
-    "num": 49,
-    "name": "去"
+ "char": "𣩱",
+ "head": "𣩱",
+ "pinyin": "ài",
+ "level": 3,
+ "parent": "葢",
+ "bus": {
+  "num": 49,
+  "name": "去"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𣩱（𣩄𣨵）ài《集韻》：“死也。或省，亦作𣨵。”kē，《類篇》：“奄忽也。”《博雅》：“依也。”"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "y「零聲母」不系：死而奄忽，零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𣩱（𣩄𣨵）ài《集韻》：“死也。或省，亦作𣨵。”kē，《類篇》：“奄忽也。”《博雅》：“依也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "y「零聲母」不系：死而奄忽，零聲母，緒論七組未列（照實）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "aliases": [
-    "𣩄",
-    "𣨵"
-  ]
+   ]
+  }
+ ],
+ "aliases": [
+  "𣩄",
+  "𣨵"
+ ]
 }

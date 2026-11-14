@@ -1,35 +1,36 @@
 {
-  "char": "𨼮",
-  "head": "𨼮",
-  "pinyin": "zhàn",
-  "aliases": [],
-  "bus": {
-    "num": 35,
-    "name": "厂"
+ "char": "𨼮",
+ "head": "𨼮",
+ "pinyin": "zhàn",
+ "aliases": [],
+ "bus": {
+  "num": 35,
+  "name": "厂"
+ },
+ "level": 3,
+ "parent": "詹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨼮zhàn《玉篇》：“陷也。”"
   },
-  "level": 3,
-  "parent": "詹",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：簷下凹處，故曰陷。（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷五 雁",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𨼮zhàn《玉篇》：“陷也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "zh「凿总」取「凿」：簷下凹處，故曰陷。（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷五 雁",
-      "links": [
-        {
-          "ch": "卷五雁",
-          "label": "卷五 雁"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷五雁",
+     "label": "卷五雁"
     }
-  ]
+   ]
+  }
+ ]
 }

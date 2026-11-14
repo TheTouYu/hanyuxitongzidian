@@ -1,44 +1,44 @@
 {
-  "char": "𥌈",
-  "head": "𥌈",
-  "pinyin": "jiān",
-  "aliases": [],
-  "bus": {
-    "num": 136,
-    "name": "臣部"
+ "char": "𥌈",
+ "head": "𥌈",
+ "pinyin": "jiān",
+ "aliases": [],
+ "bus": {
+  "num": 136,
+  "name": "臣部"
+ },
+ "level": 3,
+ "parent": "監",
+ "photos": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𥌈jiān《說文》：“視也。从目監聲。古銜切。”《廣韻》：“瞻也。”"
+   ],
+   "text": "𥌈jiān《說文》：“視也。从目監聲。古銜切。”《廣韻》：“瞻也。”"
   },
-  "level": 3,
-  "parent": "監",
-  "photos": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：目聚其光而視（推）。",
+   "paras": [
+    "j「聚决」取「聚」：目聚其光而視（推）。"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𥌈jiān《說文》：“視也。从目監聲。古銜切。”《廣韻》：“瞻也。”"
-      ],
-      "text": "𥌈jiān《說文》：“視也。从目監聲。古銜切。”《廣韻》：“瞻也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：目聚其光而視（推）。",
-      "paras": [
-        "j「聚决」取「聚」：目聚其光而視（推）。"
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ]
+   ]
+  }
+ ]
 }

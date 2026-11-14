@@ -1,42 +1,42 @@
 {
-  "char": "𧩇",
-  "head": "𧩇",
-  "aliases": [],
-  "pinyin": "xuān",
-  "bus": {
-    "num": 86,
-    "name": "及"
+ "char": "𧩇",
+ "head": "𧩇",
+ "aliases": [],
+ "pinyin": "xuān",
+ "bus": {
+  "num": 86,
+  "name": "及"
+ },
+ "level": 3,
+ "parent": "及",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧩇xuān《海篇》：“音喧。高聲也。”",
+   "paras": [
+    "𧩇xuān《海篇》：“音喧。高聲也。”"
+   ]
   },
-  "level": 3,
-  "parent": "及",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：高聲續呼，聲不斷絕（推）。",
+   "paras": [
+    "x「续消」取「续」：高聲續呼，聲不斷絕（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧩇xuān《海篇》：“音喧。高聲也。”",
-      "paras": [
-        "𧩇xuān《海篇》：“音喧。高聲也。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "x「续消」取「续」：高聲續呼，聲不斷絕（推）。",
-      "paras": [
-        "x「续消」取「续」：高聲續呼，聲不斷絕（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十四  咠",
-          "ch": "卷十四咠",
-          "label": "卷十四 咠"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十四咠",
+     "label": "卷十四咠"
     }
-  ]
+   ]
+  }
+ ]
 }

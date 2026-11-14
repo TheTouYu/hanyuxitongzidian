@@ -1,34 +1,35 @@
 {
-  "char": "𣣌",
-  "head": "𣣌（𣧸）",
-  "level": 3,
-  "parent": "次",
-  "bus": {
-    "num": 20,
-    "name": "次"
+ "char": "𣣌",
+ "head": "𣣌（𣧸）",
+ "level": 3,
+ "parent": "次",
+ "bus": {
+  "num": 20,
+  "name": "次"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𣣌（𣧸）zì《說文》：“戰見血曰傷；亂或為惽；死而復生為𣣌。从死次聲。諮四切。”昏死而蘇醒。sì，《博雅》：“病也。或作𣧸。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "z「凿总」取「总」：涓滴總聚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷三 矢",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𣣌（𣧸）zì《說文》：“戰見血曰傷；亂或為惽；死而復生為𣣌。从死次聲。諮四切。”昏死而蘇醒。sì，《博雅》：“病也。或作𣧸。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "z「凿总」取「总」：涓滴總聚（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷三 矢",
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ]
+   ]
+  }
+ ]
 }

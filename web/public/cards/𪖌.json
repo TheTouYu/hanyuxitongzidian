@@ -1,41 +1,42 @@
 {
-  "char": "𪖌",
-  "head": "𪖌",
-  "pinyin": "lú",
-  "level": 3,
-  "parent": "盧",
-  "bus": {
-    "num": 48,
-    "name": "虎"
+ "char": "𪖌",
+ "head": "𪖌",
+ "pinyin": "lú",
+ "level": 3,
+ "parent": "盧",
+ "bus": {
+  "num": 48,
+  "name": "虎"
+ },
+ "suoshujuan": "卷八 虎（第48部 虍）",
+ "links": [
+  {
+   "ch": "卷八虎",
+   "label": "卷八 虎"
+  }
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𪖌lú《集韻》：“龍都切，音廬。鼠名。”"
   },
-  "suoshujuan": "卷八 虎（第48部 虍）",
-  "links": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷八 虎",
+   "links": [
     {
-      "ch": "卷八虎",
-      "label": "卷八 虎"
+     "t": "卷",
+     "ch": "卷八虎",
+     "label": "卷八虎"
     }
-  ],
-  "sections": [
-    {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𪖌lú《集韻》：“龍都切，音廬。鼠名。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "l「拢离」取「拢」：攏聚其形色於一器一物（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷八 虎",
-      "links": [
-        {
-          "ch": "卷八虎",
-          "label": "卷八 虎"
-        }
-      ]
-    }
-  ]
+   ]
+  }
+ ]
 }

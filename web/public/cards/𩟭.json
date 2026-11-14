@@ -1,38 +1,38 @@
 {
-  "char": "𩟭",
-  "head": "𩟭（𪎁）",
-  "pinyin": "lóng",
-  "aliases": [
-    "𪎁"
-  ],
-  "bus": {
-    "num": 117,
-    "name": "龍"
+ "char": "𩟭",
+ "head": "𩟭（𪎁）",
+ "pinyin": "lóng",
+ "aliases": [
+  "𪎁"
+ ],
+ "bus": {
+  "num": 117,
+  "name": "龍"
+ },
+ "level": 3,
+ "parent": "龍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩟭（𪎁）lóng《集韻》：“餅屬。或从麥。”"
   },
-  "level": 3,
-  "parent": "龍",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：麥屑攏合為餅，中虛而厚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𩟭（𪎁）lóng《集韻》：“餅屬。或从麥。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：麥屑攏合為餅，中虛而厚（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷廿二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

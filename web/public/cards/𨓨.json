@@ -1,41 +1,41 @@
 {
-  "char": "𨓨",
-  "head": "𨓨",
-  "pinyin": "yǒng",
-  "aliases": [],
-  "bus": {
-    "num": 102,
-    "name": "角"
+ "char": "𨓨",
+ "head": "𨓨",
+ "pinyin": "yǒng",
+ "aliases": [],
+ "bus": {
+  "num": 102,
+  "name": "角"
+ },
+ "level": 3,
+ "parent": "角",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𨓨yǒng《川篇》：“音勇。走也。”"
+   ],
+   "text": "𨓨yǒng《川篇》：“音勇。走也。”"
   },
-  "level": 3,
-  "parent": "角",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "paras": [],
+   "text": "j「聚决」取「决」：勇而疾走，直前決然（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "paras": [],
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𨓨yǒng《川篇》：“音勇。走也。”"
-      ],
-      "text": "𨓨yǒng《川篇》：“音勇。走也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "paras": [],
-      "text": "j「聚决」取「决」：勇而疾走，直前決然（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "paras": [],
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十  角",
-          "ch": "卷二十角",
-          "label": "卷二十 角"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十角",
+     "label": "卷二十角"
     }
-  ]
+   ]
+  }
+ ]
 }

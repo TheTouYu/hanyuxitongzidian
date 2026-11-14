@@ -1,37 +1,38 @@
 {
-  "char": "㰨",
-  "trad": "㰨",
-  "simp": "㰨",
-  "pinyin": "xiā",
-  "level": 3,
-  "parent": "只",
-  "bus": {
-    "num": 1,
-    "name": "只"
+ "char": "㰨",
+ "trad": "㰨",
+ "simp": "㰨",
+ "pinyin": "xiā",
+ "level": 3,
+ "parent": "只",
+ "bus": {
+  "num": 1,
+  "name": "只"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "《集韻》：“㰰（hè）㰨，氣逆病。”《正字通》：“譌字。”疑非訛字。本指雄雞打鳴之狀。"
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "x「续消」取「消」：氣逆而上，旋消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷一 鸡",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "《集韻》：“㰰（hè）㰨，氣逆病。”《正字通》：“譌字。”疑非訛字。本指雄雞打鳴之狀。"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "x「续消」取「消」：氣逆而上，旋消（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷一 鸡",
-      "links": [
-        {
-          "ch": "卷一鸡",
-          "label": "卷一 鸡"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷一雞",
+     "label": "卷一雞"
     }
-  ],
-  "aliases": [],
-  "head": "㰨"
+   ]
+  }
+ ],
+ "aliases": [],
+ "head": "㰨"
 }

@@ -1,38 +1,39 @@
 {
-  "char": "𩹈",
-  "head": "𩹈",
-  "pinyin": "zhì",
-  "level": 3,
-  "parent": "至",
-  "bus": {
-    "num": 16,
-    "name": "矢"
+ "char": "𩹈",
+ "head": "𩹈",
+ "pinyin": "zhì",
+ "level": 3,
+ "parent": "至",
+ "bus": {
+  "num": 16,
+  "name": "矢"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𩹈zhì《廣韻》：“直利切，音稚。魚名。”",
+   "cites": []
   },
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "zh「凿总」取「凿」：聲（推）。",
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "cites": [],
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𩹈zhì《廣韻》：“直利切，音稚。魚名。”",
-      "cites": []
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "zh「凿总」取「凿」：聲（推）。",
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "cites": [],
-      "links": [
-        {
-          "ch": "卷三矢",
-          "label": "卷三 矢"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷三矢",
+     "label": "卷三矢"
     }
-  ],
-  "aliases": []
+   ]
+  }
+ ],
+ "aliases": []
 }

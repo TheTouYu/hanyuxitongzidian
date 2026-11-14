@@ -1,44 +1,44 @@
 {
-  "char": "𡩈",
-  "head": "𡩈",
-  "pinyin": "miáo",
-  "aliases": [],
-  "bus": {
-    "num": 136,
-    "name": "臣部"
+ "char": "𡩈",
+ "head": "𡩈",
+ "pinyin": "miáo",
+ "aliases": [],
+ "bus": {
+  "num": 136,
+  "name": "臣部"
+ },
+ "level": 3,
+ "photos": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "paras": [
+    "𡩈miáo《玉篇》：“古文苗。”"
+   ],
+   "text": "𡩈miáo《玉篇》：“古文苗。”"
   },
-  "level": 3,
-  "photos": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：草芽初出，蒙茸覆地（推）。",
+   "paras": [
+    "m「蒙末」取「蒙」：草芽初出，蒙茸覆地（推）。"
+   ],
+   "cites": []
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "paras": [
-        "𡩈miáo《玉篇》：“古文苗。”"
-      ],
-      "text": "𡩈miáo《玉篇》：“古文苗。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "m「蒙末」取「蒙」：草芽初出，蒙茸覆地（推）。",
-      "paras": [
-        "m「蒙末」取「蒙」：草芽初出，蒙茸覆地（推）。"
-      ],
-      "cites": []
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十四 貝",
-          "ch": "卷二十四貝",
-          "label": "卷二十四 貝"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十四貝",
+     "label": "卷二十四貝"
     }
-  ],
-  "noRoot": true
+   ]
+  }
+ ],
+ "noRoot": true
 }

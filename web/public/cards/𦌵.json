@@ -1,38 +1,38 @@
 {
-  "char": "𦌵",
-  "head": "𦌵（䍣）",
-  "pinyin": "léi",
-  "aliases": [
-    "䍣"
-  ],
-  "bus": {
-    "num": 118,
-    "name": "畾"
+ "char": "𦌵",
+ "head": "𦌵（䍣）",
+ "pinyin": "léi",
+ "aliases": [
+  "䍣"
+ ],
+ "bus": {
+  "num": 118,
+  "name": "畾"
+ },
+ "level": 3,
+ "parent": "畾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦌵（䍣）léi《集韻》：“網百囊者。或从雷。”《玉篇》：“罾也。”"
   },
-  "level": 3,
-  "parent": "畾",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：百囊攏聚於一網（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𦌵（䍣）léi《集韻》：“網百囊者。或从雷。”《玉篇》：“罾也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "l「拢离」取「拢」：百囊攏聚於一網（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷廿二  雷",
-          "ch": "卷二十二雷",
-          "label": "卷廿二 雷"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十二雷",
+     "label": "卷二十二雷"
     }
-  ]
+   ]
+  }
+ ]
 }

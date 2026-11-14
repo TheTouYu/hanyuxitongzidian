@@ -1,44 +1,44 @@
 {
-  "char": "𧮶",
-  "head": "𧮶（𧯂）",
-  "aliases": [
-    "𧯂"
-  ],
-  "pinyin": "hóu",
-  "bus": {
-    "num": 90,
-    "name": "后"
+ "char": "𧮶",
+ "head": "𧮶（𧯂）",
+ "aliases": [
+  "𧯂"
+ ],
+ "pinyin": "hóu",
+ "bus": {
+  "num": 90,
+  "name": "后"
+ },
+ "level": 3,
+ "parent": "后",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧮶（𧯂）hóu《集韻》：“谷名，在城皋。或从矦。”",
+   "paras": [
+    "𧮶（𧯂）hóu《集韻》：“谷名，在城皋。或从矦。”"
+   ]
   },
-  "level": 3,
-  "parent": "后",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：谷名，音義之聯未詳。",
+   "paras": [
+    "h「豁活」取「豁」：谷名，音義之聯未詳。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "𧮶（𧯂）hóu《集韻》：“谷名，在城皋。或从矦。”",
-      "paras": [
-        "𧮶（𧯂）hóu《集韻》：“谷名，在城皋。或从矦。”"
-      ]
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "h「豁活」取「豁」：谷名，音義之聯未詳。",
-      "paras": [
-        "h「豁活」取「豁」：谷名，音義之聯未詳。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷十六  犬",
-          "ch": "卷十六犬",
-          "label": "卷十六 犬"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷十六犬",
+     "label": "卷十六犬"
     }
-  ]
+   ]
+  }
+ ]
 }

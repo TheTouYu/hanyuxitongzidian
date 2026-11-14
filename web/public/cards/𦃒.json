@@ -1,34 +1,35 @@
 {
-  "char": "𦃒",
-  "head": "𦃒",
-  "level": 3,
-  "parent": "祟",
-  "bus": {
-    "num": 10,
-    "name": "示"
+ "char": "𦃒",
+ "head": "𦃒",
+ "level": 3,
+ "parent": "祟",
+ "bus": {
+  "num": 10,
+  "name": "示"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𦃒suì《集韻》：“卷絲為緯也。”"
   },
-  "aliases": [],
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "s「失收」取「收」：卷絲而收（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷二 㠯",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𦃒suì《集韻》：“卷絲為緯也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "s「失收」取「收」：卷絲而收（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷二 㠯",
-      "links": [
-        {
-          "ch": "卷二㠯",
-          "label": "卷二 㠯"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二㠯",
+     "label": "卷二㠯"
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,35 +1,36 @@
 {
-  "char": "𢂝",
-  "level": 3,
-  "parent": "曳",
-  "bus": {
-    "num": 26,
-    "name": "弋"
+ "char": "𢂝",
+ "level": 3,
+ "parent": "曳",
+ "bus": {
+  "num": 26,
+  "name": "弋"
+ },
+ "head": "𢂝",
+ "aliases": [],
+ "pinyin": "chì",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "释义",
+   "text": "𢂝chì《篇海類編》：“醜吏切，音熾。習也。”"
   },
-  "head": "𢂝",
-  "aliases": [],
-  "pinyin": "chì",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "声母拟态",
+   "text": "ch「刺持」取「持」：習而持之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "卷四 弋",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "释义",
-      "text": "𢂝chì《篇海類編》：“醜吏切，音熾。習也。”"
-    },
-    {
-      "key": "shengmu",
-      "label": "声母拟态",
-      "text": "ch「刺持」取「持」：習而持之（推）。"
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "卷四 弋",
-      "links": [
-        {
-          "ch": "卷四弋",
-          "label": "卷四 弋"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷四弋",
+     "label": "卷四弋"
     }
-  ]
+   ]
+  }
+ ]
 }

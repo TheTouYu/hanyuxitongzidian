@@ -1,40 +1,40 @@
 {
-  "char": "驧",
-  "head": "驧",
-  "pinyin": "jú",
-  "aliases": [],
-  "bus": {
-    "num": 140,
-    "name": "勹部"
+ "char": "驧",
+ "head": "驧",
+ "pinyin": "jú",
+ "aliases": [],
+ "bus": {
+  "num": 140,
+  "name": "勹部"
+ },
+ "level": 3,
+ "parent": "匊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“馬曲脊也。从馬鞠聲。巨六切。”《廣韻》：“馬跳躍也。”",
+   "paras": []
   },
-  "level": 3,
-  "parent": "匊",
-  "sections": [
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：馬脊拳曲，背肉聚而隆起（推）。",
+   "paras": [
+    "j「聚决」取「聚」：馬脊拳曲，背肉聚而隆起（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
     {
-      "key": "shiyi",
-      "label": "釋義",
-      "text": "《說文》：“馬曲脊也。从馬鞠聲。巨六切。”《廣韻》：“馬跳躍也。”",
-      "paras": []
-    },
-    {
-      "key": "shengmu",
-      "label": "聲母擬態",
-      "text": "j「聚决」取「聚」：馬脊拳曲，背肉聚而隆起（推）。",
-      "paras": [
-        "j「聚决」取「聚」：馬脊拳曲，背肉聚而隆起（推）。"
-      ]
-    },
-    {
-      "key": "suoshujuan",
-      "label": "所属卷",
-      "text": "",
-      "links": [
-        {
-          "t": "卷二十五 勹",
-          "ch": "卷二十五勹",
-          "label": "卷二十五 勹"
-        }
-      ]
+     "t": "卷",
+     "ch": "卷二十五勹",
+     "label": "卷二十五勹"
     }
-  ]
+   ]
+  }
+ ]
 }
