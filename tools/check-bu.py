@@ -42,8 +42,9 @@ for e in links:
         err.append(f"{bu}: 二级字根 {e} 无卡")
         continue
     d = json.load(io.open(p, encoding="utf-8"))
-    if d.get("level") not in (1, 2):
-        err.append(f"{e}: 本部字根 level 应为 1 或 2")
+    _hf = any(s.get("key") == "zizu" and s.get("groups") for s in d.get("sections", []))
+    if d.get("level") not in (1, 2) and not (d.get("level") == 3 and _hf):
+        err.append(f"{e}: 本部字根 level 应为 1 或 2（三级字根须自带字族）")
     for s in d.get("sections", []):
         if s.get("key") == "zizu":
             for g in s.get("groups", []):

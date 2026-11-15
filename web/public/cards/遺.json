@@ -11,8 +11,8 @@
   "num": 209,
   "name": "土"
  },
- "level": 2,
- "parent": "土",
+ "level": 3,
+ "parent": "貴",
  "sections": [
   {
    "key": "benyi",
@@ -179,5 +179,11 @@
    "file": "01.jpg",
    "caption": "手捧沙，細沙自指縫漏失"
   }
- ]
+ ],
+ "rootChain": [
+  "土",
+  "貴",
+  "遺"
+ ],
+ "rootLabel": "土 → 貴 → 遺"
 }
