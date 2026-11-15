@@ -1,0 +1,54 @@
+{
+ "char": "曜",
+ "head": "曜",
+ "pinyin": "yào",
+ "aliases": [],
+ "bus": {
+  "num": 214,
+  "name": "翟"
+ },
+ "level": 3,
+ "parent": "翟",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "曜yào《廣韻》：“日光也。又照也。”",
+   "paras": [
+    "曜yào《廣韻》：“日光也。又照也。”"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：羽聚成束，總而長垂（推）。",
+   "paras": [
+    "zh「凿总」取「总」：羽聚成束，總而長垂（推）。"
+   ]
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "files": [
+    "01.png"
+   ],
+   "gimgs": [
+    "曜/01.png"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十七翟",
+     "label": "卷三十七翟"
+    }
+   ]
+  }
+ ]
+}
