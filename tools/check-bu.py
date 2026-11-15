@@ -49,6 +49,8 @@ for e in links:
             for g in s.get("groups", []):
                 for r in g.get("rows", []):
                     ch = r[0].split("（")[0].split("(")[0]
+                    if ch == e:
+                        continue  # 二级字根自身列于其族表首行（如 欮 族之 欮）：不当作谐声字
                     members[ch] = e
 for ch, parent in members.items():
     p = os.path.join(C, ch + ".json")
