@@ -1,0 +1,43 @@
+{
+ "char": "𩑂",
+ "pinyin": "zhuó",
+ "bus": {
+  "num": 233,
+  "name": "蜀"
+ },
+ "level": 3,
+ "parent": "蜀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩑂zhuó《字彙》：「聾𩑂。」耳聾。",
+   "paras": [
+    "𩑂zhuó《字彙》：「聾𩑂。」耳聾。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：耳聾不聞（推）。",
+   "paras": [
+    "zh「凿总」取「总」：耳聾不聞（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十一殳",
+     "label": "卷四十一殳"
+    }
+   ]
+  }
+ ]
+}
