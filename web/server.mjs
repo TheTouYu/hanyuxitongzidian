@@ -1035,12 +1035,25 @@ function aliasOf(ch) {
   return m[ch] || '';
 }
 
+function sanitizeCard(d) {
+  // 字族行首必须是一个汉字；图注残行（「▲…」等）一律丢弃，避免出现在字族 chips 里
+  const HAN = /^\p{Script=Han}$/u;
+  for (const s of (d.sections || [])) {
+    if (!s || s.key !== 'zizu' || !Array.isArray(s.groups)) continue;
+    for (const g of s.groups) {
+      if (!g || !Array.isArray(g.rows)) continue;
+      g.rows = g.rows.filter((r) => Array.isArray(r) && typeof r[0] === 'string' && HAN.test(r[0].trim().replace(/（[^）]*）$/, '')));
+    }
+  }
+  return d;
+}
+
 function loadPresetCard(ch) {
   const alias = variantOf(ch) || ch;
   const names = [ch, alias, aliasOf(ch)].filter(Boolean);
   for (const key of new Set(names)) {
     const p = join(CARD_DIR, key + '.json');
-    try { if (existsSync(p)) return JSON.parse(readFileSync(p, 'utf8')); } catch (e) { log('字卡读取失败', key, e.message); }
+    try { if (existsSync(p)) return sanitizeCard(JSON.parse(readFileSync(p, 'utf8'))); } catch (e) { log('字卡读取失败', key, e.message); }
   }
   return null;
 }
