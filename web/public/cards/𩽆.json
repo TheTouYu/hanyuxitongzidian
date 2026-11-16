@@ -1,0 +1,43 @@
+{
+ "char": "𩽆",
+ "pinyin": "xù",
+ "bus": {
+  "num": 234,
+  "name": "𧸇"
+ },
+ "level": 3,
+ "parent": "𧸇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩽆xù《漢典》：「泥𩽆，魚名。」",
+   "paras": [
+    "𩽆xù《漢典》：「泥𩽆，魚名。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：泥中魚名（推）。",
+   "paras": [
+    "x「续消」取「消」：泥中魚名（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十一殳",
+     "label": "卷四十一殳"
+    }
+   ]
+  }
+ ]
+}
