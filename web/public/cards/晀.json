@@ -1,0 +1,41 @@
+{
+ "char": "晀",
+ "head": "晀",
+ "pinyin": "tiǎo",
+ "level": 3,
+ "parent": "兆",
+ "bus": {
+  "num": 222,
+  "name": "兆"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "晀tiǎo《篇韻》：“明也。”烈日。",
+   "paras": [
+    "晀tiǎo《篇韻》：“明也。”烈日。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：烈日突明，照而灼物（推）。",
+   "paras": [
+    "t「涂突」取「突」：烈日突明，照而灼物（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十九久",
+     "label": "卷三十九久"
+    }
+   ]
+  }
+ ]
+}
