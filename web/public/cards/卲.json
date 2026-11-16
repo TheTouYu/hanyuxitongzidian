@@ -1,0 +1,54 @@
+{
+ "char": "卲",
+ "head": "卲",
+ "pinyin": "shào",
+ "level": 3,
+ "parent": "召",
+ "bus": {
+  "num": 221,
+  "name": "召"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "卲shào《說文》：“高也。从卪召聲。寔照切。”高尚；美好。",
+   "paras": [
+    "卲shào《說文》：“高也。从卪召聲。寔照切。”高尚；美好。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：德收其高，美而可稱（推）。",
+   "paras": [
+    "sh「失收」取「收」：德收其高，美而可稱（推）。"
+   ]
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "files": [
+    "01.jpg",
+    "02.jpg"
+   ],
+   "gimgs": [
+    "卲/01.jpg",
+    "卲/02.jpg"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷三十九久",
+     "label": "卷三十九久"
+    }
+   ]
+  }
+ ]
+}
