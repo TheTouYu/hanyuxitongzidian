@@ -1,0 +1,43 @@
+{
+ "char": "𪎇",
+ "pinyin": "zuó",
+ "bus": {
+  "num": 237,
+  "name": "丵"
+ },
+ "level": 3,
+ "parent": "丵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪎇zuó《集韻》：「屑麥蒸之也。」",
+   "paras": [
+    "𪎇zuó《集韻》：「屑麥蒸之也。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：屑麥蒸之（推）。",
+   "paras": [
+    "zh「凿总」取「凿」：屑麥蒸之（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十二丵",
+     "label": "卷四十二丵"
+    }
+   ]
+  }
+ ]
+}

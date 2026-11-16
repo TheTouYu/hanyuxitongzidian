@@ -1,0 +1,43 @@
+{
+ "char": "𦦹",
+ "pinyin": "zuó",
+ "bus": {
+  "num": 237,
+  "name": "丵"
+ },
+ "level": 3,
+ "parent": "丵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𦦹zuó《龍龕》：「穿𦦹也。」同「鑿」。",
+   "paras": [
+    "𦦹zuó《龍龕》：「穿𦦹也。」同「鑿」。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：穿穴而過（推）。",
+   "paras": [
+    "zh「凿总」取「凿」：穿穴而過（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十二丵",
+     "label": "卷四十二丵"
+    }
+   ]
+  }
+ ]
+}
