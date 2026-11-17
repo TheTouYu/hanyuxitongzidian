@@ -19,15 +19,6 @@
   },
   {
    "key": "cankao",
-   "label": "參證字形（𡴎）",
-   "text": "",
-   "cimgs": [
-    "inline/辥/cankao/𡴎01.jpg"
-   ],
-   "ord": 101
-  },
-  {
-   "key": "cankao",
    "label": "參證字形（𦛛）",
    "text": "",
    "cimgs": [
@@ -45,6 +36,15 @@
     "inline/辥/cankao/𦛛12.png"
    ],
    "ord": 100.5
+  },
+  {
+   "key": "cankao",
+   "label": "參證字形（𡴎）",
+   "text": "",
+   "cimgs": [
+    "inline/辥/cankao/𡴎01.jpg"
+   ],
+   "ord": 101
   },
   {
    "key": "zhuanyi",
