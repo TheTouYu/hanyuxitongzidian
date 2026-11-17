@@ -39,6 +39,22 @@
    "gdir": "inline/𢀡"
   },
   {
+   "key": "cankao",
+   "label": "參證字形（隋）",
+   "text": "",
+   "cimgs": [
+    "inline/𢀡/cankao/隋01.jpg",
+    "inline/𢀡/cankao/隋02.jpg",
+    "inline/𢀡/cankao/隋03.jpg",
+    "inline/𢀡/cankao/隋04.jpg",
+    "inline/𢀡/cankao/隋05.jpg",
+    "inline/𢀡/cankao/隋06.jpg",
+    "inline/𢀡/cankao/隋07.jpg",
+    "inline/𢀡/cankao/隋08.jpg",
+    "inline/𢀡/cankao/隋09.jpg"
+   ]
+  },
+  {
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "h「豁活」取「豁」：土塊自高墜落（推）。",
@@ -222,5 +238,12 @@
    ]
   }
  ],
- "parent": "左"
+ "parent": "左",
+ "aliases": [
+  "隋",
+  "墮",
+  "隳",
+  "𨼰",
+  "堕"
+ ]
 }
