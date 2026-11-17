@@ -1,4 +1,4 @@
-﻿- 2026-10-23：字卡逐部推进至 **715 张卡 / 715 条**（`web/public/cards/*.json`，`topic-zika-shizi`），覆盖第 346–382 部共 37 部；五步规程见 `prompts/exegesis.md`，卡由 `web/server.mjs` 的 `loadPresetCard()` 直出（mode=preset）。
+- 2026-10-23：字卡逐部推进至 **715 张卡 / 715 条**（`web/public/cards/*.json`，`topic-zika-shizi`），覆盖第 346–382 部共 37 部；五步规程见 `prompts/exegesis.md`，卡由 `web/server.mjs` 的 `loadPresetCard()` 直出（mode=preset）。
 # 当前状态
 
 Primary Context: `default`
@@ -409,3 +409,5 @@ Primary Context: `default`
 - 2026-11-13 19:45  183 凵部：部头 凵（lv1，4 形；辯證/音源；族 19 陷阱义），臽（lv2，11 形），閻（lv2，3 形；族 15 巷状深長）；淊 单卡挂 1 形；內嵌 䘓/讇 各 1（inline/<字>/shiyi/01.jpg）；插图 陷阱→凵、里巷→閻、荷花蕾→萏、長廊→櫩；族卡 parent 统一 凵（check-bu 只认部头），check-bu 凵 19/0；37 页全 200 无 404；index 8650、alias 5336。
 - 2026-11-13 183 凵部收尾：閻 按原稿重建（本義含古字内嵌、轉義三段、字族 15 行、里巷插圖）；補 阎→閻 映射；檢索頁 open() 先解析別名（搜臽直開凵）。
 - 2026-11-16 15:25  225 牙部：牙（lv1，13 形）＋邪（lv2 parent 牙，10 形）；族 40+14 行，落点改短引＋十字内桥、类属按形旁逐行；插图 牙=犬齒相錯、邪=易縣狼牙山、䓉=菖蒲；简体索引 讶→訝、鸦→鴉、爷/爺→𤕓、椰→㭨、琊→瑘、伢→𤘅（两份 variants 各 813）；check-bu 牙 40/0、邪 14/0；index 4823 alias。主人定：每部建完必建简体索引（见 exegesis 十七节）。
+
+- 238 乍部：乍（18 形＋參證耤3/耒4）与 62 族卡建成；check-bu 59/0/0、check-ezi 0；variants 845（诈/鲊/鲝）。

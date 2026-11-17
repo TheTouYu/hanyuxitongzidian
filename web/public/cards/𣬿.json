@@ -1,0 +1,43 @@
+{
+ "char": "𣬿",
+ "pinyin": "zè",
+ "bus": {
+  "num": 238,
+  "name": "乍"
+ },
+ "level": 3,
+ "parent": "乍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𣬿zè《玉篇》：「中板切。毛初生。」",
+   "paras": [
+    "𣬿zè《玉篇》：「中板切。毛初生。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：毛初生（推）。",
+   "paras": [
+    "zh「凿总」取「总」：毛初生（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十二丵",
+     "label": "卷四十二丵"
+    }
+   ]
+  }
+ ]
+}
