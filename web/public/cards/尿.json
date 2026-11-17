@@ -1,0 +1,44 @@
+{
+ "char": "尿",
+ "head": "尿",
+ "pinyin": "niào",
+ "aliases": [],
+ "level": 3,
+ "parent": "水",
+ "bus": {
+  "num": 252,
+  "name": "水"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "水字族衍義",
+   "text": "《說文》「人小便也。」——小便細流如水，象人小便之形（甲骨文作{{benyi/01.jpg}}）",
+   "paras": [
+    "《說文》「人小便也。」——小便細流如水，象人小便之形（甲骨文作{{benyi/01.jpg}}）"
+   ],
+   "gdir": "inline/尿"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：小便細流，納而不覺（推）。",
+   "paras": [
+    "n「纳弄」取「纳」：小便細流，納而不覺（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十五隹",
+     "label": "卷四十五隹"
+    }
+   ]
+  }
+ ]
+}
