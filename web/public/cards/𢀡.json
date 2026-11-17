@@ -5,7 +5,7 @@
   "num": 239,
   "name": "左"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -218,5 +218,6 @@
     }
    ]
   }
- ]
+ ],
+ "parent": "左"
 }
