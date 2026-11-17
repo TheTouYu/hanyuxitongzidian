@@ -35,6 +35,8 @@ for s in head.get("sections", []):
                     continue  # 部头自身列在族表首行（如 兜/亙/虢）：不当作族卡校验
                 if ch in links:
                     continue  # 二级字根亦列入部头族表首行（如 仌 族之 冰）：按二级字根校验，不作谐声字
+                if ch in (head.get("aliases") or []):
+                    continue  # 或体/异体已并入部头别名（如 奞 族之 奮）：不再要求独立卡
                 members[ch] = bu
 for e in links:
     p = os.path.join(C, e + ".json")
