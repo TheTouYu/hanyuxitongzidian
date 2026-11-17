@@ -1,0 +1,43 @@
+{
+ "char": "綐",
+ "pinyin": "duì",
+ "bus": {
+  "num": 247,
+  "name": "兌"
+ },
+ "level": 3,
+ "parent": "兌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "綐duì《玉篇》：「紬細也。」綢。",
+   "paras": [
+    "綐duì《玉篇》：「紬細也。」綢。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：綢之細者（推）。",
+   "paras": [
+    "d「囤动」取「囤」：綢之細者（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十五隹",
+     "label": "卷四十五隹"
+    }
+   ]
+  }
+ ]
+}
