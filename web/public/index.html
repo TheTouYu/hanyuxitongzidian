@@ -165,7 +165,7 @@ const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
   const head='<tr><th>字</th><th>类属</th><th>取义落点</th></tr>';
   return `<table class="ct"><thead>${head}</thead><tbody>${s.rows.map(r=>`<tr><td class="zc">${esc2(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td></tr>`).join('')}</tbody></table>`;
 };
-let hasZX=false;const isZX=s=>s.key!=='cankao'&&!(s.text||'').includes('gscroll')&&(s.key==='zigen'||s.key==='zixing'||/字形/.test(s.label||''));
+let hasZX=false;const isZX=s=>!/^cankao/.test(s.key)&&!(s.text||'').includes('gscroll')&&(s.key==='zigen'||s.key==='zixing'||/字形/.test(s.label||''));
 const LKR=(s)=>((s&&s.links&&s.links.length)?("<p class=\"lks\">"+s.links.map(l=>"<a href=\"javascript:void(0)\" onclick=\"goCard('"+l.ch+"')\">"+esc(l.label)+"</a>").join(" · ")+"</p>"):"");
 const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections||[]).filter(s=>!isZX(s)&&s.label!=='所属卷').sort((a,b)=>(typeof a.ord==='number'?a.ord:200+secRank(a.key))-(typeof b.ord==='number'?b.ord:200+secRank(b.key))).map(s=>{ if(isZX(s)) hasZX=true;
   const zx='';
