@@ -1,0 +1,44 @@
+{
+ "char": "𡎻",
+ "head": "𡎻",
+ "pinyin": "chán",
+ "bus": {
+  "num": 249,
+  "name": "坐"
+ },
+ "level": 3,
+ "parent": "坐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《埤蒼》：「𡎻門聚，在睢陽。」地名。",
+   "paras": [
+    "《埤蒼》：「𡎻門聚，在睢陽。」地名。"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：聚門之地（推）。",
+   "paras": [
+    "ch「刺持」取「持」：聚門之地（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十五隹",
+     "label": "卷四十五隹"
+    }
+   ]
+  }
+ ]
+}
