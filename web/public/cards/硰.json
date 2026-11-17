@@ -1,0 +1,43 @@
+{
+ "char": "硰",
+ "pinyin": "shā",
+ "bus": {
+  "num": 240,
+  "name": "沙"
+ },
+ "level": 3,
+ "parent": "沙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "硰shā《集韻》：「硰石，地名。在樓煩西。」",
+   "paras": [
+    "硰shā《集韻》：「硰石，地名。在樓煩西。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：硰石地名（推）。",
+   "paras": [
+    "sh「失收」取「失」：硰石地名（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十三沙",
+     "label": "卷四十三沙"
+    }
+   ]
+  }
+ ]
+}

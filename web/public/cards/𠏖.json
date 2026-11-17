@@ -1,0 +1,43 @@
+{
+ "char": "𠏖",
+ "pinyin": "qiāo",
+ "bus": {
+  "num": 240,
+  "name": "沙"
+ },
+ "level": 3,
+ "parent": "羔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠏖qiāo《集韻》：「𠏖侃，多智。」",
+   "paras": [
+    "𠏖qiāo《集韻》：「𠏖侃，多智。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：多智（推）。",
+   "paras": [
+    "q「亲缺」取「亲」：多智（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十三沙",
+     "label": "卷四十三沙"
+    }
+   ]
+  }
+ ]
+}
