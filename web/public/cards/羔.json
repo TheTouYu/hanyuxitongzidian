@@ -21,6 +21,17 @@
    "ord": 100
   },
   {
+   "key": "cankao",
+   "label": "參證字形（岳）",
+   "text": "",
+   "cimgs": [
+    "inline/羔/cankao/岳01.jpg",
+    "inline/羔/cankao/岳02.jpg",
+    "inline/羔/cankao/岳03.jpg"
+   ],
+   "ord": 101
+  },
+  {
    "key": "zhuanyi",
    "label": "轉義",
    "text": "",
@@ -215,10 +226,7 @@
     "羔/16.jpg",
     "羔/17.jpg",
     "羔/18.jpg",
-    "羔/19.jpg",
-    "羔/20.jpg",
-    "羔/21.jpg",
-    "羔/22.jpg"
+    "羔/19.jpg"
    ],
    "files": [
     "01.jpg",
@@ -239,10 +247,7 @@
     "16.jpg",
     "17.jpg",
     "18.jpg",
-    "19.jpg",
-    "20.jpg",
-    "21.jpg",
-    "22.jpg"
+    "19.jpg"
    ]
   },
   {
