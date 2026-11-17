@@ -5,7 +5,7 @@
   "num": 240,
   "name": "沙"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -266,5 +266,6 @@
    "file": "01.jpg",
    "caption": "烤全羊"
   }
- ]
+ ],
+ "parent": "沙"
 }

@@ -5,7 +5,7 @@
   "num": 240,
   "name": "沙"
  },
- "level": 1,
+ "level": 2,
  "sections": [
   {
    "key": "benyi",
@@ -286,5 +286,6 @@
    "file": "01.jpg",
    "caption": "用繩子拉著棺材徐徐放入墓穴"
   }
- ]
+ ],
+ "parent": "沙"
 }
