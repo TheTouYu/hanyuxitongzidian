@@ -1,0 +1,43 @@
+{
+ "char": "䟀",
+ "pinyin": "cāi",
+ "bus": {
+  "num": 239,
+  "name": "左"
+ },
+ "level": 3,
+ "parent": "左",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "䟀cāi《玉篇》：「初緇切。走也。」",
+   "paras": [
+    "䟀cāi《玉篇》：「初緇切。走也。」"
+   ]
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：疾走之稱（推）。",
+   "paras": [
+    "ch「刺持」取「刺」：疾走之稱（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十二丵",
+     "label": "卷四十二丵"
+    }
+   ]
+  }
+ ]
+}
