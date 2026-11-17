@@ -10,7 +10,6 @@
   "name": "隹"
  },
  "level": 3,
- "parent": "雋",
  "sections": [
   {
    "key": "shiyi",
@@ -43,5 +42,6 @@
     }
    ]
   }
- ]
+ ],
+ "noRoot": true
 }
