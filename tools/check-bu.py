@@ -60,7 +60,16 @@ for ch, parent in members.items():
         continue
     d = json.load(io.open(p, encoding="utf-8"))
     if d.get("parent") != parent and parent not in (d.get("parents") or []):
-        err.append(f"{ch}: parent={d.get('parent')} 应为 {parent}")
+        # 允许父系为二级字根（如 崔→隹）：沿 parent 链上溯，只要到得了本部头即可
+        _chain, _cur = [], d.get("parent")
+        while _cur and _cur not in _chain and len(_chain) < 6:
+            _chain.append(_cur)
+            _fp = os.path.join(C, _cur + ".json")
+            if not os.path.exists(_fp):
+                break
+            _cur = json.load(io.open(_fp, encoding="utf-8")).get("parent")
+        if parent not in _chain:
+            err.append(f"{ch}: parent={d.get('parent')} 应为 {parent}（或其二级字根）")
     if d.get("level") != 3:
         err.append(f"{ch}: level={d.get('level')} 应为 3")
     if d.get("rootLevel"):
