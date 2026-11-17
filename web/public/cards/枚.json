@@ -94,30 +94,8 @@
    "key": "zixing",
    "label": "字形",
    "text": "",
-   "files": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg",
-    "09.jpg",
-    "10.jpg"
-   ],
-   "gimgs": [
-    "枚/01.jpg",
-    "枚/02.jpg",
-    "枚/03.jpg",
-    "枚/04.jpg",
-    "枚/05.jpg",
-    "枚/06.jpg",
-    "枚/07.jpg",
-    "枚/08.jpg",
-    "枚/09.jpg",
-    "枚/10.jpg"
-   ]
+   "gdir": "枚",
+   "paras": []
   },
   {
    "key": "suoshujuan",

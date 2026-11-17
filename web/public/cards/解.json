@@ -228,38 +228,8 @@
    "key": "zixing",
    "label": "字形",
    "text": "",
-   "files": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg",
-    "06.jpg",
-    "07.jpg",
-    "08.jpg",
-    "09.jpg",
-    "10.jpg",
-    "11.jpg",
-    "12.jpg",
-    "13.jpg",
-    "14.jpg"
-   ],
-   "gimgs": [
-    "解/01.jpg",
-    "解/02.jpg",
-    "解/03.jpg",
-    "解/04.jpg",
-    "解/05.jpg",
-    "解/06.jpg",
-    "解/07.jpg",
-    "解/08.jpg",
-    "解/09.jpg",
-    "解/10.jpg",
-    "解/11.jpg",
-    "解/12.jpg",
-    "解/13.jpg",
-    "解/14.jpg"
-   ]
+   "gdir": "解",
+   "paras": []
   },
   {
    "key": "suoshujuan",

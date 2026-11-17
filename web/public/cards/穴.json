@@ -171,20 +171,8 @@
    "key": "zixing",
    "label": "字形",
    "text": "",
-   "files": [
-    "01.jpg",
-    "02.jpg",
-    "03.jpg",
-    "04.jpg",
-    "05.jpg"
-   ],
-   "gimgs": [
-    "穴/01.jpg",
-    "穴/02.jpg",
-    "穴/03.jpg",
-    "穴/04.jpg",
-    "穴/05.jpg"
-   ]
+   "gdir": "穴",
+   "paras": []
   },
   {
    "key": "suoshujuan",

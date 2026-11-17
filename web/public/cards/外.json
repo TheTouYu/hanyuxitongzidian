@@ -129,36 +129,8 @@
    "key": "zixing",
    "label": "字形",
    "text": "",
-   "files": [
-    "01.png",
-    "02.png",
-    "03.png",
-    "04.png",
-    "05.png",
-    "06.png",
-    "07.png",
-    "08.png",
-    "09.png",
-    "10.png",
-    "11.png",
-    "12.png",
-    "13.png"
-   ],
-   "gimgs": [
-    "外/01.png",
-    "外/02.png",
-    "外/03.png",
-    "外/04.png",
-    "外/05.png",
-    "外/06.png",
-    "外/07.png",
-    "外/08.png",
-    "外/09.png",
-    "外/10.png",
-    "外/11.png",
-    "外/12.png",
-    "外/13.png"
-   ]
+   "gdir": "外",
+   "paras": []
   },
   {
    "key": "suoshujuan",
