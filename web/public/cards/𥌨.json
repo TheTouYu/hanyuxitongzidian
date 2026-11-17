@@ -1,0 +1,44 @@
+{
+ "char": "𥌨",
+ "pinyin": "xiē",
+ "bus": {
+  "num": 243,
+  "name": "頪"
+ },
+ "level": 3,
+ "parent": "頪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥌨xiē《龍龕》：「目不明。」miè，《廣韻》：「𥌨頡。」",
+   "paras": [
+    "𥌨xiē《龍龕》：「目不明。」miè，《廣韻》：「𥌨頡。」"
+   ],
+   "gdir": "inline/𥌨"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：目視不明（推）。",
+   "paras": [
+    "x「续消」取「续」：目視不明（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十三沙",
+     "label": "卷四十三沙"
+    }
+   ]
+  }
+ ]
+}

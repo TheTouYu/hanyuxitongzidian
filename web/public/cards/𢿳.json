@@ -1,0 +1,44 @@
+{
+ "char": "𢿳",
+ "pinyin": "luàn",
+ "bus": {
+  "num": 242,
+  "name": "寽"
+ },
+ "level": 3,
+ "parent": "𤔔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢿳luàn《說文》：「煩也。从攴从𤔔，𤔔亦聲。郎段切。」煩亂。",
+   "paras": [
+    "𢿳luàn《說文》：「煩也。从攴从𤔔，𤔔亦聲。郎段切。」煩亂。"
+   ],
+   "gdir": "inline/𢿳"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：煩亂（推）。",
+   "paras": [
+    "l「拢离」取「拢」：煩亂（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十三沙",
+     "label": "卷四十三沙"
+    }
+   ]
+  }
+ ]
+}

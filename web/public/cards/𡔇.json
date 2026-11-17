@@ -1,0 +1,44 @@
+{
+ "char": "𡔇",
+ "pinyin": "lèi",
+ "bus": {
+  "num": 243,
+  "name": "頪"
+ },
+ "level": 3,
+ "parent": "頪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𡔇lèi《廣韻》：「塊土皃。」土塊。",
+   "paras": [
+    "𡔇lèi《廣韻》：「塊土皃。」土塊。"
+   ],
+   "gdir": "inline/𡔇"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：土塊（推）。",
+   "paras": [
+    "l「拢离」取「拢」：土塊（推）。"
+   ]
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "paras": [
+    ""
+   ],
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十三沙",
+     "label": "卷四十三沙"
+    }
+   ]
+  }
+ ]
+}
