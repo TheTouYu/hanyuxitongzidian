@@ -1,0 +1,38 @@
+{
+ "char": "鯾",
+ "head": "鯾（鯿）",
+ "pinyin": "biān",
+ "aliases": [
+  "鯿"
+ ],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "便",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "鯾（鯿）biān《說文》：“魚名。从魚便聲。，鯾又从扁。房連切。”鯿魚。《集韻》：“魚名，似魴而大。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「拼辟」取「拼」：鯿魚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}
