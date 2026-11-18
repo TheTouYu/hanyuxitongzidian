@@ -12,7 +12,6 @@
  ],
  "parent": "𠁁",
  "level": 3,
- "noRoot": true,
  "sections": [
   {
    "key": "shiyi",
@@ -50,5 +49,9 @@
    "ch": "卷四十六陶",
    "label": "卷四十六陶"
   }
- ]
+ ],
+ "bus": {
+  "num": 260,
+  "name": "𠁁"
+ }
 }
