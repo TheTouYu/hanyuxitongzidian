@@ -1,0 +1,41 @@
+{
+ "char": "橌",
+ "head": "橌",
+ "pinyin": "xiàn",
+ "level": 3,
+ "parent": "閒",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "閒",
+  "橌"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "橌xiàn《說文》：“大木皃。从木閒聲。古限切。”應即“閑”，一般是豬牛欄門。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：門隙續透，一線相連（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "char": "襉",
+ "head": "襉（襇𧟉）",
+ "pinyin": "jiǎn",
+ "level": 3,
+ "parent": "閒",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "閒",
+  "襉"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "襉（襇𧟉）jiǎn《集韻》：“𧟉，裙幅相攝也。或省。”衣裙上的褶子。《玉篇》：“暈衣。”《正字通》：“𧜁縫也。”衣斜縫。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：門隙續透，一線相連（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "襇",
+  "𧟉"
+ ]
+}

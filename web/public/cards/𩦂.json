@@ -1,0 +1,41 @@
+{
+ "char": "𩦂",
+ "head": "𩦂",
+ "pinyin": "xián",
+ "level": 3,
+ "parent": "閒",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "閒",
+  "𩦂"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩦂xián《說文》：“馬一目白曰𩦂，二目白曰魚。从馬閒聲。戶閒切。”一種眼圈周圍長著白毛的馬。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：門隙續透，一線相連（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}
