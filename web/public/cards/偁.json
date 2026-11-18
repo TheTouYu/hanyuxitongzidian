@@ -1,0 +1,52 @@
+{
+ "char": "偁",
+ "head": "偁",
+ "pinyin": "chēng",
+ "aliases": [],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "爯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "偁chēng《說文》：“揚也。从人爯聲。處陵切。”飛舉。《集韻》：“譽也。”稱讚；表揚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：飛舉、稱讚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "偁",
+   "gimgs": [
+    "偁/01.png",
+    "偁/02.png",
+    "偁/03.png",
+    "偁/04.png",
+    "偁/05.png",
+    "偁/06.png",
+    "偁/07.png",
+    "偁/08.png"
+   ]
+  }
+ ]
+}
