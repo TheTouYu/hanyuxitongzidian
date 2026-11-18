@@ -41,6 +41,46 @@
    "gdir": "inline/每"
   },
   {
+   "key": "cankao",
+   "label": "參證字形（某）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/每/cankao/某/某01.png",
+     "cap": "某"
+    },
+    {
+     "f": "inline/每/cankao/某/某02.png",
+     "cap": "某"
+    },
+    {
+     "f": "inline/每/cankao/某/某03.png",
+     "cap": "某"
+    }
+   ]
+  },
+  {
+   "key": "cankao2",
+   "label": "參證字形（𠌶）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/每/cankao/𠌶/𠌶01.png",
+     "cap": "𠌶"
+    },
+    {
+     "f": "inline/每/cankao/𠌶/𠌶02.png",
+     "cap": "𠌶"
+    },
+    {
+     "f": "inline/每/cankao/𠌶/𠌶03.png",
+     "cap": "𠌶"
+    }
+   ]
+  },
+  {
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "m「蒙末」取「蒙」：花簪滿頭，蒙覆而生（推）。",
@@ -326,13 +366,7 @@
     "13.png",
     "14.png",
     "15.png",
-    "16.png",
-    "17.png",
-    "18.png",
-    "19.png",
-    "20.png",
-    "21.png",
-    "22.png"
+    "16.png"
    ],
    "gimgs": [
     "每/01.png",
@@ -350,13 +384,7 @@
     "每/13.png",
     "每/14.png",
     "每/15.png",
-    "每/16.png",
-    "每/17.png",
-    "每/18.png",
-    "每/19.png",
-    "每/20.png",
-    "每/21.png",
-    "每/22.png"
+    "每/16.png"
    ]
   },
   {
