@@ -94,7 +94,11 @@ function renderCard(ch){
         if (g.note) h+='<p style="color:#666">'+ext(g.note)+'</p>';
         const head=(String(g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||['字','读音','类属','取义落点']);
         h+='<table><tr>'+head.map(t=>'<th>'+escH(t)+'</th>').join('')+'</tr>';
-        for (const r of (g.rows||[])) h+='<tr>'+r.map(x=>'<td>'+ext(x)+'</td>').join('')+'</tr>';
+        for (const r of (g.rows||[])) h+='<tr>'+r.map((x,i)=>{
+          let cell=ext(x);
+          try { if (i===0 && String(head[0])==='部目'){ const m=/^(.+?)部$/.exec(String(x||'').trim()); if(m && existsSync(join(CARDDIR,m[1]+'.json'))) cell='<a href="/card/'+encodeURIComponent(m[1])+'">'+cell+'</a>'; } } catch(e){}
+          return '<td>'+cell+'</td>';
+        }).join('')+'</tr>';
         h+='</table>';
       }
     } else if (s.cimgs) { h+='<div class="gsbar"><button class="gsnav gsl" aria-label="左翻" onclick="var s=this.parentNode.querySelector(\'.gs\');s.scrollBy({left:-260,behavior:\'smooth\'})">‹</button><div class="gs">'+s.cimgs.map(f=>{const o=(typeof f==='string')?{f:f}:(f||{});const src='/glyphs/'+String(o.f||'').split('/').map(encodeURIComponent).join('/');return '<figure><img src="'+src+'" alt="'+escH(o.cap||'参证')+'" style="height:88px"><figcaption>'+escH(o.cap||'')+'</figcaption></figure>';}).join('')+'<button class="gsnav gsr" aria-label="右翻" onclick="var s=this.parentNode.querySelector(\'.gs\');s.scrollBy({left:260,behavior:\'smooth\'})">›</button></div>'; } else if (Array.isArray(s.paras) && s.paras.length) { h+=s.paras.map(pp=>{ const parts=[]; let tx=String(pp).replace(/\{\{([^}]+)\}\}/g,(m,f)=>{parts.push(((s.gdir||'')+'/'+f)); return '\u0002'+(parts.length-1)+'\u0003';}); tx=ext(tx); tx=tx.replace(/\u0002(\d+)\u0003/g,(m,i)=>'<img class="cim" src="/glyphs/'+String(parts[+i]).split('/').map(encodeURIComponent).join('/')+'?v=20261111a">'); return '<p>'+tx+'</p>'; }).join(''); } else if (s.text) { const parts=[]; let tx=String(s.text).replace(/\{\{([^}]+)\}\}/g,(m,f)=>{parts.push(((s.gdir||'')+'/'+f)); return '\u0002'+(parts.length-1)+'\u0003';}); tx=ext(tx); tx=tx.replace(/\u0002(\d+)\u0003/g,(m,i)=>'<img class="cim" src="/glyphs/'+String(parts[+i]).split('/').map(encodeURIComponent).join('/')+'?v=20261111a">'); h+='<p>'+tx+'</p>'; }
