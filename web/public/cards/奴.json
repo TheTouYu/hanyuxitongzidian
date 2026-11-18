@@ -41,6 +41,74 @@
    ]
   },
   {
+   "key": "cankao",
+   "label": "參證字形（弩）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/奴/cankao/弩/01.png",
+     "cap": "弩"
+    },
+    {
+     "f": "inline/奴/cankao/弩/02.png",
+     "cap": "弩"
+    },
+    {
+     "f": "inline/奴/cankao/弩/03.png",
+     "cap": "弩"
+    },
+    {
+     "f": "inline/奴/cankao/弩/04.png",
+     "cap": "弩"
+    },
+    {
+     "f": "inline/奴/cankao/弩/05.png",
+     "cap": "弩"
+    },
+    {
+     "f": "inline/奴/cankao/弩/06.png",
+     "cap": "弩"
+    },
+    {
+     "f": "inline/奴/cankao/弩/07.png",
+     "cap": "弩"
+    },
+    {
+     "f": "inline/奴/cankao/弩/08.png",
+     "cap": "弩"
+    }
+   ]
+  },
+  {
+   "key": "cankao2",
+   "label": "參證字形（妿）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/奴/cankao/妿/01.png",
+     "cap": "妿"
+    },
+    {
+     "f": "inline/奴/cankao/妿/02.png",
+     "cap": "妿"
+    },
+    {
+     "f": "inline/奴/cankao/妿/03.png",
+     "cap": "妿"
+    },
+    {
+     "f": "inline/奴/cankao/妿/04.png",
+     "cap": "妿"
+    },
+    {
+     "f": "inline/奴/cankao/妿/05.png",
+     "cap": "妿"
+    }
+   ]
+  },
+  {
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "n「纳弄」取「纳」：人手執女，納之為奴婢（推）。",
@@ -200,18 +268,6 @@
    ]
   },
   {
-   "key": "cankao",
-   "label": "參證字形（妿）",
-   "text": "",
-   "paras": [],
-   "cimgs": [
-    {
-     "f": "inline/奴/cankao/01.png",
-     "cap": "妿"
-    }
-   ]
-  },
-  {
    "key": "zixing",
    "label": "字形",
    "text": "",
@@ -236,15 +292,7 @@
     "16.png",
     "17.png",
     "18.png",
-    "19.png",
-    "20.png",
-    "21.png",
-    "22.png",
-    "23.png",
-    "24.png",
-    "25.png",
-    "26.png",
-    "27.png"
+    "19.png"
    ],
    "gimgs": [
     "奴/01.png",
@@ -265,15 +313,7 @@
     "奴/16.png",
     "奴/17.png",
     "奴/18.png",
-    "奴/19.png",
-    "奴/20.png",
-    "奴/21.png",
-    "奴/22.png",
-    "奴/23.png",
-    "奴/24.png",
-    "奴/25.png",
-    "奴/26.png",
-    "奴/27.png"
+    "奴/19.png"
    ]
   },
   {
