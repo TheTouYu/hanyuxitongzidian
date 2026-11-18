@@ -1540,6 +1540,11 @@ const server = createServer(async (req, res) => {
         const idx = JSON.parse(readFileSync(join(CARD_DIR, 'index.json'), 'utf8'));
         const items = Array.isArray(idx) ? idx : (idx.items || []);
         const hits = items.filter((it) => (it.a || []).includes(ch) && it.c && existsSync(join(CARD_DIR, it.c + '.json')));
+        hits.sort((p, q) => (p.lv || 9) - (q.lv || 9) || String(p.c).localeCompare(String(q.c)));
+        const heads = hits.filter((it) => it.lv === 1);
+        if (hits.length > 1 && heads.length === 1) {
+          res.writeHead(302, { Location: '/card/' + encodeURIComponent(heads[0].c) }); return res.end();
+        }
         if (hits.length === 1) {
           res.writeHead(302, { Location: '/card/' + encodeURIComponent(hits[0].c) }); return res.end();
         }
