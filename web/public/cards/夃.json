@@ -5,10 +5,10 @@
  "aliases": [
   "㚉"
  ],
- "level": 1,
+ "level": 2,
  "bus": {
-  "num": 266,
-  "name": "夃"
+  "num": 265,
+  "name": "乃"
  },
  "sections": [
   {
@@ -201,5 +201,6 @@
    "ch": "卷四十七母",
    "label": "卷四十七母"
   }
- ]
+ ],
+ "parent": "乃"
 }

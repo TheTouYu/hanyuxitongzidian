@@ -3,10 +3,10 @@
  "head": "秀",
  "pinyin": "xiù",
  "aliases": [],
- "level": 1,
+ "level": 2,
  "bus": {
-  "num": 267,
-  "name": "秀"
+  "num": 265,
+  "name": "乃"
  },
  "sections": [
   {
@@ -201,5 +201,6 @@
    "ch": "卷四十七母",
    "label": "卷四十七母"
   }
- ]
+ ],
+ "parent": "乃"
 }
