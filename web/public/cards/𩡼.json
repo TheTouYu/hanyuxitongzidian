@@ -1,0 +1,39 @@
+{
+ "char": "𩡼",
+ "head": "𩡼（騈）",
+ "pinyin": "pián",
+ "aliases": [
+  "騈"
+ ],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "鞭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩡼（騈）pián《正字通》：“俗騈字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：《正字通》：“俗騈字。”（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}

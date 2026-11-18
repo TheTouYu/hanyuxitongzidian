@@ -1,0 +1,39 @@
+{
+ "char": "飰",
+ "head": "飰（飯𩚳）",
+ "pinyin": "fàn",
+ "aliases": [
+  "飯𩚳"
+ ],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "鞭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "飰（飯𩚳）fàn《集韻》：“飯，食也。或从弁、从卞。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：《集韻》：“飯，食也。或从弁、从卞。”（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}
