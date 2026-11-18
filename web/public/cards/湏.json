@@ -38,6 +38,42 @@
    ]
   },
   {
+   "key": "cankao",
+   "label": "參證字形（沬）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/湏/cankao/沬/沬01.jpg",
+     "cap": "沬"
+    },
+    {
+     "f": "inline/湏/cankao/沬/沬02.jpg",
+     "cap": "沬"
+    }
+   ]
+  },
+  {
+   "key": "cankao2",
+   "label": "參證字形（須）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/湏/cankao/須/須01.jpg",
+     "cap": "須"
+    },
+    {
+     "f": "inline/湏/cankao/須/須02.jpg",
+     "cap": "須"
+    },
+    {
+     "f": "inline/湏/cankao/須/須03.jpg",
+     "cap": "須"
+    }
+   ]
+  },
+  {
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "m「蒙末」取「蒙」：以水蒙面而洗之（推）。",
@@ -112,10 +148,18 @@
    "paras": [],
    "gdir": "湏",
    "files": [
-    "01.jpg"
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
    ],
    "gimgs": [
-    "湏/01.jpg"
+    "湏/01.jpg",
+    "湏/02.jpg",
+    "湏/03.jpg",
+    "湏/04.jpg",
+    "湏/05.jpg"
    ]
   },
   {
