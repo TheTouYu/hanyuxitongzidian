@@ -36,6 +36,26 @@
    "gdir": "inline/宷"
   },
   {
+   "key": "cankao",
+   "label": "參證字形（番）",
+   "text": "",
+   "gdir": "inline/宷",
+   "cimgs": [
+    {
+     "f": "inline/宷/cankao/番01.png",
+     "cap": ""
+    },
+    {
+     "f": "inline/宷/cankao/番02.png",
+     "cap": ""
+    },
+    {
+     "f": "inline/宷/cankao/番03.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "key": "yinyuan",
    "label": "音源",
    "text": "本“宀”聲，義音同“沈”：《禮記·檀弓下》：“為榆沈。”《釋文》：“沈，本又作瀋。”",
@@ -132,10 +152,7 @@
     "宷/07.png",
     "宷/08.png",
     "宷/09.png",
-    "宷/10.png",
-    "宷/11.png",
-    "宷/12.png",
-    "宷/13.png"
+    "宷/10.png"
    ]
   },
   {
