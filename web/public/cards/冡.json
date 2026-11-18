@@ -3,7 +3,7 @@
  "head": "冡（𠔼豕）",
  "pinyin": "méng",
  "aliases": [],
- "level": 1,
+ "level": 2,
  "bus": {
   "num": 274,
   "name": "冖"
@@ -369,5 +369,6 @@
    "file": "01.jpg",
    "caption": ""
   }
- ]
+ ],
+ "parent": "冖"
 }
