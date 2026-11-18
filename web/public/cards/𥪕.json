@@ -1,0 +1,40 @@
+{
+ "char": "𥪕",
+ "head": "𥪕",
+ "pinyin": "bǐng",
+ "level": 3,
+ "parent": "秉",
+ "bus": {
+  "num": 277,
+  "name": "秉"
+ },
+ "rootChain": [
+  "秉",
+  "𥪕"
+ ],
+ "rootLabel": "秉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥪕《說文》公制容量單位「千升」的舊譯"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：量器容而閉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}
