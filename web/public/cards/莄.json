@@ -1,0 +1,36 @@
+{
+ "char": "莄",
+ "head": "莄",
+ "pinyin": "gěng",
+ "aliases": [],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "㪅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "莄gěng《玉篇》：“草也。”《類篇》：“艸莖。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：草莖硬挺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}
