@@ -34,6 +34,48 @@
    ]
   },
   {
+   "key": "cankao",
+   "label": "參證字形（婚）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/昏/cankao/婚/婚01.png",
+     "cap": "婚"
+    },
+    {
+     "f": "inline/昏/cankao/婚/婚02.png",
+     "cap": "婚"
+    },
+    {
+     "f": "inline/昏/cankao/婚/婚03.png",
+     "cap": "婚"
+    },
+    {
+     "f": "inline/昏/cankao/婚/婚04.png",
+     "cap": "婚"
+    }
+   ],
+   "gdir": "inline/昏"
+  },
+  {
+   "key": "cankao",
+   "label": "參證字形（𨌲）",
+   "text": "",
+   "paras": [],
+   "cimgs": [
+    {
+     "f": "inline/昏/cankao/𨌲/𨌲01.png",
+     "cap": "𨌲"
+    },
+    {
+     "f": "inline/昏/cankao/𨌲/𨌲02.png",
+     "cap": "𨌲"
+    }
+   ],
+   "gdir": "inline/昏"
+  },
+  {
    "key": "yinyuan",
    "label": "音源",
    "text": "借音字。黃昏時節，正是蚊子最猖獗的時候，故義音同“民”：《漢書·地理志》：“崏山之陽。”“崏”，《書·禹貢》作“岷”。《集韻》：“𣨯，莫困切，音悶。氣絕也。或作㱪。”",
@@ -271,13 +313,7 @@
     "08.png",
     "09.png",
     "10.png",
-    "11.png",
-    "12.png",
-    "13.png",
-    "14.png",
-    "15.png",
-    "16.png",
-    "17.png"
+    "11.png"
    ],
    "gimgs": [
     "昏/01.png",
@@ -290,13 +326,7 @@
     "昏/08.png",
     "昏/09.png",
     "昏/10.png",
-    "昏/11.png",
-    "昏/12.png",
-    "昏/13.png",
-    "昏/14.png",
-    "昏/15.png",
-    "昏/16.png",
-    "昏/17.png"
+    "昏/11.png"
    ]
   },
   {
