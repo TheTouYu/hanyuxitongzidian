@@ -1,0 +1,40 @@
+{
+ "char": "𩱐",
+ "head": "𩱐（𩰱䵼鬺）",
+ "pinyin": "shāng",
+ "aliases": [
+  "𩰱",
+  "䵼",
+  "鬺"
+ ],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "商",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩱐（𩰱䵼鬺）shāng《集韻》：“𩰱，《說文》：‘煮也。’或作䵼、鬺、𩱐。”烹煮。意即燒鬲而傳熱于食物。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：烹煮（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}

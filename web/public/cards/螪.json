@@ -1,0 +1,36 @@
+{
+ "char": "螪",
+ "head": "螪",
+ "pinyin": "shāng",
+ "aliases": [],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "商",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "螪shāng《集韻》：“蟲名。《爾雅》：‘蛶，螪何。’一曰蜥蜴類。”古書上說的一種蟲。或指蜥蜴類動物，能斷尾以逃生。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：蜥蜴類，斷尾逃生（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}

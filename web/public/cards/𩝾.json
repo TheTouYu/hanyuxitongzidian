@@ -1,0 +1,40 @@
+{
+ "char": "𩝾",
+ "head": "𩝾（饟𩞃餉）",
+ "pinyin": "xiǎng",
+ "aliases": [
+  "饟",
+  "𩞃",
+  "餉"
+ ],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "商",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩝾（饟𩞃餉）xiǎng《集韻》：“饟，饁也。或作餉、𩞃、𩝾。”進食于人。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：進食於人（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}
