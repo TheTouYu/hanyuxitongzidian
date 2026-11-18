@@ -53,6 +53,22 @@
    "gdir": "inline/冥"
   },
   {
+   "key": "cankao",
+   "label": "參證字形（㝃）",
+   "text": "",
+   "gdir": "inline/冥",
+   "cimgs": [
+    {
+     "f": "inline/冥/cankao/㝃01.png",
+     "cap": ""
+    },
+    {
+     "f": "inline/冥/cankao/㝃02.png",
+     "cap": ""
+    }
+   ]
+  },
+  {
    "key": "shengmu",
    "label": "聲母擬態",
    "text": "m「蒙末」取「蒙」：夜幕降下，蒙昧昏暗（推）。",
@@ -336,12 +352,7 @@
     "冥/06.png",
     "冥/07.png",
     "冥/08.png",
-    "冥/09.png",
-    "冥/10.png",
-    "冥/11.png",
-    "冥/12.png",
-    "冥/13.png",
-    "冥/14.png"
+    "冥/09.png"
    ]
   },
   {
