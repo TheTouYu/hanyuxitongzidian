@@ -100,6 +100,32 @@ function match(q){
 }
 window.fillFam=(ch)=>{fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()).then(r=>r.json()).then(d=>{const seen=new Set(),names=[];(d.sections||[]).forEach(s=>(s.groups||[]).forEach(g=>(g.rows||[]).forEach(r=>{const raw=String(r[0]||'').trim();let c=raw.replace(/（.*?）|\(.*?\)/g,'').trim();if(c&&!seen.has(c)){seen.add(c);names.push({c:c,raw:raw});}})));const sp=document.getElementById('famspan');if(!names.length){kh=IDX.filter(x=>x.pr===ch).map(x=>x.c);kh.forEach(c=>names.push({c:c,raw:c}));}
 if(sp&&names.length){sp.innerHTML='　<label>字族</label>　'+names.map(n=>famln(n.c,n.raw)).join('');bindHint();}}).catch(()=>{});};
+window.fillYinxi=function(ch){
+  fetch('cards/'+encodeURIComponent(ch)+'.json?v='+Date.now()).then(function(r){return r.json();}).then(function(d){
+    var rows=[];
+    (d.sections||[]).forEach(function(s){
+      (s.groups||[]).forEach(function(g){
+        var hdr=(g.header||[]).join('');
+        var t=String(g.title||'');
+        if(t.indexOf('部目')>=0||hdr.indexOf('部目')>=0){ rows=rows.concat(g.rows||[]); }
+      });
+    });
+    var sp=document.getElementById('famspan');
+    if(!sp) return;
+    if(!rows.length){ sp.innerHTML='—'; return; }
+    var out=[];
+    rows.forEach(function(r){
+      var raw=String(r[0]||'').trim();
+      var m=/^(.+?)部$/.exec(raw);
+      var c=m?m[1]:raw;
+      var ok=IDX.some(function(x){return x.c===c;})||IDX.some(function(x){return (x.a||[]).indexOf(c)>=0;});
+      if(ok){ out.push('<a data-c="'+esc(c)+'" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 4px;cursor:pointer">'+esc(raw)+'</a>'); }
+      else { out.push('<span style="margin:0 4px">'+esc(raw)+'</span>'); }
+    });
+    sp.innerHTML=out.join('');
+    bindHint();
+  }).catch(function(){});
+};
 const famln=(ch,raw)=>{const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));const al='';const lab=ch;return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)+esc(al)}</a>`;};
 window.bindHint=()=>{document.querySelectorAll('#hint a[data-c]').forEach(a=>a.onclick=()=>open(a.dataset.c));};
 function render(q){
@@ -123,7 +149,7 @@ function render(q){
       if(t.lv===3&&t.pr&&!t.rl){const seenS=new Set([t.c]);const sibs=[];
         IDX.filter(x=>x.pr===t.pr).forEach(x=>{const it=byChar(x.c)||x;const key=it.c;if(seenS.has(key))return;seenS.add(key);sibs.push(key);});
         if(t.pr&&sibs.length){fam='　同族　'+sibs.map(ln).join('');}}
-      if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
+      if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else if((t.c||'').startsWith('卷')){rel='<span style="margin-left:14px">音系　<span id="famspan"></span></span>';window.fillYinxi(t.c);}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
       if(!(t.chapter||t.ch)) window.fillFam(t.c);
     }
   }
