@@ -1,0 +1,40 @@
+{
+ "char": "捫",
+ "head": "捫",
+ "pinyin": "mén",
+ "level": 3,
+ "parent": "門",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "捫"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "捫mén《說文》：“撫持也。从手門聲。《詩》曰：‘莫捫朕舌。’莫奔切。”按，摸。即叩門。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：門闔而蒙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}

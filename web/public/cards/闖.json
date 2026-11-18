@@ -1,0 +1,40 @@
+{
+ "char": "闖",
+ "head": "闖",
+ "pinyin": "chèn",
+ "level": 3,
+ "parent": "門",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "闖"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "闖chèn《說文》：“馬出門皃。从馬在門中。讀若郴。醜禁切。”《集韻》：“出頭皃。”chuǎng，猛衝；冒失。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：門闔而蒙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}

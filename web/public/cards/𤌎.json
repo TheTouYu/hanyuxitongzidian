@@ -1,0 +1,40 @@
+{
+ "char": "𤌎",
+ "head": "𤌎",
+ "pinyin": "lìn",
+ "level": 3,
+ "parent": "門",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "𤌎"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤌎lìn《玉篇》：“火皃。”lǐn，《集韻》：“燭息火存謂之𤌎。”光線微弱如透過門縫之光意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：門闔而蒙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}

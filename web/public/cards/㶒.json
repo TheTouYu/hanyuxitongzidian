@@ -1,0 +1,40 @@
+{
+ "char": "㶒",
+ "head": "㶒",
+ "pinyin": "shěn",
+ "level": 3,
+ "parent": "門",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "㶒"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "㶒shěn《集韻》：“㶒瀹，水流漂疾皃。”shǎn，《廣韻》：“果決、勇也。”《集韻》：“水皃。”tàn，《廣韻》：“㶒泛，水浮皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：門闔而蒙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}

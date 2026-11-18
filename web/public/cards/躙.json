@@ -1,0 +1,46 @@
+{
+ "char": "躙",
+ "head": "躙（躪蹸轔轥）",
+ "pinyin": "lìn",
+ "level": 3,
+ "parent": "門",
+ "bus": {
+  "num": 278,
+  "name": "門"
+ },
+ "rootChain": [
+  "門",
+  "躙"
+ ],
+ "rootLabel": "門",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "躙（躪蹸轔轥）lìn《集韻》：“蹸，《說文》：‘轢也。’或作躙、轥、轔。”《廣韻》：“蹂躪。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：門闔而蒙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "躪",
+  "蹸",
+  "轔",
+  "轥"
+ ]
+}
