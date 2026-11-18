@@ -3,16 +3,16 @@
  "head": "聞（䎽閅）",
  "pinyin": "wén",
  "level": 3,
- "parent": "門",
+ "parent": "𡖀",
  "bus": {
-  "num": 278,
-  "name": "門"
+  "num": 273,
+  "name": "𡖀"
  },
  "rootChain": [
-  "門",
+  "𡖀",
   "聞"
  ],
- "rootLabel": "門",
+ "rootLabel": "𡖀",
  "sections": [
   {
    "key": "shiyi",
@@ -31,8 +31,8 @@
    "links": [
     {
      "t": "卷",
-     "ch": "卷卌九門",
-     "label": "卷卌九門"
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
     }
    ]
   }
@@ -40,5 +40,9 @@
  "aliases": [
   "䎽",
   "閅"
+ ],
+ "parents": [
+  "𡖀",
+  "門"
  ]
 }
