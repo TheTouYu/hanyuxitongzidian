@@ -1,0 +1,36 @@
+{
+ "char": "苪",
+ "head": "苪",
+ "pinyin": "bǐng",
+ "aliases": [],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "丙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "苪bǐng《玉篇》：“明著也。”《集韻》：“艸名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：明著（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}

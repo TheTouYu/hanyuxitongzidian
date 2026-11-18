@@ -1,0 +1,36 @@
+{
+ "char": "蛃",
+ "head": "蛃",
+ "pinyin": "bīng",
+ "aliases": [],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "丙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "蛃bīng《爾雅·釋蟲》：“蟫，白魚。”郭璞注：“衣書中蟲，一名蛃魚。”《本草》：“丙其尾形也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：尾形如柄（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}

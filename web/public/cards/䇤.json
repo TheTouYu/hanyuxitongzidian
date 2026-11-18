@@ -1,0 +1,36 @@
+{
+ "char": "䇤",
+ "head": "䇤",
+ "pinyin": "ruì",
+ "aliases": [],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "丙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "䇤ruì《字彙補》：“儒稅切，音芮。銳也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：銳利如柄端（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}
