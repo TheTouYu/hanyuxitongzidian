@@ -1,0 +1,38 @@
+{
+ "char": "䓼",
+ "head": "䓼（𧀔）",
+ "pinyin": "máng",
+ "aliases": [
+  "𧀔"
+ ],
+ "bus": {
+  "num": 275,
+  "name": "尨"
+ },
+ "level": 3,
+ "parent": "尨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "䓼（𧀔）máng《玉篇》：“草也。”hè，《字彙》：“豕吼聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：草名（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}

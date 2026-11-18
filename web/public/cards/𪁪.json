@@ -1,0 +1,38 @@
+{
+ "char": "𪁪",
+ "head": "𪁪（𪁒）",
+ "pinyin": "mǎng",
+ "aliases": [
+  "𪁒"
+ ],
+ "bus": {
+  "num": 275,
+  "name": "尨"
+ },
+ "level": 3,
+ "parent": "尨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𪁪（𪁒）mǎng《集韻》：“鳥名，茅鴟也。似鷹而白。或書作𪁒。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：鳥羽雜白（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  }
+ ]
+}
