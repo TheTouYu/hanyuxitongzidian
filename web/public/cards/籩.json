@@ -1,0 +1,55 @@
+{
+ "char": "籩",
+ "head": "籩（𠥫𠥣𥸅）",
+ "pinyin": "biān",
+ "aliases": [
+  "𠥫",
+  "𠥣",
+  "𥸅"
+ ],
+ "bus": {
+  "num": 276,
+  "name": "丙"
+ },
+ "level": 3,
+ "parent": "臱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "籩（𠥫𠥣𥸅）biān《說文》：“竹豆也。从竹邊聲。，籀文籩。布玄切。”古代祭祀和宴會時盛果品等的竹器，似豆而盤平淺、沿直、矮圈足、有蓋。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：盛果品的竹器（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷四十八民",
+     "label": "卷四十八民"
+    }
+   ]
+  },
+  {
+   "key": "zixing",
+   "label": "字形",
+   "text": "",
+   "gdir": "inline/籩",
+   "gimgs": [
+    "inline/籩/shiyi/sy01.png"
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}
