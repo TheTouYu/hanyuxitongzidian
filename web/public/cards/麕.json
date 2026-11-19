@@ -1,0 +1,40 @@
+{
+ "char": "麕",
+ "head": "麕（麇）",
+ "pinyin": "jūn",
+ "aliases": [
+  "麇"
+ ],
+ "bus": {
+  "num": 282,
+  "name": "囗"
+ },
+ "level": 3,
+ "parent": "囷",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "麕（麇）jūn《說文》：“麞也。从鹿，囷省聲。{{shiyi/01.png}}，籀文不省。居筠切。”《康典》：“麞性驚，又善聚散，故又名麇，一物二名也。”取獐之喜群處為義。",
+   "gdir": "inline/麕"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：麞聚而成群（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十豕",
+     "label": "卷五十豕"
+    }
+   ]
+  }
+ ],
+ "photos": []
+}
