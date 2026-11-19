@@ -1,0 +1,36 @@
+{
+ "char": "稇",
+ "head": "稇",
+ "pinyin": "kǔn",
+ "aliases": [],
+ "bus": {
+  "num": 282,
+  "name": "囗"
+ },
+ "level": 3,
+ "parent": "困",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "稇kǔn《廣韻》：“成熟。又縛衣也。”《字彙》：“稇束。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：禾熟束而控之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十豕",
+     "label": "卷五十豕"
+    }
+   ]
+  }
+ ]
+}

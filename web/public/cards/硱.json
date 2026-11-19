@@ -1,0 +1,36 @@
+{
+ "char": "硱",
+ "head": "硱",
+ "pinyin": "kǔn",
+ "aliases": [],
+ "bus": {
+  "num": 282,
+  "name": "囗"
+ },
+ "level": 3,
+ "parent": "困",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "硱kǔn《廣韻》：“碖硱，石落皃。”《玉篇》：“硱磳，石皃。”山石高聳皃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：石稜高控（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十豕",
+     "label": "卷五十豕"
+    }
+   ]
+  }
+ ]
+}
