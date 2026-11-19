@@ -1,0 +1,36 @@
+{
+ "char": "笝",
+ "head": "笝",
+ "pinyin": "nà",
+ "aliases": [],
+ "bus": {
+  "num": 282,
+  "name": "囗"
+ },
+ "level": 3,
+ "parent": "㘝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "笝nà《集韻》：“纜舟竹索。或从甲。”系舟的竹索。《集韻》：“補籬也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：竹索納舟而繫（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十豕",
+     "label": "卷五十豕"
+    }
+   ]
+  }
+ ]
+}
