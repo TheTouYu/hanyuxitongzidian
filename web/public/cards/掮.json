@@ -1,0 +1,41 @@
+{
+ "char": "掮",
+ "head": "掮",
+ "pinyin": "qián",
+ "level": 3,
+ "parent": "肩",
+ "bus": {
+  "num": 279,
+  "name": "戶"
+ },
+ "rootChain": [
+  "戶",
+  "肩",
+  "掮"
+ ],
+ "rootLabel": "戶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》「肩扛。」——以肩擔物"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：肩分兩邊，決然各半（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}

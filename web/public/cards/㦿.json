@@ -1,0 +1,41 @@
+{
+ "char": "㦿",
+ "head": "㦿",
+ "pinyin": "qiǎn",
+ "level": 3,
+ "parent": "戶",
+ "bus": {
+  "num": 279,
+  "name": "戶"
+ },
+ "rootChain": [
+  "戶",
+  "戶",
+  "㦿"
+ ],
+ "rootLabel": "戶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》「牖也。一曰小戸。」——窗小如單扇"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：單扇半開，豁然通明（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}
