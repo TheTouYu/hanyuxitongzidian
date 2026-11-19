@@ -95706,22 +95706,6 @@
     "戶/10.png"
    ]
   },
-  "扈": {
-   "files": [
-    "01.png",
-    "02.png",
-    "03.png",
-    "04.png",
-    "05.png",
-    "06.png",
-    "07.png",
-    "08.png",
-    "09.png",
-    "10.png",
-    "14.png",
-    "15.png"
-   ]
-  },
   "𪄮": {
    "doc": "卷卌九  門",
    "variants": "𪄮𩿇僱鳸",
@@ -110169,6 +110153,20 @@
     "02.png",
     "03.png"
    ]
+  },
+  "雇": {
+   "files": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png",
+    "06.png",
+    "07.png",
+    "08.png",
+    "09.png",
+    "10.png"
+   ]
   }
  },
  "炙": {
@@ -122302,36 +122300,36 @@
     "caption": "《農耕圖冊》中的戽水（清 沈慶蘭）"
    }
   ],
-  "扈": [
-   {
-    "file": "photos/扈/01.jpg",
-    "caption": "常見的幾種九雇鳥"
-   },
-   {
-    "file": "photos/扈/02.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/扈/03.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/扈/04.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/扈/05.jpg",
-    "caption": ""
-   },
-   {
-    "file": "photos/扈/06.jpg",
-    "caption": ""
-   }
-  ],
   "扇": [
    {
     "file": "photos/扇/01.jpg",
     "caption": "古代的竹制吊扇"
+   }
+  ],
+  "雇": [
+   {
+    "file": "photos/雇/01.jpg",
+    "caption": "常見的幾種九雇鳥"
+   },
+   {
+    "file": "photos/雇/02.jpg",
+    "caption": ""
+   },
+   {
+    "file": "photos/雇/03.jpg",
+    "caption": ""
+   },
+   {
+    "file": "photos/雇/04.jpg",
+    "caption": ""
+   },
+   {
+    "file": "photos/雇/05.jpg",
+    "caption": ""
+   },
+   {
+    "file": "photos/雇/06.jpg",
+    "caption": ""
    }
   ]
  }
