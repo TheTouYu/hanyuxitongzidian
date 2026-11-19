@@ -1,0 +1,40 @@
+{
+ "char": "嫐",
+ "head": "嫐",
+ "pinyin": "nǎo",
+ "level": 3,
+ "parent": "奻",
+ "bus": {
+  "num": 280,
+  "name": "奻"
+ },
+ "rootChain": [
+  "奻",
+  "嫐"
+ ],
+ "rootLabel": "奻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》「嬈嫐也。」——男女嬉鬧"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：眾女相納，聚而生事（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷卌九門",
+     "label": "卷卌九門"
+    }
+   ]
+  }
+ ]
+}
