@@ -19,7 +19,20 @@
    "key": "zixing",
    "label": "字形",
    "text": "",
-   "gdir": "奻"
+   "gdir": "奻",
+   "gimgs": [
+    "奻/01.png",
+    "奻/02.png",
+    "奻/03.png",
+    "奻/04.png",
+    "奻/05.png",
+    "奻/06.png",
+    "奻/07.png",
+    "奻/08.png",
+    "奻/09.png",
+    "奻/10.png",
+    "奻/11.png"
+   ]
   },
   {
    "key": "benyi",
@@ -31,6 +44,18 @@
    "label": "轉義",
    "text": "由虛偽、狡詐，引申指盜竊、邪惡、淫亂。《說文》：“私也。从三女。{{zhuanyi/01.png}}，古文姦从心旱聲。古顔切。”《玉篇》：“姦邪也。”《廣雅》：“盜也。”",
    "gdir": "inline/奻"
+  },
+  {
+   "key": "cankao",
+   "label": "參證字形（奸）",
+   "text": "",
+   "gdir": "inline/奻",
+   "cimgs": [
+    {
+     "f": "inline/奻/cankao/奸/奸01.png",
+     "cap": ""
+    }
+   ]
   },
   {
    "key": "yinyuan",
