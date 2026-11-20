@@ -1,0 +1,38 @@
+{
+ "char": "鶞",
+ "head": "鶞（𩀐）",
+ "pinyin": "chūn",
+ "aliases": [
+  "𩀐"
+ ],
+ "bus": {
+  "num": 286,
+  "name": "盾"
+ },
+ "level": 3,
+ "parent": "盾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》「鳻鶞，春扈也。」——春候鳥"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：以盾蔽身，囤護而後動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十一盾",
+     "label": "卷五十一盾"
+    }
+   ]
+  }
+ ]
+}
