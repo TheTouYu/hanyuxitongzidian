@@ -1,0 +1,41 @@
+{
+ "char": "𨭗",
+ "head": "𨭗（鏳琤）",
+ "pinyin": "guó",
+ "aliases": [
+  "鏳",
+  "琤"
+ ],
+ "bus": {
+  "num": 285,
+  "name": "會"
+ },
+ "level": 3,
+ "parent": "會",
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨭗（鏳琤）guó《集韻》：“鐵器。”《漢典》：“青銅食器。”《正字通》：“鏳字之訛。舊注音虢，鐵器，非。”“玉聲。或从玉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：形近而訛，豁然相亂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十豕",
+     "label": "卷五十豕"
+    }
+   ]
+  }
+ ],
+ "photos": []
+}
