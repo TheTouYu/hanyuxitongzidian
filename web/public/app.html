@@ -191,7 +191,7 @@ const tbl=s=>{ if(!s.rows||s.rows.length<3) return '';
 };
 let hasZX=false;const isZX=s=>!/^cankao/.test(s.key)&&!(s.text||'').includes('gscroll')&&(s.key==='zigen'||s.key==='zixing'||/字形/.test(s.label||''));
 const LKR=(s)=>((s&&s.links&&s.links.length)?("<p class=\"lks\">"+s.links.map(l=>"<a href=\"javascript:void(0)\" onclick=\"goCard('"+l.ch+"')\">"+esc(l.label)+"</a>").join(" · ")+"</p>"):"");
-const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const secs=(d.sections||[]).filter(s=>!isZX(s)&&s.label!=='所属卷').sort((a,b)=>(typeof a.ord==='number'?a.ord:200+secRank(a.key))-(typeof b.ord==='number'?b.ord:200+secRank(b.key))).map(s=>{ if(isZX(s)) hasZX=true;
+const ss=(d.sections||[]).find(s=>s.label==='所属卷'); const _s0=(d.sections||[]); const _om=new Map(); let _last=0; _s0.forEach(s=>{let r=(typeof s.ord==='number')?s.ord:200+secRank(s.key); if(/^cankao/.test(s.key)&&typeof s.ord!=='number'){r=_last+0.5;} else {_last=r;} _om.set(s,r);}); const secs=_s0.filter(s=>!isZX(s)&&s.label!=='所属卷').sort((a,b)=>((typeof a.ord==='number'?a.ord:_om.get(a))-(typeof b.ord==='number'?b.ord:_om.get(b)))).map(s=>{ if(isZX(s)) hasZX=true;
   const zx='';
   return `<div class="sec"><h3>${esc(s.label||s.key)}</h3>${grp(s)}${tbl(s)}${(s.groups&&s.groups.length)?'':(s.text?('<p style="text-indent:2em">'+(s.gdir?gt(s.text,s.gdir):((s.text||'').indexOf('gscroll')>=0?s.text:esc(s.text).replace(/\{\{gin:([^}]+)\}\}/g,'<img class="gin" src="$1" alt="字形">'))).replace(/\n+/g,'</p><p style="text-indent:2em">')+'</p>'):'')}${zx}${(s.gimgs||[]).map(f=>`<img class="gin" src="glyphs/${encodeURI(f)}" alt="参证字形">`).join('')}${LKR(s)}${(s.cites&&s.cites.length)?`<div class="cites">${s.cites.map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</div>`:''}</div>`;}).join('');
 
