@@ -1,0 +1,36 @@
+{
+ "char": "糜",
+ "head": "糜 mí",
+ "pinyin": "mí",
+ "aliases": [],
+ "bus": {
+  "num": 290,
+  "name": "米"
+ },
+ "level": 3,
+ "parent": "米",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“糝也。从米麻聲。靡為切。”稠粥。米熬成的稀飯。“米”也可表聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：米蒙於水，煮而糜爛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十二磨",
+     "label": "卷五十二磨"
+    }
+   ]
+  }
+ ]
+}
