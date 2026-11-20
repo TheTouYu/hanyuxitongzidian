@@ -1,0 +1,36 @@
+{
+ "char": "䉋",
+ "head": "䉋",
+ "pinyin": "",
+ "aliases": [],
+ "bus": {
+  "num": 292,
+  "name": "眉"
+ },
+ "level": 3,
+ "parent": "眉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": ""
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：冬筍出地，如眉初展（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十二磨",
+     "label": "卷五十二磨"
+    }
+   ]
+  }
+ ]
+}
