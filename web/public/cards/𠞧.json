@@ -1,0 +1,36 @@
+{
+ "char": "𠞧",
+ "head": "𠞧",
+ "pinyin": "mí",
+ "aliases": [],
+ "bus": {
+  "num": 291,
+  "name": "麻"
+ },
+ "level": 3,
+ "parent": "麻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“靡，分也。《易》：‘吾與汝靡之。’或从分。京房从刀。或省。通作縻。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：《集韻》：“靡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十二磨",
+     "label": "卷五十二磨"
+    }
+   ]
+  }
+ ]
+}
