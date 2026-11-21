@@ -1,0 +1,35 @@
+{
+ "char": "吜",
+ "head": "吜",
+ "pinyin": "chǒu",
+ "level": 3,
+ "parent": "丑",
+ "bus": {
+  "num": 299,
+  "name": "丑"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "吜chǒu《集韻》：“敕九切，音丑。聲也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：循聲取義（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

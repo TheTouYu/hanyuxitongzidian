@@ -1,0 +1,35 @@
+{
+ "char": "𨴘",
+ "head": "𨴘",
+ "pinyin": "nán",
+ "level": 3,
+ "parent": "丑",
+ "bus": {
+  "num": 299,
+  "name": "丑"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨴘nán《篇海》：“音男。門人。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：屈指抓扣（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
