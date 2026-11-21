@@ -1,0 +1,35 @@
+{
+ "char": "暚",
+ "head": "暚",
+ "pinyin": "yáo",
+ "level": 3,
+ "parent": "䍃",
+ "bus": {
+  "num": 301,
+  "name": "肉"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "暚yáo《集韻》：“明也。”《玉篇》：“日光也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

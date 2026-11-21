@@ -1,0 +1,38 @@
+{
+ "char": "𧎼",
+ "head": "𧎼（珧）",
+ "pinyin": "yáo",
+ "level": 3,
+ "parent": "䍃",
+ "bus": {
+  "num": 301,
+  "name": "肉"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𧎼（珧）yáo《正字通》：“《六書故》：‘似蚌，其柱最珍。’別作珧。”狀如摺扇。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "珧"
+ ]
+}
