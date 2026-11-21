@@ -1,6 +1,6 @@
-﻿// server.mjs 鈥?銆岀郴缁熸眽瀛椼€嶇煡璇嗗簱闂瓟缃戦〉鏈嶅姟锛堥浂渚濊禆 Node锛?
-// 鍙仛涓や欢浜嬶細鎶婇棶棰樹氦缁?pkc 妫€绱紝鎶婃绱㈠埌鐨?Claim 缁勭粐鎴愭湁鍑哄鐨勭瓟妗堛€?
-// 缁濅笉鐩存帴璇?knowledge/** 鎴?.local/锛屼竴鍒囩粡鐢?pkc-bridge.py 鈫?pkc銆?
+// server.mjs — 「系统汉字」知识库问答网页服务（零依赖 Node）
+// 只做两件事：把问题交给 pkc 检索，把检索到的 Claim 组织成有出处的答案。
+// 绝不直接读 knowledge/** 或 .local/，一切经由 pkc-bridge.py → pkc。
 
 import { createServer } from 'node:http';
 import { spawn } from 'node:child_process';
@@ -36,27 +36,27 @@ function renderCard(ch){
   let h='<!doctype html><meta charset="utf-8"><title>'+escH(d.head||d.char)+'</title>';
   h+='<style>.jl{color:inherit;text-decoration:none;border-bottom:1px dashed #c9b79a}.al{color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a}body{font:16px/1.85 "Microsoft YaHei",sans-serif;max-width:1000px;margin:22px auto;padding:0 18px;color:#222}h2{font-size:40px;margin:0 0 4px}h3{color:#a33;margin:24px 0 6px;font-size:19px}h4.sub{color:#8a5a2b;margin:14px 0 2px;font-size:16px}table{border-collapse:collapse;width:100%;margin:6px 0 12px}td,th{border:1px solid #dcdcdc;padding:7px 9px;vertical-align:top;font-size:15px}th{background:#f3ece0;text-align:left}.cch{height:1.05em;vertical-align:-0.12em}'+
   '<style>.cim{height:2.1em;vertical-align:-0.45em;margin:0 2px}.ciw{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 10px}.ciw{align-items:flex-end}.ciw .cibw{display:inline-block;text-align:center;margin:2px 4px 8px 0}.ciw .ciblab{display:inline-block;color:#8a6d3b;font-size:15px;margin:0 14px 26px 2px}.ciw img{height:104px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gs{display:flex;gap:10px;overflow-x:auto;padding:6px 0 10px}.gs figure{margin:0;text-align:center}.gs img{height:110px;border:1px solid #e7e0d2;border-radius:6px;background:#fff}.gsbar{position:relative}.gsbar .gs{padding:6px 34px}.gsnav{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:28px;height:60px;border:1px solid #e0d8c8;border-radius:6px;background:rgba(255,252,245,.92);color:#8a6d3b;font-size:20px;line-height:56px;text-align:center;cursor:pointer;user-select:none}.gsnav:hover{background:#fff}.gsl{left:0}.gsr{right:0}.gs figcaption{font-size:11px;color:#999}.pill{display:inline-block;margin:2px 0 8px;padding:1px 10px;border:1px solid #ddd;border-radius:12px;color:#666;font-size:13px}small{color:#888;font-weight:400}.back{display:inline-block;margin-bottom:10px;color:#06c}</style>';
-  const _hd=String(d.head||d.char);const _m=_hd.match(/^([^锛?]+)[锛?]([^锛?]*)[锛?]\s*$/);const _hl=_m?escH(_m[1])+'锛?+Array.from(_m[2]).map(a=>'<a class="al" href="/card/'+encodeURIComponent(a)+'">'+escH(a)+'</a>').join('')+'锛?:ext(_hd);
-  h+='<a class="back" href="/test.html">鈫?杩斿洖妫€绱?/a><h2>'+_hl+' <small>'+escH(d.pinyin||'')+'</small></h2>';
+  const _hd=String(d.head||d.char);const _m=_hd.match(/^([^（(]+)[（(]([^）)]*)[）)]\s*$/);const _hl=_m?escH(_m[1])+'（'+Array.from(_m[2]).map(a=>'<a class="al" href="/card/'+encodeURIComponent(a)+'">'+escH(a)+'</a>').join('')+'）':ext(_hd);
+  h+='<a class="back" href="/test.html">← 返回检索</a><h2>'+_hl+' <small>'+escH(d.pinyin||'')+'</small></h2>';
   let _b0=Array.isArray(d.bus)?d.bus[0]:(d.bus||null);
   try { if(!_b0||!_b0.num){ let pr=d.parent, hop=0; while(pr&&hop<3){ const pf=join(CARDDIR,pr+'.json'); if(existsSync(pf)){ const pd=JSON.parse(readFileSync(pf,'utf8')); const pb=Array.isArray(pd.bus)?pd.bus[0]:pd.bus; if(pb&&pb.num){ _b0=pb; break; } pr=pd.parent; } else break; hop++; } } } catch(e){}
-  try { const b0=_b0; const _fam=(d.sections||[]).some(x=>x&&x.key==='zizu'&&(x.groups||[]).length); const lv=d.grade||(d.level===1?'涓€绾у瓧鏍?:d.level===2?'浜岀骇瀛楁牴':(d.level===3&&_fam)?'涓夌骇瀛楁牴':d.level===3?'璋愬０瀛?:''); let pill=lv; const _rc=(Array.isArray(d.rootChain)&&d.rootChain.length>1)?(' 路 '+d.rootChain.join(' 鈫?')):''; if(_rc) pill+=_rc; if(b0&&b0.num>0) pill+=' 路 绗?+b0.num+'閮ㄣ€?+String(b0.name||'').replace(/閮?/,'')+'閮ㄣ€?; else if(b0&&b0.name) pill+=' 路 銆?+b0.name+'閮ㄣ€?; if(pill) h+='<p class="pill">'+pill+'</p>'; } catch(e){}
-  try { const gi=glyphInfo(d.char); if (gi && gi.files && gi.files.length){ h+='<div class="gs">'+gi.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="瀛楀舰'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; } } catch(e){}
+  try { const b0=_b0; const _fam=(d.sections||[]).some(x=>x&&x.key==='zizu'&&(x.groups||[]).length); const lv=d.grade||(d.level===1?'一级字根':d.level===2?'二级字根':(d.level===3&&_fam)?'三级字根':d.level===3?'谐声字':''); let pill=lv; const _rc=(Array.isArray(d.rootChain)&&d.rootChain.length>1)?(' · '+d.rootChain.join(' → ')):''; if(_rc) pill+=_rc; if(b0&&b0.num>0) pill+=' · 第'+b0.num+'部「'+String(b0.name||'').replace(/部$/,'')+'部」'; else if(b0&&b0.name) pill+=' · 「'+b0.name+'部」'; if(pill) h+='<p class="pill">'+pill+'</p>'; } catch(e){}
+  try { const gi=glyphInfo(d.char); if (gi && gi.files && gi.files.length){ h+='<div class="gs">'+gi.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="字形'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; } } catch(e){}
   let _photosH='';
   try { const ex=((loadGlyphIndex().chars||{})[d.char]||{}).extra||[];
     for (const e of ex){ const g2=glyphInfo(e.char); if(!g2 || !g2.files || !g2.files.length) continue;
-      h+='<p><b>'+escH(e.label||e.char)+'</b></p><div class="gs">'+g2.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="瀛楀舰'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; }
+      h+='<p><b>'+escH(e.label||e.char)+'</b></p><div class="gs">'+g2.files.map((u,i)=>'<figure><img src="'+u+'?v='+Date.now()+'" alt="字形'+(i+1)+'"><figcaption>'+String(i+1).padStart(2,'0')+'</figcaption></figure>').join('')+'</div>'; }
   } catch(e){}
-  try { const gi2=glyphInfo(d.char); const ps=(gi2&&gi2.photos)||[]; if (ps.length){ _photosH='<h3>鎻掑浘</h3><div class="gs">'+ps.map(p=>{const f=(typeof p==='string')?p:(p.file||p.name||'');const cap=(typeof p==='object'&&p.caption)?p.caption:'';return '<figure><img src="'+escH((String(f).startsWith('/')?f:('/glyphs/photos/'+encodeURIComponent(d.char)+'/'+encodeURIComponent(f)))+'?v=20261121a')+'" alt="'+escH(cap||'鎻掑浘')+'" style="height:170px"><figcaption>'+escH(cap||'')+'</figcaption></figure>';}).join('')+'</div>'; } } catch(e){}
+  try { const gi2=glyphInfo(d.char); const ps=(gi2&&gi2.photos)||[]; if (ps.length){ _photosH='<h3>插图</h3><div class="gs">'+ps.map(p=>{const f=(typeof p==='string')?p:(p.file||p.name||'');const cap=(typeof p==='object'&&p.caption)?p.caption:'';return '<figure><img src="'+escH((String(f).startsWith('/')?f:('/glyphs/photos/'+encodeURIComponent(d.char)+'/'+encodeURIComponent(f)))+'?v=20261121a')+'" alt="'+escH(cap||'插图')+'" style="height:170px"><figcaption>'+escH(cap||'')+'</figcaption></figure>';}).join('')+'</div>'; } } catch(e){}
   try {
-    const _hasZigen=(d.sections||[]).some(x=>['zigen','rootembed'].includes(x.key)||String(x.label||'').startsWith('瀛楁牴銆?));
+    const _hasZigen=(d.sections||[]).some(x=>['zigen','rootembed'].includes(x.key)||String(x.label||'').startsWith('字根「'));
     if (d.parent && !_hasZigen && !d.noRoot) {
       const pf2 = join(CARDDIR, d.parent + '.json');
       if (existsSync(pf2)) {
         const pd2 = JSON.parse(readFileSync(pf2, 'utf8'));
         const keep = (pd2.sections || []).filter(x => ['benyi','zhuanyi','bianzheng','yinyuan'].includes(x.key) && (x.text || (x.paras && x.paras.length)));
         if (keep.length) {
-          const label = '瀛楁牴銆? + (pd2.head || pd2.char || d.parent) + '銆?;
+          const label = '字根「' + (pd2.head || pd2.char || d.parent) + '」';
           const subs = keep.map(x => ({ label: x.label || '', paras: (x.paras && x.paras.length ? x.paras.slice() : [String(x.text || '')]).flatMap(p => String(p).split(/\n+/).filter(Boolean)) }));
           const _i = (d.sections || []).findIndex(x => x.key === 'suoshujuan');const _pg = (pd2.gdir || ('inline/' + (pd2.char || d.parent)));const _sec = { key: 'rootembed', label: label, subs: subs, gdir: _pg };if (_i >= 0) d.sections.splice(_i, 0, _sec); else d.sections = (d.sections || []).concat([_sec]);
         }
@@ -68,10 +68,10 @@ function renderCard(ch){
     h+="<p><b>"+ext(s.label||"")+"</b> "+((s.gimgs||[]).map(f=>"<img class=\"cim\" src=\"/glyphs/"+String(f).split("/").map(encodeURIComponent).join("/")+"\" style=\"height:2.2em;margin:0 6px 0 2px\">").join(""))+"</p>";
   }
   for (const s of (d.sections||[])){ if (s.key==="ziatt") continue;
-    if (s.label==='鎵€灞炲嵎'){ h+='<h3>鎵€灞炲嵎</h3><p>'+(((s.links&&s.links.length?s.links:(d.links||[]))).map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' 路 '))+'</p>'; continue; }
+    if (s.label==='所属卷'){ h+='<h3>所属卷</h3><p>'+(((s.links&&s.links.length?s.links:(d.links||[]))).map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · '))+'</p>'; continue; }
     h+='<h3>'+escH(s.label||s.key)+'</h3>';
     if (s.key==='erji' && s.links && s.links.length){
-      h+='<p>'+s.links.map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' 路 ')+'</p>';
+      h+='<p>'+s.links.map(l=>'<a class="jl" href="/card/'+encodeURIComponent(l.ch)+'">'+escH(l.label||l.ch)+'</a>').join(' · ')+'</p>';
       continue;
     }
     if (s.subs && s.subs.length){
@@ -84,7 +84,7 @@ function renderCard(ch){
           h+='<p>'+tx+'</p>';
         }
       }
-      if (s.gimgs && s.gimgs.length){ /* 瀛楁牴鍧椾笉閲嶅鍒楀瓧褰?*/ }
+      if (s.gimgs && s.gimgs.length){ /* 字根块不重复列字形 */ }
       continue;
     }
     if (s.groups && s.groups.length){
@@ -92,16 +92,16 @@ function renderCard(ch){
       for (const g of s.groups){
         if (g.title) h+='<p><b>'+escH(g.no||'')+ext(g.title)+'</b></p>';
         if (g.note) h+='<p style="color:#666">'+ext(g.note)+'</p>';
-        const head=(String(g.title||'').indexOf('閮ㄧ洰')>=0)?['閮ㄧ洰','瀛楁牴','涓績涔?,'瀛楁棌']:(g.header||['瀛?,'璇婚煶','绫诲睘','鍙栦箟钀界偣']);
+        const head=(String(g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||['字','读音','类属','取义落点']);
         h+='<table><tr>'+head.map(t=>'<th>'+escH(t)+'</th>').join('')+'</tr>';
         for (const r of (g.rows||[])) h+='<tr>'+r.map((x,i)=>{
           let cell=ext(x);
-          try { if (i===0 && String(head[0])==='閮ㄧ洰'){ const m=/^(.+?)閮?/.exec(String(x||'').trim()); if(m && existsSync(join(CARDDIR,m[1]+'.json'))) cell='<a href="/card/'+encodeURIComponent(m[1])+'">'+cell+'</a>'; } } catch(e){}
+          try { if (i===0 && String(head[0])==='部目'){ const m=/^(.+?)部$/.exec(String(x||'').trim()); if(m && existsSync(join(CARDDIR,m[1]+'.json'))) cell='<a href="/card/'+encodeURIComponent(m[1])+'">'+cell+'</a>'; } } catch(e){}
           return '<td>'+cell+'</td>';
         }).join('')+'</tr>';
         h+='</table>';
       }
-    } else if (s.cimgs) { h+='<div class="gsbar"><button class="gsnav gsl" aria-label="宸︾炕" onclick="var s=this.parentNode.querySelector(\'.gs\');s.scrollBy({left:-260,behavior:\'smooth\'})">鈥?/button><div class="gs">'+s.cimgs.map(f=>{const o=(typeof f==='string')?{f:f}:(f||{});const src='/glyphs/'+String(o.f||'').split('/').map(encodeURIComponent).join('/');return '<figure><img src="'+src+'" alt="'+escH(o.cap||'鍙傝瘉')+'" style="height:88px"><figcaption>'+escH(o.cap||'')+'</figcaption></figure>';}).join('')+'<button class="gsnav gsr" aria-label="鍙崇炕" onclick="var s=this.parentNode.querySelector(\'.gs\');s.scrollBy({left:260,behavior:\'smooth\'})">鈥?/button></div>'; } else if (Array.isArray(s.paras) && s.paras.length) { h+=s.paras.map(pp=>{ const parts=[]; let tx=String(pp).replace(/\{\{([^}]+)\}\}/g,(m,f)=>{parts.push(((s.gdir||'')+'/'+f)); return '\u0002'+(parts.length-1)+'\u0003';}); tx=ext(tx); tx=tx.replace(/\u0002(\d+)\u0003/g,(m,i)=>'<img class="cim" src="/glyphs/'+String(parts[+i]).split('/').map(encodeURIComponent).join('/')+'?v=20261121a">'); return '<p>'+tx+'</p>'; }).join(''); } else if (s.text) { const parts=[]; let tx=String(s.text).replace(/\{\{([^}]+)\}\}/g,(m,f)=>{parts.push(((s.gdir||'')+'/'+f)); return '\u0002'+(parts.length-1)+'\u0003';}); tx=ext(tx); tx=tx.replace(/\u0002(\d+)\u0003/g,(m,i)=>'<img class="cim" src="/glyphs/'+String(parts[+i]).split('/').map(encodeURIComponent).join('/')+'?v=20261121a">'); h+='<p>'+tx+'</p>'; }
+    } else if (s.cimgs) { h+='<div class="gsbar"><button class="gsnav gsl" aria-label="左翻" onclick="var s=this.parentNode.querySelector(\'.gs\');s.scrollBy({left:-260,behavior:\'smooth\'})">‹</button><div class="gs">'+s.cimgs.map(f=>{const o=(typeof f==='string')?{f:f}:(f||{});const src='/glyphs/'+String(o.f||'').split('/').map(encodeURIComponent).join('/');return '<figure><img src="'+src+'" alt="'+escH(o.cap||'参证')+'" style="height:88px"><figcaption>'+escH(o.cap||'')+'</figcaption></figure>';}).join('')+'<button class="gsnav gsr" aria-label="右翻" onclick="var s=this.parentNode.querySelector(\'.gs\');s.scrollBy({left:260,behavior:\'smooth\'})">›</button></div>'; } else if (Array.isArray(s.paras) && s.paras.length) { h+=s.paras.map(pp=>{ const parts=[]; let tx=String(pp).replace(/\{\{([^}]+)\}\}/g,(m,f)=>{parts.push(((s.gdir||'')+'/'+f)); return '\u0002'+(parts.length-1)+'\u0003';}); tx=ext(tx); tx=tx.replace(/\u0002(\d+)\u0003/g,(m,i)=>'<img class="cim" src="/glyphs/'+String(parts[+i]).split('/').map(encodeURIComponent).join('/')+'?v=20261121a">'); return '<p>'+tx+'</p>'; }).join(''); } else if (s.text) { const parts=[]; let tx=String(s.text).replace(/\{\{([^}]+)\}\}/g,(m,f)=>{parts.push(((s.gdir||'')+'/'+f)); return '\u0002'+(parts.length-1)+'\u0003';}); tx=ext(tx); tx=tx.replace(/\u0002(\d+)\u0003/g,(m,i)=>'<img class="cim" src="/glyphs/'+String(parts[+i]).split('/').map(encodeURIComponent).join('/')+'?v=20261121a">'); h+='<p>'+tx+'</p>'; }
     if (s.gimgs && s.gimgs.length){
       let cur=null;
       for (const f of s.gimgs){
@@ -120,7 +120,7 @@ const PUBLIC = join(WEB, 'public');
 const PYEXE = join(ROOT, '.runtime', 'python', 'python.exe');
 const BRIDGE = join(WEB, 'pkc-bridge.py');
 
-// ---------- 浼氬憳 / 璁㈠崟 ----------
+// ---------- 会员 / 订单 ----------
 
 const shop = new Shop(join(WEB, 'data'));
 
@@ -157,7 +157,7 @@ function publicMember(m) {
 
 const PORT = Number(process.env.PORT || 8088);
 const HOST = process.env.HOST || '127.0.0.1';
-const KEY_FILE = 'C:\\Users\\钀х\\.dsh\\secrets\\deepseek.key';
+const KEY_FILE = 'C:\\Users\\萧磊\\.dsh\\secrets\\deepseek.key';
 const BASE_URL = process.env.DEEPSEEK_BASE || 'https://api.deepseek.com';
 const MODEL = process.env.DEEPSEEK_MODEL || 'deepseek-chat';
 
@@ -168,16 +168,16 @@ const MAX_BODY = 64 * 1024;
 const RATE_MAX = 20;
 const RATE_WINDOW = 60_000;
 
-// ---------- 鎴愭湰闂搁棬 ----------
-// 鎸?deepseek-flash 鐨勩€岄珮宄颁环銆嶄繚瀹堣浠凤紙瀹為檯澶氭暟鏃跺€欐槸绌洪棽浠风殑涓€鍗婏級锛?
-// 杩欐牱绠楀嚭鏉ョ殑涓婇檺鍙細鍋忓ぇ锛屼笉浼氳瀹㈡埛鐨勭湡瀹炶姳璐硅秴杩囬绠椼€?
-// 杈撳叆锛堢紦瀛樻湭鍛戒腑锛? 鍏?鐧句竾 token锛岃緭鍑?8 鍏?鐧句竾 token銆?
+// ---------- 成本闸门 ----------
+// 按 deepseek-flash 的「高峰价」保守计价（实际多数时候是空闲价的一半），
+// 这样算出来的上限只会偏大，不会让客户的真实花费超过预算。
+// 输入（缓存未命中）2 元/百万 token，输出 8 元/百万 token。
 const PRICE_IN_YUAN_PER_M = 2;
 const PRICE_OUT_YUAN_PER_M = 8;
-const TRIAL_BUDGET_YUAN = Number(process.env.TRIAL_BUDGET_YUAN || 1);      // 姣忎釜璁惧鍏嶈垂浣撻獙鏈€澶氳姳 1 鍏?
-const MEMBER_DAILY_YUAN = Number(process.env.MEMBER_DAILY_YUAN || 3);      // 浼氬憳姣忓ぉ鏈€澶氳姳 3 鍏冿紝闃叉互鐢?
-const MIN_CALL_YUAN = 0.004;   // 涓€娆″洖绛旈璁¤鑺辩殑鏈€浣庢垚鏈紝浣欓浣庝簬瀹冨氨涓嶅啀鏀捐
-const MAX_ANSWER_TOKENS = 600; // 鍗曟鍥炵瓟杈撳嚭涓婇檺
+const TRIAL_BUDGET_YUAN = Number(process.env.TRIAL_BUDGET_YUAN || 1);      // 每个设备免费体验最多花 1 元
+const MEMBER_DAILY_YUAN = Number(process.env.MEMBER_DAILY_YUAN || 3);      // 会员每天最多花 3 元，防滥用
+const MIN_CALL_YUAN = 0.004;   // 一次回答预计要花的最低成本，余额低于它就不再放行
+const MAX_ANSWER_TOKENS = 600; // 单次回答输出上限
 
 function usageCost(usage, inChars, outChars) {
   const inTok = usage && usage.prompt_tokens ? usage.prompt_tokens : Math.round((inChars || 0) / 1.5) + 400;
@@ -186,11 +186,11 @@ function usageCost(usage, inChars, outChars) {
   return { yuan: Math.round(yuan * 1e6) / 1e6, inTok, outTok };
 }
 
-// ---------- 鍩虹宸ュ叿 ----------
+// ---------- 基础工具 ----------
 
 function maskKey(k) {
   if (!k) return '(none)';
-  return k.length <= 10 ? '***' : k.slice(0, 6) + '鈥? + k.slice(-4);
+  return k.length <= 10 ? '***' : k.slice(0, 6) + '…' + k.slice(-4);
 }
 
 function log(...args) {
@@ -206,7 +206,7 @@ function loadKey() {
       if (v) return v;
     }
   } catch (e) {
-    log('璇诲彇 Key 鏂囦欢澶辫触:', e.message);
+    log('读取 Key 文件失败:', e.message);
   }
   return '';
 }
@@ -214,7 +214,7 @@ function loadKey() {
 const API_KEY = loadKey();
 const MODE = API_KEY ? 'model' : 'skeleton';
 
-// ---------- pkc 璋冪敤 ----------
+// ---------- pkc 调用 ----------
 
 function pkc(args) {
   return new Promise((resolve, reject) => {
@@ -229,14 +229,14 @@ function pkc(args) {
     child.stderr.setEncoding('utf8');
     child.stdout.on('data', (d) => (out += d));
     child.stderr.on('data', (d) => (err += d));
-    child.on('error', (e) => reject(new Error('鏃犳硶鍚姩 python: ' + e.message)));
+    child.on('error', (e) => reject(new Error('无法启动 python: ' + e.message)));
     child.on('close', (code) => {
       const text = out.trim();
-      if (!text) return reject(new Error('pkc 鏃犺緭鍑? + (err ? ': ' + err.slice(-300) : '')));
+      if (!text) return reject(new Error('pkc 无输出' + (err ? ': ' + err.slice(-300) : '')));
       try {
         resolve(JSON.parse(text));
       } catch {
-        reject(new Error(`pkc 杩斿洖闈?JSON锛坋xit ${code}锛夛細${text.slice(0, 200)}`));
+        reject(new Error(`pkc 返回非 JSON（exit ${code}）：${text.slice(0, 200)}`));
       }
     });
   });
@@ -251,13 +251,13 @@ async function getTree() {
   const nodes = [];
   let current = null;
   for (const line of text.split(/\r?\n/)) {
-    const mNode = line.match(/^(\S+)\s+鈥擻s+(.+)$/);
+    const mNode = line.match(/^(\S+)\s+—\s+(.+)$/);
     if (mNode) {
       current = { id: mNode[1], title: mNode[2].trim(), topics: [] };
       nodes.push(current);
       continue;
     }
-    const mTopic = line.match(/鈹斺攢\s+(\S+)\s+鈥擻s+(.+?)\s+\((\d+)\s+claims\)/);
+    const mTopic = line.match(/└─\s+(\S+)\s+—\s+(.+?)\s+\((\d+)\s+claims\)/);
     if (mTopic && current) {
       current.topics.push({ id: mTopic[1], title: mTopic[2].trim(), claims: Number(mTopic[3]) });
     }
@@ -268,7 +268,7 @@ async function getTree() {
   return data;
 }
 
-// ---------- 妫€绱?----------
+// ---------- 检索 ----------
 
 function cleanQuestion(q) {
   return String(q || '')
@@ -287,11 +287,11 @@ async function retrieve(question) {
     .filter((r) => r.kind === 'claim' && r.permission === 'public' && r.lifecycle === 'active')
     .slice(0, RETRIEVE_LIMIT);
 
-  // 鍛戒腑鏍囬/鎽樿鐨勬潯鐩啀鍙栧叏鏂囷紙鍚€傜敤杈圭晫锛夛紝鏈€澶?CONTEXT_CLAIMS 鏉?
+  // 命中标题/摘要的条目再取全文（含适用边界），最多 CONTEXT_CLAIMS 条
   return { question: q, hits, claims: await hydrate(hits) };
 }
 
-// 鍛戒腑鏍囬/鎽樿鐨勬潯鐩啀鍙栧叏鏂囷紙鍚€傜敤杈圭晫锛夛紝鏈€澶?CONTEXT_CLAIMS 鏉?
+// 命中标题/摘要的条目再取全文（含适用边界），最多 CONTEXT_CLAIMS 条
 async function hydrate(hits) {
   const wanted = hits.slice(0, CONTEXT_CLAIMS);
   const claims = await Promise.all(
@@ -299,7 +299,7 @@ async function hydrate(hits) {
       pkc(['show', h.id])
         .then((r) => (r.claim ? { ...r.claim, score: h.score } : null))
         .catch((e) => {
-          log('show-claim 澶辫触', h.id, e.message);
+          log('show-claim 失败', h.id, e.message);
           return null;
         })
     )
@@ -311,29 +311,29 @@ function buildContext(claims) {
   return claims
     .map((c, i) => {
       const body = String(c.statement || '').replace(/\r\n/g, '\n').trim();
-      return `[${i + 1}] ${c.id} 銆?{c.title}銆媆n鑺傜偣/涓婚锛?{c.node_id} / ${c.topic_id}\n姝ｆ枃锛歕n${body}`;
+      return `[${i + 1}] ${c.id} 《${c.title}》\n节点/主题：${c.node_id} / ${c.topic_id}\n正文：\n${body}`;
     })
     .join('\n\n---\n\n');
 }
 
-const SYSTEM_PROMPT = `浣犳槸銆岀郴缁熸眽瀛椼€嶇煡璇嗗簱鐨勯棶绛斿姪鎵嬨€備綘鍙兘渚濇嵁涓嬮潰鎻愪緵鐨勭煡璇嗘潯鐩洖绛斻€?
+const SYSTEM_PROMPT = `你是「系统汉字」知识库的问答助手。你只能依据下面提供的知识条目回答。
 
-瑙勫垯锛?
-1. 姣忔潯缁撹鍚庨潰鐢?[clm_XXXXXXXX] 鏍囨敞鍑哄锛宨d 蹇呴』鏉ヨ嚜鏉＄洰鍒楄〃锛屼笉寰楃紪閫犮€?
-2. 鏉＄洰鐨勫叏閮ㄥ唴瀹逛綘閮借兘鐪嬪埌銆傚洖绛斿墠鍏堟妸鏉＄洰閫愭潯璇昏繃锛屽啀缁勭粐绛旀锛涗笉瑕佹柇瑷€銆屾潯鐩病鏈夎杞姐€嶏紝闄ら潪浣犵‘瀹為€愭潯妫€鏌ヨ繃銆?
-3. 鍙湁褰撴墍鏈夋潯鐩兘涓庨棶棰樻棤鍏虫椂锛屾墠鍥炵瓟銆岀煡璇嗗簱閲岃繕娌℃湁杩欐柟闈㈢殑鍐呭銆傘€嶏紱鑻ユ潯鐩浉鍏充絾涓嶈冻浠ュ畬鏁村洖绛旓紝鍏堣搴撻噷鏈変粈涔堬紝鍐嶆寚鍑虹己鍝竴閮ㄥ垎锛屼笉瑕佺敤浣犺嚜宸辩殑鐭ヨ瘑琛ュ厖鎴栨帹娴嬨€?
-4. 灞炰簬銆婄郴缁熸眽璇€嬭鐐圭殑鏉＄洰锛岃鐐规槑杩欐槸璇ヤ功鐨勫垽鏂紝涓嶆槸鏂囩尞瀛︾晫鐨勫叡璇嗐€?
-5. 涓嶈澶嶈堪缂栧彿銆佽妭鐐广€佷富棰樿繖浜涘唴閮ㄥ瓧娈碉紱涓嶈杈撳嚭鏉＄洰鍘熸枃浠ュ鐨勫唴瀹广€?
-6. 绠€浣撲腑鏂囷紝鍏堢粰缁撹鍐嶇粰璇存槑锛屾帶鍒跺湪 300 瀛椾互鍐呫€俙;
+规则：
+1. 每条结论后面用 [clm_XXXXXXXX] 标注出处，id 必须来自条目列表，不得编造。
+2. 条目的全部内容你都能看到。回答前先把条目逐条读过，再组织答案；不要断言「条目没有记载」，除非你确实逐条检查过。
+3. 只有当所有条目都与问题无关时，才回答「知识库里还没有这方面的内容。」；若条目相关但不足以完整回答，先说库里有什么，再指出缺哪一部分，不要用你自己的知识补充或推测。
+4. 属于《系统汉语》观点的条目，要点明这是该书的判断，不是文献学界的共识。
+5. 不要复述编号、节点、主题这些内部字段；不要输出条目原文以外的内容。
+6. 简体中文，先给结论再给说明，控制在 300 字以内。`;
 
 function userPrompt(question, context) {
-  return `鐭ヨ瘑鏉＄洰锛歕n\n${context}\n\n---\n\n鐢ㄦ埛闂锛?{question}`;
+  return `知识条目：\n\n${context}\n\n---\n\n用户问题：${question}`;
 }
 
-// ---------- 瀛楀崱妯″紡 ----------
-// 妯℃澘鍥哄畾鍥涙锛氱敳楠ㄦ枃瀛楀舰鍥?/ 鏈箟 / 杞箟 / 琛嶇敓瀛椾箟锛堝摢浜涜鐢熷瓧锛夈€?
-// 瀛楀舰鍥炬潵鑷€婄郴缁熸眽璇€嬪悇鍗峰師绋挎娊鍑虹殑瀛楀舰琛紙tools/extract-glyphs.mjs锛夛紝
-// 鍥句笅鑷甫鍘熶功鏍囨敞鐨勫嚭澶勪笌鍒嗘湡锛涙枃瀛楅儴鍒嗗彧鍏佽鏉ヨ嚜 public+active 鐨?Claim銆?
+// ---------- 字卡模式 ----------
+// 模板固定四段：甲骨文字形图 / 本义 / 转义 / 衍生字义（哪些衍生字）。
+// 字形图来自《系统汉语》各卷原稿抽出的字形表（tools/extract-glyphs.mjs），
+// 图下自带原书标注的出处与分期；文字部分只允许来自 public+active 的 Claim。
 
 const GLYPH_INDEX = join(PUBLIC, 'glyphs', 'index.json');
 let glyphCache = { at: 0, data: null };
@@ -345,13 +345,13 @@ function loadGlyphIndex() {
     glyphCache = { at: Date.now(), data };
     return data;
   } catch (e) {
-    log('瀛楀舰搴撹鍙栧け璐?', e.message);
+    log('字形库读取失败:', e.message);
     return { chars: {} };
   }
 }
 
-// 绠€浣撳瓧澶?鈫?鍘熺绻佷綋瀛楀ご銆傚師绋夸互绻佷綋绔嬪瓧澶达紝鐢ㄦ埛澶氭寜绠€浣撴彁闂紱
-// 瀛楀舰搴撱€侀厤鍥惧簱鎸夌箒浣撳缓閿紝鏁呮澶勫仛涓€娆℃樉寮忔槧灏勶紙鍙槧灏勭‘瀹為渶瑕佺殑瀛楋紝瀹佸皯鍕挎互锛夈€?
+// 简体字头 → 原稿繁体字头。原稿以繁体立字头，用户多按简体提问；
+// 字形库、配图库按繁体建键，故此处做一次显式映射（只映射确实需要的字，宁少勿滥）。
 const VARIANT_INDEX = join(PUBLIC, 'variants.json');
 let variantCache = { at: 0, map: {} };
 
@@ -374,8 +374,8 @@ function photoList(list) {
   }).filter((p) => p.file);
 }
 
-// 瀛楁棌琛細鍘熺瀛楀ご琛屽啋鍙峰悗闈㈤偅涓诧紙鐗?绀?浠曗€︼級锛屾寜鍘熺椤哄簭锛屽悇鑷甫涓婅嚜宸辩殑閰嶅浘
-// 鍙湁鑷繁鑳界偣鍑轰竴寮犳湁鍐呭鐨勫瓧鍗★紙鏈夌嫭绔嬫潯鐩垨鑳借惤鍒板瓧鏃忔潯锛夌殑锛屾墠鍋氭垚鍙偣锛涘惁鍒欏彧鍒楀悕涓嶉摼鎺?
+// 字族表：原稿字头行冒号后面那串（牡 社 仕…），按原稿顺序，各自带上自己的配图
+// 只有自己能点出一张有内容的字卡（有独立条目或能落到字族条）的，才做成可点；否则只列名不链接
 function familyInfo(ch) {
   const idx = loadGlyphIndex();
   const fam = (idx.families && idx.families[ch]) || [];
@@ -416,10 +416,10 @@ function glyphInfo(ch) {
   };
 }
 
-// ---------- 瀛楁牴鍒嗙骇 ----------
-// 渚濇嵁銆屽叏涔︾洰褰曚笌缁撴瀯銆嶏細銆岄儴鍙?閮ㄩ瀛椼€嶆槸鏈€灏忓畾浣嶅崟浣嶏紝609 閮ㄥ嵆涓€绾у瓧鏍癸紱
-// 閮ㄥ唴鑳藉啀婊嬬敓鐨勮鐢熷瓧鏄簩绾с€佷笁绾у瓧鏍癸紝鍏朵綑鏄皭澹板瓧锛坈lm_640129CD鈥︼級銆?
-// 閮ㄥ悕绱㈠紩鐢?tools/zigen-index.mjs 浠?mulu.md 鐢熸垚锛屾湇鍔″眰涓嶇洿鎺ヨ knowledge/銆?
+// ---------- 字根分级 ----------
+// 依据「全书目录与结构」：「部号+部首字」是最小定位单位，609 部即一级字根；
+// 部内能再滋生的衍生字是二级、三级字根，其余是谐声字（clm_640129CD…）。
+// 部名索引由 tools/zigen-index.mjs 从 mulu.md 生成，服务层不直接读 knowledge/。
 const ZIGEN_INDEX = join(PUBLIC, 'zigen.json');
 let zigenCache = { at: 0, data: null };
 
@@ -430,48 +430,48 @@ function loadZigenIndex() {
     zigenCache = { at: Date.now(), data };
     return data;
   } catch (e) {
-    log('瀛楁牴绱㈠紩璇诲彇澶辫触:', e.message);
+    log('字根索引读取失败:', e.message);
     return { byName: {}, juan: [], chapters: [] };
   }
 }
 
-const JUAN_CN = ['', '涓€', '浜?, '涓?, '鍥?, '浜?, '鍏?, '涓?, '鍏?, '涔?, '鍗?];
+const JUAN_CN = ['', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十'];
 function juanCn(n) {
   if (!n) return '';
   if (n <= 10) return JUAN_CN[n];
-  if (n < 20) return '鍗? + JUAN_CN[n - 10];
-  if (n === 100) return '涓€鐧?;
+  if (n < 20) return '十' + JUAN_CN[n - 10];
+  if (n === 100) return '一百';
   const a = Math.floor(n / 10);
   const b = n % 10;
-  return (a === 1 ? '鍗? : JUAN_CN[a] + '鍗?) + (b ? JUAN_CN[b] : '');
+  return (a === 1 ? '十' : JUAN_CN[a] + '十') + (b ? JUAN_CN[b] : '');
 }
 
 const HAN_ONE = /\p{Script=Han}/u;
 const isHan = (ch) => !!ch && HAN_ONE.test(ch);
-const CARD_TOPICS = /(鏈箟|鏈京|鏈剰|瀛楁簮|瀛楀舰|鐢查鏂噟杞箟|杞夌京|寮曠敵涔墊寮曠敵|琛嶇敓瀛梶琛嶇敓|瀛楁棌|瀛楁牴|鎰忔€潀鍚箟)/;
+const CARD_TOPICS = /(本义|本義|本意|字源|字形|甲骨文|转义|轉義|引申义|引申|衍生字|衍生|字族|字根|意思|含义)/;
 
-// 鍒ゆ柇闂鏄笉鏄湪銆岄棶鏌愪竴涓瓧銆?
+// 判断问题是不是在「问某一个字」
 function detectChar(question) {
   let s = String(question || '').trim();
   if (!s) return null;
-  s = s.replace(/[锛?銆傦紒!锛?銆侊紱;锛?~锝瀄s]+$/g, '').trim();
+  s = s.replace(/[？?。！!，,、；;：:~～\s]+$/g, '').trim();
   if (!s) return null;
 
-  // 1) 寮曞彿閲岀偣鍚嶇殑瀛楋細銆岄洖銆嶃€岄浮銆?
-  const quoted = s.match(/[銆屻€庘€?]([^銆嶃€忊€?]{1,3})[銆嶃€忊€?]/);
+  // 1) 引号里点名的字：「雞」「鸡」
+  const quoted = s.match(/[「『“"]([^」』”"]{1,3})[」』”"]/);
   if (quoted) {
     const cs = [...quoted[1]].filter(isHan);
     if (cs.length === 1) return cs[0];
   }
 
-  // 2) 鏁村彞鍙湁涓€涓眽瀛楋紙鍙甫銆屽瓧銆嶏級
+  // 2) 整句只有一个汉字（可带「字」）
   const plain = s.replace(/\s+/g, '');
   const all = [...plain].filter(isHan);
   if (all.length === 1 && plain.length <= 2) return all[0];
 
-  // 3) X鐨勬湰涔?/ X瀛?/ X鐨勮浆涔?/ X鐨勫瓧鏍规槸浠€涔?鈥?
+  // 3) X的本义 / X字 / X的转义 / X的字根是什么 …
   const m = plain.match(
-    /^[^\p{Script=Han}]{0,4}(\p{Script=Han})(?:瀛??(?:鐨??(?:鏈箟|鏈京|鏈剰|瀛楁簮|瀛楀舰|鐢查鏂噟杞箟|杞夌京|寮曠敵涔墊寮曠敵|琛嶇敓瀛梶琛嶇敓|瀛楁棌|瀛楁牴|鎰忔€潀鍚箟)(?:鏄粈涔坾鏄暐|鏄摢浜泑鏈夊摢浜??$/u
+    /^[^\p{Script=Han}]{0,4}(\p{Script=Han})(?:字)?(?:的)?(?:本义|本義|本意|字源|字形|甲骨文|转义|轉義|引申义|引申|衍生字|衍生|字族|字根|意思|含义)(?:是什么|是啥|是哪些|有哪些)?$/u
   );
   if (m) return m[1];
 
@@ -479,17 +479,17 @@ function detectChar(question) {
 }
 
 const CARD_SECTIONS = [
-  { key: 'jielun', field: '缁撹', label: '缁撹' },
-  { key: 'zigen', field: '瀛楁牴', label: '鍏堥噴瀛楁牴' },
-  { key: 'benyi', field: '鏈箟', label: '鏈箟' },
-  { key: 'zhuanyi', field: '杞箟', label: '杞箟' },
-  { key: 'yansheng', field: '琛嶇敓', label: '琛嶇敓瀛椾箟' },
-  { key: 'duizhao', field: '瀵圭収', label: '妯悜瀵圭収锛堟寜涔夌被鍒嗙粍锛? },
-  { key: 'zixing', field: '瀛楀舰', label: '瀛楀舰' },
-  { key: 'xiaojie', field: '灏忕粨', label: '涓€鍙ユ€荤粨' },
+  { key: 'jielun', field: '结论', label: '结论' },
+  { key: 'zigen', field: '字根', label: '先释字根' },
+  { key: 'benyi', field: '本义', label: '本义' },
+  { key: 'zhuanyi', field: '转义', label: '转义' },
+  { key: 'yansheng', field: '衍生', label: '衍生字义' },
+  { key: 'duizhao', field: '对照', label: '横向对照（按义类分组）' },
+  { key: 'zixing', field: '字形', label: '字形' },
+  { key: 'xiaojie', field: '小结', label: '一句总结' },
 ];
 
-// 鍥哄畾鏍忓簭锛氱粨璁?鈫?鍒嗙骇 鈫?澹版瘝涔?鈫?鍏堥噴瀛楁牴 鈫?鏈箟 鈫?杞箟 鈫?琛嶇敓瀛椾箟 鈫?妯悜瀵圭収 鈫?瀛楀舰 鈫?涓€鍙ユ€荤粨
+// 固定栏序：结论 → 分级 → 声母义 → 先释字根 → 本义 → 转义 → 衍生字义 → 横向对照 → 字形 → 一句总结
 const CARD_ORDER = ['jielun', 'fenji', 'shengmu', 'zigen', 'benyi', 'zhuanyi', 'yansheng', 'duizhao', 'zixing', 'xiaojie', 'zuyu', 'other'];
 
 let EXEGESIS_STYLE = "";
@@ -497,34 +497,34 @@ try {
   const { readFileSync } = await import("node:fs");
   EXEGESIS_STYLE = readFileSync(new URL("./prompts/exegesis.md", new URL("../", import.meta.url)), "utf8").trim();
 } catch (e) { EXEGESIS_STYLE = ""; }
-const CARD_PROMPT = `${EXEGESIS_STYLE ? "銆愰噴瀛楀洖绛斾綋渚嬶紙鍏辩敤瑙勮寖锛屽繀椤荤収姝ょ粍缁囩瓟妗堬級銆慭n" + EXEGESIS_STYLE + "\n\n" : ""}浣犳槸銆婄郴缁熸眽璇€嬪瓧鍗＄殑缂栬緫銆傚彧渚濇嵁涓嬮潰缁欏嚭鐨勭煡璇嗘潯鐩～鍐欏瓧鍗★紝鏉＄洰浠ュ鐨勫唴瀹逛竴涓瓧閮戒笉璁稿姞銆?
+const CARD_PROMPT = `${EXEGESIS_STYLE ? "【释字回答体例（共用规范，必须照此组织答案）】\n" + EXEGESIS_STYLE + "\n\n" : ""}你是《系统汉语》字卡的编辑。只依据下面给出的知识条目填写字卡，条目以外的内容一个字都不许加。
 
-鍙緭鍑轰弗鏍?JSON锛屼笉瑕佷唬鐮佸潡鏍囪锛屼笉瑕佽В閲婏細
-{"缁撹":"鈥?,"瀛楁牴":"鈥?,"鏈箟":"鈥?,"杞箟":"鈥?,"琛嶇敓":"鈥?,"瀵圭収":"鈥?,"瀛楀舰":"鈥?,"灏忕粨":"鈥?}
-鏍忓簭涓庡啓娉曪紙鎸夋椤哄簭濉紝姣忔爮閮借鏈夊疄璐ㄥ唴瀹癸紝涓嶈涓€鍙ヨ瘽鎵撳彂锛夛細
-- 姣忔爮鏈熬蹇呴』鏍囧嚭澶勶細鐢ㄤ笂闈㈡潯鐩殑缂栧彿鍐?[1]銆乕3]锛屼竴鏍忓紩澶氭潯灏辫繛鍐?[1][3]锛涙病鏈夌紪鍙风殑鍙ュ瓙浼氳涓㈠純銆?
-- 缁撹锛氫笁鍒板洓鍙ワ紝鍏堣杩欎釜瀛楁槸浠€涔堝瓧銆佹湰涔夋槸浠€涔堛€佸瓧鏍圭粰瀹冨摢涓€闈箟锛岃浜轰笉璇讳笅鏂囦篃鎷垮埌绛旀銆?
-- 瀛楁牴锛氬厛璁插瓧鏍硅嚜宸辩殑鏈箟锛堜竴銆佷簩銆佷笁绾у瓧鏍逛竴寰嬫湰涔夌洿閲婏紝涓嶄綔姣斿喌锛夛紝鍐嶈瀹冩€庝箞杩涘埌杩欎釜瀛楅噷锛涘０绗﹂摼鏈変袱绾т互涓婂氨閫愮骇璁层€?
-- 鏈箟锛氬叚涔﹀垽璇紑澶达紝鐒跺悗鎶婃湰涔夎閫忥紙鏋勫舰銆佹墍鎸囦箣鐗┿€佸瓧涔︿緷鎹級锛屽啀鍒嗘潯鍒楀嚭寮曠敵璺緞銆?
-- 杞箟锛氭寜寮曠敵璺緞鍒嗗眰鍐欙紝姣忓眰缁欏嚭瀛椾功渚濇嵁涓庝緥璇嶃€?
-- 琛嶇敓锛氬瓧鏃忓瓧鎸変箟绫诲垎缁勫垪锛屾瘡缁勫啓銆屽瓧锛堝舰绗︼級钀界偣銆嶏紝閲嶈鑰呴檮涓€鍙ユ枃鍖栫敤娉曘€?
-- 瀵圭収锛氭妸鏉＄洰閲屽凡鏈夌殑銆屾í鍚戝鐓э紙鎸変箟绫诲垎鈥︼級銆嶅師鍙ユ暣鐞嗘垚鍒嗙粍涓插啓锛屾寜 鈶犫憽鈶?鍒嗚锛涙病鏈夊鐓ф潗鏂欏氨鍐欍€屾殏鏃犮€嶃€?
-- 瀛楀舰锛氳娓呯湅褰㈣鐐癸紙鏋勪欢浣嶇疆銆佷粠鏃╁埌鏅氱殑鍙樺寲锛夛紝涓嶈鍙姤瀛楀舰鏉ユ簮銆?
-- 灏忕粨锛氫竴鍙ヨ瘽鏀舵嫝杩欎釜瀛楃殑澹扮缁欎箟銆佸舰绗﹀畾钀界偣鐨勫叧绯伙紝涓嶈閲嶅缁撹銆傜粨璁猴細涓夊埌鍥涘彞锛屽厛璇磋繖涓瓧鏄粈涔堝瓧銆佹湰涔夋槸浠€涔堛€佸瓧鏍圭粰瀹冨摢涓€闈箟锛岃浜轰笉璇讳笅鏂囦篃鎷垮埌绛旀銆?
-- 瀵圭収锛氭妸鏉＄洰閲屽凡鏈夌殑銆屾í鍚戝鐓э紙鎸変箟绫诲垎鈥︼級銆嶅師鍙ユ暣鐞嗘垚鍒嗙粍涓插啓锛屾寜 鈶犫憽鈶?鍒嗚锛涚粍鍐呭啓銆屽瓧锛堝舰绗︼級钀界偣銆嶏紱娌℃湁瀵圭収鏉愭枡灏卞啓銆屾殏鏃犮€嶃€?
-- 涓€鍙ユ€荤粨锛氫竴鍙ヨ瘽鏀舵嫝杩欎釜瀛楃殑澹扮缁欎箟銆佸舰绗﹀畾钀界偣鐨勫叧绯伙紝涓嶈閲嶅缁撹銆?
+只输出严格 JSON，不要代码块标记，不要解释：
+{"结论":"…","字根":"…","本义":"…","转义":"…","衍生":"…","对照":"…","字形":"…","小结":"…"}
+栏序与写法（按此顺序填，每栏都要有实质内容，不许一句话打发）：
+- 每栏末尾必须标出处：用上面条目的编号写 [1]、[3]，一栏引多条就连写 [1][3]；没有编号的句子会被丢弃。
+- 结论：三到四句，先说这个字是什么字、本义是什么、字根给它哪一面义，让人不读下文也拿到答案。
+- 字根：先讲字根自己的本义（一、二、三级字根一律本义直释，不作比况），再讲它怎么进到这个字里；声符链有两级以上就逐级讲。
+- 本义：六书判语开头，然后把本义讲透（构形、所指之物、字书依据），再分条列出引申路径。
+- 转义：按引申路径分层写，每层给出字书依据与例词。
+- 衍生：字族字按义类分组列，每组写「字（形符）落点」，重要者附一句文化用法。
+- 对照：把条目里已有的「横向对照（按义类分…）」原句整理成分组串写，按 ①②③ 分行；没有对照材料就写「暂无」。
+- 字形：说清看形要点（构件位置、从早到晚的变化），不要只报字形来源。
+- 小结：一句话收拢这个字的声符给义、形符定落点的关系，不要重复结论。结论：三到四句，先说这个字是什么字、本义是什么、字根给它哪一面义，让人不读下文也拿到答案。
+- 对照：把条目里已有的「横向对照（按义类分…）」原句整理成分组串写，按 ①②③ 分行；组内写「字（形符）落点」；没有对照材料就写「暂无」。
+- 一句总结：一句话收拢这个字的声符给义、形符定落点的关系，不要重复结论。
 
-濉啓瑕佹眰锛?
-0. 鍒嗙骇锛氬瓧鍗℃渶鍓嶉潰銆屽垎绾с€嶄竴鏍忕敱绯荤粺鎸夊叏涔︾粨鏋勫垽濂斤紙涓€绾у瓧鏍癸紳閮ㄥ悕锛涢儴鍐呰兘鍐嶆粙鐢熸柊瀛楄€呬负浜岀骇銆佷笁绾у瓧鏍癸紱鍏朵綑涓鸿皭澹板瓧锛夛紝浣犱笉寰楁敼鍔ㄣ€佷笉寰楀彟绔嬬骇鍒€傚～銆屽瓧鏍广€嶄竴鏍忔椂鍏堜氦浠ｈ瀛楀睘浜庡摢涓€绾с€佺敱鍝釜瀛楁牴琛嶇敓锛屽啀璁插瓧鏍逛箟濡備綍杩涘叆杩欎釜瀛椼€?
-0b. 澹版瘝涔夛細璇ュ瓧鎵€灞為儴鐨勫０姣嶆嫙鎬佷箟涓庝竴鑷村害涔熺敱绯荤粺闄勪笂锛堛€屽０姣嶄箟銆嶄竴鏍忥級锛屼綘涓嶅緱鏀瑰啓銆佷笉寰楀彟鎷熷０姣嶄箟锛涜瀛楁牴鏃跺彲浠ュ紩鐢ㄥ畠鐨勭粨璁恒€傚紩鐢ㄦ椂蹇呴』鎶婅繖涓嫙鎬佷箟钀藉埌鏈瓧鎵€鎸囦箣鐗╀笂璁查€忥紙濡傘€岃幖銆嶅彧鍙?ch 鐨勩€屽埡銆嶏細鑺藉皷鍒虹牬鍦熷眰鑰屽嚭锛夛紝涓嶅緱鍙姤銆屾煇姣嶃€佹煇涔夈€佹煇涓€鑷村害銆嶄簡浜嬨€?*鎷熸€佷箟鏈槸鐩稿鐨勪袱闈紙t 娑傜獊銆乧h 鍒烘寔銆乴 鎷㈢鈥︼級锛岄噴涓€涓瓧涓€鑸彧璁插悎浜庡畠鐨勯偅涓€闈紝涓嶅繀涓ら潰閮借В璇?*锛涘彧鏈夊紩鐢抽摼纭疄妯法涓ら潰鏃舵墠鍐欎袱闈紙濡傘€屾煶銆嶇紪鏉熶负鎷€佹姌鍒负绂伙級銆?*涓嶅緱鍥犱竴鑷村害寮便€侀儴鍐呭垎姝с€佹垨璇ラ儴鏈敹鑰屾柇瑷€銆屼笌澹版瘝涔夋棤鍏炽€?*锛氬彜闊?zh銆乧h銆乻h 浠?d銆乼 鍒嗗寲锛岄娇闊充笌鑸岄煶鍚屾簮锛岄』寰０婧愬垎鍖栭摼璐€氳В閲婏紱纭疄鐩歌繚鏃朵篃瑕佽鏄庝负浣曠浉杩濓紙寮傝銆佸亣鍊熼煶銆佹柟瑷€锛夛紝涓嶈杞绘槗璇翠笉鐩稿叧銆?
-1. 瀛楀舰锛氳瀛楀湪鐢查鏂囥€侀噾鏂囬噷鐨勫舰浣撳浣曡薄褰㈡垨鏋勫舰锛涙潯鐩病璁插瓧褰紝灏卞～绌哄瓧绗︿覆銆?
-2. 瀛楁牴锛氳繖涓瓧鐢卞摢涓瓧鏍规瀯鎴愶紙鏉＄洰閲屻€屼粠鏌愪粠鏌愩€嶃€屼粠鏌愶紝鏌愬０銆嶈鐨勯偅涓瓧锛夛紝骞惰娓呭瓧鏍逛笌杩欎釜瀛楃殑鍏崇郴鈥斺€斾細鎰忚繕鏄舰澹般€佸瓧鏍圭殑鎰忎箟鎬庝箞杩涘埌杩欎釜瀛楅噷銆?*鍙栧瓧鏍逛箟鏃朵紭鍏堢敤瀛楁牴鐨勬湰涔夛紱鏈箟璁蹭笉閫氾紝鎵嶉檷涓€绾х敤杞箟**锛堝銆岀枤銆嶄粠涔咃紝涔呯殑鏈箟鏄伕鐏笺€佺伡鐥咃紝鏁呯枤锛濈伡鐥涗箣鐥咃紝涓嶅彲鍙栥€屼箙銆嶇殑寮曠敵涔夈€屾椂闂撮暱銆嶏紱瀛椾功銆岀枤锛屼箙涔熴€嶆槸澹拌锛屼笉鏄箟婧愶級銆?*澹版梺缁欎箟鐨勬柟寮忔槸姣斿柣锛岃鍐欐垚銆岃薄鈥︹€︿竴鏍枫€?*锛氱枤锛濊薄琚伕鐏间竴鏍风柤鐥涳紝鐜栵紳璞¤鐑х伡涓€鏍疯壊榛戯紱褰㈢鍙畾鍏剁被涓庤惤鐐广€?*浣嗘瘮鍠诲彧缁欍€屽舰鏃侊紜澹版梺銆嶇殑鍚堟垚璋愬０瀛楋紱瑙ｉ噴瀛楁牴鏈韩涓€寰嬫湰涔夌洿閲?*锛氳垎鐨勬湰涔夊氨鏄袱浜哄涓炬姮杞︿箣鐘讹紝杩界殑鏈箟灏辨槸璺熷湪灞佽偂鍚庨潰璺戔€斺€旇繖鏄洿閲婏紝涓嶆槸姣斿柣锛涜薄鎰忓吋澹板瓧锛堣溅锛嬭垇銆侀紟锛嬸Ε戯級鍚岀悊鍙鏄庡０鏃佸吋涔夛紝涓嶅銆岃薄鈥︹€︿竴鏍枫€嶃€?*澹扮閾炬湁涓ょ骇浠ヤ笂鏃讹紙濡?銧啋鍙扳啋濮嬨€佸寖鈫掓浄鈫掓复锛夛紝瑕侀€愮骇璇存槑姣忎竴绾у瓧鏍瑰悇缁欑殑鏄摢涓€闈箟锛屽啀钀藉埌杩欎釜瀛椾笂**鈥斺€斾笉鑳藉彧鍐欐渶鍚庝竴绾с€?***涓嶈杞绘槗鍒や綔銆岃薄澹般€佷笉鍙栦箟銆?*鈥斺€斿０鏃佸嚑涔庨兘鏈夊疄涔夛紝瀹炰箟涓庢瘮鍠讳箟涓ゅ眰骞跺瓨锛堝銆岃桨銆嶏紳涓夎溅璞℃剰浼楄溅锛屽疄涔夈€屼紬杞︺€嶏紝姣斿柣銆屽０澶у浼楄溅琛岄┒涔嬪０銆嶏級銆?*鑻ユ槸璋愬０瀛楋紝蹇呴』鍋氭í鍚戝鐓?*锛氬彇鏉＄洰閲屽悓澹扮鐨勫厔寮熷瓧鑷冲皯 3 涓紝鎸夈€屽瓧锝滃彇涔夐潰锝滃舰绗︼綔钀藉埌浠€涔堜箟銆嶆瘮杈冿紝璇存槑鍚屼竴鍙栦箟闈㈠湪涓嶅悓褰㈢涓嬫€庢牱钀藉埌涓嶅悓瀛椾箟锛屽啀瀹氳繖涓瓧鐨勮惤鐐癸紙濡傚惥閮細姊э紳鏈紜鐩稿鈫掓爲涓婁笅鐩稿綋锛屾櫎锛濇棩锛嬬浉瀵光啋浜虹浉瑙侊紝榧紳榧狅紜鐩稿鈫掗珮涓嬬浉瀵广€佸彧鑳戒粠楂樿荡涓嬶級銆?*瀵圭収瑕佽鐩栧叏鏃忋€佹寜涔夌被鍒嗚〃**锛氭妸鍏ㄦ棌鍏勫紵瀛楀厛鎸夋剰涔夊綊绫伙紙鍙栨湰涔夛紡鍙栬浆涔夛紡鍙€熷０锛夛紝姣忕被涓€寮犺〃锛屾渶鍚庢€绘敹銆屽０绗︾粰涔夈€佸舰绗﹀畾钀界偣銆嶏紝鍙€熷０閭ｄ竴绫讳篃瑕佸垪鍑猴紱鍙鐓х殑鍏勫紵瀛椾笉瓒?3 涓氨鍐欐槑銆屽彲瀵圭収鑰呬粎 N 瀛椼€嶃€?*鍚屼竴鍔ㄧ墿鏈夊紓鍚嶅紓浣撹€屽０绗︿笉鍚岃€呮洿鍙簰璇?*鈥斺€旈极浠庣煶锛堣薄鎺风煶涓嬭惤锛夛紝涓庨集鐨勯珮涓嬬浉瀵瑰悓鎸囥€岀敱楂樺悜涓嬫粦闄嶃€嶃€傚啓鎴愩€屽瓧鏍癸細璇存槑銆嶏紝渚嬪銆屽＋锛氫粫浠庝汉浠庡＋锛屽＋鏄煶婧愬瓧锛屾湰涔夋寚闆勬€э紝寮曠敵涓鸿涔︿汉銆佸畼鍛橈紝鎵€浠ャ€屼粫銆嶈〃浠讳簨銆佸涔犳斂浜嬨€嶃€傝嫢鏉＄洰鍒嗐€屽瓧鏍规潯鐩€嶅崟鍒楋紝鐢ㄥ畠浠鏄庡瓧鏍规湰韬殑鎰忎箟锛屽苟鍒嗗埆鏍囨敞鍑哄銆傚瓧鏍瑰繀椤绘槸鍙︿竴涓瓧锛屼笉鑳芥妸杩欎釜瀛楄嚜宸卞啓杩涘幓锛涙潯鐩彧璇村畠鏄€熼煶瀛椼€佹病鏈夋瀯褰㈠垎鏋愮殑锛屽～绌哄瓧绗︿覆銆?
-3. 鏈箟锛?*寮€澶村繀椤诲厛鍐欎竴鍙ュ叚涔﹀垽璇紝鏍煎紡銆屽叚涔︼細鈥︹€︺€?*锛屽啀璁查€犲瓧涔嬪垵鐨勬剰涔夈€傚叚涔︾敤鐝浐鍚嶇洰锛屼笉鐢ㄣ€屽舰澹般€嶄竴璇嶃€傚垽娉曪紙鎸夋潯鐩師鏂囧垽鏂級锛氭潯鐩瀹冩槸銆岄煶婧愬瓧銆嶃€佹垨璇婚煶銆屾簮鑷€︹€﹀０銆嶏紳璞″０锛涙潯鐩銆屼粠鏌愪粠鏌愩€嶈€屼袱瀛楀悇鏈夌嫭绔嬫剰涔夛紳璞℃剰锛涙潯鐩銆屼粠鏌愶紝鏌愬０銆嶃€佹煇瀛楁槸澹版牴銆佽繖涓瓧鏄姞褰㈡梺鍒嗗寲鏉ョ殑锛濊浆娉紱鐙綋銆佸瓧褰㈠鐢伙紳璞″舰锛涘湪璞″舰瀛椾笂鍔犱竴涓棤涔夌鍙凤紳璞′簨锛涘洜涔夊€熷０锛濆亣鍊熴€傚鍚堢殑鐓х华璁哄叚绉嶇粍鍚堟姤锛屽銆岃薄鎰忥紜杞敞銆嶃€岃薄鎰忥紜璞″０銆嶃€傚彧瑕佹潯鐩噷鏈夈€屼粠鏌愬０銆嶃€岄煶婧愬瓧銆嶃€屼粠鏌愪粠鏌愩€嶈繖绫荤嚎绱㈠氨蹇呴』鍒わ紱涓€鏉＄嚎绱㈤兘娌℃湁鎵嶄笉鍐欏垽璇€傝嫢瀛楄〃鏋勫舰涔嬪鍙︽湁鏉＄洰璇村畠鏄€岄煶婧愬瓧銆嶃€佽闊炽€屾簮鑷€︹€﹀０銆嶏紝鍒よ瑕佸悎鎴愪袱鎴紙濡傘€岃薄鎰忥紜璞″０銆嶃€岃薄褰紜璞″０銆嶏級锛屼笉瑕佸彧鍐欐瀯褰㈤偅涓€鎴€?
-4. 杞箟锛氬紩鐢充箟銆佸亣鍊熶箟銆?
-5. 琛嶇敓锛氱敱瀹冨垎鍖栥€佸姞娉ㄥ舰鏃佹垨鐢ㄥ畠浣滃０绗︾殑瀛楋紝鍐欐垚銆屽瓧锛氭剰涔夛紱瀛楋細鎰忎箟銆嶏紝鏈€澶?6 涓瓧锛涙潯鐩噷璇淬€屽悓缁勩€嶃€屽睘鈥︹€︾被銆嶇殑閭ｄ簺瀛椾篃绠楋紝涓€涓兘鍒紡銆?
-6. 姣忎釜闈炵┖瀛楁鏈熬蹇呴』甯?[clm_XXXXXXXX] 鍑哄锛堝瓧鏍广€佽鐢熶袱鏍忓挨鍏朵笉鑳芥紡锛夛紝id 鍙兘鍙栬嚜鏉＄洰鍒楄〃锛屼笉寰楃紪閫狅紝涓€涓瓧娈靛彲浠ュ甫澶氫釜銆?
-7. 鏉＄洰閲屾病鏈変緷鎹殑瀛楁涓€寰嬭緭鍑虹┖瀛楃涓?""锛屼笉瑕佺敤浣犺嚜宸辩殑甯歌瘑琛ャ€?
-8. 绠€浣撲腑鏂囷紝瀛楀舰銆佸瓧鏍广€佽浆涔夊悇涓嶈秴杩?130 瀛楋紝鏈箟锛堝惈鍏功涓€鍙ワ級涓嶈秴杩?170 瀛楋紝琛嶇敓涓嶈秴杩?150 瀛椼€俙;
+填写要求：
+0. 分级：字卡最前面「分级」一栏由系统按全书结构判好（一级字根＝部名；部内能再滋生新字者为二级、三级字根；其余为谐声字），你不得改动、不得另立级别。填「字根」一栏时先交代该字属于哪一级、由哪个字根衍生，再讲字根义如何进入这个字。
+0b. 声母义：该字所属部的声母拟态义与一致度也由系统附上（「声母义」一栏），你不得改写、不得另拟声母义；讲字根时可以引用它的结论。引用时必须把这个拟态义落到本字所指之物上讲透（如「莼」只取 ch 的「刺」：芽尖刺破土层而出），不得只报「某母、某义、某一致度」了事。**拟态义本是相对的两面（t 涂突、ch 刺持、l 拢离…），释一个字一般只讲合于它的那一面，不必两面都解说**；只有引申链确实横跨两面时才写两面（如「柳」编束为拢、折别为离）。**不得因一致度弱、部内分歧、或该部未收而断言「与声母义无关」**：古音 zh、ch、sh 从 d、t 分化，齿音与舌音同源，须循声源分化链贯通解释；确实相违时也要说明为何相违（异读、假借音、方言），不许轻易说不相关。
+1. 字形：该字在甲骨文、金文里的形体如何象形或构形；条目没讲字形，就填空字符串。
+2. 字根：这个字由哪个字根构成（条目里「从某从某」「从某，某声」说的那个字），并说清字根与这个字的关系——会意还是形声、字根的意义怎么进到这个字里。**取字根义时优先用字根的本义；本义讲不通，才降一级用转义**（如「疚」从久，久的本义是灸灼、灼病，故疚＝灼痛之病，不可取「久」的引申义「时间长」；字书「疚，久也」是声训，不是义源）。**声旁给义的方式是比喻，要写成「象……一样」**：疚＝象被灸灼一样疼痛，玖＝象被烧灼一样色黑；形符只定其类与落点。**但比喻只给「形旁＋声旁」的合成谐声字；解释字根本身一律本义直释**：舆的本义就是两人对举抬车之状，追的本义就是跟在屁股后面跑——这是直释，不是比喻；象意兼声字（车＋舁、鼎＋𦥑）同理只说明声旁兼义，不套「象……一样」。**声符链有两级以上时（如 㠯→台→始、匃→曷→渴），要逐级说明每一级字根各给的是哪一面义，再落到这个字上**——不能只写最后一级。****不要轻易判作「象声、不取义」**——声旁几乎都有实义，实义与比喻义两层并存（如「轰」＝三车象意众车，实义「众车」，比喻「声大如众车行驶之声」）。**若是谐声字，必须做横向对照**：取条目里同声符的兄弟字至少 3 个，按「字｜取义面｜形符｜落到什么义」比较，说明同一取义面在不同形符下怎样落到不同字义，再定这个字的落点（如吾部：梧＝木＋相对→树上下相当，晤＝日＋相对→人相见，鼯＝鼠＋相对→高下相对、只能从高赴下）。**对照要覆盖全族、按义类分表**：把全族兄弟字先按意义归类（取本义／取转义／只借声），每类一张表，最后总收「声符给义、形符定落点」，只借声那一类也要列出；可对照的兄弟字不足 3 个就写明「可对照者仅 N 字」。**同一动物有异名异体而声符不同者更可互证**——鼫从石（象掷石下落），与鼯的高下相对同指「由高向下滑降」。写成「字根：说明」，例如「士：仕从人从士，士是音源字，本义指雄性，引申为读书人、官员，所以「仕」表任事、学习政事」。若条目分「字根条目」单列，用它们说明字根本身的意义，并分别标注出处。字根必须是另一个字，不能把这个字自己写进去；条目只说它是借音字、没有构形分析的，填空字符串。
+3. 本义：**开头必须先写一句六书判语，格式「六书：……」**，再讲造字之初的意义。六书用班固名目，不用「形声」一词。判法（按条目原文判断）：条目说它是「音源字」、或读音「源自……声」＝象声；条目说「从某从某」而两字各有独立意义＝象意；条目说「从某，某声」、某字是声根、这个字是加形旁分化来的＝转注；独体、字形如画＝象形；在象形字上加一个无义符号＝象事；因义借声＝假借。复合的照绪论六种组合报，如「象意＋转注」「象意＋象声」。只要条目里有「从某声」「音源字」「从某从某」这类线索就必须判；一条线索都没有才不写判语。若字表构形之外另有条目说它是「音源字」、读音「源自……声」，判语要合成两截（如「象意＋象声」「象形＋象声」），不要只写构形那一截。
+4. 转义：引申义、假借义。
+5. 衍生：由它分化、加注形旁或用它作声符的字，写成「字：意义；字：意义」，最多 6 个字；条目里说「同组」「属……类」的那些字也算，一个都别漏。
+6. 每个非空字段末尾必须带 [clm_XXXXXXXX] 出处（字根、衍生两栏尤其不能漏），id 只能取自条目列表，不得编造，一个字段可以带多个。
+7. 条目里没有依据的字段一律输出空字符串 ""，不要用你自己的常识补。
+8. 简体中文，字形、字根、转义各不超过 130 字，本义（含六书一句）不超过 170 字，衍生不超过 150 字。`;
 
 function extractJson(text) {
   const s = String(text || '');
@@ -538,18 +538,18 @@ function extractJson(text) {
   }
 }
 
-// 鍙繚鐣欏嚭鑷潯鐩殑寮曠敤锛涙病鏈夋湁鏁堝紩鐢ㄧ殑涓€寰嬪垽涓恒€屾棤渚濇嵁銆?
-// order 鏄笂涓嬫枃閲岀殑缂栧彿琛紝妯″瀷鍋锋噿鍐?[3] 涔熻兘鏄犲皠鍥?clm_ id
-const LIUSHU_CORE = '(?:璞″舰|璞′簨|璞℃剰|璞″０|杞敞|鍋囧€?';
-const LIUSHU_HEAD = new RegExp('^(' + LIUSHU_CORE + '(?:[锛?锛?]' + LIUSHU_CORE + ')*)([锛屻€傦細:\\s銆乚)');
+// 只保留出自条目的引用；没有有效引用的一律判为「无依据」
+// order 是上下文里的编号表，模型偷懒写 [3] 也能映射回 clm_ id
+const LIUSHU_CORE = '(?:象形|象事|象意|象声|转注|假借)';
+const LIUSHU_HEAD = new RegExp('^(' + LIUSHU_CORE + '(?:[＋+／/]' + LIUSHU_CORE + ')*)([，。：:\\s、])');
 
-// 鍏功鍒よ缁熶竴鎴愩€屽叚涔︼細鈥︹€︺€嶅紑澶达紙涓讳汉瀹氾細鏀惧湪鏈箟瑙ｉ噴閲屽ご锛屼笉鍗曞垪涓€鏍忥級
+// 六书判语统一成「六书：……」开头（主人定：放在本义解释里头，不单列一栏）
 function ensureLiushu(sec) {
   if (!sec || !sec.text) return sec;
   const t = String(sec.text).trim();
-  if (/^鍏功\s*[锛?]/.test(t)) return sec;
+  if (/^六书\s*[：:]/.test(t)) return sec;
   if (!LIUSHU_HEAD.test(t)) return sec;
-  return { ...sec, text: '鍏功锛? + t };
+  return { ...sec, text: '六书：' + t };
 }
 
 function sanitizeSection(raw, allowed, order) {
@@ -558,13 +558,13 @@ function sanitizeSection(raw, allowed, order) {
     .trim();
   if (!s) return null;
   const ids = [];
-  s = s.replace(/[[銆怾\s*(clm_[0-9A-Fa-f]{20,40})\s*[\]銆慮/g, (m, id) => {
+  s = s.replace(/[[【]\s*(clm_[0-9A-Fa-f]{20,40})\s*[\]】]/g, (m, id) => {
     const up = 'clm_' + id.slice(4).toUpperCase();
     if (!allowed.has(up)) return '';
     ids.push(up);
     return `[${up}]`;
   });
-  s = s.replace(/[[銆怾\s*(\d{1,2})\s*[\]銆慮/g, (m, n) => {
+  s = s.replace(/[[【]\s*(\d{1,2})\s*[\]】]/g, (m, n) => {
     const id = Array.isArray(order) ? order[Number(n) - 1] : null;
     if (!id || !allowed.has(id) || ids.includes(id)) return '';
     ids.push(id);
@@ -584,18 +584,18 @@ function briefOf(claim) {
     .split(/\n{2,}/)
     .map((x) => x.replace(/^#{1,6}\s*/gm, '').trim())
     .filter(Boolean);
-  const body = blocks.find((x) => !/^(閫傜敤杈圭晫|杈圭晫)/.test(x)) || '';
+  const body = blocks.find((x) => !/^(适用边界|边界)/.test(x)) || '';
   const one = body.split('\n')[0].trim();
   if (!one || one.length > 100) return '';
   if (one === String(claim.title || '').trim()) return '';
   return one;
 }
 
-// 娌℃湁妯″瀷锛堟垨妯″瀷澶辫触锛夋椂鐨勭‘瀹氭€у瓧鍗★細鎸夋潯鐩師鏂囧綊绫?
-// 瀛楁牴涓€鏍忎笉鍦ㄨ繖閲屽垎妗讹紝鐢?zigenFallback() 鍗曠嫭鎷硷紝閬垮厤鍑虹幇涓や釜銆屽瓧鏍广€?
+// 没有模型（或模型失败）时的确定性字卡：按条目原文归类
+// 字根一栏不在这里分桶，由 zigenFallback() 单独拼，避免出现两个「字根」
 
 function dedupeSections(sections) {
-  const norm = (s) => String(s || '').replace(/\[clm_[0-9A-F]+\]/g, '').replace(/[\s锛屻€傦紱锛氥€?'锛堬級()銆愩€慮/g, '');
+  const norm = (s) => String(s || '').replace(/\[clm_[0-9A-F]+\]/g, '').replace(/[\s，。；：、"'（）()【】]/g, '');
   const grams = (s) => { const n = norm(s); const g = new Set(); for (let i = 0; i < n.length - 1; i++) g.add(n.slice(i, i + 2)); return g; };
   const jac = (a, b) => { if (!a.size || !b.size) return 0; let inter = 0; for (const x of a) if (b.has(x)) inter++; return inter / (a.size + b.size - inter); };
   const kept = [];
@@ -615,9 +615,9 @@ function fallbackSections(claims, ch) {
   const other = [];
   for (const c of claims) {
     const hay = `${c.title}\n${c.statement || ''}`;
-    if (/鏈箟|鏈京|鍒濇枃|璞″舰|璞\s\S]{0,6}褰瀛楀舰/.test(hay)) buckets.get('benyi').push(c);
-    else if (/寮曠敵|杞夌京|杞箟|鍋囧€焲鍊熼煶|鍊熷０/.test(hay)) buckets.get('zhuanyi').push(c);
-    else if (/瀛楁棌|琛嶇敓|鍒嗗寲|浠嶽\s\S]{0,4}[澹拌伈]/.test(hay)) buckets.get('yansheng').push(c);
+    if (/本义|本義|初文|象形|象[\s\S]{0,6}形|字形/.test(hay)) buckets.get('benyi').push(c);
+    else if (/引申|轉義|转义|假借|借音|借声/.test(hay)) buckets.get('zhuanyi').push(c);
+    else if (/字族|衍生|分化|从[\s\S]{0,4}[声聲]/.test(hay)) buckets.get('yansheng').push(c);
     else other.push(c);
   }
   const used = new Set();
@@ -634,37 +634,37 @@ function fallbackSections(claims, ch) {
   if (rest.length) {
     secs.push({
       key: 'other',
-      label: '鍏朵粬鐩稿叧鏉＄洰',
+      label: '其他相关条目',
       text: rest.map((c) => `**${c.title}** [${c.id}]`).join('\n\n'),
       cites: rest.map((c) => c.id),
     });
   }
 
-  // 缁撹锛氭妸杩欎釜瀛楄嚜宸辩殑鏈箟鏉＄殑绗竴鍙ユ彁鍑烘潵锛屼笉璇讳笅鏂囦篃鑳藉緱鍒扮瓟妗?
+  // 结论：把这个字自己的本义条的第一句提出来，不读下文也能得到答案
   const bc = claims.find((c) => String(c.title || '').startsWith(ch)) || null;
   if (bc) {
     const body = String(bc.statement || '')
-      .split('#### 閫傜敤杈圭晫')[0]
+      .split('#### 适用边界')[0]
       .replace(/^#+\s*/gm, '')
-      .replace(/^\s*[^\n锛?]{0,30}[锛?]\s*(?=\S)/m, '')
+      .replace(/^\s*[^\n：:]{0,30}[：:]\s*(?=\S)/m, '')
       .replace(/\s+/g, ' ')
       .trim();
-    const first = (body.split(/(?<=[銆傦紱])/)[0] || body).slice(0, 130);
-    if (first) secs.unshift({ key: 'jielun', label: '缁撹', text: first, cites: [bc.id] });
+    const first = (body.split(/(?<=[。；])/)[0] || body).slice(0, 130);
+    if (first) secs.unshift({ key: 'jielun', label: '结论', text: first, cites: [bc.id] });
   }
-  // 妯悜瀵圭収锛氭潯鐩鏂囬噷宸茬粡鍐欏ソ鐨勩€屾í鍚戝鐓э紙鈥︼級銆嶅師鍙ワ紝鎽樺嚭鏉ュ崟鐙垚鏍?
+  // 横向对照：条目正文里已经写好的「横向对照（…）」原句，摘出来单独成栏
   const dz = [];
   for (const c of claims) {
-    const m = String(c.statement || '').match(/妯悜瀵圭収锛圼^锛塢*锛夛細[^\n]+/);
+    const m = String(c.statement || '').match(/横向对照（[^）]*）：[^\n]+/);
     if (m) dz.push(m[0].trim());
   }
   if (dz.length) {
-    secs.push({ key: 'duizhao', label: '妯悜瀵圭収锛堟寜涔夌被鍒嗙粍锛?, text: dz.slice(0, 3).join('\n\n') });
+    secs.push({ key: 'duizhao', label: '横向对照（按义类分组）', text: dz.slice(0, 3).join('\n\n') });
   }
   return secs;
 }
 
-// 鎸夊瓧妫€绱細浼樺厛鍙栨爣棰?姝ｆ枃閲岀湡鐨勫嚭鐜拌繖涓瓧鐨勬潯鐩?
+// 按字检索：优先取标题/正文里真的出现这个字的条目
 async function retrieveForChar(ch) {
   const res = await pkc(['query', ch, '12']);
   const hits = (res.results || [])
@@ -675,20 +675,20 @@ async function retrieveForChar(ch) {
   return { hits, claims, direct };
 }
 
-// 浠庢潯鐩噷鐨勩€屼粠鏌愪粠鏌愩€嶃€屼粠鏌愶紝鏌愬０銆嶆壘鍑鸿繖涓瓧鐨勬瀯瀛楁垚鍒嗭紙鍊欓€夊瓧鏍癸級
-const COMP_RE = /浠嶽銆屻€庘€?']?([\p{Script=Han}])[銆嶃€忊€?']?/gu;
-const SHENG_RE = /[銆屻€庘€?']?([\p{Script=Han}])[銆嶃€忊€?']?[澹拌伈]/gu;
+// 从条目里的「从某从某」「从某，某声」找出这个字的构字成分（候选字根）
+const COMP_RE = /从[「『“"']?([\p{Script=Han}])[」』”"']?/gu;
+const SHENG_RE = /[「『“"']?([\p{Script=Han}])[」』”"']?[声聲]/gu;
 
 function rootsOf(ch, claims) {
   const out = new Map();
   const esc = ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  // 銆孹銆嶁€︿粠锛氳姹傘€屼粠銆嶇揣璺熷湪杩欎釜瀛椾箣鍚庯紝閬垮厤鎶婂埆浜虹殑鏋勫舰绠楀埌瀹冨ご涓?
-  const lead = new RegExp(`銆?${esc}銆?[^銆傦紱;\\n]{0,14}?浠巂, 'u');
+  // 「X」…从：要求「从」紧跟在这个字之后，避免把别人的构形算到它头上
+  const lead = new RegExp(`「?${esc}」?[^。；;\\n]{0,14}?从`, 'u');
   for (const c of claims) {
     const text = `${c.title}\n${c.statement || ''}`;
-    if (text.includes(`${ch}鏄煶婧愬瓧`)) continue; // 鑷繁灏辨槸闊虫簮瀛楋紝娌℃湁鏇翠笂浣嶇殑瀛楁牴
-    if (/涓嶇‘|涓嶇⒑|鏋愬舰涓嶇‘|璇瘄瑾?.test(text)) continue; // 鏉＄洰鑷繁璇磋繖绉嶆瀽褰㈤潬涓嶄綇锛屼笉閲?
-    for (const sent of text.split(/[銆傦紱;\n]/)) {
+    if (text.includes(`${ch}是音源字`)) continue; // 自己就是音源字，没有更上位的字根
+    if (/不确|不確|析形不确|误|誤/.test(text)) continue; // 条目自己说这种析形靠不住，不采
+    for (const sent of text.split(/[。；;\n]/)) {
       if (!lead.test(sent)) continue;
       for (const re of [COMP_RE, SHENG_RE]) {
         for (const m of sent.matchAll(re)) {
@@ -701,7 +701,7 @@ function rootsOf(ch, claims) {
   return out;
 }
 
-// 浼樺厛鍙栥€岀煡璇嗗簱閲岃嚜宸辨湁涓婚锛圶閮級銆嶆垨銆屾潯鐩嚜绉伴煶婧愬瓧銆嶇殑閭ｄ釜鎴愬垎褰撳瓧鏍?
+// 优先取「知识库里自己有主题（X部）」或「条目自称音源字」的那个成分当字根
 async function findRoot(ch, direct) {
   const cands = rootsOf(ch, direct);
   if (!cands.size) return null;
@@ -716,55 +716,55 @@ async function findRoot(ch, direct) {
       root,
       claim,
       byTopic: titles.some((t) => t.includes(root)),
-      byYinyuan: hay.includes('闊虫簮瀛?) && hay.includes(`銆?{root}銆峘),
+      byYinyuan: hay.includes('音源字') && hay.includes(`「${root}」`),
     };
   });
   return list.find((x) => x.byTopic) || list.find((x) => x.byYinyuan) || null;
 }
 
-// 杩欎釜瀛楄兘涓嶈兘鍐嶆粙鐢熸柊瀛楋紙鍒や簩绾?涓夌骇瀛楁牴鐨勪緷鎹級锛氭潯鐩噷瀹冧綔澹扮锛屾垨鑷О闊虫簮瀛?
+// 这个字能不能再滋生新字（判二级/三级字根的依据）：条目里它作声符，或自称音源字
 function spawnsFrom(ch, claims) {
   if (!ch) return false;
   const esc = ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const reFrom = new RegExp(`浠嶽^銆傦紱\\n]{0,8}${esc}[澹拌伈]`, 'u');
+  const reFrom = new RegExp(`从[^。；\\n]{0,8}${esc}[声聲]`, 'u');
   for (const c of claims) {
     const t = `${c.title}\n${c.statement || ''}`;
-    if (String(c.title || '').startsWith(`${ch}閮╜)) return true; // 鏈夎嚜宸辩殑銆孹閮ㄣ€嶅瓧鏃忔潯鐩?
-    if (t.includes(`${ch}鏄煶婧愬瓧`) || t.includes(`銆?{ch}銆嶆槸闊虫簮瀛梎)) return true;
+    if (String(c.title || '').startsWith(`${ch}部`)) return true; // 有自己的「X部」字族条目
+    if (t.includes(`${ch}是音源字`) || t.includes(`「${ch}」是音源字`)) return true;
     if (reFrom.test(t)) return true;
   }
   return false;
 }
 
-// 寮備綋鎴栭毝鍙樺啓娉曪紙濡傘€屼互銆嶄箣浜庛€屻牤銆嶏級锛氬悓灞炰竴閮紝鎸変竴绾у瓧鏍圭湅寰?
+// 异体或隶变写法（如「以」之于「㠯」）：同属一部，按一级字根看待
 function variantOf(ch, claims, z) {
   const esc = ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   for (const c of claims) {
     const title = String(c.title || '');
-    const m = title.match(/^([\p{Script=Han}])閮╗锛?]/u);
+    const m = title.match(/^([\p{Script=Han}])部[：:]/u);
     if (!m || !z.byName || !z.byName[m[1]]) continue;
     const escRoot = m[1].replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    if (new RegExp(`${escRoot}锛?{esc}锛塦, 'u').test(title)) return m[1];
+    if (new RegExp(`${escRoot}（${esc}）`, 'u').test(title)) return m[1];
   }
   return null;
 }
 
-// 銆孹閮細瀛楁棌鈥︺€嶈繖绫绘潯鐩妸璋愬０瀛楁寜瀛楁棌褰掑爢锛屾槸銆屼粠鏌愬０銆嶄箣澶栫殑绗簩鏉″垽绾х嚎绱?
+// 「X部：字族…」这类条目把谐声字按字族归堆，是「从某声」之外的第二条判级线索
 function familyOf(ch, claims) {
   for (const c of claims) {
     const title = String(c.title || '');
-    const m = title.match(/^([\p{Script=Han}])閮╗锛?]/u);
+    const m = title.match(/^([\p{Script=Han}])部[：:]/u);
     if (!m || m[1] === ch) continue;
-    if (!/瀛楁棌|琛嶇敓|璋愬０/.test(title)) continue;
+    if (!/字族|衍生|谐声/.test(title)) continue;
     if (`${title}\n${c.statement || ''}`.includes(ch)) return { root: m[1], claim: c };
   }
   return null;
 }
 
-// 鍒ょ骇锛堥噴瀛楃涓€姝ワ級锛氫竴绾у瓧鏍癸紳609 閮ㄧ殑閮ㄩ瀛楋紱閮ㄥ唴琛嶇敓瀛楁寜鑳藉惁鍐嶆粙鐢熷垎浜岀骇銆佷笁绾у瓧鏍癸紝
-// 涓嶈兘鍐嶆粙鐢熻€呬负璋愬０瀛椼€傚０绗﹂摼鏈€澶氫笂婧袱灞傦紝澶熻鐩栥€屻牤鈫掑彴鈫掑銆嶈繖绫荤粨鏋勩€?
-// ---------- 澹版瘝涔夛紙鍒嗛儴涓婚锛?---------
-// 涓€閮ㄤ竴鏉★紝鐢?pkc 鐢熸垚鍒?knowledge/hanzi-yinyuan/02z-shengmu-yi.md锛岃繖閲岀洿鎺ヨ璇ヤ富棰樻枃浠?
+// 判级（释字第一步）：一级字根＝609 部的部首字；部内衍生字按能否再滋生分二级、三级字根，
+// 不能再滋生者为谐声字。声符链最多上溯两层，够覆盖「㠯→台→始」这类结构。
+// ---------- 声母义（分部主题）----------
+// 一部一条，由 pkc 生成到 knowledge/hanzi-yinyuan/02z-shengmu-yi.md，这里直接读该主题文件
 const SM_DOC = join(ROOT, 'knowledge', 'hanzi-yinyuan', '02z-shengmu-yi.md');
 let smCache = { at: 0, byRoot: new Map(), byZi: new Map(), zero: null };
 
@@ -779,15 +779,15 @@ async function shengmuIndex() {
     for (const m of text.matchAll(re)) {
       const id = m[1];
       const title = m[2].trim();
-      const body = m[3].split('#### 閫傜敤杈圭晫')[0].trim();
-      const hit = title.match(/^(.+?)閮細澹版瘝涔?u);
-      const sub = title.match(/^(.+?)锛堜簩绾у瓧鏍癸級锛氬０姣嶄箟/u);
+      const body = m[3].split('#### 适用边界')[0].trim();
+      const hit = title.match(/^(.+?)部：声母义/u);
+      const sub = title.match(/^(.+?)（二级字根）：声母义/u);
       if (hit) byRoot.set(hit[1], { id, text: body });
       else if (sub) byZi.set(sub[1], { id, text: body });
-      else if (title.startsWith('闆跺０姣嶈閮?)) zero = { id, text: body };
+      else if (title.startsWith('零声母诸部')) zero = { id, text: body };
     }
   } catch (e) {
-    log('璇诲０姣嶄箟涓婚澶辫触:', e.message);
+    log('读声母义主题失败:', e.message);
   }
   smCache = { at: Date.now(), byRoot, byZi, zero };
   return smCache;
@@ -796,8 +796,8 @@ async function shengmuIndex() {
 async function shengmuOf(ch, chain) {
   if (!ch && !(chain && chain.length)) return null;
   const idx = await shengmuIndex();
-  // 澹扮閾剧敱杩滃強杩戯紝鏈熬鍐嶅甫涓婃湰瀛楋細鍏堟壘銆岃皝鑷繁鏈夌嫭绔嬪０姣嶄箟鏉°€嶏紝
-  // 渚嬪銆屽銆嶄粠鍙板０锛岃鐢ㄣ€屽彴銆嶆潯锛堜笁璇讳笉绯伙級鑰屼笉鏄牤閮ㄧ殑闆跺０姣嶆潯銆?
+  // 声符链由远及近，末尾再带上本字：先找「谁自己有独立声母义条」，
+  // 例如「始」从台声，该用「台」条（三读不系）而不是㠯部的零声母条。
   const list = [...(chain && chain.length ? chain : []), ch].filter(Boolean);
   for (let i = list.length - 1; i >= 0; i -= 1) {
     const own = idx.byZi.get(list[i]);
@@ -806,16 +806,16 @@ async function shengmuOf(ch, chain) {
   const root = list[0] || ch;
   const hit = idx.byRoot.get(root);
   if (hit) return { claim: hit.id, text: hit.text };
-  if (idx.zero && idx.zero.text.includes(`銆?{root}閮ㄣ€峘)) {
+  if (idx.zero && idx.zero.text.includes(`「${root}部」`)) {
     return {
       claim: idx.zero.id,
-      text: `${root}閮ㄨ闆跺０姣嶏紱缁涓冪粍澹版瘝鏈垪闆跺０姣嶏紝鏁呬笉绯绘嫙鎬佸０姣嶄箟锛岃閮ㄩ噴涔夐潬涔夌被涓庡瓧褰€俙,
+      text: `${root}部读零声母；绪论七组声母未列零声母，故不系拟态声母义，该部释义靠义类与字形。`,
     };
   }
   return null;
 }
 
-// 娌℃湁鐙珛鏉＄洰鐨勫瓧锛堝銆岄妧銆嶃€屾捣銆嶃€岃幖銆嶏級锛氬埌瀛楁棌鏉￠噷鎵惧畠琚В閲婄殑閭ｄ竴鏉★紝鏁存浣滀负銆屽瓧鏃忔潯鐩€嶆爮
+// 没有独立条目的字（如「銀」「海」「莼」）：到字族条里找它被解释的那一条，整段作为「字族条目」栏
 let claimIdxCache = null;
 function claimIdx() {
   if (claimIdxCache) return claimIdxCache;
@@ -837,7 +837,7 @@ async function familyClaimFor(ch) {
     for (const h of hits) {
       if (seen.has(h.claim)) continue;
       seen.add(h.claim);
-      if (!/瀛楁棌|閮╗锛?]/.test(h.title || '')) continue;
+      if (!/字族|部[：:]/.test(h.title || '')) continue;
       let cl = null;
       try {
         cl = JSON.parse(await pkc(['show-claim', h.claim, '--format', 'json'])).claim;
@@ -845,7 +845,7 @@ async function familyClaimFor(ch) {
         continue;
       }
       if (!cl || !cl.statement) continue;
-      const text = String(cl.statement).split('#### 閫傜敤杈圭晫')[0].trim();
+      const text = String(cl.statement).split('#### 适用边界')[0].trim();
       if (!text) continue;
       if (!chars.some((x) => text.includes(x))) continue;
       return { claim: cl.id, title: cl.title, text };
@@ -856,15 +856,15 @@ async function familyClaimFor(ch) {
 
 async function levelOf(ch, direct) {
   const z = loadZigenIndex();
-  // 鍘熺鎸夌箒浣撶珛瀛楀ご锛岀敤鎴峰鎸夌畝浣撴彁闂細鍏堟槧灏勫埌绻佷綋鍐嶅垽绾э紝
-  // 鍚﹀垯 zigen.json / 瀛楀舰搴撴煡涓嶅埌閿紝鍒嗙骇鏍忓氨绌轰簡銆?
+  // 原稿按繁体立字头，用户多按简体提问：先映射到繁体再判级，
+  // 否则 zigen.json / 字形库查不到键，分级栏就空了。
   const aliasCh = variantOf(ch);
   if (aliasCh && aliasCh !== ch) ch = aliasCh;
   const bu = z.byName && z.byName[ch];
   if (bu) {
     return {
-      level: '涓€绾у瓧鏍?,
-      text: `涓€绾у瓧鏍癸細銆?{ch}銆嶆槸绗?${bu.no} 閮ㄣ€?{ch}閮ㄣ€嶇殑閮ㄩ瀛楋紝灞炲嵎${juanCn(bu.juanNo)}銆?{bu.juanName}銆嶏紙p${bu.p}锛夈€傞儴鍗冲瓧鏍癸紱鍏ㄤ功 609 閮ㄤ腑绗?23閮ㄥ師缂恒€佺554閮ㄩ儴棣栧瓧鏈兘杞綍锛屽叾浣?608 閮ㄥ嵆涓€绾у瓧鏍广€俙,
+      level: '一级字根',
+      text: `一级字根：「${ch}」是第 ${bu.no} 部「${ch}部」的部首字，属卷${juanCn(bu.juanNo)}「${bu.juanName}」（p${bu.p}）。部即字根；全书 609 部中第223部原缺、第554部部首字未能转录，其余 608 部即一级字根。`,
       cites: [bu.claim],
       chainChars: [ch],
     };
@@ -874,9 +874,9 @@ async function levelOf(ch, direct) {
   if (variant) {
     const bv = z.byName[variant];
     return {
-      level: '涓€绾у瓧鏍?,
-      text: `涓€绾у瓧鏍癸細銆?{ch}銆嶆槸銆?{variant}銆嶇殑寮備綋鎴栭毝鍙樺啓娉曪紝鍚屽睘绗?${bv.no} 閮ㄣ€?{variant}閮ㄣ€嶏紙鍗?{juanCn(bv.juanNo)}銆?{bv.juanName}銆嶏級锛屾寜閮ㄩ瀛楃湅寰呫€俙,
-      cites: direct.filter((c) => String(c.title || '').startsWith(`${variant}閮╜)).map((c) => c.id),
+      level: '一级字根',
+      text: `一级字根：「${ch}」是「${variant}」的异体或隶变写法，同属第 ${bv.no} 部「${variant}部」（卷${juanCn(bv.juanNo)}「${bv.juanName}」），按部首字看待。`,
+      cites: direct.filter((c) => String(c.title || '').startsWith(`${variant}部`)).map((c) => c.id),
       chainChars: [variant],
     };
   }
@@ -901,21 +901,21 @@ async function levelOf(ch, direct) {
       }
     } catch {}
   }
-  // 寮備綋鎴栭毝鍙樺啓娉曪紙濡傘€屼互銆嶄箣浜庛€屻牤銆嶏級锛氭寜涓€绾у瓧鏍圭湅寰咃紝涓嶉檷绾?
+  // 异体或隶变写法（如「以」之于「㠯」）：按一级字根看待，不降级
   const alias = direct.some((c) => {
     const t = `${c.title}\n${c.statement || ''}`;
-    return t.includes(ch) && t.includes(root) && /(闅朵綔|闅镐綔|鍏变竴瀛梶寮備綋|鐣伴珨|鎴栦綔|鍙ゅ瓧|鍚屽瓧)/.test(t);
+    return t.includes(ch) && t.includes(root) && /(隶作|隸作|共一字|异体|異體|或作|古字|同字)/.test(t);
   });
   const bu2 = z.byName && z.byName[root];
   const where = bu2
-    ? `绗?${bu2.no} 閮ㄣ€?{root}閮ㄣ€嶏紙鍗?{juanCn(bu2.juanNo)}銆?{bu2.juanName}銆嶏級`
-    : `銆?{root}銆峘;
-  const chain = depth === 2 ? `銆?{root}銆嶁啋銆?{via}銆嶁啋銆?{ch}銆峘 : `銆?{root}銆嶁啋銆?{ch}銆峘;
+    ? `第 ${bu2.no} 部「${root}部」（卷${juanCn(bu2.juanNo)}「${bu2.juanName}」）`
+    : `「${root}」`;
+  const chain = depth === 2 ? `「${root}」→「${via}」→「${ch}」` : `「${root}」→「${ch}」`;
   const cites = [r1.claim.id];
   if (depth === 1 && alias && bu2) {
     return {
-      level: '涓€绾у瓧鏍?,
-      text: `涓€绾у瓧鏍癸細銆?{ch}銆嶆槸銆?{root}銆嶇殑寮備綋鎴栭毝鍙樺啓娉曪紝鍚屽睘${where}锛屾寜閮ㄩ瀛楃湅寰呫€俙,
+      level: '一级字根',
+      text: `一级字根：「${ch}」是「${root}」的异体或隶变写法，同属${where}，按部首字看待。`,
       cites,
       chainChars: [root],
     };
@@ -923,37 +923,37 @@ async function levelOf(ch, direct) {
   if (depth === 1) {
     if (spawn) {
       return {
-        level: '浜岀骇瀛楁牴',
-        text: `浜岀骇瀛楁牴锛氥€?{ch}銆嶄粠${where}鐨勩€?{root}銆嶅緱澹版瀯褰紙${chain}锛夛紱瀹冨湪閮ㄥ唴杩樿兘婊嬬敓鏂板瓧锛屾晠涓轰簩绾у瓧鏍广€俙,
+        level: '二级字根',
+        text: `二级字根：「${ch}」从${where}的「${root}」得声构形（${chain}）；它在部内还能滋生新字，故为二级字根。`,
         cites,
         chainChars: [root],
       };
     }
     return {
-      level: '璋愬０瀛?,
-      text: `璋愬０瀛楋細銆?{ch}銆嶄粠${where}鐨勩€?{root}銆嶅緱涔夊緱澹帮紙${chain}锛夛紱鑷韩涓嶅啀婊嬬敓鏂板瓧锛屽睘璇ラ儴鏈璋愬０瀛椼€俙,
+      level: '谐声字',
+      text: `谐声字：「${ch}」从${where}的「${root}」得义得声（${chain}）；自身不再滋生新字，属该部末端谐声字。`,
       cites,
       chainChars: [root],
     };
   }
   if (spawn) {
     return {
-      level: '涓夌骇瀛楁牴',
-      text: `涓夌骇瀛楁牴锛氥€?{ch}銆嶄笉鍦ㄩ儴鐩笂锛屽０绗﹂摼涓?{chain}锛屾簮澶存槸${where}锛涘畠鍦ㄤ簩绾у瓧鏍逛箣涓嬭繕鑳芥粙鐢熸柊瀛楋紝鏁呬负涓夌骇瀛楁牴銆俙,
+      level: '三级字根',
+      text: `三级字根：「${ch}」不在部目上，声符链为${chain}，源头是${where}；它在二级字根之下还能滋生新字，故为三级字根。`,
       cites,
       chainChars: [root, via],
     };
   }
   return {
-    level: '璋愬０瀛?,
-    text: `璋愬０瀛楋細銆?{ch}銆嶇殑澹扮閾句负${chain}锛屾簮澶存槸${where}锛涜嚜韬笉鍐嶆粙鐢熸柊瀛楋紝灞為儴鍐呬笁绾т互涓嬬殑璋愬０瀛椼€俙,
+    level: '谐声字',
+    text: `谐声字：「${ch}」的声符链为${chain}，源头是${where}；自身不再滋生新字，属部内三级以下的谐声字。`,
     cites,
     chainChars: [root, via],
   };
 }
 
-// 瀛楁潯鐩?+ 瀛楁牴鏉＄洰鍒嗕袱缁勭紪鍙凤紝妯″瀷鎵嶈兘鍒嗘竻鍝彞鍦ㄨ瀛楁牴
-// 杩斿洖涓婁笅鏂囦笌銆岀紪鍙?鈫?鏉＄洰 id銆嶇殑瀵圭収锛屾ā鍨嬪彧鍐?[3] 杩欑缂栧彿鏃朵篃鑳借拷鍥炴潵
+// 字条目 + 字根条目分两组编号，模型才能分清哪句在讲字根
+// 返回上下文与「编号 → 条目 id」的对照，模型只写 [3] 这种编号时也能追回来
 function cardContext(ch, direct, root, rootClaims) {
   const order = [];
   const block = (claims) =>
@@ -961,22 +961,22 @@ function cardContext(ch, direct, root, rootClaims) {
       .map((c) => {
         order.push(c.id);
         const body = String(c.statement || '').replace(/\r\n/g, '\n').trim();
-        return `[${order.length}] ${c.id} 銆?{c.title}銆媆n鑺傜偣/涓婚锛?{c.node_id} / ${c.topic_id}\n姝ｆ枃锛歕n${body}`;
+        return `[${order.length}] ${c.id} 《${c.title}》\n节点/主题：${c.node_id} / ${c.topic_id}\n正文：\n${body}`;
       })
       .join('\n\n---\n\n');
-  const parts = [`銆?{ch}銆嶇殑鏉＄洰锛歕n\n${block(direct)}`];
+  const parts = [`「${ch}」的条目：\n\n${block(direct)}`];
   if (root && rootClaims.length) {
-    parts.push(`瀛楁牴銆?{root}銆嶇殑鏉＄洰锛堢敤鏉ヨ鏄庡瓧鏍规湰韬殑鎰忎箟锛夛細\n\n${block(rootClaims)}`);
+    parts.push(`字根「${root}」的条目（用来说明字根本身的意义）：\n\n${block(rootClaims)}`);
   }
   return { context: parts.join('\n\n====\n\n'), order };
 }
 
-// 娌℃湁妯″瀷鏃讹紝瀛楁牴涓€鏍忓彧鐢ㄦ潯鐩師鏂囨嫾
+// 没有模型时，字根一栏只用条目原文拼
 function zigenFallback(info, rootClaims) {
   const { root, claim } = info;
   const body = briefOf(claim);
   if (!body && !rootClaims.length) return null;
-  const lines = [`瀛楁牴锛?{root}`];
+  const lines = [`字根：${root}`];
   if (body) lines.push(body);
   for (const c of rootClaims.slice(0, 4)) {
     const b = briefOf(c);
@@ -984,7 +984,7 @@ function zigenFallback(info, rootClaims) {
   }
   return {
     key: 'zigen',
-    label: '瀛楁牴',
+    label: '字根',
     text: lines.join('\n\n'),
     cites: [claim.id, ...rootClaims.slice(0, 4).map((c) => c.id)],
   };
@@ -993,7 +993,7 @@ function zigenFallback(info, rootClaims) {
 async function askModelForCard(ch, question, context, meter) {
   const messages = [
     { role: 'system', content: CARD_PROMPT },
-    { role: 'user', content: `瀛楋細${ch}\n鐢ㄦ埛闂锛?{question}\n\n鐭ヨ瘑鏉＄洰锛歕n\n${context}` },
+    { role: 'user', content: `字：${ch}\n用户问题：${question}\n\n知识条目：\n\n${context}` },
   ];
   const r = await fetch(`${BASE_URL}/chat/completions`, {
     method: 'POST',
@@ -1003,7 +1003,7 @@ async function askModelForCard(ch, question, context, meter) {
   });
   if (!r.ok) {
     const d = await r.text().catch(() => '');
-    throw new Error(`妯″瀷杩斿洖 ${r.status}锛?{d.slice(0, 200)}`);
+    throw new Error(`模型返回 ${r.status}：${d.slice(0, 200)}`);
   }
   const j = await r.json();
   const content = j.choices && j.choices[0] && j.choices[0].message ? j.choices[0].message.content : '';
@@ -1012,16 +1012,16 @@ async function askModelForCard(ch, question, context, meter) {
     meter.yuan += c.yuan;
     meter.inTok += c.inTok;
     meter.outTok += c.outTok;
-    log(`瀛楀崱鎴愭湰 ${c.yuan} 鍏冿紙鍏?${c.inTok} / 鍑?${c.outTok} token锛塦);
+    log(`字卡成本 ${c.yuan} 元（入 ${c.inTok} / 出 ${c.outTok} token）`);
   }
-  log('瀛楀崱妯″瀷鍘熸枃:', String(content || '').replace(/\s+/g, ' ').slice(0, 400));
+  log('字卡模型原文:', String(content || '').replace(/\s+/g, ' ').slice(0, 400));
   return extractJson(content);
 }
 
 const CARD_DIR = join(PUBLIC, 'cards');
 const presetCache = new Map();
 
-// 鍒悕 鈫?鍗℃枃浠跺悕锛堢敱 cards/alias-index.json 鎻愪緵锛宐uild_card_alias_index 鐢熸垚锛夈€?
+// 别名 → 卡文件名（由 cards/alias-index.json 提供，build_card_alias_index 生成）。
 const ALIAS_FILE = join(CARD_DIR, 'alias-index.json');
 let aliasCache = { at: 0, map: {} };
 function loadAliasMap() {
@@ -1040,13 +1040,13 @@ function aliasOf(ch) {
 }
 
 function sanitizeCard(d) {
-  // 瀛楁棌琛岄蹇呴』鏄竴涓眽瀛楋紱鍥炬敞娈嬭锛堛€屸柌鈥︺€嶇瓑锛変竴寰嬩涪寮冿紝閬垮厤鍑虹幇鍦ㄥ瓧鏃?chips 閲?
+  // 字族行首必须是一个汉字；图注残行（「▲…」等）一律丢弃，避免出现在字族 chips 里
   const HAN = /^\p{Script=Han}$/u;
   for (const s of (d.sections || [])) {
     if (!s || s.key !== 'zizu' || !Array.isArray(s.groups)) continue;
     for (const g of s.groups) {
       if (!g || !Array.isArray(g.rows)) continue;
-      g.rows = g.rows.filter((r) => Array.isArray(r) && typeof r[0] === 'string' && HAN.test(r[0].trim().replace(/锛圼^锛塢*锛?/, '')));
+      g.rows = g.rows.filter((r) => Array.isArray(r) && typeof r[0] === 'string' && HAN.test(r[0].trim().replace(/（[^）]*）$/, '')));
     }
   }
   return d;
@@ -1057,7 +1057,7 @@ function loadPresetCard(ch) {
   const names = [ch, alias, aliasOf(ch)].filter(Boolean);
   for (const key of new Set(names)) {
     const p = join(CARD_DIR, key + '.json');
-    try { if (existsSync(p)) return sanitizeCard(JSON.parse(readFileSync(p, 'utf8'))); } catch (e) { log('瀛楀崱璇诲彇澶辫触', key, e.message); }
+    try { if (existsSync(p)) return sanitizeCard(JSON.parse(readFileSync(p, 'utf8'))); } catch (e) { log('字卡读取失败', key, e.message); }
   }
   return null;
 }
@@ -1076,8 +1076,8 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   try {
     evidence = await retrieveForChar(ch);
   } catch (e) {
-    log('瀛楀崱妫€绱㈠け璐?', e.message);
-    emit({ type: 'error', message: '妫€绱㈠嚭閿欙紝璇风◢鍚庡啀璇曘€? });
+    log('字卡检索失败:', e.message);
+    emit({ type: 'error', message: '检索出错，请稍后再试。' });
     return res.end();
   }
 
@@ -1098,14 +1098,14 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   let mode = 'none';
   let note = '';
 
-  // 瀛楁牴锛氫粠銆屼粠浜轰粠澹€嶈繖绫绘潯鐩噷鎵撅紝鍐嶆妸瀛楁牴鑷繁鐨勬潯鐩篃鍙栨潵褰撹瘉鎹?
+  // 字根：从「从人从士」这类条目里找，再把字根自己的条目也取来当证据
   let rootInfo = null;
   let rootClaims = [];
   if (direct.length) {
     try {
       rootInfo = await findRoot(ch, direct);
     } catch (e) {
-      log('瀛楁牴璇嗗埆澶辫触:', e.message);
+      log('字根识别失败:', e.message);
     }
     if (rootInfo) {
       try {
@@ -1113,12 +1113,12 @@ async function handleCard(emit, res, question, ch, ip, meter) {
         rootClaims = rr.direct.filter((c) => !allowed.has(c.id)).slice(0, 6);
         for (const c of rootClaims) allowed.add(c.id);
       } catch (e) {
-        log('瀛楁牴妫€绱㈠け璐?', e.message);
+        log('字根检索失败:', e.message);
       }
     }
   }
 
-  // 杩欎釜瀛楀湪鍘熺閲屾病鏈夌嫭绔嬬殑瀛楀舰琛岋紙鍙槸瀛楁棌鎴愬憳锛夋椂锛岄€€涓€姝ョ敤瀛楁牴鐨勫瓧褰笌閰嶅浘
+  // 这个字在原稿里没有独立的字形行（只是字族成员）时，退一步用字根的字形与配图
   if (!glyph && rootInfo && !d.noRoot) {
     const g = glyphInfo(rootInfo.root);
     if (g) {
@@ -1128,7 +1128,7 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   }
 
   if (!direct.length) {
-    note = `鐭ヨ瘑搴撻噷杩樻病鏈夈€?{ch}銆嶇殑涓撻棬鏉＄洰銆傚瓧褰㈠浘鍙栬嚜銆婄郴缁熸眽璇€嬪師绋匡紝鍙互鍏堢湅褰綋锛涘瓧涔夋潯鐩繕鍦ㄥ綍鍏ワ紝鏆備笉鎺ㄦ柇銆俙;
+    note = `知识库里还没有「${ch}」的专门条目。字形图取自《系统汉语》原稿，可以先看形体；字义条目还在录入，暂不推断。`;
   } else if (MODE === 'model') {
     try {
       const ctx = cardContext(ch, direct, rootInfo && rootInfo.root, rootClaims);
@@ -1147,7 +1147,7 @@ async function handleCard(emit, res, question, ch, ip, meter) {
         }
       }
     } catch (e) {
-      log('瀛楀崱妯″瀷璋冪敤澶辫触:', e.message);
+      log('字卡模型调用失败:', e.message);
     }
   }
 
@@ -1164,49 +1164,49 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   }
   if (!sections) sections = [];
 
-  // 杩欎釜瀛楁病鏈夌嫭绔嬫潯鐩椂锛屾妸瑙ｉ噴瀹冪殑閭ｆ潯瀛楁棌鏁存闄勪笂锛堢綉椤典篃鐪嬪緱鍒伴噴瀛楁椂鐢ㄧ殑鍘熸枃锛?
+  // 这个字没有独立条目时，把解释它的那条字族整段附上（网页也看得到释字时用的原文）
   if (!direct.length) {
     try {
       const fam = await familyClaimFor(ch);
       if (fam) {
-        sections.push({ key: 'zuyu', label: '瀛楁棌鏉＄洰', text: fam.text, cites: [fam.claim] });
+        sections.push({ key: 'zuyu', label: '字族条目', text: fam.text, cites: [fam.claim] });
       }
     } catch (e) {
-      log('瀛楁棌鍏滃簳澶辫触:', e.message);
+      log('字族兜底失败:', e.message);
     }
   }
 
-  // 鍒嗙骇鏀炬渶鍓嶏細鍏堝畾鎬э紝鍐嶇湅瀛楀舰涓庡瓧涔夛紱鍒ゅ嚭鐨勫瓧鏍瑰彧瑕佹湁瀛楀舰鍥撅紝灏变竴骞堕檮涓?
+  // 分级放最前：先定性，再看字形与字义；判出的字根只要有字形图，就一并附上
   let rootGlyphs = [];
   try {
     const lv = await levelOf(ch, direct);
     if (lv) {
-      sections.unshift({ key: 'fenji', label: '鍒嗙骇', text: lv.text, cites: lv.cites.filter(Boolean) });
+      sections.unshift({ key: 'fenji', label: '分级', text: lv.text, cites: lv.cites.filter(Boolean) });
       if (MODE !== 'none') {
         const own = new Set(glyph ? glyph.files : []);
         for (const rc of lv.chainChars || []) {
           if (!rc || rc === ch) continue;
           const gi = glyphInfo(rc);
-          // 寮備綋闅跺彉锛堝銆屼互銆嶄箣浜庛€屻牤銆嶏級鏈夋椂鍏辩敤鍚屾壒鍥撅紝鍒噸澶嶅睍绀?
+          // 异体隶变（如「以」之于「㠯」）有时共用同批图，别重复展示
           if (gi && gi.files.length && !gi.files.every((f) => own.has(f))) {
             rootGlyphs.push({ char: rc, doc: gi.doc, files: gi.files });
           }
         }
       }
-      // 澹版瘝涔夛細鐢辫繎鍙婅繙鎵惧０绗﹂摼涓婂甫鐙珛澹版瘝涔夋潯鐨勫瓧锛岃惤鍒版墍灞為儴鍒欑敤閮ㄦ潯锛岀揣鎺掑湪鍒嗙骇涔嬪悗
+      // 声母义：由近及远找声符链上带独立声母义条的字，落到所属部则用部条，紧排在分级之后
       const sm = await shengmuOf(ch, lv.chainChars || []);
-      if (sm) sections.splice(1, 0, { key: 'shengmu', label: '澹版瘝涔?, text: sm.text, cites: [sm.claim] });
+      if (sm) sections.splice(1, 0, { key: 'shengmu', label: '声母义', text: sm.text, cites: [sm.claim] });
     }
     if (!lv) {
-      // 鍒や笉鍑哄瓧鏍逛篃涓嶈婕忔帀澹版瘝涔夛細閮ㄥ唴浜岀骇瀛楁牴锛堟皬銆佹皭銆佸烦銆佷簡绛夛級鑷垚涓€鏉?
+      // 判不出字根也不要漏掉声母义：部内二级字根（氏、氐、巳、了等）自成一条
       const sm = await shengmuOf(ch, []);
-      if (sm) sections.splice(1, 0, { key: 'shengmu', label: '澹版瘝涔?, text: sm.text, cites: [sm.claim] });
+      if (sm) sections.splice(1, 0, { key: 'shengmu', label: '声母义', text: sm.text, cites: [sm.claim] });
     }
   } catch (e) {
-    log('鍒ょ骇澶辫触:', e.message);
+    log('判级失败:', e.message);
   }
 
-  // 鏍忓簭鍥哄畾锛氱粨璁?鈫?鍒嗙骇 鈫?澹版瘝涔?鈫?瀛楁牴 鈫?鏈箟 鈫?杞箟 鈫?琛嶇敓 鈫?瀵圭収 鈫?瀛楀舰 鈫?灏忕粨
+  // 栏序固定：结论 → 分级 → 声母义 → 字根 → 本义 → 转义 → 衍生 → 对照 → 字形 → 小结
   const rank = (k) => (CARD_ORDER.indexOf(k) === -1 ? 99 : CARD_ORDER.indexOf(k));
   sections = sections
     .map((s, i) => ({ s, i }))
@@ -1228,8 +1228,8 @@ async function handleCard(emit, res, question, ch, ip, meter) {
       question,
       mode,
       note,
-      // 鍘熺瀹炵墿鍥撅紙web/public/glyphs/photos/ + index.json 鐨?photos锛夐殢鍗¤緭鍑猴紝
-      // 璁╃綉椤典篃鑳界湅鍒伴噴瀛楁椂鐢ㄧ殑閭ｆ壒鍥撅紱閰嶅浘涓嶅弬涓庡垎绾э紝鍙綔鍙傝€冦€?
+      // 原稿实物图（web/public/glyphs/photos/ + index.json 的 photos）随卡输出，
+      // 让网页也能看到释字时用的那批图；配图不参与分级，只作参考。
       glyph: glyph
         ? { doc: glyph.doc, variants: glyph.variants, files: glyph.files, photos: glyph.photos, from: glyphFrom }
         : null,
@@ -1244,11 +1244,11 @@ async function handleCard(emit, res, question, ch, ip, meter) {
   res.end();
 }
 
-// ---------- 闄愭祦 ----------
+// ---------- 限流 ----------
 
 const buckets = new Map();
 
-// 浼氬憳鐧诲綍澶辫触璁℃暟锛圛P + 鎵嬫満鍙凤級锛?0 鍒嗛挓鍐呮渶澶?8 娆?
+// 会员登录失败计数（IP + 手机号），10 分钟内最多 8 次
 const loginTries = new Map();
 
 function rateLimited(ip) {
@@ -1291,7 +1291,7 @@ function readBody(req) {
     req.on('data', (c) => {
       size += c.length;
       if (size > MAX_BODY) {
-        reject(new Error('璇锋眰浣撹繃澶?));
+        reject(new Error('请求体过大'));
         req.destroy();
         return;
       }
@@ -1302,7 +1302,7 @@ function readBody(req) {
   });
 }
 
-const NO_EVIDENCE = '鐭ヨ瘑搴撻噷杩樻病鏈夎繖鏂归潰鐨勫唴瀹广€?;
+const NO_EVIDENCE = '知识库里还没有这方面的内容。';
 
 async function handleAsk(req, res, ip, meter) {
   const emit = sse(res);
@@ -1317,16 +1317,16 @@ async function handleAsk(req, res, ip, meter) {
     question = cleanQuestion(body.question);
     if (body.mode === 'card' || body.mode === 'chat') mode = body.mode;
   } catch (e) {
-    emit({ type: 'error', message: '璇锋眰鏍煎紡涓嶅锛? + e.message });
+    emit({ type: 'error', message: '请求格式不对：' + e.message });
     return res.end();
   }
   if (!question) {
-    emit({ type: 'error', message: '闂涓嶈兘涓虹┖' });
+    emit({ type: 'error', message: '问题不能为空' });
     return res.end();
   }
   log(`ask [${ip}] ${question}`);
 
-  // 闂殑鏄煇涓€涓瓧 鈫?璧板瓧鍗★紙闄ら潪鐢ㄦ埛鏄庣‘瑕佹櫘閫氶棶绛旓級
+  // 问的是某一个字 → 走字卡（除非用户明确要普通问答）
   const asked = detectChar(question);
   if (asked && mode !== 'chat') return await handleCard(emit, res, question, asked, ip, meter);
 
@@ -1334,8 +1334,8 @@ async function handleAsk(req, res, ip, meter) {
   try {
     evidence = await retrieve(question);
   } catch (e) {
-    log('妫€绱㈠け璐?', e.message);
-    emit({ type: 'error', message: '妫€绱㈠嚭閿欙紝璇风◢鍚庡啀璇曘€? });
+    log('检索失败:', e.message);
+    emit({ type: 'error', message: '检索出错，请稍后再试。' });
     return res.end();
   }
 
@@ -1358,7 +1358,7 @@ async function handleAsk(req, res, ip, meter) {
 
   if (MODE === 'skeleton') {
     const text =
-      '锛堟湭閰嶇疆妯″瀷锛屼互涓嬩负妫€绱㈠埌鐨勭煡璇嗗師鏂囷級\n\n' +
+      '（未配置模型，以下为检索到的知识原文）\n\n' +
       evidence.claims
         .map((c) => `**${c.title}** [${c.id}]\n${String(c.statement || '').trim()}`)
         .join('\n\n');
@@ -1393,15 +1393,15 @@ async function handleAsk(req, res, ip, meter) {
       signal: controller.signal,
     });
   } catch (e) {
-    log('妯″瀷璇锋眰澶辫触:', e.message);
-    emit({ type: 'error', message: '妯″瀷鏈嶅姟杩炰笉涓婏紝璇风◢鍚庡啀璇曘€? });
+    log('模型请求失败:', e.message);
+    emit({ type: 'error', message: '模型服务连不上，请稍后再试。' });
     return res.end();
   }
 
   if (!upstream.ok || !upstream.body) {
     const detail = await upstream.text().catch(() => '');
-    log('妯″瀷杩斿洖閿欒:', upstream.status, detail.slice(0, 300));
-    emit({ type: 'error', message: `妯″瀷杩斿洖 ${upstream.status}锛岃妫€鏌?Key 鎴栭搴︺€俙 });
+    log('模型返回错误:', upstream.status, detail.slice(0, 300));
+    emit({ type: 'error', message: `模型返回 ${upstream.status}，请检查 Key 或额度。` });
     return res.end();
   }
 
@@ -1431,14 +1431,14 @@ async function handleAsk(req, res, ip, meter) {
             emit({ type: 'delta', text: delta });
           }
         } catch {
-          /* 蹇界暐蹇冭烦绛夐潪 JSON 琛?*/
+          /* 忽略心跳等非 JSON 行 */
         }
       }
     }
   } catch (e) {
     if (!controller.signal.aborted) {
-      log('娴佸紡璇诲彇涓柇:', e.message);
-      emit({ type: 'error', message: '鍥炵瓟涓柇浜嗭紝璇烽噸璇曘€? });
+      log('流式读取中断:', e.message);
+      emit({ type: 'error', message: '回答中断了，请重试。' });
     }
   }
   if (meter) {
@@ -1447,7 +1447,7 @@ async function handleAsk(req, res, ip, meter) {
     meter.yuan += c.yuan;
     meter.inTok += c.inTok;
     meter.outTok += c.outTok;
-    log(`闂瓟鎴愭湰 [${ip}] ${c.yuan} 鍏冿紙鍏?${c.inTok} / 鍑?${c.outTok} token锛塦);
+    log(`问答成本 [${ip}] ${c.yuan} 元（入 ${c.inTok} / 出 ${c.outTok} token）`);
   }
   emit({ type: 'done' });
   res.end();
@@ -1469,7 +1469,7 @@ const MIME = new Map([
 
 async function serveStatic(res, pathname) {
   pathname = pathname.replace(/^\/glyphs\/([^\/]+)\/\1\/(.+)$/, '/glyphs/$1/$2');
-  // 瀛楀舰鍥剧洰褰曟槸涓枃鍚嶏紝URL 閲屾槸鐧惧垎鍙风紪鐮侊紝蹇呴』鍏堣В鐮?
+  // 字形图目录是中文名，URL 里是百分号编码，必须先解码
   let rel;
   try {
     rel = decodeURIComponent(pathname);
@@ -1496,16 +1496,16 @@ async function serveStatic(res, pathname) {
   }
 }
 
-// 鍏嶈垂璇曠敤 / 浼氬憳鏉冪泭鐨勯椄闂細鍙湁杩欓噷鑳藉喅瀹氫竴娆℃彁闂畻涓嶇畻鏁?
+// 免费试用 / 会员权益的闸门：只有这里能决定一次提问算不算数
 function gateAsk(req, res) {
   const mid = shop.verifyNamed('sh_mid', readCookie(req, 'sh_mid'));
   const m = shop.memberOf(mid);
   if (m && shop.memberStatus(m).active) {
     if (shop.usageToday(m.id) >= DAILY_CAP) {
-      return { ok: false, status: 429, body: { ok: false, error: '浠婂ぉ鐨勬彁闂凡杈炬瘡鏃ヤ笂闄愶紝鏄庡ぉ鍐嶆潵銆? } };
+      return { ok: false, status: 429, body: { ok: false, error: '今天的提问已达每日上限，明天再来。' } };
     }
     if (shop.spendToday(m.id) >= MEMBER_DAILY_YUAN) {
-      return { ok: false, status: 429, body: { ok: false, error: '浠婂ぉ鐨勭敤閲忓凡杈句笂闄愶紝鏄庡ぉ鍐嶆潵銆? } };
+      return { ok: false, status: 429, body: { ok: false, error: '今天的用量已达上限，明天再来。' } };
     }
     return {
       ok: true,
@@ -1521,10 +1521,10 @@ function gateAsk(req, res) {
   const exhausted = {
     ok: false,
     status: 402,
-    body: { ok: false, error: '鍏嶈垂浣撻獙棰濆害宸茬敤瀹岋紝寮€閫氫細鍛樺悗鍙笉闄愭鏌ヨ銆?, need_membership: true, trial: { ...t, budget_yuan: TRIAL_BUDGET_YUAN } },
+    body: { ok: false, error: '免费体验额度已用完，开通会员后可不限次查询。', need_membership: true, trial: { ...t, budget_yuan: TRIAL_BUDGET_YUAN } },
   };
   if (t.left <= 0) return exhausted;
-  // 娆℃暟娌″埌锛屼絾杩欎竴璁惧宸茬粡鑺辨帀鐨勯挶蹇埌 1 鍏冧簡锛屼篃鎷︿綇
+  // 次数没到，但这一设备已经花掉的钱快到 1 元了，也拦住
   if (t.spent_yuan + MIN_CALL_YUAN > TRIAL_BUDGET_YUAN) return exhausted;
   return { ok: true, mode: 'trial', settle: (cost = 0) => shop.consumeTrial(dev, cost) };
 }
@@ -1552,16 +1552,16 @@ const server = createServer(async (req, res) => {
         if(vs&&vs.length){ const arr=Array.isArray(vs)?vs:[vs]; const tt=arr.find(x=>existsSync(join(CARD_DIR,x+'.json'))); if(tt){ res.writeHead(302,{Location:'/card/'+encodeURIComponent(tt)}); return res.end(); } }
         if (hits.length > 1) {
           const seen = new Set(); const links = [];
-          for (const h of hits) { if (seen.has(h.c)) continue; seen.add(h.c); links.push('<li><a href="/card/'+encodeURIComponent(h.c)+'">'+escH(h.c)+'</a>'+(h.h&&h.h!==h.c?'锛?+escH(h.h)+'锛?:'')+'</li>'); }
+          for (const h of hits) { if (seen.has(h.c)) continue; seen.add(h.c); links.push('<li><a href="/card/'+encodeURIComponent(h.c)+'">'+escH(h.c)+'</a>'+(h.h&&h.h!==h.c?'（'+escH(h.h)+'）':'')+'</li>'); }
           res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' });
-          return res.end('<!doctype html><meta charset="utf-8"><h3>銆?+escH(ch)+'銆嶅吋浣滃瀛楃殑鎴栦綋</h3><p>璇烽€夋嫨瑕佺湅鐨勫瓧澶达細</p><ul>'+links.join('')+'</ul>');
+          return res.end('<!doctype html><meta charset="utf-8"><h3>「'+escH(ch)+'」兼作多字的或体</h3><p>请选择要看的字头：</p><ul>'+links.join('')+'</ul>');
         }
-        // 鍗峰崱绠€绉?鍏ㄧО浜掗€氾細寤夸竴 鈫?浜屽崄涓€銆佸崊 鈫?涓夊崄
+        // 卷卡简称/全称互通：廿一 ↔ 二十一、卅 ↔ 三十
         const _alts = [];
-        if (/寤?.test(ch)) _alts.push(ch.replace(/寤?g, '浜屽崄'));
-        if (/鍗?.test(ch)) _alts.push(ch.replace(/鍗?g, '涓夊崄'));
-        if (/浜屽崄/.test(ch)) _alts.push(ch.replace(/浜屽崄/g, '寤?));
-        if (/涓夊崄/.test(ch)) _alts.push(ch.replace(/涓夊崄/g, '鍗?));
+        if (/廿/.test(ch)) _alts.push(ch.replace(/廿/g, '二十'));
+        if (/卅/.test(ch)) _alts.push(ch.replace(/卅/g, '三十'));
+        if (/二十/.test(ch)) _alts.push(ch.replace(/二十/g, '廿'));
+        if (/三十/.test(ch)) _alts.push(ch.replace(/三十/g, '卅'));
         for (const a of _alts) {
           if (existsSync(join(CARD_DIR, a + '.json'))) { res.writeHead(302, { Location: '/card/' + encodeURIComponent(a) }); return res.end(); }
         }
@@ -1569,7 +1569,7 @@ const server = createServer(async (req, res) => {
     } catch (e) {}
     const html = renderCard(ch);
     res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' });
-    return res.end(html || '<!doctype html><meta charset="utf-8"><p>娌℃湁杩欎釜瀛椼€?/p>');
+    return res.end(html || '<!doctype html><meta charset="utf-8"><p>没有这个字。</p>');
   }
 
   try {
@@ -1627,7 +1627,7 @@ const server = createServer(async (req, res) => {
       });
     }
 
-    // ---------- 浼氬憳 / 璇曠敤 / 鍏戞崲鐮?----------
+    // ---------- 会员 / 试用 / 兑换码 ----------
 
     if (path === '/api/pricing') {
       return sendJson(res, 200, {
@@ -1669,7 +1669,7 @@ const server = createServer(async (req, res) => {
       return sendJson(res, 200, { ok: true, member: publicMember(r.member) });
     }
 
-    // 璐﹀彿瀵嗙爜鐧诲綍锛氭墜鏈哄彿 + 瀵嗙爜锛岀櫥褰曞悗鎹㈣澶囦篃鑳界敤
+    // 账号密码登录：手机号 + 密码，登录后换设备也能用
     if (path === '/api/login' && req.method === 'POST') {
       let body = {};
       try {
@@ -1683,7 +1683,7 @@ const server = createServer(async (req, res) => {
         tries.n = 0;
         tries.t = Date.now();
       }
-      if (tries.n >= 8) return sendJson(res, 429, { ok: false, error: '瀵嗙爜閿欒娆℃暟澶锛岃 10 鍒嗛挓鍚庡啀璇? });
+      if (tries.n >= 8) return sendJson(res, 429, { ok: false, error: '密码错误次数太多，请 10 分钟后再试' });
       const r = shop.login(body.phone, body.password);
       if (!r.ok) {
         tries.n += 1;
@@ -1701,11 +1701,11 @@ const server = createServer(async (req, res) => {
       return sendJson(res, 200, { ok: true });
     }
 
-    // 宸茬櫥褰曚細鍛樻敼瀵嗙爜
+    // 已登录会员改密码
     if (path === '/api/password' && req.method === 'POST') {
       const mid = shop.verifyNamed('sh_mid', readCookie(req, 'sh_mid'));
       const m = shop.memberOf(mid);
-      if (!m) return sendJson(res, 401, { ok: false, error: '璇峰厛鐧诲綍' });
+      if (!m) return sendJson(res, 401, { ok: false, error: '请先登录' });
       let body = {};
       try {
         body = JSON.parse((await readBody(req)) || '{}');
@@ -1714,7 +1714,7 @@ const server = createServer(async (req, res) => {
       }
       if (m.pass_hash) {
         const old = shop.login(m.phone, body.old_password);
-        if (!old.ok) return sendJson(res, 400, { ok: false, error: '鍘熷瘑鐮佷笉瀵? });
+        if (!old.ok) return sendJson(res, 400, { ok: false, error: '原密码不对' });
       }
       try {
         shop.setPassword(m.id, body.new_password);
@@ -1736,7 +1736,7 @@ const server = createServer(async (req, res) => {
       const ok = a.length === b.length && timingSafeEqual(a, b);
       if (!ok) {
         await new Promise((r) => setTimeout(r, 400));
-        return sendJson(res, 401, { ok: false, error: '瀵嗙爜涓嶅' });
+        return sendJson(res, 401, { ok: false, error: '密码不对' });
       }
       res.appendHeader('Set-Cookie', shop.cookie('sh_admin', 'ok', 7 * 24 * 3600));
       return sendJson(res, 200, { ok: true });
@@ -1748,7 +1748,7 @@ const server = createServer(async (req, res) => {
     }
 
     if (path.startsWith('/api/admin/')) {
-      if (!isAdmin(req)) return sendJson(res, 401, { ok: false, error: '璇峰厛鐧诲綍' });
+      if (!isAdmin(req)) return sendJson(res, 401, { ok: false, error: '请先登录' });
       const sub = path.slice('/api/admin/'.length);
       let body = {};
       if (req.method === 'POST') {
@@ -1764,7 +1764,7 @@ const server = createServer(async (req, res) => {
       }
       if (sub === 'codes' && req.method === 'POST') {
         try {
-          // price: 0 = 琛ュ紑/璧犻€侊紝涓嶈鏀跺叆锛涗笉浼犲垯鎸夋。浣嶅師浠?
+          // price: 0 = 补开/赠送，不记收入；不传则按档位原价
           const price = body.free || body.price === 0 ? 0 : undefined;
           return sendJson(res, 200, { ok: true, codes: shop.addCodes(body.tier, body.count, body.note || '', price) });
         } catch (e) {
@@ -1802,11 +1802,11 @@ const server = createServer(async (req, res) => {
       }
       if (sub === 'revoke' && req.method === 'POST') {
         const ok = shop.revokeMember(body.member_id);
-        return sendJson(res, ok ? 200 : 404, { ok, error: ok ? undefined : '娌℃湁杩欎釜浼氬憳' });
+        return sendJson(res, ok ? 200 : 404, { ok, error: ok ? undefined : '没有这个会员' });
       }
       if (sub === 'gift' && req.method === 'POST') {
         const ok = shop.markGiftSent(body.member_id);
-        return sendJson(res, ok ? 200 : 404, { ok, error: ok ? undefined : '娌℃湁杩欎釜浼氬憳' });
+        return sendJson(res, ok ? 200 : 404, { ok, error: ok ? undefined : '没有这个会员' });
       }
       if (sub === 'rebind' && req.method === 'POST') {
         try {
@@ -1830,7 +1830,7 @@ const server = createServer(async (req, res) => {
     if (path === '/api/ask' && req.method === 'POST') {
       if (rateLimited(ip)) {
         res.writeHead(429, { 'content-type': 'application/json; charset=utf-8' });
-        return res.end(JSON.stringify({ ok: false, error: '闂緱澶揩浜嗭紝姝囦竴鍒嗛挓鍐嶆潵銆? }));
+        return res.end(JSON.stringify({ ok: false, error: '问得太快了，歇一分钟再来。' }));
       }
       const g = gateAsk(req, res);
       if (!g.ok) return sendJson(res, g.status, g.body);
@@ -1851,14 +1851,14 @@ const server = createServer(async (req, res) => {
 
     res.writeHead(405).end('method not allowed');
   } catch (e) {
-    log('澶勭悊璇锋眰鍑洪敊:', e.stack || e.message);
-    if (!res.headersSent) sendJson(res, 500, { ok: false, error: '鏈嶅姟鍣ㄥ唴閮ㄩ敊璇? });
+    log('处理请求出错:', e.stack || e.message);
+    if (!res.headersSent) sendJson(res, 500, { ok: false, error: '服务器内部错误' });
     else res.end();
   }
 });
 
 server.listen(PORT, HOST, () => {
-  log(`绯荤粺姹夊瓧闂瓟鏈嶅姟宸插惎鍔?http://${HOST}:${PORT}`);
-  log(`妯″紡: ${MODE} | 妯″瀷: ${MODEL} | Key: ${maskKey(API_KEY)}`);
-  log(`鐭ヨ瘑搴撴牴: ${ROOT}`);
+  log(`系统汉字问答服务已启动 http://${HOST}:${PORT}`);
+  log(`模式: ${MODE} | 模型: ${MODEL} | Key: ${maskKey(API_KEY)}`);
+  log(`知识库根: ${ROOT}`);
 });
