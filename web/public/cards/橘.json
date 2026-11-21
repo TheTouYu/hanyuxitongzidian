@@ -1,0 +1,36 @@
+{
+ "char": "橘",
+ "head": "橘",
+ "pinyin": "jú",
+ "level": 3,
+ "parent": "矞",
+ "bus": {
+  "num": 296,
+  "name": "矛"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "橘jú《說文》：“果。出江南。从木矞聲。居聿切。”橘子樹。樹有刺。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：刺木結甘果，聚而決出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
