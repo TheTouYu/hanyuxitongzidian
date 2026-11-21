@@ -1,0 +1,35 @@
+{
+ "char": "𩫁",
+ "head": "𩫁",
+ "pinyin": "mào",
+ "level": 3,
+ "parent": "毛",
+ "bus": {
+  "num": 297,
+  "name": "毛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𩫁mào《玉篇》：“莫告切，音冒。氉𩫁也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：高覆於上，蒙冒而高（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
