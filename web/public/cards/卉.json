@@ -1,0 +1,35 @@
+{
+ "char": "卉",
+ "head": "卉",
+ "pinyin": "huì",
+ "level": 3,
+ "parent": "屮",
+ "bus": {
+  "num": 302,
+  "name": "屮"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "卉huì《說文》：“艸之緫名也。从艸、屮。許偉切。”《廣雅》：“眾也。”義音同“會”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：艸之總名，眾多（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "詜",
+ "head": "詜",
+ "pinyin": "tāo",
+ "level": 3,
+ "parent": "屮",
+ "bus": {
+  "num": 302,
+  "name": "屮"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "詜tāo《玉篇》：“詜䛬，言不節也。”《集韻》：“往來言也。一曰小兒語不正也。”絮絮叨叨。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：言語絮叨不節（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
