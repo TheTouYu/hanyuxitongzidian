@@ -1,0 +1,36 @@
+{
+ "char": "鍒",
+ "head": "鍒",
+ "pinyin": "róu",
+ "level": 3,
+ "parent": "柔",
+ "bus": {
+  "num": 296,
+  "name": "矛"
+ },
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "鍒róu《說文》：“𨮯之耎也。从金从柔，柔亦聲。耳由切。”軟鐵。熟鐵。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：軟而可屈，撚之使柔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
