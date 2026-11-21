@@ -1,0 +1,35 @@
+{
+ "char": "䟥",
+ "head": "䟥",
+ "pinyin": "méng",
+ "level": 3,
+ "parent": "矛",
+ "bus": {
+  "num": 296,
+  "name": "矛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "䟥méng《集韻》：“與髳同。覭髳，茀離也。”草木繁茂皃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：草木繁茂，蒙覆於足（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

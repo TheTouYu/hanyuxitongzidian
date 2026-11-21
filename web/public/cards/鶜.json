@@ -1,0 +1,35 @@
+{
+ "char": "鶜",
+ "head": "鶜",
+ "pinyin": "máo",
+ "level": 3,
+ "parent": "矛",
+ "bus": {
+  "num": 296,
+  "name": "矛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "鶜máo《廣韻》：“鶜鴟，鳥也。”《爾雅·釋鳥》：“狂，茅鴟。”貓頭鷹。其羽如茅花。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：鴟羽如茅花，蒙茸其羽（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

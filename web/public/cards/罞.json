@@ -1,0 +1,35 @@
+{
+ "char": "罞",
+ "head": "罞",
+ "pinyin": "máo",
+ "level": 3,
+ "parent": "矛",
+ "bus": {
+  "num": 296,
+  "name": "矛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "罞máo《爾雅·釋器》：“麋罟謂之罞。”郭璞注：“冒其頭也。”捕捉麋鹿的網。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：網冒其頭，蒙而取麋（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

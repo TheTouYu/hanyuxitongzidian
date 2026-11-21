@@ -1,0 +1,38 @@
+{
+ "char": "𨾣",
+ "head": "𨾣（鶩）",
+ "pinyin": "wù",
+ "level": 3,
+ "parent": "矛",
+ "bus": {
+  "num": 296,
+  "name": "矛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨾣（鶩）wù《正字通》：“俗鶩字。”鴨子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：鴨名借矛音，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "鶩"
+ ]
+}
