@@ -1,0 +1,35 @@
+{
+ "char": "𢫭",
+ "head": "𢫭",
+ "pinyin": "nù",
+ "level": 3,
+ "parent": "肉",
+ "bus": {
+  "num": 301,
+  "name": "肉"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢫭nù《集韻》：“女六切，音忸。摍𢫭，不申。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：手不得伸，納而屈之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

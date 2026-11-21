@@ -1,0 +1,40 @@
+{
+ "char": "𨹌",
+ "head": "𨹌（𨛇𨸱）",
+ "pinyin": "rǎn",
+ "level": 3,
+ "parent": "肉",
+ "bus": {
+  "num": 301,
+  "name": "肉"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𨹌（𨛇𨸱）rǎn《字彙補》：“而琰切，音染。𨹌伯，周文王之後也。”“𨸱”的訛字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：訛字借聲，阜旁柔附（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "𨛇",
+  "𨸱"
+ ],
+ "noRoot": true
+}

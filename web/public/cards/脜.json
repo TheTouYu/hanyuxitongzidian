@@ -1,0 +1,35 @@
+{
+ "char": "脜",
+ "head": "脜",
+ "pinyin": "róu",
+ "level": 3,
+ "parent": "肉",
+ "bus": {
+  "num": 301,
+  "name": "肉"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "脜róu《說文》：“面和也。从𦣻从肉。讀若柔。耳由切。”面色溫和。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：面和氣柔，色相溫潤（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
