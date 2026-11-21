@@ -1,0 +1,39 @@
+{
+ "char": "𥒪",
+ "head": "𥒪（䃕磱）",
+ "pinyin": "láo",
+ "level": 3,
+ "parent": "牢",
+ "bus": {
+  "num": 295,
+  "name": "牛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𥒪（䃕磱）láo《集韻》：“䃕，石器。或从牢、从勞。”“石相叩謂之䃕。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：石相叩擊，聲如打欄（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "䃕",
+  "磱"
+ ]
+}

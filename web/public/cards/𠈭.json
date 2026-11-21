@@ -1,0 +1,38 @@
+{
+ "char": "𠈭",
+ "head": "𠈭（僗）",
+ "pinyin": "láo",
+ "level": 3,
+ "parent": "牢",
+ "bus": {
+  "num": 295,
+  "name": "牛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𠈭（僗）láo《集韻》：“膠𠈭，麤大皃。或从勞。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：人麤大如牛，牢然壯實（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "僗"
+ ]
+}

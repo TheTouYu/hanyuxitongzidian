@@ -1,0 +1,35 @@
+{
+ "char": "䜮",
+ "head": "䜮",
+ "pinyin": "liáo",
+ "level": 3,
+ "parent": "牢",
+ "bus": {
+  "num": 295,
+  "name": "牛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "䜮liáo《廣韻》：“谷名。”láo，《集韻》：“𧯌䜮，谷空皃。”“又深也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：谷深而空，如牢之容（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

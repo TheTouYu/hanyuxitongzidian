@@ -1,0 +1,35 @@
+{
+ "char": "恈",
+ "head": "恈",
+ "pinyin": "móu",
+ "level": 3,
+ "parent": "牟",
+ "bus": {
+  "num": 295,
+  "name": "牛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "恈móu《玉篇》：“貪愛也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：心貪而愛，求之不已（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

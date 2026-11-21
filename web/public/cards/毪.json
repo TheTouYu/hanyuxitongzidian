@@ -1,0 +1,35 @@
+{
+ "char": "毪",
+ "head": "毪",
+ "pinyin": "mú",
+ "level": 3,
+ "parent": "牟",
+ "bus": {
+  "num": 295,
+  "name": "牛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "毪mú《漢典》：“西藏自治區出產的一種羊毛織品。即毪子。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：羊毛織品，毪子之屬（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㟉",
+ "head": "㟉",
+ "pinyin": "láo",
+ "level": 3,
+ "parent": "牢",
+ "bus": {
+  "num": 295,
+  "name": "牛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "㟉láo《正字通》：“𡼗㟉，亭名。又山貌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：山形如牢圈，四圍包合（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}

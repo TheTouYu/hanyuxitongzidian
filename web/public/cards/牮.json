@@ -1,0 +1,35 @@
+{
+ "char": "牮",
+ "head": "牮",
+ "pinyin": "jiàn",
+ "level": 3,
+ "parent": "牛",
+ "bus": {
+  "num": 295,
+  "name": "牛"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "牮jiàn《字彙》：“作甸切，音薦。屋斜用牮。又以土石遮水亦曰牮。”支撐傾斜的房屋。用土石擋水。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：斜屋以牛力聚撐（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
