@@ -1,0 +1,35 @@
+{
+ "char": "𤚐",
+ "head": "𤚐",
+ "pinyin": "máo",
+ "level": 3,
+ "parent": "苗",
+ "bus": {
+  "num": 300,
+  "name": "苗"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𤚐máo《正字通》：“犛牛。一名貓牛。本作貓，訛作𤚐。舊注小牛，誤。”牦牛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：嫩草初生，細密蒙於田間（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十三牛",
+     "label": "卷五十三牛"
+    }
+   ]
+  }
+ ]
+}
