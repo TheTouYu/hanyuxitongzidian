@@ -1,5 +1,5 @@
 {
- "char": "𥡡（𥡸𥣚穳）",
+ "char": "𥡡",
  "head": "𥡡（𥡸𥣚穳）",
  "pinyin": "cuán",
  "level": 3,
@@ -38,5 +38,10 @@
    ]
   }
  ],
- "noRoot": true
+ "noRoot": true,
+ "aliases": [
+  "𥡸",
+  "𥣚",
+  "穳"
+ ]
 }
