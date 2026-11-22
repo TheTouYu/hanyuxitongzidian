@@ -3,15 +3,16 @@
 > Status: **in-progress**
 > Done when: 310 𡬳部建成并提交。（309 面部已于 2026-11-22 完成：`f5135fe28`；308 㒳部 `c2b374a86`——该部实为 兩 + 㒼 二级字根，原稿无 𠒨 头，旧文「含 𠒨 头」系误记。）
 > 当前日期：2026-11-22
-> 工作区：`D:\系统汉字`　分支：`main`　最新提交：`f5135fe28`（cards 309 面）
+> 工作区：`D:\系统汉字`　分支：`main`　最新提交：`07230efb0`（skills v3；工具 `699bc9511`）
 > 最近一部：**309 面部**（`f5135fe28`）：面 11 形 / 參證 1（顏）/ 插圖 1，16 族卡；𩈹 跨部（274 冖部 parent=冥）不建、讹字组 𩈃/𧩤 不建卡
 
 ## 一、任务与产线
 
 - 把《系统汉语》608 部逐部重解为 `web/public/cards/<字>.json`，同批 Claim 入 `topic-zika-shizi`。
 - 源稿：`D:/字谱智能体/<卷>.docx`（本轮主用 `卷五十四  网.docx`）。
-- 产线：dump 段 → 切字形 → 抽图 → 写卡 → `verify-card`（统一闸门，见技能 §8）→ `build-card-index.py` → 重启 8099 → 页检 → 定向 `git add web/public`（**禁 `-A`**）→ commit。
-- 整部并行：按技能 §9，lead 写 manifest → `workplan.py split` → 每 agent 一张工单（写族卡+桥句结果）→ `verify-card --file` 自修 → `workplan.py check --cards-dir` → `merge --apply` → `verify-card --bu` 集成门。
+- 产线：dump 段 → 切字形 → 抽图 → 写卡 → `verify-card`（统一闸门，见技能 §8）→ `build-card-index.py`（顺带同步 root variants）→ 重启 8099 → 页检 → 定向 `git add`（**禁 `-A`**）→ commit。
+- 整部并行：按技能 §9，先 `workplan.py lock` → lead 写 manifest → `workplan.py split` → 每 agent 一张工单（写族卡+桥句结果）→ `verify-card --file` 自修 → `workplan.py check --cards-dir` → `workplan.py audit`（查越界写共享文件）→ `merge --apply` → `verify-card --bu` 集成门 → `unlock`。
+- 记录分层（技能 §11）：**单字建卡不写 HANDOFF/CURRENT/exegesis/SKILL**；整部只在 CURRENT 加一条；规则变更才动 exegesis 或 SKILL（二选一为源）。
 - 服务只能用 `pwsh` 工具 `run_in_background:true` 跑 `& <node> web\server.mjs`（`$env:PORT='8099'`，node 在 `C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe`）。`Start-Process` 起的会被回收。
 - 改 JS/HTML 一律 Python 读写或 edit 工具，不用 PowerShell 管道重写（曾损坏 `web/server.mjs`）。
 - 工作区未跟踪文件 `debug.log`、`intake/bao/` 不要删、不要 `git add -A`。
@@ -151,6 +152,21 @@
 - 与释义原文、组题各 5 字以上连续重合即失败；`借聲/借音`（音译外）即失败；
 - 新增闸门 `tools/check-luodian.py <部头> <二级>`，新卡须 `bad 0`（不带参数为全库体检，只报数）。
 
+### 9. 并行时共享文件被整体覆盖（2026-11-22 308/309 撞车）
+**认定（证据）**
+- 308 会话刚给 `variants.json` 加 7 个简体键、给 `glyphs/index.json` 改 㒼 条目；309 会话 13:19 按自己的快照整体重写这两个文件，7 键与 㒼 条目全被回退，HEAD 随后前移两次。
+- 同类风险：`cards/index.json`、`alias-index.json`、`photos/*`、父卡；它们都是「读-改-写全文件」，不是增量。
+
+**根因**
+- 两个 lead 同时集成，没有锁；双方都以为「我改的是最新版」。
+- 生成物没有单一真源：`variants` 两份手改、索引多处重建。
+
+**加固**
+- 一部一 lead，开工 `workplan.py lock --owner … --bu …`；`status` 见别人的锁就停。
+- 提交前 `workplan.py audit`：OUTSIDE 非 0 就查是谁改了共享文件，不提交。
+- `variants` 只改 `cards/variants.json`，root 由 `build-card-index.py` 生成；索引只由脚本重建一次。
+- 提交只按路径 `git add`；HEAD 前移后先重读文件，禁止用旧快照写回。
+
 ## 三、待办（按优先级）
 
 1. **清 50 行空类属**（冖/冡/冥）。
@@ -166,7 +182,7 @@
 ```text
 工作区：D:\系统汉字　分支 main　Status: in-progress
 Done when：310 𡬳部建成提交
-先读：memory/HANDOFF.md（含 8 类体例错误的认定、根因、加固）、prompts/exegesis.md、memory/CURRENT.md、技能 .dsh/skills/hanzi-card/SKILL.md（建卡标准流程，逐栏细则）
+先读：memory/HANDOFF.md（含 9 类体例错误的认定、根因、加固）、prompts/exegesis.md、memory/CURRENT.md、技能 .dsh/skills/hanzi-card/SKILL.md（建卡标准流程，逐栏细则；并行前先看 §9）
 下一步：①先修 50 行空类属 + 10 行空落点（脚本见 HANDOFF 第二节）②补 罵/勿/岡 等漏插句内形 ③再建 310 𡬳部（段 440，309 面部 `f5135fe28` 可作样板）
 验收：check-bu=0、check-ezi bad=0、check-luodian bad=0（新卡严格模式）、check-shiyi 只余 {{}}、卡内 {{}} 全展开、页检 figure 数=字形数+参证数+插图数
 ```
