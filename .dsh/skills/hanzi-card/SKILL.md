@@ -129,7 +129,9 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 ### 3.3 插图（实物照片）
 
 - **插图**＝独立图片段，下一段以「▲」开头（`▲披馬甲的唐三彩`）。归属只看段落区间：`▲` 图注段属于哪个字头的区间，图就归谁。**不许看图猜、不许按最近字头猜。**
-- 文件放 `web/public/glyphs/photos/<字>/NN.jpg`；图注照录 ▲ 后文字；**原文没有 ▲ 就留空 `""`**，不许自造。
+- 文件放 `web/public/glyphs/photos/<字>/NN.jpg`；图注照录 ▲ 后文字；**原文没有 ▲ 就留空 `""`**，不许自造（2026-11-22 查出 岡「山脊（日落時分）」、罵「套馬（用套馬桿套住奔馬）」两条自造图注，已清空）。
+- 一段两条 ▲（如卷首 `▲半坡氏族網紋酒具   ▲8000年前的網墜`，中间是多个空格）：该段的两张图按前后顺序配这两条注，**不要当一段一条**。
+- **卷首图**（第一个部头之前的独立图片段，没有字头区间）：挂到紧随其后的那个部的部头卡（卷五十四 → `网`），按 `NN` 续号，图注照录 ▲；没有卷级路由，别去找「卷首页」。
 - 照片 vs 字形：`max(w,h) >= 200` 的照片进 photos，小图是字形（`tools/extract-photos.py` 的判据；该脚本依赖 python-docx，本机跑不了，逻辑照抄即可）。
 - 预处理：四角亮斑水印用 `tools/delogo.py`（只认四角 `mx>=215 & sat<=45` 的亮块，MedianFilter 填充）；白边/黑边要自己裁；EMF/WMF 先转 PNG 再入库。**原稿水印不要大面积擦**（OPERATING）。
 - 重复图/错主图：先比 sha256，确认没有第二处引用，再删文件与两处 index 条目。
@@ -143,6 +145,17 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 ```
 
 写 `01.jpg` 会 404。`chars[字].photos` 用同形态，保持两处同步。改完**重启服务**（内存缓存 300 秒）。
+
+**还有第三、第四处（2026-11-22 卷五十四缺图的真凶）**：SPA（`web/public/index.html:94`、`app.html:92`、`test.html:94`）另读
+
+- `web/public/glyphs/photos/index.json` → `window.PHOTO[字] = ["01.jpg", …]`
+- `web/public/glyphs/photos/captions.json` → `window.CAPS[字] = ["图注", …]`
+
+`index.html:215` 的 `photoBlock` 走 `d.photos || window.PHOTO[d.char]`，路径固定 `/glyphs/photos/<字>/<file>`。所以**加一张插图 = 写四处**：卡 `photos`、`glyphs/index.json` 顶层 `photos`、`photos/index.json`、`photos/captions.json`。只写前两处，服务端渲染页有图、SPA 里没有——卷五十四 5 个字（免/墁/岡/檳/浜）就这样在 SPA 上整年没有图，`罵` 还指向已删的 `01.png`。
+
+- `photos/index.json`：`json.dumps(indent=1, ensure_ascii=False) + "\n"`，**能逐字节 round-trip**，只改自己的键，别整份重排。
+- `photos/captions.json`：单行紧凑（`separators=(",",":")`），重写会整行变化（历史文件疑有重复键、体积比重写成的小），可接受，但**只动自己的键**。
+- 改完 `verify-card` 的 **E057** 会查这层；整部验收加 `--photo-strict` 把「缺条目/断链」升成 error。
 
 ### 3.5 句中形（inline）
 
@@ -253,7 +266,7 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 
 ## 6. 声母拟态
 
-- 取**今读拼音首字母**；z/c/s 归 zh/ch/sh。零声母写 `零聲母` 或 `y「零聲母」不系：…（照實）`。
+- 取**今读拼音首字母**；z/c/s 归 zh/ch/sh。零声母**据实写实际首字母**：y 开头的写 `y「零聲母」不系：…（照實）`（如 有 yǒu），w 开头的写 `w「零聲母」不系：…（照實）`（如 未 wèi）；**不得一律写 y**（主人 2026-11-22：「未的声母是 W 不是 Y，要据实写，不能草率」）。`verify-card` 的 E061 只查「前缀是 y/w 且与拼音首字母一致」。
 - 组名只有两组：`g 隔估 k 口控 h 豁活；j 聚决 q 亲缺 x 续消；b 闭剥 p 拼辟 f 附分 m 蒙末；d 囤动 t 涂突 n 纳弄 r 柔锐 l 拢离；zh/z 凿总 ch/c 刺持 sh/s 失收`。**当前全库用 j「聚决」**，不要自造 j「夹卸」。
 - 取项**只能取组名两字之一**（拢离→拢 或 离），不得写「取聚拢」。
 - 必须落到该字的物性，句末标 `（推）`；确实无关写 `不系：…（照實）`。
@@ -279,10 +292,13 @@ $env:PYTHONIOENCODING='utf-8'
 .runtime\python\python.exe tools\verify-card.py --file web/public/cards/緉.json
 # 机器可读报告
 .runtime\python\python.exe tools\verify-card.py --bu 兩 --json .tmp-verify.json
+# 整部验收：插图四清单（含 SPA 两处）缺条目/断链直接算 error
+.runtime\python\python.exe tools\verify-card.py --bu 兩 --photo-strict
 ```
 
 - `--expect` = `{字: 原稿整行}`，用来核对族卡釋義是否整行照录；用 `tools/make-charmap.py --bu 兩 --expect .tmp-expect.json` 生成。
 - `--page` 需要服务在 8099；`--alias-pages` 会顺带验简体/异体路由。
+- `--photo-strict` = 把 E057 的「SPA 缺条目/断链」从 warn 升成 error；**整部验收必须带**，否则缺图不会拦。
 - 退出码：有 error 为 1，只有 warn 为 0。
 
 ### 8.2 报告怎么读
@@ -328,6 +344,7 @@ JSON 结构：
 | | E054 | chars[].photos 与顶层 photos 不同步 |
 | | E055 | 顶层 photos 不是 `photos/<字>/…` 全路径 |
 | | E056 | 字形图疑为现代字/符号（≤40px 且 ≤2-bit，或 <350 B；warn） |
+| | E057 | SPA 两清单（`photos/index.json`、`photos/captions.json`）与顶层 photos 不一：缺条目/断链/图序/图注（缺条目与断链在 `--photo-strict` 下为 error，其余恒 warn） |
 | 声母 | E060 | 声母缺失/格式不符 |
 | | E061 | 声母首字母与 pinyin 不符 |
 | | E062 | 取项不在组名两字内 |
@@ -354,6 +371,7 @@ JSON 结构：
 | `check-aliases.py` / `check-head-alias.py` | 别名缺口/该建未建 | 抽查 |
 | `check-family.py` / `check-groups.py` / `check-prefix.py` | 族表/组题/栏文重复前缀单点检查 | 抽查 |
 | `check-photos.py` | 有图无注/空图注统计 | 图片批次后 |
+| `tools/audit-photos.py --doc <卷.docx>` | **全卷插图总账**：逐部数原稿独立图片段 vs 该部各字 photos，列未落位/断链/自造图注 | 整卷收尾必跑 |
 | `check-cards.py` | 全库结构总量（有历史欠账，不当新卡闸门） | 只看新卡有无新增类型 |
 
 ### 8.5 页面核验
@@ -502,16 +520,18 @@ $env:PYTHONIOENCODING='utf-8'
 ```powershell
 $env:PYTHONIOENCODING='utf-8'
 .runtime\python\python.exe tools\make-charmap.py --bu 面 --expect .tmp-expect.json
-.runtime\python\python.exe tools\verify-card.py --bu 面 --expect .tmp-expect.json --page --alias-pages   # PASS 0/0
+.runtime\python\python.exe tools\verify-card.py --bu 面 --expect .tmp-expect.json --page --alias-pages --photo-strict   # PASS 0/0
 .runtime\python\python.exe tools\check-bu.py 面            # 部 面: 成员 N，二级 M，问题 0
 .runtime\python\python.exe tools\check-ezi.py              # bad 0
 .runtime\python\python.exe tools\check-cardhygiene.py      # label 0 / dup-zizu 0
 .runtime\python\python.exe tools\check-luodian.py 面       # rows N bad 0
 .runtime\python\python.exe tools\check-shiyi.py            # checked N violations 0
 .runtime\python\python.exe tools\build-card-index.py       # index N / alias M
+.runtime\python\python.exe tools\audit-photos.py --doc "D:/字谱智能体/卷五十四  网.docx"   # 整卷：未落位 0
 ```
 
 - 页检：`/card/<部头>` 图注数 = 字形+參證+插图；`{{` 残留 0；简体/异体路由 200。
+- **插图四处齐**：卡 `photos`、`glyphs/index.json` 顶层 `photos`、`photos/index.json`、`photos/captions.json`；`verify-card --photo-strict` 的 E057 = 0。**整卷收尾**再跑一次 `tools/audit-photos.py`，确认原稿每个独立图片段都落位（2026-11-22 卷五十四就是逐部补图时漏了卷首两图）。
 - 字形：`verify-card` 的 E056 = 0（没有现代字混进古文字形序列）；有则按 §3.6 归位。
 - 越界：`workplan.py audit ... --allow "tools/*"` 为 0；`git status` 里只该有本次产物与 `tools/` 新工具；`.tmp-*` 临时文件删掉。
 - `build-card-index.py` 输出 `index N / alias M / variants K` 三个数（root variants 由它同步，不手改）。
@@ -563,6 +583,9 @@ $env:PYTHONIOENCODING='utf-8'
 | 照片 404 | 顶层 `photos` 写了 `01.jpg` | 写 `photos/<字>/01.jpg` |
 | 页面图数不对 | 图按内容/最近字头归属 | 只按「▲」图注段落区间归属 |
 | 图片重复 | 批量抽图把同一张分给两字 | 比 sha256，删错主的那份并清两处 index |
+| 页面有图、站内点开没图（或反过来） | 只写了 `glyphs/index.json` 两处 photos，没写 SPA 的 `photos/index.json` / `photos/captions.json` | 插图要写四处（§3.4）；`verify-card --photo-strict` 的 E057 拦 |
+| 整卷少图、逐部却都对 | 只管部内字头区间，漏了卷首独立图片段（无字头） | 卷首图挂紧随其后的部头卡（§3.3）；整卷跑 `tools/audit-photos.py` |
+| 图注是编的 | 没 ▲ 也写了「山脊（日落時分）」这类描述 | 图注只能照录 ▲ 后文字，没有就 `""`（§3.3） |
 | 落点啰嗦 | 把「搭桥」写成解释句，还带因果 | §5.2；`check-luodian` 严格模式 0 |
 | 卡与 build 脚本不一致 | 建完又用补丁脚本改 JSON，脚本没同步 | **建成后 JSON 是唯一真源**；一次性 build 脚本头部加「已过期，勿运行」，或删掉 |
 | 释义被改短 | 把引文摘句当释义 | 族卡釋義＝原稿整行；`check-shiyi` |
