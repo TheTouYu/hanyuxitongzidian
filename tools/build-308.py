@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 """建 308 㒳部：兩（lv1）+ 㒼（lv2）+ 50 族卡，并整理照片/索引。
-只写卡与素材，不改知识库。"""
+只写卡与素材，不改知识库。
+
+【已过期，勿再运行】308 卡已于 c2b374a86 提交，其后用 fix-308-luodian.py 改过
+落点、assets 脚本改过索引。重跑本脚本会覆盖这些回改。以
+web/public/cards/兩.json、web/public/cards/㒼.json 为唯一真源。
+"""
 import json, io, os, re, shutil, zipfile
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
