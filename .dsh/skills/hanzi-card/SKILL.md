@@ -110,7 +110,7 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 
 - **异体标签**（标签字在本字 `variants` 里，如 兆 的 `涉`）：给该异体单建 `chars[异体] = {doc, variants:"", files:[…]}`，再在本字条目加
   `"extra": [{"char":"涉","label":"字形（涉）"}]`。页面会在本字字形行后按 label 追加这些图，图注数也算进去。
-  　**服务端与 SPA 两处渲染都要认 `extra`**：`/card/<字>` 走 `web/server.mjs` 的 `glyphInfo`（认 extra）；站内点字走 `web/public/index.html` 的 `cardBody`（原先只读 `files`，2026-11-22 𡪛 页 0 图即此）。现该函数用 `gxc()` 合并 `files`＋`extra`；`app.html`、`test.html` 是同一应用的副本，**改一处必须三处同步**，改完 `node --check` 三份内联脚本（node：`C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe`）。
+  　**服务端与 SPA 两处渲染都要认 `extra`**：`/card/<字>` 走 `web/server.mjs` 的 `glyphInfo`（认 extra）；站内点字走 `web/public/index.html` 的 `cardBody`（原先只读 `files`，2026-11-22 𡪛 页 0 图即此）。现该函数用 `gxc()` 合并 `files`＋`extra`，并在取字形前 `await GLYPH_P`（`glyphs/index.json` 的加载 promise），否则冷页首点会 0 图且不自动刷新；`app.html`、`test.html` 是同一应用的副本，**改一处必须三处同步**，改完 `node --check` 三份内联脚本（node：`C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe`）。
 - 异体若同时是「段末只借形对照」的參證字，按下列 cankao 写，**不要再挂 extra**（否则页面同图渲染两次；309 面 的 𠚑 即此例）。
 - **參證字**（他部字、或本段只借一两形来对照，如 久 借 氒、䚻 借 䍃、309 面 段末的 顏）：不要覆盖该字自己的 `files`，也不要并进本字 `files`。本段那张图另存 `web/public/glyphs/<本字>/cankao/NN.png`（或 `inline/<本字>/cankao/…`），卡里加一栏：
 
