@@ -1,41 +1,34 @@
 {
  "char": "𦏢",
+ "head": "𦏢",
  "pinyin": "mài",
  "bus": {
-  "num": 234,
-  "name": "𧸇"
+  "num": 304,
+  "name": "网"
  },
  "level": 3,
- "parent": "𧸇",
+ "parent": "買",
+ "aliases": [],
  "sections": [
   {
    "key": "shiyi",
    "label": "釋義",
-   "text": "《類篇》：“𦏢𦏨，垢膩皃。”",
-   "paras": [
-    "《類篇》：“𦏢𦏨，垢膩皃。”"
-   ]
+   "text": "《類篇》：“𦏢𦏨，垢膩皃。”"
   },
   {
    "key": "shengmu",
    "label": "聲母擬態",
-   "text": "m「蒙末」取「末」：垢膩之皃（推）。",
-   "paras": [
-    "m「蒙末」取「末」：垢膩之皃（推）。"
-   ]
+   "text": "m「蒙末」取「蒙」：垢膩之狀（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
    "text": "",
-   "paras": [
-    ""
-   ],
    "links": [
     {
      "t": "卷",
-     "ch": "卷四十一殳",
-     "label": "卷四十一殳"
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
     }
    ]
   }
