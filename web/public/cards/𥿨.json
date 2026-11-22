@@ -1,0 +1,35 @@
+{
+ "char": "𥿨",
+ "head": "𥿨",
+ "pinyin": "míng",
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
+ "level": 3,
+ "parent": "名",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“細絲也。”《類篇》：“絲也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：絲縷輕薄，蒙覆而難見（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

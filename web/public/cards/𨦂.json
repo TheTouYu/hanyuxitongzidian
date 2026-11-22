@@ -1,0 +1,38 @@
+{
+ "char": "𨦂",
+ "head": "𨦂（𨰋）",
+ "pinyin": "lǎi",
+ "bus": {
+  "num": 361,
+  "name": "乙"
+ },
+ "level": 3,
+ "parent": "乙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“連鉤釣曰𨦂。或从禮。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：鉤鉤相繫，攏為一串（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "𨰋"
+ ]
+}

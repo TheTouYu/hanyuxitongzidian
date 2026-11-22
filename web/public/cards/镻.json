@@ -1,0 +1,41 @@
+{
+ "char": "镻",
+ "head": "镻",
+ "pinyin": "dié",
+ "bus": {
+  "num": 363,
+  "name": "失"
+ },
+ "level": 3,
+ "parent": "失",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“蛇惡毒長也。从長失聲。徒結切。”《爾雅》：“蝁。”郭璞注：“蝮蛇。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：聲短而促，伏蛇驟起一擊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpeg",
+   "caption": "尖吻蝮"
+  }
+ ]
+}

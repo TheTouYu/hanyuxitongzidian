@@ -1,0 +1,35 @@
+{
+ "char": "䣶",
+ "head": "䣶",
+ "pinyin": "huó",
+ "bus": {
+  "num": 362,
+  "name": "舌"
+ },
+ "level": 3,
+ "parent": "舌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“戸栝切，音活。未泲酒。”沒有過濾的酒。tián，《字學指南》：“與甜同。甘也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：帶滓而流，其味自厚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

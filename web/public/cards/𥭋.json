@@ -1,0 +1,35 @@
+{
+ "char": "𥭋",
+ "head": "𥭋",
+ "pinyin": "jì",
+ "bus": {
+  "num": 370,
+  "name": "多"
+ },
+ "level": 3,
+ "parent": "多",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“網罟一類的捕魚器物。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：網眼聚攏，魚入不脫（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

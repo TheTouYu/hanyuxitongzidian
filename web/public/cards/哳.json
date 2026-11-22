@@ -1,0 +1,35 @@
+{
+ "char": "哳",
+ "head": "哳",
+ "pinyin": "zhā",
+ "bus": {
+  "num": 369,
+  "name": "折"
+ },
+ "level": 3,
+ "parent": "折",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“嘲哳，鳥鳴也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：啼聲尖促，鑿耳不休（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

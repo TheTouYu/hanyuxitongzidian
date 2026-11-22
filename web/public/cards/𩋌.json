@@ -1,0 +1,36 @@
+{
+ "char": "𩋌",
+ "head": "𩋌",
+ "pinyin": "yì",
+ "bus": {
+  "num": 367,
+  "name": "易"
+ },
+ "level": 3,
+ "parent": "裼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“素𩋌，履也。”大抵即用葦編的草鞋。相當于今天的涼鞋。《戰國古文》：“从韋，{{shiyi/01.png}}聲，疑𩋌之異文。”",
+   "gdir": "inline/𩋌"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

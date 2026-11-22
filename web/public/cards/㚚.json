@@ -1,0 +1,35 @@
+{
+ "char": "㚚",
+ "head": "㚚",
+ "pinyin": "kōng",
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
+ "level": 3,
+ "parent": "名",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“大也。”kuāng，《篇海》：“犬聲也。”狗叫聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：喉口一收一放，氣衝成響（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

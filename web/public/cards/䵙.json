@@ -1,0 +1,35 @@
+{
+ "char": "䵙",
+ "head": "䵙",
+ "pinyin": "zhǎ",
+ "bus": {
+  "num": 370,
+  "name": "多"
+ },
+ "level": 3,
+ "parent": "多",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“陟加切，音奓。䵙𪐀，相黏也。”zhǎ，《篇海類編》：“䵙䵙，黏皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：黏物總合，結而為一（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

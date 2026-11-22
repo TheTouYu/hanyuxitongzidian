@@ -1,0 +1,35 @@
+{
+ "char": "恬",
+ "head": "恬",
+ "pinyin": "tián",
+ "bus": {
+  "num": 362,
+  "name": "舌"
+ },
+ "level": 3,
+ "parent": "舌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“安也。从心，甛省聲。徒兼切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：心氣勻鋪，坦然不搖（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "鯣",
+ "head": "鯣",
+ "pinyin": "yì",
+ "bus": {
+  "num": 367,
+  "name": "易"
+ },
+ "level": 3,
+ "parent": "易",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“鱺鯣。”魚名。具體不詳。疑指章魚，能變色。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

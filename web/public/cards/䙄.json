@@ -1,0 +1,35 @@
+{
+ "char": "䙄",
+ "head": "䙄",
+ "pinyin": "qì",
+ "bus": {
+  "num": 362,
+  "name": "舌"
+ },
+ "level": 3,
+ "parent": "臿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“衣重緣也。”zhǎ，《廣韻》：“側洽切，音眨。䙄略，絜束皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：兩層縫腳相貼，密合無間（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

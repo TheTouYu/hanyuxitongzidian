@@ -1,0 +1,35 @@
+{
+ "char": "銽",
+ "head": "銽",
+ "pinyin": "guà",
+ "bus": {
+  "num": 362,
+  "name": "舌"
+ },
+ "level": 3,
+ "parent": "舌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“斷也。从金𠯑聲。古𣴠切。”同“銛”。取其鋒利之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：鋒入即斷，兩邊不接（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

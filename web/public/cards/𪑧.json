@@ -1,0 +1,35 @@
+{
+ "char": "𪑧",
+ "head": "𪑧",
+ "pinyin": "dié",
+ "bus": {
+  "num": 365,
+  "name": "世"
+ },
+ "level": 3,
+ "parent": "枼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“竹裹黑也。”《廣韻》：“黔首，出《音譜》。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：黑色囤於竹裏，裹而弗散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

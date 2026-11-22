@@ -1,0 +1,35 @@
+{
+ "char": "𧶇",
+ "head": "𧶇",
+ "pinyin": "zhá",
+ "bus": {
+  "num": 369,
+  "name": "折"
+ },
+ "level": 3,
+ "parent": "折",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“陟轄切，音哳。貨也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：止「貨也」一訓，聲義無徵（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㲳",
+ "head": "㲳",
+ "pinyin": "dié",
+ "bus": {
+  "num": 363,
+  "name": "失"
+ },
+ "level": 3,
+ "parent": "失",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“觸也。从氐失聲。徒結切。”zhì，《廣韻》：“手拔物也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：觸之即移，動而後定（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

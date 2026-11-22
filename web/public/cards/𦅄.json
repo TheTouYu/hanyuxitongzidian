@@ -1,0 +1,35 @@
+{
+ "char": "𦅄",
+ "head": "𦅄",
+ "pinyin": "zhé",
+ "bus": {
+  "num": 368,
+  "name": "徹"
+ },
+ "level": 3,
+ "parent": "徹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“衣破。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：布帛受磨，漸穿一孔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

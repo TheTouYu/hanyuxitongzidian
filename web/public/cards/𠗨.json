@@ -1,0 +1,35 @@
+{
+ "char": "𠗨",
+ "head": "𠗨",
+ "pinyin": "dié",
+ "bus": {
+  "num": 365,
+  "name": "世"
+ },
+ "level": 3,
+ "parent": "枼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𠗉𠗨，凍相箸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：寒氣屯聚，凝而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "祑",
+ "head": "祑",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 363,
+  "name": "失"
+ },
+ "level": 3,
+ "parent": "失",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“直質切，音侄。祭有次也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：牲醴總聚於壇，各就其位（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

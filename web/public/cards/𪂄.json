@@ -1,0 +1,41 @@
+{
+ "char": "𪂄",
+ "head": "𪂄",
+ "pinyin": "wèi",
+ "bus": {
+  "num": 370,
+  "name": "多"
+ },
+ "level": 3,
+ "parent": "多",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鳥名。小鳩也。”火斑鳩。喜歡生活在開闊的平原、田野、村莊、果園等地方，通常會成對或者成群活動。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpeg",
+   "caption": ""
+  }
+ ]
+}

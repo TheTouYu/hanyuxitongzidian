@@ -1,0 +1,36 @@
+{
+ "char": "逷",
+ "head": "逷",
+ "pinyin": "tì",
+ "bus": {
+  "num": 367,
+  "name": "易"
+ },
+ "level": 3,
+ "parent": "裼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“逖，遠也。从辵狄聲。逷，古文逖。”《戰國古文》：“从辵，{{shiyi/01.png}}聲，疑逷之異體。”",
+   "gdir": "inline/逷"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：道路綿長，舉步而去（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

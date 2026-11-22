@@ -1,0 +1,38 @@
+{
+ "char": "牐",
+ "head": "牐（閘）",
+ "pinyin": "zhá",
+ "bus": {
+  "num": 362,
+  "name": "舌"
+ },
+ "level": 3,
+ "parent": "臿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“下牐閉城門。”《集韻》：“一曰以版有所蔽。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：一木直下，觸底聲斷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "閘"
+ ]
+}

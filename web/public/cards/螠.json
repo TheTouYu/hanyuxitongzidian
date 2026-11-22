@@ -1,0 +1,41 @@
+{
+ "char": "螠",
+ "head": "螠",
+ "pinyin": "yì",
+ "bus": {
+  "num": 364,
+  "name": "益"
+ },
+ "level": 3,
+ "parent": "益",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《爾雅·釋蟲》：“蜆，縊女。”郭璞注：“小黑蟲，赤頭，喜自經死，故曰縊女。”蝶類幼蟲。吐絲而懸，如自縊一般。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpeg",
+   "caption": ""
+  }
+ ]
+}

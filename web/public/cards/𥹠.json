@@ -1,0 +1,38 @@
+{
+ "char": "𥹠",
+ "head": "𥹠（䊏）",
+ "pinyin": "tán",
+ "bus": {
+  "num": 370,
+  "name": "多"
+ },
+ "level": 3,
+ "parent": "多",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“徒藍切，音談。黏也。”《海篇》：“今作䊏。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：黏物涂附，薄而相連（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "䊏"
+ ]
+}

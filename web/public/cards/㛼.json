@@ -1,0 +1,38 @@
+{
+ "char": "㛼",
+ "head": "㛼（喢）",
+ "pinyin": "chā",
+ "bus": {
+  "num": 362,
+  "name": "舌"
+ },
+ "level": 3,
+ "parent": "臿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“疾言失次也。从女臿聲。讀若懾。醜聶切。”插話。《集韻》：“一曰怯也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：語方出口，橫被截斷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "喢"
+ ]
+}

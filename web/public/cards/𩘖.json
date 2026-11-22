@@ -1,0 +1,40 @@
+{
+ "char": "𩘖",
+ "head": "𩘖",
+ "pinyin": "xiāo",
+ "bus": {
+  "num": 370,
+  "name": "多"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“《集韻》與𩙚同。”《集韻》：“涼風謂之𩙚。或作䬒。”“䬒”的訛字。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“邑、叜、朋、亥、幺、芻”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：涼風徐來，暑氣漸消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

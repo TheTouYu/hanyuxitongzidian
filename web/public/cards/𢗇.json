@@ -1,0 +1,40 @@
+{
+ "char": "𢗇",
+ "head": "𢗇（㣿）",
+ "pinyin": "zhuǒ",
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“㣿”的俗字。“痛病也。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“勺、夊、反”的訛字"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：痛如錐鑿，鑽刺不止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𩮜",
+ "head": "𩮜",
+ "pinyin": "tì",
+ "bus": {
+  "num": 367,
+  "name": "易"
+ },
+ "level": 3,
+ "parent": "易",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鬀髮也。从髟从刀，易聲。他曆切。”用刀除髮。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：刃貼膚行，觸之即斷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

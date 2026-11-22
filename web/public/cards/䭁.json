@@ -1,0 +1,35 @@
+{
+ "char": "䭁",
+ "head": "䭁",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 369,
+  "name": "折"
+ },
+ "level": 3,
+ "parent": "折",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“臭敗之味。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：臭氣鑽隙，直透深處（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

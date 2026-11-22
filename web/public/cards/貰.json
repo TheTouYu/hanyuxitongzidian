@@ -1,0 +1,35 @@
+{
+ "char": "貰",
+ "head": "貰",
+ "pinyin": "shì",
+ "bus": {
+  "num": 365,
+  "name": "世"
+ },
+ "level": 3,
+ "parent": "世",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“貸也。从貝世聲。神夜切。”賒借。《篇海》：“恕也。”赦免，寬縱。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：貸出暫失，緩期而收（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

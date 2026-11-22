@@ -1,0 +1,38 @@
+{
+ "char": "𦕾",
+ "head": "𦕾（聒）",
+ "pinyin": "guō",
+ "bus": {
+  "num": 362,
+  "name": "舌"
+ },
+ "level": 3,
+ "parent": "舌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“驩語也。从耳𠯑聲。古活切。”話語喧嘩。《正字通》：“俗省作聒。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：壁厚阻音，響猶穿隙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "聒"
+ ]
+}

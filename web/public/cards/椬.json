@@ -1,0 +1,35 @@
+{
+ "char": "椬",
+ "head": "椬",
+ "pinyin": "yí",
+ "bus": {
+  "num": 370,
+  "name": "多"
+ },
+ "level": 3,
+ "parent": "㝖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“椬梧，地名，在中國臺灣省雲林縣口湖鄉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

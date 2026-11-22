@@ -1,0 +1,35 @@
+{
+ "char": "狾",
+ "head": "狾",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 369,
+  "name": "折"
+ },
+ "level": 3,
+ "parent": "折",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“狂犬也。从犬折聲。《春秋傳》曰：‘狾犬入華臣氏之門。’征例切。”瘋狗。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：犬狂露齒，一嚙鑿入（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

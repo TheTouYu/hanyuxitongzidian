@@ -1,30 +1,28 @@
 {
  "char": "𧉹",
+ "head": "𧉹",
  "pinyin": "zhà",
  "bus": {
-  "num": 362,
-  "name": "札"
+  "num": 361,
+  "name": "乙"
  },
- "sources": [
-  "卷六十二  蛇.docx 362.札部"
- ],
+ "level": 3,
+ "parent": "札",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "从口中吐出叉狀舌頭之形，或加兩點、三點、四點，指唾液。象意蛇舌。",
-   "cites": []
+   "label": "釋義",
+   "text": "螞蚱。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "zh「凿总」取「凿」：齧葉如鑿（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：後足擦翅，鑿然成聲（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十二蛇",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -33,9 +31,5 @@
     }
    ]
   }
- ],
- "level": 3,
- "parent": "362.札部",
- "aliases": [],
- "head": "𧉹"
+ ]
 }

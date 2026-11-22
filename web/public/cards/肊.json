@@ -1,0 +1,36 @@
+{
+ "char": "肊",
+ "head": "肊（臆）",
+ "pinyin": "yǐ",
+ "bus": {
+  "num": 361,
+  "name": "乙"
+ },
+ "level": 3,
+ "parent": "乙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“胷骨也。从肉乙聲。{{shiyi/01.png}}，肊或从意。於力切。”《廣韻》：“氣滿。”",
+   "gdir": "inline/肊"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

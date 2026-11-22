@@ -1,0 +1,35 @@
+{
+ "char": "抶",
+ "head": "抶",
+ "pinyin": "chì",
+ "bus": {
+  "num": 363,
+  "name": "失"
+ },
+ "level": 3,
+ "parent": "失",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“笞擊也。从手失聲。勑栗切。”用竹板、荊條抽打。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：條落聲斷，一觸即收（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

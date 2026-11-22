@@ -1,0 +1,38 @@
+{
+ "char": "𠋱",
+ "head": "𠋱（僁）",
+ "pinyin": "xiè",
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
+ "level": 3,
+ "parent": "㞕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“僁，《說文》：‘聲也。’一曰僁僁，呻吟也。或从屑。”聲音小而連續。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：氣自喉出，斷而復起（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "僁"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "磃",
+ "head": "磃",
+ "pinyin": "tí",
+ "bus": {
+  "num": 361,
+  "name": "乙"
+ },
+ "level": 3,
+ "parent": "虒",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“磄磃，怪石。”sī，《集韻》：“磃氏，館名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：石骨突起，觸之礙手（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

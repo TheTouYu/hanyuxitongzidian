@@ -1,0 +1,38 @@
+{
+ "char": "碟",
+ "head": "碟（鞨㓭）",
+ "pinyin": "shé",
+ "bus": {
+  "num": 365,
+  "name": "世"
+ },
+ "level": 3,
+ "parent": "枼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鞨，治皮也。或从刀。亦作碟。”dié，今指扁而淺的盤子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：刀過毛落，渣滓不留（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "㓭"
+ ]
+}

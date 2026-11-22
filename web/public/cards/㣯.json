@@ -1,0 +1,35 @@
+{
+ "char": "㣯",
+ "head": "㣯",
+ "pinyin": "xiè",
+ "bus": {
+  "num": 366,
+  "name": "夕"
+ },
+ "level": 3,
+ "parent": "㞕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“撇㣯，衣服婆娑皃。一曰㣰㣯，揺也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：衣裾搖曳，一動相續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

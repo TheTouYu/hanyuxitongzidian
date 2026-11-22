@@ -1,0 +1,39 @@
+{
+ "char": "惕",
+ "head": "惕（悐）",
+ "pinyin": "tì",
+ "bus": {
+  "num": 367,
+  "name": "易"
+ },
+ "level": 3,
+ "parent": "易",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“敬也。从心易聲。{{shiyi/01.png}}，或从狄。他曆切。”恭敬。指神色的改變。《玉篇》：“憂也、疾也、懼也。”《廣韻》：“愛也。”",
+   "gdir": "inline/惕"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：外物乍臨，心忽然而動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "悐"
+ ]
+}
