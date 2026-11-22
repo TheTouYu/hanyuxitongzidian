@@ -1,0 +1,41 @@
+{
+ "char": "𧋬",
+ "head": "𧋬（螄）",
+ "pinyin": "shī",
+ "bus": {
+  "num": 384,
+  "name": "系"
+ },
+ "level": 3,
+ "parent": "系",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“同螄。”螄，《集韻》：“霜夷切，音師。蟲名，螺也。”螺螄。其殼有紋如用線繩捆縛一般。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：螺殼旋入，口窄收緊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

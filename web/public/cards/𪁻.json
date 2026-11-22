@@ -1,0 +1,35 @@
+{
+ "char": "𪁻",
+ "head": "𪁻",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 390,
+  "name": "析"
+ },
+ "level": 3,
+ "parent": "析",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“之利切，音鷙。猛鳥也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：喙利如錐，穿皮透骨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

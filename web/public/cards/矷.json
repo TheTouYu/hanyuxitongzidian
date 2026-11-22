@@ -1,0 +1,35 @@
+{
+ "char": "矷",
+ "head": "矷",
+ "pinyin": "zǐ",
+ "bus": {
+  "num": 388,
+  "name": "子"
+ },
+ "level": 3,
+ "parent": "子",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“石名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」不系：石名一物，無可附會（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

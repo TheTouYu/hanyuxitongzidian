@@ -1,0 +1,38 @@
+{
+ "char": "㸎",
+ "head": "㸎（𣌍）",
+ "pinyin": "niè",
+ "bus": {
+  "num": 381,
+  "name": "聶"
+ },
+ "level": 3,
+ "aliases": [
+  "𣌍"
+ ],
+ "parent": "聶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“煗也。或作𣌍。”暖。《篇海》：“火也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：暖氣內納，蓄而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

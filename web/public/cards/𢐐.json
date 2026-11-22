@@ -1,0 +1,35 @@
+{
+ "char": "𢐐",
+ "head": "𢐐（弦）",
+ "pinyin": "xián",
+ "bus": {
+  "num": 384,
+  "name": "系"
+ },
+ "level": 3,
+ "parent": "系",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《直音篇·弓部》：“弦，弓弦。𢐐，同上。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：一弦到底，連弓兩端（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𢀶",
+ "head": "𢀶",
+ "pinyin": "jì",
+ "bus": {
+  "num": 389,
+  "name": "己"
+ },
+ "level": 3,
+ "parent": "己",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“《道書》：‘眞陽之炁曰𢀶龍。’音竢考。”真陽之氣。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：真陽一炁，無可附會（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "禌",
+ "head": "禌",
+ "pinyin": "zī",
+ "bus": {
+  "num": 387,
+  "name": "𢆶"
+ },
+ "level": 3,
+ "parent": "玆",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“子絲切，音茲。息也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：氣息總聚，代代相承（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

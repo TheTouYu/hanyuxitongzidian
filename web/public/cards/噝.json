@@ -1,27 +1,28 @@
 {
  "char": "噝",
+ "head": "噝",
  "pinyin": "sī",
  "bus": {
   "num": 383,
   "name": "糸"
  },
+ "level": 3,
+ "parent": "絲",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "s「失收」取「收」：聲細而收成一線（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "象聲字，一般形容尖細的長聲。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：氣從細縫出，其音漸遠（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十四絲",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,15 +31,5 @@
     }
    ]
   }
- ],
- "simp": "咝",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "parent": "",
- "head": "噝"
+ ]
 }

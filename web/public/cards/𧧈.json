@@ -1,0 +1,43 @@
+{
+ "char": "𧧈",
+ "head": "𧧈（誄）",
+ "pinyin": "lěi",
+ "bus": {
+  "num": 383,
+  "name": "糸"
+ },
+ "level": 3,
+ "aliases": [
+  "誄"
+ ],
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“誄，銘也，謚也。𧧈，誤，同上。”敘述死者生前事蹟，表示哀悼。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“耒”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：銘誄敘事，與逝者相離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𡀾",
+ "head": "𡀾",
+ "pinyin": "è",
+ "bus": {
+  "num": 385,
+  "name": "㬎"
+ },
+ "level": 3,
+ "parent": "㬎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𡀾𡀾，眾聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "e「零聲母」不系：音從喉出，直達無阻（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

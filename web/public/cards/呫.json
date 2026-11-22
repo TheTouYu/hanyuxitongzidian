@@ -1,0 +1,38 @@
+{
+ "char": "呫",
+ "head": "呫（喢）",
+ "pinyin": "tiē",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "aliases": [
+  "喢"
+ ],
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“嘗也。”chè，《集韻》：“呫囁，附耳小語聲。一曰多言。或作喢。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：舌上一抹，薄味即散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

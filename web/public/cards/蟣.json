@@ -1,27 +1,28 @@
 {
  "char": "蟣",
- "pinyin": "jǐ／qí",
+ "head": "蟣",
+ "pinyin": "jǐ、qí",
  "bus": {
   "num": 387,
   "name": "𢆶"
  },
+ "level": 3,
+ "parent": "幾",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "j「聚决」取「聚」：卵聚而成（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“蝨子也。一曰齊謂蛭曰蟣。从虫幾聲。居狶切。”蝨子的卵。螞蟥。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：卵附一處，累累成串（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十四絲",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,15 +31,5 @@
     }
    ]
   }
- ],
- "simp": "虮",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "parent": "",
- "head": "蟣"
+ ]
 }

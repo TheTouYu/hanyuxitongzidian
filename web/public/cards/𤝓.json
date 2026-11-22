@@ -1,0 +1,39 @@
+{
+ "char": "𤝓",
+ "head": "𤝓（䑜狧）",
+ "pinyin": "tiè",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "aliases": [
+  "䑜",
+  "狧"
+ ],
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䑜，犬小舐。或作𤝓。”《正字通》：“狧字之訛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：舐處留濕，如抹一層（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "䜝",
+ "head": "䜝",
+ "pinyin": "tuǎn",
+ "bus": {
+  "num": 386,
+  "name": "㡭"
+ },
+ "level": 3,
+ "parent": "㡭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𧨩䜝，言惑。”言不定。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：字句漫漶，界限不清（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

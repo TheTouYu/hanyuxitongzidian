@@ -1,0 +1,35 @@
+{
+ "char": "霑",
+ "head": "霑",
+ "pinyin": "zhān",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“雨𩃵也。从雨沾聲。張廉切。”雨水浸潤。《玉篇》：“濡也、漬也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：雨腳穿土，直透根下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

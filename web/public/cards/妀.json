@@ -1,0 +1,35 @@
+{
+ "char": "妀",
+ "head": "妀",
+ "pinyin": "jǐ",
+ "bus": {
+  "num": 389,
+  "name": "己"
+ },
+ "level": 3,
+ "parent": "己",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“女字也。从女己聲。居擬切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：女字一人，無物可附（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

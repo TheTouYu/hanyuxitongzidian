@@ -1,0 +1,35 @@
+{
+ "char": "秥",
+ "head": "秥",
+ "pinyin": "nián",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“穤禾。”黏性的糯稻。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：糯飯裹物，納而不脫（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

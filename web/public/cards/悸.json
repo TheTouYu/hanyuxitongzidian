@@ -1,0 +1,35 @@
+{
+ "char": "悸",
+ "head": "悸",
+ "pinyin": "jì",
+ "bus": {
+  "num": 388,
+  "name": "子"
+ },
+ "level": 3,
+ "parent": "季",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“心動也。从心季聲。其季切。”心慌而動。《廣雅》：“怒也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：血聚心腔，一收一放（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

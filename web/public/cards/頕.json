@@ -1,0 +1,35 @@
+{
+ "char": "頕",
+ "head": "頕",
+ "pinyin": "dān",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“頰緩也。”diàn，《集韻》：“垂首也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：頰肉囤積，堆而下墜（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

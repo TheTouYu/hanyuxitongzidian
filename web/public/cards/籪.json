@@ -1,27 +1,28 @@
 {
  "char": "籪",
+ "head": "籪",
  "pinyin": "duàn",
  "bus": {
   "num": 386,
   "name": "㡭"
  },
+ "level": 3,
+ "parent": "㡭",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "d「囤动」取「囤」：柵囤水口（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "插在水裡捕魚蟹用的竹柵欄，多用竹或葦編成。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：竹柵圍囤，困於一隅（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十四絲",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,15 +31,5 @@
     }
    ]
   }
- ],
- "simp": "簖",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "parent": "",
- "head": "籪"
+ ]
 }

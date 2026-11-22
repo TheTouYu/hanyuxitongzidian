@@ -1,0 +1,35 @@
+{
+ "char": "㒤",
+ "head": "㒤",
+ "pinyin": "ché",
+ "bus": {
+  "num": 381,
+  "name": "聶"
+ },
+ "level": 3,
+ "parent": "聶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“心服也。从人聶聲。齒涉切。”shè，《玉篇》：“畏也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：為人所持，伏而不敢動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

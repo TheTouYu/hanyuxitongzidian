@@ -1,0 +1,35 @@
+{
+ "char": "𡣦",
+ "head": "𡣦",
+ "pinyin": "jì",
+ "bus": {
+  "num": 386,
+  "name": "㡭"
+ },
+ "level": 3,
+ "parent": "㡭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“對母親的俗稱。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：親緣聚居，聲息相通（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𨖾",
+ "head": "𨖾",
+ "pinyin": "biān",
+ "bus": {
+  "num": 383,
+  "name": "糸"
+ },
+ "level": 3,
+ "parent": "絲",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“布千切。振繩墨也。”《字彙》：“行不絕也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：墨附木紋，剝之不去（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

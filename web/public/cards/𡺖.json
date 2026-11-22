@@ -1,0 +1,35 @@
+{
+ "char": "𡺖",
+ "head": "𡺖",
+ "pinyin": "yōu",
+ "bus": {
+  "num": 387,
+  "name": "𢆶"
+ },
+ "level": 3,
+ "parent": "幽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五侯鯖字海·山部》：“山深沓也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：山谷深沓，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

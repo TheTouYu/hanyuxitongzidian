@@ -1,0 +1,35 @@
+{
+ "char": "岾",
+ "head": "岾",
+ "pinyin": "zhān",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "山嶺。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：群峰總聚，收為一脊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

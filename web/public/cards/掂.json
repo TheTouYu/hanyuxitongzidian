@@ -1,0 +1,35 @@
+{
+ "char": "掂",
+ "head": "掂（拈）",
+ "pinyin": "diān",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“手掂也。”用手托著東西估量輕重。《正字通》：“拈字之譌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：掌微一沉，斤兩自見（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

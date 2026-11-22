@@ -1,0 +1,35 @@
+{
+ "char": "玘",
+ "head": "玘",
+ "pinyin": "qǐ",
+ "bus": {
+  "num": 389,
+  "name": "己"
+ },
+ "level": 3,
+ "parent": "己",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“玉也。从玉己聲。去裡切。”《廣韻》：“佩玉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：佩不離身，玉與人親（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

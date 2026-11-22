@@ -1,0 +1,35 @@
+{
+ "char": "籽",
+ "head": "籽",
+ "pinyin": "zǐ",
+ "bus": {
+  "num": 388,
+  "name": "子"
+ },
+ "level": 3,
+ "parent": "子",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“某些植物的種子。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：一果之中，粒粒攢聚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

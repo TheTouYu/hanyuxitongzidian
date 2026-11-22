@@ -1,0 +1,35 @@
+{
+ "char": "㗀",
+ "head": "㗀",
+ "pinyin": "yōu",
+ "bus": {
+  "num": 387,
+  "name": "𢆶"
+ },
+ "level": 3,
+ "parent": "幽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“音幽。鹿鳴也。又咿㗀，吟聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：群鹿相呼，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

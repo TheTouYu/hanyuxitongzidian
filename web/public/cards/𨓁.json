@@ -1,0 +1,38 @@
+{
+ "char": "𨓁",
+ "head": "𨓁（𨕧）",
+ "pinyin": "běng",
+ "bus": {
+  "num": 387,
+  "name": "𢆶"
+ },
+ "level": 3,
+ "aliases": [
+  "𨕧"
+ ],
+ "parent": "𢆶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“出也。”《集韻》：“行急也。”言快如抽絲意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：繭剝絲出，其引甚疾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

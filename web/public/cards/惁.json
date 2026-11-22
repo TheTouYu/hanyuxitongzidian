@@ -1,0 +1,35 @@
+{
+ "char": "惁",
+ "head": "惁",
+ "pinyin": "xī",
+ "bus": {
+  "num": 390,
+  "name": "析"
+ },
+ "level": 3,
+ "parent": "析",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“憼也、憂也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：念頭糾纏，久而不斷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

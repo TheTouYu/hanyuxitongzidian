@@ -1,0 +1,35 @@
+{
+ "char": "吇",
+ "head": "吇（唧）",
+ "pinyin": "zǐ",
+ "bus": {
+  "num": 388,
+  "name": "子"
+ },
+ "level": 3,
+ "parent": "子",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“吇吇，鳥聲。”jí，《正字通》：“又與唧通 。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：一聲尖細，直透耳底（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

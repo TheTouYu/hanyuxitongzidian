@@ -1,0 +1,38 @@
+{
+ "char": "扂",
+ "head": "扂（𠂼）",
+ "pinyin": "diàn",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "aliases": [
+  "𠂼"
+ ],
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“戶牡也。或作𠂼。”“所以止動也。”門閂。《玉篇》：“閉門也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：一閂止動，門閉不開（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

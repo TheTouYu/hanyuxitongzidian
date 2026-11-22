@@ -1,0 +1,45 @@
+{
+ "char": "𥮒",
+ "head": "𥮒（𥮓𥷰）",
+ "pinyin": "qián",
+ "bus": {
+  "num": 382,
+  "name": "占"
+ },
+ "level": 3,
+ "aliases": [
+  "𥮓",
+  "𥷰"
+ ],
+ "parent": "占",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“蔽絮簀也。从竹沾聲。讀若錢。昨鹽切。”造紙漂漿用的竹簾。《集韻》：“或作𥮓、𥷰。”zhān，《篇海》：“汁也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：簾面親漿，纖維緊貼（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}

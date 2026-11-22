@@ -1,0 +1,40 @@
+{
+ "char": "𩾠",
+ "head": "𩾠（鳲）",
+ "pinyin": "yǐ",
+ "bus": {
+  "num": 389,
+  "name": "己"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“居里切，音紀。鳥名。”《正字通》：“鳲字之訛。”布穀鳥。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②形近字“厶、尸、弓”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：布穀啼鳴，音出喉間（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}
