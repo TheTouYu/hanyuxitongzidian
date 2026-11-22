@@ -1,0 +1,35 @@
+{
+ "char": "銨",
+ "head": "銨",
+ "pinyin": "ǎn",
+ "bus": {
+  "num": 320,
+  "name": "妟"
+ },
+ "level": 3,
+ "parent": "安",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "化學中一種陽性複根，也就是“銨離子”。亦稱“銨根”。英文ammonium的音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十六燕",
+     "label": "卷五十六燕"
+    }
+   ]
+  }
+ ]
+}
