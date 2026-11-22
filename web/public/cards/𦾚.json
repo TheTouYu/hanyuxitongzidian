@@ -1,0 +1,36 @@
+{
+ "char": "𦾚",
+ "head": "𦾚",
+ "pinyin": "shà",
+ "aliases": [],
+ "bus": {
+  "num": 316,
+  "name": "吳"
+ },
+ "level": 3,
+ "parent": "吳",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》以其同“箑”，指懸肉的竿子。但“箑”，《集韻》：“扇也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：竿懸肉，收而掛之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ]
+}
