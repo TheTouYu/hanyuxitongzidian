@@ -1,0 +1,38 @@
+{
+ "char": "𥡪",
+ "head": "𥡪（翼）",
+ "pinyin": "yì",
+ "bus": {
+  "num": 429,
+  "name": "立"
+ },
+ "level": 3,
+ "aliases": [
+  "翼"
+ ],
+ "parent": "翌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“逸織切，音弋。黍稷蕃蕪皃。亦作翼。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：从禾得形，所狀為黍稷（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

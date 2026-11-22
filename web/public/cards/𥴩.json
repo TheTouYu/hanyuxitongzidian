@@ -1,0 +1,38 @@
+{
+ "char": "𥴩",
+ "head": "𥴩（𥵰）",
+ "pinyin": "gé",
+ "bus": {
+  "num": 424,
+  "name": "鬲"
+ },
+ "level": 3,
+ "aliases": [
+  "𥵰"
+ ],
+ "parent": "鬲",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“竹障。或从木。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：細竹交編成片，隔之而內外各別（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

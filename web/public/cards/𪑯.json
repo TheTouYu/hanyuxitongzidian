@@ -1,0 +1,35 @@
+{
+ "char": "𪑯",
+ "head": "𪑯",
+ "pinyin": "lèi",
+ "bus": {
+  "num": 427,
+  "name": "聿"
+ },
+ "level": 3,
+ "parent": "聿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“黑也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：從黑，眾色攏聚，合而為黑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

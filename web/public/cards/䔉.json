@@ -1,0 +1,43 @@
+{
+ "char": "䔉",
+ "head": "䔉（蒜）",
+ "pinyin": "lì",
+ "bus": {
+  "num": 425,
+  "name": "秝"
+ },
+ "level": 3,
+ "aliases": [
+  "蒜"
+ ],
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艸木疏皃。”suàn，《玉篇》：“蒜，葷菜也。俗作䔉。”形近字“祘”之訛。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "④形近字“𣏟、祘”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：草木疏皃，枝葉相離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

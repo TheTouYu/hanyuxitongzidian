@@ -175,6 +175,11 @@ def main():
             part = part.strip()
             if part:
                 doc_caps.add(norm(part))
+                # 一注管两图，按左／右拆注（exegesis §二）
+                m = re.match(r'^(.+?（左）)與(.+?（右）)$', part)
+                if m:
+                    doc_caps.add(norm(m.group(1)))
+                    doc_caps.add(norm(m.group(2)))
 
     # 卷首段：按技能 §3.3 挂该卷卷卡（2026-11-22 主人裁）；无卷卡时退回首个部
     head_bu = bus[0]['num'] if bus else 0
@@ -205,27 +210,31 @@ def main():
 
     problems = {'unplaced': [], 'extra': [], 'fakecap': [], 'unsync': [],
                 'spa_missing': [], 'spa_bad': [], 'orphan': []}
-    # 卷首图对账：doc 文件名去空格即该卷卷卡名（卷六十  𦟀 → 卷六十𦟀）
+    # 卷首图对账：doc 文件名去空格即该卷卷卡名（卷六十  𦟀 → 卷六十𦟀）；
+    # 文件名带「部」而卷卡名不带（卷七十一  聿部.docx → 卷七十一聿）时回退一次。
     vol_card = re.sub(r'\s+', '', os.path.splitext(os.path.basename(args.doc))[0])
+    if vol_card not in cards and vol_card.endswith('部') and vol_card[:-1] in cards:
+        vol_card = vol_card[:-1]
+    front_imgs = sum(len(pp['images']) for pp in front)
     if front:
         if vol_card in cards:
             vk = len(photos_of(vol_card))
-            if vk < len(front):
+            if vk < front_imgs:
                 for pp in front:
                     problems['unplaced'].append({
                         'bu': 0, 'name': '卷首(%s)' % vol_card, 'para': pp['para'],
                         'images': [{'media': i['media'], 'w': i['w'], 'h': i['h'], 'bytes': i['bytes']}
                                    for i in pp['images']],
                     })
-            elif vk > len(front):
+            elif vk > front_imgs:
                 problems['extra'].append({'bu': 0, 'name': '卷首(%s)' % vol_card,
-                                          'doc': len(front), 'cards': [(vol_card, vk)]})
+                                          'doc': front_imgs, 'cards': [(vol_card, vk)]})
         else:
             solo.setdefault(head_bu, [])[:0] = front
     rows = []
     for b in bus:
         n = b['num']
-        n_doc = len(solo.get(n, []))
+        n_doc = sum(len(pp['images']) for pp in solo.get(n, []))
         chs = by_bu.get(n, [])
         n_card = 0
         listed = []
@@ -303,7 +312,7 @@ def main():
     print('部 %d 个，独立图片段 %d 段（%d 张）· 卷首 %d 张 → 卷卡 %s' % (
         len(bus), sum(len(v) for v in solo.values()),
         sum(len(pp['images']) for v in solo.values() for pp in v),
-        len(front), vol_card))
+        front_imgs, vol_card))
     print('%-5s %-8s %6s %6s  %s' % ('部号', '部名', '原稿', '卡里', '字'))
     for n, name, nd, nc, listed in rows:
         flag = '' if nd == nc else ('  ← 差 %+d' % (nc - nd))

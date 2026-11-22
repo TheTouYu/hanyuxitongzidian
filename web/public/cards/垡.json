@@ -1,0 +1,35 @@
+{
+ "char": "垡",
+ "head": "垡",
+ "pinyin": "fá",
+ "bus": {
+  "num": 423,
+  "name": "伐"
+ },
+ "level": 3,
+ "parent": "伐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“耕起土也。”耕地。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：田土黏聚，自結成團（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

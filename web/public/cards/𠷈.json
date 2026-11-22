@@ -1,0 +1,35 @@
+{
+ "char": "𠷈",
+ "head": "𠷈（𠻜哷）",
+ "pinyin": "lǜ",
+ "bus": {
+  "num": 427,
+  "name": "聿"
+ },
+ "level": 3,
+ "parent": "聿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“嗚也。或从率、从寽。”liè，《類篇》：“雞鳴。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：從口，嗚呼出口，離口而揚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

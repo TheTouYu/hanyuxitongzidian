@@ -1,0 +1,38 @@
+{
+ "char": "讈",
+ "head": "讈（𧬎）",
+ "pinyin": "lì",
+ "bus": {
+  "num": 425,
+  "name": "秝"
+ },
+ "level": 3,
+ "aliases": [
+  "𧬎"
+ ],
+ "parent": "歷",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䜍讈，言不明。或省。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：話語含混，字與字相離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

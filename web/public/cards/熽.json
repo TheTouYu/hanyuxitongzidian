@@ -1,0 +1,35 @@
+{
+ "char": "熽",
+ "head": "熽",
+ "pinyin": "xiào",
+ "bus": {
+  "num": 427,
+  "name": "聿"
+ },
+ "level": 3,
+ "parent": "肅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“火熾也。”《廣韻》：“火皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：其勢熾盛，續燒不已（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

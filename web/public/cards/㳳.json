@@ -1,0 +1,35 @@
+{
+ "char": "㳳",
+ "head": "㳳",
+ "pinyin": "kè",
+ "bus": {
+  "num": 421,
+  "name": "克"
+ },
+ "level": 3,
+ "parent": "克",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“㳳介子（原子），介子的一種，符號為K。”音譯字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：K介子之名，口摹其音（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

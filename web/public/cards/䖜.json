@@ -1,0 +1,35 @@
+{
+ "char": "䖜",
+ "head": "䖜",
+ "pinyin": "yín",
+ "bus": {
+  "num": 426,
+  "name": "虤"
+ },
+ "level": 3,
+ "parent": "虤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“兩虎爭聲。从虤从曰。讀若憖。語巾切。（注）臣鉉等曰：曰，口氣出也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：从曰，口氣出而聲生（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𥻄",
+ "head": "𥻄",
+ "pinyin": "kāi",
+ "bus": {
+  "num": 426,
+  "name": "虤"
+ },
+ "level": 3,
+ "parent": "皆",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“丘皆切，音楷。米別名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：米為粒食，入口而養（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

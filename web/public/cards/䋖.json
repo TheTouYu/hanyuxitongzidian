@@ -1,0 +1,35 @@
+{
+ "char": "䋖",
+ "head": "䋖",
+ "pinyin": "yù",
+ "bus": {
+  "num": 427,
+  "name": "聿"
+ },
+ "level": 3,
+ "parent": "聿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“長皃。”《篇海類編》：“長衣皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：从糸，蠶所繅者，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

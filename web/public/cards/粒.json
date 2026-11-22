@@ -1,0 +1,35 @@
+{
+ "char": "粒",
+ "head": "粒",
+ "pinyin": "lì",
+ "bus": {
+  "num": 429,
+  "name": "立"
+ },
+ "level": 3,
+ "parent": "立",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“糂也。从米立聲。𩚷，古文粒。力入切。”米粒。分散成顆之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：顆粒收攏，聚於一器（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

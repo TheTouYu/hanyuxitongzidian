@@ -1,0 +1,38 @@
+{
+ "char": "𡿯",
+ "head": "𡿯（𣅕）",
+ "pinyin": "yù",
+ "bus": {
+  "num": 428,
+  "name": "曰"
+ },
+ "level": 3,
+ "aliases": [
+  "𣅕"
+ ],
+ "parent": "曰",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“水流也。从川曰聲。於筆切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：从川得形，曰聲取音（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

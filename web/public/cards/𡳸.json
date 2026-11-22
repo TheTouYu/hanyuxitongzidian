@@ -1,0 +1,35 @@
+{
+ "char": "𡳸",
+ "head": "𡳸",
+ "pinyin": "lì",
+ "bus": {
+  "num": 425,
+  "name": "秝"
+ },
+ "level": 3,
+ "parent": "歷",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“履下也。从履省，歷聲。郎擊切。”鞋底，多層。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：行路之時，履與地相離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

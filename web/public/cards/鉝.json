@@ -1,0 +1,35 @@
+{
+ "char": "鉝",
+ "head": "鉝",
+ "pinyin": "lì",
+ "bus": {
+  "num": 429,
+  "name": "立"
+ },
+ "level": 3,
+ "parent": "立",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“力入切，音立。食器。林邑王獻流離蘇鉝。”古扶南國的一種食器。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：器形收攏，食聚其中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

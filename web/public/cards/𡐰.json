@@ -1,0 +1,35 @@
+{
+ "char": "𡐰",
+ "head": "𡐰（壢）",
+ "pinyin": "lì",
+ "bus": {
+  "num": 425,
+  "name": "秝"
+ },
+ "level": 3,
+ "parent": "秝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“壢，坑也。或省。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：土坑下陷，地自分而離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

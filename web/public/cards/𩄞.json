@@ -1,0 +1,39 @@
+{
+ "char": "𩄞",
+ "head": "𩄞（𩅩靋）",
+ "pinyin": "lì",
+ "bus": {
+  "num": 425,
+  "name": "秝"
+ },
+ "level": 3,
+ "aliases": [
+  "𩅩",
+  "靋"
+ ],
+ "parent": "秝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“霖靋，雨不止皃。或省。”取用秸稈過濾之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：霖雨連綿，點點相離而落（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

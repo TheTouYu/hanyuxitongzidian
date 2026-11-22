@@ -1,0 +1,35 @@
+{
+ "char": "位",
+ "head": "位",
+ "pinyin": "wèi",
+ "bus": {
+  "num": 429,
+  "name": "立"
+ },
+ "level": 3,
+ "parent": "立",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“列中庭之左右謂之位。从人、立。於備切。”《廣韻》：“正也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：列有次序，各居定所（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}

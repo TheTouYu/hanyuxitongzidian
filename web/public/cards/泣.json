@@ -1,0 +1,35 @@
+{
+ "char": "泣",
+ "head": "泣",
+ "pinyin": "qì",
+ "bus": {
+  "num": 429,
+  "name": "立"
+ },
+ "level": 3,
+ "parent": "立",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“無聲出涕曰泣。从水立聲。去急切。”沒有哭聲而流眼淚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：哭而無聲，聲缺淚下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十一聿",
+     "label": "卷七十一聿"
+    }
+   ]
+  }
+ ]
+}
