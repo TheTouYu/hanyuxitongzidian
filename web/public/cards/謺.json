@@ -1,0 +1,35 @@
+{
+ "char": "謺",
+ "head": "謺",
+ "pinyin": "zhé",
+ "bus": {
+  "num": 379,
+  "name": "㚔"
+ },
+ "level": 3,
+ "parent": "㚔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“謺讘也。从言執聲。之涉切。”附耳小語。多言。《廣韻》：“拾人語也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：附耳總語，拘聲相告（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

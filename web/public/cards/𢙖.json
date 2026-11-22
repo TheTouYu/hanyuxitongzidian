@@ -1,0 +1,35 @@
+{
+ "char": "𢙖",
+ "head": "𢙖（恬）",
+ "pinyin": "tiǎn",
+ "bus": {
+  "num": 374,
+  "name": "㐁"
+ },
+ "level": 3,
+ "parent": "㐁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《段注》：“安也，从心，㐁聲。各本篆作恬，解作甛省聲。今正。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：心安席上，塗然自適（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

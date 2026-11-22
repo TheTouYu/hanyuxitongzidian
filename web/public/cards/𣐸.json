@@ -1,0 +1,43 @@
+{
+ "char": "𣐸",
+ "head": "𣐸（栝㮇）",
+ "pinyin": "tiàn",
+ "aliases": [
+  "㮇"
+ ],
+ "bus": {
+  "num": 374,
+  "name": "㐁"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“栝，他念切。《說文》：‘炊灶木。’或从㐁、从忝。”燒火棍。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②形近字“舌”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：灶木入火，塗然生焰（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

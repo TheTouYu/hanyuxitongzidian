@@ -1,0 +1,35 @@
+{
+ "char": "𡖻",
+ "head": "𡖻",
+ "pinyin": "zhí",
+ "bus": {
+  "num": 378,
+  "name": "十"
+ },
+ "level": 3,
+ "parent": "直",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“多也。又𡖻。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：生息總繁，其數眾多（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "殐",
+ "head": "殐",
+ "pinyin": "sù",
+ "bus": {
+  "num": 372,
+  "name": "束"
+ },
+ "level": 3,
+ "parent": "束",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𣨍殐，歺也。一曰殭也。”死。僵直。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：身死筋收，僵直不展（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

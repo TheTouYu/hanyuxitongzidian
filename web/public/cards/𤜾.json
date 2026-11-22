@@ -1,0 +1,39 @@
+{
+ "char": "𤜾",
+ "head": "𤜾（𤞁犱）",
+ "pinyin": "jǐ",
+ "aliases": [
+  "𤞁",
+  "犱"
+ ],
+ "bus": {
+  "num": 375,
+  "name": "丮"
+ },
+ "level": 3,
+ "parent": "丮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“獸名，窮矍也。或作犱。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：獸名窮矍，聚足而躍（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

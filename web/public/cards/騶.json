@@ -1,0 +1,38 @@
+{
+ "char": "騶",
+ "head": "騶（𩣿）",
+ "pinyin": "zōu、zhòu",
+ "aliases": [
+  "𩣿"
+ ],
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“廏禦也。从馬芻聲。側鳩切。”牧馬人。zhòu，《集韻》：“馳也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：牧馬總群，芻秣隨行（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

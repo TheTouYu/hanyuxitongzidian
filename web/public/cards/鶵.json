@@ -1,0 +1,40 @@
+{
+ "char": "鶵",
+ "head": "鶵（雛𨿊）",
+ "pinyin": "chú",
+ "aliases": [
+  "雛",
+  "𨿊"
+ ],
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“雞子也。从隹芻聲。{{shiyi/01.png}}，籀文雛从鳥。士於切。”小雞。",
+   "gdir": "inline/鶵"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：小雞持嫩，黃羽一團（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

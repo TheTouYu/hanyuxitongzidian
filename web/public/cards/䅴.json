@@ -1,0 +1,35 @@
+{
+ "char": "䅴",
+ "head": "䅴",
+ "pinyin": "suǒ、sè",
+ "bus": {
+  "num": 371,
+  "name": "索"
+ },
+ "level": 3,
+ "parent": "索",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“昔各切，音索。禾皃。” sè，《集韻》：“色窄切，音梀。禾穗。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：禾穗垂收，顆粒歸倉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㵵",
+ "head": "㵵",
+ "pinyin": "zòu、jù",
+ "bus": {
+  "num": 376,
+  "name": "取"
+ },
+ "level": 3,
+ "parent": "聚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“水流急也。”jù，《篇海》：“水聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：水流總急，波蹙相逼（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

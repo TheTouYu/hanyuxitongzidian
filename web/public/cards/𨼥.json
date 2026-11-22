@@ -1,0 +1,38 @@
+{
+ "char": "𨼥",
+ "head": "𨼥（隔）",
+ "pinyin": "gé",
+ "aliases": [
+  "隔"
+ ],
+ "bus": {
+  "num": 376,
+  "name": "取"
+ },
+ "level": 3,
+ "parent": "最",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“新經作隔字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：新經作隔，阻而相隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

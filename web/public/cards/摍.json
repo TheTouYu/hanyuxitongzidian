@@ -1,0 +1,35 @@
+{
+ "char": "摍",
+ "head": "摍",
+ "pinyin": "suō",
+ "bus": {
+  "num": 374,
+  "name": "㐁"
+ },
+ "level": 3,
+ "parent": "宿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“蹴引也。从手宿聲。所六切。”《廣韻》：“抽也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：抽引使伸，收而復蹙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

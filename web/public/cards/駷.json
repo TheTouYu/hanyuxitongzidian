@@ -1,0 +1,39 @@
+{
+ "char": "駷",
+ "head": "駷（摗䮟）",
+ "pinyin": "sǒng",
+ "aliases": [
+  "摗",
+  "䮟"
+ ],
+ "bus": {
+  "num": 372,
+  "name": "束"
+ },
+ "level": 3,
+ "parent": "束",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“揺馬銜走。或作摗。或从叜。”掣動馬嚼子使馬快跑。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：銜勒收口，一縱即馳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

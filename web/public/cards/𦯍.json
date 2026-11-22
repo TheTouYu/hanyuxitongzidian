@@ -1,0 +1,35 @@
+{
+ "char": "𦯍",
+ "head": "𦯍",
+ "pinyin": "zhè",
+ "bus": {
+  "num": 378,
+  "name": "十"
+ },
+ "level": 3,
+ "parent": "耴",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艸名，小葉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：小葉總扁，貼地而生（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "襼",
+ "head": "襼（褹）",
+ "pinyin": "yì",
+ "aliases": [
+  "褹"
+ ],
+ "bus": {
+  "num": 375,
+  "name": "丮"
+ },
+ "level": 3,
+ "parent": "埶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“袂也。”衣袖。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：衣袖之屬，音從藝（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𠞃",
+ "head": "𠞃（鞨𧤐）",
+ "pinyin": "zhé",
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鞨，治皮也。或作𧤠、𠞃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：治皮總削，刀過而平（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

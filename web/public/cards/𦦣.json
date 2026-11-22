@@ -1,0 +1,35 @@
+{
+ "char": "𦦣",
+ "head": "𦦣",
+ "pinyin": "cuì",
+ "bus": {
+  "num": 376,
+  "name": "取"
+ },
+ "level": 3,
+ "parent": "最",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“取外切，音襊。小舂。”取一點點舂碎。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：取少刺舂，碎而成末（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

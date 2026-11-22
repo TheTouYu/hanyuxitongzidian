@@ -1,0 +1,35 @@
+{
+ "char": "𩂻",
+ "head": "𩂻",
+ "pinyin": "chè",
+ "bus": {
+  "num": 378,
+  "name": "十"
+ },
+ "level": 3,
+ "parent": "耴",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“𩂻霎，小雨。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：雨絲刺薄，霰落有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

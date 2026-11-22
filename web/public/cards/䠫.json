@@ -1,0 +1,35 @@
+{
+ "char": "䠫",
+ "head": "䠫",
+ "pinyin": "zòu",
+ "bus": {
+  "num": 376,
+  "name": "取"
+ },
+ "level": 3,
+ "parent": "聚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“醉倒皃，出《埤蒼》。”《集韻》：“醉行皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：醉行總促，步阻而蹌（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

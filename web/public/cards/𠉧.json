@@ -1,0 +1,35 @@
+{
+ "char": "𠉧",
+ "head": "𠉧",
+ "pinyin": "jù",
+ "bus": {
+  "num": 376,
+  "name": "取"
+ },
+ "level": 3,
+ "parent": "取",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“促也。”《玉篇》：“𠉧促也。”局促，狹小。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：局促聚居，身不得展（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

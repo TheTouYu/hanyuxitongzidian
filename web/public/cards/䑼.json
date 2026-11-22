@@ -1,0 +1,38 @@
+{
+ "char": "䑼",
+ "head": "䑼（𦩙）",
+ "pinyin": "zōu",
+ "aliases": [
+  "𦩙"
+ ],
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艆䑼，海船。”“船名舷謂之䑼。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：海船總名，舷屬於舟（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

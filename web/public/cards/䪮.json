@@ -1,0 +1,35 @@
+{
+ "char": "䪮",
+ "head": "䪮",
+ "pinyin": "chǒu",
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“楚九切，音𩋄。䪮䪮，眾聲。”“初口切，音鯫。樂音美也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：眾聲持和，音出而美（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

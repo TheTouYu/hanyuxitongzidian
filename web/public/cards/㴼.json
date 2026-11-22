@@ -1,0 +1,35 @@
+{
+ "char": "㴼",
+ "head": "㴼",
+ "pinyin": "sù",
+ "bus": {
+  "num": 374,
+  "name": "㐁"
+ },
+ "level": 3,
+ "parent": "宿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“濕也。”疑本義是指棉布之類經水洗以後會縮緊。俗稱“縮水”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：布濕則縮，收而變短（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

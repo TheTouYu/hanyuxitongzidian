@@ -1,0 +1,39 @@
+{
+ "char": "謅",
+ "head": "謅（𠴾訬）",
+ "pinyin": "zhòu、chǎo、chōu",
+ "aliases": [
+  "𠴾",
+  "訬"
+ ],
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“小言私授謂之謅。”chǎo，《集韻》：“弄言。一曰聲也。或从少。”《字彙》：“相擾也。”chōu，《廣韻》：“謅䜉，私語。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：私語總碎，細如反芻（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

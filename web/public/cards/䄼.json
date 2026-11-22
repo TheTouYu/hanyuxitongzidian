@@ -1,0 +1,35 @@
+{
+ "char": "䄼",
+ "head": "䄼",
+ "pinyin": "tiǎn",
+ "bus": {
+  "num": 374,
+  "name": "㐁"
+ },
+ "level": 3,
+ "parent": "㐁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鄉名，在濟北蛇丘縣。”疑本指曬穀物用的竹席。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」不系：鄉名借音，無義可推（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

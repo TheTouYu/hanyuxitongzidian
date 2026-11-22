@@ -1,0 +1,35 @@
+{
+ "char": "𡷝",
+ "head": "𡷝",
+ "pinyin": "nà",
+ "bus": {
+  "num": 378,
+  "name": "十"
+ },
+ "level": 3,
+ "parent": "耴",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“昵法切，音近納。靜也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：山靜納寂，闃然無聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

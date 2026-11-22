@@ -1,0 +1,35 @@
+{
+ "char": "榡",
+ "head": "榡",
+ "pinyin": "sù",
+ "bus": {
+  "num": 373,
+  "name": "素"
+ },
+ "level": 3,
+ "parent": "素",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“器未飾也。”沒經過裝飾的器具。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：器未加飾，樸素自收（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

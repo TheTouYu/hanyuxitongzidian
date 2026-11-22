@@ -1,0 +1,38 @@
+{
+ "char": "䇧",
+ "head": "䇧（箕）",
+ "pinyin": "zhì、jī",
+ "aliases": [
+  "箕"
+ ],
+ "bus": {
+  "num": 374,
+  "name": "㐁"
+ },
+ "level": 3,
+ "parent": "㐁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“以竹補缺。”jī，《玉篇》：“古文箕字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：破竹補缺，凿然相接（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "䳖",
+ "head": "䳖",
+ "pinyin": "niè",
+ "bus": {
+  "num": 378,
+  "name": "十"
+ },
+ "level": 3,
+ "parent": "耴",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鳥飛皃。一曰鳥名。”意即兩片翅膀輕輕翕張不停。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：雙翅納合，翕張不停（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

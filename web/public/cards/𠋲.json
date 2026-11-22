@@ -1,0 +1,35 @@
+{
+ "char": "𠋲",
+ "head": "𠋲",
+ "pinyin": "sè",
+ "bus": {
+  "num": 371,
+  "name": "索"
+ },
+ "level": 3,
+ "parent": "索",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㒀𠋲，惡也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：行惡失德，人共棄之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

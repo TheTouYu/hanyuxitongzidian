@@ -1,0 +1,40 @@
+{
+ "char": "䐢",
+ "head": "䐢（𦚲𦛑𦜻）",
+ "pinyin": "zhù、zhòu、chù",
+ "aliases": [
+  "𦚲",
+  "𦛑",
+  "𦜻"
+ ],
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“妍也。皺也。”zhòu，《玉篇》：“脯也。”皺縮的乾肉。chù，《廣韻》：“膳也。”美食。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：乾肉總縮，紋理緊蹙（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "皺",
+ "head": "皺（𤷨𤿿）",
+ "pinyin": "zhòu、zhōu",
+ "aliases": [
+  "𤷨",
+  "𤿿"
+ ],
+ "bus": {
+  "num": 377,
+  "name": "芻"
+ },
+ "level": 3,
+ "parent": "芻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“面皺也。”《增韻》：“眉攢也。”《類篇》：“皵也。”zhōu，《集韻》：“革文蹙也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：面紋總蹙，皮皺不展（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

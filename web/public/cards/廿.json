@@ -1,0 +1,39 @@
+{
+ "char": "廿",
+ "head": "廿（疾𥏴𤕺）",
+ "pinyin": "niàn、jí",
+ "aliases": [
+  "𤕺"
+ ],
+ "bus": {
+  "num": 378,
+  "name": "十"
+ },
+ "level": 3,
+ "parent": "十",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“二十並也。古文省。人汁切。”二十。合體字，讀音為二、十的連讀聲。甲骨文作{{shiyi/01.png}}，金文作{{shiyi/02.png}}。jí，《集韻》：“疾，《說文》：‘病也。’古作廿。籀作𥏴、𤕺。”",
+   "gdir": "inline/廿"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：兩十相納，合為二十（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

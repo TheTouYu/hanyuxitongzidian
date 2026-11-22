@@ -1,0 +1,41 @@
+{
+ "char": "𩱫",
+ "head": "𩱫（餗𩞌𩞍）",
+ "pinyin": "sù",
+ "aliases": [
+  "餗",
+  "𩞌",
+  "𩞍"
+ ],
+ "bus": {
+  "num": 372,
+  "name": "束"
+ },
+ "level": 3,
+ "parent": "束",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鼎實。惟葦及蒲。陳留謂䭈為𩱫。从𩰲速聲。{{shiyi/01.png}}，𩱫或从食束聲。桑穀切。”鼎中的食物。",
+   "gdir": "inline/𩱫"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：葦蒲束實，收納鼎中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

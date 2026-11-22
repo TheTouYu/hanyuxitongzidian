@@ -1,0 +1,35 @@
+{
+ "char": "㑉",
+ "head": "㑉",
+ "pinyin": "sù",
+ "bus": {
+  "num": 375,
+  "name": "丮"
+ },
+ "level": 3,
+ "parent": "夙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“傗㑉，不伸也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：身倦不收，傗㑉不伸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}

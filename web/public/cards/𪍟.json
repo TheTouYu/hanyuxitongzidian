@@ -1,0 +1,41 @@
+{
+ "char": "𪍟",
+ "head": "𪍟",
+ "pinyin": "suǒ",
+ "bus": {
+  "num": 371,
+  "name": "索"
+ },
+ "level": 3,
+ "parent": "索",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“昔各切，音索。𪍺𪍟也。”大約即麻花、饊子之類，一種油炸的索狀麵食。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：麵條收撚，油炸而脆（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "饊子"
+  }
+ ]
+}
