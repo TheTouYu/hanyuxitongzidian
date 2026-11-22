@@ -1,0 +1,36 @@
+{
+ "char": "㯊",
+ "head": "㯊",
+ "pinyin": "hén",
+ "aliases": [],
+ "bus": {
+  "num": 323,
+  "name": "焉"
+ },
+ "level": 3,
+ "parent": "焉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“平量木。”《廣韻》：“所以平量斗斛。”即“概”，用于刮平斗斛的木塊。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：概木刮過斛口，往來推移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十六燕",
+     "label": "卷五十六燕"
+    }
+   ]
+  }
+ ]
+}

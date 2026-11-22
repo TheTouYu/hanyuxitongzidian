@@ -1,0 +1,36 @@
+{
+ "char": "瑦",
+ "head": "瑦",
+ "pinyin": "wǔ",
+ "aliases": [],
+ "bus": {
+  "num": 324,
+  "name": "烏"
+ },
+ "level": 3,
+ "parent": "烏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“石之似玉者。从玉烏聲。安古切。”似玉的美石。應指黑玉。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十七烏",
+     "label": "卷五十七烏"
+    }
+   ]
+  }
+ ]
+}
