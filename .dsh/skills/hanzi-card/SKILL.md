@@ -110,6 +110,7 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 
 - **异体标签**（标签字在本字 `variants` 里，如 兆 的 `涉`）：给该异体单建 `chars[异体] = {doc, variants:"", files:[…]}`，再在本字条目加
   `"extra": [{"char":"涉","label":"字形（涉）"}]`。页面会在本字字形行后按 label 追加这些图，图注数也算进去。
+  　**服务端与 SPA 两处渲染都要认 `extra`**：`/card/<字>` 走 `web/server.mjs` 的 `glyphInfo`（认 extra）；站内点字走 `web/public/index.html` 的 `cardBody`（原先只读 `files`，2026-11-22 𡪛 页 0 图即此）。现该函数用 `gxc()` 合并 `files`＋`extra`；`app.html`、`test.html` 是同一应用的副本，**改一处必须三处同步**，改完 `node --check` 三份内联脚本（node：`C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe`）。
 - 异体若同时是「段末只借形对照」的參證字，按下列 cankao 写，**不要再挂 extra**（否则页面同图渲染两次；309 面 的 𠚑 即此例）。
 - **參證字**（他部字、或本段只借一两形来对照，如 久 借 氒、䚻 借 䍃、309 面 段末的 顏）：不要覆盖该字自己的 `files`，也不要并进本字 `files`。本段那张图另存 `web/public/glyphs/<本字>/cankao/NN.png`（或 `inline/<本字>/cankao/…`），卡里加一栏：
 
@@ -358,6 +359,7 @@ JSON 结构：
 ### 8.5 页面核验
 
 - `/card/<部头>` 的 `<figcaption>` 数 = `chars[本字].files` 数 + `extra[]` 各字 files 数 + `cimgs` 数 + 顶层 `photos` 数。
+- **两种渲染都要看，只 curl `/card/<字>` 会假通过**：`/card/<字>` 是服务端渲染（`web/server.mjs`，认 `extra`），站内点字走 SPA（`web/public/index.html` 的 `cardBody`）。2026-11-22 𡪛 就是「curl 24 图、浏览器 0 图」：SPA 当时只读 `files`、不认 `extra`，页头只剩「（字形库未收本字古文字形）」。认定页检通过，必须两条都实测；SPA 那条至少用真实 `glyphs/index.json` 跑一遍 `gxc(字).length`，并确认 `/` 返回的 HTML 里带 `gxc`。
 - `{{` 残留 = 0；照片/字形 `<img>` 全 200；族卡页有「釋義」「聲母擬態」两栏；简体/异体路由 200。
 - 服务启动（必须后台 job，`Start-Process` 会被回收）：
 
