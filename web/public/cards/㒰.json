@@ -1,0 +1,43 @@
+{
+ "char": "㒰",
+ "head": "㒰（仝全）",
+ "pinyin": "quán",
+ "bus": {
+  "num": 338,
+  "name": "入"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“完也。从入从工。全，篆文仝从玉，純玉曰全。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“人、乙、八、又”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：完合相親，無所缺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "全"
+ ],
+ "noRoot": true
+}

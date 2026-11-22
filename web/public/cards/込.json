@@ -1,0 +1,35 @@
+{
+ "char": "込",
+ "head": "込（迂）",
+ "pinyin": "yū",
+ "bus": {
+  "num": 338,
+  "name": "入"
+ },
+ "level": 3,
+ "parent": "入",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“同迂。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：迂之俗字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}
