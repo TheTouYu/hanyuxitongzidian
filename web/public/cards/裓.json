@@ -1,0 +1,35 @@
+{
+ "char": "裓",
+ "head": "裓",
+ "pinyin": "gé、jiē",
+ "bus": {
+  "num": 419,
+  "name": "戒"
+ },
+ "level": 3,
+ "parent": "戒",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“衣裾。”衣襟。jiē，《集韻》：“堂塗。”堂下階前磚砌的路。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：衣襟相隔，束而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

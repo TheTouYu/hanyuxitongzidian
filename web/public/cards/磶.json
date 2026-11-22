@@ -1,0 +1,35 @@
+{
+ "char": "磶",
+ "head": "磶",
+ "pinyin": "xì",
+ "bus": {
+  "num": 415,
+  "name": "舄"
+ },
+ "level": 3,
+ "parent": "舄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣雅》：“磶，礩也，言以玉礩承柱之跋也。”《廣韻》：“柱下石。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：柱石續承，隔濕而固（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十九舄",
+     "label": "卷六十九舄"
+    }
+   ]
+  }
+ ]
+}

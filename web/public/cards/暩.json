@@ -1,0 +1,35 @@
+{
+ "char": "暩",
+ "head": "暩",
+ "pinyin": "jì",
+ "bus": {
+  "num": 413,
+  "name": "祭"
+ },
+ "level": 3,
+ "parent": "祭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“光也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：光聚一處，纖微皆見（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

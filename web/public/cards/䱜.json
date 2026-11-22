@@ -1,27 +1,28 @@
 {
  "char": "䱜",
- "pinyin": "cuò",
+ "head": "䱜",
+ "pinyin": "cuò、què",
  "bus": {
   "num": 416,
   "name": "𡿧"
  },
+ "level": 3,
+ "parent": "昔",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "c「刺持」取「刺」：骨刺而利（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“七約切，音鵲。魚名。出東海。”《類篇》：“鼻前有骨如斧斤。一說生子在腹中，朝出食，暮還入。”《正字通》：“鱕䱜，鮫魚別名。”鯊魚。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：鼻骨如斧，刺而利之（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十九舄",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "䱜"
+ ]
 }

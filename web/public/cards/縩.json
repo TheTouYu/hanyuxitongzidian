@@ -1,0 +1,35 @@
+{
+ "char": "縩",
+ "head": "縩",
+ "pinyin": "cài",
+ "bus": {
+  "num": 413,
+  "name": "祭"
+ },
+ "level": 3,
+ "parent": "祭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“綷縩，鮮衣。”新衣。即皺褶細密清晰。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：細褶相刺，密而相疊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

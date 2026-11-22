@@ -1,0 +1,35 @@
+{
+ "char": "𤁱",
+ "head": "𤁱",
+ "pinyin": "cài",
+ "bus": {
+  "num": 414,
+  "name": "杀"
+ },
+ "level": 3,
+ "parent": "杀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“七蓋切，音蔡。水名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」不系：水名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

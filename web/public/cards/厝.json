@@ -1,27 +1,28 @@
 {
  "char": "厝",
- "pinyin": "cuò",
+ "head": "厝",
+ "pinyin": "cù、cuò",
  "bus": {
   "num": 416,
   "name": "𡿧"
  },
+ "level": 3,
+ "parent": "昔",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "c「刺持」取「刺」：石刺而砺（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“厲石也。从厂㫺聲。《詩》曰：‘他山之石，可以為𠪞。’倉各切。又七互切。”磨刀石。《廣韻》：“置也。”安置。歸葬。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：磨石置旁，持而不移（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十九舄",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "厝"
+ ]
 }

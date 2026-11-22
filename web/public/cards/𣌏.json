@@ -1,0 +1,35 @@
+{
+ "char": "𣌏",
+ "head": "𣌏",
+ "pinyin": "dé",
+ "bus": {
+  "num": 411,
+  "name": "㝵"
+ },
+ "level": 3,
+ "parent": "㝵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“約也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：約束囤聚，止而不行（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

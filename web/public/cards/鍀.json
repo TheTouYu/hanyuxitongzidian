@@ -1,0 +1,35 @@
+{
+ "char": "鍀",
+ "head": "鍀",
+ "pinyin": "dé",
+ "bus": {
+  "num": 411,
+  "name": "㝵"
+ },
+ "level": 3,
+ "parent": "㝵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "一種結晶狀的放射性金屬元素，元素符號為Tc。音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」不系：音譯元素名，只取其音（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

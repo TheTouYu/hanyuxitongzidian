@@ -1,0 +1,35 @@
+{
+ "char": "櫒",
+ "head": "櫒（𣘤）",
+ "pinyin": "sà",
+ "bus": {
+  "num": 414,
+  "name": "杀"
+ },
+ "level": 3,
+ "parent": "杀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艸木動聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：枝葉相摩，散而作聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

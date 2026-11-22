@@ -1,0 +1,35 @@
+{
+ "char": "𤵬",
+ "head": "𤵬",
+ "pinyin": "bá",
+ "bus": {
+  "num": 418,
+  "name": "亥"
+ },
+ "level": 3,
+ "parent": "犮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“①足病。②腹痛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」不系：足病腹痛，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

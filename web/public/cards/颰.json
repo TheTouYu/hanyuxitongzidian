@@ -1,27 +1,31 @@
 {
  "char": "颰",
- "pinyin": "bá",
+ "head": "颰（𩖼）",
+ "pinyin": "bá、fú",
  "bus": {
   "num": 418,
   "name": "亥"
  },
+ "level": 3,
+ "aliases": [
+  "𩖼"
+ ],
+ "parent": "犮",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "b「闭剥」取「剥」：风剥地而起（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𩖼，小風謂之𩖼。一曰疾風。或作颰。”疑指龍捲風。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：疾風勃起，剥木而揚（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十亥",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,15 +34,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "𩖼",
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "颰"
+ ]
 }

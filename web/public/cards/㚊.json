@@ -1,0 +1,38 @@
+{
+ "char": "㚊",
+ "head": "㚊（奒）",
+ "pinyin": "kāi",
+ "bus": {
+  "num": 418,
+  "name": "亥"
+ },
+ "level": 3,
+ "aliases": [
+  "奒"
+ ],
+ "parent": "亥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“多也、大也。亦作奒。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：大多之狀，口傳而立（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

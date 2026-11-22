@@ -1,0 +1,40 @@
+{
+ "char": "䣎",
+ "head": "䣎",
+ "pinyin": "zī",
+ "bus": {
+  "num": 416,
+  "name": "𡿧"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鄉名。”《正字通》：“譌字。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“𡿺”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」不系：鄉名譌字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十九舄",
+     "label": "卷六十九舄"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}

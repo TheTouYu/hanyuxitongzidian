@@ -1,0 +1,35 @@
+{
+ "char": "嚓",
+ "head": "嚓",
+ "pinyin": "cā、chā",
+ "bus": {
+  "num": 413,
+  "name": "祭"
+ },
+ "level": 3,
+ "parent": "祭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "物體與物體相擦而過時發出的一種聲響。象聲字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：相刺有聲，一過即響（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

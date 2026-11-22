@@ -1,0 +1,39 @@
+{
+ "char": "𦃏",
+ "head": "𦃏（𢄌繺）",
+ "pinyin": "shǎi",
+ "bus": {
+  "num": 414,
+  "name": "杀"
+ },
+ "level": 3,
+ "aliases": [
+  "𢄌",
+  "繺"
+ ],
+ "parent": "杀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“襰𦃏，衣破。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：衣破如削，裂而散失（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

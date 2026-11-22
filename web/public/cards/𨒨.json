@@ -1,0 +1,35 @@
+{
+ "char": "𨒨",
+ "head": "𨒨",
+ "pinyin": "hài",
+ "bus": {
+  "num": 418,
+  "name": "亥"
+ },
+ "level": 3,
+ "parent": "亥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“戸愛切，音𥩲。走也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：疾走忽止，豁然而住（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

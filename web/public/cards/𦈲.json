@@ -1,0 +1,35 @@
+{
+ "char": "𦈲",
+ "head": "𦈲",
+ "pinyin": "kāi、gǔ",
+ "bus": {
+  "num": 418,
+  "name": "亥"
+ },
+ "level": 3,
+ "parent": "亥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“器名。”gǔ，《字彙》：“藏也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：器口向上，立而藏物（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

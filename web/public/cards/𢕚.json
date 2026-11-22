@@ -1,0 +1,35 @@
+{
+ "char": "𢕚",
+ "head": "𢕚",
+ "pinyin": "dí",
+ "bus": {
+  "num": 411,
+  "name": "㝵"
+ },
+ "level": 3,
+ "parent": "㝵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𢕚滴，水少。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：水少流動，行步斷續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

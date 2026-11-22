@@ -1,0 +1,35 @@
+{
+ "char": "㕌",
+ "head": "㕌",
+ "pinyin": "ài",
+ "bus": {
+  "num": 411,
+  "name": "㝵"
+ },
+ "level": 3,
+ "parent": "㝵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“張幕也。又石名。”《正字通》：“㝵字之譌 。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：張幕石名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

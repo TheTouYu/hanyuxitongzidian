@@ -1,0 +1,38 @@
+{
+ "char": "䏅",
+ "head": "䏅（聺）",
+ "pinyin": "qì",
+ "bus": {
+  "num": 413,
+  "name": "祭"
+ },
+ "level": 3,
+ "aliases": [
+  "聺"
+ ],
+ "parent": "祭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“耳聽。”《集韻》：“聺，聰也。或省。”聽覺靈敏。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：耳親其聲，審而知之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

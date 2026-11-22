@@ -1,27 +1,36 @@
 {
  "char": "𡲁",
- "pinyin": "chū",
+ "head": "𡲁（𡱣𡱱𡳌）",
+ "pinyin": "chū、xù、zhù",
  "bus": {
   "num": 418,
   "name": "亥"
  },
+ "level": 3,
+ "aliases": [
+  "𡱱",
+  "𡳌"
+ ],
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "ch「刺持」取「刺」：足刺于履（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“履屬。”《康典》：“亦作𡱱。”即“𡱣”，《集韻》：“𡱣，《說文》：‘履屬。’或从夂。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "④形近字“夭”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：履屬訛字，聲義無涉（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十亥",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -31,15 +40,5 @@
    ]
   }
  ],
- "parent": "",
- "aliases": [
-  "𡱱",
-  "𡳌",
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "𡲁"
+ "noRoot": true
 }

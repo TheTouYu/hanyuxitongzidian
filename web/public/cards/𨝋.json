@@ -1,0 +1,35 @@
+{
+ "char": "𨝋",
+ "head": "𨝋",
+ "pinyin": "zhài",
+ "bus": {
+  "num": 413,
+  "name": "祭"
+ },
+ "level": 3,
+ "parent": "祭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“周邑也。从邑祭聲。側介切。”今河南鄭州市東北。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：邑名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㮖",
+ "head": "㮖",
+ "pinyin": "jiá",
+ "bus": {
+  "num": 420,
+  "name": "革"
+ },
+ "level": 3,
+ "parent": "革",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鼓也。”《廣雅》：“攱也。”擱置。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：木鼓聚革，擱而置之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

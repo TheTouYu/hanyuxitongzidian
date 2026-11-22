@@ -1,0 +1,35 @@
+{
+ "char": "嘚",
+ "head": "嘚",
+ "pinyin": "dāi、dē、dé、dēi",
+ "bus": {
+  "num": 411,
+  "name": "㝵"
+ },
+ "level": 3,
+ "parent": "㝵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“音得。出《釋典》。”象聲詞。多用于形容馬蹄聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：馬蹄踏動，得得成聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

@@ -1,27 +1,28 @@
 {
  "char": "䳁",
- "pinyin": "bó",
+ "head": "䳁",
+ "pinyin": "bó、bá",
  "bus": {
   "num": 418,
   "name": "亥"
  },
+ "level": 3,
+ "parent": "犮",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "b「闭剥」取「剥」：鸟剥羽而飞（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鳥也。从鳥犮聲。讀若撥。蒲達切。”《玉篇》：“大鳥也。”《正字通》：“鳥似鳧。”《集韻》：“鳥似雉。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：大鳥振翅，剥然而起（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十亥",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "䳁"
+ ]
 }

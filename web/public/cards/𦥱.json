@@ -1,0 +1,35 @@
+{
+ "char": "𦥱",
+ "head": "𦥱",
+ "pinyin": "yì",
+ "bus": {
+  "num": 412,
+  "name": "豸"
+ },
+ "level": 3,
+ "parent": "豸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《海篇》：“狸子也。”所从“臼”當為“𦥑”之訛，則本即“肄”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：狸子之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十八豸",
+     "label": "卷六十八豸"
+    }
+   ]
+  }
+ ]
+}

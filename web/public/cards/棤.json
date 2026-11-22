@@ -1,0 +1,39 @@
+{
+ "char": "棤",
+ "head": "棤（皵𣛵）",
+ "pinyin": "què",
+ "bus": {
+  "num": 416,
+  "name": "𡿧"
+ },
+ "level": 3,
+ "aliases": [
+  "皵",
+  "𣛵"
+ ],
+ "parent": "昔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𣛵，木皮理麆也。或省。通作皵。”樹皮粗糙。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：樹皮粗缺，剝而不平（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十九舄",
+     "label": "卷六十九舄"
+    }
+   ]
+  }
+ ]
+}

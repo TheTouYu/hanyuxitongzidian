@@ -1,0 +1,36 @@
+{
+ "char": "齰",
+ "head": "齰（齚）",
+ "pinyin": "zé、zhà",
+ "bus": {
+  "num": 416,
+  "name": "𡿧"
+ },
+ "level": 3,
+ "parent": "昔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齧也。从齒㫺聲。{{shiyi/01.png}}，齰或从乍。側革切。”咬嚼。《集韻》：“齒相値。”zhà，《廣韻》：“齰齖。”上下牙齒不齊整，不對應。",
+   "gdir": "inline/齰"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：齒相鑿咬，交錯有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十九舄",
+     "label": "卷六十九舄"
+    }
+   ]
+  }
+ ]
+}

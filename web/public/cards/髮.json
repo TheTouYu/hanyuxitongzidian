@@ -1,0 +1,39 @@
+{
+ "char": "髮",
+ "head": "髮（𩠖𩑛）",
+ "pinyin": "fà",
+ "bus": {
+  "num": 418,
+  "name": "亥"
+ },
+ "level": 3,
+ "aliases": [
+  "𩠖"
+ ],
+ "parent": "犮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“根也。从髟犮聲。{{shiyi/01.png}}，髮或从首。{{shiyi/02.png}}，古文。方伐切。”《釋名》：“髮，拔也。拔擢而出也。”《廣韻》：“頭毛也。”頭髮。",
+   "gdir": "inline/髮"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：髮自拔擢，分而出頂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
+    }
+   ]
+  }
+ ]
+}

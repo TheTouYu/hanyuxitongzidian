@@ -1,27 +1,28 @@
 {
  "char": "氦",
+ "head": "氦",
  "pinyin": "hài",
  "bus": {
   "num": 418,
   "name": "亥"
  },
+ "level": 3,
+ "parent": "亥",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "h「豁活」取「活」：气活而轻（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "一種極輕的無色惰性氣態元素He。音譯字。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」不系：音譯元素名，只取其音（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十亥",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "氦"
+ ]
 }
