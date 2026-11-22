@@ -61,7 +61,7 @@ for ch, parent in members.items():
         err.append(f"缺卡: {ch}（{parent} 族）")
         continue
     d = json.load(io.open(p, encoding="utf-8"))
-    if d.get("parent") != parent and parent not in (d.get("parents") or []):
+    if not d.get("noRoot") and d.get("parent") != parent and parent not in (d.get("parents") or []):
         # 允许父系为二级字根（如 崔→隹）：沿 parent 链上溯，只要到得了本部头即可
         _chain, _cur = [], d.get("parent")
         while _cur and _cur not in _chain and len(_chain) < 6:
