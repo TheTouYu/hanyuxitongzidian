@@ -75,12 +75,18 @@ def scan_docx(path):
     root = ET.fromstring(z.read('word/document.xml'))
     body = root.find(W + 'body')
     out = []
-    for pi, p in enumerate(body.iter(W + 'p')):
+    # 只取 body 的直接子段落：文本框（w:pict/w:txbxContent）里的嵌套 w:p 不是原稿段落，
+    # 卷五十五 巫.docx 有 20 个这样的嵌套段，会把卷首/字形段的图重复计一遍（2026-11-22 修）。
+    for pi, p in enumerate(p for p in body if p.tag == W + 'p'):
         text = ''.join(t.text or '' for t in p.iter(W + 't'))
         imgs = []
+        seen = set()
         for el in p.iter():
             for k, v in el.attrib.items():
                 if k.startswith(R) and v and v in rmap:
+                    if v in seen:
+                        continue
+                    seen.add(v)
                     tgt = rmap[v]
                     media = 'word/' + tgt.lstrip('/')
                     if not media.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.emf', '.wmf')):
