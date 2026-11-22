@@ -1,0 +1,36 @@
+{
+ "char": "𡙣",
+ "head": "𡙣",
+ "pinyin": "jié",
+ "aliases": [],
+ "bus": {
+  "num": 326,
+  "name": "夏"
+ },
+ "level": 3,
+ "parent": "夏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同‘結實’。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：義止「同結實」，聲無所取（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十七烏",
+     "label": "卷五十七烏"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "𡏘",
+ "head": "𡏘",
+ "pinyin": "xià",
+ "aliases": [],
+ "bus": {
+  "num": 326,
+  "name": "夏"
+ },
+ "level": 3,
+ "parent": "夏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“𡏘溝，高田出泥之窊垗。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：高田泥水，消泄入窪（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十七烏",
+     "label": "卷五十七烏"
+    }
+   ]
+  }
+ ]
+}

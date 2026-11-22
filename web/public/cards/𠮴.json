@@ -1,0 +1,36 @@
+{
+ "char": "𠮴",
+ "head": "𠮴",
+ "pinyin": "yāng",
+ "aliases": [],
+ "bus": {
+  "num": 327,
+  "name": "下"
+ },
+ "level": 3,
+ "parent": "下",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海類篇》：“同‘咉’。應喚語話也。”點頭、頷首之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十七烏",
+     "label": "卷五十七烏"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "圷",
+ "head": "圷",
+ "pinyin": "xià",
+ "aliases": [],
+ "bus": {
+  "num": 327,
+  "name": "下"
+ },
+ "level": 3,
+ "parent": "下",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "地名用字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：地名用字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十七烏",
+     "label": "卷五十七烏"
+    }
+   ]
+  }
+ ]
+}

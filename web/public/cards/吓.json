@@ -1,0 +1,36 @@
+{
+ "char": "吓",
+ "head": "吓",
+ "pinyin": "hà、xià、hè",
+ "aliases": [],
+ "bus": {
+  "num": 327,
+  "name": "下"
+ },
+ "level": 3,
+ "parent": "下",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：語氣詞，相當于啊、呀。嘆詞。xià、hè，“嚇”的簡化字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：張口出聲，豁然而發（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十七烏",
+     "label": "卷五十七烏"
+    }
+   ]
+  }
+ ]
+}
