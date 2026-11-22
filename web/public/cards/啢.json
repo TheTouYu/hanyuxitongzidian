@@ -1,0 +1,35 @@
+{
+ "char": "啢",
+ "head": "啢",
+ "pinyin": "liǎng",
+ "bus": {
+  "num": 308,
+  "name": "㒳"
+ },
+ "level": 3,
+ "parent": "兩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "英美制重量單位，常衡一啢是一磅的十六分之一。亦作“英兩”“盎司”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：英美制單位之譯音，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

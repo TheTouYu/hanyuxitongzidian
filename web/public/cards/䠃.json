@@ -1,0 +1,35 @@
+{
+ "char": "䠃",
+ "head": "䠃",
+ "pinyin": "liǎng",
+ "bus": {
+  "num": 308,
+  "name": "㒳"
+ },
+ "level": 3,
+ "parent": "兩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“足踞也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：足踞而攏地（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

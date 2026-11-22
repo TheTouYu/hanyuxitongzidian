@@ -1,0 +1,35 @@
+{
+ "char": "襔",
+ "head": "襔",
+ "pinyin": "mǎn",
+ "bus": {
+  "num": 308,
+  "name": "㒳"
+ },
+ "level": 3,
+ "parent": "㒼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“絲棉襖。”應即“㒼”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：衣厚蒙身（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}
