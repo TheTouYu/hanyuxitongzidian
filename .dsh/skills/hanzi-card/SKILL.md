@@ -46,7 +46,7 @@ whenToUse: 主人要求新增/修订字卡、续建某一部、给族表补字�
 | 3 族字 | 只在别人的族表里出现一行（字（异体）＋拼音＋类属＋引文释义） | `level:3`，`parent`，只有 釋義＋聲母擬態＋所属卷 |
 
 - 二级字根**不并入上级族表**，单独成卡、单独挂 erji。
-- 讹字/形近字行：不建新卡，归正字（如 308 𧶪→貴）；该行落点整行照录原文，不加「——」。
+- 讹字/形近字行：**建讹字卡**（2026-11-22 主人定，改旧例「不建卡」）。卡 `level:3`、`noRoot:true`、不挂 `parent`；栏序为 釋義 → 訛字說明 → 聲母擬態 → 所属卷。`ezi` 只写原文组名（如「③形近字“人、乙、八、又”之訛」），不写解释。父卡该行落点整行照录原文，**不加「——」**。行首字若已有正字卡（如 蹞/蟘/㘝/乏），仍按行首字建卡；行首字本身已并作别名、无独立卡的，也建（用行首字或括注里的规范字做文件名，另字入 aliases）。旧部（308 等）历史讹字行未建卡的，列入待办逐步补，不在重做该部时顺手改旧卡。
 - 谐声字（三级、非字根）**只有** 釋義＋聲母擬態＋所属卷；不要加 zizu/zixing。
 
 ### 1.4 跨部重复字（先查再建）
@@ -230,6 +230,22 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 **aliases**＝head 括注里的异体，但**已有独立卡的字不列**（如 滿 有懣卡，就不写 懣）。
 **父卡行**：本行若在父卡 `zizu.groups[].rows` 里缺失，按原稿顺序补 `[label,pinyin,cls,quote+"——"+bridge]`；父卡其他行、组题、栏序不动。单 agent 建族字时自己就是 lead，父卡行自己补，不必等 workplan merge（§9.4）。
 
+**讹字卡（形近字/讹字行，2026-11-22 主人定）**：与普通族卡同表，但 `noRoot:true`、不写 `parent`，首栏后插 `ezi`：
+
+```json
+{"char":"㒰","head":"㒰（仝全）","pinyin":"quán","bus":{"num":338,"name":"入"},"level":3,"noRoot":true,
+ "sections":[
+  {"key":"shiyi","label":"釋義","text":"《說文》：“完也。从入从工。全，篆文仝从玉，純玉曰全。”"},
+  {"key":"ezi","label":"訛字說明","text":"③形近字“人、乙、八、又”之訛"},
+  {"key":"shengmu","label":"聲母擬態","text":"q「亲缺」取「亲」：完合相親，無所缺（推）。"},
+  {"key":"suoshujuan","label":"所属卷","text":"","links":[{"t":"卷","ch":"卷五十八兒","label":"卷五十八兒"}]}]}
+```
+
+- `ezi` 只写原文组题，不写解释、不写「某字之訛」以外的考订。
+- 父卡该行仍是「整行原文、无 `——`」；卡里的 `shiyi` 也是整行原文。
+- 行首字已有正字卡（蹞/蟘/㘝/乏/聞/訪/矢/鞭）时，仍按行首字建卡；行首字本身只是正字卡的别名、且没有独立卡的，也建（文件名可用行首字，或括注里的规范字，如 㒰→全、𦠤→腦；另一写法入 `aliases`）。
+- 讹字卡不参与 `check-bu` 的 parent 校验（`noRoot`），但 `check-rows-cards` 会查它有没有落点。
+
 ### 4.4 `rootChain` / `rootLabel` / `rootLevel`
 
 - 一般省略 `rootLevel`（全库只有 10 张写）。谐声族字**不要**写，免得把谐声字标成字根。
@@ -265,7 +281,7 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 4. 禁用因果/解释连词：`故／所以／因此／因而／從而／可見／這是／稱為／表示`。**按子串拦**：「可見」二字连写就中（`微不可見`、`形不可見` 都会被 `check-luodian` 判 F5），改说「目不及見」「形皆隱沒」。
 5. **不复述**：不与釋義原文连续 ≥5 字重合、不复述组题（≥5 字）、不复述声母栏的动作与用语。
 6. **专名与名物分开**：人名/地名/水名/国名/姓氏/女字等专名，只录原文，不搭桥；草名/木名/兽名/玉名/器名等名物，**若原文已给物性、可与本组概括义相接，仍须搭桥**（2026-11-22 主人定，见 `prompts/exegesis.md` §七.4.1/§十八）；只有原文仅给训释、无从见联者才留原文。音译字只写 `音譯字，只取其音。`
-7. 讹字组整行照录原文，**不加「——」**。
+7. 讹字组整行照录原文，**不加「——」**；该行仍要建讹字卡（§4.3），卡 `noRoot:true`、带 `ezi`。
 8. 不得出现「借聲／借音／借其聲／借其音」（音译外）。
 9. 名物无义理可释者，只录原文；不要硬写「取聲」「于義無取」。
 
@@ -396,6 +412,7 @@ JSON 结构：
 | 工具 | 查什么 | 何时跑 |
 |---|---|---|
 | `check-bu.py <部>` | 部内成员是否都有卡、parent/level/首栏/别名/声母格式 | 整部合并后必跑 |
+| `check-rows-cards.py --bu <部>` | 族表逐行是否有卡或别名路由（含讹字行）；缺卡 exit 1 | **每部建完必跑**；新部应为 `RESULT PASS · missing 0` |
 | `check-ezi.py` | 讹字组是否混入「——」 | 有讹字组时 |
 | `check-cardhygiene.py` | 栏文是否残留「本義：」等标签、zizu.text 是否等于组题 | 每次 |
 | `check-luodian.py <部…>` | 桥句长度/连词/复述（F1–F8） | 新卡严格模式必跑 |
@@ -556,6 +573,7 @@ $env:PYTHONIOENCODING='utf-8'
 .runtime\python\python.exe tools\make-charmap.py --bu 面 --expect .tmp-expect.json
 .runtime\python\python.exe tools\verify-card.py --bu 面 --expect .tmp-expect.json --page --alias-pages --photo-strict   # PASS 0/0
 .runtime\python\python.exe tools\check-bu.py 面            # 部 面: 成员 N，二级 M，问题 0
+.runtime\python\python.exe tools\check-rows-cards.py --bu 面   # RESULT PASS · missing 0（含讹字行）
 .runtime\python\python.exe tools\check-ezi.py              # bad 0
 .runtime\python\python.exe tools\check-cardhygiene.py      # label 0 / dup-zizu 0
 .runtime\python\python.exe tools\check-luodian.py 面       # rows N bad 0
@@ -565,6 +583,7 @@ $env:PYTHONIOENCODING='utf-8'
 ```
 
 - 页检：`/card/<部头>` 图注数 = 字形+參證+插图；`{{` 残留 0；简体/异体路由 200。
+- 讹字行：`check-rows-cards` missing 0；每张讹字卡 `noRoot:true`、`ezi` 组题照录、父卡行无 `——`；卡页 200、无断图（行首字若是正字别名，页图可能借正字卡的，逐张点开看 200）。
 - **插图四处齐**：卡 `photos`、`glyphs/index.json` 顶层 `photos`、`photos/index.json`、`photos/captions.json`；`verify-card --photo-strict` 的 E057 = 0。**整卷收尾**再跑一次 `tools/audit-photos.py`，确认原稿每个独立图片段都落位（2026-11-22 卷五十四就是逐部补图时漏了卷首两图）。
 - 字形：`verify-card` 的 E056 = 0（没有现代字混进古文字形序列）；有则按 §3.6 归位。
 - 越界：`workplan.py audit ... --allow "tools/*"` 为 0；`git status` 里只该有本次产物与 `tools/` 新工具；`.tmp-*` 临时文件删掉。
@@ -629,9 +648,10 @@ $env:PYTHONIOENCODING='utf-8'
 | 共享文件被整体回退 | 两个 lead 各自重建 `variants`/`glyphs/index`，后写者用旧快照 | 一部一 lead、开工 lock、只在 merge 后重建一次；提交按路径（§9.1、§9.9） |
 | 字形序列混入现代字 | 括号里的字体渲染简图被当古文字形 | E056 告警；按 §3.6 移到 `glyphs/chars/<hex>.png`，重编号并补别名 |
 | 桥只扣一头、自由延伸 | 桥只写声旁给出的抽象面、不写本字本義，或只写本字表面的动作/感官、不扣组题，或加原文没有的成分 | 按 §5.2 六问/两头重写；必须同时扣本组概括义项＋本字本義；每个成分有原文根据 |
+| 讹字组只录行、不建卡 | 旧技能 §1.3 写「讹字/形近字行不建新卡」；2026-11-22 主人改令：形近讹字也要建卡 | 按 §4.3 补讹字卡（`noRoot:true`＋`ezi`）；父卡行保持整行无 `——`；`check-rows-cards` 逐行拦 |
 | 单字建卡改了一堆文档 | 把「记录」当成每字必做 | 三层记录（§11.1）：单字不写 HANDOFF/CURRENT/exegesis/SKILL |
 | 简体表两份改漏一份 | 手改 root 与 cards 两份 | 只改 `cards/variants.json`；root 由 `build-card-index.py` 生成 |
 
 ## 13. 一句话
 
-**原稿照抄，图按段归，桥两头扣（本组概括义项＋本字本義），一句十二字以内；名物有物性也搭桥；单字只动卡与图，整部走「lock → manifest → split → 并行 → check → merge → 集成门」，全绿再按路径提交。**
+**原稿照抄，图按段归，桥两头扣（本组概括义项＋本字本義），一句十二字以内；名物有物性也搭桥；讹字也建卡（`noRoot`＋`ezi`）；单字只动卡与图，整部走「lock → manifest → split → 并行 → check → merge → 集成门」，全绿再按路径提交。**
