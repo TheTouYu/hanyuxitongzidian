@@ -1,0 +1,36 @@
+{
+ "char": "抺",
+ "head": "抺",
+ "pinyin": "mèi",
+ "bus": {
+  "num": 314,
+  "name": "未"
+ },
+ "level": 3,
+ "parent": "未",
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“摸也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：掌蒙其面，捫索得狀（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

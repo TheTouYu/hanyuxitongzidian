@@ -1,0 +1,36 @@
+{
+ "char": "苿",
+ "head": "苿",
+ "pinyin": "wèi",
+ "bus": {
+  "num": 314,
+  "name": "未"
+ },
+ "level": 3,
+ "parent": "未",
+ "aliases": [],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“同菋。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}
