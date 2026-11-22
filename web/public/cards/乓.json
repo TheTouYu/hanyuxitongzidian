@@ -1,0 +1,35 @@
+{
+ "char": "乓",
+ "head": "乓",
+ "pinyin": "pāng",
+ "bus": {
+  "num": 312,
+  "name": "兵"
+ },
+ "level": 3,
+ "parent": "兵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "象聲詞，形容槍聲、關門聲、東西砸破聲等。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：闢口大開，聲洪而蕩（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}
