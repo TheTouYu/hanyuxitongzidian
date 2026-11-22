@@ -93,7 +93,7 @@ whenToUse: 主人要求新增/修订字卡、续建某一部、给族表补字�
 
 - 按「。」分段：句号前的图归当前字头；句号后遇到**单个汉字**标签，前一组的图归这个标签字；段末最后一组归该标签。
 - 图片按出现顺序存 `web/public/glyphs/<字>/NN.png`，`01` 起；同时写 `web/public/glyphs/index.json` 的 `chars[字] = {doc, variants, files}`。
-- 段内括注里的单张图（如 308 P331 㒼 异体后那张）不是字形图，跳过。
+- 段内括注里的单张图（如 308 P331 㒼 异体后那张）不是字形图，跳过；但**不要丢**：它往往是简化字/异体字的字体渲染图，按 §3.6 归位。
 - **抽完必须核对**：`files` 数量 == 段落里该组图数；标签字不是本段字头时，不能把它的图并进本字 `files`（见 §3.2）。
 
 现成抽取器 `tools/extract-glyphs.mjs`（零依赖 node）：
@@ -139,6 +139,19 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 - 引文里嵌的古文字，用占位符 `{{<栏>/NN.png}}` 原样插在文字流位置；文件存 `glyphs/inline/<字>/<栏>/NN.png`；section 加 `"gdir":"inline/<字>"`。
 - 验收：卡里必须有 `{{`，页面无残留 `{{`，对应 `<img>` 返回 200。
 - 一个栏里有多张时按 run 顺序编号；不要把一个占位符放在段末了事。
+
+### 3.6 括号里的现代字图（2026-11-22 血案）
+
+原稿常把字典里没有的字（多为简化字）用字体渲染成一张小图，塞在字形段或族表行的括号里，例如 `㒼（䓣𦲸<图>mán）` 里的 `<图>` 就是简化字 **𬜯**（29×35、1-bit、240 B），**不是古文字形**。批量抽图只按位置切，会把它排成 01。
+
+- 识别：`max(w,h) ≤ 40` 且 PNG 位深 ≤ 2（或文件 <350 B）→ 几乎一定是字体渲染图；它一旦被写进 `glyphs/index` 的 `files` 或卡的 `gimgs`，`verify-card` 的 **E056** 就告警。
+- 处置：
+  1. 移到 `web/public/glyphs/chars/<小写hex>.png`（`python -c "print('%x'%ord('𬜯'))"` → `2c72f`），这是服务端 `ext()` 的稀有字兜底，页面 head 的括注会显示成图；
+  2. 字符写进 head 括注与 `aliases`（如 `㒼（䓣𦲸𬜯）`）；
+  3. 从 `glyphs/index.json` 的 `files` 与卡的 `gimgs` 移除，后面的图**前移重编号**（宁可少一号，不要留空号）；
+  4. 简体映射进 `cards/variants.json`（`𬜯→㒼`），重建索引；
+  5. 页检：本字字形数减一，`/card/<简体>` 能到本字。
+- 同类：`㡭`、`㷉`、`丯`、`弁`、`彻`、`榮`、`毚`、`涅`、`看`、`裼`、`龜`、`𩯋` 等目录里还留着 15 张这种小图（多已不被 `files` 引用）；清理该字时顺带删够不着的小图，别让它们再被索引捡回去。
 
 ## 4. 写卡：JSON 骨架
 
@@ -302,6 +315,7 @@ JSON 结构：
 | | E053 | 插图文件缺 |
 | | E054 | chars[].photos 与顶层 photos 不同步 |
 | | E055 | 顶层 photos 不是 `photos/<字>/…` 全路径 |
+| | E056 | 字形图疑为现代字/符号（≤40px 且 ≤2-bit，或 <350 B；warn） |
 | 声母 | E060 | 声母缺失/格式不符 |
 | | E061 | 声母首字母与 pinyin 不符 |
 | | E062 | 取项不在组名两字内 |
@@ -349,31 +363,53 @@ $env:PORT='8099'; & 'C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\depen
 
 ## 9. 并行产线：拆单、派工、合并
 
-适用：建整部（>15 行族表）、补多张族卡、多 agent 同时开工。单卡不要拆。
+适用：建整部（>15 行族表）、补多张族卡。单卡不要拆。
 
-### 9.1 角色与所有权（冲突矩阵）
+### 9.1 三条铁律（2026-11-22 308/309 撞车后定）
 
-| 产物 | 谁写 | 规则 |
+1. **共享文件单写者**：`cards/index.json`、`alias-index.json`、`cards/variants.json`（源）、`web/public/variants.json`（生成）、`glyphs/index.json`、`photos/*`、父卡、服务、git —— 只有 lead 写，且只在合并完成后写一次。worker 一律不碰。
+2. **工人只写两处**：`<cards-dir>/<字>.json` 和 `<results>/batch-NN.json`。别人批、共享文件、父卡都不碰。
+3. **一部一 lead，开工先上锁**：`workplan.py lock`。两个 lead 同时各自重建索引，就是 308/309 互相回退的直接原因。
+
+### 9.2 所有权矩阵
+
+| 产物 | 谁写 | 时机 |
 |---|---|---|
-| `web/public/cards/<族字>.json` | 各 worker | 一人一字一文件，文件名唯一，天然不冲突 |
-| 父卡 `zizu.groups[].rows[3]`（桥句） | **只有 lead** | merge 阶段统一写，worker 不碰父卡 |
-| `results/batch-NN.json` | 各 worker | 只写自己批 |
-| `cards/index.json`、`alias-index.json` | lead | merge 后统一重建 |
-| `variants.json`（两份） | lead | 统一补 |
-| `glyphs/**`、`photos/**` | lead | 抽图/裁图/归位在派工前做完 |
-| 服务重启、git、memory | lead | worker 禁止 |
+| `cards/<族字>.json` | 各 worker（一人一批） | 派工期间 |
+| `results/batch-NN.json` | 各 worker | 派工期间 |
+| 父卡 `zizu.groups[].rows[3]` | lead | merge |
+| `cards/variants.json`（源） | lead | 备料/集成 |
+| `web/public/variants.json` | `build-card-index.py` 生成 | 集成（不手改） |
+| `cards/index.json`、`alias-index.json` | `build-card-index.py` | 集成 |
+| `glyphs/**`、`photos/**` | lead | 派工前备料；集成时补 |
+| 服务重启、git、memory | lead | 集成/提交 |
 
-### 9.2 阶段
+### 9.3 开工前 30 秒
 
-1. **lead 备料**：判型（§1）、取原文（§2）、抽字形/照片/參證并核数（§3）、补 variants（§7）。
-2. **lead 写 manifest**：把族表拆成组与行，行里带 `quote`（引文到首句）、`shiyi`（原稿整行**去掉字头+拼音**）、`cls`、`pinyin`，桥句留空；特殊行标 `kind`（`translit`/`ezi`）与 `notes`（多音取读、声母取项提示）。
+```powershell
+tools\git.cmd status --short
+.runtime\python\python.exe tools\workplan.py status
+.runtime\python\python.exe tools\workplan.py lock --owner <你的名字> --bu <部名>
+```
+
+- `status` 显示别人的 lock（12 小时内）→ **停**：换部、或只做只读备料，不要集成；确需接管才 `--force`，并先问主人。
+- `git status` 有别人改的共享文件（index/variants/glyphs/index/photos）→ 视为脏：**不重建、不覆盖、不提交这些路径**；先把你的卡做成独立 commit，再协调。
+- HEAD 在你干活期间前移 → 提交前重读要改的文件；不要拿开工时的快照写回。
+
+### 9.4 阶段
+
+0. **上锁**（§9.3）。
+1. **lead 备料**：判型（§1）、取原文（§2）、抽字形/照片/參證并核数（§3）、补 `cards/variants.json`（§7）。
+2. **lead 写 manifest**：族表拆组与行，行带 `quote`（引文到首句）、`shiyi`（原稿整行去字头+拼音）、`cls`、`pinyin`，桥句留空；特殊行标 `kind`（`translit`/`ezi`）与 `notes`（多音取读、声母取项提示）。
 3. **lead split**：`workplan.py split` 生成批次、结果模板、README。
-4. **worker 并行**：按 §9.4 的契约写卡 + 桥句 + 自检，交结果。
-5. **lead 合并**：`workplan.py check`（桥句/覆盖/族卡釋義逐字核对）→ `merge --apply` 写回父卡 → 重建 index。
-6. **lead 集成门**：`verify-card --bu`、`check-bu`、`check-ezi`、`check-hygiene`、`check-shiyi`、`check-luodian`、页检（§8）。
-7. **lead 提交**：§11。
+4. **worker 并行**：按 §9.6 契书写卡 + 桥句 + 自检。
+5. **lead 收单**：`workplan.py check --cards-dir`（覆盖、桥句、釋義逐字一致）；`workplan.py audit` 查有没有人越界写了共享文件。
+6. **lead merge**：先 dry-run 再 `--apply`，只写父卡。
+7. **lead 集成**：`build-card-index.py` 一次重建 index/alias/root-variants；重启服务。
+8. **集成门**：`verify-card --bu`、`check-bu`、`check-ezi`、`check-cardhygiene`、`check-shiyi`、`check-luodian`、页检（§8、§10）。
+9. **按路径提交**（§11）；`workplan.py unlock`。
 
-### 9.3 manifest 与命令
+### 9.5 manifest 与命令
 
 ```json
 {
@@ -394,49 +430,59 @@ $env:PORT='8099'; & 'C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\depen
 $env:PYTHONIOENCODING='utf-8'
 # 拆：每批 5–6 行；--cards-dir 指定工人写卡目录（生产=web/public/cards，试点=.tmp-pilot/cards）
 .runtime\python\python.exe tools\workplan.py split --manifest .tmp-plan\309.json --batch 6 --out .tmp-plan\309 --cards-dir web\public\cards
-# 合并前验桥句、覆盖、以及每张族卡釋義是否与工单逐字一致（不写盘）
+# 收单：桥句、覆盖、族卡釋義逐字（不写盘）
 .runtime\python\python.exe tools\workplan.py check --manifest .tmp-plan\309.json --results .tmp-plan\309\results --cards-dir web\public\cards
-# 合并（先 dry-run，确认后再 --apply；--cards-dir 用于读回工人卡校验）
+# 越界审计：只该有本批卡与结果；共享文件被改会打 OUTSIDE
+.runtime\python\python.exe tools\workplan.py audit --manifest .tmp-plan\309.json --results .tmp-plan\309\results --cards-dir web\public\cards
+# 合并（先 dry-run，确认后再 --apply）
 .runtime\python\python.exe tools\workplan.py merge --manifest .tmp-plan\309.json --results .tmp-plan\309\results --cards-dir web\public\cards --apply
 ```
 
-- `merge` 用 `[label,pinyin,cls,quote+"——"+bridge]` 重建行，按 `(group,order,char)` 覆盖父卡；有错（缺行、重复、空桥、桥句违规）就 exit 1 且不写盘。
-- 桥句以「——」开头、或整行以「《」开头（音译/名物）时，`bridge`/`text` 按工单字段原样用。
-- `kind=translit` 写成 `音譯字，只取其音`；`kind=ezi` 用 `text` 整行，无「——」。
+- `merge` 用 `[label,pinyin,cls,quote+"——"+bridge]` 重建行，按 `(group,order,char)` 覆盖父卡；有错（缺行、重复、空桥、桥句违规）exit 1 且不写盘。
+- `bridge` 以「——」开头、或 `text` 整行给出（音译/名物/讹字）时原样用。
+- `kind=translit` 写 `音譯字，只取其音`；`kind=ezi` 用 `text`，无「——」。
 
-### 9.4 worker 契书（派工时原样给）
+### 9.6 worker 契书（派工时原样给）
 
 > 你只做本批 `batch-NN.json` 里的行。
 > 1. 先读 `.dsh/skills/hanzi-card/SKILL.md` 的 §4/§5/§6 与 `README.md`。
-> 2. 每行一张 `web/public/cards/<字>.json`：`char/head/pinyin/bus/level:3/parent` 按工单；`shiyi` **逐字**等于工单 `shiyi`；`shengmu` 按 §6 自拟；`aliases` 只列 head 括注里、且无独立卡的字；不加 zizu/zixing。
-> 3. 桥句按 §5.2 自拟，填进 `results/batch-NN.json`（`{group,order,char,bridge,evidence}`）。
-> 4. 自检到 0 error：`verify-card.py --file web/public/cards/<字>.json --cards-dir web/public/cards`。
-> 5. 禁止：改父卡、index、variants、glyphs、服务、git；不要动别人批的文件。
+> 2. 每行一张 `<cards-dir>/<字>.json`：`char/head/pinyin/bus/level:3/parent` 按工单；`shiyi` **逐字**等于工单 `shiyi`；`shengmu` 按 §6 自拟；`aliases` 只列 head 括注里、且无独立卡的字；不加 zizu/zixing。
+> 3. 桥句按 §5.2 自拟，填 `results/batch-NN.json`（`{group,order,char,bridge,evidence}`）。
+> 4. 自检到 0 error：`verify-card.py --file <cards-dir>/<字>.json --cards-dir <cards-dir>`。
+> 5. **只写自己批的卡与结果文件**；禁止改父卡、index、variants、glyphs、服务、git；不要动别人批。
 > 6. 交付：RESULT 行、桥句原文、不确定点（工单缺什么、哪条规则最难）。
 
-### 9.5 批次与并行度
+### 9.7 批次与并行度
 
 - 默认 **5–6 行/批**；有 inline 形、多音、长释义时 3–4 行；纯名物短行可 8 行。
 - 同时跑 3–6 个 worker 最稳；每多一个 worker，lead 的合并核对不省。
 - 一个 worker 只拿一批；批次之间不共享文件，避免互相看见对方的桥句。
 
-### 9.6 集成门（lead 不能省的手工复核）
+### 9.8 集成门（lead 不能省的手工复核）
 
+- `workplan.py audit` 必须 0 越界；有 OUTSIDE 先查是谁改的，别直接提交。
 - 抽 1–2 行**自己重读原稿**，核对 worker 的 `shiyi` 与桥句；机器只拦格式，不判「搭桥是否讲得通」。
 - 桥句与声母是否互相复述：同一物象/同一组词出现两次就改。
-- 工单若与父卡已有行重复（重跑旧部），先把父卡对应行桥句**清空或换占位**再发单，否则 worker 会抄到答案（试点踩过）。
-- worker 报「不确定」的条目，逐条裁决；裁决结果写进交付说明，不留在聊天里。
+- 重跑旧部时，父卡已有 gold 桥句会泄题：先把对应行桥句清空或换占位再发单。
+- worker 报「不确定」的条目逐条裁决，裁决写进交付说明，不留在聊天里。
 
-### 9.7 失败处理
+### 9.9 冲突处理
 
-- 某批超时/失败：单独重派该批，不合并半批；`workplan.py check` 会报缺行。
-- worker 写错父卡/index：`git restore` 该文件（未提交时），并按 §8.6 回滚。
-- 合并后 verify 报错：先看是不是 worker 卡与 manifest 不一致（E070/E042），再决定改卡还是改 manifest；不要直接改父卡文字绕过。
+| 症状 | 处置 |
+|---|---|
+| lock 被别人持有 | 等/换部/只做只读准备；不集成、不重建索引 |
+| git status 有别人改的 index/variants/glyphs-index/photos | 不碰这些路径；只提交自己的卡与图；请对方先提交，或等其提交后再重建 |
+| 提交时 HEAD 已前移 | 重读目标文件；`git diff` 看新改动；只 add 自己路径 |
+| 自己的索引条目被整体覆盖 | 不反复重写；在最新文件上只补自己的键，重建一次并立即提交 |
+| 两人改了同一张卡 | 后手先读对方版本，人工合并语义；不整文件覆盖 |
+| worker 写了父卡/index | `git restore` 该文件，重派该批；audit 会指出越界 |
 
-### 9.8 实测记录（2026-11-22 试点）
+**绝对禁止**：`git add -A`、`git checkout -- .`、`git clean -fd`、`git reset --hard`。
 
-- 2 个 worker × 2 行（緉/輛、倆/𨨄），首轮各自 `verify-card --file` 均 PASS 0/0；桥句分别落在「隻履不成步/雙輪共一軸」「一手不能成技/鏈環相銜而加諸物」，与既有定稿同向，最长 8 字。
-- 暴露的三个问题已回写本技能：①README 的 cards 路径要按 `--cards-dir` 生成（旧版写死）；②试点父卡带着答案，worker 能抄（正式产线父卡尚无这些行，重跑旧部要先清）；③工单没有声母素材，worker 只能从釋義/组题反推——lead 对多音/名物行要在 `notes` 里给读音与取项提示。
+### 9.10 实测与事故
+
+- 2026-11-22 试点：2 worker × 2 行（緉/輛、倆/𨨄）首轮 PASS；桥句 8 字内。
+- 2026-11-22 308/309 并行：309 会话整体重写 `variants.json`/`glyphs/index.json`，把 308 刚加的 7 个简体键与 㒼 的索引条目回退，HEAD 前移两次；靠「按路径提交 + 在对方最新文件上重补」收场。§9.1 由此而来。
 
 ## 10. 验收清单（整部交付前逐条打勾）
 
@@ -453,16 +499,47 @@ $env:PYTHONIOENCODING='utf-8'
 ```
 
 - 页检：`/card/<部头>` 图注数 = 字形+參證+插图；`{{` 残留 0；简体/异体路由 200。
-- `git status` 里只该有本次产物与 `tools/` 新工具；`.tmp-*` 临时文件删掉。
+- 字形：`verify-card` 的 E056 = 0（没有现代字混进古文字形序列）；有则按 §3.6 归位。
+- 越界：`workplan.py audit ... --allow "tools/*"` 为 0；`git status` 里只该有本次产物与 `tools/` 新工具；`.tmp-*` 临时文件删掉。
+- `build-card-index.py` 输出 `index N / alias M / variants K` 三个数（root variants 由它同步，不手改）。
 - 最后回主人：结论先行（建成/提交 hash/校验数字/图数），再讲异常与下一步。
 
-## 11. 提交与记忆
+## 11. 提交与记忆：分三层，别让单字牵动全局
 
-- 只 `git add` 本次产物（`web/public/cards`、`web/public/glyphs`、`variants`、`index`、必要的 `tools/*.py`）；**绝不 `git add -A`**。
-- 不删 `debug.log`、`intake/bao/`；不 glob 删 `tools/_tmp_*`（里面有已入库文件，误删过一次）。
-- 提交信息：`cards <部号> <部名>（<头字> N形/<二级> M形，K 族卡，插图 P；……）`；补简体写「补 X/Y 简体索引」。
-- 改 `memory/HANDOFF.md`（Done when、最新提交、最近一部、待办）与 `memory/CURRENT.md`（日期列表顶部插一条，记数字与校验结果）。
-- 工具改动单独提交（`tools: …`），不要和 cards 混在一个 commit。
+### 11.1 三层记录
+
+| 改动 | 该写 | 不要写 |
+|---|---|---|
+| 单字（补卡/改图/改桥句） | 卡 JSON、`glyphs/<字>/`、必要时 `cards/variants.json` | HANDOFF、CURRENT、exegesis、SKILL |
+| 整部（部头+族+图+索引） | 上述 + index/alias/root-variants + CURRENT 一条 | HANDOFF 只在部完成/待办变时改 |
+| 规则或流程变更 | exegesis（内容规则）或 SKILL（流程）二选一为源 | 另一处只放指针；HANDOFF 只留一行 |
+
+- **单字建卡不写任何 memory 文档**；回主人一句话即可。只有发现「新错误类」才动 HANDOFF/SKILL。
+- CURRENT 一部一条：部号、字数、校验数字、页检图数；不写过程。
+- HANDOFF 只维护四行（Done when、最新提交、最近一部、待办）+ 错误类标题；细节在 SKILL §12。
+
+### 11.2 单字最小提交面
+
+1. `web/public/cards/<字>.json`
+2. `web/public/glyphs/<字>/`（有新图时）
+3. `web/public/cards/variants.json`（有简体时；root variants 由 `build-card-index.py` 生成，不手改）
+4. `cards/index.json` / `alias-index.json`（动了别名/简体才要，且由脚本重建）
+
+页检：`/card/<字>` 图数对、无 `{{`；`/card/<简体>` 200 或 302。
+提交信息：`cards <字>：…`。
+
+### 11.3 整部提交
+
+- 只 `git add` 本次产物；**绝不 `git add -A`**。
+- 不删 `debug.log`、`intake/bao/`；不 glob 删 `tools/_tmp_*`。
+- 提交信息：`cards <部号> <部名>（<头字> N形/<二级> M形，K 族卡，插图 P；…）`。
+- 工具改动单独 `tools: …`，不与 cards 混。
+- 提交前 `workplan.py audit --manifest … --allow "tools/*"` 确认没有越界文件。
+
+### 11.4 记忆模板
+
+- HANDOFF 四行 + 待办一项（只写数字与下一部）。
+- CURRENT 一条：`- 2026-MM-DD：<部> <字数>；check-bu 0/N、ezi 0、页检 N 图；<异常一句>`。
 
 ## 12. 事故库（都是踩过的）
 
@@ -479,7 +556,11 @@ $env:PYTHONIOENCODING='utf-8'
 | 字形图少几张 | 抽取器静默跳过 EMF/WMF 或 >900KB | 抽完数 `files` 对数；转 PNG/调 `--maxbytes` 补抽 |
 | 參證图并进本字 | 段落末尾 `N图X` 被当成本字字形 | 按 §3.2 分 `extra`/`cankao`，不要覆盖他字 files |
 | 并行时桥句互相打架 | 两个 worker 写同一行/父卡 | 一人一批、父卡只由 lead merge；重派单批 |
+| 共享文件被整体回退 | 两个 lead 各自重建 `variants`/`glyphs/index`，后写者用旧快照 | 一部一 lead、开工 lock、只在 merge 后重建一次；提交按路径（§9.1、§9.9） |
+| 字形序列混入现代字 | 括号里的字体渲染简图被当古文字形 | E056 告警；按 §3.6 移到 `glyphs/chars/<hex>.png`，重编号并补别名 |
+| 单字建卡改了一堆文档 | 把「记录」当成每字必做 | 三层记录（§11.1）：单字不写 HANDOFF/CURRENT/exegesis/SKILL |
+| 简体表两份改漏一份 | 手改 root 与 cards 两份 | 只改 `cards/variants.json`；root 由 `build-card-index.py` 生成 |
 
 ## 13. 一句话
 
-**原稿照抄，图按段归，桥句一句十二字以内；单卡先过 `verify-card`，整部走「manifest → split → 并行 → check → merge → 集成门」，全绿再提交。**
+**原稿照抄，图按段归，桥句一句十二字以内；单字只动卡与图，整部走「lock → manifest → split → 并行 → check → merge → 集成门」，全绿再按路径提交。**
