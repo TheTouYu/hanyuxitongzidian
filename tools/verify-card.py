@@ -482,8 +482,14 @@ def check_shiyi(card, ch, expect):
     line = (expect or {}).get(ch)
     if not line:
         return
-    shi = norm(t)
-    tail = norm(rowtail(str(line)))
+    def cmp_norm(x):
+        # 句内形占位符与 txt 缓存的 [图] 都是图，不是文字：比对时剥掉
+        x = re.sub(r"\{\{[^{}]*\}\}", "", x or "")
+        x = x.replace("[图]", "")
+        return norm(x)
+
+    shi = cmp_norm(t)
+    tail = cmp_norm(rowtail(str(line)))
     if shi != tail:
         iss("E070", "error", ch, "shiyi", "釋義不是原稿整行",
             "从《/「 处开始整行照录，只剥字头与拼音", "card=%s | orig=%s" % (shi[:40], tail[:40]))
@@ -510,6 +516,10 @@ def check_page(card, ch, base):
     figs = len(re.findall(r"<figcaption", html))
     g = GLYPH_INDEX.get("chars", {}).get(ch) or {}
     exp = len(g.get("files") or []) + len((GLYPH_INDEX.get("photos") or {}).get(ch) or [])
+    for e in (g.get("extra") or []):
+        c2 = e.get("char") if isinstance(e, dict) else e
+        g2 = GLYPH_INDEX.get("chars", {}).get(c2) or {}
+        exp += len(g2.get("files") or [])
     for s in sections(card):
         exp += len(s.get("cimgs") or [])
     if figs != exp:

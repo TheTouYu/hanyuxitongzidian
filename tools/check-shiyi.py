@@ -10,7 +10,10 @@ CARDS = os.path.join(ROOT, 'web', 'public', 'cards')
 
 
 def norm(s):
-    s = re.sub(r'\s+', '', s or '')
+    # 句内形占位符与 txt 缓存的 [图] 都是图，不是文字：比对时剥掉
+    s = re.sub(r'\{\{[^{}]*\}\}', '', s or '')
+    s = s.replace('[图]', '')
+    s = re.sub(r'\s+', '', s)
     s = s.replace('“', '"').replace('”', '"').replace('‘', "'").replace('’', "'")
     s = s.replace('：', ':').replace('，', ',')
     return s
