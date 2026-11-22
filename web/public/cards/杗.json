@@ -1,0 +1,35 @@
+{
+ "char": "杗",
+ "head": "杗",
+ "pinyin": "máng",
+ "bus": {
+  "num": 313,
+  "name": "亡"
+ },
+ "level": 3,
+ "parent": "亡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“棟也。从木亡聲。《爾雅》曰：‘杗𢊺謂之梁’。武方切。”棟樑。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：木末承樑，蒙於屋脊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

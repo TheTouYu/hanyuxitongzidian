@@ -1,0 +1,41 @@
+{
+ "char": "杧",
+ "head": "杧",
+ "pinyin": "máng",
+ "bus": {
+  "num": 313,
+  "name": "亡"
+ },
+ "level": 3,
+ "parent": "亡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "芒果，一種樹上結的果子，橢圓形，果肉黃色，味美多汁，可食，其葉披針形。原產印度。拉丁名Mangifera indica L的音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：果蒙葉末，垂而待摘（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

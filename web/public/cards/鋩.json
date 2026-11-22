@@ -1,0 +1,38 @@
+{
+ "char": "鋩",
+ "head": "鋩",
+ "pinyin": "máng",
+ "bus": {
+  "num": 313,
+  "name": "亡"
+ },
+ "level": 3,
+ "parent": "芒",
+ "aliases": [
+  "釯"
+ ],
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“刃端。”刀劍等的尖端。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：刃末蒙鋼，利而藏鋒（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

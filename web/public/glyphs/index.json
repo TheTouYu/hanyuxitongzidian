@@ -90465,8 +90465,8 @@
    ],
    "photos": [
     {
-     "file": "01.jpg",
-     "caption": ""
+     "file": "photos/亡/01.jpg",
+     "caption": "青銅刀（商）"
     }
    ]
   },
@@ -90573,6 +90573,12 @@
     "芒/04.png",
     "芒/05.png",
     "芒/06.png"
+   ],
+   "photos": [
+    {
+     "file": "photos/芒/01.jpg",
+     "caption": "芭茅"
+    }
    ]
   },
   "杧": {
@@ -90589,11 +90595,7 @@
    ],
    "photos": [
     {
-     "file": "01.jpg",
-     "caption": "芭茅"
-    },
-    {
-     "file": "02.jpg",
+     "file": "photos/杧/01.jpg",
      "caption": ""
     }
    ]
@@ -90672,6 +90674,12 @@
     "巟/03.png",
     "巟/04.png",
     "巟/05.png"
+   ],
+   "photos": [
+    {
+     "file": "photos/巟/01.jpg",
+     "caption": ""
+    }
    ]
   },
   "㠩": {
@@ -109802,6 +109810,28 @@
      "label": "字形（賓）"
     }
    ]
+  },
+  "硭": {
+   "doc": "卷五十四  网",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "photos/硭/01.jpg",
+     "caption": "山西運城鹽湖在冬季結晶成的硭硝"
+    }
+   ]
+  },
+  "𩶡": {
+   "doc": "卷五十四  网",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "photos/𩶡/01.jpg",
+     "caption": "廬山石魚"
+    }
+   ]
   }
  },
  "炙": {
@@ -110675,7 +110705,7 @@
   "亡": [
    {
     "file": "photos/亡/01.jpg",
-    "caption": ""
+    "caption": "青銅刀（商）"
    }
   ],
   "亢": [
@@ -112247,7 +112277,7 @@
   ],
   "杧": [
    {
-    "file": "photos/杧/02.jpg",
+    "file": "photos/杧/01.jpg",
     "caption": ""
    }
   ],
@@ -122188,6 +122218,24 @@
   "浜": [
    {
     "file": "photos/浜/01.jpg",
+    "caption": ""
+   }
+  ],
+  "芒": [
+   {
+    "file": "photos/芒/01.jpg",
+    "caption": "芭茅"
+   }
+  ],
+  "硭": [
+   {
+    "file": "photos/硭/01.jpg",
+    "caption": "山西運城鹽湖在冬季結晶成的硭硝"
+   }
+  ],
+  "巟": [
+   {
+    "file": "photos/巟/01.jpg",
     "caption": ""
    }
   ]

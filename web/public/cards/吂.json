@@ -1,0 +1,35 @@
+{
+ "char": "吂",
+ "head": "吂",
+ "pinyin": "máng",
+ "bus": {
+  "num": 313,
+  "name": "亡"
+ },
+ "level": 3,
+ "parent": "亡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“使人問而不肯，答曰吂。”表示不同意的嘆詞。màng，《集韻》：“耄昏不知皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：口蒙其言，問而不答（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

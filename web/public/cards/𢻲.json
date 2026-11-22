@@ -1,0 +1,35 @@
+{
+ "char": "𢻲",
+ "head": "𢻲",
+ "pinyin": "fǔ",
+ "bus": {
+  "num": 313,
+  "name": "亡"
+ },
+ "level": 3,
+ "parent": "亡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“撫也。从攴亾聲。讀與撫同。芳武切。”撫摩。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：手附其身，撫而不離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}
