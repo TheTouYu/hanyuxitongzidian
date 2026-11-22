@@ -1,0 +1,36 @@
+{
+ "char": "錻",
+ "head": "錻",
+ "pinyin": "bū",
+ "aliases": [],
+ "bus": {
+  "num": 318,
+  "name": "武"
+ },
+ "level": 3,
+ "parent": "武",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "鍍鋅鐵皮。馬口鐵。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：薄鐵包被，閉護其內（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ]
+}

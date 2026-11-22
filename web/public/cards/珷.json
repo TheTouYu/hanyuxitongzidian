@@ -1,0 +1,38 @@
+{
+ "char": "珷",
+ "head": "珷（碔）",
+ "pinyin": "wǔ",
+ "aliases": [
+  "碔"
+ ],
+ "bus": {
+  "num": 318,
+  "name": "武"
+ },
+ "level": 3,
+ "parent": "武",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“石似玉也。與珷同。”疑指鸚鵡般的五色玉。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ]
+}

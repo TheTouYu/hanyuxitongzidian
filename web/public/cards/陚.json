@@ -1,0 +1,36 @@
+{
+ "char": "陚",
+ "head": "陚",
+ "pinyin": "fù",
+ "aliases": [],
+ "bus": {
+  "num": 318,
+  "name": "武"
+ },
+ "level": 3,
+ "parent": "武",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“丘名。从𨸏武聲。方遇切。”《玉篇》：“小阜也。”小土山。《集韻》：“平原。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「附」：小阜附地，隆起成丘（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ]
+}
