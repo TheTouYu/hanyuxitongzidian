@@ -1,0 +1,35 @@
+{
+ "char": "𢑢",
+ "head": "𢑢",
+ "pinyin": "hū",
+ "level": 3,
+ "parent": "勿",
+ "bus": {
+  "num": 305,
+  "name": "勿"
+ },
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“豕屬。从㣇曶聲。呼骨切。”小篆作。疑本指豬的鼾聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：豕鼻出氣豁然（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}
