@@ -1,0 +1,35 @@
+{
+ "char": "𢝌",
+ "head": "𢝌",
+ "pinyin": "mào",
+ "bus": {
+  "num": 306,
+  "name": "冃"
+ },
+ "level": 3,
+ "parent": "冃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "𢝌mào《集韻》：“莫報切，音冒。貪也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：貪冒於心，冒取非分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}
