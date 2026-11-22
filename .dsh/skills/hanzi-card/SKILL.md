@@ -431,6 +431,7 @@ $env:PORT='8099'; & 'C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\depen
 1. **共享文件单写者**：`cards/index.json`、`alias-index.json`、`cards/variants.json`（源）、`web/public/variants.json`（生成）、`glyphs/index.json`、`photos/*`、父卡、服务、git —— 只有 lead 写，且只在合并完成后写一次。worker 一律不碰。
 2. **工人只写两处**：`<cards-dir>/<字>.json` 和 `<results>/batch-NN.json`。别人批、共享文件、父卡都不碰。
 3. **一部一 lead，开工先上锁**：`workplan.py lock`。两个 lead 同时各自重建索引，就是 308/309 互相回退的直接原因。
+4. **只在本 repo 的当前工作树内工作**：同一台机器可能有别的 checkout/生产目录；不要读它们找答案，也不要读 git 历史/远程/对象库找旧桥句。
 
 ### 9.2 所有权矩阵
 
