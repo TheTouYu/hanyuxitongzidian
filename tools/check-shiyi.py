@@ -16,10 +16,27 @@ def norm(s):
     return s
 
 
+PINYIN = 'a-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜüńňǹḿ'
+HEAD_RE = re.compile(
+    r'^[\u3400-\u9fff\U00020000-\U0002a6df]{1,4}'
+    r'(?:[（(][^）)]*[）)])?'
+    r'[\s、，,]*[%s]+(?:[\s、，,]+[%s]+)*[\s、，,：:]*' % (PINYIN, PINYIN))
+
+
 def rowtail(t):
     """剥去行首字头（含括注）与拼音，返回原文剩余部分。"""
-    cut = min([i for i in (t.find('《'), t.find('“'), t.find('「')) if i > 0] or [0])
-    return t[cut:]
+    t = (t or '').strip()
+    m = HEAD_RE.match(t)
+    if m:
+        rest = t[m.end():]
+        if rest:
+            return rest
+    # 没有拼音的行：字头后直接是书证或冒号
+    cut = min([i for i in (t.find('《'), t.find('“'), t.find('「')) if 0 < i <= 12] or [0])
+    if cut:
+        return t[cut:]
+    m2 = re.match(r'^[\u3400-\u9fff\U00020000-\U0002a6df]{1,4}[：:]?', t)
+    return t[m2.end():] if m2 else t
 
 
 def main():
