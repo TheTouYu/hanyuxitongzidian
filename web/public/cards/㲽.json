@@ -1,0 +1,35 @@
+{
+ "char": "㲽",
+ "head": "㲽",
+ "pinyin": "niàn、rěn",
+ "bus": {
+  "num": 344,
+  "name": "刃"
+ },
+ "level": 3,
+ "parent": "刃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“水也。从水刃聲。乃見切。”水名，約在山西西南部。rěn，《集韻》：“沴㲽，濕相著也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」不系：水名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ]
+}

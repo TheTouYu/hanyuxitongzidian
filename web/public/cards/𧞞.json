@@ -1,0 +1,35 @@
+{
+ "char": "𧞞",
+ "head": "𧞞",
+ "pinyin": "xióng",
+ "bus": {
+  "num": 342,
+  "name": "能"
+ },
+ "level": 3,
+ "parent": "能",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“匣東切，音雄。強也。”指熊的強壯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：強力續持，雄而不屈（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ]
+}

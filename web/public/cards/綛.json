@@ -1,0 +1,35 @@
+{
+ "char": "綛",
+ "head": "綛",
+ "pinyin": "rěn",
+ "bus": {
+  "num": 344,
+  "name": "刃"
+ },
+ "level": 3,
+ "parent": "刃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "墨繩。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：墨繩柔引，彈而取直（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ]
+}

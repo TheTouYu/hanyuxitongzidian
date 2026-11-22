@@ -1,0 +1,39 @@
+{
+ "char": "熊",
+ "head": "熊（𪏛𤠗）",
+ "pinyin": "xióng",
+ "bus": {
+  "num": 342,
+  "name": "能"
+ },
+ "level": 3,
+ "parent": "能",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“獸似豕。山居，冬蟄。从能，炎省聲。凡熊之屬皆从熊。羽弓切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：熊毛續生，厚密不絕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "𪏛",
+  "𤠗"
+ ]
+}

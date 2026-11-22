@@ -1,0 +1,38 @@
+{
+ "char": "𧊕",
+ "head": "𧊕（蜙）",
+ "pinyin": "sōng",
+ "bus": {
+  "num": 345,
+  "name": "戎"
+ },
+ "level": 3,
+ "parent": "戎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“蟲名。”《正字通》：“俗蜙字。”蝗蟲之屬。疑指毛蟲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：毛蟲收身，蠕而不進（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "蜙"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "𢅩",
+ "head": "𢅩（𧟍）",
+ "pinyin": "bì",
+ "bus": {
+  "num": 342,
+  "name": "能"
+ },
+ "level": 3,
+ "parent": "能",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“裙也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：裙幅閉合，裹身而下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "𧟍"
+ ]
+}

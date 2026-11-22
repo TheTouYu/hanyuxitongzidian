@@ -1,0 +1,35 @@
+{
+ "char": "㨢",
+ "head": "㨢（㱟）",
+ "pinyin": "pī",
+ "bus": {
+  "num": 342,
+  "name": "能"
+ },
+ "level": 3,
+ "parent": "能",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㱟，剖肉也。或作㨢。”指如兩腿直立的熊狀。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：剖肉相拼，分而不合（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ]
+}

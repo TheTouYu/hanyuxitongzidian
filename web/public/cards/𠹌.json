@@ -1,0 +1,35 @@
+{
+ "char": "𠹌",
+ "head": "𠹌",
+ "pinyin": "něng",
+ "bus": {
+  "num": 342,
+  "name": "能"
+ },
+ "level": 3,
+ "parent": "能",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“多言也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：多言納舌，絮絮不休（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ]
+}

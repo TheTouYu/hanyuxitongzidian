@@ -1,0 +1,41 @@
+{
+ "char": "㐰",
+ "head": "㐰（信娮訫）",
+ "pinyin": "xìn",
+ "bus": {
+  "num": 343,
+  "name": "人"
+ },
+ "level": 3,
+ "parent": "人",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“誠也。从人从言。會意。{{shiyi/01.png}}，古文从言省。{{shiyi/02.png}}，古文信。息晉切。”誠實。信息。甲骨文从人从口。",
+   "gdir": "inline/㐰"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：言語續實，信而不欺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十九能",
+     "label": "卷五十九能"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "信",
+  "娮",
+  "訫"
+ ]
+}
