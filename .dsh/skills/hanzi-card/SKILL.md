@@ -366,7 +366,7 @@ $env:PORT='8099'; & 'C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\depen
 ### 9.2 阶段
 
 1. **lead 备料**：判型（§1）、取原文（§2）、抽字形/照片/參證并核数（§3）、补 variants（§7）。
-2. **lead 写 manifest**：把族表拆成组与行，行里带 `quote`（引文到首句）与 `shiyi`（原稿整行），桥句留空；特殊行标 `kind`（`translit`/`ezi`/`name`）与 `notes`。
+2. **lead 写 manifest**：把族表拆成组与行，行里带 `quote`（引文到首句）、`shiyi`（原稿整行**去掉字头+拼音**）、`cls`、`pinyin`，桥句留空；特殊行标 `kind`（`translit`/`ezi`）与 `notes`（多音取读、声母取项提示）。
 3. **lead split**：`workplan.py split` 生成批次、结果模板、README。
 4. **worker 并行**：按 §9.4 的契约写卡 + 桥句 + 自检，交结果。
 5. **lead 合并**：`workplan.py check`（桥句/覆盖/族卡釋義逐字核对）→ `merge --apply` 写回父卡 → 重建 index。
