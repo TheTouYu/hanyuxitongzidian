@@ -2,7 +2,8 @@
 """重建 web/public/cards/index.json（不移动文件）。"""
 import json,io,os,sys
 sys.stdout.reconfigure(encoding="utf-8",errors="replace")
-C=r"D:\系统汉字\web\public\cards"
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+C=os.path.join(ROOT,"web","public","cards")
 variants={}
 vp=os.path.join(C,"variants.json")
 if os.path.exists(vp): variants=json.load(io.open(vp,encoding="utf-8"))
@@ -34,3 +35,8 @@ for r in rows:
         if a and a!=ch: amap.setdefault(a,ch)
 json.dump(amap,io.open(os.path.join(C,"alias-index.json"),"w",encoding="utf-8"),ensure_ascii=False,separators=(",",":"))
 print("alias",len(amap))
+# 简体表单一真源：cards/variants.json → web/public/variants.json（服务端路由用）
+rp=os.path.join(os.path.dirname(C),"variants.json")
+with io.open(rp,"w",encoding="utf-8",newline="\n") as f:
+    json.dump(variants,f,ensure_ascii=False,indent=1); f.write("\n")
+print("variants",len(variants))

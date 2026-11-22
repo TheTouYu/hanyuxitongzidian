@@ -27,6 +27,7 @@ import io
 import json
 import os
 import re
+import struct
 import sys
 import urllib.error
 import urllib.parse
@@ -100,6 +101,39 @@ def rowtail(t):
 
 def han_only(s):
     return "".join(HAN_RE.findall(s or ""))
+
+
+def png_meta(path):
+    """读 PNG 头，返回 (宽, 高, 位深, 颜色类型)；非 PNG/读不了返回 None。"""
+    try:
+        with open(path, "rb") as f:
+            head = f.read(29)
+    except OSError:
+        return None
+    if len(head) < 29 or head[:8] != b"\x89PNG\r\n\x1a\n":
+        return None
+    w, h = struct.unpack(">II", head[16:24])
+    return w, h, head[24], head[25]
+
+
+def looks_like_modern_glyph(path):
+    """字形图疑似现代字/符号的启发式。
+
+    两种信号取其一：
+      A. 极小且 ≤2-bit（字体渲染的位图字，如 29×35、1-bit、240 B）；
+      B. 文件 <350 B（纯线条图，扫描件极少这么小）。
+    只用于 warn：古文字里也有极简的线条形，交人复核。
+    """
+    meta = png_meta(path)
+    if not meta:
+        return None
+    w, h, bd, ct = meta
+    size = os.path.getsize(path)
+    if max(w, h) <= 40 and bd <= 2:
+        return "仅 %d×%d、%d-bit、%d B" % (w, h, bd, size)
+    if size < 350:
+        return "仅 %d×%d、%d B" % (w, h, size)
+    return None
 
 
 def head_alias_chars(card):
@@ -436,6 +470,21 @@ def check_images(card, ch):
     if files and not gimgs and (card.get("level") or 3) <= 2:
         iss("E051", "warn", ch, "zixing", "index 有 %d 图，卡里 gimgs 空" % len(files),
             "部头/二级补 gimgs；族卡由 index 自动出图，可不补")
+    # 字形图本身是否像现代字（极小位图/纯线条小文件）
+    seen = []
+    for f in list(gimgs) + list(files):
+        if f and f not in seen:
+            seen.append(f)
+    for f in seen:
+        p = os.path.join(GLYPHS, *str(f).split("/"))
+        if not os.path.exists(p):
+            continue
+        why = looks_like_modern_glyph(p)
+        if why:
+            iss("E056", "warn", ch, "zixing",
+                "字形图疑为现代字/符号（%s）：%s" % (why, f),
+                "确认原图；若是简化字/现代字，移到 glyphs/chars/<小写hex>.png 补字图索引，"
+                "并从 glyphs/index 的 files 与卡 gimgs 移除", f)
     # 句中形
     for s in sections(card):
         gdir = s.get("gdir") or ""
@@ -553,8 +602,10 @@ def check_alias_pages(card, ch, base):
 
 
 # ---------------------------------------------------------------- main
-def verify(chars, bu, cards_dir, expect, page, base, do_alias_pages):
+def verify(chars, bu, cards_dir, expect, page, base, do_alias_pages, overrides=None):
     load_all(cards_dir)
+    for _ch, _card in (overrides or {}).items():
+        CARDS_MAP[_ch] = _card
     if bu:
         if bu not in CARDS_MAP:
             iss("E001", "error", bu, "file", "部头卡 %s.json 不存在" % bu, "先写部头卡")
@@ -597,18 +648,23 @@ def main():
     args = ap.parse_args()
 
     expect = load(args.expect) if args.expect else {}
+    if args.expect and expect is None:
+        ap.error("--expect 文件读不了：%s（不会静默跳过释义核对）" % args.expect)
     chars = list(args.chars)
+    overrides = {}
     for f in args.file:
         p = f if os.path.exists(f) else os.path.join(args.cards_dir, os.path.basename(f))
         d = load(p)
         if isinstance(d, dict) and d.get("char"):
             chars.append(d["char"])
+            overrides[d["char"]] = d
         else:
             ap.error("读不出卡：%s" % f)
     if not chars and not args.bu:
         ap.error("给字、--bu 或 --file")
 
-    verify(chars, args.bu, args.cards_dir, expect, args.page, args.base, args.alias_pages)
+    verify(chars, args.bu, args.cards_dir, expect, args.page, args.base,
+           args.alias_pages, overrides)
 
     order = {"error": 0, "warn": 1}
     issues = sorted(ISSUES, key=lambda x: (order.get(x["severity"], 2), x["code"], x["card"]))

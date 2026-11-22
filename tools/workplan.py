@@ -8,6 +8,10 @@
     split  --manifest m.json --batch 6 --out .tmp-plan
     check  --manifest m.json --results .tmp-plan/results
     merge  --manifest m.json --results .tmp-plan/results [--apply]
+    lock   --owner alice --bu 面 [--scope …]
+    unlock --owner alice
+    status
+    audit  --manifest m.json [--results DIR] [--cards-dir DIR]
 
 manifest 结构（lead 负责，来自原稿）：
 {
@@ -41,10 +45,16 @@ import io
 import json
 import os
 import re
+import subprocess
 import sys
+from datetime import datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CARDS = os.path.join(ROOT, "web", "public", "cards")
+GIT = os.path.join(ROOT, ".runtime", "mingit", "cmd", "git.exe")
+STATE_DIR = os.path.join(ROOT, ".tmp-workplan")
+LOCK = os.path.join(STATE_DIR, "lock.json")
+LOCK_HOURS = 12
 
 KIND_NO_BRIDGE = ("ezi", "translit", "proper", "name")
 
@@ -327,6 +337,119 @@ def cmd_merge(args):
         print("（dry-run；加 --apply 写回）")
 
 
+# ------------------------------------------------------------------ lock / audit
+def lock_info():
+    try:
+        return load(LOCK)
+    except Exception:
+        return None
+
+
+def lock_age_hours(info):
+    try:
+        t = datetime.fromisoformat(str(info.get("started")))
+        return (datetime.now() - t).total_seconds() / 3600.0
+    except Exception:
+        return 999.0
+
+
+def git_changed():
+    """git status --porcelain -z → [(XY, path)]；重命名的旧路径跳过。"""
+    if not os.path.exists(GIT):
+        return []
+    try:
+        out = subprocess.run([GIT, "-C", ROOT, "status", "--porcelain", "-z"],
+                             capture_output=True, check=True).stdout
+    except Exception:
+        return []
+    fields = out.decode("utf-8", "replace").split("\0")
+    rows, i = [], 0
+    while i < len(fields):
+        f = fields[i]
+        i += 1
+        if len(f) < 4:
+            continue
+        xy, path = f[:2], f[3:]
+        rows.append((xy, path.replace("\\", "/")))
+        if xy[0] in "RC" and i < len(fields):
+            i += 1
+    return rows
+
+
+def cmd_lock(args):
+    info = lock_info()
+    if info and info.get("owner") != args.owner:
+        age = lock_age_hours(info)
+        if age < LOCK_HOURS and not args.force:
+            print("LOCKED by %s（%.1f 小时前，bu=%s）" % (info.get("owner"), age, info.get("bu")))
+            print("同一时间只允许一个 lead 做集成；等对方 unlock，或确认后 --force 接管。")
+            sys.exit(1)
+    os.makedirs(STATE_DIR, exist_ok=True)
+    dump(LOCK, {"owner": args.owner, "bu": args.bu or "", "scope": args.scope or "",
+                "started": datetime.now().isoformat(timespec="seconds"), "pid": os.getpid()})
+    print("lock: %s（bu=%s）" % (args.owner, args.bu or "-"))
+
+
+def cmd_unlock(args):
+    info = lock_info()
+    if not info:
+        print("no lock")
+        return
+    if info.get("owner") != args.owner and not args.force:
+        print("lock 属于 %s，不是 %s；--force 才可强删" % (info.get("owner"), args.owner))
+        sys.exit(1)
+    os.remove(LOCK)
+    print("unlock: %s" % args.owner)
+
+
+def cmd_status(args):
+    info = lock_info()
+    if not info:
+        print("no lock")
+    else:
+        print("LOCK owner=%s bu=%s scope=%s started=%s（%.1f 小时）"
+              % (info.get("owner"), info.get("bu"), info.get("scope"),
+                 info.get("started"), lock_age_hours(info)))
+    changed = git_changed()
+    print("git 改动 %d 个" % len(changed))
+    for xy, p in changed[:args.max]:
+        print("  %s %s" % (xy, p))
+    if len(changed) > args.max:
+        print("  … 还有 %d 个" % (len(changed) - args.max))
+
+
+def cmd_audit(args):
+    man = load(args.manifest)
+    cards_dir = os.path.abspath(args.cards_dir)
+    results = os.path.abspath(args.results) if args.results else None
+    chars = [str(r.get("char")) for _, _, r in iter_rows(man) if r.get("char")]
+    allowed_exact = {os.path.relpath(os.path.join(cards_dir, c + ".json"), ROOT).replace("\\", "/")
+                     for c in chars}
+    allowed_exact.add(os.path.relpath(os.path.abspath(args.manifest), ROOT).replace("\\", "/"))
+    allowed_prefix = [".tmp-workplan/"]
+    for a in args.allow or []:
+        a = a.replace("\\", "/")
+        if a.endswith("*"):
+            allowed_prefix.append(a[:-1])
+        else:
+            allowed_exact.add(a)
+    rel_cards = os.path.relpath(cards_dir, ROOT).replace("\\", "/")
+    if rel_cards.startswith(".") or not rel_cards.startswith("web/public/cards"):
+        allowed_prefix.append(rel_cards.rstrip("/") + "/")
+    if results:
+        allowed_prefix.append(os.path.relpath(results, ROOT).replace("\\", "/").rstrip("/") + "/")
+    bad = []
+    changed = git_changed()
+    for xy, p in changed:
+        if p in allowed_exact or any(p.startswith(x) for x in allowed_prefix):
+            continue
+        bad.append((xy, p))
+    for xy, p in bad:
+        print("OUTSIDE %s %s" % (xy, p))
+    print("audit: 改动 %d，越界 %d（越界＝动了共享文件或别人产物）" % (len(changed), len(bad)))
+    sys.exit(0 if not bad else 1)
+
+
 def main():
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -351,6 +474,30 @@ def main():
     mp.add_argument("--apply", action="store_true")
     mp.add_argument("--max", type=int, default=30)
     mp.set_defaults(func=cmd_merge)
+
+    lp = sub.add_parser("lock")
+    lp.add_argument("--owner", required=True)
+    lp.add_argument("--bu")
+    lp.add_argument("--scope")
+    lp.add_argument("--force", action="store_true")
+    lp.set_defaults(func=cmd_lock)
+
+    up = sub.add_parser("unlock")
+    up.add_argument("--owner", required=True)
+    up.add_argument("--force", action="store_true")
+    up.set_defaults(func=cmd_unlock)
+
+    stp = sub.add_parser("status")
+    stp.add_argument("--max", type=int, default=20)
+    stp.set_defaults(func=cmd_status)
+
+    ap_ = sub.add_parser("audit")
+    ap_.add_argument("--manifest", required=True)
+    ap_.add_argument("--results")
+    ap_.add_argument("--cards-dir", default=CARDS)
+    ap_.add_argument("--allow", action="append", default=[],
+                     help="额外允许的路径（可多次；以 * 结尾表示前缀）")
+    ap_.set_defaults(func=cmd_audit)
 
     args = ap.parse_args()
     args.func(args)
