@@ -1,0 +1,36 @@
+{
+ "char": "𦔋",
+ "head": "𦔋",
+ "pinyin": "rǒng",
+ "aliases": [],
+ "bus": {
+  "num": 333,
+  "name": "耳"
+ },
+ "level": 3,
+ "parent": "茸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“草𦔋也。”艸初生皃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「锐」：芽尖破土，其鋒自銳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

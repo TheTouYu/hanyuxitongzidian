@@ -1,0 +1,36 @@
+{
+ "char": "𪓯",
+ "head": "𪓯",
+ "pinyin": "mí",
+ "aliases": [],
+ "bus": {
+  "num": 333,
+  "name": "耳"
+ },
+ "level": 3,
+ "parent": "弭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𪓬，𪓬𪓹，龜屬。如龜而多膏。或作𪓯。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：龜甲蒙覆，藏其體也（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

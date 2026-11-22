@@ -1,0 +1,36 @@
+{
+ "char": "傇",
+ "head": "傇",
+ "pinyin": "rǒng",
+ "aliases": [],
+ "bus": {
+  "num": 333,
+  "name": "耳"
+ },
+ "level": 3,
+ "parent": "茸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“乳勇切，音宂。眾也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：眾人之聚，柔順相隨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

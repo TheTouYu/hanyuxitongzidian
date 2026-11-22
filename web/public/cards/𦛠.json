@@ -1,0 +1,38 @@
+{
+ "char": "𦛠",
+ "head": "𦛠（𦞆）",
+ "pinyin": "niè",
+ "aliases": [
+  "𦞆"
+ ],
+ "bus": {
+  "num": 336,
+  "name": "日"
+ },
+ "level": 3,
+ "parent": "圼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“腫也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：水納肉中，脹而不消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

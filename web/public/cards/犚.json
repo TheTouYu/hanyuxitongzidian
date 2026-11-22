@@ -1,0 +1,36 @@
+{
+ "char": "犚",
+ "head": "犚",
+ "pinyin": "wèi",
+ "aliases": [],
+ "bus": {
+  "num": 334,
+  "name": "尼"
+ },
+ "level": 3,
+ "parent": "㷉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“牛名。”《爾雅·釋畜》：“黑耳，犚。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：牛名之聲，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

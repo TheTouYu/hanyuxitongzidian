@@ -1,0 +1,36 @@
+{
+ "char": "𢲴",
+ "head": "𢲴",
+ "pinyin": "wèi",
+ "aliases": [],
+ "bus": {
+  "num": 334,
+  "name": "尼"
+ },
+ "level": 3,
+ "parent": "㷉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“紆胃切，音畏。以手布物也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：布物之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

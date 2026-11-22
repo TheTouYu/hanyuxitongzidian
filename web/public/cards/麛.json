@@ -1,0 +1,36 @@
+{
+ "char": "麛",
+ "head": "麛",
+ "pinyin": "mí",
+ "aliases": [],
+ "bus": {
+  "num": 333,
+  "name": "耳"
+ },
+ "level": 3,
+ "parent": "弭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鹿子也。从鹿弭聲。莫兮切。”小鹿。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：鹿子微小，居長幼之末（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "馹",
+ "head": "馹",
+ "pinyin": "rì",
+ "aliases": [],
+ "bus": {
+  "num": 336,
+  "name": "日"
+ },
+ "level": 3,
+ "parent": "日",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“驛傳也。从馬日聲。人質切。”驛站的專用車。指其象太陽那樣來回穿梭。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「锐」：驛馬疾馳，勢如銳出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

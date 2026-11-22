@@ -1,0 +1,36 @@
+{
+ "char": "䏪",
+ "head": "䏪",
+ "pinyin": "èr",
+ "aliases": [],
+ "bus": {
+  "num": 333,
+  "name": "耳"
+ },
+ "level": 3,
+ "parent": "耳",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“筋腱也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "e「零聲母」不系：筋腱之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

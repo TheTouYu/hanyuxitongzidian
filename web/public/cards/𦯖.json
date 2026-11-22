@@ -1,0 +1,39 @@
+{
+ "char": "𦯖",
+ "head": "𦯖（𦵐𦶄）",
+ "pinyin": "niè",
+ "aliases": [
+  "𦵐",
+  "𦶄"
+ ],
+ "bus": {
+  "num": 336,
+  "name": "日"
+ },
+ "level": 3,
+ "parent": "圼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“菜名，似蒜，生水邊。或从𦶄。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：根納水濱，叢生而辛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

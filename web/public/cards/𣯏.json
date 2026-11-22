@@ -1,0 +1,38 @@
+{
+ "char": "𣯏",
+ "head": "𣯏（𨉴）",
+ "pinyin": "rǒng",
+ "aliases": [
+  "𨉴"
+ ],
+ "bus": {
+  "num": 333,
+  "name": "耳"
+ },
+ "level": 3,
+ "parent": "茸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“乳勇切，音宂。𣯾𣯏，猥雜皃。一曰不肖。”róng，同“ 㲨”，《龍龕》：“毳飾也。今作䩸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：毛耎而多，聚則成叢（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

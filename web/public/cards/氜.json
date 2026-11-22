@@ -1,0 +1,36 @@
+{
+ "char": "氜",
+ "head": "氜",
+ "pinyin": "yáng、rì",
+ "aliases": [],
+ "bus": {
+  "num": 336,
+  "name": "日"
+ },
+ "level": 3,
+ "parent": "日",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗陽字。本作𣆄。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：陽字之聲，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

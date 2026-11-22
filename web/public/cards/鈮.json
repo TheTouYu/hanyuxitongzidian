@@ -1,0 +1,36 @@
+{
+ "char": "鈮",
+ "head": "鈮（檷柅）",
+ "pinyin": "nǐ",
+ "aliases": [],
+ "bus": {
+  "num": 334,
+  "name": "尼"
+ },
+ "level": 3,
+ "parent": "尼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“檷，《說文》：‘絡絲檷。’或从金。亦作鈮。通作柅。”絡絲架。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：絲納架上，繚而後織（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

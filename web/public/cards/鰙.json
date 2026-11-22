@@ -1,0 +1,38 @@
+{
+ "char": "鰙",
+ "head": "鰙（篛）",
+ "pinyin": "ruò",
+ "aliases": [
+  "篛"
+ ],
+ "bus": {
+  "num": 335,
+  "name": "若"
+ },
+ "level": 3,
+ "parent": "若",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“比目魚類。也作‘篛’。”比目魚，體型如篛葉。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：魚體扁耎，貼沙而伏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

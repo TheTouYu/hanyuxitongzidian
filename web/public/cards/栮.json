@@ -1,0 +1,36 @@
+{
+ "char": "栮",
+ "head": "栮",
+ "pinyin": "ěr",
+ "aliases": [],
+ "bus": {
+  "num": 333,
+  "name": "耳"
+ },
+ "level": 3,
+ "parent": "耳",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“木㮕。”《字彙》：“生枯木上，形如耳，故以耳名。”木耳。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "e「零聲母」不系：菌名之聲，無所摹擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

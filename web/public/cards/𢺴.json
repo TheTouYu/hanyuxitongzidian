@@ -1,0 +1,38 @@
+{
+ "char": "𢺴",
+ "head": "𢺴（捥）",
+ "pinyin": "yù",
+ "aliases": [
+  "捥"
+ ],
+ "bus": {
+  "num": 334,
+  "name": "尼"
+ },
+ "level": 3,
+ "parent": "鬱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“拗戾也。或从宛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：拗戾之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

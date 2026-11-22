@@ -1,0 +1,36 @@
+{
+ "char": "胒",
+ "head": "胒",
+ "pinyin": "nì",
+ "aliases": [],
+ "bus": {
+  "num": 334,
+  "name": "尼"
+ },
+ "level": 3,
+ "parent": "尼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“肥也。”《釋名》：“臡，胒也，骨肉相搏胒無汁也。”雜骨肉醬。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「弄」：肉相揉搏，肥而黏手（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}
