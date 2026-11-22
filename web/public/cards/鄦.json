@@ -1,0 +1,38 @@
+{
+ "char": "鄦",
+ "head": "鄦（𨝬）",
+ "pinyin": "xǔ",
+ "bus": {
+  "num": 317,
+  "name": "舞"
+ },
+ "level": 3,
+ "parent": "舞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“炎帝太嶽之胤，甫矦所封，在潁川。从邑無聲。讀若許。虛呂切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：國名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "𨝬"
+ ]
+}

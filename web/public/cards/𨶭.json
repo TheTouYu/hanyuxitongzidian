@@ -1,0 +1,35 @@
+{
+ "char": "𨶭",
+ "head": "𨶭",
+ "pinyin": "wén",
+ "bus": {
+  "num": 317,
+  "name": "舞"
+ },
+ "level": 3,
+ "parent": "舞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“無分切，音文。縣名。”《正字通》：“譌字 。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：縣名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ]
+}

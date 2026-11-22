@@ -1,0 +1,35 @@
+{
+ "char": "璑",
+ "head": "璑",
+ "pinyin": "wú",
+ "bus": {
+  "num": 317,
+  "name": "舞"
+ },
+ "level": 3,
+ "parent": "舞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“三采玉也。从玉無聲。武扶切。”顏色雜亂的玉，質地較差。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ]
+}
