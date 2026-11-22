@@ -1,10 +1,10 @@
 # 交接文档（系统汉字 · 字卡工程）
 
 > Status: **in-progress**
-> Done when: 317 舞部（`卷五十五  巫.docx` 段 81 起）建成并提交；318 武部已完成（`e791c1a04`）、316 吳部已完成（`410e0ac37`）。（314 未部 `db2ac2284`、313 亡部 `9c1d61672`、312 兵部 `b798612d1`；311 丏部 `7f06ebd5f`；310 𡬳部 `4d3a06b3f`；309 面部 `f5135fe28`；308 㒳部 `c2b374a86`——该部实为 兩 + 㒼 二级字根，原稿无 𠒨 头，旧文「含 𠒨 头」系误记。）
+> Done when: 319 燕部（`卷五十五  巫.docx` 段 193 起）建成并提交；317 舞部已完成（`b07cbef05`）、318 武部已完成（`e791c1a04`）、316 吳部已完成（`410e0ac37`）。（314 未部 `db2ac2284`、313 亡部 `9c1d61672`、312 兵部 `b798612d1`；311 丏部 `7f06ebd5f`；310 𡬳部 `4d3a06b3f`；309 面部 `f5135fe28`；308 㒳部 `c2b374a86`——该部实为 兩 + 㒼 二级字根，原稿无 𠒨 头，旧文「含 𠒨 头」系误记。）
 > 当前日期：2026-11-22
-> 工作区：`D:\系统汉字`　分支：`main`　最新提交：`e791c1a04`（cards 318 武部；`4d300ac04` memory 316；`410e0ac37` cards 316 吳部；`4a5772335` skill/memory 卷首图归卷卡；`4cbb85e43` cards 315 巫部；tools `c9026c9ac` audit-photos 只扫直接子段）
-> 最近一部：**318 武部**（`e791c1a04`）：武 37 形（七栏，无辯證；本義／轉義 2 段／音源／聲母 零聲母／字族单组 10 行；字形段 37 图无标注字）＋9 族卡（賦 陚 倵 錻 䟼 𤭎 珷 娬 鵡；虣 跨部 48 虍 只录行）；插图 鵡 1（原稿 P150 独立图，无 ▲ → 注空，虎皮鹦鹉）；清 鵡 旧错主图 3（实为卷五十六燕卷首图）。verify 10 卡 PASS error 0 / warn 5（均 E080：倵 人名、錻 馬口鐵、𤭎 甒、珷 石似玉、鵡 鸚鵡）；页检 武 37／鵡 1。
+> 工作区：`D:\系统汉字`　分支：`main`　最新提交：`b07cbef05`（cards 317 舞部；`e791c1a04` cards 318 武部；`410e0ac37` cards 316 吳部；`4a5772335` skill/memory 卷首图归卷卡；`4cbb85e43` cards 315 巫部）
+> 最近一部：**317 舞部**（`b07cbef05`）：舞 13 形（八栏：本義／轉義 2 段／辯證含《說文》舞、無兩句内形／音源／聲母 零聲母／字族 3 组 30 行／字形）＋異體形 無 3、无 2 挂 `extra`（鄦 7 形归自己卡）；28 族卡（幠、鷡 跨部复用 315，只录行）；句内形 舞 2／廡 1／撫 1；无插图（audit 317 原稿 0＝卡里 0）。verify PASS 0/6（均 E080 专名/名物），check-bu 成员 30／问题 2（缺卡 幠、鷡，待主人裁）；页检 舞 18／鄦 7。
 
 ## 一、任务与产线
 
@@ -174,7 +174,7 @@
 2. **清 10 行空落点**（柔 名下 4 行已知，其余待查）。
 3. **623 张声母按今读逐条重写**（冃/免/木 50 张优先）。
 4. **补漏插的《說文》句内形**（罵/勿/岡/綱/剛 等 16 张头卡）。
-5. **318 武部已完成**（`e791c1a04`，verify 10 卡 `--expect --photo-strict` PASS error 0 / warn 5（E080：倵 人名、錻 馬口鐵、𤭎 甒、珷 石似玉、鵡 鸚鵡）、check-bu 成员 10/二级 0/问题 1（仅 虣 跨部 48 虍）、check-luodian 5 行 0 bad、check-shiyi 9/0、check-ezi 0、cardhygiene 0/0、页检 武 37/鵡 1、audit-photos 318 原稿 1=卡里 1，清 鵡 旧错主图 3）；316 吳部已完成（`410e0ac37`，verify 26 卡 --page --alias-pages --photo-strict PASS error 0 / warn 6（E080 专名·俗字行：洖 人名、㻍 劍名、𦨳 船名、祦 福、𦾚 同箑、𩦢 俗虞字）、check-bu 成员 25/二级 0/问题 0、check-luodian 19 行 0 bad、check-shiyi 25/0、check-ezi 0、cardhygiene 0/0、页检 吳 29/虞 7/𩶭 1 图；audit-photos 卷五十五 多出的部 0、不同步 0、SPA 缺 0/断链 0、孤儿 0，未落位 12 属 317–323 未建部）；下一部 317 舞部（同档 `卷五十五  巫.docx`，段 81 起，族表 30 余行，按 §9 拆批；字形段有 图96/图97 两枚句内形、3 段《說文》辯證）；315 巫部已完成（`4cbb85e43`，verify 11 卡 PASS 0/0、check-bu 成员 10/二级 1/问题 1（仅 毉 跨部）、check-luodian 10 行 0 bad、check-shiyi 9/0、页检 巫 13/筮 7 图）；314 未部已完成（`db2ac2284`）；313 亡部已完成（`9c1d61672`）；312 兵部已完成（`b798612d1`，验收 verify PASS 0/0、check-bu 8 成员/0、check-luodian 8 行 0 bad、check-shiyi 8/0、页检 14 图）；311 丏部已完成（`7f06ebd5f`，验收 verify PASS 0/0、check-luodian 29 行 0 bad、页检 16 图）；310 𡬳部已完成（`4d3a06b3f`，check-bu 31 成员/0、页检 21 图）；309 面部已完成（`f5135fe28`，验收 check-luodian 17 行 0 bad、页检 16 图）；308 㒳部已完成（`c2b374a86`），验收 check-bu 0/0、check-ezi 0、check-cardhygiene 0、页检 29/6 图。注：`verify-card --bu` 会把跨部复用字（如 𩈹、毉）拉进 scope 并报 E020，遇此改用显式字表。
+5. **317 舞部已完成**（`b07cbef05`，verify `--bu 舞 --expect --page --alias-pages --photo-strict` PASS error 0 / warn 6（E080：鷡 鳥名、𨼊 地名、鄦 國名、𩻚 魚名、䒉 船名、𨶭 縣名）、check-bu 成员 30/二级 0/问题 2（缺卡 幠、鷡，跨部复用 315 待主人裁）、check-luodian 24 行 0 bad、check-shiyi 28/0、check-ezi 0、cardhygiene 0/0、页检 舞 18/鄦 7、SPA gxc(舞)=18、audit-photos 317 原稿 0=卡里 0）；下一部 319 燕部（同档 `卷五十五  巫.docx`，段 193 起）；318 武部已完成（`e791c1a04`，verify 10 卡 `--expect --photo-strict` PASS error 0 / warn 5（E080：倵 人名、錻 馬口鐵、𤭎 甒、珷 石似玉、鵡 鸚鵡）、check-bu 成员 10/二级 0/问题 1（仅 虣 跨部 48 虍）、check-luodian 5 行 0 bad、check-shiyi 9/0、check-ezi 0、cardhygiene 0/0、页检 武 37/鵡 1、audit-photos 318 原稿 1=卡里 1，清 鵡 旧错主图 3）；316 吳部已完成（`410e0ac37`，verify 26 卡 --page --alias-pages --photo-strict PASS error 0 / warn 6（E080 专名·俗字行：洖 人名、㻍 劍名、𦨳 船名、祦 福、𦾚 同箑、𩦢 俗虞字）、check-bu 成员 25/二级 0/问题 0、check-luodian 19 行 0 bad、check-shiyi 25/0、check-ezi 0、cardhygiene 0/0、页检 吳 29/虞 7/𩶭 1 图；audit-photos 卷五十五 多出的部 0、不同步 0、SPA 缺 0/断链 0、孤儿 0）；315 巫部已完成（`4cbb85e43`，verify 11 卡 PASS 0/0、check-bu 成员 10/二级 1/问题 1（仅 毉 跨部）、check-luodian 10 行 0 bad、check-shiyi 9/0、页检 巫 13/筮 7 图）；314 未部已完成（`db2ac2284`）；313 亡部已完成（`9c1d61672`）；312 兵部已完成（`b798612d1`，验收 verify PASS 0/0、check-bu 8 成员/0、check-luodian 8 行 0 bad、check-shiyi 8/0、页检 14 图）；311 丏部已完成（`7f06ebd5f`，验收 verify PASS 0/0、check-luodian 29 行 0 bad、页检 16 图）；310 𡬳部已完成（`4d3a06b3f`，check-bu 31 成员/0、页检 21 图）；309 面部已完成（`f5135fe28`，验收 check-luodian 17 行 0 bad、页检 16 图）；308 㒳部已完成（`c2b374a86`），验收 check-bu 0/0、check-ezi 0、check-cardhygiene 0、页检 29/6 图。注：`verify-card --bu` 会把跨部复用字（如 𩈹、毉）拉进 scope 并报 E020，遇此改用显式字表。
 6. **清 2247 行历史落点**（`python tools/check-luodian.py` 体检，先超 12 字与带因果连词者；2026-11-22 起按「两头扣」重审：只扣声旁/本字表面的不合格；308 已清，可作样板）。
 7. 全库待办：254–307 复核落点、句内形按 run 顺序回查、空句/默认取面、早期 140 张头卡缺阐释落点、䳳/𥚋 无行待裁、12 张卡义项在 `zizu.text`、补 堯 11–17 七形与 172 引 首形与𢎘 五枚 EMF、`glyphs/氒/` 20 张无主图、variants dangling、族卡审计余 1694 条、`zizu.text` 与 `groups[].title` 重复排查。
 
@@ -182,8 +182,8 @@
 
 ```text
 工作区：D:\系统汉字　分支 main　Status: in-progress
-Done when：317 舞部建成提交
+Done when：319 燕部建成提交
 先读：memory/HANDOFF.md（含 9 类体例错误的认定、根因、加固）、prompts/exegesis.md、memory/CURRENT.md、技能 .dsh/skills/hanzi-card/SKILL.md（建卡标准流程，逐栏细则；并行前先看 §9）
-下一步：①先修 50 行空类属 + 10 行空落点（脚本见 HANDOFF 第二节）②补 罵/勿/岡 等漏插句内形 ③再建 317 舞部（同档段 81 起，316 吳部 `410e0ac37` 可作样板；舞部族表 30 余行，按 §9 拆批；字形段含 图96/图97 两枚句内形）
+下一步：①先修 50 行空类属 + 10 行空落点（脚本见 HANDOFF 第二节）②补 罵/勿/岡 等漏插句内形 ③再建 319 燕部（同档段 193 起，317 舞部 `b07cbef05` 可作样板；燕部 5 部同档，段 193–384）
 验收：check-bu=0、check-ezi bad=0、check-luodian bad=0（新卡严格模式）、check-shiyi 只余 {{}}、卡内 {{}} 全展开、页检 figure 数=字形数+参证数+插图数
 ```
