@@ -1,0 +1,36 @@
+{
+ "char": "郳",
+ "head": "郳",
+ "pinyin": "ní",
+ "aliases": [],
+ "bus": {
+  "num": 328,
+  "name": "兒"
+ },
+ "level": 3,
+ "parent": "兒",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齊地。从邑兒聲。《春秋傳》曰：‘齊高厚定郳田。’五雞切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」不系：齊地之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

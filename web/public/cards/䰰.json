@@ -1,0 +1,36 @@
+{
+ "char": "䰰",
+ "head": "䰰",
+ "pinyin": "rú、nòu",
+ "aliases": [],
+ "bus": {
+  "num": 331,
+  "name": "需"
+ },
+ "level": 3,
+ "parent": "需",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鬼鬽聲，䰰䰰不止也。从鬼需聲。奴豆切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：鬼聲綿耎，含混不止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

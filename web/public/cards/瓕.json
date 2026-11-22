@@ -1,0 +1,36 @@
+{
+ "char": "瓕",
+ "head": "瓕",
+ "pinyin": "xǐ、mí",
+ "aliases": [],
+ "bus": {
+  "num": 329,
+  "name": "爾"
+ },
+ "level": 3,
+ "parent": "爾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“弛弓也。从弓璽聲。斯氏切。”放鬆弓弦。mí，《集韻》：“玉名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：弓弦漸消，弛而不張（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

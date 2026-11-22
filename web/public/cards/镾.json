@@ -1,0 +1,36 @@
+{
+ "char": "镾",
+ "head": "镾",
+ "pinyin": "mí",
+ "aliases": [],
+ "bus": {
+  "num": 329,
+  "name": "爾"
+ },
+ "level": 3,
+ "parent": "爾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“久長也。从長爾聲。武夷切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：長久蒙覆，綿延不絕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "䞕",
+ "head": "䞕（渝）",
+ "pinyin": "rú、yù",
+ "aliases": [],
+ "bus": {
+  "num": 331,
+  "name": "需"
+ },
+ "level": 3,
+ "parent": "需",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“火色。一曰色墯也。”yù，《玉篇》：“色落也。又作渝。”褪色。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：火氣熏灼，色隨而變（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

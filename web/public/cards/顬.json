@@ -1,0 +1,38 @@
+{
+ "char": "顬",
+ "head": "顬（𩪰）",
+ "pinyin": "rú",
+ "aliases": [
+  "𩪰"
+ ],
+ "bus": {
+  "num": 331,
+  "name": "需"
+ },
+ "level": 3,
+ "parent": "需",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“耳穴動謂之顳顬。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：耳穴微動，柔而屢顫（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

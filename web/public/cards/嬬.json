@@ -1,0 +1,36 @@
+{
+ "char": "嬬",
+ "head": "嬬",
+ "pinyin": "rú",
+ "aliases": [],
+ "bus": {
+  "num": 331,
+  "name": "需"
+ },
+ "level": 3,
+ "parent": "需",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“弱也。一曰下妻也。从女需聲。相俞切。”柔弱的女子。或指地位低下的小妻。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：弱女下妻，柔而無力（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}
