@@ -3,14 +3,15 @@
 > Status: **in-progress**
 > Done when: 309 面部建成并提交，且 310 𡬳部按同一产线继续。（308 㒳部已于 2026-11-22 完成：`c2b374a86`；该部实为 兩 + 㒼 二级字根，原稿无 𠒨 头——全卷检索 0 见，旧文「含 𠒨 头」系误记。）
 > 当前日期：2026-11-22
-> 工作区：`D:\系统汉字`　分支：`main`　最新提交：`c2b374a86`（cards 308 㒳部）
+> 工作区：`D:\系统汉字`　分支：`main`　最新提交：`288ff3d46`（skills v2：并行产线＋核验反馈）
 > 最近一部：**308 㒳部**（`c2b374a86`）：兩 28 形 / 㒼 5 形，50 族卡，插图 2（車衡縛軛圖、披馬甲唐三彩）
 
 ## 一、任务与产线
 
 - 把《系统汉语》608 部逐部重解为 `web/public/cards/<字>.json`，同批 Claim 入 `topic-zika-shizi`。
 - 源稿：`D:/字谱智能体/<卷>.docx`（本轮主用 `卷五十四  网.docx`）。
-- 产线：dump 段 → 切字形 → 抽图 → 写卡 → `check-bu` → `check-ezi` → `check-shiyi` → `check-cardhygiene` → `build-card-index.py` → 重启 8099 → 页检 → 定向 `git add web/public`（**禁 `-A`**）→ commit。
+- 产线：dump 段 → 切字形 → 抽图 → 写卡 → `verify-card`（统一闸门，见技能 §8）→ `build-card-index.py` → 重启 8099 → 页检 → 定向 `git add web/public`（**禁 `-A`**）→ commit。
+- 整部并行：按技能 §9，lead 写 manifest → `workplan.py split` → 每 agent 一张工单（写族卡+桥句结果）→ `verify-card --file` 自修 → `workplan.py check --cards-dir` → `merge --apply` → `verify-card --bu` 集成门。
 - 服务只能用 `pwsh` 工具 `run_in_background:true` 跑 `& <node> web\server.mjs`（`$env:PORT='8099'`，node 在 `C:\Users\萧磊\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin\node.exe`）。`Start-Process` 起的会被回收。
 - 改 JS/HTML 一律 Python 读写或 edit 工具，不用 PowerShell 管道重写（曾损坏 `web/server.mjs`）。
 - 工作区未跟踪文件 `debug.log`、`intake/bao/` 不要删、不要 `git add -A`。
@@ -29,7 +30,7 @@
 **加固**
 - 五栏一律按“标签段→下一标签段”整段照录；剥标签只用行首正则 `^(本義|轉義|辯證|音源|字形|字族衍義|聲母擬態|所属卷|釋義)[：:]`，**禁止 split 冒号**。
 - 改卡同时改 `text` 与 `paras`（或整体删除 `paras`），改后跑 `check-cardhygiene.py`。
-- 新建 `tools/check-cols.py`：把每张头卡四栏与 docx 对应段落做「去空白后逐字包含」比对，非全等即失败。
+- 新建 `tools/check-cols.py` 的设想未落地（该脚本不存在，别再引用）；现用 `verify-card --expect` 或一次性 docx 段落 diff 代替。
 
 ### 2. 《說文》释文中插入的字形被漏掉
 **认定（证据）**
