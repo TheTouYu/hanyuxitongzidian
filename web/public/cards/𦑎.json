@@ -1,0 +1,36 @@
+{
+ "char": "𦑎",
+ "head": "𦑎",
+ "pinyin": "yàn",
+ "aliases": [],
+ "bus": {
+  "num": 322,
+  "name": "奄"
+ },
+ "level": 3,
+ "parent": "奄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“劍（疑為‘斂’之訛）羽。”《集韻》：“斂羽。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十五巫",
+     "label": "卷五十五巫"
+    }
+   ]
+  }
+ ]
+}
