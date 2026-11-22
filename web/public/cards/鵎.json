@@ -1,0 +1,41 @@
+{
+ "char": "鵎",
+ "head": "鵎（鴳）",
+ "pinyin": "tuǒ",
+ "aliases": [],
+ "bus": {
+  "num": 349,
+  "name": "妥"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鳥名。”yàn，《正字通》：“鴳字之譌 。”鴳，《廣韻》：“鶬鴳也。”冠雀。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“安”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：鳥冠突出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

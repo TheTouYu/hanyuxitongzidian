@@ -1,0 +1,42 @@
+{
+ "char": "鷺",
+ "head": "鷺",
+ "pinyin": "lù",
+ "aliases": [],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
+ "level": 3,
+ "parent": "路",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“白鷺也。从鳥路聲。洛故切。”白鷺，全身潔白，足細長。常活動于河湖岸邊、水田澤地。故有路邊之鳥意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：白鷺攏於路邊水田（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}

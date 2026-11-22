@@ -1,0 +1,36 @@
+{
+ "char": "綹",
+ "head": "綹",
+ "pinyin": "liǔ",
+ "aliases": [],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
+ "level": 3,
+ "parent": "咎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“緯十縷為綹。从糸咎聲。讀若柳。力久切。”緯線由四根絲麻組成叫一綹。即扭結在一起的麻縷。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：麻縷攏結，還而成綹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

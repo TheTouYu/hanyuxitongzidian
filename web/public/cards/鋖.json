@@ -1,0 +1,44 @@
+{
+ "char": "鋖",
+ "head": "鋖（鐁）",
+ "pinyin": "sī",
+ "aliases": [
+  "鐁"
+ ],
+ "bus": {
+  "num": 349,
+  "name": "妥"
+ },
+ "level": 3,
+ "parent": "妥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“平木器也。亦作鐁。”鉋子。使木頭平整之意。tuó，化學元素“釹”的舊譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：鉋木使平，收其凹凸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}

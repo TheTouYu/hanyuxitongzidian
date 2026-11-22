@@ -1,0 +1,36 @@
+{
+ "char": "𠲱",
+ "head": "𠲱",
+ "pinyin": "gé",
+ "aliases": [],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
+ "level": 3,
+ "parent": "各",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“枝𠲱也。从丯各聲。古百切。”枝柯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：枝柯相交，隔節而出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

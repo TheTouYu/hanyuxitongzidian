@@ -1,0 +1,39 @@
+{
+ "char": "𠲊",
+ "head": "𠲊（𠳰㖑）",
+ "pinyin": "xiè",
+ "aliases": [
+  "𠳰",
+  "㖑"
+ ],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
+ "level": 3,
+ "parent": "夂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𠲊，俗；㖑，正。許戒反。怒大聲也。”大聲喝止。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：怒聲喝止，消其前行（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

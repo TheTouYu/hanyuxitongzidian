@@ -1,0 +1,36 @@
+{
+ "char": "𦲯",
+ "head": "𦲯",
+ "pinyin": "wàn",
+ "aliases": [],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
+ "level": 3,
+ "parent": "夂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“草木無蔓也。”《廣雅》：“薉也。”荒蕪。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母不系擬態，義從形取（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "䶤",
+ "head": "䶤",
+ "pinyin": "huá",
+ "aliases": [],
+ "bus": {
+  "num": 347,
+  "name": "冎"
+ },
+ "level": 3,
+ "parent": "冎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齧骨聲。从齒从骨，骨亦聲。戶八切。”咬骨頭的聲音。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：齒隔骨而齧有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

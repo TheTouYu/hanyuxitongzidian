@@ -1,0 +1,38 @@
+{
+ "char": "𩭏",
+ "head": "𩭏（䰀）",
+ "pinyin": "wǒ",
+ "aliases": [
+  "䰀"
+ ],
+ "bus": {
+  "num": 349,
+  "name": "妥"
+ },
+ "level": 3,
+ "parent": "妥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“好髮髻也。”《正字通》：“同䰀。”頭髮濃密而下垂的樣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母不系擬態，義從形取（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

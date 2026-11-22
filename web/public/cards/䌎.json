@@ -1,0 +1,36 @@
+{
+ "char": "䌎",
+ "head": "䌎",
+ "pinyin": "lüè",
+ "aliases": [],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
+ "level": 3,
+ "parent": "各",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《博雅》：“絣也。”《玉篇》：“紩衣也。”縫。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：縫衣使線攏附布上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

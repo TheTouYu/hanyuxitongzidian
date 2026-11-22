@@ -1,27 +1,29 @@
 {
  "char": "骨",
+ "head": "骨",
  "pinyin": "gǔ",
+ "aliases": [],
  "bus": {
   "num": 347,
   "name": "冎"
  },
+ "level": 3,
+ "parent": "冎",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "冎象三節相連之腿骨，為骨之初文；骨从冎有肉，《說文》「肉之覈也」。",
-   "cites": []
+   "label": "釋義",
+   "text": "《說文》：“肉之覈也。从冎有肉。凡骨之屬皆从骨。古忽切。”"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "g「隔估」取「隔」：骨節相隔相扣（推）。",
-   "cites": []
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：骨節相隔相扣（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十𦟀",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,12 +32,5 @@
     }
    ]
   }
- ],
- "sources": [
-  "卷六十  𦟀.docx p78、p118"
- ],
- "level": 3,
- "parent": "347.冎部",
- "aliases": [],
- "head": "骨"
+ ]
 }

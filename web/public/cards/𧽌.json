@@ -1,0 +1,36 @@
+{
+ "char": "𧽌",
+ "head": "𧽌",
+ "pinyin": "huá",
+ "aliases": [],
+ "bus": {
+  "num": 347,
+  "name": "冎"
+ },
+ "level": 3,
+ "parent": "冎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“走也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：走而滑利，豁然無阻（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

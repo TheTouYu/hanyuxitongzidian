@@ -1,0 +1,36 @@
+{
+ "char": "䙤",
+ "head": "䙤",
+ "pinyin": "duǒ",
+ "aliases": [],
+ "bus": {
+  "num": 347,
+  "name": "冎"
+ },
+ "level": 3,
+ "parent": "過",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“大衣也。”《玉篇》：“好也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：大衣裹身，囤囤有餘（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

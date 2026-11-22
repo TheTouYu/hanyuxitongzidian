@@ -1,0 +1,38 @@
+{
+ "char": "夥",
+ "head": "夥（伙）",
+ "pinyin": "huǒ",
+ "aliases": [
+  "伙"
+ ],
+ "bus": {
+  "num": 348,
+  "name": "果"
+ },
+ "level": 3,
+ "parent": "果",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齊謂多為夥。从多果聲。乎果切。”多。或作嘆詞，表示驚奇、讚歎。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：果多纍纍，豁然滿樹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "檛",
+ "head": "檛",
+ "pinyin": "zhuā",
+ "aliases": [],
+ "bus": {
+  "num": 347,
+  "name": "冎"
+ },
+ "level": 3,
+ "parent": "過",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“策也。”馬鞭。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：馬鞭鑿策而進（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

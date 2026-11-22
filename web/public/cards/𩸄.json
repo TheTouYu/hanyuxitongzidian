@@ -1,0 +1,42 @@
+{
+ "char": "𩸄",
+ "head": "𩸄",
+ "pinyin": "huà",
+ "aliases": [],
+ "bus": {
+  "num": 348,
+  "name": "果"
+ },
+ "level": 3,
+ "parent": "果",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鱧也。从魚果聲。胡瓦切。” 鮰魚。形似鯰魚，無鱗，嘴比鯰魚小，身體粉紅。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：魚身無鱗，豁然裸露（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "char": "餶",
+ "head": "餶",
+ "pinyin": "gǔ",
+ "aliases": [],
+ "bus": {
+  "num": 347,
+  "name": "冎"
+ },
+ "level": 3,
+ "parent": "冎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《康典》：“《字彙補》：古忽切，音骨。《武林舊事》：{{shiyi/01.png}}有鵪鶉、餶飿兒，面果也。” 一種面制食品。即面疙瘩。",
+   "gdir": "inline/餶"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：麵塊圓鼓，隔於湯中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

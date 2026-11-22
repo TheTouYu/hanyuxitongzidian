@@ -1,0 +1,42 @@
+{
+ "char": "猓",
+ "head": "猓",
+ "pinyin": "guō",
+ "aliases": [],
+ "bus": {
+  "num": 348,
+  "name": "果"
+ },
+ "level": 3,
+ "parent": "果",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“猓然，獸名，似猴。通作果。”長尾猴。吊在樹上如果狀。luǒ，猓猓，舊時對彝族的蔑稱。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：猴吊樹上，隔枝如掛果（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

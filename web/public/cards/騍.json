@@ -1,0 +1,36 @@
+{
+ "char": "騍",
+ "head": "騍",
+ "pinyin": "kè",
+ "aliases": [],
+ "bus": {
+  "num": 348,
+  "name": "果"
+ },
+ "level": 3,
+ "parent": "果",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗呼牝馬，卽草馬。”母馬。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：牝馬可控以孕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "騧",
+ "head": "騧（𩦣）",
+ "pinyin": "guā",
+ "aliases": [
+  "𩦣"
+ ],
+ "bus": {
+  "num": 347,
+  "name": "冎"
+ },
+ "level": 3,
+ "parent": "咼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“黃馬，黑喙。从馬咼聲。{{shiyi/01.png}}，籀文騧。古華切。”馬黃色而黑嘴。",
+   "gdir": "inline/騧"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：黃馬黑喙，喙色相隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

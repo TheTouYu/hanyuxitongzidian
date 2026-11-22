@@ -1,0 +1,36 @@
+{
+ "char": "楁",
+ "head": "楁",
+ "pinyin": "hé",
+ "aliases": [],
+ "bus": {
+  "num": 350,
+  "name": "夂"
+ },
+ "level": 3,
+ "parent": "各",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《唐韻》：“鞍楁也。”《集韻》：“椸架也。”衣架。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：衣架活設，可懸可移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}
