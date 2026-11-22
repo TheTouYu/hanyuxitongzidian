@@ -1,0 +1,41 @@
+{
+ "char": "鰻",
+ "head": "鰻",
+ "pinyin": "màn",
+ "bus": {
+  "num": 310,
+  "name": "𡬳"
+ },
+ "level": 3,
+ "parent": "𡬳",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“魚名。从魚曼聲。母官切。”鰻鱺。身體前圓後扁，呈長條形，背部灰黑色，腹部白色帶淡黃色。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：潛泥蒙覆，體滑而長（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𥊑",
+ "head": "𥊑（瞞）",
+ "pinyin": "mán、màn",
+ "bus": {
+  "num": 310,
+  "name": "𡬳"
+ },
+ "level": 3,
+ "parent": "𡬳",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：用同“瞞”。欺騙。màn，眼花繚亂；用同‘曼’，細長。用同‘漫’，不經意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：目蒙而眩，視物不明（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

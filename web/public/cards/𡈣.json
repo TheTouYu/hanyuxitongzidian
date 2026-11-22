@@ -1,0 +1,39 @@
+{
+ "char": "𡈣",
+ "head": "𡈣（𩕖𩉃）",
+ "pinyin": "xuān",
+ "bus": {
+  "num": 310,
+  "name": "𡬳"
+ },
+ "level": 3,
+ "parent": "𡬳",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“面圓也。或作𩕖、𩉃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：面之圓轉，周而相續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "𩕖",
+  "𩉃"
+ ]
+}
