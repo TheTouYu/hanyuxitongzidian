@@ -176,11 +176,9 @@ def main():
             if part:
                 doc_caps.add(norm(part))
 
-    # 卷首段并入首个部（规矩：挂紧随其后的部头卡）
+    # 卷首段：按技能 §3.3 挂该卷卷卡（2026-11-22 主人裁）；无卷卡时退回首个部
     head_bu = bus[0]['num'] if bus else 0
     front = solo.pop(0, [])
-    if front:
-        solo.setdefault(head_bu, [])[:0] = front
 
     # 每字照片：顶层 ∪ 卡（按文件名去重）
     def photos_of(ch):
@@ -207,6 +205,23 @@ def main():
 
     problems = {'unplaced': [], 'extra': [], 'fakecap': [], 'unsync': [],
                 'spa_missing': [], 'spa_bad': [], 'orphan': []}
+    # 卷首图对账：doc 文件名去空格即该卷卷卡名（卷六十  𦟀 → 卷六十𦟀）
+    vol_card = re.sub(r'\s+', '', os.path.splitext(os.path.basename(args.doc))[0])
+    if front:
+        if vol_card in cards:
+            vk = len(photos_of(vol_card))
+            if vk < len(front):
+                for pp in front:
+                    problems['unplaced'].append({
+                        'bu': 0, 'name': '卷首(%s)' % vol_card, 'para': pp['para'],
+                        'images': [{'media': i['media'], 'w': i['w'], 'h': i['h'], 'bytes': i['bytes']}
+                                   for i in pp['images']],
+                    })
+            elif vk > len(front):
+                problems['extra'].append({'bu': 0, 'name': '卷首(%s)' % vol_card,
+                                          'doc': len(front), 'cards': [(vol_card, vk)]})
+        else:
+            solo.setdefault(head_bu, [])[:0] = front
     rows = []
     for b in bus:
         n = b['num']
@@ -285,9 +300,10 @@ def main():
             problems['orphan'].append({'char': ch, 'files': miss})
 
     print('audit-photos · %s' % args.doc)
-    print('部 %d 个，独立图片段 %d 段（%d 张）· 卷首并入 部%d' % (
+    print('部 %d 个，独立图片段 %d 段（%d 张）· 卷首 %d 张 → 卷卡 %s' % (
         len(bus), sum(len(v) for v in solo.values()),
-        sum(len(pp['images']) for v in solo.values() for pp in v), head_bu))
+        sum(len(pp['images']) for v in solo.values() for pp in v),
+        len(front), vol_card))
     print('%-5s %-8s %6s %6s  %s' % ('部号', '部名', '原稿', '卡里', '字'))
     for n, name, nd, nc, listed in rows:
         flag = '' if nd == nc else ('  ← 差 %+d' % (nc - nd))
