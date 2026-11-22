@@ -1,0 +1,36 @@
+{
+ "char": "䣕",
+ "head": "䣕",
+ "pinyin": "mǎ",
+ "aliases": [],
+ "bus": {
+  "num": 431,
+  "name": "馬"
+ },
+ "level": 3,
+ "parent": "馬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“存䣕，犍為縣。从邑馬聲。莫駕切。”今四川宜賓市。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」不系：縣名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "涄",
+ "head": "涄",
+ "pinyin": "pīng",
+ "aliases": [],
+ "bus": {
+  "num": 435,
+  "name": "甹"
+ },
+ "level": 3,
+ "parent": "甹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“水皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：水道闢開，散漫而流（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

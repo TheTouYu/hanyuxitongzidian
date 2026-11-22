@@ -1,27 +1,28 @@
 {
  "char": "氪",
+ "head": "氪",
  "pinyin": "kè",
  "bus": {
   "num": 421,
   "name": "克"
  },
+ "level": 3,
+ "parent": "克",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "k「口控」取「控」：气控而惰（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "一種無色惰性氣體元素，它存在于空氣中，以體積計，在空氣中占百萬分之一，元素符號Kr的音譯。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：惰性之氣，自守不與物合（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十亥",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "氪"
+ ]
 }

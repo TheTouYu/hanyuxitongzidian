@@ -1,0 +1,36 @@
+{
+ "char": "齮",
+ "head": "齮",
+ "pinyin": "yǐ",
+ "aliases": [],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "奇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齧也。从齒奇聲。魚綺切。”側齒咬嚼。qǐ，《篇海》：“切齒也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：咬牙切物之字，音無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

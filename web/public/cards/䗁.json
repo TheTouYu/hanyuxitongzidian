@@ -1,0 +1,36 @@
+{
+ "char": "䗁",
+ "head": "䗁",
+ "pinyin": "jì",
+ "aliases": [],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "奇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“蟬也。”qī，《集韻》：“鼅鼄長足者。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：群蟲集木，同聲相和（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

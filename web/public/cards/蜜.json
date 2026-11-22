@@ -1,0 +1,39 @@
+{
+ "char": "蜜",
+ "head": "蜜（𧖅𦸞）",
+ "pinyin": "mì",
+ "aliases": [
+  "𦸞"
+ ],
+ "bus": {
+  "num": 437,
+  "name": "八"
+ },
+ "level": 3,
+ "parent": "必",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𧖅，蠭甘飴也。一曰螟子。从䖵鼏聲。{{shiyi/01.png}}，𧖅或从宓。彌必切。”蜂蜜。或指蚜蟲之類，也分泌出甜汁。",
+   "gdir": "inline/蜜"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：稠汁蒙裹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

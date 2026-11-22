@@ -1,0 +1,36 @@
+{
+ "char": "𨘔",
+ "head": "𨘔",
+ "pinyin": "yáo",
+ "aliases": [],
+ "bus": {
+  "num": 438,
+  "name": "辡"
+ },
+ "level": 3,
+ "parent": "誩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海類編》：“音遙。”應為“䍃”字之訛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：訛字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "㤒",
+ "head": "㤒（𢙋𢡋）",
+ "pinyin": "gǎo",
+ "aliases": [
+  "𢙋"
+ ],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "大",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“知也，局也。”《集韻》：“局知也。或从臯。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：心有限隔，知止不越（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

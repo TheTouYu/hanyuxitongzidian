@@ -1,0 +1,36 @@
+{
+ "char": "戻",
+ "head": "戻",
+ "pinyin": "tì",
+ "aliases": [],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "大",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“輜車旁推戶也。从戶大聲。讀與釱同。徒蓋切。”有帷蓋的車子兩旁可以推開的門。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：一推而開，豁然見外（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

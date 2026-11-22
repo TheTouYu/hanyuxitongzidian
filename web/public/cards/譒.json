@@ -1,0 +1,36 @@
+{
+ "char": "譒",
+ "head": "譒",
+ "pinyin": "bò",
+ "aliases": [],
+ "bus": {
+  "num": 434,
+  "name": "釆"
+ },
+ "level": 3,
+ "parent": "番",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𢾭也。从言番聲。《商書》曰：‘王譒告之’。補過切。”佈告。《玉篇》：“謠也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：事閉於內，剥而告眾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

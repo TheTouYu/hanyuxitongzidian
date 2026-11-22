@@ -1,0 +1,36 @@
+{
+ "char": "艊",
+ "head": "艊",
+ "pinyin": "bó",
+ "aliases": [],
+ "bus": {
+  "num": 432,
+  "name": "白"
+ },
+ "level": 3,
+ "parent": "帛",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蠻夷泛海舟曰舶。或从帛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：板縫閉合，水不得入（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

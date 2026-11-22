@@ -1,27 +1,29 @@
 {
  "char": "瞥",
- "pinyin": "piē",
+ "head": "瞥",
+ "pinyin": "piē、bì",
+ "aliases": [],
  "bus": {
   "num": 437,
   "name": "八"
  },
+ "level": 3,
+ "parent": "㡀",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "p「拼辟」取「辟」：目掠而分（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“過目也。又目翳也。从目敝聲。一曰財見也。普滅切。”眼光掠過。眼上的障蔽。才看見。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：眼闔而復開（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十三釆",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +32,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "瞥"
+ ]
 }

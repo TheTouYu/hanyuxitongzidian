@@ -1,0 +1,38 @@
+{
+ "char": "鑭",
+ "head": "鑭（钄）",
+ "pinyin": "làn",
+ "aliases": [
+  "钄"
+ ],
+ "bus": {
+  "num": 437,
+  "name": "八"
+ },
+ "level": 3,
+ "parent": "闌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“金光皃。”《廣韻》：“光鑭。”金子燦爛的樣子。lán，稀土元素之一，銀白色軟金屬。新拉lanthanum的音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：光華散射（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

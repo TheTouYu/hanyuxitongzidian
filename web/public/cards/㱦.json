@@ -1,0 +1,36 @@
+{
+ "char": "㱦",
+ "head": "㱦",
+ "pinyin": "qī",
+ "aliases": [],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "奇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“棄也。从歺奇聲。俗語謂死曰大㱦。去其切。”《廣雅》：“盈也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：生機已絕，缺然不存（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

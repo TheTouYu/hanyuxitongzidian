@@ -1,0 +1,36 @@
+{
+ "char": "癍",
+ "head": "癍",
+ "pinyin": "bān",
+ "aliases": [],
+ "bus": {
+  "num": 440,
+  "name": "玨"
+ },
+ "level": 3,
+ "parent": "玨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“皮膚上生的斑點。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：皮色剝落，留點成斑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

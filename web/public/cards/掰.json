@@ -1,0 +1,36 @@
+{
+ "char": "掰",
+ "head": "掰",
+ "pinyin": "bāi",
+ "aliases": [],
+ "bus": {
+  "num": 437,
+  "name": "八"
+ },
+ "level": 3,
+ "parent": "分",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“①用手把東西分開或折斷。②撕開，揭穿。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：左右手剝，物自分斷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

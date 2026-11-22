@@ -1,0 +1,39 @@
+{
+ "char": "𦌽",
+ "head": "𦌽（𧭿䛒𧩵）",
+ "pinyin": "biàn",
+ "aliases": [
+  "𧭿",
+  "𧩵"
+ ],
+ "bus": {
+  "num": 438,
+  "name": "辡"
+ },
+ "level": 3,
+ "parent": "誩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“同辯。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：辯如剝繭，絲絲理順（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

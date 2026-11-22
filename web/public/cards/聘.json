@@ -1,27 +1,29 @@
 {
  "char": "聘",
- "pinyin": "pìn",
+ "head": "聘",
+ "pinyin": "pìn、pìng",
+ "aliases": [],
  "bus": {
   "num": 435,
   "name": "甹"
  },
+ "level": 3,
+ "parent": "甹",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "p「拼辟」取「辟」：访而分（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“訪也。从耳甹聲。匹正切。”訪問。《廣韻》：“聘問也。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：耳闢聽言，通問於遠（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十三釆",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +32,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "聘"
+ ]
 }

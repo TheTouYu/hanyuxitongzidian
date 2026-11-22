@@ -1,27 +1,28 @@
 {
  "char": "䩶",
- "pinyin": "chěng",
+ "head": "䩶",
+ "pinyin": "chěng、 chǎn",
  "bus": {
   "num": 409,
   "name": "止"
  },
+ "level": 3,
+ "parent": "蚩",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "ch「刺持」取「持」：束持而收（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“驂具也。从革𧈪聲。讀若騁蜃。醜郢切。”驂馬（轅馬邊上的馬）馬具。《玉篇》：“丑井切。又丑善切。騎具也。”《集韻》：“收絲器。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "PENDING"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十七足",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "䩶"
+ ]
 }

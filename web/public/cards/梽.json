@@ -1,27 +1,28 @@
 {
  "char": "梽",
+ "head": "梽",
  "pinyin": "zhì",
  "bus": {
   "num": 410,
   "name": "之"
  },
+ "level": 3,
+ "parent": "志",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "zh「凿总」取「总」：木聚成山（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "梽木山，地名，在中國湖南省邵陽縣。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "PENDING"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十七足",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "梽"
+ ]
 }

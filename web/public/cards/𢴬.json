@@ -1,0 +1,38 @@
+{
+ "char": "𢴬",
+ "head": "𢴬（𢲔）",
+ "pinyin": "bàn",
+ "aliases": [
+  "𢲔"
+ ],
+ "bus": {
+  "num": 440,
+  "name": "玨"
+ },
+ "level": 3,
+ "parent": "玨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“博幻切，班去聲。絆也。引擊也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：繩絆兩足，閉而難行（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "䪤",
+ "head": "䪤",
+ "pinyin": "fán",
+ "aliases": [],
+ "bus": {
+  "num": 434,
+  "name": "釆"
+ },
+ "level": 3,
+ "parent": "番",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“小蒜也。从韭番聲。附袁切。”《玉篇》：“百合蒜。”重辦之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：一莖分鱗，層層相裹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

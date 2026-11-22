@@ -1,0 +1,36 @@
+{
+ "char": "𠷓",
+ "head": "𠷓",
+ "pinyin": "xīn",
+ "aliases": [],
+ "bus": {
+  "num": 435,
+  "name": "甹"
+ },
+ "level": 3,
+ "parent": "甹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“聲也。从只甹聲。讀若聲。呼形切。”語氣助詞。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：氣出口鼻，聲微即散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

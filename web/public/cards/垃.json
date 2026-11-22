@@ -1,27 +1,28 @@
 {
  "char": "垃",
+ "head": "垃",
  "pinyin": "lā",
  "bus": {
   "num": 429,
   "name": "立"
  },
+ "level": 3,
+ "parent": "立",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "l「拢离」取「离」：弃物离散（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "垃圾。指尘土和扔掉的固态脏东西。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：穢物堆積，攏聚成堆（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十一聿",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "垃"
+ ]
 }

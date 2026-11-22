@@ -1,27 +1,28 @@
 {
  "char": "睼",
- "pinyin": "tiàn",
+ "head": "睼",
+ "pinyin": "tiàn、tì",
  "bus": {
   "num": 409,
   "name": "止"
  },
+ "level": 3,
+ "parent": "是",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "t「涂突」取「突」：目突而迎（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“迎視也。从目是聲。讀若珥瑱之瑱。他計切。”迎著看。《龍龕》：“遠視也。”“坐見也。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "PENDING"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十七足",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "睼"
+ ]
 }

@@ -1,0 +1,36 @@
+{
+ "char": "絔",
+ "head": "絔",
+ "pinyin": "bǎi",
+ "aliases": [],
+ "bus": {
+  "num": 432,
+  "name": "白"
+ },
+ "level": 3,
+ "parent": "百",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“音百。補也。”mò，《字汇》：“头巾。”同“帕”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：裂處縫閉，接而成幅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "𥌞",
+ "head": "𥌞（䁻）",
+ "pinyin": "shuò",
+ "aliases": [
+  "䁻"
+ ],
+ "bus": {
+  "num": 436,
+  "name": "𠬜"
+ },
+ "level": 3,
+ "parent": "𠬜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𥌞，俗；䁻，正，美目皃也。”䁻（lì），《集韻》：“目蹔視。”目暫視。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：目光乍觸，失而不留（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

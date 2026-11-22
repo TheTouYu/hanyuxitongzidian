@@ -1,0 +1,41 @@
+{
+ "char": "𤡲",
+ "head": "𤡲",
+ "pinyin": "kāi",
+ "aliases": [],
+ "bus": {
+  "num": 436,
+  "name": "𠬜"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“獸也。”疑為“𤜵（yàn）”之訛。《集韻》：“犴，逐虎犬。或从幵。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②疑為形近字“幵”字之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」不系：形近之訛，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

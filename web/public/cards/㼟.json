@@ -1,0 +1,36 @@
+{
+ "char": "㼟",
+ "head": "㼟",
+ "pinyin": "bó",
+ "aliases": [],
+ "bus": {
+  "num": 432,
+  "name": "白"
+ },
+ "level": 3,
+ "parent": "白",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“薄陌切，音白。瓦屋不泥也。”《廣韻》：“㼿㼟，井甃。”井壁。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：陶片相閉，密裹井身（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

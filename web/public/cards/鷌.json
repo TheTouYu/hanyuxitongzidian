@@ -1,0 +1,36 @@
+{
+ "char": "鷌",
+ "head": "鷌",
+ "pinyin": "mǎ",
+ "aliases": [],
+ "bus": {
+  "num": 431,
+  "name": "馬"
+ },
+ "level": 3,
+ "parent": "馬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“異鳥。”黃雀。疑因其羽毛的顏色為黃黑相間似馬尾一般，其幼鳥即俗稱“麻鳥”。故从“馬”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：羽末似馬尾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

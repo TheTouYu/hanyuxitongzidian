@@ -1,0 +1,39 @@
+{
+ "char": "斒",
+ "head": "斒（𣁊豳）",
+ "pinyin": "bān",
+ "aliases": [
+  "𣁊",
+  "豳"
+ ],
+ "bus": {
+  "num": 439,
+  "name": "扁"
+ },
+ "level": 3,
+ "parent": "扁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“斒斕，色不純也。或从並。亦作豳。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：諸色閉於一處，不相融（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

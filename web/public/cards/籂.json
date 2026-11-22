@@ -1,27 +1,28 @@
 {
  "char": "籂",
+ "head": "籂",
  "pinyin": "shì",
  "bus": {
   "num": 405,
   "name": "皀"
  },
+ "level": 3,
+ "parent": "食",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "sh「失收」取「收」：单字无族（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "古人名用字。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "PENDING"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十六采",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "籂"
+ ]
 }

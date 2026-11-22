@@ -1,0 +1,36 @@
+{
+ "char": "暕",
+ "head": "暕",
+ "pinyin": "jián",
+ "aliases": [],
+ "bus": {
+  "num": 437,
+  "name": "八"
+ },
+ "level": 3,
+ "parent": "柬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“陰旦日明。”陰雨後晴明。lán，《集韻》：“陰乾也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：雲决而日出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "判",
+ "head": "判",
+ "pinyin": "pàn",
+ "aliases": [],
+ "bus": {
+  "num": 437,
+  "name": "八"
+ },
+ "level": 3,
+ "parent": "半",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“分也。从刀半聲。普半切。”分開。剖分。《正字通》：“又斷也。”區分；分辨。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：刃下闢開，判然相離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

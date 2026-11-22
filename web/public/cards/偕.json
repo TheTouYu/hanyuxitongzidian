@@ -1,43 +1,35 @@
 {
  "char": "偕",
- "pinyin": "xié",
+ "head": "偕",
+ "pinyin": "xié、jiē",
  "bus": {
   "num": 426,
   "name": "虤"
  },
+ "level": 3,
+ "parent": "皆",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "j「聚决」取「聚」：众力相聚而强（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“強也。从人皆聲。《詩》曰：‘偕偕士子。’一曰俱也。古諧切。”強壯。共同。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：二人並行，步相續而力不竭（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十一聿",
+   "text": "",
    "links": [
     {
      "t": "卷",
-     "ch": "卷七十一聿",
-     "label": "卷七十一聿"
+     "ch": "卷七十亥",
+     "label": "卷七十亥"
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "偕"
+ ]
 }

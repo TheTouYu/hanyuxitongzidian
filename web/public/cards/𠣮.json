@@ -1,0 +1,41 @@
+{
+ "char": "𠣮",
+ "head": "𠣮",
+ "pinyin": "jǔ",
+ "aliases": [],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“曲脊也。”《正字通》：“𠤄字訛省。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“㚔”之訛，表示拘執"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：形近之訛，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

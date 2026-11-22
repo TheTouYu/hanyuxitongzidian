@@ -1,0 +1,38 @@
+{
+ "char": "墶",
+ "head": "墶（垯）",
+ "pinyin": "dā",
+ "aliases": [
+  "垯"
+ ],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "羍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“方言。地方，處所。”dɑ，圪墶。同“疙瘩”；小土丘。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：撮土成堆，積而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

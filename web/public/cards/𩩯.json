@@ -1,0 +1,36 @@
+{
+ "char": "𩩯",
+ "head": "𩩯",
+ "pinyin": "biàn",
+ "aliases": [],
+ "bus": {
+  "num": 439,
+  "name": "扁"
+ },
+ "level": 3,
+ "parent": "扁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“骨𩩯生皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：骨節相銜，閉鎖成架（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

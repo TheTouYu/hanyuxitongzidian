@@ -1,0 +1,38 @@
+{
+ "char": "騗",
+ "head": "騗（騙）",
+ "pinyin": "piàn",
+ "aliases": [
+  "騙"
+ ],
+ "bus": {
+  "num": 439,
+  "name": "扁"
+ },
+ "level": 3,
+ "parent": "扁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“躍而乘馬也。或書作騙。”《正字通》：“今俗借為誆騙字。”欺騙。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：身與馬拼，一躍而上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

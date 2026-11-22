@@ -1,0 +1,36 @@
+{
+ "char": "𤻶",
+ "head": "𤻶",
+ "pinyin": "biàn",
+ "aliases": [],
+ "bus": {
+  "num": 439,
+  "name": "扁"
+ },
+ "level": 3,
+ "parent": "扁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“骨風病也。”骨節腫大如結。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：風邪閉骨，節節墳起（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "㿹",
+ "head": "㿹（𥀀）",
+ "pinyin": "tà",
+ "aliases": [
+  "𥀀"
+ ],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "羍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“他達切，音闥。皮起。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：肌膚墳高，忽爾突起（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ]
+}

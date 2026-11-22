@@ -1,0 +1,36 @@
+{
+ "char": "㢖",
+ "head": "㢖",
+ "pinyin": "pān",
+ "aliases": [],
+ "bus": {
+  "num": 434,
+  "name": "釆"
+ },
+ "level": 3,
+ "parent": "番",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“峙屋也。”bān，《集韻》：“逋潘切，音般。儲物也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：眾物相拼，囤於一屋（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}

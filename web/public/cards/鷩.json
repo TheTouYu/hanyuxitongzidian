@@ -1,27 +1,29 @@
 {
  "char": "鷩",
- "pinyin": "biē",
+ "head": "鷩",
+ "pinyin": "biē、bì",
+ "aliases": [],
  "bus": {
   "num": 437,
   "name": "八"
  },
+ "level": 3,
+ "parent": "㡀",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "b「闭剥」取「剥」：羽散而剥（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“从鳥敝聲。《周禮》曰：‘孤服鷩冕’。幷列切。”錦雞。長尾如破巾。《釋名》：“鷩雉之憋惡者，山雞是也。鷩，憋也。性急憋，不可生服，必自殺，故畫其形于衣，以象人執耿介之節也。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：山雞性憋，閉拒生人（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十三釆",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -31,23 +33,10 @@
    ]
   }
  ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "鷩",
  "photos": [
   {
    "file": "01.jpg",
    "caption": ""
   }
- ],
- "captions": [
-  "",
-  ""
  ]
 }

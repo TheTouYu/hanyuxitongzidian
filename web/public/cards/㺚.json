@@ -1,0 +1,44 @@
+{
+ "char": "㺚",
+ "head": "㺚（獺）",
+ "pinyin": "tǎ",
+ "aliases": [
+  "獺"
+ ],
+ "bus": {
+  "num": 433,
+  "name": "大"
+ },
+ "level": 3,
+ "parent": "羍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“獺，獸名，《說文》：‘如小狗也。水居食魚。’或从逹。”水獺。善于游泳和潛水，速度極快。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：伏波而下，猝然取之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十二馬",
+     "label": "卷七十二馬"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

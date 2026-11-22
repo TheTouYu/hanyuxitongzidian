@@ -1,0 +1,36 @@
+{
+ "char": "憣",
+ "head": "憣",
+ "pinyin": "fān",
+ "aliases": [],
+ "bus": {
+  "num": 434,
+  "name": "釆"
+ },
+ "level": 3,
+ "parent": "番",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“心變動。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：念頭分馳，乍起乍落（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十三釆",
+     "label": "卷七十三釆"
+    }
+   ]
+  }
+ ]
+}
