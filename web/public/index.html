@@ -180,8 +180,9 @@ const secRank=k=>{if(/^cankao/.test(k))k='cankao';const i=SEC_ORDER.indexOf(k);r
 async function cardBody(ch,d,opt){
   if(d&&d.sections)d.sections.forEach(s=>{if(s.paras&&s.paras.length&&!(s.groups&&s.groups.length))s.text=s.paras.join('\n');});
   const vhtml=await variantsFor(ch);
-  const g=(GLYPH[ch]&&(GLYPH[ch].files||[]))||[];
-  const gsrc=f=>encodeURI('glyphs/'+ch+'/'+(String(f).startsWith(ch+'/')?String(f).slice(ch.length+1):f));
+  const gxc=c=>{const m=GLYPH[c]||{};const base=(m.files||[]).map(f=>{const s=String(f);return s.startsWith(c+'/')?s:c+'/'+s;});const ex=(m.extra||[]).flatMap(e=>{const pre=String(e.char)+'/';return ((GLYPH[e.char]||{}).files||[]).map(f=>{const s=String(f);return s.startsWith(pre)?s:pre+s;});});return base.concat(ex);};
+  const g=gxc(ch);
+  const gsrc=f=>encodeURI('glyphs/'+String(f));
 const strip=g.length?`<div class="gscroll">${g.map((f,i)=>`<figure><img loading="lazy" src="${gsrc(f)}" alt="${esc(ch)}" title="${esc(f)}"><figcaption>${String(i+1).padStart(2,'0')}</figcaption></figure>`).join('')}</div>`:((d.chapter||d.level===0)?'':'<p class="m" style="color:var(--mut)">（字形库未收本字古文字形）</p>');
   const grp=s=>{ if(!s.groups||!s.groups.length) return '';
   return s.groups.map(g=>`<div class="grp">${g.title?'<h4>'+esc(g.no||'')+esc(g.title)+'</h4>':''}<p class="gnote">${esc(g.note||'')}</p>
