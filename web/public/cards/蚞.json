@@ -1,0 +1,35 @@
+{
+ "char": "蚞",
+ "head": "蚞",
+ "pinyin": "mù",
+ "bus": {
+  "num": 307,
+  "name": "木"
+ },
+ "level": 3,
+ "parent": "木",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "蚞mù《集韻》：“蜓蚞，蟲名，蟪蛄也。”蟬。吸食樹汁。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：蟬吸樹汁（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

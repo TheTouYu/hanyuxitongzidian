@@ -1,0 +1,35 @@
+{
+ "char": "霂",
+ "head": "霂",
+ "pinyin": "mù",
+ "bus": {
+  "num": 307,
+  "name": "木"
+ },
+ "level": 3,
+ "parent": "木",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "霂mù《說文》：“霢霂也。从雨沐聲。莫蔔切。”《爾雅·釋天》：“小雨謂之霡霂。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：小雨如沐（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}
