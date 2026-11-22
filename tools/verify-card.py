@@ -320,6 +320,8 @@ def check_lineage(card, ch, bu):
     lv = card.get("level") or 3
     if lv == 1:
         return
+    if card.get("noRoot"):
+        return  # 讹字卡（正字无卡）按体例不挂 parent，查验世系时跳过
     parent = card.get("parent")
     if not parent:
         iss("E020", "error", ch, "parent", "缺 parent", "二级填部头，三级填所属字根")
