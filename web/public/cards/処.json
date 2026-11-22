@@ -1,0 +1,39 @@
+{
+ "char": "処",
+ "head": "処（處处）",
+ "pinyin": "chǔ",
+ "bus": {
+  "num": 392,
+  "name": "几"
+ },
+ "level": 3,
+ "aliases": [
+  "处"
+ ],
+ "parent": "几",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“止也。得几而止。从几从夂。{{shiyi/01.png}}，處或从虍聲。昌與切。”止息。《廣韻》：“處，居也。止也。制也。息也。留也。定也。《說文》又作処。”",
+   "gdir": "inline/処"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：持几而止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "臶",
+ "head": "臶（薦）",
+ "pinyin": "jiàn",
+ "bus": {
+  "num": 400,
+  "name": "才"
+ },
+ "level": 3,
+ "aliases": [
+  "薦"
+ ],
+ "parent": "存",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“再至也。或从水。”“重也。或作薦。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：再至而聚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

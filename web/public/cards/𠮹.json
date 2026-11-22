@@ -1,0 +1,35 @@
+{
+ "char": "𠮹",
+ "head": "𠮹",
+ "pinyin": "cái",
+ "bus": {
+  "num": 400,
+  "name": "才"
+ },
+ "level": 3,
+ "parent": "才",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“全，都。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」不系：全也都也，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

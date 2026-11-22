@@ -1,0 +1,35 @@
+{
+ "char": "釮",
+ "head": "釮",
+ "pinyin": "qí",
+ "bus": {
+  "num": 400,
+  "name": "才"
+ },
+ "level": 3,
+ "parent": "才",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“利也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：刃缺而後利（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

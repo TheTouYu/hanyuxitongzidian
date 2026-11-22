@@ -1,0 +1,35 @@
+{
+ "char": "賳",
+ "head": "賳",
+ "pinyin": "zāi",
+ "bus": {
+  "num": 400,
+  "name": "才"
+ },
+ "level": 3,
+ "parent": "𢦏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“貨也，財也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：貨總聚而藏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

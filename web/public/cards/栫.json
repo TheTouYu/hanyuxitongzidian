@@ -1,27 +1,28 @@
 {
  "char": "栫",
- "pinyin": "jiàn",
+ "head": "栫",
+ "pinyin": "jiàn、zùn",
  "bus": {
   "num": 400,
   "name": "才"
  },
+ "level": 3,
+ "parent": "存",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "j「聚决」取「聚」：木聚而壅（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“以柴木𡓱也。从木存聲。徂悶切。”用柴木壅塞。《玉篇》：“柴木壅水也。”《韻會》：“捕魚具。”《博雅》：“地籬也。”《廣韻》：“圍也。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：柴聚而壅（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷六十六采",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "栫"
+ ]
 }

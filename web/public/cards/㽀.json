@@ -1,0 +1,35 @@
+{
+ "char": "㽀",
+ "head": "㽀",
+ "pinyin": "zhèng",
+ "bus": {
+  "num": 391,
+  "name": "丌"
+ },
+ "level": 3,
+ "parent": "奠",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《揚子·方言》：“甖，秦之舊都謂之㽀。”《集韻》：“瓶屬。”盛水酒的瓦器。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：瓶總聚水酒（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

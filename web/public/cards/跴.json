@@ -1,0 +1,35 @@
+{
+ "char": "跴",
+ "head": "跴",
+ "pinyin": "cǎi",
+ "bus": {
+  "num": 397,
+  "name": "西"
+ },
+ "level": 3,
+ "parent": "西",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "追蹤。踐踏。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：足刺地而踐（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
+    }
+   ]
+  }
+ ]
+}

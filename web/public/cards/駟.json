@@ -1,0 +1,35 @@
+{
+ "char": "駟",
+ "head": "駟",
+ "pinyin": "sì",
+ "bus": {
+  "num": 396,
+  "name": "四"
+ },
+ "level": 3,
+ "parent": "四",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“一乘也。从馬四聲。息利切。”《玉篇》：“四馬一乗也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：四馬收於一乘（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
+    }
+   ]
+  }
+ ]
+}

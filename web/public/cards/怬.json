@@ -1,0 +1,35 @@
+{
+ "char": "怬",
+ "head": "怬",
+ "pinyin": "xì",
+ "bus": {
+  "num": 396,
+  "name": "四"
+ },
+ "level": 3,
+ "parent": "四",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“忻也。”欣喜。《正字通》：“與呬同。息也。”休息。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：心忻而氣續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
+    }
+   ]
+  }
+ ]
+}

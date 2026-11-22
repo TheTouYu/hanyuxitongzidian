@@ -1,0 +1,35 @@
+{
+ "char": "𤜢",
+ "head": "𤜢",
+ "pinyin": "xìn",
+ "bus": {
+  "num": 400,
+  "name": "才"
+ },
+ "level": 3,
+ "parent": "卂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“貍屬，似貓貍而小，有臭氣，黃斑色，居澤中，食蟲鼠及草根。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：獸名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

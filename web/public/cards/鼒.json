@@ -1,0 +1,36 @@
+{
+ "char": "鼒",
+ "head": "鼒（鎡）",
+ "pinyin": "zī",
+ "bus": {
+  "num": 400,
+  "name": "才"
+ },
+ "level": 3,
+ "parent": "才",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鼎之圜掩上者。从鼎才聲。《詩》曰：‘鼐鼎及鼒。’{{shiyi/01.png}}，俗鼒从金从茲。子之切。”《玉篇》：“小鼎也。”",
+   "gdir": "inline/鼒"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：小鼎總受五味（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "採",
+ "head": "採",
+ "pinyin": "cǎi",
+ "bus": {
+  "num": 399,
+  "name": "采"
+ },
+ "level": 3,
+ "parent": "采",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正韻》：“同采。摘也、取也、㩜也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：手刺而摘（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "訵",
+ "head": "訵（䜉）",
+ "pinyin": "chī",
+ "bus": {
+  "num": 396,
+  "name": "四"
+ },
+ "level": 3,
+ "aliases": [
+  "䜉"
+ ],
+ "parent": "四",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“隂知，伺察也。”“沅灃之間相問而不知，荅曰䜉。或作訵。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：言刺而伺察（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十五鼻",
+     "label": "卷六十五鼻"
+    }
+   ]
+  }
+ ]
+}

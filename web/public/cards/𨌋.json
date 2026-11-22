@@ -1,0 +1,41 @@
+{
+ "char": "𨌋",
+ "head": "𨌋（䡔）",
+ "pinyin": "qǐ",
+ "bus": {
+  "num": 393,
+  "name": "启"
+ },
+ "level": 3,
+ "parent": "启",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䡔，《說文》：‘礙也。’一曰至也。或从启。”刹車。或指來到。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：輪缺礙而止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "刹車示意圖"
+  }
+ ]
+}

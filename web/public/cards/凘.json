@@ -1,0 +1,41 @@
+{
+ "char": "凘",
+ "head": "凘",
+ "pinyin": "sī",
+ "bus": {
+  "num": 391,
+  "name": "丌"
+ },
+ "level": 3,
+ "parent": "斯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“流仌也。从仌斯聲。息移切。”冰消而流散。《風俗通》：“冰流曰凘，冰解曰冸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：冰失其凝而流（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

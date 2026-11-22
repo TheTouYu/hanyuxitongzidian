@@ -1,0 +1,41 @@
+{
+ "char": "䭶",
+ "head": "䭶（騏）",
+ "pinyin": "qí",
+ "bus": {
+  "num": 391,
+  "name": "丌"
+ },
+ "level": 3,
+ "parent": "丌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“騏，《說文》：‘馬青驪，文如博棊也。’古作䭶。”馬身上的花紋如棋盤。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：馬文相親而交（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

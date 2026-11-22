@@ -1,0 +1,35 @@
+{
+ "char": "䐆",
+ "head": "䐆",
+ "pinyin": "cǎi",
+ "bus": {
+  "num": 399,
+  "name": "采"
+ },
+ "level": 3,
+ "parent": "采",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“大腹也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」不系：大腹，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

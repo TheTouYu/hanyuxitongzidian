@@ -1,0 +1,35 @@
+{
+ "char": "簊",
+ "head": "簊",
+ "pinyin": "jī",
+ "bus": {
+  "num": 391,
+  "name": "丌"
+ },
+ "level": 3,
+ "parent": "其",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“居其切，音基。竹名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：竹名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ]
+}

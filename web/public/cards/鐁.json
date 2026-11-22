@@ -1,0 +1,41 @@
+{
+ "char": "鐁",
+ "head": "鐁",
+ "pinyin": "sī",
+ "bus": {
+  "num": 391,
+  "name": "丌"
+ },
+ "level": 3,
+ "parent": "斯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“平木器名。”《釋名》：“鐁，鐁彌也。釿有高下之跡，以此鐁彌其上而平之也。”將木頭削平用的刨子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：木失其高下而平（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十四絲",
+     "label": "卷六十四絲"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}
