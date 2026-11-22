@@ -1,0 +1,35 @@
+{
+ "char": "眄",
+ "head": "眄",
+ "pinyin": "miàn、mián",
+ "bus": {
+  "num": 311,
+  "name": "丏"
+ },
+ "level": 3,
+ "parent": "丏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“目偏合也。一曰衺視也。秦語。从目丏聲。莫甸切。”眼睛的一隻閉著。斜著眼睛看。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：目蒙半闔，斜睨而視（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

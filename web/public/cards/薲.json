@@ -1,0 +1,41 @@
+{
+ "char": "薲",
+ "head": "薲",
+ "pinyin": "pín",
+ "bus": {
+  "num": 311,
+  "name": "丏"
+ },
+ "level": 3,
+ "parent": "𡧍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“大蓱也。从艸賓聲。符眞切。”《唐韻》：“同蘋。”田字草，四葉草。當有水時，葉柄沒于水中，葉片浮于水面。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：草拼水面，四葉相連（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}
