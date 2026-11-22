@@ -1,0 +1,35 @@
+{
+ "char": "𥡭",
+ "head": "𥡭",
+ "pinyin": "něi",
+ "bus": {
+  "num": 352,
+  "name": "委"
+ },
+ "level": 3,
+ "parent": "委",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艸木子垂皃”“重垂也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：子實納滿，重而下垂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

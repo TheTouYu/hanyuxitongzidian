@@ -1,0 +1,41 @@
+{
+ "char": "𧎨",
+ "head": "𧎨",
+ "pinyin": "chí",
+ "bus": {
+  "num": 353,
+  "name": "犀"
+ },
+ "level": 3,
+ "parent": "犀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“蟲名，蛭也。”螞蟥。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：蛭吸而持於膚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}

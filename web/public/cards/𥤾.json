@@ -1,0 +1,40 @@
+{
+ "char": "𥤾",
+ "head": "𥤾（𥥅䆻竅窍）",
+ "pinyin": "qiào",
+ "bus": {
+  "num": 358,
+  "name": "孔"
+ },
+ "level": 3,
+ "aliases": [
+  "𥥅",
+  "䆻",
+  "窍"
+ ],
+ "parent": "孔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《康典》引《字學指南》：“苦吊切。同竅。或作䆻。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：穴缺而成竅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

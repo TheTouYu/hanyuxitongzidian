@@ -1,0 +1,39 @@
+{
+ "char": "𨦱",
+ "head": "𨦱（鏦𥎋䤸）",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 355,
+  "name": "囪"
+ },
+ "level": 3,
+ "aliases": [
+  "鏦",
+  "𥎋"
+ ],
+ "parent": "囪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鏦，《方言》：‘矛，呉楚之間謂之鏦。’或从彖。亦作𥎋、𨦱。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：矛刃刺聚而前（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

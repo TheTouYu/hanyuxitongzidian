@@ -1,0 +1,35 @@
+{
+ "char": "諲",
+ "head": "諲（㖶）",
+ "pinyin": "yīn",
+ "bus": {
+  "num": 355,
+  "name": "囪"
+ },
+ "level": 3,
+ "parent": "垔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“敬也。或从口。”即閉口不敢言之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母不系擬態，義從形取（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

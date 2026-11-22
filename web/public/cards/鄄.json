@@ -1,0 +1,35 @@
+{
+ "char": "鄄",
+ "head": "鄄",
+ "pinyin": "juàn",
+ "bus": {
+  "num": 355,
+  "name": "囪"
+ },
+ "level": 3,
+ "parent": "垔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“衛地。今濟陰鄄城。从邑垔聲。吉掾切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：地名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

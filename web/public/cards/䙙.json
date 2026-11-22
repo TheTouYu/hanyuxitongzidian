@@ -1,0 +1,39 @@
+{
+ "char": "䙙",
+ "head": "䙙（𧞽𧛺）",
+ "pinyin": "chí",
+ "bus": {
+  "num": 353,
+  "name": "犀"
+ },
+ "level": 3,
+ "aliases": [
+  "𧞽",
+  "𧛺"
+ ],
+ "parent": "犀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“音池。衣也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：衣名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

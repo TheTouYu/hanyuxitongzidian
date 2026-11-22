@@ -1,0 +1,35 @@
+{
+ "char": "邖",
+ "head": "邖",
+ "pinyin": "shān",
+ "bus": {
+  "num": 356,
+  "name": "山"
+ },
+ "level": 3,
+ "parent": "山",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“地名。从邑山聲。所間切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」不系：地名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㩄",
+ "head": "㩄",
+ "pinyin": "shāi",
+ "bus": {
+  "num": 354,
+  "name": "囟"
+ },
+ "level": 3,
+ "parent": "恖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“散失也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：手失而散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "詾",
+ "head": "詾（訩𧧗）",
+ "pinyin": "xiōng",
+ "bus": {
+  "num": 354,
+  "name": "囟"
+ },
+ "level": 3,
+ "aliases": [
+  "𧧗"
+ ],
+ "parent": "匈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“說也。从言匈聲。{{shiyi/01.png}}，或省。{{shiyi/02.png}}，訩或从兇。許容切。”《類篇》：“《詩》傳：訟也。一曰盈也。一曰眾言。或作訩、𧧗、詾。”《廣韻》：“嚇也。”恐嚇。",
+   "gdir": "inline/詾"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：眾言續起而不安（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

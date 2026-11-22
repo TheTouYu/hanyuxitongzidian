@@ -1,0 +1,38 @@
+{
+ "char": "灺",
+ "head": "灺（炧）",
+ "pinyin": "xiè",
+ "bus": {
+  "num": 360,
+  "name": "也"
+ },
+ "level": 3,
+ "aliases": [
+  "炧"
+ ],
+ "parent": "也",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“燭㶳也。从火也聲。徐野切。”蠟燭燼。燭燼紅而開衩如蛇舌。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：燭盡而消成燼（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

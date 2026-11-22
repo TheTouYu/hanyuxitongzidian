@@ -1,0 +1,38 @@
+{
+ "char": "㟅",
+ "head": "㟅（𡼔）",
+ "pinyin": "yáng",
+ "bus": {
+  "num": 354,
+  "name": "囟"
+ },
+ "level": 3,
+ "aliases": [
+  "𡼔"
+ ],
+ "parent": "凶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“吾江切。崆㟅，山峻。或作𡼔。”wēng，《集韻》：“五公切。崆㟅，山髙皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母不系擬態，義從形取（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

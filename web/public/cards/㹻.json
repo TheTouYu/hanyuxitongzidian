@@ -1,0 +1,35 @@
+{
+ "char": "㹻",
+ "head": "㹻（猧）",
+ "pinyin": "wō",
+ "bus": {
+  "num": 352,
+  "name": "委"
+ },
+ "level": 3,
+ "parent": "委",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“小犬。或作猧。”wēi，《集韻》：“㹻猗，犬屬。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母不系擬態，義從形取（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}

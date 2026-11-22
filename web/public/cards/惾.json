@@ -1,0 +1,35 @@
+{
+ "char": "惾",
+ "head": "惾",
+ "pinyin": "zōng",
+ "bus": {
+  "num": 354,
+  "name": "囟"
+ },
+ "level": 3,
+ "parent": "㚇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“刻賊不通也。”sòu，《集韻》：“困惾，氣臭，熏鼻不通也。”壅塞不通。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：氣總聚而壅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

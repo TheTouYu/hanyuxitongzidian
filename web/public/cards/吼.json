@@ -1,0 +1,38 @@
+{
+ "char": "吼",
+ "head": "吼（㖃呴吽）",
+ "pinyin": "hǒu",
+ "bus": {
+  "num": 358,
+  "name": "孔"
+ },
+ "level": 3,
+ "aliases": [
+  "呴"
+ ],
+ "parent": "孔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㖃，《說文》：‘厚怒聲。’或作呴、吽、吼。”《玉篇》：“牛鳴也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：閉而怒，聲豁然出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𡵾",
+ "head": "𡵾",
+ "pinyin": "gǔ",
+ "bus": {
+  "num": 358,
+  "name": "孔"
+ },
+ "level": 3,
+ "parent": "孔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“音義與谷同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：兩山隔而中空（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

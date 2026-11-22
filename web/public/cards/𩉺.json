@@ -1,0 +1,35 @@
+{
+ "char": "𩉺",
+ "head": "𩉺",
+ "pinyin": "tuó",
+ "bus": {
+  "num": 359,
+  "name": "它"
+ },
+ "level": 3,
+ "parent": "它",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“馬尾駝也。从革它聲。今之般緧。徒何切。”拖車時拴在馬尾上的皮帶。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：皮帶涂曳馬尾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "𦧇",
+ "head": "𦧇（𦧓舓）",
+ "pinyin": "shì",
+ "bus": {
+  "num": 360,
+  "name": "也"
+ },
+ "level": 3,
+ "aliases": [
+  "𦧓"
+ ],
+ "parent": "也",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“舓，以舌取食也。从舌易聲。{{shiyi/01.png}}，舓或从也。神旨切。”用舌頭舔取食物。",
+   "gdir": "inline/𦧇"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：舌收取食（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十二蛇",
+     "label": "卷六十二蛇"
+    }
+   ]
+  }
+ ]
+}

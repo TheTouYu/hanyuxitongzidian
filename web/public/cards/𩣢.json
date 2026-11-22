@@ -1,0 +1,38 @@
+{
+ "char": "𩣢",
+ "head": "𩣢（驄）",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 355,
+  "name": "囪"
+ },
+ "level": 3,
+ "aliases": [
+  "驄"
+ ],
+ "parent": "囪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“驄本字。”驄，《說文》：“馬青白雜毛也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：毛色刺雜青白（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

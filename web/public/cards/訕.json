@@ -1,0 +1,35 @@
+{
+ "char": "訕",
+ "head": "訕（姍）",
+ "pinyin": "shàn",
+ "bus": {
+  "num": 356,
+  "name": "山"
+ },
+ "level": 3,
+ "parent": "山",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𧩂也。从言山聲。所晏切。”譏笑，譭謗。《集韻》：“或作姍。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：言收人短而謗（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

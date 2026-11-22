@@ -1,0 +1,35 @@
+{
+ "char": "陖",
+ "head": "陖",
+ "pinyin": "jùn",
+ "bus": {
+  "num": 357,
+  "name": "允"
+ },
+ "level": 3,
+ "parent": "夋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“陗高也。从𨸏夋聲。私閏切。”高峻陡直。《玉篇》：“險也、高也。亦作峻。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：土聚而高陡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

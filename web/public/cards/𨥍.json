@@ -1,0 +1,38 @@
+{
+ "char": "𨥍",
+ "head": "𨥍（銎）",
+ "pinyin": "xiōng",
+ "bus": {
+  "num": 354,
+  "name": "囟"
+ },
+ "level": 3,
+ "aliases": [
+  "銎"
+ ],
+ "parent": "凶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“銎，《方言》：‘矛骰（骹）謂之銎。’一曰斤斧穿。或从凶。”矛、斧裝柄的孔。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：孔消其中以受柄（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

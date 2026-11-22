@@ -1,0 +1,35 @@
+{
+ "char": "㧤",
+ "head": "㧤",
+ "pinyin": "chòng",
+ "bus": {
+  "num": 357,
+  "name": "允"
+ },
+ "level": 3,
+ "parent": "充",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“音銃。跳也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：手刺而跳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

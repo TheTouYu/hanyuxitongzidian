@@ -1,0 +1,35 @@
+{
+ "char": "𪗯",
+ "head": "𪗯（齗）",
+ "pinyin": "yín",
+ "bus": {
+  "num": 357,
+  "name": "允"
+ },
+ "level": 3,
+ "parent": "充",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“與齗同。”牙齦。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：零聲母不系擬態，義從形取（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

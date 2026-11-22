@@ -1,0 +1,35 @@
+{
+ "char": "傻",
+ "head": "傻",
+ "pinyin": "shǎ",
+ "bus": {
+  "num": 354,
+  "name": "囟"
+ },
+ "level": 3,
+ "parent": "㚇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“傻俏，不仁。一曰輕慧皃。”蠢笨；不明事理。或指輕狂。即小兒懵懂無知貌。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：小兒失智而懵懂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

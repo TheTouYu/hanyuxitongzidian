@@ -1,0 +1,39 @@
+{
+ "char": "峻",
+ "head": "峻（𡺲）",
+ "pinyin": "jùn",
+ "bus": {
+  "num": 357,
+  "name": "允"
+ },
+ "level": 3,
+ "aliases": [
+  "𡺲"
+ ],
+ "parent": "夋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“高也。从山陖聲。{{shiyi/01.png}}，𡺲或省。私閏切。”山高而陡。《廣韻》：“𡺲，髙也、長也、險也、峭也、速也。峻，上同。”",
+   "gdir": "inline/峻"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：山石聚而高（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十一犀",
+     "label": "卷六十一犀"
+    }
+   ]
+  }
+ ]
+}

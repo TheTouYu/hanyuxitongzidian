@@ -1,0 +1,38 @@
+{
+ "char": "𩦣",
+ "head": "𩦣（騧𩢍）",
+ "pinyin": "guā",
+ "bus": {
+  "num": 351,
+  "name": "𩰫"
+ },
+ "level": 3,
+ "aliases": [
+  "𩢍"
+ ],
+ "parent": "𩰫",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“騧，《說文》：‘黃馬黒喙。’籀从𩰬。或作𩢍。”馬黃毛而黑嘴。即嘴不正之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：喙黑與身隔色（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十𦟀",
+     "label": "卷六十𦟀"
+    }
+   ]
+  }
+ ]
+}
