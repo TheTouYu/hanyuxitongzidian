@@ -52,6 +52,9 @@ CARDS_MAP = {}
 GLYPH_INDEX = {}
 PHOTO_INDEX = {}
 CAPTIONS = {}
+# 插图两清单（SPA 用）与 index 顶层 photos 的漂移，全库历史欠账较多；
+# 默认 warn，--photo-strict 升为 error（整部验收时用）
+PHOTO_STRICT = False
 VARIANTS = {}
 
 
@@ -374,9 +377,11 @@ def check_zizu(card, ch):
             if not re.match(r"^[①②③④⑤⑥⑦⑧⑨]", t):
                 iss("E045", "warn", ch, "zizu", "多组但组题无编号：%s" % t,
                     "两组以上组题要 ①②③（原稿没有就照原稿）")
+    # 原稿「字族衍義：未形成字族」后直接给行、没有组题（粵/罵/配 三张如此），不算缺
+    no_family = str(z.get("text") or "").startswith("未形成字族")
     for gi, g in enumerate(groups):
         title = g.get("title") or ""
-        if not title.strip():
+        if not title.strip() and not no_family:
             iss("E040", "error", ch, "zizu#%d" % gi, "组题为空", "组题照原稿录入")
         rs = g.get("rows") or []
         if not rs:
@@ -442,8 +447,14 @@ def check_shengmu(card, ch):
         return
     ini, group = m.group(1).lower(), m.group(2)
     if "零聲母" in group:
-        if ini != "y":
-            iss("E061", "warn", ch, "shengmu", "零声母前缀是 %s 不是 y" % ini, "零声母统一写 y「零聲母」")
+        # 零声母按实际拼音首字母写：y（如 有 yǒu）、w（如 未 wèi），不系照实；不得一律写 y
+        inits = any_pinyin_initial(card.get("pinyin") or "")
+        if ini not in ("y", "w"):
+            iss("E061", "warn", ch, "shengmu", "零声母前缀是 %s，应写 y 或 w" % ini,
+                "零声母按实际拼音首字母写（y/w），不系照实")
+        elif inits and ini not in inits:
+            iss("E061", "warn", ch, "shengmu", "零声母前缀 %s 与读音首字母不符" % ini,
+                "按今读实际首字母写（y/w），不系照实")
         return
     tm = re.search(r"取「([^」]?)」", text)
     if tm and tm.group(1) and tm.group(1) not in group:
@@ -488,7 +499,7 @@ def check_images(card, ch):
     # 句中形
     for s in sections(card):
         gdir = s.get("gdir") or ""
-        txt = "\n".join([s.get("text") or ""] + [str(x) for x in (s.get("paras") or [])])
+        txt = "\n".join([str(s.get("text") or "")] + [str(x) for x in (s.get("paras") or [])])
         for m in re.finditer(r"\{\{([^}]+)\}\}", txt):
             rel = (gdir + "/" + m.group(1)) if gdir else m.group(1)
             p = os.path.join(GLYPHS, *rel.split("/"))
@@ -512,6 +523,34 @@ def check_images(card, ch):
     if ph and top and len(ph) != len(top):
         iss("E054", "error", ch, "photos", "卡里 %d 图，index 顶层 %d 图" % (len(ph), len(top)),
             "两处同步")
+    # SPA 另读两套清单（photos/index.json + photos/captions.json），必须与 index 顶层 photos 同步
+    # 2026-11-22 卷五十四缺图即此漂移：legacy 缺 免/墁/岡/檳/浜，罵 指向已删的 01.png
+    # 判级：缺条目、指向不存在的文件 → warn（--photo-strict 升 error，整部验收时用）；
+    #       图序/图注不一致 → 恒 warn（历史欠账多，逐卷收，不影响页面出图）
+    if ph or top:
+        def _base(x):
+            f = x.get("file") if isinstance(x, dict) else x
+            return os.path.basename(str(f or ""))
+        spa = (PHOTO_INDEX.get("photos") or {}).get(ch)
+        sev = "error" if PHOTO_STRICT else "warn"
+        if not spa:
+            iss("E057", sev, ch, "photos/spa", "SPA 清单 photos/index.json 缺「%s」" % ch,
+                "photos/index.json 与 photos/captions.json 要跟 index 顶层 photos 一起写")
+        else:
+            bad = [_base(x) for x in spa if _base(x) and not os.path.exists(os.path.join(PHOTOS, ch, _base(x)))]
+            if bad:
+                iss("E057", sev, ch, "photos/spa", "SPA 指向不存在的文件：%s" % bad,
+                    "删条目或补文件（SPA 会 404）")
+            spab = [b for b in (_base(x) for x in spa) if b]
+            topb = [b for b in (_base(x) for x in top) if b]
+            if spab != topb:
+                iss("E057", "warn", ch, "photos/spa", "SPA 图序与 index 不一：%s vs %s" % (spab, topb),
+                    "两清单按同一文件、同一顺序同步")
+            caps = (CAPTIONS.get("captions") or {}).get(ch) or []
+            topcap = [str((x.get("caption") if isinstance(x, dict) else "") or "") for x in top]
+            if [str(x or "") for x in caps] != topcap:
+                iss("E057", "warn", ch, "photos/spa", "SPA 图注与 index 不一：%s vs %s"
+                    % ([str(x or "") for x in caps], topcap), "图注两处同步；原文无 ▲ 就留空")
 
 
 def check_shiyi(card, ch, expect):
@@ -644,8 +683,13 @@ def main():
     ap.add_argument("--base", default="http://127.0.0.1:8099")
     ap.add_argument("--alias-pages", action="store_true")
     ap.add_argument("--json")
+    ap.add_argument("--photo-strict", action="store_true",
+                    help="插图两清单（SPA 用）缺条目/断链算 error，整部验收时加")
     ap.add_argument("--max", type=int, default=40)
     args = ap.parse_args()
+
+    global PHOTO_STRICT
+    PHOTO_STRICT = bool(args.photo_strict)
 
     expect = load(args.expect) if args.expect else {}
     if args.expect and expect is None:
