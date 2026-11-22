@@ -23,7 +23,7 @@ CARDS = os.path.join(ROOT, "web", "public", "cards")
 DEFAULT_TXT = os.path.join(ROOT, "web", ".cache", "txt", "卷五十四  网.txt")
 
 HAN = "\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002a6df"
-PINYIN = "a-zA-Zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜüńňǹḿ"
+PINYIN = "a-zA-Z\u0261āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜüńňǹḿ"
 START_RE = re.compile(r"^[%s]{1,4}" % HAN)
 NEXT_RE = re.compile(r"^[（(：:%s]" % PINYIN)
 
