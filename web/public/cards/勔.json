@@ -1,0 +1,35 @@
+{
+ "char": "勔",
+ "head": "勔",
+ "pinyin": "miǎn",
+ "bus": {
+  "num": 309,
+  "name": "面"
+ },
+ "level": 3,
+ "parent": "面",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《爾雅·釋詁》：“劭勔，勉也。”勉力。《字彙》：“勸勉曰勔。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：力被蒙蔽，勸而後動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

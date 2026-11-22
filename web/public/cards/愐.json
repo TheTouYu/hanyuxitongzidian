@@ -1,0 +1,35 @@
+{
+ "char": "愐",
+ "head": "愐",
+ "pinyin": "miǎn",
+ "bus": {
+  "num": 309,
+  "name": "面"
+ },
+ "level": 3,
+ "parent": "面",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“勉也。从心面聲。彌殄切。”勉力；勤勉。《廣韻》：“思也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：心蒙而後奮，力自内生（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

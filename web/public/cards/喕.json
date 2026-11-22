@@ -1,0 +1,35 @@
+{
+ "char": "喕",
+ "head": "喕",
+ "pinyin": "miǎn",
+ "bus": {
+  "num": 309,
+  "name": "面"
+ },
+ "level": 3,
+ "parent": "面",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“不言也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：口蒙不啟，默然自守（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十四网",
+     "label": "卷五十四网"
+    }
+   ]
+  }
+ ]
+}

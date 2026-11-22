@@ -90072,8 +90072,14 @@
    ],
    "photos": [
     {
-     "file": "01.jpg",
+     "file": "photos/面/01.jpg",
      "caption": ""
+    }
+   ],
+   "extra": [
+    {
+     "char": "𠚑",
+     "label": "字形（𠚑）"
     }
    ]
   },
@@ -122188,6 +122194,12 @@
   "兩": [
    {
     "file": "photos/兩/01.jpg",
+    "caption": ""
+   }
+  ],
+  "面": [
+   {
+    "file": "photos/面/01.jpg",
     "caption": ""
    }
   ]
