@@ -1,0 +1,35 @@
+{
+ "char": "𡲳",
+ "head": "𡲳",
+ "pinyin": "nì",
+ "bus": {
+  "num": 340,
+  "name": "弱"
+ },
+ "level": 3,
+ "parent": "弱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗溺字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：溺之俗體，納身水中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "char": "𩹾",
+ "head": "𩹾",
+ "pinyin": "nà",
+ "bus": {
+  "num": 338,
+  "name": "入"
+ },
+ "level": 3,
+ "parent": "內",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“魚。似鱉，無甲，有尾，無足，口在腹下。从魚納聲。奴荅切。”魟魚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：口在腹下，納食於底（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}

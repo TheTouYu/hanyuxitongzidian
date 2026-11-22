@@ -1,0 +1,41 @@
+{
+ "char": "鶸",
+ "head": "鶸",
+ "pinyin": "ruò",
+ "bus": {
+  "num": 340,
+  "name": "弱"
+ },
+ "level": 3,
+ "parent": "弱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“而灼切，音弱。昆鳥。”《漢典》：雀科，金翅雀屬某些鳥的別稱。身形嬌小。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：雀形嬌小，其力柔弱（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "金翅鳥"
+  }
+ ]
+}

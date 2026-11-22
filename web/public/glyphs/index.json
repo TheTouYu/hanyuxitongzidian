@@ -85226,7 +85226,7 @@
    "photos": [
     {
      "file": "01.jpg",
-     "caption": ""
+     "caption": "唐代繪彩胡人俑"
     }
    ]
   },
@@ -85305,6 +85305,12 @@
     "內/18.png",
     "內/19.png",
     "內/20.png"
+   ],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": ""
+    }
    ]
   },
   "𡗠": {
@@ -85457,6 +85463,12 @@
     "弱/02.png",
     "弱/03.png",
     "弱/04.png"
+   ],
+   "extra": [
+    {
+     "char": "𡲘",
+     "label": "字形（𡲘）"
+    }
    ]
   },
   "𢐅": {
@@ -85489,17 +85501,6 @@
     "𡲘/04.png"
    ]
   },
-  "尿": {
-   "doc": "卷五十八  兒",
-   "variants": "𢐅㲻𡲘尿𢎥",
-   "alias": "弱",
-   "files": [
-    "弱/01.png",
-    "弱/02.png",
-    "弱/03.png",
-    "弱/04.png"
-   ]
-  },
   "𢎥": {
    "doc": "卷五十八  兒",
    "variants": "𢐅㲻𡲘尿𢎥",
@@ -85523,7 +85524,7 @@
   },
   "惢": {
    "doc": "卷五十八  兒",
-   "variants": "𢗰",
+   "variants": "",
    "files": [
     "惢/01.png"
    ]
@@ -110005,6 +110006,65 @@
     "匿/03.png",
     "匿/04.png"
    ]
+  },
+  "仁": {
+   "doc": "卷五十八  兒",
+   "variants": "忎忈",
+   "files": [
+    "仁/01.png",
+    "仁/02.png",
+    "仁/03.png",
+    "仁/04.png",
+    "仁/05.png",
+    "仁/06.png",
+    "仁/07.png",
+    "仁/08.png",
+    "仁/09.png"
+   ]
+  },
+  "鶸": {
+   "doc": "卷五十八  兒",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.jpg",
+     "caption": "金翅鳥"
+    }
+   ]
+  },
+  "蕊": {
+   "doc": "卷五十八  兒",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.png",
+     "caption": "玉蕊花"
+    }
+   ]
+  },
+  "鰯": {
+   "doc": "卷五十八  兒",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.png",
+     "caption": ""
+    }
+   ]
+  },
+  "𩹾": {
+   "doc": "卷五十八  兒",
+   "variants": "",
+   "files": [],
+   "photos": [
+    {
+     "file": "01.png",
+     "caption": ""
+    }
+   ]
   }
  },
  "炙": {
@@ -122472,6 +122532,36 @@
    {
     "file": "photos/圼/01.png",
     "caption": "礬石染料"
+   }
+  ],
+  "須": [
+   {
+    "file": "photos/須/01.jpg",
+    "caption": "唐代繪彩胡人俑"
+   }
+  ],
+  "入": [
+   {
+    "file": "photos/入/01.jpg",
+    "caption": "魏晉壁畫《射羊圖》"
+   }
+  ],
+  "內": [
+   {
+    "file": "photos/內/01.jpg",
+    "caption": ""
+   }
+  ],
+  "鶸": [
+   {
+    "file": "photos/鶸/01.jpg",
+    "caption": "金翅鳥"
+   }
+  ],
+  "蕊": [
+   {
+    "file": "photos/蕊/01.png",
+    "caption": "玉蕊花"
    }
   ]
  }

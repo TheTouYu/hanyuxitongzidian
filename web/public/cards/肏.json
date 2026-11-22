@@ -1,0 +1,35 @@
+{
+ "char": "肏",
+ "head": "肏",
+ "pinyin": "cào",
+ "bus": {
+  "num": 338,
+  "name": "入"
+ },
+ "level": 3,
+ "parent": "入",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“男性的性交動作。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：男女交合，刺入而動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "叺",
+ "head": "叺",
+ "pinyin": "chǐ",
+ "bus": {
+  "num": 338,
+  "name": "入"
+ },
+ "level": 3,
+ "parent": "入",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音篇海》：“醜入切，音尺。”口氣語，無實義。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：口氣之語，無實義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}

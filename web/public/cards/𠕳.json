@@ -1,0 +1,35 @@
+{
+ "char": "𠕳",
+ "head": "𠕳",
+ "pinyin": "dí",
+ "bus": {
+  "num": 338,
+  "name": "入"
+ },
+ "level": 3,
+ "parent": "入",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“得立切，音的。入也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：納物於內，囤而藏之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷五十八兒",
+     "label": "卷五十八兒"
+    }
+   ]
+  }
+ ]
+}
