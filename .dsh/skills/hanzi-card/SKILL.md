@@ -105,8 +105,9 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 
 ### 3.2 异体图（extra）与參證图（cankao）
 
-- **异体标签**（标签字在本字 `variants` 里，如 面 的 `𠚑`）：给该异体单建 `chars[异体] = {doc, variants:"", files:[…]}`，再在本字条目加
-  `"extra": [{"char":"𠚑","label":"字形（𠚑）"}]`。页面会在本字字形行后按 label 追加这些图，图注数也算进去。
+- **异体标签**（标签字在本字 `variants` 里，如 兆 的 `涉`）：给该异体单建 `chars[异体] = {doc, variants:"", files:[…]}`，再在本字条目加
+  `"extra": [{"char":"涉","label":"字形（涉）"}]`。页面会在本字字形行后按 label 追加这些图，图注数也算进去。
+- 异体若同时是「段末只借形对照」的參證字，按下列 cankao 写，**不要再挂 extra**（否则页面同图渲染两次；309 面 的 𠚑 即此例）。
 - **參證字**（他部字、或本段只借一两形来对照，如 久 借 氒、䚻 借 䍃、309 面 段末的 顏）：不要覆盖该字自己的 `files`，也不要并进本字 `files`。本段那张图另存 `web/public/glyphs/<本字>/cankao/NN.png`（或 `inline/<本字>/cankao/…`），卡里加一栏：
 
 ```json
@@ -114,7 +115,10 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
  "cimgs":[{"f":"氒/21.jpg","cap":"01"},{"f":"氒/22.jpg","cap":"02"}]}
 ```
 
-  `cimgs` 的 `f` 相对 `web/public/glyphs/`；可以是字符串，也可以是 `{f,cap}`（cap 是图注，照原稿/序号）。位置照原稿图出现处所在栏之后（久在其轉義后、䚻在其辯證后）；判不准就放 `benyi` 后，并在交付说明里写明。
+  `cimgs` 的 `f` 相对 `web/public/glyphs/`；可以是字符串，也可以是 `{f,cap}`（cap 是图注）。位置照原稿图出现处所在栏之后（久在其轉義后、䚻在其辯證后）；判不准就放 `benyi` 后，并在交付说明里写明。
+- **cankao 固定放在 `bianzheng` 之后、`yinyuan` 之前**（验收时按这个位置看，别拖到 `zixing` 后面）。
+- **一栏只放一个 `cankao` 段**（verify 的 E011 拦重复段）：一组多字就合成一段，`cimgs` 按原稿顺序排。
+- **`text` 一律留空**：不在參證欄写解释、分组说明或来源考订（主人 2026-11-22 明令「不需要解释，删去」）。分组靠 `cap` 标字名，如 `{"f":"𠚑/01.png","cap":"𠚑 01"}`、`{"f":"面/cankao/03.png","cap":"𬍵 02"}`、末形 `{"f":"面/cankao/01.png","cap":"顏"}`。
 
 ### 3.3 插图（实物照片）
 
@@ -165,7 +169,7 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 
 `benyi → [erji] → zhuanyi → bianzheng → [cankao] → yinyuan → shengmu → zizu → zixing → suoshujuan`
 
-- `erji` 只在部头卡出现；`cankao` 位置照原稿图出现处（§3.2），不在栏序硬约束里，放 zhuanyi/bianzheng 之后都见过。
+- `erji` 只在部头卡出现；`cankao` **固定紧跟 `bianzheng`**（主人 2026-11-22 定；老卡此前的 `zixing` 后会判不对）。
 - 缺哪栏是原稿没有，不要硬造；全库 335 张 level1 里也有缺 zhuanyi/bianzheng/yinyuan 的——**按原稿**，不要为齐栏补写。
 
 ### 4.2 部头/二级
