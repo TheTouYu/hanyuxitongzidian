@@ -32,6 +32,7 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
+import unicodedata
 from datetime import datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -150,6 +151,9 @@ def head_alias_chars(card):
 
 def pinyin_initial(py):
     py = re.sub(r"[^a-zA-Z\u00c0-\u024f]", "", (py or "").split("、")[0].split(",")[0]).lower()
+    # 去掉声调符号（ā→a、ě→e…），否则零声母 a/e/o 前缀永远对不上带调拼音
+    py = unicodedata.normalize("NFD", py)
+    py = "".join(ch for ch in py if not unicodedata.combining(ch))
     if not py:
         return ""
     for i in INITIALS:
@@ -447,14 +451,16 @@ def check_shengmu(card, ch):
         return
     ini, group = m.group(1).lower(), m.group(2)
     if "零聲母" in group:
-        # 零声母按实际拼音首字母写：y（如 有 yǒu）、w（如 未 wèi），不系照实；不得一律写 y
+        # 零声母按今读实际首字母据实写：y/w/a/e/o…（2026-11-22 主人：不得一律写 y）
+        # 旧版只认 y/w，把 安 ān、頞 è 这类 a/e 开头的一律判 warn；改为「与该字读音首字母一致」即过。
         inits = any_pinyin_initial(card.get("pinyin") or "")
-        if ini not in ("y", "w"):
-            iss("E061", "warn", ch, "shengmu", "零声母前缀是 %s，应写 y 或 w" % ini,
-                "零声母按实际拼音首字母写（y/w），不系照实")
-        elif inits and ini not in inits:
-            iss("E061", "warn", ch, "shengmu", "零声母前缀 %s 与读音首字母不符" % ini,
-                "按今读实际首字母写（y/w），不系照实")
+        if inits:
+            if ini not in inits:
+                iss("E061", "warn", ch, "shengmu", "零声母前缀 %s 与读音 %s 的首字母不符" % (ini, card.get("pinyin")),
+                    "零声母按今读实际首字母据实写（y/w/a/e/o…），不系照实")
+        elif ini not in ("y", "w"):
+            iss("E061", "warn", ch, "shengmu", "零声母前缀是 %s，应写实际首字母" % ini,
+                "零声母按今读实际首字母据实写")
         return
     tm = re.search(r"取「([^」]?)」", text)
     if tm and tm.group(1) and tm.group(1) not in group:
