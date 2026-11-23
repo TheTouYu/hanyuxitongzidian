@@ -1,0 +1,35 @@
+{
+ "char": "𣱂",
+ "head": "𣱂",
+ "pinyin": "kùn",
+ "bus": {
+  "num": 446,
+  "name": "䜌"
+ },
+ "level": 3,
+ "parent": "䜌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《海篇》：“音困。”疑指鳥獸的換毛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：毛換形改，控而不定（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

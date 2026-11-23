@@ -1,0 +1,38 @@
+{
+ "char": "畹",
+ "head": "畹（㽜）",
+ "pinyin": "wǎn、yuǎn",
+ "bus": {
+  "num": 449,
+  "name": "夗"
+ },
+ "level": 3,
+ "aliases": [
+  "㽜"
+ ],
+ "parent": "夗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“田三十畝也。从田宛聲。于阮切。”《正字通》：“田之長為畹。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：田長而連（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

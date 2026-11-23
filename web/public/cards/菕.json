@@ -1,0 +1,35 @@
+{
+ "char": "菕",
+ "head": "菕",
+ "pinyin": "lún",
+ "bus": {
+  "num": 448,
+  "name": "侖"
+ },
+ "level": 3,
+ "parent": "侖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“菕虂，香艸名。”《玉篇》：“木名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：艸名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

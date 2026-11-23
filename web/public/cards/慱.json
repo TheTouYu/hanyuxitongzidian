@@ -1,0 +1,35 @@
+{
+ "char": "慱",
+ "head": "慱",
+ "pinyin": "tuán",
+ "bus": {
+  "num": 450,
+  "name": "叀"
+ },
+ "level": 3,
+ "parent": "叀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“《爾雅》：‘慱慱，憂也’。”《字彙》：“古作團字。”圓；滿。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：憂思涂附，盤旋不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

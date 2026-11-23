@@ -1,0 +1,38 @@
+{
+ "char": "碖",
+ "head": "碖（磮）",
+ "pinyin": "lǔn、lùn、lún",
+ "bus": {
+  "num": 448,
+  "name": "侖"
+ },
+ "level": 3,
+ "aliases": [
+  "磮"
+ ],
+ "parent": "侖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“碖碅，石落皃。”lùn，《廣韻》：“大小勻皃。”《集韻》：“石皃。”lún，《玉篇》：“石也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：碎石相攏，勻圓成累（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

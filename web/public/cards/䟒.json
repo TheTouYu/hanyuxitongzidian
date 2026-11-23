@@ -1,27 +1,28 @@
 {
  "char": "䟒",
- "pinyin": "quán",
+ "head": "䟒",
+ "pinyin": "quán、cūn",
  "bus": {
   "num": 443,
   "name": "卝"
  },
+ "level": 3,
+ "parent": "雈",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "q「亲缺」取「缺」：行曲而缺（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“行䟒趢也。一曰行曲𦟝皃。从走雚聲。巨員切。”即象鷺一般駝背走路的樣子。《玉篇》：“曲脊。”《龍龕》：“曲腳。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：曲脊親地，行走如鷺（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十四雈",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "䟒"
+ ]
 }

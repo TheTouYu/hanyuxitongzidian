@@ -1,0 +1,35 @@
+{
+ "char": "𩖿",
+ "head": "𩖿",
+ "pinyin": "yuàn",
+ "bus": {
+  "num": 449,
+  "name": "夗"
+ },
+ "level": 3,
+ "parent": "夗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“鰥𩖿，人名，見《穆天子傳》。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：人名之屬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

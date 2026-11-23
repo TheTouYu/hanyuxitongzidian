@@ -1,0 +1,38 @@
+{
+ "char": "𨫑",
+ "head": "𨫑（鐶）",
+ "pinyin": "huǎn",
+ "bus": {
+  "num": 445,
+  "name": "串"
+ },
+ "level": 3,
+ "aliases": [
+  "鐶"
+ ],
+ "parent": "串",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗鐶字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」不系：俗鐶字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "char": "琬",
+ "head": "琬",
+ "pinyin": "wǎn",
+ "bus": {
+  "num": 449,
+  "name": "夗"
+ },
+ "level": 3,
+ "parent": "夗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“圭有琬者。从玉宛聲。于阮切。”一種上端渾圓、沒有棱角的圭。《冬官·玉人》：“琬圭九寸。”鄭玄注：“琬，猶圓也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：圭首渾圓（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

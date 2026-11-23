@@ -1,0 +1,35 @@
+{
+ "char": "㱍",
+ "head": "㱍",
+ "pinyin": "luán",
+ "bus": {
+  "num": 446,
+  "name": "䜌"
+ },
+ "level": 3,
+ "parent": "䜌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“欠皃。从欠䜌聲。洛官切。”打呵欠的樣子。《集韻》：“心惑不悟皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：呵欠攏口，曲而成圓（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "罆",
+ "head": "罆（罐）",
+ "pinyin": "guàn",
+ "bus": {
+  "num": 444,
+  "name": "貫"
+ },
+ "level": 3,
+ "parent": "貫",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同‘罐’。”大口器皿。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：器大口開，隔而貫通（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

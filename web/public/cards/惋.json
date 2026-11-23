@@ -1,0 +1,35 @@
+{
+ "char": "惋",
+ "head": "惋",
+ "pinyin": "wǎn",
+ "bus": {
+  "num": 449,
+  "name": "夗"
+ },
+ "level": 3,
+ "parent": "夗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《六書故》：“駭恨也。”《集韻》：“驚歎也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：心曲不舒（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

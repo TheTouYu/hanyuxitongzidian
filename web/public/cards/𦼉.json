@@ -1,0 +1,35 @@
+{
+ "char": "𦼉",
+ "head": "𦼉",
+ "pinyin": "huán",
+ "bus": {
+  "num": 443,
+  "name": "卝"
+ },
+ "level": 3,
+ "parent": "雈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“薍也。从艸萑聲。胡官切。”初生的荻。水草。《玉篇》：“細葦。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：水草初生，活而依水（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

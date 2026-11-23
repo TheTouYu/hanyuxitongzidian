@@ -1,0 +1,35 @@
+{
+ "char": "𨷻",
+ "head": "𨷻",
+ "pinyin": "lán",
+ "bus": {
+  "num": 446,
+  "name": "䜌"
+ },
+ "level": 3,
+ "parent": "䜌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“妄入宮掖也。从門䜌聲。讀若闌。洛幹切。”擅自出入宮廷門戶。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：妄入宮門，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

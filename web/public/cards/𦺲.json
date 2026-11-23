@@ -1,0 +1,35 @@
+{
+ "char": "𦺲",
+ "head": "𦺲",
+ "pinyin": "shuàn",
+ "bus": {
+  "num": 449,
+  "name": "夗"
+ },
+ "level": 3,
+ "parent": "夗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艸名，無魚也。凡水有此艸則無魚。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：水草收纏，魚不能居（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "漶",
+ "head": "漶",
+ "pinyin": "huàn",
+ "bus": {
+  "num": 445,
+  "name": "串"
+ },
+ "level": 3,
+ "parent": "串",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“漫漶，不可知也。”《集韻》：“漫漶，難測皃。”洇濕使文字、圖像等模糊。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：水浸墨散，活而漫連（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

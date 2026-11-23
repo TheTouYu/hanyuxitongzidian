@@ -1,0 +1,35 @@
+{
+ "char": "𡅻",
+ "head": "𡅻",
+ "pinyin": "huàn",
+ "bus": {
+  "num": 443,
+  "name": "卝"
+ },
+ "level": 3,
+ "parent": "萈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“呼也。从㗊萈聲。讀若讙。呼官切。”呼喚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：張口開豁，呼聲寬宏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

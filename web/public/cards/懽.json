@@ -1,27 +1,28 @@
 {
  "char": "懽",
- "pinyin": "huān",
+ "head": "懽",
+ "pinyin": "huān、guàn",
  "bus": {
   "num": 443,
   "name": "卝"
  },
+ "level": 3,
+ "parent": "雈",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "h「豁活」取「活」：心喜而活（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“喜𠭥也。从心雚聲。《爾雅》曰：‘懽懽愮愮，憂無告也。’古玩切。”歡喜。或指憂愁。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：聞鳴心喜，活潑而歡（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十四雈",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,17 +31,5 @@
     }
    ]
   }
- ],
- "simp": "欢",
- "aliases": [
-  "欢",
-  "歡",
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "parent": "",
- "head": "懽"
+ ]
 }

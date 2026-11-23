@@ -1,27 +1,28 @@
 {
  "char": "𦒨",
- "pinyin": "qí",
+ "head": "𦒨",
+ "pinyin": "kuān",
  "bus": {
   "num": 443,
   "name": "卝"
  },
+ "level": 3,
+ "parent": "萈",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "q「亲缺」取「缺」：羽张而缺（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "“𡬘”的訛字。《康典》引《類篇》：“寬也。”《類篇》本作“𡬘（lào）”。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」不系：訛字，聲義無涉（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十四雈",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "𦒨"
+ ]
 }

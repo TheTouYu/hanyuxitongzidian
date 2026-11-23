@@ -1,0 +1,35 @@
+{
+ "char": "蟪",
+ "head": "蟪",
+ "pinyin": "huì",
+ "bus": {
+  "num": 450,
+  "name": "叀"
+ },
+ "level": 3,
+ "parent": "惠",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“蟪蛄，蟬也。从虫惠聲。曰棫切。”一種小蟬，青紫色，吻長，身體短。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：小蟬吻長，活而短尖（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "顴",
+ "head": "顴（𩪼）",
+ "pinyin": "quán",
+ "bus": {
+  "num": 443,
+  "name": "卝"
+ },
+ "level": 3,
+ "aliases": [
+  "𩪼"
+ ],
+ "parent": "雈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣雅》：“䪼也。”《廣韻》：“頰骨。”《集韻》：“輔骨曰顴。或从骨。”顴骨。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：頰骨親面，圓曲相輔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

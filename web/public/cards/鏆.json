@@ -1,0 +1,35 @@
+{
+ "char": "鏆",
+ "head": "鏆",
+ "pinyin": "guàn",
+ "bus": {
+  "num": 444,
+  "name": "貫"
+ },
+ "level": 3,
+ "parent": "貫",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“穿也。”《廣韻》：“臂鐶。”《集韻》：“鐶手謂之鏆。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：鐶穿臂上，隔而相扣（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

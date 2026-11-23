@@ -1,0 +1,35 @@
+{
+ "char": "篿",
+ "head": "篿",
+ "pinyin": "tuán、zhuān",
+ "bus": {
+  "num": 450,
+  "name": "叀"
+ },
+ "level": 3,
+ "parent": "叀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“圜竹器也。从竹專聲。度官切。”圓形竹器。zhuān，《集韻》：“楚人謂折竹卜曰篿。”一種占卜方式。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：竹篾涂附，圜而成器（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

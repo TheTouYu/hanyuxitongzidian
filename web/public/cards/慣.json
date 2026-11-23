@@ -1,0 +1,35 @@
+{
+ "char": "慣",
+ "head": "慣",
+ "pinyin": "guàn",
+ "bus": {
+  "num": 444,
+  "name": "貫"
+ },
+ "level": 3,
+ "parent": "貫",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“古患切，音丱。習也。又通作貫。”習慣。積習。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：習積於心，隔而相串（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

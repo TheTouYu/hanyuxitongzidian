@@ -1,0 +1,35 @@
+{
+ "char": "𡇸",
+ "head": "𡇸",
+ "pinyin": "guāi",
+ "bus": {
+  "num": 443,
+  "name": "卝"
+ },
+ "level": 3,
+ "parent": "乖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音篇海》：“音乖。”義不詳。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」不系：義不詳，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}

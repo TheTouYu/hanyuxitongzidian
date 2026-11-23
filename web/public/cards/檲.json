@@ -1,0 +1,35 @@
+{
+ "char": "檲",
+ "head": "檲",
+ "pinyin": "tuán",
+ "bus": {
+  "num": 450,
+  "name": "叀"
+ },
+ "level": 3,
+ "parent": "叀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“徒官切，音團。大木。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」不系：大木，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

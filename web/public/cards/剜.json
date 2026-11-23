@@ -1,0 +1,40 @@
+{
+ "char": "剜",
+ "head": "剜（𠛠𠞚𣪰）",
+ "pinyin": "wān",
+ "bus": {
+  "num": 449,
+  "name": "夗"
+ },
+ "level": 3,
+ "aliases": [
+  "𠛠",
+  "𠞚",
+  "𣪰"
+ ],
+ "parent": "夗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“削也。从刀宛聲。一丸切。”刻；挖。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：刀挖成孔（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十四雈",
+     "label": "卷七十四雈"
+    }
+   ]
+  }
+ ]
+}
