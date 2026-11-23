@@ -1,0 +1,35 @@
+{
+ "char": "𡒌",
+ "head": "𡒌",
+ "pinyin": "qiǎn",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "𠳋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“去演切，音遣。小垖也。”小土堆。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：散土相親，累積成堆（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

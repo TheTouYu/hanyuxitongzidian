@@ -1,0 +1,39 @@
+{
+ "char": "鬒",
+ "head": "鬒（㐱）",
+ "pinyin": "zhěn",
+ "bus": {
+  "num": 509,
+  "name": "鼎"
+ },
+ "level": 3,
+ "aliases": [
+  "㐱"
+ ],
+ "parent": "眞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“稠髮也。从彡从人。《詩》曰：‘㐱髮如雲。’{{shiyi/01.png}}，㐱或从髟眞聲。之忍切。”稠密的頭髮。《字彙》：“髮黑而稠。”《廣雅》：“強也。”",
+   "gdir": "inline/鬒"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：千絲萬縷，總歸一束（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十三鼎",
+     "label": "卷八十三鼎"
+    }
+   ]
+  }
+ ]
+}

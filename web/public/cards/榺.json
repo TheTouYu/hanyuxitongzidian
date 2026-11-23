@@ -1,0 +1,44 @@
+{
+ "char": "榺",
+ "head": "榺（橳）",
+ "pinyin": "shèng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "aliases": [
+  "橳"
+ ],
+ "parent": "朕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“機持經者。从木朕聲。詩證切。”織布機上用來夾持經紗的竹制構件。即筘。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：萬縷經紗，收束齊整（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

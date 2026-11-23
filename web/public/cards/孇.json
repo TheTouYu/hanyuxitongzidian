@@ -1,0 +1,35 @@
+{
+ "char": "孇",
+ "head": "孇",
+ "pinyin": "shuāng",
+ "bus": {
+  "num": 506,
+  "name": "雙"
+ },
+ "level": 3,
+ "parent": "雙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“疎江切，音雙。女字。”女子人名用字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：女字之用，專收於女子名諱（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

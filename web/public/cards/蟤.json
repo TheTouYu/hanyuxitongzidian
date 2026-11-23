@@ -1,0 +1,35 @@
+{
+ "char": "蟤",
+ "head": "蟤",
+ "pinyin": "zhuān",
+ "bus": {
+  "num": 508,
+  "name": "𠨎"
+ },
+ "level": 3,
+ "parent": "𠨎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蜿蟤，龍屈皃。”“蜿蟤，蟲不申皃。”《廣韻》：“蜿蟤，蛇名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：身曲難展，首尾總聚一團（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

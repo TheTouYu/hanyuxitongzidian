@@ -1,0 +1,35 @@
+{
+ "char": "𨏉",
+ "head": "𨏉",
+ "pinyin": "shuàn",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "算",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“治車軸也。从車算聲。所眷切。”用旋轉的辦法製造車軸。《字彙》：“車軸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：方木旋削，四隅盡失而圓（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

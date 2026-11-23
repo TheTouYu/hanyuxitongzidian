@@ -1,0 +1,35 @@
+{
+ "char": "㦼",
+ "head": "㦼",
+ "pinyin": "shuàng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "舂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“捍船木也。”使船固定的木樁。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：纜繞其柱，收舟使定（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

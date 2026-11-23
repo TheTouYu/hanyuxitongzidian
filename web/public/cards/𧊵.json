@@ -1,0 +1,35 @@
+{
+ "char": "𧊵",
+ "head": "𧊵",
+ "pinyin": "jiàng、fēng",
+ "bus": {
+  "num": 501,
+  "name": "夅"
+ },
+ "level": 3,
+ "parent": "夅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“彩虹。”fēng，同“蜂”。即“蜂”字之訛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：七色聚於一弧，層層相疊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

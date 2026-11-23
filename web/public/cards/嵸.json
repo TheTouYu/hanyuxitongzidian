@@ -1,0 +1,38 @@
+{
+ "char": "嵸",
+ "head": "嵸（嵷）",
+ "pinyin": "zōng、sǒng",
+ "bus": {
+  "num": 505,
+  "name": "从"
+ },
+ "level": 3,
+ "aliases": [
+  "嵷"
+ ],
+ "parent": "从",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“巃嵸，山髙峻皃。”“巃嵸，山孤皃。”sǒng，《集韻》：“嵱嵷，山峯皃。”《康典》：“嵷，又通作嵸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：山骨總聚，累積而崇（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

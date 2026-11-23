@@ -1,0 +1,35 @@
+{
+ "char": "𪐿",
+ "head": "𪐿",
+ "pinyin": "pāng",
+ "bus": {
+  "num": 501,
+  "name": "夅"
+ },
+ "level": 3,
+ "parent": "夅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“黑皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：墨色層層拼染，疊到純黑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "蕂",
+ "head": "蕂（䕝）",
+ "pinyin": "shèng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "朕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“苣蕂，胡麻也。”《集韻》“或从稱。”芝麻。節節攀升之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：芝麻結莢，節節待收（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

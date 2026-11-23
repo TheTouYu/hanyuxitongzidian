@@ -1,0 +1,35 @@
+{
+ "char": "𩽧",
+ "head": "𩽧",
+ "pinyin": "shuāng",
+ "bus": {
+  "num": 506,
+  "name": "雙"
+ },
+ "level": 3,
+ "parent": "雙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“海魚名。”《正字通》：“俗字。因比目魚名鰈，臆造𩽧字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：海魚入網，漁者收之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

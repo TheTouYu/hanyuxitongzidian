@@ -1,0 +1,35 @@
+{
+ "char": "硔",
+ "head": "硔",
+ "pinyin": "hóng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "𠬞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“石崩聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：石裂豁然，崩聲隨發（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

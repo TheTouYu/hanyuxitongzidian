@@ -1,0 +1,39 @@
+{
+ "char": "𠗲",
+ "head": "𠗲（凌）",
+ "pinyin": "líng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "aliases": [
+  "凌"
+ ],
+ "parent": "朕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“仌出也。从仌朕聲。《詩》曰：‘納于𠗲陰。’{{shiyi/01.png}}，𠗲或从夌。力膺切。”冰淩。",
+   "gdir": "inline/𠗲"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：寒氣攏結，垂條漸長（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𩻝",
+ "head": "𩻝",
+ "pinyin": "zhuàn",
+ "bus": {
+  "num": 508,
+  "name": "𠨎"
+ },
+ "level": 3,
+ "parent": "𠨎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“魚名。無骨。”一種沒有骨頭的魚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：通身軟肉總聚一團，無可分節（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

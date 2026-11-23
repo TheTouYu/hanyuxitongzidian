@@ -1,0 +1,38 @@
+{
+ "char": "樁",
+ "head": "樁（桩）",
+ "pinyin": "zhuāng、shōng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "aliases": [
+  "桩"
+ ],
+ "parent": "舂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“橛杙也。从木舂聲。啄江切。”樹樁。即“杵”。shōng，《玉篇》：“書容切。橦也。”擊；刺。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：直木下穿，入土成孔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

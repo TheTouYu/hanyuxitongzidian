@@ -1,0 +1,35 @@
+{
+ "char": "譄",
+ "head": "譄",
+ "pinyin": "zēng",
+ "bus": {
+  "num": 503,
+  "name": "曾"
+ },
+ "level": 3,
+ "parent": "曽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“加也。从言，从曾聲。作滕切。”誇大其詞。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：諸語總聚，一層添一層（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

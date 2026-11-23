@@ -1,43 +1,35 @@
 {
  "char": "碘",
- "pinyin": "diǎn",
+ "head": "碘",
+ "pinyin": "diǎn、iodine",
  "bus": {
   "num": 510,
   "name": "典"
  },
+ "level": 3,
+ "parent": "典",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "d「囤动」取「囤」：晶體囤聚（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "一種非金屬一價和多價元素，屬于鹵素，主要用于醫藥（例如用于抗菌、治療呆小病和甲狀腺腫）、照相和分析，英文為iodine，元素符號I。音譯字。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：碘多囤於甲狀腺，醫家取以消其腫（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷八十四心",
+   "text": "",
    "links": [
     {
      "t": "卷",
-     "ch": "卷八十四心",
-     "label": "卷八十四心"
+     "ch": "卷八十三鼎",
+     "label": "卷八十三鼎"
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "碘"
+ ]
 }

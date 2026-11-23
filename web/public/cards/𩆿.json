@@ -1,0 +1,35 @@
+{
+ "char": "𩆿",
+ "head": "𩆿",
+ "pinyin": "shuāng",
+ "bus": {
+  "num": 506,
+  "name": "雙"
+ },
+ "level": 3,
+ "parent": "雙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“雨（《漢典》作‘兩’）皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：雨落如注，溝渠收之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

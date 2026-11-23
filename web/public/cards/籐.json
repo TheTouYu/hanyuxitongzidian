@@ -1,0 +1,38 @@
+{
+ "char": "籐",
+ "head": "籐（籘）",
+ "pinyin": "téng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "aliases": [
+  "籘"
+ ],
+ "parent": "朕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“籐，簬器。又蔓生似竹。或作籘。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：竹節突起而堅，斲之成器（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

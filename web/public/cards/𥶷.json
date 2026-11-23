@@ -1,0 +1,41 @@
+{
+ "char": "𥶷",
+ "head": "𥶷",
+ "pinyin": "xuǎn",
+ "bus": {
+  "num": 508,
+  "name": "𠨎"
+ },
+ "level": 3,
+ "parent": "𠨎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“須兗切，音選。竹緣。”竹篾包的邊。《集韻》：“竹名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：篾片沿口，層層相接而續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

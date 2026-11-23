@@ -1,0 +1,35 @@
+{
+ "char": "㦏",
+ "head": "㦏",
+ "pinyin": "sǔn、xuàn",
+ "bus": {
+  "num": 508,
+  "name": "𠨎"
+ },
+ "level": 3,
+ "parent": "𠨎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“聳尹切，音筍。愞㦏，劣弱皃。”xuàn，《玉篇》：“稅（《字彙》作‘悅’）也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：劣弱之態，氣斂而收，不能自張（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

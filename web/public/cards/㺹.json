@@ -1,0 +1,35 @@
+{
+ "char": "㺹",
+ "head": "㺹（玣）",
+ "pinyin": "biàn",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "弁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“玉飾弁也。或作玣。”《廣韻》：“玉名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：玉片嵌槽，扣合緊密（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "char": "桳",
+ "head": "桳（㮥）",
+ "pinyin": "bèn、fàn",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "aliases": [
+  "㮥"
+ ],
+ "parent": "弁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㮥，舟篷也。或作桳。”fàn，《字彙》：“車弓也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：一篷罩下，密閉如室（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

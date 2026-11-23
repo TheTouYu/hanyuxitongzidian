@@ -1,0 +1,35 @@
+{
+ "char": "𤚩",
+ "head": "𤚩",
+ "pinyin": "qín",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "秦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“《本草》：北牛曰𤚩。小于水牛。有黃、黑、赤、白、駁雜數色。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：毛色不純，一色有缺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

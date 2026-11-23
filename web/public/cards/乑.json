@@ -1,0 +1,38 @@
+{
+ "char": "乑",
+ "head": "乑（㐺眾攀）",
+ "pinyin": "yín、pān、zhòng",
+ "bus": {
+  "num": 505,
+  "name": "从"
+ },
+ "level": 3,
+ "aliases": [
+  "㐺"
+ ],
+ "parent": "从",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“眾立也。从三人。凡乑之屬皆从乑。讀若欽崟。魚音切。”pān，《字彙》：“古作攀字。”zhòng，《正字通》：“隸作眾。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：人立成叢，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

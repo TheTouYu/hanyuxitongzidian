@@ -1,0 +1,35 @@
+{
+ "char": "臖",
+ "head": "臖",
+ "pinyin": "xìng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "興",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“腫痛也。”《廣韻》：“腫起。”《集韻》：“腫病。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：腫起連綿，續而不退（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "鵾",
+ "head": "鵾",
+ "pinyin": "kūn",
+ "bus": {
+  "num": 505,
+  "name": "从"
+ },
+ "level": 3,
+ "parent": "昆",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“似雞而大也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：喙大而厚，啄食有力（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

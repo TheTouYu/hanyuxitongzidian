@@ -1,0 +1,35 @@
+{
+ "char": "𥡬",
+ "head": "𥡬",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 505,
+  "name": "从"
+ },
+ "level": 3,
+ "parent": "从",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𥡬移，治禾也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：手扶禾苗，一一整治（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

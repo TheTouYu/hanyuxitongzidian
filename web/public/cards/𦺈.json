@@ -1,0 +1,38 @@
+{
+ "char": "𦺈",
+ "head": "𦺈（蓀荃䕖𧂍）",
+ "pinyin": "sūn",
+ "bus": {
+  "num": 508,
+  "name": "𠨎"
+ },
+ "level": 3,
+ "aliases": [
+  "䕖"
+ ],
+ "parent": "𠨎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蓀，《說文》：‘香艸。’或从巽。亦作荃、䕖、𧂍。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：葉底藏香，收而不泄（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

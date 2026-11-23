@@ -1,0 +1,35 @@
+{
+ "char": "𪋆",
+ "head": "𪋆",
+ "pinyin": "kūn",
+ "bus": {
+  "num": 505,
+  "name": "从"
+ },
+ "level": 3,
+ "parent": "昆",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“鹿屬。”《正字通》：“一說𪋆卽麑之譌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：鹿口窄長，齕草細嚼（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

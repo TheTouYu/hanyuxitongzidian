@@ -1,0 +1,39 @@
+{
+ "char": "繒",
+ "head": "繒（𦀓）",
+ "pinyin": "zēng、zèng",
+ "bus": {
+  "num": 503,
+  "name": "曾"
+ },
+ "level": 3,
+ "aliases": [
+  "𦀓"
+ ],
+ "parent": "曽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“帛也。从糸曾聲。{{shiyi/01.png}}，籀文繒从宰省。楊雄以為漢律祠宗廟丹書告。疾陵切。”絲織品的總稱。zèng，綁，紮。",
+   "gdir": "inline/繒"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：眾絲總合，織而為帛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

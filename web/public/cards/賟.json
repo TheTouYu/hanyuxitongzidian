@@ -1,0 +1,35 @@
+{
+ "char": "賟",
+ "head": "賟",
+ "pinyin": "tiǎn",
+ "bus": {
+  "num": 510,
+  "name": "典"
+ },
+ "level": 3,
+ "parent": "典",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“富也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：貝貨塗布，處處充盈（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十三鼎",
+     "label": "卷八十三鼎"
+    }
+   ]
+  }
+ ]
+}

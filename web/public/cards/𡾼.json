@@ -1,0 +1,35 @@
+{
+ "char": "𡾼",
+ "head": "𡾼",
+ "pinyin": "sǒng",
+ "bus": {
+  "num": 506,
+  "name": "雙"
+ },
+ "level": 3,
+ "parent": "雙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“山聳起貌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：土石收聚成峰，攢而後高（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

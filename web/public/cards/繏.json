@@ -1,0 +1,38 @@
+{
+ "char": "繏",
+ "head": "繏（𦇗）",
+ "pinyin": "zhuàn",
+ "bus": {
+  "num": 508,
+  "name": "𠨎"
+ },
+ "level": 3,
+ "aliases": [
+  "𦇗"
+ ],
+ "parent": "𠨎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“懸縋索。”《集韻》：“所以縣持也。”懸持蠶箔柱的繩索。《正字通》：“蜀錦名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：數層之懸，總繫一索（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

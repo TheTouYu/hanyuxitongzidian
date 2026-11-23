@@ -1,0 +1,35 @@
+{
+ "char": "禛",
+ "head": "禛",
+ "pinyin": "zhēn",
+ "bus": {
+  "num": 509,
+  "name": "鼎"
+ },
+ "level": 3,
+ "parent": "眞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“以真受福也。从示，真聲。側鄰切。”以至誠感神而獲福祐。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：至誠之心，總聚不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十三鼎",
+     "label": "卷八十三鼎"
+    }
+   ]
+  }
+ ]
+}

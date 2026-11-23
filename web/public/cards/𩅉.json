@@ -1,0 +1,35 @@
+{
+ "char": "𩅉",
+ "head": "𩅉",
+ "pinyin": "zhōng",
+ "bus": {
+  "num": 505,
+  "name": "从"
+ },
+ "level": 3,
+ "parent": "眾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“小雨也。从雨眾聲。《明堂月令》曰：‘𩅉雨。’職戎切。”同“𩂢”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：點點總集，濛然一片（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

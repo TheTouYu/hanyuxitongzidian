@@ -1,0 +1,35 @@
+{
+ "char": "㢅",
+ "head": "㢅",
+ "pinyin": "lòng",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "parent": "弄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“廈也、屏也。”《正字通》：“與弄通……今江北謂長巷曰㢅。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：巷壁相夾攏合，如屏遮蔽（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

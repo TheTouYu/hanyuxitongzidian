@@ -1,0 +1,39 @@
+{
+ "char": "𩀰",
+ "head": "𩀰（𩀨𪅜）",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 505,
+  "name": "从"
+ },
+ "level": 3,
+ "aliases": [
+  "𩀨",
+  "𪅜"
+ ],
+ "parent": "从",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“《方言》：桂林之中謂雞曰𩀨。或从鳥。亦書作𩀰。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：雞喙尖硬，啄土如刺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

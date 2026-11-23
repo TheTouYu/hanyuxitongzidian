@@ -1,0 +1,39 @@
+{
+ "char": "㷷",
+ "head": "㷷（臇𦢿𤎱）",
+ "pinyin": "juǎn",
+ "bus": {
+  "num": 508,
+  "name": "𠨎"
+ },
+ "level": 3,
+ "aliases": [
+  "𦢿",
+  "𤎱"
+ ],
+ "parent": "𠨎",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“臇，臛也。或作𦢿、𤎱、㷷。” 汁少的肉羹。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：湯液既寡，厚味聚於肉中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "鏳",
+ "head": "鏳（錚）",
+ "pinyin": "chēng、zhēng",
+ "bus": {
+  "num": 503,
+  "name": "曾"
+ },
+ "level": 3,
+ "parent": "曽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“鏳鎗，玉聲。”zhēng，《集韻》：“錚，金聲。或从曾。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：兩器相觸，聲尖刺耳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

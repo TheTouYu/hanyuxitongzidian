@@ -1,0 +1,40 @@
+{
+ "char": "硦",
+ "head": "硦（𥦌𡷟𡋱）",
+ "pinyin": "lòng、luò",
+ "bus": {
+  "num": 502,
+  "name": "𠬞"
+ },
+ "level": 3,
+ "aliases": [
+  "𥦌",
+  "𡷟",
+  "𡋱"
+ ],
+ "parent": "弄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𥦌，穴也。或从山、从石、从土。”luò，《廣韻》：“礅硦，石聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：四壁攏合，中空成洞（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

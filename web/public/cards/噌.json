@@ -1,0 +1,35 @@
+{
+ "char": "噌",
+ "head": "噌",
+ "pinyin": "chēng、cēng",
+ "bus": {
+  "num": 503,
+  "name": "曾"
+ },
+ "level": 3,
+ "parent": "曽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“噌吰，市人聲。”《廣韻》： “噌吰，鐘音。” cēng，《集韻》：“泓噌，空囂意。”或作象聲詞，一般形容速度快。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：眾口並喧，聲刺人耳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}
