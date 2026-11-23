@@ -1,0 +1,38 @@
+{
+ "char": "灶",
+ "head": "灶（竈）",
+ "pinyin": "zào",
+ "aliases": [
+  "竈"
+ ],
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "火",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音集韻》：“俗竈字。”用磚石砌成的生火做飯的設備。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：磚石凿灶，火聚其中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

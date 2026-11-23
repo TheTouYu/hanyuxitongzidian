@@ -1,0 +1,35 @@
+{
+ "char": "邩",
+ "head": "邩",
+ "pinyin": "huǒ",
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "火",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“地名。从邑火聲。呼果切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」不系：地名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

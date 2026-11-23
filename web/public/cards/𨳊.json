@@ -1,0 +1,35 @@
+{
+ "char": "𨳊",
+ "head": "𨳊",
+ "pinyin": "jiū",
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "九",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“居尤切，音鳩。訟也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：訟言相糾，聚爭於門（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

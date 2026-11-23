@@ -1,0 +1,41 @@
+{
+ "char": "𩷧",
+ "head": "𩷧",
+ "pinyin": "chì",
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "赤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“赤魚，又名青松魚，為今之海鯰科海鯰魚。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：魚身赤色，刺目而鮮（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

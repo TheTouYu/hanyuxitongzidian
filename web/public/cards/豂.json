@@ -1,0 +1,35 @@
+{
+ "char": "豂",
+ "head": "豂",
+ "pinyin": "liáo",
+ "bus": {
+  "num": 548,
+  "name": "翏"
+ },
+ "level": 3,
+ "parent": "翏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“空谷也。从谷翏聲。洛蕭切。”《博雅》：“深也。空也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：空谷離塵，深幽無底（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

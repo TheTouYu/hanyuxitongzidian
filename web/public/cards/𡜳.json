@@ -1,0 +1,35 @@
+{
+ "char": "𡜳",
+ "head": "𡜳",
+ "pinyin": "yòu",
+ "bus": {
+  "num": 547,
+  "name": "酉"
+ },
+ "level": 3,
+ "parent": "酉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“餘救切，音岫。醜也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：醜貌，聲不繫義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

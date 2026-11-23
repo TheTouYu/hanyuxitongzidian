@@ -1,0 +1,35 @@
+{
+ "char": "䳓",
+ "head": "䳓",
+ "pinyin": "lǎo",
+ "bus": {
+  "num": 544,
+  "name": "老"
+ },
+ "level": 3,
+ "parent": "老",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“力倒切，音老。頹鶖也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：禿鶖毛落，離披頭頂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

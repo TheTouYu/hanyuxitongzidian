@@ -1,0 +1,39 @@
+{
+ "char": "齲",
+ "head": "齲（𤘐）",
+ "pinyin": "qǔ",
+ "aliases": [
+  "𤘐"
+ ],
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "禹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齒蠧也。从牙禹聲。{{shiyi/01.png}}，𤘐或从齒。區禹切。”牙齒被蛀蟲蛀壞。甲骨文作{{shiyi/02.png}}、{{shiyi/03.png}}，从齒有蟲狀，不从禹。《正韻》：“啟貌。”",
+   "gdir": "inline/齲"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：齒蛀成缺，蟲入其中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

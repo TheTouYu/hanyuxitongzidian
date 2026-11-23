@@ -1,0 +1,35 @@
+{
+ "char": "𨟽",
+ "head": "𨟽",
+ "pinyin": "qiú",
+ "bus": {
+  "num": 547,
+  "name": "酉"
+ },
+ "level": 3,
+ "parent": "酉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“似由切，音囚。酒色也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：酒色上臉，血氣乍缺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

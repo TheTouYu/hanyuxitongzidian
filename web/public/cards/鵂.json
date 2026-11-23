@@ -1,0 +1,35 @@
+{
+ "char": "鵂",
+ "head": "鵂",
+ "pinyin": "xiū",
+ "bus": {
+  "num": 545,
+  "name": "休"
+ },
+ "level": 3,
+ "parent": "休",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鵂鶹鳥。”《廣雅》：“肥鵂，鴟鵂，怪鴟也。”貓頭鷹。晝伏夜出。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：晝伏夜出，聲消於林（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "䵏",
+ "head": "䵏",
+ "pinyin": "lǎo",
+ "bus": {
+  "num": 548,
+  "name": "翏"
+ },
+ "level": 3,
+ "parent": "翏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“黃色。”《龍龕》：“草色也。一曰黃色人。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：草色相攏，淺黃一片（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

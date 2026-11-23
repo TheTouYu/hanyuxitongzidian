@@ -1,0 +1,35 @@
+{
+ "char": "𢐟",
+ "head": "𢐟",
+ "pinyin": "qiāo",
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "喬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“引弓也。”把弓拉開。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：引弓高張，缺弦而發（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

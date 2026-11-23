@@ -1,0 +1,35 @@
+{
+ "char": "嚿",
+ "head": "嚿",
+ "pinyin": "huò",
+ "bus": {
+  "num": 546,
+  "name": "臼"
+ },
+ "level": 3,
+ "parent": "臼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“胡白切，音嚄。誇也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：誇言豁口，漫無檢束（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

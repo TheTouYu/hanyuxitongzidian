@@ -1,0 +1,35 @@
+{
+ "char": "𩱼",
+ "head": "𩱼",
+ "pinyin": "jiū",
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "九",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《搜眞玉鏡》：“音鳩。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：僅存音讀，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

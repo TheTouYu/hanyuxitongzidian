@@ -1,0 +1,35 @@
+{
+ "char": "亴",
+ "head": "亴",
+ "pinyin": "yòu",
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "九",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“魚救切，音右。飛也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：飛貌，聲不繫義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

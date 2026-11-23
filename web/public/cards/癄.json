@@ -1,0 +1,35 @@
+{
+ "char": "癄",
+ "head": "癄",
+ "pinyin": "jiào、qiáo",
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "焦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“物縮也。”qiáo，《集韻》：“病也。”“憔悴，憂患也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：物縮決然，枯而不潤（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "燆",
+ "head": "燆（熇）",
+ "pinyin": "qiāo、xiāo",
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "喬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“牽么切，音鄡。火行也。”xiāo，《集韻》：“熇，炎氣也。或从喬。”熱氣上沖之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：炎氣上沖，缺潤而燥（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

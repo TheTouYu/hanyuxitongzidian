@@ -1,0 +1,35 @@
+{
+ "char": "恏",
+ "head": "恏",
+ "pinyin": "hǎo",
+ "bus": {
+  "num": 549,
+  "name": "好"
+ },
+ "level": 3,
+ "parent": "好",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗好字。舊註音好，訓慾，非。”《龍龕》：“又好二音，懲也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：心有所好，生意活潑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

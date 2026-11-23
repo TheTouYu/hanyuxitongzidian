@@ -1,0 +1,35 @@
+{
+ "char": "𦗖",
+ "head": "𦗖（聊𦕵）",
+ "pinyin": "liáo",
+ "bus": {
+  "num": 548,
+  "name": "翏"
+ },
+ "level": 3,
+ "parent": "翏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“聊，《說文》：‘耳鳴也。’又姓。或作𦗖、𦕵。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：耳中空鳴，聲自離來（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

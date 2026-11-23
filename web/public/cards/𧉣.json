@@ -1,0 +1,35 @@
+{
+ "char": "𧉣",
+ "head": "𧉣",
+ "pinyin": "yù",
+ "bus": {
+  "num": 543,
+  "name": "玉"
+ },
+ "level": 3,
+ "parent": "玉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蟙𧉣，蟲名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：蟲名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

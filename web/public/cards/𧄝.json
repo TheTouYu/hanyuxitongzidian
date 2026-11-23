@@ -1,0 +1,45 @@
+{
+ "char": "𧄝",
+ "head": "𧄝（𧂒䕴）",
+ "pinyin": "zhuó",
+ "aliases": [
+  "𧂒",
+  "䕴"
+ ],
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "焦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𧂒，藥艸，《博雅》：‘𧂒，蒵䓯，附子也。’或从禾、从米。”附子。其塊根黑褐，故又稱“烏頭”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：塊根凿土，黑褐如烏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㐜",
+ "head": "㐜（仇）",
+ "pinyin": "chóu",
+ "bus": {
+  "num": 541,
+  "name": "求"
+ },
+ "level": 3,
+ "parent": "求",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“仇，《說文》：‘讎也。一曰仇匹也。亦姓。’或作㐜，通作逑。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：怨讎相刺，痛入於心（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

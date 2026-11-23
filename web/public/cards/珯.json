@@ -1,0 +1,35 @@
+{
+ "char": "珯",
+ "head": "珯",
+ "pinyin": "lǎo",
+ "bus": {
+  "num": 544,
+  "name": "老"
+ },
+ "level": 3,
+ "parent": "老",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "義未詳。疑指玉玨。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：義未詳，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

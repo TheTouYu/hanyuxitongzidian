@@ -1,0 +1,38 @@
+{
+ "char": "𣤹",
+ "head": "𣤹（釂）",
+ "pinyin": "jiào",
+ "aliases": [
+  "釂"
+ ],
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "焦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“盡酒也。从欠𥼚聲。子肖切。”把酒喝盡。《玉篇》：“亦作釂。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：酒聚於杯，一飲而盡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

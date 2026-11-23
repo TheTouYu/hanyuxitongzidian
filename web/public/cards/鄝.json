@@ -1,0 +1,38 @@
+{
+ "char": "鄝",
+ "head": "鄝（𨟆𨝷）",
+ "pinyin": "liǎo",
+ "aliases": [
+  "𨟆"
+ ],
+ "bus": {
+  "num": 548,
+  "name": "翏"
+ },
+ "level": 3,
+ "parent": "翏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“地名。从邑翏聲。盧鳥切。”在今河南固始縣。《集韻》：“或作𨝷。通作蓼。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：地名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

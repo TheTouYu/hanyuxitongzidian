@@ -1,0 +1,35 @@
+{
+ "char": "𩗆",
+ "head": "𩗆（颼）",
+ "pinyin": "xiū",
+ "bus": {
+  "num": 545,
+  "name": "休"
+ },
+ "level": 3,
+ "parent": "休",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“𩗆瑟，風聲。”《龍龕》：“同颼。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：風聲蕭瑟，乍起乍消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

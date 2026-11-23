@@ -1,0 +1,35 @@
+{
+ "char": "鈥",
+ "head": "鈥",
+ "pinyin": "huǒ",
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "火",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "三價的稀土族金屬元素Ho的音譯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：音譯元素，聲取其音（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

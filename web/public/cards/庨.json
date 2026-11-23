@@ -1,0 +1,39 @@
+{
+ "char": "庨",
+ "head": "庨（宯𨴹）",
+ "pinyin": "xiào",
+ "aliases": [
+  "宯",
+  "𨴹"
+ ],
+ "bus": {
+  "num": 544,
+  "name": "老"
+ },
+ "level": 3,
+ "parent": "孝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“庨豁，宮殿形狀。”《集韻》：“宮室髙䆳皃。”房屋高深的樣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：宮室高深，聲入而消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

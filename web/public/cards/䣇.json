@@ -1,0 +1,35 @@
+{
+ "char": "䣇",
+ "head": "䣇",
+ "pinyin": "qiú",
+ "bus": {
+  "num": 541,
+  "name": "求"
+ },
+ "level": 3,
+ "parent": "求",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“地名。从邑求聲。巨鳩切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」不系：地名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

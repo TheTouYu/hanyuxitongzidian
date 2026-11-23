@@ -1,0 +1,38 @@
+{
+ "char": "僑",
+ "head": "僑（㝯）",
+ "pinyin": "qiáo、jiǎo",
+ "aliases": [
+  "㝯"
+ ],
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "喬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“高也。从人喬聲。巨嬌切。”《廣韻》：“寄也。客也。”客居異地。jiǎo，《集韻》：“仸僑，不伸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：客居高處，缺然無依（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

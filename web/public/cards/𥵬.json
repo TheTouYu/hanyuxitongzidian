@@ -1,0 +1,35 @@
+{
+ "char": "𥵬",
+ "head": "𥵬",
+ "pinyin": "chōu",
+ "bus": {
+  "num": 548,
+  "name": "翏"
+ },
+ "level": 3,
+ "parent": "翏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“醜鳩切，音抽。竹相合也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：竹相合持，糾而為器（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

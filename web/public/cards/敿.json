@@ -1,0 +1,39 @@
+{
+ "char": "敿",
+ "head": "敿（敽𣪽）",
+ "pinyin": "jiǎo",
+ "aliases": [
+  "敽",
+  "𣪽"
+ ],
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "喬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“繫連也。从攴喬聲。《周書》曰：‘敿乃幹。’讀若矯。居夭切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：繫連高舉，聚而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

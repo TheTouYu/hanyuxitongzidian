@@ -1,0 +1,41 @@
+{
+ "char": "𩏷",
+ "head": "𩏷（𥾀𢱀𩏢）",
+ "pinyin": "jiū",
+ "aliases": [
+  "𥾀",
+  "𢱀",
+  "𩏢"
+ ],
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "焦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“收束也。从韋𥼚聲。讀若酋。{{shiyi/01.png}}，𩏶或从要。{{shiyi/02.png}}，𩏶或从秋、手。即由切。”《集韻》：“細也。”或指髮髻。",
+   "gdir": "inline/𩏷"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：韋束聚髮，收而成髻（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

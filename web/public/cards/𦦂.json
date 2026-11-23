@@ -1,0 +1,35 @@
+{
+ "char": "𦦂",
+ "head": "𦦂（齒）",
+ "pinyin": "chǐ",
+ "bus": {
+  "num": 546,
+  "name": "臼"
+ },
+ "level": 3,
+ "parent": "臼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“與齒同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：齒刃相刺，嚼物使碎（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

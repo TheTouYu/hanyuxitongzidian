@@ -1,0 +1,41 @@
+{
+ "char": "𪁖",
+ "head": "𪁖",
+ "pinyin": "qú",
+ "bus": {
+  "num": 541,
+  "name": "求"
+ },
+ "level": 3,
+ "parent": "求",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鴝，鳥名。《說文》：‘鴝鵒也。’或从瞿，古作𪁖。”八哥鳥。嘴根部有羽如球。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：嘴根羽球，圓突若缺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

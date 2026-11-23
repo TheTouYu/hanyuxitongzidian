@@ -1,0 +1,35 @@
+{
+ "char": "硣",
+ "head": "硣",
+ "pinyin": "xiāo",
+ "bus": {
+  "num": 544,
+  "name": "老"
+ },
+ "level": 3,
+ "parent": "孝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“哮磟，山勢。”《正字通》：“窙字之譌 。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：山勢高聳，雲氣消長（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

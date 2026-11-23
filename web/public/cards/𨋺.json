@@ -1,0 +1,35 @@
+{
+ "char": "𨋺",
+ "head": "𨋺",
+ "pinyin": "fá",
+ "bus": {
+  "num": 546,
+  "name": "臼"
+ },
+ "level": 3,
+ "parent": "臼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音篇海》：“音伐。”義不明。疑指車輪碾壓。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：車輪碾過，物分而碎（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "浾",
+ "head": "浾（䞓泟）",
+ "pinyin": "chēng",
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "赤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“䞓，棠棗之汁，或从水。{{shiyi/01.png}}，浾或从正。”",
+   "gdir": "inline/浾"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：棗汁持色，染物成赤（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

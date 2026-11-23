@@ -1,0 +1,40 @@
+{
+ "char": "歎",
+ "head": "歎（𣥁叹）",
+ "pinyin": "tàn",
+ "aliases": [
+  "𣥁",
+  "叹"
+ ],
+ "bus": {
+  "num": 550,
+  "name": "火"
+ },
+ "level": 3,
+ "parent": "熯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“吟也。从欠，𪅀省聲。{{shiyi/01.png}}，籀文歎不省。池案切。”吟誦。《正字通》：“與嘆同。稱美為歎。”《廣韻》：“歎息。”",
+   "gdir": "inline/歎"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：張口突氣，長歎而出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "𥡤",
+ "head": "𥡤（𥡱）",
+ "pinyin": "jiào",
+ "aliases": [
+  "𥡱"
+ ],
+ "bus": {
+  "num": 547,
+  "name": "酉"
+ },
+ "level": 3,
+ "parent": "酉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“物縮小也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：物縮而小，決然收斂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

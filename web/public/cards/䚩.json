@@ -1,0 +1,35 @@
+{
+ "char": "䚩",
+ "head": "䚩",
+ "pinyin": "jiǎo、jiáo、qiáo",
+ "bus": {
+  "num": 542,
+  "name": "九"
+ },
+ "level": 3,
+ "parent": "喬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“角高皃。”《玉篇》：“角不正。” jiáo，《集韻》：“獸長角。”qiáo，《集韻》：“角曲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：角高而翹，聚鋒於頂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

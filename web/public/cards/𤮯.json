@@ -1,0 +1,35 @@
+{
+ "char": "𤮯",
+ "head": "𤮯",
+ "pinyin": "xié",
+ "bus": {
+  "num": 546,
+  "name": "臼"
+ },
+ "level": 3,
+ "parent": "臼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音篇海》：“音攜。宇下空也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：宇下空處，聲過而消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}
