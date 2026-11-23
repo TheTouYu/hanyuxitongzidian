@@ -1,0 +1,38 @@
+{
+ "char": "𥿴",
+ "head": "𥿴（䰍髤漆）",
+ "pinyin": "cì",
+ "aliases": [
+  "髤"
+ ],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䰍，以漆塗器。或作髤、𥿴、漆。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：漆刺器面，塗而後固（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "七"
+}

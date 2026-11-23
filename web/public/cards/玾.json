@@ -1,0 +1,36 @@
+{
+ "char": "玾",
+ "head": "玾",
+ "pinyin": "jiǎ",
+ "aliases": [],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“古狎切，音甲。玉名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：玉名，音無所擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "甲"
+}

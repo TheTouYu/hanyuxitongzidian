@@ -1,0 +1,36 @@
+{
+ "char": "愺",
+ "head": "愺",
+ "pinyin": "cǎo",
+ "aliases": [],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“愺恅，心亂。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：心持不定，亂而無序（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "皂"
+}

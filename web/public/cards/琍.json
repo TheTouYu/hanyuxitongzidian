@@ -1,0 +1,38 @@
+{
+ "char": "琍",
+ "head": "琍（璃）",
+ "pinyin": "lí",
+ "aliases": [
+  "璃"
+ ],
+ "bus": {
+  "num": 569,
+  "name": "黍"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海類編》：“音梨。”同“璃”，指玻璃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：譯名，只取其音（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "利"
+}

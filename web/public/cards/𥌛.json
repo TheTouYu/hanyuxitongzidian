@@ -1,0 +1,38 @@
+{
+ "char": "𥌛",
+ "head": "𥌛（𥊈）",
+ "pinyin": "lí",
+ "aliases": [
+  "𥊈"
+ ],
+ "bus": {
+  "num": 569,
+  "name": "黍"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“憐題切，音黎。視也。”《篇海》：“或作𥊈。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：目離而視，久而不移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "黍"
+}

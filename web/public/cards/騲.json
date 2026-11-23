@@ -1,0 +1,36 @@
+{
+ "char": "騲",
+ "head": "騲",
+ "pinyin": "cǎo",
+ "aliases": [],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“牝馬。”《正字通》：“ 牝畜之通稱。本作草。”雌性牲畜，因產子後，肉質比較粗糙。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：馬持牝性，柔而能載（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "皂"
+}

@@ -1,0 +1,39 @@
+{
+ "char": "𨕡",
+ "head": "𨕡（𦹢艁𨒽𧻰造）",
+ "pinyin": "zào",
+ "aliases": [
+  "𦹢",
+  "艁"
+ ],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“造，作也。或从草。古作艁、𨒽、𧻰。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：辵凿而成，作而後就（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "皂"
+}

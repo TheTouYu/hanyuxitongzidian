@@ -1,0 +1,36 @@
+{
+ "char": "𧔷",
+ "head": "𧔷",
+ "pinyin": "jìn",
+ "aliases": [],
+ "bus": {
+  "num": 564,
+  "name": "進"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“𧍧𧔷，似蛤而扁。見《本草》。”同“䗯”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：蛤聚相依，附物而前（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "進"
+}

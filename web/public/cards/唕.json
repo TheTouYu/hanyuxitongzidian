@@ -1,0 +1,38 @@
+{
+ "char": "唕",
+ "head": "唕（唣）",
+ "pinyin": "zào",
+ "aliases": [
+  "唣"
+ ],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "吵鬧。義即同槽而食，引申指吵鬧之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：口總爭食，嘈雜而鬧（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "皂"
+}

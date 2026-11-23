@@ -1,0 +1,36 @@
+{
+ "char": "㘷",
+ "head": "㘷",
+ "pinyin": "ài",
+ "aliases": [],
+ "bus": {
+  "num": 561,
+  "name": "乂"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艾，艸名。《說文》：‘冰臺也。’一曰老也。一曰邑名，在南昌。或作㘷。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：艸名，音義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ],
+ "parent": "艾"
+}

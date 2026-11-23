@@ -1,0 +1,38 @@
+{
+ "char": "𧾨",
+ "head": "𧾨（𢖘）",
+ "pinyin": "xiàn",
+ "aliases": [
+  "𢖘"
+ ],
+ "bus": {
+  "num": 570,
+  "name": "丯"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“走意。从走憲聲。許建切。”xiǎn，《集韻》：“走皃。”試探著要走的樣子，如瞎子走路一般。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：足續而探，行而不前（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "憲"
+}

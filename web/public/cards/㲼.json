@@ -1,0 +1,43 @@
+{
+ "char": "㲼",
+ "head": "㲼（汊）",
+ "pinyin": "yì",
+ "aliases": [
+  "汊"
+ ],
+ "bus": {
+  "num": 561,
+  "name": "乂"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“水名。”chà，《正字通》：“或疑㲼卽汊之訛。”河流分岔。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②指交叉；或為形近字“叉、五、又”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：水名，音義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}

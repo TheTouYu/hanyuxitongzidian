@@ -1,0 +1,37 @@
+{
+ "char": "䅾",
+ "head": "䅾",
+ "pinyin": "cén",
+ "aliases": [],
+ "bus": {
+  "num": 565,
+  "name": "兟"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“禾苗將秀曰䅾。”qián，《集韻》：“其淹切，音箝。禾名。”《龍龕》：“{{shiyi/01.png}}，俗；䅾，正。”",
+   "gdir": "inline/䅾"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：禾穎刺出，如簪之銳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "朁"
+}

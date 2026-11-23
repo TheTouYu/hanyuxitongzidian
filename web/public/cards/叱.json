@@ -1,0 +1,36 @@
+{
+ "char": "叱",
+ "head": "叱",
+ "pinyin": "chì",
+ "aliases": [],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“訶也。从口七聲。昌栗切。”大聲呵斥。《集韻》：“開口皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：口刺而叱，聲出如刃（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "七"
+}

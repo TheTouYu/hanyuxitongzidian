@@ -1,0 +1,42 @@
+{
+ "char": "苆",
+ "head": "苆",
+ "pinyin": "qiē",
+ "aliases": [],
+ "bus": {
+  "num": 567,
+  "name": "七"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "麻刀。刮麻皮用的器具。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：刀親麻皮，刮而去之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "七",
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "刮麻皮"
+  }
+ ]
+}

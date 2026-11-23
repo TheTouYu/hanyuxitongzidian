@@ -1,0 +1,36 @@
+{
+ "char": "暹",
+ "head": "暹",
+ "pinyin": "xiān",
+ "aliases": [],
+ "bus": {
+  "num": 564,
+  "name": "進"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“日光升也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：日光續升，升而不已（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "進"
+}

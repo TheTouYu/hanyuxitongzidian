@@ -1,0 +1,38 @@
+{
+ "char": "犂",
+ "head": "犂（犁）",
+ "pinyin": "lí",
+ "aliases": [
+  "犁"
+ ],
+ "bus": {
+  "num": 569,
+  "name": "黍"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“耕具也。”《廣韻》：“墾田器。亦耕也。”“牛駁。”雜色牛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：犁離土而翻，刃入復出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "利"
+}

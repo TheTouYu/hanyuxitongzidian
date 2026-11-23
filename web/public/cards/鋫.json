@@ -1,0 +1,36 @@
+{
+ "char": "鋫",
+ "head": "鋫（鑗）",
+ "pinyin": "lí",
+ "aliases": [],
+ "bus": {
+  "num": 569,
+  "name": "黍"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鑗，黒金也。或作鋫。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：金離而黑，質異色殊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "利"
+}

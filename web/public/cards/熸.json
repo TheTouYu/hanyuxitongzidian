@@ -1,0 +1,38 @@
+{
+ "char": "熸",
+ "head": "熸（𤏖）",
+ "pinyin": "jiān",
+ "aliases": [
+  "𤏖"
+ ],
+ "bus": {
+  "num": 565,
+  "name": "兟"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“火滅也。”熄滅。或指燒毀、潰敗。《龍龕》：“𤏖，俗。熸，正。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：火決而滅，熄不復燃（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "朁"
+}

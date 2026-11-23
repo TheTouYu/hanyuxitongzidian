@@ -1,0 +1,36 @@
+{
+ "char": "𪐐",
+ "head": "𪐐",
+ "pinyin": "shǔ",
+ "aliases": [],
+ "bus": {
+  "num": 569,
+  "name": "黍"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“以杖挑燈。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：杖收燈燼，黑而不明（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "黍"
+}

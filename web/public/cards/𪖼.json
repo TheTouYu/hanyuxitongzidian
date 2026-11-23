@@ -1,0 +1,38 @@
+{
+ "char": "𪖼",
+ "head": "𪖼（𪖽）",
+ "pinyin": "jīn",
+ "aliases": [
+  "𪖽"
+ ],
+ "bus": {
+  "num": 565,
+  "name": "兟"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“高鼻也。”《龍龕》：“𪖽，俗；𪖼，正。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：鼻聚而高，挺然特出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "朁"
+}

@@ -1,0 +1,36 @@
+{
+ "char": "𥤆",
+ "head": "𥤆",
+ "pinyin": "jiàn",
+ "aliases": [],
+ "bus": {
+  "num": 562,
+  "name": "廌"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“獸之所食草也。”即“黍蓬”，草高的樣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：草聚而高，可供食（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "廌"
+}

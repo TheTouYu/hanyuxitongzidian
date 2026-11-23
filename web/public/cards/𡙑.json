@@ -1,0 +1,36 @@
+{
+ "char": "𡙑",
+ "head": "𡙑",
+ "pinyin": "zhǐ",
+ "aliases": [],
+ "bus": {
+  "num": 566,
+  "name": "尖"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“知雉切，智上聲。出《釋藏·疑字函》。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：大字之出，音無所擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "尖"
+}

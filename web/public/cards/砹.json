@@ -1,0 +1,36 @@
+{
+ "char": "砹",
+ "head": "砹",
+ "pinyin": "ài",
+ "aliases": [],
+ "bus": {
+  "num": 561,
+  "name": "乂"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "音譯詞。一種放射性元素，元素符號為ɑt。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：譯名，只取其音（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ],
+ "parent": "艾"
+}

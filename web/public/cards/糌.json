@@ -1,0 +1,36 @@
+{
+ "char": "糌",
+ "head": "糌",
+ "pinyin": "zān",
+ "aliases": [],
+ "bus": {
+  "num": 565,
+  "name": "兟"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“糌粑，青稞麥炒熟後磨成的面，是中國藏族人的主食。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：麥總成面，聚而為食（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十三廌",
+     "label": "卷九十三廌"
+    }
+   ]
+  }
+ ],
+ "parent": "朁"
+}
