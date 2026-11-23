@@ -1,0 +1,35 @@
+{
+ "char": "𨌄",
+ "head": "𨌄",
+ "pinyin": "zàng",
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "壯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“才浪切，音焋。修車也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：眾材總聚，合成一輿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "搶",
+ "head": "搶",
+ "pinyin": "qiāng、qiǎng、chèng、chēng",
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "倉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“集也。突也。”《廣韻》：“拒也。”qiǎng，《正字通》：“爭取也。”chèng，《集韻》：“搶攘，亂皃。”chēng，《玉篇》：“攙搶，妖星也。”彗星。qiàng，同“嗆”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：奪物入手，彼即匱缺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

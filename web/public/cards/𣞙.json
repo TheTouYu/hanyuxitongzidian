@@ -1,0 +1,38 @@
+{
+ "char": "𣞙",
+ "head": "𣞙（𣡆）",
+ "pinyin": "sǎng",
+ "aliases": [
+  "𣡆"
+ ],
+ "bus": {
+  "num": 531,
+  "name": "桑"
+ },
+ "level": 3,
+ "parent": "桑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“鼓匡木也。”《玉篇》：“鼓材也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：聲繞木腔，收而愈響（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

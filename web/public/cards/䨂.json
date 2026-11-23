@@ -1,0 +1,35 @@
+{
+ "char": "䨂",
+ "head": "䨂",
+ "pinyin": "qiū",
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“雞雛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：雛雞依母，群聚不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

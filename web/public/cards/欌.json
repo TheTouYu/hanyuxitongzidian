@@ -1,0 +1,35 @@
+{
+ "char": "欌",
+ "head": "欌",
+ "pinyin": "cáng",
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "臧",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "收藏衣物的傢俱。衣櫃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：能持四季衣物，久置不亂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

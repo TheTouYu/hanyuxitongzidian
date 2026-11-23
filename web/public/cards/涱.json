@@ -1,0 +1,38 @@
+{
+ "char": "涱",
+ "head": "涱（漲）",
+ "pinyin": "zhàng",
+ "aliases": [
+  "漲"
+ ],
+ "bus": {
+  "num": 537,
+  "name": "長"
+ },
+ "level": 3,
+ "parent": "長",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“大水也。”《集韻》：“漲，水大皃。或省。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：眾流匯注，積而盈滿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

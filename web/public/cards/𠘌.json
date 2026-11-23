@@ -1,0 +1,35 @@
+{
+ "char": "𠘌",
+ "head": "𠘌",
+ "pinyin": "jiāng",
+ "bus": {
+  "num": 538,
+  "name": "畕"
+ },
+ "level": 3,
+ "parent": "畕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“凍凝。”凍僵。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：凍結成塊，堅硬不流（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

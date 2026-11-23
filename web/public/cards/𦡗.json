@@ -1,0 +1,38 @@
+{
+ "char": "𦡗",
+ "head": "𦡗（𢣊）",
+ "pinyin": "chǒu",
+ "aliases": [
+  "𢣊"
+ ],
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“同𢣊。”𢣊，《字彙補》：“楚九切，音𩋄。惡視也。”蹙著眉頭而視。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：盯人久視不移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "䡦",
+ "head": "䡦",
+ "pinyin": "sǎng",
+ "bus": {
+  "num": 531,
+  "name": "桑"
+ },
+ "level": 3,
+ "parent": "桑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“寫朗切，音顙。車輞也。” 車輪的外周。或指車轂受軸的空腔。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：外周收束，輪體不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

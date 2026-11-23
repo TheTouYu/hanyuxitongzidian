@@ -1,0 +1,35 @@
+{
+ "char": "欜",
+ "head": "欜",
+ "pinyin": "náng",
+ "bus": {
+  "num": 536,
+  "name": "囊"
+ },
+ "level": 3,
+ "parent": "囊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“木名。”《六書故》：“盛物器。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：器腹空虛，受而藏之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

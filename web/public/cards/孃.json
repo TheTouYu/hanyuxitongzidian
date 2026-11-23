@@ -1,0 +1,35 @@
+{
+ "char": "孃",
+ "head": "孃（娘）",
+ "pinyin": "ráng、niáng",
+ "bus": {
+  "num": 535,
+  "name": "襄"
+ },
+ "level": 3,
+ "parent": "襄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“煩擾也。一曰肥大也。从女襄聲。女良切。”niáng，《玉篇》：“母也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：肥肉按之綿軟（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

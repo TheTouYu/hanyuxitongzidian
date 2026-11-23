@@ -1,0 +1,35 @@
+{
+ "char": "𣼥",
+ "head": "𣼥",
+ "pinyin": "kuàng",
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "壯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同曠。”空曠。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：開豁如口張，四望無涯（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

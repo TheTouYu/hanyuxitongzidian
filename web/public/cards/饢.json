@@ -1,0 +1,41 @@
+{
+ "char": "饢",
+ "head": "饢",
+ "pinyin": "náng、nǎng",
+ "bus": {
+  "num": 536,
+  "name": "囊"
+ },
+ "level": 3,
+ "parent": "囊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“波斯語‘麵包’的意思。維吾爾族、哈薩克族人指一種烤製成的面餅，做主食。”nǎng，《漢典》：“拼命往嘴里塞食物。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：麵餅納入口中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "新疆的饢"
+  }
+ ]
+}

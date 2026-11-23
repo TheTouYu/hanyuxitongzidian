@@ -1,0 +1,36 @@
+{
+ "char": "䲔",
+ "head": "䲔（鯨）",
+ "pinyin": "jīng、qíng",
+ "bus": {
+  "num": 538,
+  "name": "畕"
+ },
+ "level": 3,
+ "parent": "畕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“海大魚也。从魚畺聲。《春秋傳》曰：‘取其䲔鯢。’{{shiyi/01.png}}，䲔或从京。渠京切。”鯨魚。",
+   "gdir": "inline/䲔"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：巨魚群聚海中（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

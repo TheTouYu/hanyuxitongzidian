@@ -1,0 +1,35 @@
+{
+ "char": "䏒",
+ "head": "䏒（胖）",
+ "pinyin": "piàn、pàn",
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "爿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“半體。”pàn，《正字通》：“俗胖字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：兩半相湊，合為一體（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

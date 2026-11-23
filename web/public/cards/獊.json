@@ -1,0 +1,35 @@
+{
+ "char": "獊",
+ "head": "獊",
+ "pinyin": "cāng",
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "倉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“獊囊，亂貌。也作‘傖囊’‘戕囊’。”倉猝、紛亂。群狗亂吠之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：吠聲尖而刺耳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

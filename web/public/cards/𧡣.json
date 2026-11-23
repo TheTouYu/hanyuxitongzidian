@@ -1,0 +1,35 @@
+{
+ "char": "𧡣",
+ "head": "𧡣",
+ "pinyin": "cóu",
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“鋤救切，音驟。悶視也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：目光持住不移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

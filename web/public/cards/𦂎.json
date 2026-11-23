@@ -1,0 +1,35 @@
+{
+ "char": "𦂎",
+ "head": "𦂎（縬縐）",
+ "pinyin": "cù",
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“縬，聚文也。或作𦂎、縐。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：絲縷相糾不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

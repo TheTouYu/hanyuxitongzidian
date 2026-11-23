@@ -1,0 +1,36 @@
+{
+ "char": "麠",
+ "head": "麠（麖）",
+ "pinyin": "jīng",
+ "bus": {
+  "num": 538,
+  "name": "畕"
+ },
+ "level": 3,
+ "parent": "畕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“大鹿也。牛尾一角。从鹿畺聲。{{shiyi/01.png}}，或从京。舉卿切。”大獐子，尾象牛，一角。或指水鹿，亦稱“馬鹿”“黑鹿”。",
+   "gdir": "inline/麠"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：牛尾巨身，力聚於頂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

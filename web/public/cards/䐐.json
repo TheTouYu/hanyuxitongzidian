@@ -1,0 +1,35 @@
+{
+ "char": "䐐",
+ "head": "䐐（𦝱）",
+ "pinyin": "qiū",
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“雌由切，音秋。股脛間。或从酋。”膝蓋彎。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：腿後凹處成窩（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

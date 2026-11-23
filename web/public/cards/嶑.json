@@ -1,0 +1,35 @@
+{
+ "char": "嶑",
+ "head": "嶑",
+ "pinyin": "xiàng",
+ "bus": {
+  "num": 533,
+  "name": "象"
+ },
+ "level": 3,
+ "parent": "象",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“似兩切，音想。山名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：岡巒起伏，脈脈相連（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

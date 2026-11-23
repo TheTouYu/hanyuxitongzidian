@@ -1,0 +1,35 @@
+{
+ "char": "棖",
+ "head": "棖",
+ "pinyin": "chéng",
+ "bus": {
+  "num": 537,
+  "name": "長"
+ },
+ "level": 3,
+ "parent": "長",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“杖也。从木長聲。一曰法也。宅耕切。”斜柱；木柱。支撐。《玉篇》：“門兩傍木也。”cháng，人名用字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：斜木持撐門戶（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

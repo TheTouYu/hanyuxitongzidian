@@ -1,0 +1,40 @@
+{
+ "char": "𢊜",
+ "head": "𢊜（庰）",
+ "pinyin": "bìng",
+ "bus": {
+  "num": 537,
+  "name": "長"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𢊜，俗；庰，正。防正、蒲徑二反。隱辟無人處也。又廁也。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "④指變長、分張、擴大、鼓起"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：隱處閉塞，人跡罕至（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

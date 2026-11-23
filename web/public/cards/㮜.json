@@ -1,0 +1,35 @@
+{
+ "char": "㮜",
+ "head": "㮜",
+ "pinyin": "zāng",
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "壯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“木版盛物也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：雜器總聚，一板承之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "蝵",
+ "head": "蝵（蟗蠤）",
+ "pinyin": "qiū",
+ "aliases": [
+  "蟗"
+ ],
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蟗，蟲名。《爾雅》：‘次蟗，鼅鼀。’或从秋。亦作蠤。”蜘蛛。吐絲捆住獵物。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：絲黏蟲足不放（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

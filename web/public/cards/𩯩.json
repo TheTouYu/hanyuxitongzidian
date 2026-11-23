@@ -1,0 +1,39 @@
+{
+ "char": "𩯩",
+ "head": "𩯩（𩰅鬇𩯎）",
+ "pinyin": "zhēng",
+ "aliases": [
+  "𩰅",
+  "𩯎"
+ ],
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "臧",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗鬇字。”《集韻》：“鬇鬡，亂髮。或作𩯎。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：千絲萬縷總束一處（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𥗝",
+ "head": "𥗝",
+ "pinyin": "rǎng",
+ "bus": {
+  "num": 535,
+  "name": "襄"
+ },
+ "level": 3,
+ "parent": "襄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“雌黃之惡者。”硫化物礦物，晶體多呈柱狀，色黃，古代用其塗改錯別字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：礦質脆軟，研之成粉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

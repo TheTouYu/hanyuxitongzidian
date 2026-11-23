@@ -1,0 +1,38 @@
+{
+ "char": "㸤",
+ "head": "㸤（辨）",
+ "pinyin": "piàn",
+ "aliases": [
+  "辨"
+ ],
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "爿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“《爾雅》云：革中絶謂之㸤。車轡勒也。”《廣韻》：“本亦作辨。”皮革中斷。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：轡革著力，闢然中分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

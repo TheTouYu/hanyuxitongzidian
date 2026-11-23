@@ -1,0 +1,38 @@
+{
+ "char": "瞅",
+ "head": "瞅（矁）",
+ "pinyin": "chǒu",
+ "aliases": [
+  "矁"
+ ],
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "看見。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：目光直注，如刃刺物（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

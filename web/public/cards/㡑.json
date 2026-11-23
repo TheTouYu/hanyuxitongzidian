@@ -1,0 +1,39 @@
+{
+ "char": "㡑",
+ "head": "㡑（幧幓）",
+ "pinyin": "jiāo、qiāo",
+ "aliases": [
+  "幧",
+  "幓"
+ ],
+ "bus": {
+  "num": 540,
+  "name": "秋"
+ },
+ "level": 3,
+ "parent": "秋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“凶首飾。”居喪者頭飾。qiāo，《集韻》：“幧，帕頭也。或作幓、㡑。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：一幅布斜纏，兩端聚結（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十秋",
+     "label": "卷九十秋"
+    }
+   ]
+  }
+ ]
+}

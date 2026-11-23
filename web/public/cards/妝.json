@@ -1,0 +1,38 @@
+{
+ "char": "妝",
+ "head": "妝（娤）",
+ "pinyin": "zhuāng",
+ "aliases": [
+  "娤"
+ ],
+ "bus": {
+  "num": 534,
+  "name": "爿"
+ },
+ "level": 3,
+ "parent": "爿",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“飾也。从女，牀省聲。側羊切。”修飾。指女子的用花瓣等修飾容貌。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：眾瓣總聚，合而為飾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "㙊",
+ "head": "㙊（㙣）",
+ "pinyin": "zhàng",
+ "aliases": [
+  "㙣"
+ ],
+ "bus": {
+  "num": 537,
+  "name": "長"
+ },
+ "level": 3,
+ "parent": "長",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㙣，知亮切，音帳。沙墳起也。或省。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：微粒相聚，堆而漸高（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}

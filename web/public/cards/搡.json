@@ -1,0 +1,35 @@
+{
+ "char": "搡",
+ "head": "搡",
+ "pinyin": "sǎng",
+ "bus": {
+  "num": 531,
+  "name": "桑"
+ },
+ "level": 3,
+ "parent": "桑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“搷也。”《字彙》：“投擲之勢。”用力推。《集韻》：“摚也。”頂撞。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：蓄力先收，一送而出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

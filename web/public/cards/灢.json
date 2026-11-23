@@ -1,0 +1,35 @@
+{
+ "char": "灢",
+ "head": "灢",
+ "pinyin": "nǎng",
+ "bus": {
+  "num": 536,
+  "name": "囊"
+ },
+ "level": 3,
+ "parent": "囊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“泱灢，水不淨，見《海賦》。”“泱灢，濁。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：藏垢納汙，久而不澄（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十九象",
+     "label": "卷八十九象"
+    }
+   ]
+  }
+ ]
+}
