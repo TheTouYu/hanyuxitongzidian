@@ -1,0 +1,39 @@
+{
+ "char": "𨳖",
+ "head": "𨳖（閦𨴖）",
+ "pinyin": "chù",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "aliases": [
+  "閦",
+  "𨴖"
+ ],
+ "parent": "川",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“同閦。”閦，《集韻》：“𨴖 ，眾在門中。或書作閦。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：擁塞之狀，彼此相持（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

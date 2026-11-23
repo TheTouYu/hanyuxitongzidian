@@ -1,0 +1,35 @@
+{
+ "char": "摫",
+ "head": "摫",
+ "pinyin": "guī",
+ "bus": {
+  "num": 468,
+  "name": "規"
+ },
+ "level": 3,
+ "parent": "規",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《揚子·方言》：“䤨摫，裁也。梁益之間，裁木為器曰䤨，裂帛為衣曰摫。”剪裁。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：裂帛裁衣，幅片相離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

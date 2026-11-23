@@ -1,0 +1,35 @@
+{
+ "char": "𠽻",
+ "head": "𠽻",
+ "pinyin": "zhé",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "parent": "吉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“之列切，音哲。嘲𠽻。”聲音細碎、雜亂。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：眾音總集，嘈然一片（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

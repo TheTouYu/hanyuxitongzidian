@@ -1,0 +1,35 @@
+{
+ "char": "𩑲",
+ "head": "𩑲（𩑣𤴨）",
+ "pinyin": "yòu",
+ "bus": {
+  "num": 463,
+  "name": "又"
+ },
+ "level": 3,
+ "parent": "右",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“顫疾。或作𩑣、𤴨。”帕金森病，頭部發抖。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：頭顫之疾，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

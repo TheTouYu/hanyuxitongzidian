@@ -1,0 +1,35 @@
+{
+ "char": "溎",
+ "head": "溎",
+ "pinyin": "yàn、guì",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "parent": "圭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“大水皃。”guì，《集韻》：“水名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：大水漫流，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

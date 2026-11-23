@@ -1,0 +1,39 @@
+{
+ "char": "肬",
+ "head": "肬（𪐤）",
+ "pinyin": "yóu",
+ "bus": {
+  "num": 464,
+  "name": "尤"
+ },
+ "level": 3,
+ "aliases": [
+  "𪐤"
+ ],
+ "parent": "尤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“贅也。从肉尤聲。{{shiyi/01.png}}，籀文肬从黑。羽求切。”肉瘤。《釋名》：“肬，丘也。出皮上聚，高如地之有丘也。”",
+   "gdir": "inline/肬"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：从肉之字，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "蓕",
+ "head": "蓕",
+ "pinyin": "guì",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "parent": "圭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艸名。或省。”疑即桂荏，紫蘇，香如桂。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：桂荏之香，隔遠可聞（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

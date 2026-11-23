@@ -1,0 +1,35 @@
+{
+ "char": "夼",
+ "head": "夼",
+ "pinyin": "kuǎng",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "parent": "川",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：窪地（多用于地名）。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：中陷如口，虛而能受（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

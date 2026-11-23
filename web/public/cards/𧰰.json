@@ -1,0 +1,41 @@
+{
+ "char": "𧰰",
+ "head": "𧰰",
+ "pinyin": "yóu",
+ "bus": {
+  "num": 464,
+  "name": "尤"
+ },
+ "level": 3,
+ "parent": "尤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“豕也。”當指疣猪。眼部下方長有疣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：野豕之屬，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

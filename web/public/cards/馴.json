@@ -1,27 +1,28 @@
 {
  "char": "馴",
- "pinyin": "xùn",
+ "head": "馴",
+ "pinyin": "xùn、xún",
  "bus": {
   "num": 461,
   "name": "川"
  },
+ "level": 3,
+ "parent": "川",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "x「续消」取「续」：马顺而续（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“馬順也。从馬川聲。詳遵切。”馬順服。《廣韻》：“擾也。从也。善也。”《集韻》：“道也。”《字彙》：“馴，古訓字。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：調習既久，與人相安（推）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十五叀",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,15 +31,5 @@
     }
    ]
   }
- ],
- "simp": "驯",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "parent": "",
- "head": "馴"
+ ]
 }

@@ -1,0 +1,35 @@
+{
+ "char": "𤆑",
+ "head": "𤆑",
+ "pinyin": "còu",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "parent": "川",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《海篇》：“芻句切，火土也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」不系：火土為物，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

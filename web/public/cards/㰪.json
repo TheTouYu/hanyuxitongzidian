@@ -1,0 +1,35 @@
+{
+ "char": "㰪",
+ "head": "㰪",
+ "pinyin": "guī、wá",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "parent": "圭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“邪皃。一曰聲也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：口吻偏側，與雅正相隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

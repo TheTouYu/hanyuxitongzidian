@@ -1,0 +1,40 @@
+{
+ "char": "㕱",
+ "head": "㕱",
+ "pinyin": "yóu",
+ "bus": {
+  "num": 464,
+  "name": "尤"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“犬吠也。”疑為“吠”之訛。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“丮、于、犬”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：犬吠之字，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ],
+ "noRoot": true
+}

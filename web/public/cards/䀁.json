@@ -1,0 +1,36 @@
+{
+ "char": "䀁",
+ "head": "䀁（𥁓）",
+ "pinyin": "yòu",
+ "bus": {
+  "num": 463,
+  "name": "又"
+ },
+ "level": 3,
+ "parent": "有",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“小甌也。从皿有聲。讀若灰。一曰若賄。{{shiyi/01.png}}，䀁或从右。於救切。”小盆。《玉篇》：“抒水器也。”",
+   "gdir": "inline/䀁"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：甌器受水，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

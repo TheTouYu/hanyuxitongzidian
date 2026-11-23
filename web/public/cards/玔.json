@@ -1,0 +1,41 @@
+{
+ "char": "玔",
+ "head": "玔",
+ "pinyin": "chuàn",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "parent": "川",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“玉環也”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：玉琢成環，執之在手（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "紅山文化時期的玉手玔（6000年前）"
+  }
+ ]
+}

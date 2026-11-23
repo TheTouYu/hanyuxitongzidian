@@ -1,0 +1,35 @@
+{
+ "char": "𤿠",
+ "head": "𤿠",
+ "pinyin": "jí",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "parent": "吉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“黑𤿠。”《類篇》：“皮黑也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：皮黑之色，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

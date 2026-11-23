@@ -1,27 +1,28 @@
 {
  "char": "魷",
+ "head": "魷",
  "pinyin": "yóu",
  "bus": {
   "num": 464,
   "name": "尤"
  },
+ "level": 3,
+ "parent": "尤",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "零聲母（今讀 yóu），绪论七组未列，不系（照實）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "魷魚。有觸鬚如手。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：从魚之字，音不別義（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十六又",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -31,25 +32,10 @@
    ]
   }
  ],
- "simp": "鱿",
- "aliases": [
-  "今",
-  "讀",
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "parent": "",
- "head": "魷",
  "photos": [
   {
    "file": "01.jpg",
    "caption": ""
   }
- ],
- "captions": [
-  ""
  ]
 }

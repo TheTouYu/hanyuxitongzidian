@@ -1,0 +1,35 @@
+{
+ "char": "蛕",
+ "head": "蛕",
+ "pinyin": "huí、huǐ",
+ "bus": {
+  "num": 463,
+  "name": "又"
+ },
+ "level": 3,
+ "parent": "有",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“腹中長蟲也。从虫有聲。戶恢切。”蛔蟲。huǐ，《廣韻》：“土蛕，毒蟲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：寄生之蟲，蠕動不止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

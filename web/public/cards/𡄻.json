@@ -1,0 +1,35 @@
+{
+ "char": "𡄻",
+ "head": "𡄻",
+ "pinyin": "yì",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "parent": "壹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音集韻》：“乙冀切，音意。痛聲。”不通則痛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：氣結於中，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

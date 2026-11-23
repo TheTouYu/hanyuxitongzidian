@@ -1,0 +1,35 @@
+{
+ "char": "𡾮",
+ "head": "𡾮",
+ "pinyin": "xiǎn",
+ "bus": {
+  "num": 462,
+  "name": "鮮"
+ },
+ "level": 3,
+ "parent": "鮮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“小山別大山曰𡾮。通作鮮。”小山與大山不相連。《玉篇》：“山名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：大小相別，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

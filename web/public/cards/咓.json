@@ -1,0 +1,35 @@
+{
+ "char": "咓",
+ "head": "咓",
+ "pinyin": "wǎ",
+ "bus": {
+  "num": 470,
+  "name": "瓦"
+ },
+ "level": 3,
+ "parent": "瓦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“人名。”譯音用字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：譯音用字，只取其音（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

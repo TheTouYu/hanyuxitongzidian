@@ -1,0 +1,35 @@
+{
+ "char": "啩",
+ "head": "啩",
+ "pinyin": "guà",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "parent": "圭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "方言，語氣詞，相當于“吧”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：語氣綴末，與正文相隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

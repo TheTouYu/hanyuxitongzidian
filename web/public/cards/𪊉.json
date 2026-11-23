@@ -1,0 +1,38 @@
+{
+ "char": "𪊉",
+ "head": "𪊉（䴜）",
+ "pinyin": "huái",
+ "bus": {
+  "num": 466,
+  "name": "眔"
+ },
+ "level": 3,
+ "aliases": [
+  "䴜"
+ ],
+ "parent": "褱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𪉸𪊉，戎狄之鹽。或作䴜。”岩鹽。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：鹽晶凝結，豁然有稜（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

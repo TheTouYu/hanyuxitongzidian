@@ -1,0 +1,35 @@
+{
+ "char": "䶯",
+ "head": "䶯",
+ "pinyin": "kuī",
+ "bus": {
+  "num": 469,
+  "name": "龜"
+ },
+ "level": 3,
+ "parent": "龜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音集韻》：“去為切，音窺。女字。”《玉篇》：“知異也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」不系：女字之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

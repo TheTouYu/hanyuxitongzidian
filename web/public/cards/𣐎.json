@@ -1,0 +1,35 @@
+{
+ "char": "𣐎",
+ "head": "𣐎",
+ "pinyin": "wǎ",
+ "bus": {
+  "num": 470,
+  "name": "瓦"
+ },
+ "level": 3,
+ "parent": "瓦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“《博雅》：‘鼓𣞙謂之𣐎’。”鼓框木。形似相合的瓦。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：腔中圍板，兩片相銜（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

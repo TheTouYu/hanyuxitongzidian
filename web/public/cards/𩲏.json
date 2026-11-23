@@ -1,0 +1,35 @@
+{
+ "char": "𩲏",
+ "head": "𩲏",
+ "pinyin": "huà",
+ "bus": {
+  "num": 465,
+  "name": "化"
+ },
+ "level": 3,
+ "parent": "化",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鬼變也。从鬼化聲。呼駕切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：幽魂忽現，豁然在目（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

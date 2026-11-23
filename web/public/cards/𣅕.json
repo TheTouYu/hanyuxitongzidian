@@ -1,0 +1,35 @@
+{
+ "char": "𣅕",
+ "head": "𣅕（𡿯）",
+ "pinyin": "yù、xuàn",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "parent": "川",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“水流也。从川曰聲。於筆切。”川聲應也可。xuàn，《集韻》：“𡿯，胡犬切。水流皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：音從喉出，不假他紐（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

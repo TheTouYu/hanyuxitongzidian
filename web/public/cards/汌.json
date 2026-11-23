@@ -1,0 +1,35 @@
+{
+ "char": "汌",
+ "head": "汌",
+ "pinyin": "chuàn",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "parent": "川",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“尺戀切，音釧。水也。一曰水名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：水名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

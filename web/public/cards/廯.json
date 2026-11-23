@@ -1,0 +1,35 @@
+{
+ "char": "廯",
+ "head": "廯",
+ "pinyin": "xiān",
+ "bus": {
+  "num": 462,
+  "name": "鮮"
+ },
+ "level": 3,
+ "parent": "鮮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“思淺切。倉也、廩也。”藏穀物的場所。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：倉廩層疊，藏而不露（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

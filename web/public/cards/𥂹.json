@@ -1,0 +1,35 @@
+{
+ "char": "𥂹",
+ "head": "𥂹",
+ "pinyin": "hǎi",
+ "bus": {
+  "num": 463,
+  "name": "又"
+ },
+ "level": 3,
+ "parent": "有",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“呼改切，音海。肉醬也。”同“醢”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：糜爛含汁，濕而不燥（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

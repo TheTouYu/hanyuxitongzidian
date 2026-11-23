@@ -1,0 +1,39 @@
+{
+ "char": "殪",
+ "head": "殪（𣩉）",
+ "pinyin": "yì",
+ "bus": {
+  "num": 467,
+  "name": "圭"
+ },
+ "level": 3,
+ "aliases": [
+  "𣩉"
+ ],
+ "parent": "壹",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“死也。从歺壹聲。{{shiyi/01.png}}，古文殪从死。于計切。”死。即窒息而死。",
+   "gdir": "inline/殪"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：窒塞致死，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

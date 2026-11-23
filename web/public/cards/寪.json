@@ -1,0 +1,35 @@
+{
+ "char": "寪",
+ "head": "寪",
+ "pinyin": "wěi、wéi",
+ "bus": {
+  "num": 463,
+  "name": "又"
+ },
+ "level": 3,
+ "parent": "爲",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“屋皃。从宀爲聲。韋委切。”屋宇開張的樣子。wéi，《集韻》：“隉寪，不安皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：屋宇開張，其宇疏朗（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

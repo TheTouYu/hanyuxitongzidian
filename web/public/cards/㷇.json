@@ -1,0 +1,35 @@
+{
+ "char": "㷇",
+ "head": "㷇（𡌪）",
+ "pinyin": "huí、guài",
+ "bus": {
+  "num": 463,
+  "name": "又"
+ },
+ "level": 3,
+ "parent": "灰",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“大也。”《廣韻》：“多也。”guài，《正字通》：“俗𡌪字。”“圣”字之訛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：炎氣充積，其量開豁（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十六又",
+     "label": "卷七十六又"
+    }
+   ]
+  }
+ ]
+}

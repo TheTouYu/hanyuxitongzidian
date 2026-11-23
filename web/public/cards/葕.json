@@ -1,0 +1,38 @@
+{
+ "char": "葕",
+ "head": "葕（筵）",
+ "pinyin": "yàn",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "aliases": [
+  "筵"
+ ],
+ "parent": "衍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“筵，蔓筵也。或作葕。”《字彙》：“蔓延不斷。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：藤本緣物，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "釧",
+ "head": "釧",
+ "pinyin": "chuàn、chuān",
+ "bus": {
+  "num": 461,
+  "name": "川"
+ },
+ "level": 3,
+ "parent": "川",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“臂環也。从金川聲。尺絹切。”手鐲。《玉篇》：“釵釧。”兩股簪自合成的髮飾。chuān，《集韻》：“車釧。”即“䡅”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：圓物約腕，持之使定（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

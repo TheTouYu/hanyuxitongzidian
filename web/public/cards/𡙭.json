@@ -1,0 +1,35 @@
+{
+ "char": "𡙭",
+ "head": "𡙭",
+ "pinyin": "zuī",
+ "bus": {
+  "num": 468,
+  "name": "規"
+ },
+ "level": 3,
+ "parent": "規",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“子隨切，醉平聲。大也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」不系：大也，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

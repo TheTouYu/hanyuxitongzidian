@@ -1,27 +1,28 @@
 {
  "char": "鄬",
- "pinyin": "guī",
+ "head": "鄬",
+ "pinyin": "guī、wéi",
  "bus": {
   "num": 463,
   "name": "又"
  },
+ "level": 3,
+ "parent": "爲",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "g「隔估」取「估」：地名相承（推）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“地名。从邑爲聲。居為切。”春秋鄭國地名，在今河南魯山縣境。《集韻》：“阪名。在鄭。或从邑。”"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」不系：鄭地阪名，聲義無涉（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十六又",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,14 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "鄬"
+ ]
 }
