@@ -1,0 +1,35 @@
+{
+ "char": "柦",
+ "head": "柦",
+ "pinyin": "dàn",
+ "bus": {
+  "num": 494,
+  "name": "旦"
+ },
+ "level": 3,
+ "parent": "旦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“木器，如㯳，無足。”一種像几而無腳的木器。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：器身如囤，無足而貼地（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

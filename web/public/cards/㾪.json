@@ -1,0 +1,38 @@
+{
+ "char": "㾪",
+ "head": "㾪（𩩭）",
+ "pinyin": "shěng",
+ "aliases": [
+  "𩩭"
+ ],
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
+ "level": 3,
+ "parent": "眚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“瘦謂之㾪。或从骨。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：肉收其豐，瘦而細長（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "褣",
+ "head": "褣",
+ "pinyin": "róng",
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "㝐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“𧝎褣。”一種寬敞的直襟單衣。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：衣柔而寬，裹身有餘（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

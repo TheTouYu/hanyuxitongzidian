@@ -1,0 +1,38 @@
+{
+ "char": "𪒾",
+ "head": "𪒾（黲）",
+ "pinyin": "dàn",
+ "aliases": [
+  "黲"
+ ],
+ "bus": {
+  "num": 499,
+  "name": "晶"
+ },
+ "level": 3,
+ "parent": "晶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“黑也。”《搜眞玉鏡》：“徒感切。雲黑也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：黑雲囤聚，日光不透（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "橏",
+ "head": "橏",
+ "pinyin": "zhǎn、jiǎn",
+ "bus": {
+  "num": 493,
+  "name": "善"
+ },
+ "level": 3,
+ "parent": "善",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“木名。一曰木瘤也。”jiǎn，《集韻》：“橏榐，樹長皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：拔地而起，決然上聳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

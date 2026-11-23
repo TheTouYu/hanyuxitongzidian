@@ -1,0 +1,38 @@
+{
+ "char": "𦩼",
+ "head": "𦩼（熕）",
+ "pinyin": "gòng",
+ "aliases": [
+  "熕"
+ ],
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
+ "level": 3,
+ "parent": "貢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“船名。今有八𦩼船。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」不系：船名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

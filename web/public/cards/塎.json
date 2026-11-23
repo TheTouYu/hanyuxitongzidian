@@ -1,0 +1,35 @@
+{
+ "char": "塎",
+ "head": "塎",
+ "pinyin": "yǒng",
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "㝐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“埫塎，不寧。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：不寧之貌，零聲母照實（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

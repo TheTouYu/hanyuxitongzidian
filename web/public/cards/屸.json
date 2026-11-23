@@ -1,0 +1,35 @@
+{
+ "char": "屸",
+ "head": "屸",
+ "pinyin": "lóng、hóng",
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
+ "level": 3,
+ "parent": "工",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“山形。”hóng，《集韻》：“山名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：土拢成峰，下闊上尖（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

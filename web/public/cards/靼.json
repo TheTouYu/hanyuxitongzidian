@@ -1,0 +1,39 @@
+{
+ "char": "靼",
+ "head": "靼（𩍕）",
+ "pinyin": "dá",
+ "aliases": [
+  "𩍕"
+ ],
+ "bus": {
+  "num": 494,
+  "name": "旦"
+ },
+ "level": 3,
+ "parent": "旦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“柔革也。从革，从旦聲。{{shiyi/01.png}}，古文靼从亶。旨熱切。”柔軟的皮革。即去掉了毛的皮革。《玉篇》：“㼱也。”治革使柔。",
+   "gdir": "inline/靼"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：生皮反覆揉動，乃柔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

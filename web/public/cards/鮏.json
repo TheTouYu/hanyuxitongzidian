@@ -1,0 +1,35 @@
+{
+ "char": "鮏",
+ "head": "鮏（鯹）",
+ "pinyin": "xīng、zhēng",
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
+ "level": 3,
+ "parent": "生",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“魚臭也。从魚生聲。桑經切。（注）臣鉉等曰：今俗作鯹。”魚腥氣。zhēng，《集韻》：“魚名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：腥氣續散，久而不去（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

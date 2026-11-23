@@ -1,0 +1,35 @@
+{
+ "char": "𤱹",
+ "head": "𤱹",
+ "pinyin": "tǐng",
+ "bus": {
+  "num": 495,
+  "name": "丁"
+ },
+ "level": 3,
+ "parent": "丁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“田器。”大約即“耓”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「涂」：拖行田面，泥平如抹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

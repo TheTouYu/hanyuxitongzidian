@@ -1,0 +1,35 @@
+{
+ "char": "幝",
+ "head": "幝",
+ "pinyin": "chǎn、chàn",
+ "bus": {
+  "num": 492,
+  "name": "單"
+ },
+ "level": 3,
+ "parent": "單",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“車弊皃。从巾單聲。《詩》曰：‘檀車幝幝。’昌善切。”車蓋破舊。chàn，《集韻》：“尺戰切，音箭。車衣。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：布幕蒙覆，撐持不墜（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

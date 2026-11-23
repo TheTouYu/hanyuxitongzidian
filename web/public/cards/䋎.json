@@ -1,0 +1,35 @@
+{
+ "char": "䋎",
+ "head": "䋎",
+ "pinyin": "zhàn",
+ "bus": {
+  "num": 494,
+  "name": "旦"
+ },
+ "level": 3,
+ "parent": "旦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“補縫也。从糸旦聲。丈莧切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：裂口收攏，針線總合（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

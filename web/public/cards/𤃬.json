@@ -1,0 +1,36 @@
+{
+ "char": "𤃬",
+ "head": "𤃬（浣）",
+ "pinyin": "huàn",
+ "bus": {
+  "num": 494,
+  "name": "旦"
+ },
+ "level": 3,
+ "parent": "倝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“濯衣垢也。从水𧹳聲。{{shiyi/01.png}}，𤃬或从完。胡玩切。”洗濯衣服的污垢。",
+   "gdir": "inline/𤃬"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：垢濁盪去，布孔復通（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

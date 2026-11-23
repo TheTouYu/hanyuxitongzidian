@@ -1,0 +1,35 @@
+{
+ "char": "㿻",
+ "head": "㿻",
+ "pinyin": "gān",
+ "bus": {
+  "num": 491,
+  "name": "干"
+ },
+ "level": 3,
+ "parent": "干",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“盤也。”《廣韻》：“大盌名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「估」：器腹深闊，容受可量（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

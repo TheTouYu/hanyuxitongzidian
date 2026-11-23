@@ -1,0 +1,35 @@
+{
+ "char": "䈵",
+ "head": "䈵",
+ "pinyin": "wēng",
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "翁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“竹皃。从竹翁聲。烏紅切。”《廣韻》：“竹盛皃。”竹子密集叢生的樣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：竹盛之皃，無輔音可擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

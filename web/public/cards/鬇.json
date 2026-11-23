@@ -1,0 +1,35 @@
+{
+ "char": "鬇",
+ "head": "鬇",
+ "pinyin": "zhēng",
+ "bus": {
+  "num": 498,
+  "name": "爭"
+ },
+ "level": 3,
+ "parent": "爭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“鬇鬡，毛髮亂皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：髮凿而出，蓬亂不整（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

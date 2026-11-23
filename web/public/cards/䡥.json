@@ -1,0 +1,38 @@
+{
+ "char": "䡥",
+ "head": "䡥（䡆）",
+ "pinyin": "róng",
+ "aliases": [
+  "䡆"
+ ],
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "㝐",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䡆，車行皃。或从容。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "r「柔锐」取「柔」：車柔其軸，行而搖動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

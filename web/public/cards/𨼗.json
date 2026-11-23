@@ -1,0 +1,38 @@
+{
+ "char": "𨼗",
+ "head": "𨼗（陽）",
+ "pinyin": "yáng",
+ "aliases": [
+  "陽"
+ ],
+ "bus": {
+  "num": 499,
+  "name": "晶"
+ },
+ "level": 3,
+ "parent": "晶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“同陽。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：同陽之字，零聲母照實（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

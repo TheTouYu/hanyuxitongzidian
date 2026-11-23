@@ -1,0 +1,38 @@
+{
+ "char": "墡",
+ "head": "墡（磰）",
+ "pinyin": "shàn",
+ "aliases": [
+  "磰"
+ ],
+ "bus": {
+  "num": 493,
+  "name": "善"
+ },
+ "level": 3,
+ "parent": "善",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“白土也。或从石。”白色粘土，多用于塗飾、粉刷。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：白土收聚，和水成泥（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

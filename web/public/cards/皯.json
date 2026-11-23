@@ -1,0 +1,38 @@
+{
+ "char": "皯",
+ "head": "皯（䵟）",
+ "pinyin": "gǎn",
+ "aliases": [
+  "䵟"
+ ],
+ "bus": {
+  "num": 491,
+  "name": "干"
+ },
+ "level": 3,
+ "parent": "干",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“面黑氣也。从皮干聲。古旱切。”皮面黧黑乾枯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：肌表氣隔，津潤不至（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

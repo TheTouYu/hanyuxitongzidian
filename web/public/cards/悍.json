@@ -1,0 +1,38 @@
+{
+ "char": "悍",
+ "head": "悍（猂）",
+ "pinyin": "hàn",
+ "aliases": [
+  "猂"
+ ],
+ "bus": {
+  "num": 491,
+  "name": "干"
+ },
+ "level": 3,
+ "parent": "旱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“勇也。从心旱聲。侯旰切。”勇敢。《集韻》：“性急也。通作旱。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：挺身豁出，犯難不避（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

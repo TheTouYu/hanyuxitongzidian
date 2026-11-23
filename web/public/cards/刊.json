@@ -1,0 +1,35 @@
+{
+ "char": "刊",
+ "head": "刊",
+ "pinyin": "kān",
+ "bus": {
+  "num": 491,
+  "name": "干"
+ },
+ "level": 3,
+ "parent": "干",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“剟也。从刀干聲。苦寒切。”用刀削。即削掉枝葉之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：刃口深入，一咬即斷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

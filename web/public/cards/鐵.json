@@ -1,0 +1,46 @@
+{
+ "char": "鐵",
+ "head": "鐵（𨫓銕铁）",
+ "pinyin": "tiě、dié",
+ "aliases": [
+  "𨫓",
+  "铁"
+ ],
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
+ "level": 3,
+ "parent": "戜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“黑金也。从金𢧤聲。{{shiyi/01.png}}，𨮯或省。{{shiyi/02.png}}，古文𨮯从夷。天結切。”黑色的金屬。取其為器鋒利義。dié，《集韻》：“利鐵也。”",
+   "gdir": "inline/鐵"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：金突而堅，色黑如漆（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "已知的中國最早鐵器——鐵刃銅鉞（商）"
+  }
+ ]
+}

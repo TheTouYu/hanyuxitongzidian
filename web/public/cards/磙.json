@@ -1,0 +1,35 @@
+{
+ "char": "磙",
+ "head": "磙",
+ "pinyin": "gǔn",
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "袞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "石軲轆。用石頭做成的圓柱形壓、軋用的器具。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：石隔其面，滾轉而平（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "貹",
+ "head": "貹",
+ "pinyin": "shèng",
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
+ "level": 3,
+ "parent": "生",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“財富。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：財收而積，生息不已（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

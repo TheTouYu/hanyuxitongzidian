@@ -1,0 +1,38 @@
+{
+ "char": "棇",
+ "head": "棇（𣚜）",
+ "pinyin": "cōng、sōng",
+ "aliases": [
+  "𣚜"
+ ],
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "公",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《唐韻》：“尖頭擔也。”sōng，《類篇》：“木名。”《正字通》：“同𣚜，俗省。”“𣚜， 小籠。”筷桶。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：桶持諸物，聚而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

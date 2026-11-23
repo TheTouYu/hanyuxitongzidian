@@ -1,0 +1,35 @@
+{
+ "char": "䊄",
+ "head": "䊄",
+ "pinyin": "qióng",
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
+ "level": 3,
+ "parent": "巩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“精米。”即杵去了殼的米。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：穀親於杵，舂而去殼（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

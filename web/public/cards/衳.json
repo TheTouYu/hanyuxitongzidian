@@ -1,0 +1,39 @@
+{
+ "char": "衳",
+ "head": "衳（𢃭𢃓䘴）",
+ "pinyin": "zhōng",
+ "aliases": [
+  "𢃭",
+  "𢃓"
+ ],
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "公",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𢃭，《說文》：‘㡓也。一曰帙。’或作𢃓、䘴、衳。”合襠的內褲；書衣。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：布總其身，合襠相裹（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "桿",
+ "head": "桿（杆）",
+ "pinyin": "gǎn",
+ "bus": {
+  "num": 491,
+  "name": "干"
+ },
+ "level": 3,
+ "parent": "旱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“侯干切，音汗。木也。”《正字通》：“俗杆字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「估」：直木為準，短長可度（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "徎",
+ "head": "徎",
+ "pinyin": "chěng、zhèng",
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
+ "level": 3,
+ "parent": "呈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“徑行也。从彳呈聲。醜郢切。”从小路疾行。zhèng，《廣韻》：“雨後徑也。” 路滑。《玉篇》：“徑也。”小路。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：行持其徑，疾而直達（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

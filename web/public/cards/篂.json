@@ -1,0 +1,35 @@
+{
+ "char": "篂",
+ "head": "篂",
+ "pinyin": "xīng",
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
+ "level": 3,
+ "parent": "星",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“箳篂，別駕車轓。”《集韻》：“箳篂，車蔽簹。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：竹消其密，編而為蔽（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

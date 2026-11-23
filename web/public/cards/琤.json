@@ -1,0 +1,35 @@
+{
+ "char": "琤",
+ "head": "琤",
+ "pinyin": "chēng",
+ "bus": {
+  "num": 498,
+  "name": "爭"
+ },
+ "level": 3,
+ "parent": "爭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“玉聲也。从玉爭聲。楚耕切。”玉相擊聲。《正字通》：“凡物戛擊有聲皆曰琤。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：玉刺而鳴，聲清以長（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

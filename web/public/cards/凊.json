@@ -1,0 +1,35 @@
+{
+ "char": "凊",
+ "head": "凊",
+ "pinyin": "qìng",
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
+ "level": 3,
+ "parent": "青",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“寒也。从仌青聲。七正切。”寒涼。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：寒氣相親，涼透肌骨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

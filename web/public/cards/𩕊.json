@@ -1,0 +1,35 @@
+{
+ "char": "𩕊",
+ "head": "𩕊",
+ "pinyin": "zhǎn",
+ "bus": {
+  "num": 493,
+  "name": "善"
+ },
+ "level": 3,
+ "parent": "善",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“倨視人也。从頁善聲。旨善切。”傲視別人。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：傲目直注，鋒如鑿刃（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

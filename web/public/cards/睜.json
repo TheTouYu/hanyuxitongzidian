@@ -1,0 +1,35 @@
+{
+ "char": "睜",
+ "head": "睜（睛）",
+ "pinyin": "zhēng",
+ "bus": {
+  "num": 498,
+  "name": "爭"
+ },
+ "level": 3,
+ "parent": "爭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“張目不悅視也。俗作睁。”《集韻》：“或从青。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：目凿而張，視定不移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

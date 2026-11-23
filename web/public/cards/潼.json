@@ -1,0 +1,35 @@
+{
+ "char": "潼",
+ "head": "潼",
+ "pinyin": "tóng、zhōng、chōng",
+ "bus": {
+  "num": 495,
+  "name": "丁"
+ },
+ "level": 3,
+ "parent": "童",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“水。出廣漢梓潼北界，南入墊江。从水童聲。徒紅切。”zhōng，《集韻》：“瀧潼，濕皃。”chōng，《集韻》：“水壞道。”水流灌注或水力撞擊。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：水勢暴發，一湧破岸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

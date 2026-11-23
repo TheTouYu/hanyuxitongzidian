@@ -1,0 +1,35 @@
+{
+ "char": "譂",
+ "head": "譂",
+ "pinyin": "chǎn",
+ "bus": {
+  "num": 492,
+  "name": "單"
+ },
+ "level": 3,
+ "parent": "單",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“齒善切，音闡。妄言也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：口無所持，言輒妄出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "訟",
+ "head": "訟（䛦）",
+ "pinyin": "sòng",
+ "aliases": [
+  "䛦"
+ ],
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "公",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“爭也。从言公聲。曰：謌訟。{{shiyi/01.png}}，古文訟。似用切。”爭辯。歌頌。",
+   "gdir": "inline/訟"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：言失其和，爭而不收（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

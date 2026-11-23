@@ -1,0 +1,38 @@
+{
+ "char": "戰",
+ "head": "戰（战）",
+ "pinyin": "zhàn",
+ "aliases": [
+  "战"
+ ],
+ "bus": {
+  "num": 492,
+  "name": "單"
+ },
+ "level": 3,
+ "parent": "單",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鬬也。从戈單聲。之扇切。”戰鬥。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：刃鋒破堅，直貫而入（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

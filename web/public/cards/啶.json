@@ -1,0 +1,35 @@
+{
+ "char": "啶",
+ "head": "啶",
+ "pinyin": "dìng",
+ "bus": {
+  "num": 495,
+  "name": "丁"
+ },
+ "level": 3,
+ "parent": "定",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "原為蟲鳴聲。後借為化學術語，對應英文dine或tin，一般作為後綴，如Pyridine（吡啶），有機化合物中的一種含氮雜環的名稱。音譯字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」不系：譯音之綴，只取其聲（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

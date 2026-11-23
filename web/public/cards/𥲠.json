@@ -1,0 +1,35 @@
+{
+ "char": "𥲠",
+ "head": "𥲠",
+ "pinyin": "wàng",
+ "bus": {
+  "num": 495,
+  "name": "丁"
+ },
+ "level": 3,
+ "parent": "朢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“巫放切，音望。竹名。又竹色。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：篇海音望，脣齒無阻（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

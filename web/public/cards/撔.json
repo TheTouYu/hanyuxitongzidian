@@ -1,0 +1,35 @@
+{
+ "char": "撔",
+ "head": "撔",
+ "pinyin": "hòng",
+ "bus": {
+  "num": 495,
+  "name": "丁"
+ },
+ "level": 3,
+ "parent": "景",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“胡猛切，橫上聲。橫也。”《字彙》：“揣也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：橫手開豁，揣而知其形（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

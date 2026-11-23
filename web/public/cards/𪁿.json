@@ -1,0 +1,44 @@
+{
+ "char": "𪁿",
+ "head": "𪁿（䲲𪀚）",
+ "pinyin": "sōng",
+ "aliases": [
+  "䲲"
+ ],
+ "bus": {
+  "num": 496,
+  "name": "公"
+ },
+ "level": 3,
+ "parent": "松",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“鷂屬。”《集韻》：“爵𪀚，隼屬。或从公，从松。”𪀚，《廣韻》：“似鷹而小，能捕雀也。”松雀鷹。其羽狀如松果。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：羽收成層，文如松果（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

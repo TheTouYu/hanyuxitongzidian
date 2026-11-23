@@ -1,0 +1,35 @@
+{
+ "char": "𪍶",
+ "head": "𪍶",
+ "pinyin": "shàn",
+ "bus": {
+  "num": 493,
+  "name": "善"
+ },
+ "level": 3,
+ "parent": "善",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𪍶𪍦，屑新麥為餌。”新熟大麥做成的糕餅。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：麥粒磨碎，形失而粉成（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

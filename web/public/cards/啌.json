@@ -1,0 +1,38 @@
+{
+ "char": "啌",
+ "head": "啌（㾤）",
+ "pinyin": "qiāng、xiāng",
+ "aliases": [
+  "㾤"
+ ],
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
+ "level": 3,
+ "parent": "空",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㾤，喉㾰也。或从口。”喉中病。xiāng，《集韻》：“咄也。一曰嗔語。一曰嗽也。”怒叱聲。咳嗽聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：喉親其聲，空而共鳴（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

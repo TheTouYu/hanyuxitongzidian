@@ -1,0 +1,35 @@
+{
+ "char": "𠏄",
+ "head": "𠏄",
+ "pinyin": "zhēn",
+ "bus": {
+  "num": 495,
+  "name": "丁"
+ },
+ "level": 3,
+ "parent": "聽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《鶡冠子·王鈇》：“驩欣足以相助，𠏄諜足以相止。”陸佃注：“𠏄，探遉也；諜，間諜也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：如鑽穴然，直抵其情（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

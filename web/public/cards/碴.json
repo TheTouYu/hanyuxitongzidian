@@ -1,0 +1,38 @@
+{
+ "char": "碴",
+ "head": "碴（𦉆）",
+ "pinyin": "chá",
+ "aliases": [
+  "𦉆"
+ ],
+ "bus": {
+  "num": 494,
+  "name": "旦"
+ },
+ "level": 3,
+ "parent": "查",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“小碎塊。或指被小碎塊劃破。”chā，鬍子拉碴，形容滿臉鬍子未加修飾。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：棱尖刺膚，觸之成痕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "謃",
+ "head": "謃",
+ "pinyin": "xīng",
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
+ "level": 3,
+ "parent": "星",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "義未詳。疑指申明。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：義未詳，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

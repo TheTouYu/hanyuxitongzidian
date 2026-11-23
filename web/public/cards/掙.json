@@ -1,0 +1,35 @@
+{
+ "char": "掙",
+ "head": "掙",
+ "pinyin": "zhēng、zhèng",
+ "bus": {
+  "num": 498,
+  "name": "爭"
+ },
+ "level": 3,
+ "parent": "爭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣雅》：“刺也。”zhèng，《字彙》：“《中原雅音》：掙，剉也。”《正字通》：“俗謂支拄曰掙。”用力支撐或擺脫。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：力凿而撐，相持不放（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

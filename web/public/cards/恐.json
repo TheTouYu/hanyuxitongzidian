@@ -1,0 +1,39 @@
+{
+ "char": "恐",
+ "head": "恐（𢖶㤟）",
+ "pinyin": "kǒng",
+ "aliases": [
+  "𢖶"
+ ],
+ "bus": {
+  "num": 500,
+  "name": "工"
+ },
+ "level": 3,
+ "parent": "巩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“懼也。从心𢀜聲。{{shiyi/01.png}}，古文。丘隴切。”恐懼、心虛。《廣韻》：“疑也。”《集韻》：“或作㤟。”",
+   "gdir": "inline/恐"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：心控其懼，畏而自持（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十二工",
+     "label": "卷八十二工"
+    }
+   ]
+  }
+ ]
+}

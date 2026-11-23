@@ -1,0 +1,38 @@
+{
+ "char": "蔊",
+ "head": "蔊（𦸋）",
+ "pinyin": "hàn",
+ "aliases": [
+  "𦸋"
+ ],
+ "bus": {
+  "num": 491,
+  "name": "干"
+ },
+ "level": 3,
+ "parent": "旱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《康典》：“《齊民要術》：蔊菜，味辛。《本草》：蔊，味辛辣如火焊人，故名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：一嚼辛氣，豁然上衝（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ]
+}

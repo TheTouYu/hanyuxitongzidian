@@ -1,0 +1,38 @@
+{
+ "char": "箐",
+ "head": "箐（蒼）",
+ "pinyin": "jīng、qìng、qiāng",
+ "aliases": [
+  "蒼"
+ ],
+ "bus": {
+  "num": 497,
+  "name": "生"
+ },
+ "level": 3,
+ "parent": "青",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“笭箐，小籠。”qìng，《玉篇》：“棺車上覆也。”《集韻》：“張竹弓弩曰箐。”qiāng，《集韻》：“蒼，竹名。或作箐。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：竹親蒼色，器成而青（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "竫",
+ "head": "竫",
+ "pinyin": "jìng",
+ "bus": {
+  "num": 498,
+  "name": "爭"
+ },
+ "level": 3,
+ "parent": "爭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“亭安也。从立爭聲。疾郢切。”安靜。《廣雅》：“善也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：立定而决，安止不動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十一釘",
+     "label": "卷八十一釘"
+    }
+   ]
+  }
+ ]
+}

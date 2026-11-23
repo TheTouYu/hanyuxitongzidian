@@ -1,0 +1,41 @@
+{
+ "char": "蟬",
+ "head": "蟬",
+ "pinyin": "chán",
+ "bus": {
+  "num": 492,
+  "name": "單"
+ },
+ "level": 3,
+ "parent": "單",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“以旁鳴者。从虫單聲。市連切。”用翅膀摩擦而發聲的蟲子。甲骨文象蟬形。蟬翅單薄、透明。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：兩翅相持，摩擦成聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十干",
+     "label": "卷八十干"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}
