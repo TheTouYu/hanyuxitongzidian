@@ -1,0 +1,38 @@
+{
+ "char": "𣣲",
+ "head": "𣣲（𣢩）",
+ "pinyin": "xié",
+ "aliases": [
+  "𣢩"
+ ],
+ "bus": {
+  "num": 380,
+  "name": "劦"
+ },
+ "level": 3,
+ "parent": "脅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“翕氣也。从欠脅聲。虛業切。”合氣；屏氣；抑制呼吸不出聲。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：氣閉不出，聲息皆消（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十三索",
+     "label": "卷六十三索"
+    }
+   ]
+  }
+ ]
+}
