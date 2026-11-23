@@ -321,8 +321,21 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 
 ## 7. 简体索引
 
-每部建完，把该部头字与族字里的**规范简化字**同时写进两份表：`web/public/variants.json` 与 `web/public/cards/variants.json`（`{"简体":"繁体"}`，单行紧凑 JSON，别 pretty-print）。
+每部建完，把该部头字与族字里的**规范简化字**写进 `web/public/cards/variants.json`（`{"简体":"繁体"}`，单行紧凑 JSON；root 那份 `web/public/variants.json` 由 `build-card-index.py` 生成，**不要手改**）。
 再跑 `tools/build-card-index.py`，逐个 `/card/<简体>` 验 200 且页头显繁体。没简化字就不加。
+
+**别手列，用工具扫**（手写必漏：2026-11-23「辄/计/诹/鲰/亵/絷」六字漏了，主人报「简化字没有建立索引」）：
+
+```powershell
+$env:PYTHONIOENCODING='utf-8'
+.runtime\python\python.exe tools\check-variants.py --bu 371-379   # 缺哪些 简→繁，只报不改
+.runtime\python\python.exe tools\check-variants.py --apply        # 确认后写入（跳过黑名单）
+.runtime\python\python.exe tools\build-card-index.py              # 同步 root variants、index、alias-index
+```
+
+- 工具用 Windows `LCMapStringW`（T→S）算简体；`BLOCK` 里记 LCMap 的错映射（坰→垧、牪→瘪、戉→钺…），`--apply` 会跳过并在输出里列出。
+- 撞车（同一简体对应多个繁体，如 棂←櫺/欞、馍←糢/饃）留规范正字那一个。
+- 别名来源（`--aliases`）默认不扫：旧卡 aliases 有脏数据（把《玉篇》引文逐字拆成别名），会造出「丽→廝」这类错映射。
 
 **异体路由**：异体不另建卡，收进本字卡 `aliases`；`build-card-index.py` 写 `alias-index.json`，`/card/<异体>` 302/200 到本字。`variants.json` 只收简→繁，不收异体（异体不是简化字）。
 
@@ -423,6 +436,7 @@ JSON 结构：
 | `tools/audit-photos.py --doc <卷.docx>` | **全卷插图总账**：逐部数原稿独立图片段 vs 该部各字 photos，列未落位/断链/自造图注 | 整卷收尾必跑 |
 | `tools/check-spa-render.mjs <字…>` / `--buses 371-379` / `--all` | **站内 SPA 渲染体检**：stub DOM 跑 `index.html` 的 `cardBody`，抓「整页只报 `(s \|\| "").replace is not a function`」这类 verify-card 抓不到的数据形状错（典型：族表行多包一层，`row[3]` 是 list） | 每部建完、页检前必跑；新部 `bad 0` |
 | `check-cards.py` | 全库结构总量（有历史欠账，不当新卡闸门） | 只看新卡有无新增类型 |
+| `check-variants.py [--bu 371-379] [--apply]` | **简体索引缺口**：LCMapStringW 把卡字转简体，列 `variants.json` 缺的 简→繁、黑名单错映射、撞车 | **每部建完必跑**（新部 `missing 0`）；`--apply` 后重跑 `build-card-index.py` |
 
 ### 8.5 页面核验
 
