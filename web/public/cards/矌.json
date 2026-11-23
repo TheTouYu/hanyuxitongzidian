@@ -1,0 +1,35 @@
+{
+ "char": "矌",
+ "head": "矌（𥇜）",
+ "pinyin": "kuàng、guō",
+ "bus": {
+  "num": 515,
+  "name": "黃"
+ },
+ "level": 3,
+ "parent": "廣",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“目無眹。”目無珠；眼瞎。《集韻》：“目無色。”guō，《集韻》：“目張皃。或作𥇜。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：目眶空洞，視無所見（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

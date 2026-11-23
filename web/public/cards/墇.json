@@ -1,0 +1,41 @@
+{
+ "char": "墇",
+ "head": "墇",
+ "pinyin": "zhàng",
+ "bus": {
+  "num": 520,
+  "name": "章"
+ },
+ "level": 3,
+ "parent": "章",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“擁（《桂馥·義證》作“壅”）也。从土章聲。之亮切。”隔障。《玉篇》：“隔塞也、壅也、防也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：土鑿成障，塞而隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "泥封過程圖"
+  }
+ ]
+}

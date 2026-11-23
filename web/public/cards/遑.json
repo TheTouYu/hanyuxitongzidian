@@ -1,0 +1,35 @@
+{
+ "char": "遑",
+ "head": "遑",
+ "pinyin": "huáng",
+ "bus": {
+  "num": 517,
+  "name": "王"
+ },
+ "level": 3,
+ "parent": "皇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“急也。从辵皇聲。或从彳。胡光切。”匆忙。《玉篇》：“暇也。”閒暇。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：事急豁然，遑遽無暇（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "莚",
+ "head": "莚",
+ "pinyin": "yán",
+ "bus": {
+  "num": 516,
+  "name": "行"
+ },
+ "level": 3,
+ "parent": "延",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《韻會》：“草名。”《正韻》：“蔓莚，不斷也。”草根連綴的樣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：草根連綴，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

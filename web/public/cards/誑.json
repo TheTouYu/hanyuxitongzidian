@@ -1,0 +1,39 @@
+{
+ "char": "誑",
+ "head": "誑（𧪴𧥶）",
+ "pinyin": "kuáng",
+ "bus": {
+  "num": 517,
+  "name": "王"
+ },
+ "level": 3,
+ "aliases": [
+  "𧪴",
+  "𧥶"
+ ],
+ "parent": "王",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“欺也。从言狂聲。居況切。”欺騙。《玉篇》：“惑也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：以言控人，欺而惑之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

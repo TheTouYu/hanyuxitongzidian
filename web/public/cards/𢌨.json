@@ -1,0 +1,38 @@
+{
+ "char": "𢌨",
+ "head": "𢌨（䀽）",
+ "pinyin": "yàn",
+ "bus": {
+  "num": 516,
+  "name": "行"
+ },
+ "level": 3,
+ "aliases": [
+  "䀽"
+ ],
+ "parent": "延",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“相顧視而行也。从目从㢟，㢟亦聲。於線切。”邊看邊走。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：邊看邊走，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

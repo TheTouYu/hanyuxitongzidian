@@ -1,0 +1,35 @@
+{
+ "char": "貺",
+ "head": "貺",
+ "pinyin": "kuàng、huàng",
+ "bus": {
+  "num": 518,
+  "name": "兄"
+ },
+ "level": 3,
+ "parent": "兄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“賜也。从貝兄聲。許訪切。”賜，贈。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：賜予控物，與而益之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

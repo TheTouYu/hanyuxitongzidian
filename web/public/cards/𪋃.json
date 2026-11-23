@@ -1,0 +1,35 @@
+{
+ "char": "𪋃",
+ "head": "𪋃（麛）",
+ "pinyin": "mī",
+ "bus": {
+  "num": 518,
+  "name": "兄"
+ },
+ "level": 3,
+ "parent": "兄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“麛”的俗字，鹿皃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：鹿麛蒙茸，形小未成（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

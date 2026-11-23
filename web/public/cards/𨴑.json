@@ -1,0 +1,35 @@
+{
+ "char": "𨴑",
+ "head": "𨴑",
+ "pinyin": "kuāng",
+ "bus": {
+  "num": 514,
+  "name": "匚"
+ },
+ "level": 3,
+ "parent": "匡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“門周木也。”門框。《漢典》：我國古代天文學儀器上的框形部件。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：木周門樞，控持開闔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

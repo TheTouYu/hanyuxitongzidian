@@ -1,0 +1,35 @@
+{
+ "char": "𧾆",
+ "head": "𧾆",
+ "pinyin": "xuàn",
+ "bus": {
+  "num": 512,
+  "name": "囧"
+ },
+ "level": 3,
+ "parent": "朙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“始走意也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：舉足續行，始發而疾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

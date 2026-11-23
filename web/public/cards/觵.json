@@ -1,0 +1,45 @@
+{
+ "char": "觵",
+ "head": "觵（觥）",
+ "pinyin": "gōng",
+ "bus": {
+  "num": 515,
+  "name": "黃"
+ },
+ "level": 3,
+ "aliases": [
+  "觥"
+ ],
+ "parent": "黃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“兕牛角可以飲者也。从角黃聲。其狀觵觵，故謂之觵。{{shiyi/01.png}}，俗觵从光。古橫切。”用犀牛角鏤空做成的大酒杯。甲骨文作“{{shiyi/02.png}}、{{shiyi/03.png}}”，直接用角加一橫表示，橫置之意。",
+   "gdir": "inline/觵"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：角杯隔酒，橫持而飲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𢕔",
+ "head": "𢕔",
+ "pinyin": "zhāng、zhàng",
+ "bus": {
+  "num": 520,
+  "name": "章"
+ },
+ "level": 3,
+ "parent": "章",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“諸良切，音章。𢕔徨，行不正。”zhàng，《集韻》：“之亮切，章去聲。𢕔徨，行遽皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：行步鑿急，不正而遽（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

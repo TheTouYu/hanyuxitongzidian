@@ -1,0 +1,35 @@
+{
+ "char": "硄",
+ "head": "硄",
+ "pinyin": "kuāng、guāng",
+ "bus": {
+  "num": 519,
+  "name": "光"
+ },
+ "level": 3,
+ "parent": "光",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“石聲。”guāng，《正字通》：“石色之光澤者。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「口」：石口有光，扣之有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

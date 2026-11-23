@@ -1,0 +1,39 @@
+{
+ "char": "忹",
+ "head": "忹（狂𢚇）",
+ "pinyin": "wǎng、kuáng",
+ "bus": {
+  "num": 517,
+  "name": "王"
+ },
+ "level": 3,
+ "aliases": [
+  "狂",
+  "𢚇"
+ ],
+ "parent": "王",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“譌字。舊音枉，邪曲。與枉溷。古文狂，本作𢚇。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：邪曲之義，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

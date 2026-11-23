@@ -1,0 +1,35 @@
+{
+ "char": "瑝",
+ "head": "瑝",
+ "pinyin": "huáng",
+ "bus": {
+  "num": 517,
+  "name": "王"
+ },
+ "level": 3,
+ "parent": "皇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“玉聲也。从玉皇聲。乎光切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：玉振豁然有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

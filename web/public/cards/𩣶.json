@@ -1,0 +1,35 @@
+{
+ "char": "𩣶",
+ "head": "𩣶",
+ "pinyin": "mǐng",
+ "bus": {
+  "num": 512,
+  "name": "囧"
+ },
+ "level": 3,
+ "parent": "朙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“靡京切，音明。汗馬。”汗血寶馬。當从“盟”省聲，指馬出汗如歃血。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：汗蒙皮毛，色如血（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

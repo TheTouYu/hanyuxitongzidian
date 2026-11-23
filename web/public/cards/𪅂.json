@@ -1,0 +1,41 @@
+{
+ "char": "𪅂",
+ "head": "𪅂",
+ "pinyin": "zhāng",
+ "bus": {
+  "num": 520,
+  "name": "章"
+ },
+ "level": 3,
+ "parent": "章",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“吳人呼水雞為𪅂渠。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：水雞之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "纊",
+ "head": "纊（絖）",
+ "pinyin": "kuàng",
+ "bus": {
+  "num": 515,
+  "name": "黃"
+ },
+ "level": 3,
+ "parent": "廣",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“絮也。从糸廣聲。《春秋傳》曰：‘皆如挾纊。’{{shiyi/01.png}}，纊或从光。苦謗切。”絲綿絮。《玉篇》：“細緜也。”“又八十縷也。”",
+   "gdir": "inline/纊"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：絮厚控寒，包而暖（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

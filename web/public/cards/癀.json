@@ -1,0 +1,38 @@
+{
+ "char": "癀",
+ "head": "癀（㾮）",
+ "pinyin": "huáng",
+ "bus": {
+  "num": 515,
+  "name": "黃"
+ },
+ "level": 3,
+ "aliases": [
+  "㾮"
+ ],
+ "parent": "黃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“癀疸病也。”《類篇》：“或作㾮。”黃疸。牛馬等家畜的炭疽病。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：濕熱鬱蒸，膚色不活（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

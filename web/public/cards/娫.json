@@ -1,0 +1,35 @@
+{
+ "char": "娫",
+ "head": "娫",
+ "pinyin": "yán",
+ "bus": {
+  "num": 516,
+  "name": "行"
+ },
+ "level": 3,
+ "parent": "延",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“女字。”《字彙》：“美好貌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：女字美好，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

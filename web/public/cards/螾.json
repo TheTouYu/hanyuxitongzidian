@@ -1,0 +1,39 @@
+{
+ "char": "螾",
+ "head": "螾（𧓒蚓）",
+ "pinyin": "yǐn、yín",
+ "bus": {
+  "num": 515,
+  "name": "黃"
+ },
+ "level": 3,
+ "aliases": [
+  "𧓒"
+ ],
+ "parent": "寅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“側行者。从虫寅聲。{{shiyi/01.png}}，螾或从引。餘忍切。”蚯蚓。《廣韻》：“螾衍，蚰蜒。”yín，《廣韻》：“寒蟬。”",
+   "gdir": "inline/螾"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：蚯蚓側行，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "䔔",
+ "head": "䔔",
+ "pinyin": "jìng",
+ "bus": {
+  "num": 518,
+  "name": "兄"
+ },
+ "level": 3,
+ "parent": "竟",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“艸名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：艸名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

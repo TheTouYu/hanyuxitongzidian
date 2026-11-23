@@ -1,0 +1,41 @@
+{
+ "char": "蟥",
+ "head": "蟥",
+ "pinyin": "huáng",
+ "bus": {
+  "num": 515,
+  "name": "黃"
+ },
+ "level": 3,
+ "parent": "黃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𧑐蟥也。从虫黃聲。乎光切。”《廣韻》：“蛂、蟥、蛢，甲蟲也。”金龜子。今指螞蟥。色皆黃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：蟲甲有光，色活而黃（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "金龜子"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "琞",
+ "head": "琞（聖）",
+ "pinyin": "shèng、wàng",
+ "bus": {
+  "num": 512,
+  "name": "囧"
+ },
+ "level": 3,
+ "aliases": [
+  "聖"
+ ],
+ "parent": "朙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“同‘聖’。”wàng，《正字通》：“同望。姓也。”應該是形近訛字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」不系：姓與訛形，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

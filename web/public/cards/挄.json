@@ -1,0 +1,35 @@
+{
+ "char": "挄",
+ "head": "挄（擴）",
+ "pinyin": "kuò、guāng",
+ "bus": {
+  "num": 519,
+  "name": "光"
+ },
+ "level": 3,
+ "parent": "光",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“與擴同。”擴充。guāng，《漢典》：“活。”“哄騙。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：手控兩端，擴而大（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

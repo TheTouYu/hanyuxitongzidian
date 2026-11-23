@@ -1,0 +1,35 @@
+{
+ "char": "䗓",
+ "head": "䗓",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 513,
+  "name": "悤"
+ },
+ "level": 3,
+ "parent": "悤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“蜻蛉也。”《集韻》：“蟲名，《淮南子》：‘水蠆為䗓。’一曰蜻蜓。”蟲身如蔥。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：蟲身細長如刺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

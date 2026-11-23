@@ -1,0 +1,35 @@
+{
+ "char": "擝",
+ "head": "擝（掹）",
+ "pinyin": "mēng",
+ "bus": {
+  "num": 512,
+  "name": "囧"
+ },
+ "level": 3,
+ "parent": "朙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“同掹。”拽、拉出。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：拽物至末而盡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

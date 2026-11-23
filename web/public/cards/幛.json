@@ -1,0 +1,35 @@
+{
+ "char": "幛",
+ "head": "幛",
+ "pinyin": "zhàng",
+ "bus": {
+  "num": 520,
+  "name": "章"
+ },
+ "level": 3,
+ "parent": "章",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“幛子。以布帛題字，作為慶吊的禮物。”“遮蔽”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：布幔鑿懸，遮而蔽（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "㒭",
+ "head": "㒭（昆）",
+ "pinyin": "kūn",
+ "bus": {
+  "num": 518,
+  "name": "兄"
+ },
+ "level": 3,
+ "aliases": [
+  "昆"
+ ],
+ "parent": "兄",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“同昆。”兄弟。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：兄弟相控，比擬而親（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "char": "鱆",
+ "head": "鱆",
+ "pinyin": "zhāng",
+ "bus": {
+  "num": 520,
+  "name": "章"
+ },
+ "level": 3,
+ "parent": "章",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《康典》：“《閩書》：‘鱆魚。一名望潮魚’。”章魚。海洋軟體動物，有八只足，又名“八爪魚”。能隨環境改變顏色，本色紫紅。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：章魚噴墨，色鑿然紫紅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "char": "鐄",
+ "head": "鐄",
+ "pinyin": "huáng",
+ "bus": {
+  "num": 515,
+  "name": "黃"
+ },
+ "level": 3,
+ "parent": "黃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“鐘聲。”《集韻》：“大鍾也。大鎌也。”或同“簧”，指鎖裏面的簧片機關。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：簧動鎖開，豁然通（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "古代的銅鎖"
+  }
+ ]
+}

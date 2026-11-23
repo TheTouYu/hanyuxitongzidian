@@ -1,0 +1,39 @@
+{
+ "char": "謥",
+ "head": "謥（𧩪𧩟）",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 513,
+  "name": "悤"
+ },
+ "level": 3,
+ "aliases": [
+  "𧩪",
+  "𧩟"
+ ],
+ "parent": "悤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“𧩪詷，言急。俗作𧩟。”言語嗆人。也應是取義于蔥的氣味沖人。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：言語刺人，急而難受（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "焽",
+ "head": "焽（焸）",
+ "pinyin": "xiǒng、yīng、gǔ",
+ "bus": {
+  "num": 512,
+  "name": "囧"
+ },
+ "level": 3,
+ "aliases": [
+  "焸"
+ ],
+ "parent": "朙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同焸。”焸，《集韻》：“火光。”yīng，《玉篇》：“明。”gǔ，《廣韻》：“人名，出《漢書》。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：火光續照而明（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

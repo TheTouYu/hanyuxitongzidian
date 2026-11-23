@@ -1,0 +1,39 @@
+{
+ "char": "幒",
+ "head": "幒（𢃓）",
+ "pinyin": "zhǒng",
+ "bus": {
+  "num": 513,
+  "name": "悤"
+ },
+ "level": 3,
+ "aliases": [
+  "𢃓"
+ ],
+ "parent": "悤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“㡓也。从巾悤聲。一曰帙。{{shiyi/01.png}}，幒或从松。職茸切。”滿襠褲。或指書套。",
+   "gdir": "inline/幒"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：布總成筒，中空容身（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

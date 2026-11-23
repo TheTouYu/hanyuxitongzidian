@@ -1,0 +1,35 @@
+{
+ "char": "鯅",
+ "head": "鯅",
+ "pinyin": "shān、shěn",
+ "bus": {
+  "num": 516,
+  "name": "行"
+ },
+ "level": 3,
+ "parent": "延",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“魚醬。”shěn，《篇海類編》：“魚也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：魚肉收醃，久蓄成醬（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

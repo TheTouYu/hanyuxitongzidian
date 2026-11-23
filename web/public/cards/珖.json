@@ -1,0 +1,35 @@
+{
+ "char": "珖",
+ "head": "珖",
+ "pinyin": "guāng",
+ "bus": {
+  "num": 519,
+  "name": "光"
+ },
+ "level": 3,
+ "parent": "光",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“珖琯也。”玉作的笛。《集韻》：“玉名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：玉音隔空，清亮如光（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

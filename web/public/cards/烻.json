@@ -1,0 +1,35 @@
+{
+ "char": "烻",
+ "head": "烻",
+ "pinyin": "yàn、shān",
+ "bus": {
+  "num": 516,
+  "name": "行"
+ },
+ "level": 3,
+ "parent": "延",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“延面切，音衍。光熾也。” shān，《集韻》：“尸連切，音膻。光也。”閃光皃。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：光熾之形，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "䭗",
+ "head": "䭗（䭘䭊）",
+ "pinyin": "yǐng",
+ "bus": {
+  "num": 518,
+  "name": "兄"
+ },
+ "level": 3,
+ "aliases": [
+  "䭘"
+ ],
+ "parent": "竟",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䭘，餌也。飽也。或从英、从竟。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：飽食之義，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "応",
+ "head": "応（應应）",
+ "pinyin": "yīng",
+ "bus": {
+  "num": 511,
+  "name": "心"
+ },
+ "level": 3,
+ "aliases": [
+  "应"
+ ],
+ "parent": "心",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“古同應。”當；答。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：應答之聲，出喉無阻（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

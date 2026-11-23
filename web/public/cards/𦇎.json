@@ -1,0 +1,35 @@
+{
+ "char": "𦇎",
+ "head": "𦇎",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 513,
+  "name": "悤"
+ },
+ "level": 3,
+ "parent": "悤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“帛青色。从糸蔥聲。倉紅切。”《廣韻》：“色靑黃。又細絹。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：帛色刺目，青中帶黃（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

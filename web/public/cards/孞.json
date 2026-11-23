@@ -1,0 +1,38 @@
+{
+ "char": "孞",
+ "head": "孞（信）",
+ "pinyin": "xìn",
+ "bus": {
+  "num": 511,
+  "name": "心"
+ },
+ "level": 3,
+ "aliases": [
+  "信"
+ ],
+ "parent": "心",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“同信。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：心口相續，言不虛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

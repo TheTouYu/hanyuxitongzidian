@@ -1,0 +1,44 @@
+{
+ "char": "荇",
+ "head": "荇（莕）",
+ "pinyin": "xìng",
+ "bus": {
+  "num": 516,
+  "name": "行"
+ },
+ "level": 3,
+ "aliases": [
+  "莕"
+ ],
+ "parent": "行",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“莕，菨餘也。从艸杏聲。荇，莕或从行，同。”荇菜，水生植物，葉浮在水面上。取其四處可飄之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：葉浮水面，隨流續去（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

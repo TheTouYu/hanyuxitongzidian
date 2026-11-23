@@ -1,0 +1,38 @@
+{
+ "char": "伈",
+ "head": "伈（懍）",
+ "pinyin": "xǐn、lǐn",
+ "bus": {
+  "num": 511,
+  "name": "心"
+ },
+ "level": 3,
+ "aliases": [
+  "懍"
+ ],
+ "parent": "心",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“伈伈，恐皃。”lǐn，《集韻》：“懍，懼皃。或作伈。”因驚恐而心跳加快。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：驚則心跳，續促不休（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

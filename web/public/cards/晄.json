@@ -1,0 +1,38 @@
+{
+ "char": "晄",
+ "head": "晄（晃）",
+ "pinyin": "huǎng",
+ "bus": {
+  "num": 519,
+  "name": "光"
+ },
+ "level": 3,
+ "aliases": [
+  "晃"
+ ],
+ "parent": "光",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“明也。从日光聲。胡廣切。”明晃。《廣韻》：“暉也。光也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：日光豁然晃耀（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

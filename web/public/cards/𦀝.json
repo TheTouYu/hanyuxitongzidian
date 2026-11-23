@@ -1,0 +1,40 @@
+{
+ "char": "𦀝",
+ "head": "𦀝（絅）",
+ "pinyin": "jiǒng",
+ "bus": {
+  "num": 512,
+  "name": "囧"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“口迥切。布名。”《正字通》：“絅字之譌。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②形近字“冋”字之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：布名之訛，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ]
+}

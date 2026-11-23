@@ -1,0 +1,46 @@
+{
+ "char": "蔥",
+ "head": "蔥（茐葱）",
+ "pinyin": "cōng",
+ "bus": {
+  "num": 513,
+  "name": "悤"
+ },
+ "level": 3,
+ "aliases": [
+  "茐",
+  "葱"
+ ],
+ "parent": "悤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“菜也。从艸悤聲。倉紅切。”“蔥”的甲骨文从{{shiyi/01.png}}中有{{shiyi/02.png}}，{{shiyi/03.png}}象鼻子“自”字形，{{shiyi/04.png}}指氣體，象意氣味的沖鼻子。“蔥”味沖鼻，為其初文；因{{shiyi/05.png}}、{{shiyi/06.png}}形近而混同“悤”。",
+   "gdir": "inline/蔥"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：葉尖刺鼻，氣味沖人（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十四心",
+     "label": "卷八十四心"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

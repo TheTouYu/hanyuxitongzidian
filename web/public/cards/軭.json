@@ -1,0 +1,35 @@
+{
+ "char": "軭",
+ "head": "軭",
+ "pinyin": "kuāng",
+ "bus": {
+  "num": 514,
+  "name": "匚"
+ },
+ "level": 3,
+ "parent": "匡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“車戾也。从車匡聲。巨王切。”車輪扭曲。即由圓變成方形之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：輪被控扭，曲而不圓（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

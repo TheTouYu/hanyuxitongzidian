@@ -1,0 +1,35 @@
+{
+ "char": "㑌",
+ "head": "㑌（尩）",
+ "pinyin": "wāng、kuāng",
+ "bus": {
+  "num": 514,
+  "name": "匚"
+ },
+ "level": 3,
+ "parent": "匡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“與尩同。”瘸腿。或指脊背骨骼彎曲。kuāng，《漢典》：㑌儴，又作“劻勷”。急遽不安的樣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：曲脛之形，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}

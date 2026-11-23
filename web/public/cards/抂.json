@@ -1,0 +1,35 @@
+{
+ "char": "抂",
+ "head": "抂",
+ "pinyin": "kuáng、wǎng",
+ "bus": {
+  "num": 517,
+  "name": "王"
+ },
+ "level": 3,
+ "parent": "王",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“抂攘，亂皃。” wǎng，《正字通》：“狂字之譌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：手失控持，亂而無序（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十五匚",
+     "label": "卷八十五匚"
+    }
+   ]
+  }
+ ]
+}
