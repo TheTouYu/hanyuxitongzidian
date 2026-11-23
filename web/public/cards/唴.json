@@ -1,0 +1,35 @@
+{
+ "char": "唴",
+ "head": "唴",
+ "pinyin": "qiàng",
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
+ "level": 3,
+ "parent": "羌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“秦晉謂兒泣不止曰唴。从口羌聲。丘尚切。”小兒啼哭不止，指其如羊叫般。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：啼久氣缺，如羊叫（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

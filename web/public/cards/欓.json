@@ -1,0 +1,38 @@
+{
+ "char": "欓",
+ "head": "欓（𧅗）",
+ "pinyin": "dǎng、tàng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "aliases": [
+  "𧅗"
+ ],
+ "parent": "黨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“茱萸類。”《集韻》：“木名，越椒也。通作𧅗。”莖有刺，故有“擋”義。tàng，《集韻》：“木筩。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：木刺囤聚，擋而不前（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

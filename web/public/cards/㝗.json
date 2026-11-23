@@ -1,0 +1,35 @@
+{
+ "char": "㝗",
+ "head": "㝗",
+ "pinyin": "lǎng",
+ "bus": {
+  "num": 521,
+  "name": "良"
+ },
+ "level": 3,
+ "parent": "良",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“㝩也。从宀良聲。音良。力康切。”屋宇空闊。《玉篇》：“空虚也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：屋宇空闊，四壁離立（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

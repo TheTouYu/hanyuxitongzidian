@@ -1,0 +1,39 @@
+{
+ "char": "罉",
+ "head": "罉（鐣𨭃）",
+ "pinyin": "chēng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "aliases": [
+  "鐣",
+  "𨭃"
+ ],
+ "parent": "掌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“<方>平底鍋。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：釜持其底，平而受物（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

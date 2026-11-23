@@ -1,0 +1,35 @@
+{
+ "char": "𥏫",
+ "head": "𥏫",
+ "pinyin": "shāng",
+ "bus": {
+  "num": 525,
+  "name": "昜"
+ },
+ "level": 3,
+ "parent": "昜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“傷也。从矢昜聲。式亮切。”箭傷。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：矢中其身，血失而傷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

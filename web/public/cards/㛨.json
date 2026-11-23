@@ -1,0 +1,35 @@
+{
+ "char": "㛨",
+ "head": "㛨",
+ "pinyin": "qiǎng",
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
+ "level": 3,
+ "parent": "羌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“丘仰切，羌上聲。亂貌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」不系：亂貌，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

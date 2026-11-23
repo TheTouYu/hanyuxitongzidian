@@ -1,0 +1,35 @@
+{
+ "char": "趟",
+ "head": "趟",
+ "pinyin": "zhāng、zhèng、chéng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "parent": "尚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“䞴趟，躍跳。”zhèng，《集韻》：“䞴趟，踉䟫也。”走路不穩。chéng，《集韻》：“䞴趟，驚走皃。”tāng，从淺水中走過。踩，踏。tàng，步子，步伐。走動的次數。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：足凿而行，往來不穩（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

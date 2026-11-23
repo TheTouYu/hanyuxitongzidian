@@ -1,0 +1,35 @@
+{
+ "char": "𥯠",
+ "head": "𥯠（𥯟）",
+ "pinyin": "pài",
+ "bus": {
+  "num": 524,
+  "name": "永"
+ },
+ "level": 3,
+ "parent": "永",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𥯟，竹片也。或作𥯠。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「辟」：竹辟成片，分而為用（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

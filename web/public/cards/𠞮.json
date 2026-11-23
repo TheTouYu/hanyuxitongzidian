@@ -1,0 +1,38 @@
+{
+ "char": "𠞮",
+ "head": "𠞮（𦞛）",
+ "pinyin": "chuǎng",
+ "bus": {
+  "num": 530,
+  "name": "爽"
+ },
+ "level": 3,
+ "aliases": [
+  "𦞛"
+ ],
+ "parent": "爽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“皮傷也。或作𦞛。”擦傷。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：皮為物刺，擦破成傷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

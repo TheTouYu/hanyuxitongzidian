@@ -1,0 +1,35 @@
+{
+ "char": "㣜",
+ "head": "㣜",
+ "pinyin": "xíng",
+ "bus": {
+  "num": 522,
+  "name": "刅"
+ },
+ "level": 3,
+ "parent": "㓝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“何庚切，音行。行貌。”《正字通》：“譌字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：行貌之訓，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "礃",
+ "head": "礃",
+ "pinyin": "zhǎng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "parent": "掌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“礃子，也叫掌子，採礦或隧道工程中掘進的工作面。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：石面總聚，如掌之平（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

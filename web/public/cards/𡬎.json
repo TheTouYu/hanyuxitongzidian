@@ -1,0 +1,35 @@
+{
+ "char": "𡬎",
+ "head": "𡬎",
+ "pinyin": "qiāng",
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
+ "level": 3,
+ "parent": "羌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五侯鯖字海·宀部》：“音羌，義同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：義同於羌，相親為族（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "恦",
+ "head": "恦",
+ "pinyin": "xiàng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "parent": "向",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“念也。”想。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：心念續向，思而不忘（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

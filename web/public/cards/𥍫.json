@@ -1,0 +1,35 @@
+{
+ "char": "𥍫",
+ "head": "𥍫",
+ "pinyin": "láng",
+ "bus": {
+  "num": 521,
+  "name": "良"
+ },
+ "level": 3,
+ "parent": "良",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“矛屬。从矛良聲。魯當切。”《廣韻》：“短矛。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：短矛離手，刺而及遠（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

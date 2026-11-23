@@ -1,0 +1,35 @@
+{
+ "char": "𤡀",
+ "head": "𤡀（㺊）",
+ "pinyin": "yàng",
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
+ "level": 3,
+ "parent": "羕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㺊，獸名，如狻猊，食熊羆。或作𤡀。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：似羊之獸，聲不系於七組（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

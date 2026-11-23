@@ -1,0 +1,35 @@
+{
+ "char": "䫪",
+ "head": "䫪",
+ "pinyin": "shuǎng",
+ "bus": {
+  "num": 530,
+  "name": "爽"
+ },
+ "level": 3,
+ "parent": "爽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“醜也、滿也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」不系：醜滿之訓，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

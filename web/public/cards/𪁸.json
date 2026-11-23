@@ -1,0 +1,41 @@
+{
+ "char": "𪁸",
+ "head": "𪁸（䳀）",
+ "pinyin": "qiāng、dié",
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“鳥名。”dié，《正字通》：“䳀字之譌。《說文》䳀，篆作{{shiyi/01.png}}，俗因篆形譌為𪁸。舊註音羌，汎云鳥名，誤。”䳀，《說文》：“鋪豉也。”布穀鳥。",
+   "gdir": "inline/𪁸"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“失”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」不系：訛字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

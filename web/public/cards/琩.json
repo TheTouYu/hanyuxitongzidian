@@ -1,0 +1,35 @@
+{
+ "char": "琩",
+ "head": "琩",
+ "pinyin": "chāng",
+ "bus": {
+  "num": 526,
+  "name": "昌"
+ },
+ "level": 3,
+ "parent": "昌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“耳璫。”《集韻》：“琩玩，蠻夷充耳。”懸垂在耳旁作為裝飾用的玉。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：玉名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

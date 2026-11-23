@@ -1,0 +1,35 @@
+{
+ "char": "𨎛",
+ "head": "𨎛",
+ "pinyin": "liáng",
+ "bus": {
+  "num": 522,
+  "name": "刅"
+ },
+ "level": 3,
+ "parent": "刅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "車梁。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：橫木拢持，承車之重（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

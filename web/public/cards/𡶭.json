@@ -1,0 +1,35 @@
+{
+ "char": "𡶭",
+ "head": "𡶭",
+ "pinyin": "xíng",
+ "bus": {
+  "num": 522,
+  "name": "刅"
+ },
+ "level": 3,
+ "parent": "㓝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“山名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：山名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

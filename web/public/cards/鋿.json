@@ -1,0 +1,38 @@
+{
+ "char": "鋿",
+ "head": "鋿（鏛）",
+ "pinyin": "tǎng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "aliases": [
+  "鏛"
+ ],
+ "parent": "尚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“磨也。一曰車輪繞鐵。或从常。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：磨鐵突光，輪繞而亮（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

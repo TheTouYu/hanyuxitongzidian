@@ -1,0 +1,35 @@
+{
+ "char": "嫏",
+ "head": "嫏",
+ "pinyin": "láng",
+ "bus": {
+  "num": 521,
+  "name": "良"
+ },
+ "level": 3,
+ "parent": "良",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“玉京嫏嬛，天帝藏書處，張華夢遊之。”神話中天帝藏書處。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：神話藏書處，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

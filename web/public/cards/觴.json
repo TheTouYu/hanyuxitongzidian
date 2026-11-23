@@ -1,0 +1,39 @@
+{
+ "char": "觴",
+ "head": "觴（𣝻）",
+ "pinyin": "shāng",
+ "bus": {
+  "num": 525,
+  "name": "昜"
+ },
+ "level": 3,
+ "aliases": [
+  "𣝻"
+ ],
+ "parent": "昜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“觶實曰觴，虛曰觶。从角，𥏻省聲。{{shiyi/01.png}}，籀文觴从爵省。式陽切。”盛滿酒的角杯。金文从爵从昜。",
+   "gdir": "inline/觴"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：角杯收酒，舉而揚之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

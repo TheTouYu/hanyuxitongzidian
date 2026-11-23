@@ -1,0 +1,35 @@
+{
+ "char": "𤷼",
+ "head": "𤷼",
+ "pinyin": "xiāng",
+ "bus": {
+  "num": 529,
+  "name": "相"
+ },
+ "level": 3,
+ "parent": "相",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“𤷼疾也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：疾名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

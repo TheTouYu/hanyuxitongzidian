@@ -1,0 +1,35 @@
+{
+ "char": "諹",
+ "head": "諹",
+ "pinyin": "yáng",
+ "bus": {
+  "num": 525,
+  "name": "昜"
+ },
+ "level": 3,
+ "parent": "昜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“譽也。讙也。”名譽；讚揚。喧嘩。《廣韻》：“謹也。”謹慎。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：稱譽之聲，聲不系於七組（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

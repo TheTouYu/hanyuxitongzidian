@@ -1,0 +1,41 @@
+{
+ "char": "蜣",
+ "head": "蜣（𧍕）",
+ "pinyin": "qiāng",
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
+ "level": 3,
+ "parent": "羌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“蜣蜋，啖糞蟲也。”屎殼郎。所推糞球如羊屎。《集韻》：“𧍕，蟲名，天杜也。或从羌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：附糞相親，推球如羊屎（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

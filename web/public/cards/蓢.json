@@ -1,0 +1,35 @@
+{
+ "char": "蓢",
+ "head": "蓢",
+ "pinyin": "lǎng",
+ "bus": {
+  "num": 521,
+  "name": "良"
+ },
+ "level": 3,
+ "parent": "良",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“南蓢，廣東省村鎮名，在中山市東。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：村鎮名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

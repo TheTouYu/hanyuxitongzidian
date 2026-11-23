@@ -1,0 +1,35 @@
+{
+ "char": "鏯",
+ "head": "鏯",
+ "pinyin": "shuǎng",
+ "bus": {
+  "num": 530,
+  "name": "爽"
+ },
+ "level": 3,
+ "parent": "爽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同鐵。”疑即鋾銼之類，跟“磢、㼽”功用類同，用金屬製成。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：銼磨刮垢，使附著盡失（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

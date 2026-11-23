@@ -1,0 +1,35 @@
+{
+ "char": "泳",
+ "head": "泳",
+ "pinyin": "yǒng",
+ "bus": {
+  "num": 524,
+  "name": "永"
+ },
+ "level": 3,
+ "parent": "永",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“潛行水中也。从水永聲。為命切。”潛沒在水中而前行。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：潛行水下，聲不系於七組（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

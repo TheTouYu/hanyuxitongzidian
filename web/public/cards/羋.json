@@ -1,0 +1,36 @@
+{
+ "char": "羋",
+ "head": "羋",
+ "pinyin": "mǐ、miē",
+ "bus": {
+  "num": 523,
+  "name": "羊"
+ },
+ "level": 3,
+ "parent": "羊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“羊鳴也。从羊，象聲氣上出。與牟同意。綿婢切。”甲文為{{shiyi/01.png}}、{{shiyi/02.png}}、{{shiyi/03.png}}，與“牟”同。",
+   "gdir": "inline/羋"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：羊鳴蒙蒙，聲氣上出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十七羊",
+     "label": "卷八十七羊"
+    }
+   ]
+  }
+ ]
+}

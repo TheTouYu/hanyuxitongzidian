@@ -1,0 +1,35 @@
+{
+ "char": "𪉨",
+ "head": "𪉨",
+ "pinyin": "chāng",
+ "bus": {
+  "num": 526,
+  "name": "昌"
+ },
+ "level": 3,
+ "parent": "昌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“鹵漬。”用酒、醋或醬油等浸漬食品。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：滷汁刺舌，浸漬入味（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

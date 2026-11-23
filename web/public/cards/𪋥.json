@@ -1,0 +1,43 @@
+{
+ "char": "𪋥",
+ "head": "𪋥（麠）",
+ "pinyin": "jīng",
+ "bus": {
+  "num": 525,
+  "name": "昜"
+ },
+ "level": 3,
+ "aliases": [
+  "麠"
+ ],
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“同麠。”《爾雅·釋獸》：“麠，大麃，牛尾，一角。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②形近字“畺”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：訛字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "𢿦",
+ "head": "𢿦（𣪼朾揨𢾛㨃）",
+ "pinyin": "chéng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "aliases": [
+  "𣪼",
+  "𢾛"
+ ],
+ "parent": "掌",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“朾，《說文》：‘橦也。’或作揨、𢾛、㨃、𢿦。”撞；觸。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：物刺而撞，觸之有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

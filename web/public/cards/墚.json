@@ -1,0 +1,35 @@
+{
+ "char": "墚",
+ "head": "墚",
+ "pinyin": "liáng",
+ "bus": {
+  "num": 522,
+  "name": "刅"
+ },
+ "level": 3,
+ "parent": "刅",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“我國西北地方黃土高原上呈條狀延伸的嶺岡。頂面較平緩，兩側為狹深的溝谷。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：嶺岡拢起，長亙如梁（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ]
+}

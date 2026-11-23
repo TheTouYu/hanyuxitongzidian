@@ -1,0 +1,35 @@
+{
+ "char": "孀",
+ "head": "孀",
+ "pinyin": "shuāng",
+ "bus": {
+  "num": 529,
+  "name": "相"
+ },
+ "level": 3,
+ "parent": "霜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“孤孀，寡婦也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：夫亡失偶，孤居守寡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}

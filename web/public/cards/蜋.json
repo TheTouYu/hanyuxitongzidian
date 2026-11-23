@@ -1,0 +1,41 @@
+{
+ "char": "蜋",
+ "head": "蜋",
+ "pinyin": "láng、liǎng",
+ "bus": {
+  "num": 521,
+  "name": "良"
+ },
+ "level": 3,
+ "parent": "良",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“堂蜋也。从虫良聲。一名蚚父。魯當切。”螳螂。liǎng，《廣韻》：“蜣蜋，蟲。一名蛣蜣。”屎殼郎。它們的前肢都尖銳有鉤。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：前肢拢鉤，抱物而食（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十六良",
+     "label": "卷八十六良"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "螳螂"
+  }
+ ]
+}

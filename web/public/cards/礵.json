@@ -1,0 +1,41 @@
+{
+ "char": "礵",
+ "head": "礵",
+ "pinyin": "shuāng",
+ "bus": {
+  "num": 529,
+  "name": "相"
+ },
+ "level": 3,
+ "parent": "霜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“砒礵，同砒霜。”砒霜，一種毒藥，白色粉末如霜。或作地名用字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：毒粉如霜，生機盡失（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "含礵的礦物"
+  }
+ ]
+}

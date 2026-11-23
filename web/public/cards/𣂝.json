@@ -1,0 +1,38 @@
+{
+ "char": "𣂝",
+ "head": "𣂝（𣃉）",
+ "pinyin": "xiàng",
+ "bus": {
+  "num": 527,
+  "name": "向"
+ },
+ "level": 3,
+ "aliases": [
+  "𣃉"
+ ],
+ "parent": "向",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音篇海》：“𣂝、𣃉，上音向，下音都浪反。”斤之所向，應該是對砍之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：斧斤續向，對砍而交（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷八十八昜",
+     "label": "卷八十八昜"
+    }
+   ]
+  }
+ ]
+}
