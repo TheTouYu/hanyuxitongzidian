@@ -361,7 +361,8 @@ def check_aliases(card, ch):
                 "已有独立条目的字不入 aliases")
     # 释义务必整行：把「字（异体）」里的异体也并进 aliases
     shi = (sec(card, "shiyi") or {}).get("text") or ""
-    m = re.match("^([%s]+)\\s*[（(]([^）)]*)[）)]" % HAN, shi)
+    # 只认「字（异体）」体例：首列 1–2 字、括注 1–6 个汉字；否则是正文句中的括号（如「二酮（含兩個羰基）」）
+    m = re.match("^([%s]{1,2})\\s*[（(]([%s]{1,6})[）)]" % (HAN, HAN), shi)
     if m:
         for c in han_only(m.group(2)):
             if c != ch and c not in aliases and c not in CARDS_MAP:
