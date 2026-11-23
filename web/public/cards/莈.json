@@ -1,0 +1,35 @@
+{
+ "char": "莈",
+ "head": "莈",
+ "pinyin": "mò",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "parent": "𠬸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“草名。”一種中藥草。疑指水燈芯，常生長于沼澤濕地。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：草生水末，淺澤之濱（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

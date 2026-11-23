@@ -1,0 +1,35 @@
+{
+ "char": "蜷",
+ "head": "蜷",
+ "pinyin": "quán",
+ "bus": {
+  "num": 460,
+  "name": "卷"
+ },
+ "level": 3,
+ "parent": "卷",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“蟲行詰屈也。”蟲的身體彎曲。《玉篇》：“蜷局，不伸也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：蟲親其足，詰屈而蜷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

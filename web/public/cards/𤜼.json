@@ -1,0 +1,35 @@
+{
+ "char": "𤜼",
+ "head": "𤜼",
+ "pinyin": "chuán",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "parent": "匀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“獸名。似豹而少文。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：獸名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

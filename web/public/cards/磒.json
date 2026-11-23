@@ -1,0 +1,35 @@
+{
+ "char": "磒",
+ "head": "磒",
+ "pinyin": "yǔn",
+ "bus": {
+  "num": 459,
+  "name": "員"
+ },
+ "level": 3,
+ "parent": "員",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“落也。从石員聲。《春秋傳》曰：‘磒石于宋五。’于敏切。”墜落的隕石。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：隕石，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

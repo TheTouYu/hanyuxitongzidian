@@ -1,0 +1,35 @@
+{
+ "char": "恮",
+ "head": "恮",
+ "pinyin": "quān、zhuān",
+ "bus": {
+  "num": 452,
+  "name": "全"
+ },
+ "level": 3,
+ "parent": "全",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“謹也。从心全聲。此緣切。”謹慎。zhuān，《廣韻》：“曲卷也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：心親其事，謹而曲卷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

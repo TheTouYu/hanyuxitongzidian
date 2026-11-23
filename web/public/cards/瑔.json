@@ -1,0 +1,35 @@
+{
+ "char": "瑔",
+ "head": "瑔",
+ "pinyin": "quán",
+ "bus": {
+  "num": 456,
+  "name": "泉"
+ },
+ "level": 3,
+ "parent": "泉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“絕緣切，音全。玉名。”《字彙》：“貝名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：玉親其水，清潤有光（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

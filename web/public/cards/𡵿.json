@@ -1,0 +1,38 @@
+{
+ "char": "𡵿",
+ "head": "𡵿（岰）",
+ "pinyin": "ào",
+ "bus": {
+  "num": 458,
+  "name": "玄"
+ },
+ "level": 3,
+ "aliases": [
+  "岰"
+ ],
+ "parent": "幻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同岰。”岰，《集韻》：“山曲皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：山曲，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

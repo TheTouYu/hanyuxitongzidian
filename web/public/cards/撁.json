@@ -1,0 +1,38 @@
+{
+ "char": "撁",
+ "head": "撁（牽）",
+ "pinyin": "qiān",
+ "bus": {
+  "num": 458,
+  "name": "玄"
+ },
+ "level": 3,
+ "parent": "牽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“牽，別作撁。”qiàn，同“縴”。指拉車、船用的繩子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：手親其繩，挽而前行（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "牽"
+ ]
+}

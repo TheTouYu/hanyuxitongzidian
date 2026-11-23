@@ -1,0 +1,35 @@
+{
+ "char": "𤣻",
+ "head": "𤣻",
+ "pinyin": "mò",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "parent": "𠬸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“玉屬。从玉，𠬸聲。讀若沒。莫悖切。”疑指雨花石之類。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」不系：玉屬，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

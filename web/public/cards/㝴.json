@@ -1,0 +1,38 @@
+{
+ "char": "㝴",
+ "head": "㝴（刓）",
+ "pinyin": "wán",
+ "bus": {
+  "num": 454,
+  "name": "元"
+ },
+ "level": 3,
+ "parent": "元",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“與刓同，圜削也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：圜削，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "刓"
+ ]
+}

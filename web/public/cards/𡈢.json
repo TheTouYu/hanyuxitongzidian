@@ -1,0 +1,38 @@
+{
+ "char": "𡈢",
+ "head": "𡈢（稛）",
+ "pinyin": "kǔn、juàn",
+ "bus": {
+  "num": 460,
+  "name": "卷"
+ },
+ "level": 3,
+ "parent": "𢍏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“稛，亦作𡈢。”捆。《正字通》：“俗絭字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：捆控其物，卷而收之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "稛"
+ ]
+}

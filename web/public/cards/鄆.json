@@ -1,0 +1,35 @@
+{
+ "char": "鄆",
+ "head": "鄆",
+ "pinyin": "yùn",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "parent": "軍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“河內沁水鄉。从邑軍聲。魯有鄆地。王問切。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：地名，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

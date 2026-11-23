@@ -1,0 +1,35 @@
+{
+ "char": "𩴉",
+ "head": "𩴉",
+ "pinyin": "yùn",
+ "bus": {
+  "num": 459,
+  "name": "員"
+ },
+ "level": 3,
+ "parent": "員",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“于郡切，音韻，鬼名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：鬼名，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

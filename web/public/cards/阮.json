@@ -1,0 +1,35 @@
+{
+ "char": "阮",
+ "head": "阮",
+ "pinyin": "yuán、ruǎn",
+ "bus": {
+  "num": 454,
+  "name": "元"
+ },
+ "level": 3,
+ "parent": "元",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“代郡五阮關也。从𨸏元聲。虞遠切。”《玉篇》：“山名。”ruǎn，《字彙》：“國名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：關名，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

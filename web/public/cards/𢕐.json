@@ -1,0 +1,38 @@
+{
+ "char": "𢕐",
+ "head": "𢕐（𨁁）",
+ "pinyin": "xuàn",
+ "bus": {
+  "num": 457,
+  "name": "旋"
+ },
+ "level": 3,
+ "aliases": [
+  "𨁁"
+ ],
+ "parent": "旋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𨁁，徐行也。或作𢕐。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：徐行相續，盤旋從容（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

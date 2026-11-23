@@ -1,0 +1,38 @@
+{
+ "char": "䲮",
+ "head": "䲮（䲰）",
+ "pinyin": "yuán、yùn",
+ "bus": {
+  "num": 454,
+  "name": "元"
+ },
+ "level": 3,
+ "parent": "元",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鳥名。”yùn，《正字通》：“䲰字之譌。”䲰，《集韻》：“交廣人謂鴆曰䲰。一曰鳩鴆。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：鳥名，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "䲰"
+ ]
+}

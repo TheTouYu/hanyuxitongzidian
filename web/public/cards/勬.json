@@ -1,0 +1,38 @@
+{
+ "char": "勬",
+ "head": "勬（勌）",
+ "pinyin": "juān",
+ "bus": {
+  "num": 460,
+  "name": "卷"
+ },
+ "level": 3,
+ "aliases": [
+  "勌"
+ ],
+ "parent": "𢍏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“勤也。”《廣韻》：“強健也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：力聚而勤，卷而後健（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

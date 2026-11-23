@@ -1,0 +1,35 @@
+{
+ "char": "𧍭",
+ "head": "𧍭",
+ "pinyin": "quán",
+ "bus": {
+  "num": 456,
+  "name": "泉"
+ },
+ "level": 3,
+ "parent": "泉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“貝白質黃文曰餘𧍭。通作泉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：貝親水濱，文彩清瑩（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

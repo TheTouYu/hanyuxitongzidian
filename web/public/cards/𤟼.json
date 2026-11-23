@@ -1,0 +1,35 @@
+{
+ "char": "𤟼",
+ "head": "𤟼",
+ "pinyin": "hōng",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "parent": "訇",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《搜眞鏡玉》：“音訇。”應指眾犬吠叫。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：眾犬豁然，齊吠有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

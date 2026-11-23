@@ -1,0 +1,35 @@
+{
+ "char": "觠",
+ "head": "觠",
+ "pinyin": "quán",
+ "bus": {
+  "num": 460,
+  "name": "卷"
+ },
+ "level": 3,
+ "parent": "𢍏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“曲角也。从角𢍏聲。巨員切。”《廣雅》：“曲也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：角親其首，曲卷成環（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

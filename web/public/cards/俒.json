@@ -1,0 +1,35 @@
+{
+ "char": "俒",
+ "head": "俒",
+ "pinyin": "hùn",
+ "bus": {
+  "num": 454,
+  "name": "元"
+ },
+ "level": 3,
+ "parent": "完",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“完也。《逸周書》曰：‘朕實不明，以俒伯父。’从人从完。胡困切。”完全。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」不系：完也，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

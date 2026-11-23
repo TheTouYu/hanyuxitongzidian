@@ -1,0 +1,41 @@
+{
+ "char": "鰁",
+ "head": "鰁",
+ "pinyin": "quán",
+ "bus": {
+  "num": 456,
+  "name": "泉"
+ },
+ "level": 3,
+ "parent": "泉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“魚名。”底棲鯉類小魚，多見于東部平原地區。深棕色，有斑紋，口小，生活在淡水中。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：魚親水底，棲而少動（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

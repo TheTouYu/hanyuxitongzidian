@@ -1,0 +1,39 @@
+{
+ "char": "歿",
+ "head": "歿（沒歾）",
+ "pinyin": "mò、wěn",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "aliases": [
+  "沒",
+  "歾"
+ ],
+ "parent": "𠬸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“死也、落也、盡也。今作沒。”wěn，《正字通》：“同歾。”割脖子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：命盡而歿，歸於末路（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "𠣬",
+ "head": "𠣬（𢞛）",
+ "pinyin": "sǔn",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "aliases": [
+  "𢞛"
+ ],
+ "parent": "旬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“驚辭也。从兮旬聲。{{shiyi/01.png}}，𠣬或从心。思允切。”驚懼皃。",
+   "gdir": "inline/𠣬"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：驚而失聲，其辭往復（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

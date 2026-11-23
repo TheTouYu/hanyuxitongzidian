@@ -1,0 +1,35 @@
+{
+ "char": "猻",
+ "head": "猻",
+ "pinyin": "sūn",
+ "bus": {
+  "num": 458,
+  "name": "玄"
+ },
+ "level": 3,
+ "parent": "孫",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“猴猻。”猢猻。小猴子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：小猴收群，跳躍相隨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

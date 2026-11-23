@@ -1,0 +1,35 @@
+{
+ "char": "埢",
+ "head": "埢",
+ "pinyin": "juǎn、quán",
+ "bus": {
+  "num": 460,
+  "name": "卷"
+ },
+ "level": 3,
+ "parent": "卷",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“古轉切，音卷。塚土也。” quán，《集韻》：“限曲也。”“埢垣，曲牆也。”“圜牆也。”圍牆。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：土聚成牆，卷而環繞（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

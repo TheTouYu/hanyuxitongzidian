@@ -1,0 +1,35 @@
+{
+ "char": "𤻆",
+ "head": "𤻆",
+ "pinyin": "wán",
+ "bus": {
+  "num": 454,
+  "name": "元"
+ },
+ "level": 3,
+ "parent": "元",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“五鰥切，音頑。 痺病。”痹病。肢體疼痛或麻木的病。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：痺病，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "char": "䗠",
+ "head": "䗠（蜁）",
+ "pinyin": "xuán",
+ "bus": {
+  "num": 457,
+  "name": "旋"
+ },
+ "level": 3,
+ "aliases": [
+  "蜁"
+ ],
+ "parent": "旋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蟲名，《博雅》：‘沙虱，𧍻䗠也。’或省。”《廣韻》：“蜁蝸，蝸螺也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：螺紋相續，旋繞而上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "鐘螺"
+  }
+ ]
+}

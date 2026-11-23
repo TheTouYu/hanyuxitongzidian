@@ -1,0 +1,35 @@
+{
+ "char": "𨶉",
+ "head": "𨶉",
+ "pinyin": "zhuǎn",
+ "bus": {
+  "num": 458,
+  "name": "玄"
+ },
+ "level": 3,
+ "parent": "孫",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𨷱，或作𨶉，今之兗反。開閉門利也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：門樞總轉，開闔而利（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

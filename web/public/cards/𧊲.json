@@ -1,0 +1,41 @@
+{
+ "char": "𧊲",
+ "head": "𧊲",
+ "pinyin": "quán",
+ "bus": {
+  "num": 452,
+  "name": "全"
+ },
+ "level": 3,
+ "parent": "全",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“音未詳。《顧氏說略》：𧖣𧊲，其形似龍，性好風雨，故用于殿脊上。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：龍親風雨，蟠曲踞脊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

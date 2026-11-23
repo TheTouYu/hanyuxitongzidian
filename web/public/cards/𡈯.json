@@ -1,0 +1,35 @@
+{
+ "char": "𡈯",
+ "head": "𡈯",
+ "pinyin": "biǎn",
+ "bus": {
+  "num": 459,
+  "name": "員"
+ },
+ "level": 3,
+ "parent": "員",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“布選切，音扁。見《南粵志》。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」不系：義闕，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

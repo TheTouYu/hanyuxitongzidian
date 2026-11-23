@@ -1,0 +1,39 @@
+{
+ "char": "霣",
+ "head": "霣（䨶）",
+ "pinyin": "yǔn",
+ "bus": {
+  "num": 459,
+  "name": "員"
+ },
+ "level": 3,
+ "aliases": [
+  "䨶"
+ ],
+ "parent": "員",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“雨也。齊人謂靁為霣。从雨員聲。一曰雲轉起也。{{shiyi/01.png}}，古文霣。於敏切。”《玉篇》：“雷起出雨也。”雷陣雨。《篇海》：“落也。”",
+   "gdir": "inline/霣"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：雷雨，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

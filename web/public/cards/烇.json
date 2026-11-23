@@ -1,0 +1,35 @@
+{
+ "char": "烇",
+ "head": "烇",
+ "pinyin": "quǎn",
+ "bus": {
+  "num": 452,
+  "name": "全"
+ },
+ "level": 3,
+ "parent": "全",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“七選切，音縓。火皃。”火燒而能使物蜷曲，煣之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：火燎物缺，蜷而不伸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𦱁",
+ "head": "𦱁",
+ "pinyin": "xián",
+ "bus": {
+  "num": 458,
+  "name": "玄"
+ },
+ "level": 3,
+ "parent": "弦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“艸也。从艸弦聲。胡田切。”草名。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」不系：草名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

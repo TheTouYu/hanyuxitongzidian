@@ -1,0 +1,35 @@
+{
+ "char": "𢳄",
+ "head": "𢳄",
+ "pinyin": "xuàn、xuán",
+ "bus": {
+  "num": 457,
+  "name": "旋"
+ },
+ "level": 3,
+ "parent": "旋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“手挑物。”《玉篇》：“長引也。”xuán，《集韻》：“引也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：手引相續，挑而旋轉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

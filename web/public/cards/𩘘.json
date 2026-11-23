@@ -1,0 +1,35 @@
+{
+ "char": "𩘘",
+ "head": "𩘘",
+ "pinyin": "quán",
+ "bus": {
+  "num": 456,
+  "name": "泉"
+ },
+ "level": 3,
+ "parent": "泉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“音泉。”《五侯鯖字海·風部》：“風也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：風親穴口，泠然而出（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

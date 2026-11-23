@@ -1,0 +1,39 @@
+{
+ "char": "浣",
+ "head": "浣（𤃬）",
+ "pinyin": "huàn",
+ "bus": {
+  "num": 454,
+  "name": "元"
+ },
+ "level": 3,
+ "aliases": [
+  "𤃬"
+ ],
+ "parent": "完",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𤃬，濯衣垢也。从水𧹳聲。{{shiyi/01.png}}，𤃬或从完。胡玩切。”漂洗衣服。應指在河邊石頭上用木槌捶洗衣服，故从“完”，梡意。",
+   "gdir": "inline/浣"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：水活滌垢，捶洗而淨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

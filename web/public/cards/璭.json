@@ -1,0 +1,38 @@
+{
+ "char": "璭",
+ "head": "璭（琯）",
+ "pinyin": "guǎn",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "aliases": [
+  "琯"
+ ],
+ "parent": "軍",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“琯，治金玉使瑩曰琯。或从運。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「估」：玉瑩可估，磨而見光（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

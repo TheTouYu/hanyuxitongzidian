@@ -1,0 +1,35 @@
+{
+ "char": "嫙",
+ "head": "嫙",
+ "pinyin": "xuán",
+ "bus": {
+  "num": 457,
+  "name": "旋"
+ },
+ "level": 3,
+ "parent": "旋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“好也。从女旋聲。似沿切。”《集韻》：“美謂之嫙。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：女美相續，婉轉而生（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

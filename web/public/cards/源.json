@@ -1,0 +1,38 @@
+{
+ "char": "源",
+ "head": "源（厵）",
+ "pinyin": "yuán",
+ "bus": {
+  "num": 456,
+  "name": "泉"
+ },
+ "level": 3,
+ "aliases": [
+  "厵"
+ ],
+ "parent": "原",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“厵，《說文》：‘水泉本也。’或从泉，亦作原、源。一曰再也。又姓，亦州名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：水源，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

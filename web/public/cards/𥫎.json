@@ -1,0 +1,35 @@
+{
+ "char": "𥫎",
+ "head": "𥫎",
+ "pinyin": "dòng",
+ "bus": {
+  "num": 459,
+  "name": "員"
+ },
+ "level": 3,
+ "parent": "員",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“徒凍切。鍾聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：鐘聲動盪，迴旋而響（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "拴",
+ "head": "拴",
+ "pinyin": "shuān、quán",
+ "bus": {
+  "num": 452,
+  "name": "全"
+ },
+ "level": 3,
+ "parent": "全",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“系；綁；連接。”“用閂插上。”“門閂。”quán，《集韻》：“揀也。通作詮、銓。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：手收其物，繫而勿失（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

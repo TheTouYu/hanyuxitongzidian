@@ -1,0 +1,35 @@
+{
+ "char": "痊",
+ "head": "痊",
+ "pinyin": "quán",
+ "bus": {
+  "num": 452,
+  "name": "全"
+ },
+ "level": 3,
+ "parent": "全",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“病瘳也。”《集韻》：“病除也。”病好了，恢復健康。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：病癒親安，體復如初（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

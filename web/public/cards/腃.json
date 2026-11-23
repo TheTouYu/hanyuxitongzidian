@@ -1,0 +1,35 @@
+{
+ "char": "腃",
+ "head": "腃",
+ "pinyin": "kuì、quán、juàn",
+ "bus": {
+  "num": 460,
+  "name": "卷"
+ },
+ "level": 3,
+ "parent": "卷",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“丘媿切，音喟。筋節急也。” quán，《集韻》：“吻也。”嘴唇。 quān、juàn，《集韻》：“驅圓切，音卷。身曲皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：筋控其節，急而身曲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ]
+}

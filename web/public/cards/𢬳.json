@@ -1,0 +1,44 @@
+{
+ "char": "𢬳",
+ "head": "𢬳（揬）",
+ "pinyin": "tū",
+ "bus": {
+  "num": 455,
+  "name": "兀"
+ },
+ "level": 3,
+ "parent": "秃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“杖指也。”《正字通》：“俗揬字。”拐杖手握处曲如禾穗。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：杖指突出，曲如穗垂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ],
+ "aliases": [
+  "揬"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "駨",
+ "head": "駨（駽）",
+ "pinyin": "xún、xuān",
+ "bus": {
+  "num": 451,
+  "name": "回"
+ },
+ "level": 3,
+ "parent": "旬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《海篇》：“𩣺駨，馬走皃。”xuān，《集韻》：“馬靑驪謂之駨。或作駽。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：馬走相續，盤旋不歇（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "駽"
+ ]
+}

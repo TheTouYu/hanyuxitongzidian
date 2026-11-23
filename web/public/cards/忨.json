@@ -1,27 +1,28 @@
 {
  "char": "忨",
- "pinyin": "wàn",
+ "head": "忨",
+ "pinyin": "wán、wàn",
  "bus": {
   "num": 454,
   "name": "元"
  },
+ "level": 3,
+ "parent": "元",
  "sections": [
   {
-   "key": "shengmu",
-   "label": "声母义",
-   "text": "零聲母（今讀 wàn），绪论七组未列，不系（照實）。",
-   "cites": []
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“貪也。从心元聲。《春秋傳》曰：‘忨歲而㵣日。’五換切。”貪欲。"
   },
   {
-   "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：貪欲，聲無所系（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
-   "text": "卷七十五叀",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -30,16 +31,5 @@
     }
    ]
   }
- ],
- "parent": "",
- "aliases": [
-  "今",
-  "讀",
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "忨"
+ ]
 }

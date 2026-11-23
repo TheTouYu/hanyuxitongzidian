@@ -1,0 +1,39 @@
+{
+ "char": "勛",
+ "head": "勛（勳）",
+ "pinyin": "xūn",
+ "bus": {
+  "num": 459,
+  "name": "員"
+ },
+ "level": 3,
+ "parent": "員",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“勳，能成王功也。从力熏聲。{{shiyi/01.png}}，古文勳从員。許雲切。”大功勞。",
+   "gdir": "inline/勛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：功業相續，圓滿而成（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十五叀",
+     "label": "卷七十五叀"
+    }
+   ]
+  }
+ ],
+ "aliases": [
+  "勳"
+ ]
+}
