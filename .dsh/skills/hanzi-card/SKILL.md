@@ -421,12 +421,14 @@ JSON 结构：
 | `check-family.py` / `check-groups.py` / `check-prefix.py` | 族表/组题/栏文重复前缀单点检查 | 抽查 |
 | `check-photos.py` | 有图无注/空图注统计 | 图片批次后 |
 | `tools/audit-photos.py --doc <卷.docx>` | **全卷插图总账**：逐部数原稿独立图片段 vs 该部各字 photos，列未落位/断链/自造图注 | 整卷收尾必跑 |
+| `tools/check-spa-render.mjs <字…>` / `--buses 371-379` / `--all` | **站内 SPA 渲染体检**：stub DOM 跑 `index.html` 的 `cardBody`，抓「整页只报 `(s \|\| "").replace is not a function`」这类 verify-card 抓不到的数据形状错（典型：族表行多包一层，`row[3]` 是 list） | 每部建完、页检前必跑；新部 `bad 0` |
 | `check-cards.py` | 全库结构总量（有历史欠账，不当新卡闸门） | 只看新卡有无新增类型 |
 
 ### 8.5 页面核验
 
 - `/card/<部头>` 的 `<figcaption>` 数 = `chars[本字].files` 数 + `extra[]` 各字 files 数 + `cimgs` 数 + 顶层 `photos` 数。
 - **两种渲染都要看，只 curl `/card/<字>` 会假通过**：`/card/<字>` 是服务端渲染（`web/server.mjs`，认 `extra`），站内点字走 SPA（`web/public/index.html` 的 `cardBody`）。2026-11-22 𡪛 就是「curl 24 图、浏览器 0 图」：SPA 当时只读 `files`、不认 `extra`，页头只剩「（字形库未收本字古文字形）」。认定页检通过，必须两条都实测；SPA 那条至少用真实 `glyphs/index.json` 跑一遍 `gxc(字).length`，并确认 `/` 返回的 HTML 里带 `gxc`。
+- **SPA 整页报错有机器闸门**：`node tools/check-spa-render.mjs --buses <部号段>`（或 `--all`）用 stub DOM 真跑 `cardBody`，`bad 0` 才算过。2026-11-23 宿 就是族表两行被多包一层（`row[3]` 是 list），`esc()` 拿到非字符串 → 整页只剩「[异步出错] (s || "").replace is not a function」，而 `verify-card`（E042 只查行长度 4）与 curl 都过。
 - `{{` 残留 = 0；照片/字形 `<img>` 全 200；族卡页有「釋義」「聲母擬態」两栏；简体/异体路由 200。
 - 服务启动（必须后台 job，`Start-Process` 会被回收）：
 
@@ -580,9 +582,11 @@ $env:PYTHONIOENCODING='utf-8'
 .runtime\python\python.exe tools\check-shiyi.py            # checked N violations 0
 .runtime\python\python.exe tools\build-card-index.py       # index N / alias M
 .runtime\python\python.exe tools\audit-photos.py --doc "D:/字谱智能体/卷五十四  网.docx"   # 整卷：未落位 0
+node tools/check-spa-render.mjs --buses 311-311   # 站内 SPA：checked N bad 0
 ```
 
 - 页检：`/card/<部头>` 图注数 = 字形+參證+插图；`{{` 残留 0；简体/异体路由 200。
+- **站内 SPA 渲染**：`node tools/check-spa-render.mjs --buses <部号段>` 必须 `bad 0`（它真跑 `cardBody`；族表行多包一层会让整页只报 `(s || "").replace is not a function`，而 verify/curl 都不拦）。
 - 讹字行：`check-rows-cards` missing 0；每张讹字卡 `noRoot:true`、`ezi` 组题照录、父卡行无 `——`；卡页 200、无断图（行首字若是正字别名，页图可能借正字卡的，逐张点开看 200）。
 - **插图四处齐**：卡 `photos`、`glyphs/index.json` 顶层 `photos`、`photos/index.json`、`photos/captions.json`；`verify-card --photo-strict` 的 E057 = 0。**整卷收尾**再跑一次 `tools/audit-photos.py`，确认原稿每个独立图片段都落位（2026-11-22 卷五十四就是逐部补图时漏了卷首两图）。
 - 字形：`verify-card` 的 E056 = 0（没有现代字混进古文字形序列）；有则按 §3.6 归位。

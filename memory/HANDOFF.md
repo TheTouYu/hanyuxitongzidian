@@ -169,6 +169,21 @@
 - `variants` 只改 `cards/variants.json`，root 由 `build-card-index.py` 生成；索引只由脚本重建一次。
 - 提交只按路径 `git add`；HEAD 前移后先重读文件，禁止用旧快照写回。
 
+### 10. 族表行被多包一层 → 站内 SPA 整页报错（2026-11-23 宿）
+**认定（证据）**
+- 「宿」字页在浏览器里只剩 `[异步出错] (s || "").replace is not a function`，正文空；而 `/card/宿`（服务端渲染）17 图正常、`verify-card --bu 㐁` PASS、`check-rows-cards` PASS。
+- 根因数据：`宿.json` 的 zizu 有两行是 `[label,pinyin,cls,[label,pinyin,cls,text]]`——生成脚本写成了 `[lb,py,cls,zrow(...)]`，`zrow()` 本身已返回四格行，于是多包一层；同类错误当次共 17 张父卡 260 行，`fix_rows63` 修掉后，`fix_su_rows` 又把这两行写回嵌套。
+- 为什么没拦住：`verify-card` 的 E042 只查「行是 4 格」，外层正好 4 格；E082/E080 把行 `str()` 后看字符串，也照样过。`curl /card/<字>` 走服务端渲染，`r[3]` 被当对象也照印。
+
+**根因**
+- 行构造有两套写法（`zrow()` 返回整行 vs `[lb,py,cls,text]`），脚本里混用；没有机器检查「行元素是否都是字符串」。
+- 页检只做服务端 + gxc 计数，没真跑 `cardBody`。
+
+**加固**
+- 行统一由 `zrow()` 返回整行，父卡 `rows` 直接塞它，不再套 `[lb,py,cls,zrow(...)]`。
+- 新增闸门 `tools/check-spa-render.mjs`（stub DOM 跑 `index.html` 的 `cardBody`；`--buses 371-379` / `--all`；有 THROW/EMPTY/TABLE-ERR 即 exit 1）。**每部建完、页检前必跑，bad 0**。
+- 已用「注入嵌套行」回归验证：该工具能复现 `(s || "").replace is not a function` 并 exit 1；修复后全库 17800 卡 bad 0。
+
 ## 三、待办（按优先级）
 
 0. **421–430 已完成**（`15988bc69`，277 卡）：盡 已在 174 尹部、隸 已在 10 示部，只录行未建双卡；43 行 E080 只录原文待主人点名；下一步 **441 豩部**（`卷七十三  釆.docx`；380 劦部仍待建）。
