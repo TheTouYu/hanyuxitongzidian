@@ -1,0 +1,35 @@
+{
+ "char": "嵈",
+ "head": "嵈",
+ "pinyin": "huàn",
+ "bus": {
+  "num": 479,
+  "name": "爰"
+ },
+ "level": 3,
+ "parent": "爰",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“山名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」不系：原文止云山名，無物性可述，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

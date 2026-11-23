@@ -1,0 +1,35 @@
+{
+ "char": "鎱",
+ "head": "鎱",
+ "pinyin": "yuán",
+ "bus": {
+  "num": 478,
+  "name": "袁"
+ },
+ "level": 3,
+ "parent": "袁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“音袁。人名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：金旁一字，書中只作人名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

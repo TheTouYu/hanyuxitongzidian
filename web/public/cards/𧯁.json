@@ -1,0 +1,38 @@
+{
+ "char": "𧯁",
+ "head": "𧯁（𧯂𧮶）",
+ "pinyin": "hóu",
+ "bus": {
+  "num": 477,
+  "name": "侯"
+ },
+ "level": 3,
+ "aliases": [
+  "𧯂"
+ ],
+ "parent": "侯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𧮶，胡溝切，音侯。谷名，在成皋。亦作𧯁、𧯂。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：成皋谷名，形勢無徵（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

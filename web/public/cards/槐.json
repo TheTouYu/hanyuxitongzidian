@@ -1,0 +1,35 @@
+{
+ "char": "槐",
+ "head": "槐",
+ "pinyin": "huái",
+ "bus": {
+  "num": 471,
+  "name": "鬼"
+ },
+ "level": 3,
+ "parent": "鬼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“木也。从木鬼聲。戶恢切。”樹名。《正字通》：“木高大葉細。”或指續斷。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：葉密如蓋，夏蔭行人（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

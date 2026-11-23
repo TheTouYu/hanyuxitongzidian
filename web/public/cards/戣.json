@@ -1,0 +1,38 @@
+{
+ "char": "戣",
+ "head": "戣（鍨）",
+ "pinyin": "kuí",
+ "bus": {
+  "num": 473,
+  "name": "癸"
+ },
+ "level": 3,
+ "aliases": [
+  "鍨"
+ ],
+ "parent": "癸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“《周禮》：侍臣執戣，立于東垂。兵也。从戈癸聲。渠追切。”三鋒矛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：長柄可持，挺刺向前（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

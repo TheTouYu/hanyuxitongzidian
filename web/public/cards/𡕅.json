@@ -1,0 +1,35 @@
+{
+ "char": "𡕅",
+ "head": "𡕅",
+ "pinyin": "huán",
+ "bus": {
+  "num": 478,
+  "name": "袁"
+ },
+ "level": 3,
+ "parent": "睘",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“按寰州為河東化外地。六書無𡕅，譌作𡕅，非。”“寰”的訛字。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」不系：𡕅為寰州地名之譌，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𣦌",
+ "head": "𣦌",
+ "pinyin": "yì",
+ "bus": {
+  "num": 473,
+  "name": "癸"
+ },
+ "level": 3,
+ "parent": "癸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五音篇海》：“音詣。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：原稿僅存音切，義闕，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

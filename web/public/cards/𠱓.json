@@ -1,0 +1,35 @@
+{
+ "char": "𠱓",
+ "head": "𠱓",
+ "pinyin": "guǐ",
+ "bus": {
+  "num": 474,
+  "name": "危"
+ },
+ "level": 3,
+ "parent": "厃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𠱓詐也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：所言與實相隔，聽者難辨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

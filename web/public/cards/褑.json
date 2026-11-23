@@ -1,0 +1,38 @@
+{
+ "char": "褑",
+ "head": "褑（褤）",
+ "pinyin": "yuàn、yuán",
+ "bus": {
+  "num": 479,
+  "name": "爰"
+ },
+ "level": 3,
+ "aliases": [
+  "褤"
+ ],
+ "parent": "爰",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“佩衿也。”衣襟上佩玉的帶子。yuán，《集韻》：“衣也。或从袁。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：絲繩寸許，綴玉於襟，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

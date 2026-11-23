@@ -1,0 +1,35 @@
+{
+ "char": "噮",
+ "head": "噮",
+ "pinyin": "yuàn",
+ "bus": {
+  "num": 478,
+  "name": "袁"
+ },
+ "level": 3,
+ "parent": "睘",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“噮，甘不厭也。”味道很好。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：滋味之美，食者屢求，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

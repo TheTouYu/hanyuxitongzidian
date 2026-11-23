@@ -1,0 +1,38 @@
+{
+ "char": "䳧",
+ "head": "䳧（𪃶）",
+ "pinyin": "hóu",
+ "bus": {
+  "num": 477,
+  "name": "侯"
+ },
+ "level": 3,
+ "aliases": [
+  "𪃶"
+ ],
+ "parent": "侯",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“鵰也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：展翼盤空，下撲獵物（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "溾",
+ "head": "溾",
+ "pinyin": "wēi",
+ "bus": {
+  "num": 471,
+  "name": "鬼"
+ },
+ "level": 3,
+ "parent": "鬼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“溾浽，穢濁。”“回淵。”《玉篇》：“沒也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：迴流成淵，投物即沉，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

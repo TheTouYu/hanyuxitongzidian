@@ -1,0 +1,35 @@
+{
+ "char": "䈠",
+ "head": "䈠",
+ "pinyin": "yuàn、huǎn",
+ "bus": {
+  "num": 479,
+  "name": "爰"
+ },
+ "level": 3,
+ "parent": "爰",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“斷竹也。”huǎn，《廣韻》：“𥮩䈠，簡也。”竹簡。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：竹片削薄，墨可著之，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

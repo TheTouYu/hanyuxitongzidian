@@ -1,0 +1,35 @@
+{
+ "char": "暖",
+ "head": "暖",
+ "pinyin": "nuǎn、xuān",
+ "bus": {
+  "num": 479,
+  "name": "爰"
+ },
+ "level": 3,
+ "parent": "爰",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“温也。”xuān，《集韻》：“柔婉皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：向陽之室，受熱而藏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

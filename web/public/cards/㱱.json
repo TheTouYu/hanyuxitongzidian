@@ -1,0 +1,35 @@
+{
+ "char": "㱱",
+ "head": "㱱",
+ "pinyin": "huì",
+ "bus": {
+  "num": 471,
+  "name": "鬼"
+ },
+ "level": 3,
+ "parent": "鬼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“㱱㱣，不平也。”《集韻》：“㱱㱣，不知皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：地面陷落，一步一顛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

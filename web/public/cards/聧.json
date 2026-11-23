@@ -1,0 +1,35 @@
+{
+ "char": "聧",
+ "head": "聧",
+ "pinyin": "kuī",
+ "bus": {
+  "num": 473,
+  "name": "癸"
+ },
+ "level": 3,
+ "parent": "癸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“耳不相聽也。又私叶也。”耳聾。或指私下協商。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "k「口控」取「控」：竅閉不通，呼之不應（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㛱",
+ "head": "㛱",
+ "pinyin": "wěi",
+ "bus": {
+  "num": 471,
+  "name": "鬼"
+ },
+ "level": 3,
+ "parent": "畏",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“㛱娞，好皃。”《集韻》：“㛱娞，姸也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：女子容貌美好，其色悅目，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

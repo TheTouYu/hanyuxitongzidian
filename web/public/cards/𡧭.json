@@ -1,0 +1,35 @@
+{
+ "char": "𡧭",
+ "head": "𡧭",
+ "pinyin": "guì、guǐ",
+ "bus": {
+  "num": 474,
+  "name": "危"
+ },
+ "level": 3,
+ "parent": "厃",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“毀也。”guǐ，《集韻》：“通也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：棟樑既拆，上下相隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

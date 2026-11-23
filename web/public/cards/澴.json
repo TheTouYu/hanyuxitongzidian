@@ -1,0 +1,38 @@
+{
+ "char": "澴",
+ "head": "澴（㶎）",
+ "pinyin": "huán、xuàn",
+ "bus": {
+  "num": 478,
+  "name": "袁"
+ },
+ "level": 3,
+ "aliases": [
+  "㶎"
+ ],
+ "parent": "睘",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“水名。一曰漩澴，水濆起皃。或从還。”“漩澴，波湧起皃。”xuàn，《集韻》：“聚流也。”“眾流皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：晝夜奔流，未嘗止息（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十八夒",
+     "label": "卷七十八夒"
+    }
+   ]
+  }
+ ]
+}

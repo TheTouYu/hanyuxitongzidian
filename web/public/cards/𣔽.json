@@ -1,0 +1,35 @@
+{
+ "char": "𣔽",
+ "head": "𣔽",
+ "pinyin": "jì",
+ "bus": {
+  "num": 473,
+  "name": "癸"
+ },
+ "level": 3,
+ "parent": "癸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“武玄之曰：木下垂皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：葉聚梢頭，壓而下墜（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}

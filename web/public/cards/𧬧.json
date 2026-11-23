@@ -1,0 +1,35 @@
+{
+ "char": "𧬧",
+ "head": "𧬧",
+ "pinyin": "chuáng",
+ "bus": {
+  "num": 473,
+  "name": "癸"
+ },
+ "level": 3,
+ "parent": "癸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“宅江切，音幢。質也。”質詢，驗證。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：一語直入，刺中其隱（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十七蛙",
+     "label": "卷七十七蛙"
+    }
+   ]
+  }
+ ]
+}
