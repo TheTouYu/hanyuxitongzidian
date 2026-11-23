@@ -1,0 +1,35 @@
+{
+ "char": "𡣁",
+ "head": "𡣁",
+ "pinyin": "nì",
+ "bus": {
+  "num": 560,
+  "name": "孨"
+ },
+ "level": 3,
+ "parent": "孨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㛕𡣁，婦皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：婦容柔順，納而不抗（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

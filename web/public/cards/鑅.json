@@ -1,0 +1,35 @@
+{
+ "char": "鑅",
+ "head": "鑅（鍠）",
+ "pinyin": "héng",
+ "bus": {
+  "num": 554,
+  "name": "𤇾"
+ },
+ "level": 3,
+ "parent": "榮",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鐘聲。或从皇。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：鐘體中空，叩之豁然（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

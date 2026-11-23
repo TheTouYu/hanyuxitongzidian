@@ -1,0 +1,40 @@
+{
+ "char": "辤",
+ "head": "辤（辝辭辭）",
+ "pinyin": "cí",
+ "aliases": [
+  "辝",
+  "辭"
+ ],
+ "bus": {
+  "num": 556,
+  "name": "辛"
+ },
+ "level": 3,
+ "parent": "䇂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“不受也。从辛从受。受辛宜辭之。{{shiyi/01.png}}，籀文辭从台。似茲切。”推辭不受。",
+   "gdir": "inline/辤"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：推讓之際，守己意而不移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

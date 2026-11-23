@@ -1,0 +1,35 @@
+{
+ "char": "𢟰",
+ "head": "𢟰",
+ "pinyin": "ài",
+ "bus": {
+  "num": 556,
+  "name": "辛"
+ },
+ "level": 3,
+ "parent": "豙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“忦𢟰，吝也。”慳吝。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：一毛不拔，心堅而難動（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "㹽",
+ "head": "㹽",
+ "pinyin": "chǎn",
+ "bus": {
+  "num": 559,
+  "name": "戔"
+ },
+ "level": 3,
+ "parent": "戔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齧也。从犬戔聲。初版切。”狗咬人。《玉篇》：“犬食也。” 小口之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：細口深噬，刺入而後已（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

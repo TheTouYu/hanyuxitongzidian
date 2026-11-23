@@ -1,0 +1,35 @@
+{
+ "char": "㜰",
+ "head": "㜰",
+ "pinyin": "yuè",
+ "bus": {
+  "num": 555,
+  "name": "樂"
+ },
+ "level": 3,
+ "parent": "樂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“美好也。”《集韻》：“弋灼切，音藥。美皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：女色美好，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

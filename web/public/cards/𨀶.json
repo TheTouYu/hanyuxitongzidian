@@ -1,0 +1,35 @@
+{
+ "char": "𨀶",
+ "head": "𨀶（旡）",
+ "pinyin": "jì",
+ "bus": {
+  "num": 551,
+  "name": "亦"
+ },
+ "level": 3,
+ "parent": "亦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《搜眞玉鏡》：“同旡。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：氣逆上行，噎而復決（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

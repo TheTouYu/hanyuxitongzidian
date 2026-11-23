@@ -1,0 +1,38 @@
+{
+ "char": "嵤",
+ "head": "嵤（巆嶸）",
+ "pinyin": "yíng、róng",
+ "aliases": [
+  "巆"
+ ],
+ "bus": {
+  "num": 554,
+  "name": "𤇾"
+ },
+ "level": 3,
+ "parent": "𤇾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正韻》：“嶺嵤，山深皃。或从營。”róng，《集韻》：“嶸，崢嶸，山皃。或省。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：峰巒重疊，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

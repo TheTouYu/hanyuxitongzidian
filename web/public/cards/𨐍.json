@@ -1,0 +1,35 @@
+{
+ "char": "𨐍",
+ "head": "𨐍（莘）",
+ "pinyin": "shēn",
+ "bus": {
+  "num": 556,
+  "name": "辛"
+ },
+ "level": 3,
+ "parent": "䇂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“與莘同。國名也。見《路史·國名記》。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：莘為國名，其地已失（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

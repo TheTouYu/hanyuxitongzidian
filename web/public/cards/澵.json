@@ -1,0 +1,35 @@
+{
+ "char": "澵",
+ "head": "澵",
+ "pinyin": "zhēn",
+ "bus": {
+  "num": 556,
+  "name": "辛"
+ },
+ "level": 3,
+ "parent": "新",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“瀙字之譌。舊註音臻，水在鄭。按水在鄭者，本作溱。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：鄭地之水，眾流所總（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

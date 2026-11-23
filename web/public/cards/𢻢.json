@@ -1,0 +1,35 @@
+{
+ "char": "𢻢",
+ "head": "𢻢",
+ "pinyin": "liǎo",
+ "bus": {
+  "num": 552,
+  "name": "尞"
+ },
+ "level": 3,
+ "parent": "尞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“小長皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：體小而細，與粗大相離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

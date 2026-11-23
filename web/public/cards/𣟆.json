@@ -1,0 +1,35 @@
+{
+ "char": "𣟆",
+ "head": "𣟆",
+ "pinyin": "liáo",
+ "bus": {
+  "num": 552,
+  "name": "尞"
+ },
+ "level": 3,
+ "parent": "尞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗橑字。舊註音遼，柏木，誤。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：眾材並列，聚於一梁（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

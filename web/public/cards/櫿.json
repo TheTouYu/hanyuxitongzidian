@@ -1,0 +1,35 @@
+{
+ "char": "櫿",
+ "head": "櫿",
+ "pinyin": "yíng",
+ "bus": {
+  "num": 554,
+  "name": "𤇾"
+ },
+ "level": 3,
+ "parent": "𤇾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“木名。”疑即“榮”。其籽可榨作燈油。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：籽肥可壓，聲不相系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

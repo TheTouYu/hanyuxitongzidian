@@ -1,0 +1,39 @@
+{
+ "char": "療",
+ "head": "療（𤻲疗）",
+ "pinyin": "liáo、shuò",
+ "aliases": [
+  "疗"
+ ],
+ "bus": {
+  "num": 552,
+  "name": "尞"
+ },
+ "level": 3,
+ "parent": "尞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𤻲，治也。从疒，樂聲。{{shiyi/01.png}}，或从尞。力照切。”中醫的艾灸、拔火罐等，都是用火治病的古老方法。shuò，《集韻》：“𤻲，《博雅》：‘病也。’或作療。”",
+   "gdir": "inline/療"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：一處聚熱，專攻病所（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

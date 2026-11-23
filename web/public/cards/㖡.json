@@ -1,0 +1,35 @@
+{
+ "char": "㖡",
+ "head": "㖡",
+ "pinyin": "yè",
+ "bus": {
+  "num": 551,
+  "name": "亦"
+ },
+ "level": 3,
+ "parent": "夜",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《埤雅》：“凡鳥朝鳴曰嘲，夜鳴曰㖡。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：字从口旁，專記禽音（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

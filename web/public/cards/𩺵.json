@@ -1,0 +1,38 @@
+{
+ "char": "𩺵",
+ "head": "𩺵（𩷔）",
+ "pinyin": "shēn",
+ "aliases": [
+  "𩷔"
+ ],
+ "bus": {
+  "num": 556,
+  "name": "辛"
+ },
+ "level": 3,
+ "parent": "䇂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“魚名，長尾皃。或省。𩷔通作莘。”《廣韻》：“魚尾長也。”指魚的尾刺多而細長。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：眾刺攢生，聚於一尾（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

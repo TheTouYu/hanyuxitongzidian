@@ -1,0 +1,35 @@
+{
+ "char": "𨴐",
+ "head": "𨴐",
+ "pinyin": "shèn",
+ "bus": {
+  "num": 558,
+  "name": "先"
+ },
+ "level": 3,
+ "parent": "先",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“守門也。”《五音集韻》：“所陣切，音阠。生澀不滑皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：啟閉由己，收其出入（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

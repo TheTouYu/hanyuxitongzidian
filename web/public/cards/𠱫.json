@@ -1,0 +1,39 @@
+{
+ "char": "𠱫",
+ "head": "𠱫（𥩮）",
+ "pinyin": "è",
+ "aliases": [
+  "𥩮"
+ ],
+ "bus": {
+  "num": 556,
+  "name": "辛"
+ },
+ "level": 3,
+ "parent": "䇂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“語相訶歫也。从口歫䇂。䇂，惡聲也。讀若櫱。五葛切。”應即“言”字。甲骨文作{{shiyi/01.png}}、{{shiyi/02.png}}、{{shiyi/03.png}}、{{shiyi/04.png}}、{{shiyi/05.png}}、{{shiyi/06.png}}（《古》），《釋義》：“由‘口’和往人身上刺字的‘䇂’組成。會意說出的話像刀一樣刺傷人。”",
+   "gdir": "inline/𠱫"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "e「零聲母」不系：張口相詈，聲氣逼人（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

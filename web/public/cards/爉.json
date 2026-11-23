@@ -1,0 +1,35 @@
+{
+ "char": "爉",
+ "head": "爉",
+ "pinyin": "là、liè",
+ "bus": {
+  "num": 553,
+  "name": "巤"
+ },
+ "level": 3,
+ "parent": "巤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“火皃。”liè，《集韻》：“火聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：火舌攢聚成束，其勢猛烈（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𠪌",
+ "head": "𠪌（庶）",
+ "pinyin": "shù",
+ "bus": {
+  "num": 551,
+  "name": "亦"
+ },
+ "level": 3,
+ "parent": "亦",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“古文庶字。”“庶”本从“火”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：人雜事繁，斂於一處（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

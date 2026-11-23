@@ -1,0 +1,35 @@
+{
+ "char": "𩟩",
+ "head": "𩟩",
+ "pinyin": "liáo",
+ "bus": {
+  "num": 552,
+  "name": "尞"
+ },
+ "level": 3,
+ "parent": "尞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“音無考。餌也。”糕餅。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：粉麥和水，聚而成團（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

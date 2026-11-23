@@ -1,0 +1,40 @@
+{
+ "char": "瀠",
+ "head": "瀠（瀯濚濴）",
+ "pinyin": "yíng",
+ "aliases": [
+  "瀯",
+  "濚",
+  "濴"
+ ],
+ "bus": {
+  "num": 554,
+  "name": "𤇾"
+ },
+ "level": 3,
+ "parent": "𤇾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“瀯，澴瀯，水回皃。或从縈、从滎。从榮。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：渦流旋轉，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𠜎",
+ "head": "𠜎",
+ "pinyin": "xiàn",
+ "bus": {
+  "num": 558,
+  "name": "先"
+ },
+ "level": 3,
+ "parent": "先",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“閹過的雞。粵語。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：雄氣已消，鳴亦不揚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

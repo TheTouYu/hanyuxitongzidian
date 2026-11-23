@@ -1,0 +1,35 @@
+{
+ "char": "𧮺",
+ "head": "𧮺",
+ "pinyin": "shàn、zhàn",
+ "bus": {
+  "num": 559,
+  "name": "戔"
+ },
+ "level": 3,
+ "parent": "戔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“仕諫切。谷名。在上艾。一曰在成皋。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：地名止存一谷，義無所收（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十二辛",
+     "label": "卷九十二辛"
+    }
+   ]
+  }
+ ]
+}

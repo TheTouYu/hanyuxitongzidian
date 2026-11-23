@@ -1,0 +1,41 @@
+{
+ "char": "𤄶",
+ "head": "𤄶",
+ "pinyin": "yào、shuò",
+ "bus": {
+  "num": 555,
+  "name": "樂"
+ },
+ "level": 3,
+ "parent": "樂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“水名。一曰水動皃。通作濼。” shuò，《集韻》：“濼，艸名。《爾雅》：‘濼，貫眾。’或从艸。”莖如琴弦，葉如撥片。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：其流不息，音從喉出（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "大葉貫眾"
+  }
+ ]
+}

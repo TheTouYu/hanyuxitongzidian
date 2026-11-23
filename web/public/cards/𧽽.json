@@ -1,0 +1,35 @@
+{
+ "char": "𧽽",
+ "head": "𧽽",
+ "pinyin": "liáo",
+ "bus": {
+  "num": 552,
+  "name": "尞"
+ },
+ "level": 3,
+ "parent": "尞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“落迢切，音遼。腳長皃。”《正字通》：“遼字之譌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：兩足相去遠，步幅自闊（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

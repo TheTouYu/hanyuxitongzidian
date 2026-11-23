@@ -1,0 +1,39 @@
+{
+ "char": "𤻲",
+ "head": "𤻲（療疗）",
+ "pinyin": "liáo",
+ "aliases": [
+  "疗"
+ ],
+ "bus": {
+  "num": 555,
+  "name": "樂"
+ },
+ "level": 3,
+ "parent": "樂",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“治也。从疒樂聲。{{shiyi/01.png}}，或从尞。力照切。”醫治。《集韻》：“病消曰𤻲。”",
+   "gdir": "inline/𤻲"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：疾在身中，一逐即離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}

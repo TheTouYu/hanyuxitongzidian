@@ -1,0 +1,35 @@
+{
+ "char": "䲏",
+ "head": "䲏",
+ "pinyin": "láo",
+ "bus": {
+  "num": 554,
+  "name": "𤇾"
+ },
+ "level": 3,
+ "parent": "勞",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“魚名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：魚行撥水，擺尾而離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十一火",
+     "label": "卷九十一火"
+    }
+   ]
+  }
+ ]
+}
