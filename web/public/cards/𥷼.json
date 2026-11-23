@@ -1,0 +1,35 @@
+{
+ "char": "𥷼",
+ "head": "𥷼",
+ "pinyin": "cù",
+ "bus": {
+  "num": 407,
+  "name": "足"
+ },
+ "level": 3,
+ "parent": "足",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“笡，逆槍也。”掌子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「持」：竹杖在手，持之拄地（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

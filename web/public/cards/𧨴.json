@@ -1,0 +1,35 @@
+{
+ "char": "𧨴",
+ "head": "𧨴",
+ "pinyin": "zì",
+ "bus": {
+  "num": 403,
+  "name": "史"
+ },
+ "level": 3,
+ "parent": "史",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“言入也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：如鑿穿石，直透其裏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

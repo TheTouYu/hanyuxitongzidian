@@ -1,0 +1,35 @@
+{
+ "char": "捹",
+ "head": "捹",
+ "pinyin": "bèn",
+ "bus": {
+  "num": 408,
+  "name": "步"
+ },
+ "level": 3,
+ "parent": "奔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蒲悶切，音坌。手亂皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「剥」：指掌剝物，往來無定（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

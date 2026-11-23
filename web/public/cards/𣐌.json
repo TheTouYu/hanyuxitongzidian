@@ -1,0 +1,39 @@
+{
+ "char": "𣐌",
+ "head": "𣐌（𣓜𤴜梳）",
+ "pinyin": "shū",
+ "bus": {
+  "num": 407,
+  "name": "足"
+ },
+ "level": 3,
+ "aliases": [
+  "𣓜",
+  "𤴜"
+ ],
+ "parent": "疋",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《類篇》：“同梳。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：梳齒疏列，理亂使順（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

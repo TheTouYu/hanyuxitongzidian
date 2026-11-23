@@ -1,0 +1,35 @@
+{
+ "char": "㭙",
+ "head": "㭙",
+ "pinyin": "zhé",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "parent": "寺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“槌也。从木，特省聲。陟革切。”《玉篇》：“槌橫木也。”即搭架用的木樁。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：尖端鑿地，直下而住（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

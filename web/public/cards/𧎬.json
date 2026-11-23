@@ -1,0 +1,38 @@
+{
+ "char": "𧎬",
+ "head": "𧎬（𧎢）",
+ "pinyin": "tè",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "aliases": [
+  "𧎢"
+ ],
+ "parent": "寺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“敵德切，音特。食禾蟲。”《正字通》：“俗𧎢字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：小蟲突入禾中，齧食不已（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

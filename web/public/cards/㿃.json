@@ -1,0 +1,35 @@
+{
+ "char": "㿃",
+ "head": "㿃",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 404,
+  "name": "帶"
+ },
+ "level": 3,
+ "parent": "帶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“牛頭瘡也。赤白痢也。”dài，《正字通》：“赤㿃，白㿃，婦人下部病。亦單作帶。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：穢濁總聚，泄而不止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "char": "芷",
+ "head": "芷",
+ "pinyin": "zhǐ",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "parent": "止",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《唐韻》：“白芷，藥名。”《本草》：“一名芳香，一名澤芬，生河東川谷中，主長肌膚，潤澤顏色，可作面脂。”根粗壯如腳趾。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：芳氣總聚，一株獨香（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

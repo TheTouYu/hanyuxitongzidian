@@ -1,0 +1,35 @@
+{
+ "char": "𦍧",
+ "head": "𦍧",
+ "pinyin": "cǐ",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "parent": "此",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“羊名。蹏皮可以割桼。从羊此聲。此思切。”疑本指黑山羊。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：蹏皮堅利，割桼如刺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

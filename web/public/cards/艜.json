@@ -1,0 +1,35 @@
+{
+ "char": "艜",
+ "head": "艜",
+ "pinyin": "dài",
+ "bus": {
+  "num": 404,
+  "name": "帶"
+ },
+ "level": 3,
+ "parent": "帶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“艇船。”《揚子·方言》：“艇長而薄者謂之艜。”長而淺的小船。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：舟腹中空，屯納其間（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

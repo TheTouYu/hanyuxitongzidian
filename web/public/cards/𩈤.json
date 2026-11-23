@@ -1,0 +1,35 @@
+{
+ "char": "𩈤",
+ "head": "𩈤",
+ "pinyin": "chù",
+ "bus": {
+  "num": 407,
+  "name": "足"
+ },
+ "level": 3,
+ "parent": "足",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“初六切，音促。齊也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：兩邊相持，不偏不倚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

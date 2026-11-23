@@ -1,0 +1,38 @@
+{
+ "char": "㩐",
+ "head": "㩐（扽）",
+ "pinyin": "dèn",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "aliases": [
+  "扽"
+ ],
+ "parent": "寺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“同扽。”扽，《玉篇》：“引也、撼也。”《集韻》：“摩也。或从攴。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：引物入手，囤而不放（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

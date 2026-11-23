@@ -1,0 +1,39 @@
+{
+ "char": "嗤",
+ "head": "嗤（𧏬𣣷）",
+ "pinyin": "chī",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "aliases": [
+  "𧏬",
+  "𣣷"
+ ],
+ "parent": "蚩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“笑皃。”譏笑。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：尖語如錐，直扎人耳（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

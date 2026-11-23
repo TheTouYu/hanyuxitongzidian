@@ -1,0 +1,35 @@
+{
+ "char": "𥹩",
+ "head": "𥹩",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "parent": "寺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“①用米湯漿衣。②儲藏，儲存。”米湯漿衣能使衣服變得硬挺。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：米汁總聚，乾而硬結（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

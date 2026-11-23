@@ -1,0 +1,35 @@
+{
+ "char": "𨏞",
+ "head": "𨏞",
+ "pinyin": "pín",
+ "bus": {
+  "num": 408,
+  "name": "步"
+ },
+ "level": 3,
+ "parent": "頻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“顰字之訛。”《集韻》：“車也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：兩輪相拼，一軸貫之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

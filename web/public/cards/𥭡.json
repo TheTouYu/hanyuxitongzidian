@@ -1,0 +1,35 @@
+{
+ "char": "𥭡",
+ "head": "𥭡",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "parent": "志",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“職吏切，音志。竹名。”疑指叢竹。指其如芝類一樣叢生。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：筍尖鑿土，破堅而上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

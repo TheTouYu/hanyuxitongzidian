@@ -1,0 +1,35 @@
+{
+ "char": "䇛",
+ "head": "䇛",
+ "pinyin": "zhǐ",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "parent": "止",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“諸市切，音止。竹名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：筍尖破土，鑿地直上（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "鱡",
+ "head": "鱡（鰂鯽）",
+ "pinyin": "zéi",
+ "bus": {
+  "num": 401,
+  "name": "則"
+ },
+ "level": 3,
+ "aliases": [
+  "鯽"
+ ],
+ "parent": "賊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“《說文》：‘烏鰂，魚名。’或从賊、从即。”墨魚、烏賊魚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：墨聚而噴，水濁而黑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𡗼",
+ "head": "𡗼",
+ "pinyin": "xiè",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "parent": "此",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“瞋大也。从大此聲。火戒切。”瞪大眼睛怒視。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：怒視不歇，續續而瞪（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

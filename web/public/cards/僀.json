@@ -1,0 +1,35 @@
+{
+ "char": "僀",
+ "head": "僀（偙）",
+ "pinyin": "dì",
+ "bus": {
+  "num": 404,
+  "name": "帶"
+ },
+ "level": 3,
+ "parent": "帶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“俊也。或與偙同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：才識屯聚，積久乃成（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

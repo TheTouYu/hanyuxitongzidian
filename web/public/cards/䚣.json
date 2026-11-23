@@ -1,0 +1,35 @@
+{
+ "char": "䚣",
+ "head": "䚣",
+ "pinyin": "tí",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "parent": "是",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“國名。又䚣，簪也、角不正也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」不系：國名，無物性可擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

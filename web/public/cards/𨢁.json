@@ -1,0 +1,35 @@
+{
+ "char": "𨢁",
+ "head": "𨢁",
+ "pinyin": "shì",
+ "bus": {
+  "num": 405,
+  "name": "皀"
+ },
+ "level": 3,
+ "parent": "食",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“音義與食同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：飯食入器，收而貯之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

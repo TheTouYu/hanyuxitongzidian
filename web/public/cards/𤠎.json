@@ -1,0 +1,35 @@
+{
+ "char": "𤠎",
+ "head": "𤠎",
+ "pinyin": "jí",
+ "bus": {
+  "num": 406,
+  "name": "畟"
+ },
+ "level": 3,
+ "parent": "畟",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“犬生三子。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：一胎三子，聚而相依（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "䎌",
+ "head": "䎌",
+ "pinyin": "cù",
+ "bus": {
+  "num": 407,
+  "name": "足"
+ },
+ "level": 3,
+ "parent": "足",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“飛皃。”《集韻》：“羽齊皃。”《類篇》：“羽高皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：翎尖如刺，一根不亂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

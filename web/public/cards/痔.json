@@ -1,0 +1,38 @@
+{
+ "char": "痔",
+ "head": "痔（𤸟）",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "aliases": [
+  "𤸟"
+ ],
+ "parent": "寺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“後病也。从疒寺聲。直裡切。”痔瘡。寄生在肛門四周。宜站，坐則疼，故从寺。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：贅肉突出，如鑿釘入（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

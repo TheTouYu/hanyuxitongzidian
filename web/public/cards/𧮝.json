@@ -1,0 +1,35 @@
+{
+ "char": "𧮝",
+ "head": "𧮝",
+ "pinyin": "pín",
+ "bus": {
+  "num": 408,
+  "name": "步"
+ },
+ "level": 3,
+ "parent": "頻",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文長箋》：“蒲眞切，音平。匹也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "p「拼辟」取「拼」：一物拼一物，湊合成耦（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

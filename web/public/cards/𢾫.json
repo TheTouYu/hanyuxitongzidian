@@ -1,0 +1,35 @@
+{
+ "char": "𢾫",
+ "head": "𢾫",
+ "pinyin": "zhǐ",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "parent": "蚩",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“剌（《段注》作‘刺’）也。从攴蚩聲。豬幾切。”應為“剌”，指刮擦。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：以器鑿之，成痕而澀（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "𣉄",
+ "head": "𣉄（𦔂）",
+ "pinyin": "shí、chí",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "aliases": [
+  "𦔂"
+ ],
+ "parent": "是",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𣉄，毒出蠆尾。”《字彙》：“𦔂，毒出蠆尾。”蠍子抬起尾部的毒刺螫人。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：毒刺一出，蓄者頓失（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

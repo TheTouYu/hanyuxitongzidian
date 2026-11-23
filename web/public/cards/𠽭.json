@@ -1,0 +1,40 @@
+{
+ "char": "𠽭",
+ "head": "𠽭（𠽯𠽮𡄷）",
+ "pinyin": "dì",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "aliases": [
+  "𠽯",
+  "𠽮",
+  "𡄷"
+ ],
+ "parent": "是",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“都奚切，音低。城名。亦作𠽯、𠽮。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」不系：城名，無物性可擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

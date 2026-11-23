@@ -1,0 +1,35 @@
+{
+ "char": "𡷿",
+ "head": "𡷿",
+ "pinyin": "zhuó",
+ "bus": {
+  "num": 407,
+  "name": "足"
+ },
+ "level": 3,
+ "parent": "足",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海類編》：“士角切，音捉。”山名。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：山名，原稿僅記音切，無物性可擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

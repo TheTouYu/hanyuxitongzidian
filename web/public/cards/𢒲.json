@@ -1,0 +1,35 @@
+{
+ "char": "𢒲",
+ "head": "𢒲",
+ "pinyin": "xǐ",
+ "bus": {
+  "num": 408,
+  "name": "步"
+ },
+ "level": 3,
+ "parent": "徙",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海類編》：“所綺切，音史。毛垂也。”《五音集韻》：“遷也。運也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：由此至彼，續行不息（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

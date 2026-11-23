@@ -1,0 +1,35 @@
+{
+ "char": "䭄",
+ "head": "䭄",
+ "pinyin": "shì",
+ "bus": {
+  "num": 403,
+  "name": "史"
+ },
+ "level": 3,
+ "parent": "史",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“仕吏切，音事。嗜食也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：貪多無節，失其常度（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

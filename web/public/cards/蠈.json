@@ -1,0 +1,38 @@
+{
+ "char": "蠈",
+ "head": "蠈（𧍡）",
+ "pinyin": "zéi",
+ "bus": {
+  "num": 401,
+  "name": "則"
+ },
+ "level": 3,
+ "aliases": [
+  "𧍡"
+ ],
+ "parent": "賊",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“蠈，蝗食禾節者。或从則。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：齒利如鑿，截莖立斷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "趾",
+ "head": "趾",
+ "pinyin": "zhǐ",
+ "bus": {
+  "num": 409,
+  "name": "止"
+ },
+ "level": 3,
+ "parent": "止",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《爾雅·釋言》：“趾，足也。”《洪武正韻》：“足指。”腳指頭。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：一踏成印，深若鑿痕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

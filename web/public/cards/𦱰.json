@@ -1,0 +1,38 @@
+{
+ "char": "𦱰",
+ "head": "𦱰（𦵟）",
+ "pinyin": "chí",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "aliases": [
+  "𦵟"
+ ],
+ "parent": "寺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“草也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：草名僅訓，無物性可擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

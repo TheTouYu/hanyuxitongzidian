@@ -1,0 +1,35 @@
+{
+ "char": "𤫻",
+ "head": "𤫻",
+ "pinyin": "dū",
+ "bus": {
+  "num": 408,
+  "name": "步"
+ },
+ "level": 3,
+ "parent": "步",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“丁木切，音督。器，以盛醋。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：醋注器中，囤積而藏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

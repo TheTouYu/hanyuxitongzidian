@@ -1,0 +1,35 @@
+{
+ "char": "齼",
+ "head": "齼",
+ "pinyin": "chǔ",
+ "bus": {
+  "num": 407,
+  "name": "足"
+ },
+ "level": 3,
+ "parent": "楚",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“齒傷醋也。”即牙根酸楚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：齒痛如刺，觸之則縮（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

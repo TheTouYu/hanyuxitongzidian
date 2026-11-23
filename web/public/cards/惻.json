@@ -1,0 +1,35 @@
+{
+ "char": "惻",
+ "head": "惻",
+ "pinyin": "cè",
+ "bus": {
+  "num": 401,
+  "name": "則"
+ },
+ "level": 3,
+ "parent": "則",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“痛也。从心則聲。初力切。”悲痛。《玉篇》：“悲也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：如芒暗入，隱隱作痛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

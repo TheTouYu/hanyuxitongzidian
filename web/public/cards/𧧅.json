@@ -1,0 +1,35 @@
+{
+ "char": "𧧅",
+ "head": "𧧅（諫）",
+ "pinyin": "shì",
+ "bus": {
+  "num": 403,
+  "name": "史"
+ },
+ "level": 3,
+ "parent": "史",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“忘也。”jiàn，《六書統》：“古文諫字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：見失則言，無所回護（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

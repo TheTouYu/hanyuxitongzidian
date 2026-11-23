@@ -1,0 +1,38 @@
+{
+ "char": "痣",
+ "head": "痣（䏯）",
+ "pinyin": "zhì",
+ "bus": {
+  "num": 410,
+  "name": "之"
+ },
+ "level": 3,
+ "aliases": [
+  "䏯"
+ ],
+ "parent": "志",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“黑子也。又通作志。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：一點鑿入膚理，久駐不移（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}

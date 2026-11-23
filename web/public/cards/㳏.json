@@ -1,0 +1,39 @@
+{
+ "char": "㳏",
+ "head": "㳏（𣳪𣷱）",
+ "pinyin": "shì",
+ "bus": {
+  "num": 403,
+  "name": "史"
+ },
+ "level": 3,
+ "aliases": [
+  "𣷱",
+  "𣳪"
+ ],
+ "parent": "史",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“㳏。水名，在河南。或从吏。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」不系：水名，在河南，別無物性可擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十六采",
+     "label": "卷六十六采"
+    }
+   ]
+  }
+ ]
+}

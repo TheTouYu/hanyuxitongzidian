@@ -1,0 +1,38 @@
+{
+ "char": "𨉌",
+ "head": "𨉌（蹴）",
+ "pinyin": "cù",
+ "bus": {
+  "num": 407,
+  "name": "足"
+ },
+ "level": 3,
+ "aliases": [
+  "蹴"
+ ],
+ "parent": "足",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“與蹴同。”踢。踏。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：腳尖直抵，觸物即止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷六十七足",
+     "label": "卷六十七足"
+    }
+   ]
+  }
+ ]
+}
