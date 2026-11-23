@@ -1,0 +1,38 @@
+{
+ "char": "𥿰",
+ "head": "𥿰（𦀉）",
+ "pinyin": "duǒ",
+ "bus": {
+  "num": 489,
+  "name": "朵"
+ },
+ "level": 3,
+ "aliases": [
+  "𦀉"
+ ],
+ "parent": "朵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“冕前垂。”帽子前面的垂飾。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：絲縷攢聚，攏成一束（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

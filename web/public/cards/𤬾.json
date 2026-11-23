@@ -1,0 +1,39 @@
+{
+ "char": "𤬾",
+ "head": "𤬾（堶𥓿砣𤭨）",
+ "pinyin": "duò",
+ "bus": {
+  "num": 489,
+  "name": "朵"
+ },
+ "level": 3,
+ "aliases": [
+  "𥓿",
+  "𤭨"
+ ],
+ "parent": "朵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“甌也。”tuó，《集韻》：“堶，飛磚戲也。或作𥓿、砣、𤭨、𤬾。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」不系：甌器之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "譿",
+ "head": "譿（譓）",
+ "pinyin": "huì",
+ "bus": {
+  "num": 481,
+  "name": "彗"
+ },
+ "level": 3,
+ "parent": "彗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“辨察也。或作譓。”《玉篇》：“材智也、察也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：言剖是非，使疑結開解（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

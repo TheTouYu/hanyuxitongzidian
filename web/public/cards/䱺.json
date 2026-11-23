@@ -1,0 +1,35 @@
+{
+ "char": "䱺",
+ "head": "䱺",
+ "pinyin": "hái",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "parent": "豈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“𩷕䱺，雄蟹也。”《集韻》：“𩷕䱺，壯蟹。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：雙螯豁張，橫行不退（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

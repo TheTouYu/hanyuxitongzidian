@@ -1,0 +1,38 @@
+{
+ "char": "䥣",
+ "head": "䥣（𨰢鑿）",
+ "pinyin": "záo、zuò",
+ "bus": {
+  "num": 485,
+  "name": "毀"
+ },
+ "level": 3,
+ "aliases": [
+  "𨰢"
+ ],
+ "parent": "毀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“鑿，在各切。穿也、鏨也。又子各切。𨰢、䥣，並同上。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：利刃直下，應手成孔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "䜸",
+ "head": "䜸",
+ "pinyin": "měi",
+ "bus": {
+  "num": 484,
+  "name": "尾"
+ },
+ "level": 3,
+ "parent": "尾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“碎萁也。”碎豆莖。méi，《集韻》：“豆萁下葉也。”豆莖下邊的葉子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：枝葉居末，蒙翳在下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

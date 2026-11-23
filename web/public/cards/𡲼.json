@@ -1,0 +1,35 @@
+{
+ "char": "𡲼",
+ "head": "𡲼",
+ "pinyin": "mì",
+ "bus": {
+  "num": 484,
+  "name": "尾"
+ },
+ "level": 3,
+ "parent": "尾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“佛經譯音用字，無實義。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」不系：音譯之字，只取其音（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

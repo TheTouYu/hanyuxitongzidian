@@ -1,0 +1,35 @@
+{
+ "char": "䝎",
+ "head": "䝎",
+ "pinyin": "tuān",
+ "bus": {
+  "num": 490,
+  "name": "耑"
+ },
+ "level": 3,
+ "parent": "耑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“豬也。”《正字通》：“ 野豕也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」不系：豕名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

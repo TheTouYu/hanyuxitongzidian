@@ -1,0 +1,35 @@
+{
+ "char": "𦒮",
+ "head": "𦒮",
+ "pinyin": "fēi",
+ "bus": {
+  "num": 483,
+  "name": "龖"
+ },
+ "level": 3,
+ "parent": "龖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“與飛音義同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "f「附分」取「分」：兩翼分張，振而離地（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

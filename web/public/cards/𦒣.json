@@ -1,0 +1,40 @@
+{
+ "char": "𦒣",
+ "head": "𦒣（濕）",
+ "pinyin": "shī",
+ "bus": {
+  "num": 481,
+  "name": "彗"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“古文濕字。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "⑤形近字“㬎”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：濕氣著物，收而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

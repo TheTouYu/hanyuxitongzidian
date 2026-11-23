@@ -107,6 +107,8 @@ node tools/extract-glyphs.mjs --doc "D:/字谱智能体/卷五十四  网.docx" 
 ```
 坑：只认 png/jpg/jpeg/webp/gif（**EMF/WMF 静默丢弃**）；单图 >900KB 静默跳过（`--maxbytes` 可调）；每字最多 6 张照片；index 用单行 JSON 写。抽完看 `chars` 条数与 `files` 数，少了就补抽/转格式，不要假装齐了。
 
+**3.1b docx 图片裁剪（2026-11-23 定）**：`word/media/` 里的文件常常只是母图，原稿显示的是裁出的局部——DrawingML 的 `<a:srcRect l t r b>`（千分比）或 VML 的 `v:imagedata croptop/cropbottom/...`。**不按裁剪照抄会把整页扫描（带「64期」「甲3510 一期」这类栏外字）或一长条多形图当字形**（卷八十四 心/朓、卷八十五 蔥 行 570×52 长条即此）。做法：同一个 `<w:drawing>`/`<w:pict>` 块内取裁剪值，按百分比裁原图再存；**照片同样要裁**（卷八十四/八十五 共 34 处，占照片的多数）。零依赖管线见本批脚本 `tools/_tmp_imgs.py`（解析裁剪）+ `tools/_tmp_crop.ps1`（PowerShell System.Drawing 批量裁，EMF 先渲染再裁）。照片裁剪后 sha256 与 docx 原图不同，`audit-photos` 只按「部/段数」对账，不会因此报未落位。
+
 ### 3.2 异体图（extra）与參證图（cankao）
 
 - **异体标签**（标签字在本字 `variants` 里，如 兆 的 `涉`）：给该异体单建 `chars[异体] = {doc, variants:"", files:[…]}`，再在本字条目加
@@ -665,6 +667,7 @@ node tools/check-spa-render.mjs --buses 311-311   # 站内 SPA：checked N bad 0
 | 并行时桥句互相打架 | 两个 worker 写同一行/父卡 | 一人一批、父卡只由 lead merge；重派单批 |
 | 共享文件被整体回退 | 两个 lead 各自重建 `variants`/`glyphs/index`，后写者用旧快照 | 一部一 lead、开工 lock、只在 merge 后重建一次；提交按路径（§9.1、§9.9） |
 | 字形序列混入现代字 | 括号里的字体渲染简图被当古文字形 | E056 告警；按 §3.6 移到 `glyphs/chars/<hex>.png`，重编号并补别名 |
+| 字形/插图带栏外字（「64期」「甲3510」）或半截长条 | 抽图没按 docx `a:srcRect`/VML crop 裁剪，直接存了母图 | 按 §3.1b 先裁再入库（EMF 先渲染）；照片同理，别拿未裁母图充数 |
 | 桥只扣一头、自由延伸 | 桥只写声旁给出的抽象面、不写本字本義，或只写本字表面的动作/感官、不扣组题，或加原文没有的成分 | 按 §5.2 六问/两头重写；必须同时扣本组概括义项＋本字本義；每个成分有原文根据 |
 | 讹字组只录行、不建卡 | 旧技能 §1.3 写「讹字/形近字行不建新卡」；2026-11-22 主人改令：形近讹字也要建卡 | 按 §4.3 补讹字卡（`noRoot:true`＋`ezi`）；父卡行保持整行无 `——`；`check-rows-cards` 逐行拦 |
 | 单字建卡改了一堆文档 | 把「记录」当成每字必做 | 三层记录（§11.1）：单字不写 HANDOFF/CURRENT/exegesis/SKILL |

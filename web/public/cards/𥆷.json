@@ -1,0 +1,35 @@
+{
+ "char": "𥆷",
+ "head": "𥆷",
+ "pinyin": "jiù",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "parent": "𠬶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《海篇》：“音僦。義闕。”疑同“瞅”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：音僦義闕，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

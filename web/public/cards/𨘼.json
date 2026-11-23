@@ -1,0 +1,35 @@
+{
+ "char": "𨘼",
+ "head": "𨘼",
+ "pinyin": "chuán",
+ "bus": {
+  "num": 490,
+  "name": "耑"
+ },
+ "level": 3,
+ "parent": "耑",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《川篇》：“音遄。死車無輪也。”即“輲”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：喪車之字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

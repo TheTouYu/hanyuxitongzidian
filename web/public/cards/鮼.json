@@ -1,0 +1,40 @@
+{
+ "char": "鮼",
+ "head": "鮼（鱘）",
+ "pinyin": "qīn",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“魚名。”《正字通》：“鱘字之譌。”疑非訛字。鱘魚體長，外形本似帚。"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "④形近字“尋”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」不系：形近之訛，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

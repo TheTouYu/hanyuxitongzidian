@@ -1,0 +1,38 @@
+{
+ "char": "譭",
+ "head": "譭（䛼）",
+ "pinyin": "huǐ",
+ "bus": {
+  "num": 485,
+  "name": "毀"
+ },
+ "level": 3,
+ "aliases": [
+  "䛼"
+ ],
+ "parent": "毀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䛼，謗也。或作譭。通作毀。”譭謗。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「豁」：口舌張豁，肆意詆訶（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𡒂",
+ "head": "𡒂（毀）",
+ "pinyin": "huǐ",
+ "bus": {
+  "num": 485,
+  "name": "毀"
+ },
+ "level": 3,
+ "parent": "毀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“俗毀字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」不系：俗毀之字，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "膤",
+ "head": "膤",
+ "pinyin": "xuě",
+ "bus": {
+  "num": 481,
+  "name": "彗"
+ },
+ "level": 3,
+ "parent": "雪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "義未詳。疑从肉，指皮屑。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：膚表殘屑，拂之即散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

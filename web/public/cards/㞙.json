@@ -1,0 +1,38 @@
+{
+ "char": "㞙",
+ "head": "㞙（𣻨溺）",
+ "pinyin": "niào",
+ "bus": {
+  "num": 484,
+  "name": "尾"
+ },
+ "level": 3,
+ "aliases": [
+  "𣻨"
+ ],
+ "parent": "尾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“《說文》：‘人小便也。从尾水。’或省。亦作溺。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：水液納聚，滿則外泄（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

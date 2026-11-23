@@ -1,0 +1,35 @@
+{
+ "char": "轌",
+ "head": "轌",
+ "pinyin": "xuě",
+ "bus": {
+  "num": 481,
+  "name": "彗"
+ },
+ "level": 3,
+ "parent": "雪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "地名用字。疑也指雪橇。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：長途輾轉，前路相續（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "𨟃",
+ "head": "𨟃",
+ "pinyin": "zhēng",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "parent": "徵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“陟陵切，音徵。古國名。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：古國之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

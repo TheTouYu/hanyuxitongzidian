@@ -1,0 +1,39 @@
+{
+ "char": "𥏸",
+ "head": "𥏸（𥎷𥏆）",
+ "pinyin": "ái、duǎn",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "aliases": [
+  "𥎷",
+  "𥏆"
+ ],
+ "parent": "豈",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𥎷、𥏆、𥏸，三俗。音短。”同“矮”或“短”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

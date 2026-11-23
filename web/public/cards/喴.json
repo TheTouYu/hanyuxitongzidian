@@ -1,0 +1,35 @@
+{
+ "char": "喴",
+ "head": "喴",
+ "pinyin": "wēi",
+ "bus": {
+  "num": 487,
+  "name": "威"
+ },
+ "level": 3,
+ "parent": "威",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "象聲詞。语气词，表示招呼的语气。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：語氣之字，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

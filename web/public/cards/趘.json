@@ -1,0 +1,35 @@
+{
+ "char": "趘",
+ "head": "趘",
+ "pinyin": "xí",
+ "bus": {
+  "num": 484,
+  "name": "尾"
+ },
+ "level": 3,
+ "parent": "尾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“刑狄切，音檄。走也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「续」：步趨相續，行而不止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "鰴",
+ "head": "鰴（𩽚）",
+ "pinyin": "huī",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "aliases": [
+  "𩽚"
+ ],
+ "parent": "𢼸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《爾雅·釋魚》：“魚有力者鰴。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "h「豁活」取「活」：逆流而上，擺尾有勁（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

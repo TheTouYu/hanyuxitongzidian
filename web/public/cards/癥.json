@@ -1,0 +1,38 @@
+{
+ "char": "癥",
+ "head": "癥（症）",
+ "pinyin": "zhēng",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "aliases": [
+  "症"
+ ],
+ "parent": "徵",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“腹結病也。”腹內結塊的病。《集韻》：“足瘡。”大約雞眼之類的病。隱藏，看不見之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：病塊總聚，久而不散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

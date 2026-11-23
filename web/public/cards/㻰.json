@@ -1,0 +1,45 @@
+{
+ "char": "㻰",
+ "head": "㻰（璏彘）",
+ "pinyin": "wèi、zhì",
+ "bus": {
+  "num": 481,
+  "name": "彗"
+ },
+ "level": 3,
+ "parent": "彗",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“璏，劔鼻玉。或省。亦从彗。”劍鞘旁的玉制附件。古人佩劍，即以帶穿璏而系于腰間。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：佩玉之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": "佩劍秦俑"
+  },
+  {
+   "file": "02.jpg",
+   "caption": "佩劍秦俑"
+  }
+ ]
+}

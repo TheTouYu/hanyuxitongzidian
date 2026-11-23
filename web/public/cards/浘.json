@@ -1,0 +1,35 @@
+{
+ "char": "浘",
+ "head": "浘",
+ "pinyin": "wěi",
+ "bus": {
+  "num": 484,
+  "name": "尾"
+ },
+ "level": 3,
+ "parent": "尾",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“浘𤁵，海泄。一曰水流皃。一曰泉底。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：海泄，聲無所系（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ]
+}

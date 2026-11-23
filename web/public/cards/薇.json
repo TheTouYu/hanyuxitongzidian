@@ -1,0 +1,44 @@
+{
+ "char": "薇",
+ "head": "薇（𦵨）",
+ "pinyin": "wéi",
+ "bus": {
+  "num": 482,
+  "name": "帚"
+ },
+ "level": 3,
+ "aliases": [
+  "𦵨"
+ ],
+ "parent": "𢼸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“菜也。似藿。从艸微聲。𦵨，籀文薇省。無非切。”野豌豆，蔓生。或指薔薇。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：零聲母，緒論七組未列（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷七十九彗",
+     "label": "卷七十九彗"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "野豌豆"
+  }
+ ]
+}
