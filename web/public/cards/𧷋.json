@@ -1,0 +1,35 @@
+{
+ "char": "𧷋",
+ "head": "𧷋",
+ "pinyin": "yāo",
+ "bus": {
+  "num": 589,
+  "name": "要"
+ },
+ "level": 3,
+ "parent": "要",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“伊姚切，音邀。靑𧷋，小獸名。”《宛委餘編》：“靑𧷋食虎。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：小獸之音，不系擬態（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

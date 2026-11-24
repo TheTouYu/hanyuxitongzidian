@@ -1,0 +1,35 @@
+{
+ "char": "艄",
+ "head": "艄",
+ "pinyin": "shāo、shào",
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "肖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“船尾。”shào，《集韻》：“舟名。”《正字通》：“ 今俗呼兵卒偵廵者曰哨船。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：船尾收窄，其形尖細（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

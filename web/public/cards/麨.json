@@ -1,0 +1,38 @@
+{
+ "char": "麨",
+ "head": "麨（𪍑糗𩚙）",
+ "pinyin": "chǎo",
+ "aliases": [
+  "𩚙"
+ ],
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "少",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𪍑，糗也。或从少。亦作糗。”《本草注》：“以麥蒸磨成屑。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：麥屑相持，粉細易散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

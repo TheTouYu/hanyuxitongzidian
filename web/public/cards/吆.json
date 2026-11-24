@@ -1,0 +1,35 @@
+{
+ "char": "吆",
+ "head": "吆",
+ "pinyin": "yāo",
+ "bus": {
+  "num": 587,
+  "name": "幺"
+ },
+ "level": 3,
+ "parent": "幺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“吆吆，聲也。”或指大聲呼喊。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：大呼之聲，不系擬態（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

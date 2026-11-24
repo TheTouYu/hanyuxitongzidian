@@ -1,0 +1,38 @@
+{
+ "char": "㴥",
+ "head": "㴥（𣺰）",
+ "pinyin": "qiào",
+ "aliases": [
+  "𣺰"
+ ],
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "肖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“峻波。”《集韻》：“浚波也。或作𣺰。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：峻波觸岸，浪缺而碎（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

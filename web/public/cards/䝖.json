@@ -1,0 +1,35 @@
+{
+ "char": "䝖",
+ "head": "䝖",
+ "pinyin": "zhǎo",
+ "bus": {
+  "num": 586,
+  "name": "爪"
+ },
+ "level": 3,
+ "parent": "爪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《唐韻》：“側絞切，音爪。䝖䝤。”《玉篇》：“豸也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：獸爪鑿物，其利可知（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

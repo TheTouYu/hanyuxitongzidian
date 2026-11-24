@@ -1,0 +1,38 @@
+{
+ "char": "熦",
+ "head": "熦（爝燋焳）",
+ "pinyin": "jué",
+ "aliases": [
+  "焳"
+ ],
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "雀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“爝，火炬。或作燋、焳、熦。”火把。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：火炬聚焰，色赤而黑（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "char": "仯",
+ "head": "仯",
+ "pinyin": "chào、miǎo",
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "少",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“小皃。”《廣韻》：“仯仯，小子。”miǎo，《集韻》：“僬仯，驚竦皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：小子形微，持之不盈（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

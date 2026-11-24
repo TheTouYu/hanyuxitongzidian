@@ -1,0 +1,35 @@
+{
+ "char": "靫",
+ "head": "靫",
+ "pinyin": "chá",
+ "bus": {
+  "num": 586,
+  "name": "爪"
+ },
+ "level": 3,
+ "parent": "叉",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“箭室也。”盛箭器。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：盛箭之器，口持如叉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

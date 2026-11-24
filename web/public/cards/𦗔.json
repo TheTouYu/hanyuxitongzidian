@@ -1,0 +1,35 @@
+{
+ "char": "𦗔",
+ "head": "𦗔",
+ "pinyin": "zhāo",
+ "bus": {
+  "num": 583,
+  "name": "巢"
+ },
+ "level": 3,
+ "parent": "巢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“耳鳴也。”《廣韻》：“耳中聲。”《集韻》：“𦗔𦗔，聲擾耳。或从言。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：耳鳴總響，擾而不止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

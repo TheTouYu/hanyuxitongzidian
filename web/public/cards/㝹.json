@@ -1,0 +1,38 @@
+{
+ "char": "㝹",
+ "head": "㝹（䨲𩆟）",
+ "pinyin": "nóu",
+ "aliases": [
+  "𩆟"
+ ],
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "少",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“江東呼兔子為䨲。或作㝹；亦書作𩆟。”兔子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：兔形小，納伏而善匿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

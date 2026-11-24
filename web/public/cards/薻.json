@@ -1,0 +1,36 @@
+{
+ "char": "薻",
+ "head": "薻（藻）",
+ "pinyin": "zǎo",
+ "bus": {
+  "num": 583,
+  "name": "巢"
+ },
+ "level": 3,
+ "parent": "巢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“水艸也。从艸从水，巢聲。《詩》曰：‘于以采薻？’{{shiyi/01.png}}，薻或从澡。子皓切。”水藻。品種較多，浮生出水面如巢。",
+   "gdir": "inline/薻"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：水藻總聚，浮出水面（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

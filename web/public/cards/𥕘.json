@@ -1,0 +1,35 @@
+{
+ "char": "𥕘",
+ "head": "𥕘（𥔭）",
+ "pinyin": "cháo、suǒ",
+ "bus": {
+  "num": 583,
+  "name": "巢"
+ },
+ "level": 3,
+ "parent": "巢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鋤交切，音巢。附國之民，壘石為巢而居曰𥕘。”suǒ，《集韻》：“𥔭，小石。或作𥕘。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：壘石相持，成室如巢（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

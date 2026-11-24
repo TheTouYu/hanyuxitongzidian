@@ -1,0 +1,35 @@
+{
+ "char": "㫏",
+ "head": "㫏（㫍）",
+ "pinyin": "yǎo",
+ "bus": {
+  "num": 589,
+  "name": "要"
+ },
+ "level": 3,
+ "parent": "要",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“旗屬。从㫃要聲。烏皎切。”《集韻》：“旗皃。或从攸。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：旗貌之音，不系擬態（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

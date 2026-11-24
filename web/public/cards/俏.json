@@ -1,0 +1,35 @@
+{
+ "char": "俏",
+ "head": "俏",
+ "pinyin": "qiào、xiào、xiāo",
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "肖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“俏醋，好皃。”漂亮，美好。xiào，《字彙》：“似也，像也。”xiāo，《集韻》：“俏然，反琴聲。李頤說。或作削。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：貌與人親，相似可慕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

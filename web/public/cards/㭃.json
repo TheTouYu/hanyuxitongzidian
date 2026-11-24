@@ -1,0 +1,35 @@
+{
+ "char": "㭃",
+ "head": "㭃（綱）",
+ "pinyin": "gāng",
+ "bus": {
+  "num": 587,
+  "name": "幺"
+ },
+ "level": 3,
+ "parent": "幺",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“綱，維紘繩也。从糸岡聲。㭃，古文綱。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：綱繩相隔，總繫眾絲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

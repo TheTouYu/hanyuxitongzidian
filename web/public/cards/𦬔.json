@@ -1,0 +1,40 @@
+{
+ "char": "𦬔",
+ "head": "𦬔（芥）",
+ "pinyin": "zhǎo、jiè",
+ "bus": {
+  "num": 586,
+  "name": "爪"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“菜名。生水中。”jiè，《正字通》：“芥本字。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②形近字“介、𠂢”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：訛字之音，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

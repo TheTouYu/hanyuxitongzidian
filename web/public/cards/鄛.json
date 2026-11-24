@@ -1,0 +1,35 @@
+{
+ "char": "鄛",
+ "head": "鄛",
+ "pinyin": "cháo",
+ "bus": {
+  "num": 583,
+  "name": "巢"
+ },
+ "level": 3,
+ "parent": "巢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“南陽棗陽鄉。从邑巢聲。鉏交切。”中國漢代鄉名，在今河南省新野縣南。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：鄉名之音，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

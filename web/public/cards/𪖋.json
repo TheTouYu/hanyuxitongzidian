@@ -1,0 +1,43 @@
+{
+ "char": "𪖋",
+ "head": "𪖋（𪖎）",
+ "pinyin": "jié",
+ "aliases": [
+  "𪖎"
+ ],
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𪖋𪕱，猿類。長毛善走。”《正字通》：“𪖋𪖎並譌。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "⑥形近字“韱”之訛（與“截”相近）"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：訛字之音，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

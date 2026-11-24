@@ -1,0 +1,35 @@
+{
+ "char": "𥲀",
+ "head": "𥲀",
+ "pinyin": "cháo",
+ "bus": {
+  "num": 583,
+  "name": "巢"
+ },
+ "level": 3,
+ "parent": "巢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“大笙，有十九簧。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：笙簧持氣，聲多而雜（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

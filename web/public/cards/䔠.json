@@ -1,0 +1,41 @@
+{
+ "char": "䔠",
+ "head": "䔠",
+ "pinyin": "shǎo、shāo、shuò",
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "肖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“山巧切，音稍。藕細根者。”shāo，《集韻》：“梢，梢櫂，木無枝柯長而殺者。或作萷、䔠。”shuò，《篇海》：“與矟同。”長矛。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：藕根收細，其末如針（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "藕根"
+  }
+ ]
+}

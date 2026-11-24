@@ -1,0 +1,35 @@
+{
+ "char": "𢫐",
+ "head": "𢫐",
+ "pinyin": "jié",
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "小",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《搜眞玉鏡》：“子列切。”《漢典》：“宴會之物不食而包歸。”即“捎”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：席餘攏聚，包而歸之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

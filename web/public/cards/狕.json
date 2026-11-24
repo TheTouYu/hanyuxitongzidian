@@ -1,0 +1,35 @@
+{
+ "char": "狕",
+ "head": "狕",
+ "pinyin": "yǎo",
+ "bus": {
+  "num": 587,
+  "name": "幺"
+ },
+ "level": 3,
+ "parent": "幼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“獸名。”《山海經》：“隄山有獸，其狀如豹而文首，名曰狕。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：獸名之音，不系擬態（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

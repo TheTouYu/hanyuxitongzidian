@@ -1,0 +1,41 @@
+{
+ "char": "䒕",
+ "head": "䒕",
+ "pinyin": "xiǎo",
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "小",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“葽䒕，艸名。逺志也。”遠志的莖葉十分纖細。《正字通》：“艸木盛貌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "x「续消」取「消」：莖葉細弱，消靡不振（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "遠志"
+  }
+ ]
+}

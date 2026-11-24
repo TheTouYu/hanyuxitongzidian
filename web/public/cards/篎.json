@@ -1,0 +1,39 @@
+{
+ "char": "篎",
+ "head": "篎（𥭝𥰚）",
+ "pinyin": "miǎo",
+ "aliases": [
+  "𥭝",
+  "𥰚"
+ ],
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "少",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“小管謂之篎。从竹眇聲。亡沼切。”小管樂器。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：小管短細，聲蒙而弱（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

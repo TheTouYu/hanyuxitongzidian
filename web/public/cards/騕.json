@@ -1,0 +1,35 @@
+{
+ "char": "騕",
+ "head": "騕（𩡻）",
+ "pinyin": "yǎo",
+ "bus": {
+  "num": 589,
+  "name": "要"
+ },
+ "level": 3,
+ "parent": "要",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“騕，騕褭，古之良馬。或作𩡻、要。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：良馬腰細，不系擬態（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

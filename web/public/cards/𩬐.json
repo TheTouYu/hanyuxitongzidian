@@ -1,0 +1,40 @@
+{
+ "char": "𩬐",
+ "head": "𩬐（䯰）",
+ "pinyin": "jiè",
+ "bus": {
+  "num": 586,
+  "name": "爪"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“ 䯰，居拜切，音戒。簪髻。䯰、紒通。《說文》作𩬐，義同。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "②形近字“介、𠂢”之訛"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」不系：訛字之音，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

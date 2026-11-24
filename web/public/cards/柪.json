@@ -1,0 +1,35 @@
+{
+ "char": "柪",
+ "head": "柪",
+ "pinyin": "āo、ào",
+ "bus": {
+  "num": 587,
+  "name": "幺"
+ },
+ "level": 3,
+ "parent": "幼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“於交切，音坳。曲木也。”ào，《集韻》：“木丩屈。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：曲木之音，不系擬態（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

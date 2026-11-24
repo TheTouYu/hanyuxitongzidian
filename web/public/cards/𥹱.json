@@ -1,0 +1,35 @@
+{
+ "char": "𥹱",
+ "head": "𥹱",
+ "pinyin": "yāo",
+ "bus": {
+  "num": 587,
+  "name": "幺"
+ },
+ "level": 3,
+ "parent": "幼",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《五侯鯖字海》：“米未熟。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：米未熟之音，不系擬態（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

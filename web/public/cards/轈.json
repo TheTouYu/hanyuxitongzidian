@@ -1,0 +1,41 @@
+{
+ "char": "轈",
+ "head": "轈",
+ "pinyin": "cháo",
+ "bus": {
+  "num": 583,
+  "name": "巢"
+ },
+ "level": 3,
+ "parent": "巢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“兵高車加巢以望敵也。从車巢聲。《春秋傳》曰：‘楚子登轈車。’鉏交切。”巢車，高車上築的板屋以瞭望敵情。板屋如巢。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：車上持屋，望敵如巢（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.png",
+   "caption": ""
+  }
+ ]
+}

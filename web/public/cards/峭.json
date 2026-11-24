@@ -1,0 +1,38 @@
+{
+ "char": "峭",
+ "head": "峭（陗𡹺）",
+ "pinyin": "qiào",
+ "aliases": [
+  "𡹺"
+ ],
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "肖",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“陗，山峻。亦作峭。”山勢險峻。《正字通》：“又急也。嚴厲也 。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：山勢陡削，缺處成崖（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

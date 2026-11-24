@@ -1,0 +1,35 @@
+{
+ "char": "𤔙",
+ "head": "𤔙",
+ "pinyin": "shuǎ",
+ "bus": {
+  "num": 586,
+  "name": "爪"
+ },
+ "level": 3,
+ "parent": "爪",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“疎瓦切，音耍。見《海篇》。”耍。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：耍弄之狀，爪攘失措（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

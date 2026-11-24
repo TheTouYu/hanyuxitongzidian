@@ -1,0 +1,38 @@
+{
+ "char": "𩍀",
+ "head": "𩍀（𩋝𩌆）",
+ "pinyin": "suǒ",
+ "aliases": [
+  "𩋝"
+ ],
+ "bus": {
+  "num": 583,
+  "name": "巢"
+ },
+ "level": 3,
+ "parent": "巢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“𩋝、𩍀，二俗。先果反。”即“𩌆”，《集韻》：“革鎖也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：革帶相收，環而如巢（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ]
+}

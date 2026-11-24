@@ -1,0 +1,41 @@
+{
+ "char": "𪃐",
+ "head": "𪃐",
+ "pinyin": "miǎo",
+ "bus": {
+  "num": 582,
+  "name": "小"
+ },
+ "level": 3,
+ "parent": "少",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“𪆄𪃐也。从鳥眇聲。亡沼切。”《廣韻》：“工雀。”《集韻》：“桃雀，即巧婦。或書作𪃧。”鷦鷯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「末」：巧婦小鳥，蒙末善巢（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十六雀",
+     "label": "卷九十六雀"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "正在織巢的鷦鷯"
+  }
+ ]
+}
