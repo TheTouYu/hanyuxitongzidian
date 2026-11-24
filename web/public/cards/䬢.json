@@ -1,0 +1,38 @@
+{
+ "char": "䬢",
+ "head": "䬢（䬭）",
+ "pinyin": "tāo",
+ "aliases": [
+  "䬭"
+ ],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "parent": "刀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“同饕。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：食貪突進，腹滿乃止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "磼",
+ "head": "磼（㠎）",
+ "pinyin": "zá、shé",
+ "aliases": [
+  "㠎"
+ ],
+ "bus": {
+  "num": 608,
+  "name": "雔"
+ },
+ "level": 3,
+ "parent": "雥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“磼礏，山髙皃。或从山。”shé，《集韻》：“磖磼，破物聲。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：石塊總聚，壘而高峻（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

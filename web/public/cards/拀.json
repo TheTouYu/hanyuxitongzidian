@@ -1,0 +1,36 @@
+{
+ "char": "拀",
+ "head": "拀",
+ "pinyin": "zhù",
+ "aliases": [],
+ "bus": {
+  "num": 609,
+  "name": "祝"
+ },
+ "level": 3,
+ "parent": "祝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“柷字之譌。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：訛手為木，擊而止樂（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "char": "籌",
+ "head": "籌",
+ "pinyin": "chóu、táo",
+ "aliases": [],
+ "bus": {
+  "num": 602,
+  "name": "𠃬"
+ },
+ "level": 3,
+ "parent": "壽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“壺矢也。从竹壽聲。直由切。”投壺用的箭。《廣韻》：“筭也、筴也。”籌碼。計謀，策劃。táo，《集韻》：“《方言》：‘戴也。’或省。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：竹矢持投，入壺而止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "漢像磚投壺圖"
+  }
+ ]
+}

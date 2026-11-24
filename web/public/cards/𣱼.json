@@ -1,0 +1,41 @@
+{
+ "char": "𣱼",
+ "head": "𣱼",
+ "pinyin": "dāo",
+ "aliases": [],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《漢典》：“𣱼𣱼。靈活；流動。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“刁、勺”之訛，表示搖動、嘮叨"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：水靈流動，活而不滯（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

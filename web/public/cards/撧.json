@@ -1,0 +1,39 @@
+{
+ "char": "撧",
+ "head": "撧（㔃𢴭）",
+ "pinyin": "juē",
+ "aliases": [
+  "㔃",
+  "𢴭"
+ ],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "parent": "絕",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“與絕同。斷也。或作㔃。”古同“絕”，折斷；斷絕。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「决」：手折而決，斷之使絕（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

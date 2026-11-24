@@ -1,0 +1,36 @@
+{
+ "char": "釖",
+ "head": "釖（釗）",
+ "pinyin": "zhāo",
+ "aliases": [],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "parent": "刀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“同釗。从刂从刀一也。舊注改音刀，割也；一曰兵器。並非。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：刀鑿同用，削金成器（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "char": "碉",
+ "head": "碉",
+ "pinyin": "diāo",
+ "aliases": [],
+ "bus": {
+  "num": 603,
+  "name": "周"
+ },
+ "level": 3,
+ "parent": "周",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“石室。”石頭壘成的碉樓。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：石塊囤壘，環而成室（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "羌族的碉樓"
+  }
+ ]
+}

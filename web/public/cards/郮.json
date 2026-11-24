@@ -1,0 +1,36 @@
+{
+ "char": "郮",
+ "head": "郮",
+ "pinyin": "zhōu",
+ "aliases": [],
+ "bus": {
+  "num": 603,
+  "name": "周"
+ },
+ "level": 3,
+ "parent": "周",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“故國，黃帝後所封國也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：古國名，音義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

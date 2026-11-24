@@ -1,0 +1,36 @@
+{
+ "char": "𤄖",
+ "head": "𤄖",
+ "pinyin": "cà、zá",
+ "aliases": [],
+ "bus": {
+  "num": 608,
+  "name": "雔"
+ },
+ "level": 3,
+ "parent": "雥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“沸皃。”zá，《集韻》：“絶皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：水沸刺起，雜而不清（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

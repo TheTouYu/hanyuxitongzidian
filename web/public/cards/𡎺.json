@@ -1,0 +1,36 @@
+{
+ "char": "𡎺",
+ "head": "𡎺",
+ "pinyin": "zhú",
+ "aliases": [],
+ "bus": {
+  "num": 609,
+  "name": "祝"
+ },
+ "level": 3,
+ "parent": "祝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“側六切。塞也。”或同“築”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：土塞而鑿，堵之使止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

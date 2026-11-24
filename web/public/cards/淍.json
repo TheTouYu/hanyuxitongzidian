@@ -1,0 +1,36 @@
+{
+ "char": "淍",
+ "head": "淍",
+ "pinyin": "diāo",
+ "aliases": [],
+ "bus": {
+  "num": 603,
+  "name": "周"
+ },
+ "level": 3,
+ "parent": "周",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“帀也。或作周。”圍繞。《集韻》：“水名。一曰水匝。”水環繞。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：水囤而繞，匝於四周（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

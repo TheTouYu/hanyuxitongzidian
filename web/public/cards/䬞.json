@@ -1,0 +1,38 @@
+{
+ "char": "䬞",
+ "head": "䬞（𩘿）",
+ "pinyin": "táo",
+ "aliases": [
+  "𩘿"
+ ],
+ "bus": {
+  "num": 602,
+  "name": "𠃬"
+ },
+ "level": 3,
+ "parent": "壽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“風大聲。”《廣韻》：“大風。”《集韻》：“風也。或从𠷎。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "t「涂突」取「突」：大風突至，號而有聲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

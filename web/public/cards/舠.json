@@ -1,0 +1,43 @@
+{
+ "char": "舠",
+ "head": "舠（𦨣𦩍）",
+ "pinyin": "dāo",
+ "aliases": [
+  "𦩍"
+ ],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“舠，小船也。或从周。”“𦨣，舟名。或作𦩍。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“刁、勺”之訛，表示搖動、嘮叨"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：小船囤水，輕而能浮（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

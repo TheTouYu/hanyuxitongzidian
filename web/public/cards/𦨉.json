@@ -1,0 +1,41 @@
+{
+ "char": "𦨉",
+ "head": "𦨉（䑢仡）",
+ "pinyin": "wù",
+ "aliases": [],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "noRoot": true,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“船行不安也。从舟，从刖省。讀若兀。五忽切。”《集韻》：“或从兀。亦作仡。”"
+  },
+  {
+   "key": "ezi",
+   "label": "訛字說明",
+   "text": "③形近字“刁、勺”之訛，表示搖動、嘮叨"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "w「零聲母」不系：船行不安，音無所擬（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

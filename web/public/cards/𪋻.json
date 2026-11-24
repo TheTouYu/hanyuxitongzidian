@@ -1,0 +1,39 @@
+{
+ "char": "𪋻",
+ "head": "𪋻（𡔚塵尘）",
+ "pinyin": "chén",
+ "aliases": [
+  "𡔚"
+ ],
+ "bus": {
+  "num": 601,
+  "name": "麤"
+ },
+ "level": 3,
+ "parent": "麤",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鹿行揚土也。从麤从土。{{shiyi/01.png}}，籀文。直珍切。”塵土。義音同“盡”。《玉篇》：“埃𪋻也。今作塵。”",
+   "gdir": "inline/𪋻"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：塵埃刺目，飛而不聚（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "吋",
+ "head": "吋",
+ "pinyin": "dòu",
+ "aliases": [],
+ "bus": {
+  "num": 606,
+  "name": "寸"
+ },
+ "level": 3,
+ "parent": "寸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙》：“叱也。”cùn，英寸的舊稱。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：叱聲突動，短而有力（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

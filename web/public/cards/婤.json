@@ -1,0 +1,36 @@
+{
+ "char": "婤",
+ "head": "婤",
+ "pinyin": "zhōu、chōu",
+ "aliases": [],
+ "bus": {
+  "num": 603,
+  "name": "周"
+ },
+ "level": 3,
+ "parent": "周",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“女字也。从女周聲。職流切。”chōu，《廣韻》“好皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」不系：女字，音義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

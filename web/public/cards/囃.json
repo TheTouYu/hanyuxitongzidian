@@ -1,0 +1,36 @@
+{
+ "char": "囃",
+ "head": "囃",
+ "pinyin": "cà、zhā",
+ "aliases": [],
+ "bus": {
+  "num": 608,
+  "name": "雔"
+ },
+ "level": 3,
+ "parent": "雥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“助舞聲。”zhā，《漢典》：“囃呼，即‘咋呼’，口快話多。”zá，同“咋”。方言。怎麼。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "c「刺持」取「刺」：助舞之聲，雜刺而作（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

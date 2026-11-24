@@ -1,0 +1,36 @@
+{
+ "char": "瓙",
+ "head": "瓙",
+ "pinyin": "dáo",
+ "aliases": [],
+ "bus": {
+  "num": 602,
+  "name": "𠃬"
+ },
+ "level": 3,
+ "parent": "壽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“徒到切，音導。玉也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「囤」：玉質堅囤，久而不損（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

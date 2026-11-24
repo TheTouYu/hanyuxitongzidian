@@ -1,0 +1,36 @@
+{
+ "char": "躊",
+ "head": "躊",
+ "pinyin": "chóu",
+ "aliases": [],
+ "bus": {
+  "num": 602,
+  "name": "𠃬"
+ },
+ "level": 3,
+ "parent": "壽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“躊躇也。”猶豫不決。或指从容自得、駐足不前。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：駐足持疑，欲行又止（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

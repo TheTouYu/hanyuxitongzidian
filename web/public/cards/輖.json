@@ -1,0 +1,36 @@
+{
+ "char": "輖",
+ "head": "輖",
+ "pinyin": "zhōu",
+ "aliases": [],
+ "bus": {
+  "num": 603,
+  "name": "周"
+ },
+ "level": 3,
+ "parent": "周",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“重也。从車周聲。職流切。”《玉篇》：“重載也。”《集韻》：“車前重也。”“低也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：車載總聚，重而行遲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

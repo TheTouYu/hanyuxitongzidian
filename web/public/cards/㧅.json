@@ -1,0 +1,36 @@
+{
+ "char": "㧅",
+ "head": "㧅",
+ "pinyin": "mù、dāo",
+ "aliases": [],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "parent": "刀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《龍龕》：“白乘（桑，《康典》引《龍龕》：‘音木。桑也’。）”“朷”字之訛。 dāo，《漢典》：㧅蹬，折騰；拉扯。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "m「蒙末」取「蒙」：蒙手而拉，折騰拉扯（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

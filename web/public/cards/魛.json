@@ -1,0 +1,42 @@
+{
+ "char": "魛",
+ "head": "魛",
+ "pinyin": "dāo",
+ "aliases": [],
+ "bus": {
+  "num": 604,
+  "name": "刀"
+ },
+ "level": 3,
+ "parent": "刀",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“蔑刀魚。”《正字通》：“本作刀，言魚形似刀也。”刀魚。狀如刀，身體長而側扁。《集韻》：“魚名，飲而不食。”或指帶魚。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "d「囤动」取「动」：魚游擺動，形長如刀（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "帶魚"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "char": "疇",
+ "head": "疇（𠃬）",
+ "pinyin": "chóu",
+ "aliases": [
+  "𠃬"
+ ],
+ "bus": {
+  "num": 602,
+  "name": "𠃬"
+ },
+ "level": 3,
+ "parent": "壽",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“耕治之田也。从田，象耕屈之形。{{shiyi/01.png}}，𤲮或省。直由切。”已犁耕整治的田地。指田有溝渠相通。《廣韻》：“誰也。等也。壅也。田疇也。又疇昔。”《字彙》：“類也。”",
+   "gdir": "inline/疇"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：溝渠持水，繞田而行（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "char": "蔦",
+ "head": "蔦（樢）",
+ "pinyin": "niǎo",
+ "aliases": [
+  "樢"
+ ],
+ "bus": {
+  "num": 605,
+  "name": "鳥"
+ },
+ "level": 3,
+ "parent": "鳥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“寄生也。从艸鳥聲。《詩》曰：‘蔦與女蘿。’{{shiyi/01.png}}，蔦或从木。都了切。”《本草綱目》：“此物寄宿于它木而生，如鳥立于上，故曰寄生。”",
+   "gdir": "inline/蔦"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」取「纳」：寄生納根，附木而生（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

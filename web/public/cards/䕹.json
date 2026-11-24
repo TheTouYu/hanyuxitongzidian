@@ -1,0 +1,38 @@
+{
+ "char": "䕹",
+ "head": "䕹（𥷩蓵）",
+ "pinyin": "zá",
+ "aliases": [
+  "𥷩"
+ ],
+ "bus": {
+  "num": 608,
+  "name": "雔"
+ },
+ "level": 3,
+ "parent": "雥",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“戶簾也。或从竹。”“艸簾。或从捷。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「总」：艸簾總編，密而蔽戶（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}

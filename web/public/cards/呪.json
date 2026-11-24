@@ -1,0 +1,39 @@
+{
+ "char": "呪",
+ "head": "呪（詋詶咒）",
+ "pinyin": "zhòu",
+ "aliases": [
+  "詋",
+  "咒"
+ ],
+ "bus": {
+  "num": 609,
+  "name": "祝"
+ },
+ "level": 3,
+ "parent": "祝",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“祝，詛也。古作𥘱。或从口、从言。亦作詶。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：口出詛辭，鑿而刺之（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷一百壽",
+     "label": "卷一百壽"
+    }
+   ]
+  }
+ ]
+}
