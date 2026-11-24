@@ -1,0 +1,38 @@
+{
+ "char": "㣩",
+ "head": "㣩（㵉）",
+ "pinyin": "lín",
+ "aliases": [
+  "㵉"
+ ],
+ "bus": {
+  "num": 593,
+  "name": "林"
+ },
+ "level": 3,
+ "parent": "林",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "林鐘，古樂十二律之一。比“林鐘”高兩個八度記為“㣩鐘”。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」不系：律名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "駗",
+ "head": "駗",
+ "pinyin": "zhěn",
+ "aliases": [],
+ "bus": {
+  "num": 594,
+  "name": "彡"
+ },
+ "level": 3,
+ "parent": "㐱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“馬載重難也。从馬㐱聲。張人切。”馬負重難行皃。《廣韻》：“馬色。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：足下著力，深陷入土（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "髟",
+ "head": "髟",
+ "pinyin": "biāo、shǎn、piáo、shān",
+ "aliases": [],
+ "bus": {
+  "num": 594,
+  "name": "彡"
+ },
+ "level": 3,
+ "parent": "彡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“長髮猋猋也。从長从彡。凡髟之屬皆从髟。必凋切。又所銜切。”長髮下垂皃。甲骨文本象人有長髮形。piáo，《集韻》：“長髦。”shān，《廣韻》：“屋翼也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "b「闭剥」取「闭」：長髮覆肩，合而蔽體（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "䶙",
+ "head": "䶙",
+ "pinyin": "jù、qǔ",
+ "aliases": [],
+ "bus": {
+  "num": 600,
+  "name": "巨"
+ },
+ "level": 3,
+ "parent": "巨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“齗腫也。从齒巨聲。區主切。”牙齦腫大。《集韻》：“齗不固曰䶙。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：齦肉聚腫，環抱齒根（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

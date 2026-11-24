@@ -1,0 +1,38 @@
+{
+ "char": "𦄽",
+ "head": "𦄽（𦂘）",
+ "pinyin": "qú",
+ "aliases": [
+  "𦂘"
+ ],
+ "bus": {
+  "num": 600,
+  "name": "巨"
+ },
+ "level": 3,
+ "parent": "渠",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“綵名也。履緣也。”彩色的絲織品。鞋子邊緣的裝飾。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「亲」：絲線親附，繞而成緣（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

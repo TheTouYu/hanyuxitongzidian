@@ -1,0 +1,36 @@
+{
+ "char": "潵",
+ "head": "潵",
+ "pinyin": "sàn",
+ "aliases": [],
+ "bus": {
+  "num": 593,
+  "name": "林"
+ },
+ "level": 3,
+ "parent": "㪔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“水散也。”灑水。sǎ，撒，撒落。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「失」：水失所束，四下迸流（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

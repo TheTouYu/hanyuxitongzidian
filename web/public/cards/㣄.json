@@ -1,0 +1,36 @@
+{
+ "char": "㣄",
+ "head": "㣄",
+ "pinyin": "qú",
+ "aliases": [],
+ "bus": {
+  "num": 600,
+  "name": "巨"
+ },
+ "level": 3,
+ "parent": "渠",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“弓力強皃。”《五音集韻》：“弓弰也。”弓的末梢。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：兩端相缺，張弓乃滿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "韾",
+ "head": "韾",
+ "pinyin": "yīn",
+ "aliases": [],
+ "bus": {
+  "num": 591,
+  "name": "殸"
+ },
+ "level": 3,
+ "parent": "殸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《廣韻》：“聲和靖也。”聲音安和。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：氣順而平，無所阻隔（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

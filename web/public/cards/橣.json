@@ -1,0 +1,36 @@
+{
+ "char": "橣",
+ "head": "橣",
+ "pinyin": "nìng",
+ "aliases": [],
+ "bus": {
+  "num": 597,
+  "name": "用"
+ },
+ "level": 3,
+ "parent": "用",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“木名。”檸檬。味澀而不知其味。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "n「纳弄」不系：木名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十八銿",
+     "label": "卷九十八銿"
+    }
+   ]
+  }
+ ]
+}

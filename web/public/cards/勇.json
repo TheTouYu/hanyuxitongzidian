@@ -1,0 +1,41 @@
+{
+ "char": "勇",
+ "head": "勇（𢦨恿勈）",
+ "pinyin": "yǒng",
+ "aliases": [
+  "𢦨",
+  "恿",
+  "勈"
+ ],
+ "bus": {
+  "num": 597,
+  "name": "用"
+ },
+ "level": 3,
+ "parent": "甬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“氣也。从力甬聲。{{shiyi/01.png}}，勇或从戈、用。{{shiyi/02.png}}，古文勇从心。餘隴切。”氣上湧而有膽量。《玉篇》：“果決也。”《廣韻》：“猛也。”",
+   "gdir": "inline/勇"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：果決之志，音不繫義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十八銿",
+     "label": "卷九十八銿"
+    }
+   ]
+  }
+ ]
+}

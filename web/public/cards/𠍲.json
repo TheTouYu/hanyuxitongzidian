@@ -1,0 +1,38 @@
+{
+ "char": "𠍲",
+ "head": "𠍲（佢）",
+ "pinyin": "qú",
+ "aliases": [
+  "佢"
+ ],
+ "bus": {
+  "num": 600,
+  "name": "巨"
+ },
+ "level": 3,
+ "parent": "渠",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“呉人呼彼稱。通作渠。”他。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：彼我相缺，隔而後稱（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

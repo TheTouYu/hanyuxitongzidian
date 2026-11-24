@@ -1,0 +1,38 @@
+{
+ "char": "䴚",
+ "head": "䴚（𨟼）",
+ "pinyin": "gǎng",
+ "aliases": [
+  "𨟼"
+ ],
+ "bus": {
+  "num": 598,
+  "name": "亢"
+ },
+ "level": 3,
+ "parent": "亢",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“鹽澤。或从酉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "g「隔估」取「隔」：鹵氣蒸結，草木皆隔（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十八銿",
+     "label": "卷九十八銿"
+    }
+   ]
+  }
+ ]
+}

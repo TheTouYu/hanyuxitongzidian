@@ -1,0 +1,42 @@
+{
+ "char": "𧅆",
+ "head": "𧅆",
+ "pinyin": "jiǎn",
+ "aliases": [],
+ "bus": {
+  "num": 597,
+  "name": "用"
+ },
+ "level": 3,
+ "parent": "繭",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“吉典切，音繭。草名，紫𦸀也。”紫萁，蕨類，嫩芽似繭，可食。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：頂端捲聚，如一團絲（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十八銿",
+     "label": "卷九十八銿"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

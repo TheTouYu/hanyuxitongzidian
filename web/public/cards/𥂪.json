@@ -1,0 +1,36 @@
+{
+ "char": "𥂪",
+ "head": "𥂪",
+ "pinyin": "sàn",
+ "aliases": [],
+ "bus": {
+  "num": 593,
+  "name": "林"
+ },
+ "level": 3,
+ "parent": "㪔",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“音未詳。鹽塊也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：鹽末收聚，盛以陶皿（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "犙",
+ "head": "犙",
+ "pinyin": "sān",
+ "aliases": [],
+ "bus": {
+  "num": 594,
+  "name": "彡"
+ },
+ "level": 3,
+ "parent": "參",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“三歲牛。从牛參聲。穌含切。”《正字通》：“當是牛車之副，與馬部驂義同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "s「失收」取「收」：犢養數載，收而成牛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

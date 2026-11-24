@@ -1,0 +1,36 @@
+{
+ "char": "噤",
+ "head": "噤",
+ "pinyin": "jìn",
+ "aliases": [],
+ "bus": {
+  "num": 593,
+  "name": "林"
+ },
+ "level": 3,
+ "parent": "禁",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“口閉也。从口禁聲。巨禁切。”《廣韻》：“寒而口閉。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：牙關緊聚，雙唇難啟（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

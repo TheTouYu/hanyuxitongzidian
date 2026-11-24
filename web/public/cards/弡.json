@@ -1,0 +1,36 @@
+{
+ "char": "弡",
+ "head": "弡（張）",
+ "pinyin": "jué、zhāng",
+ "aliases": [],
+ "bus": {
+  "num": 600,
+  "name": "巨"
+ },
+ "level": 3,
+ "parent": "巨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“巨勿切，音掘。彊勇。”強勇。《字彙》：“弓彊勇。”zhāng，《字彙補》：“古文張字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：筋力聚張，弓弦難挽（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

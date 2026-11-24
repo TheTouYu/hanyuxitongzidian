@@ -1,0 +1,40 @@
+{
+ "char": "罝",
+ "head": "罝（𦋽𦋾）",
+ "pinyin": "jū",
+ "aliases": [
+  "𦋽",
+  "𦋾"
+ ],
+ "bus": {
+  "num": 599,
+  "name": "且"
+ },
+ "level": 3,
+ "parent": "且",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“兔網也。从網且聲。{{shiyi/01.png}}，罝或从糸。{{shiyi/02.png}}，籀文从虘。子邪切。”《爾雅·釋器》：“兔罟謂之罝。”郭璞注：“罝猶遮也。”甲骨文从网从兔。",
+   "gdir": "inline/罝"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：繩目密聚，觸之即纏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

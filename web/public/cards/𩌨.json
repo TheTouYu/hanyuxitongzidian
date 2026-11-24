@@ -1,0 +1,38 @@
+{
+ "char": "𩌨",
+ "head": "𩌨（㹐）",
+ "pinyin": "chóng",
+ "aliases": [
+  "㹐"
+ ],
+ "bus": {
+  "num": 597,
+  "name": "用"
+ },
+ "level": 3,
+ "parent": "庸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海類編》：“革乾。”乾的皮革。《集韻》：“引船淺水中。亦作㹐。”拉纖。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：纖繩在手，牽挽不捨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十八銿",
+     "label": "卷九十八銿"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "char": "䈺",
+ "head": "䈺（笗）",
+ "pinyin": "zhōng",
+ "aliases": [
+  "笗"
+ ],
+ "bus": {
+  "num": 592,
+  "name": "冬"
+ },
+ "level": 3,
+ "parent": "冬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“祝融切。竹。”竹名。疑即“柊”。《集韻》：“戎人呼篋曰䈺。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：細物總聚，納於一器（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

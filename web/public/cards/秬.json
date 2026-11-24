@@ -1,0 +1,39 @@
+{
+ "char": "秬",
+ "head": "秬（𩰤）",
+ "pinyin": "jù",
+ "aliases": [
+  "𩰤"
+ ],
+ "bus": {
+  "num": 600,
+  "name": "巨"
+ },
+ "level": 3,
+ "parent": "巨",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“黑黍也。一稃二米，以釀也。从鬯矩聲。{{shiyi/01.png}}，𩰤或从禾。其呂切。”一粒穀殼中有兩粒米。言其巨大意。",
+   "gdir": "inline/秬"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：雙米聚殼，其粒特大（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "滽",
+ "head": "滽",
+ "pinyin": "yōng",
+ "aliases": [],
+ "bus": {
+  "num": 597,
+  "name": "用"
+ },
+ "level": 3,
+ "parent": "庸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“水名。《山海經》：‘宜蘇之山，滽水出焉’。”《水經注》：“今水出陸渾縣之西南王母㵎。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：水名，音義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十八銿",
+     "label": "卷九十八銿"
+    }
+   ]
+  }
+ ]
+}

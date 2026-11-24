@@ -1,0 +1,37 @@
+{
+ "char": "鸇",
+ "head": "鸇（𪇮）",
+ "pinyin": "zhān",
+ "aliases": [],
+ "bus": {
+  "num": 592,
+  "name": "冬"
+ },
+ "level": 3,
+ "parent": "亶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“鷐風也。从鳥亶聲。{{shiyi/01.png}}，籀文鸇从廛。諸延切。”鷂鷹類猛禽。陸璣《毛詩鳥獸魚草木疏》：“似鷂，青黃色，燕頷句喙，嚮風搖翅，疾擊燕雀食之。”",
+   "gdir": "inline/鸇"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：句喙如凿，一擊洞胸（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

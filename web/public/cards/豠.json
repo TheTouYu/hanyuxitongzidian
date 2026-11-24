@@ -1,0 +1,38 @@
+{
+ "char": "豠",
+ "head": "豠（𧱑）",
+ "pinyin": "chú",
+ "aliases": [
+  "𧱑"
+ ],
+ "bus": {
+  "num": 599,
+  "name": "且"
+ },
+ "level": 3,
+ "parent": "且",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“豕屬。从豕且聲。疾餘切。”《集韻》：“或从助。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」不系：豕屬之名，聲義無涉（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ]
+}

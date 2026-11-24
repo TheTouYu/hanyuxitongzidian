@@ -1,0 +1,38 @@
+{
+ "char": "壈",
+ "head": "壈（𡓔𨎹）",
+ "pinyin": "lǎn",
+ "aliases": [
+  "𡓔"
+ ],
+ "bus": {
+  "num": 592,
+  "name": "冬"
+ },
+ "level": 3,
+ "parent": "稟",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“壈坎也。”《集韻》：“坎壈，不平。一曰失志也。或作𡓔。通作𨎹。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：地勢坑坎，步武乖離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

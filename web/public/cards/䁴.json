@@ -1,0 +1,36 @@
+{
+ "char": "䁴",
+ "head": "䁴",
+ "pinyin": "zhǎn、shǎn",
+ "aliases": [],
+ "bus": {
+  "num": 592,
+  "name": "冬"
+ },
+ "level": 3,
+ "parent": "亶",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“視而止（《廣韻》引作‘不止’）也。从目亶聲。旨善切。”看一下就停止。shǎn，《集韻》：“視面色變也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「总」：視線總收，一瞥即罷（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

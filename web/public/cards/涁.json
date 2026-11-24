@@ -1,0 +1,36 @@
+{
+ "char": "涁",
+ "head": "涁（滲）",
+ "pinyin": "shèn",
+ "aliases": [],
+ "bus": {
+  "num": 594,
+  "name": "彡"
+ },
+ "level": 3,
+ "parent": "彡",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海》：“所禁切，音滲。漏也。亦與滲同。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「失」：液由隙漏，散失不返（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

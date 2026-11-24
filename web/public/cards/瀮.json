@@ -1,0 +1,36 @@
+{
+ "char": "瀮",
+ "head": "瀮",
+ "pinyin": "lián",
+ "aliases": [],
+ "bus": {
+  "num": 593,
+  "name": "林"
+ },
+ "level": 3,
+ "parent": "林",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字海》：“久雨。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：雨腳紛離，綿歷旬日（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

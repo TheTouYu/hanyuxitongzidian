@@ -1,0 +1,36 @@
+{
+ "char": "昣",
+ "head": "昣",
+ "pinyin": "zhěn",
+ "aliases": [],
+ "bus": {
+  "num": 594,
+  "name": "彡"
+ },
+ "level": 3,
+ "parent": "㐱",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“明也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：壁破一孔，光自外入（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

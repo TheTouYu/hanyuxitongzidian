@@ -1,0 +1,40 @@
+{
+ "char": "鏧",
+ "head": "鏧（𪔳㲇𣫣䥢）",
+ "pinyin": "lóng",
+ "aliases": [
+  "㲇",
+  "𣫣",
+  "䥢"
+ ],
+ "bus": {
+  "num": 591,
+  "name": "殸"
+ },
+ "level": 3,
+ "parent": "殸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“𪔳，鼔聲。或作鏧、㲇、𣫣、䥢。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：皮革攏緊，一擊而震（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

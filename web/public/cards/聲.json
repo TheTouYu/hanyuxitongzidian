@@ -1,0 +1,38 @@
+{
+ "char": "聲",
+ "head": "聲（声）",
+ "pinyin": "shēng",
+ "aliases": [
+  "声"
+ ],
+ "bus": {
+  "num": 591,
+  "name": "殸"
+ },
+ "level": 3,
+ "parent": "殸",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“音也。从耳殸聲。殸，籀文磬。書盈切。”樂音。《白虎通》：“聲者，鳴也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：群響收聚，入耳乃辨（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

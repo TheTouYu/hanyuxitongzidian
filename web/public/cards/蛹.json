@@ -1,0 +1,42 @@
+{
+ "char": "蛹",
+ "head": "蛹",
+ "pinyin": "yǒng",
+ "aliases": [],
+ "bus": {
+  "num": 597,
+  "name": "用"
+ },
+ "level": 3,
+ "parent": "甬",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“繭蟲也。从虫甬聲。餘隴切。”蠶繭中的蛹蟲。《玉篇》：“老蠶也。”《廣韻》：“蠶化爲之。”蠶蛹。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "y「零聲母」不系：蠶化之形，音不別義（照實）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十八銿",
+     "label": "卷九十八銿"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "蠶繭與蠶蛹"
+  }
+ ]
+}

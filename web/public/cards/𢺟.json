@@ -1,0 +1,36 @@
+{
+ "char": "𢺟",
+ "head": "𢺟",
+ "pinyin": "chàn",
+ "aliases": [],
+ "bus": {
+  "num": 596,
+  "name": "羴"
+ },
+ "level": 3,
+ "parent": "羴",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“初莧切，剗去聲。插也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：五指持物，直送入內（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十七殸",
+     "label": "卷九十七殸"
+    }
+   ]
+  }
+ ]
+}

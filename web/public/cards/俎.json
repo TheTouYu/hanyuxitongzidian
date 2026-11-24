@@ -1,0 +1,43 @@
+{
+ "char": "俎",
+ "head": "俎",
+ "pinyin": "zǔ",
+ "aliases": [],
+ "bus": {
+  "num": 599,
+  "name": "且"
+ },
+ "level": 3,
+ "parent": "且",
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“禮俎也。从半肉在且上。側呂切。”行禮時盛放牲體的器具。金文為{{shiyi/01.png}}，从且从爿或几。《揚子·方言》：“几也。西南蜀漢之郊曰杫，杫音賜。”",
+   "gdir": "inline/俎"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "z「凿总」取「凿」：整木鑿削，成板承肉（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十九且",
+     "label": "卷九十九且"
+    }
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": "青銅俎（西周）"
+  }
+ ]
+}
