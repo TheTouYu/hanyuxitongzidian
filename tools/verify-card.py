@@ -363,6 +363,8 @@ def check_aliases(card, ch):
     shi = (sec(card, "shiyi") or {}).get("text") or ""
     # 只认「字（异体）」体例：首列 1–2 字、括注 1–6 个汉字；否则是正文句中的括号（如「二酮（含兩個羰基）」）
     m = re.match("^([%s]{1,2})\\s*[（(]([%s]{1,6})[）)]" % (HAN, HAN), shi)
+    if m and "漢字" in m.group(2):   # 「（韓國漢字）」这类说明语不是异体
+        m = None
     if m:
         for c in han_only(m.group(2)):
             if c != ch and c not in aliases and c not in CARDS_MAP:
