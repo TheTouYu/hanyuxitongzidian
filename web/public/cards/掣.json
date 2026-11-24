@@ -1,0 +1,39 @@
+{
+ "char": "掣",
+ "head": "掣（𢮓𢳅）",
+ "pinyin": "chè",
+ "aliases": [
+  "𢮓",
+  "𢳅"
+ ],
+ "bus": {
+  "num": 577,
+  "name": "制"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《爾雅·釋訓》：“甹夆，掣曳也。”《玉篇》：“掣同𤸪。牽也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：手握其物，引之使前（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "制"
+}

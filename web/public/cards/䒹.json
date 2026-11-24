@@ -1,0 +1,36 @@
+{
+ "char": "䒹",
+ "head": "䒹",
+ "pinyin": "lèi",
+ "aliases": [],
+ "bus": {
+  "num": 571,
+  "name": "力"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“耕多艸。从艸、耒，耒亦聲。盧對切。”《集韻》：“果實下垂皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：草穗低垂，攏累而下（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "耒"
+}

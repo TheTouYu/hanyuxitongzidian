@@ -1,0 +1,36 @@
+{
+ "char": "𡊻",
+ "head": "𡊻",
+ "pinyin": "liè",
+ "aliases": [],
+ "bus": {
+  "num": 572,
+  "name": "歺"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“力蘖切，音列。塍也。”田埂。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：田埂攏土，分畦成列（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "列"
+}

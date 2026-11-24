@@ -1,0 +1,36 @@
+{
+ "char": "嘞",
+ "head": "嘞",
+ "pinyin": "lei",
+ "aliases": [],
+ "bus": {
+  "num": 571,
+  "name": "力"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "語氣詞，表示提醒注意，與“嘍”相似。或指囉嗦。lē，嘞嘞，方言。說。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：語氣輕離，隨聲而散（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "力"
+}

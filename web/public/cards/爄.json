@@ -1,0 +1,36 @@
+{
+ "char": "爄",
+ "head": "爄",
+ "pinyin": "lì",
+ "aliases": [],
+ "bus": {
+  "num": 573,
+  "name": "萬"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“止火。”liè，《集韻》：“火斷也。”即用瓦石蓋住火之意。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：瓦石攏覆，壓火使滅（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "萬"
+}

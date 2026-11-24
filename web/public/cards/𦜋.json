@@ -1,0 +1,40 @@
+{
+ "char": "𦜋",
+ "head": "𦜋（𦜗𦜾𨡐）",
+ "pinyin": "zhì",
+ "aliases": [
+  "𦜗",
+  "𦜾",
+  "𨡐"
+ ],
+ "bus": {
+  "num": 577,
+  "name": "制"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“魚醬也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：魚肉細切，鹽漬成醬（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "制"
+}

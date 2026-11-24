@@ -1,0 +1,40 @@
+{
+ "char": "膌",
+ "head": "膌（瘠㾊𥕂）",
+ "pinyin": "jí",
+ "aliases": [
+  "瘠",
+  "𥕂"
+ ],
+ "bus": {
+  "num": 576,
+  "name": "來"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“瘦也。从肉𦟝聲。{{shiyi/01.png}}，古文膌从疒从朿，朿亦聲。資昔切。”瘦弱。即脊骨露出之意。",
+   "gdir": "inline/膌"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "j「聚决」取「聚」：肉薄骨聚，脊節皆露（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "脊"
+}

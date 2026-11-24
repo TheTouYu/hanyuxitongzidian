@@ -1,0 +1,36 @@
+{
+ "char": "襹",
+ "head": "襹（褷）",
+ "pinyin": "shī",
+ "aliases": [],
+ "bus": {
+  "num": 580,
+  "name": "麗"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“襳襹，毛羽衣皃。或从徙。”“襂襹，旌旂皃。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "sh「失收」取「收」：毛羽層綴，收而成衣（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十五離",
+     "label": "卷九十五離"
+    }
+   ]
+  }
+ ],
+ "parent": "麗"
+}

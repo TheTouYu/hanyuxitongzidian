@@ -1,0 +1,36 @@
+{
+ "char": "錸",
+ "head": "錸",
+ "pinyin": "lái",
+ "aliases": [],
+ "bus": {
+  "num": 576,
+  "name": "來"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "金屬元素Re的音譯。不過戰國古文就有此字，其義不明。疑指鐵類金屬。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：元素譯名，鎔鍊而得（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "來"
+}

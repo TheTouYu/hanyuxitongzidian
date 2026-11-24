@@ -1,0 +1,36 @@
+{
+ "char": "趔",
+ "head": "趔",
+ "pinyin": "liè",
+ "aliases": [],
+ "bus": {
+  "num": 572,
+  "name": "歺"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《字彙補》：“力拽切，音列。趔趄，足不進也。”身體歪斜，腳步不平穩要摔倒的樣子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：步斜欲仆，身與地離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "列"
+}

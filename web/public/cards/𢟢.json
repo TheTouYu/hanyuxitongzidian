@@ -1,0 +1,38 @@
+{
+ "char": "𢟢",
+ "head": "𢟢（𢥗）",
+ "pinyin": "lí",
+ "aliases": [
+  "𢥗"
+ ],
+ "bus": {
+  "num": 578,
+  "name": "𠦒"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“支𢟢，多端也。一曰思也。或作𢥗。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：心思離散，端緒多歧（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十五離",
+     "label": "卷九十五離"
+    }
+   ]
+  }
+ ],
+ "parent": "离"
+}

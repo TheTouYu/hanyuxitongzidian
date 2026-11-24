@@ -1,0 +1,36 @@
+{
+ "char": "纙",
+ "head": "纙",
+ "pinyin": "luò",
+ "aliases": [],
+ "bus": {
+  "num": 579,
+  "name": "䍜"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“錢緡也。”穿銅錢的繩子。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：細繩攏穿，貫錢成串（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十五離",
+     "label": "卷九十五離"
+    }
+   ]
+  }
+ ],
+ "parent": "䍜"
+}

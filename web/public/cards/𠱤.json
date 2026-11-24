@@ -1,0 +1,36 @@
+{
+ "char": "𠱤",
+ "head": "𠱤",
+ "pinyin": "lěi",
+ "aliases": [],
+ "bus": {
+  "num": 571,
+  "name": "力"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《篇海類編》：“魯猥切，音壘。謂以言相遮。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：聲從壘得，語相攏拒（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "耒"
+}

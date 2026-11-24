@@ -1,0 +1,38 @@
+{
+ "char": "䎺",
+ "head": "䎺（𦕶）",
+ "pinyin": "zhì",
+ "aliases": [
+  "𦕶"
+ ],
+ "bus": {
+  "num": 577,
+  "name": "制"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“入意也。一曰聞也。《字書》亦作𦕶。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "zh「凿总」取「凿」：耳竅納音，聽而會意（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "制"
+}

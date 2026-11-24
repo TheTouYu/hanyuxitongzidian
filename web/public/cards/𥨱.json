@@ -1,0 +1,38 @@
+{
+ "char": "𥨱",
+ "head": "𥨱（𥨸）",
+ "pinyin": "qiè",
+ "aliases": [
+  "𥨸"
+ ],
+ "bus": {
+  "num": 571,
+  "name": "力"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《正字通》：“俗竊字。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "q「亲缺」取「缺」：穴中缺守，乘隙而取（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "耒"
+}

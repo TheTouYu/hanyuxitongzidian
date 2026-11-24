@@ -1,0 +1,36 @@
+{
+ "char": "𠞉",
+ "head": "𠞉",
+ "pinyin": "lì",
+ "aliases": [],
+ "bus": {
+  "num": 575,
+  "name": "𠧪"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“斷也、削也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：刀刃離物，斷而兩分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "栗"
+}

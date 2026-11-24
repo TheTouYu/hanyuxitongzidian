@@ -1,0 +1,39 @@
+{
+ "char": "𪘼",
+ "head": "𪘼（䶛𪗿𪙂𪙷）",
+ "pinyin": "là",
+ "aliases": [
+  "䶛",
+  "𪙂"
+ ],
+ "bus": {
+  "num": 574,
+  "name": "剌"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“䶛，《說文》：‘齒分骨聲。’或作𪘼。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：齒齧骨開，刮而分離（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "剌"
+}

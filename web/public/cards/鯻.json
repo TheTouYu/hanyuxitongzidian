@@ -1,0 +1,44 @@
+{
+ "char": "鯻",
+ "head": "鯻（䱫）",
+ "pinyin": "là",
+ "aliases": [
+  "䱫"
+ ],
+ "bus": {
+  "num": 574,
+  "name": "剌"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“郞達切，音辢。魚名。”鯻魚，體長而側扁，銀灰色，有黑色縱條紋，口小，牙呈絨毛狀，鰭有刺尖利。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：鰭刺挺離，觸之刺痛（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "剌",
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "char": "醨",
+ "head": "醨",
+ "pinyin": "lí",
+ "aliases": [],
+ "bus": {
+  "num": 578,
+  "name": "𠦒"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“薄酒也。从酉离聲。讀若離。呂支切。”淡酒。大約是指過濾了的酒。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：酒濾離糟，味薄而淡（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十五離",
+     "label": "卷九十五離"
+    }
+   ]
+  }
+ ],
+ "parent": "离"
+}

@@ -1,0 +1,36 @@
+{
+ "char": "瞝",
+ "head": "瞝",
+ "pinyin": "chī",
+ "aliases": [],
+ "bus": {
+  "num": 578,
+  "name": "𠦒"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《集韻》：“視也。”《字彙》：“歷觀。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「刺」：目刺視物，歷觀不遺（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十五離",
+     "label": "卷九十五離"
+    }
+   ]
+  }
+ ],
+ "parent": "离"
+}

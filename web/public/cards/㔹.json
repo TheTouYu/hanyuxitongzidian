@@ -1,0 +1,36 @@
+{
+ "char": "㔹",
+ "head": "㔹",
+ "pinyin": "lè",
+ "aliases": [],
+ "bus": {
+  "num": 571,
+  "name": "力"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“材十人也。从十力聲。盧則切。”材力十倍于人。《廣韻》：“功大。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：十力攏合，其功倍常（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "力"
+}

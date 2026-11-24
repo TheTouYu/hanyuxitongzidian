@@ -1,0 +1,36 @@
+{
+ "char": "洌",
+ "head": "洌",
+ "pinyin": "liè",
+ "aliases": [],
+ "bus": {
+  "num": 572,
+  "name": "歺"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“水清也。从水列聲。《易》曰：‘井𣸟，寒泉，食。’良辥切。”《字林》：“洌，寒風也。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：寒泉入口，清冽而深（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "列"
+}

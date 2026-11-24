@@ -1,0 +1,42 @@
+{
+ "char": "螭",
+ "head": "螭",
+ "pinyin": "chī",
+ "aliases": [],
+ "bus": {
+  "num": 578,
+  "name": "𠦒"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《說文》：“若龍而黃，北方謂之地螻。从虫离聲。或云無角曰螭。醜知切。”傳說中的無角黃龍。《荀子赋》：“螭龍為蝘蜓。”疑本指黃色的壁虎。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "ch「刺持」取「持」：蝘蜓之類，持壁而伏（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十五離",
+     "label": "卷九十五離"
+    }
+   ]
+  }
+ ],
+ "parent": "离",
+ "photos": [
+  {
+   "file": "01.jpg",
+   "caption": ""
+  }
+ ]
+}

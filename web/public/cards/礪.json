@@ -1,0 +1,36 @@
+{
+ "char": "礪",
+ "head": "礪",
+ "pinyin": "lì",
+ "aliases": [],
+ "bus": {
+  "num": 573,
+  "name": "萬"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《新附》：“䃺也。从石厲聲。經典通用厲。力制切。”磨刀石。《廣雅》：“磨也。”磨治。"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「拢」：石粒攏密，磨刃而利（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "萬"
+}

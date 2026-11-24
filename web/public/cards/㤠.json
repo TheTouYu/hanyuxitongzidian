@@ -1,0 +1,38 @@
+{
+ "char": "㤠",
+ "head": "㤠（㤡）",
+ "pinyin": "liè",
+ "aliases": [
+  "㤡"
+ ],
+ "bus": {
+  "num": 572,
+  "name": "歺"
+ },
+ "level": 3,
+ "sections": [
+  {
+   "key": "shiyi",
+   "label": "釋義",
+   "text": "《玉篇》：“憂皃。”《廣韻》：“憂心。”"
+  },
+  {
+   "key": "shengmu",
+   "label": "聲母擬態",
+   "text": "l「拢离」取「离」：憂心離結，如物欲分（推）。"
+  },
+  {
+   "key": "suoshujuan",
+   "label": "所属卷",
+   "text": "",
+   "links": [
+    {
+     "t": "卷",
+     "ch": "卷九十四七",
+     "label": "卷九十四七"
+    }
+   ]
+  }
+ ],
+ "parent": "列"
+}
