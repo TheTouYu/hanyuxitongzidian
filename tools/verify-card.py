@@ -291,7 +291,8 @@ def check_sections(card, ch):
     if len(keys) != len(set(keys)):
         dup = sorted({k for k in keys if keys.count(k) > 1})
         iss("E011", "error", ch, "sections", "栏重复 %s" % dup, "一栏只能出现一次")
-    if lv == 3:
+    _has_fam = any(s.get("key") == "zizu" and (s.get("groups") or []) for s in ss)
+    if lv == 3 and not _has_fam:
         if not keys or keys[0] != "shiyi":
             iss("E012", "error", ch, "sections", "族卡首栏应为 shiyi，实为 %s" % keys,
                 "释义务必放第一栏")
