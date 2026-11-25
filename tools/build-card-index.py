@@ -12,11 +12,12 @@ for simp,tr in variants.items():
     for t in (tr if isinstance(tr,list) else [tr]): rev.setdefault(t,[]).append(simp)
 rows=[]
 for fn in sorted(os.listdir(C)):
-    if not fn.endswith(".json") or fn in ("index.json","variants.json"): continue
+    if not fn.endswith(".json") or fn in ("index.json","variants.json","alias-index.json"): continue
     try: d=json.load(io.open(os.path.join(C,fn),encoding="utf-8"))
     except Exception: continue
     if not isinstance(d,dict): continue
     c=d.get("char") or fn[:-5]; bus=d.get("bus") or {}
+    if not c: continue  # 空字头的残卡（如 .json）不进索引，否则侧栏会出现一张空白卡
     b=bus.get("num") if isinstance(bus,dict) else (bus[0] if isinstance(bus,list) and bus else None)
     n=bus.get("name") if isinstance(bus,dict) else ""
     rows.append({"cc":d.get("cc",""),"cn":d.get("cn",""),
