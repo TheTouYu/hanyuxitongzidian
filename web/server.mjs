@@ -23,7 +23,7 @@ function ext(s){
     const cp=ch.codePointAt(0);
     if (cp>=0x20000 && cp<=0x3FFFF){
       const name=cp.toString(16)+'.png';
-      if (existsSync(join(ROOT,'web','public','glyphs','chars',name))) { out+='<img class="cim" src="/glyphs/chars/'+name+'">'; continue; }
+      if (existsSync(join(ROOT,'web','public','glyphs','chars',name))) { out+='<img class="cch" src="/glyphs/chars/'+name+'">'; continue; }
     }
     out+=escH(ch);
   }
