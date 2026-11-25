@@ -366,6 +366,13 @@ function loadVariantMap() {
   }
 }
 
+// 简体/异体写法 → 原稿字头（variants.json 是一键一正字）
+function variantOf(ch) {
+  const m = loadVariantMap();
+  const v = m[ch];
+  return Array.isArray(v) ? v[0] || '' : v || '';
+}
+
 function photoList(list) {
   return (list || []).map((x) => {
     if (typeof x === 'string') return { file: '/glyphs/photos/' + encodeURIComponent(x), caption: '' };
@@ -737,7 +744,9 @@ function spawnsFrom(ch, claims) {
 }
 
 // 异体或隶变写法（如「以」之于「㠯」）：同属一部，按一级字根看待
-function variantOf(ch, claims, z) {
+// 注意：与一元的 variantOf(ch)（variants.json 简化字映射）不是一回事，勿混用
+function variantRootOf(ch, claims, z) {
+  if (!ch || !Array.isArray(claims) || !z) return null;
   const esc = ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   for (const c of claims) {
     const title = String(c.title || '');
@@ -870,7 +879,7 @@ async function levelOf(ch, direct) {
     };
   }
   if (!direct || !direct.length) return null;
-  const variant = variantOf(ch, direct, z);
+  const variant = variantRootOf(ch, direct, z);
   if (variant) {
     const bv = z.byName[variant];
     return {
