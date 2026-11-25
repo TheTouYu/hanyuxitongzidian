@@ -29,7 +29,7 @@ for fn in sorted(os.listdir(C)):
 # 不让旧落点按文件名序先占。只修 index 的别名数组与 alias-index.json，不动卡。
 ALIAS_PIN={"賓":"𡪛","昰":"是","芦":"蘆","仄":"𠨮","熒":"𤇾","猎":"獵","荧":"𤇾",
  "亘":"亙","凛":"凜","卺":"巹","庙":"廟","灭":"滅","糁":"糝","万":"萬","厘":"釐","备":"備",
- "達":"达","达":"达","𨴉":"𨴔"}
+ "達":"达","达":"达","𨴉":"𨴔","开":"開"}
 for r in rows:
     if not isinstance(r.get("a"),list): continue
     r["a"]=[a for a in r["a"] if not (a in ALIAS_PIN and ALIAS_PIN[a]!=r["c"] and os.path.exists(os.path.join(C,ALIAS_PIN[a]+".json")))]
