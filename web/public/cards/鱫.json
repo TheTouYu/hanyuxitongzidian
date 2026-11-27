@@ -1,42 +1,28 @@
 {
  "char": "鱫",
- "trad": "鱫",
- "simp": "",
+ "head": "鱫",
  "pinyin": "ài",
- "level": 3,
- "parent": "㤅",
  "bus": {
   "num": 5,
   "name": "欠"
  },
+ "level": 3,
+ "parent": "㤅",
  "sections": [
   {
    "key": "shiyi",
-   "label": "释义",
-   "text": "（原稿未收释义）",
-   "cites": []
+   "label": "釋義",
+   "text": "鱫鱜，鯰的成年之魚（日本漢字）。"
   },
   {
    "key": "shengmu",
-   "label": "声母拟态",
-   "text": "零「零聲母」不系：零聲母，緒論七組未列（照實）。",
-   "cites": []
-  },
-  {
-   "key": "suoshu",
-   "label": "所属卷",
-   "text": "",
-   "links": [
-    {
-     "ch": "卷一雞",
-     "label": "卷一雞"
-    }
-   ],
-   "cites": []
+   "label": "聲母擬態",
+   "text": "a「零聲母」不系：魚名，只取其音（照實）。"
   },
   {
    "key": "suoshujuan",
    "label": "所属卷",
+   "text": "",
    "links": [
     {
      "t": "卷",
@@ -45,13 +31,5 @@
     }
    ]
   }
- ],
- "aliases": [
-  "原",
-  "稿",
-  "未",
-  "释",
-  "义"
- ],
- "head": "鱫"
+ ]
 }
