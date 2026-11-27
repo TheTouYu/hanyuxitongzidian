@@ -472,6 +472,11 @@ def check_shengmu(card, ch):
     if tm and tm.group(1) and tm.group(1) not in group:
         iss("E062", "error", ch, "shengmu", "取项「%s」不在组名「%s」里" % (tm.group(1), group),
             "只能取组名两字之一")
+    # 主人 2026-10-29 定、2026-11-27 重申：h「豁活」之「豁」＝開豁、裂開、張開（豁口），
+    # 不得解作「豁然開朗」的心境或「豁然可辨」的清楚（那是引申的评价义）。
+    if "豁活" in group and "豁然" in text:
+        iss("E063", "warn", ch, "shengmu", "「豁活」之「豁」误作「豁然」",
+            "「豁」指豁口（裂開、張開），不是豁然開朗的评价義（見 prompts/exegesis.md §六）")
     py = card.get("pinyin") or ""
     inits = any_pinyin_initial(py)
     if inits and ini not in inits:
