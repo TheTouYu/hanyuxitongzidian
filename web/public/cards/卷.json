@@ -9,23 +9,17 @@
   "num": 460,
   "name": "卷"
  },
- "level": 1,
+ "level": 2,
+ "parent": "𢍏",
+ "rootChain": [
+  "𢍏",
+  "卷"
+ ],
  "sections": [
   {
    "key": "benyi",
    "label": "本義",
    "text": "从卪𢍏聲，指膝蓋彎曲。本義應是指因疲倦而腳無力，所以膝蓋下彎，身子蜷曲。作聲符時，“卪”可省。quán，《說文》：“厀曲也。从卪𢍏聲。居轉切。”"
-  },
-  {
-   "key": "erji",
-   "label": "本部字根",
-   "text": "",
-   "links": [
-    {
-     "ch": "𢍏",
-     "label": "𢍏（𥸭）"
-    }
-   ]
   },
   {
    "key": "zhuanyi",

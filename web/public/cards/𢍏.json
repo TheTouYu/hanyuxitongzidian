@@ -9,17 +9,23 @@
   "num": 460,
   "name": "卷"
  },
- "level": 2,
- "parent": "卷",
- "rootChain": [
-  "卷",
-  "𢍏"
- ],
+ "level": 1,
  "sections": [
   {
    "key": "benyi",
    "label": "本義",
    "text": "象雙手搓一長條物形，上加“八”，表示轉動之意。juàn，《正字通》：“摶也。”"
+  },
+  {
+   "key": "erji",
+   "label": "本部字根",
+   "text": "",
+   "links": [
+    {
+     "ch": "卷",
+     "label": "卷（巻）"
+    }
+   ]
   },
   {
    "key": "zhuanyi",
