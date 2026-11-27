@@ -128,6 +128,8 @@ window.fillYinxi=function(ch){
 };
 const famln=(ch,raw)=>{const it=IDX.find(x=>x.c===ch)||IDX.find(x=>((x.a||[]).includes(ch)));const al='';const lab=ch;return `<a data-c="${esc(ch)}" style="color:#8a5a2b;text-decoration:none;border-bottom:1px dashed #d8b48a;margin:0 2px;cursor:pointer">${esc(lab)+esc(al)}</a>`;};
 window.bindHint=()=>{document.querySelectorAll('#hint a[data-c]').forEach(a=>a.onclick=()=>open(a.dataset.c));};
+// 卷卡＝「卷＋数字」的整卷卡（卷一雞、卷一百壽…）；单选字「卷」本身是𢍏部二级字根，不是卷卡
+const isJuanCard=ch=>/^卷[一二三四五六七八九十百千零〇0-9]/.test(ch||'');
 function render(q){
   const rows=match(q);
   $('#list').innerHTML=rows.map(x=>`<div class="item${x.c===cur?' on':''}" data-c="${x.c}"><b>${x.c}</b><span class="m">${x.p||''}</span><span class="m">${x.ch?(function(){var L='第'+x.ch+'章'+(x.cn?' '+x.cn:'');return (x.cc?('<a href="javascript:void(0)" class="chp" onclick="goCard(\''+x.cc+'\')">'+L+'</a>'):L);}()):(x.b?('第'+x.b+'部'):'')} ${x.ch?'':(x.n||'')}</span></div>`).join('')||'<div class="empty">无结果</div>';
@@ -149,8 +151,8 @@ function render(q){
       if(t.lv===3&&t.pr&&!t.rl){const seenS=new Set([t.c]);const sibs=[];
         IDX.filter(x=>x.pr===t.pr).forEach(x=>{const it=byChar(x.c)||x;const key=it.c;if(seenS.has(key))return;seenS.add(key);sibs.push(key);});
         if(t.pr&&sibs.length){fam='　同族　'+sibs.map(ln).join('');}}
-      if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else if((t.c||'').startsWith('卷')){rel='<span style="margin-left:14px">音系　<span id="famspan"></span></span>';window.fillYinxi(t.c);}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
-      if(!(t.chapter||t.ch) && !(t.c||'').startsWith('卷')) window.fillFam(t.c);
+      if(t.chapter||t.ch){const vols=IDX.filter(x=>x.ch&&x.ch===t.ch&&(x.c||'').indexOf('卷')===0).map(x=>x.c);rel=vols.length?('<span style="margin-left:14px">'+vols.map(ln).join('　')+'</span>'):' ';}else if(isJuanCard(t.c)){rel='<span style="margin-left:14px">音系　<span id="famspan"></span></span>';window.fillYinxi(t.c);}else{rel=`<span style="margin-left:14px">字根　${rl}${fam}<span id="famspan"></span></span>`;}
+      if(!(t.chapter||t.ch) && !isJuanCard(t.c)) window.fillFam(t.c);
     }
   }
   $('#hint').innerHTML=base+rel;
