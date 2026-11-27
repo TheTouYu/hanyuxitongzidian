@@ -40,7 +40,7 @@ CARDS = os.path.join(ROOT, "web", "public", "cards")
 GLYPHS = os.path.join(ROOT, "web", "public", "glyphs")
 PHOTOS = os.path.join(GLYPHS, "photos")
 
-HAN = "\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002a6df"
+HAN = "\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U000323AF"
 HAN_RE = re.compile("[" + HAN + "]")
 SM_RE = re.compile(r"^((?:[a-zA-Z]{1,2}|零)「[^」]+」(取「[^」]」：|不系：)|不取義：)")
 INITIALS = ("zh", "ch", "sh")
@@ -84,7 +84,7 @@ def norm(s):
 
 PINYIN = "a-zA-Z\u0261\u0251\u0115\u012d\u014f\u016dāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜüńňǹḿ"
 HEAD_RE = re.compile(
-    r"^[\u3400-\u9fff\U00020000-\U0002a6df]{1,4}"
+    r"^[\u3400-\u9fff\U00020000-\U000323AF]{1,4}"
     r"(?:[（(][^）)]*[）)])?"
     r"[\s、，,]*[%s]+(?:[\s、，,]+[%s]+)*[\s、，,：:]*" % (PINYIN, PINYIN))
 
@@ -99,7 +99,7 @@ def rowtail(t):
     cut = min([i for i in (t.find("《"), t.find("“"), t.find("「")) if 0 < i <= 12] or [0])
     if cut:
         return t[cut:]
-    m2 = re.match(r"^[\u3400-\u9fff\U00020000-\U0002a6df]{1,4}[：:]?", t)
+    m2 = re.match(r"^[\u3400-\u9fff\U00020000-\U000323AF]{1,4}[：:]?", t)
     return t[m2.end():] if m2 else t
 
 

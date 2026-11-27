@@ -7,7 +7,7 @@
 import json,io,os,re,sys
 sys.stdout.reconfigure(encoding="utf-8",errors="replace")
 C=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),"web","public","cards")
-HAN=re.compile("[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002a6df]")
+HAN=re.compile("[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U000323AF]")
 cards={}
 for f in os.listdir(C):
     if not f.endswith(".json") or f in ("index.json","variants.json"): continue

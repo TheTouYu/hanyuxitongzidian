@@ -17,7 +17,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CARDS = os.path.join(ROOT, 'web', 'public', 'cards')
 SKIP = {'index.json', 'alias-index.json', 'variants.json'}
-HAN = '\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002a6df'
+HAN = '\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U000323AF'
 HEAD_RE = re.compile(r'^([%s]{1,4})(?:[（(]([^）)]*)[）)])?' % HAN)
 
 

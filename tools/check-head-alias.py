@@ -3,7 +3,7 @@ import json,io,os,re,sys
 sys.stdout.reconfigure(encoding="utf-8",errors="replace")
 C=r"D:\系统汉字\web\public\cards"
 files=[f for f in os.listdir(C) if f.endswith(".json") and f not in ("index.json","variants.json")]
-CJK=re.compile(r"[\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\U00020000-\U0002A6DF]")
+CJK=re.compile(r"[\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF\U00020000-\U000323AF]")
 bad=[]
 for f in files:
     p=os.path.join(C,f); d=json.load(io.open(p,encoding="utf-8"))

@@ -21,7 +21,7 @@ def norm(s):
 
 PINYIN = 'a-zA-Z\u0261\u0251\u0115\u012d\u014f\u016dāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜüńňǹḿ'
 HEAD_RE = re.compile(
-    r'^[\u3400-\u9fff\U00020000-\U0002a6df]{1,4}'
+    r'^[\u3400-\u9fff\U00020000-\U000323AF]{1,4}'
     r'(?:[（(][^）)]*[）)])?'
     r'[\s、，,]*[%s]+(?:[\s、，,]+[%s]+)*[\s、，,：:]*' % (PINYIN, PINYIN))
 
@@ -38,7 +38,7 @@ def rowtail(t):
     cut = min([i for i in (t.find('《'), t.find('“'), t.find('「')) if 0 < i <= 12] or [0])
     if cut:
         return t[cut:]
-    m2 = re.match(r'^[\u3400-\u9fff\U00020000-\U0002a6df]{1,4}[：:]?', t)
+    m2 = re.match(r'^[\u3400-\u9fff\U00020000-\U000323AF]{1,4}[：:]?', t)
     return t[m2.end():] if m2 else t
 
 
