@@ -35,6 +35,16 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8088 --no-
 
 隧道地址**每次启动都变**；免费版无 SLA，适合短期演示。长期方案：Cloudflare Named Tunnel + 已备案域名。
 
+### 常驻守护（2026-11-27 装）
+
+计划任务「系统汉字-网页守护」每分钟执行一次 `web\keepalive.ps1`：服务或隧道掉了自动拉起；公网连续 3 次不通（quick tunnel 会被云端回收）就换一条隧道。最新公网地址写在 `web\.cache\当前公网地址.txt`。
+
+- 查状态：`schtasks /query /tn "系统汉字-网页守护" /fo list`
+- 立即巡检一次：`schtasks /run /tn "系统汉字-网页守护"`
+- 日志：`web\.cache\keepalive.log`（只在有动作时写）
+- 临时停用：`schtasks /change /tn "系统汉字-网页守护" /disable`（恢复用 `/enable`）
+- 守护任务在跑时**不要**再双击 `start.cmd`，会多开一条隧道、地址反而乱。
+
 ## 配置（环境变量，都有默认值）
 
 | 变量 | 默认 | 说明 |
