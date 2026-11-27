@@ -48,8 +48,11 @@ def encode(im, fmt, quality):
 
 
 def target_size(w, h, max_h, max_w):
-    """等比缩到 max_h/max_w 之内，只缩不放。"""
-    scale = min(1.0, max_h / float(h), max_w / float(w))
+    """等比缩到 max_h/max_w 之内，只缩不放；max_h<=0 表示不限高，只按宽。"""
+    if max_h and max_h > 0:
+        scale = min(1.0, max_h / float(h), max_w / float(w))
+    else:
+        scale = min(1.0, max_w / float(w))
     if scale >= 1.0:
         return w, h
     return max(1, int(round(w * scale))), max(1, int(round(h * scale)))
@@ -74,11 +77,15 @@ def main():
     ap.add_argument('--quality', type=int, default=85)
     ap.add_argument('--bloated', type=int, default=250 * 1024)
     ap.add_argument('--only', action='append', default=[], help='只处理这些字（目录名），可重复')
+    ap.add_argument('--chars-file', help='从文件逐行读入字（目录名），与 --only 效果相同')
     ap.add_argument('--json')
     ap.add_argument('--limit', type=int, default=0, help='只处理前 N 张（调试）')
     args = ap.parse_args()
 
     only = set(args.only)
+    if args.chars_file:
+        with io.open(args.chars_file, encoding='utf-8') as f:
+            only.update(x.strip() for x in f if x.strip())
     rows = []
     for dirpath, _dirnames, filenames in os.walk(PHOTOS):
         ch = os.path.basename(dirpath)
