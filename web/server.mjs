@@ -90,8 +90,10 @@ function renderCard(ch){
     }
     if (s.groups && s.groups.length){
         if (s.text) h+='<p>'+ext(s.text)+'</p>';
+      /* 唯一一组且组题只是「未分组（原稿未列/归组）」这类占位时，不印组题，只印表 */
+      const _ph = s.groups.length===1 && /^未分[组組]/.test(String((s.groups[0]||{}).title||''));
       for (const g of s.groups){
-        if (g.title) h+='<p><b>'+escH(g.no||'')+ext(g.title)+'</b></p>';
+        if (g.title && !_ph) h+='<p><b>'+escH(g.no||'')+ext(g.title)+'</b></p>';
         if (g.note) h+='<p style="color:#666">'+ext(g.note)+'</p>';
         const head=(String(g.title||'').indexOf('部目')>=0)?['部目','字根','中心义','字族']:(g.header||['字','读音','类属','取义落点']);
         h+='<table><tr>'+head.map(t=>'<th>'+escH(t)+'</th>').join('')+'</tr>';
