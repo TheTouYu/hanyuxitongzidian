@@ -87,8 +87,13 @@ try {
         param([string]$Url)
         if (-not $Url) { return $false }
         $target = $Url.TrimEnd('/') + '/api/health'
-        & $node -e "fetch(process.argv[1],{signal:AbortSignal.timeout(15000)}).then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))" $target 2>$null | Out-Null
-        return ($LASTEXITCODE -eq 0)
+        # 两次尝试：链路偶发抖动不该被当成故障去换隧道（换一次地址就变一次）
+        for ($k = 0; $k -lt 2; $k++) {
+            & $node -e "fetch(process.argv[1],{signal:AbortSignal.timeout(20000)}).then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))" $target 2>$null | Out-Null
+            if ($LASTEXITCODE -eq 0) { return $true }
+            if ($k -eq 0) { Start-Sleep -Seconds 4 }
+        }
+        return $false
     }
 
     $bad = 0
