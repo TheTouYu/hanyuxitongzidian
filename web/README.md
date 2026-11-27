@@ -39,7 +39,7 @@ D:\系统汉字\web\bin\cloudflared.exe tunnel --url http://127.0.0.1:8088 --no-
 
 计划任务「系统汉字-网页守护」每分钟执行一次 `web\keepalive.ps1`：服务或隧道掉了自动拉起；公网连续 3 次不通（quick tunnel 会被云端回收）就换一条隧道。最新公网地址写在 `web\.cache\当前公网地址.txt`。
 
-任务的启动动作是 `wscript.exe //B //NoLogo "D:\系统汉字\web\keepalive-hidden.vbs"`：由这个 VBS 以窗口样式 0 调起 PowerShell，**所以每次巡检不会弹黑色控制台窗口**（2026-11-27 主人要求「不要再弹」）。不要把动作改回直接跑 `powershell.exe`——`-WindowStyle Hidden` 对控制台程序无效，每分钟仍会闪一个 `C:\WINDOWS\System32\WindowsPowerShell\...` 窗口并抢焦点。
+任务的启动动作是 `wscript.exe //B //NoLogo "D:\系统汉字\tools\run-hidden.vbs" "D:\系统汉字\web\keepalive.ps1"`：由通用启动器 `tools\run-hidden.vbs` 以窗口样式 0 调起 PowerShell，**所以每次巡检不会弹黑色控制台窗口**（2026-11-27 主人要求「不要再弹」）。「系统汉字-每日自动推送」（每天 23:30 跑 `tools\git-autopush.ps1`）也走同一个启动器。不要把动作改回直接跑 `powershell.exe`——`-WindowStyle Hidden` 对控制台程序无效，仍会闪一个 `C:\WINDOWS\System32\WindowsPowerShell\...` 窗口并抢焦点。
 
 - 查状态：`schtasks /query /tn "系统汉字-网页守护" /fo list`
 - 立即巡检一次：`schtasks /run /tn "系统汉字-网页守护"`
